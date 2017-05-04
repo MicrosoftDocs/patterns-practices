@@ -1,7 +1,5 @@
 # [Index](index.md)
 
-## [Home](Communicating_Using_Prism_Library_5.md)
-
 ## Conceptual
 
 ### [40_33514441](guide-Prism-4-201011_pandp_40/guide-Prism-4-201011_pandp_40_33514441.md)

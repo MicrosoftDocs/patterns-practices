@@ -1,7 +1,5 @@
 # Pilot program for migrated markdown files
 
-## [Home](Communicating_Using_Prism_Library_5.md)
-
 ## Conceptual
 
 * [guide-Prism-4-201011_pandp_40_33514441.md](guide-Prism-4-201011_pandp_40/guide-Prism-4-201011_pandp_40_33514441.md)
