@@ -1,7 +1,5 @@
 # [Index](index.md)
 
-# Pilot program for migrated markdown files
-
 ## [Home](Communicating_Using_Prism_Library_5.md)
 
 ## Conceptual
