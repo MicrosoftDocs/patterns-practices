@@ -81,7 +81,7 @@ Prism assumes you have hands-on experience with WPF . There are a few important 
 
 ## An Overview of Prism
 
-## Architectural Goals
+### Architectural Goals
 
 
 The guidance is designed to help architects and developers achieve the following objectives:
@@ -92,7 +92,7 @@ The guidance is designed to help architects and developers achieve the following
 -   Increase the quality of applications by abstracting common services that are available to all the teams.
 -   Incrementally integrate new capabilities.
 
-## Prism Design Goals
+### Prism Design Goals
 
 Prism was designed to help you design and build rich, flexible, and easy-to-maintain WPF applications. The Prism Library implements design patterns that embody important architectural design principles, such as separation of concerns and loose coupling. Using the design patterns and capabilities provided by the Prism Library, you can design and build applications using loosely coupled components that can evolve independently but that can be easily and seamlessly integrated into the overall application.
 
@@ -185,7 +185,7 @@ The Prism Library source code includes unit and UI automation tests, as shown in
 </table>
 
 
-## Prism Key Concepts
+### Prism Key Concepts
 
 Prism provides capabilities and design patterns that may be unfamiliar to you, especially if you're new to design patterns and composite application development. This section provides a brief overview of the main concepts behind Prism and defines some of the terminology that you will see used throughout the documentation and code.
 
@@ -229,9 +229,9 @@ Activities for creating a composite application
 
 A typical Prism application leverages most or all of the Prism capabilities and design patterns described earlier to be able to fully realize the benefits of the loose coupling and separation of concerns architectural design principles. However, for this example, the steps required to create a basic Prism application that consists of a single module that defines a single view are described.
 
-**Note:**<br />
-**Prism Library References**<br />
-Most of your projects will need to reference the Prism Library assemblies. Prism provides signed binaries through NuGet packages so that you can use the Visual Studio **Manage NuGet Packages** dialog box to add references to them. You can also include the Prism Library projects in your solution and then use project references to them. The latter has the advantage of being able to use features like Go To Definition to step down into the Prism types, as well as being able to build and sign the Prism Library assemblies with your own strong name or certificate as part of your build process.
+> [!Note]
+> **Prism Library References**
+> Most of your projects will need to reference the Prism Library assemblies. Prism provides signed binaries through NuGet packages so that you can use the Visual Studio **Manage NuGet Packages** dialog box to add references to them. You can also include the Prism Library projects in your solution and then use project references to them. The latter has the advantage of being able to use features like Go To Definition to step down into the Prism types, as well as being able to build and sign the Prism Library assemblies with your own strong name or certificate as part of your build process.
 
 ### Define the Shell
 
