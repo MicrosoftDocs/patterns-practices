@@ -44,7 +44,7 @@ Composite applications are highly suited to a range of client application scenar
 
 Composite application with multiple back-end systems
 
-![](https://msdn.microsoft.com/en-us/Ff921153.BC11DEC1C1BF292F03D855B7FBA4C20F(en-us,PandP.40).png "Composite application with multiple back-end systems")
+![](images/intro-composite-application.png "Composite application with multiple back-end systems")
 
 In this type of application, the user can be presented with a rich and flexible user experience that provides a task-oriented focus over functionality that spans multiple back-end systems, services, and data stores, where each is represented by one or more dedicated modules. The clean separation between the application logic and the UI allows the application to provide a consistent and differentiated appearance across all constituent modules.
 
@@ -52,7 +52,7 @@ Additionally, a composite application can be useful when there are independently
 
 Stock Trader Reference Implementation composite application
 
-![](https://msdn.microsoft.com/en-us/Ff921153.13911B4AB4414472C64CDB0851C8E112(en-us,PandP.40).png "Stock Trader Reference Implementation composite application")
+![](images/intro-stock-trader-reference.png "Stock Trader Reference Implementation composite application")
 
 In this case, the composite application allows the UI to be dynamic composed. This delivers a flexible user experience. For example, it can allow new functionality to be dynamically added to the application at run time, which enables rich end-user customization and extensibility.
 
@@ -206,7 +206,7 @@ Prism provides capabilities and design patterns that may be unfamiliar to you, e
 
 Prism is designed so that you can use any of the preceding capabilities and design patterns individually, or all together, depending on your requirements and your application scenario. You can use the MVVM pattern, modularity, regions, commands, or events in any combination without having to adopt all of them. Of course, if you want to take full advantage of the benefits that separation of concerns and loose coupling offers, you will typically use many of Prism's capabilities and design patterns in conjunction with each other. The following illustration shows a typical Prism application architecture and shows how all the various capabilities of Prism can work together within a multi-module composite application.
 
-![](https://msdn.microsoft.com/en-us/Ff921153.9FAE7F4E76F5EE7BC3715E1887962D87(en-us,PandP.40).png "Typical composite application architecture with the Prism Library")
+![](images/intro-architecture.png "Typical composite application architecture with the Prism Library")
 
 Typical composite application architecture with the Prism Library
 
@@ -223,7 +223,7 @@ Now that you've seen the major capabilities and design patterns that Prism suppo
 
 A Prism application typically consists of a shell project and multiple module projects. The following illustration shows common activities needed when developing a composite application using the Prism Library.
 
-![](https://msdn.microsoft.com/en-us/Ff921153.70A82D6FB938922F980A3BE67C41E234(en-us,PandP.40).png "Activities for creating a composite application")
+![](images/intro-common-activities.png "Activities for creating a composite application")
 
 Activities for creating a composite application
 
@@ -237,7 +237,7 @@ A typical Prism application leverages most or all of the Prism capabilities and 
 
 The application shell provides the basic layout for the application. This layout is defined using regions that modules can use to place views. Views, like shells, can use regions to define discoverable areas that content can be added to, as shown in the following illustration. Shells typically set the appearance for the entire application and contain the styles that are used throughout the application.
 
-![](https://msdn.microsoft.com/en-us/Ff921153.4E783A45205D92C5330A9735FC7ACDFE(en-us,PandP.40).png "Shells, views, and regions")
+![](images/intro-shell-view.png "Shells, views, and regions")
 
 Shells, views, and regions
 
@@ -249,7 +249,7 @@ By default, the bootstrapper logs events using the .NET Framework **Trace** clas
 
 By default, the **UnityBootstrapper** and **MefBootstrapper** enable the Prism Library services. These can be disabled or replaced in your application-specific bootstrapper.
 
-![](https://msdn.microsoft.com/en-us/Ff921153.BE722353F9AB2456FC5CFB1F0C83AA85(en-us,PandP.40).png "Diagram demonstrating connecting to the Prism Library")
+![](images/intro-application-bootstrapper.png "Diagram demonstrating connecting to the Prism Library")
 
 Diagram demonstrating connecting to the Prism Library
 
