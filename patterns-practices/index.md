@@ -7,12 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430869(v=PandP.40)'
 
 # Prism 4.1 - Developer's Guide to Microsoft Prism Library for WPF and Silverlight
 
-[![](https://msdn.microsoft.com/en-us/Gg430869.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Gg430869.download-documentation(en-us,PandP.40).png "Download Prism 4.1 documentation")](http://compositewpf.codeplex.com/releases/view/55580)[![](https://msdn.microsoft.com/en-us/Gg430869.download-nuget-packages(en-us,PandP.40).png "Download Prism 4.1 NuGet packages")](http://www.nuget.org/packages/prism/4.1.0)[![](https://msdn.microsoft.com/en-us/Gg430869.download-source-code(en-us,PandP.40).png "Download Prism 4.1 source code")](http://www.microsoft.com/en-us/download/details.aspx?displaylang=en&id=28950)[![](https://msdn.microsoft.com/en-us/Gg430869.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
-
-[patterns & practices Developer Center](http://www.microsoft.com/practices)
-
-2012
-
 ## Summary
 
 Prism provides guidance designed to help you more easily design and build rich, flexible, and easily maintained Windows Presentation Foundation (WPF) desktop applications, Silverlight Rich Internet Applications (RIAs), and Windows Phone 7 applications. Using design patterns that embody important architectural design principles, such as separation of concerns and loose coupling, Prism helps you to design and build applications using loosely coupled components that can evolve independently but which can be easily and seamlessly integrated into the overall application. These types of applications are known as composite applications.
@@ -47,9 +41,9 @@ Before you can use the Prism Library, the following must be installed:
     -   [Expression Blend 4](http://www.microsoft.com/expression/products/blend_overview.aspx)
     -   [Windows Phone Developer Tools SDK](http://go.microsoft.com/fwlink/?linkid=185968) (for development with the Windows Phone 7)
 
->**Note:** If you want to download the Prism 4.0 – November 2010 release to use with .NET Framework 4.0, Visual Studio 2010, Silverlight 4.0, and Windows Phone 7, go [here for the Prism 4.0 Download](http://www.microsoft.com/en-us/download/details.aspx?displaylang=en&id=4922). The documentation did not change between Prism 4.0 – November 2010 and Prism 4.1 – February 2012.
+**Note:** If you want to download the Prism 4.0 – November 2010 release to use with .NET Framework 4.0, Visual Studio 2010, Silverlight 4.0, and Windows Phone 7, go [here for the Prism 4.0 Download](http://www.microsoft.com/en-us/download/details.aspx?displaylang=en&id=4922). The documentation did not change between Prism 4.0 – November 2010 and Prism 4.1 – February 2012.
 
->**Note:** Although the Silverlight Tools for Visual Studio 2010 are not required, it is recommended that all WPF and Silverlight developers download and use the latest version of the Silverlight Tools for Visual Studio 2010. The WPF and Silverlight Designer for Visual Studio is updated together with the Silverlight developer runtime and SDK. These updates come in the form of new features and bug fixes.
+**Note:** Although the Silverlight Tools for Visual Studio 2010 are not required, it is recommended that all WPF and Silverlight developers download and use the latest version of the Silverlight Tools for Visual Studio 2010. The WPF and Silverlight Designer for Visual Studio is updated together with the Silverlight developer runtime and SDK. These updates come in the form of new features and bug fixes.
 
 If you are authoring WPF and Silverlight projects that share code, you may want to read [Sharing Code Between WPF and Silverlight,](http://msdn.microsoft.com/library/ff921109(pandp.40).aspx) and install the [Project Linker 2.2](http://visualstudiogallery.msdn.microsoft.com/en-us/5e730577-d11c-4f2e-8e2b-cbb87f76c044) tool.
 
@@ -145,10 +139,6 @@ The following table contains Prism download links to help you get started with P
 To provide feedback about this deliverable, or to get help with any problems, visit the [online Community](http://www.codeplex.com/compositewpf) site at CodePlex.
 
 Prism is designed to be reused, customized, and extended. It is not a Microsoft product. Code-based guidance is shipped "as is" and without warranties. Customers can obtain support through Microsoft Support Services for a fee, but the code is considered user-written.
-
-## Future Plans
-
-The next release of Prism is planned for the summer or fall of 2012. To provide feedback, please create and vote on work items in the CodePlex [issue tracker](http://www.codeplex.com/compositewpf/workitem/list.aspx).
 
 ## Related Titles
 
