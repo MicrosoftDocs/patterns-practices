@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405476(v=PandP.40)'
 
 # 13: Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Gg405476.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Gg405476.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Gg405476.download-nuget-packages(en-us,PandP.40).png "Download Prism NuGet packages")](http://aka.ms/prism-wpf-nuget)[![](https://msdn.microsoft.com/en-us/Gg405476.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Gg405476.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 The Prism Library helps architects and developers create composite applications for Windows Presentation Foundation (WPF) using the Model-View-ViewModel pattern. The Prism Library can support those wanting to build a number of application styles with WPF, but it is was primarily constructed for applications composed of discrete, functionally complete pieces that work together to create a single, integrated user interface (UI), often referred to as a composite application. The Prism Library accelerates the development of applications using proven design patterns.
 
@@ -33,7 +32,7 @@ The Prism Library ships signed binaries through NuGet packages to allow you to t
 
 Add references to the Prism binaries in your code by searching NuGet for Prism. The [Prism](http://aka.ms/prism-wpf-prism50nuget) NuGet package is dependent on the [Prism.Composition](http://aka.ms/prism-wpf-prism50compositionnuget), [Prism.Interactivity](http://aka.ms/prism-wpf-prism50interactivitynuget), [Prism.Mvvm](http://aka.ms/prism-wpf-prism50mvvmnuget), and [Prism.PubSubEvents](http://aka.ms/prism-wpf-prism50pubsubeventsnuget) NuGet packages.
 
->**Note:** The [Prism NuGet package](http://aka.ms/prism-wpf-prism50nuget) will download the Prism.Composition, Prism.PubSubEvents, Prism.Mvvm, and Prism.Interactivity NuGet packages.
+**Note:** The [Prism NuGet package](http://aka.ms/prism-wpf-prism50nuget) will download the Prism.Composition, Prism.PubSubEvents, Prism.Mvvm, and Prism.Interactivity NuGet packages.
 
 The source for the Prism library can be downloaded from <http://aka.ms/prism-wpf-code>.
 
@@ -84,4 +83,3 @@ For more information about MEF, see the following:
 For more information about service locator, see the Common Service Locator on CodePlex:
 <http://commonservicelocator.codeplex.com/>.
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)

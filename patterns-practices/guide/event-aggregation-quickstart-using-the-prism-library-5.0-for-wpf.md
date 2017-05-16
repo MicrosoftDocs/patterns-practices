@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921173(v=PandP.40)'
 
 # Event Aggregation QuickStart Using the Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Ff921173.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Ff921173.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Ff921173.download_code_samples(en-us,PandP.40).png "Download Event Aggregation QuickStart")](http://aka.ms/prism-wpf-qseacode)[![](https://msdn.microsoft.com/en-us/Ff921173.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Ff921173.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 The Event Aggregation QuickStart sample demonstrates how to build a composite application that uses the Prism Library’s Event Aggregator service. This service enables you to establish loosely coupled communications between components in your application. The Event Aggregator is a Portable Class Library (PCL) so it can be used on WPF, Windows Phone 8, and Windows Store apps.
 
@@ -174,4 +173,3 @@ To learn about other code samples included with Prism, see the following topics:
 -  [State-Based Navigation QuickStart](https://msdn.microsoft.com/en-us/library/gg405495(v=pandp.40))
 -  [View-Switching Navigation QuickStart](https://msdn.microsoft.com/en-us/library/gg430881(v=pandp.40))
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)

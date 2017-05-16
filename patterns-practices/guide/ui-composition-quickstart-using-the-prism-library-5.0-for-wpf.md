@@ -6,7 +6,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921174(v=PandP.40)'
 ---
 
 # UI Composition QuickStart Using the Prism Library 5.0 for WPF
-[![](https://msdn.microsoft.com/en-us/Ff921174.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Ff921174.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Ff921174.download_code_samples(en-us,PandP.40).png "Download UI Composition QuickStart")](http://aka.ms/prism-wpf-qsuicompositioncode)[![](https://msdn.microsoft.com/en-us/Ff921174.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Ff921174.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 The UI Composition QuickStart sample illustrates how to use both the view discovery and view injection approaches for user interface (UI) composition with the Prism Library for WPF. When using view discovery, modules can register views (or presentation models) against a particular named location. When that location is displayed at run time, any views that have been registered for that location will be automatically created and displayed within it. In the view injection approach, views are programmatically added or removed from a named location by the modules that manage them. To enable this, the application contains a registry of named locations in the UI, and a module can look up one of the locations using the registry and then programmatically inject views into it.
 
@@ -47,7 +46,7 @@ The following artifacts are illustrated in the preceding figure:
 -   **Employee Details view**. This view shows the details about the selected employee.
 -   **Employees Projects view**. This view displays the list of projects an employee is working on.
 
->**Note:** The QuickStart contains TODO comments to help navigate the important concepts in the code. Use the Task List window in Visual Studio to see a list of these important areas of code. Make sure that **Comments** is selected in the dropdown box of the Task List window. If you double-click an item in the list, the code file will open in the appropriate line.
+**Note:** The QuickStart contains TODO comments to help navigate the important concepts in the code. Use the Task List window in Visual Studio to see a list of these important areas of code. Make sure that **Comments** is selected in the dropdown box of the Task List window. If you double-click an item in the list, the code file will open in the appropriate line.
 
 ## Composing the User Interface
 
@@ -116,7 +115,7 @@ The **RegisterViewWithRegion** method of the Prism Library's **RegionViewRegistr
 
 -   From the **RegionViewRegistry** directly.
 -   From a **RegionManager** instance, because this is an extension method of that class for easy access.
-    >**Note:** This extension method is on the <strong>RegionManager</strong> for easy access, but it does not register the view with that instance of the region manager only. When a region with the specified name is created, regardless of which scoped region manager is registered, the view will be pulled into it.
+    **Note:** This extension method is on the <strong>RegionManager</strong> for easy access, but it does not register the view with that instance of the region manager only. When a region with the specified name is created, regardless of which scoped region manager is registered, the view will be pulled into it.
 
 The **RegisterViewWithRegion** method has two overloads:
 
@@ -167,7 +166,7 @@ The value of the **RegionContext** can be changed by simply assigning a new valu
             as Employee;
 ```
 
->**Note:** The **DataContext** property is not used to share context because the **DataContext** property is typically used for storing the view model of the view.
+**Note:** The **DataContext** property is not used to share context because the **DataContext** property is typically used for storing the view model of the view.
 
 ## Acceptance Tests
 

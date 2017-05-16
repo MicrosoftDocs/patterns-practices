@@ -1,6 +1,6 @@
 # [Index](index.md)
 
-## Conceptual
+## Guide
 
 ### [1: Introduction to the Prism Library 5.0 for WPF](guide/1-introduction-to-the-prism-library-5.0-for-wpf.md)
 ### [2: Initializing Applications Using the Prism Library 5.0 for WPF](guide/2-initializing-applications-using-the-prism-library-5.0-for-wpf.md)

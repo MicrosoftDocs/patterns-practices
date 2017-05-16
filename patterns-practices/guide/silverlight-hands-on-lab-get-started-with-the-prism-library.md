@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921096(v=PandP.40)'
 
 # Silverlight Hands-On Lab: Get Started with the Prism Library
 
-[![](https://msdn.microsoft.com/en-us/Ff921096.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Ff921096.download-documentation(en-us,PandP.40).png "Download Prism 4.1 documentation")](http://compositewpf.codeplex.com/releases/view/55580)[![](https://msdn.microsoft.com/en-us/Ff921096.download-nuget-packages(en-us,PandP.40).png "Download Prism 4.1 NuGet packages")](http://www.nuget.org/packages/prism/4.1.0)[![](https://msdn.microsoft.com/en-us/Ff921096.download-source-code(en-us,PandP.40).png "Download Prism 4.1 source code")](http://www.microsoft.com/en-us/download/details.aspx?displaylang=en&id=28950)[![](https://msdn.microsoft.com/en-us/Ff921096.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 In this lab, you will learn the basic concepts of Prism and apply them to create a Prism solution that you can use as the starting point for building a composite Silverlight application. After completing this lab, you will be able to do the following:
 
@@ -40,7 +39,7 @@ This lab includes the following tasks:
 
 The next sections describe each of these tasks.
 
->**Note:** The instructions of this hands-on lab are based on the HelloWorld solution. To open the solution in Visual Studio, run the file Silverlight only - Open QS - Hello World QuickStart.bat.
+**Note:** The instructions of this hands-on lab are based on the HelloWorld solution. To open the solution in Visual Studio, run the file Silverlight only - Open QS - Hello World QuickStart.bat.
 
 ## Task 1: Creating a Solution Using the Prism Library
 
@@ -54,7 +53,7 @@ The following procedure describes how to create a solution with a shell project.
 
 **To create a solution with a shell project**
 
-1.  In Visual Studio, create a new Silverlight application. To do this, point to **New** on the **File** menu, and then click **Project**. In the **Project types** list, click **Silverlight** in the **Visual C\#** node. In the **Templates** box, click **Silverlight Application**. Finally, set the project's name to **HelloWorld.Silverlight**, specify a valid location, and then click **OK**.
+1.  In Visual Studio, create a new Silverlight application. To do this, point to **New** on the **File** menu, and then click **Project**. In the **Project types** list, click **Silverlight** in the **Visual C#** node. In the **Templates** box, click **Silverlight Application**. Finally, set the project's name to **HelloWorld.Silverlight**, specify a valid location, and then click **OK**.
 2.  On the **New Silverlight Application** dialog box, make sure the **Host the Silverlight application in a new Web site** option is selected, and then click **OK**.
 
     Visual Studio will create the HelloWorld.Silverlight project and the HelloWorld.Silverlight.Web ASP.NET web application project, as shown in the following illustration. The first project will be the shell project of your application and the second will be a web project that will host the Silverlight application.
@@ -70,7 +69,7 @@ The following procedure describes how to create a solution with a shell project.
     -   **Microsoft.Practices.ServiceLocation.dll**. This assembly contains the Common Service Locator interface used by Prism to provide an abstraction over Inversion of Control (IoC) containers and service locators; therefore, you can change the container implementation with ease.
 4.  In the HelloWorld.Silverlight project, add references to the assemblies mentioned in the previous step. To do this, right-click the HelloWorld.Silverlight project in Solution Explorer, click **Add Reference**, click **Browse** in the **Add Reference** dialog box, browse to and select the assemblies you want to add, and then click **OK**.
 
->**Note:** For IntelliSense to be available for the Prism Library, the XML documentation files for each of these assemblies must be placed in the same directory as the referenced assemblies.
+**Note:** For IntelliSense to be available for the Prism Library, the XML documentation files for each of these assemblies must be placed in the same directory as the referenced assemblies.
 
 The shell user control is the top-level user control of an application based on the Prism Library. This user control is a place to host different UI components that exposes a way for itself to be dynamically populated by others, and it may also contain common UI elements, such as menus and toolbars. The shell user control sets the overall appearance of the application.
 
@@ -132,7 +131,7 @@ The following procedure describes how to add an **ItemsControl** control to the 
             <ItemsControl Name="MainRegion" Regions:RegionManager.RegionName="MainRegion"/>
     ```
 
->**Note:** When the shell is instantiated, Silverlight resolves the value of the **Regions:RegionManager.RegionName** attached property and invokes a callback in the **RegionManager** class. This callback creates a region and associates it with the **ItemsControl** control.
+**Note:** When the shell is instantiated, Silverlight resolves the value of the **Regions:RegionManager.RegionName** attached property and invokes a callback in the **RegionManager** class. This callback creates a region and associates it with the **ItemsControl** control.
 
 ## Bootstrapper
 
@@ -166,7 +165,7 @@ The following procedure explains how to set up the application's bootstrapper.
                 return Container.Resolve<Shell>();
             }
     ```
->**Note:** You return the shell object to have the **UnityBootstrapper** base class attach an instance of the region manager service to it. The region manager service is a service included in the Prism Library that manages regions in the application. By having a region manager instance attached to the shell window, you can declaratively register regions from XAML code that will exist in the scope of the shell window and child views.
+**Note:** You return the shell object to have the **UnityBootstrapper** base class attach an instance of the region manager service to it. The region manager service is a service included in the Prism Library that manages regions in the application. By having a region manager instance attached to the shell window, you can declaratively register regions from XAML code that will exist in the scope of the shell window and child views.
 
 5.  Override the **InitializeShell** method in the **Bootstrapper** class. In this method, display the shell to the user.
 
@@ -216,7 +215,7 @@ The following procedure describes how to create a module.
 
 **To create a module**
 
-1.  Add a new Silverlight class library project to your solution. To do this, right-click the **HelloWorld.Silverlight** solution node in Solution Explorer, point to **Add**, and then click **New Project**. In the **Project types** list, select **Silverlight** in the **Visual C\#** node. In the **Templates** box, click **Silverlight Class Library**. Finally, set the project's name to HelloWorldModule, and then click **OK**. The following illustration shows your solution.
+1.  Add a new Silverlight class library project to your solution. To do this, right-click the **HelloWorld.Silverlight** solution node in Solution Explorer, point to **Add**, and then click **New Project**. In the **Project types** list, select **Silverlight** in the **Visual C#** node. In the **Templates** box, click **Silverlight Class Library**. Finally, set the project's name to HelloWorldModule, and then click **OK**. The following illustration shows your solution.
 
     ![](https://msdn.microsoft.com/en-us/Ff921096.6DA907DFDC988B772825C9946460C930(en-us,PandP.40).png "Solution with a module named HelloWorldModule")
 
@@ -312,7 +311,7 @@ The Prism Library provides several ways to populate the module catalog. In Silve
             }
     ```
 
-    >**Note:** In this example, the modules are directly referenced by the shell. That is why this example is able to use **typeof(Module)** to add modules to the catalog. But keep in mind that modules whose type is not already available can also be added to the catalog.<br />The **WhenAvailable** initialization mode is the default value if no initialization mode is specified.
+    **Note:** In this example, the modules are directly referenced by the shell. That is why this example is able to use **typeof(Module)** to add modules to the catalog. But keep in mind that modules whose type is not already available can also be added to the catalog.<br />The **WhenAvailable** initialization mode is the default value if no initialization mode is specified.
 
 4.  Build and run the solution. To verify that the **HelloWorldModule** module gets initialized, add a breakpoint to the **Initialize** method of the **HelloWorldModule** class. The breakpoint should be hit when the application starts.
 
@@ -342,7 +341,7 @@ The following procedure describes how to create a view.
 
 3.  Save the file.
 
->**Note:** To keep this hands-on lab simple, the procedure did not explain how to create a view following the Model-View-ViewModel (MVVM) pattern. For more information about the MVVM pattern, see "[Implementing the MVVM Pattern](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40))."
+**Note:** To keep this hands-on lab simple, the procedure did not explain how to create a view following the Model-View-ViewModel (MVVM) pattern. For more information about the MVVM pattern, see "[Implementing the MVVM Pattern](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40))."
 
 ## Region Manager
 
@@ -385,7 +384,7 @@ The region manager service is responsible for maintaining a collection of region
 
     The UI composition approach used in the preceding code is known as view discovery. When using this approach, you specify the views and the region where the views will be loaded. When a region is created, it asks for its associated views and automatically loads them.
 
-    >**Note:** The region's name must match the name defined in the **RegionName** attribute of the region.
+    **Note:** The region's name must match the name defined in the **RegionName** attribute of the region.
 
 6.  Build and run the application. You should see the Hello World window with a "Hello World" message, as shown in the following illustration.
 
@@ -393,7 +392,7 @@ The region manager service is responsible for maintaining a collection of region
 
     Hello World message
 
->**Note:** To open the solution that results from performing the steps in this Hands-on Lab in Visual Studio, run the file Silverlight only - Open QS - Hello World QuickStart.
+**Note:** To open the solution that results from performing the steps in this Hands-on Lab in Visual Studio, run the file Silverlight only - Open QS - Hello World QuickStart.
 
 ## More Information
 
@@ -412,4 +411,3 @@ To learn about other QuickStarts included with Prism, see the following topics i
 -   Event Aggregation QuickStart
 -   [Multi-Targeting QuickStart](https://msdn.microsoft.com/en-us/library/ff921176(v=pandp.40)) (also available on MSDN)
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)

@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430857(vPandP.40)'
 
 # MVVM QuickStart Using the Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Gg430857.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Gg430857.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Gg430857.download_code_samples(en-us,PandP.40).png "Download MVVM QuickStart")](http://aka.ms/prism-wpf-qsmvvmcode)[![](https://msdn.microsoft.com/en-us/Gg430857.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Gg430857.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 The Model-View-ViewModel (MVVM) QuickStart provides sample code that demonstrates how to separate the state and logic that support a view into a separate class named **ViewModel** using the Prism Library. The view model sits on top of the application data model to provide the state or data needed to support the view, insulating the view from needing to know about the full complexity of the application. The view model also encapsulates the interaction logic for the view that does not directly depend on the view elements themselves. This QuickStart provides a tutorial on implementing the MVVM pattern.
 
@@ -57,7 +56,7 @@ Because the first four properties are related to questionnaires, a questionnaire
 
 Note that even things like buttons represent something that needs support from the view model. You can either expose a command, as shown in this QuickStart, or you can expose a method. With the former, you will need a property exposed from the view model with an object that implements the **ICommand** interface; with the latter, you need a behavior that can target a method.
 
->**Note:** For button clicks, you have the choice of commands or behaviors. For more information, see [Command-Enabled Controls vs. Behaviors](https://msdn.microsoft.com/en-us/library/gg405494(vpandp.40)#CommandEnabledControls) in [Advanced MVVM Scenarios](https://msdn.microsoft.com/en-us/library/gg405494(vpandp.40)). In this topic, you will use a command. To do that, you need a command implementation, which does not exist in a form compatible with view models in the .NET Framework. Prism provides the **DelegateCommand** class that is perfect for hooking up views to view models with commands.
+**Note:** For button clicks, you have the choice of commands or behaviors. For more information, see [Command-Enabled Controls vs. Behaviors](https://msdn.microsoft.com/en-us/library/gg405494(vpandp.40)#CommandEnabledControls) in [Advanced MVVM Scenarios](https://msdn.microsoft.com/en-us/library/gg405494(vpandp.40)). In this topic, you will use a command. To do that, you need a command implementation, which does not exist in a form compatible with view models in the .NET Framework. Prism provides the **DelegateCommand** class that is perfect for hooking up views to view models with commands.
 
 As we want to demonstrate parent-child view model composition, the application UI is composed by two views: **MainWindow**, which contains the **Reset** and **Submit** buttons and an instance of the second view, which is the **QuestionnaireView** that includes the questionnaire's questions.
 
@@ -114,7 +113,7 @@ The **INotifyPropertyChanged** interface is implemented on the **BindableBase** 
     }
 ```
 
->**Note:** The view model class typically derives from the **BindableBase** class. In some cases, the model can derive from **BindableBase**, when the property that needs to update the view when its value is changed is stored in the model.
+**Note:** The view model class typically derives from the **BindableBase** class. In some cases, the model can derive from **BindableBase**, when the property that needs to update the view when its value is changed is stored in the model.
 
 To support **INotifyPropertyChanged**, your class needs to derive from the **BindableBase** class, and the property setter needs to call the **SetProperty** method of the **BindableBase** class.
 

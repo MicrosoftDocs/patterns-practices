@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921135(v=PandP.40)'
 
 # 11: Glossary for the Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Ff921135.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Ff921135.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Ff921135.download-nuget-packages(en-us,PandP.40).png "Download Prism NuGet packages")](http://aka.ms/prism-wpf-nuget)[![](https://msdn.microsoft.com/en-us/Ff921135.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Ff921135.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 This glossary includes definitions of important terms that appear in the Prism documentation.
 
@@ -79,4 +78,3 @@ This glossary includes definitions of important terms that appear in the Prism d
 
 **view model location**. Locates and instantiates view models and associating to their respective views typically by using a convention base approach.
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)

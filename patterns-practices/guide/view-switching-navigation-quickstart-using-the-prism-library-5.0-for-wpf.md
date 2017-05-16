@@ -8,7 +8,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430881(v=PandP.40)'
 
 # View-Switching Navigation QuickStart Using the Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Gg430881.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Gg430881.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Gg430881.download_code_samples(en-us,PandP.40).png "Download View-Switching Navigation QuickStart")](http://aka.ms/prism-wpf-qsviewswitchnavcode)[![](https://msdn.microsoft.com/en-us/Gg430881.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Gg430881.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 The View-Switching Navigation QuickStart sample demonstrates how to use the Prism Region Navigation API with the Model-View-ViewModel (MVVM) pattern. The Prism Region Navigation utilizes a Uniform Resource Identifier (URI) approach to switch between views. The QuickStart simulates the navigation of a simple email, contacts, and calendar application. The left region provides navigation to each of the main views. The views demonstrate backward navigation and asynchronous dialog interactions.
 
@@ -38,7 +37,7 @@ The following illustration shows the QuickStart main window.
 
 **View-Switching Navigation QuickStart user interface**
 
->**Note:** The UI of the QuickStart has information icons. You can click them to display or hide information and implementation notes about the different pieces of the QuickStart.
+**Note:** The UI of the QuickStart has information icons. You can click them to display or hide information and implementation notes about the different pieces of the QuickStart.
 
 ## Building and Running the QuickStart
 
@@ -134,7 +133,7 @@ The preceding method notifies the active views that the user is navigating away 
 
 The journal is a stack that maintains the history of the navigated views. It stores the forward, current, and backward history of visited pages. The **RecordNavigation** method is used for registering the current view in the stack. The journal avoids adding a view to the stack if you are internally navigating the journal views.
 
->**Note:** It is important that you carefully define your application Uniform Resource Identifier (URI) structure before you implement navigation.
+**Note:** It is important that you carefully define your application Uniform Resource Identifier (URI) structure before you implement navigation.
 
 ## Using the Prism Library for Navigation
 
@@ -329,7 +328,7 @@ In the Email module, most of the work is performed by the view models. This modu
 
 The **ComposeEmailViewModel** implements the **IConfirmNavigationRequest** interface used for determining whether the view or view model accepts being navigated away from. This interface has the **ConfirmNavigationRequest** method that allows the cancelation of a navigation request. In the compose email screen, the user might start writing a message, but not send it. Therefore, the user should be prompted to confirm that he or she wants to discard the message before navigating away. The following code shows the implementation of the **ConfirmNavigationRequest** method in the **ComposeEmailViewModel** class. The view model uses the **InteractionRequest** to prompt the user, and if the user confirms that he or she wants to navigate away, the navigation continues when **continuationCallback** is passed as a parameter.
 
->**Note:** You must invoke the **continuationCallback** action or you will halt this current navigation request and no further processing of this request will take place.
+**Note:** You must invoke the **continuationCallback** action or you will halt this current navigation request and no further processing of this request will take place.
 
 ```C#
     void IConfirmNavigationRequest.ConfirmNavigationRequest(NavigationContext navigationContext, Action<bool> continuationCallback)
@@ -438,4 +437,3 @@ To learn about other code samples included with Prism, see the following topics:
 -   [UI Composition QuickStart](https://msdn.microsoft.com/en-us/library/ff921174(v=pandp.40))
 -   [Event Aggregation QuickStart](https://msdn.microsoft.com/en-us/library/ff921173(v=pandp.40))
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)

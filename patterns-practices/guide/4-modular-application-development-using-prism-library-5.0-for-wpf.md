@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405479(v=PandP.40)'
 
 # 4: Modular Application Development Using Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Gg405479.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Gg405479.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Gg405479.download-nuget-packages(en-us,PandP.40).png "Download Prism NuGet packages")](http://aka.ms/prism-wpf-nuget)[![](https://msdn.microsoft.com/en-us/Gg405479.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Gg405479.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 A modular application is an application that is divided into a set of loosely coupled functional units (named modules) that can be integrated into a larger application. A client module encapsulates a portion of the application's overall functionality and typically represents a set of related concerns. It can include a collection of related components, such as application features, including user interface and business logic, or pieces of application infrastructure, such as application-level services for logging or authenticating users. Modules are independent of one another but can communicate with each other in a loosely coupled fashion. Using a modular application design makes it easier for you to develop, test, deploy, and maintain your application.
 
@@ -61,7 +60,7 @@ The **IModule** interface has a single method, named **Initialize**, within whic
   }
 ```
 
->**Note:** Instead of using the initialization mechanism provided by the **IModule** interface, the Stock Trader RI uses a declarative, attribute-based approach for registering views, services, and types.
+**Note:** Instead of using the initialization mechanism provided by the **IModule** interface, the Stock Trader RI uses a declarative, attribute-based approach for registering views, services, and types.
 
 ## Module Lifetime
 
@@ -194,7 +193,7 @@ In this example, the **OrdersModule** assembly defines an **OrdersRepository** c
 3. The module loader then loads the **CustomersModule**. The order of module loading can be specified by the dependencies in the module metadata.
 4. The **CustomersModule** constructs an instance of the **CustomerViewModel** by resolving it through the container. The **CustomerViewModel** has a dependency on the **OrdersRepository** (typically based on its interface) and indicates it through constructor or property injection. The container injects that dependency in the construction of the view model based on the type registered by the **OrdersModule**. The net result is an interface reference from the **CustomerViewModel** to the **OrderRepository** without tight coupling between those classes.
 
-  >**Note:** The interface used to expose the **OrderRespository** (**IOrderRepository**) could reside in a separate "shared services" assembly or an "orders services" assembly that only contains the service interfaces and types required to expose those services. This way, there is no hard dependency between the **CustomersModule** and the **OrdersModule**.
+  **Note:** The interface used to expose the **OrderRespository** (**IOrderRepository**) could reside in a separate "shared services" assembly or an "orders services" assembly that only contains the service interfaces and types required to expose those services. This way, there is no hard dependency between the **CustomersModule** and the **OrdersModule**.
 
   Note that both modules have an implicit dependency on the dependency injection container. This dependency is injected during module construction in the module loader.
 
@@ -227,7 +226,7 @@ The modules that an application can load are defined in a module catalog. The Pr
 
 The module catalog is represented by a class that implements the **IModuleCatalog** interface. The module catalog class is created by the application bootstrapper class during application initialization. Prism provides different implementations of module catalog for you to choose from. You can also populate a module catalog from another data source by calling the **AddModule** method or by deriving from **ModuleCatalog** to create a module catalog with customized behavior.
 
->**Note:** Typically, modules in Prism use a dependency injection container and the Common Service Locator to retrieve instances of types that are required for module initialization. Both the Unity and the MEF containers are supported by Prism. Although the overall process of registering, discovering, downloading, and initializing modules is the same, the details can vary based on whether Unity or MEF is being used. The container-specific differences between approaches are explained throughout this topic.
+**Note:** Typically, modules in Prism use a dependency injection container and the Common Service Locator to retrieve instances of types that are required for module initialization. Both the Unity and the MEF containers are supported by Prism. Although the overall process of registering, discovering, downloading, and initializing modules is the same, the details can vary based on whether Unity or MEF is being used. The container-specific differences between approaches are explained throughout this topic.
 
 ### Registering Modules in Code
 
@@ -248,11 +247,11 @@ The most basic module catalog is provided by the **ModuleCatalog** class. You ca
 
 In the preceding example, the modules are directly referenced by the shell, so the module class types are defined and can be used in the call to **AddModule**. That is why this example uses **typeof(Module)** to add modules to the catalog.
 
->**Note:** If your application has a direct reference to the module type, you can add it by type as shown above; otherwise you need to provide the fully qualified type name and the location of the assembly.
+**Note:** If your application has a direct reference to the module type, you can add it by type as shown above; otherwise you need to provide the fully qualified type name and the location of the assembly.
 
 To see another example of defining the module catalog in code, see StockTraderRIBootstrapper.cs in the Stock Trader Reference Implementation (Stock Trader RI).
 
->**Note:** The **Bootstrapper** base class provides the **CreateModuleCatalog** method to assist in the creation of the **ModuleCatalog**. By default, this method creates a **ModuleCatalog** instance, but this method can be overridden in a derived class in order to create different types of module catalog.
+**Note:** The **Bootstrapper** base class provides the **CreateModuleCatalog** method to assist in the creation of the **ModuleCatalog**. By default, this method creates a **ModuleCatalog** instance, but this method can be overridden in a derived class in order to create different types of module catalog.
 
 ### Registering Modules Using a XAML File
 
@@ -318,7 +317,7 @@ The following code example shows a configuration file specifying a module catalo
   </configuration>
 ```
 
->**Note:** Even if your assemblies are in the global assembly cache or in the same folder as the application, the **assemblyFile** attribute is required. The attribute is used to map the **moduleType** to the correct **IModuleTypeLoader** to use.
+**Note:** Even if your assemblies are in the global assembly cache or in the same folder as the application, the **assemblyFile** attribute is required. The attribute is used to map the **moduleType** to the correct **IModuleTypeLoader** to use.
 
 In your application's **Bootstrapper** class, you need to specify that the configuration file is the source for your **ModuleCatalog**. To do this, you use the **ConfigurationModuleCatalog** class, as shown in the following code.
 
@@ -329,7 +328,7 @@ In your application's **Bootstrapper** class, you need to specify that the confi
   }
 ```
 
->**Note:** You can still add modules to a **ConfigurationModuleCatalog** in code. You can use this, for example, to make sure that the modules that your application absolutely needs to function are defined in the catalog.
+**Note:** You can still add modules to a **ConfigurationModuleCatalog** in code. You can use this, for example, to make sure that the modules that your application absolutely needs to function are defined in the catalog.
 
 ### Discovering Modules in a Directory
 
@@ -355,7 +354,7 @@ After the modules load, they are initialized. This means an instance of the modu
 
   For example, the application might raise an event when it is shutting down and your module wants to react to that event. It is also possible that your module must provide some data to an application level service. For example, if you have created a **MenuService** (it is responsible for adding and removing menu items), the module's **Initialize** method is where you would add the correct menu items.
 
-  >**Note:** Module instance lifetime is short-lived by default. After the **Initialize** method is called during the loading process, the reference to the module instance is released. If you do not establish a strong reference chain to the module instance, it will be garbage collected.<br />
+  **Note:** Module instance lifetime is short-lived by default. After the **Initialize** method is called during the loading process, the reference to the module instance is released. If you do not establish a strong reference chain to the module instance, it will be garbage collected.<br />
   This behavior may be problematic to debug if you subscribe to events that hold a weak reference to your module, because your module just &quot;disappears&quot; when the garbage collector runs.
 
 -  **Register types with a dependency injection container**. If you are using a dependency injection pattern such as Unity or MEF, the module may register types for the application or other modules to use. It may also ask the container to resolve an instance of a type it needs.
@@ -483,13 +482,13 @@ To keep the application and modules loosely coupled, the application should avoi
 
 The **LoadModuleCompletedEventArgs** contains an **IsErrorHandled** property. If a module fails to load and the application wants to prevent the **ModuleManager** from logging the error and throwing an exception, it can set this property to **true**.
 
->**Note:** After a module is loaded and initialized, the module assembly cannot be unloaded. The module instance reference will not be held by the Prism libraries, so the module class instance may be garbage collected after initialization is complete.
+**Note:** After a module is loaded and initialized, the module assembly cannot be unloaded. The module instance reference will not be held by the Prism libraries, so the module class instance may be garbage collected after initialization is complete.
 
 ## Modules in MEF
 
 This section only highlights the differences if you choose to use MEF as your dependency injection container.
 
->**Note:** When using MEF, the **MefModuleManager** is used by the **MefBootstrapper**. It extends the **ModuleManager** and implements the **IPartImportsSatisfiedNotification** interface to ensure that the **ModuleCatalog** is updated when new types are imported by MEF.
+**Note:** When using MEF, the **MefModuleManager** is used by the **MefBootstrapper**. It extends the **ModuleManager** and implements the **IPartImportsSatisfiedNotification** interface to ensure that the **ModuleCatalog** is updated when new types are imported by MEF.
 
 ### Registering Modules in Code Using MEF
 
@@ -521,7 +520,7 @@ You can also use MEF to discover and load modules using the **AssemblyCatalog** 
 
 The Prism **MefModuleManager** implementation keeps the MEF **AggregateCatalog** and the Prism **ModuleCatalog** synchronized, thereby allowing Prism to discover modules added via the **ModuleCatalog** or the **AggregateCatalog**.
 
->**Note:** MEF uses **Lazy&lt;T&gt;** extensively to prevent instantiation of exported and imported types until the **Value** property is used.
+**Note:** MEF uses **Lazy&lt;T&gt;** extensively to prevent instantiation of exported and imported types until the **Value** property is used.
 
 ### Discovering Modules in a Directory Using MEF
 
@@ -574,4 +573,3 @@ To learn more about modularity in Prism, see the Modularity with MEF for WPF Qui
 
 For information about the modularity features that can be extended in the Prism Library, see [Modules](https://msdn.microsoft.com/en-us/library/gg430866(v=pandp.40)#Modules) in [Extending the Prism Library](https://msdn.microsoft.com/en-us/library/gg430866(v=pandp.40)).
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)

@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405495(v=PandP.40)'
 
 # State-Based Navigation QuickStart Using the Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Gg405495.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Gg405495.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Gg405495.download_code_samples(en-us,PandP.40).png "Download State-Based Navigation QuickStart")](http://aka.ms/prism-wpf-qsstatebasednavcode)[![](https://msdn.microsoft.com/en-us/Gg405495.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Gg405495.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 The State-Based Navigation QuickStart sample demonstrates navigation using the WPF Visual State Manager (VSM) with the Model-View-ViewModel (MVVM) pattern and the Prism Library. This approach uses the Visual State Manager to define the different application states that the application has, define animations for both the states and the transitions between states; the animations associated to states are active while the state is active for the duration of the specified timeline.
 
@@ -41,7 +40,7 @@ State-Based Navigation QuickStart conceptual view
 
 Notice that the Extensible Application Markup Language (XAML) file contains several states (you can compare states to views) grouped in visual state groups. There can be only one active state in each group. Therefore, the state of the application is a combination of four visual states (one of each visual state group). The different transitions are driven by the view. In the preceding illustration, the conditions represented over each transition arrow are the ones that trigger the transition from one state to another. The definition of the animations associated to the transitions and the behaviors that trigger them is also defined in the view's XAML file.
 
->**Note:** In the QuickStart, there are only two states per **VisualStateGroup**. This is not mandatory; however, if you have more states, the transition logic could be more complex.
+**Note:** In the QuickStart, there are only two states per **VisualStateGroup**. This is not mandatory; however, if you have more states, the transition logic could be more complex.
 
 The following illustration shows states of the application and what visual states are active to create them.
 
@@ -338,4 +337,3 @@ To learn about other code samples included with Prism, see the following topics:
 -  [View-Switching Navigation](https://msdn.microsoft.com/en-us/library/gg430881(v=pandp.40))
 -  [Event Aggregation QuickStart](https://msdn.microsoft.com/en-us/library/ff921173(v=pandp.40))
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)

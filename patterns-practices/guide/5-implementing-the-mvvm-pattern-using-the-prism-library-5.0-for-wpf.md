@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405484(v=PandP.40)'
 
 # 5: Implementing the MVVM Pattern Using the Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Gg405484.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Gg405484.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Gg405484.download-nuget-packages(en-us,PandP.40).png "Download Prism NuGet packages")](http://aka.ms/prism-wpf-nuget)[![](https://msdn.microsoft.com/en-us/Gg405484.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Gg405484.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 The Model-View-ViewModel (MVVM) pattern helps you to cleanly separate the business and presentation logic of your application from its user interface (UI). Maintaining a clean separation between application logic and UI helps to address numerous development and design issues and can make your application much easier to test, maintain, and evolve. It can also greatly improve code re-use opportunities and allows developers and UI designers to more easily collaborate when developing their respective parts of the application.
 
@@ -82,7 +81,7 @@ Typically, the model implements the facilities that make it easy to bind to the 
 
 The model may also support data validation and error reporting through the **IDataErrorInfo** (or **INotifyDataErrorInfo**) interfaces. The **IDataErrorInfo** and **INotifyDataErrorInfo** interfaces allow WPF data binding to be notified when values change so that the UI can be updated. They also enable support for data validation and error reporting in the UI layer.
 
->**Note:**<br/> **What if your model classes do not implement the required interfaces?**<br/> Sometimes you will need to work with model objects that do not implement the **INotifyPropertyChanged**, **INotifyCollectionChanged**, **IDataErrorInfo**, or **INotifyDataErrorInfo** interfaces. In those cases, the view model may need to wrap the model objects and expose the required properties to the view. The values for these properties will be provided directly by the model objects. The view model will implement the required interfaces for the properties it exposes so that the view can easily data bind to them.
+**Note:**<br/> **What if your model classes do not implement the required interfaces?**<br/> Sometimes you will need to work with model objects that do not implement the **INotifyPropertyChanged**, **INotifyCollectionChanged**, **IDataErrorInfo**, or **INotifyDataErrorInfo** interfaces. In those cases, the view model may need to wrap the model objects and expose the required properties to the view. The values for these properties will be provided directly by the model objects. The view model will implement the required interfaces for the properties it exposes so that the view can easily data bind to them.
 
 The model has the following key characteristics:
 
@@ -287,7 +286,7 @@ Commands can be visually represented and invoked in many different ways by the u
 
 The view model can implement commands as either a **Command Method** or as a **Command Object** (an object that implements the **ICommand** interface). In either case, the view's interaction with the command can be defined declaratively without requiring complex event handling code in the view's code-behind file. For example, certain controls in WPF inherently support commands and provide a **Command** property that can be data bound to an **ICommand** object provided by the view model. In other cases, a command behavior can be used to associate a control with a command method or command object provided by the view model.
 
->**Note:** Behaviors are a powerful and flexible extensibility mechanism that can be used to encapsulate interaction logic and behavior that can then be declaratively associated with controls in the view. Command behaviors can be used to associate command objects or methods with controls that were not specifically designed to interact with commands.
+**Note:** Behaviors are a powerful and flexible extensibility mechanism that can be used to encapsulate interaction logic and behavior that can then be declaratively associated with controls in the view. Command behaviors can be used to associate command objects or methods with controls that were not specifically designed to interact with commands.
 
 The following sections describe how to implement commands in your view, as command methods or as command objects, and how to associate them with controls in the view.
 
@@ -443,13 +442,13 @@ To support **INotifyDataErrorInfo**, you will need to maintain a list of errors 
 The MVVM pattern helps you to cleanly separate your UI from your presentation and business logic and data, so implementing the right code in the right class is an important first step in using the MVVM pattern effectively. Managing the interactions between the view and view model classes through data binding and commands are also important aspects to consider. The next step is to consider how the view, view model, and model classes are instantiated and associated with each other at run time.
 
 
->**Note:** Choosing an appropriate strategy to manage this step is especially important if you are using a dependency injection container in your application. The Managed Extensibility Framework (MEF) and the Unity Application Block (Unity) both provide the ability to specify dependencies between the view, view model, and model classes and to have them fulfilled by the container. For more advanced scenarios, see [Advanced MVVM Scenarios](https://msdn.microsoft.com/en-us/library/gg405494(v=pandp.40)).
+**Note:** Choosing an appropriate strategy to manage this step is especially important if you are using a dependency injection container in your application. The Managed Extensibility Framework (MEF) and the Unity Application Block (Unity) both provide the ability to specify dependencies between the view, view model, and model classes and to have them fulfilled by the container. For more advanced scenarios, see [Advanced MVVM Scenarios](https://msdn.microsoft.com/en-us/library/gg405494(v=pandp.40)).
 
 Typically, there is a one-to-one relationship between a view and its view model. The view and view model are loosely coupled via the view's data context property; this allows visual elements and behaviors in the view to be data bound to properties, commands, and methods on the view model. You will need to decide how to manage the instantiation of the view and view model classes and their association via the **DataContext** property at run time.
 
 Care must also be taken when constructing and connecting the view and view model to ensure that loose coupling is maintained. As noted in the previous section, the view model should ideally not depend on any specific implementation of a view. Similarly, the view should ideally not depend on any specific implementation of a view model.
 
->**Note:** However, it should be noted that the view will *implicitly* depend on specific properties, commands, and methods on the view model because of the data bindings it defines. If the view model does not implement the required property, command, or method, a run-time exception will be generated by the data binding engine, which will be displayed in the Visual Studio output window during debugging.
+**Note:** However, it should be noted that the view will *implicitly* depend on specific properties, commands, and methods on the view model because of the data bindings it defines. If the view model does not implement the required property, command, or method, a run-time exception will be generated by the data binding engine, which will be displayed in the Visual Studio output window during debugging.
 
 There are multiple ways the view and the view model can be constructed and associated at run time. The most appropriate approach for your application will largely depend on whether you create the view or the view model first, and whether you do this programmatically or declaratively. The following sections describe common ways in which the view and view model classes can be created and associated with each other at run time.
 
@@ -564,6 +563,5 @@ For more information about Unity, see [Unity Application Block](http://www.msdn.
 
 For more information about **DelegateCommand** and **CompositeCommand**, see [Communicating Between Loosely Coupled Components](https://msdn.microsoft.com/en-us/library/ff921122(v=pandp.40)).
 
-For more information about using MVVM in Windows Store Apps see [Using the Model-View-ViewModel (MVVM) pattern in a Windows Store business app using C\#, XAML, and Prism](http://msdn.microsoft.com/en-us/library/windows/apps/xx130657.aspx).
+For more information about using MVVM in Windows Store Apps see [Using the Model-View-ViewModel (MVVM) pattern in a Windows Store business app using C#, XAML, and Prism](http://msdn.microsoft.com/en-us/library/windows/apps/xx130657.aspx).
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)

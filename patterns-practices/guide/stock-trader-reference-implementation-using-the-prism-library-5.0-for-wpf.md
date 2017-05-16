@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921074(v=PandP.40)'
 
 # Stock Trader Reference Implementation Using the Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Ff921074.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Ff921074.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Ff921074.download_code_samples(en-us,PandP.40).png "Download Stock Trader RI")](http://aka.ms/prism-wpf-ricode)[![](https://msdn.microsoft.com/en-us/Ff921074.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Ff921074.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 Prism includes a sample called a reference implementation, which is a composite application that is based on a real-world scenario. This intentionally incomplete application illustrates the composite application baseline architecture. Within the application, you will see solutions for common, and recurrent, challenges that developers face when creating composite applications. We solve many of the challenges using design patterns such as Model-View-ViewModel (MVVM), Composite View, Event Aggregator, Plug-In, and Dependency Injection that embody important architectural design principles such as separation of concerns and loose coupling. Prism helps you to create a modular application design and build applications using loosely coupled components that can evolve independently but that can be easily and seamlessly integrated into the overall application.
 
@@ -252,7 +251,7 @@ The modules are loosely coupled. This means they do not directly reference each 
 
 This is possible through a set of application services that the modules have access to. Modules do not directly reference one another to access these services. In the Stock Trader RI, a dependency injection container (referred to as the container) injects these services into modules during their initialization (the Stock Trader RI uses the MEF container).
 
->**Note:** For an introduction to dependency injection and Inversion of Control, see the article, [Loosen Up - Tame Your Software Dependencies for More Flexible Apps](http://msdn.microsoft.com/en-us/magazine/cc337885.aspx), by James Kovacs in *MSDN Magazine*.
+**Note:** For an introduction to dependency injection and Inversion of Control, see the article, [Loosen Up - Tame Your Software Dependencies for More Flexible Apps](http://msdn.microsoft.com/en-us/magazine/cc337885.aspx), by James Kovacs in *MSDN Magazine*.
 
 ## Bootstrapping the Application
 
@@ -291,7 +290,7 @@ The **StockTraderRIBootstrapper** class configures the **AggregateCatalog** in c
 
 After the container is populated, the types contained in each module assembly are available.
 
->**Note:** Each module class (for example, **NewsModule**) in the reference implementation is empty. The use of MEF allows for discovery of types using declarative attributes, so there is not any work to be done during module initialization. If a module needed to do additional work when it is loaded, the module class should then implement **IModule** and perform this initialization in the **Initialize** method. The **ModuleManager** would then discover, load, and initialize that module.
+**Note:** Each module class (for example, **NewsModule**) in the reference implementation is empty. The use of MEF allows for discovery of types using declarative attributes, so there is not any work to be done during module initialization. If a module needed to do additional work when it is loaded, the module class should then implement **IModule** and perform this initialization in the **Initialize** method. The **ModuleManager** would then discover, load, and initialize that module.
 
 During this initialization process, the container will inject instances into types to resolve their dependencies. The following code shows how the news feed service, region manager, and event aggregator services are injected into the **ArticleViewModel** constructor.
 
@@ -315,7 +314,7 @@ In addition, other types, such as services, are available so they can be accesse
 
 A view is any content that a module contributes to the UI. In the Stock Trader RI, views are discovered at run time and added to regions. Regions are classes associated with a control container, such as **ContentControl** or **TabControl**.
 
->**Note:** In the Stock Trader RI, views are usually user controls. However, data templates in WPF are an alternative approach to rendering a view.
+**Note:** In the Stock Trader RI, views are usually user controls. However, data templates in WPF are an alternative approach to rendering a view.
 
 ### View Registration in the Container
 
@@ -386,7 +385,7 @@ For more information about view discovery, see [Composing the User Interface](ht
 
 Views can communicate with presenters and services in a loosely coupled fashion by using commands. The **Add To Watch List** control, as shown in the following illustration, uses the **AddWatchCommand**, which is a **DelegateCommand**, to notify the **WatchListService** whenever a new watch item is added.
 
->**Note:** The **DelegateCommand** is one kind of command that the Prism Library provides. For more information about commands in Prism, see [Commands](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40)#Commands) in [Implementing the MVVM Pattern](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40)).
+**Note:** The **DelegateCommand** is one kind of command that the Prism Library provides. For more information about commands in Prism, see [Commands](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40)#Commands) in [Implementing the MVVM Pattern](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40)).
 
 ![](https://msdn.microsoft.com/en-us/Ff921074.64F005B3B303B8127ABD05377FB1CA4C(en-us,PandP.40).png "Add To Watch List control")
 
@@ -474,7 +473,7 @@ The **ArticleViewModel** in the News module listens to the event to display the 
   eventAggregator.GetEvent<TickerSymbolSelectedEvent>().Subscribe(OnTickerSymbolSelected, ThreadOption.UIThread);
 ```
 
->**Note:** The notification of the event is on the UI thread to safely update the UI and avoid a WPF exception.
+**Note:** The notification of the event is on the UI thread to safely update the UI and avoid a WPF exception.
 
 ## Technical Challenges
 
@@ -583,4 +582,3 @@ To learn about other code samples included with Prism, see the following topics:
 -  [View-Switching Navigation QuickStart](https://msdn.microsoft.com/en-us/library/gg430881(v=pandp.40))
 -  [Event Aggregation QuickStart](https://msdn.microsoft.com/en-us/library/ff921173(v=pandp.40))
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)

@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921082(v=PandP.40)'
 
 # Commanding QuickStart Using the Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Ff921082.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Ff921082.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Ff921082.download_code_samples(en-us,PandP.40).png "Download Commanding QuickStart")](http://aka.ms/prism-wpf-qscommandingcode)[![](https://msdn.microsoft.com/en-us/Ff921082.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Ff921082.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 The Commanding QuickStart sample demonstrates how to build a Windows Presentation Foundation (WPF) application that uses delegate and composite commands provided by the Prism Library to handle UI actions in a decoupled way. This is useful when implementing the Model-View-ViewModel (MVVM) pattern. The Prism Library also provides an implementation of the ICommand interface.
 
@@ -37,7 +36,7 @@ The QuickStart highlights the key implementation details of an application that 
 
 Commanding QuickStart conceptual view
 
->**Note:** The QuickStart contains a number of TODO comments to help navigate the important concepts in the code. Use the Task List window in Visual Studio to see a list of these important areas of code. Make sure you select **Comments** in the dropdown box. If you double-click an item in the list, the code file will open in the appropriate line.
+**Note:** The QuickStart contains a number of TODO comments to help navigate the important concepts in the code. Use the Task List window in Visual Studio to see a list of these important areas of code. Make sure you select **Comments** in the dropdown box. If you double-click an item in the list, the code file will open in the appropriate line.
 
 ## Delegate Commands
 
@@ -225,4 +224,4 @@ To learn about other code samples included with Prism, see the following topics:
 -  [View-Switching Navigation QuickStart](https://msdn.microsoft.com/en-us/library/gg430881(v=pandp.40))
 -  [Event Aggregation QuickStart](https://msdn.microsoft.com/en-us/library/ff921173(v=pandp.40))
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)
+

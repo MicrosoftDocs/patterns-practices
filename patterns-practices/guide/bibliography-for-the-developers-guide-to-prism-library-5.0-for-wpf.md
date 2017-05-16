@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405487(v=PandP.40)'
 
 # Bibliography for the Developer's Guide to Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Gg405487.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Gg405487.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Gg405487.download-nuget-packages(en-us,PandP.40).png "Download Prism NuGet packages")](http://aka.ms/prism-wpf-nuget)[![](https://msdn.microsoft.com/en-us/Gg405487.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Gg405487.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 ## General Links
 
@@ -20,7 +19,7 @@ If you have comments on this guide, visit the Prism community site at [http://ww
 Prism assumes you have hands-on experience with WPF. If you need general information about WPF see the following resources:
 
 -  [Windows Presentation Foundation](http://msdn2.microsoft.com/en-us/library/ms754130.aspx) on MSDN.
--  MacDonald, Matthew. *Pro WPF in C\# 2010: Windows Presentation Foundation in .NET 4*, Apress, 2010.
+-  MacDonald, Matthew. *Pro WPF in C# 2010: Windows Presentation Foundation in .NET 4*, Apress, 2010.
 -  Nathan, Adam. *WPF 4 Unleashed*. Sams Publishing, 2010.
 
 ## 2: Initializing Prism Applications
@@ -64,7 +63,7 @@ For more information about Unity, see [Unity Application Block](https://msdn.mic
 
 For more information about **DelegateCommand** and **CompositeCommand**, see [Communicating Between Loosely Coupled Components](https://msdn.microsoft.com/en-us/library/ff921122(v=pandp.40)).
 
-For more information about using MVVM in Windows Store Apps see [Using the Model-View-ViewModel (MVVM) pattern in a Windows Store business app using C\#, XAML, and Prism](https://msdn.microsoft.com/en-us/library/windows/apps/xx130657.aspx).
+For more information about using MVVM in Windows Store Apps see [Using the Model-View-ViewModel (MVVM) pattern in a Windows Store business app using C#, XAML, and Prism](https://msdn.microsoft.com/en-us/library/windows/apps/xx130657.aspx).
 
 ## 6: Advanced MVVM Scenarios
 
@@ -188,4 +187,3 @@ For more information about MEF, see the following:
 
 For more information about service locator, see the [Common Service Locator](http://commonservicelocator.codeplex.com/) on CodePlex.
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)

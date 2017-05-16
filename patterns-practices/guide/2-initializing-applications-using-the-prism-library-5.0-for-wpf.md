@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430868(v=PandP.40)'
 
 # 2: Initializing Applications Using the Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Gg430868.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Gg430868.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Gg430868.download-nuget-packages(en-us,PandP.40).png "Download Prism NuGet packages")](http://aka.ms/prism-wpf-nuget)[![](https://msdn.microsoft.com/en-us/Gg430868.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Gg430868.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 This topic addresses what needs to happen to get a Prism for WPF application up and running. A Prism application requires registration and configuration during the application startup process—this is known as bootstrapping the application. The Prism bootstrapping process includes creating and configuring a module catalog, creating a dependency injection container such as Unity, configuring default region adapter for UI composition, creating and initializing the shell view, and initializing modules.
 
@@ -67,7 +66,7 @@ An example of using the **ServiceLocator** to resolve the shell object is shown 
     }
 ```
 
->**Note:** You will often see the **ServiceLocator** being used to resolve instances of types instead of the specific dependency injection container. The **ServiceLocator** is implemented by calling the container, so it makes a good choice for container agnostic code. You can also directly reference and use the container instead of the **ServiceLocator**.
+**Note:** You will often see the **ServiceLocator** being used to resolve instances of types instead of the specific dependency injection container. The **ServiceLocator** is implemented by calling the container, so it makes a good choice for container agnostic code. You can also directly reference and use the container instead of the **ServiceLocator**.
 
 ### Implementing the InitializeShell Method
 
@@ -204,7 +203,7 @@ The **UnityBootstrapper** class's **CreateContainer** method simply creates and 
 
 After the container is created, it probably needs to be configured for your application. The **ConfigureContainer** implementation in the **UnityBootstrapper** registers a number of core Prism services by default, as shown here.
 
->**Note:** An example of this is when a module registers module-level services in its **Initialize** method.
+**Note:** An example of this is when a module registers module-level services in its **Initialize** method.
 
 ```C#
     // UnityBootstrapper.cs
@@ -229,7 +228,7 @@ After the container is created, it probably needs to be configured for your appl
 
 The bootstrapper's **RegisterTypeIfMissing** method determines whether a service has already been registered—it will not register it twice. This allows you to override the default registration through configuration. You can also turn off registering any services by default; to do this, use the overloaded **Bootstrapper.Run** method passing in **false**. You can also override the **ConfigureContainer** method and disable services that you do not want to use, such as the event aggregator.
 
->**Note:** If you turn off the default registration, you will need to manually register required services.
+**Note:** If you turn off the default registration, you will need to manually register required services.
 
 To extend the default behavior of **ConfigureContainer**, simply add an override to your application's bootstrapper and optionally call the base implementation, as shown in the following code from the **QuickStartBootstrapper** from the Modularity for WPF (with Unity) QuickStart. This implementation calls the base class's implementation, registers the **ModuleTracker** type as the concrete implementation of **IModuleTracker**, and registers the **callbackLogger** as a singleton instance of **CallbackLogger** with Unity.
 
@@ -264,7 +263,7 @@ After the container is created, it needs to be configured for your application. 
     }
 ```
 
->**Note:** In the **MefBootstrapper**, the core services of Prism are added to the container as singletons so they can be located through the container throughout the application.
+**Note:** In the **MefBootstrapper**, the core services of Prism are added to the container as singletons so they can be located through the container throughout the application.
 
 In addition to providing the **CreateContainer** and **ConfigureContainer** methods, the **MefBootstrapper** also provides two methods to create and configure the **AggregateCatalog** used by MEF. The **CreateAggregateCatalog** method simply creates and returns an **AggregateCatalog** object. Like the other methods in the **MefBootstrapper**, **CreateAggregateCatalog** is virtual and can be overridden if necessary.
 
@@ -294,4 +293,3 @@ The **ConfigureAggregateCatalog** method allows you to add type registrations to
 
 For more information about MEF, **AggregateCatalog**, and **AssemblyCatalog**, see [Managed Extensibility Framework Overview](http://msdn.microsoft.com/en-us/library/dd460648.aspx) on MSDN.
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)

@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921176(v=PandP.40)'
 
 # Multi-Targeting QuickStart
 
-[![](https://msdn.microsoft.com/en-us/Ff921176.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Ff921176.download-documentation(en-us,PandP.40).png "Download Prism 4.1 documentation")](http://compositewpf.codeplex.com/releases/view/55580)[![](https://msdn.microsoft.com/en-us/Ff921176.download-nuget-packages(en-us,PandP.40).png "Download Prism 4.1 NuGet packages")](http://www.nuget.org/packages/prism/4.1.0)[![](https://msdn.microsoft.com/en-us/Ff921176.download-source-code(en-us,PandP.40).png "Download Prism 4.1 source code")](http://www.microsoft.com/en-us/download/details.aspx?displaylang=en&id=28950)[![](https://msdn.microsoft.com/en-us/Ff921176.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 The Multi-Targeting QuickStart demonstrates the structure of a project created to multi-target Windows Presentation Foundation (WPF) and Silverlight environments through source-code sharing. It provides a WPF desktop experience and a Silverlight Rich Internet Application (RIA) experience.
 
@@ -98,7 +97,7 @@ The remaining partial class is environment-specific; consequently, the Silverlig
 
 The approach of splitting the implementation of a service over two partial classes (one for Silverlight and one for WPF) can be used to employ different coding strategies in WPF and Silverlight environments. Note that the service interacts with the rest of the core application through a common interface, so this technique is a mechanism to factor implementation level details into files that are only compiled for the intended environment.
 
->**Note:** This technique is useful for minor scale implementation differences between WPF and Silverlight. There are some scenarios where the differences between both environments are considerable enough to apply the aforementioned approach. For more information about multi-targeting considerations, see [Multi-Targeted Considerations](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)#MultiTargetedConsiderations)" in [Sharing Code Between Silverlight and WPF](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)).
+**Note:** This technique is useful for minor scale implementation differences between WPF and Silverlight. There are some scenarios where the differences between both environments are considerable enough to apply the aforementioned approach. For more information about multi-targeting considerations, see [Multi-Targeted Considerations](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)#MultiTargetedConsiderations)" in [Sharing Code Between Silverlight and WPF](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)).
 
 ## Shared Files
 
@@ -115,7 +114,7 @@ The shared (linked) files are shown in the following figure.
 
 Linked files shared between Silverlight and WPF projects
 
->**Note:** For more information about the elements that can be multi-targeted, see [Multi-Targeted Elements](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)#MultiTargetedElements) in [Sharing Code Between Silverlight and WPF](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)).
+**Note:** For more information about the elements that can be multi-targeted, see [Multi-Targeted Elements](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)#MultiTargetedElements) in [Sharing Code Between Silverlight and WPF](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)).
 
 ## Acceptance Tests
 
@@ -151,4 +150,3 @@ To learn about other QuickStarts included with Prism, see the following topics i
 -  View-Switching Navigation QuickStart
 -  Event Aggregation QuickStart
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)

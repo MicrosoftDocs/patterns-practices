@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405483(v=PandP.40)'
 
 # Prism 4.1 Readme
 
-[![](https://msdn.microsoft.com/en-us/Gg405483.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Gg405483.download-documentation(en-us,PandP.40).png "Download Prism 4.1 documentation")](http://compositewpf.codeplex.com/releases/view/55580)[![](https://msdn.microsoft.com/en-us/Gg405483.download-nuget-packages(en-us,PandP.40).png "Download Prism 4.1 NuGet packages")](http://www.nuget.org/packages/prism/4.1.0)[![](https://msdn.microsoft.com/en-us/Gg405483.download-source-code(en-us,PandP.40).png "Download Prism 4.1 source code")](http://www.microsoft.com/en-us/download/details.aspx?displaylang=en&id=28950)[![](https://msdn.microsoft.com/en-us/Gg405483.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 ## What's New in This Release
 
@@ -80,13 +79,13 @@ Before you can use the Prism Library, the following must be installed:
 -  Microsoft .NET Framework 4.0 (installed with Visual Studio 2010)
 -  Microsoft Visual Studio 2010 Professional, Premium, or Ultimate editions
 
->**Note:** Visual Studio 2010 Express Edition can be used to develop Prism applications using the Prism Library.
+**Note:** Visual Studio 2010 Express Edition can be used to develop Prism applications using the Prism Library.
 
 If you are developing Silverlight applications, the following must be installed:
 
 -  [Microsoft Silverlight 4 Tools for Visual Studio 2010](http://go.microsoft.com/fwlink/?linkid=177428) (required for Silverlight development; includes the developer Silverlight runtime)
 
->**Note:** Although the Silverlight Tools for Visual Studio 2010 are not required, it is recommended for all WPF and Silverlight developers to download and use the latest version of the Silverlight Tools for Visual Studio 2010.<br />
+**Note:** Although the Silverlight Tools for Visual Studio 2010 are not required, it is recommended for all WPF and Silverlight developers to download and use the latest version of the Silverlight Tools for Visual Studio 2010.<br />
 The WPF and Silverlight Designer for Visual Studio is updated together with the Silverlight developer runtime and software development kit (SDK), which are included in the download. These updates come in the form of new features and bug fixes.
 
 Optionally, you should consider also installing the following:
@@ -108,7 +107,7 @@ Registering the Prism Library with Visual Studio is not required, but for many d
 
 To register the Prism Library binaries, launch the RegisterPrismBinaries.bat batch file located in the folder where you extracted Prism. This batch file creates a temporary .reg file with the information required to register the Desktop, Silverlight, and Phone binaries and uses it to update the registry. Because updating the registry is a privileged operation, a User Account Control (UAC) prompt will appear if you do not have elevated privileges. For additional information about UAC, see [What is User Account Control](http://windows.microsoft.com/en-us/windows7/what-is-user-account-control).
 
->**Note:** At most, one copy of the binaries can be registered using the script; if multiple copies of the Prism Library are registered, only the binaries for the last registered copy will be available in Visual Studio.
+**Note:** At most, one copy of the binaries can be registered using the script; if multiple copies of the Prism Library are registered, only the binaries for the last registered copy will be available in Visual Studio.
 
 ## NuGet Packages
 
@@ -261,7 +260,7 @@ For more information about the State-Based Navigation QuickStart, see "State-Bas
 
 The View-Switching Navigation QuickStart demonstrates using region navigation APIs. The QuickStart is a simple email, contacts, and calendar application. The left region provides navigation to each of the views. The views demonstrate navigating backwards and asynchronous dialog interactions.
 
->**Note:** This QuickStart does not demonstrate integrating region navigation with the native Silverlight navigation APIs. However, the Silverlight navigation APIs can be used with the Prism region navigation APIs.
+**Note:** This QuickStart does not demonstrate integrating region navigation with the native Silverlight navigation APIs. However, the Silverlight navigation APIs can be used with the Prism region navigation APIs.
 
 **To run the View-Switching Navigation QuickStart:**
 
@@ -390,7 +389,7 @@ The purpose of the UpdatePrismBinaries.bat batch file is to help you automate re
 As part of shipping the Prism Library as signed binaries, the Prism Library projects were removed from the solutions of all QuickStarts and reference implementation projects. This was to make sure that the binaries were not accidentally overwritten when a solution was compiled. If you are a developer accustomed to stepping through the Prism Library code as you build your application, there are a couple of options:
 
 -  **Add the Prism Library Projects back in**. To do this, right-click the solution, point to **Add**, and then click **Existing project**. Select the Prism Library projects. Then, to prevent inadvertently building these, click **Configuration Manager** on the **Build** menu, and then clear the **Build** check box for all Prism Library projects in both the debug and release configurations.
--  **Set a breakpoint and step in**. Set a break point in your application's bootstrapper, and then step in to a method within the base class (F11 is the typical C\# keyboard shortcut for this). You may be asked to locate the Prism Library source code, but often, the full program database (PDB) file is available and the file will simply open. You may set breakpoints in any Prism Library project by opening the file and setting the breakpoint.
+-  **Set a breakpoint and step in**. Set a break point in your application's bootstrapper, and then step in to a method within the base class (F11 is the typical C# keyboard shortcut for this). You may be asked to locate the Prism Library source code, but often, the full program database (PDB) file is available and the file will simply open. You may set breakpoints in any Prism Library project by opening the file and setting the breakpoint.
 
 ## Prism Library and Code Access Security
 

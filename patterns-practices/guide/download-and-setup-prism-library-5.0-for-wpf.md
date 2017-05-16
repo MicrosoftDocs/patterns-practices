@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405471(v=PandP.40)'
 
 # Download and Setup Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Gg405471.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Gg405471.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Gg405471.download-nuget-packages(en-us,PandP.40).png "Download Prism NuGet packages")](http://aka.ms/prism-wpf-nuget)[![](https://msdn.microsoft.com/en-us/Gg405471.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Gg405471.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 Learn what’s included in Prism 5.0 including the documentation, WPF code samples, and libraries. Additionally find out where to get the library and sample source code and the library NuGet packages.
 
@@ -92,7 +91,7 @@ Before you can use the Prism Library, the following must be installed:
 -   Microsoft .NET Framework 4.5 (installed with Visual Studio 2012) or Microsoft .NET Framework 4.51.
 -   Microsoft Visual Studio 2012 or 2013 Professional, Premium, or Ultimate editions.
 
->**Note:** Visual Studio 2013 Express Edition can be used to develop Prism applications using the Prism Library.
+**Note:** Visual Studio 2013 Express Edition can be used to develop Prism applications using the Prism Library.
 
 Optionally, you should consider also installing the following:
 
@@ -106,7 +105,7 @@ You can download the source code for the Prism library, the reference implementa
 
 To install the Prism assets, right-click the exe file or zip file, and then click **Run as administrator**. This will extract the source code into the folder of your choice.
 
->**Note:** The Stock Trader Reference Implementation and the QuickStarts can also be downloaded separately. The table below provides links to the source code for each.
+**Note:** The Stock Trader Reference Implementation and the QuickStarts can also be downloaded separately. The table below provides links to the source code for each.
 
 <table>
 <colgroup>
@@ -193,7 +192,7 @@ The reference implementation and QuickStarts use NuGet references to the Prism l
 As part of shipping the Prism Library as NuGet packages, the Prism Library projects were removed from the solutions of all QuickStarts and reference implementation projects. If you are a developer accustomed to stepping through the Prism Library code as you build your application, there are a couple of options:
 
 -   **Add the Prism Library Projects back in**. To do this, right-click the solution, point to **Add**, and then click **Existing project**. Select the Prism Library projects. Then, to prevent inadvertently building these, click **Configuration Manager** on the **Build** menu, and then clear the **Build** check box for all Prism Library projects in both the debug and release configurations.
--   **Set a breakpoint and step in**. Set a break point in your application's bootstrapper, and then step in to a method within the base class (F11 is the typical C\# keyboard shortcut for this). You may be asked to locate the Prism Library source code, but often, the full program database (PDB) file is available and the file will simply open. You may set breakpoints in any Prism Library project by opening the file and setting the breakpoint.
+-   **Set a breakpoint and step in**. Set a break point in your application's bootstrapper, and then step in to a method within the base class (F11 is the typical C# keyboard shortcut for this). You may be asked to locate the Prism Library source code, but often, the full program database (PDB) file is available and the file will simply open. You may set breakpoints in any Prism Library project by opening the file and setting the breakpoint.
 
 ## Related Downloads
 

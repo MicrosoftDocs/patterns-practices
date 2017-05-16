@@ -17,13 +17,13 @@ November 2010
 
 Prism provides guidance designed to help you more easily design and build rich, flexible, and easy to maintain Windows Presentation Foundation (WPF) desktop applications and Silverlight Rich Internet Applications (RIAs) and Windows Phone 7 applications. Using design patterns that embody important architectural design principles, such as separation of concerns and loose coupling, Prism helps you to design and build applications using loosely coupled components that can evolve independently but which can be easily and seamlessly integrated into the overall application. Such applications are often referred to as composite applications.
 
->**Note:** Prism was the codename for the guidance formally known as the **Composite Application Guidance for WPF and Silverlight**. For brevity and conciseness, and due to customer demand, this guidance is now referred to simply as **Prism**.
+**Note:** Prism was the codename for the guidance formally known as the **Composite Application Guidance for WPF and Silverlight**. For brevity and conciseness, and due to customer demand, this guidance is now referred to simply as **Prism**.
 
 ## Intended Audience
 
 Prism is intended for software developers building WPF or Silverlight applications that typically feature multiple screens, rich user interaction and data visualization, and that embody significant presentation and business logic. These applications typically interact with a number of back-end systems and services and, using a layered architecture, may be physically deployed across multiple tiers. It is expected that the application will evolve significantly over its lifetime in response to new requirements and business opportunities. In short, these applications are "built to last" and "built for change." Applications that do not demand these characteristics may not benefit from using Prism.
 
->**Note:** Even single-person projects experience benefits in creating more testable and maintainable applications that can evolve over time using the modular approach**.**
+**Note:** Even single-person projects experience benefits in creating more testable and maintainable applications that can evolve over time using the modular approach**.**
 
 ## Architectural Goals
 
@@ -48,7 +48,7 @@ Before you can use the Prism Library, the following must be installed:
   -  [Expression Blend 4](http://www.microsoft.com/expression/products/blend_overview.aspx)
   -  [Windows Phone Developer Tools SDK](http://go.microsoft.com/fwlink/?linkid=185968) (for development with the Windows Phone 7)
 
->**Note:** Although the Silverlight Tools for Visual Studio 2010 are not required, it is recommended that all WPF and Silverlight developers download and use the latest version of the Silverlight Tools for Visual Studio 2010. The WPF and Silverlight Designer for Visual Studio is updated together with the Silverlight developer runtime and SDK. These updates come in the form of new features and bug fixes.
+**Note:** Although the Silverlight Tools for Visual Studio 2010 are not required, it is recommended that all WPF and Silverlight developers download and use the latest version of the Silverlight Tools for Visual Studio 2010. The WPF and Silverlight Designer for Visual Studio is updated together with the Silverlight developer runtime and SDK. These updates come in the form of new features and bug fixes.
 
 If you are authoring WPF and Silverlight projects that share code, you may want to read [Chapter 10, "Sharing Code Between WPF and Silverlight,"](http://msdn.microsoft.com/library/ff921109(pandp.40).aspx) and install the [Project Linker 2.2](http://visualstudiogallery.msdn.microsoft.com/en-us/5e730577-d11c-4f2e-8e2b-cbb87f76c044) tool.
 

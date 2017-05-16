@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921122(v=PandP.40)'
 
 # 9: Communicating Between Loosely Coupled Components Using the Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Ff921122.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Ff921122.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Ff921122.download-nuget-packages(en-us,PandP.40).png "Download Prism NuGet packages")](http://aka.ms/prism-wpf-nuget)[![](https://msdn.microsoft.com/en-us/Ff921122.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Ff921122.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 When building large complex WPF applications, a common approach is to divide the functionality into discrete module assemblies. It is also desirable to minimize the use of static references between these modules, which can be accomplished through the use of delegate commands, region context, shared services, and event aggregator. This allows the modules to be independently developed, tested, deployed, and updated, and it forces loosely coupled communication. This topic provides guidance when to use delegate commands and routed commands and when to use event aggregator and .NET framework events.
 
@@ -107,7 +106,7 @@ In your module, associate child commands to the globally available command.
   GlobalCommands.MyCompositeCommand.RegisterCommand(command2);
 ```
 
->**Note:** To increase the testability of your code, you can use a proxy class to access the globally available commands and mock that proxy class in your tests.
+**Note:** To increase the testability of your code, you can use a proxy class to access the globally available commands and mock that proxy class in your tests.
 
 ## Binding to a Globally Available Command
 
@@ -117,7 +116,7 @@ The following code example shows how to bind a button to the command in WPF.
   <Button Name="MyCompositeCommandButton" Command="{x:Static local:GlobalCommands.MyCompositeCommand}">Execute My Composite Command </Button>
 ```
 
->**Note:** 
+**Note:** 
 >Another approach is to store the command as a resource inside the App.xaml file in the **Application.Resources** section. Then, in the view—which must be created after setting that resource—you can set **Command="{Binding MyCompositeCommand, Source={StaticResource GlobalCommands}}"** to add an invoker to the command.
 
 ## Region Context
@@ -134,7 +133,7 @@ Depending on the scenario, you can choose to share a single piece of information
 -  You can expose **RegionContext** to a region in code.
 -  You can consume **RegionContext** from a view inside a region.
 
->**Note:** The Prism Library currently only supports consuming the **RegionContext** from a view inside a region if that view is a **DependencyObject**. If your view is not a **DependencyObject** (for example, you are using WPF automatic data templates and adding your view model directly in the region), consider creating a custom **RegionBehavior** to forward the **RegionContext** to your view objects.
+**Note:** The Prism Library currently only supports consuming the **RegionContext** from a view inside a region if that view is a **DependencyObject**. If your view is not a **DependencyObject** (for example, you are using WPF automatic data templates and adding your view model directly in the region), consider creating a custom **RegionBehavior** to forward the **RegionContext** to your view objects.
 
 
 >**Note: About the Data Context Property**<br />
@@ -160,7 +159,7 @@ To see how these services are exported into MEF, see the **MarketFeedService.cs*
 
 This helps with cross-module communication because service consumers do not need a static reference to modules providing the service. This service can be used to send or receive data between modules.
 
->**Note:** Some dependency injection containers allow the registration of dependencies using attributes, as shown in this example. Other containers may use explicit registration. In these cases, the registration typically occurs during module loading when Prism invokes the **IModule.Initialize** method. See [Modular Application Development](http://msdn.microsoft.com/en-us/library/gg405479(v=pandp.40).aspx) for more information.
+**Note:** Some dependency injection containers allow the registration of dependencies using attributes, as shown in this example. Other containers may use explicit registration. In these cases, the registration typically occurs during module loading when Prism invokes the **IModule.Initialize** method. See [Modular Application Development](http://msdn.microsoft.com/en-us/library/gg405479(v=pandp.40).aspx) for more information.
 
 ## Event Aggregation
 
@@ -235,7 +234,7 @@ For example, the following code shows the **TickerSymbolSelectedEvent** in the S
   public class TickerSymbolSelectedEvent : PubSubEvent<string>{}
 ```
 
->**Note:** In a composite application, the events are frequently shared between multiple modules, so they are defined in a common place. In the Stock Trader RI, this is done in the **StockTraderRI.Infrastructure** project.
+**Note:** In a composite application, the events are frequently shared between multiple modules, so they are defined in a common place. In the Stock Trader RI, this is done in the **StockTraderRI.Infrastructure** project.
 
 
 ### Publishing an Event
@@ -287,7 +286,7 @@ The following options are available for **ThreadOption**:
 -  **BackgroundThread**. Use this setting to asynchronously receive the event on a .NET Framework thread-pool thread.
 -  **UIThread**. Use this setting to receive the event on the UI thread.
 
->**Note:** In order for **PubSubEvents** to publish to subscribers on the UI thread, the **EventAggregator** must initially be constructed on the UI thread.
+**Note:** In order for **PubSubEvents** to publish to subscribers on the UI thread, the **EventAggregator** must initially be constructed on the UI thread.
 
 ### Subscription Filtering
 
@@ -302,7 +301,7 @@ Frequently, this filter is supplied as a lambda expression, as shown in the foll
   fundOrder => fundOrder.CustomerId this.customerId);
 ```
 
->**Note:** The **Subscribe** method returns a subscription token of type **Microsoft.Practices.Prism.Events.SubscriptionToken** that can be used to remove a subscription to the event later. This token is particularly useful when you are using anonymous delegates or lambda expressions as the callback delegate or when you are subscribing the same event handler with different filters.<br />
+**Note:** The **Subscribe** method returns a subscription token of type **Microsoft.Practices.Prism.Events.SubscriptionToken** that can be used to remove a subscription to the event later. This token is particularly useful when you are using anonymous delegates or lambda expressions as the callback delegate or when you are subscribing the same event handler with different filters.<br />
 It is not recommended to modify the payload object from within a callback delegate because several threads could be accessing the payload object simultaneously. You could have the payload be immutable to avoid concurrency errors.
 
 
@@ -377,4 +376,3 @@ The following code example shows how to unsubscribe with a subscription token. T
 
 For more information about weak references, see [Weak References](http://msdn.microsoft.com/en-us/library/ms404247.aspx) on MSDN.
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)

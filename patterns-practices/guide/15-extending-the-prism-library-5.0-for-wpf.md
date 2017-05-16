@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430866(vPandP.40)'
 
 # 15: Extending the Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Gg430866.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Gg430866.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Gg430866.download-nuget-packages(en-us,PandP.40).png "Download Prism NuGet packages")](http://aka.ms/prism-wpf-nuget)[![](https://msdn.microsoft.com/en-us/Gg430866.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Gg430866.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 
 Prism contains assets that represent recommended practices for Windows Presentation Foundation (WPF) client development. Developers can use an unmodified version of the guidance to create composite applications using the Model-View-ViewModel (MVVM) pattern. However, because each application is unique, you should analyze whether Prism is suitable for your particular needs. In some cases, you will want to customize the guidance to incorporate your enterprise's best practices and frequently repeated developer tasks.
@@ -205,7 +204,7 @@ Some applications do not use many of the features in the Prism Library. In some 
     }
 ```
 
->**Note:** The overrides of the region adapters and mappings are required because Unity cannot determine the appropriate concrete type to return when an implementation of an interface is requested. These calls associate the concrete type to return for each interface. When concrete types are requested Unity is able to directly resolve them by instantiating that type.
+**Note:** The overrides of the region adapters and mappings are required because Unity cannot determine the appropriate concrete type to return when an implementation of an interface is requested. These calls associate the concrete type to return for each interface. When concrete types are requested Unity is able to directly resolve them by instantiating that type.
 
 ```C#
     // when using MEFBootstrapper
@@ -468,7 +467,7 @@ The **Adapt** method is also an abstract method defined in the **RegionAdapterBa
     }
 ```
 
->**Note:** The region adapter will be registered as a singleton service and will be kept alive throughout the application's lifetime, so make sure you do not keep references to possibly shorter lived objects, such as UI controls or region instances. |
+**Note:** The region adapter will be registered as a singleton service and will be kept alive throughout the application's lifetime, so make sure you do not keep references to possibly shorter lived objects, such as UI controls or region instances. |
 
 Region adapter mappings are used by the region manager service to associate the correct region adapters for XAML-defined regions. The following section describes how to customize the registration of region adapter mappings.
 
@@ -567,7 +566,7 @@ WPF applications can replace the **IRegionNavigationContentLoader** implementati
 
 To change the logical navigation structure, derive a new class from **RegionNavigationContentLoader** and override the **GetContractFromNavigationContext** method. In the method, translate the incoming contract name to the view type name to load. It is recommended to call the base class because it conveniently parses the URI into a contract string to inspect. The following code example shows a custom region content loader that maps "Home" to the Home view and "About" to the About view.
 
->**Note:** This example uses MEF, so export attributes are applied at the top of the class to make it available in the MEF container.
+**Note:** This example uses MEF, so export attributes are applied at the top of the class to make it available in the MEF container.
 
 ```C#
     [Export(typeof(IRegionNavigationContentLoader))]

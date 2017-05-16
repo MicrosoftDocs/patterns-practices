@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405494(v=PandP.40)'
 
 # 6: Advanced MVVM Scenarios Using the Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Gg405494.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Gg405494.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Gg405494.download-nuget-packages(en-us,PandP.40).png "Download Prism NuGet packages")](http://aka.ms/prism-wpf-nuget)[![](https://msdn.microsoft.com/en-us/Gg405494.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Gg405494.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 The previous topic described how to implement the basic elements of the Model-View-ViewModel (MVVM) pattern by separating your application's user interface (UI), presentation logic, and business logic into three separate classes (the view, view model, and model), implementing the interactions between those classes (through data binding, commands, and data validation interfaces), and by implementing a strategy to handle construction and wire-up. This topic describes some sophisticated scenarios and describes how the MVVM pattern can support them. The next section describes how commands can be chained together or associated with child views and how they can be extended to support custom requirements. The following sections then describe how to handle asynchronous data requests and subsequent UI interactions and how to handle interaction requests between the view and the view model.
 
@@ -49,7 +48,7 @@ Child commands are registered or unregistered using the **RegisterCommand** and 
               orderCompositeViewModel.CancelCommand );
 ```
 
->**Note:** The preceding **commandProxy** object provides instance access to the **Submit** and **Cancel** composite commands, which are defined statically. For more information, see the class file StockTraderRICommands.cs.
+**Note:** The preceding **commandProxy** object provides instance access to the **Submit** and **Cancel** composite commands, which are defined statically. For more information, see the class file StockTraderRICommands.cs.
 
 ### Executing Commands on Active Child Views
 
@@ -137,7 +136,7 @@ The following shows how to use the Blend EventTrigger configured to listen to th
   </ListBox>
 ```
 
->**Note:** WPF controls that support commands allow you to declaratively hook up a control to a command. These controls will invoke the specified command when the user interacts with the control in a specific way. For example, for a **Button** control, the command will be invoked when the user clicks the button. This event associated with the command is fixed and cannot be changed.<br />
+**Note:** WPF controls that support commands allow you to declaratively hook up a control to a command. These controls will invoke the specified command when the user interacts with the control in a specific way. For example, for a **Button** control, the command will be invoked when the user clicks the button. This event associated with the command is fixed and cannot be changed.<br />
 Behaviors also allow you to hook up a control to a command in a declarative fashion. However, behaviors can be associated with a range of events raised by the control, and they can be used to conditionally invoke an associated command object or a command method in the view model. In other words, behaviors can address many of the same scenarios as command-enabled controls, and they may provide a greater degree of flexibility and control.<br />
 You will need to choose when to use command-enabled controls and when to use behaviors, as well as which kind of behavior to use. If you prefer to use a single mechanism to associate controls in the view with functionality in the view model or for consistency, you might consider using behaviors, even for controls that inherently support commands.<br />
 If you only need to use command-enabled controls to invoke commands on the view model, and if you are happy with the default events to invoke the command, behaviors may not be required. Similarly, if your developers or UI designers will not be using Blend for Visual Studio 2013, you may favor command-enabled controls (or custom attached behaviors) because of the additional syntax required for Blend behaviors.
@@ -377,7 +376,7 @@ The standard **EventTrigger** provided by Blend can be used to monitor an intera
 
 After the event is raised, the **InteractionRequestTrigger** will invoke the specified action. For WPF, the Prism Library provides the **PopupWindowAction** class, which displays a pop-up window to the user. When the window is displayed, its data context is set to the context parameter of the interaction request. Using the **WindowContent** property of the **PopupWindowAction** class, you can specify the view that will be shown in the popup window. The title of the pop-up window is bound to the **Title** property of the context object.
 
->**Note:** By default, the specific type of pop-up window displayed by the **PopupWindowAction** class depends on the type of the context object. For a **Notification** context object, a **DefaultNotificationWindow** is displayed, while for a **Confirmation** context object, a **DefaultConfirmationWindow** is displayed. The **DefaultNotificationWindow** displays a simple popup window to display the notification, while the **DefaultConfirmationWindow** also contains **Accept** and **Cancel** buttons to capture the user's response. You can override this behavior by specifying a custom pop-up window using the **WindowContent** property of the **PopupWindowAction** class.
+**Note:** By default, the specific type of pop-up window displayed by the **PopupWindowAction** class depends on the type of the context object. For a **Notification** context object, a **DefaultNotificationWindow** is displayed, while for a **Confirmation** context object, a **DefaultConfirmationWindow** is displayed. The **DefaultNotificationWindow** displays a simple popup window to display the notification, while the **DefaultConfirmationWindow** also contains **Accept** and **Cancel** buttons to capture the user's response. You can override this behavior by specifying a custom pop-up window using the **WindowContent** property of the **PopupWindowAction** class.
 
 The following example shows how the **InteractionRequestTrigger** and the **PopupWindowAction** are used to display a confirmation pop-up window to the user within the Interactivity QuickStart.
 
@@ -389,7 +388,7 @@ The following example shows how the **InteractionRequestTrigger** and the **Popu
   </i:Interaction.Triggers>
 ```
 
->**Note:** The **PopupWindowAction** has three important properties, **IsModal,** which sets the popup to modal when set to true; **CenterOverAssociatedObject**, which displays the popup centered to the parent window when set to true. Finally, the **WindowContent** property, which is not specified, therefore the **DefaultConfirmationWindow** will be shown.
+**Note:** The **PopupWindowAction** has three important properties, **IsModal,** which sets the popup to modal when set to true; **CenterOverAssociatedObject**, which displays the popup centered to the parent window when set to true. Finally, the **WindowContent** property, which is not specified, therefore the **DefaultConfirmationWindow** will be shown.
 
 The **PopupWindowAction** sets the **Notification** object as the data context of the **DefaultNotificationWindow**, which displays the **Content** property of the **Notification** object. After the user closes the pop-up window, the context object is passed back to the view model, along with any updated values, via the callback method. In the confirmation example in the Interactivity QuickStart, the **DefaultConfirmationWindow** is responsible for setting the **Confirmed** property on the supplied **Confirmation** object to **true** when the **OK** button is clicked.
 
@@ -442,7 +441,7 @@ An alternative approach is to define an importing constructor on the view, as sh
 
 The view model will then be instantiated by MEF and passed as an argument to the view's constructor.
 
->**Note:** You can use property injection or constructor injection in both MEF and Unity; however, you may find property injection to be simpler because you do not have to maintain two constructors. Design-time tools, such as Visual Studio and Expression Blend, require that controls have a default parameter-less constructor in order to display them in the designer. Any additional constructors that you define should ensure that the default constructor is called so that view can be properly initialized via the **InitializeComponent** method.
+**Note:** You can use property injection or constructor injection in both MEF and Unity; however, you may find property injection to be simpler because you do not have to maintain two constructors. Design-time tools, such as Visual Studio and Expression Blend, require that controls have a default parameter-less constructor in order to display them in the designer. Any additional constructors that you define should ensure that the default constructor is called so that view can be properly initialized via the **InitializeComponent** method.
 
 ### Creating the View and View Model Using Unity
 
@@ -463,7 +462,7 @@ Typically, you define an interface on the view model so the view model's specifi
   }
 ```
 
->**Note:** The default parameter-less constructor is necessary to allow the view to work in design-time tools, such as Visual Studio and Blend for Visual Studio 2013.
+**Note:** The default parameter-less constructor is necessary to allow the view to work in design-time tools, such as Visual Studio and Blend for Visual Studio 2013.
 
 Alternatively, you can define a write-only view model property on the view, as shown here. Unity will instantiate the required view model and call the property setter after the view is instantiated.
 
@@ -520,7 +519,7 @@ The UI service is associated with a placeholder control in the UI of the applica
   }
 ```
 
->**Note:** Prism provides extensive support for navigation within regions. Region navigation uses a mechanism very similar to the preceding approach, except that the region manager is responsible for coordinating the instantiation and placement of the view in the specific region. For more information, see the section, [View-Based Navigation](https://msdn.microsoft.com/en-us/library/gg430861(v=pandp.40)#ViewBasedNavigation) in [Navigation](https://msdn.microsoft.com/en-us/library/gg430861(v=pandp.40)).
+**Note:** Prism provides extensive support for navigation within regions. Region navigation uses a mechanism very similar to the preceding approach, except that the region manager is responsible for coordinating the instantiation and placement of the view in the specific region. For more information, see the section, [View-Based Navigation](https://msdn.microsoft.com/en-us/library/gg430861(v=pandp.40)#ViewBasedNavigation) in [Navigation](https://msdn.microsoft.com/en-us/library/gg430861(v=pandp.40)).
 
 ## Testing MVVM Applications
 
@@ -662,7 +661,7 @@ The following code example shows a test for the appropriate behavior on the succ
   Assert.AreEqual(ViewNames.QuestionnaireTemplatesList, requestedViewName);
 ```
 
->**Note:** Using this testing approach only exercises the functional capabilities of the objects under test; it does not test that the code is thread safe.
+**Note:** Using this testing approach only exercises the functional capabilities of the objects under test; it does not test that the code is thread safe.
 
 ## More Information
 
@@ -690,4 +689,4 @@ For more information about the Event-based Asynchronous pattern, see [Event-base
 
 For more information about the IAsyncResult design pattern, see [Asynchronous Programming Overview](http://msdn.microsoft.com/en-us/library/ms228963.aspx) on MSDN.
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)
+

@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430856(v=PandP.40)'
 
 # 10: Deploying Applications Using the Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Gg430856.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Gg430856.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Gg430856.download-nuget-packages(en-us,PandP.40).png "Download Prism NuGet packages")](http://aka.ms/prism-wpf-nuget)[![](https://msdn.microsoft.com/en-us/Gg430856.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Gg430856.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 To successfully move a Prism application into production, you need to plan for deployment as part of the design process of your application. This topic covers the considerations and actions you need to perform to prepare your composite or modular application for deployment and the actions you need to take to get the application in the user's hands.
 
@@ -70,4 +69,4 @@ You can download the [Manifest Manager Utility](http://compositewpf.codeplex.com
 
 To learn the specific steps involved in publishing and updating a WPF Prism application that uses dynamic module loading, see the [Publishing and Updating Applications Using the Prism Library Hands-on Lab](https://msdn.microsoft.com/en-us/library/gg405497(v=pandp.40)).
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)
+

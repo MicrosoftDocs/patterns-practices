@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921146(vPandP.40)'
 
 # 12: Patterns in the Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Ff921146.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Ff921146.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Ff921146.download-nuget-packages(en-us,PandP.40).png "Download Prism NuGet packages")](http://aka.ms/prism-wpf-nuget)[![](https://msdn.microsoft.com/en-us/Ff921146.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Ff921146.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 When you build applications, you typically encounter or employ patterns. In the Prism Library and example reference implementation, the guidance demonstrates the Adapter, Application Controller, Command, Composite and Composite View, Dependency Injection, Event Aggregator, Façade, Inversion of Control, Observer, Model-View-ViewModel (MVVM), Registry, Repository, Separated Interface, Plug-In, and Service Locator patterns that are briefly discussed in this appendix. The following illustration shows a typical composite application architecture using the Prism Library and some of the common patterns. A simpler application would likely encounter some of these patterns while using Prism, but not necessarily all of them.
 
@@ -86,7 +85,7 @@ The ability to locate and load modules at run time opens greater opportunities f
 -   **Separated Interface**. This pattern reduces coupling by placing the interface definition in a separate package from the implementation. When using Prism with Unity, each module implements the **IModule** interface. For an example of implementing a module in the UI Composition Quickstart, see the file ModuleInit.cs.
 -   **Plug-In**. This pattern allows the concrete implementation of a class to be determined at run time to avoid requiring recompilation when changing which concrete implementation is used or because of changes in the concrete implementation. In the Prism Library, this is handled through the **DirectoryModuleCatalog**, **ConfigurationModuleCatalog**, and the **ModuleInitializer,** which work together to locate and initialize **IModule** plug-ins. For examples of supporting plug-ins, see the files DirectoryModuleCatalog.cs, ConfigurationModuleCatalog.cs, and ModuleInitializer.cs in the Prism Library.
 
->**Note:** MEF was designed to support the plug-in model, allowing components to declaratively export and import concrete implementations.
+**Note:** MEF was designed to support the plug-in model, allowing components to declaratively export and import concrete implementations.
 
 ## Service Locator Pattern
 
@@ -117,4 +116,3 @@ For more information about the Unity Application Block, see [Unity Application B
 
 (1) Gamma, Erich, Richard Helm, Ralph Johnson, and John Vlissides. *Design Patterns: Elements of Reusable Object-Oriented Software*. Addison Wesley Professional, 1995.
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)

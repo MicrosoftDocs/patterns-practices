@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921109(v=PandP.40)'
 
 # Sharing Code Between Silverlight and WPF
 
-[![](https://msdn.microsoft.com/en-us/Ff921109.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Ff921109.download-documentation(en-us,PandP.40).png "Download Prism 4.1 documentation")](http://compositewpf.codeplex.com/releases/view/55580)[![](https://msdn.microsoft.com/en-us/Ff921109.download-nuget-packages(en-us,PandP.40).png "Download Prism 4.1 NuGet packages")](http://www.nuget.org/packages/prism/4.1.0)[![](https://msdn.microsoft.com/en-us/Ff921109.download-source-code(en-us,PandP.40).png "Download Prism 4.1 source code")](http://www.microsoft.com/en-us/download/details.aspx?displaylang=en&id=28950)[![](https://msdn.microsoft.com/en-us/Ff921109.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 This topic helps you understand multi-targeting from a Prism perspective and its advantages and disadvantages. Multi-targeted code targets two different platforms with largely the same code-base. This allows binaries targeting two different technologies to be produced while keeping the code as much the same as possible. In this case, the technologies this topic describes are Windows Presentation Foundation (WPF) and Silverlight. This topic includes some considerations you should think about when developing multi-targeting applications for these technologies.
 
@@ -75,7 +74,7 @@ Non-UI code and components are probably going to be the easiest to share, so adh
 
 The overall pattern is based on defining the core application in shared code and then augmenting that with extensions that implement WPF (desktop) or Silverlight (browser) specific functionality. The core application defines the overall structure of the application and contains the application code and components that are common to the two environments. Silverlight is largely a subset of WPF, so developing the core application in Silverlight reduces the risk of relying on an API or feature that is available in WPF but not in Silverlight.
 
->**Note:** Many solutions in the Prism source tree actually have the core source files in the WPF projects and the Silverlight projects link to the files in the WPF projects. This is mostly because of historical reasons since the first version of Prism was built prior to the first Silverlight release.
+**Note:** Many solutions in the Prism source tree actually have the core source files in the WPF projects and the Silverlight projects link to the files in the WPF projects. This is mostly because of historical reasons since the first version of Prism was built prior to the first Silverlight release.
 
 The following illustration shows the Solution Explorer view for the Multi-Targeted QuickStart. Most files in the WPF version of the QuickStart are linked files because the core application was developed in Silverlight. The shared files found in the QuickStart are images, models, services, interfaces, and resources. The shared (linked) files are highlighted.
 
@@ -164,7 +163,7 @@ When the changes between Silverlight and WPF become more complex, you can create
 -   Try to keep the platform-specific methods private. This way, the unit tests will not need to contain specific logic for specific platforms.
 -   Make sure your class has a single, clear responsibility. Any partial methods for platform-specific code should only change the implementation details.
 
->**Note:** If the differences between the two platforms become very extensive, and the classes for both platforms become very different, consider creating platform-specific classes instead of partial class.
+**Note:** If the differences between the two platforms become very extensive, and the classes for both platforms become very different, consider creating platform-specific classes instead of partial class.
 
 The following code example shows a shared partial class, **RealEstateService**, that is shared between the Silverlight and WPF projects in the Multi-Targeting QuickStart.
 
@@ -319,14 +318,14 @@ Additionally, if you set this property and want to run unit tests in your build,
       </Target>
 ```
 
->**Note:** This example assumes that your desktop projects are located in a folder named Desktop. MSTest.exe is only able to run unit tests that are targeting the desktop version of the .NET Framework, so Silverlight test assemblies are excluded.
+**Note:** This example assumes that your desktop projects are located in a folder named Desktop. MSTest.exe is only able to run unit tests that are targeting the desktop version of the .NET Framework, so Silverlight test assemblies are excluded.
 
 
 ## Contrasting Silverlight and WPF
 
 Silverlight and WPF both allow you to develop rich user experiences based on XAML and the .NET Framework. However, there are some differences between these platforms, and these differences have to be carefully considered when transitioning an application between Silverlight and WPF or when building an application that targets both WPF and Silverlight.
 
->**Note:** This topic describes differences between Silverlight 4 and WPF that is part of the .NET Framework 4.0. These differences are expected to be reduced in future versions of Silverlight and WPF.
+**Note:** This topic describes differences between Silverlight 4 and WPF that is part of the .NET Framework 4.0. These differences are expected to be reduced in future versions of Silverlight and WPF.
 
 ## Silverlight and WPF Architectural Overview
 
@@ -404,4 +403,3 @@ For more information about the Visual State Manager and how it works in creating
 
 For more information about creating an application with elevated trust, see [Trusted Applications](http://msdn.microsoft.com/en-us/library/ee721083(vs.95).aspx) on MSDN.
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)

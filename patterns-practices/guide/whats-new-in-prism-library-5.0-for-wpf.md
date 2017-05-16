@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430871(v=PandP.40)'
 
 # What's New in Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Gg430871.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Gg430871.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Gg430871.download-nuget-packages(en-us,PandP.40).png "Download Prism NuGet packages")](http://aka.ms/prism-wpf-nuget)[![](https://msdn.microsoft.com/en-us/Gg430871.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Gg430871.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 Prism 5.0 includes guidance in several new areas, resulting in new code in the Prism Library for WPF, new and updated QuickStarts, and updated documentation. Parts of the Prism Library changed between Prism 4.1 and Prism 5.0 to support the new guidance, fix existing issues, and respond to community requests.
 
@@ -110,10 +109,9 @@ In your application, you can now use NuGet to add references to the Prism assemb
 -   [Prism.UnityExtensions](http://aka.ms/prism-wpf-prism50unityextensionsnuget)
 -   [Prism.MEFExtensions](http://aka.ms/prism-wpf-prism50mefextensionsnuget)
 
->**Note:** The Prism NuGet package will download the Prism.Composition, Prism.Interactivity, Prism.Mvvm, and Prism.PubSubEvents packages. You only need to add references to the Prism.Interactivity, Prism.Mvvm, and Prism.PubSubEvents if you need finer granularity.
+**Note:** The Prism NuGet package will download the Prism.Composition, Prism.Interactivity, Prism.Mvvm, and Prism.PubSubEvents packages. You only need to add references to the Prism.Interactivity, Prism.Mvvm, and Prism.PubSubEvents if you need finer granularity.
 
 ## More Information
 
 For more information about how to upgrade a solution from version 4.1 to version 5.0 of the Prism Library, see [Upgrading from Prism Library 4.1](https://msdn.microsoft.com/en-us/library/ff921144(v=pandp.40)).
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)

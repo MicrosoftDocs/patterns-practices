@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921068(v=PandP.40)'
 
 # Modularity QuickStarts Using the Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Ff921068.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Ff921068.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Ff921068.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Ff921068.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 Modulatiry QuickStarts source code:
 
@@ -125,7 +124,7 @@ This QuickStart requires Microsoft Visual Studio 2012 or later with .NET Framewo
 2.  In the **Build** menu, click **Rebuild Solution**.
 3.  Press F5 to run the QuickStart.
 
->**Note:** Both QuickStarts have post-build events configured on each module project to automatically store the modules' assemblies in a folder after a successful build.<br/>
+**Note:** Both QuickStarts have post-build events configured on each module project to automatically store the modules' assemblies in a folder after a successful build.<br/>
 Modules B and D are copied into a DirectoryModules folder and Modules E and F are copied into the same location as the application executable.<br/>
 To see the post-build events configuration, right-click a module project, and then click **Properties**. In the **Properties** dialog box, click the **Build Events** tab.<br/>
 The following code shows the post-build event command in the **Post-build event command line** text box.
@@ -143,7 +142,7 @@ To explore the scenario, perform the steps to build and run the QuickStart:
 
     Module D is discovered by directory inspection at application startup. Module A is initialized when it is available and depends on Module D. After Module D loads, Module A is initialized. The trace window at the bottom shows messages as the application is initialized.
 
-    >**Note:** If no dependencies are specified, the module load order is non-deterministic.
+    **Note:** If no dependencies are specified, the module load order is non-deterministic.
 
 2.  Hover over the **Module A** control. When the mouse hovers over the **Module A** control, a descriptive tooltip is displayed, as shown in the following illustration.
 
@@ -271,7 +270,7 @@ The **QuickStartBootstrapper** overrides **CreateModuleCatalog** and **Configure
      }
 ```
 
->**Note:** To demonstrate multiple ways of using the **ModuleCatalog**, the QuickStart using Unity implements an **AggregateModuleCatalog** that derives from **IModuleCatalog**. This class is not intended to be used in a shipping application.
+**Note:** To demonstrate multiple ways of using the **ModuleCatalog**, the QuickStart using Unity implements an **AggregateModuleCatalog** that derives from **IModuleCatalog**. This class is not intended to be used in a shipping application.
 
 When using MEF, the **AggregateCatalog** provides module and type discovery. In this case, the **QuickStartBootstrapper** overrides the **ConfigureAggregateCatalog** template method and registers assemblies with MEF. The **ModuleCatalog** is still used for registering modules by loading a configuration file.
 
@@ -309,7 +308,7 @@ When using MEF, the **AggregateCatalog** provides module and type discovery. In 
 
 This QuickStart demonstrates both loading modules at startup and on demand, displaying progress, and handling dependencies between modules.
 
->**Note:** This QuickStart has additional classes that help to track module initialization state. These classes are for demonstration purposes only and are not intended for shipping applications.<br/>
+**Note:** This QuickStart has additional classes that help to track module initialization state. These classes are for demonstration purposes only and are not intended for shipping applications.<br/>
 The Shell user interface contains a **ModuleControl** for each module. The Shell also has the **ModuleTracker** class as its **DataContext**.<br/>
 The **ModuleTracker** contains a **ModuleTrackingState** for each module. **ModuleControl** data binds to **ModuleTrackingState** and uses a custom style to visually display the downloading and initialized state of the module.
 
@@ -389,4 +388,3 @@ To learn about other code samples included with Prism, see the following topics:
 -   [View-Switching Navigation QuickStart](https://msdn.microsoft.com/en-us/library/gg430881(v=pandp.40))
 -   [Event Aggregation QuickStart](https://msdn.microsoft.com/en-us/library/ff921173(v=pandp.40))
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)

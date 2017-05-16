@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921140(v=PandP.40)'
 
 # 3: Managing Dependencies Between Components Using the Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Ff921140.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Ff921140.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Ff921140.download-nuget-packages(en-us,PandP.40).png "Download Prism NuGet packages")](http://aka.ms/prism-wpf-nuget)[![](https://msdn.microsoft.com/en-us/Ff921140.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Ff921140.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 Applications based on the Prism Library are composite applications that potentially consist of many loosely coupled types and services. They need to interact to contribute content and receive notifications based on user actions. Because they are loosely coupled, they need a way to interact and communicate with one another to deliver the required business functionality. To tie together these various pieces, applications based on the Prism Library rely on a dependency injection container.
 
@@ -76,7 +75,7 @@ You should consider the following before using containers:
     -   If you want to conditionally register specific services, configure the container through code.
     -   If you have module-level services, consider configuring the container through code so that those services are registered only if the module is loaded.
 
->**Note:** Some containers, such as MEF, cannot be configured via a configuration file and must be configured via code.
+**Note:** Some containers, such as MEF, cannot be configured via a configuration file and must be configured via code.
 
 
 ## Core Scenarios
@@ -111,7 +110,7 @@ During initialization, a type can register other types, such as views and servic
 
 Depending on which container you use, registration can also be performed outside the code through configuration. For an example of this, see Registering Modules using a Configuration File in [Modular Application Development](https://msdn.microsoft.com/en-us/library/gg405479(v=pandp.40)).
 
->**Note:** The advantage of registering in code, compared to configuration, is that the registration happens only if the module loads.
+**Note:** The advantage of registering in code, compared to configuration, is that the registration happens only if the module loads.
 
 ### Registering Types with MEF
 
@@ -137,7 +136,7 @@ Another option when using MEF is to create an instance of a class and register t
     }
 ```
 
->**Note:** When using MEF as your container, it is recommended that you use attributes to register types.
+**Note:** When using MEF as your container, it is recommended that you use attributes to register types.
 
 ## Resolving
 
@@ -146,11 +145,11 @@ After a type is registered, it can be resolved or injected as a dependency. When
 In general, when a type is resolved, one of three things happens:
 
 -   If the type has not been registered, the container throws an exception.
-    >**Note:** Some containers, including Unity, allow you to resolve a concrete type that has not been registered.
+    **Note:** Some containers, including Unity, allow you to resolve a concrete type that has not been registered.
 
 -   If the type has been registered as a singleton, the container returns the singleton instance. If this is the first time the type was called for, the container creates it and holds on to it for future calls.
 -   If the type has not been registered as a singleton, the container returns a new instance.
-    >**Note:** By default, types registered with MEF are singletons and the container holds a reference to the object. In Unity, new instances of objects are returned by default, and the container does not maintain a reference to the object.
+    **Note:** By default, types registered with MEF are singletons and the container holds a reference to the object. In Unity, new instances of objects are returned by default, and the container does not maintain a reference to the object.
 
 ### Resolving Instances with Unity
 
@@ -344,4 +343,3 @@ For information related to containers, see the following:
 -   [StructureMap](http://structuremap.sourceforge.net/default.htm)
 -   [Spring.NET](http://www.springframework.net/)
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)

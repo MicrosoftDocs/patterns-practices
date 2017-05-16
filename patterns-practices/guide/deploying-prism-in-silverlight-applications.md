@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405475(v=PandP.40)'
 
 # Deploying Prism Silverlight Applications
 
-[![](https://msdn.microsoft.com/en-us/Gg405475.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Gg405475.download-documentation(en-us,PandP.40).png "Download Prism 4.1 documentation")](http://compositewpf.codeplex.com/releases/view/55580)[![](https://msdn.microsoft.com/en-us/Gg405475.download-nuget-packages(en-us,PandP.40).png "Download Prism 4.1 NuGet packages")](http://www.nuget.org/packages/prism/4.1.0)[![](https://msdn.microsoft.com/en-us/Gg405475.download-source-code(en-us,PandP.40).png "Download Prism 4.1 source code")](http://www.microsoft.com/en-us/download/details.aspx?displaylang=en&id=28950)[![](https://msdn.microsoft.com/en-us/Gg405475.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 To successfully move a Prism application into production, you need to plan for deployment as part of the design process of your application. This topic covers the considerations and actions you need to perform to prepare your Silverlight application for deployment and the actions you need to take to get the application in the user's hands.
 
@@ -31,7 +30,7 @@ Alternatively, if the modules of the Stock Trader RI were more loosely coupled i
 
 Notice in the following illustration that because the shell and each of the modules has a reference to the infrastructure assembly as a shared class library, if you leave the default settings on those references, you will end up with a separate copy of the library in each of the individual XAP files, which adds unnecessary download size and bandwidth utilization to the application.
 
->**Note:** If you plan to have your users install the application OOB, and you expect to deploy updates to your application after it is deployed, you will need to stick to putting all the modules in a single XAP file. The <strong>Application.CheckAndDownloadUpdateAsync</strong> method will only go out and update the main XAP file that the application was launched from.
+**Note:** If you plan to have your users install the application OOB, and you expect to deploy updates to your application after it is deployed, you will need to stick to putting all the modules in a single XAP file. The <strong>Application.CheckAndDownloadUpdateAsync</strong> method will only go out and update the main XAP file that the application was launched from.
 
 ![](https://msdn.microsoft.com/en-us/Gg405475.ABF64939138D1A7F0260A60B26FAA8F0(en-us,PandP.40).png)
 
@@ -81,7 +80,7 @@ To deploy a Silverlight application and the modules that are remotely loaded, th
 
     Adding the remote modules as Silverlight applications
 
-    >**Note:** To avoid cross-domain call issues, the remote modules' XAP files should be located on the same domain as the main application; when deployed like this, the <strong>Ref</strong> property on the ModuleCatalog should be a Uniform Resource Identifier (URI) relative to the main XAP file location on the web server.
+    **Note:** To avoid cross-domain call issues, the remote modules' XAP files should be located on the same domain as the main application; when deployed like this, the <strong>Ref</strong> property on the ModuleCatalog should be a Uniform Resource Identifier (URI) relative to the main XAP file location on the web server.
 
 In addition to publishing or locating the XAP files in the hosting website, the hosting web page will need to refer to the shell application XAP file in its object tag source parameter. Because the hosting page should be part of the same site that the XAP files are placed in for cross-domain reasons, the path specified in the host page should be a relative path.
 
@@ -98,4 +97,3 @@ To learn how to use application library caching in Silverlight, see [How to: Use
 
 To download the Manifest Manager Utility from the Prism community site on Codeplex at <http://compositewpf.codeplex.com/releases/view/14771>.
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)

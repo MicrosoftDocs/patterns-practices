@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430879(v=PandP.40)'
 
 # 16: Code Samples Using the Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Gg430879.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Gg430879.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Gg430879.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Gg430879.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 The code samples for the Prism Library for WPF are focused applications that illustrate specific Prism-related concepts. The QuickStarts and Reference Implementation are an ideal starting point if you want to gain an understanding of a key concept such as Modularity, MVVM, Commands, UI Composition, Navigation, Event Aggregations, User Interactivity, and Composite Application. The Stock Trader Reference Implementation demonstrates proven practices for implementing composite applications. The samples include both source code and documentation.
 
@@ -30,7 +29,7 @@ Before you can use the Prism Library, the following must be installed:
 -   Microsoft .NET Framework 4.5 (installed with Visual Studio 2012) or Microsoft .NET Framework 4.51.
 -   Microsoft Visual Studio 2012 Professional, Premium, or Ultimate editions or Microsoft Visual Studio 2013 Professional, Premium, or Ultimate editions.
 
->**Note:** Visual Studio 2013 Express Edition can be used to develop Prism applications using the Prism Library.
+**Note:** Visual Studio 2013 Express Edition can be used to develop Prism applications using the Prism Library.
 
 Optionally, you should consider also installing the following:
 
@@ -133,4 +132,3 @@ In order to build and run the code sample, select the appropriate shortcut file 
 </tbody>
 </table>
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)

@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430859(v=PandP.40)'
 
 # Upgrading from Prism 2.x
 
-[![](https://msdn.microsoft.com/en-us/Gg430859.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Gg430859.download-documentation(en-us,PandP.40).png "Download Prism 4.1 documentation")](http://compositewpf.codeplex.com/releases/view/55580)[![](https://msdn.microsoft.com/en-us/Gg430859.download-nuget-packages(en-us,PandP.40).png "Download Prism 4.1 NuGet packages")](http://www.nuget.org/packages/prism/4.1.0)[![](https://msdn.microsoft.com/en-us/Gg430859.download-source-code(en-us,PandP.40).png "Download Prism 4.1 source code")](http://www.microsoft.com/en-us/download/details.aspx?displaylang=en&id=28950)[![](https://msdn.microsoft.com/en-us/Gg430859.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
 
 This topic describes how to upgrade a solution from version 2.x to version 4.0 of the Prism Library and the major changes that you should be aware of if you are considering upgrading to the 4.0 version. The following sections describe the major changes:
 
@@ -30,7 +29,7 @@ The assembly/namespace change also affects the Managed Extensibility Framework (
 
 In Extensible Application Markup Language (XAML), a new **XmlnsDefinition** of **http://www.codeplex.com/prism** was added. The existing **XmlnsDefinition** of **http://www.codeplex.com/CompositeWPF** was left to make the transition to Prism 4.0 easier, but only resolves the Region namespace, whereas the first one pulls in all the library namespaces. It is recommended to update all the XAML files to use the new **XmlnsDefinition**.
 
->**Note:** The Prism Library now includes the signed binaries to use in your solutions. They are located in the bin folder where you extracted Prism.
+**Note:** The Prism Library now includes the signed binaries to use in your solutions. They are located in the bin folder where you extracted Prism.
 
 ## New Assemblies to Support MEF
 
@@ -69,7 +68,7 @@ With the addition of supporting MEF, there were several changes to the Prism Lib
             }
 ```
 
->**Note:** There is a new **ConfigureModuleCatalog** method in the **Bootstrapper** class, mentioned in the following bullet that can be used instead of this method.
+**Note:** There is a new **ConfigureModuleCatalog** method in the **Bootstrapper** class, mentioned in the following bullet that can be used instead of this method.
 
 -   Several new methods were added to better separate creation of objects from configuration:
     -   The **ConfigureModuleCatalog** virtual method was added to allow modifying the catalog after creation.

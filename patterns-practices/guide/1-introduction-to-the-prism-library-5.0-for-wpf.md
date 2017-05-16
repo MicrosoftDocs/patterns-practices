@@ -7,8 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921153(v=PandP.40)'
 
 # 1: Introduction to the Prism Library 5.0 for WPF
 
-[![](https://msdn.microsoft.com/en-us/Ff921153.pnp-logo_350(en-us,PandP.40).png "patterns & practices Developer Center")](http://microsoft.com/practices)[![](https://msdn.microsoft.com/en-us/Ff921153.download-documentation(en-us,PandP.40).png "Download Prism documentation")](http://aka.ms/prism-wpf-pdf)[![](https://msdn.microsoft.com/en-us/Ff921153.download-nuget-packages(en-us,PandP.40).png "Download Prism NuGet packages")](http://aka.ms/prism-wpf-nuget)[![](https://msdn.microsoft.com/en-us/Ff921153.download-source-code(en-us,PandP.40).png "Download Prism source code")](http://aka.ms/prism-wpf-code)[![](https://msdn.microsoft.com/en-us/Ff921153.other-prism-releases(en-us,PandP.40).png "Other Prism releases")](http://msdn.microsoft.com/en-us/library/ff648465.aspx)
-
 Prism provides guidance designed to help you more easily design and build rich, flexible, and easy-to-maintain Windows Presentation Foundation (WPF) desktop applications. Using design patterns such as Model-View-ViewModel (MVVM), Composite View, and Event Aggregator that embody important architectural design principles helps you create a modular application—using loosely coupled components that can evolve independently. These types of applications are known as composite applications.
 
 Composite applications typically feature multiple screens, rich user interaction and data visualization, and that embody significant presentation and business logic. These applications typically interact with multiple back-end systems and services and, using a layered architecture, may be physically deployed across multiple tiers. It is expected that the application will evolve significantly over its lifetime in response to new requirements and business opportunities. In short, these applications are "built to last" and "built for change." Applications that do not demand these characteristics may not benefit from using Prism.
@@ -220,7 +218,7 @@ Individual modules encapsulate a portion of the overall application's functional
 
 Now that you've seen the major capabilities and design patterns that Prism supports, it's time to see how easily you can start to use Prism when developing a new application. This section provides an overview of the first few steps required to create a basic Prism application. You can extend this basic application to leverage the additional capabilities and design patterns provided by Prism, as required by your scenario.
 
->**Note:**  Although the Prism Library can be easily used to build new composite WPF applications, you can also use Prism with existing applications that want to take advantage of one or more Prism capabilities or design patterns.
+**Note:**  Although the Prism Library can be easily used to build new composite WPF applications, you can also use Prism with existing applications that want to take advantage of one or more Prism capabilities or design patterns.
 
 A Prism application typically consists of a shell project and multiple module projects. The following illustration shows common activities needed when developing a composite application using the Prism Library.
 
@@ -230,7 +228,7 @@ Activities for creating a composite application
 
 A typical Prism application leverages most or all of the Prism capabilities and design patterns described earlier to be able to fully realize the benefits of the loose coupling and separation of concerns architectural design principles. However, for this example, the steps required to create a basic Prism application that consists of a single module that defines a single view are described.
 
->**Note:**<br />
+**Note:**<br />
 **Prism Library References**<br />
 Most of your projects will need to reference the Prism Library assemblies. Prism provides signed binaries through NuGet packages so that you can use the Visual Studio **Manage NuGet Packages** dialog box to add references to them. You can also include the Prism Library projects in your solution and then use project references to them. The latter has the advantage of being able to use features like Go To Definition to step down into the Prism types, as well as being able to build and sign the Prism Library assemblies with your own strong name or certificate as part of your build process.
 
@@ -272,7 +270,7 @@ Prism consists of the following:
 -   [**Prism Library source code.**](http://aka.ms/prism-wpf-code) The source code for the Prism Library assemblies, including the core Prism functionality, plus Unity and MEF extensions, which provide additional components for using Prism with the [Unity Application Block](http://msdn.microsoft.com/en-us/library/dd203101.aspx) (Unity) and the [Managed Extensibility Framework](http://msdn.microsoft.com/en-us/library/dd460648.aspx). The source code also includes Prism.PubSubEvents and Prism.Mvvm assemblies.
 -   [**Prism binary assemblies.**](http://aka.ms/prism-wpf-nuget) Signed binary versions of the Prism Library assemblies. These assemblies can be downloaded from NuGet by searching for Prism, Prism.Composition, Prism.PubSubEvents, and Prism.Mvvm, Prism.Interactivity, Prism.UnityExtensions, and Prism.MefExtensions. These NuGet packages will load dependencies such as the [Unity Application Block](http://msdn.microsoft.com/en-us/library/dd203101.aspx) and the [Service Locator](http://commonservicelocator.codeplex.com/).
 
-    >**Note:** The Prism NuGet package will download the Prism.Composition, Prism.PubSubEvents, Prism.Mvvm, Prism.Interactivity, Prism.PubSubEvents, and Prism.Mvvm NuGet packages.
+    **Note:** The Prism NuGet package will download the Prism.Composition, Prism.PubSubEvents, Prism.Mvvm, Prism.Interactivity, Prism.PubSubEvents, and Prism.Mvvm NuGet packages.
 
 -   [**Code samples.**](http://aka.ms/prism-wpf-code) Prism includes a reference implementation sample and QuickStart samples. The Stock Trader Reference Implementation is a comprehensive sample application that illustrates how Prism can be used to implement real-world application scenarios. The reference implementation is intentionally incomplete, but they illustrate how many of the patterns in Prism can work together within a single application. The QuickStart samples include several small, focused sample applications that illustrate the MVVM pattern, navigation, UI composition, modularity, commanding, event aggregation, and interactivity.
 -   [**Documentation.**](http://aka.ms/prism-wpf-doc) The Prism 5.0 documentation provides an overview of the goals and concepts behind Prism and detailed guidance on using each of the capabilities and design patterns provided by Prism. The next section provides an overview of the topics covered.
@@ -319,7 +317,7 @@ The code samples illustrate specific Prism-related concepts. The samples are an 
 Prism assumes you have hands-on experience with WPF. If you need general information about WPF , see the following resources:
 
 -   [Windows Presentation Foundation](http://msdn2.microsoft.com/en-us/library/ms754130.aspx) on MSDN.
--   MacDonald, Matthew. *Pro WPF in C\# 2010: Windows Presentation Foundation in .NET 4*, Apress, 2010.
+-   MacDonald, Matthew. *Pro WPF in C# 2010: Windows Presentation Foundation in .NET 4*, Apress, 2010.
 -   Nathan, Adam. *WPF 4 Unleashed*. Sams Publishing, 2010.
 
 ## Community
@@ -332,4 +330,3 @@ Prism's community sites are:
 
 On this these community sites, you can post questions, provide feedback, or connect with other users for sharing ideas. Community members can also help Microsoft plan and test future offerings and download additional content, such as extensions and training material.
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)
