@@ -10,7 +10,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430871(v=PandP.40)'
 
 Prism 5.0 includes guidance in several new areas, resulting in new code in the Prism Library for WPF, new and updated QuickStarts, and updated documentation. Parts of the Prism Library changed between Prism 4.1 and Prism 5.0 to support the new guidance, fix existing issues, and respond to community requests.
 
-**Note:** For .NET 4.0, Silverlight, or Windows Phone 7.x applications use [Prism 4.1](https://msdn.microsoft.com/en-us/library/gg430869(v=pandp.40)).
+> [!NOTE]
+> For .NET 4.0, Silverlight, or Windows Phone 7.x applications use [Prism 4.1](https://msdn.microsoft.com/en-us/library/gg430869(v=pandp.40)).
 
 ## New Guidance
 
@@ -109,7 +110,8 @@ In your application, you can now use NuGet to add references to the Prism assemb
 -   [Prism.UnityExtensions](http://aka.ms/prism-wpf-prism50unityextensionsnuget)
 -   [Prism.MEFExtensions](http://aka.ms/prism-wpf-prism50mefextensionsnuget)
 
-**Note:** The Prism NuGet package will download the Prism.Composition, Prism.Interactivity, Prism.Mvvm, and Prism.PubSubEvents packages. You only need to add references to the Prism.Interactivity, Prism.Mvvm, and Prism.PubSubEvents if you need finer granularity.
+> [!NOTE]
+> The Prism NuGet package will download the Prism.Composition, Prism.Interactivity, Prism.Mvvm, and Prism.PubSubEvents packages. You only need to add references to the Prism.Interactivity, Prism.Mvvm, and Prism.PubSubEvents if you need finer granularity.
 
 ## More Information
 

@@ -56,7 +56,8 @@ Because the first four properties are related to questionnaires, a questionnaire
 
 Note that even things like buttons represent something that needs support from the view model. You can either expose a command, as shown in this QuickStart, or you can expose a method. With the former, you will need a property exposed from the view model with an object that implements the **ICommand** interface; with the latter, you need a behavior that can target a method.
 
-**Note:** For button clicks, you have the choice of commands or behaviors. For more information, see [Command-Enabled Controls vs. Behaviors](https://msdn.microsoft.com/en-us/library/gg405494(vpandp.40)#CommandEnabledControls) in [Advanced MVVM Scenarios](https://msdn.microsoft.com/en-us/library/gg405494(vpandp.40)). In this topic, you will use a command. To do that, you need a command implementation, which does not exist in a form compatible with view models in the .NET Framework. Prism provides the **DelegateCommand** class that is perfect for hooking up views to view models with commands.
+> [!NOTE]
+> For button clicks, you have the choice of commands or behaviors. For more information, see [Command-Enabled Controls vs. Behaviors](https://msdn.microsoft.com/en-us/library/gg405494(vpandp.40)#CommandEnabledControls) in [Advanced MVVM Scenarios](https://msdn.microsoft.com/en-us/library/gg405494(vpandp.40)). In this topic, you will use a command. To do that, you need a command implementation, which does not exist in a form compatible with view models in the .NET Framework. Prism provides the **DelegateCommand** class that is perfect for hooking up views to view models with commands.
 
 As we want to demonstrate parent-child view model composition, the application UI is composed by two views: **MainWindow**, which contains the **Reset** and **Submit** buttons and an instance of the second view, which is the **QuestionnaireView** that includes the questionnaire's questions.
 
@@ -113,7 +114,8 @@ The **INotifyPropertyChanged** interface is implemented on the **BindableBase** 
     }
 ```
 
-**Note:** The view model class typically derives from the **BindableBase** class. In some cases, the model can derive from **BindableBase**, when the property that needs to update the view when its value is changed is stored in the model.
+> [!NOTE]
+> The view model class typically derives from the **BindableBase** class. In some cases, the model can derive from **BindableBase**, when the property that needs to update the view when its value is changed is stored in the model.
 
 To support **INotifyPropertyChanged**, your class needs to derive from the **BindableBase** class, and the property setter needs to call the **SetProperty** method of the **BindableBase** class.
 

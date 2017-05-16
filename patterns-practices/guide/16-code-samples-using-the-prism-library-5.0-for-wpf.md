@@ -29,7 +29,8 @@ Before you can use the Prism Library, the following must be installed:
 -   Microsoft .NET Framework 4.5 (installed with Visual Studio 2012) or Microsoft .NET Framework 4.51.
 -   Microsoft Visual Studio 2012 Professional, Premium, or Ultimate editions or Microsoft Visual Studio 2013 Professional, Premium, or Ultimate editions.
 
-**Note:** Visual Studio 2013 Express Edition can be used to develop Prism applications using the Prism Library.
+> [!NOTE]
+> Visual Studio 2013 Express Edition can be used to develop Prism applications using the Prism Library.
 
 Optionally, you should consider also installing the following:
 

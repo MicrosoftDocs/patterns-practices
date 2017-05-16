@@ -60,7 +60,8 @@ The following assets are shipped with Prism 4.1:
 
 With the exception of the MVVM, Navigation, and UI Composition QuickStarts, there are two solutions for each QuickStart, one that targets WPF and one that targets Silverlight.
 
-**Note:** For more information about using Prism on Windows Phone 7, see the [Windows Phone 7 Developer Guide community site](http://wp7guide.codeplex.com/) on CodePlex (<http://wp7guide.codeplex.com/>).
+> [!NOTE]
+> For more information about using Prism on Windows Phone 7, see the [Windows Phone 7 Developer Guide community site](http://wp7guide.codeplex.com/) on CodePlex (<http://wp7guide.codeplex.com/>).
 
 ## Installing Prism
 
@@ -79,13 +80,15 @@ Before you can use the Prism Library, the following must be installed:
 -  Microsoft .NET Framework 4.0 (installed with Visual Studio 2010)
 -  Microsoft Visual Studio 2010 Professional, Premium, or Ultimate editions
 
-**Note:** Visual Studio 2010 Express Edition can be used to develop Prism applications using the Prism Library.
+> [!NOTE]
+> Visual Studio 2010 Express Edition can be used to develop Prism applications using the Prism Library.
 
 If you are developing Silverlight applications, the following must be installed:
 
 -  [Microsoft Silverlight 4 Tools for Visual Studio 2010](http://go.microsoft.com/fwlink/?linkid=177428) (required for Silverlight development; includes the developer Silverlight runtime)
 
-**Note:** Although the Silverlight Tools for Visual Studio 2010 are not required, it is recommended for all WPF and Silverlight developers to download and use the latest version of the Silverlight Tools for Visual Studio 2010.<br />
+> [!NOTE]
+> Although the Silverlight Tools for Visual Studio 2010 are not required, it is recommended for all WPF and Silverlight developers to download and use the latest version of the Silverlight Tools for Visual Studio 2010.<br />
 The WPF and Silverlight Designer for Visual Studio is updated together with the Silverlight developer runtime and software development kit (SDK), which are included in the download. These updates come in the form of new features and bug fixes.
 
 Optionally, you should consider also installing the following:
@@ -107,7 +110,8 @@ Registering the Prism Library with Visual Studio is not required, but for many d
 
 To register the Prism Library binaries, launch the RegisterPrismBinaries.bat batch file located in the folder where you extracted Prism. This batch file creates a temporary .reg file with the information required to register the Desktop, Silverlight, and Phone binaries and uses it to update the registry. Because updating the registry is a privileged operation, a User Account Control (UAC) prompt will appear if you do not have elevated privileges. For additional information about UAC, see [What is User Account Control](http://windows.microsoft.com/en-us/windows7/what-is-user-account-control).
 
-**Note:** At most, one copy of the binaries can be registered using the script; if multiple copies of the Prism Library are registered, only the binaries for the last registered copy will be available in Visual Studio.
+> [!NOTE]
+> At most, one copy of the binaries can be registered using the script; if multiple copies of the Prism Library are registered, only the binaries for the last registered copy will be available in Visual Studio.
 
 ## NuGet Packages
 
@@ -260,7 +264,8 @@ For more information about the State-Based Navigation QuickStart, see "State-Bas
 
 The View-Switching Navigation QuickStart demonstrates using region navigation APIs. The QuickStart is a simple email, contacts, and calendar application. The left region provides navigation to each of the views. The views demonstrate navigating backwards and asynchronous dialog interactions.
 
-**Note:** This QuickStart does not demonstrate integrating region navigation with the native Silverlight navigation APIs. However, the Silverlight navigation APIs can be used with the Prism region navigation APIs.
+> [!NOTE]
+> This QuickStart does not demonstrate integrating region navigation with the native Silverlight navigation APIs. However, the Silverlight navigation APIs can be used with the Prism region navigation APIs.
 
 **To run the View-Switching Navigation QuickStart:**
 

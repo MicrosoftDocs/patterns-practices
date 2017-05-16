@@ -27,7 +27,8 @@ In the context of an application based on the Prism Library, there are specific 
 -   A container injects the composition services, such as the region manager and the event aggregator.
 -   A container is used for registering module-specific services, which are services that have module-specific functionality.
 
-**Note:** Some samples in the Prism guidance rely on the Unity Application Block (Unity) as the container. Other code samples, for example the Modularity QuickStarts, use Managed Extensibility Framework (MEF). The Prism Library itself is not container-specific, and you can use its services and patterns with other containers, such as Castle Windsor, StructureMap, and Spring.NET.
+> [!NOTE]
+> Some samples in the Prism guidance rely on the Unity Application Block (Unity) as the container. Other code samples, for example the Modularity QuickStarts, use Managed Extensibility Framework (MEF). The Prism Library itself is not container-specific, and you can use its services and patterns with other containers, such as Castle Windsor, StructureMap, and Spring.NET.
 
 ## Key Decision: Choosing a Dependency Injection Container
 
@@ -75,7 +76,8 @@ You should consider the following before using containers:
     -   If you want to conditionally register specific services, configure the container through code.
     -   If you have module-level services, consider configuring the container through code so that those services are registered only if the module is loaded.
 
-**Note:** Some containers, such as MEF, cannot be configured via a configuration file and must be configured via code.
+> [!NOTE]
+> Some containers, such as MEF, cannot be configured via a configuration file and must be configured via code.
 
 
 ## Core Scenarios
@@ -110,7 +112,8 @@ During initialization, a type can register other types, such as views and servic
 
 Depending on which container you use, registration can also be performed outside the code through configuration. For an example of this, see Registering Modules using a Configuration File in [Modular Application Development](https://msdn.microsoft.com/en-us/library/gg405479(v=pandp.40)).
 
-**Note:** The advantage of registering in code, compared to configuration, is that the registration happens only if the module loads.
+> [!NOTE]
+> The advantage of registering in code, compared to configuration, is that the registration happens only if the module loads.
 
 ### Registering Types with MEF
 
@@ -136,7 +139,8 @@ Another option when using MEF is to create an instance of a class and register t
     }
 ```
 
-**Note:** When using MEF as your container, it is recommended that you use attributes to register types.
+> [!NOTE]
+> When using MEF as your container, it is recommended that you use attributes to register types.
 
 ## Resolving
 
@@ -145,11 +149,13 @@ After a type is registered, it can be resolved or injected as a dependency. When
 In general, when a type is resolved, one of three things happens:
 
 -   If the type has not been registered, the container throws an exception.
-    **Note:** Some containers, including Unity, allow you to resolve a concrete type that has not been registered.
+    > [!NOTE]
+> Some containers, including Unity, allow you to resolve a concrete type that has not been registered.
 
 -   If the type has been registered as a singleton, the container returns the singleton instance. If this is the first time the type was called for, the container creates it and holds on to it for future calls.
 -   If the type has not been registered as a singleton, the container returns a new instance.
-    **Note:** By default, types registered with MEF are singletons and the container holds a reference to the object. In Unity, new instances of objects are returned by default, and the container does not maintain a reference to the object.
+    > [!NOTE]
+> By default, types registered with MEF are singletons and the container holds a reference to the object. In Unity, new instances of objects are returned by default, and the container does not maintain a reference to the object.
 
 ### Resolving Instances with Unity
 

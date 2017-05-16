@@ -23,7 +23,8 @@ The QuickStarts included in this topic demonstrate how to code, discover, and in
     -   **Displaying progress**. An application can subscribe to a progress-changed event to display byte count and percentage progress as modules are downloaded.
     -   **Action on download complete**. An application can subscribe to a load module–completed event to take additional action after a module loads and initializes.
 
-    **Note:** Creating and populating a **ModuleCatalog** in XAML and downloading XAP files are two different concepts that can be used independently of each other. You can create and populate your **ModuleCatalog**, even if you do not download your modules. It is possible to add a **ModuleInfo** from code, instead of XAML, that indicates a module should be downloaded in a XAP file.
+    > [!NOTE]
+> Creating and populating a **ModuleCatalog** in XAML and downloading XAP files are two different concepts that can be used independently of each other. You can create and populate your **ModuleCatalog**, even if you do not download your modules. It is possible to add a **ModuleInfo** from code, instead of XAML, that indicates a module should be downloaded in a XAP file.
 
 -   **Leveraging different dependency injection containers**. Traditionally, QuickStarts have demonstrated using the Unity container, while the core library code remained container-agnostic. With the addition of Managed Extensibility Framework (MEF) to the .NET Framework 4, there are two QuickStarts, each of which uses a different container:
     -   **ModularityWithMef**. This QuickStart demonstrates modularity when using the MEF as the dependency injection container. Prism leverages MEF's declarative attribute model to integrate the **ModuleCatalog** and MEF's **ComposablePartsCatalog**.
@@ -128,7 +129,8 @@ This QuickStart requires Microsoft Visual Studio 2010. The Silverlight version o
 3.  On the **Build** menu, click **Rebuild Solution**.
 4.  Press F5 to run the QuickStart.
 
-**Note:** It is not possible to start Silverlight project directly, without using the Silverlight.Web project. Normally, you can start Silverlight applications directly, without using a web application project. The Silverlight Application Project will then dynamically create a test page that will host the application. However, the Silverlight security model does not allow the downloading of modules when the application is hosted in a dynamically created test page.
+> [!NOTE]
+> It is not possible to start Silverlight project directly, without using the Silverlight.Web project. Normally, you can start Silverlight applications directly, without using a web application project. The Silverlight Application Project will then dynamically create a test page that will host the application. However, the Silverlight security model does not allow the downloading of modules when the application is hosted in a dynamically created test page.
 
 ## Walkthrough
 
@@ -142,7 +144,8 @@ To explore the scenario, perform the steps to build and run the QuickStart:
 
     Module B and D are initialized when they are available, and then they are downloaded in the background. The progress bars show each of these as they download. Module A is initialized when it is available, and it depends on Module D. Because Module D has not completed downloading, Module A is not yet initialized. The trace window at the bottom shows messages as the application is initialized.
 
-    **Note:** If no dependencies are specified, the module load order is non-deterministic.
+    > [!NOTE]
+> If no dependencies are specified, the module load order is non-deterministic.
 
 2.  Hover over the Module A control. When the mouse hovers over the **Module A** control, a descriptive tooltip displays, as shown in the following illustration.
 
@@ -235,7 +238,8 @@ The **Bootstrapper** overrides the **CreateModuleCatalog** template method to re
     }
 ```
 
-**Note:** Managed Extensibility Framework (MEF) does not provide a mechanism for associating modules with the XAP file to download. Prism's **ModuleCatalog** continues to be used even when using the MEF container to support on-demand and background downloading.<br />
+> [!NOTE]
+> Managed Extensibility Framework (MEF) does not provide a mechanism for associating modules with the XAP file to download. Prism's **ModuleCatalog** continues to be used even when using the MEF container to support on-demand and background downloading.<br />
 Behind the scenes, the MEF **DeploymentCatalog** is used to download XAP files, and Prism keeps the **ModuleCatalog** updated as MEF discovers new modules.
 
 The Boostrapper class overrides the **ConfigureModuleCatalog** method to register additional modules that are referenced directly by the application.
@@ -276,7 +280,8 @@ When using MEF, the **AggregateCatalog** provides module and type discovery. In 
 
 This QuickStart demonstrates both loading modules at startup and on demand, downloading modules in the background while displaying progress, and handling dependencies between modules.
 
-**Note:** This QuickStart has additional classes that help to track module initialization state and artificially slow down the transfer of XAP files. These classes are for demonstration purposes only and are not intended for shipping applications.<br />
+> [!NOTE]
+> This QuickStart has additional classes that help to track module initialization state and artificially slow down the transfer of XAP files. These classes are for demonstration purposes only and are not intended for shipping applications.<br />
 The Shell user interface contains a **ModuleControl** for each module. The Shell also has the **ModuleTracker** class as its **DataContext**.<br />
 The **ModuleTracker** contains a **ModuleTrackingState** for each module. **ModuleControl** data binds to **ModuleTrackingState** and uses a custom style to visually display the downloading and initialized state of the module.<br />
 The **XapDownloadHandler** (in the Silverlight.Web project) artificially slows down the transfer of XAP files so that the QuickStart can display progress.

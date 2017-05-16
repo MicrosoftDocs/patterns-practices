@@ -12,7 +12,8 @@ The Multi-Targeting QuickStart demonstrates the structure of a project created t
 
 Although some Silverlight assemblies can be directly used from the .NET Framework 4.0, there are cases in which you need to share source code to create a multi-targeted application. To avoid maintaining two entirely separate code bases, linking the source code from a WPF to Silverlight project is a reasonable solution to these scenarios. This QuickStart demonstrates this linked file approach.
 
-**Note:** Manually maintaining the links between files in multiple projects using Visual Studio is possible, but it can be time consuming and error-prone. Because of this, the Prism team created the Project Linker tool. This tool helps to automatically create and maintain links from a source project to a target project to share code that is common to Silverlight and WPF. Therefore, shared code can be written once and built for the target environment. It also works with version control.
+> [!NOTE]
+> Manually maintaining the links between files in multiple projects using Visual Studio is possible, but it can be time consuming and error-prone. Because of this, the Prism team created the Project Linker tool. This tool helps to automatically create and maintain links from a source project to a target project to share code that is common to Silverlight and WPF. Therefore, shared code can be written once and built for the target environment. It also works with version control.
 
 You can download [Project Linker](http://visualstudiogallery.msdn.microsoft.com/en-us/5e730577-d11c-4f2e-8e2b-cbb87f76c044) from Visual Studio Gallery or open Visual Studio, click **Extension Manager** on the **Tools** menu, click **Online Gallery** in the **Extension Manager** dialog box, and then search for "Project Linker."
 
@@ -97,7 +98,8 @@ The remaining partial class is environment-specific; consequently, the Silverlig
 
 The approach of splitting the implementation of a service over two partial classes (one for Silverlight and one for WPF) can be used to employ different coding strategies in WPF and Silverlight environments. Note that the service interacts with the rest of the core application through a common interface, so this technique is a mechanism to factor implementation level details into files that are only compiled for the intended environment.
 
-**Note:** This technique is useful for minor scale implementation differences between WPF and Silverlight. There are some scenarios where the differences between both environments are considerable enough to apply the aforementioned approach. For more information about multi-targeting considerations, see [Multi-Targeted Considerations](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)#MultiTargetedConsiderations)" in [Sharing Code Between Silverlight and WPF](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)).
+> [!NOTE]
+> This technique is useful for minor scale implementation differences between WPF and Silverlight. There are some scenarios where the differences between both environments are considerable enough to apply the aforementioned approach. For more information about multi-targeting considerations, see [Multi-Targeted Considerations](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)#MultiTargetedConsiderations)" in [Sharing Code Between Silverlight and WPF](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)).
 
 ## Shared Files
 
@@ -114,7 +116,8 @@ The shared (linked) files are shown in the following figure.
 
 Linked files shared between Silverlight and WPF projects
 
-**Note:** For more information about the elements that can be multi-targeted, see [Multi-Targeted Elements](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)#MultiTargetedElements) in [Sharing Code Between Silverlight and WPF](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)).
+> [!NOTE]
+> For more information about the elements that can be multi-targeted, see [Multi-Targeted Elements](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)#MultiTargetedElements) in [Sharing Code Between Silverlight and WPF](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)).
 
 ## Acceptance Tests
 

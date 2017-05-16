@@ -85,7 +85,8 @@ The ability to locate and load modules at run time opens greater opportunities f
 -   **Separated Interface**. This pattern reduces coupling by placing the interface definition in a separate package from the implementation. When using Prism with Unity, each module implements the **IModule** interface. For an example of implementing a module in the UI Composition Quickstart, see the file ModuleInit.cs.
 -   **Plug-In**. This pattern allows the concrete implementation of a class to be determined at run time to avoid requiring recompilation when changing which concrete implementation is used or because of changes in the concrete implementation. In the Prism Library, this is handled through the **DirectoryModuleCatalog**, **ConfigurationModuleCatalog**, and the **ModuleInitializer,** which work together to locate and initialize **IModule** plug-ins. For examples of supporting plug-ins, see the files DirectoryModuleCatalog.cs, ConfigurationModuleCatalog.cs, and ModuleInitializer.cs in the Prism Library.
 
-**Note:** MEF was designed to support the plug-in model, allowing components to declaratively export and import concrete implementations.
+> [!NOTE]
+> MEF was designed to support the plug-in model, allowing components to declaratively export and import concrete implementations.
 
 ## Service Locator Pattern
 

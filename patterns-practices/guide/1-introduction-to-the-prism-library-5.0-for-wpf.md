@@ -218,7 +218,8 @@ Individual modules encapsulate a portion of the overall application's functional
 
 Now that you've seen the major capabilities and design patterns that Prism supports, it's time to see how easily you can start to use Prism when developing a new application. This section provides an overview of the first few steps required to create a basic Prism application. You can extend this basic application to leverage the additional capabilities and design patterns provided by Prism, as required by your scenario.
 
-**Note:**  Although the Prism Library can be easily used to build new composite WPF applications, you can also use Prism with existing applications that want to take advantage of one or more Prism capabilities or design patterns.
+> [!NOTE]
+>  Although the Prism Library can be easily used to build new composite WPF applications, you can also use Prism with existing applications that want to take advantage of one or more Prism capabilities or design patterns.
 
 A Prism application typically consists of a shell project and multiple module projects. The following illustration shows common activities needed when developing a composite application using the Prism Library.
 
@@ -270,7 +271,8 @@ Prism consists of the following:
 -   [**Prism Library source code.**](http://aka.ms/prism-wpf-code) The source code for the Prism Library assemblies, including the core Prism functionality, plus Unity and MEF extensions, which provide additional components for using Prism with the [Unity Application Block](http://msdn.microsoft.com/en-us/library/dd203101.aspx) (Unity) and the [Managed Extensibility Framework](http://msdn.microsoft.com/en-us/library/dd460648.aspx). The source code also includes Prism.PubSubEvents and Prism.Mvvm assemblies.
 -   [**Prism binary assemblies.**](http://aka.ms/prism-wpf-nuget) Signed binary versions of the Prism Library assemblies. These assemblies can be downloaded from NuGet by searching for Prism, Prism.Composition, Prism.PubSubEvents, and Prism.Mvvm, Prism.Interactivity, Prism.UnityExtensions, and Prism.MefExtensions. These NuGet packages will load dependencies such as the [Unity Application Block](http://msdn.microsoft.com/en-us/library/dd203101.aspx) and the [Service Locator](http://commonservicelocator.codeplex.com/).
 
-    **Note:** The Prism NuGet package will download the Prism.Composition, Prism.PubSubEvents, Prism.Mvvm, Prism.Interactivity, Prism.PubSubEvents, and Prism.Mvvm NuGet packages.
+    > [!NOTE]
+> The Prism NuGet package will download the Prism.Composition, Prism.PubSubEvents, Prism.Mvvm, Prism.Interactivity, Prism.PubSubEvents, and Prism.Mvvm NuGet packages.
 
 -   [**Code samples.**](http://aka.ms/prism-wpf-code) Prism includes a reference implementation sample and QuickStart samples. The Stock Trader Reference Implementation is a comprehensive sample application that illustrates how Prism can be used to implement real-world application scenarios. The reference implementation is intentionally incomplete, but they illustrate how many of the patterns in Prism can work together within a single application. The QuickStart samples include several small, focused sample applications that illustrate the MVVM pattern, navigation, UI composition, modularity, commanding, event aggregation, and interactivity.
 -   [**Documentation.**](http://aka.ms/prism-wpf-doc) The Prism 5.0 documentation provides an overview of the goals and concepts behind Prism and detailed guidance on using each of the capabilities and design patterns provided by Prism. The next section provides an overview of the topics covered.

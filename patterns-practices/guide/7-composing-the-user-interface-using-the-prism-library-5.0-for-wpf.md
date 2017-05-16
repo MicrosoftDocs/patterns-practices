@@ -66,7 +66,8 @@ If you create a view with a user control or custom control and put all the logic
 
 If you define a view as a data template, there is no code associated with the view itself. Therefore, you have to put the associated logic somewhere else. The same clean separation of logic from layout that is required for testability also helps make the view easier to maintain.
 
-**Note:** Unit testing and UI automation testing are two different types of testing with different coverage.
+> [!NOTE]
+> Unit testing and UI automation testing are two different types of testing with different coverage.
 
 Unit testing best practices recommend that the object be tested in isolation. To achieve object isolation, you need a mockup or stub for each external dependency. Then granular unit tests are run against the object.
 
@@ -542,7 +543,8 @@ The Prism Library provides multiple approaches to communicating between views, d
 
 **RegionContext** is useful when you want to share context between a parent view and child views that are hosted in a region. **RegionContext** is an attached property. You set the value of the context on the region control so that it can be made available to all child views that are displayed in that region control. The region context can be any simple or complex object and can be a data-bound value. The **RegionContext** can be used with either view discovery or view injection.
 
-**Note:** The **DataContext** property in WPF is used to set the local data context for the view. It allows the view to use data binding to communicate with a view model, local presenter, or model. **RegionContext** is used to share context between multiple views and is not local to a single view. It provides a simple mechanism for sharing context between multiple views.
+> [!NOTE]
+> The **DataContext** property in WPF is used to set the local data context for the view. It allows the view to use data binding to communicate with a view model, local presenter, or model. **RegionContext** is used to share context between multiple views and is not local to a single view. It provides a simple mechanism for sharing context between multiple views.
 
 The following code shows how the **RegionContext** attached property is used in XAML.
 
@@ -586,7 +588,8 @@ The value of the **RegionContext** can be changed from within a view by simply a
   }
 ```
 
-**Note:** The **RegionContext** is set as an attached property on the content object hosted in the region. This means that the content object has to derive from **DependencyObject**. In the preceding example, the view is a visual control, which ultimately derives from **DependencyObject**.<br />
+> [!NOTE]
+> The **RegionContext** is set as an attached property on the content object hosted in the region. This means that the content object has to derive from **DependencyObject**. In the preceding example, the view is a visual control, which ultimately derives from **DependencyObject**.<br />
 If you choose to use WPF data templates to define your view, the content object will represent the **ViewModel** or **PresentationModel**. If your view model or presentation model needs to retrieve the **RegionContext**, it will need to derive from the **DependencyObject** base class.
 
 ## Creating Multiple Instances of a Region
@@ -1026,7 +1029,8 @@ The purpose of this type of sample data is to let designers start their projects
 
 While most sample data is supported in both the Blend and Visual Studio designers, XML sample data is a Blend feature and does not render in the Visual Studio designer.
 
-**Note:** XML sample data file is not compiled or added to the assembly when built; however, the XML schema is compiled into the built assembly.
+> [!NOTE]
+> XML sample data file is not compiled or added to the assembly when built; however, the XML schema is compiled into the built assembly.
 
 #### Blend for Visual Studio 2013 and Visual Studio 2013 XAML Sample Data
 
@@ -1077,7 +1081,8 @@ Data pane
 
 You can then drag it onto the root element of the view, such as the **UserControl**, and have it set the **d:DataContext** property. You can also drop sample data collections onto items controls, and Blend will wire up the sample data to the control.
 
-**Note:** XAML sample data files are not compiled into or included in built assemblies.
+> [!NOTE]
+> XAML sample data files are not compiled into or included in built assemblies.
 
 #### XAML Resource
 

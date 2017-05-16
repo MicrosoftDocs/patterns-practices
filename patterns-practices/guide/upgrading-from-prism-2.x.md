@@ -16,7 +16,8 @@ This topic describes how to upgrade a solution from version 2.x to version 4.0 o
 -   [Regions API Changes](#_regions_api_changes)
 -   [EventAggregator API Changes](#_eventaggregator_api_changes)
 
-**Note:** Because this version of Prism targets the .NET Framework 4.0 and Silverlight 4, it was named Prism 4.0 so it would be easy to remember. There is no version Prism 3.x.
+> [!NOTE]
+> Because this version of Prism targets the .NET Framework 4.0 and Silverlight 4, it was named Prism 4.0 so it would be easy to remember. There is no version Prism 3.x.
 
 ## Update Namespace and Assembly References
 
@@ -29,7 +30,8 @@ The assembly/namespace change also affects the Managed Extensibility Framework (
 
 In Extensible Application Markup Language (XAML), a new **XmlnsDefinition** of **http://www.codeplex.com/prism** was added. The existing **XmlnsDefinition** of **http://www.codeplex.com/CompositeWPF** was left to make the transition to Prism 4.0 easier, but only resolves the Region namespace, whereas the first one pulls in all the library namespaces. It is recommended to update all the XAML files to use the new **XmlnsDefinition**.
 
-**Note:** The Prism Library now includes the signed binaries to use in your solutions. They are located in the bin folder where you extracted Prism.
+> [!NOTE]
+> The Prism Library now includes the signed binaries to use in your solutions. They are located in the bin folder where you extracted Prism.
 
 ## New Assemblies to Support MEF
 
@@ -68,7 +70,8 @@ With the addition of supporting MEF, there were several changes to the Prism Lib
             }
 ```
 
-**Note:** There is a new **ConfigureModuleCatalog** method in the **Bootstrapper** class, mentioned in the following bullet that can be used instead of this method.
+> [!NOTE]
+> There is a new **ConfigureModuleCatalog** method in the **Bootstrapper** class, mentioned in the following bullet that can be used instead of this method.
 
 -   Several new methods were added to better separate creation of objects from configuration:
     -   The **ConfigureModuleCatalog** virtual method was added to allow modifying the catalog after creation.

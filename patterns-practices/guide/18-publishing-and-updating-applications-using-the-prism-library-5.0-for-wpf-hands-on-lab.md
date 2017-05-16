@@ -31,7 +31,8 @@ Before you can use the Prism Library, the following must be installed:
 
 This topic requires you to have Prism and the Prism QuickStarts in the default installed directory structure. This lab uses the ModularityWithUnity.Desktop QuickStart that is included with the Prism installed source code.
 
-**Note:** This hands-on lab uses the QuickStart that uses a Unity container, but you can also use the Managed Extensibility Framework (MEF) variant of the QuickStart.
+> [!NOTE]
+> This hands-on lab uses the QuickStart that uses a Unity container, but you can also use the Managed Extensibility Framework (MEF) variant of the QuickStart.
 
 **To compile the solution**
 
@@ -40,7 +41,8 @@ This topic requires you to have Prism and the Prism QuickStarts in the default i
 
 Additionally, this lab uses the Manifest Manager Utility, which is available on the Prism CodePlex site at <http://compositewpf.codeplex.com/releases/view/14771> in the **Download** section. You will need to download and extract the source code for that utility, and build it to use it later in the lab. You can either run it from a separate instance of Visual Studio or you can build once and just run the binaries for the second task in this lab.
 
-**Note:** This hands-on lab assumes that you understand Prism modularity and deployment concepts. For more information, see [Modular Application Development](https://msdn.microsoft.com/en-us/library/gg405479(v=pandp.40)) and [Deploying Applications](https://msdn.microsoft.com/en-us/library/gg430856(v=pandp.40)).
+> [!NOTE]
+> This hands-on lab assumes that you understand Prism modularity and deployment concepts. For more information, see [Modular Application Development](https://msdn.microsoft.com/en-us/library/gg405479(v=pandp.40)) and [Deploying Applications](https://msdn.microsoft.com/en-us/library/gg430856(v=pandp.40)).
 
 ## Procedures
 
@@ -122,7 +124,8 @@ The following procedure explains how to set up the certificate used for signing 
 
   Publish Wizard dialog box
 
-  **Note:** Depending on the computer you publish to and the security settings, you may get a warning that Visual Studio is unable to view the published application. This simply means it was unable to launch a browser and navigate to the publish location URL. However, the application is not really ready to install yet at this point because you need to add the dynamic modules to the manifests in the next task.
+  > [!NOTE]
+> Depending on the computer you publish to and the security settings, you may get a warning that Visual Studio is unable to view the published application. This simply means it was unable to launch a browser and navigate to the publish location URL. However, the application is not really ready to install yet at this point because you need to add the dynamic modules to the manifests in the next task.
 
 ## Task 2: Updating the Manifests to Include Dynamically Loaded Module Assemblies
 

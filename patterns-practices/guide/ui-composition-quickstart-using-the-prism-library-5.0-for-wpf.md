@@ -46,7 +46,8 @@ The following artifacts are illustrated in the preceding figure:
 -   **Employee Details view**. This view shows the details about the selected employee.
 -   **Employees Projects view**. This view displays the list of projects an employee is working on.
 
-**Note:** The QuickStart contains TODO comments to help navigate the important concepts in the code. Use the Task List window in Visual Studio to see a list of these important areas of code. Make sure that **Comments** is selected in the dropdown box of the Task List window. If you double-click an item in the list, the code file will open in the appropriate line.
+> [!NOTE]
+> The QuickStart contains TODO comments to help navigate the important concepts in the code. Use the Task List window in Visual Studio to see a list of these important areas of code. Make sure that **Comments** is selected in the dropdown box of the Task List window. If you double-click an item in the list, the code file will open in the appropriate line.
 
 ## Composing the User Interface
 
@@ -115,7 +116,8 @@ The **RegisterViewWithRegion** method of the Prism Library's **RegionViewRegistr
 
 -   From the **RegionViewRegistry** directly.
 -   From a **RegionManager** instance, because this is an extension method of that class for easy access.
-    **Note:** This extension method is on the <strong>RegionManager</strong> for easy access, but it does not register the view with that instance of the region manager only. When a region with the specified name is created, regardless of which scoped region manager is registered, the view will be pulled into it.
+    > [!NOTE]
+> This extension method is on the <strong>RegionManager</strong> for easy access, but it does not register the view with that instance of the region manager only. When a region with the specified name is created, regardless of which scoped region manager is registered, the view will be pulled into it.
 
 The **RegisterViewWithRegion** method has two overloads:
 
@@ -166,7 +168,8 @@ The value of the **RegionContext** can be changed by simply assigning a new valu
             as Employee;
 ```
 
-**Note:** The **DataContext** property is not used to share context because the **DataContext** property is typically used for storing the view model of the view.
+> [!NOTE]
+> The **DataContext** property is not used to share context because the **DataContext** property is typically used for storing the view model of the view.
 
 ## Acceptance Tests
 

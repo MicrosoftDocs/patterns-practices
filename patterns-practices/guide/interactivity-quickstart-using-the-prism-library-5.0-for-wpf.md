@@ -169,7 +169,8 @@ In the following example, the **PopupWindowAction** action defines a custom view
   </prism:InteractionRequestTrigger>
 ```
 
-> **Note:** Take into account that the view and its view model are created only once and will be reused each time the action is executed.
+> > [!NOTE]
+> Take into account that the view and its view model are created only once and will be reused each time the action is executed.
 
 Your custom popup view model needs to implement the **IInteractionRequestAware** interface in order to get the notification object from the interaction request as well as an action that can be invoked to finish the interaction. You can see the interface members in the following code.
 

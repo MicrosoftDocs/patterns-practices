@@ -204,7 +204,8 @@ Some applications do not use many of the features in the Prism Library. In some 
     }
 ```
 
-**Note:** The overrides of the region adapters and mappings are required because Unity cannot determine the appropriate concrete type to return when an implementation of an interface is requested. These calls associate the concrete type to return for each interface. When concrete types are requested Unity is able to directly resolve them by instantiating that type.
+> [!NOTE]
+> The overrides of the region adapters and mappings are required because Unity cannot determine the appropriate concrete type to return when an implementation of an interface is requested. These calls associate the concrete type to return for each interface. When concrete types are requested Unity is able to directly resolve them by instantiating that type.
 
 ```C#
     // when using MEFBootstrapper
@@ -467,7 +468,8 @@ The **Adapt** method is also an abstract method defined in the **RegionAdapterBa
     }
 ```
 
-**Note:** The region adapter will be registered as a singleton service and will be kept alive throughout the application's lifetime, so make sure you do not keep references to possibly shorter lived objects, such as UI controls or region instances. |
+> [!NOTE]
+> The region adapter will be registered as a singleton service and will be kept alive throughout the application's lifetime, so make sure you do not keep references to possibly shorter lived objects, such as UI controls or region instances. |
 
 Region adapter mappings are used by the region manager service to associate the correct region adapters for XAML-defined regions. The following section describes how to customize the registration of region adapter mappings.
 
@@ -566,7 +568,8 @@ WPF applications can replace the **IRegionNavigationContentLoader** implementati
 
 To change the logical navigation structure, derive a new class from **RegionNavigationContentLoader** and override the **GetContractFromNavigationContext** method. In the method, translate the incoming contract name to the view type name to load. It is recommended to call the base class because it conveniently parses the URI into a contract string to inspect. The following code example shows a custom region content loader that maps "Home" to the Home view and "About" to the About view.
 
-**Note:** This example uses MEF, so export attributes are applied at the top of the class to make it available in the MEF container.
+> [!NOTE]
+> This example uses MEF, so export attributes are applied at the top of the class to make it available in the MEF container.
 
 ```C#
     [Export(typeof(IRegionNavigationContentLoader))]

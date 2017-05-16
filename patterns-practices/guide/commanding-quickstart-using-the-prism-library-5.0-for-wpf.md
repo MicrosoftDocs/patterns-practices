@@ -36,7 +36,8 @@ The QuickStart highlights the key implementation details of an application that 
 
 Commanding QuickStart conceptual view
 
-**Note:** The QuickStart contains a number of TODO comments to help navigate the important concepts in the code. Use the Task List window in Visual Studio to see a list of these important areas of code. Make sure you select **Comments** in the dropdown box. If you double-click an item in the list, the code file will open in the appropriate line.
+> [!NOTE]
+> The QuickStart contains a number of TODO comments to help navigate the important concepts in the code. Use the Task List window in Visual Studio to see a list of these important areas of code. Make sure you select **Comments** in the dropdown box. If you double-click an item in the list, the code file will open in the appropriate line.
 
 ## Delegate Commands
 

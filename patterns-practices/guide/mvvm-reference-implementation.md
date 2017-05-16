@@ -39,7 +39,8 @@ To explore the scenario, perform the following steps to build and run the QuickS
 
 1. The main window is composed of a view that shows a list of the different questionnaires that can be taken. Click the **Take Survey** button of the Food questionnaire item to display it.
 
-  **Note:** Notice that in the user interface of the reference implementation there are information icons; you can click them to display/hide information and implementation notes about the different pieces of the reference implementation.
+  > [!NOTE]
+> Notice that in the user interface of the reference implementation there are information icons; you can click them to display/hide information and implementation notes about the different pieces of the reference implementation.
 
   ![](https://msdn.microsoft.com/en-us/Gg405492.42FE42CF511A163DF296BD4DE31D7621(en-us,PandP.40).png "Reference implementation main window")
 
@@ -52,7 +53,8 @@ To explore the scenario, perform the following steps to build and run the QuickS
 
   Validation errors being displayed
 
-  **Note:** Note that if you choose more than two answers for the multiple-selection question, a validation error displays.
+  > [!NOTE]
+> Note that if you choose more than two answers for the multiple-selection question, a validation error displays.
 
 4. Click **Cancel**. A confirmation dialog box appears. Click **Cancel** to return to the questionnaire.
 
@@ -237,7 +239,8 @@ In the preceding code, when the **Take Survey** button is clicked, the preceding
 
 In the reference implementation, the actual questionnaire data (questions and options) needs to be passed to the questionnaire view model. Because MEF is being used to import the view models (parts), parameters (such as context) cannot be passed. If you need to pass state for an object that will be created by MEF, you need to set the value for the current state for the type of the context object. The receiving part imports the matching **IState**, which is non-shared and captures the current state when created, to isolate the consumer from any changes to the current value that might occur later.
 
-**Note:** The reference implementation has the **StateHandler** class that provides access to state management objects in the container and handles setting state while returning previous values; therefore, the user avoids dealing with the current state directly.
+> [!NOTE]
+> The reference implementation has the **StateHandler** class that provides access to state management objects in the container and handles setting state while returning previous values; therefore, the user avoids dealing with the current state directly.
 
 For this reason, the state management classes have been created. These are the **State** and **CurrentState** classes and their corresponding interfaces. The interfaces are shown in the following code.
 
@@ -263,7 +266,8 @@ For this reason, the state management classes have been created. These are the *
   }
 ```
 
-**Note:** The preceding code takes advantage of the **InheritedExport** attribute in the interfaces to avoid explicitly exporting each concrete non-generic state management class.
+> [!NOTE]
+> The preceding code takes advantage of the **InheritedExport** attribute in the interfaces to avoid explicitly exporting each concrete non-generic state management class.
 
 The following classes are concrete and non-generic implementations of the **State** and **CurrentState** abstract classes. These classes must be defined because classes that inherit from the generic classes exported with MEF do not satisfy imports because it creates closed generic types.
 
@@ -367,13 +371,15 @@ The preceding code shows a method of the **QuestionnaireRepository** class that 
 
 In the reference implementation, the **INotifyDataErrorInfo** interface is implemented in the same way as in the MVVM QuickStart, which implements the interface in a **DomainObject** abstract class. However, to specify the conditions that a property must fulfill to be valid and the validation errors, the reference implementation uses data annotations attributes. Both the standard attributes (such as **Required**, **Range**, and **StringLength**) and the custom validation attribute are used to invoke custom validation methods.
 
-**Note:** There are slight differences between the **DomainObject** class of the reference implementation and the one of the QuickStart.
+> [!NOTE]
+> There are slight differences between the **DomainObject** class of the reference implementation and the one of the QuickStart.
 
 The following code shows the Questionnaire partial class, located in the file MVVM.Questionnaires\\Model\\DomainObjects.cs.
 
 In this file, you can see that each class from the model inherits from the **DomainObject** abstract class, and that the condition that each property must fulfill to be valid is set with data annotations attributes. Finally, note that the validations are triggered in the setter of each property whether or not there are validation rules for it.
 
-**Note:** The partial classes located in the DomainObjects.cs file implements the **INotifyPropertyChanged** and the **INotifyDataErrorInfo** interfaces. Ideally, this repetitive code could be generated by a tool.
+> [!NOTE]
+> The partial classes located in the DomainObjects.cs file implements the **INotifyPropertyChanged** and the **INotifyDataErrorInfo** interfaces. Ideally, this repetitive code could be generated by a tool.
 
 ```C#
   public sealed partial class Questionnaire : DomainObject

@@ -143,7 +143,8 @@ In many cases, the region control will be a simple control, such as a **ContentC
 
 The region adapter manages a list of views within the associated region. One or more of these views will be displayed in the region control according to its defined layout strategy. Views can be assigned a name that can be used to retrieve that view later on. The region adapter manages the active state of the views within the region. The active view is the view that is the selected or top-most view—for example, in a **TabControl**, the active view is the one displayed in the selected tab; in a **ContentControl**, the active view is the view that is currently displayed as the control's content.
 
-**Note:** The active state of a view is important to consider during navigation. Frequently, you will want the active view to participate in navigation so that it can save data before the user navigates away from it, or so that it can confirm or cancel the navigation operation.
+> [!NOTE]
+> The active state of a view is important to consider during navigation. Frequently, you will want the active view to participate in navigation so that it can save data before the user navigates away from it, or so that it can confirm or cancel the navigation operation.
 
 Previous versions of Prism allowed views to be displayed in a region in two ways. The first, called *view injection*, allows views to be programmatically displayed in a region. This approach is useful for dynamic content, where the view to be displayed in the region changes frequently, according to the application's presentation logic.
 
@@ -175,7 +176,8 @@ Both view injection and view discovery can be considered to be limited forms of 
 
 Navigation within a region means that a new view is to be displayed within that region. The view to be displayed is identified via a URI, which, by default, refers to the name of the view to be created. You can programmatically initiate navigation using the **RequestNavigate** method defined by the **INavigateAsync** interface.
 
-**Note:** Despite its name, the **INavigateAsync** interface does not represent asynchronous navigation that's carried out on a separate background thread. Instead, the **INavigateAsync** interface represents the ability to perform pseudo-asynchronous navigation. The **RequestNavigate** method may return synchronously following the completion of navigation operation, or it may return while a navigation operation is still pending, as in the case where the user needs to confirm the navigation. By allowing you to specify callbacks and continuations during navigation, Prism provides a mechanism to enable these scenarios without requiring the complexity of navigating on a background thread.
+> [!NOTE]
+> Despite its name, the **INavigateAsync** interface does not represent asynchronous navigation that's carried out on a separate background thread. Instead, the **INavigateAsync** interface represents the ability to perform pseudo-asynchronous navigation. The **RequestNavigate** method may return synchronously following the completion of navigation operation, or it may return while a navigation operation is still pending, as in the case where the user needs to confirm the navigation. By allowing you to specify callbacks and continuations during navigation, Prism provides a mechanism to enable these scenarios without requiring the complexity of navigating on a background thread.
 
 The **INavigateAsync** interface is implemented by the **Region** class, allowing you to initiate navigation within that region.
 
@@ -203,7 +205,8 @@ Using MEF, you can simply export the view type with the specified name.
 
 During navigation, the specified view is instantiated, via the container or MEF, along with its corresponding view model and other dependent services and components. After the view is instantiated, it is then added to the specified region and activated (activation is described in more detail later in this topic).
 
-**Note:** The preceding description illustrates view-first navigation, where the URI refers to the name of the view type, as it is exported or registered with the container. With view-first navigation, the dependent view model is created as a dependency of the view. An alternative approach is to use view model–first navigation, where the navigation URI refers to the name of the view model type, as it is exported or registered with the container. View model–first navigation is useful when the view is defined as a data template, or when you want your navigation scheme to be defined independently of the views.
+> [!NOTE]
+> The preceding description illustrates view-first navigation, where the URI refers to the name of the view type, as it is exported or registered with the container. With view-first navigation, the dependent view model is created as a dependency of the view. An alternative approach is to use view model–first navigation, where the navigation URI refers to the name of the view model type, as it is exported or registered with the container. View model–first navigation is useful when the view is defined as a data template, or when you want your navigation scheme to be defined independently of the views.
 
 The **RequestNavigate** method also allows you to specify a callback method, or a delegate, which will be called when navigation is complete.
 
@@ -227,7 +230,8 @@ The **NavigationResult** class defines properties that provide information about
 
 Frequently, the views and view models in your application will want to participate in navigation. The **INavigationAware** interface enables this. You can implement this interface on the view or (more commonly) the view model. By implementing this interface, your view or view model can opt-in to participate in the navigation process.
 
-**Note:**  In the description that follows, although a reference is made to calls to this interface during navigation between views, it should be noted that the **INavigationAware** interface will be called during navigation whether it is implemented by the view or by the view model.<br />
+> [!NOTE]
+>  In the description that follows, although a reference is made to calls to this interface during navigation between views, it should be noted that the **INavigationAware** interface will be called during navigation whether it is implemented by the view or by the view model.<br />
 During navigation, Prism checks to see whether the view implements the **INavigationAware** interface; if it does, it calls the required methods during navigation. Prism also checks to see whether the object set as the view's **DataContext** implements this interface; if it does, it calls the required methods during navigation.
 
 This interface allows the view or view model to participate in a navigation operation. The **INavigationAware** interface defines three methods.
@@ -261,7 +265,8 @@ After the new view is instantiated, initialized, and added to the target region,
 
 The **IRegionMemberLifetime** interface defines a single read-only property, **KeepAlive**. If this property returns **false**, the view is removed from the region when it is deactivated. Because the region no longer has a reference to the view, it then becomes eligible for garbage collection (unless some other component in your application maintains a reference to it). You can implement this interface on your view or your view model classes. Although the **IRegionMemberLifetime** interface is primarily intended to allow you to manage the lifetime of views within regions during activation and deactivation, the **KeepAlive** property is also considered during navigation after the new view is activated in the target region.
 
-**Note:** Regions that can display multiple views, such as those that use an **ItemsControl** or a **TabControl**, will display both non-active and active views. Removal of a non-active view from these types of regions will result in the view being removed from the UI.
+> [!NOTE]
+> Regions that can display multiple views, such as those that use an **ItemsControl** or a **TabControl**, will display both non-active and active views. Removal of a non-active view from these types of regions will result in the view being removed from the UI.
 
 ### Passing Parameters During Navigation
 
@@ -318,7 +323,8 @@ The ability to navigate to an existing view is useful for a variety of reasons. 
 
 Prism supports the two scenarios described earlier via the **IsNavigationTarget** method on the **INavigationAware** interface. This method is called during navigation on all views in a region that are of the same type as the target view. In the preceding examples, the target type of the view is the **EditCustomer** view, so the **IsNavigationTarget** method will be called on all existing **EditCustomer** view instances currently in the region. Prism determines the target type from the view URI, which it assumes is the short type name of the target type.
 
-**Note:** For Prism to determine the type of the target view, the view's name in the navigation URI should be the same as the actual target type's short type name. For example, if your view is implemented by the **MyApp.Views.EmployeeDetailsView** class, the view name specified in the navigation URI should be **EmployeeDetailsView**. This is the default behavior provided by Prism. You can customize this behavior by implementing a custom content loader class; you can do this by implementing the **IRegionNavigationContentLoader** interface or by deriving from the **RegionNavigationContentLoader** class.
+> [!NOTE]
+> For Prism to determine the type of the target view, the view's name in the navigation URI should be the same as the actual target type's short type name. For example, if your view is implemented by the **MyApp.Views.EmployeeDetailsView** class, the view name specified in the navigation URI should be **EmployeeDetailsView**. This is the default behavior provided by Prism. You can customize this behavior by implementing a custom content loader class; you can do this by implementing the **IRegionNavigationContentLoader** interface or by deriving from the **RegionNavigationContentLoader** class.
 
 The implementation of the **IsNavigationTarget** method can use the **NavigationContext** parameter to determine whether it can handle the navigation request. The **NavigationContext** object provides access to the navigation URI and the navigation parameters. In the preceding examples, the implementation of this method in the **EditCustomer** view model compares the current customer ID to the ID specified in the navigation request, and it returns **true** if they match.
 
@@ -338,7 +344,8 @@ You will often find that you will need to interact with the user during a naviga
 
 The **IConfirmNavigationRequest** interface derives from the **INavigationAware** interface and adds the **ConfirmNavigationRequest** method. By implementing this interface on your view or view model class, you allow them to participate in the navigation sequence in a way that allows them to interact with the user so that the user can confirm or cancel the navigation. You will often use an **Interaction Request** object, as described in Using Interaction Request Objects in [Advanced MVVM Scenarios](https://msdn.microsoft.com/en-us/library/gg405494(vpandp.40)), to display a confirmation pop-up window.
 
-**Note:** The **ConfirmNavigationRequest** method is called on the active view or view model, similar to the **OnNavigatedFrom** method described earlier.
+> [!NOTE]
+> The **ConfirmNavigationRequest** method is called on the active view or view model, similar to the **OnNavigatedFrom** method described earlier.
 
 The **ConfirmNavigationRequest** method provides two parameters, a reference to the current navigation context as described earlier, and a callback method that you can call when you want navigation to continue. For this reason, the callback is known as a continuation callback. You can store a reference to the continuation callback so the application can call it after it finishes interacting with the user. If your application interacts with the user through an **Interaction Request** object, you can chain the call to the continuation callback to the callback from the interaction request. The following diagram illustrates the overall process.
 
@@ -409,7 +416,8 @@ The **ConfirmNavigationRequest** method on the **ComposeEmailVewModel** class is
 
 The callback for the interaction request is called when the user clicks the buttons in the confirmation pop-up window to confirm or cancel the operation. This callback simply calls the continuation callback, passing in the value of the **Confirmed** flag, and causing the navigation to continue or be canceled.
 
-**Note:** It should be noted that after the interaction request event is raised, the **ConfirmNavigationRequest** method immediately returns so that the user can continue to interact with the UI of the application. When the user clicks the **OK** or **Cancel** buttons on the pop-up window, the callback method of the interaction request is made, which in turn calls the continuation callback to complete the navigation operation. All the methods are called on the UI thread. Using this technique, no background threads are required.
+> [!NOTE]
+> It should be noted that after the interaction request event is raised, the **ConfirmNavigationRequest** method immediately returns so that the user can continue to interact with the UI of the application. When the user clicks the **OK** or **Cancel** buttons on the pop-up window, the callback method of the interaction request is made, which in turn calls the continuation callback to complete the navigation operation. All the methods are called on the UI thread. Using this technique, no background threads are required.
 
 Using this mechanism, you can control if the navigation request is carried out immediately or is deferred, pending an interaction with the user or some other asynchronous interaction (for example, as a result of a web service request). To enable navigation to proceed, you can simply call the continuation callback method, passing **true** to indicate that it can continue. Similarly, you can pass **false** to indicate that the navigation should be canceled.
 
@@ -492,7 +500,8 @@ You can use the navigation journal to allow the user to navigate from within the
 
 You can implement a custom journal for a region if you need to implement a specific workflow pattern within that region.
 
-**Note:** The navigation journal can only be used for region-based navigation operations that are coordinated by the region navigation service. If you use view discovery or view injection to implement navigation within a region, the navigation journal will not be updated during navigation and cannot be used to navigate forward or backward within that region.
+> [!NOTE]
+> The navigation journal can only be used for region-based navigation operations that are coordinated by the region navigation service. If you use view discovery or view injection to implement navigation within a region, the navigation journal will not be updated during navigation and cannot be used to navigate forward or backward within that region.
 
 ### Using the WPF Navigation Framework
 

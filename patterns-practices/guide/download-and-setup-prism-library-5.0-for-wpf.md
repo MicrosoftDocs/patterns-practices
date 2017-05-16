@@ -91,7 +91,8 @@ Before you can use the Prism Library, the following must be installed:
 -   Microsoft .NET Framework 4.5 (installed with Visual Studio 2012) or Microsoft .NET Framework 4.51.
 -   Microsoft Visual Studio 2012 or 2013 Professional, Premium, or Ultimate editions.
 
-**Note:** Visual Studio 2013 Express Edition can be used to develop Prism applications using the Prism Library.
+> [!NOTE]
+> Visual Studio 2013 Express Edition can be used to develop Prism applications using the Prism Library.
 
 Optionally, you should consider also installing the following:
 
@@ -105,7 +106,8 @@ You can download the source code for the Prism library, the reference implementa
 
 To install the Prism assets, right-click the exe file or zip file, and then click **Run as administrator**. This will extract the source code into the folder of your choice.
 
-**Note:** The Stock Trader Reference Implementation and the QuickStarts can also be downloaded separately. The table below provides links to the source code for each.
+> [!NOTE]
+> The Stock Trader Reference Implementation and the QuickStarts can also be downloaded separately. The table below provides links to the source code for each.
 
 <table>
 <colgroup>

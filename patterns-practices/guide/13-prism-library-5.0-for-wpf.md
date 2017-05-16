@@ -32,7 +32,8 @@ The Prism Library ships signed binaries through NuGet packages to allow you to t
 
 Add references to the Prism binaries in your code by searching NuGet for Prism. The [Prism](http://aka.ms/prism-wpf-prism50nuget) NuGet package is dependent on the [Prism.Composition](http://aka.ms/prism-wpf-prism50compositionnuget), [Prism.Interactivity](http://aka.ms/prism-wpf-prism50interactivitynuget), [Prism.Mvvm](http://aka.ms/prism-wpf-prism50mvvmnuget), and [Prism.PubSubEvents](http://aka.ms/prism-wpf-prism50pubsubeventsnuget) NuGet packages.
 
-**Note:** The [Prism NuGet package](http://aka.ms/prism-wpf-prism50nuget) will download the Prism.Composition, Prism.PubSubEvents, Prism.Mvvm, and Prism.Interactivity NuGet packages.
+> [!NOTE]
+> The [Prism NuGet package](http://aka.ms/prism-wpf-prism50nuget) will download the Prism.Composition, Prism.PubSubEvents, Prism.Mvvm, and Prism.Interactivity NuGet packages.
 
 The source for the Prism library can be downloaded from <http://aka.ms/prism-wpf-code>.
 

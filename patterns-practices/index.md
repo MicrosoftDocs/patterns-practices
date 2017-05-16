@@ -15,7 +15,8 @@ Prism provides guidance designed to help you more easily design and build rich, 
 
 Prism is intended for software developers building WPF or Silverlight applications that typically feature multiple screens, rich user interaction and data visualization, and that embody significant presentation and business logic. These applications typically interact with a number of back-end systems and services and, using a layered architecture, may be physically deployed across multiple tiers. It is expected that the application will evolve significantly over its lifetime in response to new requirements and business opportunities. In short, these applications are "built to last" and "built for change." If your application does not need to last or need to change, then you may not benefit from using Prism.
 
-**Note:** Even single-person projects can realize the benefits by creating more testable and maintainable applications that can evolve over time using the modular approach.
+> [!NOTE]
+> Even single-person projects can realize the benefits by creating more testable and maintainable applications that can evolve over time using the modular approach.
 
 ## Architectural Goals
 
@@ -41,9 +42,11 @@ Before you can use the Prism Library, the following must be installed:
     -   [Expression Blend 4](http://www.microsoft.com/expression/products/blend_overview.aspx)
     -   [Windows Phone Developer Tools SDK](http://go.microsoft.com/fwlink/?linkid=185968) (for development with the Windows Phone 7)
 
-**Note:** If you want to download the Prism 4.0 – November 2010 release to use with .NET Framework 4.0, Visual Studio 2010, Silverlight 4.0, and Windows Phone 7, go [here for the Prism 4.0 Download](http://www.microsoft.com/en-us/download/details.aspx?displaylang=en&id=4922). The documentation did not change between Prism 4.0 – November 2010 and Prism 4.1 – February 2012.
+> [!NOTE]
+> If you want to download the Prism 4.0 – November 2010 release to use with .NET Framework 4.0, Visual Studio 2010, Silverlight 4.0, and Windows Phone 7, go [here for the Prism 4.0 Download](http://www.microsoft.com/en-us/download/details.aspx?displaylang=en&id=4922). The documentation did not change between Prism 4.0 – November 2010 and Prism 4.1 – February 2012.
 
-**Note:** Although the Silverlight Tools for Visual Studio 2010 are not required, it is recommended that all WPF and Silverlight developers download and use the latest version of the Silverlight Tools for Visual Studio 2010. The WPF and Silverlight Designer for Visual Studio is updated together with the Silverlight developer runtime and SDK. These updates come in the form of new features and bug fixes.
+> [!NOTE]
+> Although the Silverlight Tools for Visual Studio 2010 are not required, it is recommended that all WPF and Silverlight developers download and use the latest version of the Silverlight Tools for Visual Studio 2010. The WPF and Silverlight Designer for Visual Studio is updated together with the Silverlight developer runtime and SDK. These updates come in the form of new features and bug fixes.
 
 If you are authoring WPF and Silverlight projects that share code, you may want to read [Sharing Code Between WPF and Silverlight,](http://msdn.microsoft.com/library/ff921109(pandp.40).aspx) and install the [Project Linker 2.2](http://visualstudiogallery.msdn.microsoft.com/en-us/5e730577-d11c-4f2e-8e2b-cbb87f76c044) tool.
 
