@@ -27,7 +27,6 @@
 ### [Download and Setup Prism Library 5.0 for WPF](guide/download-and-setup-prism-library-5.0-for-wpf.md)
 ### [Event Aggregation QuickStart Using the Prism Library 5.0 for WPF](guide/event-aggregation-quickstart-using-the-prism-library-5.0-for-wpf.md)
 ### [Interactivity QuickStart Using the Prism Library 5.0 for WPF](guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf.md)
-### [Microsoft patterns & practices License](guide/microsoft-patterns-&-practices-license.md)
 ### [Modularity QuickStarts for Silverlight](guide/modularity-quickstarts-for-silverlight.md)
 ### [Modularity QuickStarts Using the Prism Library 5.0 for WPF](guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf.md)
 ### [Multi-Targeting QuickStart](guide/multi-targeting-quickstart.md)
