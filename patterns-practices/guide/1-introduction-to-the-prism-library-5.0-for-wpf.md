@@ -333,5 +333,3 @@ Prism's community sites are:
 -   MVVM (Model-View-ViewModel): [http://www.codeplex.com/pnpMvvm](http://www.codeplex.com/pnpmvvm)
 
 On this these community sites, you can post questions, provide feedback, or connect with other users for sharing ideas. Community members can also help Microsoft plan and test future offerings and download additional content, such as extensions and training material.
-
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)
