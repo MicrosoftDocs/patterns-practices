@@ -118,4 +118,3 @@ For more information about the Unity Application Block, see [Unity Application B
 
 (1) Gamma, Erich, Richard Helm, Ralph Johnson, and John Vlissides. *Design Patterns: Elements of Reusable Object-Oriented Software*. Addison Wesley Professional, 1995.
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)
