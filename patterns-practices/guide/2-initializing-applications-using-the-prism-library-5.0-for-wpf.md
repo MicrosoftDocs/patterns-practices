@@ -7,6 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430868(v=PandP.40)'
 
 # 2: Initializing Applications Using the Prism Library 5.0 for WPF
 
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
 
 This topic addresses what needs to happen to get a Prism for WPF application up and running. A Prism application requires registration and configuration during the application startup process—this is known as bootstrapping the application. The Prism bootstrapping process includes creating and configuring a module catalog, creating a dependency injection container such as Unity, configuring default region adapter for UI composition, creating and initializing the shell view, and initializing modules.
 
