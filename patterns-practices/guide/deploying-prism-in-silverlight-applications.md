@@ -7,6 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405475(v=PandP.40)'
 
 # Deploying Prism Silverlight Applications
 
+From: [Prism 4.1 - Developer's Guide to Microsoft Prism Library for WPF and Silverlight](https://msdn.microsoft.com/en-us/library/gg430869(v=pandp.40).aspx)
 
 To successfully move a Prism application into production, you need to plan for deployment as part of the design process of your application. This topic covers the considerations and actions you need to perform to prepare your Silverlight application for deployment and the actions you need to take to get the application in the user's hands.
 
