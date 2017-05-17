@@ -7,6 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921153(v=PandP.40)'
 
 # 1: Introduction to the Prism Library 5.0 for WPF
 
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
+
 Prism provides guidance designed to help you more easily design and build rich, flexible, and easy-to-maintain Windows Presentation Foundation (WPF) desktop applications. Using design patterns such as Model-View-ViewModel (MVVM), Composite View, and Event Aggregator that embody important architectural design principles helps you create a modular application—using loosely coupled components that can evolve independently. These types of applications are known as composite applications.
 
 Composite applications typically feature multiple screens, rich user interaction and data visualization, and that embody significant presentation and business logic. These applications typically interact with multiple back-end systems and services and, using a layered architecture, may be physically deployed across multiple tiers. It is expected that the application will evolve significantly over its lifetime in response to new requirements and business opportunities. In short, these applications are "built to last" and "built for change." Applications that do not demand these characteristics may not benefit from using Prism.
@@ -332,3 +334,4 @@ Prism's community sites are:
 
 On this these community sites, you can post questions, provide feedback, or connect with other users for sharing ideas. Community members can also help Microsoft plan and test future offerings and download additional content, such as extensions and training material.
 
+Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)
