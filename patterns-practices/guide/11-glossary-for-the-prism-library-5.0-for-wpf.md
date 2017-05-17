@@ -79,4 +79,3 @@ This glossary includes definitions of important terms that appear in the Prism d
 
 **view model location**. Locates and instantiates view models and associating to their respective views typically by using a convention base approach.
 
-Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)
