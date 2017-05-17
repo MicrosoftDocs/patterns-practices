@@ -1,4 +1,4 @@
----
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)---
 TOCTitle: '11: Glossary for the Prism Library 5.0 for WPF'
 Title: '11: Glossary for the Prism Library 5.0 for WPF'
 ms:assetid: '64ef46d4-a2aa-4488-90c5-4b5d6f6d6f76'
@@ -7,6 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921135(v=PandP.40)'
 
 # 11: Glossary for the Prism Library 5.0 for WPF
 
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
 
 This glossary includes definitions of important terms that appear in the Prism documentation.
 
@@ -78,3 +79,4 @@ This glossary includes definitions of important terms that appear in the Prism d
 
 **view model location**. Locates and instantiates view models and associating to their respective views typically by using a convention base approach.
 
+Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)
