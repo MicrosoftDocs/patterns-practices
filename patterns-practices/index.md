@@ -9,8 +9,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg406140(v=PandP.40)'
 
 ![](https://msdn.microsoft.com/en-us/Gg406140.pnp-logo(en-us,PandP.40).png)
 
-[patterns & practices Developer Center](http://www.microsoft.com/practices)
-
 November 2010
 
 ## Summary
@@ -53,19 +51,13 @@ Before you can use the Prism Library, the following must be installed:
 > [!NOTE]
 > Although the Silverlight Tools for Visual Studio 2010 are not required, it is recommended that all WPF and Silverlight developers download and use the latest version of the Silverlight Tools for Visual Studio 2010. The WPF and Silverlight Designer for Visual Studio is updated together with the Silverlight developer runtime and SDK. These updates come in the form of new features and bug fixes.
 
-If you are authoring WPF and Silverlight projects that share code, you may want to read [Chapter 10, "Sharing Code Between WPF and Silverlight,"](http://msdn.microsoft.com/library/ff921109(pandp.40).aspx) and install the [Project Linker 2.2](http://visualstudiogallery.msdn.microsoft.com/en-us/5e730577-d11c-4f2e-8e2b-cbb87f76c044) tool.
+If you are authoring WPF and Silverlight projects that share code, you may want to read [Chapter 10, "Sharing Code Between WPF and Silverlight,"](http://msdn.microsoft.com/library/ff921109(pandp.40).aspx) and install the [Project Linker](https://marketplace.visualstudio.com/items?itemName=patternsandpractices.ProjectLinker) tool.
 
 ## Resources
 
 The following table contains Prism download links to help you get started with Prism.
 
 <table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
-<tr class="odd">
 <td><p>Downloads</p></td>
 <td><p><a href="http://www.microsoft.com/downloads/details.aspx?familyid=3453ab2b-2067-41e4-b087-312d8385cf1b">Prism 4</a></p>
 <p><a href="http://compositewpf.codeplex.com/releases/view/55580">Developer's Guide to Microsoft Prism in .pdf format</a></p>
@@ -97,17 +89,11 @@ The following table contains Prism download links to help you get started with P
 <td><p>License</p></td>
 <td><p><a href="http://msdn.microsoft.com/en-us/library/gg405489(pandp.40).aspx">End User Licensing Agreement (EULA)</a></p></td>
 </tr>
-</tbody>
 </table>
 
 ## Guidance Assets
 
 <table>
-<colgroup>
-<col width="50%" />
-<col width="50%" />
-</colgroup>
-<tbody>
 <tr class="odd">
 <td><p>Documentation</p></td>
 <td><p>The documentation for Prism 4 has been completely rewritten and includes the architectural overview, design, and technical concepts for composite applications, applied patterns, two chapters covering Model-View-ViewModel (MVVM), application navigation, Stock Trader Reference Implementation (Stock Trader RI) and MVVM Reference Implementation (MVVM RI) overview, QuickStart overviews, and deployment topics. Much of this guidance is applicable even if you are not using the Prism Library, but you want to know best practices for creating composite applications.</p>
@@ -132,7 +118,6 @@ The following table contains Prism download links to help you get started with P
 <td><p>QuickStarts</p></td>
 <td><p>These include the source code for several small, focused applications that illustrate user interface (UI) composition, modularity, commanding, event aggregation, and multi-targeting applications between WPF and Silverlight. The Getting Started Hands-On Labs provide step-by-step instructions to create your first application using the Composite Application Library in WPF or Silverlight.</p></td>
 </tr>
-</tbody>
 </table>
 
 ## Feedback and Support
