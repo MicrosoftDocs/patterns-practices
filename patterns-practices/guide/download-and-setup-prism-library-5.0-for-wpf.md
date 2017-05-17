@@ -7,6 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405471(v=PandP.40)'
 
 # Download and Setup Prism Library 5.0 for WPF
 
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
 
 Learn what’s included in Prism 5.0 including the documentation, WPF code samples, and libraries. Additionally find out where to get the library and sample source code and the library NuGet packages.
 
