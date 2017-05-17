@@ -7,6 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405476(v=PandP.40)'
 
 # 13: Prism Library 5.0 for WPF
 
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
 
 The Prism Library helps architects and developers create composite applications for Windows Presentation Foundation (WPF) using the Model-View-ViewModel pattern. The Prism Library can support those wanting to build a number of application styles with WPF, but it is was primarily constructed for applications composed of discrete, functionally complete pieces that work together to create a single, integrated user interface (UI), often referred to as a composite application. The Prism Library accelerates the development of applications using proven design patterns.
 
@@ -84,3 +85,4 @@ For more information about MEF, see the following:
 For more information about service locator, see the Common Service Locator on CodePlex:
 <http://commonservicelocator.codeplex.com/>.
 
+Next Topic | Previous Topic | [Home](http://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)
