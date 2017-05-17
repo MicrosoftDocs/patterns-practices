@@ -1,4 +1,4 @@
-# [Index](index.md)
+# [Prism 5.0](index.md)
 
 ## [Guide](guide/index.md)
 
