@@ -2,6 +2,7 @@
 
 ## [Guide](guide/index.md)
 
+### [Download and Setup Prism Library 5.0 for WPF](guide/download-and-setup-prism-library-5.0-for-wpf.md)
 ### [1: Introduction to the Prism Library 5.0 for WPF](guide/1-introduction-to-the-prism-library-5.0-for-wpf.md)
 ### [2: Initializing Applications Using the Prism Library 5.0 for WPF](guide/2-initializing-applications-using-the-prism-library-5.0-for-wpf.md)
 ### [3: Managing Dependencies Between Components Using the Prism Library 5.0 for WPF](guide/3-managing-dependencies-between-components-using-the-prism-library-5.0-for-wpf.md)
@@ -20,11 +21,10 @@
 ### [16: Code Samples Using the Prism Library 5.0 for WPF](guide/16-code-samples-using-the-prism-library-5.0-for-wpf.md)
 ### [17: Getting Started Using the Prism Library 5.0 for WPF Hands-on Lab](guide/17-getting-started-using-the-prism-library-5.0-for-wpf-hands-on-lab.md)
 ### [18: Publishing and Updating Applications Using the Prism Library 5.0 for WPF Hands-on Lab](guide/18-publishing-and-updating-applications-using-the-prism-library-5.0-for-wpf-hands-on-lab.md)
+### [Upgrading from Prism 2.x](guide/upgrading-from-prism-2.x.md)
 ### [What's New in Prism Library 5.0 for WPF](guide/whats-new-in-prism-library-5.0-for-wpf.md)
 ### [Commanding QuickStart Using the Prism Library 5.0 for WPF](guide/commanding-quickstart-using-the-prism-library-5.0-for-wpf.md)
 ### [Deploying Prism Silverlight Applications](guide/deploying-prism-in-silverlight-applications.md)
-### [Developer's Guide to Microsoft Prism](guide/developers-guide-to-microsoft-prism.md)
-### [Download and Setup Prism Library 5.0 for WPF](guide/download-and-setup-prism-library-5.0-for-wpf.md)
 ### [Event Aggregation QuickStart Using the Prism Library 5.0 for WPF](guide/event-aggregation-quickstart-using-the-prism-library-5.0-for-wpf.md)
 ### [Interactivity QuickStart Using the Prism Library 5.0 for WPF](guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf.md)
 ### [Modularity QuickStarts for Silverlight](guide/modularity-quickstarts-for-silverlight.md)
@@ -37,7 +37,6 @@
 ### [State-Based Navigation QuickStart Using the Prism Library 5.0 for WPF](guide/state-based-navigation-quickstart-using-the-prism-library-5.0-for-wpf.md)
 ### [Stock Trader Reference Implementation Using the Prism Library 5.0 for WPF](guide/stock-trader-reference-implementation-using-the-prism-library-5.0-for-wpf.md)
 ### [UI Composition QuickStart Using the Prism Library 5.0 for WPF](guide/ui-composition-quickstart-using-the-prism-library-5.0-for-wpf.md)
-### [Upgrading from Prism 2.x](guide/upgrading-from-prism-2.x.md)
 ### [View-Switching Navigation QuickStart Using the Prism Library 5.0 for WPF](guide/view-switching-navigation-quickstart-using-the-prism-library-5.0-for-wpf.md)
 ### [Bibliography for the Developer's Guide to Prism Library 5.0 for WPF](guide/bibliography-for-the-developers-guide-to-prism-library-5.0-for-wpf.md)
 
