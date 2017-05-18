@@ -7,6 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921176(v=PandP.40)'
 
 # Multi-Targeting QuickStart
 
+From: [Prism 4.1 - Developer's Guide to Microsoft Prism Library for WPF and Silverlight](https://msdn.microsoft.com/en-us/library/gg430869(v=pandp.40).aspx)
+
 
 The Multi-Targeting QuickStart demonstrates the structure of a project created to multi-target Windows Presentation Foundation (WPF) and Silverlight environments through source-code sharing. It provides a WPF desktop experience and a Silverlight Rich Internet Application (RIA) experience.
 
