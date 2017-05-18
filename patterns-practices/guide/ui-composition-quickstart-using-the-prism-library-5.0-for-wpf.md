@@ -7,6 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921174(v=PandP.40)'
 
 # UI Composition QuickStart Using the Prism Library 5.0 for WPF
 
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
+
 The UI Composition QuickStart sample illustrates how to use both the view discovery and view injection approaches for user interface (UI) composition with the Prism Library for WPF. When using view discovery, modules can register views (or presentation models) against a particular named location. When that location is displayed at run time, any views that have been registered for that location will be automatically created and displayed within it. In the view injection approach, views are programmatically added or removed from a named location by the modules that manage them. To enable this, the application contains a registry of named locations in the UI, and a module can look up one of the locations using the registry and then programmatically inject views into it.
 
 ## Business Scenario
