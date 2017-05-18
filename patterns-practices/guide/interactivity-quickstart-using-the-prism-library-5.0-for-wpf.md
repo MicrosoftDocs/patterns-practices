@@ -7,6 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921081(v=PandP.40)'
 
 # Interactivity QuickStart Using the Prism Library 5.0 for WPF
 
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
 
 The Interactivity QuickStart demonstrates how views and view models can interact with the user. This includes interactions triggered from the view model and interactions fired by controls located in the view. To handle these different interactions the Prism library provides **InteractionRequests** and **InteractionRequestTriggers**, along with the custom **InvokeCommandAction** action. InvokeCommandAction is used to connect a trigger including events to a WPF command.
 
