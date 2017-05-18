@@ -41,6 +41,7 @@
 
 ## [Reference](reference/index.md)
 
+### [MVVM Reference Implementation](reference/mvvm-reference-implementation.md)
 ### [all.T:Microsoft.Practices.Prism.Bootstrapper](reference/all-t-mspp-bootstrapper.md)
 ### [all.T:Microsoft.Practices.Prism.CollectionExtensions](reference/all-t-mspp-collectionextensions.md)
 ### [all.T:Microsoft.Practices.Prism.Commands.CompositeCommand](reference/all-t-mspp-commands-compositecommand.md)
@@ -217,7 +218,6 @@
 ### [all.T:Microsoft.Practices.Prism.ViewModel.PropertySupport](reference/all-t-mspp-viewmodel-propertysupport.md)
 ### [AttachedProperties.T:Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior](reference/attachedproperties-t-mspp-regions-behaviors-clearchildviewsregionbehavior.md)
 ### [AttachedProperties.T:Microsoft.Practices.Prism.Regions.RegionManager](reference/attachedproperties-t-mspp-regions-regionmanager.md)
-### [da755a31-b302-4bd0-8cf7-04e9307c11b1](reference/da755a31-b302-4bd0-8cf7-04e9307c11b1.md)
 ### [M:Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscription`1.#ctor(Microsoft.Practices.Prism.PubSubEvents.IDelegateReference,Microsoft.Practices.Prism.PubSubEvents.IDelegateReference,System.Threading.SynchronizationContext)](reference/dispatchereventsubscription-tpayload-constructor.md)
 ### [M:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection.Add(Microsoft.Practices.Prism.Modularity.ModuleInfo,System.ComponentModel.Composition.Primitives.ComposablePartCatalog)](reference/downloadedpartcatalogcollection-add-method-practices-prism.md)
 ### [M:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection.TryGet(Microsoft.Practices.Prism.Modularity.ModuleInfo,System.ComponentModel.Composition.Primitives.ComposablePartCatalog@)](reference/downloadedpartcatalogcollection-tryget-method-mspp-mrefextensions.md)
