@@ -354,7 +354,7 @@
 ### [M:Microsoft.Practices.Prism.Bootstrapper.RegisterFrameworkExceptionTypes](reference/m-mspp-bootstrapper-registerframeworkexceptiontypes.md)
 ### [M:Microsoft.Practices.Prism.Bootstrapper.Run(System.Boolean)](reference/m-mspp-bootstrapper-run-system-boolean.md)
 ### [M:Microsoft.Practices.Prism.Bootstrapper.Run](reference/m-mspp-bootstrapper-run.md)
-### [M:Microsoft.Practices.Prism.CollectionExtensions.AddRange``1(System.Collections.ObjectModel.Collection{``0},System.Collections.Generic.IEnumerable{``0})](reference/m-mspp-collectionextensions-addrange-1-system-collections-objectmodel-collection-0-system-collections-generic-ienumerable-0.md)
+### [M:Microsoft.Practices.Prism.CollectionExtensions.AddRange``1(System.Collections.ObjectModel.Collection{``0},System.Collections.Generic.IEnumerable{``0})](reference/m-mspp-collectionextensions-addrange-1-system-collections-objectmodel-collection-0-system-collections-generic-ienumerable.md)
 ### [M:Microsoft.Practices.Prism.Commands.CompositeCommand.CanExecute(System.Object)](reference/m-mspp-commands-compositecommand-canexecute-system-object.md)
 ### [M:Microsoft.Practices.Prism.Commands.CompositeCommand.#ctor(System.Boolean)](reference/m-mspp-commands-compositecommand-ctor-system-boolean.md)
 ### [M:Microsoft.Practices.Prism.Commands.CompositeCommand.#ctor](reference/m-mspp-commands-compositecommand-ctor.md)
