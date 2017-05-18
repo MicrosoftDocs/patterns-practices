@@ -7,6 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921096(v=PandP.40)'
 
 # Silverlight Hands-On Lab: Get Started with the Prism Library
 
+From: [Prism 4.1 - Developer's Guide to Microsoft Prism Library for WPF and Silverlight](https://msdn.microsoft.com/en-us/library/gg430869(v=pandp.40).aspx)
 
 In this lab, you will learn the basic concepts of Prism and apply them to create a Prism solution that you can use as the starting point for building a composite Silverlight application. After completing this lab, you will be able to do the following:
 
