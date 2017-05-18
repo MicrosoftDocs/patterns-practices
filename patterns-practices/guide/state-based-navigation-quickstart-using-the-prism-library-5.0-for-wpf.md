@@ -7,6 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405495(v=PandP.40)'
 
 # State-Based Navigation QuickStart Using the Prism Library 5.0 for WPF
 
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
 
 The State-Based Navigation QuickStart sample demonstrates navigation using the WPF Visual State Manager (VSM) with the Model-View-ViewModel (MVVM) pattern and the Prism Library. This approach uses the Visual State Manager to define the different application states that the application has, define animations for both the states and the transitions between states; the animations associated to states are active while the state is active for the duration of the specified timeline.
 
