@@ -7,6 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921074(v=PandP.40)'
 
 # Stock Trader Reference Implementation Using the Prism Library 5.0 for WPF
 
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
 
 Prism includes a sample called a reference implementation, which is a composite application that is based on a real-world scenario. This intentionally incomplete application illustrates the composite application baseline architecture. Within the application, you will see solutions for common, and recurrent, challenges that developers face when creating composite applications. We solve many of the challenges using design patterns such as Model-View-ViewModel (MVVM), Composite View, Event Aggregator, Plug-In, and Dependency Injection that embody important architectural design principles such as separation of concerns and loose coupling. Prism helps you to create a modular application design and build applications using loosely coupled components that can evolve independently but that can be easily and seamlessly integrated into the overall application.
 
