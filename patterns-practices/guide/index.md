@@ -7,6 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430869(v=PandP.40)'
 
 # Prism 4.1 - Developer's Guide to Microsoft Prism Library for WPF and Silverlight
 
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
+
 ## Summary
 
 Prism provides guidance designed to help you more easily design and build rich, flexible, and easily maintained Windows Presentation Foundation (WPF) desktop applications, Silverlight Rich Internet Applications (RIAs), and Windows Phone 7 applications. Using design patterns that embody important architectural design principles, such as separation of concerns and loose coupling, Prism helps you to design and build applications using loosely coupled components that can evolve independently but which can be easily and seamlessly integrated into the overall application. These types of applications are known as composite applications.
