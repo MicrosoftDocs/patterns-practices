@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419151(v=PandP.50)'
 
 Prism Class Library
 
-ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)..::.ClearErrors Method
+ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).ClearErrors Method
 ==============================================================
 
 Overload List

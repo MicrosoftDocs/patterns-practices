@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736104(v=PandP.50)'
 
 Prism Class Library
 
-InvokeCommandAction..::.CommandParameter Property
+InvokeCommandAction.CommandParameter Property
 =================================================
 
 Gets or sets the command parameter to supply on command execution.

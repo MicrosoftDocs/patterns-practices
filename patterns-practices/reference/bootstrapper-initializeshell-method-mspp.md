@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405737(v=PandP.50)'
 
 Prism Class Library
 
-Bootstrapper..::.InitializeShell Method
+Bootstrapper.InitializeShell Method
 =======================================
 
 Initializes the shell.

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405798(v=PandP.50)'
 
 Prism Class Library
 
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)..::.Clear Method
+ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Clear Method
 ==================================================================
 
 Removes all entries in the dictionary.
@@ -20,7 +20,7 @@ Syntax
 <span id="syntaxToggle"></span>public void Clear()Public Sub Clear
 #### Implements
 
-[ICollection&lt;(Of &lt;(T&gt;)&gt;)..::.Clear()()()](http://msdn2.microsoft.com/en-us/library/5axy4fbh)
+[ICollection&lt;(Of &lt;(T&gt;)&gt;).Clear()()()](http://msdn2.microsoft.com/en-us/library/5axy4fbh)
 
 See Also
 --------

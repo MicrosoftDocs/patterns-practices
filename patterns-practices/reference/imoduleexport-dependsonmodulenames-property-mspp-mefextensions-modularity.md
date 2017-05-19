@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431263(v=PandP.50)'
 
 Prism Class Library
 
-IModuleExport..::.DependsOnModuleNames Property
+IModuleExport.DependsOnModuleNames Property
 ===============================================
 
 Gets the names of modules this module depends upon.
@@ -20,7 +20,7 @@ Syntax
 <span id="syntaxToggle"></span>string[] DependsOnModuleNames { get; }ReadOnly Property DependsOnModuleNames As String() Get
 #### Property Value
 
-Type: array&lt;[String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;[]()[]
+Type: array&lt;[String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;
 An array of module names.
 
 See Also

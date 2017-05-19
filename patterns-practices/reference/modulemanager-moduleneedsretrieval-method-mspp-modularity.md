@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405930(v=PandP.50)'
 
 Prism Class Library
 
-ModuleManager..::.ModuleNeedsRetrieval Method
+ModuleManager.ModuleNeedsRetrieval Method
 =============================================
 
 Checks if the module needs to be retrieved before it's initialized.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 moduleInfo  
-Type: [Microsoft.Practices.Prism.Modularity..::.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 Module that is being checked if needs retrieval.
 
 #### Return Value

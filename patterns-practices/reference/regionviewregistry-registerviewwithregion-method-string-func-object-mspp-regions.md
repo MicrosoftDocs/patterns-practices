@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg406468(v=PandP.50)'
 
 Prism Class Library
 
-RegionViewRegistry..::.RegisterViewWithRegion Method (String, Func&lt;(Of &lt;(Object&gt;)&gt;))
+RegionViewRegistry.RegisterViewWithRegion Method (String, Func&lt;(Of &lt;(Object&gt;)&gt;))
 ================================================================================================
 
 Registers a delegate that can be used to retrieve the content associated with a region name.
@@ -21,16 +21,16 @@ Syntax
 #### Parameters
 
 regionName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Region name to which the getContentDelegate will be registered.
 
 getContentDelegate  
-Type: [System..::.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
+Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 Delegate used to retrieve the content associated with the regionName.
 
 #### Implements
 
-[IRegionViewRegistry..::.RegisterViewWithRegion(String, Func&lt;(Of &lt;(Object&gt;)&gt;))](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionviewregistry.registerviewwithregion(system.string%2csystem.func%7bsystem.object%7d))
+[IRegionViewRegistry.RegisterViewWithRegion(String, Func&lt;(Of &lt;(Object&gt;)&gt;))](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionviewregistry.registerviewwithregion(system.string%2csystem.func%7bsystem.object%7d))
 
 See Also
 --------

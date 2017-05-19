@@ -22,8 +22,8 @@ Syntax
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.Modularity..::.ModuleDependencySolver
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  Microsoft.Practices.Prism.Modularity.ModuleDependencySolver
 
 See Also
 --------

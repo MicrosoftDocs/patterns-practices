@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419001(v=PandP.50)'
 
 Prism Class Library
 
-ServiceLocatorExtensions..::.TryResolve Method (IServiceLocator, Type)
+ServiceLocatorExtensions.TryResolve Method (IServiceLocator, Type)
 ======================================================================
 
 Attempts to resolve specified type from the underlying IServiceLocator.
@@ -25,7 +25,7 @@ Type: IServiceLocator
 Locator to use in resolving.
 
 type  
-Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 Type to resolve.
 
 #### Return Value
@@ -47,7 +47,7 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                             | Condition                                                                            |
 |---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| [System..::.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | Thrown when locator is nullNothingnullptra null reference (Nothing in Visual Basic). |
+| [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | Thrown when locator is nullNothingnullptra null reference (Nothing in Visual Basic). |
 
 See Also
 --------

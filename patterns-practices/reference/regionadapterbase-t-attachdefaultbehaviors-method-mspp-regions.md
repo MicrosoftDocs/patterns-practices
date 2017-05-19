@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418934(v=PandP.50)'
 
 Prism Class Library
 
-RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)..::.AttachDefaultBehaviors Method
+RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;).AttachDefaultBehaviors Method
 ===========================================================================
 
 This method adds the default behaviors by using the [IRegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorfactory) object.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 region  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
+Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 The region being used.
 
 regionTarget  

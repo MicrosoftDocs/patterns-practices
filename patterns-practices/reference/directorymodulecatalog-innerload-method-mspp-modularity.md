@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405849(v=PandP.50)'
 
 Prism Class Library
 
-DirectoryModuleCatalog..::.InnerLoad Method
+DirectoryModuleCatalog.InnerLoad Method
 ===========================================
 
 Drives the main logic of building the child domain and searching for the assemblies.

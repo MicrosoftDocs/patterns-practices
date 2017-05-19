@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736248(v=PandP.50)'
 
 Prism Class Library
 
-NavigationAsyncExtensions..::.RequestNavigate Method (INavigateAsync, Uri, NavigationParameters)
+NavigationAsyncExtensions.RequestNavigate Method (INavigateAsync, Uri, NavigationParameters)
 ================================================================================================
 
 Initiates navigation to the target specified by the target.
@@ -21,15 +21,15 @@ Syntax
 #### Parameters
 
 navigation  
-Type: [Microsoft.Practices.Prism.Regions..::.INavigateAsync](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigateasync)
+Type: [Microsoft.Practices.Prism.Regions.INavigateAsync](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigateasync)
 The navigation object.
 
 target  
-Type: [System..::.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
+Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
 A Uri that represents the target where the region will navigate.
 
 navigationParameters  
-Type: [Microsoft.Practices.Prism.Regions..::.NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters)
+Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters)
 An instance of NavigationParameters, which holds a collection of object parameters.
 
 #### Usage Note

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418994(v=PandP.50)'
 
 Prism Class Library
 
-SelectorRegionAdapter..::.CreateRegion Method
+SelectorRegionAdapter.CreateRegion Method
 =============================================
 
 Creates a new instance of [Region](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.region).

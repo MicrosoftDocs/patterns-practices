@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430941(v=PandP.50)'
 
 Prism Class Library
 
-Region..::.PropertyChanged Event
+Region.PropertyChanged Event
 ================================
 
 Occurs when a property value changes.
@@ -20,10 +20,10 @@ Syntax
 <span id="syntaxToggle"></span>public event PropertyChangedEventHandler PropertyChangedPublic Event PropertyChanged As PropertyChangedEventHandler
 #### Value
 
-Type: [System.ComponentModel..::.PropertyChangedEventHandler](http://msdn2.microsoft.com/en-us/library/hyza7z75)
+Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn2.microsoft.com/en-us/library/hyza7z75)
 #### Implements
 
-[INotifyPropertyChanged..::.PropertyChanged](http://msdn2.microsoft.com/en-us/library/ms133023)
+[INotifyPropertyChanged.PropertyChanged](http://msdn2.microsoft.com/en-us/library/ms133023)
 
 See Also
 --------

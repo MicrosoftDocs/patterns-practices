@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 executeMethod  
-Type: [System..::.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
+Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 The [Action](http://msdn2.microsoft.com/en-us/library/bb534741) to execute when [Execute(Object)](http://msdn2.microsoft.com/en-us/library/ms604094) is invoked.
 
 canExecuteMethod  
-Type: [System..::.Func](http://msdn2.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b), [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
+Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b), [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
 The [Func&lt;(Of &lt;(T, TResult&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/bb549151) to invoked when [CanExecute(Object)](http://msdn2.microsoft.com/en-us/library/ms604093) is invoked.
 
 See Also

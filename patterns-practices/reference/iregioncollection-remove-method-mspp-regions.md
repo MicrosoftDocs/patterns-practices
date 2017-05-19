@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405965(v=PandP.50)'
 
 Prism Class Library
 
-IRegionCollection..::.Remove Method
+IRegionCollection.Remove Method
 ===================================
 
 Removes a [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) from the collection.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 regionName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Name of the region to be removed.
 
 #### Return Value

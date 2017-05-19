@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431367(v=PandP.50)'
 
 Prism Class Library
 
-RegionBehavior..::.IsAttached Property
+RegionBehavior.IsAttached Property
 ======================================
 
 Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.

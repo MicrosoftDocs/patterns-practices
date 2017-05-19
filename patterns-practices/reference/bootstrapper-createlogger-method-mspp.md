@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431150(v=PandP.50)'
 
 Prism Class Library
 
-Bootstrapper..::.CreateLogger Method
+Bootstrapper.CreateLogger Method
 ====================================
 
 Create the [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade) used by the bootstrapper.

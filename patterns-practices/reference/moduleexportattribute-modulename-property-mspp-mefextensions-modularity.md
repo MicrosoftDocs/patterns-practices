@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431271(v=PandP.50)'
 
 Prism Class Library
 
-ModuleExportAttribute..::.ModuleName Property
+ModuleExportAttribute.ModuleName Property
 =============================================
 
 Gets the contract name of the module.
@@ -23,7 +23,7 @@ Syntax
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 #### Implements
 
-[IModuleExport..::.ModuleName](https://msdn.microsoft.com/p:microsoft.practices.prism.mefextensions.modularity.imoduleexport.modulename)
+[IModuleExport.ModuleName](https://msdn.microsoft.com/p:microsoft.practices.prism.mefextensions.modularity.imoduleexport.modulename)
 
 See Also
 --------

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405885(v=PandP.50)'
 
 Prism Class Library
 
-ModuleCatalog..::.Validate Method
+ModuleCatalog.Validate Method
 =================================
 
 Validates the [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog).
@@ -25,7 +25,7 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                                                                                             | Condition                                                                                                                      |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
-| [Microsoft.Practices.Prism.Modularity..::.ModularityException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modularityexception) | When validation of the [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog) fails. |
+| [Microsoft.Practices.Prism.Modularity.ModularityException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modularityexception) | When validation of the [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog) fails. |
 
 See Also
 --------

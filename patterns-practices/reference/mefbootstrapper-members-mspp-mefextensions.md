@@ -102,7 +102,7 @@ Configures the default region adapter mappings to use in the application, in ord
 <td><div class="summary">
 Configures the LocatorProvider for the ServiceLocator.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.configureservicelocator">Bootstrapper..::.ConfigureServiceLocator()()()</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.configureservicelocator">Bootstrapper.ConfigureServiceLocator()()()</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430794.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
@@ -180,7 +180,7 @@ Gets the <a href="http://msdn2.microsoft.com/en-us/library/42892f65">Type</a> of
 <td><div class="summary">
 Initializes the modules. May be overwritten in a derived class to use a custom Modules Catalog
 </div>
-(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.initializemodules">Bootstrapper..::.InitializeModules()()()</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.initializemodules">Bootstrapper.InitializeModules()()()</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430794.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
@@ -188,7 +188,7 @@ Initializes the modules. May be overwritten in a derived class to use a custom M
 <td><div class="summary">
 Initializes the shell.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.initializeshell">Bootstrapper..::.InitializeShell()()()</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.initializeshell">Bootstrapper.InitializeShell()()()</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430794.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
@@ -234,7 +234,7 @@ Runs the bootstrapper process.
 <td><div class="summary">
 Run the bootstrapper process.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.run(system.boolean)">Bootstrapper..::.Run(Boolean)</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.run(system.boolean)">Bootstrapper.Run(Boolean)</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430794.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>

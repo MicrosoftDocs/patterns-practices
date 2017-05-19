@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736158(v=PandP.50)'
 
 Prism Class Library
 
-ClearChildViewsRegionBehavior..::.GetClearChildViews Method
+ClearChildViewsRegionBehavior.GetClearChildViews Method
 ===========================================================
 
 Gets the ClearChildViews attached property from a DependencyObject.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 target  
-Type: [System.Windows..::.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
+Type: [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
 The object from which to get the value.
 
 #### Return Value

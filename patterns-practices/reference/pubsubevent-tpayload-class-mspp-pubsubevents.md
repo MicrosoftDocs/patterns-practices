@@ -28,9 +28,9 @@ The type of message that will be passed to the subscribers.
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft.Practices.Prism.PubSubEvents..::.EventBase](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventbase)
-    Microsoft.Practices.Prism.PubSubEvents..::.PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  [Microsoft.Practices.Prism.PubSubEvents.EventBase](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventbase)
+    Microsoft.Practices.Prism.PubSubEvents.PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)
 
 See Also
 --------

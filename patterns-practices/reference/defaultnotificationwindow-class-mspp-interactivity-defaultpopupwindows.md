@@ -24,16 +24,16 @@ Syntax
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System.Windows.Threading..::.DispatcherObject](http://msdn2.microsoft.com/en-us/library/ms615925)
-    [System.Windows..::.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
-      [System.Windows.Media..::.Visual](http://msdn2.microsoft.com/en-us/library/ms635637)
-        [System.Windows..::.UIElement](http://msdn2.microsoft.com/en-us/library/ms590078)
-          [System.Windows..::.FrameworkElement](http://msdn2.microsoft.com/en-us/library/ms602714)
-            [System.Windows.Controls..::.Control](http://msdn2.microsoft.com/en-us/library/ms609826)
-              [System.Windows.Controls..::.ContentControl](http://msdn2.microsoft.com/en-us/library/ms609797)
-                [System.Windows..::.Window](http://msdn2.microsoft.com/en-us/library/ms590112)
-                  Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows..::.DefaultNotificationWindow
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  [System.Windows.Threading.DispatcherObject](http://msdn2.microsoft.com/en-us/library/ms615925)
+    [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
+      [System.Windows.Media.Visual](http://msdn2.microsoft.com/en-us/library/ms635637)
+        [System.Windows.UIElement](http://msdn2.microsoft.com/en-us/library/ms590078)
+          [System.Windows.FrameworkElement](http://msdn2.microsoft.com/en-us/library/ms602714)
+            [System.Windows.Controls.Control](http://msdn2.microsoft.com/en-us/library/ms609826)
+              [System.Windows.Controls.ContentControl](http://msdn2.microsoft.com/en-us/library/ms609797)
+                [System.Windows.Window](http://msdn2.microsoft.com/en-us/library/ms590112)
+                  Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultNotificationWindow
 
 See Also
 --------

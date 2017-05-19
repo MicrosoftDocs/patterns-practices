@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 info  
-Type: [System.Runtime.Serialization..::.SerializationInfo](http://msdn2.microsoft.com/en-us/library/a9b6042e)
+Type: [System.Runtime.Serialization.SerializationInfo](http://msdn2.microsoft.com/en-us/library/a9b6042e)
 Holds the serialized object data about the exception being thrown.
 
 context  
-Type: [System.Runtime.Serialization..::.StreamingContext](http://msdn2.microsoft.com/en-us/library/t16abws5)
+Type: [System.Runtime.Serialization.StreamingContext](http://msdn2.microsoft.com/en-us/library/t16abws5)
 Contains contextual information about the source or destination.
 
 See Also

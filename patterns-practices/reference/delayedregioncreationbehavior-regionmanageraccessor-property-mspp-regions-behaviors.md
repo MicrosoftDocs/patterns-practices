@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431327(v=PandP.50)'
 
 Prism Class Library
 
-DelayedRegionCreationBehavior..::.RegionManagerAccessor Property
+DelayedRegionCreationBehavior.RegionManagerAccessor Property
 ================================================================
 
 Sets a class that interfaces between the [RegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanager) 's static properties/events and this behavior, so this behavior can be tested in isolation.

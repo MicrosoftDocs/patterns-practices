@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405817(v=PandP.50)'
 
 Prism Class Library
 
-TextLogger..::.Dispose Method (Boolean)
+TextLogger.Dispose Method (Boolean)
 =======================================
 
 Disposes the associated [TextWriter](http://msdn2.microsoft.com/en-us/library/ywxh2328).
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 disposing  
-Type: [System..::.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 When trueTruetruetrue (True in Visual Basic), disposes the associated [TextWriter](http://msdn2.microsoft.com/en-us/library/ywxh2328).
 
 See Also

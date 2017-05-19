@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431265(v=PandP.50)'
 
 Prism Class Library
 
-IModuleExport..::.ModuleName Property
+IModuleExport.ModuleName Property
 =====================================
 
 Gets the name of the module.

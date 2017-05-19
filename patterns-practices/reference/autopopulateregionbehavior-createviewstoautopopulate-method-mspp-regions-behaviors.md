@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405934(v=PandP.50)'
 
 Prism Class Library
 
-AutoPopulateRegionBehavior..::.CreateViewsToAutoPopulate Method
+AutoPopulateRegionBehavior.CreateViewsToAutoPopulate Method
 ===============================================================
 
 Returns a collection of views that will be added to the View collection.

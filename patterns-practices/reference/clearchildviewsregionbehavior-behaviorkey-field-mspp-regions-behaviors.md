@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736197(v=PandP.50)'
 
 Prism Class Library
 
-ClearChildViewsRegionBehavior..::.BehaviorKey Field
+ClearChildViewsRegionBehavior.BehaviorKey Field
 ===================================================
 
 The behavior key.

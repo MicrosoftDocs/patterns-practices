@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431251(v=PandP.50)'
 
 Prism Class Library
 
-InteractionRequestedEventArgs..::.Callback Property
+InteractionRequestedEventArgs.Callback Property
 ===================================================
 
 Gets the callback to execute when an interaction is completed.

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419012(v=PandP.50)'
 
 Prism Class Library
 
-UnityContainerHelper..::.IsTypeRegistered Method
+UnityContainerHelper.IsTypeRegistered Method
 ================================================
 
 Returns whether a specified type has a type mapping registered in the container.
@@ -25,7 +25,7 @@ Type: IUnityContainer
 The IUnityContainer to check for the type mapping.
 
 type  
-Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The type to check if there is a type mapping for.
 
 #### Return Value

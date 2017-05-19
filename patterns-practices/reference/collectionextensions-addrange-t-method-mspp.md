@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405741(v=PandP.50)'
 
 Prism Class Library
 
-CollectionExtensions..::.AddRange&lt;(Of &lt;(T&gt;)&gt;) Method
+CollectionExtensions.AddRange&lt;(Of &lt;(T&gt;)&gt;) Method
 ================================================================
 
 Add a range of items to a collection.
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 collection  
-Type: [System.Collections.ObjectModel..::.Collection](http://msdn2.microsoft.com/en-us/library/ms132397)&lt;(Of &lt;(T&gt;)&gt;)
+Type: [System.Collections.ObjectModel.Collection](http://msdn2.microsoft.com/en-us/library/ms132397)&lt;(Of &lt;(T&gt;)&gt;)
 The collection to add items to.
 
 items  
-Type: [System.Collections.Generic..::.IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;(T&gt;)&gt;)
+Type: [System.Collections.Generic.IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;(T&gt;)&gt;)
 The items to add to the collection.
 
 Type Parameters
@@ -49,7 +49,7 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                             | Condition                                                                                                                                                                       |
 |---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [System..::.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) is thrown if collection or items is nullNothingnullptra null reference (Nothing in Visual Basic). |
+| [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) is thrown if collection or items is nullNothingnullptra null reference (Nothing in Visual Basic). |
 
 See Also
 --------

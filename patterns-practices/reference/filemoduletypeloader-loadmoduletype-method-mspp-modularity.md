@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405853(v=PandP.50)'
 
 Prism Class Library
 
-FileModuleTypeLoader..::.LoadModuleType Method
+FileModuleTypeLoader.LoadModuleType Method
 ==============================================
 
 Retrieves the moduleInfo.
@@ -21,12 +21,12 @@ Syntax
 #### Parameters
 
 moduleInfo  
-Type: [Microsoft.Practices.Prism.Modularity..::.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 Module that should have it's type loaded.
 
 #### Implements
 
-[IModuleTypeLoader..::.LoadModuleType(ModuleInfo)](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.imoduletypeloader.loadmoduletype(microsoft.practices.prism.modularity.moduleinfo))
+[IModuleTypeLoader.LoadModuleType(ModuleInfo)](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.imoduletypeloader.loadmoduletype(microsoft.practices.prism.modularity.moduleinfo))
 
 See Also
 --------

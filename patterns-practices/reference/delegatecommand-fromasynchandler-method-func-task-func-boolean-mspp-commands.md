@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736304(v=PandP.50)'
 
 Prism Class Library
 
-DelegateCommand..::.FromAsyncHandler Method (Func&lt;(Of &lt;(Task&gt;)&gt;), Func&lt;(Of &lt;(Boolean&gt;)&gt;))
+DelegateCommand.FromAsyncHandler Method (Func&lt;(Of &lt;(Task&gt;)&gt;), Func&lt;(Of &lt;(Boolean&gt;)&gt;))
 =================================================================================================================
 
 Factory method to create a new instance of [DelegateCommand](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand) from an awaitable handler method.
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 executeMethod  
-Type: [System..::.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Task](http://msdn2.microsoft.com/en-us/library/dd235678)&gt;)&gt;)
+Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Task](http://msdn2.microsoft.com/en-us/library/dd235678)&gt;)&gt;)
 Delegate to execute when Execute is called on the command. This can be null to just hook up a CanExecute delegate.
 
 canExecuteMethod  
-Type: [System..::.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
+Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
 Delegate to execute when CanExecute is called on the command. This can be null.
 
 #### Return Value

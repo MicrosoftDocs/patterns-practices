@@ -22,9 +22,9 @@ Syntax
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System.Configuration..::.ConfigurationElement](http://msdn2.microsoft.com/en-us/library/kyx77cz3)
-    Microsoft.Practices.Prism.Modularity..::.ModuleConfigurationElement
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  [System.Configuration.ConfigurationElement](http://msdn2.microsoft.com/en-us/library/kyx77cz3)
+    Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement
 
 See Also
 --------

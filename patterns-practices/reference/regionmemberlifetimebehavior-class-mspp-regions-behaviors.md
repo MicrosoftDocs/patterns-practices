@@ -37,10 +37,10 @@ The order of checks are:
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft.Practices.Prism.Regions..::.RegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehavior)
-    Microsoft.Practices.Prism.Regions.Behaviors..::.RegionMemberLifetimeBehavior
-      [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors..::.MefRegionMemberLifetimeBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmemberlifetimebehavior)
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  [Microsoft.Practices.Prism.Regions.RegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehavior)
+    Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior
+      [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionMemberLifetimeBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmemberlifetimebehavior)
 
 See Also
 --------

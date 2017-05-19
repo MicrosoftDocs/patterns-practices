@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405891(v=PandP.50)'
 
 Prism Class Library
 
-ModuleCatalog..::.ValidateUniqueModules Method
+ModuleCatalog.ValidateUniqueModules Method
 ==============================================
 
 Makes sure all modules have an Unique name.
@@ -25,7 +25,7 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                                                                                                       | Condition                                                  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| [Microsoft.Practices.Prism.Modularity..::.DuplicateModuleException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.duplicatemoduleexception) | Thrown if the names of one or more modules are not unique. |
+| [Microsoft.Practices.Prism.Modularity.DuplicateModuleException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.duplicatemoduleexception) | Thrown if the names of one or more modules are not unique. |
 
 See Also
 --------

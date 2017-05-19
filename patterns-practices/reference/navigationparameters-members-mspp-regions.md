@@ -125,7 +125,7 @@ Creates a shallow copy of the current <a href="http://msdn2.microsoft.com/en-us/
 <td><div class="summary">
 Converts the list of key value pairs to a query string.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/7bxwbwt2">Object..::.ToString()()()</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/7bxwbwt2">Object.ToString()()()</a>.)</td>
 </tr>
 </tbody>
 </table>

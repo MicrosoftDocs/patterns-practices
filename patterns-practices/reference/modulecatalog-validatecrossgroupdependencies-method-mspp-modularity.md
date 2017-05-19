@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405886(v=PandP.50)'
 
 Prism Class Library
 
-ModuleCatalog..::.ValidateCrossGroupDependencies Method
+ModuleCatalog.ValidateCrossGroupDependencies Method
 =======================================================
 
 Ensures that there are no dependencies between modules on different groups.

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431304(v=PandP.50)'
 
 Prism Class Library
 
-ModuleDownloadProgressChangedEventArgs..::.ModuleInfo Property
+ModuleDownloadProgressChangedEventArgs.ModuleInfo Property
 ==============================================================
 
 Getsthe module info.

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405823(v=PandP.50)'
 
 Prism Class Library
 
-MefBootstrapper..::.ConfigureServiceLocator Method
+MefBootstrapper.ConfigureServiceLocator Method
 ==================================================
 
 Configures the LocatorProvider for the ServiceLocator.

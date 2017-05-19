@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736126(v=PandP.50)'
 
 Prism Class Library
 
-EventBase..::.InternalSubscribe Method
+EventBase.InternalSubscribe Method
 ======================================
 
 Adds the specified [IEventSubscription](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription) to the subscribers' collection.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 eventSubscription  
-Type: [Microsoft.Practices.Prism.PubSubEvents..::.IEventSubscription](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription)
+Type: [Microsoft.Practices.Prism.PubSubEvents.IEventSubscription](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription)
 The subscriber.
 
 #### Return Value

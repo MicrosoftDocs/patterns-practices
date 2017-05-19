@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431264(v=PandP.50)'
 
 Prism Class Library
 
-IModuleExport..::.InitializationMode Property
+IModuleExport.InitializationMode Property
 =============================================
 
 Gets when the module should have Initialize() called.

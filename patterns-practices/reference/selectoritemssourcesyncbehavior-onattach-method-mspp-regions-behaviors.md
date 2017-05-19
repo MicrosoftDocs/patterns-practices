@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405947(v=PandP.50)'
 
 Prism Class Library
 
-SelectorItemsSourceSyncBehavior..::.OnAttach Method
+SelectorItemsSourceSyncBehavior.OnAttach Method
 ===================================================
 
 Starts to monitor the [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) to keep it in synch with the items of the [HostControl](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior.hostcontrol).

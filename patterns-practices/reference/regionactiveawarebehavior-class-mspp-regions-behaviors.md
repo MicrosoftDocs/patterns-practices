@@ -27,9 +27,9 @@ Remarks
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.Regions.Behaviors..::.RegionActiveAwareBehavior
-    [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors..::.MefRegionActiveAwareBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefregionactiveawarebehavior)
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior
+    [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionActiveAwareBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefregionactiveawarebehavior)
 
 See Also
 --------

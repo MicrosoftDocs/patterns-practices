@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736127(v=PandP.50)'
 
 Prism Class Library
 
-SubscriptionToken..::.GetHashCode Method
+SubscriptionToken.GetHashCode Method
 ========================================
 
 Serves as a hash function for a particular type.

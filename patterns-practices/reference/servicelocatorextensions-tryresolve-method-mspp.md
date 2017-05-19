@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419145(v=PandP.50)'
 
 Prism Class Library
 
-ServiceLocatorExtensions..::.TryResolve Method
+ServiceLocatorExtensions.TryResolve Method
 ==============================================
 
 Overload List

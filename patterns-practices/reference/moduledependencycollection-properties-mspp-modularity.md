@@ -33,7 +33,7 @@ Gets or sets the name for the [ConfigurationElement](http://msdn2.microsoft.com/
 [CollectionType](https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduledependencycollection.collectiontype)
 Gets the type of the [ConfigurationElementCollection](http://msdn2.microsoft.com/en-us/library/a35we8et).
 
-(Overrides [ConfigurationElementCollection..::.CollectionType](http://msdn2.microsoft.com/en-us/library/x4skd9kd).)
+(Overrides [ConfigurationElementCollection.CollectionType](http://msdn2.microsoft.com/en-us/library/x4skd9kd).)
 ![](https://msdn.microsoft.com/en-us/Gg431170.pubproperty(en-us,PandP.50).gif "Public property")
 [Count](http://msdn2.microsoft.com/en-us/library/yf0s34t1)
 Gets the number of elements in the collection.
@@ -53,7 +53,7 @@ Gets an [ElementInformation](http://msdn2.microsoft.com/en-us/library/ms134413) 
 [ElementName](https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduledependencycollection.elementname)
 Gets the name used to identify this collection of elements in the configuration file when overridden in a derived class.
 
-(Overrides [ConfigurationElementCollection..::.ElementName](http://msdn2.microsoft.com/en-us/library/8f06bh6s).)
+(Overrides [ConfigurationElementCollection.ElementName](http://msdn2.microsoft.com/en-us/library/8f06bh6s).)
 ![](https://msdn.microsoft.com/en-us/Gg431170.protproperty(en-us,PandP.50).gif "Protected property")
 [ElementProperty](http://msdn2.microsoft.com/en-us/library/ms134143)
 Gets the [ConfigurationElementProperty](http://msdn2.microsoft.com/en-us/library/ms134174) object that represents the [ConfigurationElement](http://msdn2.microsoft.com/en-us/library/kyx77cz3) object itself.

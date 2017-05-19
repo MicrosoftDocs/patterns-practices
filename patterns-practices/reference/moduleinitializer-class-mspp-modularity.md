@@ -22,9 +22,9 @@ Syntax
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.Modularity..::.ModuleInitializer
-    [Microsoft.Practices.Prism.MefExtensions.Modularity..::.MefModuleInitializer](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer)
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  Microsoft.Practices.Prism.Modularity.ModuleInitializer
+    [Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleInitializer](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer)
 
 See Also
 --------

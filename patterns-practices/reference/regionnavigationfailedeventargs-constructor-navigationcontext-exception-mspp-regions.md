@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 navigationContext  
-Type: [Microsoft.Practices.Prism.Regions..::.NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)
 The navigation context.
 
 error  
-Type: [System..::.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+Type: [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
 The error.
 
 See Also

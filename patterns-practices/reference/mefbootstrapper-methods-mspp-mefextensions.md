@@ -46,7 +46,7 @@ Configures the default region adapter mappings to use in the application, in ord
 [ConfigureServiceLocator](https://msdn.microsoft.com/m:microsoft.practices.prism.mefextensions.mefbootstrapper.configureservicelocator)
 Configures the LocatorProvider for the ServiceLocator.
 
-(Overrides [Bootstrapper..::.ConfigureServiceLocator()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.configureservicelocator).)
+(Overrides [Bootstrapper.ConfigureServiceLocator()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.configureservicelocator).)
 ![](https://msdn.microsoft.com/en-us/Gg431007.protmethod(en-us,PandP.50).gif "Protected method")
 [CreateAggregateCatalog](https://msdn.microsoft.com/m:microsoft.practices.prism.mefextensions.mefbootstrapper.createaggregatecatalog)
 Configures the [AggregateCatalog](https://msdn.microsoft.com/p:microsoft.practices.prism.mefextensions.mefbootstrapper.aggregatecatalog) used by MEF.
@@ -94,12 +94,12 @@ Gets the [Type](http://msdn2.microsoft.com/en-us/library/42892f65) of the curren
 [InitializeModules](https://msdn.microsoft.com/m:microsoft.practices.prism.mefextensions.mefbootstrapper.initializemodules)
 Initializes the modules. May be overwritten in a derived class to use a custom Modules Catalog
 
-(Overrides [Bootstrapper..::.InitializeModules()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.initializemodules).)
+(Overrides [Bootstrapper.InitializeModules()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.initializemodules).)
 ![](https://msdn.microsoft.com/en-us/Gg431007.protmethod(en-us,PandP.50).gif "Protected method")
 [InitializeShell](https://msdn.microsoft.com/m:microsoft.practices.prism.mefextensions.mefbootstrapper.initializeshell)
 Initializes the shell.
 
-(Overrides [Bootstrapper..::.InitializeShell()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.initializeshell).)
+(Overrides [Bootstrapper.InitializeShell()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.initializeshell).)
 ![](https://msdn.microsoft.com/en-us/Gg431007.protmethod(en-us,PandP.50).gif "Protected method")
 [MemberwiseClone](http://msdn2.microsoft.com/en-us/library/57ctke0a)
 Creates a shallow copy of the current [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).
@@ -127,7 +127,7 @@ Runs the bootstrapper process.
 [Run(Boolean)](https://msdn.microsoft.com/m:microsoft.practices.prism.mefextensions.mefbootstrapper.run(system.boolean))
 Run the bootstrapper process.
 
-(Overrides [Bootstrapper..::.Run(Boolean)](https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.run(system.boolean)).)
+(Overrides [Bootstrapper.Run(Boolean)](https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.run(system.boolean)).)
 ![](https://msdn.microsoft.com/en-us/Gg431007.pubmethod(en-us,PandP.50).gif "Public method")
 [ToString](http://msdn2.microsoft.com/en-us/library/7bxwbwt2)
 Returns a string that represents the current object.

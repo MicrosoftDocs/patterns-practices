@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431358(v=PandP.50)'
 
 Prism Class Library
 
-ItemMetadata..::.Name Property
+ItemMetadata.Name Property
 ==============================
 
 Gets or sets a name for the wrapped item.

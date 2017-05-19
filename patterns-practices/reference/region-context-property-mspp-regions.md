@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431388(v=PandP.50)'
 
 Prism Class Library
 
-Region..::.Context Property
+Region.Context Property
 ===========================
 
 Gets or sets a context for the region. This value can be used by the user to share context with the views.
@@ -24,7 +24,7 @@ Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The context value to be shared.
 #### Implements
 
-[IRegion..::.Context](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.context)
+[IRegion.Context](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.context)
 
 See Also
 --------

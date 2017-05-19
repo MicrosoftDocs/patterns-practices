@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431383(v=PandP.50)'
 
 Prism Class Library
 
-RegionNavigationJournal..::.NavigationTarget Property
+RegionNavigationJournal.NavigationTarget Property
 =====================================================
 
 Gets or sets the target that implements INavigate.
@@ -24,7 +24,7 @@ Type: [INavigateAsync](https://msdn.microsoft.com/t:microsoft.practices.prism.re
 The INavigate implementation.
 #### Implements
 
-[IRegionNavigationJournal..::.NavigationTarget](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionnavigationjournal.navigationtarget)
+[IRegionNavigationJournal.NavigationTarget](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionnavigationjournal.navigationtarget)
 
 Remarks
 -------

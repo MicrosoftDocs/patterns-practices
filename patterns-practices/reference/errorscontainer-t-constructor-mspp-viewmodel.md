@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 raiseErrorsChanged  
-Type: [System..::.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;)&gt;)
+Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;)&gt;)
 The action that invoked if when errors are added for an object./&gt; event.
 
 See Also

@@ -64,7 +64,7 @@ Methods
 <td><div class="summary">
 Adapts a <a href="http://msdn2.microsoft.com/en-us/library/ms609797">ContentControl</a> to an <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion">IRegion</a>.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionadapterbase%601.adapt(microsoft.practices.prism.regions.iregion%2c%600)">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)..::.Adapt(IRegion, T)</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionadapterbase%601.adapt(microsoft.practices.prism.regions.iregion%2c%600)">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;).Adapt(IRegion, T)</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430877.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
@@ -88,7 +88,7 @@ This method adds the default behaviors by using the <a href="https://msdn.micros
 <td><div class="summary">
 Creates a new instance of <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.singleactiveregion">SingleActiveRegion</a>.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionadapterbase%601.createregion">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)..::.CreateRegion()()()</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionadapterbase%601.createregion">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;).CreateRegion()()()</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430877.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>

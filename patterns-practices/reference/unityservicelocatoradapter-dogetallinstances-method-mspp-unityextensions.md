@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419015(v=PandP.50)'
 
 Prism Class Library
 
-UnityServiceLocatorAdapter..::.DoGetAllInstances Method
+UnityServiceLocatorAdapter.DoGetAllInstances Method
 =======================================================
 
 Resolves all the instances of the requested service.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 serviceType  
-Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 Type of service requested.
 
 #### Return Value

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405793(v=PandP.50)'
 
 Prism Class Library
 
-InteractionRequestTrigger..::.GetEventName Method
+InteractionRequestTrigger.GetEventName Method
 =================================================
 
 Specifies the name of the Event this EventTriggerBase is listening for.

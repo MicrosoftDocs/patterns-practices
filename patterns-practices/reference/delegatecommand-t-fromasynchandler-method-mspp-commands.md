@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736124(v=PandP.50)'
 
 Prism Class Library
 
-DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)..::.FromAsyncHandler Method
+DelegateCommand&lt;(Of &lt;(T&gt;)&gt;).FromAsyncHandler Method
 ===================================================================
 
 Overload List

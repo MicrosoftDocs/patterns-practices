@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736213(v=PandP.50)'
 
 Prism Class Library
 
-ViewModelLocationProvider..::.SetDefaultViewTypeToViewModelTypeResolver Method
+ViewModelLocationProvider.SetDefaultViewTypeToViewModelTypeResolver Method
 ==============================================================================
 
 Sets the default view type to view model type resolver.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 viewTypeToViewModelTypeResolver  
-Type: [System..::.Func](http://msdn2.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([Type](http://msdn2.microsoft.com/en-us/library/42892f65), [Type](http://msdn2.microsoft.com/en-us/library/42892f65)&gt;)&gt;)
+Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([Type](http://msdn2.microsoft.com/en-us/library/42892f65), [Type](http://msdn2.microsoft.com/en-us/library/42892f65)&gt;)&gt;)
 The view type to view model type resolver.
 
 See Also

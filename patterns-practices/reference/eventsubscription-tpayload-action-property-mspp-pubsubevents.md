@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736296(v=PandP.50)'
 
 Prism Class Library
 
-EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)..::.Action Property
+EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;).Action Property
 ====================================================================
 
 Gets the target [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/018hxwa8) that is referenced by the [IDelegateReference](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.idelegatereference).

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431256(v=PandP.50)'
 
 Prism Class Library
 
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)..::.Item Property
+ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Item Property
 ===================================================================
 
 Gets or sets the list associated with the given key. The access always succeeds, eventually returning an empty list.
@@ -30,7 +30,7 @@ Type: [IList](http://msdn2.microsoft.com/en-us/library/5y536ey6)&lt;(Of &lt;([TV
 The list associated with the key.
 #### Implements
 
-[IDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)..::.Item[([(TKey\])\])](http://msdn2.microsoft.com/en-us/library/zyxt2e2h)
+[IDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Item[([(TKey\])\])](http://msdn2.microsoft.com/en-us/library/zyxt2e2h)
 
 See Also
 --------

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418945(v=PandP.50)'
 
 Prism Class Library
 
-RegionBehaviorFactory..::.ContainsKey Method
+RegionBehaviorFactory.ContainsKey Method
 ============================================
 
 Determines whether a behavior with the specified key already exists.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 behaviorKey  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The behavior key.
 
 #### Return Value
@@ -30,7 +30,7 @@ Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if a behavior with the specified key is present; otherwise, falseFalsefalsefalse (False in Visual Basic).
 #### Implements
 
-[IRegionBehaviorFactory..::.ContainsKey(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionbehaviorfactory.containskey(system.string))
+[IRegionBehaviorFactory.ContainsKey(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionbehaviorfactory.containskey(system.string))
 
 See Also
 --------

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431393(v=PandP.50)'
 
 Prism Class Library
 
-Region..::.SortComparison Property
+Region.SortComparison Property
 ==================================
 
 Gets or sets the comparison used to sort the views.
@@ -24,7 +24,7 @@ Type: [Comparison](http://msdn2.microsoft.com/en-us/library/tfakywbh)&lt;(Of &lt
 The comparison to use.
 #### Implements
 
-[IRegion..::.SortComparison](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.sortcomparison)
+[IRegion.SortComparison](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.sortcomparison)
 
 See Also
 --------

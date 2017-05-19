@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431343(v=PandP.50)'
 
 Prism Class Library
 
-IRegionNavigationJournal..::.CanGoForward Property
+IRegionNavigationJournal.CanGoForward Property
 ==================================================
 
 Gets a value that indicates whether there is at least one entry in the forward navigation history.

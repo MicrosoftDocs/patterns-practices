@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431380(v=PandP.50)'
 
 Prism Class Library
 
-RegionNavigationJournal..::.CanGoBack Property
+RegionNavigationJournal.CanGoBack Property
 ==============================================
 
 Gets a value that indicates whether there is at least one entry in the back navigation history.
@@ -24,7 +24,7 @@ Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 true if the journal can go back; otherwise, false.
 #### Implements
 
-[IRegionNavigationJournal..::.CanGoBack](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionnavigationjournal.cangoback)
+[IRegionNavigationJournal.CanGoBack](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionnavigationjournal.cangoback)
 
 See Also
 --------

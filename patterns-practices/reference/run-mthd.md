@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405739(v=PandP.50)'
 
 Prism Class Library
 
-Bootstrapper..::.Run Method
+Bootstrapper.Run Method
 ===========================
 
 Runs the bootstrapper process.

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405939(v=PandP.50)'
 
 Prism Class Library
 
-DelayedRegionCreationBehavior..::.CreateRegion Method
+DelayedRegionCreationBehavior.CreateRegion Method
 =====================================================
 
 Method that will create the region, by calling the right [IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter).
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 targetElement  
-Type: [System.Windows..::.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
+Type: [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
 The target element that will host the [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion).
 
 regionName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Name of the region.
 
 #### Return Value

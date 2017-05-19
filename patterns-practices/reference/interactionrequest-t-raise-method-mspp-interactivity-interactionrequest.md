@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419066(v=PandP.50)'
 
 Prism Class Library
 
-InteractionRequest&lt;(Of &lt;(T&gt;)&gt;)..::.Raise Method
+InteractionRequest&lt;(Of &lt;(T&gt;)&gt;).Raise Method
 ===========================================================
 
 Overload List

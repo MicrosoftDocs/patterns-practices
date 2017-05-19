@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405637(v=PandP.50)'
 
 Prism Class Library
 
-ModuleDependencyCollection Constructor (array&lt;ModuleDependencyConfigurationElement&gt;[]()[])
+ModuleDependencyCollection Constructor (array&lt;ModuleDependencyConfigurationElement&gt;)
 ====================================================================================================
 
 Initializes a new instance of [ModuleDependencyCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencycollection).
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 dependencies  
-Type: array&lt;[Microsoft.Practices.Prism.Modularity..::.ModuleDependencyConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyconfigurationelement)&gt;[]()[]
+Type: array&lt;[Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyconfigurationelement)&gt;
 An array of [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyconfigurationelement) with initial list of dependencies.
 
 See Also

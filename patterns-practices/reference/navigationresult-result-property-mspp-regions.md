@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431364(v=PandP.50)'
 
 Prism Class Library
 
-NavigationResult..::.Result Property
+NavigationResult.Result Property
 ====================================
 
 Gets the result.

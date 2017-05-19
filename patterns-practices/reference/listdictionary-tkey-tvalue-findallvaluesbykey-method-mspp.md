@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405801(v=PandP.50)'
 
 Prism Class Library
 
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)..::.FindAllValuesByKey Method
+ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).FindAllValuesByKey Method
 ===============================================================================
 
 Retrieves the all the elements from the list which have a key that matches the condition defined by the specified predicate.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 keyFilter  
-Type: [System..::.Predicate](http://msdn2.microsoft.com/en-us/library/bfcke1bz)&lt;(Of &lt;([TKey](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
+Type: [System.Predicate](http://msdn2.microsoft.com/en-us/library/bfcke1bz)&lt;(Of &lt;([TKey](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
 The filter with the condition to use to filter lists by their key.
 
 #### Return Value

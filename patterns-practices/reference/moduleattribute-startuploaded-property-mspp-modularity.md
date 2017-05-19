@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431282(v=PandP.50)'
 
 Prism Class Library
 
-ModuleAttribute..::.StartupLoaded Property
+ModuleAttribute.StartupLoaded Property
 ==========================================
 
 Gets or sets a value indicating whether the module should be loaded at startup.

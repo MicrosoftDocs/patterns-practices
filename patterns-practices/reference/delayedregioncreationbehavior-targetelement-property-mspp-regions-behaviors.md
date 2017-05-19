@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431328(v=PandP.50)'
 
 Prism Class Library
 
-DelayedRegionCreationBehavior..::.TargetElement Property
+DelayedRegionCreationBehavior.TargetElement Property
 ========================================================
 
 The element that will host the Region.

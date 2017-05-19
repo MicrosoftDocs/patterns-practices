@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736247(v=PandP.50)'
 
 Prism Class Library
 
-RegionManagerExtensions..::.RequestNavigate Method (IRegionManager, String, String, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)
+RegionManagerExtensions.RequestNavigate Method (IRegionManager, String, String, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)
 ========================================================================================================================================================
 
 This method allows an IRegionManager to locate a specified region and navigate in it to the specified target string, passing a navigation callback and an instance of NavigationParameters, which holds a collection of object parameters.
@@ -21,23 +21,23 @@ Syntax
 #### Parameters
 
 regionManager  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
+Type: [Microsoft.Practices.Prism.Regions.IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
 The IRegionManager instance that is extended by this method.
 
 regionName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region where the navigation will occur.
 
 target  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 A string that represents the target where the region will navigate.
 
 navigationCallback  
-Type: [System..::.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([NavigationResult](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationresult)&gt;)&gt;)
+Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([NavigationResult](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationresult)&gt;)&gt;)
 The navigation callback that will be executed after the navigation is completed.
 
 navigationParameters  
-Type: [Microsoft.Practices.Prism.Regions..::.NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters)
+Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters)
 An instance of NavigationParameters, which holds a collection of object parameters.
 
 #### Usage Note

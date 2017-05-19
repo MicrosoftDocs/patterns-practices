@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 moduleType  
-Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The concrete type of the module being exported. Not typeof(IModule).
 
 See Also

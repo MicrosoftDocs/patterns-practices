@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431395(v=PandP.50)'
 
 Prism Class Library
 
-ViewRegisteredEventArgs..::.GetView Property
+ViewRegisteredEventArgs.GetView Property
 ============================================
 
 Gets the content which was registered.

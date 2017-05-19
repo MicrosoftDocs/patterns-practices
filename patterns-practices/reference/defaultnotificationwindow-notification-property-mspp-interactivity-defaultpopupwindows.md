@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736294(v=PandP.50)'
 
 Prism Class Library
 
-DefaultNotificationWindow..::.Notification Property
+DefaultNotificationWindow.Notification Property
 ===================================================
 
 Sets or gets the [INotification](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.inotification) shown by this window./&gt;

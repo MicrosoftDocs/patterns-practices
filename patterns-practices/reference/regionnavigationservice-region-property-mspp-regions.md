@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431385(v=PandP.50)'
 
 Prism Class Library
 
-RegionNavigationService..::.Region Property
+RegionNavigationService.Region Property
 ===========================================
 
 Gets or sets the region.
@@ -24,7 +24,7 @@ Type: [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.i
 The region.
 #### Implements
 
-[IRegionNavigationService..::.Region](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionnavigationservice.region)
+[IRegionNavigationService.Region](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionnavigationservice.region)
 
 See Also
 --------

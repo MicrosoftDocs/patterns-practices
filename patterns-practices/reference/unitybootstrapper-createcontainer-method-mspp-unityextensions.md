@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419007(v=PandP.50)'
 
 Prism Class Library
 
-UnityBootstrapper..::.CreateContainer Method
+UnityBootstrapper.CreateContainer Method
 ============================================
 
 Creates the IUnityContainer that will be used as the default container.

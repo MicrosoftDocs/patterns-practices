@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736252(v=PandP.50)'
 
 Prism Class Library
 
-INavigateAsync..::.RequestNavigate Method
+INavigateAsync.RequestNavigate Method
 =========================================
 
 Overload List

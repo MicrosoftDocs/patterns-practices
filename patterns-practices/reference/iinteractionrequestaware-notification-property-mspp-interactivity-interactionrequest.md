@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736229(v=PandP.50)'
 
 Prism Class Library
 
-IInteractionRequestAware..::.Notification Property
+IInteractionRequestAware.Notification Property
 ==================================================
 
 The [INotification](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.inotification) passed when the interaction request was raised.

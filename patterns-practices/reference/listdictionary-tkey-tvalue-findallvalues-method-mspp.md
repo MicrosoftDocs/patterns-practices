@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405802(v=PandP.50)'
 
 Prism Class Library
 
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)..::.FindAllValues Method
+ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).FindAllValues Method
 ==========================================================================
 
 Retrieves all the elements that match the condition defined by the specified predicate.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 valueFilter  
-Type: [System..::.Predicate](http://msdn2.microsoft.com/en-us/library/bfcke1bz)&lt;(Of &lt;([TValue](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
+Type: [System.Predicate](http://msdn2.microsoft.com/en-us/library/bfcke1bz)&lt;(Of &lt;([TValue](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
 The filter with the condition to use to filter values.
 
 #### Return Value

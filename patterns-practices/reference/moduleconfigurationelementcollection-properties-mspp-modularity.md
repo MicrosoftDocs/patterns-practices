@@ -52,7 +52,7 @@ Gets or sets the name for the <a href="http://msdn2.microsoft.com/en-us/library/
 <td><div class="summary">
 Gets the type of the <a href="http://msdn2.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/x4skd9kd">ConfigurationElementCollection..::.CollectionType</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/x4skd9kd">ConfigurationElementCollection.CollectionType</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431168.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
@@ -84,7 +84,7 @@ Gets an <a href="http://msdn2.microsoft.com/en-us/library/ms134413">ElementInfor
 <td><div class="summary">
 Gets the name used to identify this collection of elements in the configuration file when overridden in a derived class.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/8f06bh6s">ConfigurationElementCollection..::.ElementName</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/8f06bh6s">ConfigurationElementCollection.ElementName</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431168.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
@@ -219,7 +219,7 @@ Gets an object used to synchronize access to the <a href="http://msdn2.microsoft
 <td><div class="summary">
 Gets a value indicating whether an exception should be raised if a duplicate element is found. This property will always return true.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/ea6s6hb8">ConfigurationElementCollection..::.ThrowOnDuplicate</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/ea6s6hb8">ConfigurationElementCollection.ThrowOnDuplicate</a>.)</td>
 </tr>
 </tbody>
 </table>

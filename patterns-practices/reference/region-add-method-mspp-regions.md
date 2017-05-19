@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419141(v=PandP.50)'
 
 Prism Class Library
 
-Region..::.Add Method
+Region.Add Method
 =====================
 
 Adds a new view to the region.

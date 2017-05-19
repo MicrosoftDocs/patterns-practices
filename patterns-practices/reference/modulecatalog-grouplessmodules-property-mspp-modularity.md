@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431283(v=PandP.50)'
 
 Prism Class Library
 
-ModuleCatalog..::.GrouplessModules Property
+ModuleCatalog.GrouplessModules Property
 ===========================================
 
 Returns the list of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)s that are not contained within any [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup).

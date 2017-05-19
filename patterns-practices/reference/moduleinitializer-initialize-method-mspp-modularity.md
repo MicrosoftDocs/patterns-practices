@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405924(v=PandP.50)'
 
 Prism Class Library
 
-ModuleInitializer..::.Initialize Method
+ModuleInitializer.Initialize Method
 =======================================
 
 Initializes the specified module.
@@ -21,12 +21,12 @@ Syntax
 #### Parameters
 
 moduleInfo  
-Type: [Microsoft.Practices.Prism.Modularity..::.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 The module to initialize
 
 #### Implements
 
-[IModuleInitializer..::.Initialize(ModuleInfo)](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.imoduleinitializer.initialize(microsoft.practices.prism.modularity.moduleinfo))
+[IModuleInitializer.Initialize(ModuleInfo)](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.imoduleinitializer.initialize(microsoft.practices.prism.modularity.moduleinfo))
 
 See Also
 --------

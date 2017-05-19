@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431294(v=PandP.50)'
 
 Prism Class Library
 
-ModuleConfigurationElement..::.ModuleName Property
+ModuleConfigurationElement.ModuleName Property
 ==================================================
 
 Gets or sets the module name.

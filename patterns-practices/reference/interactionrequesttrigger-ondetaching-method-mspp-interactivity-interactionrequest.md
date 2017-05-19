@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg406207(v=PandP.50)'
 
 Prism Class Library
 
-InteractionRequestTrigger..::.OnDetaching Method
+InteractionRequestTrigger.OnDetaching Method
 ================================================
 
 Called when the trigger is being dettached from its AssociatedObject, but before it has actually occurred.

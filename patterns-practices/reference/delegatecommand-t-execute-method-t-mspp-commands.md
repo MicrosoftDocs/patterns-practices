@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405764(v=PandP.50)'
 
 Prism Class Library
 
-DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)..::.Execute Method (T)
+DelegateCommand&lt;(Of &lt;(T&gt;)&gt;).Execute Method (T)
 ==============================================================
 
 Executes the command and invokes the [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/018hxwa8) provided during construction.

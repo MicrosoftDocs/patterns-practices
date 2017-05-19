@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431344(v=PandP.50)'
 
 Prism Class Library
 
-IRegionNavigationJournal..::.CurrentEntry Property
+IRegionNavigationJournal.CurrentEntry Property
 ==================================================
 
 Gets the current navigation entry of the content that is currently displayed.

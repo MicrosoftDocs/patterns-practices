@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405752(v=PandP.50)'
 
 Prism Class Library
 
-CompositeCommand..::.ShouldExecute Method
+CompositeCommand.ShouldExecute Method
 =========================================
 
 Evaluates if a command should execute.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 command  
-Type: [System.Windows.Input..::.ICommand](http://msdn2.microsoft.com/en-us/library/ms616869)
+Type: [System.Windows.Input.ICommand](http://msdn2.microsoft.com/en-us/library/ms616869)
 The command to evaluate.
 
 #### Return Value

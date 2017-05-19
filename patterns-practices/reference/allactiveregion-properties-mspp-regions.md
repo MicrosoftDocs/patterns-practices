@@ -36,7 +36,7 @@ Properties
 <td><div class="summary">
 Gets a readonly view of the collection of all the active views in the region. These are all the added views.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.region.activeviews">Region..::.ActiveViews</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.region.activeviews">Region.ActiveViews</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431183.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>

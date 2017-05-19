@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431233(v=PandP.50)'
 
 Prism Class Library
 
-Bootstrapper..::.Shell Property
+Bootstrapper.Shell Property
 ===============================
 
 Gets the shell user interface

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405969(v=PandP.50)'
 
 Prism Class Library
 
-IRegionNavigationContentLoader..::.LoadContent Method
+IRegionNavigationContentLoader.LoadContent Method
 =====================================================
 
 Gets the content to which the navigation request represented by navigationContext applies.
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 region  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
+Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 The region.
 
 navigationContext  
-Type: [Microsoft.Practices.Prism.Regions..::.NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)
 The context representing the navigation request.
 
 #### Return Value
@@ -44,7 +44,7 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                                 | Condition                                                     |
 |-------------------------------------------------------------------------------------------|---------------------------------------------------------------|
-| [System..::.InvalidOperationException](http://msdn2.microsoft.com/en-us/library/2asft85a) | when a new item cannot be created for the navigation request. |
+| [System.InvalidOperationException](http://msdn2.microsoft.com/en-us/library/2asft85a) | when a new item cannot be created for the navigation request. |
 
 See Also
 --------

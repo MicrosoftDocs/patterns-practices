@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736162(v=PandP.50)'
 
 Prism Class Library
 
-PopupWindowAction..::.WindowContent Property
+PopupWindowAction.WindowContent Property
 ============================================
 
 Gets or sets the content of the window.

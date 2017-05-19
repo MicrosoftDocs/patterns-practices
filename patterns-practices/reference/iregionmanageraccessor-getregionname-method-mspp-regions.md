@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405967(v=PandP.50)'
 
 Prism Class Library
 
-IRegionManagerAccessor..::.GetRegionName Method
+IRegionManagerAccessor.GetRegionName Method
 ===============================================
 
 Gets the value for the RegionName attached property.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 element  
-Type: [System.Windows..::.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
+Type: [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
 The object to adapt. This is typically a container (i.e a control).
 
 #### Return Value

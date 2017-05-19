@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405755(v=PandP.50)'
 
 Prism Class Library
 
-DelegateCommandBase..::.Execute Method
+DelegateCommandBase.Execute Method
 ======================================
 
 Executes the command with the provided parameter by invoking the [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/018hxwa8) supplied during construction.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 parameter  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 
 #### Return Value
 

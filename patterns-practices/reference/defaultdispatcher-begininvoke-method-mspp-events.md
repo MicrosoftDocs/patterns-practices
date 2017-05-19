@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405774(v=PandP.50)'
 
 Prism Class Library
 
-DefaultDispatcher..::.BeginInvoke Method
+DefaultDispatcher.BeginInvoke Method
 ========================================
 
 Forwards the BeginInvoke to the current application's [Dispatcher](http://msdn2.microsoft.com/en-us/library/ms615907).
@@ -21,16 +21,16 @@ Syntax
 #### Parameters
 
 method  
-Type: [System..::.Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51)
+Type: [System.Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51)
 Method to be invoked.
 
 arg  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 Arguments to pass to the invoked method.
 
 #### Implements
 
-[IDispatcherFacade..::.BeginInvoke(Delegate, Object)](https://msdn.microsoft.com/m:microsoft.practices.prism.events.idispatcherfacade.begininvoke(system.delegate%2csystem.object))
+[IDispatcherFacade.BeginInvoke(Delegate, Object)](https://msdn.microsoft.com/m:microsoft.practices.prism.events.idispatcherfacade.begininvoke(system.delegate%2csystem.object))
 
 See Also
 --------

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431302(v=PandP.50)'
 
 Prism Class Library
 
-ModuleDependencySolver..::.ModuleCount Property
+ModuleDependencySolver.ModuleCount Property
 ===============================================
 
 Gets the number of modules added to the solver.

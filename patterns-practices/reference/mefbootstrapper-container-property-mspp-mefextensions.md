@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431262(v=PandP.50)'
 
 Prism Class Library
 
-MefBootstrapper..::.Container Property
+MefBootstrapper.Container Property
 ======================================
 
 Gets or sets the default [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553) for the application.

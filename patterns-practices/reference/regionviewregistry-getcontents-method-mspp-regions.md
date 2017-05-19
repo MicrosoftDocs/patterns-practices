@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418980(v=PandP.50)'
 
 Prism Class Library
 
-RegionViewRegistry..::.GetContents Method
+RegionViewRegistry.GetContents Method
 =========================================
 
 Returns the contents registered for a region.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 regionName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Name of the region which content is being requested.
 
 #### Return Value
@@ -30,7 +30,7 @@ Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &l
 Collection of contents registered for the region.
 #### Implements
 
-[IRegionViewRegistry..::.GetContents(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionviewregistry.getcontents(system.string))
+[IRegionViewRegistry.GetContents(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionviewregistry.getcontents(system.string))
 
 See Also
 --------

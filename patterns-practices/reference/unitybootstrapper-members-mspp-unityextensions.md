@@ -95,7 +95,7 @@ Configures the default region adapter mappings to use in the application, in ord
 <td><div class="summary">
 Configures the LocatorProvider for the ServiceLocator.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.configureservicelocator">Bootstrapper..::.ConfigureServiceLocator()()()</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.configureservicelocator">Bootstrapper.ConfigureServiceLocator()()()</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg405525.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
@@ -166,7 +166,7 @@ Gets the <a href="http://msdn2.microsoft.com/en-us/library/42892f65">Type</a> of
 <td><div class="summary">
 Initializes the modules. May be overwritten in a derived class to use a custom Modules Catalog
 </div>
-(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.initializemodules">Bootstrapper..::.InitializeModules()()()</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.initializemodules">Bootstrapper.InitializeModules()()()</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg405525.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
@@ -190,7 +190,7 @@ Creates a shallow copy of the current <a href="http://msdn2.microsoft.com/en-us/
 <td><div class="summary">
 Registers in the IUnityContainer the <a href="http://msdn2.microsoft.com/en-us/library/42892f65">Type</a> of the Exceptions that are not considered root exceptions by the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.exceptionextensions">ExceptionExtensions</a>.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.registerframeworkexceptiontypes">Bootstrapper..::.RegisterFrameworkExceptionTypes()()()</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.registerframeworkexceptiontypes">Bootstrapper.RegisterFrameworkExceptionTypes()()()</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg405525.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
@@ -213,7 +213,7 @@ Runs the bootstrapper process.
 <td><div class="summary">
 Run the bootstrapper process.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.run(system.boolean)">Bootstrapper..::.Run(Boolean)</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.run(system.boolean)">Bootstrapper.Run(Boolean)</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg405525.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>

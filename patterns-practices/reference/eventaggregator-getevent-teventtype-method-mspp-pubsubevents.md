@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736138(v=PandP.50)'
 
 Prism Class Library
 
-EventAggregator..::.GetEvent&lt;(Of &lt;(TEventType&gt;)&gt;) Method
+EventAggregator.GetEvent&lt;(Of &lt;(TEventType&gt;)&gt;) Method
 ====================================================================
 
 Gets the single instance of the event managed by this EventAggregator. Multiple calls to this method with the same TEventType returns the same event instance.
@@ -31,7 +31,7 @@ Type: TEventType
 A singleton instance of an event object of type TEventType.
 #### Implements
 
-[IEventAggregator..::.GetEvent&lt;(Of &lt;(TEventType&gt;)&gt;)()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.pubsubevents.ieventaggregator.getevent%60%601)
+[IEventAggregator.GetEvent&lt;(Of &lt;(TEventType&gt;)&gt;)()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.pubsubevents.ieventaggregator.getevent%60%601)
 
 See Also
 --------

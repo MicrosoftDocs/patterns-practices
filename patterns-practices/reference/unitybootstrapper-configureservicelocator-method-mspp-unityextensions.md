@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419006(v=PandP.50)'
 
 Prism Class Library
 
-UnityBootstrapper..::.ConfigureServiceLocator Method
+UnityBootstrapper.ConfigureServiceLocator Method
 ====================================================
 
 Configures the LocatorProvider for the ServiceLocator.

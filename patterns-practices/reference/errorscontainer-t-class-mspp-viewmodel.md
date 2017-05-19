@@ -28,8 +28,8 @@ The type of the error object.
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.ViewModel..::.ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  Microsoft.Practices.Prism.ViewModel.ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)
 
 See Also
 --------

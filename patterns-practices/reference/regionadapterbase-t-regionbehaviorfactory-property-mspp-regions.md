@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431365(v=PandP.50)'
 
 Prism Class Library
 
-RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)..::.RegionBehaviorFactory Property
+RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;).RegionBehaviorFactory Property
 ============================================================================
 
 Gets or sets the factory used to create the region behaviors to attach to the created regions.

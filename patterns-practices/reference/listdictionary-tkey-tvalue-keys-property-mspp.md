@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431257(v=PandP.50)'
 
 Prism Class Library
 
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)..::.Keys Property
+ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Keys Property
 ===================================================================
 
 Gets the list of keys in the dictionary.
@@ -24,7 +24,7 @@ Type: [ICollection](http://msdn2.microsoft.com/en-us/library/92t2ye13)&lt;(Of &l
 Collection of keys.
 #### Implements
 
-[IDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)..::.Keys](http://msdn2.microsoft.com/en-us/library/1ebzfbyx)
+[IDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Keys](http://msdn2.microsoft.com/en-us/library/1ebzfbyx)
 
 See Also
 --------

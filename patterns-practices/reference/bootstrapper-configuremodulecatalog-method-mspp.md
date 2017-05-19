@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431147(v=PandP.50)'
 
 Prism Class Library
 
-Bootstrapper..::.ConfigureModuleCatalog Method
+Bootstrapper.ConfigureModuleCatalog Method
 ==============================================
 
 Configures the [IModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulecatalog) used by Prism.

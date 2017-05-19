@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418946(v=PandP.50)'
 
 Prism Class Library
 
-RegionBehaviorFactory..::.CreateFromKey Method
+RegionBehaviorFactory.CreateFromKey Method
 ==============================================
 
 Creates an instance of the behavior [Type](http://msdn2.microsoft.com/en-us/library/42892f65) that is registered using the specified key.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 key  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The key that is used to register a behavior type.
 
 #### Return Value
@@ -30,7 +30,7 @@ Type: [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.r
 A new instance of the behavior.
 #### Implements
 
-[IRegionBehaviorFactory..::.CreateFromKey(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionbehaviorfactory.createfromkey(system.string))
+[IRegionBehaviorFactory.CreateFromKey(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionbehaviorfactory.createfromkey(system.string))
 
 See Also
 --------

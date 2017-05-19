@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419100(v=PandP.50)'
 
 Prism Class Library
 
-ModuleDependencyCollection..::.Item Property
+ModuleDependencyCollection.Item Property
 ============================================
 
 Overload List

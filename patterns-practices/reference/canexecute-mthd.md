@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419050(v=PandP.50)'
 
 Prism Class Library
 
-DelegateCommand..::.CanExecute Method
+DelegateCommand.CanExecute Method
 =====================================
 
 Overload List

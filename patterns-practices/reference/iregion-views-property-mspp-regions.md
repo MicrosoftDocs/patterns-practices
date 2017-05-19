@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431355(v=PandP.50)'
 
 Prism Class Library
 
-IRegion..::.Views Property
+IRegion.Views Property
 ==========================
 
 Gets a readonly view of the collection of views in the region.

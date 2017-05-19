@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405821(v=PandP.50)'
 
 Prism Class Library
 
-MefBootstrapper..::.ConfigureAggregateCatalog Method
+MefBootstrapper.ConfigureAggregateCatalog Method
 ====================================================
 
 Configures the [AggregateCatalog](https://msdn.microsoft.com/p:microsoft.practices.prism.mefextensions.mefbootstrapper.aggregatecatalog) used by MEF.

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431146(v=PandP.50)'
 
 Prism Class Library
 
-Bootstrapper..::.ConfigureDefaultRegionBehaviors Method
+Bootstrapper.ConfigureDefaultRegionBehaviors Method
 =======================================================
 
 Configures the [IRegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorfactory). This will be the list of default behaviors that will be added to a region.

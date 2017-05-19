@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736270(v=PandP.50)'
 
 Prism Class Library
 
-IDelegateReference..::.Target Property
+IDelegateReference.Target Property
 ======================================
 
 Gets the referenced [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51) object.

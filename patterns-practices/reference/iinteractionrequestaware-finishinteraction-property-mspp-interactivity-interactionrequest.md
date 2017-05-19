@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736131(v=PandP.50)'
 
 Prism Class Library
 
-IInteractionRequestAware..::.FinishInteraction Property
+IInteractionRequestAware.FinishInteraction Property
 =======================================================
 
 An [Action](http://msdn2.microsoft.com/en-us/library/bb534741) that can be invoked to finish the interaction.

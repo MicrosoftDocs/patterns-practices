@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430968(v=PandP.50)'
 
 Prism Class Library
 
-RegionManager..::.RegionManagerProperty Field
+RegionManager.RegionManagerProperty Field
 =============================================
 
 Identifies the RegionManager attached property.

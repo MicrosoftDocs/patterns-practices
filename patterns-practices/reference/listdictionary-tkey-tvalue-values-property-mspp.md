@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431260(v=PandP.50)'
 
 Prism Class Library
 
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)..::.Values Property
+ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Values Property
 =====================================================================
 
 Gets a shallow copy of all values in all lists.

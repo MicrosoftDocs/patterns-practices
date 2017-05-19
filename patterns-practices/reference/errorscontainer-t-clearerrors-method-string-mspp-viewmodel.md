@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419024(v=PandP.50)'
 
 Prism Class Library
 
-ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)..::.ClearErrors Method (String)
+ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).ClearErrors Method (String)
 =======================================================================
 
 Clears the errors for a property.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 propertyName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of th property for which to clear errors.
 
 Examples

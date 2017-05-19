@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431299(v=PandP.50)'
 
 Prism Class Library
 
-ModuleDependencyCollection..::.ElementName Property
+ModuleDependencyCollection.ElementName Property
 ===================================================
 
 Gets the name used to identify this collection of elements in the configuration file when overridden in a derived class.

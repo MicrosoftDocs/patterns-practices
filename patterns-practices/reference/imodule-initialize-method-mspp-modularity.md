@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405865(v=PandP.50)'
 
 Prism Class Library
 
-IModule..::.Initialize Method
+IModule.Initialize Method
 =============================
 
 Notifies the module that it has be initialized.

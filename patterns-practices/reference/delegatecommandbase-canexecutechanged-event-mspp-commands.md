@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430914(v=PandP.50)'
 
 Prism Class Library
 
-DelegateCommandBase..::.CanExecuteChanged Event
+DelegateCommandBase.CanExecuteChanged Event
 ===============================================
 
 Occurs when changes occur that affect whether or not the command should execute. You must keep a hard reference to the handler to avoid garbage collection and unexpected results. See remarks for more information.
@@ -20,10 +20,10 @@ Syntax
 <span id="syntaxToggle"></span>public virtual event EventHandler CanExecuteChangedPublic Overridable Event CanExecuteChanged As EventHandler
 #### Value
 
-Type: [System..::.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
+Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
 #### Implements
 
-[ICommand..::.CanExecuteChanged](http://msdn2.microsoft.com/en-us/library/ms523106)
+[ICommand.CanExecuteChanged](http://msdn2.microsoft.com/en-us/library/ms523106)
 
 Remarks
 -------

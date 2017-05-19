@@ -72,7 +72,7 @@ Uses the container to resolve a new <a href="https://msdn.microsoft.com/t:micros
 <td><div class="summary">
 Uses the container to resolve a new <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule">IModule</a> by specifying its <a href="http://msdn2.microsoft.com/en-us/library/42892f65">Type</a>.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinitializer.createmodule(microsoft.practices.prism.modularity.moduleinfo)">ModuleInitializer..::.CreateModule(ModuleInfo)</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinitializer.createmodule(microsoft.practices.prism.modularity.moduleinfo)">ModuleInitializer.CreateModule(ModuleInfo)</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430799.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>

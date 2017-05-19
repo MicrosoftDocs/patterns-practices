@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405840(v=PandP.50)'
 
 Prism Class Library
 
-MefModuleInitializer..::.CreateModule Method (ModuleInfo)
+MefModuleInitializer.CreateModule Method (ModuleInfo)
 =========================================================
 
 Uses the container to resolve a new [IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule) by specifying its [Type](http://msdn2.microsoft.com/en-us/library/42892f65).
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 moduleInfo  
-Type: [Microsoft.Practices.Prism.Modularity..::.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 The module to create.
 
 #### Return Value

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736171(v=PandP.50)'
 
 Prism Class Library
 
-ClearChildViewsRegionBehavior..::.ClearChildViews Attached Property
+ClearChildViewsRegionBehavior.ClearChildViews Attached Property
 ===================================================================
 
 **Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)

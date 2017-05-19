@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405750(v=PandP.50)'
 
 Prism Class Library
 
-CompositeCommand..::.OnCanExecuteChanged Method
+CompositeCommand.OnCanExecuteChanged Method
 ===============================================
 
 Raises [CanExecuteChanged](http://msdn2.microsoft.com/en-us/library/ms523106) on the UI thread so every command invoker can requery [CanExecute(Object)](http://msdn2.microsoft.com/en-us/library/ms604093) to check if the [CompositeCommand](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.compositecommand) can execute.

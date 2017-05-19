@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419057(v=PandP.50)'
 
 Prism Class Library
 
-CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)..::.Subscribe Method
+CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Subscribe Method
 ==============================================================================
 
 Overload List

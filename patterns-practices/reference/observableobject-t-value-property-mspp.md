@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431324(v=PandP.50)'
 
 Prism Class Library
 
-ObservableObject&lt;(Of &lt;(T&gt;)&gt;)..::.Value Property
+ObservableObject&lt;(Of &lt;(T&gt;)&gt;).Value Property
 ===========================================================
 
 The value that's wrapped inside the ObservableObject.

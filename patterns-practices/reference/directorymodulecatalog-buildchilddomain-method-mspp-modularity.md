@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405848(v=PandP.50)'
 
 Prism Class Library
 
-DirectoryModuleCatalog..::.BuildChildDomain Method
+DirectoryModuleCatalog.BuildChildDomain Method
 ==================================================
 
 Creates a new child domain and copies the evidence from a parent domain.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 parentDomain  
-Type: [System..::.AppDomain](http://msdn2.microsoft.com/en-us/library/w124b5fa)
+Type: [System.AppDomain](http://msdn2.microsoft.com/en-us/library/w124b5fa)
 The parent domain.
 
 #### Return Value
@@ -40,7 +40,7 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                             | Condition                                                                                                        |
 |---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
-| [System..::.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) is thrown if parentDomain is null. |
+| [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) is thrown if parentDomain is null. |
 
 See Also
 --------

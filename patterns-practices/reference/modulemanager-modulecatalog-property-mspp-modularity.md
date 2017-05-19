@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431321(v=PandP.50)'
 
 Prism Class Library
 
-ModuleManager..::.ModuleCatalog Property
+ModuleManager.ModuleCatalog Property
 ========================================
 
 The module catalog specified in the constructor.

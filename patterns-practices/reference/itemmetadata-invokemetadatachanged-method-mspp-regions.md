@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405984(v=PandP.50)'
 
 Prism Class Library
 
-ItemMetadata..::.InvokeMetadataChanged Method
+ItemMetadata.InvokeMetadataChanged Method
 =============================================
 
 Explicitly invokes [MetadataChanged](https://msdn.microsoft.com/e:microsoft.practices.prism.regions.itemmetadata.metadatachanged) to notify listeners.

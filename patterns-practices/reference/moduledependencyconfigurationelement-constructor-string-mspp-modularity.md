@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 moduleName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 A module name.
 
 See Also

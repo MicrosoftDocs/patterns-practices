@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736117(v=PandP.50)'
 
 Prism Class Library
 
-NavigationParameters..::.ToString Method
+NavigationParameters.ToString Method
 ========================================
 
 Converts the list of key value pairs to a query string.

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419087(v=PandP.50)'
 
 Prism Class Library
 
-ModuleCatalog..::.CreateFromXaml Method
+ModuleCatalog.CreateFromXaml Method
 =======================================
 
 Overload List

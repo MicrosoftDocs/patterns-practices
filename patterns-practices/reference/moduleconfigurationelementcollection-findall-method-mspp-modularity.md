@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405895(v=PandP.50)'
 
 Prism Class Library
 
-ModuleConfigurationElementCollection..::.FindAll Method
+ModuleConfigurationElementCollection.FindAll Method
 =======================================================
 
 Searches the collection for all the [ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement) that match the specified predicate.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 match  
-Type: [System..::.Predicate](http://msdn2.microsoft.com/en-us/library/bfcke1bz)&lt;(Of &lt;([ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement)&gt;)&gt;)
+Type: [System.Predicate](http://msdn2.microsoft.com/en-us/library/bfcke1bz)&lt;(Of &lt;([ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement)&gt;)&gt;)
 A [Predicate&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/bfcke1bz) that implements the match test.
 
 #### Return Value
@@ -35,7 +35,7 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                             | Condition                                                                                                 |
 |---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
-| [System..::.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) is thrown if match is null. |
+| [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) is thrown if match is null. |
 
 See Also
 --------

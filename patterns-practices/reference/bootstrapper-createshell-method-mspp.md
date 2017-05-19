@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431152(v=PandP.50)'
 
 Prism Class Library
 
-Bootstrapper..::.CreateShell Method
+Bootstrapper.CreateShell Method
 ===================================
 
 Creates the shell or main window of the application.

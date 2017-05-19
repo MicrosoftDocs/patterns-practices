@@ -22,8 +22,8 @@ Syntax
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.Logging..::.EmptyLogger
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  Microsoft.Practices.Prism.Logging.EmptyLogger
 
 See Also
 --------

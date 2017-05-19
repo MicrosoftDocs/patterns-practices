@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405986(v=PandP.50)'
 
 Prism Class Library
 
-ItemsControlRegionAdapter..::.CreateRegion Method
+ItemsControlRegionAdapter.CreateRegion Method
 =================================================
 
 Creates a new instance of [AllActiveRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.allactiveregion).

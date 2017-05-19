@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405876(v=PandP.50)'
 
 Prism Class Library
 
-ModuleCatalog..::.CreateFromXaml Method (Stream)
+ModuleCatalog.CreateFromXaml Method (Stream)
 ================================================
 
 Creates a [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog) from XAML.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 xamlStream  
-Type: [System.IO..::.Stream](http://msdn2.microsoft.com/en-us/library/8f86tw9e)
+Type: [System.IO.Stream](http://msdn2.microsoft.com/en-us/library/8f86tw9e)
 [Stream](http://msdn2.microsoft.com/en-us/library/8f86tw9e) that contains the XAML declaration of the catalog.
 
 #### Return Value

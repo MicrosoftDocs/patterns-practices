@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 regionViewRegistry  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegionViewRegistry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionviewregistry)
+Type: [Microsoft.Practices.Prism.Regions.IRegionViewRegistry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionviewregistry)
 [IRegionViewRegistry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionviewregistry) that the behavior will monitor for views to populate the region.
 
 See Also

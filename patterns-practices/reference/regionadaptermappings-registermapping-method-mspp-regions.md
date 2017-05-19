@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418939(v=PandP.50)'
 
 Prism Class Library
 
-RegionAdapterMappings..::.RegisterMapping Method
+RegionAdapterMappings.RegisterMapping Method
 ================================================
 
 Registers the mapping between a type and an adapter.
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 controlType  
-Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The type of the control.
 
 adapter  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter)
+Type: [Microsoft.Practices.Prism.Regions.IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter)
 The adapter to use with the controlType type.
 
 Exceptions
@@ -34,8 +34,8 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                                 | Condition                                                                                            |
 |-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| [System..::.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy)     | When any of controlType or adapter are nullNothingnullptra null reference (Nothing in Visual Basic). |
-| [System..::.InvalidOperationException](http://msdn2.microsoft.com/en-us/library/2asft85a) | If a mapping for controlType already exists.                                                         |
+| [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy)     | When any of controlType or adapter are nullNothingnullptra null reference (Nothing in Visual Basic). |
+| [System.InvalidOperationException](http://msdn2.microsoft.com/en-us/library/2asft85a) | If a mapping for controlType already exists.                                                         |
 
 See Also
 --------

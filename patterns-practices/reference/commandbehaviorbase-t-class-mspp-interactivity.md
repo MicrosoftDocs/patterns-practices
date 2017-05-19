@@ -33,8 +33,8 @@ Remarks
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.Interactivity..::.CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;)
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;)
 
 See Also
 --------

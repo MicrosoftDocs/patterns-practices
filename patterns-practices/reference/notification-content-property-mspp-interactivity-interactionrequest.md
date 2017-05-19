@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431253(v=PandP.50)'
 
 Prism Class Library
 
-Notification..::.Content Property
+Notification.Content Property
 =================================
 
 Gets or sets the content of the notification.
@@ -23,7 +23,7 @@ Syntax
 Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 #### Implements
 
-[INotification..::.Content](https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.interactionrequest.inotification.content)
+[INotification.Content](https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.interactionrequest.inotification.content)
 
 See Also
 --------

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405844(v=PandP.50)'
 
 Prism Class Library
 
-AssemblyResolver..::.Dispose Method (Boolean)
+AssemblyResolver.Dispose Method (Boolean)
 =============================================
 
 Disposes the associated [AssemblyResolver](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.assemblyresolver).
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 disposing  
-Type: [System..::.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 When trueTruetruetrue (True in Visual Basic), it is being called from the Dispose method.
 
 See Also

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419017(v=PandP.50)'
 
 Prism Class Library
 
-UriParsingHelper..::.GetAbsolutePath Method
+UriParsingHelper.GetAbsolutePath Method
 ===========================================
 
 Gets the AbsolutePath part of uri.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 uri  
-Type: [System..::.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
+Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
 The Uri.
 
 #### Return Value

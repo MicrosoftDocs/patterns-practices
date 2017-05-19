@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405928(v=PandP.50)'
 
 Prism Class Library
 
-ModuleManager..::.LoadModulesThatAreReadyForLoad Method
+ModuleManager.LoadModulesThatAreReadyForLoad Method
 =======================================================
 
 Loads the modules that are not intialized and have their dependencies loaded.

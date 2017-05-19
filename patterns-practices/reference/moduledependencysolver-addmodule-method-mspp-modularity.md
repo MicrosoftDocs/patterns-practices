@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405900(v=PandP.50)'
 
 Prism Class Library
 
-ModuleDependencySolver..::.AddModule Method
+ModuleDependencySolver.AddModule Method
 ===========================================
 
 Adds a module to the solver.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 name  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name that uniquely identifies the module.
 
 See Also

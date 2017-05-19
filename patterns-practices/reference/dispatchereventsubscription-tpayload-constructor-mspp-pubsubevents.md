@@ -21,15 +21,15 @@ Syntax
 #### Parameters
 
 actionReference  
-Type: [Microsoft.Practices.Prism.PubSubEvents..::.IDelegateReference](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.idelegatereference)
+Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.idelegatereference)
 A reference to a delegate of type [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/018hxwa8).
 
 filterReference  
-Type: [Microsoft.Practices.Prism.PubSubEvents..::.IDelegateReference](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.idelegatereference)
+Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.idelegatereference)
 A reference to a delegate of type [Predicate&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/bfcke1bz).
 
 context  
-Type: [System.Threading..::.SynchronizationContext](http://msdn2.microsoft.com/en-us/library/wx31754f)
+Type: [System.Threading.SynchronizationContext](http://msdn2.microsoft.com/en-us/library/wx31754f)
 The synchronization context to use for UI thread dispatching.
 
 Exceptions
@@ -38,8 +38,8 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                             | Condition                                                                                                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [System..::.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | When actionReference or are nullNothingnullptra null reference (Nothing in Visual Basic).                                                                                                                                                                                      |
-| [System..::.ArgumentException](http://msdn2.microsoft.com/en-us/library/3w1b3114)     | When the target of actionReference is not of type [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/018hxwa8), or the target of filterReference is not of type [Predicate&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/bfcke1bz). |
+| [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | When actionReference or are nullNothingnullptra null reference (Nothing in Visual Basic).                                                                                                                                                                                      |
+| [System.ArgumentException](http://msdn2.microsoft.com/en-us/library/3w1b3114)     | When the target of actionReference is not of type [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/018hxwa8), or the target of filterReference is not of type [Predicate&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/bfcke1bz). |
 
 See Also
 --------

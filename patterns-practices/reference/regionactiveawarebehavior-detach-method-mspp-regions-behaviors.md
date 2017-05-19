@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405943(v=PandP.50)'
 
 Prism Class Library
 
-RegionActiveAwareBehavior..::.Detach Method
+RegionActiveAwareBehavior.Detach Method
 ===========================================
 
 Detaches the behavior from the [INotifyCollectionChanged](http://msdn2.microsoft.com/en-us/library/ms668629).

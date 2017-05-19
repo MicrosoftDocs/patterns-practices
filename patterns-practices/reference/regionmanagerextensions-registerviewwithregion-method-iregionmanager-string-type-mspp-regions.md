@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418954(v=PandP.50)'
 
 Prism Class Library
 
-RegionManagerExtensions..::.RegisterViewWithRegion Method (IRegionManager, String, Type)
+RegionManagerExtensions.RegisterViewWithRegion Method (IRegionManager, String, Type)
 ========================================================================================
 
 Associate a view with a region, by registering a type. When the region get's displayed this type will be resolved using the ServiceLocator into a concrete instance. The instance will be added to the Views collection of the region
@@ -21,15 +21,15 @@ Syntax
 #### Parameters
 
 regionManager  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
+Type: [Microsoft.Practices.Prism.Regions.IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
 The regionmanager that this extension method effects.
 
 regionName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region to associate the view with.
 
 viewType  
-Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The type of the view to register with the
 
 #### Return Value

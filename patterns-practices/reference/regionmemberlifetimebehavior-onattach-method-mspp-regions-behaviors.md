@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405946(v=PandP.50)'
 
 Prism Class Library
 
-RegionMemberLifetimeBehavior..::.OnAttach Method
+RegionMemberLifetimeBehavior.OnAttach Method
 ================================================
 
 Override this method to perform the logic after the behavior has been attached.

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405903(v=PandP.50)'
 
 Prism Class Library
 
-ModuleInfoGroupExtensions..::.AddModule Method (ModuleInfoGroup, String, Type, array&lt;String&gt;[]()[])
+ModuleInfoGroupExtensions.AddModule Method (ModuleInfoGroup, String, Type, array&lt;String&gt;)
 =============================================================================================================
 
 Adds a new module that is statically referenced to the specified module info group.
@@ -21,19 +21,19 @@ Syntax
 #### Parameters
 
 moduleInfoGroup  
-Type: [Microsoft.Practices.Prism.Modularity..::.ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup)
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup)
 The group where to add the module info in.
 
 moduleName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name for the module.
 
 moduleType  
-Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The type for the module. This type should be a descendant of [IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule).
 
 dependsOn  
-Type: array&lt;[System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;[]()[]
+Type: array&lt;[System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;
 The names for the modules that this module depends on.
 
 #### Return Value

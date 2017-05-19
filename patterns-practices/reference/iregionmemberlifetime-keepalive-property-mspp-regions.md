@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431340(v=PandP.50)'
 
 Prism Class Library
 
-IRegionMemberLifetime..::.KeepAlive Property
+IRegionMemberLifetime.KeepAlive Property
 ============================================
 
 Gets a value indicating whether this instance should be kept-alive upon deactivation.

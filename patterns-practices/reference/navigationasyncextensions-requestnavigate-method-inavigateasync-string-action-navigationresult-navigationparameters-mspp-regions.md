@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736275(v=PandP.50)'
 
 Prism Class Library
 
-NavigationAsyncExtensions..::.RequestNavigate Method (INavigateAsync, String, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)
+NavigationAsyncExtensions.RequestNavigate Method (INavigateAsync, String, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)
 ==================================================================================================================================================
 
 Initiates navigation to the target specified by the target.
@@ -21,19 +21,19 @@ Syntax
 #### Parameters
 
 navigation  
-Type: [Microsoft.Practices.Prism.Regions..::.INavigateAsync](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigateasync)
+Type: [Microsoft.Practices.Prism.Regions.INavigateAsync](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigateasync)
 The navigation object.
 
 target  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The navigation target
 
 navigationCallback  
-Type: [System..::.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([NavigationResult](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationresult)&gt;)&gt;)
+Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([NavigationResult](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationresult)&gt;)&gt;)
 The callback executed when the navigation request is completed.
 
 navigationParameters  
-Type: [Microsoft.Practices.Prism.Regions..::.NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters)
+Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters)
 An instance of NavigationParameters, which holds a collection of object parameters.
 
 #### Usage Note

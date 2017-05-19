@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405958(v=PandP.50)'
 
 Prism Class Library
 
-IRegionBehaviorCollection..::.ContainsKey Method
+IRegionBehaviorCollection.ContainsKey Method
 ================================================
 
 Checks if a [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior) with the specified key is already present.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 key  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The key to use to find a particular [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior).
 
 #### Return Value

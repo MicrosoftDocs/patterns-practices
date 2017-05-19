@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405988(v=PandP.50)'
 
 Prism Class Library
 
-NavigationAsyncExtensions..::.RequestNavigate Method (INavigateAsync, String)
+NavigationAsyncExtensions.RequestNavigate Method (INavigateAsync, String)
 =============================================================================
 
 Initiates navigation to the target specified by the target.
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 navigation  
-Type: [Microsoft.Practices.Prism.Regions..::.INavigateAsync](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigateasync)
+Type: [Microsoft.Practices.Prism.Regions.INavigateAsync](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigateasync)
 The navigation object.
 
 target  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The navigation target
 
 #### Usage Note

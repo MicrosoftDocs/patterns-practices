@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419105(v=PandP.50)'
 
 Prism Class Library
 
-ModuleInfoGroup..::.Insert Method
+ModuleInfoGroup.Insert Method
 =================================
 
 Overload List

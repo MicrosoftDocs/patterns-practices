@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736263(v=PandP.50)'
 
 Prism Class Library
 
-BindableBase..::.SetProperty&lt;(Of &lt;(T&gt;)&gt;) Method
+BindableBase.SetProperty&lt;(Of &lt;(T&gt;)&gt;) Method
 ===========================================================
 
 Checks if a property already matches a desired value. Sets the property and notifies listeners only when necessary.
@@ -29,7 +29,7 @@ Type: T
 Desired value for the property.
 
 propertyName (Optional)  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Name of the property used to notify listeners. This value is optional and can be provided automatically when invoked from compilers that support CallerMemberName.
 
 Type Parameters

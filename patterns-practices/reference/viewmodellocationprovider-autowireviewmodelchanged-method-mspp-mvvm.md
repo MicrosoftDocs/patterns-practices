@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736118(v=PandP.50)'
 
 Prism Class Library
 
-ViewModelLocationProvider..::.AutoWireViewModelChanged Method
+ViewModelLocationProvider.AutoWireViewModelChanged Method
 =============================================================
 
 Automatically looks up the viewmodel that corresponds to the current view, using two strategies: It first looks to see if there is a mapping registered for that view, if not it will fallback to the convention based approach.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 view  
-Type: [Microsoft.Practices.Prism.Mvvm..::.IView](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.iview)
+Type: [Microsoft.Practices.Prism.Mvvm.IView](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.iview)
 The dependency object, typically a view.
 
 See Also

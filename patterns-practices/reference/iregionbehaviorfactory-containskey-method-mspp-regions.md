@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405960(v=PandP.50)'
 
 Prism Class Library
 
-IRegionBehaviorFactory..::.ContainsKey Method
+IRegionBehaviorFactory.ContainsKey Method
 =============================================
 
 Determines whether a behavior with the specified key already exists
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 behaviorKey  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The behavior key.
 
 #### Return Value

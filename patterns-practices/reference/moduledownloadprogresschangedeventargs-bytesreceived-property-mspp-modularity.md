@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431303(v=PandP.50)'
 
 Prism Class Library
 
-ModuleDownloadProgressChangedEventArgs..::.BytesReceived Property
+ModuleDownloadProgressChangedEventArgs.BytesReceived Property
 =================================================================
 
 Gets the bytes received.

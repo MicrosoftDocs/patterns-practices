@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430957(v=PandP.50)'
 
 Prism Class Library
 
-ObservableObject&lt;(Of &lt;(T&gt;)&gt;)..::.ValueProperty Field
+ObservableObject&lt;(Of &lt;(T&gt;)&gt;).ValueProperty Field
 ================================================================
 
 Identifies the Value property of the ObservableObject

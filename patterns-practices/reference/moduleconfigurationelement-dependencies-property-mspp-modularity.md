@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431293(v=PandP.50)'
 
 Prism Class Library
 
-ModuleConfigurationElement..::.Dependencies Property
+ModuleConfigurationElement.Dependencies Property
 ====================================================
 
 Gets or sets the modules this module depends on.

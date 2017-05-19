@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736302(v=PandP.50)'
 
 Prism Class Library
 
-EventBase..::.Contains Method
+EventBase.Contains Method
 =============================
 
 Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matching [SubscriptionToken](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken).
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 token  
-Type: [Microsoft.Practices.Prism.PubSubEvents..::.SubscriptionToken](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken)
+Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken)
 The [SubscriptionToken](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken) returned by [EventBase](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventbase) while subscribing to the event.
 
 #### Return Value

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736195(v=PandP.50)'
 
 Prism Class Library
 
-PopupWindowAction..::.PrepareContentForWindow Method
+PopupWindowAction.PrepareContentForWindow Method
 ====================================================
 
 Checks if the WindowContent or its DataContext implements [IInteractionRequestAware](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware). If so, it sets the corresponding value. Also, if WindowContent does not have a RegionManager attached, it creates a new scoped RegionManager for it.
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 notification  
-Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest..::.INotification](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.inotification)
+Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.inotification)
 The notification to be set as a DataContext in the HostWindow.
 
 wrapperWindow  
-Type: [System.Windows..::.Window](http://msdn2.microsoft.com/en-us/library/ms590112)
+Type: [System.Windows.Window](http://msdn2.microsoft.com/en-us/library/ms590112)
 The HostWindow
 
 See Also

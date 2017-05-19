@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418992(v=PandP.50)'
 
 Prism Class Library
 
-SelectorRegionAdapter..::.Adapt Method
+SelectorRegionAdapter.Adapt Method
 ======================================
 
 Adapts an [Selector](http://msdn2.microsoft.com/en-us/library/ms595227) to an [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion).
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 region  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
+Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 The new region being used.
 
 regionTarget  
-Type: [System.Windows.Controls.Primitives..::.Selector](http://msdn2.microsoft.com/en-us/library/ms595227)
+Type: [System.Windows.Controls.Primitives.Selector](http://msdn2.microsoft.com/en-us/library/ms595227)
 The object to adapt.
 
 See Also

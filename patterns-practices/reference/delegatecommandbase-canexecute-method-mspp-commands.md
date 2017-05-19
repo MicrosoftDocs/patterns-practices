@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405754(v=PandP.50)'
 
 Prism Class Library
 
-DelegateCommandBase..::.CanExecute Method
+DelegateCommandBase.CanExecute Method
 =========================================
 
 Determines if the command can execute with the provided parameter by invoking the [Func&lt;(Of &lt;(T, TResult&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/bb549151) supplied during construction.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 parameter  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The parameter to use when determining if this command can execute.
 
 #### Return Value

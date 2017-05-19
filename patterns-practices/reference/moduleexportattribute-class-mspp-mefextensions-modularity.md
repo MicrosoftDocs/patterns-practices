@@ -22,10 +22,10 @@ Syntax
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System..::.Attribute](http://msdn2.microsoft.com/en-us/library/e8kc3626)
-    [System.ComponentModel.Composition..::.ExportAttribute](http://msdn2.microsoft.com/en-us/library/dd234971)
-      Microsoft.Practices.Prism.MefExtensions.Modularity..::.ModuleExportAttribute
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  [System.Attribute](http://msdn2.microsoft.com/en-us/library/e8kc3626)
+    [System.ComponentModel.Composition.ExportAttribute](http://msdn2.microsoft.com/en-us/library/dd234971)
+      Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAttribute
 
 See Also
 --------

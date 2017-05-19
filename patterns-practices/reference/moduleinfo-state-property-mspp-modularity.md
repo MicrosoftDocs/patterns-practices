@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431320(v=PandP.50)'
 
 Prism Class Library
 
-ModuleInfo..::.State Property
+ModuleInfo.State Property
 =============================
 
 Gets or sets the state of the [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) with regards to the module loading and initialization process.

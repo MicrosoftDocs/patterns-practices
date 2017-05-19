@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419008(v=PandP.50)'
 
 Prism Class Library
 
-UnityBootstrapper..::.InitializeModules Method
+UnityBootstrapper.InitializeModules Method
 ==============================================
 
 Initializes the modules. May be overwritten in a derived class to use a custom Modules Catalog

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405829(v=PandP.50)'
 
 Prism Class Library
 
-MefBootstrapper..::.RegisterDefaultTypesIfMissing Method
+MefBootstrapper.RegisterDefaultTypesIfMissing Method
 ========================================================
 
 Helper method for configuring the [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553). Registers defaults for all the types necessary for Prism to work, if they are not already registered.

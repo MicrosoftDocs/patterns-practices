@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430964(v=PandP.50)'
 
 Prism Class Library
 
-SyncRegionContextWithHostBehavior..::.BehaviorKey Field
+SyncRegionContextWithHostBehavior.BehaviorKey Field
 =======================================================
 
 Name that identifies the SyncRegionContextWithHostBehavior behavior in a collection of RegionsBehaviors.

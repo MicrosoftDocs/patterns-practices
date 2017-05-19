@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418973(v=PandP.50)'
 
 Prism Class Library
 
-RegionNavigationJournalEntry..::.ToString Method
+RegionNavigationJournalEntry.ToString Method
 ================================================
 
 Returns a [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf) that represents this instance.

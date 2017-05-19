@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405883(v=PandP.50)'
 
 Prism Class Library
 
-ModuleCatalog..::.SolveDependencies Method
+ModuleCatalog.SolveDependencies Method
 ==========================================
 
 Checks for cyclic dependencies, by calling the dependencysolver.
@@ -21,12 +21,12 @@ Syntax
 #### Parameters
 
 modules  
-Type: [System.Collections.Generic..::.IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;)&gt;)
+Type: [System.Collections.Generic.IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;)&gt;)
 the.
 
 #### Return Value
 
-Type: array&lt;[String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;[]()[]
+Type: array&lt;[String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;
 
 See Also
 --------

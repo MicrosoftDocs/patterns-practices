@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736276(v=PandP.50)'
 
 Prism Class Library
 
-RegionNavigationService..::.RequestNavigate Method
+RegionNavigationService.RequestNavigate Method
 ==================================================
 
 Overload List

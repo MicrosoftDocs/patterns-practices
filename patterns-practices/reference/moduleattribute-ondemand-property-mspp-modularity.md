@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431281(v=PandP.50)'
 
 Prism Class Library
 
-ModuleAttribute..::.OnDemand Property
+ModuleAttribute.OnDemand Property
 =====================================
 
 Gets or sets the value indicating whether the module should be loaded OnDemand.

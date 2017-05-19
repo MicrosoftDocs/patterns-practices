@@ -64,7 +64,7 @@ Methods
 <td><div class="summary">
 Marks the specified view as active.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.region.activate(system.object)">Region..::.Activate(Object)</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.region.activate(system.object)">Region.Activate(Object)</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg405518.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>

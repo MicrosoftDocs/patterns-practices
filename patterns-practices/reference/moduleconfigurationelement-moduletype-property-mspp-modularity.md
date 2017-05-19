@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431295(v=PandP.50)'
 
 Prism Class Library
 
-ModuleConfigurationElement..::.ModuleType Property
+ModuleConfigurationElement.ModuleType Property
 ==================================================
 
 Gets or sets the module type.

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405982(v=PandP.50)'
 
 Prism Class Library
 
-IRegion..::.GetView Method
+IRegion.GetView Method
 ==========================
 
 Returns the view instance that was added to the region using a specific name.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 viewName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name used when adding the view to the region.
 
 #### Return Value

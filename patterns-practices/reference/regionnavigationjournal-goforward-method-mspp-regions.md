@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418976(v=PandP.50)'
 
 Prism Class Library
 
-RegionNavigationJournal..::.GoForward Method
+RegionNavigationJournal.GoForward Method
 ============================================
 
 Navigates to the most recent entry in the forward navigation history, or does nothing if no entry exists in forward navigation.
@@ -20,7 +20,7 @@ Syntax
 <span id="syntaxToggle"></span>public void GoForward()Public Sub GoForward
 #### Implements
 
-[IRegionNavigationJournal..::.GoForward()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionnavigationjournal.goforward)
+[IRegionNavigationJournal.GoForward()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionnavigationjournal.goforward)
 
 See Also
 --------

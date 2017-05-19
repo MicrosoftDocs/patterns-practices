@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736259(v=PandP.50)'
 
 Prism Class Library
 
-WeakEventHandlerManager..::.RemoveWeakReferenceHandler Method
+WeakEventHandlerManager.RemoveWeakReferenceHandler Method
 =============================================================
 
 Removes an event handler from the reference list.
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 handlers  
-Type: [System.Collections.Generic..::.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)&lt;(Of &lt;([WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd)&gt;)&gt;)
+Type: [System.Collections.Generic.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)&lt;(Of &lt;([WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd)&gt;)&gt;)
 Handler list to remove reference from.
 
 handler  
-Type: [System..::.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
+Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
 Handler to remove.
 
 See Also

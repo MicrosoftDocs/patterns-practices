@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431231(v=PandP.50)'
 
 Prism Class Library
 
-Bootstrapper..::.Logger Property
+Bootstrapper.Logger Property
 ================================
 
 Gets the [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade) for the application.

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431397(v=PandP.50)'
 
 Prism Class Library
 
-ViewsCollection..::.SortComparison Property
+ViewsCollection.SortComparison Property
 ===========================================
 
 Gets or sets the comparison used to sort the views.

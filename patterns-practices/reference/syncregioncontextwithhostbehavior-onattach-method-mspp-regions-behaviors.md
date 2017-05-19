@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405948(v=PandP.50)'
 
 Prism Class Library
 
-SyncRegionContextWithHostBehavior..::.OnAttach Method
+SyncRegionContextWithHostBehavior.OnAttach Method
 =====================================================
 
 Override this method to perform the logic after the behavior has been attached.

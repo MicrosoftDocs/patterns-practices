@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418938(v=PandP.50)'
 
 Prism Class Library
 
-RegionAdapterMappings..::.GetMapping Method
+RegionAdapterMappings.GetMapping Method
 ===========================================
 
 Returns the adapter associated with the type provided.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 controlType  
-Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The type to obtain the [IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter) mapped.
 
 #### Return Value
@@ -40,7 +40,7 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                                                | Condition                                                                 |
 |----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| [System.Collections.Generic..::.KeyNotFoundException](http://msdn2.microsoft.com/en-us/library/9a35cy81) | When there is no registered type for controlType or any of its ancestors. |
+| [System.Collections.Generic.KeyNotFoundException](http://msdn2.microsoft.com/en-us/library/9a35cy81) | When there is no registered type for controlType or any of its ancestors. |
 
 See Also
 --------

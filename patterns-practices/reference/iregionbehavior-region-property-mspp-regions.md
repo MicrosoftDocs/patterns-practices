@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431337(v=PandP.50)'
 
 Prism Class Library
 
-IRegionBehavior..::.Region Property
+IRegionBehavior.Region Property
 ===================================
 
 The region that this behavior is extending.

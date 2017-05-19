@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431391(v=PandP.50)'
 
 Prism Class Library
 
-Region..::.NavigationService Property
+Region.NavigationService Property
 =====================================
 
 Gets the navigation service.
@@ -24,7 +24,7 @@ Type: [IRegionNavigationService](https://msdn.microsoft.com/t:microsoft.practice
 The navigation service.
 #### Implements
 
-[IRegion..::.NavigationService](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.navigationservice)
+[IRegion.NavigationService](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.navigationservice)
 
 See Also
 --------

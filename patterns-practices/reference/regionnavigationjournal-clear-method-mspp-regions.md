@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418974(v=PandP.50)'
 
 Prism Class Library
 
-RegionNavigationJournal..::.Clear Method
+RegionNavigationJournal.Clear Method
 ========================================
 
 Clears the journal of current, back, and forward navigation histories.
@@ -20,7 +20,7 @@ Syntax
 <span id="syntaxToggle"></span>public void Clear()Public Sub Clear
 #### Implements
 
-[IRegionNavigationJournal..::.Clear()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionnavigationjournal.clear)
+[IRegionNavigationJournal.Clear()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionnavigationjournal.clear)
 
 See Also
 --------

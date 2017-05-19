@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736102(v=PandP.50)'
 
 Prism Class Library
 
-DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;)..::.Value Property
+DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;).Value Property
 ============================================================
 
 Gets the information related to the event.

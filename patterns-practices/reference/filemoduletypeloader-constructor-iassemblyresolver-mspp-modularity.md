@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 assemblyResolver  
-Type: [Microsoft.Practices.Prism.Modularity..::.IAssemblyResolver](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.iassemblyresolver)
+Type: [Microsoft.Practices.Prism.Modularity.IAssemblyResolver](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.iassemblyresolver)
 The assembly resolver.
 
 See Also

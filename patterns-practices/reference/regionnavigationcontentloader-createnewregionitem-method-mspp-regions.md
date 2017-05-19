@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418969(v=PandP.50)'
 
 Prism Class Library
 
-RegionNavigationContentLoader..::.CreateNewRegionItem Method
+RegionNavigationContentLoader.CreateNewRegionItem Method
 ============================================================
 
 Provides a new item for the region based on the supplied candidate target contract name.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 candidateTargetContract  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The target contract to build.
 
 #### Return Value

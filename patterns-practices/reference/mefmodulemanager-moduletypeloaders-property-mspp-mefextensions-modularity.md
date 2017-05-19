@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431268(v=PandP.50)'
 
 Prism Class Library
 
-MefModuleManager..::.ModuleTypeLoaders Property
+MefModuleManager.ModuleTypeLoaders Property
 ===============================================
 
 Gets or sets the type loaders used by the module manager.

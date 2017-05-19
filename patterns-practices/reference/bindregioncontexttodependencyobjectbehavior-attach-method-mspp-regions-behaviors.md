@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405937(v=PandP.50)'
 
 Prism Class Library
 
-BindRegionContextToDependencyObjectBehavior..::.Attach Method
+BindRegionContextToDependencyObjectBehavior.Attach Method
 =============================================================
 
 Attaches the behavior to the specified region.
@@ -20,7 +20,7 @@ Syntax
 <span id="syntaxToggle"></span>public void Attach()Public Sub Attach
 #### Implements
 
-[IRegionBehavior..::.Attach()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionbehavior.attach)
+[IRegionBehavior.Attach()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionbehavior.attach)
 
 See Also
 --------

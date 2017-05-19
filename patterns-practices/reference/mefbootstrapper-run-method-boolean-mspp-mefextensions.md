@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405830(v=PandP.50)'
 
 Prism Class Library
 
-MefBootstrapper..::.Run Method (Boolean)
+MefBootstrapper.Run Method (Boolean)
 ========================================
 
 Run the bootstrapper process.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 runWithDefaultConfiguration  
-Type: [System..::.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 If trueTruetruetrue (True in Visual Basic), registers default Prism Library services in the container. This is the default behavior.
 
 See Also

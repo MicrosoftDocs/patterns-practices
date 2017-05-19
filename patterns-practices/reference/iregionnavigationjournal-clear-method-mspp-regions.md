@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405970(v=PandP.50)'
 
 Prism Class Library
 
-IRegionNavigationJournal..::.Clear Method
+IRegionNavigationJournal.Clear Method
 =========================================
 
 Clears the journal of current, back, and forward navigation histories.

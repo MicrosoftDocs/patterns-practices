@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418972(v=PandP.50)'
 
 Prism Class Library
 
-RegionNavigationContentLoader..::.LoadContent Method
+RegionNavigationContentLoader.LoadContent Method
 ====================================================
 
 Gets the view to which the navigation request represented by navigationContext applies.
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 region  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
+Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 The region.
 
 navigationContext  
-Type: [Microsoft.Practices.Prism.Regions..::.NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)
 The context representing the navigation request.
 
 #### Return Value
@@ -34,7 +34,7 @@ Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The view to be the target of the navigation request.
 #### Implements
 
-[IRegionNavigationContentLoader..::.LoadContent(IRegion, NavigationContext)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionnavigationcontentloader.loadcontent(microsoft.practices.prism.regions.iregion%2cmicrosoft.practices.prism.regions.navigationcontext))
+[IRegionNavigationContentLoader.LoadContent(IRegion, NavigationContext)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionnavigationcontentloader.loadcontent(microsoft.practices.prism.regions.iregion%2cmicrosoft.practices.prism.regions.navigationcontext))
 
 Remarks
 -------
@@ -47,7 +47,7 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                         | Condition                                                     |
 |-----------------------------------------------------------------------------------|---------------------------------------------------------------|
-| [System..::.ArgumentException](http://msdn2.microsoft.com/en-us/library/3w1b3114) | when a new view cannot be created for the navigation request. |
+| [System.ArgumentException](http://msdn2.microsoft.com/en-us/library/3w1b3114) | when a new view cannot be created for the navigation request. |
 
 See Also
 --------

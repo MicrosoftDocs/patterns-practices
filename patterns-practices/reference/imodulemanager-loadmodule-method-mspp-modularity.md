@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405861(v=PandP.50)'
 
 Prism Class Library
 
-IModuleManager..::.LoadModule Method
+IModuleManager.LoadModule Method
 ====================================
 
 Loads and initializes the module on the [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog) with the name moduleName.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 moduleName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Name of the module requested for initialization.
 
 See Also

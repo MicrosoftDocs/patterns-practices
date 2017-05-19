@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405940(v=PandP.50)'
 
 Prism Class Library
 
-DelayedRegionCreationBehavior..::.Detach Method
+DelayedRegionCreationBehavior.Detach Method
 ===============================================
 
 Stop monitoring the [RegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanager) and the [TargetElement](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.targetelement), so that this behavior can be garbage collected.

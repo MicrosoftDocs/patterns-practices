@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 delegate  
-Type: [System..::.Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51)
+Type: [System.Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51)
 The original [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51) to create a reference for.
 
 keepReferenceAlive  
-Type: [System..::.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 If falseFalsefalsefalse (False in Visual Basic) the class will create a weak reference to the delegate, allowing it to be garbage collected. Otherwise it will keep a strong reference to the target.
 
 Exceptions
@@ -34,7 +34,7 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                             | Condition                                                                                                  |
 |---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
-| [System..::.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | If the passed delegate is not assignable to [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51). |
+| [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | If the passed delegate is not assignable to [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51). |
 
 See Also
 --------

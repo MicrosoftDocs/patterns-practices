@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431286(v=PandP.50)'
 
 Prism Class Library
 
-ModuleCatalog..::.Modules Property
+ModuleCatalog.Modules Property
 ==================================
 
 Gets all the [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) classes that are in the [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog), regardless if they are within a [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup) or not.
@@ -24,7 +24,7 @@ Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &l
 The modules.
 #### Implements
 
-[IModuleCatalog..::.Modules](https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.imodulecatalog.modules)
+[IModuleCatalog.Modules](https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.imodulecatalog.modules)
 
 See Also
 --------

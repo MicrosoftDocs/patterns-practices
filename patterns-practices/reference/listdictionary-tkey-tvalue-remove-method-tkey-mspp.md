@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405804(v=PandP.50)'
 
 Prism Class Library
 
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)..::.Remove Method (TKey)
+ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Remove Method (TKey)
 ==========================================================================
 
 Removes a list by key.
@@ -30,7 +30,7 @@ Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if the element was removed.
 #### Implements
 
-[IDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)..::.Remove(TKey)](http://msdn2.microsoft.com/en-us/library/k8s489f0)
+[IDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Remove(TKey)](http://msdn2.microsoft.com/en-us/library/k8s489f0)
 
 See Also
 --------

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418967(v=PandP.50)'
 
 Prism Class Library
 
-RegionManager..::.SetRegionName Method
+RegionManager.SetRegionName Method
 ======================================
 
 Sets the [RegionNameProperty](https://msdn.microsoft.com/f:microsoft.practices.prism.regions.regionmanager.regionnameproperty) attached property.
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 regionTarget  
-Type: [System.Windows..::.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
+Type: [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
 The object to adapt. This is typically a container (i.e a control).
 
 regionName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region to register.
 
 See Also

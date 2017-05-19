@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405871(v=PandP.50)'
 
 Prism Class Library
 
-ModuleCatalog..::.AddModule Method (String, String, array&lt;String&gt;[]()[])
+ModuleCatalog.AddModule Method (String, String, array&lt;String&gt;)
 ==================================================================================
 
 Adds a groupless [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) to the catalog.
@@ -21,15 +21,15 @@ Syntax
 #### Parameters
 
 moduleName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Name of the module to be added.
 
 moduleType  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 [Type](http://msdn2.microsoft.com/en-us/library/42892f65) of the module to be added.
 
 dependsOn  
-Type: array&lt;[System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;[]()[]
+Type: array&lt;[System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;
 Collection of module names ([ModuleName](https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleinfo.modulename)) of the modules on which the module to be added logically depends on.
 
 #### Return Value

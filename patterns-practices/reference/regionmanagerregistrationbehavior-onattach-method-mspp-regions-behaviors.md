@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405944(v=PandP.50)'
 
 Prism Class Library
 
-RegionManagerRegistrationBehavior..::.OnAttach Method
+RegionManagerRegistrationBehavior.OnAttach Method
 =====================================================
 
 When the [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) has a name assigned, the behavior will start monitoring the ancestor controls in the element tree to look for an [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager) where to register the region in.

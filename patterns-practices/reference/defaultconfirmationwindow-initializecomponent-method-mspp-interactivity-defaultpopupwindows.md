@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736219(v=PandP.50)'
 
 Prism Class Library
 
-DefaultConfirmationWindow..::.InitializeComponent Method
+DefaultConfirmationWindow.InitializeComponent Method
 ========================================================
 
 InitializeComponent
@@ -20,7 +20,7 @@ Syntax
 <span id="syntaxToggle"></span>public void InitializeComponent()Public Sub InitializeComponent
 #### Implements
 
-[IComponentConnector..::.InitializeComponent()()()](http://msdn2.microsoft.com/en-us/library/ms603526)
+[IComponentConnector.InitializeComponent()()()](http://msdn2.microsoft.com/en-us/library/ms603526)
 
 See Also
 --------

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736150(v=PandP.50)'
 
 Prism Class Library
 
-BindableBase..::.OnPropertyChanged Method (String)
+BindableBase.OnPropertyChanged Method (String)
 ==================================================
 
 Notifies listeners that a property value has changed.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 propertyName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Name of the property used to notify listeners. This value is optional and can be provided automatically when invoked from compilers that support [CallerMemberNameAttribute](http://msdn2.microsoft.com/en-us/library/hh551816).
 
 See Also

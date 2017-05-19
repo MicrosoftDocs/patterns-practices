@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405632(v=PandP.50)'
 
 Prism Class Library
 
-ModuleConfigurationElementCollection Constructor (array&lt;ModuleConfigurationElement&gt;[]()[])
+ModuleConfigurationElementCollection Constructor (array&lt;ModuleConfigurationElement&gt;)
 ====================================================================================================
 
 Initializes a new [ModuleConfigurationElementCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection).
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 modules  
-Type: array&lt;[Microsoft.Practices.Prism.Modularity..::.ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement)&gt;[]()[]
+Type: array&lt;[Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement)&gt;
 The initial set of [ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement).
 
 Exceptions
@@ -30,7 +30,7 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                             | Condition                                                                                                                                                           |
 |---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [System..::.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) is thrown if modules is nullNothingnullptra null reference (Nothing in Visual Basic). |
+| [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) is thrown if modules is nullNothingnullptra null reference (Nothing in Visual Basic). |
 
 See Also
 --------

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405815(v=PandP.50)'
 
 Prism Class Library
 
-ILoggerFacade..::.Log Method
+ILoggerFacade.Log Method
 ============================
 
 Write a new log entry with the specified category and priority.
@@ -21,15 +21,15 @@ Syntax
 #### Parameters
 
 message  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Message body to log.
 
 category  
-Type: [Microsoft.Practices.Prism.Logging..::.Category](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.category)
+Type: [Microsoft.Practices.Prism.Logging.Category](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.category)
 Category of the entry.
 
 priority  
-Type: [Microsoft.Practices.Prism.Logging..::.Priority](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.priority)
+Type: [Microsoft.Practices.Prism.Logging.Priority](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.priority)
 The priority of the entry.
 
 See Also

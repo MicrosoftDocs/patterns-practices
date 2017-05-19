@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736241(v=PandP.50)'
 
 Prism Class Library
 
-EventBase..::.Subscriptions Property
+EventBase.Subscriptions Property
 ====================================
 
 Gets the list of current subscriptions.

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405845(v=PandP.50)'
 
 Prism Class Library
 
-AssemblyResolver..::.LoadAssemblyFrom Method
+AssemblyResolver.LoadAssemblyFrom Method
 ============================================
 
 Registers the specified assembly and resolves the types in it when the AppDomain requests for it.
@@ -21,12 +21,12 @@ Syntax
 #### Parameters
 
 assemblyFilePath  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The path to the assemly to load in the LoadFrom context.
 
 #### Implements
 
-[IAssemblyResolver..::.LoadAssemblyFrom(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.iassemblyresolver.loadassemblyfrom(system.string))
+[IAssemblyResolver.LoadAssemblyFrom(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.iassemblyresolver.loadassemblyfrom(system.string))
 
 Remarks
 -------

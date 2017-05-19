@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736268(v=PandP.50)'
 
 Prism Class Library
 
-CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;)..::.TargetObject Property
+CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;).TargetObject Property
 =====================================================================
 
 Object to which this behavior is attached.

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431277(v=PandP.50)'
 
 Prism Class Library
 
-LoadModuleCompletedEventArgs..::.IsErrorHandled Property
+LoadModuleCompletedEventArgs.IsErrorHandled Property
 ========================================================
 
 Gets or sets a value indicating whether the error has been handled by the event subscriber.

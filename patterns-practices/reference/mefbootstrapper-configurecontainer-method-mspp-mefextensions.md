@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405822(v=PandP.50)'
 
 Prism Class Library
 
-MefBootstrapper..::.ConfigureContainer Method
+MefBootstrapper.ConfigureContainer Method
 =============================================
 
 Configures the [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553). May be overwritten in a derived class to add specific type mappings required by the application.

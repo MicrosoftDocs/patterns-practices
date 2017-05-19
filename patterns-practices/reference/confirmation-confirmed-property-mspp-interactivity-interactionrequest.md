@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431250(v=PandP.50)'
 
 Prism Class Library
 
-Confirmation..::.Confirmed Property
+Confirmation.Confirmed Property
 ===================================
 
 Gets or sets a value indicating that the confirmation is confirmed.
@@ -23,7 +23,7 @@ Syntax
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 #### Implements
 
-[IConfirmation..::.Confirmed](https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.interactionrequest.iconfirmation.confirmed)
+[IConfirmation.Confirmed](https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.interactionrequest.iconfirmation.confirmed)
 
 See Also
 --------

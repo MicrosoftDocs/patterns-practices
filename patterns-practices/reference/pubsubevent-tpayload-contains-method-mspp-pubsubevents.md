@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736207(v=PandP.50)'
 
 Prism Class Library
 
-PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)..::.Contains Method
+PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Contains Method
 ==============================================================
 
 Overload List

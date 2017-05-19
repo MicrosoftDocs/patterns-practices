@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405837(v=PandP.50)'
 
 Prism Class Library
 
-DownloadedPartCatalogCollection..::.TryGet Method
+DownloadedPartCatalogCollection.TryGet Method
 =================================================
 
 Tries to ge the catalog for the specified module info.
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 moduleInfo  
-Type: [Microsoft.Practices.Prism.Modularity..::.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 The module info.
 
 catalog  
-Type: [System.ComponentModel.Composition.Primitives..::.ComposablePartCatalog](http://msdn2.microsoft.com/en-us/library/dd454614)%
+Type: [System.ComponentModel.Composition.Primitives.ComposablePartCatalog](http://msdn2.microsoft.com/en-us/library/dd454614)%
 The catalog.
 
 #### Return Value

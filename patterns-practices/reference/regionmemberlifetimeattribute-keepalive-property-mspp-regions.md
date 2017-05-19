@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431373(v=PandP.50)'
 
 Prism Class Library
 
-RegionMemberLifetimeAttribute..::.KeepAlive Property
+RegionMemberLifetimeAttribute.KeepAlive Property
 ====================================================
 
 Determines if the region member should be kept-alive when deactivated.

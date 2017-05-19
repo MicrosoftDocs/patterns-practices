@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405762(v=PandP.50)'
 
 Prism Class Library
 
-DelegateCommand..::.Execute Method
+DelegateCommand.Execute Method
 ==================================
 
 Executes the command.

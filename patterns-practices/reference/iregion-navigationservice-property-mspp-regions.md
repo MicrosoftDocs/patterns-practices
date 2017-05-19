@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431352(v=PandP.50)'
 
 Prism Class Library
 
-IRegion..::.NavigationService Property
+IRegion.NavigationService Property
 ======================================
 
 Gets or sets the navigation service.

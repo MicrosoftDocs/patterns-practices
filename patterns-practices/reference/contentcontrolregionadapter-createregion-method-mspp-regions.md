@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405950(v=PandP.50)'
 
 Prism Class Library
 
-ContentControlRegionAdapter..::.CreateRegion Method
+ContentControlRegionAdapter.CreateRegion Method
 ===================================================
 
 Creates a new instance of [SingleActiveRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.singleactiveregion).

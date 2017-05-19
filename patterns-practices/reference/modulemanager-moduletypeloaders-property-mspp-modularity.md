@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431322(v=PandP.50)'
 
 Prism Class Library
 
-ModuleManager..::.ModuleTypeLoaders Property
+ModuleManager.ModuleTypeLoaders Property
 ============================================
 
 Returns the list of registered [IModuleTypeLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imoduletypeloader) instances that will be used to load the types of modules.

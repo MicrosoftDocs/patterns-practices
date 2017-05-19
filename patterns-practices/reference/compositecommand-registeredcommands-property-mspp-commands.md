@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431239(v=PandP.50)'
 
 Prism Class Library
 
-CompositeCommand..::.RegisteredCommands Property
+CompositeCommand.RegisteredCommands Property
 ================================================
 
 Gets the list of all the registered commands.

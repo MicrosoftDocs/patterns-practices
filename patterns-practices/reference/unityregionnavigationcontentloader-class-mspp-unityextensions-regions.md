@@ -22,9 +22,9 @@ Syntax
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft.Practices.Prism.Regions..::.RegionNavigationContentLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationcontentloader)
-    Microsoft.Practices.Prism.UnityExtensions.Regions..::.UnityRegionNavigationContentLoader
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  [Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationcontentloader)
+    Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLoader
 
 See Also
 --------

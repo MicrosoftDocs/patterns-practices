@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430959(v=PandP.50)'
 
 Prism Class Library
 
-BindRegionContextToDependencyObjectBehavior..::.BehaviorKey Field
+BindRegionContextToDependencyObjectBehavior.BehaviorKey Field
 =================================================================
 
 The key of this behavior.

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736114(v=PandP.50)'
 
 Prism Class Library
 
-INotification..::.Title Property
+INotification.Title Property
 ================================
 
 Gets or sets the title to use for the notification.

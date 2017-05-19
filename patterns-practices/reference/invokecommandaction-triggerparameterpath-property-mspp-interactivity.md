@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736240(v=PandP.50)'
 
 Prism Class Library
 
-InvokeCommandAction..::.TriggerParameterPath Property
+InvokeCommandAction.TriggerParameterPath Property
 =====================================================
 
 Gets or sets the TriggerParameterPath value.

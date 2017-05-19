@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431274(v=PandP.50)'
 
 Prism Class Library
 
-DirectoryModuleCatalog..::.ModulePath Property
+DirectoryModuleCatalog.ModulePath Property
 ==============================================
 
 Directory containing modules to search for.

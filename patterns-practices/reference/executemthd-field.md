@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736182(v=PandP.50)'
 
 Prism Class Library
 
-DelegateCommandBase..::.\_executeMethod Field
+DelegateCommandBase.\_executeMethod Field
 =============================================
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)

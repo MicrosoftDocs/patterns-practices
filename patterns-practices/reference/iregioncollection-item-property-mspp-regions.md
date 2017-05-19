@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431338(v=PandP.50)'
 
 Prism Class Library
 
-IRegionCollection..::.Item Property
+IRegionCollection.Item Property
 ===================================
 
 Gets the IRegion with the name received as index.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 regionName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Name of the region to be retrieved.
 
 #### Return Value

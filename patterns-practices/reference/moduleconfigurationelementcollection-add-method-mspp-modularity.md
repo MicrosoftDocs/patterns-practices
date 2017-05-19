@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405892(v=PandP.50)'
 
 Prism Class Library
 
-ModuleConfigurationElementCollection..::.Add Method
+ModuleConfigurationElementCollection.Add Method
 ===================================================
 
 Adds a [ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement) to the collection.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 module  
-Type: [Microsoft.Practices.Prism.Modularity..::.ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement)
+Type: [Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement)
 A [ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement) instance.
 
 See Also

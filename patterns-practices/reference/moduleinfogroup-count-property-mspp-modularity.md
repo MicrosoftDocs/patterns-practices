@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431306(v=PandP.50)'
 
 Prism Class Library
 
-ModuleInfoGroup..::.Count Property
+ModuleInfoGroup.Count Property
 ==================================
 
 Gets the number of elements contained in the [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup).
@@ -27,8 +27,8 @@ Type: [Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
 The number of elements contained in the [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup).
 #### Implements
 
-[ICollection&lt;(Of &lt;(T&gt;)&gt;)..::.Count](http://msdn2.microsoft.com/en-us/library/5s3kzhec)
-[ICollection..::.Count](http://msdn2.microsoft.com/en-us/library/2yz8a4x3)
+[ICollection&lt;(Of &lt;(T&gt;)&gt;).Count](http://msdn2.microsoft.com/en-us/library/5s3kzhec)
+[ICollection.Count](http://msdn2.microsoft.com/en-us/library/2yz8a4x3)
 
 See Also
 --------

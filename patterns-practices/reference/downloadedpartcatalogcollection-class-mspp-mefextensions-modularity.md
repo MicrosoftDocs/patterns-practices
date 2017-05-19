@@ -22,8 +22,8 @@ Syntax
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.MefExtensions.Modularity..::.DownloadedPartCatalogCollection
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection
 
 See Also
 --------

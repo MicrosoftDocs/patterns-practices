@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431249(v=PandP.50)'
 
 Prism Class Library
 
-IActiveAware..::.IsActive Property
+IActiveAware.IsActive Property
 ==================================
 
 Gets or sets a value indicating whether the object is active.

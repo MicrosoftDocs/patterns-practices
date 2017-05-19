@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405890(v=PandP.50)'
 
 Prism Class Library
 
-ModuleCatalog..::.ValidateDependencyGraph Method
+ModuleCatalog.ValidateDependencyGraph Method
 ================================================
 
 Ensures that there are no cyclic dependencies.

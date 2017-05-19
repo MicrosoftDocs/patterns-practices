@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431310(v=PandP.50)'
 
 Prism Class Library
 
-ModuleInfoGroup..::.IsSynchronized Property
+ModuleInfoGroup.IsSynchronized Property
 ===========================================
 
 Gets a value indicating whether access to the [ICollection](http://msdn2.microsoft.com/en-us/library/b1ht6113) is synchronized (thread safe).
@@ -27,7 +27,7 @@ Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 true if access to the [ICollection](http://msdn2.microsoft.com/en-us/library/b1ht6113) is synchronized (thread safe); otherwise, false.
 #### Implements
 
-[ICollection..::.IsSynchronized](http://msdn2.microsoft.com/en-us/library/d74ky11w)
+[ICollection.IsSynchronized](http://msdn2.microsoft.com/en-us/library/d74ky11w)
 
 See Also
 --------

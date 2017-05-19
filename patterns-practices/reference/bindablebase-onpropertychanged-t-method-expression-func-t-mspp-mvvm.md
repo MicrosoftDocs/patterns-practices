@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736238(v=PandP.50)'
 
 Prism Class Library
 
-BindableBase..::.OnPropertyChanged&lt;(Of &lt;(T&gt;)&gt;) Method (Expression&lt;(Of &lt;(Func&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;))
+BindableBase.OnPropertyChanged&lt;(Of &lt;(T&gt;)&gt;) Method (Expression&lt;(Of &lt;(Func&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;))
 =================================================================================================================================
 
 Raises this object's PropertyChanged event.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 propertyExpression  
-Type: [System.Linq.Expressions..::.Expression](http://msdn2.microsoft.com/en-us/library/bb335710)&lt;(Of &lt;([Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;)
+Type: [System.Linq.Expressions.Expression](http://msdn2.microsoft.com/en-us/library/bb335710)&lt;(Of &lt;([Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;)
 A Lambda expression representing the property that has a new value.
 
 Type Parameters

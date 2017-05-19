@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419005(v=PandP.50)'
 
 Prism Class Library
 
-UnityBootstrapper..::.ConfigureContainer Method
+UnityBootstrapper.ConfigureContainer Method
 ===============================================
 
 Configures the IUnityContainer. May be overwritten in a derived class to add specific type mappings required by the application.

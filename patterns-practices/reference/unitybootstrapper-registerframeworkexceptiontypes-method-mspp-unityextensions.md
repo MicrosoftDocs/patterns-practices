@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419009(v=PandP.50)'
 
 Prism Class Library
 
-UnityBootstrapper..::.RegisterFrameworkExceptionTypes Method
+UnityBootstrapper.RegisterFrameworkExceptionTypes Method
 ============================================================
 
 Registers in the IUnityContainer the [Type](http://msdn2.microsoft.com/en-us/library/42892f65) of the Exceptions that are not considered root exceptions by the [ExceptionExtensions](https://msdn.microsoft.com/t:microsoft.practices.prism.exceptionextensions).

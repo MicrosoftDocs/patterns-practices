@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430962(v=PandP.50)'
 
 Prism Class Library
 
-RegionMemberLifetimeBehavior..::.BehaviorKey Field
+RegionMemberLifetimeBehavior.BehaviorKey Field
 ==================================================
 
 The key for this behavior.

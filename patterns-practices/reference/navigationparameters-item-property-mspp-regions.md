@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736169(v=PandP.50)'
 
 Prism Class Library
 
-NavigationParameters..::.Item Property
+NavigationParameters.Item Property
 ======================================
 
 Gets the [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf) with the specified key.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 key  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 
 #### Return Value
 

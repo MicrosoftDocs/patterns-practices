@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431329(v=PandP.50)'
 
 Prism Class Library
 
-IHostAwareRegionBehavior..::.HostControl Property
+IHostAwareRegionBehavior.HostControl Property
 =================================================
 
 Gets or sets the [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309) that the [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) is attached to.

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736281(v=PandP.50)'
 
 Prism Class Library
 
-SubscriptionToken..::.Equals Method (Object)
+SubscriptionToken.Equals Method (Object)
 ============================================
 
 Determines whether the specified [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 obj  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b) to compare with the current [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).
 
 #### Return Value
@@ -35,7 +35,7 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                              | Condition                  |
 |----------------------------------------------------------------------------------------|----------------------------|
-| [System..::.NullReferenceException](http://msdn2.microsoft.com/en-us/library/8w0s4024) | The obj parameter is null. |
+| [System.NullReferenceException](http://msdn2.microsoft.com/en-us/library/8w0s4024) | The obj parameter is null. |
 
 See Also
 --------

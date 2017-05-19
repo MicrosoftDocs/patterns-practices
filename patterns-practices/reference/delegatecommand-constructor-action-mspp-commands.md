@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 executeMethod  
-Type: [System..::.Action](http://msdn2.microsoft.com/en-us/library/bb534741)
+Type: [System.Action](http://msdn2.microsoft.com/en-us/library/bb534741)
 The [Action](http://msdn2.microsoft.com/en-us/library/bb534741) to invoke when [Execute(Object)](http://msdn2.microsoft.com/en-us/library/ms604094) is called.
 
 See Also

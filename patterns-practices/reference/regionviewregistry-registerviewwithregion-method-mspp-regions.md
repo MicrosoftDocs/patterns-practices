@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419140(v=PandP.50)'
 
 Prism Class Library
 
-RegionViewRegistry..::.RegisterViewWithRegion Method
+RegionViewRegistry.RegisterViewWithRegion Method
 ====================================================
 
 Overload List

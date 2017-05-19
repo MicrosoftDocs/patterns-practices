@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736157(v=PandP.50)'
 
 Prism Class Library
 
-ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)..::.validationResults Field
+ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).validationResults Field
 ===================================================================
 
 **Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/n:microsoft.practices.prism.viewmodel)

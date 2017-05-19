@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 item  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The item to wrap.
 
 See Also

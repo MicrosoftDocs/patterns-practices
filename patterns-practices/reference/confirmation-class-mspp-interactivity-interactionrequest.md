@@ -22,9 +22,9 @@ Syntax
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft.Practices.Prism.Interactivity.InteractionRequest..::.Notification](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.notification)
-    Microsoft.Practices.Prism.Interactivity.InteractionRequest..::.Confirmation
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  [Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.notification)
+    Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confirmation
 
 See Also
 --------

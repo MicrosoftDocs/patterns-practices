@@ -39,7 +39,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/t:microsoft.pr
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430842.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduledependencycollection.">ModuleDependencyCollection(array&lt;ModuleDependencyConfigurationElement&gt;[]()[])</a></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduledependencycollection.">ModuleDependencyCollection(array&lt;ModuleDependencyConfigurationElement&gt;)</a></td>
 <td><div class="summary">
 Initializes a new instance of <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencycollection">ModuleDependencyCollection</a>.
 </div></td>
@@ -175,7 +175,7 @@ Copies the contents of the <a href="http://msdn2.microsoft.com/en-us/library/a35
 <td><div class="summary">
 Creates a new <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyconfigurationelement">ModuleDependencyConfigurationElement</a>.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection..::.CreateNewElement()()()</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection.CreateNewElement()()()</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430842.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
@@ -215,7 +215,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 <td><div class="summary">
 Gets the element key for a specified configuration element when overridden in a derived class.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/bxcte21d">ConfigurationElementCollection..::.GetElementKey(ConfigurationElement)</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/bxcte21d">ConfigurationElementCollection.GetElementKey(ConfigurationElement)</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430842.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
@@ -468,7 +468,7 @@ Gets or sets the name for the <a href="http://msdn2.microsoft.com/en-us/library/
 <td><div class="summary">
 Gets the type of the <a href="http://msdn2.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/x4skd9kd">ConfigurationElementCollection..::.CollectionType</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/x4skd9kd">ConfigurationElementCollection.CollectionType</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430842.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
@@ -500,7 +500,7 @@ Gets an <a href="http://msdn2.microsoft.com/en-us/library/ms134413">ElementInfor
 <td><div class="summary">
 Gets the name used to identify this collection of elements in the configuration file when overridden in a derived class.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/8f06bh6s">ConfigurationElementCollection..::.ElementName</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/8f06bh6s">ConfigurationElementCollection.ElementName</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430842.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>

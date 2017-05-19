@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418953(v=PandP.50)'
 
 Prism Class Library
 
-RegionManagerExtensions..::.Add Method
+RegionManagerExtensions.Add Method
 ======================================
 
 Adds a region to the regionmanager with the name received as argument.
@@ -21,15 +21,15 @@ Syntax
 #### Parameters
 
 regionCollection  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegionCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregioncollection)
+Type: [Microsoft.Practices.Prism.Regions.IRegionCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregioncollection)
 The regionmanager's collection of regions.
 
 regionName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name to be given to the region.
 
 region  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
+Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 The region to be added to the regionmanager.
 
 #### Usage Note
@@ -42,8 +42,8 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                             | Condition                                                                                                                                                                                                                  |
 |---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [System..::.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | Thrown if region or regionCollection is nullNothingnullptra null reference (Nothing in Visual Basic).                                                                                                                      |
-| [System..::.ArgumentException](http://msdn2.microsoft.com/en-us/library/3w1b3114)     | Thrown if regionName and region's name do not match and the region[Name](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.name) is not nullNothingnullptra null reference (Nothing in Visual Basic). |
+| [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | Thrown if region or regionCollection is nullNothingnullptra null reference (Nothing in Visual Basic).                                                                                                                      |
+| [System.ArgumentException](http://msdn2.microsoft.com/en-us/library/3w1b3114)     | Thrown if regionName and region's name do not match and the region[Name](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.name) is not nullNothingnullptra null reference (Nothing in Visual Basic). |
 
 See Also
 --------

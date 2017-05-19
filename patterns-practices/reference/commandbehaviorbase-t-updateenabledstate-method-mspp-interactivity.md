@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736286(v=PandP.50)'
 
 Prism Class Library
 
-CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;)..::.UpdateEnabledState Method
+CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;).UpdateEnabledState Method
 =========================================================================
 
 Updates the target object's IsEnabled property based on the commands ability to execute.

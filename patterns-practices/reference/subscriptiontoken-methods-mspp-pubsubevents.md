@@ -40,7 +40,7 @@ Disposes the SubscriptionToken, removing the subscription from the corresponding
 <td><div class="summary">
 Determines whether the specified <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b">Object</a> is equal to the current <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b">Object</a>.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/bsc2ak47">Object..::.Equals(Object)</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/bsc2ak47">Object.Equals(Object)</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn683927.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
@@ -63,7 +63,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 <td><div class="summary">
 Serves as a hash function for a particular type.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/zdee4b3y">Object..::.GetHashCode()()()</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/zdee4b3y">Object.GetHashCode()()()</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn683927.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>

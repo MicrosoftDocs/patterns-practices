@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431276(v=PandP.50)'
 
 Prism Class Library
 
-LoadModuleCompletedEventArgs..::.Error Property
+LoadModuleCompletedEventArgs.Error Property
 ===============================================
 
 Gets any error that occurred

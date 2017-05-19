@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431255(v=PandP.50)'
 
 Prism Class Library
 
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)..::.Count Property
+ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Count Property
 ====================================================================
 
 Gets the number of lists in the dictionary.
@@ -24,7 +24,7 @@ Type: [Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
 Value indicating the values count.
 #### Implements
 
-[ICollection&lt;(Of &lt;(T&gt;)&gt;)..::.Count](http://msdn2.microsoft.com/en-us/library/5s3kzhec)
+[ICollection&lt;(Of &lt;(T&gt;)&gt;).Count](http://msdn2.microsoft.com/en-us/library/5s3kzhec)
 
 See Also
 --------

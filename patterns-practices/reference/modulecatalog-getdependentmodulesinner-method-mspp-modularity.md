@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405878(v=PandP.50)'
 
 Prism Class Library
 
-ModuleCatalog..::.GetDependentModulesInner Method
+ModuleCatalog.GetDependentModulesInner Method
 =================================================
 
 Returns the [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) on which the received module dependens on.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 moduleInfo  
-Type: [Microsoft.Practices.Prism.Modularity..::.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 Module whose dependant modules are requested.
 
 #### Return Value

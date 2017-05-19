@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405805(v=PandP.50)'
 
 Prism Class Library
 
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)..::.Remove Method (TKey, TValue)
+ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Remove Method (TKey, TValue)
 ==================================================================================
 
 Removes a value from the list with the given key.

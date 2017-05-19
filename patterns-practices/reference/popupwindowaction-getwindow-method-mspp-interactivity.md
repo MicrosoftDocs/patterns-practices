@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736153(v=PandP.50)'
 
 Prism Class Library
 
-PopupWindowAction..::.GetWindow Method
+PopupWindowAction.GetWindow Method
 ======================================
 
 Returns the window to display as part of the trigger action.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 notification  
-Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest..::.INotification](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.inotification)
+Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.inotification)
 The notification to be set as a DataContext in the window.
 
 #### Return Value

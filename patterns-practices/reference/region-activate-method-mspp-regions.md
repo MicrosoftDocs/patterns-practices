@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418983(v=PandP.50)'
 
 Prism Class Library
 
-Region..::.Activate Method
+Region.Activate Method
 ==========================
 
 Marks the specified view as active.
@@ -21,12 +21,12 @@ Syntax
 #### Parameters
 
 view  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The view to activate.
 
 #### Implements
 
-[IRegion..::.Activate(Object)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregion.activate(system.object))
+[IRegion.Activate(Object)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregion.activate(system.object))
 
 See Also
 --------

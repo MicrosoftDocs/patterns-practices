@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418962(v=PandP.50)'
 
 Prism Class Library
 
-RegionManager..::.GetRegionContext Method
+RegionManager.GetRegionContext Method
 =========================================
 
 Gets the value of the [RegionContextProperty](https://msdn.microsoft.com/f:microsoft.practices.prism.regions.regionmanager.regioncontextproperty) attached property.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 target  
-Type: [System.Windows..::.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
+Type: [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
 The target element.
 
 #### Return Value

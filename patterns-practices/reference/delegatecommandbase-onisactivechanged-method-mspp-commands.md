@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405757(v=PandP.50)'
 
 Prism Class Library
 
-DelegateCommandBase..::.OnIsActiveChanged Method
+DelegateCommandBase.OnIsActiveChanged Method
 ================================================
 
 This raises the [IsActiveChanged](https://msdn.microsoft.com/e:microsoft.practices.prism.commands.delegatecommandbase.isactivechanged) event.

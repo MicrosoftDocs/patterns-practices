@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431331(v=PandP.50)'
 
 Prism Class Library
 
-RegionManagerRegistrationBehavior..::.HostControl Property
+RegionManagerRegistrationBehavior.HostControl Property
 ==========================================================
 
 Gets or sets the [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309) that the [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) is attached to.
@@ -24,7 +24,7 @@ Type: [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
 A [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309) that the [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) is attached to. This is usually a [FrameworkElement](http://msdn2.microsoft.com/en-us/library/ms602714) that is part of the tree.
 #### Implements
 
-[IHostAwareRegionBehavior..::.HostControl](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior.hostcontrol)
+[IHostAwareRegionBehavior.HostControl](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior.hostcontrol)
 
 Exceptions
 ----------
@@ -32,7 +32,7 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                                 | Condition                                                                                                                                                        |
 |-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [System..::.InvalidOperationException](http://msdn2.microsoft.com/en-us/library/2asft85a) | When this member is set after the [Attach()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionbehavior.attach) method has being called. |
+| [System.InvalidOperationException](http://msdn2.microsoft.com/en-us/library/2asft85a) | When this member is set after the [Attach()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionbehavior.attach) method has being called. |
 
 See Also
 --------

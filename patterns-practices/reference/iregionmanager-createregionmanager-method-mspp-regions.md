@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405968(v=PandP.50)'
 
 Prism Class Library
 
-IRegionManager..::.CreateRegionManager Method
+IRegionManager.CreateRegionManager Method
 =============================================
 
 Creates a new region manager.

@@ -22,9 +22,9 @@ Syntax
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.Regions..::.RegionBehaviorFactory
-    [Microsoft.Practices.Prism.MefExtensions.Regions..::.MefRegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory)
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  Microsoft.Practices.Prism.Regions.RegionBehaviorFactory
+    [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory)
 
 See Also
 --------

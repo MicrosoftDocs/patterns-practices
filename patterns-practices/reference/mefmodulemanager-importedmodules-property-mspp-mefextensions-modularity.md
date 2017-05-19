@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431267(v=PandP.50)'
 
 Prism Class Library
 
-MefModuleManager..::.ImportedModules Property
+MefModuleManager.ImportedModules Property
 =============================================
 
 Gets or sets the modules to be imported.

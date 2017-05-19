@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431240(v=PandP.50)'
 
 Prism Class Library
 
-DelegateCommandBase..::.IsActive Property
+DelegateCommandBase.IsActive Property
 =========================================
 
 Gets or sets a value indicating whether the object is active.
@@ -24,7 +24,7 @@ Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if the object is active; otherwise falseFalsefalsefalse (False in Visual Basic).
 #### Implements
 
-[IActiveAware..::.IsActive](https://msdn.microsoft.com/p:microsoft.practices.prism.iactiveaware.isactive)
+[IActiveAware.IsActive](https://msdn.microsoft.com/p:microsoft.practices.prism.iactiveaware.isactive)
 
 See Also
 --------

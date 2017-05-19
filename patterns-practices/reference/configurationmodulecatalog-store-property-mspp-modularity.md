@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431273(v=PandP.50)'
 
 Prism Class Library
 
-ConfigurationModuleCatalog..::.Store Property
+ConfigurationModuleCatalog.Store Property
 =============================================
 
 Gets or sets the store where the configuration is kept.

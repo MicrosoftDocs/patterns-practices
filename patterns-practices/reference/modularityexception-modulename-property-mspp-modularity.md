@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431279(v=PandP.50)'
 
 Prism Class Library
 
-ModularityException..::.ModuleName Property
+ModularityException.ModuleName Property
 ===========================================
 
 Gets or sets the name of the module that this exception refers to.

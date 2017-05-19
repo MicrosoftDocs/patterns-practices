@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736258(v=PandP.50)'
 
 Prism Class Library
 
-IConfirmation..::.Confirmed Property
+IConfirmation.Confirmed Property
 ====================================
 
 Gets or sets a value indicating that the confirmation is confirmed.

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736205(v=PandP.50)'
 
 Prism Class Library
 
-EventBase..::.SynchronizationContext Property
+EventBase.SynchronizationContext Property
 =============================================
 
 Allows the SynchronizationContext to be set by the EventAggregator for UI Thread Dispatching

@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 regionBehaviorFactory  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorfactory)
+Type: [Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorfactory)
 The region behavior factory.
 
 See Also

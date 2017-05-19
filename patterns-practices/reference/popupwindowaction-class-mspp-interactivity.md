@@ -22,14 +22,14 @@ Syntax
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System.Windows.Threading..::.DispatcherObject](http://msdn2.microsoft.com/en-us/library/ms615925)
-    [System.Windows..::.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
-      [System.Windows..::.Freezable](http://msdn2.microsoft.com/en-us/library/ms602734)
-        [System.Windows.Media.Animation..::.Animatable](http://msdn2.microsoft.com/en-us/library/ms618388)
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  [System.Windows.Threading.DispatcherObject](http://msdn2.microsoft.com/en-us/library/ms615925)
+    [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
+      [System.Windows.Freezable](http://msdn2.microsoft.com/en-us/library/ms602734)
+        [System.Windows.Media.Animation.Animatable](http://msdn2.microsoft.com/en-us/library/ms618388)
           TriggerAction
             TriggerAction&lt;(Of &lt;([FrameworkElement](http://msdn2.microsoft.com/en-us/library/ms602714)&gt;)&gt;)
-              Microsoft.Practices.Prism.Interactivity..::.PopupWindowAction
+              Microsoft.Practices.Prism.Interactivity.PopupWindowAction
 
 See Also
 --------

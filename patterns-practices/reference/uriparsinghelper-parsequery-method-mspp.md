@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419019(v=PandP.50)'
 
 Prism Class Library
 
-UriParsingHelper..::.ParseQuery Method
+UriParsingHelper.ParseQuery Method
 ======================================
 
 Parses the query of uri into a dictionary.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 uri  
-Type: [System..::.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
+Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
 The URI.
 
 #### Return Value

@@ -22,10 +22,10 @@ Syntax
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.Commands..::.DelegateCommandBase
-    [Microsoft.Practices.Prism.Commands..::.DelegateCommand](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand)
-    [Microsoft.Practices.Prism.Commands..::.DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601)
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  Microsoft.Practices.Prism.Commands.DelegateCommandBase
+    [Microsoft.Practices.Prism.Commands.DelegateCommand](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand)
+    [Microsoft.Practices.Prism.Commands.DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601)
 
 See Also
 --------

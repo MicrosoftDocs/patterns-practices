@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736163(v=PandP.50)'
 
 Prism Class Library
 
-InvokeCommandAction..::.OnDetaching Method
+InvokeCommandAction.OnDetaching Method
 ==========================================
 
 Sets the Command and CommandParameter properties to null.

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419147(v=PandP.50)'
 
 Prism Class Library
 
-UnityContainerHelper..::.TryResolve Method
+UnityContainerHelper.TryResolve Method
 ==========================================
 
 Overload List

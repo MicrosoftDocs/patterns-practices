@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431308(v=PandP.50)'
 
 Prism Class Library
 
-ModuleInfoGroup..::.IsFixedSize Property
+ModuleInfoGroup.IsFixedSize Property
 ========================================
 
 Gets a value indicating whether the [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup) has a fixed size.
@@ -24,7 +24,7 @@ Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 false, because the [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup) does not have a fixed length.
 #### Implements
 
-[IList..::.IsFixedSize](http://msdn2.microsoft.com/en-us/library/kbtbe6k2)
+[IList.IsFixedSize](http://msdn2.microsoft.com/en-us/library/kbtbe6k2)
 
 See Also
 --------

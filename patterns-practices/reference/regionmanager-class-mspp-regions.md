@@ -27,9 +27,9 @@ Remarks
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.Regions..::.RegionManager
-    [Microsoft.Practices.Prism.MefExtensions.Regions..::.MefRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionmanager)
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  Microsoft.Practices.Prism.Regions.RegionManager
+    [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionmanager)
 
 See Also
 --------

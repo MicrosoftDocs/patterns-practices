@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431361(v=PandP.50)'
 
 Prism Class Library
 
-NavigationContext..::.Uri Property
+NavigationContext.Uri Property
 ==================================
 
 Gets the navigation URI.

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431323(v=PandP.50)'
 
 Prism Class Library
 
-ModulesConfigurationSection..::.Modules Property
+ModulesConfigurationSection.Modules Property
 ================================================
 
 Gets or sets the collection of modules configuration.

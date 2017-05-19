@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405959(v=PandP.50)'
 
 Prism Class Library
 
-IRegionBehaviorFactory..::.AddIfMissing Method
+IRegionBehaviorFactory.AddIfMissing Method
 ==============================================
 
 Adds a particular type of RegionBehavior if it was not already registered. the behaviorKey string is used to check if the behavior is already present
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 behaviorKey  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The behavior key that's used to find if a certain behavior is already added.
 
 behaviorType  
-Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 Type of the behavior to add. .
 
 See Also

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431300(v=PandP.50)'
 
 Prism Class Library
 
-ModuleDependencyCollection..::.Item Property (Int32)
+ModuleDependencyCollection.Item Property (Int32)
 ====================================================
 
 Gets the [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyconfigurationelement) located at the specified index in the collection.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 index  
-Type: [System..::.Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
+Type: [System.Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
 The index of the element in the collection.
 
 #### Return Value

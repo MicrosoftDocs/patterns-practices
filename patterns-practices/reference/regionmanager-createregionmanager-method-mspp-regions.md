@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418960(v=PandP.50)'
 
 Prism Class Library
 
-RegionManager..::.CreateRegionManager Method
+RegionManager.CreateRegionManager Method
 ============================================
 
 Creates a new region manager.
@@ -24,7 +24,7 @@ Type: [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.re
 A new region manager that can be used as a different scope from the current region manager.
 #### Implements
 
-[IRegionManager..::.CreateRegionManager()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionmanager.createregionmanager)
+[IRegionManager.CreateRegionManager()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionmanager.createregionmanager)
 
 See Also
 --------

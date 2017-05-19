@@ -68,7 +68,7 @@ Adds a new view to the region.
 <td><div class="summary">
 Deactive is not valid in this Region. This method will always throw <a href="http://msdn2.microsoft.com/en-us/library/2asft85a">InvalidOperationException</a>.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.region.deactivate(system.object)">Region..::.Deactivate(Object)</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.region.deactivate(system.object)">Region.Deactivate(Object)</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431069.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430915(v=PandP.50)'
 
 Prism Class Library
 
-DelegateCommandBase..::.IsActiveChanged Event
+DelegateCommandBase.IsActiveChanged Event
 =============================================
 
 Fired if the [IsActive](https://msdn.microsoft.com/p:microsoft.practices.prism.commands.delegatecommandbase.isactive) property changes.
@@ -20,10 +20,10 @@ Syntax
 <span id="syntaxToggle"></span>public virtual event EventHandler IsActiveChangedPublic Overridable Event IsActiveChanged As EventHandler
 #### Value
 
-Type: [System..::.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
+Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
 #### Implements
 
-[IActiveAware..::.IsActiveChanged](https://msdn.microsoft.com/e:microsoft.practices.prism.iactiveaware.isactivechanged)
+[IActiveAware.IsActiveChanged](https://msdn.microsoft.com/e:microsoft.practices.prism.iactiveaware.isactivechanged)
 
 See Also
 --------

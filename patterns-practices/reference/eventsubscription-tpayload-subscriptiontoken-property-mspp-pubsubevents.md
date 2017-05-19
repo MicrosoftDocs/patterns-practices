@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736140(v=PandP.50)'
 
 Prism Class Library
 
-EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)..::.SubscriptionToken Property
+EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;).SubscriptionToken Property
 ===============================================================================
 
 Gets or sets a SubscriptionToken that identifies this [IEventSubscription](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription).
@@ -24,7 +24,7 @@ Type: [SubscriptionToken](https://msdn.microsoft.com/t:microsoft.practices.prism
 A token that identifies this [IEventSubscription](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription).
 #### Implements
 
-[IEventSubscription..::.SubscriptionToken](https://msdn.microsoft.com/p:microsoft.practices.prism.pubsubevents.ieventsubscription.subscriptiontoken)
+[IEventSubscription.SubscriptionToken](https://msdn.microsoft.com/p:microsoft.practices.prism.pubsubevents.ieventsubscription.subscriptiontoken)
 
 See Also
 --------

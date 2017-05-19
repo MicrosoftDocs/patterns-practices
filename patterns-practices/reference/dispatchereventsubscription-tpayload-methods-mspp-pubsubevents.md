@@ -76,7 +76,7 @@ Gets the <a href="http://msdn2.microsoft.com/en-us/library/42892f65">Type</a> of
 <td><div class="summary">
 Invokes the specified <a href="http://msdn2.microsoft.com/en-us/library/018hxwa8">Action&lt;(Of &lt;(T&gt;)&gt;)</a> asynchronously in the specified <a href="http://msdn2.microsoft.com/en-us/library/wx31754f">SynchronizationContext</a>.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.pubsubevents.eventsubscription%601.invokeaction(system.action%7b%600%7d%2c%600)">EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)..::.InvokeAction(Action&lt;(Of &lt;(TPayload&gt;)&gt;), TPayload)</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.pubsubevents.eventsubscription%601.invokeaction(system.action%7b%600%7d%2c%600)">EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;).InvokeAction(Action&lt;(Of &lt;(TPayload&gt;)&gt;), TPayload)</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736271.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>

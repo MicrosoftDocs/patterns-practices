@@ -131,7 +131,7 @@ Serves as a hash function for a particular type.
 <td><div class="summary">
 Sets the <a href="http://msdn2.microsoft.com/en-us/library/a9b6042e">SerializationInfo</a> with information about the exception.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/fwb1489e">Exception..::.GetObjectData(SerializationInfo, StreamingContext)</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/fwb1489e">Exception.GetObjectData(SerializationInfo, StreamingContext)</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430836.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>

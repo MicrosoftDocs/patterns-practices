@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736265(v=PandP.50)'
 
 Prism Class Library
 
-WeakEventHandlerManager..::.CallWeakReferenceHandlers Method
+WeakEventHandlerManager.CallWeakReferenceHandlers Method
 ============================================================
 
 Invokes the handlers
@@ -21,10 +21,10 @@ Syntax
 #### Parameters
 
 sender  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 
 handlers  
-Type: [System.Collections.Generic..::.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)&lt;(Of &lt;([WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd)&gt;)&gt;)
+Type: [System.Collections.Generic.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)&lt;(Of &lt;([WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd)&gt;)&gt;)
 
 See Also
 --------

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431334(v=PandP.50)'
 
 Prism Class Library
 
-SelectorItemsSourceSyncBehavior..::.HostControl Property
+SelectorItemsSourceSyncBehavior.HostControl Property
 ========================================================
 
 Gets or sets the [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309) that the [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) is attached to.
@@ -24,7 +24,7 @@ Type: [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
 A [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309) that the [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) is attached to.
 #### Implements
 
-[IHostAwareRegionBehavior..::.HostControl](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior.hostcontrol)
+[IHostAwareRegionBehavior.HostControl](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior.hostcontrol)
 
 Remarks
 -------

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430963(v=PandP.50)'
 
 Prism Class Library
 
-SelectorItemsSourceSyncBehavior..::.BehaviorKey Field
+SelectorItemsSourceSyncBehavior.BehaviorKey Field
 =====================================================
 
 Name that identifies the SelectorItemsSourceSyncBehavior behavior in a collection of RegionsBehaviors.

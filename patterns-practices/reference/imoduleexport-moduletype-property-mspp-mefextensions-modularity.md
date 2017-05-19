@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431266(v=PandP.50)'
 
 Prism Class Library
 
-IModuleExport..::.ModuleType Property
+IModuleExport.ModuleType Property
 =====================================
 
 Gets the type of the module.

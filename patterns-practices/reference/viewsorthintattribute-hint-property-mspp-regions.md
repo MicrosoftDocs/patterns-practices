@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431398(v=PandP.50)'
 
 Prism Class Library
 
-ViewSortHintAttribute..::.Hint Property
+ViewSortHintAttribute.Hint Property
 =======================================
 
 Gets the hint.

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431399(v=PandP.50)'
 
 Prism Class Library
 
-UnityBootstrapper..::.Container Property
+UnityBootstrapper.Container Property
 ========================================
 
 Gets the default IUnityContainer for the application.

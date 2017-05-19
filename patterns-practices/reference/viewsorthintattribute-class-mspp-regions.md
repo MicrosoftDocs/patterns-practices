@@ -22,9 +22,9 @@ Syntax
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System..::.Attribute](http://msdn2.microsoft.com/en-us/library/e8kc3626)
-    Microsoft.Practices.Prism.Regions..::.ViewSortHintAttribute
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  [System.Attribute](http://msdn2.microsoft.com/en-us/library/e8kc3626)
+    Microsoft.Practices.Prism.Regions.ViewSortHintAttribute
 
 See Also
 --------

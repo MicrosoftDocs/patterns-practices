@@ -88,7 +88,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 <td><div class="summary">
 Returns the set of candidates that may satisfiy this navigation request.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionnavigationcontentloader.getcandidatesfromregion(microsoft.practices.prism.regions.iregion%2csystem.string)">RegionNavigationContentLoader..::.GetCandidatesFromRegion(IRegion, String)</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionnavigationcontentloader.getcandidatesfromregion(microsoft.practices.prism.regions.iregion%2csystem.string)">RegionNavigationContentLoader.GetCandidatesFromRegion(IRegion, String)</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430815.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431275(v=PandP.50)'
 
 Prism Class Library
 
-IModuleCatalog..::.Modules Property
+IModuleCatalog.Modules Property
 ===================================
 
 Gets all the [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) classes that are in the [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog).

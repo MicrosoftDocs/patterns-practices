@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431359(v=PandP.50)'
 
 Prism Class Library
 
-NavigationContext..::.NavigationService Property
+NavigationContext.NavigationService Property
 ================================================
 
 Gets the region navigation service.

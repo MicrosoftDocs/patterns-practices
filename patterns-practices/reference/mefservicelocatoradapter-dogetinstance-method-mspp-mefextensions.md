@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405832(v=PandP.50)'
 
 Prism Class Library
 
-MefServiceLocatorAdapter..::.DoGetInstance Method
+MefServiceLocatorAdapter.DoGetInstance Method
 =================================================
 
 Resolves all the instances of the requested service.
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 serviceType  
-Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 Type of service requested.
 
 key  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Name of registered service you want. May be null.
 
 #### Return Value

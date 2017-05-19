@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736308(v=PandP.50)'
 
 Prism Class Library
 
-PopupWindowAction..::.IsModal Property
+PopupWindowAction.IsModal Property
 ======================================
 
 Gets or sets if the window will be modal or not.

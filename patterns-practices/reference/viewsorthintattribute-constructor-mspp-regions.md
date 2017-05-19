@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 hint  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The hint to use for sorting.
 
 See Also

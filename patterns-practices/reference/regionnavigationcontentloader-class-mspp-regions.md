@@ -22,10 +22,10 @@ Syntax
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.Regions..::.RegionNavigationContentLoader
-    [Microsoft.Practices.Prism.MefExtensions.Regions..::.MefRegionNavigationContentLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader)
-    [Microsoft.Practices.Prism.UnityExtensions.Regions..::.UnityRegionNavigationContentLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader)
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader
+    [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationContentLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader)
+    [Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader)
 
 See Also
 --------

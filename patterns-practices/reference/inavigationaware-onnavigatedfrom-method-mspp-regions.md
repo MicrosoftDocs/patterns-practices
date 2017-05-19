@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405954(v=PandP.50)'
 
 Prism Class Library
 
-INavigationAware..::.OnNavigatedFrom Method
+INavigationAware.OnNavigatedFrom Method
 ===========================================
 
 Called when the implementer is being navigated away from.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 navigationContext  
-Type: [Microsoft.Practices.Prism.Regions..::.NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)
 The navigation context.
 
 See Also

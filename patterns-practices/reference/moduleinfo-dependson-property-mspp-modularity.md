@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431315(v=PandP.50)'
 
 Prism Class Library
 
-ModuleInfo..::.DependsOn Property
+ModuleInfo.DependsOn Property
 =================================
 
 Gets or sets the list of modules that this module depends upon.

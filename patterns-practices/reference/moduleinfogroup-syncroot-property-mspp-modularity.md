@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431313(v=PandP.50)'
 
 Prism Class Library
 
-ModuleInfoGroup..::.SyncRoot Property
+ModuleInfoGroup.SyncRoot Property
 =====================================
 
 Gets an object that can be used to synchronize access to the [ICollection](http://msdn2.microsoft.com/en-us/library/b1ht6113).
@@ -27,7 +27,7 @@ Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 An object that can be used to synchronize access to the [ICollection](http://msdn2.microsoft.com/en-us/library/b1ht6113).
 #### Implements
 
-[ICollection..::.SyncRoot](http://msdn2.microsoft.com/en-us/library/ccad5w5z)
+[ICollection.SyncRoot](http://msdn2.microsoft.com/en-us/library/ccad5w5z)
 
 See Also
 --------

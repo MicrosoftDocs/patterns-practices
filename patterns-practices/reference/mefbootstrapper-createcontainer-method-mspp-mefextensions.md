@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405825(v=PandP.50)'
 
 Prism Class Library
 
-MefBootstrapper..::.CreateContainer Method
+MefBootstrapper.CreateContainer Method
 ==========================================
 
 Creates the [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553) that will be used as the default container.

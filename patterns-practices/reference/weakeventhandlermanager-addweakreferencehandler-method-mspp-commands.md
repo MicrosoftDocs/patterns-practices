@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736187(v=PandP.50)'
 
 Prism Class Library
 
-WeakEventHandlerManager..::.AddWeakReferenceHandler Method
+WeakEventHandlerManager.AddWeakReferenceHandler Method
 ==========================================================
 
 Adds a handler to the supplied list in a weak way.
@@ -21,15 +21,15 @@ Syntax
 #### Parameters
 
 handlers  
-Type: [System.Collections.Generic..::.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)&lt;(Of &lt;([WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd)&gt;)&gt;)
+Type: [System.Collections.Generic.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)&lt;(Of &lt;([WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd)&gt;)&gt;)
 Existing handler list. It will be created if null.
 
 handler  
-Type: [System..::.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
+Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
 Handler to add.
 
 defaultListSize  
-Type: [System..::.Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
+Type: [System.Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
 Default list size.
 
 See Also

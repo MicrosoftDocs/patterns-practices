@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736167(v=PandP.50)'
 
 Prism Class Library
 
-InvokeCommandAction..::.Invoke Method
+InvokeCommandAction.Invoke Method
 =====================================
 
 Executes the command
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 parameter  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 This parameter is passed to the command; the CommandParameter specified in the CommandParameterProperty is used for command invocation if not null.
 
 See Also

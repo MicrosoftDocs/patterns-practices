@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418990(v=PandP.50)'
 
 Prism Class Library
 
-Region..::.Remove Method
+Region.Remove Method
 ========================
 
 Removes the specified view from the region.
@@ -21,12 +21,12 @@ Syntax
 #### Parameters
 
 view  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The view to remove.
 
 #### Implements
 
-[IRegion..::.Remove(Object)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregion.remove(system.object))
+[IRegion.Remove(Object)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregion.remove(system.object))
 
 See Also
 --------

@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 monitorCommandActivity  
-Type: [System..::.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 Indicates when the command activity is going to be monitored.
 
 See Also

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405910(v=PandP.50)'
 
 Prism Class Library
 
-ModuleInfoGroup..::.IndexOf Method (ModuleInfo)
+ModuleInfoGroup.IndexOf Method (ModuleInfo)
 ===============================================
 
 Determines the index of a specific item in the [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/5y536ey6).
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 item  
-Type: [Microsoft.Practices.Prism.Modularity..::.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 The object to locate in the [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/5y536ey6).
 
 #### Return Value
@@ -30,7 +30,7 @@ Type: [Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
 The index of item if found in the list; otherwise, -1.
 #### Implements
 
-[IList&lt;(Of &lt;(T&gt;)&gt;)..::.IndexOf(T)](http://msdn2.microsoft.com/en-us/library/3w0148af)
+[IList&lt;(Of &lt;(T&gt;)&gt;).IndexOf(T)](http://msdn2.microsoft.com/en-us/library/3w0148af)
 
 See Also
 --------

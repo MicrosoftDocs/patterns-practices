@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736232(v=PandP.50)'
 
 Prism Class Library
 
-PopupWindowAction..::.WindowContentProperty Field
+PopupWindowAction.WindowContentProperty Field
 =================================================
 
 The content of the child window to display as part of the popup.

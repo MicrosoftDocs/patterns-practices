@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419026(v=PandP.50)'
 
 Prism Class Library
 
-ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)..::.GetErrors Method
+ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).GetErrors Method
 ============================================================
 
 Gets the validation errors for a specified property.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 propertyName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the property.
 
 #### Return Value

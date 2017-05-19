@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405898(v=PandP.50)'
 
 Prism Class Library
 
-ModuleDependencyCollection..::.GetElementKey Method
+ModuleDependencyCollection.GetElementKey Method
 ===================================================
 
 Gets the element key for a specified configuration element when overridden in a derived class.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 element  
-Type: [System.Configuration..::.ConfigurationElement](http://msdn2.microsoft.com/en-us/library/kyx77cz3)
+Type: [System.Configuration.ConfigurationElement](http://msdn2.microsoft.com/en-us/library/kyx77cz3)
 The [ConfigurationElement](http://msdn2.microsoft.com/en-us/library/kyx77cz3) to return the key for.
 
 #### Return Value

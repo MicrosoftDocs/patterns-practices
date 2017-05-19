@@ -28,9 +28,9 @@ The type of data to pass.
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System..::.EventArgs](http://msdn2.microsoft.com/en-us/library/118wxtk3)
-    Microsoft.Practices.Prism.PubSubEvents..::.DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;)
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  [System.EventArgs](http://msdn2.microsoft.com/en-us/library/118wxtk3)
+    Microsoft.Practices.Prism.PubSubEvents.DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;)
 
 See Also
 --------

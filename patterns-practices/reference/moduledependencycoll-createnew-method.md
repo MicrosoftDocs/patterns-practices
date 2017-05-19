@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405897(v=PandP.50)'
 
 Prism Class Library
 
-ModuleDependencyCollection..::.CreateNewElement Method
+ModuleDependencyCollection.CreateNewElement Method
 ======================================================
 
 Creates a new [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyconfigurationelement).

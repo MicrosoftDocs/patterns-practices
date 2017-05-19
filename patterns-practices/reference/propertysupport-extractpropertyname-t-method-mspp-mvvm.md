@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736209(v=PandP.50)'
 
 Prism Class Library
 
-PropertySupport..::.ExtractPropertyName&lt;(Of &lt;(T&gt;)&gt;) Method
+PropertySupport.ExtractPropertyName&lt;(Of &lt;(T&gt;)&gt;) Method
 ======================================================================
 
 Extracts the property name from a property expression.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 propertyExpression  
-Type: [System.Linq.Expressions..::.Expression](http://msdn2.microsoft.com/en-us/library/bb335710)&lt;(Of &lt;([Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;)
+Type: [System.Linq.Expressions.Expression](http://msdn2.microsoft.com/en-us/library/bb335710)&lt;(Of &lt;([Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;)
 The property expression (e.g. p =&gt; p.PropertyName)
 
 Type Parameters
@@ -49,11 +49,11 @@ Exceptions
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="http://msdn2.microsoft.com/en-us/library/27426hcy">System..::.ArgumentNullException</a></td>
+<td><a href="http://msdn2.microsoft.com/en-us/library/27426hcy">System.ArgumentNullException</a></td>
 <td>Thrown if the propertyExpression is null.</td>
 </tr>
 <tr class="even">
-<td><a href="http://msdn2.microsoft.com/en-us/library/3w1b3114">System..::.ArgumentException</a></td>
+<td><a href="http://msdn2.microsoft.com/en-us/library/3w1b3114">System.ArgumentException</a></td>
 <td>Thrown when the expression is:<br />
 Not a <a href="http://msdn2.microsoft.com/en-us/library/bb353260">MemberExpression</a><br />
 The <a href="http://msdn2.microsoft.com/en-us/library/bb353260">MemberExpression</a> does not represent a property.<br />

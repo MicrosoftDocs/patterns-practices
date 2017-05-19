@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405879(v=PandP.50)'
 
 Prism Class Library
 
-ModuleCatalog..::.GetDependentModules Method
+ModuleCatalog.GetDependentModules Method
 ============================================
 
 Return the list of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)s that moduleInfo depends on.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 moduleInfo  
-Type: [Microsoft.Practices.Prism.Modularity..::.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 The [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) to get the
 
 #### Return Value
@@ -30,7 +30,7 @@ Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &l
 An enumeration of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) that moduleInfo depends on.
 #### Implements
 
-[IModuleCatalog..::.GetDependentModules(ModuleInfo)](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.imodulecatalog.getdependentmodules(microsoft.practices.prism.modularity.moduleinfo))
+[IModuleCatalog.GetDependentModules(ModuleInfo)](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.imodulecatalog.getdependentmodules(microsoft.practices.prism.modularity.moduleinfo))
 
 Remarks
 -------

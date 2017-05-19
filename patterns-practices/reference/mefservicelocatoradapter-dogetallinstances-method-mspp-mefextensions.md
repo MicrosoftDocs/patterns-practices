@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405831(v=PandP.50)'
 
 Prism Class Library
 
-MefServiceLocatorAdapter..::.DoGetAllInstances Method
+MefServiceLocatorAdapter.DoGetAllInstances Method
 =====================================================
 
 Resolves the instance of the requested service.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 serviceType  
-Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 Type of instance requested.
 
 #### Return Value

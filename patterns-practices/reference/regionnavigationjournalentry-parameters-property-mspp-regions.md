@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736307(v=PandP.50)'
 
 Prism Class Library
 
-RegionNavigationJournalEntry..::.Parameters Property
+RegionNavigationJournalEntry.Parameters Property
 ====================================================
 
 Gets or sets the NavigationParameters instance.
@@ -23,7 +23,7 @@ Syntax
 Type: [NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters)
 #### Implements
 
-[IRegionNavigationJournalEntry..::.Parameters](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionnavigationjournalentry.parameters)
+[IRegionNavigationJournalEntry.Parameters](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionnavigationjournalentry.parameters)
 
 See Also
 --------

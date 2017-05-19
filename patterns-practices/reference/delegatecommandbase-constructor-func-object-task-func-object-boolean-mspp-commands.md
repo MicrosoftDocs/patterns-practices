@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 executeMethod  
-Type: [System..::.Func](http://msdn2.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b), [Task](http://msdn2.microsoft.com/en-us/library/dd235678)&gt;)&gt;)
+Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b), [Task](http://msdn2.microsoft.com/en-us/library/dd235678)&gt;)&gt;)
 The [Func&lt;(Of &lt;(T, TResult&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/bb549151) to execute when [Execute(Object)](http://msdn2.microsoft.com/en-us/library/ms604094) is invoked.
 
 canExecuteMethod  
-Type: [System..::.Func](http://msdn2.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b), [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
+Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b), [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
 The [Func&lt;(Of &lt;(T, TResult&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/bb549151) to invoked when [CanExecute(Object)](http://msdn2.microsoft.com/en-us/library/ms604093) is invoked.
 
 See Also

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405991(v=PandP.50)'
 
 Prism Class Library
 
-RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)..::.Adapt Method
+RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;).Adapt Method
 ==========================================================
 
 Template method to adapt the object to an [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion).
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 region  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
+Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 The new region being used.
 
 regionTarget  

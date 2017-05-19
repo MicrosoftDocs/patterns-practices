@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405933(v=PandP.50)'
 
 Prism Class Library
 
-AutoPopulateRegionBehavior..::.AddViewIntoRegion Method
+AutoPopulateRegionBehavior.AddViewIntoRegion Method
 =======================================================
 
 Adds a view into the views collection of this region.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 viewToAdd  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 
 See Also
 --------

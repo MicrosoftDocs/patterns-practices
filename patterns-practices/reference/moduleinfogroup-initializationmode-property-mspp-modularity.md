@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431307(v=PandP.50)'
 
 Prism Class Library
 
-ModuleInfoGroup..::.InitializationMode Property
+ModuleInfoGroup.InitializationMode Property
 ===============================================
 
 Gets or sets the [InitializationMode](https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleinfo.initializationmode) for the whole group. Any [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) classes that are added after setting this value will also get this InitializationMode.

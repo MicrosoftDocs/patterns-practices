@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405881(v=PandP.50)'
 
 Prism Class Library
 
-ModuleCatalog..::.InnerLoad Method
+ModuleCatalog.InnerLoad Method
 ==================================
 
 Does the actual work of loading the catalog. The base implementation does nothing.

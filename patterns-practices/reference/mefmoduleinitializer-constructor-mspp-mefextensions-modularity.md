@@ -25,15 +25,15 @@ Type: IServiceLocator
 The container that will be used to resolve the modules by specifying its type.
 
 loggerFacade  
-Type: [Microsoft.Practices.Prism.Logging..::.ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade)
+Type: [Microsoft.Practices.Prism.Logging.ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade)
 The logger to use.
 
 downloadedPartCatalogs  
-Type: [Microsoft.Practices.Prism.MefExtensions.Modularity..::.DownloadedPartCatalogCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection)
+Type: [Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection)
 The downloaded part catalogs.
 
 aggregateCatalog  
-Type: [System.ComponentModel.Composition.Hosting..::.AggregateCatalog](http://msdn2.microsoft.com/en-us/library/dd833165)
+Type: [System.ComponentModel.Composition.Hosting.AggregateCatalog](http://msdn2.microsoft.com/en-us/library/dd833165)
 The aggregate catalog.
 
 See Also

@@ -104,7 +104,7 @@ Creates a shallow copy of the current <a href="http://msdn2.microsoft.com/en-us/
 <td><div class="summary">
 Returns a <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf">String</a> that represents this instance.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/7bxwbwt2">Object..::.ToString()()()</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/7bxwbwt2">Object.ToString()()()</a>.)</td>
 </tr>
 </tbody>
 </table>

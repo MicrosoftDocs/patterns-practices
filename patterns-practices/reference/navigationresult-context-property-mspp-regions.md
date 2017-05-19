@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431362(v=PandP.50)'
 
 Prism Class Library
 
-NavigationResult..::.Context Property
+NavigationResult.Context Property
 =====================================
 
 Gets the navigation context.

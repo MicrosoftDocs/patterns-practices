@@ -39,7 +39,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/t:microsoft.pr
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430840.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleconfigurationelementcollection.">ModuleConfigurationElementCollection(array&lt;ModuleConfigurationElement&gt;[]()[])</a></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleconfigurationelementcollection.">ModuleConfigurationElementCollection(array&lt;ModuleConfigurationElement&gt;)</a></td>
 <td><div class="summary">
 Initializes a new <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection">ModuleConfigurationElementCollection</a>.
 </div></td>
@@ -189,7 +189,7 @@ Copies the contents of the <a href="http://msdn2.microsoft.com/en-us/library/a35
 <td><div class="summary">
 Creates a new <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a>.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection..::.CreateNewElement()()()</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection.CreateNewElement()()()</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430840.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
@@ -236,7 +236,7 @@ Searches the collection for all the <a href="https://msdn.microsoft.com/t:micros
 <td><div class="summary">
 Gets the element key for a specified configuration element when overridden in a derived class.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/bxcte21d">ConfigurationElementCollection..::.GetElementKey(ConfigurationElement)</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/bxcte21d">ConfigurationElementCollection.GetElementKey(ConfigurationElement)</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430840.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
@@ -489,7 +489,7 @@ Gets or sets the name for the <a href="http://msdn2.microsoft.com/en-us/library/
 <td><div class="summary">
 Gets the type of the <a href="http://msdn2.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/x4skd9kd">ConfigurationElementCollection..::.CollectionType</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/x4skd9kd">ConfigurationElementCollection.CollectionType</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430840.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
@@ -521,7 +521,7 @@ Gets an <a href="http://msdn2.microsoft.com/en-us/library/ms134413">ElementInfor
 <td><div class="summary">
 Gets the name used to identify this collection of elements in the configuration file when overridden in a derived class.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/8f06bh6s">ConfigurationElementCollection..::.ElementName</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/8f06bh6s">ConfigurationElementCollection.ElementName</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430840.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
@@ -656,7 +656,7 @@ Gets an object used to synchronize access to the <a href="http://msdn2.microsoft
 <td><div class="summary">
 Gets a value indicating whether an exception should be raised if a duplicate element is found. This property will always return true.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/ea6s6hb8">ConfigurationElementCollection..::.ThrowOnDuplicate</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/ea6s6hb8">ConfigurationElementCollection.ThrowOnDuplicate</a>.)</td>
 </tr>
 </tbody>
 </table>

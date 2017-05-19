@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418989(v=PandP.50)'
 
 Prism Class Library
 
-Region..::.GetView Method
+Region.GetView Method
 =========================
 
 Returns the view instance that was added to the region using a specific name.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 viewName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name used when adding the view to the region.
 
 #### Return Value
@@ -30,7 +30,7 @@ Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 Returns the named view or nullNothingnullptra null reference (Nothing in Visual Basic) if the view with viewName does not exist in the current region.
 #### Implements
 
-[IRegion..::.GetView(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregion.getview(system.string))
+[IRegion.GetView(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregion.getview(system.string))
 
 See Also
 --------

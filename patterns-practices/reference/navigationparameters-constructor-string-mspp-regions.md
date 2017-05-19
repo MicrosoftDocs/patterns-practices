@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 query  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The query string.
 
 See Also

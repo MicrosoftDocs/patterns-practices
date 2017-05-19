@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419029(v=PandP.50)'
 
 Prism Class Library
 
-NotificationObject..::.RaisePropertyChanged Method (String)
+NotificationObject.RaisePropertyChanged Method (String)
 ===========================================================
 
 Raises this object's PropertyChanged event.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 propertyName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The property that has a new value.
 
 See Also

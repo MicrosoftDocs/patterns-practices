@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405791(v=PandP.50)'
 
 Prism Class Library
 
-ExceptionExtensions..::.IsFrameworkExceptionRegistered Method
+ExceptionExtensions.IsFrameworkExceptionRegistered Method
 =============================================================
 
 Determines whether the exception type is already registered using the [RegisterFrameworkExceptionType(Type)](https://msdn.microsoft.com/m:microsoft.practices.prism.exceptionextensions.registerframeworkexceptiontype(system.type)) method
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 frameworkExceptionType  
-Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The type of framework exception to find.
 
 #### Return Value

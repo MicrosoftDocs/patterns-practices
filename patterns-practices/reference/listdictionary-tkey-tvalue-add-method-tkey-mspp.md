@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405796(v=PandP.50)'
 
 Prism Class Library
 
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)..::.Add Method (TKey)
+ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Add Method (TKey)
 =======================================================================
 
 If a list does not already exist, it will be created automatically.

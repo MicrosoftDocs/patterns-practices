@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405784(v=PandP.50)'
 
 Prism Class Library
 
-IDispatcherFacade..::.BeginInvoke Method
+IDispatcherFacade.BeginInvoke Method
 ========================================
 
 Dispatches an invocation to the method received as parameter.
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 method  
-Type: [System..::.Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51)
+Type: [System.Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51)
 Method to be invoked.
 
 arg  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 Arguments to pass to the invoked method.
 
 See Also

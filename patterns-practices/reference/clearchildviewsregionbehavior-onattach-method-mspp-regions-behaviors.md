@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736141(v=PandP.50)'
 
 Prism Class Library
 
-ClearChildViewsRegionBehavior..::.OnAttach Method
+ClearChildViewsRegionBehavior.OnAttach Method
 =================================================
 
 Subscribes to the [Region](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.region)'s PropertyChanged method to monitor its RegionManager property.

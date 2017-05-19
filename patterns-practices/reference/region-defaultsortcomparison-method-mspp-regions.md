@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418988(v=PandP.50)'
 
 Prism Class Library
 
-Region..::.DefaultSortComparison Method
+Region.DefaultSortComparison Method
 =======================================
 
 The default sort algorithm.
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 x  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The first view to compare.
 
 y  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The second view to compare.
 
 #### Return Value

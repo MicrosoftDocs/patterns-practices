@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418979(v=PandP.50)'
 
 Prism Class Library
 
-RegionViewRegistry..::.CreateInstance Method
+RegionViewRegistry.CreateInstance Method
 ============================================
 
 Creates an instance of a registered view [Type](http://msdn2.microsoft.com/en-us/library/42892f65).
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 type  
-Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 Type of the registered view.
 
 #### Return Value

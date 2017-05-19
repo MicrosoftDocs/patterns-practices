@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430913(v=PandP.50)'
 
 Prism Class Library
 
-CompositeCommand..::.CanExecuteChanged Event
+CompositeCommand.CanExecuteChanged Event
 ============================================
 
 Occurs when any of the registered commands raise [CanExecuteChanged](http://msdn2.microsoft.com/en-us/library/ms523106). You must keep a hard reference to the handler to avoid garbage collection and unexpected results. See remarks for more information.
@@ -20,10 +20,10 @@ Syntax
 <span id="syntaxToggle"></span>public event EventHandler CanExecuteChangedPublic Event CanExecuteChanged As EventHandler
 #### Value
 
-Type: [System..::.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
+Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
 #### Implements
 
-[ICommand..::.CanExecuteChanged](http://msdn2.microsoft.com/en-us/library/ms523106)
+[ICommand.CanExecuteChanged](http://msdn2.microsoft.com/en-us/library/ms523106)
 
 Remarks
 -------

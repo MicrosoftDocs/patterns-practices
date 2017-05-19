@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419109(v=PandP.50)'
 
 Prism Class Library
 
-ModuleManager..::.Dispose Method
+ModuleManager.Dispose Method
 ================================
 
 Overload List

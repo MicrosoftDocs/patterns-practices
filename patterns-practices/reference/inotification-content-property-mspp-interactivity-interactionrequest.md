@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736177(v=PandP.50)'
 
 Prism Class Library
 
-INotification..::.Content Property
+INotification.Content Property
 ==================================
 
 Gets or sets the content of the notification.

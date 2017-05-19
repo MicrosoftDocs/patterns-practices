@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431301(v=PandP.50)'
 
 Prism Class Library
 
-ModuleDependencyConfigurationElement..::.ModuleName Property
+ModuleDependencyConfigurationElement.ModuleName Property
 ============================================================
 
 Gets or sets the name of a module antoher module depends on.

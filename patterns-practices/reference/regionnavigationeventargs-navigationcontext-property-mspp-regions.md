@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431374(v=PandP.50)'
 
 Prism Class Library
 
-RegionNavigationEventArgs..::.NavigationContext Property
+RegionNavigationEventArgs.NavigationContext Property
 ========================================================
 
 Gets the navigation context.

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431278(v=PandP.50)'
 
 Prism Class Library
 
-LoadModuleCompletedEventArgs..::.ModuleInfo Property
+LoadModuleCompletedEventArgs.ModuleInfo Property
 ====================================================
 
 Gets the module info.

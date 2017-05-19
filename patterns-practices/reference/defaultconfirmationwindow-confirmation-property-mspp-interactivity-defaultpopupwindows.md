@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736285(v=PandP.50)'
 
 Prism Class Library
 
-DefaultConfirmationWindow..::.Confirmation Property
+DefaultConfirmationWindow.Confirmation Property
 ===================================================
 
 Sets or gets the [IConfirmation](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iconfirmation) shown by this window./&gt;

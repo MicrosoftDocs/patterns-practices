@@ -25,7 +25,7 @@ Type: IServiceLocator
 The container that will be used to resolve the modules by specifying its type.
 
 loggerFacade  
-Type: [Microsoft.Practices.Prism.Logging..::.ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade)
+Type: [Microsoft.Practices.Prism.Logging.ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade)
 The logger to use.
 
 See Also

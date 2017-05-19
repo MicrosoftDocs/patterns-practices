@@ -144,7 +144,7 @@ Creates a shallow copy of the current <a href="http://msdn2.microsoft.com/en-us/
 <td><div class="summary">
 Checks if the module needs to be retrieved before it's initialized.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.modulemanager.moduleneedsretrieval(microsoft.practices.prism.modularity.moduleinfo)">ModuleManager..::.ModuleNeedsRetrieval(ModuleInfo)</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.modulemanager.moduleneedsretrieval(microsoft.practices.prism.modularity.moduleinfo)">ModuleManager.ModuleNeedsRetrieval(ModuleInfo)</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430800.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
@@ -211,7 +211,7 @@ The module catalog specified in the constructor.
 <td><div class="summary">
 Gets or sets the type loaders used by the module manager.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.modulemanager.moduletypeloaders">ModuleManager..::.ModuleTypeLoaders</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.modulemanager.moduletypeloaders">ModuleManager.ModuleTypeLoaders</a>.)</td>
 </tr>
 </tbody>
 </table>

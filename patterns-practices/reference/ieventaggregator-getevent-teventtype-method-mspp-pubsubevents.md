@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736172(v=PandP.50)'
 
 Prism Class Library
 
-IEventAggregator..::.GetEvent&lt;(Of &lt;(TEventType&gt;)&gt;) Method
+IEventAggregator.GetEvent&lt;(Of &lt;(TEventType&gt;)&gt;) Method
 =====================================================================
 
 Gets an instance of an event type.

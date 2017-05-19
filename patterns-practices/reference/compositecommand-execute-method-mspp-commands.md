@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405749(v=PandP.50)'
 
 Prism Class Library
 
-CompositeCommand..::.Execute Method
+CompositeCommand.Execute Method
 ===================================
 
 Forwards [Execute(Object)](http://msdn2.microsoft.com/en-us/library/ms604094) to the registered commands.
@@ -21,12 +21,12 @@ Syntax
 #### Parameters
 
 parameter  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 Data used by the command. If the command does not require data to be passed, this object can be set to nullNothingnullptra null reference (Nothing in Visual Basic).
 
 #### Implements
 
-[ICommand..::.Execute(Object)](http://msdn2.microsoft.com/en-us/library/ms604094)
+[ICommand.Execute(Object)](http://msdn2.microsoft.com/en-us/library/ms604094)
 
 See Also
 --------

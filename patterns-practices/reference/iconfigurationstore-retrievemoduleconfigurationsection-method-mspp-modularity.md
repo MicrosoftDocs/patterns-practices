@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405855(v=PandP.50)'
 
 Prism Class Library
 
-IConfigurationStore..::.RetrieveModuleConfigurationSection Method
+IConfigurationStore.RetrieveModuleConfigurationSection Method
 =================================================================
 
 Gets the module configuration data.

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736180(v=PandP.50)'
 
 Prism Class Library
 
-CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;)..::.Command Property
+CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;).Command Property
 ================================================================
 
 Corresponding command to be execute and monitored for [CanExecuteChanged](http://msdn2.microsoft.com/en-us/library/ms523106)

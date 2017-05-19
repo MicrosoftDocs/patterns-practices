@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 writer  
-Type: [System.IO..::.TextWriter](http://msdn2.microsoft.com/en-us/library/ywxh2328)
+Type: [System.IO.TextWriter](http://msdn2.microsoft.com/en-us/library/ywxh2328)
 The writer to use for writing log entries.
 
 See Also

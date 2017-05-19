@@ -27,9 +27,9 @@ Remarks
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
   EventAggregator
-    Microsoft.Practices.Prism.MefExtensions.Events..::.MefEventAggregator
+    Microsoft.Practices.Prism.MefExtensions.Events.MefEventAggregator
 
 See Also
 --------

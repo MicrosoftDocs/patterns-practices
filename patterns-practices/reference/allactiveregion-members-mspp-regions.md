@@ -96,7 +96,7 @@ Adds a new view to the region.
 <td><div class="summary">
 Deactive is not valid in this Region. This method will always throw <a href="http://msdn2.microsoft.com/en-us/library/2asft85a">InvalidOperationException</a>.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.region.deactivate(system.object)">Region..::.Deactivate(Object)</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.region.deactivate(system.object)">Region.Deactivate(Object)</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430860.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
@@ -205,7 +205,7 @@ Properties
 <td><div class="summary">
 Gets a readonly view of the collection of all the active views in the region. These are all the added views.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.region.activeviews">Region..::.ActiveViews</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.region.activeviews">Region.ActiveViews</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430860.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>

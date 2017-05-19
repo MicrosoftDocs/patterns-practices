@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405963(v=PandP.50)'
 
 Prism Class Library
 
-IRegionCollection..::.Add Method
+IRegionCollection.Add Method
 ================================
 
 Adds a [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) to the collection.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 region  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
+Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 Region to be added to the collection.
 
 See Also

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418984(v=PandP.50)'
 
 Prism Class Library
 
-Region..::.Add Method (Object)
+Region.Add Method (Object)
 ==============================
 
 Adds a new view to the region.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 view  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The view to add.
 
 #### Return Value
@@ -30,7 +30,7 @@ Type: [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.re
 The [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager) that is set on the view if it is a [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309). It will be the current region manager when using this overload.
 #### Implements
 
-[IRegion..::.Add(Object)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregion.add(system.object))
+[IRegion.Add(Object)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregion.add(system.object))
 
 See Also
 --------

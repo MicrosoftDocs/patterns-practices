@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736266(v=PandP.50)'
 
 Prism Class Library
 
-DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)..::.FromAsyncHandler Method (Func&lt;(Of &lt;(T, Task&gt;)&gt;))
+DelegateCommand&lt;(Of &lt;(T&gt;)&gt;).FromAsyncHandler Method (Func&lt;(Of &lt;(T, Task&gt;)&gt;))
 ========================================================================================================
 
 Factory method to create a new instance of [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601) from an awaitable handler method.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 executeMethod  
-Type: [System..::.Func](http://msdn2.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601), [Task](http://msdn2.microsoft.com/en-us/library/dd235678)&gt;)&gt;)
+Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601), [Task](http://msdn2.microsoft.com/en-us/library/dd235678)&gt;)&gt;)
 Delegate to execute when Execute is called on the command.
 
 #### Return Value

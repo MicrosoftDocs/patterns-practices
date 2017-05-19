@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431366(v=PandP.50)'
 
 Prism Class Library
 
-RegionBehaviorCollection..::.Item Property
+RegionBehaviorCollection.Item Property
 ==========================================
 
 Gets the [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior) with the specified key.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 key  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 
 #### Property Value
 
@@ -29,7 +29,7 @@ Type: [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.r
 The RegionBehavior that's registered with the key.
 #### Implements
 
-[IRegionBehaviorCollection..::.Item[([(String\])\])](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionbehaviorcollection.item(system.string))
+[IRegionBehaviorCollection.Item[([(String\])\])](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionbehaviorcollection.item(system.string))
 
 See Also
 --------

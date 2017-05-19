@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431298(v=PandP.50)'
 
 Prism Class Library
 
-ModuleDependencyCollection..::.CollectionType Property
+ModuleDependencyCollection.CollectionType Property
 ======================================================
 
 Gets the type of the [ConfigurationElementCollection](http://msdn2.microsoft.com/en-us/library/a35we8et).

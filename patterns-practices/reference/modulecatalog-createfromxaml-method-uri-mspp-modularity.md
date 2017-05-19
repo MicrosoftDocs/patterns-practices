@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405875(v=PandP.50)'
 
 Prism Class Library
 
-ModuleCatalog..::.CreateFromXaml Method (Uri)
+ModuleCatalog.CreateFromXaml Method (Uri)
 =============================================
 
 Creates a [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog) from a XAML included as an Application Resource.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 builderResourceUri  
-Type: [System..::.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
+Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
 Relative [Uri](http://msdn2.microsoft.com/en-us/library/txt7706a) that identifies the XAML included as an Application Resource.
 
 #### Return Value

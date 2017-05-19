@@ -42,7 +42,7 @@ Configures the default region adapter mappings to use in the application, in ord
 [ConfigureServiceLocator](https://msdn.microsoft.com/m:microsoft.practices.prism.unityextensions.unitybootstrapper.configureservicelocator)
 Configures the LocatorProvider for the ServiceLocator.
 
-(Overrides [Bootstrapper..::.ConfigureServiceLocator()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.configureservicelocator).)
+(Overrides [Bootstrapper.ConfigureServiceLocator()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.configureservicelocator).)
 ![](https://msdn.microsoft.com/en-us/Gg431137.protmethod(en-us,PandP.50).gif "Protected method")
 [CreateContainer](https://msdn.microsoft.com/m:microsoft.practices.prism.unityextensions.unitybootstrapper.createcontainer)
 Creates the IUnityContainer that will be used as the default container.
@@ -86,7 +86,7 @@ Gets the [Type](http://msdn2.microsoft.com/en-us/library/42892f65) of the curren
 [InitializeModules](https://msdn.microsoft.com/m:microsoft.practices.prism.unityextensions.unitybootstrapper.initializemodules)
 Initializes the modules. May be overwritten in a derived class to use a custom Modules Catalog
 
-(Overrides [Bootstrapper..::.InitializeModules()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.initializemodules).)
+(Overrides [Bootstrapper.InitializeModules()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.initializemodules).)
 ![](https://msdn.microsoft.com/en-us/Gg431137.protmethod(en-us,PandP.50).gif "Protected method")
 [InitializeShell](https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.initializeshell)
 Initializes the shell.
@@ -101,7 +101,7 @@ Creates a shallow copy of the current [Object](http://msdn2.microsoft.com/en-us/
 [RegisterFrameworkExceptionTypes](https://msdn.microsoft.com/m:microsoft.practices.prism.unityextensions.unitybootstrapper.registerframeworkexceptiontypes)
 Registers in the IUnityContainer the [Type](http://msdn2.microsoft.com/en-us/library/42892f65) of the Exceptions that are not considered root exceptions by the [ExceptionExtensions](https://msdn.microsoft.com/t:microsoft.practices.prism.exceptionextensions).
 
-(Overrides [Bootstrapper..::.RegisterFrameworkExceptionTypes()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.registerframeworkexceptiontypes).)
+(Overrides [Bootstrapper.RegisterFrameworkExceptionTypes()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.registerframeworkexceptiontypes).)
 ![](https://msdn.microsoft.com/en-us/Gg431137.protmethod(en-us,PandP.50).gif "Protected method")
 [RegisterTypeIfMissing](https://msdn.microsoft.com/m:microsoft.practices.prism.unityextensions.unitybootstrapper.registertypeifmissing(system.type%2csystem.type%2csystem.boolean))
 Registers a type in the container only if that type was not already registered.
@@ -115,7 +115,7 @@ Runs the bootstrapper process.
 [Run(Boolean)](https://msdn.microsoft.com/m:microsoft.practices.prism.unityextensions.unitybootstrapper.run(system.boolean))
 Run the bootstrapper process.
 
-(Overrides [Bootstrapper..::.Run(Boolean)](https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.run(system.boolean)).)
+(Overrides [Bootstrapper.Run(Boolean)](https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.run(system.boolean)).)
 ![](https://msdn.microsoft.com/en-us/Gg431137.pubmethod(en-us,PandP.50).gif "Public method")
 [ToString](http://msdn2.microsoft.com/en-us/library/7bxwbwt2)
 Returns a string that represents the current object.

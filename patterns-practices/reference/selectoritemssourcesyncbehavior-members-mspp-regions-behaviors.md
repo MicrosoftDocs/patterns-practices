@@ -112,7 +112,7 @@ Creates a shallow copy of the current <a href="http://msdn2.microsoft.com/en-us/
 <td><div class="summary">
 Starts to monitor the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion">IRegion</a> to keep it in synch with the items of the <a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior.hostcontrol">HostControl</a>.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionbehavior.onattach">RegionBehavior..::.OnAttach()()()</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionbehavior.onattach">RegionBehavior.OnAttach()()()</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430875.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>

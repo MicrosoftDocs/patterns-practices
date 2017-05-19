@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405867(v=PandP.50)'
 
 Prism Class Library
 
-ModuleCatalog..::.AddGroup Method
+ModuleCatalog.AddGroup Method
 =================================
 
 Creates and adds a [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup) to the catalog.
@@ -21,15 +21,15 @@ Syntax
 #### Parameters
 
 initializationMode  
-Type: [Microsoft.Practices.Prism.Modularity..::.InitializationMode](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.initializationmode)
+Type: [Microsoft.Practices.Prism.Modularity.InitializationMode](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.initializationmode)
 Stage on which the module group to be added will be initialized.
 
 refValue  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Reference to the location of the module group to be added.
 
 moduleInfos  
-Type: array&lt;[Microsoft.Practices.Prism.Modularity..::.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;[]()[]
+Type: array&lt;[Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;
 Collection of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) included in the group.
 
 #### Return Value

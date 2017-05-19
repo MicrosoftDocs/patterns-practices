@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405971(v=PandP.50)'
 
 Prism Class Library
 
-IRegionNavigationJournal..::.GoBack Method
+IRegionNavigationJournal.GoBack Method
 ==========================================
 
 Navigates to the most recent entry in the back navigation history, or does nothing if no entry exists in back navigation.

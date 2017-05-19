@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736210(v=PandP.50)'
 
 Prism Class Library
 
-PopupWindowAction..::.IsModalProperty Field
+PopupWindowAction.IsModalProperty Field
 ===========================================
 
 Determines if the content should be shown in a modal window or not.

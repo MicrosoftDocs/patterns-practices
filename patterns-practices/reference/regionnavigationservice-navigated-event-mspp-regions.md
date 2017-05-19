@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430937(v=PandP.50)'
 
 Prism Class Library
 
-RegionNavigationService..::.Navigated Event
+RegionNavigationService.Navigated Event
 ===========================================
 
 Raised when the region is navigated to content.
@@ -20,10 +20,10 @@ Syntax
 <span id="syntaxToggle"></span>public event EventHandler&lt;RegionNavigationEventArgs&gt; NavigatedPublic Event Navigated As EventHandler(Of RegionNavigationEventArgs)
 #### Value
 
-Type: [System..::.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([RegionNavigationEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationeventargs)&gt;)&gt;)
+Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([RegionNavigationEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationeventargs)&gt;)&gt;)
 #### Implements
 
-[IRegionNavigationService..::.Navigated](https://msdn.microsoft.com/e:microsoft.practices.prism.regions.iregionnavigationservice.navigated)
+[IRegionNavigationService.Navigated](https://msdn.microsoft.com/e:microsoft.practices.prism.regions.iregionnavigationservice.navigated)
 
 See Also
 --------

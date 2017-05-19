@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405816(v=PandP.50)'
 
 Prism Class Library
 
-TextLogger..::.Dispose Method
+TextLogger.Dispose Method
 =============================
 
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
@@ -20,7 +20,7 @@ Syntax
 <span id="syntaxToggle"></span>public void Dispose()Public Sub Dispose
 #### Implements
 
-[IDisposable..::.Dispose()()()](http://msdn2.microsoft.com/en-us/library/es4s3w1d)
+[IDisposable.Dispose()()()](http://msdn2.microsoft.com/en-us/library/es4s3w1d)
 
 Remarks
 -------

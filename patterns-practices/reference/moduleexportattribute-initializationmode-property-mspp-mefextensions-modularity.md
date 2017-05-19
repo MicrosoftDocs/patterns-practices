@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431270(v=PandP.50)'
 
 Prism Class Library
 
-ModuleExportAttribute..::.InitializationMode Property
+ModuleExportAttribute.InitializationMode Property
 =====================================================
 
 Gets or sets when the module should have Initialize() called.
@@ -23,7 +23,7 @@ Syntax
 Type: [InitializationMode](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.initializationmode)
 #### Implements
 
-[IModuleExport..::.InitializationMode](https://msdn.microsoft.com/p:microsoft.practices.prism.mefextensions.modularity.imoduleexport.initializationmode)
+[IModuleExport.InitializationMode](https://msdn.microsoft.com/p:microsoft.practices.prism.mefextensions.modularity.imoduleexport.initializationmode)
 
 See Also
 --------

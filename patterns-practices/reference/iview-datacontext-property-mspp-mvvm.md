@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736272(v=PandP.50)'
 
 Prism Class Library
 
-IView..::.DataContext Property
+IView.DataContext Property
 ==============================
 
 **Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/n:microsoft.practices.prism.mvvm)

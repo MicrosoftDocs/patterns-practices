@@ -154,7 +154,7 @@ Copies the contents of the <a href="http://msdn2.microsoft.com/en-us/library/a35
 <td><div class="summary">
 Creates a new <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a>.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection..::.CreateNewElement()()()</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection.CreateNewElement()()()</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431052.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
@@ -201,7 +201,7 @@ Searches the collection for all the <a href="https://msdn.microsoft.com/t:micros
 <td><div class="summary">
 Gets the element key for a specified configuration element when overridden in a derived class.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/bxcte21d">ConfigurationElementCollection..::.GetElementKey(ConfigurationElement)</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/bxcte21d">ConfigurationElementCollection.GetElementKey(ConfigurationElement)</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431052.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431252(v=PandP.50)'
 
 Prism Class Library
 
-InteractionRequestedEventArgs..::.Context Property
+InteractionRequestedEventArgs.Context Property
 ==================================================
 
 Gets the context for a requested interaction.

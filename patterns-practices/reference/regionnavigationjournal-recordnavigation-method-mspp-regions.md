@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418977(v=PandP.50)'
 
 Prism Class Library
 
-RegionNavigationJournal..::.RecordNavigation Method
+RegionNavigationJournal.RecordNavigation Method
 ===================================================
 
 Records the navigation to the entry..
@@ -21,12 +21,12 @@ Syntax
 #### Parameters
 
 entry  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegionNavigationJournalEntry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationjournalentry)
+Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationjournalentry)
 The entry to record.
 
 #### Implements
 
-[IRegionNavigationJournal..::.RecordNavigation(IRegionNavigationJournalEntry)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionnavigationjournal.recordnavigation(microsoft.practices.prism.regions.iregionnavigationjournalentry))
+[IRegionNavigationJournal.RecordNavigation(IRegionNavigationJournalEntry)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionnavigationjournal.recordnavigation(microsoft.practices.prism.regions.iregionnavigationjournalentry))
 
 See Also
 --------

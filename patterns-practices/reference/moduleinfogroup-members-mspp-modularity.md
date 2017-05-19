@@ -213,7 +213,7 @@ Extension Methods
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430847.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinfogroupextensions.addmodule(microsoft.practices.prism.modularity.moduleinfogroup%2csystem.type%2csystem.string%5b%5d)">AddModule(Type, array&lt;String&gt;[]()[])</a></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinfogroupextensions.addmodule(microsoft.practices.prism.modularity.moduleinfogroup%2csystem.type%2csystem.string%5b%5d)">AddModule(Type, array&lt;String&gt;)</a></td>
 <td>Overloaded.
 <div class="summary">
 Adds a new module that is statically referenced to the specified module info group.
@@ -222,7 +222,7 @@ Adds a new module that is statically referenced to the specified module info gro
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430847.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinfogroupextensions.addmodule(microsoft.practices.prism.modularity.moduleinfogroup%2csystem.string%2csystem.type%2csystem.string%5b%5d)">AddModule(String, Type, array&lt;String&gt;[]()[])</a></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinfogroupextensions.addmodule(microsoft.practices.prism.modularity.moduleinfogroup%2csystem.string%2csystem.type%2csystem.string%5b%5d)">AddModule(String, Type, array&lt;String&gt;)</a></td>
 <td>Overloaded.
 <div class="summary">
 Adds a new module that is statically referenced to the specified module info group.

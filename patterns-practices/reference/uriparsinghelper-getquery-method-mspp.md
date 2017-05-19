@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419018(v=PandP.50)'
 
 Prism Class Library
 
-UriParsingHelper..::.GetQuery Method
+UriParsingHelper.GetQuery Method
 ====================================
 
 Gets the query part of uri.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 uri  
-Type: [System..::.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
+Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
 The Uri.
 
 #### Return Value

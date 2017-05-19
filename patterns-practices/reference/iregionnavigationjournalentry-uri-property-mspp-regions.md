@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431341(v=PandP.50)'
 
 Prism Class Library
 
-IRegionNavigationJournalEntry..::.Uri Property
+IRegionNavigationJournalEntry.Uri Property
 ==============================================
 
 Gets or sets the URI.

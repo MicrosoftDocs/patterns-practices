@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431394(v=PandP.50)'
 
 Prism Class Library
 
-Region..::.Views Property
+Region.Views Property
 =========================
 
 Gets a readonly view of the collection of views in the region.
@@ -24,7 +24,7 @@ Type: [IViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.
 An [IViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iviewscollection) of all the added views.
 #### Implements
 
-[IRegion..::.Views](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.views)
+[IRegion.Views](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.views)
 
 See Also
 --------

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431360(v=PandP.50)'
 
 Prism Class Library
 
-NavigationContext..::.Parameters Property
+NavigationContext.Parameters Property
 =========================================
 
 Gets the [NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters) extracted from the URI and the object parameters passed in navigation.

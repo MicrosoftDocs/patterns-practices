@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419014(v=PandP.50)'
 
 Prism Class Library
 
-UnityContainerHelper..::.TryResolve&lt;(Of &lt;(T&gt;)&gt;) Method (IUnityContainer)
+UnityContainerHelper.TryResolve&lt;(Of &lt;(T&gt;)&gt;) Method (IUnityContainer)
 ====================================================================================
 
 Utility method to try to resolve a service from the container avoiding an exception if the container cannot build the type.

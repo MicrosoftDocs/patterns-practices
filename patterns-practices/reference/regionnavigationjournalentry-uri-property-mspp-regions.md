@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431379(v=PandP.50)'
 
 Prism Class Library
 
-RegionNavigationJournalEntry..::.Uri Property
+RegionNavigationJournalEntry.Uri Property
 =============================================
 
 Gets or sets the URI.
@@ -24,7 +24,7 @@ Type: [Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
 The URI.
 #### Implements
 
-[IRegionNavigationJournalEntry..::.Uri](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionnavigationjournalentry.uri)
+[IRegionNavigationJournalEntry.Uri](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionnavigationjournalentry.uri)
 
 See Also
 --------

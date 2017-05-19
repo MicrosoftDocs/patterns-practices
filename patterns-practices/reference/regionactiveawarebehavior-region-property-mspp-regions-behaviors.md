@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431330(v=PandP.50)'
 
 Prism Class Library
 
-RegionActiveAwareBehavior..::.Region Property
+RegionActiveAwareBehavior.Region Property
 =============================================
 
 The region that this behavior is extending
@@ -23,7 +23,7 @@ Syntax
 Type: [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 #### Implements
 
-[IRegionBehavior..::.Region](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionbehavior.region)
+[IRegionBehavior.Region](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionbehavior.region)
 
 See Also
 --------

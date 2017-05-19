@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405981(v=PandP.50)'
 
 Prism Class Library
 
-IRegion..::.Deactivate Method
+IRegion.Deactivate Method
 =============================
 
 Marks the specified view as inactive.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 view  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The view to deactivate.
 
 See Also

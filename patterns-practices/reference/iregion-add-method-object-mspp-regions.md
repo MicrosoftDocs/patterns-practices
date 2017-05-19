@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405978(v=PandP.50)'
 
 Prism Class Library
 
-IRegion..::.Add Method (Object)
+IRegion.Add Method (Object)
 ===============================
 
 Adds a new view to the region.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 view  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The view to add.
 
 #### Return Value

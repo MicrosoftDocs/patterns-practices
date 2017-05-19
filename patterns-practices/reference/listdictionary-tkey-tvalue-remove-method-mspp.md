@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419068(v=PandP.50)'
 
 Prism Class Library
 
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)..::.Remove Method
+ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Remove Method
 ===================================================================
 
 Overload List

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736295(v=PandP.50)'
 
 Prism Class Library
 
-SubscriptionToken..::.Equals Method
+SubscriptionToken.Equals Method
 ===================================
 
 Overload List
@@ -34,7 +34,7 @@ Overload List
 <td><div class="summary">
 Determines whether the specified <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b">Object</a> is equal to the current <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b">Object</a>.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/bsc2ak47">Object..::.Equals(Object)</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/bsc2ak47">Object.Equals(Object)</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736295.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>

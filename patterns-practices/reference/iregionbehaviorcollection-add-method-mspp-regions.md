@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405957(v=PandP.50)'
 
 Prism Class Library
 
-IRegionBehaviorCollection..::.Add Method
+IRegionBehaviorCollection.Add Method
 ========================================
 
 Adds a [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior) to the collection, using the specified key as an indexer.
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 key  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The key that specifies the type of [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior) that's added.
 
 regionBehavior  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior)
+Type: [Microsoft.Practices.Prism.Regions.IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior)
 The [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior) to add.
 
 See Also

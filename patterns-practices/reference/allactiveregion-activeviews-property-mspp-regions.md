@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431325(v=PandP.50)'
 
 Prism Class Library
 
-AllActiveRegion..::.ActiveViews Property
+AllActiveRegion.ActiveViews Property
 ========================================
 
 Gets a readonly view of the collection of all the active views in the region. These are all the added views.
@@ -24,7 +24,7 @@ Type: [IViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.
 An [IViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iviewscollection) of all the active views.
 #### Implements
 
-[IRegion..::.ActiveViews](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.activeviews)
+[IRegion.ActiveViews](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.activeviews)
 
 See Also
 --------

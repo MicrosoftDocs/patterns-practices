@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431363(v=PandP.50)'
 
 Prism Class Library
 
-NavigationResult..::.Error Property
+NavigationResult.Error Property
 ===================================
 
 Gets an exception that occurred while navigating.

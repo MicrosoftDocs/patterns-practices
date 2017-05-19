@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736267(v=PandP.50)'
 
 Prism Class Library
 
-CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;)..::.ExecuteCommand Method
+CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;).ExecuteCommand Method
 =====================================================================
 
 Executes the command, if it's set, providing the [CommandParameter](https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.commandbehaviorbase%601.commandparameter)
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 parameter  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 
 See Also
 --------

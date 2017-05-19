@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405922(v=PandP.50)'
 
 Prism Class Library
 
-ModuleInitializer..::.CreateModule Method (String)
+ModuleInitializer.CreateModule Method (String)
 ==================================================
 
 Uses the container to resolve a new [IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule) by specifying its [Type](http://msdn2.microsoft.com/en-us/library/42892f65).
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 typeName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The type name to resolve. This type must implement [IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule).
 
 #### Return Value

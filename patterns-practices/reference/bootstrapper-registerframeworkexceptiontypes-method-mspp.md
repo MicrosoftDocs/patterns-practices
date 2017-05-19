@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405738(v=PandP.50)'
 
 Prism Class Library
 
-Bootstrapper..::.RegisterFrameworkExceptionTypes Method
+Bootstrapper.RegisterFrameworkExceptionTypes Method
 =======================================================
 
 Registers the [Type](http://msdn2.microsoft.com/en-us/library/42892f65)s of the Exceptions that are not considered root exceptions by the [ExceptionExtensions](https://msdn.microsoft.com/t:microsoft.practices.prism.exceptionextensions).

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736227(v=PandP.50)'
 
 Prism Class Library
 
-InvokeCommandAction..::.OnAttached Method
+InvokeCommandAction.OnAttached Method
 =========================================
 
 This method is called after the behavior is attached. It updates the command behavior's Command and CommandParameter properties if necessary.

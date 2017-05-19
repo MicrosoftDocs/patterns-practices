@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418981(v=PandP.50)'
 
 Prism Class Library
 
-RegionViewRegistry..::.RegisterViewWithRegion Method (String, Type)
+RegionViewRegistry.RegisterViewWithRegion Method (String, Type)
 ===================================================================
 
 Registers a content type with a region name.
@@ -21,16 +21,16 @@ Syntax
 #### Parameters
 
 regionName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Region name to which the viewType will be registered.
 
 viewType  
-Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 Content type to be registered for the regionName.
 
 #### Implements
 
-[IRegionViewRegistry..::.RegisterViewWithRegion(String, Type)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionviewregistry.registerviewwithregion(system.string%2csystem.type))
+[IRegionViewRegistry.RegisterViewWithRegion(String, Type)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionviewregistry.registerviewwithregion(system.string%2csystem.type))
 
 See Also
 --------

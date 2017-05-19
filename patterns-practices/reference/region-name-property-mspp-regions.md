@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431390(v=PandP.50)'
 
 Prism Class Library
 
-Region..::.Name Property
+Region.Name Property
 ========================
 
 Gets the name of the region that uniequely identifies the region within a [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager).
@@ -24,7 +24,7 @@ Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region.
 #### Implements
 
-[IRegion..::.Name](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.name)
+[IRegion.Name](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.name)
 
 See Also
 --------

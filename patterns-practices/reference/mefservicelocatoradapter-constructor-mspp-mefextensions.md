@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 compositionContainer  
-Type: [System.ComponentModel.Composition.Hosting..::.CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553)
+Type: [System.ComponentModel.Composition.Hosting.CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553)
 The MEF composition container.
 
 See Also

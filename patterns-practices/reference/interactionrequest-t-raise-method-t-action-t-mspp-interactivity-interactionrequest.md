@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405795(v=PandP.50)'
 
 Prism Class Library
 
-InteractionRequest&lt;(Of &lt;(T&gt;)&gt;)..::.Raise Method (T, Action&lt;(Of &lt;(T&gt;)&gt;))
+InteractionRequest&lt;(Of &lt;(T&gt;)&gt;).Raise Method (T, Action&lt;(Of &lt;(T&gt;)&gt;))
 ===============================================================================================
 
 Fires the Raised event.
@@ -25,7 +25,7 @@ Type: [T](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.i
 The context for the interaction request.
 
 callback  
-Type: [System..::.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)&gt;)&gt;)
+Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)&gt;)&gt;)
 The callback to execute when the interaction is completed.
 
 See Also

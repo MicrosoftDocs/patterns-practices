@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419091(v=PandP.50)'
 
 Prism Class Library
 
-ModuleConfigurationElementCollection..::.CreateNewElement Method
+ModuleConfigurationElementCollection.CreateNewElement Method
 ================================================================
 
 Overload List
@@ -34,7 +34,7 @@ Overload List
 <td><div class="summary">
 Creates a new <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a>.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection..::.CreateNewElement()()()</a>.)</td>
+(Overrides <a href="http://msdn2.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection.CreateNewElement()()()</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419091.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>

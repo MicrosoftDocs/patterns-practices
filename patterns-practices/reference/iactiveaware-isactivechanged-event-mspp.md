@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430916(v=PandP.50)'
 
 Prism Class Library
 
-IActiveAware..::.IsActiveChanged Event
+IActiveAware.IsActiveChanged Event
 ======================================
 
 Notifies that the value for [IsActive](https://msdn.microsoft.com/p:microsoft.practices.prism.iactiveaware.isactive) property has changed.
@@ -20,7 +20,7 @@ Syntax
 <span id="syntaxToggle"></span>event EventHandler IsActiveChangedEvent IsActiveChanged As EventHandler
 #### Value
 
-Type: [System..::.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
+Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
 
 See Also
 --------

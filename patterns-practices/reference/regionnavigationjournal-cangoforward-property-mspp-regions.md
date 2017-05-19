@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431381(v=PandP.50)'
 
 Prism Class Library
 
-RegionNavigationJournal..::.CanGoForward Property
+RegionNavigationJournal.CanGoForward Property
 =================================================
 
 Gets a value that indicates whether there is at least one entry in the forward navigation history.
@@ -24,7 +24,7 @@ Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 true if this instance can go forward; otherwise, false.
 #### Implements
 
-[IRegionNavigationJournal..::.CanGoForward](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionnavigationjournal.cangoforward)
+[IRegionNavigationJournal.CanGoForward](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionnavigationjournal.cangoforward)
 
 See Also
 --------

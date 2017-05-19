@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736269(v=PandP.50)'
 
 Prism Class Library
 
-PopupWindowAction..::.Invoke Method
+PopupWindowAction.Invoke Method
 ===================================
 
 Displays the child window and collects results for [IInteractionRequest](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest).
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 parameter  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The parameter to the action. If the action does not require a parameter, the parameter may be set to a null reference.
 
 See Also

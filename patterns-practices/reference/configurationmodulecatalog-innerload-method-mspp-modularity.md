@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405846(v=PandP.50)'
 
 Prism Class Library
 
-ConfigurationModuleCatalog..::.InnerLoad Method
+ConfigurationModuleCatalog.InnerLoad Method
 ===============================================
 
 Loads the catalog from the configuration.

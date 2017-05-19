@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418933(v=PandP.50)'
 
 Prism Class Library
 
-RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)..::.AttachBehaviors Method
+RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;).AttachBehaviors Method
 ====================================================================
 
 Template method to attach new behaviors.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 region  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
+Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 The region being used.
 
 regionTarget  

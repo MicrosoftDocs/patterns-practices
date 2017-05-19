@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736155(v=PandP.50)'
 
 Prism Class Library
 
-PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)..::.Subscribe Method (Action&lt;(Of &lt;(TPayload&gt;)&gt;), ThreadOption)
+PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Subscribe Method (Action&lt;(Of &lt;(TPayload&gt;)&gt;), ThreadOption)
 =====================================================================================================================
 
 Subscribes a delegate to an event. PubSubEvent will maintain a [WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate.
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 action  
-Type: [System..::.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.pubsubevent%601)&gt;)&gt;)
+Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.pubsubevent%601)&gt;)&gt;)
 The delegate that gets executed when the event is raised.
 
 threadOption  
-Type: [Microsoft.Practices.Prism.PubSubEvents..::.ThreadOption](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.threadoption)
+Type: [Microsoft.Practices.Prism.PubSubEvents.ThreadOption](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.threadoption)
 Specifies on which thread to receive the delegate callback.
 
 #### Return Value

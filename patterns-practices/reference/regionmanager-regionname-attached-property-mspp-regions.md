@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431371(v=PandP.50)'
 
 Prism Class Library
 
-RegionManager..::.RegionName Attached Property
+RegionManager.RegionName Attached Property
 ==============================================
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

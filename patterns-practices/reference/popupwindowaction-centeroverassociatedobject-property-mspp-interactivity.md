@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736284(v=PandP.50)'
 
 Prism Class Library
 
-PopupWindowAction..::.CenterOverAssociatedObject Property
+PopupWindowAction.CenterOverAssociatedObject Property
 =========================================================
 
 Gets or sets if the window will be initially shown centered over the view that raised the interaction request or not.

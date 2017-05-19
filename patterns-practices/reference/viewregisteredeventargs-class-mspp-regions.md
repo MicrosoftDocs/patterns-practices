@@ -22,9 +22,9 @@ Syntax
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System..::.EventArgs](http://msdn2.microsoft.com/en-us/library/118wxtk3)
-    Microsoft.Practices.Prism.Regions..::.ViewRegisteredEventArgs
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  [System.EventArgs](http://msdn2.microsoft.com/en-us/library/118wxtk3)
+    Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs
 
 See Also
 --------

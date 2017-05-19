@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405923(v=PandP.50)'
 
 Prism Class Library
 
-ModuleInitializer..::.HandleModuleInitializationError Method
+ModuleInitializer.HandleModuleInitializationError Method
 ============================================================
 
 Handles any exception occurred in the module Initialization process, logs the error using the [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade) and throws a [ModuleInitializeException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinitializeexception). This method can be overridden to provide a different behavior.
@@ -21,15 +21,15 @@ Syntax
 #### Parameters
 
 moduleInfo  
-Type: [Microsoft.Practices.Prism.Modularity..::.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 The module metadata where the error happenened.
 
 assemblyName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The assembly name.
 
 exception  
-Type: [System..::.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+Type: [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
 The exception thrown that is the cause of the current error.
 
 Exceptions
@@ -38,7 +38,7 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                                                                                                         | Condition |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| [Microsoft.Practices.Prism.Modularity..::.ModuleInitializeException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinitializeexception) |           |
+| [Microsoft.Practices.Prism.Modularity.ModuleInitializeException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinitializeexception) |           |
 
 See Also
 --------

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431387(v=PandP.50)'
 
 Prism Class Library
 
-Region..::.Behaviors Property
+Region.Behaviors Property
 =============================
 
 Gets the collection of [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior)s that can extend the behavior of regions.
@@ -23,7 +23,7 @@ Syntax
 Type: [IRegionBehaviorCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorcollection)
 #### Implements
 
-[IRegion..::.Behaviors](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.behaviors)
+[IRegion.Behaviors](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.behaviors)
 
 See Also
 --------

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736221(v=PandP.50)'
 
 Prism Class Library
 
-InvokeCommandAction..::.CommandProperty Field
+InvokeCommandAction.CommandProperty Field
 =============================================
 
 Dependency property identifying the command to execute when invoked.

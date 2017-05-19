@@ -28,9 +28,9 @@ The type to use for the generic [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.mi
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft.Practices.Prism.PubSubEvents..::.EventSubscription](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventsubscription%601)&lt;(Of &lt;(TPayload&gt;)&gt;)
-    Microsoft.Practices.Prism.PubSubEvents..::.DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  [Microsoft.Practices.Prism.PubSubEvents.EventSubscription](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventsubscription%601)&lt;(Of &lt;(TPayload&gt;)&gt;)
+    Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)
 
 See Also
 --------

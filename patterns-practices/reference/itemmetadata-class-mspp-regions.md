@@ -22,10 +22,10 @@ Syntax
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System.Windows.Threading..::.DispatcherObject](http://msdn2.microsoft.com/en-us/library/ms615925)
-    [System.Windows..::.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
-      Microsoft.Practices.Prism.Regions..::.ItemMetadata
+<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  [System.Windows.Threading.DispatcherObject](http://msdn2.microsoft.com/en-us/library/ms615925)
+    [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
+      Microsoft.Practices.Prism.Regions.ItemMetadata
 
 See Also
 --------

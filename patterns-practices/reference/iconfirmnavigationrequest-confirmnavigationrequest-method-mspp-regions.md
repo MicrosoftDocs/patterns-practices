@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405951(v=PandP.50)'
 
 Prism Class Library
 
-IConfirmNavigationRequest..::.ConfirmNavigationRequest Method
+IConfirmNavigationRequest.ConfirmNavigationRequest Method
 =============================================================
 
 Determines whether this instance accepts being navigated away from.
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 navigationContext  
-Type: [Microsoft.Practices.Prism.Regions..::.NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)
 The navigation context.
 
 continuationCallback  
-Type: [System..::.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
+Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
 The callback to indicate when navigation can proceed.
 
 Remarks

@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 regionAdapterMappings  
-Type: [Microsoft.Practices.Prism.Regions..::.RegionAdapterMappings](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionadaptermappings)
+Type: [Microsoft.Practices.Prism.Regions.RegionAdapterMappings](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionadaptermappings)
 The region adapter mappings, that are used to find the correct adapter for a given controltype. The controltype is determined by the value.
 
 See Also

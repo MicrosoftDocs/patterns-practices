@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg406467(v=PandP.50)'
 
 Prism Class Library
 
-RegionManagerExtensions..::.RegisterViewWithRegion Method (IRegionManager, String, Func&lt;(Of &lt;(Object&gt;)&gt;))
+RegionManagerExtensions.RegisterViewWithRegion Method (IRegionManager, String, Func&lt;(Of &lt;(Object&gt;)&gt;))
 =====================================================================================================================
 
 Associate a view with a region, using a delegate to resolve a concreate instance of the view. When the region get's displayed, this delelgate will be called and the result will be added to the views collection of the region.
@@ -21,15 +21,15 @@ Syntax
 #### Parameters
 
 regionManager  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
+Type: [Microsoft.Practices.Prism.Regions.IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
 The regionmanager that this extension method effects.
 
 regionName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region to associate the view with.
 
 getContentDelegate  
-Type: [System..::.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
+Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 The delegate used to resolve a concreate instance of the view.
 
 #### Return Value

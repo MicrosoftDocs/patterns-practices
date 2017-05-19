@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405985(v=PandP.50)'
 
 Prism Class Library
 
-ItemsControlRegionAdapter..::.Adapt Method
+ItemsControlRegionAdapter.Adapt Method
 ==========================================
 
 Adapts an [ItemsControl](http://msdn2.microsoft.com/en-us/library/ms611045) to an [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion).
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 region  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
+Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 The new region being used.
 
 regionTarget  
-Type: [System.Windows.Controls..::.ItemsControl](http://msdn2.microsoft.com/en-us/library/ms611045)
+Type: [System.Windows.Controls.ItemsControl](http://msdn2.microsoft.com/en-us/library/ms611045)
 The object to adapt.
 
 See Also

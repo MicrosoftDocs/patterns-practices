@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736192(v=PandP.50)'
 
 Prism Class Library
 
-MefRegionNavigationContentLoader..::.GetCandidatesFromRegion Method
+MefRegionNavigationContentLoader.GetCandidatesFromRegion Method
 ===================================================================
 
 Returns the set of candidates that may satisfiy this navigation request.
@@ -21,11 +21,11 @@ Syntax
 #### Parameters
 
 region  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
+Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 The region containing items that may satisfy the navigation request.
 
 candidateNavigationContract  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The candidate navigation target.
 
 #### Return Value

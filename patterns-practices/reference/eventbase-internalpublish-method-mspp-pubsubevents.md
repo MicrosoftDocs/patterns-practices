@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736108(v=PandP.50)'
 
 Prism Class Library
 
-EventBase..::.InternalPublish Method
+EventBase.InternalPublish Method
 ====================================
 
 Calls all the execution strategies exposed by the list of [IEventSubscription](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription).
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 arguments  
-Type: array&lt;[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;[]()[]
+Type: array&lt;[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;
 The arguments that will be passed to the listeners.
 
 Remarks

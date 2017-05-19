@@ -21,15 +21,15 @@ Syntax
 #### Parameters
 
 moduleInitializer  
-Type: [Microsoft.Practices.Prism.Modularity..::.IModuleInitializer](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imoduleinitializer)
+Type: [Microsoft.Practices.Prism.Modularity.IModuleInitializer](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imoduleinitializer)
 Service used for initialization of modules.
 
 moduleCatalog  
-Type: [Microsoft.Practices.Prism.Modularity..::.IModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulecatalog)
+Type: [Microsoft.Practices.Prism.Modularity.IModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulecatalog)
 Catalog that enumerates the modules to be loaded and initialized.
 
 loggerFacade  
-Type: [Microsoft.Practices.Prism.Logging..::.ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade)
+Type: [Microsoft.Practices.Prism.Logging.ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade)
 Logger used during the load and initialization of modules.
 
 See Also

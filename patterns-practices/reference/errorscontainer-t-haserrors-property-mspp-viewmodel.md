@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431401(v=PandP.50)'
 
 Prism Class Library
 
-ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)..::.HasErrors Property
+ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).HasErrors Property
 ==============================================================
 
 Gets a value indicating whether the object has validation errors.

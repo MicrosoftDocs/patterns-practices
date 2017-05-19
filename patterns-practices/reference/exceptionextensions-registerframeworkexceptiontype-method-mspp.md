@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405792(v=PandP.50)'
 
 Prism Class Library
 
-ExceptionExtensions..::.RegisterFrameworkExceptionType Method
+ExceptionExtensions.RegisterFrameworkExceptionType Method
 =============================================================
 
 Register the type of an Exception that is thrown by the framework. The [GetRootException(Exception)](https://msdn.microsoft.com/m:microsoft.practices.prism.exceptionextensions.getrootexception(system.exception)) method uses this list of Exception types to find out if something has gone wrong.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 frameworkExceptionType  
-Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The type of exception to register.
 
 See Also

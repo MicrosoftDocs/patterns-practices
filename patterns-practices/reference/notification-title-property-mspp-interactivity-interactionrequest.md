@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431254(v=PandP.50)'
 
 Prism Class Library
 
-Notification..::.Title Property
+Notification.Title Property
 ===============================
 
 Gets or sets the title to use for the notification.
@@ -23,7 +23,7 @@ Syntax
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 #### Implements
 
-[INotification..::.Title](https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.interactionrequest.inotification.title)
+[INotification.Title](https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.interactionrequest.inotification.title)
 
 See Also
 --------

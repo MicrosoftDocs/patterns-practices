@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405974(v=PandP.50)'
 
 Prism Class Library
 
-IRegionViewRegistry..::.GetContents Method
+IRegionViewRegistry.GetContents Method
 ==========================================
 
 Returns the contents associated with a region name.
@@ -21,7 +21,7 @@ Syntax
 #### Parameters
 
 regionName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Region name for which contents are requested.
 
 #### Return Value

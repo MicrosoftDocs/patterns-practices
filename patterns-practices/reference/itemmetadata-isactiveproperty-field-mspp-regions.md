@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430965(v=PandP.50)'
 
 Prism Class Library
 
-ItemMetadata..::.IsActiveProperty Field
+ItemMetadata.IsActiveProperty Field
 =======================================
 
 Value indicating whether the wrapped item is considered active.
