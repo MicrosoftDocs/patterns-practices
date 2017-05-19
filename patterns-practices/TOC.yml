@@ -79,6 +79,7 @@
       href: guide/bibliography-for-the-developers-guide-to-prism-library-5.0-for-wpf.md
   - name: Reference
     href: reference/index.md
+    items:
     - name: AddModule Method (ModuleInfoGroup, String, Type, String)
       href: reference/addmodule-mthd-moduleinfogroup-str-type-str.md
     - name: AddModule Method (ModuleInfoGroup, Type, String)
