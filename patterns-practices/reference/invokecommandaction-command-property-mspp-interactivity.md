@@ -25,7 +25,7 @@ Type: [ICommand](http://msdn2.microsoft.com/en-us/library/ms616869)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [InvokeCommandAction Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.invokecommandaction)
 
 [InvokeCommandAction Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.invokecommandaction)

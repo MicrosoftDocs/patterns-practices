@@ -33,5 +33,5 @@ Members
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.logging)

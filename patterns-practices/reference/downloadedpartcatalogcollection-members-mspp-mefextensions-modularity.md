@@ -147,7 +147,7 @@ Tries to ge the catalog for the specified module info.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DownloadedPartCatalogCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection)
 
 [Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.modularity)

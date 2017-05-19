@@ -36,7 +36,7 @@ Remarks
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IConfirmNavigationRequest Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iconfirmnavigationrequest)
 
 [IConfirmNavigationRequest Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iconfirmnavigationrequest)

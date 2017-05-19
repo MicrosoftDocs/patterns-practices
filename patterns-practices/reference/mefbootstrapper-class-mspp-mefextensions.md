@@ -34,7 +34,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.mefbootstrapper)
 
 [Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)

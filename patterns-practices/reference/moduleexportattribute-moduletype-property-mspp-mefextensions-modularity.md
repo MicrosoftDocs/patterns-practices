@@ -35,7 +35,7 @@ Type: [Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleExportAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute(v=pandp.50))
 
 [ModuleExportAttribute Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute_members(v=pandp.50))

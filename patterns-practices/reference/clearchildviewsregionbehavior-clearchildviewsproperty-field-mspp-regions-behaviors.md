@@ -33,7 +33,7 @@ Type: [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior(v=pandp.50))
 
 [ClearChildViewsRegionBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior_members(v=pandp.50))

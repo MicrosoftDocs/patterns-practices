@@ -26,7 +26,7 @@ A new region manager that can be used as a different scope from the current regi
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionManager Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
 
 [IRegionManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionmanager)

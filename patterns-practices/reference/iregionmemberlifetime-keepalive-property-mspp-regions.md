@@ -25,7 +25,7 @@ Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionMemberLifetime Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmemberlifetime)
 
 [IRegionMemberLifetime Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionmemberlifetime)

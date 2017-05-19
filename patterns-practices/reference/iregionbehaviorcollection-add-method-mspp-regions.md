@@ -31,7 +31,7 @@ The [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.reg
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionBehaviorCollection Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorcollection)
 
 [IRegionBehaviorCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionbehaviorcollection)

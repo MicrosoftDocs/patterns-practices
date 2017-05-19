@@ -22,7 +22,7 @@ Syntax
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionManager Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanager)
 
 [RegionManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionmanager)

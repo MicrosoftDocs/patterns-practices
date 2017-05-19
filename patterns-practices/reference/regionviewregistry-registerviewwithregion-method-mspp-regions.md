@@ -48,7 +48,7 @@ Registers a content type with a region name.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionViewRegistry Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionviewregistry)
 
 [RegionViewRegistry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionviewregistry)

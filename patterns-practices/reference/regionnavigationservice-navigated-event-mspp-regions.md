@@ -28,7 +28,7 @@ Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&l
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionNavigationService Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationservice)
 
 [RegionNavigationService Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationservice)

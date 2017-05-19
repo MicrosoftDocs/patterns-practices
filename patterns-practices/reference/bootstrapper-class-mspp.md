@@ -35,7 +35,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [Bootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.bootstrapper)
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)

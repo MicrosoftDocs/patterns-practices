@@ -43,7 +43,7 @@ Gets the execution strategy to publish this event.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IEventSubscription Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)

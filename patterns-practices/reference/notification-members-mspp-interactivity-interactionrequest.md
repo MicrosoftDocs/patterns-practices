@@ -147,7 +147,7 @@ Gets or sets the title to use for the notification.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [Notification Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.notification)
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)

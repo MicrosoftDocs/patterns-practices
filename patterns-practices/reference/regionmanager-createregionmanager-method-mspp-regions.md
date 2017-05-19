@@ -29,7 +29,7 @@ A new region manager that can be used as a different scope from the current regi
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionManager Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanager)
 
 [RegionManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionmanager)

@@ -46,7 +46,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand%601)
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)

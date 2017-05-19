@@ -59,7 +59,7 @@ Public NotInheritable Class ViewModelLocationProvider
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [ViewModelLocationProvider Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.viewmodellocationprovider_members(v=pandp.50))
 
 [Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm(v=pandp.50))

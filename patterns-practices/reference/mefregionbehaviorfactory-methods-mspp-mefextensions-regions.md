@@ -116,7 +116,7 @@ Returns a string that represents the current object.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefRegionBehaviorFactory Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)

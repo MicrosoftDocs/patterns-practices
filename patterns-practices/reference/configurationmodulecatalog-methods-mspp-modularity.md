@@ -148,7 +148,7 @@ Makes sure all modules have an Unique name.
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [ConfigurationModuleCatalog Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.configurationmodulecatalog(v=pandp.50))
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))

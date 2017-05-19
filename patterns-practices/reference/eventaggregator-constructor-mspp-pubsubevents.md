@@ -22,7 +22,7 @@ Syntax
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [EventAggregator Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventaggregator)
 
 [EventAggregator Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.eventaggregator)

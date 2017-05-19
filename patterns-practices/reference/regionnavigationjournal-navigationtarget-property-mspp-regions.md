@@ -34,7 +34,7 @@ Remarks
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionNavigationJournal Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournal)
 
 [RegionNavigationJournal Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationjournal)

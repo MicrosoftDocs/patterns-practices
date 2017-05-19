@@ -26,7 +26,7 @@ Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [AutoPopulateRegionBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior)
 
 [AutoPopulateRegionBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior)

@@ -26,7 +26,7 @@ The navigation URI.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [NavigationContext Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)
 
 [NavigationContext Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationcontext)

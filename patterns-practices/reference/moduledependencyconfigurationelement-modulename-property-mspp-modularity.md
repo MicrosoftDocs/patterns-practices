@@ -26,7 +26,7 @@ The name of a module antoher module depends on.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleDependencyConfigurationElement Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyconfigurationelement)
 
 [ModuleDependencyConfigurationElement Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencyconfigurationelement)

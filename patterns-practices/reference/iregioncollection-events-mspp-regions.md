@@ -44,7 +44,7 @@ Occurs when the collection changes.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionCollection Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregioncollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

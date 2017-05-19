@@ -34,7 +34,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefRegionNavigationJournal Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)

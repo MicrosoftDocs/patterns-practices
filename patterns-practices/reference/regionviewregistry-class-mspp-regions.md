@@ -39,7 +39,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionViewRegistry Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionviewregistry_members(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))

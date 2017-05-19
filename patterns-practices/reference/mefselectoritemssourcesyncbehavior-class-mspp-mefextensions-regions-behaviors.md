@@ -35,7 +35,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefSelectorItemsSourceSyncBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.behaviors.mefselectoritemssourcesyncbehavior)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions.behaviors)

@@ -48,7 +48,7 @@ The view model factory.
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [ViewModelLocationProvider Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.viewmodellocationprovider(v=pandp.50))
 
 [ViewModelLocationProvider Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.viewmodellocationprovider_members(v=pandp.50))

@@ -25,7 +25,7 @@ Type: [NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.pr
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionNavigationJournalEntry Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationjournalentry)
 
 [IRegionNavigationJournalEntry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionnavigationjournalentry)

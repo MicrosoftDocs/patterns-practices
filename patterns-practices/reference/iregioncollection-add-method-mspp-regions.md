@@ -27,7 +27,7 @@ Region to be added to the collection.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionCollection Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregioncollection)
 
 [IRegionCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregioncollection)

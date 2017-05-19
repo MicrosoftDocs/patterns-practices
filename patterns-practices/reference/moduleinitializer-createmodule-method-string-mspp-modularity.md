@@ -32,7 +32,7 @@ A new instance of typeName.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInitializer Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinitializer)
 
 [ModuleInitializer Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinitializer)

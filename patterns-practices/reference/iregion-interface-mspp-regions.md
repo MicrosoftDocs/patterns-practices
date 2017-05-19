@@ -22,7 +22,7 @@ Syntax
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegion Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregion)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

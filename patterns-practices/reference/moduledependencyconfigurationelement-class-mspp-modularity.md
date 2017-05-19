@@ -36,7 +36,7 @@ Public Class ModuleDependencyConfigurationElement
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleDependencyConfigurationElement Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement_members(v=pandp.50))
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))

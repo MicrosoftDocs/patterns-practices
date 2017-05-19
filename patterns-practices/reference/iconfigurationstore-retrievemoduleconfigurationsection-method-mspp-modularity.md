@@ -26,7 +26,7 @@ A [ModulesConfigurationSection](https://msdn.microsoft.com/t:microsoft.practices
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IConfigurationStore Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.iconfigurationstore)
 
 [IConfigurationStore Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.iconfigurationstore)

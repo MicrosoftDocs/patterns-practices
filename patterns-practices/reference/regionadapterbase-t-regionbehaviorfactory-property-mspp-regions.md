@@ -25,7 +25,7 @@ Type: [IRegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.practices.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionadapterbase%601)
 
 [RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionadapterbase%601)

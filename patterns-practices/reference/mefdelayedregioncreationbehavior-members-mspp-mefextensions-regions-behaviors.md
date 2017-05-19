@@ -181,7 +181,7 @@ The element that will host the Region.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefDelayedRegionCreationBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions.behaviors)

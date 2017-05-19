@@ -52,7 +52,7 @@ Behavior's attached region.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions.behaviors)

@@ -26,7 +26,7 @@ The name of the module.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleAttribute Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleattribute)
 
 [ModuleAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleattribute)

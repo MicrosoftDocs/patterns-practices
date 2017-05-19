@@ -147,7 +147,7 @@ Gets the context for a requested interaction.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [InteractionRequestedEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)

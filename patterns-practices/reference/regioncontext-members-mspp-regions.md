@@ -43,7 +43,7 @@ Returns an <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.obser
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionContext Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regioncontext)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

@@ -27,7 +27,7 @@ The factory used to create the region behaviors to attach to the created regions
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefSelectorRegionAdapter Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefselectorregionadapter)
 
 [MefSelectorRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefselectorregionadapter)

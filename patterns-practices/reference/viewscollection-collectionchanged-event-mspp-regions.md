@@ -28,7 +28,7 @@ Type: [System.Collections.Specialized.NotifyCollectionChangedEventHandler](http:
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ViewsCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewscollection)
 
 [ViewsCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewscollection)

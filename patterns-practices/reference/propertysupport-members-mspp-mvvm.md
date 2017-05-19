@@ -43,7 +43,7 @@ Extracts the property name from a property expression.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [PropertySupport Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.propertysupport)
 
 [Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mvvm)

@@ -29,7 +29,7 @@ A [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309) that the
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [SyncRegionContextWithHostBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior)
 
 [SyncRegionContextWithHostBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior)

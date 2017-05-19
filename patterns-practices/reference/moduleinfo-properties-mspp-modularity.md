@@ -82,7 +82,7 @@ Gets or sets the state of the <a href="https://msdn.microsoft.com/t:microsoft.pr
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInfo Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

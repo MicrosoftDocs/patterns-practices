@@ -51,7 +51,7 @@ The error message that explains the reason for the exception.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModularityException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception(v=pandp.50))
 
 [ModularityException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception_members(v=pandp.50))

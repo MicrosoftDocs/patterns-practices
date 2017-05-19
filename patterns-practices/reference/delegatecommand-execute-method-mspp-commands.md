@@ -25,7 +25,7 @@ Type: [Task](http://msdn2.microsoft.com/en-us/library/dd235678)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateCommand Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand)
 
 [DelegateCommand Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand)

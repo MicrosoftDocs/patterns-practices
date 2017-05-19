@@ -426,7 +426,7 @@ Verifies that the <a href="http://msdn2.microsoft.com/en-us/library/ms602734">Fr
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [PopupWindowAction Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.popupwindowaction)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)

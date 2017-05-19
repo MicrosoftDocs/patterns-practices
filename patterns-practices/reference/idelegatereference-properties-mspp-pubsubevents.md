@@ -43,7 +43,7 @@ Gets the referenced <a href="http://msdn2.microsoft.com/en-us/library/y22acf51">
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IDelegateReference Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.idelegatereference)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)

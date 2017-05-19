@@ -25,7 +25,7 @@ Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IActiveAware Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.iactiveaware)
 
 [IActiveAware Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.iactiveaware)

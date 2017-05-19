@@ -31,7 +31,7 @@ Type: [Window](http://msdn2.microsoft.com/en-us/library/ms590112)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [PopupWindowAction Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.popupwindowaction)
 
 [PopupWindowAction Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.popupwindowaction)

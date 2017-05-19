@@ -25,7 +25,7 @@ Type: [T](https://msdn.microsoft.com/t:microsoft.practices.prism.observableobjec
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.observableobject%601)
 
 [ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.observableobject%601)

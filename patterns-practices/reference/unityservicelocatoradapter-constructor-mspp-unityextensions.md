@@ -27,7 +27,7 @@ The IUnityContainer that will be used by the [DoGetInstance(Type, String)](https
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [UnityServiceLocatorAdapter Class](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
 
 [UnityServiceLocatorAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unityservicelocatoradapter)

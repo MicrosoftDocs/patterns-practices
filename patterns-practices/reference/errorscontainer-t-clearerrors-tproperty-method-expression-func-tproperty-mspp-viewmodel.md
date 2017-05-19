@@ -82,7 +82,7 @@ container.ClearErrors(()=&gt;SomeProperty);
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [ErrorsContainer(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))
 
 [ErrorsContainer(Of T) Members](https://msdn.microsoft.com/en-us/library/gg405531(v=pandp.50))

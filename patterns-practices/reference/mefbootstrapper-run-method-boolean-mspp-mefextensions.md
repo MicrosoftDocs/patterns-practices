@@ -27,7 +27,7 @@ If trueTruetruetrue (True in Visual Basic), registers default Prism Library serv
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefBootstrapper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.mefbootstrapper)
 
 [MefBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.mefbootstrapper)

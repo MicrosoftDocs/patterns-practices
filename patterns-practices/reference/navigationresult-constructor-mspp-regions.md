@@ -28,7 +28,7 @@ Initializes a new instance of the [NavigationResult](https://msdn.microsoft.com/
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [NavigationResult Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationresult)
 
 [NavigationResult Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationresult)

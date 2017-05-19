@@ -36,7 +36,7 @@ Sequence of service instance objects.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefServiceLocatorAdapter Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.mefservicelocatoradapter)
 
 [MefServiceLocatorAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.mefservicelocatoradapter)

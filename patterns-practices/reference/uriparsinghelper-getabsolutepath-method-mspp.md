@@ -31,7 +31,7 @@ Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [UriParsingHelper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.uriparsinghelper)
 
 [UriParsingHelper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.uriparsinghelper)

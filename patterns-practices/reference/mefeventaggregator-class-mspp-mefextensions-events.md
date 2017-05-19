@@ -34,7 +34,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefEventAggregator Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.events.mefeventaggregator)
 
 [Microsoft.Practices.Prism.MefExtensions.Events Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.events)

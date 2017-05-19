@@ -43,7 +43,7 @@ Gets a value indicating whether this instance should be kept-alive upon deactiva
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionMemberLifetime Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmemberlifetime)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

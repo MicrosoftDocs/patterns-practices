@@ -64,7 +64,7 @@ Gets the type of the module.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IModuleExport Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.imoduleexport)
 
 [Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.modularity)

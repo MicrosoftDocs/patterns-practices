@@ -26,7 +26,7 @@ The journal.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionNavigationService Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice(v=pandp.50))
 
 [IRegionNavigationService Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice_members(v=pandp.50))

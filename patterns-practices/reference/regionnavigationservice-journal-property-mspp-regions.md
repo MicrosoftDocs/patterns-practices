@@ -38,7 +38,7 @@ Type: [IRegionNavigationJournal](https://msdn.microsoft.com/en-us/library/micros
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [RegionNavigationService Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice(v=pandp.50))
 
 [RegionNavigationService Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice_members(v=pandp.50))

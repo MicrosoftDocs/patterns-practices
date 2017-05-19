@@ -22,7 +22,7 @@ Syntax
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 
 [ModuleConfigurationElementCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)

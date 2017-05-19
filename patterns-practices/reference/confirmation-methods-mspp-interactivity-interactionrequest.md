@@ -53,7 +53,7 @@ Returns a string that represents the current object.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [Confirmation Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation(v=pandp.50))
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))

@@ -58,7 +58,7 @@ Returns a string that represents the current object.
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [BackgroundEventSubscription&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/dn683933(v=pandp.50))
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))

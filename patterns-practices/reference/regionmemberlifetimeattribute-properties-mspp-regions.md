@@ -51,7 +51,7 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionMemberLifetimeAttribute Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmemberlifetimeattribute)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

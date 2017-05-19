@@ -25,7 +25,7 @@ Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DirectoryModuleCatalog Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.directorymodulecatalog)
 
 [DirectoryModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.directorymodulecatalog)

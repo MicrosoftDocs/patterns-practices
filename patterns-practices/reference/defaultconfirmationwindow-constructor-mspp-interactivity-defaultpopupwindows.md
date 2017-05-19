@@ -27,7 +27,7 @@ Public Sub New
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [DefaultConfirmationWindow Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow(v=pandp.50))
 
 [DefaultConfirmationWindow Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow_members(v=pandp.50))

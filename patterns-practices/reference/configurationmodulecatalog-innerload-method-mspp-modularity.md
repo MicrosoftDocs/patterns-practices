@@ -22,7 +22,7 @@ Syntax
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ConfigurationModuleCatalog Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.configurationmodulecatalog)
 
 [ConfigurationModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.configurationmodulecatalog)

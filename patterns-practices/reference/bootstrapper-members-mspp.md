@@ -238,7 +238,7 @@ Gets the shell user interface
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [Bootstrapper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.bootstrapper)
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)

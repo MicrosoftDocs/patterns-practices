@@ -71,7 +71,7 @@ The region that this behavior is extending.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionBehavior Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

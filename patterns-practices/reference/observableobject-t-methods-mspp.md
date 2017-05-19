@@ -1636,7 +1636,7 @@ Enforces that the calling thread has access to this <a href="http://msdn2.micros
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.observableobject%601)
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)

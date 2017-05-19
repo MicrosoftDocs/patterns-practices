@@ -48,7 +48,7 @@ Adds a new module that is statically referenced to the specified module info gro
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInfoGroupExtensions Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroupextensions)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

@@ -23,7 +23,7 @@ Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
 
 [ClearChildViewsRegionBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)

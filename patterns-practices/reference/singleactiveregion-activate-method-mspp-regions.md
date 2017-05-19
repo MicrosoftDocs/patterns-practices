@@ -36,7 +36,7 @@ Remarks
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [SingleActiveRegion Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.singleactiveregion)
 
 [SingleActiveRegion Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.singleactiveregion)

@@ -45,7 +45,7 @@ true if item was successfully removed from the [ModuleInfoGroup](https://msdn.mi
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInfoGroup Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50))
 
 [ModuleInfoGroup Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup_members(v=pandp.50))

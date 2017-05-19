@@ -22,7 +22,7 @@ Syntax
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DirectoryModuleCatalog Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.directorymodulecatalog)
 
 [DirectoryModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.directorymodulecatalog)

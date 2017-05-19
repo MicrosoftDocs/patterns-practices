@@ -27,7 +27,7 @@ Public Sub New
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [DirectoryModuleCatalog Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.directorymodulecatalog(v=pandp.50))
 
 [DirectoryModuleCatalog Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.directorymodulecatalog_members(v=pandp.50))

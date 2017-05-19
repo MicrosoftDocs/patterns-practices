@@ -173,7 +173,7 @@ Occurs whenever a new view is registered.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefRegionViewRegistry Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionviewregistry)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)

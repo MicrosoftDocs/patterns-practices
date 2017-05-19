@@ -88,7 +88,7 @@ Occurs when the collection changes.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IViewsCollection Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iviewscollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

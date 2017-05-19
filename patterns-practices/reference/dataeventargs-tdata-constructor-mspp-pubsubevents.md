@@ -27,7 +27,7 @@ Information related to the event.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.dataeventargs%601)
 
 [DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.dataeventargs%601)

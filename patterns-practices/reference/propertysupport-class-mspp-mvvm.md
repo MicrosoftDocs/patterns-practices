@@ -28,7 +28,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [PropertySupport Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mvvm.propertysupport)
 
 [Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mvvm)

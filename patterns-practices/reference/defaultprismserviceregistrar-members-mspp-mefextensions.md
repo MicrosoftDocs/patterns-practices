@@ -43,7 +43,7 @@ Registers the required Prism types that are not already registered in the <a hre
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DefaultPrismServiceRegistrar Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.defaultprismserviceregistrar)
 
 [Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)

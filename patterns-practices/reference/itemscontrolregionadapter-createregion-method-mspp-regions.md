@@ -26,7 +26,7 @@ A new instance of [AllActiveRegion](https://msdn.microsoft.com/t:microsoft.pract
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ItemsControlRegionAdapter Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemscontrolregionadapter)
 
 [ItemsControlRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.itemscontrolregionadapter)

@@ -30,7 +30,7 @@ Public Interface IModuleTypeLoader
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IModuleTypeLoader Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader_members(v=pandp.50))
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))

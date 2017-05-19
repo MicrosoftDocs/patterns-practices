@@ -162,7 +162,7 @@ This method allows an IRegionManager to locate a specified region and navigate i
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionManager Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

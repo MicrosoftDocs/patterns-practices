@@ -76,7 +76,7 @@ Initializes the exception with a particular module, error message and inner exce
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModularityException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modularityexception)
 
 [ModularityException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modularityexception)

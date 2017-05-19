@@ -50,7 +50,7 @@ Initializes the modules marked as <a href="https://msdn.microsoft.com/t:microsof
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IModuleManager Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulemanager)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

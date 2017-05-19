@@ -53,7 +53,7 @@ Returns a string that represents the current object.
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [MefEventAggregator Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator(v=pandp.50))
 
 [Microsoft.Practices.Prism.MefExtensions.Events Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.events(v=pandp.50))

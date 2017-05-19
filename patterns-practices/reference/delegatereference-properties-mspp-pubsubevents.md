@@ -26,7 +26,7 @@ Gets the [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51) (the targ
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateReference Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.delegatereference(v=pandp.50))
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))

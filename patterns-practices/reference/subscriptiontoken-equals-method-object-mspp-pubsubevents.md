@@ -40,7 +40,7 @@ Exceptions
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [SubscriptionToken Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken)
 
 [SubscriptionToken Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.subscriptiontoken)

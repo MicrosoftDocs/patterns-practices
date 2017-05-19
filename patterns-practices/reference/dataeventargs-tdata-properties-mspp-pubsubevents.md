@@ -43,7 +43,7 @@ Gets the information related to the event.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.dataeventargs%601)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)

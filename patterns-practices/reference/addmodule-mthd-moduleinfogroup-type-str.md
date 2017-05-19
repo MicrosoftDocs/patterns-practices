@@ -48,7 +48,7 @@ Remarks
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInfoGroupExtensions Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroupextensions)
 
 [ModuleInfoGroupExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroupextensions)

@@ -27,7 +27,7 @@ Name of the module requested for initialization.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IModuleManager Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulemanager)
 
 [IModuleManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.imodulemanager)

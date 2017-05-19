@@ -58,7 +58,7 @@ Returns a string that represents the current object.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefBindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefbindregioncontexttodependencyobjectbehavior(v=pandp.50))
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors(v=pandp.50))

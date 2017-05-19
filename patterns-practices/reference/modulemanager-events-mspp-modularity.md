@@ -49,7 +49,7 @@ Raised repeatedly to provide progress as modules are loaded in the background.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager(v=pandp.50))
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))

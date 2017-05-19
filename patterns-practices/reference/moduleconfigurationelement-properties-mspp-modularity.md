@@ -175,7 +175,7 @@ Gets or sets a value indicating whether the module should be loaded at startup.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleConfigurationElement Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

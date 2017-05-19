@@ -57,7 +57,7 @@ Parses the query of uri into a dictionary.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [UriParsingHelper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.uriparsinghelper)
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)

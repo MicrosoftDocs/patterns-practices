@@ -28,7 +28,7 @@ Type: [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.i
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionActiveAwareBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
 
 [RegionActiveAwareBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)

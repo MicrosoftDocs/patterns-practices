@@ -43,7 +43,7 @@ The CompositePresentationEvent collection is thread-safe.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.events.compositepresentationevent%601)
 
 [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.events.compositepresentationevent%601)

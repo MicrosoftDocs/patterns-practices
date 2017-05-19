@@ -50,7 +50,7 @@ true if item is found in the [ModuleInfoGroup](https://msdn.microsoft.com/en-us/
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInfoGroup Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50))
 
 [ModuleInfoGroup Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup_members(v=pandp.50))

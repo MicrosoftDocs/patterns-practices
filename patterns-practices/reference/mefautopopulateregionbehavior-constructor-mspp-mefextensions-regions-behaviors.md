@@ -27,7 +27,7 @@ Type: [Microsoft.Practices.Prism.Regions.IRegionViewRegistry](https://msdn.micro
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefAutoPopulateRegionBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior)
 
 [MefAutoPopulateRegionBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior)

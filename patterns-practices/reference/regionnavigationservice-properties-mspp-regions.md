@@ -50,7 +50,7 @@ Gets or sets the region.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionNavigationService Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationservice)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

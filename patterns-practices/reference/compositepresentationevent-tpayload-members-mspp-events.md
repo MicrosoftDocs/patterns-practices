@@ -197,7 +197,7 @@ Properties
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.events.compositepresentationevent%601)
 
 [Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.events)

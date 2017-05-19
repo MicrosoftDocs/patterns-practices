@@ -41,7 +41,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionNavigationJournal Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournal_members(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))

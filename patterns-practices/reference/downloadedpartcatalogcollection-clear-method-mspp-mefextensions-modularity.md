@@ -27,7 +27,7 @@ Public Sub Clear
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [DownloadedPartCatalogCollection Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection(v=pandp.50))
 
 [DownloadedPartCatalogCollection Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection_members(v=pandp.50))

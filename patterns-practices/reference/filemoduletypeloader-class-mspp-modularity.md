@@ -38,7 +38,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [FileModuleTypeLoader Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader_members(v=pandp.50))
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))

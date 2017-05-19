@@ -33,7 +33,7 @@ Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)(O
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [IInteractionRequest Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest(v=pandp.50))
 
 [IInteractionRequest Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest_members(v=pandp.50))

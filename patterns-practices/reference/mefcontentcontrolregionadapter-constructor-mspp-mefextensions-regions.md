@@ -27,7 +27,7 @@ The region behavior factory.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefContentControlRegionAdapter Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefcontentcontrolregionadapter)
 
 [MefContentControlRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefcontentcontrolregionadapter)

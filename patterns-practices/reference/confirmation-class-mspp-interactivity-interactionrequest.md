@@ -29,7 +29,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [Confirmation Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.confirmation)
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)

@@ -73,7 +73,7 @@ Returns an enumerator that iterates through a collection.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionBehaviorFactory Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorfactory)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

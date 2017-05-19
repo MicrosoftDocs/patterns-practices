@@ -29,7 +29,7 @@ Public Sub New
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionMemberLifetimeAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute(v=pandp.50))
 
 [RegionMemberLifetimeAttribute Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute_members(v=pandp.50))

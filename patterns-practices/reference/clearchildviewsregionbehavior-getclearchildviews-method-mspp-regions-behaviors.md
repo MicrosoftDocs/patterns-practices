@@ -32,7 +32,7 @@ The value of the ClearChildViews attached property in the target specified.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
 
 [ClearChildViewsRegionBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)

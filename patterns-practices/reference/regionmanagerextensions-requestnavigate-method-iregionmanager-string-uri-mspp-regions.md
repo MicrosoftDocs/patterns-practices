@@ -57,7 +57,7 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [RegionManagerExtensions Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanagerextensions(v=pandp.50))
 
 [RegionManagerExtensions Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanagerextensions_members(v=pandp.50))

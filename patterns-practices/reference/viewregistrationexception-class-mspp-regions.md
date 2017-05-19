@@ -31,7 +31,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ViewRegistrationException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewregistrationexception)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

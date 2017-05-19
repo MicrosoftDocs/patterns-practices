@@ -26,7 +26,7 @@ The list of modules that this module depends upon.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInfo Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 
 [ModuleInfo Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfo)

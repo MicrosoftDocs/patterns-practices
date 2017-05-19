@@ -33,7 +33,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [NotificationObject Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.viewmodel.notificationobject)
 
 [Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.viewmodel)

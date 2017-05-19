@@ -47,7 +47,7 @@ The [StreamingContext](http://msdn2.microsoft.com/en-us/library/t16abws5) that c
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInitializeException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception(v=pandp.50))
 
 [ModuleInitializeException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception_members(v=pandp.50))

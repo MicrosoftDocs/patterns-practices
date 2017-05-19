@@ -38,7 +38,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ServiceLocatorExtensions Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.servicelocatorextensions_members(v=pandp.50))
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))

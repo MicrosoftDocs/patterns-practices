@@ -39,7 +39,7 @@ Public Class SyncRegionContextWithHostBehavior
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [SyncRegionContextWithHostBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior_members(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))

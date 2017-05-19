@@ -26,7 +26,7 @@ A [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51) instance if the 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IDelegateReference Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.idelegatereference)
 
 [IDelegateReference Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.idelegatereference)

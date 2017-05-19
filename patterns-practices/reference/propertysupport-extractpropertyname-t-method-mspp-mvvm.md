@@ -65,7 +65,7 @@ Or, the property is static.</td>
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [PropertySupport Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.propertysupport)
 
 [PropertySupport Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mvvm.propertysupport)

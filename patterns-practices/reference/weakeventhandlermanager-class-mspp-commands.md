@@ -28,7 +28,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [WeakEventHandlerManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.weakeventhandlermanager)
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)

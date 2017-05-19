@@ -50,7 +50,7 @@ The <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.interactivit
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IInteractionRequestAware Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware)
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)

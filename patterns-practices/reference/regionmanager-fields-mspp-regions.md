@@ -34,7 +34,7 @@ Identifies the RegionName attached property.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionManager Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanager)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

@@ -70,7 +70,7 @@ Returns a string that represents the current object.
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [MefModuleInitializer Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer(v=pandp.50))
 
 [Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))

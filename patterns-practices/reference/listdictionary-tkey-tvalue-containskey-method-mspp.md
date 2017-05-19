@@ -46,7 +46,7 @@ true if the dictionary contains the given key; otherwise, false.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ListDictionary&lt;TKey, TValue&gt; Class](https://msdn.microsoft.com/en-us/library/gg431434(v=pandp.50))
 
 [ListDictionary&lt;TKey, TValue&gt; Members](https://msdn.microsoft.com/en-us/library/gg430787(v=pandp.50))

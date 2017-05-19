@@ -48,7 +48,7 @@ The exception that is the cause of the current exception, or a null reference (N
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [UpdateRegionsException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception(v=pandp.50))
 
 [UpdateRegionsException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception_members(v=pandp.50))

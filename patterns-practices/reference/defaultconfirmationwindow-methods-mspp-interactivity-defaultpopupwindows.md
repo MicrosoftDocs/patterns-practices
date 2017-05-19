@@ -1835,7 +1835,7 @@ Enforces that the calling thread has access to this <a href="http://msdn2.micros
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DefaultConfirmationWindow Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
 
 [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.defaultpopupwindows)

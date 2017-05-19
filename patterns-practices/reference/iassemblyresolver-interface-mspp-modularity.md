@@ -22,7 +22,7 @@ Syntax
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IAssemblyResolver Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.iassemblyresolver)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

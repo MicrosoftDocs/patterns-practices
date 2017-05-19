@@ -36,7 +36,7 @@ The new instance of [IRegion](https://msdn.microsoft.com/t:microsoft.practices.p
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionAdapter Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter)
 
 [IRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionadapter)

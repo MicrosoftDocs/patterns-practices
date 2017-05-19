@@ -22,7 +22,7 @@ Syntax
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [Bootstrapper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.bootstrapper)
 
 [Bootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.bootstrapper)

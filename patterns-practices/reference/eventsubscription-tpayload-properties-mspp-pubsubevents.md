@@ -57,7 +57,7 @@ Gets or sets a <a href="https://msdn.microsoft.com/p:microsoft.practices.prism.p
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventsubscription%601)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)

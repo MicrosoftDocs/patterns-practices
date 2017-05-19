@@ -28,7 +28,7 @@ Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateCommandBase Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommandbase)
 
 [DelegateCommandBase Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommandbase)

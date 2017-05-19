@@ -96,7 +96,7 @@ Returns a string that represents the current object.
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateCommand&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50))
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))

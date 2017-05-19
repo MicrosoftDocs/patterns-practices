@@ -36,7 +36,7 @@ Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionManagerAccessor Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor(v=pandp.50))
 
 [IRegionManagerAccessor Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor_members(v=pandp.50))

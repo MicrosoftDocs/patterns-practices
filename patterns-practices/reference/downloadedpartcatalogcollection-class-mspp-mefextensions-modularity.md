@@ -28,7 +28,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DownloadedPartCatalogCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection)
 
 [Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.modularity)

@@ -43,7 +43,7 @@ Initializes the specified module.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IModuleInitializer Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imoduleinitializer)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

@@ -43,7 +43,7 @@ Load an assembly when it's required by the application.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IAssemblyResolver Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.iassemblyresolver)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

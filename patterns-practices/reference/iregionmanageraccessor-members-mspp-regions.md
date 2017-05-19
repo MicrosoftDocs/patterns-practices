@@ -78,7 +78,7 @@ Notification used by attached behaviors to update the region managers appropriat
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionManagerAccessor Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanageraccessor)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

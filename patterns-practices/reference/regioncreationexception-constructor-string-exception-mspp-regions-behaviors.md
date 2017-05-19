@@ -31,7 +31,7 @@ The exception that is the cause of the current exception, or a null reference (N
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionCreationException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.regioncreationexception)
 
 [RegionCreationException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regioncreationexception)

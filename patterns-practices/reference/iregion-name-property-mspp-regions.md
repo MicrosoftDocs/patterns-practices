@@ -36,7 +36,7 @@ The name of the region.
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [IRegion Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50))
 
 [IRegion Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion_members(v=pandp.50))

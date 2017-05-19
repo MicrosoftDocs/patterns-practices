@@ -27,7 +27,7 @@ The type of exception to register.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ExceptionExtensions Class](https://msdn.microsoft.com/t:microsoft.practices.prism.exceptionextensions)
 
 [ExceptionExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.exceptionextensions)

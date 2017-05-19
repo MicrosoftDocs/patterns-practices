@@ -49,7 +49,7 @@ Determines if the command can execute with the provided parameter by invoking th
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601)
 
 [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand%601)

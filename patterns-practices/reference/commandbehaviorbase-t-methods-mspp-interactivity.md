@@ -98,7 +98,7 @@ Updates the target object's IsEnabled property based on the commands ability to 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.commandbehaviorbase%601)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)

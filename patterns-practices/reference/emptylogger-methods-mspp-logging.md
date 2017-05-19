@@ -57,7 +57,7 @@ Returns a string that represents the current object.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [EmptyLogger Class](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.emptylogger)
 
 [Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.logging)

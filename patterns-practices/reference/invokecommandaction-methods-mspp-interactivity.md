@@ -261,7 +261,7 @@ Verifies that the [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [InvokeCommandAction Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50))
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))

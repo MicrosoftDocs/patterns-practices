@@ -22,7 +22,7 @@ Syntax
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IModule Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule)
 
 [IModule Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.imodule)

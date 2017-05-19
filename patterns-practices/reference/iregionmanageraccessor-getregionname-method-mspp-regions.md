@@ -32,7 +32,7 @@ The name of the region that should be created when the RegionManager is also set
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionManagerAccessor Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanageraccessor)
 
 [IRegionManagerAccessor Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionmanageraccessor)

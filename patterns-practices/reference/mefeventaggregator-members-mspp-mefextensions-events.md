@@ -117,7 +117,7 @@ Returns a string that represents the current object.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefEventAggregator Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.events.mefeventaggregator)
 
 [Microsoft.Practices.Prism.MefExtensions.Events Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.events)

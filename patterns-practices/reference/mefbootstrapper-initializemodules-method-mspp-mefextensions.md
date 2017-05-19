@@ -27,7 +27,7 @@ Protected Overrides Sub InitializeModules
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [MefBootstrapper Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper(v=pandp.50))
 
 [MefBootstrapper Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper_members(v=pandp.50))

@@ -33,7 +33,7 @@ An instance of an event object of type TEventType.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IEventAggregator Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventaggregator)
 
 [IEventAggregator Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.ieventaggregator)

@@ -50,7 +50,7 @@ Creates a new <a href="http://msdn2.microsoft.com/en-us/library/kyx77cz3">Config
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 
 [ModuleConfigurationElementCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)

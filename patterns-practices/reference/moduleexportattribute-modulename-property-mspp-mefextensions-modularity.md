@@ -28,7 +28,7 @@ Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleExportAttribute Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.moduleexportattribute)
 
 [ModuleExportAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.moduleexportattribute)

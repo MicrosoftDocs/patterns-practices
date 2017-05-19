@@ -107,7 +107,7 @@ Gets the method that throws the current exception.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModularityException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modularityexception)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

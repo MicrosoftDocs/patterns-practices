@@ -31,7 +31,7 @@ The object to adapt.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ItemsControlRegionAdapter Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemscontrolregionadapter)
 
 [ItemsControlRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.itemscontrolregionadapter)

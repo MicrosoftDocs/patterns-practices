@@ -22,7 +22,7 @@ Syntax
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehavior)
 
 [RegionBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehavior)

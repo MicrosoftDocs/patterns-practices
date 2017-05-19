@@ -22,7 +22,7 @@ Syntax
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [InteractionRequestTrigger Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger)
 
 [InteractionRequestTrigger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger)

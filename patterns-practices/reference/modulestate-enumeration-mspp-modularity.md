@@ -34,5 +34,5 @@ Members
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

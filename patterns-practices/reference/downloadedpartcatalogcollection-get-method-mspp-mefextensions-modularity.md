@@ -31,7 +31,7 @@ Type: [ComposablePartCatalog](http://msdn2.microsoft.com/en-us/library/dd454614)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DownloadedPartCatalogCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection)
 
 [DownloadedPartCatalogCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection)

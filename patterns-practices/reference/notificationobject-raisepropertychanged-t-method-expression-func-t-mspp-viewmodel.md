@@ -34,7 +34,7 @@ The type of the property that has a new value
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [NotificationObject Class](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.notificationobject)
 
 [NotificationObject Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.viewmodel.notificationobject)

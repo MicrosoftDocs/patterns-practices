@@ -23,7 +23,7 @@ Attached Properties
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)

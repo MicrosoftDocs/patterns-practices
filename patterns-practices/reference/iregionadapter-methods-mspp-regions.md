@@ -43,7 +43,7 @@ Adapts an object and binds it to a new <a href="https://msdn.microsoft.com/t:mic
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionAdapter Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

@@ -42,7 +42,7 @@ Remarks
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionNavigationJournal Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal(v=pandp.50))
 
 [IRegionNavigationJournal Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal_members(v=pandp.50))

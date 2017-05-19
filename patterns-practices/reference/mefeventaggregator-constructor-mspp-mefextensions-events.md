@@ -22,7 +22,7 @@ Syntax
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefEventAggregator Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.events.mefeventaggregator)
 
 [MefEventAggregator Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.events.mefeventaggregator)

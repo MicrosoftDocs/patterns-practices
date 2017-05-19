@@ -22,7 +22,7 @@ Syntax
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [TextLogger Class](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.textlogger)
 
 [TextLogger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.logging.textlogger)

@@ -28,7 +28,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DefaultDispatcher Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.events.defaultdispatcher)
 
 [Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.events)

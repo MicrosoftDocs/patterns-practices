@@ -48,7 +48,7 @@ A SubscriptionToken that uniquely identifies the added subscription.
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [CompositePresentationEvent&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))
 
 [CompositePresentationEvent&lt;TPayload&gt; Members](https://msdn.microsoft.com/en-us/library/gg430765(v=pandp.50))
@@ -99,7 +99,7 @@ A SubscriptionToken that uniquely identifies the added subscription.
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [CompositePresentationEvent(Of TPayload) Class](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))
 
 [CompositePresentationEvent(Of TPayload) Members](https://msdn.microsoft.com/en-us/library/gg430765(v=pandp.50))

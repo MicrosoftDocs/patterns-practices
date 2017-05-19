@@ -39,7 +39,7 @@ Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)[]
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleExportAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute(v=pandp.50))
 
 [ModuleExportAttribute Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute_members(v=pandp.50))

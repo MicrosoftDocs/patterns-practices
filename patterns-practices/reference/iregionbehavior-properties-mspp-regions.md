@@ -26,7 +26,7 @@ The region that this behavior is extending.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionBehavior Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))

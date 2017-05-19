@@ -25,7 +25,7 @@ Type: [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ItemMetadata Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemmetadata)
 
 [ItemMetadata Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.itemmetadata)

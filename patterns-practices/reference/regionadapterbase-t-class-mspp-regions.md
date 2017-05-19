@@ -86,7 +86,7 @@ https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.items
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [RegionAdapterBase(Of T) Members](https://msdn.microsoft.com/en-us/library/gg405501(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))

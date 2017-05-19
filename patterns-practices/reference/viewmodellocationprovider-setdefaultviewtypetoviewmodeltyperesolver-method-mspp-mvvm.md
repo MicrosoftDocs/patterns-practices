@@ -27,7 +27,7 @@ The view type to view model type resolver.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ViewModelLocationProvider Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.viewmodellocationprovider)
 
 [ViewModelLocationProvider Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mvvm.viewmodellocationprovider)

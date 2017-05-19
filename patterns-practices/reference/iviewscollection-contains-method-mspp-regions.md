@@ -32,7 +32,7 @@ trueTruetruetrue (True in Visual Basic) if value is found in the collection; oth
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IViewsCollection Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iviewscollection)
 
 [IViewsCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iviewscollection)

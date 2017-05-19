@@ -31,7 +31,7 @@ Type: [NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.pr
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [UriParsingHelper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.uriparsinghelper)
 
 [UriParsingHelper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.uriparsinghelper)

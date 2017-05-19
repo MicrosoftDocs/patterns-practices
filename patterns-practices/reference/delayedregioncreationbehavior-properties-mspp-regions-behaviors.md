@@ -50,7 +50,7 @@ The element that will host the Region.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)

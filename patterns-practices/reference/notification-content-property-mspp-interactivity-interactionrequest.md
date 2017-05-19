@@ -28,7 +28,7 @@ Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [Notification Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.notification)
 
 [Notification Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.notification)

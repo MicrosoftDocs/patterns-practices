@@ -52,7 +52,7 @@ Exceptions
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ServiceLocatorExtensions Class](https://msdn.microsoft.com/t:microsoft.practices.prism.servicelocatorextensions)
 
 [ServiceLocatorExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.servicelocatorextensions)

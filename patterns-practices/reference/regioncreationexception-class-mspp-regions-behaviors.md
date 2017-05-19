@@ -29,7 +29,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionCreationException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regioncreationexception)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)

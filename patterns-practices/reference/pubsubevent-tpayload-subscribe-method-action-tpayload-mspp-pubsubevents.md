@@ -42,7 +42,7 @@ A [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practic
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [PubSubEvent&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50))
 
 PubSubEvent&lt;TPayload&gt; Members
@@ -87,7 +87,7 @@ A [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practic
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [PubSubEvent(Of TPayload) Class](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50))
 
 PubSubEvent(Of TPayload) Members

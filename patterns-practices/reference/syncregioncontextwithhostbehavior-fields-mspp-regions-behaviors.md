@@ -43,7 +43,7 @@ Name that identifies the SyncRegionContextWithHostBehavior behavior in a collect
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [SyncRegionContextWithHostBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)

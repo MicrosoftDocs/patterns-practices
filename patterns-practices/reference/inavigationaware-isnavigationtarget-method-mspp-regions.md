@@ -60,7 +60,7 @@ Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [INavigationAware Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigationaware(v=pandp.50))
 
 [INavigationAware Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigationaware_members(v=pandp.50))

@@ -25,7 +25,7 @@ Gets or sets a value indicating whether the object is active.
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateCommand Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand(v=pandp.50))
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))

@@ -27,7 +27,7 @@ The message that describes the error.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionCreationException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.regioncreationexception)
 
 [RegionCreationException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regioncreationexception)

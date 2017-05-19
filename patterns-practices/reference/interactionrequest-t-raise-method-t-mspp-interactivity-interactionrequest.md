@@ -69,7 +69,7 @@ The context for the interaction request.
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [InteractionRequest(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50))
 
 [InteractionRequest(Of T) Members](https://msdn.microsoft.com/en-us/library/gg430785(v=pandp.50))

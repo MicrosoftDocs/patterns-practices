@@ -31,7 +31,7 @@ Contains contextual information about the source or destination.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DuplicateModuleException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.duplicatemoduleexception)
 
 [DuplicateModuleException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.duplicatemoduleexception)

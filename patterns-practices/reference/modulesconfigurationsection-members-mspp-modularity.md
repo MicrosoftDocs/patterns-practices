@@ -460,7 +460,7 @@ Gets a <a href="http://msdn2.microsoft.com/en-us/library/ms134738">SectionInform
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModulesConfigurationSection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulesconfigurationsection)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

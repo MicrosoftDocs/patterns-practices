@@ -43,7 +43,7 @@ Gets the content to which the navigation request represented by navigationContex
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionNavigationContentLoader Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationcontentloader)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

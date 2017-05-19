@@ -32,7 +32,7 @@ The [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modul
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IModuleCatalog Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulecatalog)
 
 [IModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.imodulecatalog)

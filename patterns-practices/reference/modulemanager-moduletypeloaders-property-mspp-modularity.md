@@ -26,7 +26,7 @@ The module type loaders.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleManager Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulemanager)
 
 [ModuleManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulemanager)

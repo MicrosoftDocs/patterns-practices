@@ -36,7 +36,7 @@ An enumerable of candidate objects from the [IRegion](https://msdn.microsoft.com
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [UnityRegionNavigationContentLoader Class](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader)
 
 [UnityRegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader)

@@ -48,7 +48,7 @@ Attempts to resolve specified type from the underlying IServiceLocator.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ServiceLocatorExtensions Class](https://msdn.microsoft.com/t:microsoft.practices.prism.servicelocatorextensions)
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)

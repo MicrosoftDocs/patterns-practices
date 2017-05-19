@@ -31,7 +31,7 @@ Type of the behavior to add. .
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionBehaviorFactory Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorfactory)
 
 [IRegionBehaviorFactory Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionbehaviorfactory)

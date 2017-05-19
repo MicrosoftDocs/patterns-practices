@@ -22,7 +22,7 @@ Syntax
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleDependencyCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencycollection)
 
 [ModuleDependencyCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencycollection)

@@ -25,7 +25,7 @@ Type: [Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Obj
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ViewRegisteredEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregisteredeventargs)
 
 [ViewRegisteredEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewregisteredeventargs)

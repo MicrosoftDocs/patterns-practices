@@ -597,7 +597,7 @@ Occurs when the <a href="http://msdn2.microsoft.com/en-us/library/ms602734">Free
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [InteractionRequestTrigger Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger)
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)

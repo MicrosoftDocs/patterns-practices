@@ -48,7 +48,7 @@ Exceptions
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionManagerExtensions Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanagerextensions)
 
 [RegionManagerExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionmanagerextensions)

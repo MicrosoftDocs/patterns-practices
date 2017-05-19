@@ -31,7 +31,7 @@ The content which was registered.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ViewRegisteredEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregisteredeventargs)
 
 [ViewRegisteredEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewregisteredeventargs)

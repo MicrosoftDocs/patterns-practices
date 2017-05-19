@@ -200,7 +200,7 @@ Behavior's attached region.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [SelectorItemsSourceSyncBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)

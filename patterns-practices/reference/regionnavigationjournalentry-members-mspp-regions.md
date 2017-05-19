@@ -147,7 +147,7 @@ Gets or sets the URI.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionNavigationJournalEntry Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournalentry)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

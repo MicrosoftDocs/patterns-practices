@@ -57,7 +57,7 @@ Adds a new view to the region.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [Region Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.region)
 
 [Region Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.region)

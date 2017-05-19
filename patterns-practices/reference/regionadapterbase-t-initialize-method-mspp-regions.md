@@ -47,7 +47,7 @@ The new instance of [IRegion](https://msdn.microsoft.com/en-us/library/microsoft
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/en-us/library/gg431546(v=pandp.50))
 
 [RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/en-us/library/gg405501(v=pandp.50))

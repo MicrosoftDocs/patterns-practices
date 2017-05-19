@@ -29,7 +29,7 @@ When implemented in a derived class, gets a unique identifier for this [Attribut
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [ViewSortHintAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewsorthintattribute(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))

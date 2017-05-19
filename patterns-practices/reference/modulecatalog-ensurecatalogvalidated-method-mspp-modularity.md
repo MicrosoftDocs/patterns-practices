@@ -29,7 +29,7 @@ Protected Overridable Sub EnsureCatalogValidated
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleCatalog Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50))
 
 [ModuleCatalog Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog_members(v=pandp.50))

@@ -48,7 +48,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/t:microsoft.pr
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [CompositeCommand Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.compositecommand)
 
 [CompositeCommand Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.compositecommand)

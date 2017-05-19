@@ -60,7 +60,7 @@ Returns a string that represents the current object.
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [MefRegionAdapterMappings Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings(v=pandp.50))
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions(v=pandp.50))

@@ -26,7 +26,7 @@ A new instance of [Region](https://msdn.microsoft.com/t:microsoft.practices.pris
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [SelectorRegionAdapter Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.selectorregionadapter)
 
 [SelectorRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.selectorregionadapter)

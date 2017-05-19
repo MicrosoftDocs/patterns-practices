@@ -26,7 +26,7 @@ Dispatches an invocation to the method received as parameter.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IDispatcherFacade Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.events.idispatcherfacade)
 
 [Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.events)

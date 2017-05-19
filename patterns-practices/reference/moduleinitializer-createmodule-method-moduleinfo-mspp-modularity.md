@@ -36,7 +36,7 @@ A new instance of the module specified by moduleInfo.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInitializer Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer(v=pandp.50))
 
 [ModuleInitializer Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer_members(v=pandp.50))

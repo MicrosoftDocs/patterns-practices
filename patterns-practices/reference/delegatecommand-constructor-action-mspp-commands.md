@@ -27,7 +27,7 @@ The [Action](http://msdn2.microsoft.com/en-us/library/bb534741) to invoke when [
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateCommand Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand)
 
 [DelegateCommand Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand)

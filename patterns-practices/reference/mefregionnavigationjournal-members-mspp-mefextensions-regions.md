@@ -197,7 +197,7 @@ Gets or sets the target that implements INavigate.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefRegionNavigationJournal Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)

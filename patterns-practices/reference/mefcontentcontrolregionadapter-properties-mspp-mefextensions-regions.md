@@ -28,7 +28,7 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefContentControlRegionAdapter Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefcontentcontrolregionadapter(v=pandp.50))
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions(v=pandp.50))

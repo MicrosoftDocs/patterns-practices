@@ -32,7 +32,7 @@ trueTruetruetrue (True in Visual Basic) if a behavior with the specified key is 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionBehaviorFactory Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorfactory)
 
 [IRegionBehaviorFactory Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionbehaviorfactory)

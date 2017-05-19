@@ -31,7 +31,7 @@ Remarks
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [LoadModuleCompletedEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.loadmodulecompletedeventargs)
 
 [LoadModuleCompletedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.loadmodulecompletedeventargs)

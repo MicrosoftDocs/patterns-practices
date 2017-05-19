@@ -57,7 +57,7 @@ Utility method to try to resolve a service from the container avoiding an except
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [UnityContainerHelper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unitycontainerhelper)
 
 [Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)

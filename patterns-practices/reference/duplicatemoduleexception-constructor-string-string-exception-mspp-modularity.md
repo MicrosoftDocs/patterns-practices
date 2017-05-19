@@ -35,7 +35,7 @@ The exception that is the cause of the current exception, or a null reference (N
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DuplicateModuleException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.duplicatemoduleexception)
 
 [DuplicateModuleException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.duplicatemoduleexception)

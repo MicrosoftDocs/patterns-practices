@@ -29,7 +29,7 @@ Protected Overrides Sub OnAttach
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [AutoPopulateRegionBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior(v=pandp.50))
 
 [AutoPopulateRegionBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior_members(v=pandp.50))

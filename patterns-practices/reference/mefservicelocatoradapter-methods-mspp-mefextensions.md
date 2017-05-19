@@ -145,7 +145,7 @@ Returns a string that represents the current object.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefServiceLocatorAdapter Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.mefservicelocatoradapter)
 
 [Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)

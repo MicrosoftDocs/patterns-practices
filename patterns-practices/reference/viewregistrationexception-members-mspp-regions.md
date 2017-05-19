@@ -292,7 +292,7 @@ Occurs when an exception is serialized to create an exception state object that 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ViewRegistrationException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregistrationexception)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

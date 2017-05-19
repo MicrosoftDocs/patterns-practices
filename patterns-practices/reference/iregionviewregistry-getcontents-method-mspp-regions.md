@@ -32,7 +32,7 @@ Collection of contents associated with the regionName.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionViewRegistry Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionviewregistry)
 
 [IRegionViewRegistry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionviewregistry)

@@ -26,7 +26,7 @@ The initialization mode.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInfoGroup Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup)
 
 [ModuleInfoGroup Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroup)

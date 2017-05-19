@@ -108,7 +108,7 @@ Returns a string that represents the current object.
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInitializer Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer(v=pandp.50))
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))

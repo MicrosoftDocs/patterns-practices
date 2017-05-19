@@ -42,7 +42,7 @@ In Visual Basic and C\#, you can call this method as an instance method on any o
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [UnityContainerHelper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unitycontainerhelper)
 
 [UnityContainerHelper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitycontainerhelper)

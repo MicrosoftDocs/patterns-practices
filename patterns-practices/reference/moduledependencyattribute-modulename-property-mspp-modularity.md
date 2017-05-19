@@ -26,7 +26,7 @@ The name of the module that this module is dependant upon.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleDependencyAttribute Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyattribute)
 
 [ModuleDependencyAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencyattribute)

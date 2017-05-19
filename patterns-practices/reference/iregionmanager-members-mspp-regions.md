@@ -190,7 +190,7 @@ Gets a collection of <a href="https://msdn.microsoft.com/t:microsoft.practices.p
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionManager Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

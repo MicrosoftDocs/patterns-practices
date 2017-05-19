@@ -26,7 +26,7 @@ The initialization mode.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IModuleExport Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.imoduleexport)
 
 [IModuleExport Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.imoduleexport)

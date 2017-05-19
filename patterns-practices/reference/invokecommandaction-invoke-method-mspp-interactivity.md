@@ -27,7 +27,7 @@ This parameter is passed to the command; the CommandParameter specified in the C
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [InvokeCommandAction Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.invokecommandaction)
 
 [InvokeCommandAction Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.invokecommandaction)

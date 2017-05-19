@@ -31,7 +31,7 @@ Arguments to pass to the invoked method.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IDispatcherFacade Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.events.idispatcherfacade)
 
 [IDispatcherFacade Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.events.idispatcherfacade)

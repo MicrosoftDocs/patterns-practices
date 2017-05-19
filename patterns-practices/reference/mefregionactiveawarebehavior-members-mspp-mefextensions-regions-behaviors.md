@@ -157,7 +157,7 @@ The region that this behavior is extending
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefRegionActiveAwareBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefregionactiveawarebehavior)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions.behaviors)

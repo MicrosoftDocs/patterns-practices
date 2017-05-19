@@ -22,7 +22,7 @@ Syntax
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInitializeException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinitializeexception)
 
 [ModuleInitializeException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinitializeexception)

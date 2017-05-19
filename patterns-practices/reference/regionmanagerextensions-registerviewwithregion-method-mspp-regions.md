@@ -48,7 +48,7 @@ Associate a view with a region, by registering a type. When the region get's dis
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionManagerExtensions Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanagerextensions)
 
 [RegionManagerExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionmanagerextensions)

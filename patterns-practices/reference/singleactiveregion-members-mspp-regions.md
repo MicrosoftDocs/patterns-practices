@@ -306,7 +306,7 @@ Occurs when a property value changes.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [SingleActiveRegion Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.singleactiveregion)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

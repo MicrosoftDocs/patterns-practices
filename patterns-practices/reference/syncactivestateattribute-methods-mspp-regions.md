@@ -50,7 +50,7 @@ Returns a string that represents the current object.
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [SyncActiveStateAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.syncactivestateattribute(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))

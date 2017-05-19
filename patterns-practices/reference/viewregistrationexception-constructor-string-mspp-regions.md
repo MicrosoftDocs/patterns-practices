@@ -27,7 +27,7 @@ The exception message.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ViewRegistrationException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregistrationexception)
 
 [ViewRegistrationException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewregistrationexception)

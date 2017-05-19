@@ -48,7 +48,7 @@ If Truetrue (True in Visual Basic), registers default Prism Library services in 
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [Bootstrapper Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper(v=pandp.50))
 
 [Bootstrapper Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper_members(v=pandp.50))

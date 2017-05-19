@@ -27,7 +27,7 @@ The exception message.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DuplicateModuleException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.duplicatemoduleexception)
 
 [DuplicateModuleException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.duplicatemoduleexception)

@@ -38,7 +38,7 @@ An [ObservableCollection&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/ms66
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [Region Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region(v=pandp.50))
 
 [Region Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region_members(v=pandp.50))

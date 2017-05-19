@@ -36,7 +36,7 @@ An enumerable of candidate objects from the [IRegion](https://msdn.microsoft.com
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefRegionNavigationContentLoader Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader)
 
 [MefRegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader)

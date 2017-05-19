@@ -29,7 +29,7 @@ Public Interface IDispatcherFacade
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [IDispatcherFacade Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.idispatcherfacade_members(v=pandp.50))
 
 [Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))

@@ -68,7 +68,7 @@ Gets a readonly view of the collection of views in the region.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [SingleActiveRegion Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.singleactiveregion(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))

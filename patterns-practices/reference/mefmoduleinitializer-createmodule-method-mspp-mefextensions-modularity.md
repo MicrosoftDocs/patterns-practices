@@ -50,7 +50,7 @@ Uses the container to resolve a new <a href="https://msdn.microsoft.com/t:micros
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefModuleInitializer Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer)
 
 [MefModuleInitializer Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer)

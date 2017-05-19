@@ -48,7 +48,7 @@ Creates a new instance of a <a href="https://msdn.microsoft.com/t:microsoft.prac
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateCommandBase Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommandbase)
 
 [DelegateCommandBase Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommandbase)

@@ -56,7 +56,7 @@ Remarks
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior(v=pandp.50))
 
 [DelayedRegionCreationBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior_members(v=pandp.50))

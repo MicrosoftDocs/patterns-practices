@@ -218,7 +218,7 @@ Provides an abstraction on top of the RegionManager static members.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)

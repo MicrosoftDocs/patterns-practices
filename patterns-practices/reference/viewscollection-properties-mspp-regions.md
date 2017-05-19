@@ -43,7 +43,7 @@ Gets or sets the comparison used to sort the views.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ViewsCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewscollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

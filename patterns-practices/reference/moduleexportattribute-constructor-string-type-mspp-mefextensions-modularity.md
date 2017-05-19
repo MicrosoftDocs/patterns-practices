@@ -31,7 +31,7 @@ The concrete type of the module being exported. Not typeof(IModule).
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleExportAttribute Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.moduleexportattribute)
 
 [ModuleExportAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.moduleexportattribute)

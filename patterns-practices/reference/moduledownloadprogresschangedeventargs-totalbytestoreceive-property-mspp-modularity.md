@@ -26,7 +26,7 @@ The total bytes to receive.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleDownloadProgressChangedEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
 
 [ModuleDownloadProgressChangedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)

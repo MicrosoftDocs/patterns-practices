@@ -29,7 +29,7 @@ nullNothingnullptra null reference (Nothing in Visual Basic) if the object refer
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateReference Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.delegatereference)
 
 [DelegateReference Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.delegatereference)

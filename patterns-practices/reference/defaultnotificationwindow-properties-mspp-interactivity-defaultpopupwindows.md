@@ -1232,7 +1232,7 @@ Gets or sets a window's border style.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DefaultNotificationWindow Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
 
 [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.defaultpopupwindows)

@@ -29,7 +29,7 @@ Public Sub New
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [NavigationParameters Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters(v=pandp.50))
 
 [NavigationParameters Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters_members(v=pandp.50))

@@ -40,7 +40,7 @@ Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInfo Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))
 
 [ModuleInfo Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo_members(v=pandp.50))

@@ -572,7 +572,7 @@ Gets or sets the width of the element.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ObservableObject&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431509(v=pandp.50))
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))

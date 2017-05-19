@@ -28,7 +28,7 @@ Occurs when a property value changes.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [AllActiveRegion Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.allactiveregion(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))

@@ -37,7 +37,7 @@ A [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50) value.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection(v=pandp.50))
 
 [ModuleConfigurationElementCollection Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection_members(v=pandp.50))

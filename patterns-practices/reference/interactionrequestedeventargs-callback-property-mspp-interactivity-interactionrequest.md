@@ -25,7 +25,7 @@ Type: [Action](http://msdn2.microsoft.com/en-us/library/bb534741)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [InteractionRequestedEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)
 
 [InteractionRequestedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)

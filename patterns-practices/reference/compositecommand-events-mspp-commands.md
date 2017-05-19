@@ -43,7 +43,7 @@ Occurs when any of the registered commands raise <a href="http://msdn2.microsoft
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [CompositeCommand Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.compositecommand)
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)

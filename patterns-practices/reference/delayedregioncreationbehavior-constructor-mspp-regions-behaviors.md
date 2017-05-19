@@ -27,7 +27,7 @@ The region adapter mappings, that are used to find the correct adapter for a giv
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
 
 [DelayedRegionCreationBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)

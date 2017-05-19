@@ -39,7 +39,7 @@ The priority of the entry.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [EmptyLogger Class](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.emptylogger)
 
 [EmptyLogger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.logging.emptylogger)

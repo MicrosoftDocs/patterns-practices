@@ -44,7 +44,7 @@ Occurs when an exception is serialized to create an exception state object that 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModularityException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modularityexception)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

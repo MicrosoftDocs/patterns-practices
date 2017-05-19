@@ -32,7 +32,7 @@ Wrapper around the Regioncontext value.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionContext Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regioncontext)
 
 [RegionContext Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regioncontext)

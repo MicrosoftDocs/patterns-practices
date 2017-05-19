@@ -67,7 +67,7 @@ Remarks
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ServiceLocatorExtensions Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.servicelocatorextensions(v=pandp.50))
 
 [ServiceLocatorExtensions Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.servicelocatorextensions_members(v=pandp.50))

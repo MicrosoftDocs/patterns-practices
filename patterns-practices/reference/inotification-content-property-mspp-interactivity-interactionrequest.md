@@ -25,7 +25,7 @@ Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [INotification Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.inotification)
 
 [INotification Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.inotification)

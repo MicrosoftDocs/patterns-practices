@@ -50,7 +50,7 @@ Allows the SynchronizationContext to be set by the EventAggregator for UI Thread
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [EventBase Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventbase)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)

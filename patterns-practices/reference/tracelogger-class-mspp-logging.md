@@ -28,7 +28,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [TraceLogger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.logging.tracelogger)
 
 [Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.logging)

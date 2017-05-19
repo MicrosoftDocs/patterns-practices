@@ -31,7 +31,7 @@ Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionBehaviorCollection Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorcollection)
 
 [IRegionBehaviorCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionbehaviorcollection)

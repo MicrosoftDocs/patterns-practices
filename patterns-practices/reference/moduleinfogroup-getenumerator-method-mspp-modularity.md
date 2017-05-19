@@ -49,7 +49,7 @@ A [IEnumerator(Of T)](http://msdn2.microsoft.com/en-us/library/78dfe2yb) that ca
 ## See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInfoGroup Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50))
 
 [ModuleInfoGroup Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup_members(v=pandp.50))

@@ -26,7 +26,7 @@ Occurs when metadata on the item changes.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ItemMetadata Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemmetadata)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

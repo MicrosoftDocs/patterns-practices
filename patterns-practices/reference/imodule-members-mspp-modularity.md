@@ -43,7 +43,7 @@ Notifies the module that it has be initialized.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IModule Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

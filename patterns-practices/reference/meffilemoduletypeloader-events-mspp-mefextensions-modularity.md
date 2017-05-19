@@ -50,7 +50,7 @@ Raised repeatedly to provide progress as modules are loaded in the background.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefFileModuleTypeLoader Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader)
 
 [Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.modularity)

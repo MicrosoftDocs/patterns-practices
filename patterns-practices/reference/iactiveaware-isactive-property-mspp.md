@@ -26,7 +26,7 @@ trueTruetruetrue (True in Visual Basic) if the object is active; otherwise false
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IActiveAware Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.iactiveaware)
 
 [IActiveAware Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.iactiveaware)

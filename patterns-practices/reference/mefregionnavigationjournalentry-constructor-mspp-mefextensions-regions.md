@@ -22,7 +22,7 @@ Syntax
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefRegionNavigationJournalEntry Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry)
 
 [MefRegionNavigationJournalEntry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry)

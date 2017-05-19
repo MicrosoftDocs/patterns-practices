@@ -27,7 +27,7 @@ The parameter to the action. If the action does not require a parameter, the par
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [PopupWindowAction Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.popupwindowaction)
 
 [PopupWindowAction Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.popupwindowaction)

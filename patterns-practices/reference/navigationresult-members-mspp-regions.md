@@ -161,7 +161,7 @@ Gets the result.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [NavigationResult Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationresult)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

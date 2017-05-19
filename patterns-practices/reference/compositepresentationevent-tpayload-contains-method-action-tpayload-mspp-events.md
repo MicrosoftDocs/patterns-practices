@@ -47,7 +47,7 @@ Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [CompositePresentationEvent&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))
 
 [CompositePresentationEvent&lt;TPayload&gt; Members](https://msdn.microsoft.com/en-us/library/gg430765(v=pandp.50))

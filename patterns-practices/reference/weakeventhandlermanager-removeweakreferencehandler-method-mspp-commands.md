@@ -31,7 +31,7 @@ Handler to remove.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [WeakEventHandlerManager Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.weakeventhandlermanager)
 
 [WeakEventHandlerManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.weakeventhandlermanager)

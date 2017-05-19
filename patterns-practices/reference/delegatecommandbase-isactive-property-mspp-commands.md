@@ -29,7 +29,7 @@ trueTruetruetrue (True in Visual Basic) if the object is active; otherwise false
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateCommandBase Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommandbase)
 
 [DelegateCommandBase Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommandbase)

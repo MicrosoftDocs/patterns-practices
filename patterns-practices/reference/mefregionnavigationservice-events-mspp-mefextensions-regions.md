@@ -60,7 +60,7 @@ Raised when a navigation request fails.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefRegionNavigationService Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)

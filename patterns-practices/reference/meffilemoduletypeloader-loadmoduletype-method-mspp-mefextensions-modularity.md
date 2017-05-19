@@ -47,7 +47,7 @@ Module that should have it's type loaded.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefFileModuleTypeLoader Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader(v=pandp.50))
 
 [MefFileModuleTypeLoader Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader_members(v=pandp.50))

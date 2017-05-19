@@ -32,7 +32,7 @@ trueTruetruetrue (True in Visual Basic) if the region was removed from the colle
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionCollection Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregioncollection)
 
 [IRegionCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregioncollection)

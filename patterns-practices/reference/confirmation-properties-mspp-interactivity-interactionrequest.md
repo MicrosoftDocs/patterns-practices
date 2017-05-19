@@ -59,7 +59,7 @@ Gets or sets the title to use for the notification.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [Confirmation Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.confirmation)
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)

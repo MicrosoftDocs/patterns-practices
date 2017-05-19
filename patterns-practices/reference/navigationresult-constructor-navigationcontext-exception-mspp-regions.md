@@ -42,7 +42,7 @@ The error.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [NavigationResult Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult(v=pandp.50))
 
 [NavigationResult Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult_members(v=pandp.50))

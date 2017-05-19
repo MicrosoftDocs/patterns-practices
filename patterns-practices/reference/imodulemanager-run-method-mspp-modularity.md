@@ -28,7 +28,7 @@ Sub Run
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [IModuleManager Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulemanager(v=pandp.50))
 
 [IModuleManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulemanager_members(v=pandp.50))

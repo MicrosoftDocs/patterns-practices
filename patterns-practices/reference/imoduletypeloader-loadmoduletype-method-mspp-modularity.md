@@ -27,7 +27,7 @@ Module that should have it's type loaded.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IModuleTypeLoader Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imoduletypeloader)
 
 [IModuleTypeLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.imoduletypeloader)

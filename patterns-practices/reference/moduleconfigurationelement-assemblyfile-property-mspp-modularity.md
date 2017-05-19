@@ -36,7 +36,7 @@ The assembly file.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleConfigurationElement Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelement(v=pandp.50))
 
 [ModuleConfigurationElement Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelement_members(v=pandp.50))

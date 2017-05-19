@@ -64,7 +64,7 @@ Initializes the catalog, which may load and validate the modules.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IModuleCatalog Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulecatalog)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

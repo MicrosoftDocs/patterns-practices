@@ -42,7 +42,7 @@ Occurs when a property value changes.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [Region Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))

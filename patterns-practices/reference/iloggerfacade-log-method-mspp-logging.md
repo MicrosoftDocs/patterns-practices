@@ -35,7 +35,7 @@ The priority of the entry.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ILoggerFacade Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade)
 
 [ILoggerFacade Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.logging.iloggerfacade)

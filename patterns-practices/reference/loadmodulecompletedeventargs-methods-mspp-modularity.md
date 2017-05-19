@@ -84,7 +84,7 @@ Returns a string that represents the current object.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [LoadModuleCompletedEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.loadmodulecompletedeventargs)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

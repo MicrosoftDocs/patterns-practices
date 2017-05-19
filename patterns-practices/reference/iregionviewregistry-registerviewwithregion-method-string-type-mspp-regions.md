@@ -49,7 +49,7 @@ Content type to be registered for the regionName.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionViewRegistry Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionviewregistry(v=pandp.50))
 
 [IRegionViewRegistry Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionviewregistry_members(v=pandp.50))

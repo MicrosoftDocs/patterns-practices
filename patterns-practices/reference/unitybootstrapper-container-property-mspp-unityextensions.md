@@ -26,7 +26,7 @@ The default IUnityContainer instance.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [UnityBootstrapper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unitybootstrapper)
 
 [UnityBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitybootstrapper)

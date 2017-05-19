@@ -27,7 +27,7 @@ The hint to use for sorting.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ViewSortHintAttribute Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewsorthintattribute)
 
 [ViewSortHintAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewsorthintattribute)

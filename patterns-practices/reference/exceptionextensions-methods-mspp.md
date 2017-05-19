@@ -34,7 +34,7 @@ Register the type of an Exception that is thrown by the framework. The [GetRootE
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ExceptionExtensions Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.exceptionextensions(v=pandp.50))
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))

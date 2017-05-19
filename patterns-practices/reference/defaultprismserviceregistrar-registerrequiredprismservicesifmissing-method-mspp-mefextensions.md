@@ -42,7 +42,7 @@ Type: [AggregateCatalog](http://msdn2.microsoft.com/en-us/library/dd833165)
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [DefaultPrismServiceRegistrar Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.defaultprismserviceregistrar(v=pandp.50))
 
 [DefaultPrismServiceRegistrar Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.defaultprismserviceregistrar_members(v=pandp.50))

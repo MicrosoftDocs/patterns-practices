@@ -36,7 +36,7 @@ Remarks
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [SelectorRegionAdapter Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.selectorregionadapter(v=pandp.50))
 
 [SelectorRegionAdapter Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.selectorregionadapter_members(v=pandp.50))

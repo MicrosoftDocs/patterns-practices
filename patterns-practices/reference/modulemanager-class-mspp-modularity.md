@@ -31,7 +31,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulemanager)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

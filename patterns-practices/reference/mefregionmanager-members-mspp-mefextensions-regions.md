@@ -149,7 +149,7 @@ Gets a collection of <a href="https://msdn.microsoft.com/t:microsoft.practices.p
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefRegionManager Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionmanager)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)

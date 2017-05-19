@@ -32,7 +32,7 @@ true if the exception type is already registered; otherwise, false.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ExceptionExtensions Class](https://msdn.microsoft.com/t:microsoft.practices.prism.exceptionextensions)
 
 [ExceptionExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.exceptionextensions)

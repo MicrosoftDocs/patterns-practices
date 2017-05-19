@@ -51,7 +51,7 @@ Public Shared Sub SetRegionManager (
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager(v=pandp.50))
 
 [RegionManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager_members(v=pandp.50))

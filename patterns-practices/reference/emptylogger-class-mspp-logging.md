@@ -28,7 +28,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [EmptyLogger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.logging.emptylogger)
 
 [Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.logging)

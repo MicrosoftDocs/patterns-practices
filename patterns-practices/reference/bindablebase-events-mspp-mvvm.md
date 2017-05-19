@@ -43,7 +43,7 @@ Occurs when a property value changes.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [BindableBase Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.bindablebase)
 
 [Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mvvm)

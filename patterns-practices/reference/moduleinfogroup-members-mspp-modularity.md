@@ -312,7 +312,7 @@ Gets an object that can be used to synchronize access to the <a href="http://msd
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInfoGroup Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

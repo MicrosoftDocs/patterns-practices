@@ -31,7 +31,7 @@ The payload to pass action while invoking it.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.dispatchereventsubscription%601)
 
 [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.dispatchereventsubscription%601)

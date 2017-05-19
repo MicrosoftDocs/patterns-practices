@@ -85,7 +85,7 @@ Raised repeatedly to provide progress as modules are downloaded in the backgroun
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IModuleTypeLoader Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imoduletypeloader)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

@@ -43,7 +43,7 @@ Event triggered when a content is registered to a region name.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionViewRegistry Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionviewregistry)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

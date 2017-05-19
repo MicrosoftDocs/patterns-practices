@@ -26,7 +26,7 @@ Gets the IRegion with the name received as index.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionCollection Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))

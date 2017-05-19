@@ -369,7 +369,7 @@ Occurs when a property value changes.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [Region Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.region)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

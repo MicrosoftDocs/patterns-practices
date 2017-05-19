@@ -47,7 +47,7 @@ Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [CompositeCommand Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand(v=pandp.50))
 
 [CompositeCommand Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand_members(v=pandp.50))

@@ -32,7 +32,7 @@ Returns the named view or nullNothingnullptra null reference (Nothing in Visual 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegion Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 
 [IRegion Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregion)

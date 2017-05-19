@@ -30,7 +30,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ItemMetadata Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.itemmetadata)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

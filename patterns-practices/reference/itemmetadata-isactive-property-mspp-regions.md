@@ -36,7 +36,7 @@ Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ItemMetadata Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50))
 
 [ItemMetadata Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata_members(v=pandp.50))

@@ -35,7 +35,7 @@ The journal.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionNavigationService Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationservice)
 
 [RegionNavigationService Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationservice)

@@ -32,5 +32,5 @@ Members
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)

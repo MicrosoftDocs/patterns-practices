@@ -22,7 +22,7 @@ Gets the list of all the registered commands.
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [CompositeCommand Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand(v=pandp.50))
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))

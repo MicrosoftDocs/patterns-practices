@@ -36,7 +36,7 @@ The created [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.reg
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
 
 [DelayedRegionCreationBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)

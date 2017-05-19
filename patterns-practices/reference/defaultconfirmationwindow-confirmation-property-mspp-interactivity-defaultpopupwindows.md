@@ -25,7 +25,7 @@ Type: [IConfirmation](https://msdn.microsoft.com/t:microsoft.practices.prism.int
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DefaultConfirmationWindow Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
 
 [DefaultConfirmationWindow Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)

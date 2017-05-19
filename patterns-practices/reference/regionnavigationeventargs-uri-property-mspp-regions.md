@@ -31,7 +31,7 @@ Remarks
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionNavigationEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationeventargs)
 
 [RegionNavigationEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationeventargs)

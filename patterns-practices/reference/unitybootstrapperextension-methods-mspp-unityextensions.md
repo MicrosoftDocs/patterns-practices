@@ -65,7 +65,7 @@ Returns a string that represents the current object.
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [UnityBootstrapperExtension Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension(v=pandp.50))
 
 [Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions(v=pandp.50))

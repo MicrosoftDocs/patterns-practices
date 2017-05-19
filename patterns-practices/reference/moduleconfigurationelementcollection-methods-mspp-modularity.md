@@ -417,7 +417,7 @@ Reverses the effect of merging configuration information from different levels o
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

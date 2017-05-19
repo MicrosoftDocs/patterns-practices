@@ -73,7 +73,7 @@ Gets a unique user state.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleDownloadProgressChangedEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

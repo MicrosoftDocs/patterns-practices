@@ -49,7 +49,7 @@ Indicates whether the current object is equal to another object of the same type
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [SubscriptionToken Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken)
 
 [SubscriptionToken Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.subscriptiontoken)

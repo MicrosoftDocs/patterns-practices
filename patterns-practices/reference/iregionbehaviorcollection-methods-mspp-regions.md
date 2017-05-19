@@ -66,7 +66,7 @@ Returns an enumerator that iterates through a collection.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionBehaviorCollection Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorcollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

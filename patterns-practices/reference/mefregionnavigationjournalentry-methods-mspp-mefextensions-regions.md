@@ -84,7 +84,7 @@ Returns a <a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf">String</a>
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefRegionNavigationJournalEntry Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)

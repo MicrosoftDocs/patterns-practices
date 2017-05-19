@@ -32,7 +32,7 @@ An enumeration of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IModuleCatalog Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulecatalog)
 
 [IModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.imodulecatalog)

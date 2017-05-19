@@ -76,7 +76,7 @@ Initiates navigation to the target specified by the target.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [NavigationAsyncExtensions Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationasyncextensions)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

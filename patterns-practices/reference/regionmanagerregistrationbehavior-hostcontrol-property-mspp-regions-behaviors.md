@@ -37,7 +37,7 @@ Exceptions
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
 
 [RegionManagerRegistrationBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)

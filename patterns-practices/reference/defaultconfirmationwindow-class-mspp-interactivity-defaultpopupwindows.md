@@ -38,7 +38,7 @@ Inheritance Hierarchy
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DefaultConfirmationWindow Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
 
 [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.defaultpopupwindows)

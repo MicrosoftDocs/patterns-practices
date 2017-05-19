@@ -54,7 +54,7 @@ Exceptions
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [CollectionExtensions Class](https://msdn.microsoft.com/t:microsoft.practices.prism.collectionextensions)
 
 [CollectionExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.collectionextensions)

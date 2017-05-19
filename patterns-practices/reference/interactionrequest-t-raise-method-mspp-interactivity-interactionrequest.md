@@ -48,7 +48,7 @@ Fires the Raised event.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)
 
 [InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)
