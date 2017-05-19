@@ -21,7 +21,7 @@ Removes all entries in the dictionary.
 
 
 <span id="syntaxToggle"></span>public void Clear()Public Sub Clear
-#### Implements
+### Implements
 
 [ICollection&lt;(Of &lt;(T&gt;)&gt;).Clear()()()](http://msdn2.microsoft.com/en-us/library/5axy4fbh)
 

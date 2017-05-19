@@ -21,7 +21,7 @@ Creates a new instance of [AllActiveRegion](https://msdn.microsoft.com/t:microso
 
 
 <span id="syntaxToggle"></span>protected override IRegion CreateRegion()Protected Overrides Function CreateRegion As IRegion
-#### Return Value
+### Return Value
 
 Type: [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 A new instance of [AllActiveRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.allactiveregion).

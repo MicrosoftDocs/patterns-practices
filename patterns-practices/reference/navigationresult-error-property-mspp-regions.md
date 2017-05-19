@@ -21,7 +21,7 @@ Gets an exception that occurred while navigating.
 
 
 <span id="syntaxToggle"></span>public Exception Error { get; }Public ReadOnly Property Error As Exception Get
-#### Property Value
+### Property Value
 
 Type: [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
 The exception.

@@ -21,7 +21,8 @@ Creates a new instance of the [RegionViewRegistry](https://msdn.microsoft.com/t:
 
 
 <span id="syntaxToggle"></span>public RegionViewRegistry( IServiceLocator locator )Public Sub New ( locator As IServiceLocator )
-#### Parameters
+
+### Parameters
 
 locator  
 Type: IServiceLocator

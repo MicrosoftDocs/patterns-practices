@@ -21,11 +21,11 @@ Gets the navigation service.
 
 
 <span id="syntaxToggle"></span>public IRegionNavigationService NavigationService { get; set; }Public Property NavigationService As IRegionNavigationService Get Set
-#### Property Value
+### Property Value
 
 Type: [IRegionNavigationService](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationservice)
 The navigation service.
-#### Implements
+### Implements
 
 [IRegion.NavigationService](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.navigationservice)
 

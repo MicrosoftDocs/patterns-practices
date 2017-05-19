@@ -21,7 +21,7 @@ Gets the name used to identify this collection of elements in the configuration 
 
 
 <span id="syntaxToggle"></span>protected override string ElementName { get; }Protected Overrides ReadOnly Property ElementName As String Get
-#### Property Value
+### Property Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the collection; otherwise, an empty string.

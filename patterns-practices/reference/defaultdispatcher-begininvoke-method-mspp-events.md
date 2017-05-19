@@ -21,7 +21,8 @@ Forwards the BeginInvoke to the current application's [Dispatcher](http://msdn2.
 
 
 <span id="syntaxToggle"></span>public void BeginInvoke( Delegate method, Object arg )Public Sub BeginInvoke ( method As Delegate, arg As Object )
-#### Parameters
+
+### Parameters
 
 method  
 Type: [System.Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51)
@@ -31,7 +32,7 @@ arg
 Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 Arguments to pass to the invoked method.
 
-#### Implements
+### Implements
 
 [IDispatcherFacade.BeginInvoke(Delegate, Object)](https://msdn.microsoft.com/m:microsoft.practices.prism.events.idispatcherfacade.begininvoke(system.delegate%2csystem.object))
 

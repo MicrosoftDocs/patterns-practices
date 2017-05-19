@@ -21,7 +21,8 @@ Adds a particular type of RegionBehavior if it was not already registered. The b
 
 
 <span id="syntaxToggle"></span>public void AddIfMissing( string behaviorKey, Type behaviorType )Public Sub AddIfMissing ( behaviorKey As String, behaviorType As Type )
-#### Parameters
+
+### Parameters
 
 behaviorKey  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
@@ -31,7 +32,7 @@ behaviorType
 Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 Type of the behavior to add.
 
-#### Implements
+### Implements
 
 [IRegionBehaviorFactory.AddIfMissing(String, Type)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionbehaviorfactory.addifmissing(system.string%2csystem.type))
 

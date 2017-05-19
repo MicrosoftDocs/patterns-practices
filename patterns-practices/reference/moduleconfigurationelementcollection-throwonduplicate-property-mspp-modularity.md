@@ -31,7 +31,7 @@ Gets a value indicating whether an exception should be raised if a duplicate ele
 	     Get
 ```
 
-#### Property Value
+### Property Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 

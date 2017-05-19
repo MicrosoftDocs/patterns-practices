@@ -21,7 +21,8 @@ Write a new log entry with the specified category and priority.
 
 
 <span id="syntaxToggle"></span>public void Log( string message, Category category, Priority priority )Public Sub Log ( message As String, category As Category, priority As Priority )
-#### Parameters
+
+### Parameters
 
 message  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
@@ -35,7 +36,7 @@ priority
 Type: [Microsoft.Practices.Prism.Logging.Priority](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.priority)
 The priority of the entry.
 
-#### Implements
+### Implements
 
 [ILoggerFacade.Log(String, Category, Priority)](https://msdn.microsoft.com/m:microsoft.practices.prism.logging.iloggerfacade.log(system.string%2cmicrosoft.practices.prism.logging.category%2cmicrosoft.practices.prism.logging.priority))
 

@@ -21,7 +21,8 @@ Called when the implementer has been navigated to.
 
 
 <span id="syntaxToggle"></span>void OnNavigatedTo( NavigationContext navigationContext )Sub OnNavigatedTo ( navigationContext As NavigationContext )
-#### Parameters
+
+### Parameters
 
 navigationContext  
 Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)

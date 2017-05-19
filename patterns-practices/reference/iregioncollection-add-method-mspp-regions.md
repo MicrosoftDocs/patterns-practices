@@ -21,7 +21,8 @@ Adds a [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.
 
 
 <span id="syntaxToggle"></span>void Add( IRegion region )Sub Add ( region As IRegion )
-#### Parameters
+
+### Parameters
 
 region  
 Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)

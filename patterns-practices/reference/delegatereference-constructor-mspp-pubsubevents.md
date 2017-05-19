@@ -19,7 +19,8 @@ Initializes a new instance of [DelegateReference](https://msdn.microsoft.com/t:m
 
 
 <span id="syntaxToggle"></span>public DelegateReference( Delegate delegate, bool keepReferenceAlive )Public Sub New ( delegate As Delegate, keepReferenceAlive As Boolean )
-#### Parameters
+
+### Parameters
 
 delegate  
 Type: [System.Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51)

@@ -30,7 +30,7 @@ Public Property InitializationMode As InitializationMode
 	Set
 ```
 
-#### Property Value
+### Property Value
 
 Type: [InitializationMode](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.initializationmode(v=pandp.50))
 

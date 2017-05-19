@@ -21,11 +21,11 @@ Gets or sets the target that implements INavigate.
 
 
 <span id="syntaxToggle"></span>public INavigateAsync NavigationTarget { get; set; }Public Property NavigationTarget As INavigateAsync Get Set
-#### Property Value
+### Property Value
 
 Type: [INavigateAsync](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigateasync)
 The INavigate implementation.
-#### Implements
+### Implements
 
 [IRegionNavigationJournal.NavigationTarget](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionnavigationjournal.navigationtarget)
 

@@ -21,7 +21,7 @@ Gets or sets the [Ref](https://msdn.microsoft.com/p:microsoft.practices.prism.mo
 
 
 <span id="syntaxToggle"></span>public string Ref { get; set; }Public Property Ref As String Get Set
-#### Property Value
+### Property Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The ref value that will be used.

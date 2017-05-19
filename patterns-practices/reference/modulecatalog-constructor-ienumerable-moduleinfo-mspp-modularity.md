@@ -21,7 +21,8 @@ Initializes a new instance of the [ModuleCatalog](https://msdn.microsoft.com/t:m
 
 
 <span id="syntaxToggle"></span>public ModuleCatalog( IEnumerable&lt;ModuleInfo&gt; modules )Public Sub New ( modules As IEnumerable(Of ModuleInfo) )
-#### Parameters
+
+### Parameters
 
 modules  
 Type: [System.Collections.Generic.IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;)&gt;)

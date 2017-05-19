@@ -21,7 +21,8 @@ Fires the Raised event.
 
 
 <span id="syntaxToggle"></span>public void Raise( T context, Action&lt;T&gt; callback )Public Sub Raise ( context As T, callback As Action(Of T) )
-#### Parameters
+
+### Parameters
 
 context  
 Type: [T](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)

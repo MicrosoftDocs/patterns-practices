@@ -25,7 +25,8 @@ bool IsNavigationTarget(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *navigationContext*  
 
@@ -33,7 +34,7 @@ Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microso
 
 The navigation context.
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 
@@ -46,7 +47,8 @@ Function IsNavigationTarget (
 ) As Boolean
 ```
 
-#### Parameters
+
+### Parameters
 
 *navigationContext*  
 
@@ -54,7 +56,7 @@ Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microso
 
 The navigation context.
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 

@@ -19,13 +19,14 @@ Adds the specified [IEventSubscription](https://msdn.microsoft.com/t:microsoft.p
 
 
 <span id="syntaxToggle"></span>protected virtual SubscriptionToken InternalSubscribe( IEventSubscription eventSubscription )Protected Overridable Function InternalSubscribe ( eventSubscription As IEventSubscription ) As SubscriptionToken
-#### Parameters
+
+### Parameters
 
 eventSubscription  
 Type: [Microsoft.Practices.Prism.PubSubEvents.IEventSubscription](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription)
 The subscriber.
 
-#### Return Value
+### Return Value
 
 Type: [SubscriptionToken](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken)
 The [SubscriptionToken](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken) that uniquely identifies every subscriber.

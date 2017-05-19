@@ -21,7 +21,7 @@ Gets the module configuration data.
 
 
 <span id="syntaxToggle"></span>ModulesConfigurationSection RetrieveModuleConfigurationSection()Function RetrieveModuleConfigurationSection As ModulesConfigurationSection
-#### Return Value
+### Return Value
 
 Type: [ModulesConfigurationSection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulesconfigurationsection)
 A [ModulesConfigurationSection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulesconfigurationsection) instance.

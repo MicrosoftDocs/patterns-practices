@@ -19,13 +19,14 @@ Executes the command and invokes the [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msd
 
 
 <span id="syntaxToggle"></span>public virtual Task Execute( T parameter )Public Overridable Function Execute ( parameter As T ) As Task
-#### Parameters
+
+### Parameters
 
 parameter  
 Type: [T](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601)
 Data used by the command.
 
-#### Return Value
+### Return Value
 
 Type: [Task](http://msdn2.microsoft.com/en-us/library/dd235678)
 

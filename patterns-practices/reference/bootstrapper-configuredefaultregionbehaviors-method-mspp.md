@@ -21,7 +21,7 @@ Configures the [IRegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.p
 
 
 <span id="syntaxToggle"></span>protected virtual IRegionBehaviorFactory ConfigureDefaultRegionBehaviors()Protected Overridable Function ConfigureDefaultRegionBehaviors As IRegionBehaviorFactory
-#### Return Value
+### Return Value
 
 Type: [IRegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorfactory)
 

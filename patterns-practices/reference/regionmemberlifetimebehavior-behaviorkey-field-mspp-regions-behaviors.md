@@ -21,7 +21,7 @@ The key for this behavior.
 
 
 <span id="syntaxToggle"></span>public const string BehaviorKeyPublic Const BehaviorKey As String
-#### Field Value
+### Field Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 

@@ -21,7 +21,8 @@ Adds a module to the solver.
 
 
 <span id="syntaxToggle"></span>public void AddModule( string name )Public Sub AddModule ( name As String )
-#### Parameters
+
+### Parameters
 
 name  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

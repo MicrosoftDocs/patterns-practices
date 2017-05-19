@@ -19,7 +19,8 @@ Adds a handler to the supplied list in a weak way.
 
 
 <span id="syntaxToggle"></span>public static void AddWeakReferenceHandler( ref List&lt;WeakReference&gt; handlers, EventHandler handler, int defaultListSize )Public Shared Sub AddWeakReferenceHandler ( ByRef handlers As List(Of WeakReference), handler As EventHandler, defaultListSize As Integer )
-#### Parameters
+
+### Parameters
 
 handlers  
 Type: [System.Collections.Generic.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)&lt;(Of &lt;([WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd)&gt;)&gt;)

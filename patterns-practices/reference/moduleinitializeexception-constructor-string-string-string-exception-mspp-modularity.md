@@ -21,7 +21,8 @@ Initializes the exception with a particular module, error message and inner exce
 
 
 <span id="syntaxToggle"></span>public ModuleInitializeException( string moduleName, string moduleAssembly, string message, Exception innerException )Public Sub New ( moduleName As String, moduleAssembly As String, message As String, innerException As Exception )
-#### Parameters
+
+### Parameters
 
 moduleName  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

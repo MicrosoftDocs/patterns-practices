@@ -27,7 +27,7 @@ public static readonly DependencyProperty TriggerParameterPathProperty
 Public Shared ReadOnly TriggerParameterPathProperty As DependencyProperty
 ```
 
-#### Field Value
+### Field Value
 
 Type: [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318)
 

@@ -21,14 +21,14 @@ Gets a value indicating whether access to the [ICollection](http://msdn2.microso
 
 
 <span id="syntaxToggle"></span>public bool IsSynchronized { get; }Public ReadOnly Property IsSynchronized As Boolean Get
-#### Property Value
+### Property Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 true if access to the [ICollection](http://msdn2.microsoft.com/en-us/library/b1ht6113) is synchronized (thread safe); otherwise, false.
-#### Implements
+### Implements
 
 [ICollection.IsSynchronized](http://msdn2.microsoft.com/en-us/library/d74ky11w)
 

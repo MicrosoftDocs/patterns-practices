@@ -21,7 +21,7 @@ Gets or sets the [IRegionManager](https://msdn.microsoft.com/t:microsoft.practic
 
 
 <span id="syntaxToggle"></span>IRegionManager RegionManager { get; set; }Property RegionManager As IRegionManager Get Set
-#### Property Value
+### Property Value
 
 Type: [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
 The [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager) where this [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) is registered.

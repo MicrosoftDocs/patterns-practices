@@ -30,7 +30,7 @@ Property Region As IRegion
 	Set
 ```
 
-#### Property Value
+### Property Value
 
 Type: [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50))
 

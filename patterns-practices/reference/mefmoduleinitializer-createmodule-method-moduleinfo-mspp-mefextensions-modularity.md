@@ -21,13 +21,14 @@ Uses the container to resolve a new [IModule](https://msdn.microsoft.com/t:micro
 
 
 <span id="syntaxToggle"></span>protected override IModule CreateModule( ModuleInfo moduleInfo )Protected Overrides Function CreateModule ( moduleInfo As ModuleInfo ) As IModule
-#### Parameters
+
+### Parameters
 
 moduleInfo  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 The module to create.
 
-#### Return Value
+### Return Value
 
 Type: [IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule)
 A new instance of the module specified by moduleInfo.

@@ -27,7 +27,8 @@ bool keepSubscriberReferenceAlive
 ) 
 ```
 
-#### Parameters
+
+### Parameters
 
 *action*
 
@@ -47,7 +48,7 @@ bool keepSubscriberReferenceAlive
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When **truetrue** (**True** in Visual Basic), the [CompositePresentationEvent&lt;TPayload&gt;](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)) keeps a reference to the subscriber so it does not get garbage collected.
 
-#### Return Value
+### Return Value
 
 Type: SubscriptionToken
 
@@ -90,7 +91,8 @@ Public Function Subscribe (
 ) As SubscriptionToken
 ```
 
-#### Parameters
+
+### Parameters
 
 *action*    
 
@@ -110,7 +112,7 @@ Public Function Subscribe (
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When **Truetrue** (**True** in Visual Basic), the [CompositePresentationEvent(Of TPayload)](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)) keeps a reference to the subscriber so it does not get garbage collected.
 
-#### Return Value
+### Return Value
 
 Type: SubscriptionToken
 

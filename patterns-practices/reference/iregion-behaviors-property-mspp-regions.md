@@ -27,7 +27,7 @@ ReadOnly Property Behaviors As IRegionBehaviorCollection
 	Get
 ```
 
-#### Property Value
+### Property Value
 
 Type: [IRegionBehaviorCollection](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehaviorcollection(v=pandp.50))
 

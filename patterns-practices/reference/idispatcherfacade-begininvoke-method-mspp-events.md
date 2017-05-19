@@ -21,7 +21,8 @@ Dispatches an invocation to the method received as parameter.
 
 
 <span id="syntaxToggle"></span>void BeginInvoke( Delegate method, Object arg )Sub BeginInvoke ( method As Delegate, arg As Object )
-#### Parameters
+
+### Parameters
 
 method  
 Type: [System.Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51)

@@ -21,7 +21,7 @@ Creates the shell or main window of the application.
 
 
 <span id="syntaxToggle"></span>protected abstract DependencyObject CreateShell()Protected MustOverride Function CreateShell As DependencyObject
-#### Return Value
+### Return Value
 
 Type: [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
 The shell of the application.

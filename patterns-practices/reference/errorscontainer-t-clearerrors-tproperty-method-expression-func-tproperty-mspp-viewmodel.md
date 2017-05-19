@@ -23,7 +23,8 @@ public void ClearErrors<TProperty>(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *propertyExpression*
 
@@ -62,7 +63,8 @@ Public Sub ClearErrors(Of TProperty) (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *propertyExpression*  
 

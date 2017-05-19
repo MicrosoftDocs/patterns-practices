@@ -21,7 +21,7 @@ Determines if the content should be initially shown centered over the view that 
 
 
 <span id="syntaxToggle"></span>public static readonly DependencyProperty CenterOverAssociatedObjectPropertyPublic Shared ReadOnly CenterOverAssociatedObjectProperty As DependencyProperty
-#### Field Value
+### Field Value
 
 Type: [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318)
 

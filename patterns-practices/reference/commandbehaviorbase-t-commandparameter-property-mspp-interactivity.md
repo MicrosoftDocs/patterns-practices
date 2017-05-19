@@ -23,7 +23,7 @@ The parameter to supply the command during execution
 public Object CommandParameter { get; set; }
 ```
 
-#### Property Value
+### Property Value
 
 Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 
@@ -54,7 +54,7 @@ Public Property CommandParameter As Object
 	Set
 ```
 
-#### Property Value
+### Property Value
 
 Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 

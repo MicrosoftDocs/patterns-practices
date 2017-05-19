@@ -21,7 +21,7 @@ Gets or sets the URI.
 
 
 <span id="syntaxToggle"></span>Uri Uri { get; set; }Property Uri As Uri Get Set
-#### Property Value
+### Property Value
 
 Type: [Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
 The URI.

@@ -21,7 +21,8 @@ Initializes an instance of the [ModuleManager](https://msdn.microsoft.com/t:micr
 
 
 <span id="syntaxToggle"></span>public ModuleManager( IModuleInitializer moduleInitializer, IModuleCatalog moduleCatalog, ILoggerFacade loggerFacade )Public Sub New ( moduleInitializer As IModuleInitializer, moduleCatalog As IModuleCatalog, loggerFacade As ILoggerFacade )
-#### Parameters
+
+### Parameters
 
 moduleInitializer  
 Type: [Microsoft.Practices.Prism.Modularity.IModuleInitializer](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imoduleinitializer)

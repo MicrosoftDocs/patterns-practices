@@ -32,7 +32,7 @@ Protected Overridable ReadOnly Property ItemMetadataCollection As ObservableColl
 	Get
 ```
 
-#### Property Value
+### Property Value
 
 Type: [ObservableCollection](http://msdn2.microsoft.com/en-us/library/ms668604)&lt;[ItemMetadata](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50))&gt;
 

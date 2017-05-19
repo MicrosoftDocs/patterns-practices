@@ -21,7 +21,7 @@ Gets or sets the TriggerParameterPath value.
 
 
 <span id="syntaxToggle"></span>public string TriggerParameterPath { get; set; }Public Property TriggerParameterPath As String Get Set
-#### Property Value
+### Property Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 

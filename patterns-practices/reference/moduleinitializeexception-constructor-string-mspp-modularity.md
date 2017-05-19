@@ -21,7 +21,8 @@ Initializes a new instance of the [ModuleInitializeException](https://msdn.micro
 
 
 <span id="syntaxToggle"></span>public ModuleInitializeException( string message )Public Sub New ( message As String )
-#### Parameters
+
+### Parameters
 
 message  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

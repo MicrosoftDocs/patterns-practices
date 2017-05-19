@@ -21,7 +21,8 @@ Determines whether this instance accepts being navigated away from.
 
 
 <span id="syntaxToggle"></span>void ConfirmNavigationRequest( NavigationContext navigationContext, Action&lt;bool&gt; continuationCallback )Sub ConfirmNavigationRequest ( navigationContext As NavigationContext, continuationCallback As Action(Of Boolean) )
-#### Parameters
+
+### Parameters
 
 navigationContext  
 Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)

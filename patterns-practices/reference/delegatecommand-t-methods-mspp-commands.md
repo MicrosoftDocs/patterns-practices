@@ -83,7 +83,7 @@ This raises the [IsActiveChanged](https://msdn.microsoft.com/en-us/library/micro
 [RaiseCanExecuteChanged](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase.raisecanexecutechanged(v=pandp.50))
 Raises [CanExecuteChanged](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase.canexecutechanged(v=pandp.50)) on the UI thread so every command invoker can requery to check if the command can execute.
 
-#### Remarks
+### Remarks
 
 <span id="remarksToggle"></span>Note that this will trigger the execution of [CanExecute(Object)](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase.canexecute(v=pandp.50)) once for each invoker.
 

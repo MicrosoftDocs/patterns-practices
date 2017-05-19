@@ -21,7 +21,8 @@ Attach new behaviors.
 
 
 <span id="syntaxToggle"></span>protected override void AttachBehaviors( IRegion region, Selector regionTarget )Protected Overrides Sub AttachBehaviors ( region As IRegion, regionTarget As Selector )
-#### Parameters
+
+### Parameters
 
 region  
 Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50))

@@ -24,7 +24,8 @@ Publishes the [PubSubEvent&lt;TPayload&gt;](https://msdn.microsoft.com/en-us/lib
 	)
 
 ```
-#### Parameters
+
+### Parameters
 
 *payload*
 	
@@ -56,7 +57,8 @@ Public Overridable Sub Publish (
 )
 ```
 
-#### Parameters
+
+### Parameters
 *payload*
 
 	Type: [TPayload](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50))

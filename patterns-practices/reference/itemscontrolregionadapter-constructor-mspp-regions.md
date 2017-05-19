@@ -21,7 +21,8 @@ Initializes a new instance of [ItemsControlRegionAdapter](https://msdn.microsoft
 
 
 <span id="syntaxToggle"></span>public ItemsControlRegionAdapter( IRegionBehaviorFactory regionBehaviorFactory )Public Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
-#### Parameters
+
+### Parameters
 
 regionBehaviorFactory  
 Type: [Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorfactory)

@@ -19,10 +19,10 @@ Fired if the [IsActive](https://msdn.microsoft.com/p:microsoft.practices.prism.c
 
 
 <span id="syntaxToggle"></span>public virtual event EventHandler IsActiveChangedPublic Overridable Event IsActiveChanged As EventHandler
-#### Value
+### Value
 
 Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
-#### Implements
+### Implements
 
 [IActiveAware.IsActiveChanged](https://msdn.microsoft.com/e:microsoft.practices.prism.iactiveaware.isactivechanged)
 

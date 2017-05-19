@@ -34,14 +34,15 @@ Public Overridable Function Contains (
 ) As Boolean
 ```
 
-#### Parameters
+
+### Parameters
 
 *subscriber*  
 Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))&gt;
 
 The [Action&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8) used when subscribing to the event.
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 

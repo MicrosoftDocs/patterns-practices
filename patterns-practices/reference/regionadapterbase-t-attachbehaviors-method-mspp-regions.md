@@ -21,7 +21,8 @@ Template method to attach new behaviors.
 
 
 <span id="syntaxToggle"></span>protected virtual void AttachBehaviors( IRegion region, T regionTarget )Protected Overridable Sub AttachBehaviors ( region As IRegion, regionTarget As T )
-#### Parameters
+
+### Parameters
 
 region  
 Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)

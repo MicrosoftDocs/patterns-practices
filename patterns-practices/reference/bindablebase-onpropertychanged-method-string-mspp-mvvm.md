@@ -19,7 +19,8 @@ Notifies listeners that a property value has changed.
 
 
 <span id="syntaxToggle"></span>protected void OnPropertyChanged( string propertyName )Protected Sub OnPropertyChanged ( propertyName As String )
-#### Parameters
+
+### Parameters
 
 propertyName  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

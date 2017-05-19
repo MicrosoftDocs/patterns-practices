@@ -21,10 +21,10 @@ Fired when interaction is needed.
 
 
 <span id="syntaxToggle"></span>public event EventHandler&lt;InteractionRequestedEventArgs&gt; RaisedPublic Event Raised As EventHandler(Of InteractionRequestedEventArgs)
-#### Value
+### Value
 
 Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([InteractionRequestedEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)&gt;)&gt;)
-#### Implements
+### Implements
 
 [IInteractionRequest.Raised](https://msdn.microsoft.com/e:microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest.raised)
 

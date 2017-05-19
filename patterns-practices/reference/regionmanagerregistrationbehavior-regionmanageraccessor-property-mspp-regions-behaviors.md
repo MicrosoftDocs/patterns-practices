@@ -28,7 +28,7 @@ Public Property RegionManagerAccessor As IRegionManagerAccessor
 	Set
 ```
 
-#### Property Value
+### Property Value
 
 Type: [IRegionManagerAccessor](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor(v=pandp.50))
 

@@ -21,7 +21,7 @@ Gets the hint.
 
 
 <span id="syntaxToggle"></span>public string Hint { get; }Public ReadOnly Property Hint As String Get
-#### Property Value
+### Property Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The hint to use for sorting.

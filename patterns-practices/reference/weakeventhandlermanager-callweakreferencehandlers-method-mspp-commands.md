@@ -19,7 +19,8 @@ Invokes the handlers
 
 
 <span id="syntaxToggle"></span>public static void CallWeakReferenceHandlers( Object sender, List&lt;WeakReference&gt; handlers )Public Shared Sub CallWeakReferenceHandlers ( sender As Object, handlers As List(Of WeakReference) )
-#### Parameters
+
+### Parameters
 
 sender  
 Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)

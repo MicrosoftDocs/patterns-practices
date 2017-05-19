@@ -21,7 +21,7 @@ Gets the navigation URI.
 
 
 <span id="syntaxToggle"></span>public Uri Uri { get; }Public ReadOnly Property Uri As Uri Get
-#### Property Value
+### Property Value
 
 Type: [Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
 The navigation URI.

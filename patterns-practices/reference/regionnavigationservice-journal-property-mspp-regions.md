@@ -29,12 +29,12 @@ Public ReadOnly Property Journal As IRegionNavigationJournal
 	Get
 ```
 
-#### Property Value
+### Property Value
 
 Type: [IRegionNavigationJournal](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal(v=pandp.50))
 <br/>The journal.
 
-#### Implements
+### Implements
 
 [IRegionNavigationService.Journal](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice.journal(v=pandp.50))
 

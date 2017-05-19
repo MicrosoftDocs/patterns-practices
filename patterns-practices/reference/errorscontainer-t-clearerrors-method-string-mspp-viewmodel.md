@@ -19,7 +19,8 @@ Clears the errors for a property.
 
 
 <span id="syntaxToggle"></span>public void ClearErrors( string propertyName )Public Sub ClearErrors ( propertyName As String )
-#### Parameters
+
+### Parameters
 
 propertyName  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

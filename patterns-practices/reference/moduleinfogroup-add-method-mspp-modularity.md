@@ -21,13 +21,14 @@ Adds an [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modu
 
 
 <span id="syntaxToggle"></span>public void Add( ModuleInfo item )Public Sub Add ( item As ModuleInfo )
-#### Parameters
+
+### Parameters
 
 item  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 The [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) to the [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup).
 
-#### Implements
+### Implements
 
 [ICollection&lt;(Of &lt;(T&gt;)&gt;).Add(T)](http://msdn2.microsoft.com/en-us/library/63ywd54z)
 

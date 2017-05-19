@@ -21,7 +21,7 @@ Gets a value that indicates whether there is at least one entry in the forward n
 
 
 <span id="syntaxToggle"></span>bool CanGoForward { get; }ReadOnly Property CanGoForward As Boolean Get
-#### Property Value
+### Property Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 true if this instance can go forward; otherwise, false.

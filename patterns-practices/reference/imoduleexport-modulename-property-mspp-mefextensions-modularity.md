@@ -21,7 +21,7 @@ Gets the name of the module.
 
 
 <span id="syntaxToggle"></span>string ModuleName { get; }ReadOnly Property ModuleName As String Get
-#### Property Value
+### Property Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the module.

@@ -21,7 +21,7 @@ Identifies the RegionManager attached property.
 
 
 <span id="syntaxToggle"></span>public static readonly DependencyProperty RegionManagerPropertyPublic Shared ReadOnly RegionManagerProperty As DependencyProperty
-#### Field Value
+### Field Value
 
 Type: [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318)
 

@@ -21,17 +21,18 @@ Removes a list by key.
 
 
 <span id="syntaxToggle"></span>public bool Remove( TKey key )Public Function Remove ( key As TKey ) As Boolean
-#### Parameters
+
+### Parameters
 
 key  
 Type: [TKey](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)
 The key of the list to remove.
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if the element was removed.
-#### Implements
+### Implements
 
 [IDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Remove(TKey)](http://msdn2.microsoft.com/en-us/library/k8s489f0)
 

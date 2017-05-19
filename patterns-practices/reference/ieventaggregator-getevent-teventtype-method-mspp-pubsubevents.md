@@ -26,7 +26,7 @@ Type Parameters
 TEventType  
 The type of event to get.
 
-#### Return Value
+### Return Value
 
 Type: TEventType
 An instance of an event object of type TEventType.

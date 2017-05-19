@@ -21,7 +21,7 @@ Gets the total bytes to receive.
 
 
 <span id="syntaxToggle"></span>public long TotalBytesToReceive { get; }Public ReadOnly Property TotalBytesToReceive As Long Get
-#### Property Value
+### Property Value
 
 Type: [Int64](http://msdn2.microsoft.com/en-us/library/6yy583ek)
 The total bytes to receive.

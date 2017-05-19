@@ -21,7 +21,8 @@ Registers a delegate that can be used to retrieve the content associated with a 
 
 
 <span id="syntaxToggle"></span>void RegisterViewWithRegion( string regionName, Func&lt;Object&gt; getContentDelegate )Sub RegisterViewWithRegion ( regionName As String, getContentDelegate As Func(Of Object) )
-#### Parameters
+
+### Parameters
 
 regionName  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

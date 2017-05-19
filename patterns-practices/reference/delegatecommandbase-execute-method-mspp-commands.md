@@ -19,12 +19,13 @@ Executes the command with the provided parameter by invoking the [Action&lt;(Of 
 
 
 <span id="syntaxToggle"></span>protected Task Execute( Object parameter )Protected Function Execute ( parameter As Object ) As Task
-#### Parameters
+
+### Parameters
 
 parameter  
 Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 
-#### Return Value
+### Return Value
 
 Type: [Task](http://msdn2.microsoft.com/en-us/library/dd235678)
 

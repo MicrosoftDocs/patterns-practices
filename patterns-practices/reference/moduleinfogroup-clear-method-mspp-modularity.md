@@ -21,7 +21,7 @@ Removes all [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.
 
 
 <span id="syntaxToggle"></span>public void Clear()Public Sub Clear
-#### Implements
+### Implements
 
 [ICollection&lt;(Of &lt;(T&gt;)&gt;).Clear()()()](http://msdn2.microsoft.com/en-us/library/5axy4fbh)
 [IList.Clear()()()](http://msdn2.microsoft.com/en-us/library/5h6ak0yz)

@@ -21,13 +21,14 @@ Checks for cyclic dependencies, by calling the dependencysolver.
 
 
 <span id="syntaxToggle"></span>protected static string[] SolveDependencies( IEnumerable&lt;ModuleInfo&gt; modules )Protected Shared Function SolveDependencies ( modules As IEnumerable(Of ModuleInfo) ) As String()
-#### Parameters
+
+### Parameters
 
 modules  
 Type: [System.Collections.Generic.IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;)&gt;)
 the.
 
-#### Return Value
+### Return Value
 
 Type: array&lt;[String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;
 

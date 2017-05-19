@@ -21,10 +21,10 @@ Raised when a navigation request fails.
 
 
 <span id="syntaxToggle"></span>public event EventHandler&lt;RegionNavigationFailedEventArgs&gt; NavigationFailedPublic Event NavigationFailed As EventHandler(Of RegionNavigationFailedEventArgs)
-#### Value
+### Value
 
 Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([RegionNavigationFailedEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationfailedeventargs)&gt;)&gt;)
-#### Implements
+### Implements
 
 [IRegionNavigationService.NavigationFailed](https://msdn.microsoft.com/e:microsoft.practices.prism.regions.iregionnavigationservice.navigationfailed)
 

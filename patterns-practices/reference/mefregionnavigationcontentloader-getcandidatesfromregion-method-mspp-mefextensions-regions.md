@@ -21,7 +21,8 @@ Returns the set of candidates that may satisfiy this navigation request.
 
 
 <span id="syntaxToggle"></span>protected override IEnumerable&lt;Object&gt; GetCandidatesFromRegion( IRegion region, string candidateNavigationContract )Protected Overrides Function GetCandidatesFromRegion ( region As IRegion, candidateNavigationContract As String ) As IEnumerable(Of Object)
-#### Parameters
+
+### Parameters
 
 region  
 Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
@@ -31,7 +32,7 @@ candidateNavigationContract
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The candidate navigation target.
 
-#### Return Value
+### Return Value
 
 Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 An enumerable of candidate objects from the [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)

@@ -21,7 +21,8 @@ Resolves all the instances of the requested service.
 
 
 <span id="syntaxToggle"></span>protected override Object DoGetInstance( Type serviceType, string key )Protected Overrides Function DoGetInstance ( serviceType As Type, key As String ) As Object
-#### Parameters
+
+### Parameters
 
 serviceType  
 Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
@@ -31,7 +32,7 @@ key
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Name of registered service you want. May be null.
 
-#### Return Value
+### Return Value
 
 Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 Sequence of service instance objects.

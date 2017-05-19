@@ -21,7 +21,8 @@ Adds a new module that is statically referenced to the specified module info gro
 
 
 <span id="syntaxToggle"></span>public static ModuleInfoGroup AddModule( this ModuleInfoGroup moduleInfoGroup, string moduleName, Type moduleType, params string[] dependsOn )&lt;ExtensionAttribute&gt; Public Shared Function AddModule ( moduleInfoGroup As ModuleInfoGroup, moduleName As String, moduleType As Type, ParamArray dependsOn As String() ) As ModuleInfoGroup
-#### Parameters
+
+### Parameters
 
 moduleInfoGroup  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup)
@@ -39,11 +40,11 @@ dependsOn
 Type: array&lt;[System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;
 The names for the modules that this module depends on.
 
-#### Return Value
+### Return Value
 
 Type: [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup)
 Returns the instance of the passed in module info group, to provide a fluid interface.
-#### Usage Note
+### Usage Note
 
 In Visual Basic and C\#, you can call this method as an instance method on any object of type [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 

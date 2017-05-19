@@ -21,7 +21,8 @@ Creates and adds a [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.prac
 
 
 <span id="syntaxToggle"></span>public virtual ModuleCatalog AddGroup( InitializationMode initializationMode, string refValue, params ModuleInfo[] moduleInfos )Public Overridable Function AddGroup ( initializationMode As InitializationMode, refValue As String, ParamArray moduleInfos As ModuleInfo() ) As ModuleCatalog
-#### Parameters
+
+### Parameters
 
 initializationMode  
 Type: [Microsoft.Practices.Prism.Modularity.InitializationMode](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.initializationmode)
@@ -35,7 +36,7 @@ moduleInfos
 Type: array&lt;[Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;
 Collection of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) included in the group.
 
-#### Return Value
+### Return Value
 
 Type: [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog)
 [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog) with the added module group.

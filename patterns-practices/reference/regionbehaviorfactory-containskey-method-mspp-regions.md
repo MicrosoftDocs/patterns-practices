@@ -21,17 +21,18 @@ Determines whether a behavior with the specified key already exists.
 
 
 <span id="syntaxToggle"></span>public bool ContainsKey( string behaviorKey )Public Function ContainsKey ( behaviorKey As String ) As Boolean
-#### Parameters
+
+### Parameters
 
 behaviorKey  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The behavior key.
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if a behavior with the specified key is present; otherwise, falseFalsefalsefalse (False in Visual Basic).
-#### Implements
+### Implements
 
 [IRegionBehaviorFactory.ContainsKey(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionbehaviorfactory.containskey(system.string))
 

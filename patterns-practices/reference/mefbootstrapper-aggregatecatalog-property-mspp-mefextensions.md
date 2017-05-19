@@ -28,7 +28,7 @@ Protected Property AggregateCatalog As AggregateCatalog
 	Set
 ```
 
-#### Property Value
+### Property Value
 
 Type: [AggregateCatalog](http://msdn2.microsoft.com/en-us/library/dd833165)<br/>
 The default AggregateCatalog instance.

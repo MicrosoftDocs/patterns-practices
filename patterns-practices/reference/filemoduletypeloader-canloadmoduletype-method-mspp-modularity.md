@@ -21,17 +21,18 @@ Evaluates the [Ref](https://msdn.microsoft.com/p:microsoft.practices.prism.modul
 
 
 <span id="syntaxToggle"></span>public bool CanLoadModuleType( ModuleInfo moduleInfo )Public Function CanLoadModuleType ( moduleInfo As ModuleInfo ) As Boolean
-#### Parameters
+
+### Parameters
 
 moduleInfo  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 Module that should have it's type loaded.
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if the current typeloader is able to retrieve the module, otherwise falseFalsefalsefalse (False in Visual Basic).
-#### Implements
+### Implements
 
 [IModuleTypeLoader.CanLoadModuleType(ModuleInfo)](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.imoduletypeloader.canloadmoduletype(microsoft.practices.prism.modularity.moduleinfo))
 

@@ -21,7 +21,8 @@ Initializes a new instance of the [ViewSortHintAttribute](https://msdn.microsoft
 
 
 <span id="syntaxToggle"></span>public ViewSortHintAttribute( string hint )Public Sub New ( hint As String )
-#### Parameters
+
+### Parameters
 
 hint  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

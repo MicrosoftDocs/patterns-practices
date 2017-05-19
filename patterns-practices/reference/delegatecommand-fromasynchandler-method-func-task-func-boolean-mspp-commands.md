@@ -19,7 +19,8 @@ Factory method to create a new instance of [DelegateCommand](https://msdn.micros
 
 
 <span id="syntaxToggle"></span>public static DelegateCommand FromAsyncHandler( Func&lt;Task&gt; executeMethod, Func&lt;bool&gt; canExecuteMethod )Public Shared Function FromAsyncHandler ( executeMethod As Func(Of Task), canExecuteMethod As Func(Of Boolean) ) As DelegateCommand
-#### Parameters
+
+### Parameters
 
 executeMethod  
 Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Task](http://msdn2.microsoft.com/en-us/library/dd235678)&gt;)&gt;)
@@ -29,7 +30,7 @@ canExecuteMethod
 Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
 Delegate to execute when CanExecute is called on the command. This can be null.
 
-#### Return Value
+### Return Value
 
 Type: [DelegateCommand](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand)
 Constructed instance of [DelegateCommand](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand)

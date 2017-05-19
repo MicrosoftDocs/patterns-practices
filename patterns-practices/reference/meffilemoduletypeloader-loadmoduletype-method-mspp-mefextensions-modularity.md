@@ -35,7 +35,8 @@ Public Overridable Sub LoadModuleType (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *moduleInfo*  
 
@@ -43,7 +44,7 @@ Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.c
 
 Module that should have it's type loaded.
 
-#### Implements
+### Implements
 
 [IModuleTypeLoader.LoadModuleType(ModuleInfo)](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader.loadmoduletype(v=pandp.50))
 

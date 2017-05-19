@@ -21,13 +21,14 @@ Returns an [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com
 
 
 <span id="syntaxToggle"></span>public static ObservableObject&lt;IRegion&gt; GetObservableRegion( DependencyObject view )Public Shared Function GetObservableRegion ( view As DependencyObject ) As ObservableObject(Of IRegion)
-#### Parameters
+
+### Parameters
 
 view  
 Type: [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
 The view that will host the region.
 
-#### Return Value
+### Return Value
 
 Type: [ObservableObject](https://msdn.microsoft.com/t:microsoft.practices.prism.observableobject%601)&lt;(Of &lt;([IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)&gt;)&gt;)
 Wrapper that can hold an [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) value and can notify when the [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) value changes.

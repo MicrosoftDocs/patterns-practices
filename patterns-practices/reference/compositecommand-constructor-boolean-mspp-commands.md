@@ -19,7 +19,8 @@ Initializes a new instance of [CompositeCommand](https://msdn.microsoft.com/t:mi
 
 
 <span id="syntaxToggle"></span>public CompositeCommand( bool monitorCommandActivity )Public Sub New ( monitorCommandActivity As Boolean )
-#### Parameters
+
+### Parameters
 
 monitorCommandActivity  
 Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)

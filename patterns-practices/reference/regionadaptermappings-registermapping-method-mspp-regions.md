@@ -21,7 +21,8 @@ Registers the mapping between a type and an adapter.
 
 
 <span id="syntaxToggle"></span>public void RegisterMapping( Type controlType, IRegionAdapter adapter )Public Sub RegisterMapping ( controlType As Type, adapter As IRegionAdapter )
-#### Parameters
+
+### Parameters
 
 controlType  
 Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)

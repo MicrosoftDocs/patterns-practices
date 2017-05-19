@@ -21,7 +21,8 @@ Run the bootstrapper process.
 
 
 <span id="syntaxToggle"></span>public override void Run( bool runWithDefaultConfiguration )Public Overrides Sub Run ( runWithDefaultConfiguration As Boolean )
-#### Parameters
+
+### Parameters
 
 runWithDefaultConfiguration  
 Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)

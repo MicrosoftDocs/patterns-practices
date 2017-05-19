@@ -21,7 +21,7 @@ Creates a new [ModuleConfigurationElement](https://msdn.microsoft.com/t:microsof
 
 
 <span id="syntaxToggle"></span>protected override ConfigurationElement CreateNewElement()Protected Overrides Function CreateNewElement As ConfigurationElement
-#### Return Value
+### Return Value
 
 Type: [ConfigurationElement](http://msdn2.microsoft.com/en-us/library/kyx77cz3)
 A [ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement).

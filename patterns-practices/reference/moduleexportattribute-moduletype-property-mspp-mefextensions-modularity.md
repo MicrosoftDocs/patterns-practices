@@ -28,10 +28,10 @@ Public ReadOnly Property ModuleType As Type
 	Get
 ```
 
-#### Property Value
+### Property Value
 
 Type: [Type](http://msdn2.microsoft.com/en-us/library/42892f65)
-#### Implements
+### Implements
 
 [IModuleExport.ModuleType](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport.moduletype(v=pandp.50))
 

@@ -21,7 +21,7 @@ Raised repeatedly to provide progress as modules are downloaded.
 event EventHandler<ModuleDownloadProgressChangedEventArgs> ModuleDownloadProgressChanged
 ```
 
-#### Value
+### Value
 
 Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;[ModuleDownloadProgressChangedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs(v=pandp.50))&gt;
 
@@ -30,7 +30,7 @@ Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&l
 Event ModuleDownloadProgressChanged As EventHandler(Of ModuleDownloadProgressChangedEventArgs)
 ```
 
-#### Value
+### Value
 
 Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)(Of [ModuleDownloadProgressChangedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs(v=pandp.50)))
 

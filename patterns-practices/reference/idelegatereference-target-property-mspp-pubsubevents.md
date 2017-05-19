@@ -19,7 +19,7 @@ Gets the referenced [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51
 
 
 <span id="syntaxToggle"></span>Delegate Target { get; }ReadOnly Property Target As Delegate Get
-#### Property Value
+### Property Value
 
 Type: [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51)
 A [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51) instance if the target is valid; otherwise nullNothingnullptra null reference (Nothing in Visual Basic).

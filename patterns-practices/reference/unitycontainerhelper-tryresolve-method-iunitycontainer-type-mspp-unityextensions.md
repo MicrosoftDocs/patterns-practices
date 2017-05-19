@@ -21,7 +21,8 @@ Utility method to try to resolve a service from the container avoiding an except
 
 
 <span id="syntaxToggle"></span>public static Object TryResolve( this IUnityContainer container, Type typeToResolve )&lt;ExtensionAttribute&gt; Public Shared Function TryResolve ( container As IUnityContainer, typeToResolve As Type ) As Object
-#### Parameters
+
+### Parameters
 
 container  
 Type: IUnityContainer
@@ -31,11 +32,11 @@ typeToResolve
 Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The type to resolve.
 
-#### Return Value
+### Return Value
 
 Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The instance of typeToResolve built up by the container.
-#### Usage Note
+### Usage Note
 
 In Visual Basic and C\#, you can call this method as an instance method on any object of type IUnityContainer. When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 

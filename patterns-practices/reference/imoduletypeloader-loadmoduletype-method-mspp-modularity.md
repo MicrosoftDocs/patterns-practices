@@ -21,7 +21,8 @@ Retrieves the moduleInfo.
 
 
 <span id="syntaxToggle"></span>void LoadModuleType( ModuleInfo moduleInfo )Sub LoadModuleType ( moduleInfo As ModuleInfo )
-#### Parameters
+
+### Parameters
 
 moduleInfo  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)

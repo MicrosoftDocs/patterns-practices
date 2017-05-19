@@ -19,11 +19,11 @@ Gets the [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51) (the targ
 
 
 <span id="syntaxToggle"></span>public Delegate Target { get; }Public ReadOnly Property Target As Delegate Get
-#### Property Value
+### Property Value
 
 Type: [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51)
 nullNothingnullptra null reference (Nothing in Visual Basic) if the object referenced by the current [DelegateReference](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.delegatereference) object has been garbage collected; otherwise, a reference to the [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51) referenced by the current [DelegateReference](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.delegatereference) object.
-#### Implements
+### Implements
 
 [IDelegateReference.Target](https://msdn.microsoft.com/p:microsoft.practices.prism.pubsubevents.idelegatereference.target)
 

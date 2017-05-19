@@ -21,7 +21,7 @@ Gets all the [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism
 
 
 <span id="syntaxToggle"></span>IEnumerable&lt;ModuleInfo&gt; Modules { get; }ReadOnly Property Modules As IEnumerable(Of ModuleInfo) Get
-#### Property Value
+### Property Value
 
 Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;)&gt;)
 

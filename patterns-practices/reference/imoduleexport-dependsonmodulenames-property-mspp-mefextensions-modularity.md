@@ -21,7 +21,7 @@ Gets the names of modules this module depends upon.
 
 
 <span id="syntaxToggle"></span>string[] DependsOnModuleNames { get; }ReadOnly Property DependsOnModuleNames As String() Get
-#### Property Value
+### Property Value
 
 Type: array&lt;[String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;
 An array of module names.

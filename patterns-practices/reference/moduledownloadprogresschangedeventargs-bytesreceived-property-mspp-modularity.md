@@ -21,7 +21,7 @@ Gets the bytes received.
 
 
 <span id="syntaxToggle"></span>public long BytesReceived { get; }Public ReadOnly Property BytesReceived As Long Get
-#### Property Value
+### Property Value
 
 Type: [Int64](http://msdn2.microsoft.com/en-us/library/6yy583ek)
 The bytes received.

@@ -19,7 +19,7 @@ Executes the command.
 
 
 <span id="syntaxToggle"></span>public virtual Task Execute()Public Overridable Function Execute As Task
-#### Return Value
+### Return Value
 
 Type: [Task](http://msdn2.microsoft.com/en-us/library/dd235678)
 

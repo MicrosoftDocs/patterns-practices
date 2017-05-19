@@ -24,7 +24,8 @@ public NavigationResult(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *context*
 
@@ -56,7 +57,8 @@ Public Sub New (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *context*
 

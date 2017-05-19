@@ -21,7 +21,8 @@ Initiates navigation to the specified target.
 
 
 <span id="syntaxToggle"></span>public void RequestNavigate( Uri target, Action&lt;NavigationResult&gt; navigationCallback, NavigationParameters navigationParameters )Public Sub RequestNavigate ( target As Uri, navigationCallback As Action(Of NavigationResult), navigationParameters As NavigationParameters )
-#### Parameters
+
+### Parameters
 
 target  
 Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
@@ -35,7 +36,7 @@ navigationParameters
 Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters)
 The navigation parameters specific to the navigation request.
 
-#### Implements
+### Implements
 
 [INavigateAsync.RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.inavigateasync.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d%2cmicrosoft.practices.prism.regions.navigationparameters))
 

@@ -21,13 +21,14 @@ Registers the specified assembly and resolves the types in it when the AppDomain
 
 
 <span id="syntaxToggle"></span>public void LoadAssemblyFrom( string assemblyFilePath )Public Sub LoadAssemblyFrom ( assemblyFilePath As String )
-#### Parameters
+
+### Parameters
 
 assemblyFilePath  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The path to the assemly to load in the LoadFrom context.
 
-#### Implements
+### Implements
 
 [IAssemblyResolver.LoadAssemblyFrom(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.iassemblyresolver.loadassemblyfrom(system.string))
 

@@ -21,7 +21,8 @@ Initializes a new instance of [ModuleDependencyConfigurationElement](https://msd
 
 
 <span id="syntaxToggle"></span>public ModuleDependencyConfigurationElement( string moduleName )Public Sub New ( moduleName As String )
-#### Parameters
+
+### Parameters
 
 moduleName  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

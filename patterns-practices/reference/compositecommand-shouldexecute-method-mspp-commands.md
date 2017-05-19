@@ -19,13 +19,14 @@ Evaluates if a command should execute.
 
 
 <span id="syntaxToggle"></span>protected virtual bool ShouldExecute( ICommand command )Protected Overridable Function ShouldExecute ( command As ICommand ) As Boolean
-#### Parameters
+
+### Parameters
 
 command  
 Type: [System.Windows.Input.ICommand](http://msdn2.microsoft.com/en-us/library/ms616869)
 The command to evaluate.
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 A [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50) value indicating whether the command should be used when evaluating [CanExecute(Object)](https://msdn.microsoft.com/m:microsoft.practices.prism.commands.compositecommand.canexecute(system.object)) and [Execute(Object)](https://msdn.microsoft.com/m:microsoft.practices.prism.commands.compositecommand.execute(system.object)).

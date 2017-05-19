@@ -21,7 +21,8 @@ Adds a [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.
 
 
 <span id="syntaxToggle"></span>public void Add( string key, IRegionBehavior regionBehavior )Public Sub Add ( key As String, regionBehavior As IRegionBehavior )
-#### Parameters
+
+### Parameters
 
 key  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
@@ -31,7 +32,7 @@ regionBehavior
 Type: [Microsoft.Practices.Prism.Regions.IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior)
 The [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior) to add.
 
-#### Implements
+### Implements
 
 [IRegionBehaviorCollection.Add(String, IRegionBehavior)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionbehaviorcollection.add(system.string%2cmicrosoft.practices.prism.regions.iregionbehavior))
 

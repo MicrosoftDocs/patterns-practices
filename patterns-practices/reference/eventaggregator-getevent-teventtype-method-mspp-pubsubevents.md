@@ -26,11 +26,11 @@ Type Parameters
 TEventType  
 The type of event to get. This must inherit from [EventBase](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventbase).
 
-#### Return Value
+### Return Value
 
 Type: TEventType
 A singleton instance of an event object of type TEventType.
-#### Implements
+### Implements
 
 [IEventAggregator.GetEvent&lt;(Of &lt;(TEventType&gt;)&gt;)()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.pubsubevents.ieventaggregator.getevent%60%601)
 

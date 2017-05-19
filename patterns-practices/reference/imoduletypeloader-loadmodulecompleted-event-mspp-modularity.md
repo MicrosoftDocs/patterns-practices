@@ -24,7 +24,7 @@ Raised when a module is loaded or fails to load.
     event EventHandler<LoadModuleCompletedEventArgs> LoadModuleCompleted
 ```
 
-#### Value
+### Value
 
 Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs(v=pandp.50))&gt;
 
@@ -47,7 +47,7 @@ Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&l
 event EventHandler<LoadModuleCompletedEventArgs> LoadModuleCompleted
 ```
 
-#### Value
+### Value
 
 Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs(v=pandp.50))&gt;
 
@@ -58,7 +58,7 @@ Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&l
 Event LoadModuleCompleted As EventHandler(Of LoadModuleCompletedEventArgs)
 ```
 
-#### Value
+### Value
 
 Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)(Of [LoadModuleCompletedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs(v=pandp.50)))
 

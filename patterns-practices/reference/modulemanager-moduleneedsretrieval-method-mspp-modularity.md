@@ -21,13 +21,14 @@ Checks if the module needs to be retrieved before it's initialized.
 
 
 <span id="syntaxToggle"></span>protected virtual bool ModuleNeedsRetrieval( ModuleInfo moduleInfo )Protected Overridable Function ModuleNeedsRetrieval ( moduleInfo As ModuleInfo ) As Boolean
-#### Parameters
+
+### Parameters
 
 moduleInfo  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 Module that is being checked if needs retrieval.
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 

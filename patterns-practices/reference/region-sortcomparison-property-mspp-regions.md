@@ -21,11 +21,11 @@ Gets or sets the comparison used to sort the views.
 
 
 <span id="syntaxToggle"></span>public Comparison&lt;Object&gt; SortComparison { get; set; }Public Property SortComparison As Comparison(Of Object) Get Set
-#### Property Value
+### Property Value
 
 Type: [Comparison](http://msdn2.microsoft.com/en-us/library/tfakywbh)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 The comparison to use.
-#### Implements
+### Implements
 
 [IRegion.SortComparison](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.sortcomparison)
 

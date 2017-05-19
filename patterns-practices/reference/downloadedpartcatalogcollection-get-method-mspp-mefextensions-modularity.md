@@ -21,13 +21,14 @@ Gets the catalog for the specified module info.
 
 
 <span id="syntaxToggle"></span>public ComposablePartCatalog Get( ModuleInfo moduleInfo )Public Function Get ( moduleInfo As ModuleInfo ) As ComposablePartCatalog
-#### Parameters
+
+### Parameters
 
 moduleInfo  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 The module info.
 
-#### Return Value
+### Return Value
 
 Type: [ComposablePartCatalog](http://msdn2.microsoft.com/en-us/library/dd454614)
 

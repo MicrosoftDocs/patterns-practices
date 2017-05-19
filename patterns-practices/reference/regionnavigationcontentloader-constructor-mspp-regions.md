@@ -21,7 +21,8 @@ Initializes a new instance of the [RegionNavigationContentLoader](https://msdn.m
 
 
 <span id="syntaxToggle"></span>public RegionNavigationContentLoader( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
-#### Parameters
+
+### Parameters
 
 serviceLocator  
 Type: IServiceLocator

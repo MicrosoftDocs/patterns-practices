@@ -19,7 +19,8 @@ Calls all the execution strategies exposed by the list of [IEventSubscription](h
 
 
 <span id="syntaxToggle"></span>protected virtual void InternalPublish( params Object[] arguments )Protected Overridable Sub InternalPublish ( ParamArray arguments As Object() )
-#### Parameters
+
+### Parameters
 
 arguments  
 Type: array&lt;[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;

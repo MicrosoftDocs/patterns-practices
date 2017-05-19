@@ -21,7 +21,7 @@ Gets or sets a value indicating whether the module should be loaded at startup.
 
 
 <span id="syntaxToggle"></span>[ObsoleteAttribute("StartupLoaded has been replaced by the OnDemand property.")\] public bool StartupLoaded { get; set; }&lt;ObsoleteAttribute("StartupLoaded has been replaced by the OnDemand property.")&gt; Public Property StartupLoaded As Boolean Get Set
-#### Property Value
+### Property Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 A [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50) value.

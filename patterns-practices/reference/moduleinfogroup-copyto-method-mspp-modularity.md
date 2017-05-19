@@ -21,7 +21,8 @@ Copies the elements of the [ModuleInfoGroup](https://msdn.microsoft.com/t:micros
 
 
 <span id="syntaxToggle"></span>public void CopyTo( ModuleInfo[] array, int arrayIndex )Public Sub CopyTo ( array As ModuleInfo(), arrayIndex As Integer )
-#### Parameters
+
+### Parameters
 
 array  
 Type: array&lt;[Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;
@@ -31,7 +32,7 @@ arrayIndex
 Type: [System.Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
 The zero-based index in array at which copying begins.
 
-#### Implements
+### Implements
 
 [ICollection&lt;(Of &lt;(T&gt;)&gt;).CopyTo(array&lt;T&gt;, Int32)](http://msdn2.microsoft.com/en-us/library/0efx51xw)
 

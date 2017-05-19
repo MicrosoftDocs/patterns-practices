@@ -23,7 +23,8 @@ public static string ExtractPropertyName<T>(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *propertyExpression* 
 
@@ -37,7 +38,7 @@ The property expression (e.g. p =&gt; p.PropertyName)
  
   The object type containing the property specified in the expression.
 
-#### Return Value
+### Return Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 
@@ -94,7 +95,8 @@ Public Shared Function ExtractPropertyName(Of T) (
 ) As String
 ```
 
-#### Parameters
+
+### Parameters
 
 *propertyExpression*
  
@@ -108,7 +110,7 @@ The property expression (e.g. p =&gt; p.PropertyName)
 
 The object type containing the property specified in the expression.
 
-#### Return Value
+### Return Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the property.

@@ -31,14 +31,15 @@ Public Shared Function GetRegionManager (
 ) As IRegionManager
 ```
 
-#### Parameters
+
+### Parameters
 
 *target*  
 Type: [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
 
 The target element.
 
-#### Return Value
+### Return Value
 
 Type: [IRegionManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanager(v=pandp.50))
 

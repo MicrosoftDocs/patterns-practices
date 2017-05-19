@@ -21,7 +21,8 @@ Adapts an object and binds it to a new [IRegion](https://msdn.microsoft.com/t:mi
 
 
 <span id="syntaxToggle"></span>IRegion Initialize( Object regionTarget, string regionName )Function Initialize ( regionTarget As Object, regionName As String ) As IRegion
-#### Parameters
+
+### Parameters
 
 regionTarget  
 Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
@@ -31,7 +32,7 @@ regionName
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region to be created.
 
-#### Return Value
+### Return Value
 
 Type: [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 The new instance of [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) that the regionTarget is bound to.

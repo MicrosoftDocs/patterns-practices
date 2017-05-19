@@ -21,7 +21,7 @@ Identifies the Value property of the ObservableObject
 
 
 <span id="syntaxToggle"></span>public static readonly DependencyProperty ValuePropertyPublic Shared ReadOnly ValueProperty As DependencyProperty
-#### Field Value
+### Field Value
 
 Type: [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318)
 

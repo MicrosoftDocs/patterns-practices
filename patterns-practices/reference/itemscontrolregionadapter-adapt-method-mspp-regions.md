@@ -21,7 +21,8 @@ Adapts an [ItemsControl](http://msdn2.microsoft.com/en-us/library/ms611045) to a
 
 
 <span id="syntaxToggle"></span>protected override void Adapt( IRegion region, ItemsControl regionTarget )Protected Overrides Sub Adapt ( region As IRegion, regionTarget As ItemsControl )
-#### Parameters
+
+### Parameters
 
 region  
 Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)

@@ -21,7 +21,8 @@ Template method to adapt the object to an [IRegion](https://msdn.microsoft.com/t
 
 
 <span id="syntaxToggle"></span>protected abstract void Adapt( IRegion region, T regionTarget )Protected MustOverride Sub Adapt ( region As IRegion, regionTarget As T )
-#### Parameters
+
+### Parameters
 
 region  
 Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)

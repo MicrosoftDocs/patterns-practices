@@ -21,10 +21,10 @@ Gets or sets the title to use for the notification.
 
 
 <span id="syntaxToggle"></span>public string Title { get; set; }Public Property Title As String Get Set
-#### Property Value
+### Property Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
-#### Implements
+### Implements
 
 [INotification.Title](https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.interactionrequest.inotification.title)
 

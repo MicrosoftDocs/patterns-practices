@@ -31,7 +31,7 @@ Gets or sets the comparison used to sort the views.
 	   Get
 	   Set
 ```
-#### Property Value
+### Property Value
 
 Type: [Comparison](http://msdn2.microsoft.com/en-us/library/tfakywbh)(Of [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b))
 

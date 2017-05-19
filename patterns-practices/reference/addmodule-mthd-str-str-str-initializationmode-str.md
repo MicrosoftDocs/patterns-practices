@@ -29,7 +29,8 @@ public ModuleCatalog AddModule(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *moduleName*  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
@@ -56,7 +57,7 @@ Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)[]
 
 Collection of module names ([ModuleName](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo.modulename(v=pandp.50))) of the modules on which the module to be added logically depends on.
 
-#### Return Value
+### Return Value
 
 Type: [ModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50))
 
@@ -95,7 +96,8 @@ Public Function AddModule (
 ) As ModuleCatalog
 ```
 
-#### Parameters
+
+### Parameters
 
 *moduleName*  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
@@ -122,7 +124,7 @@ Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)()
 
 Collection of module names ([ModuleName](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo.modulename(v=pandp.50))) of the modules on which the module to be added logically depends on.
 
-#### Return Value
+### Return Value
 
 Type: [ModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50))
 

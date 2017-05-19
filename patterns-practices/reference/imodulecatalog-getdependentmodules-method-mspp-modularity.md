@@ -21,13 +21,14 @@ Return the list of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices
 
 
 <span id="syntaxToggle"></span>IEnumerable&lt;ModuleInfo&gt; GetDependentModules( ModuleInfo moduleInfo )Function GetDependentModules ( moduleInfo As ModuleInfo ) As IEnumerable(Of ModuleInfo)
-#### Parameters
+
+### Parameters
 
 moduleInfo  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 The [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) to get the
 
-#### Return Value
+### Return Value
 
 Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;)&gt;)
 An enumeration of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) that moduleInfo depends on.

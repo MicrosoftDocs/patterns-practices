@@ -21,7 +21,8 @@ Registers a content type with a region name.
 
 
 <span id="syntaxToggle"></span>public void RegisterViewWithRegion( string regionName, Type viewType )Public Sub RegisterViewWithRegion ( regionName As String, viewType As Type )
-#### Parameters
+
+### Parameters
 
 regionName  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
@@ -31,7 +32,7 @@ viewType
 Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 Content type to be registered for the regionName.
 
-#### Implements
+### Implements
 
 [IRegionViewRegistry.RegisterViewWithRegion(String, Type)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionviewregistry.registerviewwithregion(system.string%2csystem.type))
 

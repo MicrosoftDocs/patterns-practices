@@ -21,7 +21,8 @@ Subscribes a delegate to an event that will be published on the PublisherThread.
 
 
 <span id="syntaxToggle"></span>public SubscriptionToken Subscribe( Action&lt;TPayload&gt; action, bool keepSubscriberReferenceAlive )Public Function Subscribe ( action As Action(Of TPayload), keepSubscriberReferenceAlive As Boolean ) As SubscriptionToken
-#### Parameters
+
+### Parameters
 
 action  
 Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/t:microsoft.practices.prism.events.compositepresentationevent%601)&gt;)&gt;)
@@ -31,7 +32,7 @@ keepSubscriberReferenceAlive
 Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 When trueTruetruetrue (True in Visual Basic), the [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.events.compositepresentationevent%601) keeps a reference to the subscriber so it does not get garbage collected.
 
-#### Return Value
+### Return Value
 
 Type: SubscriptionToken
 A SubscriptionToken that uniquely identifies the added subscription.

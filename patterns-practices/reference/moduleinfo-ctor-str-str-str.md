@@ -21,7 +21,8 @@ Initializes a new instance of [ModuleInfo](https://msdn.microsoft.com/t:microsof
 
 
 <span id="syntaxToggle"></span>public ModuleInfo( string name, string type, params string[] dependsOn )Public Sub New ( name As String, type As String, ParamArray dependsOn As String() )
-#### Parameters
+
+### Parameters
 
 name  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

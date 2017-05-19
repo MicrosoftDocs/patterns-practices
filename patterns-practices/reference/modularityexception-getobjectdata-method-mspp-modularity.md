@@ -34,7 +34,8 @@ Public Overrides Sub GetObjectData (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *info*  
 Type: [System.Runtime.Serialization.SerializationInfo](http://msdn2.microsoft.com/en-us/library/a9b6042e)
@@ -46,7 +47,7 @@ Type: [System.Runtime.Serialization.StreamingContext](http://msdn2.microsoft.com
 
 The [StreamingContext](http://msdn2.microsoft.com/en-us/library/t16abws5) that contains contextual information about the source or destination.
 
-#### Implements
+### Implements
 
 [ISerializable.GetObjectData(SerializationInfo, StreamingContext)](http://msdn2.microsoft.com/en-us/library/27cxsdk6)
 

@@ -19,7 +19,8 @@ Removes a command from the collection and removes itself from the [CanExecuteCha
 
 
 <span id="syntaxToggle"></span>public virtual void UnregisterCommand( ICommand command )Public Overridable Sub UnregisterCommand ( command As ICommand )
-#### Parameters
+
+### Parameters
 
 command  
 Type: [System.Windows.Input.ICommand](http://msdn2.microsoft.com/en-us/library/ms616869)

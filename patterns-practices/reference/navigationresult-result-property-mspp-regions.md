@@ -21,7 +21,7 @@ Gets the result.
 
 
 <span id="syntaxToggle"></span>public Nullable&lt;bool&gt; Result { get; }Public ReadOnly Property Result As Nullable(Of Boolean) Get
-#### Property Value
+### Property Value
 
 Type: [Nullable](http://msdn2.microsoft.com/en-us/library/b3h38hb0)&lt;(Of &lt;([Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
 The result.

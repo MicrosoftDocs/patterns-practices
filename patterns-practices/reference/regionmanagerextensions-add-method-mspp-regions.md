@@ -21,7 +21,8 @@ Adds a region to the regionmanager with the name received as argument.
 
 
 <span id="syntaxToggle"></span>public static void Add( this IRegionCollection regionCollection, string regionName, IRegion region )&lt;ExtensionAttribute&gt; Public Shared Sub Add ( regionCollection As IRegionCollection, regionName As String, region As IRegion )
-#### Parameters
+
+### Parameters
 
 regionCollection  
 Type: [Microsoft.Practices.Prism.Regions.IRegionCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregioncollection)
@@ -35,7 +36,7 @@ region
 Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 The region to be added to the regionmanager.
 
-#### Usage Note
+### Usage Note
 
 In Visual Basic and C\#, you can call this method as an instance method on any object of type [IRegionCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregioncollection). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 

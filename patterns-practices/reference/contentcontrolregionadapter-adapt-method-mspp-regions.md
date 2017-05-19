@@ -21,7 +21,8 @@ Adapts a [ContentControl](http://msdn2.microsoft.com/en-us/library/ms609797) to 
 
 
 <span id="syntaxToggle"></span>protected override void Adapt( IRegion region, ContentControl regionTarget )Protected Overrides Sub Adapt ( region As IRegion, regionTarget As ContentControl )
-#### Parameters
+
+### Parameters
 
 region  
 Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)

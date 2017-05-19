@@ -21,10 +21,10 @@ Occurs when the collection changes.
 
 
 <span id="syntaxToggle"></span>public event NotifyCollectionChangedEventHandler CollectionChangedPublic Event CollectionChanged As NotifyCollectionChangedEventHandler
-#### Value
+### Value
 
 Type: [System.Collections.Specialized.NotifyCollectionChangedEventHandler](http://msdn2.microsoft.com/en-us/library/ms628284)
-#### Implements
+### Implements
 
 [INotifyCollectionChanged.CollectionChanged](http://msdn2.microsoft.com/en-us/library/ms653382)
 

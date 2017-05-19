@@ -27,7 +27,7 @@ event EventHandler<RegionNavigationEventArgs> Navigated
 Event Navigated As EventHandler(Of RegionNavigationEventArgs)
 ```
 
-#### Value
+### Value
 
 Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)(Of [RegionNavigationEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationeventargs(v=pandp.50)))
 

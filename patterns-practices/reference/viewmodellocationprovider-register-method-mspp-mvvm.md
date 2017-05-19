@@ -20,7 +20,8 @@ public static void Register(
 	Func<Object> factory
 )
 ```
-#### Parameters
+
+### Parameters
 
 *viewTypeName*
 
@@ -44,7 +45,8 @@ Public Shared Sub Register (
 )
 )
 ```
-#### Parameters
+
+### Parameters
 
 *viewTypeName*
 

@@ -21,7 +21,7 @@ Gets when the module should have Initialize() called.
 
 
 <span id="syntaxToggle"></span>InitializationMode InitializationMode { get; }ReadOnly Property InitializationMode As InitializationMode Get
-#### Property Value
+### Property Value
 
 Type: [InitializationMode](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.initializationmode)
 The initialization mode.

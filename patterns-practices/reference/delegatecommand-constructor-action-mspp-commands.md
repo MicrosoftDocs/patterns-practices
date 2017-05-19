@@ -19,7 +19,8 @@ Creates a new instance of [DelegateCommand](https://msdn.microsoft.com/t:microso
 
 
 <span id="syntaxToggle"></span>public DelegateCommand( Action executeMethod )Public Sub New ( executeMethod As Action )
-#### Parameters
+
+### Parameters
 
 executeMethod  
 Type: [System.Action](http://msdn2.microsoft.com/en-us/library/bb534741)

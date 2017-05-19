@@ -19,7 +19,8 @@ Initializes a new instance of [SubscriptionToken](https://msdn.microsoft.com/t:m
 
 
 <span id="syntaxToggle"></span>public SubscriptionToken( Action&lt;SubscriptionToken&gt; unsubscribeAction )Public Sub New ( unsubscribeAction As Action(Of SubscriptionToken) )
-#### Parameters
+
+### Parameters
 
 unsubscribeAction  
 Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([SubscriptionToken](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken)&gt;)&gt;)

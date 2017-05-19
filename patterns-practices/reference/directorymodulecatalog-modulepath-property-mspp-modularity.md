@@ -21,7 +21,7 @@ Directory containing modules to search for.
 
 
 <span id="syntaxToggle"></span>public string ModulePath { get; set; }Public Property ModulePath As String Get Set
-#### Property Value
+### Property Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 

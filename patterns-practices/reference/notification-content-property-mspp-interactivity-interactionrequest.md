@@ -21,10 +21,10 @@ Gets or sets the content of the notification.
 
 
 <span id="syntaxToggle"></span>public Object Content { get; set; }Public Property Content As Object Get Set
-#### Property Value
+### Property Value
 
 Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-#### Implements
+### Implements
 
 [INotification.Content](https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.interactionrequest.inotification.content)
 

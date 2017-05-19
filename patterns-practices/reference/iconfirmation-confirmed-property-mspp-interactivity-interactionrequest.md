@@ -21,7 +21,7 @@ Gets or sets a value indicating that the confirmation is confirmed.
 
 
 <span id="syntaxToggle"></span>bool Confirmed { get; set; }Property Confirmed As Boolean Get Set
-#### Property Value
+### Property Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 

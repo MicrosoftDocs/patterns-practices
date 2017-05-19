@@ -21,7 +21,8 @@ Inserts an item to the [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.
 
 
 <span id="syntaxToggle"></span>public void Insert( int index, Object value )Public Sub Insert ( index As Integer, value As Object )
-#### Parameters
+
+### Parameters
 
 index  
 Type: [System.Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
@@ -31,7 +32,7 @@ value
 Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b) to insert into the [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup). Must be of type [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 
-#### Implements
+### Implements
 
 [IList.Insert(Int32, Object)](http://msdn2.microsoft.com/en-us/library/zkf4388a)
 

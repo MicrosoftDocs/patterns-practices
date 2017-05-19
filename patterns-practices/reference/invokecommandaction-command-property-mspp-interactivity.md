@@ -21,7 +21,7 @@ Gets or sets the command to execute when invoked.
 
 
 <span id="syntaxToggle"></span>public ICommand Command { get; set; }Public Property Command As ICommand Get Set
-#### Property Value
+### Property Value
 
 Type: [ICommand](http://msdn2.microsoft.com/en-us/library/ms616869)
 

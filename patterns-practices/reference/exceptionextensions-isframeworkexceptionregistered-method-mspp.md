@@ -21,13 +21,14 @@ Determines whether the exception type is already registered using the [RegisterF
 
 
 <span id="syntaxToggle"></span>public static bool IsFrameworkExceptionRegistered( Type frameworkExceptionType )Public Shared Function IsFrameworkExceptionRegistered ( frameworkExceptionType As Type ) As Boolean
-#### Parameters
+
+### Parameters
 
 frameworkExceptionType  
 Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The type of framework exception to find.
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 true if the exception type is already registered; otherwise, false.

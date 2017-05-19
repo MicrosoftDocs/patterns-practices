@@ -21,7 +21,7 @@ Gets or sets the [InitializationMode](https://msdn.microsoft.com/p:microsoft.pra
 
 
 <span id="syntaxToggle"></span>public InitializationMode InitializationMode { get; set; }Public Property InitializationMode As InitializationMode Get Set
-#### Property Value
+### Property Value
 
 Type: [InitializationMode](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.initializationmode)
 The initialization mode.

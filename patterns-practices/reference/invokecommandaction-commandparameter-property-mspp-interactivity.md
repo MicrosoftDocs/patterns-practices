@@ -21,7 +21,7 @@ Gets or sets the command parameter to supply on command execution.
 
 
 <span id="syntaxToggle"></span>public Object CommandParameter { get; set; }Public Property CommandParameter As Object Get Set
-#### Property Value
+### Property Value
 
 Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 

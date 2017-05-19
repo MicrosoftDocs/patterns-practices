@@ -21,11 +21,11 @@ Creates a new region manager.
 
 
 <span id="syntaxToggle"></span>public IRegionManager CreateRegionManager()Public Function CreateRegionManager As IRegionManager
-#### Return Value
+### Return Value
 
 Type: [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
 A new region manager that can be used as a different scope from the current region manager.
-#### Implements
+### Implements
 
 [IRegionManager.CreateRegionManager()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionmanager.createregionmanager)
 

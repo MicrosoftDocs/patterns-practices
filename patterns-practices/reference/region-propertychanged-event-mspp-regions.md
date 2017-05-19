@@ -21,10 +21,10 @@ Occurs when a property value changes.
 
 
 <span id="syntaxToggle"></span>public event PropertyChangedEventHandler PropertyChangedPublic Event PropertyChanged As PropertyChangedEventHandler
-#### Value
+### Value
 
 Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn2.microsoft.com/en-us/library/hyza7z75)
-#### Implements
+### Implements
 
 [INotifyPropertyChanged.PropertyChanged](http://msdn2.microsoft.com/en-us/library/ms133023)
 

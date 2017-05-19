@@ -21,7 +21,8 @@ Initializes a new instance of the [ModuleDownloadProgressChangedEventArgs](https
 
 
 <span id="syntaxToggle"></span>public ModuleDownloadProgressChangedEventArgs( ModuleInfo moduleInfo, long bytesReceived, long totalBytesToReceive )Public Sub New ( moduleInfo As ModuleInfo, bytesReceived As Long, totalBytesToReceive As Long )
-#### Parameters
+
+### Parameters
 
 moduleInfo  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)

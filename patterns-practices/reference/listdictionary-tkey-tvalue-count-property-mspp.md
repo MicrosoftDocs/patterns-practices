@@ -21,11 +21,11 @@ Gets the number of lists in the dictionary.
 
 
 <span id="syntaxToggle"></span>public int Count { get; }Public ReadOnly Property Count As Integer Get
-#### Property Value
+### Property Value
 
 Type: [Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
 Value indicating the values count.
-#### Implements
+### Implements
 
 [ICollection&lt;(Of &lt;(T&gt;)&gt;).Count](http://msdn2.microsoft.com/en-us/library/5s3kzhec)
 

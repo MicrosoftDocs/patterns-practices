@@ -21,11 +21,11 @@ Gets the current navigation entry of the content that is currently displayed.
 
 
 <span id="syntaxToggle"></span>public IRegionNavigationJournalEntry CurrentEntry { get; }Public ReadOnly Property CurrentEntry As IRegionNavigationJournalEntry Get
-#### Property Value
+### Property Value
 
 Type: [IRegionNavigationJournalEntry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationjournalentry)
 The current entry.
-#### Implements
+### Implements
 
 [IRegionNavigationJournal.CurrentEntry](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionnavigationjournal.currententry)
 

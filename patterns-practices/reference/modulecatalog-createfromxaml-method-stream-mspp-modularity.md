@@ -21,13 +21,14 @@ Creates a [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism
 
 
 <span id="syntaxToggle"></span>public static ModuleCatalog CreateFromXaml( Stream xamlStream )Public Shared Function CreateFromXaml ( xamlStream As Stream ) As ModuleCatalog
-#### Parameters
+
+### Parameters
 
 xamlStream  
 Type: [System.IO.Stream](http://msdn2.microsoft.com/en-us/library/8f86tw9e)
 [Stream](http://msdn2.microsoft.com/en-us/library/8f86tw9e) that contains the XAML declaration of the catalog.
 
-#### Return Value
+### Return Value
 
 Type: [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog)
 An instance of [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog) built from the XAML.

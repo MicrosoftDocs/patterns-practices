@@ -21,7 +21,8 @@ Initializes a new instance of the [UpdateRegionsException](https://msdn.microsof
 
 
 <span id="syntaxToggle"></span>protected UpdateRegionsException( SerializationInfo info, StreamingContext context )Protected Sub New ( info As SerializationInfo, context As StreamingContext )
-#### Parameters
+
+### Parameters
 
 info  
 Type: [System.Runtime.Serialization.SerializationInfo](http://msdn2.microsoft.com/en-us/library/a9b6042e)

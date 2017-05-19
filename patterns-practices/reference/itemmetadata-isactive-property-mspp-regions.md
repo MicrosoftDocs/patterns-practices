@@ -31,7 +31,7 @@ Public Property IsActive As Boolean
 	Set
 ```
 
-#### Property Value
+### Property Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 **truetrue** (**True** in Visual Basic) if the item should be considered active; otherwise **falsefalse** (**False** in Visual Basic).

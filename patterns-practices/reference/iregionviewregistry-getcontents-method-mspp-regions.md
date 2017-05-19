@@ -21,13 +21,14 @@ Returns the contents associated with a region name.
 
 
 <span id="syntaxToggle"></span>IEnumerable&lt;Object&gt; GetContents( string regionName )Function GetContents ( regionName As String ) As IEnumerable(Of Object)
-#### Parameters
+
+### Parameters
 
 regionName  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Region name for which contents are requested.
 
-#### Return Value
+### Return Value
 
 Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 Collection of contents associated with the regionName.

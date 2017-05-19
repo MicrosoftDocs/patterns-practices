@@ -21,7 +21,8 @@ Initializes a new instance of the [ModuleTypeLoaderNotFoundException](https://ms
 
 
 <span id="syntaxToggle"></span>public ModuleTypeLoaderNotFoundException( string message, Exception innerException )Public Sub New ( message As String, innerException As Exception )
-#### Parameters
+
+### Parameters
 
 message  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

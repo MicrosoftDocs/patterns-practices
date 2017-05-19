@@ -19,7 +19,7 @@ Gets the information related to the event.
 
 
 <span id="syntaxToggle"></span>public TData Value { get; }Public ReadOnly Property Value As TData Get
-#### Property Value
+### Property Value
 
 Type: [TData](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.dataeventargs%601)
 Information related to the event.

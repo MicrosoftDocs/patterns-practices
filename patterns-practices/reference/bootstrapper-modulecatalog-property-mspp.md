@@ -28,7 +28,7 @@ Protected Property ModuleCatalog As IModuleCatalog
 	Set
 ```
 
-#### Property Value
+### Property Value
 
 Type: [IModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulecatalog(v=pandp.50))
 

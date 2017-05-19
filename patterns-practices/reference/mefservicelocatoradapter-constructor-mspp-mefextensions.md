@@ -21,7 +21,8 @@ Initializes a new instance of the [MefServiceLocatorAdapter](https://msdn.micros
 
 
 <span id="syntaxToggle"></span>public MefServiceLocatorAdapter( CompositionContainer compositionContainer )Public Sub New ( compositionContainer As CompositionContainer )
-#### Parameters
+
+### Parameters
 
 compositionContainer  
 Type: [System.ComponentModel.Composition.Hosting.CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553)

@@ -21,7 +21,7 @@ Gets a value indicating whether this instance should be kept-alive upon deactiva
 
 
 <span id="syntaxToggle"></span>bool KeepAlive { get; }ReadOnly Property KeepAlive As Boolean Get
-#### Property Value
+### Property Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 

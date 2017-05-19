@@ -19,7 +19,8 @@ Subscribes a delegate to an event. PubSubEvent will maintain a [WeakReference](h
 
 
 <span id="syntaxToggle"></span>public SubscriptionToken Subscribe( Action&lt;TPayload&gt; action, ThreadOption threadOption )Public Function Subscribe ( action As Action(Of TPayload), threadOption As ThreadOption ) As SubscriptionToken
-#### Parameters
+
+### Parameters
 
 action  
 Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.pubsubevent%601)&gt;)&gt;)
@@ -29,7 +30,7 @@ threadOption
 Type: [Microsoft.Practices.Prism.PubSubEvents.ThreadOption](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.threadoption)
 Specifies on which thread to receive the delegate callback.
 
-#### Return Value
+### Return Value
 
 Type: [SubscriptionToken](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken)
 A [SubscriptionToken](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken) that uniquely identifies the added subscription.

@@ -21,7 +21,7 @@ Initializes the catalog, which may load and validate the modules.
 
 
 <span id="syntaxToggle"></span>public virtual void Initialize()Public Overridable Sub Initialize
-#### Implements
+### Implements
 
 [IModuleCatalog.Initialize()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.imodulecatalog.initialize)
 

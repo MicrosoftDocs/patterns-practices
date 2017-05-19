@@ -21,7 +21,8 @@ Constructor specifying the target object.
 
 
 <span id="syntaxToggle"></span>public CommandBehaviorBase( T targetObject )Public Sub New ( targetObject As T )
-#### Parameters
+
+### Parameters
 
 targetObject  
 Type: [T](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.commandbehaviorbase%601)

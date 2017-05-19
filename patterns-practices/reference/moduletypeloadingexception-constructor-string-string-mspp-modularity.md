@@ -21,7 +21,8 @@ Initializes the exception with a particular module and error message.
 
 
 <span id="syntaxToggle"></span>public ModuleTypeLoadingException( string moduleName, string message )Public Sub New ( moduleName As String, message As String )
-#### Parameters
+
+### Parameters
 
 moduleName  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

@@ -25,7 +25,8 @@ protected void RaisePropertyChanged(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *propertyNames*  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)[]
@@ -61,7 +62,8 @@ Protected Sub RaisePropertyChanged (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *propertyNames*  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)()

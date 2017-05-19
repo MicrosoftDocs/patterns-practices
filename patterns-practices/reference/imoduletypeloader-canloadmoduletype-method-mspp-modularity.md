@@ -22,7 +22,8 @@ bool CanLoadModuleType(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *moduleInfo*
 
@@ -30,7 +31,7 @@ bool CanLoadModuleType(
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Module that should have it's type loaded.
 
-#### Return Value
+### Return Value
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 
@@ -45,7 +46,8 @@ Function CanLoadModuleType (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *moduleInfo*
 
@@ -53,7 +55,7 @@ Function CanLoadModuleType (
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Module that should have it's type loaded.
 
-#### Return Value
+### Return Value
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 

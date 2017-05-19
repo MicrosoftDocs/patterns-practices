@@ -26,7 +26,7 @@ public void Dispose()
 Public Sub Dispose
 ```
 
-#### Implements
+### Implements
 
 [IDisposable.Dispose()](http://msdn2.microsoft.com/en-us/library/es4s3w1d)
 

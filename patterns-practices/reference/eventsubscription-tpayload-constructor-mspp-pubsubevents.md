@@ -22,7 +22,8 @@ public EventSubscription(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *actionReference*
 
@@ -69,7 +70,8 @@ Public Sub New (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *actionReference*
 

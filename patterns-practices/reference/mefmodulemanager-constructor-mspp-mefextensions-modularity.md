@@ -39,7 +39,8 @@ Public Sub New (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *moduleInitializer*
 

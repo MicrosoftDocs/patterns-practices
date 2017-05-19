@@ -21,7 +21,8 @@ Initializes a new instance of the [MefRegionBehaviorFactory](https://msdn.micros
 
 
 <span id="syntaxToggle"></span>public MefRegionBehaviorFactory( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
-#### Parameters
+
+### Parameters
 
 serviceLocator  
 Type: IServiceLocator

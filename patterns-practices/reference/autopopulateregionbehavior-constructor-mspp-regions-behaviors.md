@@ -21,7 +21,8 @@ Creates a new instance of the AutoPopulateRegionBehavior associated with the [IR
 
 
 <span id="syntaxToggle"></span>public AutoPopulateRegionBehavior( IRegionViewRegistry regionViewRegistry )Public Sub New ( regionViewRegistry As IRegionViewRegistry )
-#### Parameters
+
+### Parameters
 
 regionViewRegistry  
 Type: [Microsoft.Practices.Prism.Regions.IRegionViewRegistry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionviewregistry)

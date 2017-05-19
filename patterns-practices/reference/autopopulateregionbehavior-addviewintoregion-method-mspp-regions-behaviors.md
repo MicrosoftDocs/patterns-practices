@@ -21,7 +21,8 @@ Adds a view into the views collection of this region.
 
 
 <span id="syntaxToggle"></span>protected virtual void AddViewIntoRegion( Object viewToAdd )Protected Overridable Sub AddViewIntoRegion ( viewToAdd As Object )
-#### Parameters
+
+### Parameters
 
 viewToAdd  
 Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)

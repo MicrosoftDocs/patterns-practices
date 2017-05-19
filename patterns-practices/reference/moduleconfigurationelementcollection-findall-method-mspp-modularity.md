@@ -21,13 +21,14 @@ Searches the collection for all the [ModuleConfigurationElement](https://msdn.mi
 
 
 <span id="syntaxToggle"></span>public IList&lt;ModuleConfigurationElement&gt; FindAll( Predicate&lt;ModuleConfigurationElement&gt; match )Public Function FindAll ( match As Predicate(Of ModuleConfigurationElement) ) As IList(Of ModuleConfigurationElement)
-#### Parameters
+
+### Parameters
 
 match  
 Type: [System.Predicate](http://msdn2.microsoft.com/en-us/library/bfcke1bz)&lt;(Of &lt;([ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement)&gt;)&gt;)
 A [Predicate&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/bfcke1bz) that implements the match test.
 
-#### Return Value
+### Return Value
 
 Type: [IList](http://msdn2.microsoft.com/en-us/library/5y536ey6)&lt;(Of &lt;([ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement)&gt;)&gt;)
 A [List&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/6sh2ey19) with the successful matches.

@@ -21,13 +21,14 @@ Marks the specified view as active.
 
 
 <span id="syntaxToggle"></span>public virtual void Activate( Object view )Public Overridable Sub Activate ( view As Object )
-#### Parameters
+
+### Parameters
 
 view  
 Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The view to activate.
 
-#### Implements
+### Implements
 
 [IRegion.Activate(Object)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregion.activate(system.object))
 

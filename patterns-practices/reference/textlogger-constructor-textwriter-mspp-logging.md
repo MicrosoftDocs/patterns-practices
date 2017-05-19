@@ -21,7 +21,8 @@ Initializes a new instance of [TextLogger](https://msdn.microsoft.com/t:microsof
 
 
 <span id="syntaxToggle"></span>public TextLogger( TextWriter writer )Public Sub New ( writer As TextWriter )
-#### Parameters
+
+### Parameters
 
 writer  
 Type: [System.IO.TextWriter](http://msdn2.microsoft.com/en-us/library/ywxh2328)

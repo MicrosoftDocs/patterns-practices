@@ -19,13 +19,14 @@ Determines whether the specified [Object](http://msdn2.microsoft.com/en-us/libra
 
 
 <span id="syntaxToggle"></span>public override bool Equals( Object obj )Public Overrides Function Equals ( obj As Object ) As Boolean
-#### Parameters
+
+### Parameters
 
 obj  
 Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b) to compare with the current [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 true if the specified [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b); otherwise, false.

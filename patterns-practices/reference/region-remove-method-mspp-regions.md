@@ -21,13 +21,14 @@ Removes the specified view from the region.
 
 
 <span id="syntaxToggle"></span>public virtual void Remove( Object view )Public Overridable Sub Remove ( view As Object )
-#### Parameters
+
+### Parameters
 
 view  
 Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The view to remove.
 
-#### Implements
+### Implements
 
 [IRegion.Remove(Object)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregion.remove(system.object))
 

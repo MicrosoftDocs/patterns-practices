@@ -32,10 +32,10 @@ Public Property DependsOnModuleNames As String()
 	Set
 ```
 
-#### Property Value
+### Property Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)[]
-#### Implements
+### Implements
 
 [IModuleExport.DependsOnModuleNames](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport.dependsonmodulenames(v=pandp.50))
 

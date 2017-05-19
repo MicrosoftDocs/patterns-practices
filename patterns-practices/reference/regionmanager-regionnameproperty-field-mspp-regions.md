@@ -21,7 +21,7 @@ Identifies the RegionName attached property.
 
 
 <span id="syntaxToggle"></span>public static readonly DependencyProperty RegionNamePropertyPublic Shared ReadOnly RegionNameProperty As DependencyProperty
-#### Field Value
+### Field Value
 
 Type: [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318)
 

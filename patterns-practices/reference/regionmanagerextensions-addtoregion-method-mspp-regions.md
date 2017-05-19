@@ -21,7 +21,8 @@ Add a view to the Views collection of a Region. Note that the region must alread
 
 
 <span id="syntaxToggle"></span>public static IRegionManager AddToRegion( this IRegionManager regionManager, string regionName, Object view )&lt;ExtensionAttribute&gt; Public Shared Function AddToRegion ( regionManager As IRegionManager, regionName As String, view As Object ) As IRegionManager
-#### Parameters
+
+### Parameters
 
 regionManager  
 Type: [Microsoft.Practices.Prism.Regions.IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
@@ -35,11 +36,11 @@ view
 Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The view to add to the views collection
 
-#### Return Value
+### Return Value
 
 Type: [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
 The RegionManager, to easily add several views.
-#### Usage Note
+### Usage Note
 
 In Visual Basic and C\#, you can call this method as an instance method on any object of type [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 

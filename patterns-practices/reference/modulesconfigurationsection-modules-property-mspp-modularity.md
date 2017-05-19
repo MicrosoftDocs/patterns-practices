@@ -21,7 +21,7 @@ Gets or sets the collection of modules configuration.
 
 
 <span id="syntaxToggle"></span>public ModuleConfigurationElementCollection Modules { get; set; }Public Property Modules As ModuleConfigurationElementCollection Get Set
-#### Property Value
+### Property Value
 
 Type: [ModuleConfigurationElementCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 A [ModuleConfigurationElementCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection) of [ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement).

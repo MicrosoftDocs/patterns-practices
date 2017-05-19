@@ -21,7 +21,8 @@ Adds a [ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.pract
 
 
 <span id="syntaxToggle"></span>public void Add( ModuleConfigurationElement module )Public Sub Add ( module As ModuleConfigurationElement )
-#### Parameters
+
+### Parameters
 
 module  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement)

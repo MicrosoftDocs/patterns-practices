@@ -21,7 +21,7 @@ Getsthe module info.
 
 
 <span id="syntaxToggle"></span>public ModuleInfo ModuleInfo { get; }Public ReadOnly Property ModuleInfo As ModuleInfo Get
-#### Property Value
+### Property Value
 
 Type: [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 The module info.

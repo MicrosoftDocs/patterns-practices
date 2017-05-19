@@ -30,7 +30,8 @@ public NavigationResult( NavigationContext context, Exception error )
 Public Sub New ( context As NavigationContext, error As Exception )
 ```
 
-#### Parameters
+
+### Parameters
 
 *context*  
 Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext(v=pandp.50))

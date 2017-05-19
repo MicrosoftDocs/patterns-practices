@@ -25,7 +25,8 @@ public void Raise(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *context*  
 
@@ -64,7 +65,8 @@ Public Sub Raise (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 context  
 Type: [T](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50))

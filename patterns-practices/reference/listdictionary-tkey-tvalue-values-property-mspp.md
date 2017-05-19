@@ -21,7 +21,7 @@ Gets a shallow copy of all values in all lists.
 
 
 <span id="syntaxToggle"></span>public IList&lt;TValue&gt; Values { get; }Public ReadOnly Property Values As IList(Of TValue) Get
-#### Property Value
+### Property Value
 
 Type: [IList](http://msdn2.microsoft.com/en-us/library/5y536ey6)&lt;(Of &lt;([TValue](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
 List of values.

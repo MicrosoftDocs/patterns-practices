@@ -21,7 +21,7 @@ Determines if the region member should be kept-alive when deactivated.
 
 
 <span id="syntaxToggle"></span>public bool KeepAlive { get; set; }Public Property KeepAlive As Boolean Get Set
-#### Property Value
+### Property Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 

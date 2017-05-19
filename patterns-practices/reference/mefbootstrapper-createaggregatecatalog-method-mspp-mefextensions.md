@@ -21,7 +21,7 @@ Configures the [AggregateCatalog](https://msdn.microsoft.com/p:microsoft.practic
 
 
 <span id="syntaxToggle"></span>protected virtual AggregateCatalog CreateAggregateCatalog()Protected Overridable Function CreateAggregateCatalog As AggregateCatalog
-#### Return Value
+### Return Value
 
 Type: [AggregateCatalog](http://msdn2.microsoft.com/en-us/library/dd833165)
 An [AggregateCatalog](https://msdn.microsoft.com/p:microsoft.practices.prism.mefextensions.mefbootstrapper.aggregatecatalog) to be used by the bootstrapper.

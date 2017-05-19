@@ -23,7 +23,8 @@ public static void SetDefaultViewModelFactory(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *viewModelFactory*  
 
@@ -38,7 +39,8 @@ Public Shared Sub SetDefaultViewModelFactory (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *viewModelFactory*  
 

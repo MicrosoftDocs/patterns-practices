@@ -21,7 +21,7 @@ Gets or sets the modules this module depends on.
 
 
 <span id="syntaxToggle"></span>public ModuleDependencyCollection Dependencies { get; set; }Public Property Dependencies As ModuleDependencyCollection Get Set
-#### Property Value
+### Property Value
 
 Type: [ModuleDependencyCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencycollection)
 The names of the modules that this depends on.

@@ -21,7 +21,8 @@ Initializes a new instance of [ModuleDependencyCollection](https://msdn.microsof
 
 
 <span id="syntaxToggle"></span>public ModuleDependencyCollection( ModuleDependencyConfigurationElement[] dependencies )Public Sub New ( dependencies As ModuleDependencyConfigurationElement() )
-#### Parameters
+
+### Parameters
 
 dependencies  
 Type: array&lt;[Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyconfigurationelement)&gt;

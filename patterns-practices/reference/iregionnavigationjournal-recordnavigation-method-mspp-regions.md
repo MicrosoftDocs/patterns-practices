@@ -21,7 +21,8 @@ Records the navigation to the entry..
 
 
 <span id="syntaxToggle"></span>void RecordNavigation( IRegionNavigationJournalEntry entry )Sub RecordNavigation ( entry As IRegionNavigationJournalEntry )
-#### Parameters
+
+### Parameters
 
 entry  
 Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationjournalentry)

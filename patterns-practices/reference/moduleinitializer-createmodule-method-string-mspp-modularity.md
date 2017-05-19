@@ -21,13 +21,14 @@ Uses the container to resolve a new [IModule](https://msdn.microsoft.com/t:micro
 
 
 <span id="syntaxToggle"></span>protected virtual IModule CreateModule( string typeName )Protected Overridable Function CreateModule ( typeName As String ) As IModule
-#### Parameters
+
+### Parameters
 
 typeName  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The type name to resolve. This type must implement [IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule).
 
-#### Return Value
+### Return Value
 
 Type: [IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule)
 A new instance of typeName.

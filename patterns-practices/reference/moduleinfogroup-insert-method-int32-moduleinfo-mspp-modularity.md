@@ -21,7 +21,8 @@ Inserts an item to the [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.co
 
 
 <span id="syntaxToggle"></span>public void Insert( int index, ModuleInfo item )Public Sub Insert ( index As Integer, item As ModuleInfo )
-#### Parameters
+
+### Parameters
 
 index  
 Type: [System.Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
@@ -31,7 +32,7 @@ item
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 The object to insert into the [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/5y536ey6).
 
-#### Implements
+### Implements
 
 [IList&lt;(Of &lt;(T&gt;)&gt;).Insert(Int32, T)](http://msdn2.microsoft.com/en-us/library/8zsfbxz8)
 

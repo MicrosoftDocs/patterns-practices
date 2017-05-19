@@ -19,10 +19,10 @@ Occurs when changes occur that affect whether or not the command should execute.
 
 
 <span id="syntaxToggle"></span>public virtual event EventHandler CanExecuteChangedPublic Overridable Event CanExecuteChanged As EventHandler
-#### Value
+### Value
 
 Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
-#### Implements
+### Implements
 
 [ICommand.CanExecuteChanged](http://msdn2.microsoft.com/en-us/library/ms523106)
 

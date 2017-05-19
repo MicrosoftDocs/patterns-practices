@@ -19,7 +19,8 @@ Initializes a new instance of [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)](https://
 
 
 <span id="syntaxToggle"></span>public DelegateCommand( Action&lt;T&gt; executeMethod )Public Sub New ( executeMethod As Action(Of T) )
-#### Parameters
+
+### Parameters
 
 executeMethod  
 Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601)&gt;)&gt;)

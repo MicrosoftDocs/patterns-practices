@@ -21,7 +21,7 @@ Calculates an ordered vector according to the defined dependencies. Non-dependan
 public string[] Solve()
 ```
 
-#### Return Value
+### Return Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)[]</br>
 The resulting ordered list of modules.

@@ -21,13 +21,14 @@ Returns the window to display as part of the trigger action.
 
 
 <span id="syntaxToggle"></span>protected virtual Window GetWindow( INotification notification )Protected Overridable Function GetWindow ( notification As INotification ) As Window
-#### Parameters
+
+### Parameters
 
 notification  
 Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.inotification)
 The notification to be set as a DataContext in the window.
 
-#### Return Value
+### Return Value
 
 Type: [Window](http://msdn2.microsoft.com/en-us/library/ms590112)
 

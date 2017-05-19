@@ -21,7 +21,7 @@ Gets or sets the default [CompositionContainer](http://msdn2.microsoft.com/en-us
 
 
 <span id="syntaxToggle"></span>protected CompositionContainer Container { get; set; }Protected Property Container As CompositionContainer Get Set
-#### Property Value
+### Property Value
 
 Type: [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553)
 The default [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553) instance.

@@ -19,7 +19,8 @@ Initializes a new instance of the [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)](http
 
 
 <span id="syntaxToggle"></span>public ErrorsContainer( Action&lt;string&gt; raiseErrorsChanged )Public Sub New ( raiseErrorsChanged As Action(Of String) )
-#### Parameters
+
+### Parameters
 
 raiseErrorsChanged  
 Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;)&gt;)

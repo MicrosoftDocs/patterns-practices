@@ -21,7 +21,7 @@ Creates the [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd83
 
 
 <span id="syntaxToggle"></span>protected virtual CompositionContainer CreateContainer()Protected Overridable Function CreateContainer As CompositionContainer
-#### Return Value
+### Return Value
 
 Type: [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553)
 A new instance of [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553).

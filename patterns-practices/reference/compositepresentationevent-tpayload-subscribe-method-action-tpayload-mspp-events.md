@@ -21,13 +21,14 @@ Subscribes a delegate to an event that will be published on the PublisherThread.
 
 
 <span id="syntaxToggle"></span>public SubscriptionToken Subscribe( Action&lt;TPayload&gt; action )Public Function Subscribe ( action As Action(Of TPayload) ) As SubscriptionToken
-#### Parameters
+
+### Parameters
 
 action  
 Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/t:microsoft.practices.prism.events.compositepresentationevent%601)&gt;)&gt;)
 The delegate that gets executed when the event is published.
 
-#### Return Value
+### Return Value
 
 Type: SubscriptionToken
 A SubscriptionToken that uniquely identifies the added subscription.

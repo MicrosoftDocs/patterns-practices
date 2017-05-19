@@ -26,7 +26,8 @@ public virtual SubscriptionToken Subscribe(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *action*
       
@@ -49,7 +50,7 @@ public virtual SubscriptionToken Subscribe(
 
     Filter to evaluate if the subscriber should receive the event.
 
-#### Return Value
+### Return Value
 
 Type: SubscriptionToken
 
@@ -91,7 +92,8 @@ Public Overridable Function Subscribe (
 ) As SubscriptionToken
 ```
 
-#### Parameters
+
+### Parameters
 
 *action*
       
@@ -113,7 +115,7 @@ Public Overridable Function Subscribe (
     Type: [System.Predicate](http://msdn2.microsoft.com/en-us/library/bfcke1bz)(Of [TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)))
     Filter to evaluate if the subscriber should receive the event.
 
-#### Return Value
+### Return Value
 
 Type: SubscriptionToken
 

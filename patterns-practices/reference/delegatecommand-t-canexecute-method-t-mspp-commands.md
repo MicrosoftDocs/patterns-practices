@@ -19,13 +19,14 @@ Determines if the command can execute by invoked the [Func&lt;(Of &lt;(T, TResul
 
 
 <span id="syntaxToggle"></span>public virtual bool CanExecute( T parameter )Public Overridable Function CanExecute ( parameter As T ) As Boolean
-#### Parameters
+
+### Parameters
 
 parameter  
 Type: [T](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601)
 Data used by the command to determine if it can execute.
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if this command can be executed; otherwise, falseFalsefalsefalse (False in Visual Basic).

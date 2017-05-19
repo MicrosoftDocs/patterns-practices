@@ -21,7 +21,8 @@ This method allows an IRegionManager to locate a specified region and navigate i
 
 
 <span id="syntaxToggle"></span>public static void RequestNavigate( this IRegionManager regionManager, string regionName, Uri target, Action&lt;NavigationResult&gt; navigationCallback, NavigationParameters navigationParameters )&lt;ExtensionAttribute&gt; Public Shared Sub RequestNavigate ( regionManager As IRegionManager, regionName As String, target As Uri, navigationCallback As Action(Of NavigationResult), navigationParameters As NavigationParameters )
-#### Parameters
+
+### Parameters
 
 regionManager  
 Type: [Microsoft.Practices.Prism.Regions.IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
@@ -43,7 +44,7 @@ navigationParameters
 Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters)
 An instance of NavigationParameters, which holds a collection of object parameters.
 
-#### Usage Note
+### Usage Note
 
 In Visual Basic and C\#, you can call this method as an instance method on any object of type [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 

@@ -21,7 +21,8 @@ Initializes a new instance of [RegionBehaviorFactory](https://msdn.microsoft.com
 
 
 <span id="syntaxToggle"></span>public RegionBehaviorFactory( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
-#### Parameters
+
+### Parameters
 
 serviceLocator  
 Type: IServiceLocator

@@ -19,7 +19,7 @@ Raised when a navigation request fails.
 ```c#
 event EventHandler<RegionNavigationFailedEventArgs> NavigationFailed
 ```
-#### Value
+### Value
 
 Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;[RegionNavigationFailedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs(v=pandp.50))&gt;
 
@@ -28,7 +28,7 @@ Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&l
 'Declaration
 Event NavigationFailed As EventHandler(Of RegionNavigationFailedEventArgs)
 ```
-#### Value
+### Value
 
 Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)(Of [RegionNavigationFailedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs(v=pandp.50)))
 

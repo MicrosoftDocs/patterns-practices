@@ -21,11 +21,11 @@ Gets or sets the region.
 
 
 <span id="syntaxToggle"></span>public IRegion Region { get; set; }Public Property Region As IRegion Get Set
-#### Property Value
+### Property Value
 
 Type: [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 The region.
-#### Implements
+### Implements
 
 [IRegionNavigationService.Region](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionnavigationservice.region)
 

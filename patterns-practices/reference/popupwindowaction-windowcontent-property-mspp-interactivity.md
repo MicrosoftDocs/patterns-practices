@@ -21,7 +21,7 @@ Gets or sets the content of the window.
 
 
 <span id="syntaxToggle"></span>public FrameworkElement WindowContent { get; set; }Public Property WindowContent As FrameworkElement Get Set
-#### Property Value
+### Property Value
 
 Type: [FrameworkElement](http://msdn2.microsoft.com/en-us/library/ms602714)
 

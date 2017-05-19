@@ -30,19 +30,20 @@ public bool ContainsKey( TKey key )
 Public Function ContainsKey ( key As TKey ) As Boolean
 ```
 
-#### Parameters
+
+### Parameters
 
 *key*  
 Type: [TKey](https://msdn.microsoft.com/en-us/library/gg431434(v=pandp.50))
 
 The key to locate.
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 
 true if the dictionary contains the given key; otherwise, false.
-#### Implements
+### Implements
 
 [IDictionary&lt;TKey, TValue&gt;.ContainsKey(TKey)](http://msdn2.microsoft.com/en-us/library/htszx2dy)
 

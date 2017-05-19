@@ -21,13 +21,14 @@ Retrieves the all the elements from the list which have a key that matches the c
 
 
 <span id="syntaxToggle"></span>public IEnumerable&lt;TValue&gt; FindAllValuesByKey( Predicate&lt;TKey&gt; keyFilter )Public Function FindAllValuesByKey ( keyFilter As Predicate(Of TKey) ) As IEnumerable(Of TValue)
-#### Parameters
+
+### Parameters
 
 keyFilter  
 Type: [System.Predicate](http://msdn2.microsoft.com/en-us/library/bfcke1bz)&lt;(Of &lt;([TKey](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
 The filter with the condition to use to filter lists by their key.
 
-#### Return Value
+### Return Value
 
 Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([TValue](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
 The elements that have a key that matches the condition defined by the specified predicate.

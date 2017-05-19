@@ -21,7 +21,7 @@ Value indicating whether the wrapped item is considered active.
 
 
 <span id="syntaxToggle"></span>public static readonly DependencyProperty IsActivePropertyPublic Shared ReadOnly IsActiveProperty As DependencyProperty
-#### Field Value
+### Field Value
 
 Type: [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318)
 

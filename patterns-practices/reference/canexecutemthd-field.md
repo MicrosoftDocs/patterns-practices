@@ -17,7 +17,7 @@ DelegateCommandBase.\_canExecuteMethod Field
 
 
 <span id="syntaxToggle"></span>protected readonly Func&lt;Object, bool&gt; \_canExecuteMethodProtected ReadOnly \_canExecuteMethod As Func(Of Object, Boolean)
-#### Field Value
+### Field Value
 
 Type: [Func](http://msdn2.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b), [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
 

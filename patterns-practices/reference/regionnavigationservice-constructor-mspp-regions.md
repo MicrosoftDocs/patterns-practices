@@ -21,7 +21,8 @@ Initializes a new instance of the [RegionNavigationService](https://msdn.microso
 
 
 <span id="syntaxToggle"></span>public RegionNavigationService( IServiceLocator serviceLocator, IRegionNavigationContentLoader regionNavigationContentLoader, IRegionNavigationJournal journal )Public Sub New ( serviceLocator As IServiceLocator, regionNavigationContentLoader As IRegionNavigationContentLoader, journal As IRegionNavigationJournal )
-#### Parameters
+
+### Parameters
 
 serviceLocator  
 Type: IServiceLocator

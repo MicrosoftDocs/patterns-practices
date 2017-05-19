@@ -21,7 +21,8 @@ Initializes a new instance of the [MefModuleInitializer](https://msdn.microsoft.
 
 
 <span id="syntaxToggle"></span>public MefModuleInitializer( IServiceLocator serviceLocator, ILoggerFacade loggerFacade, DownloadedPartCatalogCollection downloadedPartCatalogs, AggregateCatalog aggregateCatalog )Public Sub New ( serviceLocator As IServiceLocator, loggerFacade As ILoggerFacade, downloadedPartCatalogs As DownloadedPartCatalogCollection, aggregateCatalog As AggregateCatalog )
-#### Parameters
+
+### Parameters
 
 serviceLocator  
 Type: IServiceLocator

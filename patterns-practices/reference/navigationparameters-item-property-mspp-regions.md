@@ -21,12 +21,13 @@ Gets the [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf) with the sp
 
 
 <span id="syntaxToggle"></span>public Object this[ string key \] { get; }Public ReadOnly Default Property Item ( key As String ) As Object Get
-#### Parameters
+
+### Parameters
 
 key  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 
-#### Return Value
+### Return Value
 
 Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The value for the specified key, or nullNothingnullptra null reference (Nothing in Visual Basic) if the query does not contain such a key.

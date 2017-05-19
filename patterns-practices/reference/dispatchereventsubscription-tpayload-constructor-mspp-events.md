@@ -25,7 +25,8 @@ public DispatcherEventSubscription(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *actionReference*
 
@@ -76,7 +77,8 @@ Public Sub New (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *actionReference*
 

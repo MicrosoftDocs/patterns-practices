@@ -21,7 +21,7 @@ Gets or sets the navigation service.
 
 
 <span id="syntaxToggle"></span>IRegionNavigationService NavigationService { get; set; }Property NavigationService As IRegionNavigationService Get Set
-#### Property Value
+### Property Value
 
 Type: [IRegionNavigationService](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationservice)
 The navigation service.

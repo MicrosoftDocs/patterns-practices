@@ -19,7 +19,7 @@ ClearChildViewsRegionBehavior.ClearChildViews Attached Property
 
 
 <span id="syntaxToggle"></span>See GetClearChildViews, SetClearChildViewsSee GetClearChildViews, SetClearChildViews
-#### Property Value
+### Property Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 

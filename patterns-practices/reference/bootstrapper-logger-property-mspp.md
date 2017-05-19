@@ -21,7 +21,7 @@ Gets the [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.
 
 
 <span id="syntaxToggle"></span>protected ILoggerFacade Logger { get; set; }Protected Property Logger As ILoggerFacade Get Set
-#### Property Value
+### Property Value
 
 Type: [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade)
 A [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade) instance.

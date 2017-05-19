@@ -19,7 +19,7 @@ Serves as a hash function for a particular type.
 
 
 <span id="syntaxToggle"></span>public override int GetHashCode()Public Overrides Function GetHashCode As Integer
-#### Return Value
+### Return Value
 
 Type: [Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
 A hash code for the current [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).

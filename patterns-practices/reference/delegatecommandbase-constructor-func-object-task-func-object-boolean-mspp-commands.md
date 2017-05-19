@@ -19,7 +19,8 @@ Creates a new instance of a [DelegateCommandBase](https://msdn.microsoft.com/t:m
 
 
 <span id="syntaxToggle"></span>protected DelegateCommandBase( Func&lt;Object, Task&gt; executeMethod, Func&lt;Object, bool&gt; canExecuteMethod )Protected Sub New ( executeMethod As Func(Of Object, Task), canExecuteMethod As Func(Of Object, Boolean) )
-#### Parameters
+
+### Parameters
 
 executeMethod  
 Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b), [Task](http://msdn2.microsoft.com/en-us/library/dd235678)&gt;)&gt;)

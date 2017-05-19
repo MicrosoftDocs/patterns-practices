@@ -21,7 +21,7 @@ Raised when the region is about to be navigated to content.
 
 
 <span id="syntaxToggle"></span>event EventHandler&lt;RegionNavigationEventArgs&gt; NavigatingEvent Navigating As EventHandler(Of RegionNavigationEventArgs)
-#### Value
+### Value
 
 Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([RegionNavigationEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationeventargs)&gt;)&gt;)
 

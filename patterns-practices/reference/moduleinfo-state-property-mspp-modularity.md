@@ -21,7 +21,7 @@ Gets or sets the state of the [ModuleInfo](https://msdn.microsoft.com/t:microsof
 
 
 <span id="syntaxToggle"></span>public ModuleState State { get; set; }Public Property State As ModuleState Get Set
-#### Property Value
+### Property Value
 
 Type: [ModuleState](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulestate)
 

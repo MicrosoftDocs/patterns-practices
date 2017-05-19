@@ -21,7 +21,7 @@ Gets the name of the module that this module is dependant upon.
 
 
 <span id="syntaxToggle"></span>public string ModuleName { get; }Public ReadOnly Property ModuleName As String Get
-#### Property Value
+### Property Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the module that this module is dependant upon.

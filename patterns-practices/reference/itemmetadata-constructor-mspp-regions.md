@@ -21,7 +21,8 @@ Initializes a new instance of [ItemMetadata](https://msdn.microsoft.com/t:micros
 
 
 <span id="syntaxToggle"></span>public ItemMetadata( Object item )Public Sub New ( item As Object )
-#### Parameters
+
+### Parameters
 
 item  
 Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)

@@ -30,7 +30,8 @@ Sub Activate (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *view*
 

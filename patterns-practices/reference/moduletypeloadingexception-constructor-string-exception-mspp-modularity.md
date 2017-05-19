@@ -21,7 +21,8 @@ Initializes a new instance with a specified error message and a reference to the
 
 
 <span id="syntaxToggle"></span>public ModuleTypeLoadingException( string message, Exception exception )Public Sub New ( message As String, exception As Exception )
-#### Parameters
+
+### Parameters
 
 message  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

@@ -21,7 +21,8 @@ Registers a delegate that can be used to retrieve the content associated with a 
 
 
 <span id="syntaxToggle"></span>public void RegisterViewWithRegion( string regionName, Func&lt;Object&gt; getContentDelegate )Public Sub RegisterViewWithRegion ( regionName As String, getContentDelegate As Func(Of Object) )
-#### Parameters
+
+### Parameters
 
 regionName  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
@@ -31,7 +32,7 @@ getContentDelegate
 Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 Delegate used to retrieve the content associated with the regionName.
 
-#### Implements
+### Implements
 
 [IRegionViewRegistry.RegisterViewWithRegion(String, Func&lt;(Of &lt;(Object&gt;)&gt;))](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionviewregistry.registerviewwithregion(system.string%2csystem.func%7bsystem.object%7d))
 

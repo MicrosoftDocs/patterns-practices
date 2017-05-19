@@ -30,7 +30,7 @@ Gets the name used to identify this collection of elements in the configuration 
 Protected Overrides ReadOnly Property ElementName As String
 	Get
 ```
-#### Property Value
+### Property Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 

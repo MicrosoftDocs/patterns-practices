@@ -21,13 +21,14 @@ Provides a new item for the region based on the supplied candidate target contra
 
 
 <span id="syntaxToggle"></span>protected virtual Object CreateNewRegionItem( string candidateTargetContract )Protected Overridable Function CreateNewRegionItem ( candidateTargetContract As String ) As Object
-#### Parameters
+
+### Parameters
 
 candidateTargetContract  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The target contract to build.
 
-#### Return Value
+### Return Value
 
 Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 An instance of an item to put into the [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion).

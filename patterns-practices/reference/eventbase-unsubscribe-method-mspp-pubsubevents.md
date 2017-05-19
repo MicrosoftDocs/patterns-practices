@@ -19,7 +19,8 @@ Removes the subscriber matching the [SubscriptionToken](https://msdn.microsoft.c
 
 
 <span id="syntaxToggle"></span>public virtual void Unsubscribe( SubscriptionToken token )Public Overridable Sub Unsubscribe ( token As SubscriptionToken )
-#### Parameters
+
+### Parameters
 
 token  
 Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken)

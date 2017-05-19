@@ -21,7 +21,7 @@ Clears the journal of current, back, and forward navigation histories.
 
 
 <span id="syntaxToggle"></span>public void Clear()Public Sub Clear
-#### Implements
+### Implements
 
 [IRegionNavigationJournal.Clear()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionnavigationjournal.clear)
 

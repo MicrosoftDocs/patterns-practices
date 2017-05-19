@@ -21,13 +21,14 @@ Creates a new child domain and copies the evidence from a parent domain.
 
 
 <span id="syntaxToggle"></span>protected virtual AppDomain BuildChildDomain( AppDomain parentDomain )Protected Overridable Function BuildChildDomain ( parentDomain As AppDomain ) As AppDomain
-#### Parameters
+
+### Parameters
 
 parentDomain  
 Type: [System.AppDomain](http://msdn2.microsoft.com/en-us/library/w124b5fa)
 The parent domain.
 
-#### Return Value
+### Return Value
 
 Type: [AppDomain](http://msdn2.microsoft.com/en-us/library/w124b5fa)
 The new child domain.

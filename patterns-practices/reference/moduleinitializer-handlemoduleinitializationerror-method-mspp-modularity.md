@@ -21,7 +21,8 @@ Handles any exception occurred in the module Initialization process, logs the er
 
 
 <span id="syntaxToggle"></span>public virtual void HandleModuleInitializationError( ModuleInfo moduleInfo, string assemblyName, Exception exception )Public Overridable Sub HandleModuleInitializationError ( moduleInfo As ModuleInfo, assemblyName As String, exception As Exception )
-#### Parameters
+
+### Parameters
 
 moduleInfo  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)

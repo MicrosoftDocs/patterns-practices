@@ -21,13 +21,14 @@ Gets the [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/t:mic
 
 
 <span id="syntaxToggle"></span>public ModuleDependencyConfigurationElement this[ int index \] { get; }Public ReadOnly Default Property Item ( index As Integer ) As ModuleDependencyConfigurationElement Get
-#### Parameters
+
+### Parameters
 
 index  
 Type: [System.Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
 The index of the element in the collection.
 
-#### Return Value
+### Return Value
 
 Type: [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyconfigurationelement)
 A [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyconfigurationelement).

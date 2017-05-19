@@ -21,7 +21,8 @@ Initializes a new instance of the [RegionNavigationFailedEventArgs](https://msdn
 
 
 <span id="syntaxToggle"></span>public RegionNavigationFailedEventArgs( NavigationContext navigationContext, Exception error )Public Sub New ( navigationContext As NavigationContext, error As Exception )
-#### Parameters
+
+### Parameters
 
 navigationContext  
 Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)

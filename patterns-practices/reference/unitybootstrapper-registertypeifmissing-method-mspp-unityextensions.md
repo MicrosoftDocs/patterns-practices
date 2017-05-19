@@ -21,7 +21,8 @@ Registers a type in the container only if that type was not already registered.
 
 
 <span id="syntaxToggle"></span>protected void RegisterTypeIfMissing( Type fromType, Type toType, bool registerAsSingleton )Protected Sub RegisterTypeIfMissing ( fromType As Type, toType As Type, registerAsSingleton As Boolean )
-#### Parameters
+
+### Parameters
 
 fromType  
 Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)

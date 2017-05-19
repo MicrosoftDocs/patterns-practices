@@ -21,13 +21,14 @@ Gets the ClearChildViews attached property from a DependencyObject.
 
 
 <span id="syntaxToggle"></span>public static bool GetClearChildViews( DependencyObject target )Public Shared Function GetClearChildViews ( target As DependencyObject ) As Boolean
-#### Parameters
+
+### Parameters
 
 target  
 Type: [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
 The object from which to get the value.
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 The value of the ClearChildViews attached property in the target specified.

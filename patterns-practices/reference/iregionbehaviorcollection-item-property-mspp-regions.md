@@ -21,12 +21,13 @@ Gets the [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.pris
 
 
 <span id="syntaxToggle"></span>IRegionBehavior this[ string key \] { get; }ReadOnly Default Property Item ( key As String ) As IRegionBehavior Get
-#### Parameters
+
+### Parameters
 
 key  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 
-#### Property Value
+### Property Value
 
 Type: [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior)
 The registered [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior)

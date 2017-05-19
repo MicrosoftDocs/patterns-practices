@@ -21,17 +21,18 @@ Adds a [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modul
 
 
 <span id="syntaxToggle"></span>public virtual void AddModule( ModuleInfo moduleInfo )Public Overridable Sub AddModule ( moduleInfo As ModuleInfo )
-#### Parameters
+
+### Parameters
 
 moduleInfo  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 The [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) to add.
 
-#### Return Value
+### Return Value
 
 Type:
 The [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog) for easily adding multiple modules.
-#### Implements
+### Implements
 
 [IModuleCatalog.AddModule(ModuleInfo)](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.imodulecatalog.addmodule(microsoft.practices.prism.modularity.moduleinfo))
 

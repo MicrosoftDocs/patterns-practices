@@ -26,7 +26,8 @@ public SubscriptionToken Subscribe(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *action*  
 Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)&gt;
@@ -38,7 +39,7 @@ Type: ThreadOption
 
 Specifies on which thread to receive the delegate callback.
 
-#### Return Value
+### Return Value
 
 Type: SubscriptionToken
 
@@ -79,7 +80,8 @@ Public Function Subscribe (
 ) As SubscriptionToken
 ```
 
-#### Parameters
+
+### Parameters
 
 *action*  
 Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)))
@@ -91,7 +93,7 @@ Type: ThreadOption
 
 Specifies on which thread to receive the delegate callback.
 
-#### Return Value
+### Return Value
 
 Type: SubscriptionToken
 

@@ -19,7 +19,8 @@ Initializes the DataEventArgs class.
 
 
 <span id="syntaxToggle"></span>public DataEventArgs( TData value )Public Sub New ( value As TData )
-#### Parameters
+
+### Parameters
 
 value  
 Type: [TData](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.dataeventargs%601)

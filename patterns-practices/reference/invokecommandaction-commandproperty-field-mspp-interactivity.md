@@ -21,7 +21,7 @@ Dependency property identifying the command to execute when invoked.
 
 
 <span id="syntaxToggle"></span>public static readonly DependencyProperty CommandPropertyPublic Shared ReadOnly CommandProperty As DependencyProperty
-#### Field Value
+### Field Value
 
 Type: [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318)
 

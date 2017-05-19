@@ -21,10 +21,10 @@ Gets the contract name of the module.
 
 
 <span id="syntaxToggle"></span>public string ModuleName { get; }Public ReadOnly Property ModuleName As String Get
-#### Property Value
+### Property Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
-#### Implements
+### Implements
 
 [IModuleExport.ModuleName](https://msdn.microsoft.com/p:microsoft.practices.prism.mefextensions.modularity.imoduleexport.modulename)
 

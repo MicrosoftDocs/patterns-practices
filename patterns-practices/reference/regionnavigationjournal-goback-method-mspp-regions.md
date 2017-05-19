@@ -21,7 +21,7 @@ Navigates to the most recent entry in the back navigation history, or does nothi
 
 
 <span id="syntaxToggle"></span>public void GoBack()Public Sub GoBack
-#### Implements
+### Implements
 
 [IRegionNavigationJournal.GoBack()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionnavigationjournal.goback)
 

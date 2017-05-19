@@ -21,7 +21,8 @@ Initiates navigation to the target specified by the [Uri](http://msdn2.microsoft
 
 
 <span id="syntaxToggle"></span>void RequestNavigate( Uri target, Action&lt;NavigationResult&gt; navigationCallback, NavigationParameters navigationParameters )Sub RequestNavigate ( target As Uri, navigationCallback As Action(Of NavigationResult), navigationParameters As NavigationParameters )
-#### Parameters
+
+### Parameters
 
 target  
 Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)

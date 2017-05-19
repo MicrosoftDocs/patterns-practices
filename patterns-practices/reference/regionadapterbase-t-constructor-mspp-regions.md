@@ -21,7 +21,8 @@ Initializes a new instance of [RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)](https:
 
 
 <span id="syntaxToggle"></span>protected RegionAdapterBase( IRegionBehaviorFactory regionBehaviorFactory )Protected Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
-#### Parameters
+
+### Parameters
 
 regionBehaviorFactory  
 Type: [Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorfactory)

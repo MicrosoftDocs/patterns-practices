@@ -21,7 +21,8 @@ Initializes a new instance of the [LoadModuleCompletedEventArgs](https://msdn.mi
 
 
 <span id="syntaxToggle"></span>public LoadModuleCompletedEventArgs( ModuleInfo moduleInfo, Exception error )Public Sub New ( moduleInfo As ModuleInfo, error As Exception )
-#### Parameters
+
+### Parameters
 
 moduleInfo  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)

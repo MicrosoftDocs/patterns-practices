@@ -19,7 +19,7 @@ Gets a value indicating whether the object has validation errors.
 
 
 <span id="syntaxToggle"></span>public bool HasErrors { get; }Public ReadOnly Property HasErrors As Boolean Get
-#### Property Value
+### Property Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 

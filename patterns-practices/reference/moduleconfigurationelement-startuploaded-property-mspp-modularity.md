@@ -21,7 +21,7 @@ Gets or sets a value indicating whether the module should be loaded at startup.
 
 
 <span id="syntaxToggle"></span>public bool StartupLoaded { get; set; }Public Property StartupLoaded As Boolean Get Set
-#### Property Value
+### Property Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 A value indicating whether the module should be loaded at startup.

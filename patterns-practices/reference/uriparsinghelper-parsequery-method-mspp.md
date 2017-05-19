@@ -21,13 +21,14 @@ Parses the query of uri into a dictionary.
 
 
 <span id="syntaxToggle"></span>public static NavigationParameters ParseQuery( Uri uri )Public Shared Function ParseQuery ( uri As Uri ) As NavigationParameters
-#### Parameters
+
+### Parameters
 
 uri  
 Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
 The URI.
 
-#### Return Value
+### Return Value
 
 Type: [NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters)
 

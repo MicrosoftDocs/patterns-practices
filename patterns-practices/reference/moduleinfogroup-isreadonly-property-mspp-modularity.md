@@ -21,14 +21,14 @@ Gets a value indicating whether the [ModuleInfoGroup](https://msdn.microsoft.com
 
 
 <span id="syntaxToggle"></span>public bool IsReadOnly { get; }Public ReadOnly Property IsReadOnly As Boolean Get
-#### Property Value
+### Property Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 false, because the [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup) is not Read-Only.
-#### Implements
+### Implements
 
 [ICollection&lt;(Of &lt;(T&gt;)&gt;).IsReadOnly](http://msdn2.microsoft.com/en-us/library/0cfatk9t)
 [IList.IsReadOnly](http://msdn2.microsoft.com/en-us/library/h3a2x6hz)

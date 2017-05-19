@@ -19,7 +19,7 @@ Gets the target [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-u
 
 
 <span id="syntaxToggle"></span>public Action&lt;TPayload&gt; Action { get; }Public ReadOnly Property Action As Action(Of TPayload) Get
-#### Property Value
+### Property Value
 
 Type: [Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventsubscription%601)&gt;)&gt;)
 An [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/018hxwa8) or nullNothingnullptra null reference (Nothing in Visual Basic) if the referenced target is not alive.

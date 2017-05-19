@@ -21,7 +21,7 @@ Gets the region navigation service.
 
 
 <span id="syntaxToggle"></span>public IRegionNavigationService NavigationService { get; }Public ReadOnly Property NavigationService As IRegionNavigationService Get
-#### Property Value
+### Property Value
 
 Type: [IRegionNavigationService](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationservice)
 The navigation service.

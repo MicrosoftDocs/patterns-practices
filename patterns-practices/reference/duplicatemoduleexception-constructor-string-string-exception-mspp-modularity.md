@@ -21,7 +21,8 @@ Initializes a new instance of the [DuplicateModuleException](https://msdn.micros
 
 
 <span id="syntaxToggle"></span>public DuplicateModuleException( string moduleName, string message, Exception innerException )Public Sub New ( moduleName As String, message As String, innerException As Exception )
-#### Parameters
+
+### Parameters
 
 moduleName  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

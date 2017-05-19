@@ -24,7 +24,8 @@ public DelegateCommand(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *executeMethod*  
 
@@ -72,7 +73,8 @@ Public Sub New (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *executeMethod*  
 

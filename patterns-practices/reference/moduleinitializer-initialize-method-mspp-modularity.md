@@ -21,13 +21,14 @@ Initializes the specified module.
 
 
 <span id="syntaxToggle"></span>public void Initialize( ModuleInfo moduleInfo )Public Sub Initialize ( moduleInfo As ModuleInfo )
-#### Parameters
+
+### Parameters
 
 moduleInfo  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 The module to initialize
 
-#### Implements
+### Implements
 
 [IModuleInitializer.Initialize(ModuleInfo)](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.imoduleinitializer.initialize(microsoft.practices.prism.modularity.moduleinfo))
 

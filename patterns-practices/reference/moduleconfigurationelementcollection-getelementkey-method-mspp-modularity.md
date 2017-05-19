@@ -21,13 +21,14 @@ Gets the element key for a specified configuration element when overridden in a 
 
 
 <span id="syntaxToggle"></span>protected override Object GetElementKey( ConfigurationElement element )Protected Overrides Function GetElementKey ( element As ConfigurationElement ) As Object
-#### Parameters
+
+### Parameters
 
 element  
 Type: [System.Configuration.ConfigurationElement](http://msdn2.microsoft.com/en-us/library/kyx77cz3)
 The [ConfigurationElement](http://msdn2.microsoft.com/en-us/library/kyx77cz3) to return the key for.
 
-#### Return Value
+### Return Value
 
 Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 An [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b) that acts as the key for the specified [ConfigurationElement](http://msdn2.microsoft.com/en-us/library/kyx77cz3).

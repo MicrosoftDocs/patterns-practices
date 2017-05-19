@@ -21,7 +21,8 @@ Removes a value from the list with the given key.
 
 
 <span id="syntaxToggle"></span>public void Remove( TKey key, TValue value )Public Sub Remove ( key As TKey, value As TValue )
-#### Parameters
+
+### Parameters
 
 key  
 Type: [TKey](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)

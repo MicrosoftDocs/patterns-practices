@@ -21,7 +21,7 @@ Gets or sets the [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms5
 
 
 <span id="syntaxToggle"></span>DependencyObject HostControl { get; set; }Property HostControl As DependencyObject Get Set
-#### Property Value
+### Property Value
 
 Type: [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
 A [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309) that the [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) is attached to. This is usually a [FrameworkElement](http://msdn2.microsoft.com/en-us/library/ms602714) that is part of the tree.

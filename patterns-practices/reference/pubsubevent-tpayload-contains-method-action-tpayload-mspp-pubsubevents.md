@@ -19,13 +19,14 @@ Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matchin
 
 
 <span id="syntaxToggle"></span>public virtual bool Contains( Action&lt;TPayload&gt; subscriber )Public Overridable Function Contains ( subscriber As Action(Of TPayload) ) As Boolean
-#### Parameters
+
+### Parameters
 
 subscriber  
 Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.pubsubevent%601)&gt;)&gt;)
 The [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/018hxwa8) used when subscribing to the event.
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if there is an [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/018hxwa8) that matches; otherwise falseFalsefalsefalse (False in Visual Basic).

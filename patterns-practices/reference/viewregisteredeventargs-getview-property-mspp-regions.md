@@ -21,7 +21,7 @@ Gets the content which was registered.
 
 
 <span id="syntaxToggle"></span>public Func&lt;Object&gt; GetView { get; }Public ReadOnly Property GetView As Func(Of Object) Get
-#### Property Value
+### Property Value
 
 Type: [Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 

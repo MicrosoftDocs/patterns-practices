@@ -21,7 +21,7 @@ Sets a class that interfaces between the [RegionManager](https://msdn.microsoft.
 
 
 <span id="syntaxToggle"></span>public IRegionManagerAccessor RegionManagerAccessor { get; set; }Public Property RegionManagerAccessor As IRegionManagerAccessor Get Set
-#### Property Value
+### Property Value
 
 Type: [IRegionManagerAccessor](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanageraccessor)
 The region manager accessor.

@@ -21,7 +21,7 @@ Creates the [IModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.pr
 
 
 <span id="syntaxToggle"></span>protected virtual IModuleCatalog CreateModuleCatalog()Protected Overridable Function CreateModuleCatalog As IModuleCatalog
-#### Return Value
+### Return Value
 
 Type: [IModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulecatalog)
 

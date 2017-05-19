@@ -19,7 +19,7 @@ RegionManager.RegionManager Attached Property
 
 
 <span id="syntaxToggle"></span>See GetRegionManager, SetRegionManagerSee GetRegionManager, SetRegionManager
-#### Property Value
+### Property Value
 
 Type: [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
 

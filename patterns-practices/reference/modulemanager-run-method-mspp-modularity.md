@@ -28,7 +28,7 @@ public void Run()
 Public Sub Run
 ```
 
-#### Implements
+### Implements
 
 [IModuleManager.Run](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulemanager.run(v=pandp.50))
 

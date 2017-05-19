@@ -21,7 +21,8 @@ Initializes a new instance of the [MefRegionViewRegistry](https://msdn.microsoft
 
 
 <span id="syntaxToggle"></span>public MefRegionViewRegistry( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
-#### Parameters
+
+### Parameters
 
 serviceLocator  
 Type: IServiceLocator

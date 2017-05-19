@@ -19,7 +19,8 @@ Subscribes a delegate to an event.
 
 
 <span id="syntaxToggle"></span>public virtual SubscriptionToken Subscribe( Action&lt;TPayload&gt; action, ThreadOption threadOption, bool keepSubscriberReferenceAlive, Predicate&lt;TPayload&gt; filter )Public Overridable Function Subscribe ( action As Action(Of TPayload), threadOption As ThreadOption, keepSubscriberReferenceAlive As Boolean, filter As Predicate(Of TPayload) ) As SubscriptionToken
-#### Parameters
+
+### Parameters
 
 action  
 Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.pubsubevent%601)&gt;)&gt;)
@@ -37,7 +38,7 @@ filter
 Type: [System.Predicate](http://msdn2.microsoft.com/en-us/library/bfcke1bz)&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.pubsubevent%601)&gt;)&gt;)
 Filter to evaluate if the subscriber should receive the event.
 
-#### Return Value
+### Return Value
 
 Type: [SubscriptionToken](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken)
 A [SubscriptionToken](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken) that uniquely identifies the added subscription.

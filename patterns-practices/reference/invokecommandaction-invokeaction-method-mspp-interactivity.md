@@ -25,7 +25,8 @@ public void InvokeAction(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *parameter*
 
@@ -38,7 +39,8 @@ Public Sub InvokeAction (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *parameter*
 

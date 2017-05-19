@@ -21,7 +21,8 @@ Sets the [RegionNameProperty](https://msdn.microsoft.com/f:microsoft.practices.p
 
 
 <span id="syntaxToggle"></span>public static void SetRegionName( DependencyObject regionTarget, string regionName )Public Shared Sub SetRegionName ( regionTarget As DependencyObject, regionName As String )
-#### Parameters
+
+### Parameters
 
 regionTarget  
 Type: [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)

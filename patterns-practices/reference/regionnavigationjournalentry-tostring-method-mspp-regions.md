@@ -21,7 +21,7 @@ Returns a [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf) that repre
 
 
 <span id="syntaxToggle"></span>public override string ToString()Public Overrides Function ToString As String
-#### Return Value
+### Return Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 A [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf) that represents this instance.

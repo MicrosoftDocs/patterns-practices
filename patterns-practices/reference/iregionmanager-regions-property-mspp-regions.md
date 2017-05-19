@@ -29,7 +29,7 @@ ReadOnly Property Regions As IRegionCollection
 	Get
 ```
 
-#### Property Value
+### Property Value
 
 Type: [IRegionCollection](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection(v=pandp.50))
 

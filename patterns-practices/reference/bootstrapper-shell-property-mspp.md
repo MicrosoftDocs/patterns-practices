@@ -21,7 +21,7 @@ Gets the shell user interface
 
 
 <span id="syntaxToggle"></span>protected DependencyObject Shell { get; set; }Protected Property Shell As DependencyObject Get Set
-#### Property Value
+### Property Value
 
 Type: [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
 The shell user interface.

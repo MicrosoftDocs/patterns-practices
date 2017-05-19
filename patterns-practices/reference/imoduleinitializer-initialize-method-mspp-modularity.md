@@ -32,7 +32,8 @@ Sub Initialize (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *moduleInfo*
 

@@ -32,7 +32,7 @@ Property NavigationTarget As INavigateAsync
 	Set
 ```
 
-#### Property Value
+### Property Value
 
 Type: [INavigateAsync](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync(v=pandp.50))
 The INavigate implementation.

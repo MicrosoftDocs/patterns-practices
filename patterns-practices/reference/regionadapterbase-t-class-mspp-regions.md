@@ -24,7 +24,7 @@ public abstract class RegionAdapterBase<T> : IRegionAdapter
 where T : class
 ```
 
-####Type Parameters
+###Type Parameters
 
 *T*
   
@@ -70,7 +70,7 @@ Public MustInherit Class RegionAdapterBase(Of T As Class)
 	Implements IRegionAdapter
 ```
 
-#### Type Parameters
+### Type Parameters
 
 *T*
   

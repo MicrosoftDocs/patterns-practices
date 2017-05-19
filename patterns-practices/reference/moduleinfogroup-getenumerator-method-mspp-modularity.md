@@ -23,13 +23,13 @@ Returns an enumerator that iterates through the collection.
 public IEnumerator<ModuleInfo> GetEnumerator()
 ```
 
-#### Return Value
+### Return Value
 
 Type: [IEnumerator](http://msdn2.microsoft.com/en-us/library/78dfe2yb)&lt;[ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))&gt;
 
 A [IEnumerator&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/78dfe2yb) that can be used to iterate through the collection.
 
-#### Implements
+### Implements
 
 [IEnumerable&lt;T&gt;.GetEnumerator()](http://msdn2.microsoft.com/en-us/library/s793z9y2)
 
@@ -38,13 +38,13 @@ A [IEnumerator&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/78dfe2yb) that
 Public Function GetEnumerator As IEnumerator(Of ModuleInfo)
 ```
 
-#### Return Value
+### Return Value
 
 Type: [IEnumerator](http://msdn2.microsoft.com/en-us/library/78dfe2yb)(Of [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50)))
 
 A [IEnumerator(Of T)](http://msdn2.microsoft.com/en-us/library/78dfe2yb) that can be used to iterate through the collection.
 
-#### Implements
+### Implements
 
 [IEnumerable(Of T).GetEnumerator](http://msdn2.microsoft.com/en-us/library/s793z9y2)
 

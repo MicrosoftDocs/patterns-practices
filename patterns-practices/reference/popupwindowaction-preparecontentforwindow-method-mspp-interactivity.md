@@ -21,7 +21,8 @@ Checks if the WindowContent or its DataContext implements [IInteractionRequestAw
 
 
 <span id="syntaxToggle"></span>protected virtual void PrepareContentForWindow( INotification notification, Window wrapperWindow )Protected Overridable Sub PrepareContentForWindow ( notification As INotification, wrapperWindow As Window )
-#### Parameters
+
+### Parameters
 
 notification  
 Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.inotification)

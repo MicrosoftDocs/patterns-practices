@@ -21,7 +21,8 @@ Removes a value from all lists where it may be found.
 
 
 <span id="syntaxToggle"></span>public void Remove( TValue value )Public Sub Remove ( value As TValue )
-#### Parameters
+
+### Parameters
 
 value  
 Type: [TValue](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)

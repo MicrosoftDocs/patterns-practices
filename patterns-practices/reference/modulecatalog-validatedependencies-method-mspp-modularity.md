@@ -21,7 +21,8 @@ Ensures that all the dependencies within modules refer to [ModuleInfo](https://m
 
 
 <span id="syntaxToggle"></span>protected static void ValidateDependencies( IEnumerable&lt;ModuleInfo&gt; modules )Protected Shared Sub ValidateDependencies ( modules As IEnumerable(Of ModuleInfo) )
-#### Parameters
+
+### Parameters
 
 modules  
 Type: [System.Collections.Generic.IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;)&gt;)

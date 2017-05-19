@@ -25,7 +25,7 @@ public sealed class ListDictionary<TKey, TValue> : IDictionary<TKey, IList<TValu
 	IEnumerable
 ```
 
-#### Type Parameters
+### Type Parameters
 
 *TKey*
 	
@@ -66,7 +66,7 @@ Public NotInheritable Class ListDictionary(Of TKey, TValue)
 	IEnumerable
 ```
 
-#### Type Parameters
+### Type Parameters
 
 *TKey*
 	

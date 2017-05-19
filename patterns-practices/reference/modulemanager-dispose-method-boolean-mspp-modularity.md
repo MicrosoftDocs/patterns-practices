@@ -21,7 +21,8 @@ Disposes the associated [IModuleTypeLoader](https://msdn.microsoft.com/t:microso
 
 
 <span id="syntaxToggle"></span>protected virtual void Dispose( bool disposing )Protected Overridable Sub Dispose ( disposing As Boolean )
-#### Parameters
+
+### Parameters
 
 disposing  
 Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)

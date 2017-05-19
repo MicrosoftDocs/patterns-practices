@@ -30,14 +30,15 @@ Public Overrides Sub Deactivate (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *view*
 
     Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
     The view to deactivate.
 
-#### Implements
+### Implements
 
 [IRegion.Deactivate(Object)](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion.deactivate(v=pandp.50))
 

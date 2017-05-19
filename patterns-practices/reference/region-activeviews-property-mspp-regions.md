@@ -21,11 +21,11 @@ Gets a readonly view of the collection of all the active views in the region.
 
 
 <span id="syntaxToggle"></span>public virtual IViewsCollection ActiveViews { get; }Public Overridable ReadOnly Property ActiveViews As IViewsCollection Get
-#### Property Value
+### Property Value
 
 Type: [IViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iviewscollection)
 An [IViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iviewscollection) of all the active views.
-#### Implements
+### Implements
 
 [IRegion.ActiveViews](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.activeviews)
 

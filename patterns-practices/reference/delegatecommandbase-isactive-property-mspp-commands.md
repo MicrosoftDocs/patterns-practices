@@ -19,11 +19,11 @@ Gets or sets a value indicating whether the object is active.
 
 
 <span id="syntaxToggle"></span>public bool IsActive { get; set; }Public Property IsActive As Boolean Get Set
-#### Property Value
+### Property Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if the object is active; otherwise falseFalsefalsefalse (False in Visual Basic).
-#### Implements
+### Implements
 
 [IActiveAware.IsActive](https://msdn.microsoft.com/p:microsoft.practices.prism.iactiveaware.isactive)
 

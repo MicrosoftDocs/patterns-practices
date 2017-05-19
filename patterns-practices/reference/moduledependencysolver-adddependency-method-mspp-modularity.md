@@ -21,7 +21,8 @@ Adds a module dependency between the modules specified by dependingModule and de
 
 
 <span id="syntaxToggle"></span>public void AddDependency( string dependingModule, string dependentModule )Public Sub AddDependency ( dependingModule As String, dependentModule As String )
-#### Parameters
+
+### Parameters
 
 dependingModule  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

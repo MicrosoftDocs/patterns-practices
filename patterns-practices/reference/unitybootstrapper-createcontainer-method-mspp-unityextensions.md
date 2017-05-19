@@ -21,7 +21,7 @@ Creates the IUnityContainer that will be used as the default container.
 
 
 <span id="syntaxToggle"></span>protected virtual IUnityContainer CreateContainer()Protected Overridable Function CreateContainer As IUnityContainer
-#### Return Value
+### Return Value
 
 Type: IUnityContainer
 A new instance of IUnityContainer.

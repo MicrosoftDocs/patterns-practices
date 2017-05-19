@@ -21,7 +21,8 @@ Adapts an [Selector](http://msdn2.microsoft.com/en-us/library/ms595227) to an [I
 
 
 <span id="syntaxToggle"></span>protected override void Adapt( IRegion region, Selector regionTarget )Protected Overrides Sub Adapt ( region As IRegion, regionTarget As Selector )
-#### Parameters
+
+### Parameters
 
 region  
 Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)

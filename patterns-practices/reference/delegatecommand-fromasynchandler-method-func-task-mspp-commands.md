@@ -19,13 +19,14 @@ Factory method to create a new instance of [DelegateCommand](https://msdn.micros
 
 
 <span id="syntaxToggle"></span>public static DelegateCommand FromAsyncHandler( Func&lt;Task&gt; executeMethod )Public Shared Function FromAsyncHandler ( executeMethod As Func(Of Task) ) As DelegateCommand
-#### Parameters
+
+### Parameters
 
 executeMethod  
 Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Task](http://msdn2.microsoft.com/en-us/library/dd235678)&gt;)&gt;)
 Delegate to execute when Execute is called on the command.
 
-#### Return Value
+### Return Value
 
 Type: [DelegateCommand](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand)
 Constructed instance of [DelegateCommand](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand)

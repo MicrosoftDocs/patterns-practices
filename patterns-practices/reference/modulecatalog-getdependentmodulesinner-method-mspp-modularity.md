@@ -21,13 +21,14 @@ Returns the [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.
 
 
 <span id="syntaxToggle"></span>protected virtual IEnumerable&lt;ModuleInfo&gt; GetDependentModulesInner( ModuleInfo moduleInfo )Protected Overridable Function GetDependentModulesInner ( moduleInfo As ModuleInfo ) As IEnumerable(Of ModuleInfo)
-#### Parameters
+
+### Parameters
 
 moduleInfo  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 Module whose dependant modules are requested.
 
-#### Return Value
+### Return Value
 
 Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;)&gt;)
 Collection of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) dependants of moduleInfo.

@@ -21,7 +21,7 @@ An [Action](http://msdn2.microsoft.com/en-us/library/bb534741) that can be invok
 
 
 <span id="syntaxToggle"></span>Action FinishInteraction { get; set; }Property FinishInteraction As Action Get Set
-#### Property Value
+### Property Value
 
 Type: [Action](http://msdn2.microsoft.com/en-us/library/bb534741)
 

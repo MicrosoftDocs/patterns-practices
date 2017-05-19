@@ -26,7 +26,7 @@ protected virtual RegionAdapterMappings ConfigureRegionAdapterMappings()
 Protected Overridable Function ConfigureRegionAdapterMappings As RegionAdapterMappings
 ```
 
-#### Return Value
+### Return Value
 
 Type: [RegionAdapterMappings](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionadaptermappings(v=pandp.50))<br/>
 The [RegionAdapterMappings](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionadaptermappings(v=pandp.50)) instance containing all the mappings.

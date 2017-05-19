@@ -28,7 +28,7 @@ public static readonly DependencyProperty ClearChildViewsProperty
 Public Shared ReadOnly ClearChildViewsProperty As DependencyProperty
 ```
 
-#### Field Value
+### Field Value
 
 Type: [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318)
 

@@ -21,7 +21,8 @@ Initializes a new [ModuleConfigurationElementCollection](https://msdn.microsoft.
 
 
 <span id="syntaxToggle"></span>public ModuleConfigurationElementCollection( ModuleConfigurationElement[] modules )Public Sub New ( modules As ModuleConfigurationElement() )
-#### Parameters
+
+### Parameters
 
 modules  
 Type: array&lt;[Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement)&gt;

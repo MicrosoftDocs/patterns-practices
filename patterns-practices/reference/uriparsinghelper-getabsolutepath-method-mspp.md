@@ -21,13 +21,14 @@ Gets the AbsolutePath part of uri.
 
 
 <span id="syntaxToggle"></span>public static string GetAbsolutePath( Uri uri )Public Shared Function GetAbsolutePath ( uri As Uri ) As String
-#### Parameters
+
+### Parameters
 
 uri  
 Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
 The Uri.
 
-#### Return Value
+### Return Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 

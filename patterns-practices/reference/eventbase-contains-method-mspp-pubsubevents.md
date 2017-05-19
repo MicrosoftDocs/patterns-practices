@@ -19,13 +19,14 @@ Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matchin
 
 
 <span id="syntaxToggle"></span>public virtual bool Contains( SubscriptionToken token )Public Overridable Function Contains ( token As SubscriptionToken ) As Boolean
-#### Parameters
+
+### Parameters
 
 token  
 Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken)
 The [SubscriptionToken](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken) returned by [EventBase](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventbase) while subscribing to the event.
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if there is a [SubscriptionToken](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken) that matches; otherwise falseFalsefalsefalse (False in Visual Basic).

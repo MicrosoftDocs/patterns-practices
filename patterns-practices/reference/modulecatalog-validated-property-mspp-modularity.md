@@ -28,7 +28,7 @@ Protected Property Validated As Boolean
 	Get
 	Set
 ```
-#### Property Value
+### Property Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 

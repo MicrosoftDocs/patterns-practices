@@ -21,10 +21,10 @@ The region that this behavior is extending
 
 
 <span id="syntaxToggle"></span>public IRegion Region { get; set; }Public Property Region As IRegion Get Set
-#### Property Value
+### Property Value
 
 Type: [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
-#### Implements
+### Implements
 
 [IRegionBehavior.Region](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionbehavior.region)
 

@@ -21,7 +21,8 @@ Removes the specified view from the region.
 
 
 <span id="syntaxToggle"></span>void Remove( Object view )Sub Remove ( view As Object )
-#### Parameters
+
+### Parameters
 
 view  
 Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)

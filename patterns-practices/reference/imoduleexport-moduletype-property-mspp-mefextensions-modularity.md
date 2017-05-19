@@ -21,7 +21,7 @@ Gets the type of the module.
 
 
 <span id="syntaxToggle"></span>Type ModuleType { get; }ReadOnly Property ModuleType As Type Get
-#### Property Value
+### Property Value
 
 Type: [Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The type of the module.

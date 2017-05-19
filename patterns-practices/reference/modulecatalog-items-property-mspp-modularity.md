@@ -21,7 +21,7 @@ Gets the items in the [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.pra
 
 
 <span id="syntaxToggle"></span>public Collection&lt;IModuleCatalogItem&gt; Items { get; }Public ReadOnly Property Items As Collection(Of IModuleCatalogItem) Get
-#### Property Value
+### Property Value
 
 Type: [Collection](http://msdn2.microsoft.com/en-us/library/ms132397)&lt;(Of &lt;([IModuleCatalogItem](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulecatalogitem)&gt;)&gt;)
 The items in the catalog.

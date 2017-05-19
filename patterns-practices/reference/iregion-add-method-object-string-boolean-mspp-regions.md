@@ -21,7 +21,8 @@ Adds a new view to the region.
 
 
 <span id="syntaxToggle"></span>IRegionManager Add( Object view, string viewName, bool createRegionManagerScope )Function Add ( view As Object, viewName As String, createRegionManagerScope As Boolean ) As IRegionManager
-#### Parameters
+
+### Parameters
 
 view  
 Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
@@ -35,7 +36,7 @@ createRegionManagerScope
 Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 When trueTruetruetrue (True in Visual Basic), the added view will receive a new instance of [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager), otherwise it will use the current region manager for this region.
 
-#### Return Value
+### Return Value
 
 Type: [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
 The [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager) that is set on the view if it is a [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309).

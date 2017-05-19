@@ -35,7 +35,8 @@ Public Sub New (
 	journal As IRegionNavigationJournal
 )
 ```
-#### Parameters
+
+### Parameters
 
 *serviceLocator*
 

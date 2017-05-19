@@ -22,7 +22,8 @@ Adds a groupless [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.p
 
 
 <span id="syntaxToggle"></span>public ModuleCatalog AddModule( string moduleName, string moduleType, InitializationMode initializationMode, params string[] dependsOn )Public Function AddModule ( moduleName As String, moduleType As String, initializationMode As InitializationMode, ParamArray dependsOn As String() ) As ModuleCatalog
-#### Parameters
+
+### Parameters
 
 moduleName  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
@@ -40,7 +41,7 @@ dependsOn
 Type: array&lt;[System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;
 Collection of module names ([ModuleName](https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleinfo.modulename)) of the modules on which the module to be added logically depends on.
 
-#### Return Value
+### Return Value
 
 Type: [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog)
 The same [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog) instance with the added module.

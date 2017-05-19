@@ -21,7 +21,8 @@ Associate a view with a region, by registering a type. When the region get's dis
 
 
 <span id="syntaxToggle"></span>public static IRegionManager RegisterViewWithRegion( this IRegionManager regionManager, string regionName, Type viewType )&lt;ExtensionAttribute&gt; Public Shared Function RegisterViewWithRegion ( regionManager As IRegionManager, regionName As String, viewType As Type ) As IRegionManager
-#### Parameters
+
+### Parameters
 
 regionManager  
 Type: [Microsoft.Practices.Prism.Regions.IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
@@ -35,11 +36,11 @@ viewType
 Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The type of the view to register with the
 
-#### Return Value
+### Return Value
 
 Type: [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
 The regionmanager, for adding several views easily
-#### Usage Note
+### Usage Note
 
 In Visual Basic and C\#, you can call this method as an instance method on any object of type [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 

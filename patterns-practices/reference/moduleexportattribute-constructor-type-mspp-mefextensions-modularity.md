@@ -21,7 +21,8 @@ Initializes a new instance of the [ModuleExportAttribute](https://msdn.microsoft
 
 
 <span id="syntaxToggle"></span>public ModuleExportAttribute( Type moduleType )Public Sub New ( moduleType As Type )
-#### Parameters
+
+### Parameters
 
 moduleType  
 Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)

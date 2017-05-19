@@ -30,14 +30,15 @@ Protected Overridable Function GetContractFromNavigationContext (
 ) As String
 ```
 
-#### Parameters
+
+### Parameters
 
 *navigationContext*
 
     Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext(v=pandp.50))
     The navigation contract.
 
-#### Return Value
+### Return Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)<br/>
 The candidate contract to seek within the [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)) and to use, if not found, when resolving from the container.

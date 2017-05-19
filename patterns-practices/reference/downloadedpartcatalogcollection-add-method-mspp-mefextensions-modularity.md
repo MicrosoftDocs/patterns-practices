@@ -21,7 +21,8 @@ Adds the specified catalog using the module info as a key.
 
 
 <span id="syntaxToggle"></span>public void Add( ModuleInfo moduleInfo, ComposablePartCatalog catalog )Public Sub Add ( moduleInfo As ModuleInfo, catalog As ComposablePartCatalog )
-#### Parameters
+
+### Parameters
 
 moduleInfo  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)

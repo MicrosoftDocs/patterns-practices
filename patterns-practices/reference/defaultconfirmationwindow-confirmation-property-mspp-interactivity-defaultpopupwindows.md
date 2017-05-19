@@ -21,7 +21,7 @@ Sets or gets the [IConfirmation](https://msdn.microsoft.com/t:microsoft.practice
 
 
 <span id="syntaxToggle"></span>public IConfirmation Confirmation { get; set; }Public Property Confirmation As IConfirmation Get Set
-#### Property Value
+### Property Value
 
 Type: [IConfirmation](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iconfirmation)
 

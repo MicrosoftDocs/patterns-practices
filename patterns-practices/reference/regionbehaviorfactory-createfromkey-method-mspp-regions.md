@@ -21,17 +21,18 @@ Creates an instance of the behavior [Type](http://msdn2.microsoft.com/en-us/libr
 
 
 <span id="syntaxToggle"></span>public IRegionBehavior CreateFromKey( string key )Public Function CreateFromKey ( key As String ) As IRegionBehavior
-#### Parameters
+
+### Parameters
 
 key  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The key that is used to register a behavior type.
 
-#### Return Value
+### Return Value
 
 Type: [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior)
 A new instance of the behavior.
-#### Implements
+### Implements
 
 [IRegionBehaviorFactory.CreateFromKey(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionbehaviorfactory.createfromkey(system.string))
 

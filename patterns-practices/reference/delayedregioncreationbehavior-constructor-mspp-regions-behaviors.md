@@ -21,7 +21,8 @@ Initializes a new instance of the [DelayedRegionCreationBehavior](https://msdn.m
 
 
 <span id="syntaxToggle"></span>public DelayedRegionCreationBehavior( RegionAdapterMappings regionAdapterMappings )Public Sub New ( regionAdapterMappings As RegionAdapterMappings )
-#### Parameters
+
+### Parameters
 
 regionAdapterMappings  
 Type: [Microsoft.Practices.Prism.Regions.RegionAdapterMappings](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionadaptermappings)

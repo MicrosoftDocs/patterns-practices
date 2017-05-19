@@ -28,7 +28,7 @@ event EventHandler UpdatingRegions
 Event UpdatingRegions As EventHandler
 ```
 
-#### Value
+### Value
 
 Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
 

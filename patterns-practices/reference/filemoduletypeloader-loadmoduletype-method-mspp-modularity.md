@@ -21,13 +21,14 @@ Retrieves the moduleInfo.
 
 
 <span id="syntaxToggle"></span>public void LoadModuleType( ModuleInfo moduleInfo )Public Sub LoadModuleType ( moduleInfo As ModuleInfo )
-#### Parameters
+
+### Parameters
 
 moduleInfo  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 Module that should have it's type loaded.
 
-#### Implements
+### Implements
 
 [IModuleTypeLoader.LoadModuleType(ModuleInfo)](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.imoduletypeloader.loadmoduletype(microsoft.practices.prism.modularity.moduleinfo))
 

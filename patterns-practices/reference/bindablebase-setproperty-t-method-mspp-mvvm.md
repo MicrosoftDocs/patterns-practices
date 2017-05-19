@@ -19,7 +19,8 @@ Checks if a property already matches a desired value. Sets the property and noti
 
 
 <span id="syntaxToggle"></span>protected virtual bool SetProperty&lt;T&gt;( ref T storage, T value, string propertyName = null ) Protected Overridable Function SetProperty(Of T) ( ByRef storage As T, value As T, Optional propertyName As String = Nothing ) As Boolean
-#### Parameters
+
+### Parameters
 
 storage  
 Type: T%
@@ -40,7 +41,7 @@ Type Parameters
 T  
 Type of the property.
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 True if the value was changed, false if the existing value matched the desired value.

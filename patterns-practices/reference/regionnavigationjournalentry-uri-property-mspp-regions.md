@@ -21,11 +21,11 @@ Gets or sets the URI.
 
 
 <span id="syntaxToggle"></span>public Uri Uri { get; set; }Public Property Uri As Uri Get Set
-#### Property Value
+### Property Value
 
 Type: [Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
 The URI.
-#### Implements
+### Implements
 
 [IRegionNavigationJournalEntry.Uri](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionnavigationjournalentry.uri)
 

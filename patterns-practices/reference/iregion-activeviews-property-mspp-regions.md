@@ -21,7 +21,7 @@ Gets a readonly view of the collection of all the active views in the region.
 
 
 <span id="syntaxToggle"></span>IViewsCollection ActiveViews { get; }ReadOnly Property ActiveViews As IViewsCollection Get
-#### Property Value
+### Property Value
 
 Type: [IViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iviewscollection)
 An [IViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iviewscollection) of all the active views.

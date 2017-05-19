@@ -21,17 +21,18 @@ Adds a new view to the region.
 
 
 <span id="syntaxToggle"></span>public IRegionManager Add( Object view )Public Function Add ( view As Object ) As IRegionManager
-#### Parameters
+
+### Parameters
 
 view  
 Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The view to add.
 
-#### Return Value
+### Return Value
 
 Type: [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
 The [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager) that is set on the view if it is a [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309). It will be the current region manager when using this overload.
-#### Implements
+### Implements
 
 [IRegion.Add(Object)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregion.add(system.object))
 

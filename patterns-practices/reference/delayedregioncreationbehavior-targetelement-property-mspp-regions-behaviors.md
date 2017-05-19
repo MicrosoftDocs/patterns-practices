@@ -21,7 +21,7 @@ The element that will host the Region.
 
 
 <span id="syntaxToggle"></span>public DependencyObject TargetElement { get; set; }Public Property TargetElement As DependencyObject Get Set
-#### Property Value
+### Property Value
 
 Type: [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
 The target element.

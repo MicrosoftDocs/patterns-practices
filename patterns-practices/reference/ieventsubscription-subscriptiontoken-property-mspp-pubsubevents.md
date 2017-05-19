@@ -19,7 +19,7 @@ Gets or sets a SubscriptionToken that identifies this [IEventSubscription](https
 
 
 <span id="syntaxToggle"></span>SubscriptionToken SubscriptionToken { get; set; }Property SubscriptionToken As SubscriptionToken Get Set
-#### Property Value
+### Property Value
 
 Type: [SubscriptionToken](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken)
 A token that identifies this [IEventSubscription](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription).

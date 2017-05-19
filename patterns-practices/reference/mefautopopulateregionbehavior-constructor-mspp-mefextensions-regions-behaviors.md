@@ -21,7 +21,8 @@ Initializes a new instance of the [MefAutoPopulateRegionBehavior](https://msdn.m
 
 
 <span id="syntaxToggle"></span>public MefAutoPopulateRegionBehavior( IRegionViewRegistry regionViewRegistry )Public Sub New ( regionViewRegistry As IRegionViewRegistry )
-#### Parameters
+
+### Parameters
 
 regionViewRegistry  
 Type: [Microsoft.Practices.Prism.Regions.IRegionViewRegistry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionviewregistry)

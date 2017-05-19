@@ -23,7 +23,7 @@ Gets the navigation context.
 public NavigationContext NavigationContext { get; }
 ```
 
-#### Property Value
+### Property Value
 
 Type: [NavigationContext](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext(v=pandp.50))
 
@@ -35,7 +35,7 @@ Public ReadOnly Property NavigationContext As NavigationContext
 	Get
 ```
 
-#### Property Value
+### Property Value
 
 Type: [NavigationContext](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext(v=pandp.50))
 

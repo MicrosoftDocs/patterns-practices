@@ -19,13 +19,14 @@ Determines if the command can execute with the provided parameter by invoking th
 
 
 <span id="syntaxToggle"></span>protected bool CanExecute( Object parameter )Protected Function CanExecute ( parameter As Object ) As Boolean
-#### Parameters
+
+### Parameters
 
 parameter  
 Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The parameter to use when determining if this command can execute.
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 Returns trueTruetruetrue (True in Visual Basic) if the command can execute. falseFalsefalsefalse (False in Visual Basic) otherwise.

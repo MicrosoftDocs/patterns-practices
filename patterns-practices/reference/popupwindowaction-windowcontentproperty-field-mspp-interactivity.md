@@ -21,7 +21,7 @@ The content of the child window to display as part of the popup.
 
 
 <span id="syntaxToggle"></span>public static readonly DependencyProperty WindowContentPropertyPublic Shared ReadOnly WindowContentProperty As DependencyProperty
-#### Field Value
+### Field Value
 
 Type: [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318)
 

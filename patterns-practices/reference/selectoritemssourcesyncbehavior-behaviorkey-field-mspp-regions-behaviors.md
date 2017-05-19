@@ -21,7 +21,7 @@ Name that identifies the SelectorItemsSourceSyncBehavior behavior in a collectio
 
 
 <span id="syntaxToggle"></span>public static readonly string BehaviorKeyPublic Shared ReadOnly BehaviorKey As String
-#### Field Value
+### Field Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 

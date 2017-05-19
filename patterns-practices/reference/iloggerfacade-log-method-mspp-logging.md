@@ -21,7 +21,8 @@ Write a new log entry with the specified category and priority.
 
 
 <span id="syntaxToggle"></span>void Log( string message, Category category, Priority priority )Sub Log ( message As String, category As Category, priority As Priority )
-#### Parameters
+
+### Parameters
 
 message  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

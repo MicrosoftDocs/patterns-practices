@@ -21,13 +21,14 @@ Returns the adapter associated with the type provided.
 
 
 <span id="syntaxToggle"></span>public IRegionAdapter GetMapping( Type controlType )Public Function GetMapping ( controlType As Type ) As IRegionAdapter
-#### Parameters
+
+### Parameters
 
 controlType  
 Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The type to obtain the [IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter) mapped.
 
-#### Return Value
+### Return Value
 
 Type: [IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter)
 The [IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter) mapped to the controlType.

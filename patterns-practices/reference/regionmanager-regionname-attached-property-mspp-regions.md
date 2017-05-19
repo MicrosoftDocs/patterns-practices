@@ -19,7 +19,7 @@ RegionManager.RegionName Attached Property
 
 
 <span id="syntaxToggle"></span>See GetRegionName, SetRegionNameSee GetRegionName, SetRegionName
-#### Property Value
+### Property Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 

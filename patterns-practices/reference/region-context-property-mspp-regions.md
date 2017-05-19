@@ -21,11 +21,11 @@ Gets or sets a context for the region. This value can be used by the user to sha
 
 
 <span id="syntaxToggle"></span>public Object Context { get; set; }Public Property Context As Object Get Set
-#### Property Value
+### Property Value
 
 Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The context value to be shared.
-#### Implements
+### Implements
 
 [IRegion.Context](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.context)
 

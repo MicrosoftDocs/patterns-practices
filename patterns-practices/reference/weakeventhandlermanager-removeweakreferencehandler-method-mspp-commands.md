@@ -19,7 +19,8 @@ Removes an event handler from the reference list.
 
 
 <span id="syntaxToggle"></span>public static void RemoveWeakReferenceHandler( List&lt;WeakReference&gt; handlers, EventHandler handler )Public Shared Sub RemoveWeakReferenceHandler ( handlers As List(Of WeakReference), handler As EventHandler )
-#### Parameters
+
+### Parameters
 
 handlers  
 Type: [System.Collections.Generic.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)&lt;(Of &lt;([WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd)&gt;)&gt;)

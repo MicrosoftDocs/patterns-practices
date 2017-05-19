@@ -21,7 +21,8 @@ Raises this object's PropertyChanged event.
 
 
 <span id="syntaxToggle"></span>protected virtual void RaisePropertyChanged( string propertyName )Protected Overridable Sub RaisePropertyChanged ( propertyName As String )
-#### Parameters
+
+### Parameters
 
 propertyName  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

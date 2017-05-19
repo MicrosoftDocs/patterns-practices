@@ -37,7 +37,8 @@ Sub RegisterViewWithRegion (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *regionName*
   

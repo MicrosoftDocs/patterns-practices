@@ -21,11 +21,11 @@ Gets the name of the region that uniequely identifies the region within a [IRegi
 
 
 <span id="syntaxToggle"></span>public string Name { get; set; }Public Property Name As String Get Set
-#### Property Value
+### Property Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region.
-#### Implements
+### Implements
 
 [IRegion.Name](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.name)
 

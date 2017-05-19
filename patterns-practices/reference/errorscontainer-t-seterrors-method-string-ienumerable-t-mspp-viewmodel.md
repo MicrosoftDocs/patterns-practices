@@ -24,7 +24,8 @@ public void SetErrors(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *propertyName* 
 
@@ -69,7 +70,8 @@ Public Sub SetErrors (
 	newValidationResults As IEnumerable(Of T)
 )
 ``` 
-#### Parameters
+
+### Parameters
 
 *propertyName* 
 

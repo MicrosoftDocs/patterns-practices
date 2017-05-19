@@ -19,7 +19,8 @@ Automatically looks up the viewmodel that corresponds to the current view, using
 
 
 <span id="syntaxToggle"></span>public static void AutoWireViewModelChanged( IView view )Public Shared Sub AutoWireViewModelChanged ( view As IView )
-#### Parameters
+
+### Parameters
 
 view  
 Type: [Microsoft.Practices.Prism.Mvvm.IView](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.iview)

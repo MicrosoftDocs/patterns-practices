@@ -21,7 +21,7 @@ Gets the type of the [ConfigurationElementCollection](http://msdn2.microsoft.com
 
 
 <span id="syntaxToggle"></span>public override ConfigurationElementCollectionType CollectionType { get; }Public Overrides ReadOnly Property CollectionType As ConfigurationElementCollectionType Get
-#### Property Value
+### Property Value
 
 Type: [ConfigurationElementCollectionType](http://msdn2.microsoft.com/en-us/library/xtb86yh0)
 The [ConfigurationElementCollectionType](http://msdn2.microsoft.com/en-us/library/xtb86yh0) of this collection.

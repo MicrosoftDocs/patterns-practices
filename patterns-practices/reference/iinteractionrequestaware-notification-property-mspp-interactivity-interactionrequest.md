@@ -21,7 +21,7 @@ The [INotification](https://msdn.microsoft.com/t:microsoft.practices.prism.inter
 
 
 <span id="syntaxToggle"></span>INotification Notification { get; set; }Property Notification As INotification Get Set
-#### Property Value
+### Property Value
 
 Type: [INotification](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.inotification)
 

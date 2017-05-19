@@ -19,7 +19,8 @@ Extracts the property name from a property expression.
 
 
 <span id="syntaxToggle"></span>public static string ExtractPropertyName&lt;T&gt;( Expression&lt;Func&lt;T&gt;&gt; propertyExpression ) Public Shared Function ExtractPropertyName(Of T) ( propertyExpression As Expression(Of Func(Of T)) ) As String
-#### Parameters
+
+### Parameters
 
 propertyExpression  
 Type: [System.Linq.Expressions.Expression](http://msdn2.microsoft.com/en-us/library/bb335710)&lt;(Of &lt;([Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;)
@@ -32,7 +33,7 @@ Type Parameters
 T  
 The object type containing the property specified in the expression.
 
-#### Return Value
+### Return Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the property.

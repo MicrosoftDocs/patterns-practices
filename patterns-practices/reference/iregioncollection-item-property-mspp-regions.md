@@ -21,13 +21,14 @@ Gets the IRegion with the name received as index.
 
 
 <span id="syntaxToggle"></span>IRegion this[ string regionName \] { get; }ReadOnly Default Property Item ( regionName As String ) As IRegion Get
-#### Parameters
+
+### Parameters
 
 regionName  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Name of the region to be retrieved.
 
-#### Return Value
+### Return Value
 
 Type: [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 The [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) identified with the requested name.

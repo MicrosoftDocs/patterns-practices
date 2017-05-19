@@ -21,7 +21,8 @@ Initializes a new instance of the [MefDelayedRegionCreationBehavior](https://msd
 
 
 <span id="syntaxToggle"></span>public MefDelayedRegionCreationBehavior( RegionAdapterMappings regionAdapterMappings )Public Sub New ( regionAdapterMappings As RegionAdapterMappings )
-#### Parameters
+
+### Parameters
 
 regionAdapterMappings  
 Type: [Microsoft.Practices.Prism.Regions.RegionAdapterMappings](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionadaptermappings)

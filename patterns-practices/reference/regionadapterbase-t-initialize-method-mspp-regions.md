@@ -29,7 +29,8 @@ public IRegion Initialize( T regionTarget, string regionName )
 Public Function Initialize ( regionTarget As T, regionName As String ) As IRegion
 ```
 
-#### Parameters
+
+### Parameters
 
 *regionTarget*  
 Type: [T](https://msdn.microsoft.com/en-us/library/gg431546(v=pandp.50))
@@ -41,7 +42,7 @@ Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 
 The name of the region to be created.
 
-#### Return Value
+### Return Value
 
 Type: [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50))
 

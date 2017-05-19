@@ -21,7 +21,8 @@ Evaluates if a specified type was registered in the container.
 
 
 <span id="syntaxToggle"></span>public static bool IsTypeRegistered( IUnityContainer container, Type type )Public Shared Function IsTypeRegistered ( container As IUnityContainer, type As Type ) As Boolean
-#### Parameters
+
+### Parameters
 
 container  
 Type: IUnityContainer
@@ -31,7 +32,7 @@ type
 Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The type to check if it was registered.
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if the type was registered with the container.

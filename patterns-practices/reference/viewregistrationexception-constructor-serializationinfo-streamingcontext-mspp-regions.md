@@ -33,7 +33,8 @@ Protected Sub New (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *info*  
 Type: [System.Runtime.Serialization.SerializationInfo](http://msdn2.microsoft.com/en-us/library/a9b6042e)

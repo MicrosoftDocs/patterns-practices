@@ -21,7 +21,7 @@ InitializeComponent
 
 
 <span id="syntaxToggle"></span>public void InitializeComponent()Public Sub InitializeComponent
-#### Implements
+### Implements
 
 [IComponentConnector.InitializeComponent()()()](http://msdn2.microsoft.com/en-us/library/ms603526)
 

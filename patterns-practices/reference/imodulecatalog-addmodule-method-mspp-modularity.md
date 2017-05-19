@@ -21,13 +21,14 @@ Adds a [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modul
 
 
 <span id="syntaxToggle"></span>void AddModule( ModuleInfo moduleInfo )Sub AddModule ( moduleInfo As ModuleInfo )
-#### Parameters
+
+### Parameters
 
 moduleInfo  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 The [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) to add.
 
-#### Return Value
+### Return Value
 
 Type:
 The [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog) for easily adding multiple modules.

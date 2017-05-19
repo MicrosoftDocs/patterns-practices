@@ -31,12 +31,12 @@ Gets a collection of [IRegion](https://msdn.microsoft.com/en-us/library/microsof
      Get
 ```
 <span id="syntaxToggle"></span>public IRegionCollection Regions { get; }Public ReadOnly Property Regions As IRegionCollection Get
-#### Property Value
+### Property Value
 
 Type: [IRegionCollection](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection(v=pandp.50))
 
 A [IRegionCollection](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection(v=pandp.50)) with all the registered regions.
-#### Implements
+### Implements
 
 [IRegionManager.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanager.regions(v=pandp.50))
 

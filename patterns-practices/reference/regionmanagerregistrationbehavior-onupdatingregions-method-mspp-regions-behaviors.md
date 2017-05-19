@@ -9,7 +9,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405945(v=PandP.50)'
 
 This event handler gets called when a RegionManager is requering the instances of a region to be registered if they are not already.
 
-#### Remarks
+### Remarks
 
 Although this is a public method to support Weak Delegates in Silverlight, it should not be called by the user.
 
@@ -36,7 +36,8 @@ Public Sub OnUpdatingRegions (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *sender*
 

@@ -21,13 +21,14 @@ Marks the specified view as inactive.
 
 
 <span id="syntaxToggle"></span>public virtual void Deactivate( Object view )Public Overridable Sub Deactivate ( view As Object )
-#### Parameters
+
+### Parameters
 
 view  
 Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The view to deactivate.
 
-#### Implements
+### Implements
 
 [IRegion.Deactivate(Object)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregion.deactivate(system.object))
 

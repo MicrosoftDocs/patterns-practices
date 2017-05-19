@@ -21,7 +21,7 @@ The value that's wrapped inside the ObservableObject.
 
 
 <span id="syntaxToggle"></span>public T Value { get; set; }Public Property Value As T Get Set
-#### Property Value
+### Property Value
 
 Type: [T](https://msdn.microsoft.com/t:microsoft.practices.prism.observableobject%601)
 

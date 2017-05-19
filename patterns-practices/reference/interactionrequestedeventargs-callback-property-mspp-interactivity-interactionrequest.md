@@ -21,7 +21,7 @@ Gets the callback to execute when an interaction is completed.
 
 
 <span id="syntaxToggle"></span>public Action Callback { get; }Public ReadOnly Property Callback As Action Get
-#### Property Value
+### Property Value
 
 Type: [Action](http://msdn2.microsoft.com/en-us/library/bb534741)
 

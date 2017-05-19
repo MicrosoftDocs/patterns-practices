@@ -21,7 +21,7 @@ Gets the [NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices
 
 
 <span id="syntaxToggle"></span>public NavigationParameters Parameters { get; }Public ReadOnly Property Parameters As NavigationParameters Get
-#### Property Value
+### Property Value
 
 Type: [NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters)
 The URI query.

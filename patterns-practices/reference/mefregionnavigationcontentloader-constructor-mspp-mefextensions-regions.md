@@ -21,7 +21,8 @@ Initializes a new instance of the [MefRegionNavigationContentLoader](https://msd
 
 
 <span id="syntaxToggle"></span>public MefRegionNavigationContentLoader( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
-#### Parameters
+
+### Parameters
 
 serviceLocator  
 Type: IServiceLocator

@@ -21,7 +21,7 @@ Gets or sets the module type.
 
 
 <span id="syntaxToggle"></span>public string ModuleType { get; set; }Public Property ModuleType As String Get Set
-#### Property Value
+### Property Value
 
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The module's type.

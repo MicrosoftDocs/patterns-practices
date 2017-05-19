@@ -32,7 +32,8 @@ Public Sub Remove (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *moduleInfo*
 

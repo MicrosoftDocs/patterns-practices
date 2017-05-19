@@ -21,7 +21,8 @@ Initializes a new instance of the [FileModuleTypeLoader](https://msdn.microsoft.
 
 
 <span id="syntaxToggle"></span>public FileModuleTypeLoader( IAssemblyResolver assemblyResolver )Public Sub New ( assemblyResolver As IAssemblyResolver )
-#### Parameters
+
+### Parameters
 
 assemblyResolver  
 Type: [Microsoft.Practices.Prism.Modularity.IAssemblyResolver](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.iassemblyresolver)

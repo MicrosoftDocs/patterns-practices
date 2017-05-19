@@ -21,7 +21,8 @@ Initializes a new instance of the [NavigationParameters](https://msdn.microsoft.
 
 
 <span id="syntaxToggle"></span>public NavigationParameters( string query )Public Sub New ( query As String )
-#### Parameters
+
+### Parameters
 
 query  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

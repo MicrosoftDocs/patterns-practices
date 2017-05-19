@@ -21,7 +21,7 @@ Corresponding command to be execute and monitored for [CanExecuteChanged](http:/
 
 
 <span id="syntaxToggle"></span>public ICommand Command { get; set; }Public Property Command As ICommand Get Set
-#### Property Value
+### Property Value
 
 Type: [ICommand](http://msdn2.microsoft.com/en-us/library/ms616869)
 

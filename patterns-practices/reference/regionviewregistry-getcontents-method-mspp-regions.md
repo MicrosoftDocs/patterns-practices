@@ -21,17 +21,18 @@ Returns the contents registered for a region.
 
 
 <span id="syntaxToggle"></span>public IEnumerable&lt;Object&gt; GetContents( string regionName )Public Function GetContents ( regionName As String ) As IEnumerable(Of Object)
-#### Parameters
+
+### Parameters
 
 regionName  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Name of the region which content is being requested.
 
-#### Return Value
+### Return Value
 
 Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 Collection of contents registered for the region.
-#### Implements
+### Implements
 
 [IRegionViewRegistry.GetContents(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionviewregistry.getcontents(system.string))
 

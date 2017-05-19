@@ -21,7 +21,7 @@ Creates a new region manager.
 
 
 <span id="syntaxToggle"></span>IRegionManager CreateRegionManager()Function CreateRegionManager As IRegionManager
-#### Return Value
+### Return Value
 
 Type: [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
 A new region manager that can be used as a different scope from the current region manager.

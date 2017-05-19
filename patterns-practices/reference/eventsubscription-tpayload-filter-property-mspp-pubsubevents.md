@@ -19,7 +19,7 @@ Gets the target [Predicate&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/e
 
 
 <span id="syntaxToggle"></span>public Predicate&lt;TPayload&gt; Filter { get; }Public ReadOnly Property Filter As Predicate(Of TPayload) Get
-#### Property Value
+### Property Value
 
 Type: [Predicate](http://msdn2.microsoft.com/en-us/library/bfcke1bz)&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventsubscription%601)&gt;)&gt;)
 An [Predicate&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/bfcke1bz) or nullNothingnullptra null reference (Nothing in Visual Basic) if the referenced target is not alive.

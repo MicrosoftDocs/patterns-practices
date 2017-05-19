@@ -21,7 +21,7 @@ Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a
 
 
 <span id="syntaxToggle"></span>public bool IsAttached { get; }Public ReadOnly Property IsAttached As Boolean Get
-#### Property Value
+### Property Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 

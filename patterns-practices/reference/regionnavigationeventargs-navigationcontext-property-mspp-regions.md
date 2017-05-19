@@ -21,7 +21,7 @@ Gets the navigation context.
 
 
 <span id="syntaxToggle"></span>public NavigationContext NavigationContext { get; }Public ReadOnly Property NavigationContext As NavigationContext Get
-#### Property Value
+### Property Value
 
 Type: [NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)
 The navigation context.

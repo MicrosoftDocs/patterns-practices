@@ -21,7 +21,8 @@ Initializes a new instance of the [UpdateRegionsException](https://msdn.microsof
 
 
 <span id="syntaxToggle"></span>public UpdateRegionsException( string message )Public Sub New ( message As String )
-#### Parameters
+
+### Parameters
 
 message  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

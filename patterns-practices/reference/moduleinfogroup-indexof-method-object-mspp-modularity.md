@@ -21,17 +21,18 @@ Determines the index of a specific item in the [ModuleInfoGroup](https://msdn.mi
 
 
 <span id="syntaxToggle"></span>public int IndexOf( Object value )Public Function IndexOf ( value As Object ) As Integer
-#### Parameters
+
+### Parameters
 
 value  
 Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b) to locate in the [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup). Must be of type [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 
-#### Return Value
+### Return Value
 
 Type: [Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
 The index of value if found in the list; otherwise, -1.
-#### Implements
+### Implements
 
 [IList.IndexOf(Object)](http://msdn2.microsoft.com/en-us/library/2zt6cw37)
 

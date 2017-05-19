@@ -25,14 +25,15 @@ public bool ContainsValue(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *value*
 
 	Type: [TValue](https://msdn.microsoft.com/en-us/library/gg431434(v=pandp.50))
 	The value to locate.
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)<br/>
 true if the dictionary contains the value in any list; otherwise, false.
@@ -64,14 +65,15 @@ Public Function ContainsValue (
 ) As Boolean
 ```
 
-#### Parameters
+
+### Parameters
 
 *value*
 
 	Type: [TValue](https://msdn.microsoft.com/en-us/library/gg431434(v=pandp.50)) 
 	The value to locate.
 
-#### Return Value
+### Return Value
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)<br/> 
 
 true if the dictionary contains the value in any list; otherwise, false.

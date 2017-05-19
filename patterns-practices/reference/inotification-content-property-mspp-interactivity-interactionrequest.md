@@ -21,7 +21,7 @@ Gets or sets the content of the notification.
 
 
 <span id="syntaxToggle"></span>Object Content { get; set; }Property Content As Object Get Set
-#### Property Value
+### Property Value
 
 Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 

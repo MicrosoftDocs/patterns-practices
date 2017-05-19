@@ -21,17 +21,18 @@ Determines whether the collection contains a specific value.
 
 
 <span id="syntaxToggle"></span>public bool Contains( Object value )Public Function Contains ( value As Object ) As Boolean
-#### Parameters
+
+### Parameters
 
 value  
 Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The object to locate in the collection.
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if value is found in the collection; otherwise, falseFalsefalsefalse (False in Visual Basic).
-#### Implements
+### Implements
 
 [IViewsCollection.Contains(Object)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iviewscollection.contains(system.object))
 

@@ -36,7 +36,8 @@ Public Sub New (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *message*  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

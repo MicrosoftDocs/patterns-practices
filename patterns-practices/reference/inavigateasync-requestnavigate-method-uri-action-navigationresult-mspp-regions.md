@@ -35,7 +35,8 @@ Sub RequestNavigate (
 	navigationCallback As Action(Of NavigationResult)
 )
 ```
-#### Parameters
+
+### Parameters
 
 *target*  
 Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)

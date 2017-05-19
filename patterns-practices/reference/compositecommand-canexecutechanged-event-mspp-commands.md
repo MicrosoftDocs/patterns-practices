@@ -19,10 +19,10 @@ Occurs when any of the registered commands raise [CanExecuteChanged](http://msdn
 
 
 <span id="syntaxToggle"></span>public event EventHandler CanExecuteChangedPublic Event CanExecuteChanged As EventHandler
-#### Value
+### Value
 
 Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
-#### Implements
+### Implements
 
 [ICommand.CanExecuteChanged](http://msdn2.microsoft.com/en-us/library/ms523106)
 

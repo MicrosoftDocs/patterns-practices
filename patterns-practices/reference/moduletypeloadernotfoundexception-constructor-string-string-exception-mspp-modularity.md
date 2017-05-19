@@ -21,7 +21,8 @@ Initializes the exception with a particular module, error message and inner exce
 
 
 <span id="syntaxToggle"></span>public ModuleTypeLoaderNotFoundException( string moduleName, string message, Exception innerException )Public Sub New ( moduleName As String, message As String, innerException As Exception )
-#### Parameters
+
+### Parameters
 
 moduleName  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

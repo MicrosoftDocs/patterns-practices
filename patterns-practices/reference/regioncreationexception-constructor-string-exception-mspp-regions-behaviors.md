@@ -21,7 +21,8 @@ Initializes a new instance of the [RegionCreationException](https://msdn.microso
 
 
 <span id="syntaxToggle"></span>public RegionCreationException( string message, Exception inner )Public Sub New ( message As String, inner As Exception )
-#### Parameters
+
+### Parameters
 
 message  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

@@ -21,7 +21,7 @@ Called when a part's imports have been satisfied and it is safe to use.
 
 
 <span id="syntaxToggle"></span>public virtual void OnImportsSatisfied()Public Overridable Sub OnImportsSatisfied
-#### Implements
+### Implements
 
 [IPartImportsSatisfiedNotification.OnImportsSatisfied()()()](http://msdn2.microsoft.com/en-us/library/dd833579)
 

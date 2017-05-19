@@ -21,7 +21,7 @@ Gets the default IUnityContainer for the application.
 
 
 <span id="syntaxToggle"></span>public IUnityContainer Container { get; protected set; }Public Property Container As IUnityContainer Get Protected Set
-#### Property Value
+### Property Value
 
 Type: IUnityContainer
 The default IUnityContainer instance.

@@ -30,18 +30,19 @@ public bool Remove( ModuleInfo item )
 Public Function Remove ( item As ModuleInfo ) As Boolean
 ```
 
-#### Parameters
+
+### Parameters
 
 *item*  
 	Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))
 	The object to remove from the [ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50)).
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 
 true if item was successfully removed from the [ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50)); otherwise, false. This method also returns false if item is not found in the original [ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50)).
-#### Implements
+### Implements
 
 [ICollection&lt;T&gt;.Remove(T)](http://msdn2.microsoft.com/en-us/library/bye7h94w)
 

@@ -27,7 +27,7 @@ Public Overrides ReadOnly Property CollectionType As ConfigurationElementCollect
 	Get
 ```
 
-#### Property Value
+### Property Value
 
 Type: [ConfigurationElementCollectionType](http://msdn2.microsoft.com/en-us/library/xtb86yh0)
 

@@ -31,7 +31,8 @@ Public Overridable Sub RegisterCommand (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *command*  
 Type: [System.Windows.Input.ICommand](http://msdn2.microsoft.com/en-us/library/ms616869)

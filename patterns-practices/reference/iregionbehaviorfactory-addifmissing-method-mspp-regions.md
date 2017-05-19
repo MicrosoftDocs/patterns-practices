@@ -21,7 +21,8 @@ Adds a particular type of RegionBehavior if it was not already registered. the b
 
 
 <span id="syntaxToggle"></span>void AddIfMissing( string behaviorKey, Type behaviorType )Sub AddIfMissing ( behaviorKey As String, behaviorType As Type )
-#### Parameters
+
+### Parameters
 
 behaviorKey  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

@@ -21,13 +21,14 @@ Returns an [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com
 
 
 <span id="syntaxToggle"></span>public static ObservableObject&lt;Object&gt; GetObservableContext( DependencyObject view )Public Shared Function GetObservableContext ( view As DependencyObject ) As ObservableObject(Of Object)
-#### Parameters
+
+### Parameters
 
 view  
 Type: [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
 Any view that hold the RegionContext value.
 
-#### Return Value
+### Return Value
 
 Type: [ObservableObject](https://msdn.microsoft.com/t:microsoft.practices.prism.observableobject%601)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 Wrapper around the Regioncontext value.

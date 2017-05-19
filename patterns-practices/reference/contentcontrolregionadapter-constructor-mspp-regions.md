@@ -21,7 +21,8 @@ Initializes a new instance of [ContentControlRegionAdapter](https://msdn.microso
 
 
 <span id="syntaxToggle"></span>public ContentControlRegionAdapter( IRegionBehaviorFactory regionBehaviorFactory )Public Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
-#### Parameters
+
+### Parameters
 
 regionBehaviorFactory  
 Type: [Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorfactory)

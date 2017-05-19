@@ -21,13 +21,14 @@ Removes the [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/lib
 
 
 <span id="syntaxToggle"></span>public void RemoveAt( int index )Public Sub RemoveAt ( index As Integer )
-#### Parameters
+
+### Parameters
 
 index  
 Type: [System.Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
 The zero-based index of the item to remove.
 
-#### Implements
+### Implements
 
 [IList&lt;(Of &lt;(T&gt;)&gt;).RemoveAt(Int32)](http://msdn2.microsoft.com/en-us/library/c93ab5c9)
 [IList.RemoveAt(Int32)](http://msdn2.microsoft.com/en-us/library/x5zwtyhy)

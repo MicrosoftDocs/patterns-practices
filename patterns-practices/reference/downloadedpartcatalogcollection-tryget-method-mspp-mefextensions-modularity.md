@@ -21,7 +21,8 @@ Tries to ge the catalog for the specified module info.
 
 
 <span id="syntaxToggle"></span>public bool TryGet( ModuleInfo moduleInfo, out ComposablePartCatalog catalog )Public Function TryGet ( moduleInfo As ModuleInfo, &lt;OutAttribute&gt; ByRef catalog As ComposablePartCatalog ) As Boolean
-#### Parameters
+
+### Parameters
 
 moduleInfo  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
@@ -31,7 +32,7 @@ catalog
 Type: [System.ComponentModel.Composition.Primitives.ComposablePartCatalog](http://msdn2.microsoft.com/en-us/library/dd454614)%
 The catalog.
 
-#### Return Value
+### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 true if found; otherwise false;

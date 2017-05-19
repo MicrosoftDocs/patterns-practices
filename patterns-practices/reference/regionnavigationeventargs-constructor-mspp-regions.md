@@ -21,7 +21,8 @@ Initializes a new instance of the [RegionNavigationEventArgs](https://msdn.micro
 
 
 <span id="syntaxToggle"></span>public RegionNavigationEventArgs( NavigationContext navigationContext )Public Sub New ( navigationContext As NavigationContext )
-#### Parameters
+
+### Parameters
 
 navigationContext  
 Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)

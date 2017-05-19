@@ -21,7 +21,8 @@ Initializes a new instance of the [NavigationContext](https://msdn.microsoft.com
 
 
 <span id="syntaxToggle"></span>public NavigationContext( IRegionNavigationService navigationService, Uri uri, NavigationParameters navigationParameters )Public Sub New ( navigationService As IRegionNavigationService, uri As Uri, navigationParameters As NavigationParameters )
-#### Parameters
+
+### Parameters
 
 navigationService  
 Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationService](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationservice)

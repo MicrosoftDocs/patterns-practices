@@ -21,13 +21,14 @@ Resolves all the instances of the requested service.
 
 
 <span id="syntaxToggle"></span>protected override IEnumerable&lt;Object&gt; DoGetAllInstances( Type serviceType )Protected Overrides Function DoGetAllInstances ( serviceType As Type ) As IEnumerable(Of Object)
-#### Parameters
+
+### Parameters
 
 serviceType  
 Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 Type of service requested.
 
-#### Return Value
+### Return Value
 
 Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 Sequence of service instance objects.
