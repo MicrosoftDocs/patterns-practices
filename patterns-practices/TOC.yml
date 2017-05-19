@@ -35,6 +35,8 @@
       href: guide/13-prism-library-5.0-for-wpf.md
     - name: Upgrading from Prism Library 4.1
       href: guide/14-upgrading-from-prism-library-4.1.md
+    - name: Upgrading from Prism 2.x
+      href: guide/upgrading-from-prism-2.x.md
     - name: Extending
       href: guide/15-extending-the-prism-library-5.0-for-wpf.md
     - name: Code Samples
@@ -64,8 +66,6 @@
       href: guide/17-getting-started-using-the-prism-library-5.0-for-wpf-hands-on-lab.md
     - name: Publishing and Updating Applications Using the Hands-on Lab
       href: guide/18-publishing-and-updating-applications-using-the-prism-library-5.0-for-wpf-hands-on-lab.md
-    - name: Upgrading from Prism 2.x
-      href: guide/upgrading-from-prism-2.x.md
     - name: Deploying Prism Silverlight Applications
       href: guide/deploying-prism-in-silverlight-applications.md
     - name: Sharing Code Between Silverlight and WPF
