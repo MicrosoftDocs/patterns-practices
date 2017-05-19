@@ -13,7 +13,9 @@ MefBootstrapper.ConfigureAggregateCatalog Method
 Configures the [AggregateCatalog](https://msdn.microsoft.com/p:microsoft.practices.prism.mefextensions.mefbootstrapper.aggregatecatalog) used by MEF.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

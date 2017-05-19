@@ -15,7 +15,9 @@ Interaction logic for ConfirmationChildWindow.xaml
 DefaultConfirmationWindow
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.defaultpopupwindows)
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

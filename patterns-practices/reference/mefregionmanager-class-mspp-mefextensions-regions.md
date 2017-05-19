@@ -11,7 +11,9 @@ Exports the RegionManager using the Managed Extensibility Framework (MEF).
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

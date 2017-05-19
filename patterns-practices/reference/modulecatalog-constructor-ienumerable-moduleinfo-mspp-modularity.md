@@ -13,7 +13,9 @@ ModuleCatalog Constructor (IEnumerable&lt;(Of &lt;(ModuleInfo&gt;)&gt;))
 Initializes a new instance of the [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog) class while providing an initial list of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)s.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

@@ -13,7 +13,9 @@ UnityServiceLocatorAdapter Constructor
 Initializes a new instance of [UnityServiceLocatorAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unityservicelocatoradapter).
 
 **Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)
-**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

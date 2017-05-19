@@ -13,7 +13,9 @@ ModuleInfoGroup.RemoveAt Method
 Removes the [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/5y536ey6) item at the specified index.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

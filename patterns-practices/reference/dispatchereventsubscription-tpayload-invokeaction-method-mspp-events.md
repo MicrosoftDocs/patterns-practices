@@ -13,7 +13,9 @@ DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;).InvokeAction Method
 Invokes the specified [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/018hxwa8) asynchronously in the specified [Dispatcher](http://msdn2.microsoft.com/en-us/library/ms615907).
 
 **Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/n:microsoft.practices.prism.events)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

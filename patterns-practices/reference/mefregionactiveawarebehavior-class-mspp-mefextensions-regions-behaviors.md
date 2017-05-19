@@ -13,7 +13,9 @@ Exports the RegionActiveAwareBehavior using the Managed Extensibility Framework 
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

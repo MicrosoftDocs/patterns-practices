@@ -13,7 +13,9 @@ Gets or sets a value that remembers whether the [ModuleCatalog](https://msdn.mic
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

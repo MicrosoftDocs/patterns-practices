@@ -13,7 +13,9 @@ ModuleInfoGroup Class
 Represents a group of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) instances that are usually deployed together. ModuleInfoGroups are also used by the [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog) to prevent common deployment problems such as having a module that's required at startup that depends on modules that will only be downloaded on demand. The group also forwards [Ref](https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleinfogroup.ref) and [InitializationMode](https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleinfogroup.initializationmode) values to the [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)s that it contains.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

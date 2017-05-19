@@ -13,7 +13,9 @@ CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Class
 Base behavior to handle connecting a [Control](http://msdn2.microsoft.com/en-us/library/ms609826) to a Command.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

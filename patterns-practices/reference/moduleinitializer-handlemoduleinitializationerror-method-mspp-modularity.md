@@ -13,7 +13,9 @@ ModuleInitializer.HandleModuleInitializationError Method
 Handles any exception occurred in the module Initialization process, logs the error using the [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade) and throws a [ModuleInitializeException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinitializeexception). This method can be overridden to provide a different behavior.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

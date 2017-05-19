@@ -13,7 +13,9 @@ ModuleInitializer.CreateModule Method (String)
 Uses the container to resolve a new [IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule) by specifying its [Type](http://msdn2.microsoft.com/en-us/library/42892f65).
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

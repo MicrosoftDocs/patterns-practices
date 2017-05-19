@@ -13,7 +13,9 @@ ExceptionExtensions.RegisterFrameworkExceptionType Method
 Register the type of an Exception that is thrown by the framework. The [GetRootException(Exception)](https://msdn.microsoft.com/m:microsoft.practices.prism.exceptionextensions.getrootexception(system.exception)) method uses this list of Exception types to find out if something has gone wrong.
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

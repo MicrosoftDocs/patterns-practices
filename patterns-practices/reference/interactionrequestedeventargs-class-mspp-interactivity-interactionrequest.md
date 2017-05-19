@@ -13,7 +13,9 @@ InteractionRequestedEventArgs Class
 Event args for the [Raised](https://msdn.microsoft.com/e:microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest.raised) event.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

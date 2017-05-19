@@ -13,7 +13,9 @@ DelayedRegionCreationBehavior.RegionManagerAccessor Property
 Sets a class that interfaces between the [RegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanager) 's static properties/events and this behavior, so this behavior can be tested in isolation.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

@@ -13,7 +13,9 @@ MefEventAggregator Class
 Exports the EventAggregator using the Managed Extensibility Framework (MEF).
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Events](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.events)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

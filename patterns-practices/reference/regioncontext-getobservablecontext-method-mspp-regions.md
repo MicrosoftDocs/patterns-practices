@@ -13,7 +13,9 @@ RegionContext.GetObservableContext Method
 Returns an [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.observableobject%601) wrapper around the RegionContext value. The RegionContext will be set on any views (dependency objects) that are inside the [Views](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.views) collection by the [BindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior) Behavior. The RegionContext will also be set to the control that hosts the Region, by the [SyncRegionContextWithHostBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior) Behavior. If the [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.observableobject%601) wrapper does not already exist, an empty one will be created. This way, an observer can notify when the value is set for the first time.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

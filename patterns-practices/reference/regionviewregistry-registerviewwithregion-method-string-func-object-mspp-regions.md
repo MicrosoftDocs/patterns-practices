@@ -13,7 +13,9 @@ RegionViewRegistry.RegisterViewWithRegion Method (String, Func&lt;(Of &lt;(Objec
 Registers a delegate that can be used to retrieve the content associated with a region name.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

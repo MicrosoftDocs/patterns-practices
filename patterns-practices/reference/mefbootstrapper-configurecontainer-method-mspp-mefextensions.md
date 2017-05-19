@@ -13,7 +13,9 @@ MefBootstrapper.ConfigureContainer Method
 Configures the [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553). May be overwritten in a derived class to add specific type mappings required by the application.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

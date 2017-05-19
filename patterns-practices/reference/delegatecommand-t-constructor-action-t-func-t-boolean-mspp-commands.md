@@ -59,6 +59,7 @@ Initializes a new instance of [DelegateCommand(Of T)](https://msdn.microsoft.com
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
 
+
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax

@@ -13,7 +13,9 @@ PopupWindowAction.WindowContentProperty Field
 The content of the child window to display as part of the popup.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

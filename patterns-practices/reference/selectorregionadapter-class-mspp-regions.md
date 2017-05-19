@@ -13,7 +13,9 @@ SelectorRegionAdapter Class
 Adapter that creates a new [Region](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.region) and binds all the views to the adapted [Selector](http://msdn2.microsoft.com/en-us/library/ms595227). It also keeps the [ActiveViews](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.activeviews) and the selected items of the [Selector](http://msdn2.microsoft.com/en-us/library/ms595227) in sync.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

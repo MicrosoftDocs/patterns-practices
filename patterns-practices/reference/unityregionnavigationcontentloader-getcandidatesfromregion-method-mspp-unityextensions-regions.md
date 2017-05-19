@@ -13,7 +13,9 @@ UnityRegionNavigationContentLoader.GetCandidatesFromRegion Method
 Returns the set of candidates that may satisfiy this navigation request.
 
 **Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions.regions)
-**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

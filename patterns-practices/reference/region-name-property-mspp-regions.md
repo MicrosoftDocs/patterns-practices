@@ -13,7 +13,9 @@ Region.Name Property
 Gets the name of the region that uniequely identifies the region within a [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager).
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

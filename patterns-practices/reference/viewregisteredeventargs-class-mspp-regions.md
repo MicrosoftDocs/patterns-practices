@@ -13,7 +13,9 @@ ViewRegisteredEventArgs Class
 Argument class used by the [ContentRegistered](https://msdn.microsoft.com/e:microsoft.practices.prism.regions.iregionviewregistry.contentregistered) event when a new content is registered.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

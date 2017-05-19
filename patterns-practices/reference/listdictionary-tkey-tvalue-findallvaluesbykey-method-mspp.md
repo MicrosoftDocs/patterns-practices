@@ -13,7 +13,9 @@ ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).FindAllValuesByKey Method
 Retrieves the all the elements from the list which have a key that matches the condition defined by the specified predicate.
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

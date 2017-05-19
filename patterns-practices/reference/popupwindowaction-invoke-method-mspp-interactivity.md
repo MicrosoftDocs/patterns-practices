@@ -13,7 +13,9 @@ PopupWindowAction.Invoke Method
 Displays the child window and collects results for [IInteractionRequest](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest).
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

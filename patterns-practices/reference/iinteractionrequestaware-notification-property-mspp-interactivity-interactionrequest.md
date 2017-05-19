@@ -13,7 +13,9 @@ IInteractionRequestAware.Notification Property
 The [INotification](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.inotification) passed when the interaction request was raised.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

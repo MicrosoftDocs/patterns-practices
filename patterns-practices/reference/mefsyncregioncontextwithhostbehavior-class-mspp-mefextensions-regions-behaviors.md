@@ -13,7 +13,9 @@ MefSyncRegionContextWithHostBehavior Class
 Exports the SyncRegionContextWithHostBehavior using the Managed Extensibility Framework (MEF).
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions.behaviors)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

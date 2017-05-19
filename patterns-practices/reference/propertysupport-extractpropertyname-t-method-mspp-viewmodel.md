@@ -11,7 +11,9 @@ Extracts the property name from a property expression.
 
 **Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -79,7 +81,9 @@ Extracts the property name from a property expression.
 
 **Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

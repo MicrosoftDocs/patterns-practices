@@ -13,7 +13,9 @@ ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Constructor
 Initializes a new instance of the [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602) class
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

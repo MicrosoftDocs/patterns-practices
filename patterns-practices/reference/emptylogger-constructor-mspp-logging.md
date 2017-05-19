@@ -13,7 +13,9 @@ EmptyLogger Constructor
 Initializes a new instance of the [EmptyLogger](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.emptylogger) class
 
 **Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/n:microsoft.practices.prism.logging)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

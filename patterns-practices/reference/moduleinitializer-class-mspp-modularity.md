@@ -13,7 +13,9 @@ ModuleInitializer Class
 Implements the [IModuleInitializer](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imoduleinitializer) interface. Handles loading of a module based on a type.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

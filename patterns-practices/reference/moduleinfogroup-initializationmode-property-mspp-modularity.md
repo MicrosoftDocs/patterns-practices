@@ -13,7 +13,9 @@ ModuleInfoGroup.InitializationMode Property
 Gets or sets the [InitializationMode](https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleinfo.initializationmode) for the whole group. Any [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) classes that are added after setting this value will also get this InitializationMode.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

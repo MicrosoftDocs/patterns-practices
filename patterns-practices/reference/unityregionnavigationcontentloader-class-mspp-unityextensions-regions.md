@@ -13,7 +13,9 @@ UnityRegionNavigationContentLoader Class
 Specialization of the default RegionNavigationContentLoader that queries the corresponding IUnityContainer to obtain the name of the view's type registered for the contract name.
 
 **Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions.regions)
-**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
