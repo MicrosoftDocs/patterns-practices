@@ -10,7 +10,6 @@ Prism Class Library
 IDelegateReference Properties
 =============================
 
-
 The [IDelegateReference](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.idelegatereference) type exposes the following members.
 
 Properties

@@ -10,7 +10,6 @@ Prism Class Library
 DelegateReference Methods
 =========================
 
-
 The [DelegateReference](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.delegatereference) type exposes the following members.
 
 Methods

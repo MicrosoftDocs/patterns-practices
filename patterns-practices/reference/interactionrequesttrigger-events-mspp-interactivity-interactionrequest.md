@@ -10,7 +10,6 @@ Prism Class Library
 InteractionRequestTrigger Events
 ================================
 
-
 The [InteractionRequestTrigger](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger) type exposes the following members.
 
 Events

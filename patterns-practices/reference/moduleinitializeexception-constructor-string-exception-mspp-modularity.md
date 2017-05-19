@@ -24,8 +24,6 @@ message
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The exception message.
 
-<!-- -->
-
 innerException  
 Type: [System..::.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
 The inner exception.

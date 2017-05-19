@@ -10,7 +10,6 @@ Prism Class Library
 DirectoryModuleCatalog Methods
 ==============================
 
-
 The [DirectoryModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.directorymodulecatalog) type exposes the following members.
 
 Methods

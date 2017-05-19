@@ -10,7 +10,6 @@ Prism Class Library
 RegionNavigationContentLoader Members
 =====================================
 
-
 The [RegionNavigationContentLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationcontentloader) type exposes the following members.
 
 Constructors

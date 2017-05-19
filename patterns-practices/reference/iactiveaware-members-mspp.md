@@ -10,7 +10,6 @@ Prism Class Library
 IActiveAware Members
 ====================
 
-
 The [IActiveAware](https://msdn.microsoft.com/t:microsoft.practices.prism.iactiveaware) type exposes the following members.
 
 Properties

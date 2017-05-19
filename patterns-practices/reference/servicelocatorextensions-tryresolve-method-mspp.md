@@ -10,7 +10,6 @@ Prism Class Library
 ServiceLocatorExtensions..::.TryResolve Method
 ==============================================
 
-
 Overload List
 -------------
 

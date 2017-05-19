@@ -10,7 +10,6 @@ Prism Class Library
 RegionManagerExtensions Methods
 ===============================
 
-
 The [RegionManagerExtensions](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanagerextensions) type exposes the following members.
 
 Methods

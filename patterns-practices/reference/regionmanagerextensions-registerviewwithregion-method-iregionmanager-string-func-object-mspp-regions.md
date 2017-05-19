@@ -24,13 +24,9 @@ regionManager
 Type: [Microsoft.Practices.Prism.Regions..::.IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
 The regionmanager that this extension method effects.
 
-<!-- -->
-
 regionName  
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region to associate the view with.
-
-<!-- -->
 
 getContentDelegate  
 Type: [System..::.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)

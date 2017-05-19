@@ -1,7 +1,7 @@
 ---
 TOCTitle: AddGroup Method
 Title: 'ModuleCatalog.AddGroup Method (Microsoft.Practices.Prism.Modularity)'
-ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddGroup(Microsoft.Practices.Prism.Modularity.InitializationMode,System.String,Microsoft.Practices.Prism.Modularity.ModuleInfo\[\])'
+ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddGroup(Microsoft.Practices.Prism.Modularity.InitializationMode,System.String,Microsoft.Practices.Prism.Modularity.ModuleInfo[])'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405867(v=PandP.50)'
 ---
 
@@ -17,23 +17,19 @@ Creates and adds a [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.prac
 Syntax
 ------
 
-<span id="syntaxToggle"></span>public virtual ModuleCatalog AddGroup( InitializationMode initializationMode, string refValue, params ModuleInfo\[\] moduleInfos )Public Overridable Function AddGroup ( initializationMode As InitializationMode, refValue As String, ParamArray moduleInfos As ModuleInfo() ) As ModuleCatalog
+<span id="syntaxToggle"></span>public virtual ModuleCatalog AddGroup( InitializationMode initializationMode, string refValue, params ModuleInfo[] moduleInfos )Public Overridable Function AddGroup ( initializationMode As InitializationMode, refValue As String, ParamArray moduleInfos As ModuleInfo() ) As ModuleCatalog
 #### Parameters
 
 initializationMode  
 Type: [Microsoft.Practices.Prism.Modularity..::.InitializationMode](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.initializationmode)
 Stage on which the module group to be added will be initialized.
 
-<!-- -->
-
 refValue  
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Reference to the location of the module group to be added.
 
-<!-- -->
-
 moduleInfos  
-Type: array&lt;[Microsoft.Practices.Prism.Modularity..::.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;\[\]()\[\]
+Type: array&lt;[Microsoft.Practices.Prism.Modularity..::.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;[]()[]
 Collection of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) included in the group.
 
 #### Return Value

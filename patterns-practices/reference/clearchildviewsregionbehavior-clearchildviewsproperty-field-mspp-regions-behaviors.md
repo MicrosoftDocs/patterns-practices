@@ -9,7 +9,6 @@ Prism Class Library
 
 # ClearChildViewsRegionBehavior.ClearChildViewsProperty Field
 
-
 This attached property can be defined on a view to indicate that regions defined in it must be removed from the region manager when the parent view gets removed from a region.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))

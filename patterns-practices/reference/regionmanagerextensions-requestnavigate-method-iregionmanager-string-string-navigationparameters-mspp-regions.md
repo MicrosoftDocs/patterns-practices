@@ -24,19 +24,13 @@ regionManager
 Type: [Microsoft.Practices.Prism.Regions..::.IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
 The IRegionManager instance that is extended by this method.
 
-<!-- -->
-
 regionName  
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region where the navigation will occur.
 
-<!-- -->
-
 target  
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 A string that represents the target where the region will navigate.
-
-<!-- -->
 
 navigationParameters  
 Type: [Microsoft.Practices.Prism.Regions..::.NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters)

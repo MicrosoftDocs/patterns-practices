@@ -34,8 +34,6 @@ public static void Register(
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The viewmodel factory.
 
-
-
 ## Syntax
 
 ```VB

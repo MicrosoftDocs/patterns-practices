@@ -148,7 +148,6 @@ Modifies the [ConfigurationElement](http://msdn2.microsoft.com/en-us/library/kyx
 
 ## See Also
 
-
 [ModuleConfigurationElement Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelement(v=pandp.50))
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))

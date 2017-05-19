@@ -10,7 +10,6 @@ Prism Class Library
 IModuleTypeLoader Members
 =========================
 
-
 The [IModuleTypeLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imoduletypeloader) type exposes the following members.
 
 Methods

@@ -24,8 +24,6 @@ key
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The key that specifies the type of [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior) that's added.
 
-<!-- -->
-
 regionBehavior  
 Type: [Microsoft.Practices.Prism.Regions..::.IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior)
 The [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior) to add.

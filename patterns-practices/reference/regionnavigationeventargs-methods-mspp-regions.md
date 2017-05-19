@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431123(v=PandP.50)'
 
 # RegionNavigationEventArgs Methods
 
-
 The [RegionNavigationEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationeventargs(v=pandp.50)) type exposes the following members.
 
 ## Methods

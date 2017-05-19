@@ -10,7 +10,6 @@ Prism Class Library
 UnityServiceLocatorAdapter Methods
 ==================================
 
-
 The [UnityServiceLocatorAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unityservicelocatoradapter) type exposes the following members.
 
 Methods

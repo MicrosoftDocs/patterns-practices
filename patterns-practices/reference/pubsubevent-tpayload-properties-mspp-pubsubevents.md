@@ -10,7 +10,6 @@ Prism Class Library
 PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
 =====================================================
 
-
 The [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.pubsubevent%601) type exposes the following members.
 
 Properties

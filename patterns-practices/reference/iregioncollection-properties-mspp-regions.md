@@ -10,7 +10,6 @@ Prism Class Library
 IRegionCollection Properties
 ============================
 
-
 The [IRegionCollection](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection(v=pandp.50)) type exposes the following members.
 
 Properties

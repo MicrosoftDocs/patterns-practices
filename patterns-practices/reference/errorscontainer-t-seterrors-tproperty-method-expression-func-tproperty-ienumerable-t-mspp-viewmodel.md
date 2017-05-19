@@ -24,8 +24,6 @@ propertyExpression
 Type: [System.Linq.Expressions..::.Expression](http://msdn2.microsoft.com/en-us/library/bb335710)&lt;(Of &lt;([Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;(TProperty&gt;)&gt;)&gt;)&gt;)
 The [Expression](http://msdn2.microsoft.com/en-us/library/bb356138) indicating the property.
 
-<!-- -->
-
 propertyErrors  
 Type: [System.Collections.Generic..::.IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.errorscontainer%601)&gt;)&gt;)
 The list of errors to set for the property.

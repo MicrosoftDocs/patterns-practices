@@ -17,7 +17,7 @@ Gets the [ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.pra
 Syntax
 ------
 
-<span id="syntaxToggle"></span>public ModuleConfigurationElement this\[ int index \] { get; }Public ReadOnly Default Property Item ( index As Integer ) As ModuleConfigurationElement Get
+<span id="syntaxToggle"></span>public ModuleConfigurationElement this[ int index \] { get; }Public ReadOnly Default Property Item ( index As Integer ) As ModuleConfigurationElement Get
 #### Parameters
 
 index  

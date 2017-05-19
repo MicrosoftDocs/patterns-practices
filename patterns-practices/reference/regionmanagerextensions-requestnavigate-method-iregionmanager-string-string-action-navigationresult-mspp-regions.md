@@ -24,19 +24,13 @@ regionManager
 Type: [Microsoft.Practices.Prism.Regions..::.IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
 The regionmanager that this extension method effects.
 
-<!-- -->
-
 regionName  
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region to call Navigate on.
 
-<!-- -->
-
 source  
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The URI of the content to display.
-
-<!-- -->
 
 navigationCallback  
 Type: [System..::.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([NavigationResult](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationresult)&gt;)&gt;)

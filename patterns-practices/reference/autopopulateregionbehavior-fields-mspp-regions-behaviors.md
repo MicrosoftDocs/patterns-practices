@@ -10,7 +10,6 @@ Prism Class Library
 AutoPopulateRegionBehavior Fields
 =================================
 
-
 The [AutoPopulateRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior) type exposes the following members.
 
 Fields

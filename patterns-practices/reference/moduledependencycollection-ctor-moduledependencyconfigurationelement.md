@@ -1,13 +1,13 @@
 ---
-TOCTitle: 'ModuleDependencyCollection Constructor (ModuleDependencyConfigurationElement\[\])'
-Title: 'ModuleDependencyCollection Constructor (ModuleDependencyConfigurationElement\[\]) (Microsoft.Practices.Prism.Modularity)'
-ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection.\#ctor(Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement\[\])'
+TOCTitle: 'ModuleDependencyCollection Constructor (ModuleDependencyConfigurationElement[])'
+Title: 'ModuleDependencyCollection Constructor (ModuleDependencyConfigurationElement[]) (Microsoft.Practices.Prism.Modularity)'
+ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection.\#ctor(Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement[])'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405637(v=PandP.50)'
 ---
 
 Prism Class Library
 
-ModuleDependencyCollection Constructor (array&lt;ModuleDependencyConfigurationElement&gt;\[\]()\[\])
+ModuleDependencyCollection Constructor (array&lt;ModuleDependencyConfigurationElement&gt;[]()[])
 ====================================================================================================
 
 Initializes a new instance of [ModuleDependencyCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencycollection).
@@ -17,11 +17,11 @@ Initializes a new instance of [ModuleDependencyCollection](https://msdn.microsof
 Syntax
 ------
 
-<span id="syntaxToggle"></span>public ModuleDependencyCollection( ModuleDependencyConfigurationElement\[\] dependencies )Public Sub New ( dependencies As ModuleDependencyConfigurationElement() )
+<span id="syntaxToggle"></span>public ModuleDependencyCollection( ModuleDependencyConfigurationElement[] dependencies )Public Sub New ( dependencies As ModuleDependencyConfigurationElement() )
 #### Parameters
 
 dependencies  
-Type: array&lt;[Microsoft.Practices.Prism.Modularity..::.ModuleDependencyConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyconfigurationelement)&gt;\[\]()\[\]
+Type: array&lt;[Microsoft.Practices.Prism.Modularity..::.ModuleDependencyConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyconfigurationelement)&gt;[]()[]
 An array of [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyconfigurationelement) with initial list of dependencies.
 
 See Also

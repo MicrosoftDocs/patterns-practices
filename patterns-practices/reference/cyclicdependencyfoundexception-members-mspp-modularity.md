@@ -10,7 +10,6 @@ Prism Class Library
 CyclicDependencyFoundException Members
 ======================================
 
-
 The [CyclicDependencyFoundException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.cyclicdependencyfoundexception) type exposes the following members.
 
 Constructors

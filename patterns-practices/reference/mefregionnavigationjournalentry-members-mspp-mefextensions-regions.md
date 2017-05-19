@@ -10,7 +10,6 @@ Prism Class Library
 MefRegionNavigationJournalEntry Members
 =======================================
 
-
 The [MefRegionNavigationJournalEntry](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry) type exposes the following members.
 
 Constructors

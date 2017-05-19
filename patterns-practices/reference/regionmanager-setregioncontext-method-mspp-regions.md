@@ -40,8 +40,6 @@ Type: [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library
 
 The target element.
 
-<!-- -->
-
 *value*  
 Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 

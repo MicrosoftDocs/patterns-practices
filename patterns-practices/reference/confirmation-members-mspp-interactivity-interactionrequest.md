@@ -10,7 +10,6 @@ Prism Class Library
 Confirmation Members
 ====================
 
-
 The [Confirmation](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.confirmation) type exposes the following members.
 
 Constructors

@@ -24,13 +24,9 @@ moduleInfo
 Type: [Microsoft.Practices.Prism.Modularity..::.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 The module metadata where the error happenened.
 
-<!-- -->
-
 assemblyName  
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The assembly name.
-
-<!-- -->
 
 exception  
 Type: [System..::.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)

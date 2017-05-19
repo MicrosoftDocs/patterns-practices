@@ -10,7 +10,6 @@ Prism Class Library
 SingleActiveRegion Methods
 ==========================
 
-
 The [SingleActiveRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.singleactiveregion) type exposes the following members.
 
 Methods

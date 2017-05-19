@@ -10,7 +10,6 @@ Prism Class Library
 IRegionMemberLifetime Members
 =============================
 
-
 The [IRegionMemberLifetime](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmemberlifetime) type exposes the following members.
 
 Properties

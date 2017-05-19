@@ -28,7 +28,6 @@ Syntax
     Public NotInheritable Class ServiceLocatorExtensions
 ```
 
-
 Inheritance Hierarchy
 ---------------------
 

@@ -17,7 +17,7 @@ Gets the [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.pris
 Syntax
 ------
 
-<span id="syntaxToggle"></span>public IRegionBehavior this\[ string key \] { get; }Public ReadOnly Default Property Item ( key As String ) As IRegionBehavior Get
+<span id="syntaxToggle"></span>public IRegionBehavior this[ string key \] { get; }Public ReadOnly Default Property Item ( key As String ) As IRegionBehavior Get
 #### Parameters
 
 key  
@@ -29,7 +29,7 @@ Type: [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.r
 The RegionBehavior that's registered with the key.
 #### Implements
 
-[IRegionBehaviorCollection..::.Item\[(\[(String\])\])](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionbehaviorcollection.item(system.string))
+[IRegionBehaviorCollection..::.Item[([(String\])\])](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionbehaviorcollection.item(system.string))
 
 See Also
 --------

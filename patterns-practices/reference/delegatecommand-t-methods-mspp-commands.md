@@ -9,7 +9,6 @@ Prism Class Library
 
 # DelegateCommand&lt;T&gt; Methods
 
-
 The [DelegateCommand&lt;T&gt;](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)) type exposes the following members.
 
 ## Methods
@@ -86,7 +85,6 @@ Raises [CanExecuteChanged](https://msdn.microsoft.com/en-us/library/microsoft.pr
 
 #### Remarks
 
-
 <span id="remarksToggle"></span>Note that this will trigger the execution of [CanExecute(Object)](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase.canexecute(v=pandp.50)) once for each invoker.
 
 (Inherited from [DelegateCommandBase](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase(v=pandp.50).)
@@ -97,7 +95,6 @@ Returns a string that represents the current object.
 (Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
 
 ## See Also
-
 
 <span id="seeAlsoToggle"></span>
 [DelegateCommand&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50))

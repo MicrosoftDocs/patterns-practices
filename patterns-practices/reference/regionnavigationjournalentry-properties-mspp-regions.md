@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431217(v=PandP.50)'
 
 # RegionNavigationJournalEntry Properties
 
-
 The [RegionNavigationJournalEntry](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournalentry(v=pandp.50)) type exposes the following members.
 
 ## Properties

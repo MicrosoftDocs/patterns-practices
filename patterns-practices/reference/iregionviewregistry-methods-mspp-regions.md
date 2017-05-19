@@ -10,7 +10,6 @@ Prism Class Library
 IRegionViewRegistry Methods
 ===========================
 
-
 The [IRegionViewRegistry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionviewregistry) type exposes the following members.
 
 Methods

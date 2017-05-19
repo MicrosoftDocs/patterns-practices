@@ -10,7 +10,6 @@ Prism Class Library
 PropertySupport Methods
 =======================
 
-
 The [PropertySupport](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.propertysupport) type exposes the following members.
 
 Methods

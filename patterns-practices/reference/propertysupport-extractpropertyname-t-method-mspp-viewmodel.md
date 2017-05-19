@@ -73,10 +73,7 @@ Or, the property is static.</td>
 
 [Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
 
-
-
 # PropertySupport.ExtractPropertyName(Of T) Method
-
 
 Extracts the property name from a property expression.
 

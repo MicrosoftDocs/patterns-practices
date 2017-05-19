@@ -10,7 +10,6 @@ Prism Class Library
 IModuleInitializer Methods
 ==========================
 
-
 The [IModuleInitializer](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imoduleinitializer) type exposes the following members.
 
 Methods

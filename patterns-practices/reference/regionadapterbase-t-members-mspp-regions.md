@@ -10,7 +10,6 @@ Prism Class Library
 RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Members
 =================================================
 
-
 The [RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionadapterbase%601) type exposes the following members.
 
 Constructors

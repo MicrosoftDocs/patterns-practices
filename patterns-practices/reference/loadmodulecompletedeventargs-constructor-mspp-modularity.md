@@ -24,8 +24,6 @@ moduleInfo
 Type: [Microsoft.Practices.Prism.Modularity..::.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 The module info.
 
-<!-- -->
-
 error  
 Type: [System..::.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
 Any error that occurred during the call.

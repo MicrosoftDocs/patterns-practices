@@ -24,8 +24,6 @@ navigation
 Type: [Microsoft.Practices.Prism.Regions..::.INavigateAsync](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigateasync)
 The navigation object.
 
-<!-- -->
-
 target  
 Type: [System..::.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
 The navigation target

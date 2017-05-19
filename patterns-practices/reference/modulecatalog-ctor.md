@@ -10,7 +10,6 @@ Prism Class Library
 ModuleCatalog Constructor
 =========================
 
-
 Overload List
 -------------
 

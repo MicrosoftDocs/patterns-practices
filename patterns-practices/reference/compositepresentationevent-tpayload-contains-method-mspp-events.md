@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419056(v=PandP.50)'
 
 # CompositePresentationEvent(Of TPayload).Contains Method 
 
-
 ## Overload List
 
 <table>
@@ -57,5 +56,4 @@ Returns <strong>Truetrue</strong> (<strong>True</strong> in Visual Basic) if the
 [CompositePresentationEvent(Of TPayload) Members](https://msdn.microsoft.com/en-us/library/gg430765(v=pandp.50))
 
 [Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
-
 

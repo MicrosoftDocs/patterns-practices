@@ -10,7 +10,6 @@ Prism Class Library
 IRegionCollection Methods
 =========================
 
-
 The [IRegionCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregioncollection) type exposes the following members.
 
 Methods

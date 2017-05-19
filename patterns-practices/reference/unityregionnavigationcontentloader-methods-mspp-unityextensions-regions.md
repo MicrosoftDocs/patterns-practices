@@ -10,7 +10,6 @@ Prism Class Library
 UnityRegionNavigationContentLoader Methods
 ==========================================
 
-
 The [UnityRegionNavigationContentLoader](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader(v=pandp.50)) type exposes the following members.
 
 Methods

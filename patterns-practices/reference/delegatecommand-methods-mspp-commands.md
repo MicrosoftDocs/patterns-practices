@@ -10,7 +10,6 @@ Prism Class Library
 DelegateCommand Methods
 =======================
 
-
 The [DelegateCommand](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand) type exposes the following members.
 
 Methods

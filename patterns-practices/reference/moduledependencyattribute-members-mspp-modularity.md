@@ -10,7 +10,6 @@ Prism Class Library
 ModuleDependencyAttribute Members
 =================================
 
-
 The [ModuleDependencyAttribute](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyattribute) type exposes the following members.
 
 Constructors

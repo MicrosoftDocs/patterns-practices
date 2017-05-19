@@ -24,13 +24,9 @@ message
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Message body to log.
 
-<!-- -->
-
 category  
 Type: [Microsoft.Practices.Prism.Logging..::.Category](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.category)
 Category of the entry.
-
-<!-- -->
 
 priority  
 Type: [Microsoft.Practices.Prism.Logging..::.Priority](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.priority)

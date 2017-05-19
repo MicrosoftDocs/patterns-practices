@@ -10,7 +10,6 @@ Prism Class Library
 IEventSubscription Properties
 =============================
 
-
 The [IEventSubscription](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription) type exposes the following members.
 
 Properties

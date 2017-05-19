@@ -10,7 +10,6 @@ Prism Class Library
 RegionManagerRegistrationBehavior Members
 =========================================
 
-
 The [RegionManagerRegistrationBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior) type exposes the following members.
 
 Constructors

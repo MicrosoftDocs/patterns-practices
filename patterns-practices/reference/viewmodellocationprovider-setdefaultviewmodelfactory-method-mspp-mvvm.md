@@ -9,7 +9,6 @@ Prism Class Library
 
 # ViewModelLocationProvider.SetDefaultViewModelFactory Method
 
-
 Sets the default view model factory.
 
 **Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm(v=pandp.50))
@@ -32,7 +31,6 @@ Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb549151)&lt;[Type]
 
 The view model factory.
 
-
 ```VB
 'Declaration
 Public Shared Sub SetDefaultViewModelFactory ( 
@@ -42,16 +40,13 @@ Public Shared Sub SetDefaultViewModelFactory (
 
 #### Parameters
 
-
 *viewModelFactory*  
 
 Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb549151)(Of([Type](http://msdn2.microsoft.com/en-us/library/42892f65), [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b))
 
 The view model factory.
 
-
 ## See Also
-
 
 <span id="seeAlsoToggle"></span>
 [ViewModelLocationProvider Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.viewmodellocationprovider(v=pandp.50))

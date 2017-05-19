@@ -10,7 +10,6 @@ Prism Class Library
 IRegionBehaviorCollection Members
 =================================
 
-
 The [IRegionBehaviorCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorcollection) type exposes the following members.
 
 Methods

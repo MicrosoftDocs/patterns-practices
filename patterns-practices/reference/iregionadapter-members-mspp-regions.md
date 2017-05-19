@@ -10,7 +10,6 @@ Prism Class Library
 IRegionAdapter Members
 ======================
 
-
 The [IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter) type exposes the following members.
 
 Methods

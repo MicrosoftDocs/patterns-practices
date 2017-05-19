@@ -10,7 +10,6 @@ Prism Class Library
 SyncRegionContextWithHostBehavior Members
 =========================================
 
-
 The [SyncRegionContextWithHostBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior) type exposes the following members.
 
 Constructors

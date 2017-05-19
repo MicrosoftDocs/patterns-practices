@@ -10,7 +10,6 @@ Prism Class Library
 NavigationContext Constructor
 =============================
 
-
 Overload List
 -------------
 

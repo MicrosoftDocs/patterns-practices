@@ -43,7 +43,6 @@ Initializes the exception with a particular module, error message and inner exce
 
 ## See Also
 
-
 [ModuleInitializeException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception(v=pandp.50))
 
 [ModuleInitializeException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception_members(v=pandp.50))

@@ -9,12 +9,9 @@ Prism Class Library
 
 # MefRegionAdapterMappings Methods
 
-
-
 The [MefRegionAdapterMappings](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings(v=pandp.50)) type exposes the following members.
 
 ## Methods
-
 
 <span id="methodTableToggle"></span>
  
@@ -62,7 +59,6 @@ Returns a string that represents the current object.
 (Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
 
 ## See Also
-
 
 <span id="seeAlsoToggle"></span>
 [MefRegionAdapterMappings Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings(v=pandp.50))

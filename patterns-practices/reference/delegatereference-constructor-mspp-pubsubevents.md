@@ -24,8 +24,6 @@ delegate
 Type: [System..::.Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51)
 The original [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51) to create a reference for.
 
-<!-- -->
-
 keepReferenceAlive  
 Type: [System..::.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 If falseFalsefalsefalse (False in Visual Basic) the class will create a weak reference to the delegate, allowing it to be garbage collected. Otherwise it will keep a strong reference to the target.

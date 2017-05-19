@@ -1,13 +1,13 @@
 ---
-TOCTitle: 'AddModule Method (Type, String\[\])'
-Title: 'ModuleCatalog.AddModule Method (Type, String\[\]) (Microsoft.Practices.Prism.Modularity)'
-ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddModule(System.Type,System.String\[\])'
+TOCTitle: 'AddModule Method (Type, String[])'
+Title: 'ModuleCatalog.AddModule Method (Type, String[]) (Microsoft.Practices.Prism.Modularity)'
+ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddModule(System.Type,System.String[])'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405869(v=PandP.50)'
 ---
 
 Prism Class Library
 
-ModuleCatalog..::.AddModule Method (Type, array&lt;String&gt;\[\]()\[\])
+ModuleCatalog..::.AddModule Method (Type, array&lt;String&gt;[]()[])
 ========================================================================
 
 Adds a groupless [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) to the catalog.
@@ -17,17 +17,15 @@ Adds a groupless [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.p
 Syntax
 ------
 
-<span id="syntaxToggle"></span>public ModuleCatalog AddModule( Type moduleType, params string\[\] dependsOn )Public Function AddModule ( moduleType As Type, ParamArray dependsOn As String() ) As ModuleCatalog
+<span id="syntaxToggle"></span>public ModuleCatalog AddModule( Type moduleType, params string[] dependsOn )Public Function AddModule ( moduleType As Type, ParamArray dependsOn As String() ) As ModuleCatalog
 #### Parameters
 
 moduleType  
 Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 [Type](http://msdn2.microsoft.com/en-us/library/42892f65) of the module to be added.
 
-<!-- -->
-
 dependsOn  
-Type: array&lt;[System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;\[\]()\[\]
+Type: array&lt;[System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;[]()[]
 Collection of module names ([ModuleName](https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleinfo.modulename)) of the modules on which the module to be added logically depends on.
 
 #### Return Value

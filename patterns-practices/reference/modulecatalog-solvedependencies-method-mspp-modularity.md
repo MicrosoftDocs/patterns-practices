@@ -17,7 +17,7 @@ Checks for cyclic dependencies, by calling the dependencysolver.
 Syntax
 ------
 
-<span id="syntaxToggle"></span>protected static string\[\] SolveDependencies( IEnumerable&lt;ModuleInfo&gt; modules )Protected Shared Function SolveDependencies ( modules As IEnumerable(Of ModuleInfo) ) As String()
+<span id="syntaxToggle"></span>protected static string[] SolveDependencies( IEnumerable&lt;ModuleInfo&gt; modules )Protected Shared Function SolveDependencies ( modules As IEnumerable(Of ModuleInfo) ) As String()
 #### Parameters
 
 modules  
@@ -26,7 +26,7 @@ the.
 
 #### Return Value
 
-Type: array&lt;[String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;\[\]()\[\]
+Type: array&lt;[String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;[]()[]
 
 See Also
 --------

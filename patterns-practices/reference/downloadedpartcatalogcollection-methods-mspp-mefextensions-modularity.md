@@ -10,7 +10,6 @@ Prism Class Library
 DownloadedPartCatalogCollection Methods
 =======================================
 
-
 The [DownloadedPartCatalogCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection) type exposes the following members.
 
 Methods

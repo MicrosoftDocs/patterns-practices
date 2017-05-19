@@ -9,7 +9,6 @@ Prism Class Library
 
 # RegionNavigationFailedEventArgs.NavigationContext Property
 
-
 Gets the navigation context.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))

@@ -10,7 +10,6 @@ Prism Class Library
 IRegionViewRegistry Events
 ==========================
 
-
 The [IRegionViewRegistry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionviewregistry) type exposes the following members.
 
 Events

@@ -10,7 +10,6 @@ Prism Class Library
 IAssemblyResolver Members
 =========================
 
-
 The [IAssemblyResolver](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.iassemblyresolver) type exposes the following members.
 
 Methods

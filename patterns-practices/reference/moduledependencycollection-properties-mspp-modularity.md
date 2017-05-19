@@ -10,7 +10,6 @@ Prism Class Library
 ModuleDependencyCollection Properties
 =====================================
 
-
 The [ModuleDependencyCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencycollection) type exposes the following members.
 
 Properties
@@ -81,17 +80,17 @@ Gets a value indicating whether access to the collection is synchronized.
 
 (Inherited from [ConfigurationElementCollection](http://msdn2.microsoft.com/en-us/library/a35we8et).)
 ![](https://msdn.microsoft.com/en-us/Gg431170.protproperty(en-us,PandP.50).gif "Protected property")
-[Item\[(\[(ConfigurationProperty\])\])](http://msdn2.microsoft.com/en-us/library/es150ftc)
+[Item[([(ConfigurationProperty\])\])](http://msdn2.microsoft.com/en-us/library/es150ftc)
 Gets or sets a property or attribute of this configuration element.
 
 (Inherited from [ConfigurationElement](http://msdn2.microsoft.com/en-us/library/kyx77cz3).)
 ![](https://msdn.microsoft.com/en-us/Gg431170.protproperty(en-us,PandP.50).gif "Protected property")
-[Item\[(\[(String\])\])](http://msdn2.microsoft.com/en-us/library/c8693ks1)
+[Item[([(String\])\])](http://msdn2.microsoft.com/en-us/library/c8693ks1)
 Gets or sets a property, attribute, or child element of this configuration element.
 
 (Inherited from [ConfigurationElement](http://msdn2.microsoft.com/en-us/library/kyx77cz3).)
 ![](https://msdn.microsoft.com/en-us/Gg431170.pubproperty(en-us,PandP.50).gif "Public property")
-[Item\[(\[(Int32\])\])](https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduledependencycollection.item(system.int32))
+[Item[([(Int32\])\])](https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduledependencycollection.item(system.int32))
 Gets the [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyconfigurationelement) located at the specified index in the collection.
 
 ![](https://msdn.microsoft.com/en-us/Gg431170.pubproperty(en-us,PandP.50).gif "Public property")

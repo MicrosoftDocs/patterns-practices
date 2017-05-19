@@ -10,7 +10,6 @@ Prism Class Library
 IModuleExport Properties
 ========================
 
-
 The [IModuleExport](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.imoduleexport) type exposes the following members.
 
 Properties

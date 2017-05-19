@@ -24,8 +24,6 @@ action
 Type: [System..::.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.pubsubevent%601)&gt;)&gt;)
 The delegate that gets executed when the event is raised.
 
-<!-- -->
-
 threadOption  
 Type: [Microsoft.Practices.Prism.PubSubEvents..::.ThreadOption](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.threadoption)
 Specifies on which thread to receive the delegate callback.

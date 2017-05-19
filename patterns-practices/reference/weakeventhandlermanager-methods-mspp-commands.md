@@ -10,7 +10,6 @@ Prism Class Library
 WeakEventHandlerManager Methods
 ===============================
 
-
 The [WeakEventHandlerManager](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.weakeventhandlermanager) type exposes the following members.
 
 Methods

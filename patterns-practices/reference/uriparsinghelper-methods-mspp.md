@@ -10,7 +10,6 @@ Prism Class Library
 UriParsingHelper Methods
 ========================
 
-
 The [UriParsingHelper](https://msdn.microsoft.com/t:microsoft.practices.prism.uriparsinghelper) type exposes the following members.
 
 Methods

@@ -9,11 +9,9 @@ Prism Class Library
 
 # ViewSortHintAttribute Properties
 
-
 The [ViewSortHintAttribute](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewsorthintattribute(v=pandp.50)) type exposes the following members.
 
 ## Properties
-
 
 <span id="propertyTableToggle"></span>
  
@@ -30,7 +28,6 @@ When implemented in a derived class, gets a unique identifier for this [Attribut
 (Inherited from [Attribute](http://msdn2.microsoft.com/en-us/library/e8kc3626).)
 
 ## See Also
-
 
 <span id="seeAlsoToggle"></span>
 [ViewSortHintAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewsorthintattribute(v=pandp.50))

@@ -10,7 +10,6 @@ Prism Class Library
 ViewsCollection Events
 ======================
 
-
 The [ViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewscollection) type exposes the following members.
 
 Events

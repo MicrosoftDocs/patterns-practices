@@ -10,7 +10,6 @@ Prism Class Library
 RegionNavigationService..::.RequestNavigate Method
 ==================================================
 
-
 Overload List
 -------------
 

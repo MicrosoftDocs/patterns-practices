@@ -10,7 +10,6 @@ Prism Class Library
 MefRegionMemberLifetimeBehavior Members
 =======================================
 
-
 The [MefRegionMemberLifetimeBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmemberlifetimebehavior) type exposes the following members.
 
 Constructors

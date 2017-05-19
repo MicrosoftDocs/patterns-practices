@@ -17,7 +17,7 @@ The ModuleCatalog holds information about the modules that can be used by the ap
 Syntax
 ------
 
-<span id="syntaxToggle"></span>\[ContentPropertyAttribute("Items")\] public class ModuleCatalog : IModuleCatalog&lt;ContentPropertyAttribute("Items")&gt; Public Class ModuleCatalog Implements IModuleCatalog
+<span id="syntaxToggle"></span>[ContentPropertyAttribute("Items")\] public class ModuleCatalog : IModuleCatalog&lt;ContentPropertyAttribute("Items")&gt; Public Class ModuleCatalog Implements IModuleCatalog
 
 Inheritance Hierarchy
 ---------------------

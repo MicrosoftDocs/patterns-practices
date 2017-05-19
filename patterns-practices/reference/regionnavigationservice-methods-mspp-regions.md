@@ -10,7 +10,6 @@ Prism Class Library
 RegionNavigationService Methods
 ===============================
 
-
 The [RegionNavigationService](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationservice) type exposes the following members.
 
 Methods

@@ -10,7 +10,6 @@ Prism Class Library
 UnityBootstrapperExtension Members
 ==================================
 
-
 The [UnityBootstrapperExtension](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unitybootstrapperextension) type exposes the following members.
 
 Constructors

@@ -10,7 +10,6 @@ Prism Class Library
 IRegion Members
 ===============
 
-
 The [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) type exposes the following members.
 
 Methods

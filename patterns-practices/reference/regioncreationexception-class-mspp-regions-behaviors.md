@@ -17,7 +17,7 @@ Represents errors that occured during region creation.
 Syntax
 ------
 
-<span id="syntaxToggle"></span>\[SerializableAttribute\] public class RegionCreationException : Exception&lt;SerializableAttribute&gt; Public Class RegionCreationException Inherits Exception
+<span id="syntaxToggle"></span>[SerializableAttribute\] public class RegionCreationException : Exception&lt;SerializableAttribute&gt; Public Class RegionCreationException Inherits Exception
 
 Inheritance Hierarchy
 ---------------------

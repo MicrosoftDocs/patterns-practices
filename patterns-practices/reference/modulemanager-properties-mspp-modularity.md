@@ -10,7 +10,6 @@ Prism Class Library
 ModuleManager Properties
 ========================
 
-
 The [ModuleManager](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulemanager) type exposes the following members.
 
 Properties

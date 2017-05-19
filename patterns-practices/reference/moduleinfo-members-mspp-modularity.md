@@ -10,7 +10,6 @@ Prism Class Library
 ModuleInfo Members
 ==================
 
-
 The [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) type exposes the following members.
 
 Constructors

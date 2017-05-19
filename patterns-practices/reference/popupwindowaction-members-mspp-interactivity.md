@@ -10,7 +10,6 @@ Prism Class Library
 PopupWindowAction Members
 =========================
 
-
 The [PopupWindowAction](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.popupwindowaction) type exposes the following members.
 
 Constructors

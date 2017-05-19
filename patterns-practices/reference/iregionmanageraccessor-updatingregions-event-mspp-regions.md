@@ -9,7 +9,6 @@ Prism Class Library
 
 # IRegionManagerAccessor.UpdatingRegions Event
 
-
 Notification used by attached behaviors to update the region managers appropriatelly if needed to.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
@@ -33,11 +32,9 @@ Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
 
 ## Remarks
 
-
 <span id="remarksToggle"></span>This event uses weak references to the event handler to prevent this static event of keeping the target element longer than expected.
 
 ## See Also
-
 
 <span id="seeAlsoToggle"></span>
 [IRegionManagerAccessor Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor(v=pandp.50))

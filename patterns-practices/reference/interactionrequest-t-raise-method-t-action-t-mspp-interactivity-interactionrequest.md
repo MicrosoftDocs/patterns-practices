@@ -24,8 +24,6 @@ context
 Type: [T](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)
 The context for the interaction request.
 
-<!-- -->
-
 callback  
 Type: [System..::.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)&gt;)&gt;)
 The callback to execute when the interaction is completed.

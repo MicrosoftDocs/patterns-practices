@@ -10,7 +10,6 @@ Prism Class Library
 IRegionNavigationJournalEntry Properties
 ========================================
 
-
 The [IRegionNavigationJournalEntry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationjournalentry) type exposes the following members.
 
 Properties

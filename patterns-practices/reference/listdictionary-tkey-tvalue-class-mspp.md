@@ -43,8 +43,6 @@ public sealed class ListDictionary<TKey, TValue> : IDictionary<TKey, IList<TValu
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
     
 
-
-
 # ListDictionary(Of TKey, TValue) Class
 
 A dictionary of lists.

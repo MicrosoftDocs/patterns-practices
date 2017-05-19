@@ -21,7 +21,6 @@ public class InvokeCommandAction : TriggerAction<UIElement>
 
 ## Inheritance Hierarchy
 
-
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[System.Windows.Threading.DispatcherObject](http://msdn2.microsoft.com/en-us/library/ms615925)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)  
@@ -40,7 +39,6 @@ Public Class InvokeCommandAction
 ```
 
 ## Inheritance Hierarchy
-
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[System.Windows.Threading.DispatcherObject](http://msdn2.microsoft.com/en-us/library/ms615925)<br/>

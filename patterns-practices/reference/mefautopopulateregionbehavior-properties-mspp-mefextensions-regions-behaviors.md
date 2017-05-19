@@ -10,7 +10,6 @@ Prism Class Library
 MefAutoPopulateRegionBehavior Properties
 ========================================
 
-
 The [MefAutoPopulateRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior) type exposes the following members.
 
 Properties

@@ -10,7 +10,6 @@ Prism Class Library
 ModuleNotFoundException Events
 ==============================
 
-
 The [ModuleNotFoundException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulenotfoundexception) type exposes the following members.
 
 Events

@@ -10,7 +10,6 @@ Prism Class Library
 ModuleManager..::.Dispose Method
 ================================
 
-
 Overload List
 -------------
 

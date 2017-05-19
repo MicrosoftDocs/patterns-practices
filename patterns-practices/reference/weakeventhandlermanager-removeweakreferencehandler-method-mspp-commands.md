@@ -24,8 +24,6 @@ handlers
 Type: [System.Collections.Generic..::.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)&lt;(Of &lt;([WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd)&gt;)&gt;)
 Handler list to remove reference from.
 
-<!-- -->
-
 handler  
 Type: [System..::.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
 Handler to remove.

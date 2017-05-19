@@ -10,7 +10,6 @@ Prism Class Library
 AllActiveRegion Members
 =======================
 
-
 The [AllActiveRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.allactiveregion) type exposes the following members.
 
 Constructors

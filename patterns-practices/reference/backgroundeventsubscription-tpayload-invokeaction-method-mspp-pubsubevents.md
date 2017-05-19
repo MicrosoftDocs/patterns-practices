@@ -24,8 +24,6 @@ action
 Type: [System..::.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.backgroundeventsubscription%601)&gt;)&gt;)
 The action to execute.
 
-<!-- -->
-
 argument  
 Type: [TPayload](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.backgroundeventsubscription%601)
 The payload to pass action while invoking it.

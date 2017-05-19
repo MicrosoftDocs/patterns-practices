@@ -10,7 +10,6 @@ Prism Class Library
 MefRegionAdapterMappings Members
 ================================
 
-
 The [MefRegionAdapterMappings](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings) type exposes the following members.
 
 Constructors

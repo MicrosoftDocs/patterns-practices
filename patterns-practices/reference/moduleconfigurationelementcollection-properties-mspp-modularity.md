@@ -10,7 +10,6 @@ Prism Class Library
 ModuleConfigurationElementCollection Properties
 ===============================================
 
-
 The [ModuleConfigurationElementCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection) type exposes the following members.
 
 Properties

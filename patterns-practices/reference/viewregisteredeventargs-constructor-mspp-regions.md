@@ -24,8 +24,6 @@ regionName
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The region name to which the content was registered.
 
-<!-- -->
-
 getViewDelegate  
 Type: [System..::.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 The content which was registered.

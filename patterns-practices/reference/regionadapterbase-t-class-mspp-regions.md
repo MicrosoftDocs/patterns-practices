@@ -9,7 +9,6 @@ Prism Class Library
 
 # RegionAdapterBase&lt;T&gt; Class
 
-
 Base class to facilitate the creation of [IRegionAdapter](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionadapter(v=pandp.50)) implementations.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
@@ -18,12 +17,10 @@ Base class to facilitate the creation of [IRegionAdapter](https://msdn.microsoft
 
 ## Syntax
 
-
 ```C#
 public abstract class RegionAdapterBase<T> : IRegionAdapter
 where T : class
 ```
-
 
 ####Type Parameters
 
@@ -32,7 +29,6 @@ where T : class
 Type of object to adapt.
 
 ## Inheritance Hierarchy
-
 
 [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 
@@ -46,19 +42,13 @@ Type of object to adapt.
 
 ## See Also
 
-
 [RegionAdapterBase&lt;T&gt; Members](https://msdn.microsoft.com/en-us/library/gg405501(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-
-
-
-
 Prism Class Library
 
 # RegionAdapterBase(Of T) Class
-
 
 Base class to facilitate the creation of [IRegionAdapter](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionadapter(v=pandp.50)) implementations.
 
@@ -82,7 +72,6 @@ Public MustInherit Class RegionAdapterBase(Of T As Class)
 Type of object to adapt.
 
 Inheritance Hierarchy
-
 
 <span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 

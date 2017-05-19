@@ -17,7 +17,7 @@ Defines a class that manages publication and subscription to events.
 Syntax
 ------
 
-<span id="syntaxToggle"></span>\[ObsoleteAttribute("Please use Prism.PubSubEvents.PubSubEvent.")\] public class CompositePresentationEvent&lt;TPayload&gt; : EventBase &lt;ObsoleteAttribute("Please use Prism.PubSubEvents.PubSubEvent.")&gt; Public Class CompositePresentationEvent(Of TPayload) Inherits EventBase
+<span id="syntaxToggle"></span>[ObsoleteAttribute("Please use Prism.PubSubEvents.PubSubEvent.")\] public class CompositePresentationEvent&lt;TPayload&gt; : EventBase &lt;ObsoleteAttribute("Please use Prism.PubSubEvents.PubSubEvent.")&gt; Public Class CompositePresentationEvent(Of TPayload) Inherits EventBase
 Type Parameters
 ---------------
 

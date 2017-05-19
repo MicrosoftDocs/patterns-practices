@@ -10,7 +10,6 @@ Prism Class Library
 MefRegionViewRegistry Members
 =============================
 
-
 The [MefRegionViewRegistry](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionviewregistry) type exposes the following members.
 
 Constructors

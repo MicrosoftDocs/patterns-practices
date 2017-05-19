@@ -10,7 +10,6 @@ Prism Class Library
 ModuleDependencyCollection Members
 ==================================
 
-
 The [ModuleDependencyCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencycollection) type exposes the following members.
 
 Constructors

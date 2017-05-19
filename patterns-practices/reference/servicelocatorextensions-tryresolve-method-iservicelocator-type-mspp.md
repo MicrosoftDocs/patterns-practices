@@ -24,8 +24,6 @@ locator
 Type: IServiceLocator
 Locator to use in resolving.
 
-<!-- -->
-
 type  
 Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 Type to resolve.

@@ -19,7 +19,7 @@ Exception thrown when a requested [OnDemand](https://msdn.microsoft.com/t:micros
 Syntax
 ------
 
-<span id="syntaxToggle"></span>\[SerializableAttribute\] public class ModuleNotFoundException : ModularityException&lt;SerializableAttribute&gt; Public Class ModuleNotFoundException Inherits ModularityException
+<span id="syntaxToggle"></span>[SerializableAttribute\] public class ModuleNotFoundException : ModularityException&lt;SerializableAttribute&gt; Public Class ModuleNotFoundException Inherits ModularityException
 
 Inheritance Hierarchy
 ---------------------

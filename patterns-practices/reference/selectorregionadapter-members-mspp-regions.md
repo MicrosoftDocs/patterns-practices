@@ -10,7 +10,6 @@ Prism Class Library
 SelectorRegionAdapter Members
 =============================
 
-
 The [SelectorRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.selectorregionadapter) type exposes the following members.
 
 Constructors

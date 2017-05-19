@@ -9,7 +9,6 @@ Prism Class Library
 
 # FileModuleTypeLoader Methods
 
-
 The [FileModuleTypeLoader](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader(v=pandp.50)) type exposes the following members.
 
 ## Methods

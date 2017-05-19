@@ -10,7 +10,6 @@ Prism Class Library
 RegionManagerExtensions..::.RegisterViewWithRegion Method
 =========================================================
 
-
 Overload List
 -------------
 

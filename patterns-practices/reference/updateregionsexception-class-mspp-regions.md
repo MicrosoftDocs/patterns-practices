@@ -19,7 +19,7 @@ Represents errors that occured during the regions' update.
 Syntax
 ------
 
-<span id="syntaxToggle"></span>\[SerializableAttribute\] public class UpdateRegionsException : Exception&lt;SerializableAttribute&gt; Public Class UpdateRegionsException Inherits Exception
+<span id="syntaxToggle"></span>[SerializableAttribute\] public class UpdateRegionsException : Exception&lt;SerializableAttribute&gt; Public Class UpdateRegionsException Inherits Exception
 
 Inheritance Hierarchy
 ---------------------

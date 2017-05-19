@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431135(v=PandP.50)'
 
 # ViewSortHintAttribute Methods
 
-
 The [ViewSortHintAttribute](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewsorthintattribute(v=pandp.50)) type exposes the following members.
 
 ## Methods
@@ -93,11 +92,9 @@ The [ViewSortHintAttribute](https://msdn.microsoft.com/en-us/library/microsoft.p
 </tbody>
 </table>
 
-
 ## See Also
 
 [ViewSortHintAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewsorthintattribute(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](hhttps://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
-
 

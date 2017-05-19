@@ -24,8 +24,6 @@ collection
 Type: [System.Collections.ObjectModel..::.Collection](http://msdn2.microsoft.com/en-us/library/ms132397)&lt;(Of &lt;(T&gt;)&gt;)
 The collection to add items to.
 
-<!-- -->
-
 items  
 Type: [System.Collections.Generic..::.IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;(T&gt;)&gt;)
 The items to add to the collection.

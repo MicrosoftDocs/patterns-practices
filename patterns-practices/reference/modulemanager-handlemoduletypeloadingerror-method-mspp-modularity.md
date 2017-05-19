@@ -48,7 +48,6 @@ Protected Overridable Sub HandleModuleTypeLoadingError (
 
 ## Exceptions
 
-
 <span id="exceptionsToggle"></span>
 | Exception                                                                                                                                                           | Condition |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|

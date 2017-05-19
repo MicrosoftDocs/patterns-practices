@@ -10,7 +10,6 @@ Prism Class Library
 UnityBootstrapper Methods
 =========================
 
-
 The [UnityBootstrapper](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unitybootstrapper) type exposes the following members.
 
 Methods

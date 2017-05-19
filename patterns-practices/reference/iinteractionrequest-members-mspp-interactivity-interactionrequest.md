@@ -10,7 +10,6 @@ Prism Class Library
 IInteractionRequest Members
 ===========================
 
-
 The [IInteractionRequest](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest) type exposes the following members.
 
 Events

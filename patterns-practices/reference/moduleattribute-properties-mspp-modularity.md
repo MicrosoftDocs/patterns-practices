@@ -10,7 +10,6 @@ Prism Class Library
 ModuleAttribute Properties
 ==========================
 
-
 The [ModuleAttribute](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleattribute) type exposes the following members.
 
 Properties

@@ -35,7 +35,6 @@ Return Value
 Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)()</br>
 The resulting ordered list of modules.
 
-
 ## Exceptions
 ----------
 

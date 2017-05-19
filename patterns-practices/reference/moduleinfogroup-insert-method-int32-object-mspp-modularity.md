@@ -24,8 +24,6 @@ index
 Type: [System..::.Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
 The zero-based index at which value should be inserted.
 
-<!-- -->
-
 value  
 Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b) to insert into the [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup). Must be of type [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)

@@ -10,7 +10,6 @@ Prism Class Library
 ExceptionExtensions Members
 ===========================
 
-
 The [ExceptionExtensions](https://msdn.microsoft.com/t:microsoft.practices.prism.exceptionextensions) type exposes the following members.
 
 Methods

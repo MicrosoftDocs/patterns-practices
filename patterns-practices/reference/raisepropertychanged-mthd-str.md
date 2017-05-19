@@ -1,7 +1,7 @@
 ---
-TOCTitle: 'RaisePropertyChanged Method (String\[\])'
-Title: 'NotificationObject.RaisePropertyChanged Method (String\[\]) (Microsoft.Practices.Prism.ViewModel)'
-ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.NotificationObject.RaisePropertyChanged(System.String\[\])'
+TOCTitle: 'RaisePropertyChanged Method (String[])'
+Title: 'NotificationObject.RaisePropertyChanged Method (String[]) (Microsoft.Practices.Prism.ViewModel)'
+ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.NotificationObject.RaisePropertyChanged(System.String[])'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419030(v=PandP.50)'
 ---
 
@@ -39,7 +39,6 @@ The properties that have a new value.
 [RaisePropertyChanged Overload](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged(v=pandp.50))
 
 [Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
-
 
 # NotificationObject.RaisePropertyChanged Method (String())
 

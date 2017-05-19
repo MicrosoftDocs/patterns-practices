@@ -10,7 +10,6 @@ Prism Class Library
 IRegionManagerAccessor Members
 ==============================
 
-
 The [IRegionManagerAccessor](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanageraccessor) type exposes the following members.
 
 Methods

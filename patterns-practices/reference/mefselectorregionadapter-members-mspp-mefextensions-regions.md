@@ -10,7 +10,6 @@ Prism Class Library
 MefSelectorRegionAdapter Members
 ================================
 
-
 The [MefSelectorRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefselectorregionadapter) type exposes the following members.
 
 Constructors

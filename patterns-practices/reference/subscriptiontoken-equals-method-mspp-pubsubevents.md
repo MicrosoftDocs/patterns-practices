@@ -10,7 +10,6 @@ Prism Class Library
 SubscriptionToken..::.Equals Method
 ===================================
 
-
 Overload List
 -------------
 

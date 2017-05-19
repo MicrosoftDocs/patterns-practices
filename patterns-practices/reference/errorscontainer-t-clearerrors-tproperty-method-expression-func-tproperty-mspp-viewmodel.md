@@ -45,8 +45,6 @@ container.ClearErrors(()=>SomeProperty);
 [ClearErrors Overload](https://msdn.microsoft.com/en-us/library/gg419151(v=pandp.50))<br/>
 [Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
 
-
-
 # ErrorsContainer(Of T).ClearErrors(Of TProperty) Method (Expression(Of Func(Of TProperty)))
 
 Clears the errors for the property indicated by the property expression.
@@ -56,7 +54,6 @@ Clears the errors for the property indicated by the property expression.
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
 
 ```VB
 'Declaration

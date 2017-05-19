@@ -24,8 +24,6 @@ key
 Type: [TKey](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)
 The key of the list where the value exists.
 
-<!-- -->
-
 value  
 Type: [TValue](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)
 The value to remove.

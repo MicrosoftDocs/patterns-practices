@@ -10,7 +10,6 @@ Prism Class Library
 DefaultDispatcher Methods
 =========================
 
-
 The [DefaultDispatcher](https://msdn.microsoft.com/t:microsoft.practices.prism.events.defaultdispatcher) type exposes the following members.
 
 Methods

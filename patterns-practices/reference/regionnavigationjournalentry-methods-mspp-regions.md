@@ -10,7 +10,6 @@ Prism Class Library
 RegionNavigationJournalEntry Methods
 ====================================
 
-
 The [RegionNavigationJournalEntry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournalentry) type exposes the following members.
 
 Methods

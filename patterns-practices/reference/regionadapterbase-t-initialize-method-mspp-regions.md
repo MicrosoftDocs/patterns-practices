@@ -33,8 +33,6 @@ Type: [T](https://msdn.microsoft.com/en-us/library/gg431546(v=pandp.50))
 
 The object to adapt.
 
-<!-- -->
-
 *regionName*  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 

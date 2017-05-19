@@ -10,7 +10,6 @@ Prism Class Library
 IRegionNavigationContentLoader Methods
 ======================================
 
-
 The [IRegionNavigationContentLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationcontentloader) type exposes the following members.
 
 Methods

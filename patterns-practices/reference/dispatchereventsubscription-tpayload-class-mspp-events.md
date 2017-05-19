@@ -17,7 +17,7 @@ Extends EventSubscription to invoke the Action delegate in a specific [Dispatche
 Syntax
 ------
 
-<span id="syntaxToggle"></span>\[ObsoleteAttribute\] public class DispatcherEventSubscription&lt;TPayload&gt; : EventSubscription&lt;TPayload&gt; &lt;ObsoleteAttribute&gt; Public Class DispatcherEventSubscription(Of TPayload) Inherits EventSubscription(Of TPayload)
+<span id="syntaxToggle"></span>[ObsoleteAttribute\] public class DispatcherEventSubscription&lt;TPayload&gt; : EventSubscription&lt;TPayload&gt; &lt;ObsoleteAttribute&gt; Public Class DispatcherEventSubscription(Of TPayload) Inherits EventSubscription(Of TPayload)
 Type Parameters
 ---------------
 

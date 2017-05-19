@@ -10,7 +10,6 @@ Prism Class Library
 IHostAwareRegionBehavior Properties
 ===================================
 
-
 The [IHostAwareRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior) type exposes the following members.
 
 Properties

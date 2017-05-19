@@ -10,7 +10,6 @@ Prism Class Library
 EmptyLogger Methods
 ===================
 
-
 The [EmptyLogger](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.emptylogger) type exposes the following members.
 
 Methods

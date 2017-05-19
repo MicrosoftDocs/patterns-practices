@@ -9,7 +9,6 @@ Prism Class Library
 
 # SyncRegionContextWithHostBehavior Properties
 
-
 The [SyncRegionContextWithHostBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior(v=pandp.50)) type exposes the following members.
 
 ## Properties

@@ -10,7 +10,6 @@ Prism Class Library
 ConfigurationModuleCatalog Properties
 =====================================
 
-
 The [ConfigurationModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.configurationmodulecatalog) type exposes the following members.
 
 Properties

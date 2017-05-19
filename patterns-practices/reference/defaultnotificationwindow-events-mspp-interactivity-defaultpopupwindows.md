@@ -10,7 +10,6 @@ Prism Class Library
 DefaultNotificationWindow Events
 ================================
 
-
 The [DefaultNotificationWindow](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow) type exposes the following members.
 
 Events

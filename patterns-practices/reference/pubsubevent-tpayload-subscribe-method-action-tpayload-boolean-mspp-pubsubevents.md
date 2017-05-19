@@ -40,8 +40,6 @@ Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;[TPa
 
 The delegate that gets executed when the event is published.
 
-<!-- -->
-
 *keepSubscriberReferenceAlive*  
 Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 

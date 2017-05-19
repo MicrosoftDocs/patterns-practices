@@ -9,8 +9,6 @@ Prism Class Library
 
 # CompositeCommand Properties
 
-
-
 The [CompositeCommand](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand(v=pandp.50)) type exposes the following members.
 
 ## Properties
@@ -23,7 +21,6 @@ Description
 Gets the list of all the registered commands.
 
 ## See Also
-
 
 <span id="seeAlsoToggle"></span>
 [CompositeCommand Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand(v=pandp.50))

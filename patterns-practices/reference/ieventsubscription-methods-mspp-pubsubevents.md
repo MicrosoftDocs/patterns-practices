@@ -10,7 +10,6 @@ Prism Class Library
 IEventSubscription Methods
 ==========================
 
-
 The [IEventSubscription](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription) type exposes the following members.
 
 Methods

@@ -24,8 +24,6 @@ container
 Type: IUnityContainer
 The cointainer that will be used to resolve the type.
 
-<!-- -->
-
 typeToResolve  
 Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The type to resolve.

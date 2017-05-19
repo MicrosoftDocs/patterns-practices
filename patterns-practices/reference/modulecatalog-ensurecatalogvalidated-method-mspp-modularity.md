@@ -9,7 +9,6 @@ Prism Class Library
 
 # ModuleCatalog.EnsureCatalogValidated Method
 
-
 Ensures that the catalog is validated.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
@@ -17,7 +16,6 @@ Ensures that the catalog is validated.
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 ```C#
 protected virtual void EnsureCatalogValidated()
@@ -29,9 +27,7 @@ protected virtual void EnsureCatalogValidated()
 Protected Overridable Sub EnsureCatalogValidated
 ```
 
-
 ## See Also
-
 
 <span id="seeAlsoToggle"></span>
 [ModuleCatalog Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50))

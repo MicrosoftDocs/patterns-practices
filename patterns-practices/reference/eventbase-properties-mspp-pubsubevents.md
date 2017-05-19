@@ -10,7 +10,6 @@ Prism Class Library
 EventBase Properties
 ====================
 
-
 The [EventBase](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventbase) type exposes the following members.
 
 Properties

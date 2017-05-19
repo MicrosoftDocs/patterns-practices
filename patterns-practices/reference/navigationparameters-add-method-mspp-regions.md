@@ -24,8 +24,6 @@ key
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name.
 
-<!-- -->
-
 value  
 Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The value.

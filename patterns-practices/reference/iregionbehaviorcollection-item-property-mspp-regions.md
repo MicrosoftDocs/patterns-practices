@@ -17,7 +17,7 @@ Gets the [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.pris
 Syntax
 ------
 
-<span id="syntaxToggle"></span>IRegionBehavior this\[ string key \] { get; }ReadOnly Default Property Item ( key As String ) As IRegionBehavior Get
+<span id="syntaxToggle"></span>IRegionBehavior this[ string key \] { get; }ReadOnly Default Property Item ( key As String ) As IRegionBehavior Get
 #### Parameters
 
 key  

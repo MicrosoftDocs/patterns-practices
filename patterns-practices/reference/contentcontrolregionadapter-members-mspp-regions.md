@@ -10,7 +10,6 @@ Prism Class Library
 ContentControlRegionAdapter Members
 ===================================
 
-
 The [ContentControlRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.contentcontrolregionadapter) type exposes the following members.
 
 Constructors

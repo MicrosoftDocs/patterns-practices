@@ -10,7 +10,6 @@ Prism Class Library
 UnityBootstrapper Properties
 ============================
 
-
 The [UnityBootstrapper](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unitybootstrapper) type exposes the following members.
 
 Properties

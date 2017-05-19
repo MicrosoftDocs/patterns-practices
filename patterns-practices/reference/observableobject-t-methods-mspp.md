@@ -10,7 +10,6 @@ Prism Class Library
 ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Methods
 ================================================
 
-
 The [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.observableobject%601) type exposes the following members.
 
 Methods

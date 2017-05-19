@@ -10,7 +10,6 @@ Prism Class Library
 ViewRegistrationException Members
 =================================
 
-
 The [ViewRegistrationException](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregistrationexception) type exposes the following members.
 
 Constructors

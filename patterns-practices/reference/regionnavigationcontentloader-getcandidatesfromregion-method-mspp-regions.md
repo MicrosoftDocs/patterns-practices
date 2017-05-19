@@ -24,8 +24,6 @@ region
 Type: [Microsoft.Practices.Prism.Regions..::.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 The region containing items that may satisfy the navigation request.
 
-<!-- -->
-
 candidateNavigationContract  
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The candidate navigation target as determined by [GetContractFromNavigationContext(NavigationContext)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionnavigationcontentloader.getcontractfromnavigationcontext(microsoft.practices.prism.regions.navigationcontext))

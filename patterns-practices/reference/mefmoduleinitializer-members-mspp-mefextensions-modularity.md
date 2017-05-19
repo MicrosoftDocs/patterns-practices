@@ -10,7 +10,6 @@ Prism Class Library
 MefModuleInitializer Members
 ============================
 
-
 The [MefModuleInitializer](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer) type exposes the following members.
 
 Constructors

@@ -10,7 +10,6 @@ Prism Class Library
 RegionMemberLifetimeAttribute Properties
 ========================================
 
-
 The [RegionMemberLifetimeAttribute](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmemberlifetimeattribute) type exposes the following members.
 
 Properties

@@ -24,8 +24,6 @@ region
 Type: [Microsoft.Practices.Prism.Regions..::.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 The new region being used.
 
-<!-- -->
-
 regionTarget  
 Type: [System.Windows.Controls.Primitives..::.Selector](http://msdn2.microsoft.com/en-us/library/ms595227)
 The object to adapt.

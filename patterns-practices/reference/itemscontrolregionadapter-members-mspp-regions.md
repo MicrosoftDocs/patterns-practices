@@ -10,7 +10,6 @@ Prism Class Library
 ItemsControlRegionAdapter Members
 =================================
 
-
 The [ItemsControlRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemscontrolregionadapter) type exposes the following members.
 
 Constructors

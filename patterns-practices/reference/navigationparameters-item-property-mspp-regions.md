@@ -17,7 +17,7 @@ Gets the [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf) with the sp
 Syntax
 ------
 
-<span id="syntaxToggle"></span>public Object this\[ string key \] { get; }Public ReadOnly Default Property Item ( key As String ) As Object Get
+<span id="syntaxToggle"></span>public Object this[ string key \] { get; }Public ReadOnly Default Property Item ( key As String ) As Object Get
 #### Parameters
 
 key  

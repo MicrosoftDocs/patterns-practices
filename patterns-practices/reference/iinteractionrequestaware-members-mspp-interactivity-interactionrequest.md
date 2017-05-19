@@ -10,7 +10,6 @@ Prism Class Library
 IInteractionRequestAware Members
 ================================
 
-
 The [IInteractionRequestAware](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware) type exposes the following members.
 
 Properties

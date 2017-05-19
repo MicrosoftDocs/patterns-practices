@@ -10,7 +10,6 @@ Prism Class Library
 SelectorItemsSourceSyncBehavior Fields
 ======================================
 
-
 The [SelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior) type exposes the following members.
 
 Fields

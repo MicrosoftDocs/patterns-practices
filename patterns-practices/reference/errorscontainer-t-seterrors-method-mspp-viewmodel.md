@@ -10,8 +10,6 @@ Prism Class Library
 ErrorsContainer&lt;T&gt;.SetErrors Method
 ============================================================
 
-
-
 Overload List
 -------------
 

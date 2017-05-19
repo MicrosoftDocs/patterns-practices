@@ -24,8 +24,6 @@ moduleName
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The contract name of the module.
 
-<!-- -->
-
 moduleType  
 Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The concrete type of the module being exported. Not typeof(IModule).

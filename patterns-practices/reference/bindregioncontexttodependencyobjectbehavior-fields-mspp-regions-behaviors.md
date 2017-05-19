@@ -10,7 +10,6 @@ Prism Class Library
 BindRegionContextToDependencyObjectBehavior Fields
 ==================================================
 
-
 The [BindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior) type exposes the following members.
 
 Fields

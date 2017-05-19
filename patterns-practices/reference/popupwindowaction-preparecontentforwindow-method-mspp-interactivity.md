@@ -24,8 +24,6 @@ notification
 Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest..::.INotification](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.inotification)
 The notification to be set as a DataContext in the HostWindow.
 
-<!-- -->
-
 wrapperWindow  
 Type: [System.Windows..::.Window](http://msdn2.microsoft.com/en-us/library/ms590112)
 The HostWindow

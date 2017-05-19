@@ -25,14 +25,12 @@ public virtual void LoadModuleType(
   )
 ```
 
-
 ```VB
 'Declaration
 Public Overridable Sub LoadModuleType ( 
 	moduleInfo As ModuleInfo
 )
 ```
-
 
 #### Parameters
 

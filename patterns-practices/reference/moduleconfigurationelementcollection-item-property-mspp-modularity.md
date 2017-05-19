@@ -10,7 +10,6 @@ Prism Class Library
 ModuleConfigurationElementCollection..::.Item Property
 ======================================================
 
-
 Overload List
 -------------
 

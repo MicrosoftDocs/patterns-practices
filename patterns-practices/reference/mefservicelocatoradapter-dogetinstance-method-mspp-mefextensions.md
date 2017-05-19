@@ -24,8 +24,6 @@ serviceType
 Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 Type of service requested.
 
-<!-- -->
-
 key  
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Name of registered service you want. May be null.

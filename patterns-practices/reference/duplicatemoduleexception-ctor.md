@@ -10,7 +10,6 @@ Prism Class Library
 DuplicateModuleException Constructor
 ====================================
 
-
 Overload List
 -------------
 

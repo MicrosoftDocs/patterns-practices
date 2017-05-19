@@ -9,7 +9,6 @@ Prism Class Library
 
 # UnityBootstrapperExtension Methods
 
-
 The [UnityBootstrapperExtension](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension(v=pandp.50)) type exposes the following members.
 
 ## Methods

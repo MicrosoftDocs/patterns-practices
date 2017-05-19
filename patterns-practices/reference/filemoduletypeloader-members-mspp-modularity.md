@@ -10,7 +10,6 @@ Prism Class Library
 FileModuleTypeLoader Members
 ============================
 
-
 The [FileModuleTypeLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.filemoduletypeloader) type exposes the following members.
 
 Constructors

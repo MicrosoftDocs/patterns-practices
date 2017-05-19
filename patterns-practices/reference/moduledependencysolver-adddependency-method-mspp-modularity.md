@@ -24,8 +24,6 @@ dependingModule
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the module with the dependency.
 
-<!-- -->
-
 dependentModule  
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the module dependingModule depends on.

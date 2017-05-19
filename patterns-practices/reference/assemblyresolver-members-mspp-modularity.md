@@ -10,7 +10,6 @@ Prism Class Library
 AssemblyResolver Members
 ========================
 
-
 The [AssemblyResolver](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.assemblyresolver) type exposes the following members.
 
 Constructors

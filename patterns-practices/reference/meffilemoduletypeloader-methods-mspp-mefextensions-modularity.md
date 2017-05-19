@@ -10,7 +10,6 @@ Prism Class Library
 MefFileModuleTypeLoader Methods
 ===============================
 
-
 The [MefFileModuleTypeLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader) type exposes the following members.
 
 Methods

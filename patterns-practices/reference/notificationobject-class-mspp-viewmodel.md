@@ -17,7 +17,7 @@ Base class for items that support property notification.
 Syntax
 ------
 
-<span id="syntaxToggle"></span>\[SerializableAttribute\] \[ObsoleteAttribute("Please use Prism.Mvvm.BindableBase")\] public abstract class NotificationObject : INotifyPropertyChanged&lt;SerializableAttribute&gt; &lt;ObsoleteAttribute("Please use Prism.Mvvm.BindableBase")&gt; Public MustInherit Class NotificationObject Implements INotifyPropertyChanged
+<span id="syntaxToggle"></span>[SerializableAttribute\] [ObsoleteAttribute("Please use Prism.Mvvm.BindableBase")\] public abstract class NotificationObject : INotifyPropertyChanged&lt;SerializableAttribute&gt; &lt;ObsoleteAttribute("Please use Prism.Mvvm.BindableBase")&gt; Public MustInherit Class NotificationObject Implements INotifyPropertyChanged
 
 Remarks
 -------

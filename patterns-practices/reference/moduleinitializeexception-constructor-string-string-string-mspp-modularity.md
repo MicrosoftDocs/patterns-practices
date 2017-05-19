@@ -24,13 +24,9 @@ moduleName
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the module.
 
-<!-- -->
-
 moduleAssembly  
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The assembly where the module is located.
-
-<!-- -->
 
 message  
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

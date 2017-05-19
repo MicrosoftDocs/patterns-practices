@@ -10,7 +10,6 @@ Prism Class Library
 NotificationObject..::.RaisePropertyChanged Method
 ==================================================
 
-
 Overload List
 -------------
 

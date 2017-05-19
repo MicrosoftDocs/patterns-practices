@@ -10,7 +10,6 @@ Prism Class Library
 ViewModelLocationProvider Members
 =================================
 
-
 The [ViewModelLocationProvider](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.viewmodellocationprovider) type exposes the following members.
 
 Methods

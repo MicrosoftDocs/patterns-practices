@@ -42,21 +42,15 @@ Public Sub New (
 	Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 	The assembly file where the module is located.
 
-<!-- -->
-
 *moduleType 
 
 	Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 	The type of the module.
 
-<!-- -->
-
 *moduleName  
 
 	Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 	The name of the module.
-
-<!-- -->
 
 *startupLoaded 
 

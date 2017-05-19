@@ -10,7 +10,6 @@ Prism Class Library
 ModuleCatalog..::.CreateFromXaml Method
 =======================================
 
-
 Overload List
 -------------
 

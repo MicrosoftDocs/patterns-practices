@@ -10,7 +10,6 @@ Prism Class Library
 DelegateCommand..::.FromAsyncHandler Method
 ===========================================
 
-
 Overload List
 -------------
 

@@ -10,7 +10,6 @@ Prism Class Library
 ModuleInfoGroup..::.IndexOf Method
 ==================================
 
-
 Overload List
 -------------
 

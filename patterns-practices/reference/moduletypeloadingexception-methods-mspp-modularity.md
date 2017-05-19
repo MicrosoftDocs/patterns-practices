@@ -10,7 +10,6 @@ Prism Class Library
 ModuleTypeLoadingException Methods
 ==================================
 
-
 The [ModuleTypeLoadingException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadingexception(v=pandp.50)) type exposes the following members.
 
 Methods

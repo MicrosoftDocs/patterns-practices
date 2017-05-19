@@ -31,7 +31,6 @@ Public Class ViewsCollection
 
 Implementation of IViewsCollection that takes an [ObservableCollection(Of T)](http://msdn2.microsoft.com/en-us/library/ms668604) of [ItemMetadata](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50)) and filters it to display an [INotifyCollectionChanged](http://msdn2.microsoft.com/en-us/library/ms668629) collection of [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b) elements (the items which the [ItemMetadata](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50)) wraps).
 
-
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)<br/>
@@ -42,9 +41,4 @@ Implementation of IViewsCollection that takes an [ObservableCollection(Of T)](ht
 [ViewsCollection Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewscollection_members(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
-
-
-
-
-
 

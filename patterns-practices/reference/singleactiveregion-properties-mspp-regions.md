@@ -10,7 +10,6 @@ Prism Class Library
 SingleActiveRegion Properties
 =============================
 
-
 The [SingleActiveRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.singleactiveregion(v=pandp.50)) type exposes the following members.
 
 Properties

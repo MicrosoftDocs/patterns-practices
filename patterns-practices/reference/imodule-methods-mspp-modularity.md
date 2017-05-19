@@ -10,7 +10,6 @@ Prism Class Library
 IModule Methods
 ===============
 
-
 The [IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule) type exposes the following members.
 
 Methods

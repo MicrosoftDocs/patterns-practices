@@ -10,9 +10,7 @@ Prism Class Library
 MefBindRegionContextToDependencyObjectBehavior Methods
 ======================================================
 
-
 The [MefBindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefbindregioncontexttodependencyobjectbehavior(v=pandp.50)) type exposes the following members.
-
 
 Methods
 -------

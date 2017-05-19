@@ -10,7 +10,6 @@ Prism Class Library
 InvokeCommandAction Events
 ==========================
 
-
 The [InvokeCommandAction](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.invokecommandaction) type exposes the following members.
 
 Events

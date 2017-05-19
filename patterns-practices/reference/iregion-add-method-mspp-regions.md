@@ -10,7 +10,6 @@ Prism Class Library
 IRegion..::.Add Method
 ======================
 
-
 Adds a new view to the region.
 
 Overload List

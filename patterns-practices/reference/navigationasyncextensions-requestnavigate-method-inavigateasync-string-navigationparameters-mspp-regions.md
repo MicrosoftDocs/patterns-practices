@@ -24,13 +24,9 @@ navigation
 Type: [Microsoft.Practices.Prism.Regions..::.INavigateAsync](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigateasync)
 The navigation object.
 
-<!-- -->
-
 target  
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 A string that represents the target where the region will navigate.
-
-<!-- -->
 
 navigationParameters  
 Type: [Microsoft.Practices.Prism.Regions..::.NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters)

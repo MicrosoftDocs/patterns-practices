@@ -24,13 +24,9 @@ serviceLocator
 Type: IServiceLocator
 The service locator.
 
-<!-- -->
-
 regionNavigationContentLoader  
 Type: [Microsoft.Practices.Prism.Regions..::.IRegionNavigationContentLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationcontentloader)
 The navigation target handler.
-
-<!-- -->
 
 journal  
 Type: [Microsoft.Practices.Prism.Regions..::.IRegionNavigationJournal](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationjournal)

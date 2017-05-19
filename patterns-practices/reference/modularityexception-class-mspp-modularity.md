@@ -17,7 +17,7 @@ Base class for exceptions that are thrown because of a problem with modules.
 Syntax
 ------
 
-<span id="syntaxToggle"></span>\[SerializableAttribute\] public class ModularityException : Exception&lt;SerializableAttribute&gt; Public Class ModularityException Inherits Exception
+<span id="syntaxToggle"></span>[SerializableAttribute\] public class ModularityException : Exception&lt;SerializableAttribute&gt; Public Class ModularityException Inherits Exception
 
 Inheritance Hierarchy
 ---------------------

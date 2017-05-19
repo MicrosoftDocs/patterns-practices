@@ -9,7 +9,6 @@ Prism Class Library
 
 # ModuleTypeLoaderNotFoundException Class
 
-
 Exception that's thrown when there is no [IModuleTypeLoader](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader(v=pandp.50)) registered in [ModuleTypeLoaders](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager.moduletypeloaders(v=pandp.50)) that can handle this particular type of module.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))

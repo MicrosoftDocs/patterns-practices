@@ -24,8 +24,6 @@ moduleInfo
 Type: [Microsoft.Practices.Prism.Modularity..::.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 The module info.
 
-<!-- -->
-
 catalog  
 Type: [System.ComponentModel.Composition.Primitives..::.ComposablePartCatalog](http://msdn2.microsoft.com/en-us/library/dd454614)
 The catalog.

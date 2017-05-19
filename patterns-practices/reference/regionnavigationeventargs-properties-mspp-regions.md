@@ -10,7 +10,6 @@ Prism Class Library
 RegionNavigationEventArgs Properties
 ====================================
 
-
 The [RegionNavigationEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationeventargs) type exposes the following members.
 
 Properties

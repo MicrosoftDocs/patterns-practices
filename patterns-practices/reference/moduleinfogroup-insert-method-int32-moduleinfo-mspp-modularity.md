@@ -24,8 +24,6 @@ index
 Type: [System..::.Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
 The zero-based index at which item should be inserted.
 
-<!-- -->
-
 item  
 Type: [Microsoft.Practices.Prism.Modularity..::.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 The object to insert into the [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/5y536ey6).

@@ -24,13 +24,9 @@ actionReference
 Type: [Microsoft.Practices.Prism.PubSubEvents..::.IDelegateReference](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.idelegatereference)
 A reference to a delegate of type [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/018hxwa8).
 
-<!-- -->
-
 filterReference  
 Type: [Microsoft.Practices.Prism.PubSubEvents..::.IDelegateReference](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.idelegatereference)
 A reference to a delegate of type [Predicate&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/bfcke1bz).
-
-<!-- -->
 
 context  
 Type: [System.Threading..::.SynchronizationContext](http://msdn2.microsoft.com/en-us/library/wx31754f)

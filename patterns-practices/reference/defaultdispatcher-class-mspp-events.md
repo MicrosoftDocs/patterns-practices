@@ -17,7 +17,7 @@ Wraps the Application Dispatcher.
 Syntax
 ------
 
-<span id="syntaxToggle"></span>\[ObsoleteAttribute\] public class DefaultDispatcher : IDispatcherFacade&lt;ObsoleteAttribute&gt; Public Class DefaultDispatcher Implements IDispatcherFacade
+<span id="syntaxToggle"></span>[ObsoleteAttribute\] public class DefaultDispatcher : IDispatcherFacade&lt;ObsoleteAttribute&gt; Public Class DefaultDispatcher Implements IDispatcherFacade
 
 Inheritance Hierarchy
 ---------------------

@@ -10,7 +10,6 @@ Prism Class Library
 CollectionExtensions Methods
 ============================
 
-
 The [CollectionExtensions](https://msdn.microsoft.com/t:microsoft.practices.prism.collectionextensions) type exposes the following members.
 
 Methods

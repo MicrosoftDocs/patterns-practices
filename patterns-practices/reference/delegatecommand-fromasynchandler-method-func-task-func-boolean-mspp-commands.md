@@ -24,8 +24,6 @@ executeMethod
 Type: [System..::.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Task](http://msdn2.microsoft.com/en-us/library/dd235678)&gt;)&gt;)
 Delegate to execute when Execute is called on the command. This can be null to just hook up a CanExecute delegate.
 
-<!-- -->
-
 canExecuteMethod  
 Type: [System..::.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
 Delegate to execute when CanExecute is called on the command. This can be null.

@@ -10,7 +10,6 @@ Prism Class Library
 ModuleInitializer Members
 =========================
 
-
 The [ModuleInitializer](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinitializer) type exposes the following members.
 
 Constructors

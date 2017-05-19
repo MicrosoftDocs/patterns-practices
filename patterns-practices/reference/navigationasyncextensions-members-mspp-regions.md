@@ -10,7 +10,6 @@ Prism Class Library
 NavigationAsyncExtensions Members
 =================================
 
-
 Methods
 -------
 

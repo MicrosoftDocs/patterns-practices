@@ -10,7 +10,6 @@ Prism Class Library
 UnityContainerHelper Methods
 ============================
 
-
 The [UnityContainerHelper](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unitycontainerhelper) type exposes the following members.
 
 Methods

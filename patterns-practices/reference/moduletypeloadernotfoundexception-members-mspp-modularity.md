@@ -10,7 +10,6 @@ Prism Class Library
 ModuleTypeLoaderNotFoundException Members
 =========================================
 
-
 The [ModuleTypeLoaderNotFoundException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduletypeloadernotfoundexception) type exposes the following members.
 
 Constructors

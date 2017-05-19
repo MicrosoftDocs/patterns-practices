@@ -10,7 +10,6 @@ Prism Class Library
 ClearChildViewsRegionBehavior Members
 =====================================
 
-
 The [ClearChildViewsRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior) type exposes the following members.
 
 Constructors

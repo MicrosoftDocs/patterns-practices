@@ -33,7 +33,6 @@ Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
 
-
 # CommandBehaviorBase(Of T).CommandParameter Property
 
 The parameter to supply the command during execution

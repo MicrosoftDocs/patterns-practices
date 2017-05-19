@@ -67,7 +67,6 @@ The CompositePresentationEvent collection is thread-safe.
 
 [Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
 
-
 # CompositePresentationEvent(Of TPayload).Subscribe Method (Action(Of TPayload), ThreadOption, Boolean)
 
 Subscribes a delegate to an event.

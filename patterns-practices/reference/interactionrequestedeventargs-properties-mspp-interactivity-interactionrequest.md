@@ -10,7 +10,6 @@ Prism Class Library
 InteractionRequestedEventArgs Properties
 ========================================
 
-
 The [InteractionRequestedEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs) type exposes the following members.
 
 Properties

@@ -10,7 +10,6 @@ Prism Class Library
 BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
 =====================================================================
 
-
 The [BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.backgroundeventsubscription%601) type exposes the following members.
 
 Properties

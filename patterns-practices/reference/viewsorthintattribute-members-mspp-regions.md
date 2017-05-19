@@ -10,7 +10,6 @@ Prism Class Library
 ViewSortHintAttribute Members
 =============================
 
-
 The [ViewSortHintAttribute](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewsorthintattribute) type exposes the following members.
 
 Constructors

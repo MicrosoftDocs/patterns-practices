@@ -17,7 +17,7 @@ Exception thrown by [IModuleInitializer](https://msdn.microsoft.com/t:microsoft.
 Syntax
 ------
 
-<span id="syntaxToggle"></span>\[SerializableAttribute\] public class ModuleInitializeException : ModularityException&lt;SerializableAttribute&gt; Public Class ModuleInitializeException Inherits ModularityException
+<span id="syntaxToggle"></span>[SerializableAttribute\] public class ModuleInitializeException : ModularityException&lt;SerializableAttribute&gt; Public Class ModuleInitializeException Inherits ModularityException
 
 Inheritance Hierarchy
 ---------------------

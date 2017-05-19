@@ -10,7 +10,6 @@ Prism Class Library
 TraceLogger Methods
 ===================
 
-
 The [TraceLogger](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.tracelogger) type exposes the following members.
 
 Methods

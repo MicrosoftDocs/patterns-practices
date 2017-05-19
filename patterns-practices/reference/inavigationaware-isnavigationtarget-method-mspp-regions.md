@@ -9,7 +9,6 @@ Prism Class Library
 
 # INavigationAware.IsNavigationTarget Method
 
-
 Called to determine if this instance can handle the navigation request.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
@@ -38,14 +37,12 @@ Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 
 **trueTrue** (**True** in Visual Basic) if this instance accepts the navigation request; otherwise, **falsefalse** (**False** in Visual Basic).
 
-
 ```VB
 'Declaration
 Function IsNavigationTarget ( 
 	navigationContext As NavigationContext
 ) As Boolean
 ```
-
 
 #### Parameters
 

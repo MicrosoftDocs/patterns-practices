@@ -10,7 +10,6 @@ Prism Class Library
 AllActiveRegion Events
 ======================
 
-
 The [AllActiveRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.allactiveregion(v=pandp.50)) type exposes the following members.
 
 Events

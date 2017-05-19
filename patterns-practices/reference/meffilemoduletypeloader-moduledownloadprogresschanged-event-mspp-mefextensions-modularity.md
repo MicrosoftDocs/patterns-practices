@@ -23,7 +23,6 @@ public virtual event EventHandler<ModuleDownloadProgressChangedEventArgs> Module
 
 Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;[ModuleDownloadProgressChangedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs(v=pandp.50))&gt;
 
-
 ## Syntax
 
 ```VB

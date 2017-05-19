@@ -10,7 +10,6 @@ Prism Class Library
 TextLogger..::.Dispose Method
 =============================
 
-
 Overload List
 -------------
 

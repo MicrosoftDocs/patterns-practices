@@ -10,7 +10,6 @@ Prism Class Library
 UnityContainerHelper..::.TryResolve Method
 ==========================================
 
-
 Overload List
 -------------
 

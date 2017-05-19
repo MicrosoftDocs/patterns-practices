@@ -10,7 +10,6 @@ Prism Class Library
 BindableBase Members
 ====================
 
-
 The [BindableBase](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.bindablebase) type exposes the following members.
 
 Constructors

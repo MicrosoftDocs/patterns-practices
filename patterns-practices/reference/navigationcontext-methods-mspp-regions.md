@@ -10,7 +10,6 @@ Prism Class Library
 NavigationContext Methods
 =========================
 
-
 The [NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext) type exposes the following members.
 
 Methods

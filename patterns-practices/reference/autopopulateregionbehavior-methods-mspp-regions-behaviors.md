@@ -10,7 +10,6 @@ Prism Class Library
 AutoPopulateRegionBehavior Methods
 ==================================
 
-
 The [AutoPopulateRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior) type exposes the following members.
 
 Methods

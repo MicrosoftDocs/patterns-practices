@@ -9,7 +9,6 @@ Prism Class Library
 
 # InteractionRequest&lt;T&gt;.Raise Method (T)
 
-
 Fires the Raised event.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
@@ -42,13 +41,9 @@ public void Raise(
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
 
-
-
-
 Prism Class Library
 
 # InteractionRequest(Of T).Raise Method (T)
-
 
 Fires the Raised event.
 
@@ -73,7 +68,6 @@ Type: [T](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50))
 The context for the interaction request.
 
 ## See Also
-
 
 <span id="seeAlsoToggle"></span>
 [InteractionRequest(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50))

@@ -10,7 +10,6 @@ Prism Class Library
 IDispatcherFacade Members
 =========================
 
-
 The [IDispatcherFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.events.idispatcherfacade) type exposes the following members.
 
 Methods

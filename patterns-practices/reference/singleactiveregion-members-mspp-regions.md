@@ -10,7 +10,6 @@ Prism Class Library
 SingleActiveRegion Members
 ==========================
 
-
 The [SingleActiveRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.singleactiveregion) type exposes the following members.
 
 Constructors

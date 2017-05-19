@@ -10,7 +10,6 @@ Prism Class Library
 ILoggerFacade Methods
 =====================
 
-
 The [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade) type exposes the following members.
 
 Methods

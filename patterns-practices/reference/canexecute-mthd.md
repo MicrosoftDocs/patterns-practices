@@ -10,7 +10,6 @@ Prism Class Library
 DelegateCommand..::.CanExecute Method
 =====================================
 
-
 Overload List
 -------------
 

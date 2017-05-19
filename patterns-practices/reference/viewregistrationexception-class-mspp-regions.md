@@ -19,7 +19,7 @@ Exception that's thrown when something goes wrong while Registering a View with 
 Syntax
 ------
 
-<span id="syntaxToggle"></span>\[SerializableAttribute\] public class ViewRegistrationException : Exception&lt;SerializableAttribute&gt; Public Class ViewRegistrationException Inherits Exception
+<span id="syntaxToggle"></span>[SerializableAttribute\] public class ViewRegistrationException : Exception&lt;SerializableAttribute&gt; Public Class ViewRegistrationException Inherits Exception
 
 Inheritance Hierarchy
 ---------------------

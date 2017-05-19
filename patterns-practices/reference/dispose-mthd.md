@@ -10,7 +10,6 @@ Prism Class Library
 AssemblyResolver..::.Dispose Method
 ===================================
 
-
 Overload List
 -------------
 

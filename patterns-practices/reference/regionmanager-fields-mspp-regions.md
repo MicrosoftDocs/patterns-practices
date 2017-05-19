@@ -10,7 +10,6 @@ Prism Class Library
 RegionManager Fields
 ====================
 
-
 The [RegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanager) type exposes the following members.
 
 Fields

@@ -24,8 +24,6 @@ navigationService
 Type: [Microsoft.Practices.Prism.Regions..::.IRegionNavigationService](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationservice)
 The navigation service.
 
-<!-- -->
-
 uri  
 Type: [System..::.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
 The Uri.

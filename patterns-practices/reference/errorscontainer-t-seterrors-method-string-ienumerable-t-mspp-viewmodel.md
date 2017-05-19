@@ -24,7 +24,6 @@ public void SetErrors(
 )
 ```
 
-
 #### Parameters
 
 *propertyName* 
@@ -52,8 +51,6 @@ If a change is detected then the errors changed event is raised.
 [SetErrors Overload](https://msdn.microsoft.com/en-us/library/gg419152(v=pandp.50))
 
 [Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
-
-
 
 # ErrorsContainer(Of T).SetErrors Method (String, IEnumerable(Of T))
 

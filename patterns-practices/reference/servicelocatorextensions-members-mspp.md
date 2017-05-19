@@ -10,7 +10,6 @@ Prism Class Library
 ServiceLocatorExtensions Members
 ================================
 
-
 Methods
 -------
 

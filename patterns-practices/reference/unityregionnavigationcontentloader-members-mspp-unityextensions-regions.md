@@ -10,7 +10,6 @@ Prism Class Library
 UnityRegionNavigationContentLoader Members
 ==========================================
 
-
 The [UnityRegionNavigationContentLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader) type exposes the following members.
 
 Constructors

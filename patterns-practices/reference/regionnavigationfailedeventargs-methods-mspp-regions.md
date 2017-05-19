@@ -10,7 +10,6 @@ Prism Class Library
 RegionNavigationFailedEventArgs Methods
 =======================================
 
-
 The [RegionNavigationFailedEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationfailedeventargs) type exposes the following members.
 
 Methods

@@ -10,7 +10,6 @@ Prism Class Library
 CompositeCommand Constructor
 ============================
 
-
 Overload List
 -------------
 

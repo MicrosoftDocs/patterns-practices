@@ -41,8 +41,6 @@ Sub RegisterViewWithRegion (
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 Region name to which the viewType will be registered.
 
-<!-- -->
-
 *viewType*  
 
 Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)

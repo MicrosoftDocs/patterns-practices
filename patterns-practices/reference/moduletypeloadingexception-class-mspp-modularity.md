@@ -36,7 +36,6 @@ Public Class ModuleTypeLoadingException
     [Microsoft.Practices.Prism.Modularity.ModularityException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception(v=pandp.50))<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException
 
-
 ## See Also
 
 [ModuleTypeLoadingException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadingexception_members(v=pandp.50))

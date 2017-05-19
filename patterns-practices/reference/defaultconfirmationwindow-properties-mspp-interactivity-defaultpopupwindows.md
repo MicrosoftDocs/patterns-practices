@@ -10,7 +10,6 @@ Prism Class Library
 DefaultConfirmationWindow Properties
 ====================================
 
-
 The [DefaultConfirmationWindow](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow) type exposes the following members.
 
 Properties

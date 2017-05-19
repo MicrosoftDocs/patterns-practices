@@ -10,7 +10,6 @@ Prism Class Library
 ItemMetadata Fields
 ===================
 
-
 The [ItemMetadata](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemmetadata) type exposes the following members.
 
 Fields

@@ -24,13 +24,9 @@ storage
 Type: T%
 Reference to a property with both getter and setter.
 
-<!-- -->
-
 value  
 Type: T
 Desired value for the property.
-
-<!-- -->
 
 propertyName (Optional)  
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)

@@ -10,7 +10,6 @@ Prism Class Library
 DelayedRegionCreationBehavior Properties
 ========================================
 
-
 The [DelayedRegionCreationBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior) type exposes the following members.
 
 Properties

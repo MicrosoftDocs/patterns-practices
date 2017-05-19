@@ -9,7 +9,6 @@ Prism Class Library
 
 # MefModuleInitializer Class
 
-
 Exports the ModuleInitializer using the Managed Extensibility Framework (MEF).
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
@@ -17,7 +16,6 @@ Exports the ModuleInitializer using the Managed Extensibility Framework (MEF).
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 ```C#
 public class MefModuleInitializer : ModuleInitializer
@@ -32,11 +30,9 @@ Public Class MefModuleInitializer
 
 ## Remarks
 
-
 <span id="remarksToggle"></span> This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used.
 
 Inheritance Hierarchy
-
 
 <span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 
@@ -45,7 +41,6 @@ Inheritance Hierarchy
     Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleInitializer
 
 ## See Also
-
 
 <span id="seeAlsoToggle"></span>
 [MefModuleInitializer Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer_members(v=pandp.50))

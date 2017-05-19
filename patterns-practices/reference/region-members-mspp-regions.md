@@ -10,7 +10,6 @@ Prism Class Library
 Region Members
 ==============
 
-
 The [Region](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.region) type exposes the following members.
 
 Constructors

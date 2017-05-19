@@ -10,7 +10,6 @@ Prism Class Library
 MefBootstrapper Properties
 ==========================
 
-
 The [MefBootstrapper](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.mefbootstrapper) type exposes the following members.
 
 Properties

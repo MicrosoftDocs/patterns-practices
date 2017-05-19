@@ -10,7 +10,6 @@ Prism Class Library
 ModuleInitializeException Members
 =================================
 
-
 The [ModuleInitializeException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinitializeexception) type exposes the following members.
 
 Constructors

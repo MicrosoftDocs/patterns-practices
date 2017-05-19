@@ -10,7 +10,6 @@ Prism Class Library
 MefItemsControlRegionAdapter Methods
 ====================================
 
-
 The [MefItemsControlRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefitemscontrolregionadapter) type exposes the following members.
 
 Methods

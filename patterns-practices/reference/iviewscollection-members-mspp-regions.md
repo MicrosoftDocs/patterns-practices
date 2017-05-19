@@ -10,7 +10,6 @@ Prism Class Library
 IViewsCollection Members
 ========================
 
-
 The [IViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iviewscollection) type exposes the following members.
 
 Methods

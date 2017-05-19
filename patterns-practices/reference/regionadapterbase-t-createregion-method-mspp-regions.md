@@ -27,7 +27,6 @@ Syntax
     Protected MustOverride Function CreateRegion As IRegion
 ```
 
-
 #### Return Value
 
 Type: [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50))

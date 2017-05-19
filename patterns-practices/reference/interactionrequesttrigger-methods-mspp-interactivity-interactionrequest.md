@@ -10,7 +10,6 @@ Prism Class Library
 InteractionRequestTrigger Methods
 =================================
 
-
 The [InteractionRequestTrigger](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger) type exposes the following members.
 
 Methods

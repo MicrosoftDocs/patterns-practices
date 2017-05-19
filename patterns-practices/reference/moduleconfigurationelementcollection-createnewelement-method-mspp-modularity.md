@@ -10,7 +10,6 @@ Prism Class Library
 ModuleConfigurationElementCollection..::.CreateNewElement Method
 ================================================================
 
-
 Overload List
 -------------
 

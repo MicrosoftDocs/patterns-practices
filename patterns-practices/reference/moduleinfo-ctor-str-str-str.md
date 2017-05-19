@@ -1,13 +1,13 @@
 ---
-TOCTitle: 'ModuleInfo Constructor (String, String, String\[\])'
-Title: 'ModuleInfo Constructor (String, String, String\[\]) (Microsoft.Practices.Prism.Modularity)'
-ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfo.\#ctor(System.String,System.String,System.String\[\])'
+TOCTitle: 'ModuleInfo Constructor (String, String, String[])'
+Title: 'ModuleInfo Constructor (String, String, String[]) (Microsoft.Practices.Prism.Modularity)'
+ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfo.\#ctor(System.String,System.String,System.String[])'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405645(v=PandP.50)'
 ---
 
 Prism Class Library
 
-ModuleInfo Constructor (String, String, array&lt;String&gt;\[\]()\[\])
+ModuleInfo Constructor (String, String, array&lt;String&gt;[]()[])
 ======================================================================
 
 Initializes a new instance of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo).
@@ -17,23 +17,19 @@ Initializes a new instance of [ModuleInfo](https://msdn.microsoft.com/t:microsof
 Syntax
 ------
 
-<span id="syntaxToggle"></span>public ModuleInfo( string name, string type, params string\[\] dependsOn )Public Sub New ( name As String, type As String, ParamArray dependsOn As String() )
+<span id="syntaxToggle"></span>public ModuleInfo( string name, string type, params string[] dependsOn )Public Sub New ( name As String, type As String, ParamArray dependsOn As String() )
 #### Parameters
 
 name  
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The module's name.
 
-<!-- -->
-
 type  
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The module [Type](http://msdn2.microsoft.com/en-us/library/42892f65)'s AssemblyQualifiedName.
 
-<!-- -->
-
 dependsOn  
-Type: array&lt;[System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;\[\]()\[\]
+Type: array&lt;[System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;[]()[]
 The modules this instance depends on.
 
 Exceptions

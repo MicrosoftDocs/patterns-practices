@@ -10,7 +10,6 @@ Prism Class Library
 DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Methods
 =================================================
 
-
 The [DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.dataeventargs%601) type exposes the following members.
 
 Methods

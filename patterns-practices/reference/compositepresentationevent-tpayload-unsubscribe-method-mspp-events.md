@@ -10,7 +10,6 @@ Prism Class Library
 CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)..::.Unsubscribe Method
 ================================================================================
 
-
 Overload List
 -------------
 

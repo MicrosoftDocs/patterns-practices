@@ -24,8 +24,6 @@ regionTarget
 Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The object to adapt.
 
-<!-- -->
-
 regionName  
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region to be created.

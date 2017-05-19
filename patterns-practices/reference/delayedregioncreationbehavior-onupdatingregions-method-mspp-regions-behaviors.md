@@ -42,8 +42,6 @@ Public Sub OnUpdatingRegions (
 
    The [RegionManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager(v=pandp.50)).
 
-<!-- -->
-
 *e*  
 
    Type: [System.EventArgs](http://msdn2.microsoft.com/en-us/library/118wxtk3)

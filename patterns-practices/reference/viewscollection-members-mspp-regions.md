@@ -10,7 +10,6 @@ Prism Class Library
 ViewsCollection Members
 =======================
 
-
 The [ViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewscollection) type exposes the following members.
 
 Constructors

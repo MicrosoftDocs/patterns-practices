@@ -9,7 +9,6 @@ Prism Class Library
 
 # ModuleInfo Methods
 
-
 The [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50)) type exposes the following members.
 
 ## Methods

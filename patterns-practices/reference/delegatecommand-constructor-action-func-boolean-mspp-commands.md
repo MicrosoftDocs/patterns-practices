@@ -39,7 +39,6 @@ Public Sub New (
      Type: [System.Action](http://msdn2.microsoft.com/en-us/library/bb534741)
      The [Action](http://msdn2.microsoft.com/en-us/library/bb534741) to invoke when [Execute(Object)](http://msdn2.microsoft.com/en-us/library/ms604094) is called.
 
-
 *canExecuteMethod*  
 
     Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb534960)(Of ([Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)))

@@ -10,7 +10,6 @@ Prism Class Library
 TextLogger Constructor
 ======================
 
-
 Overload List
 -------------
 

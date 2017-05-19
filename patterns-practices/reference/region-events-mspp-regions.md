@@ -10,7 +10,6 @@ Prism Class Library
 Region Events
 =============
 
-
 The [Region](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region(v=pandp.50)) type exposes the following members.
 
 Events

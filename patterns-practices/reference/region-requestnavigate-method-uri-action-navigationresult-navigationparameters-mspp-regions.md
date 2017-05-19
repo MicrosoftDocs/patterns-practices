@@ -24,13 +24,9 @@ target
 Type: [System..::.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
 The target.
 
-<!-- -->
-
 navigationCallback  
 Type: [System..::.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([NavigationResult](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationresult)&gt;)&gt;)
 A callback to execute when the navigation request is completed.
-
-<!-- -->
 
 navigationParameters  
 Type: [Microsoft.Practices.Prism.Regions..::.NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters)

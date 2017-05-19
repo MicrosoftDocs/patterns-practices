@@ -10,7 +10,6 @@ Prism Class Library
 DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Members
 ==================================================================
 
-
 The [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.events.dispatchereventsubscription%601) type exposes the following members.
 
 Constructors

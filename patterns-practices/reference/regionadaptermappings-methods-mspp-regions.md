@@ -10,7 +10,6 @@ Prism Class Library
 RegionAdapterMappings Methods
 =============================
 
-
 The [RegionAdapterMappings](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionadaptermappings) type exposes the following members.
 
 Methods

@@ -24,8 +24,6 @@ container
 Type: IUnityContainer
 The container to check if the type was registered in.
 
-<!-- -->
-
 type  
 Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The type to check if it was registered.

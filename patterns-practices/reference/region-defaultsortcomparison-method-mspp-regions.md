@@ -24,8 +24,6 @@ x
 Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The first view to compare.
 
-<!-- -->
-
 y  
 Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The second view to compare.

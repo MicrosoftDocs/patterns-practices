@@ -10,7 +10,6 @@ Prism Class Library
 RegionNavigationFailedEventArgs Constructor
 ===========================================
 
-
 Overload List
 -------------
 

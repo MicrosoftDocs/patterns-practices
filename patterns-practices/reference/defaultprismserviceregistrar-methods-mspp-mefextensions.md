@@ -10,7 +10,6 @@ Prism Class Library
 DefaultPrismServiceRegistrar Methods
 ====================================
 
-
 The [DefaultPrismServiceRegistrar](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.defaultprismserviceregistrar) type exposes the following members.
 
 Methods

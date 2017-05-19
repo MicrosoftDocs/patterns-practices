@@ -10,7 +10,6 @@ Prism Class Library
 RegionNavigationService Members
 ===============================
 
-
 The [RegionNavigationService](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationservice) type exposes the following members.
 
 Constructors

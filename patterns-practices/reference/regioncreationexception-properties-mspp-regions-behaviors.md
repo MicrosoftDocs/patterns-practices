@@ -10,7 +10,6 @@ Prism Class Library
 RegionCreationException Properties
 ==================================
 
-
 The [RegionCreationException](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.regioncreationexception) type exposes the following members.
 
 Properties

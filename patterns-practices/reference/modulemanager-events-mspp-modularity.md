@@ -10,7 +10,6 @@ Prism Class Library
 ModuleManager Events
 ====================
 
-
 The [ModuleManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager(v=pandp.50)) type exposes the following members.
 
 Events

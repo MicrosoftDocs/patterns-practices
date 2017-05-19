@@ -17,17 +17,14 @@ Class that holds methods to Set and Get the RegionContext from a DependencyObjec
 
 ## Syntax
 
-
 ```C#
 public static class RegionContext
 ```
-
 
 ```VB
 'Declaration
 Public NotInheritable Class RegionContext
 ```
-
 
 ## Inheritance Hierarchy
 
@@ -36,7 +33,6 @@ Public NotInheritable Class RegionContext
   Microsoft.Practices.Prism.Regions.RegionContext
 
 ## See Also
-
 
 <span id="seeAlsoToggle"></span>
 [RegionContext Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regioncontext_members(v=pandp.50))

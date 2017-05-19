@@ -10,7 +10,6 @@ Prism Class Library
 InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Methods
 ==================================================
 
-
 The [InteractionRequest&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601) type exposes the following members.
 
 Methods

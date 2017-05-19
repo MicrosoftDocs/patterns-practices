@@ -9,7 +9,6 @@ Prism Class Library
 
 # ModuleNotFoundException Constructor (SerializationInfo, StreamingContext)
 
-
 Initializes a new instance of the [ModuleNotFoundException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception(v=pandp.50)) class with the serialization data.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
@@ -33,7 +32,6 @@ Protected Sub New (
 )
 ```
 
-
 #### Parameters
 
 *info* 
@@ -42,8 +40,6 @@ Protected Sub New (
 	
    Holds the serialized object data about the exception being thrown.
 
-<!-- -->
-
 *context*
 
    Type: [System.Runtime.Serialization.StreamingContext](http://msdn2.microsoft.com/en-us/library/t16abws5)
@@ -51,7 +47,6 @@ Protected Sub New (
    Contains contextual information about the source or destination.
 
 ## See Also
-
 
 <span id="seeAlsoToggle"></span>
 [ModuleNotFoundException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception(v=pandp.50))

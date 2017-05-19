@@ -31,8 +31,6 @@ Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;[TPa
 
 The delegate that gets executed when the event is raised.
 
-<!-- -->
-
 *threadOption*  
 Type: ThreadOption
 
@@ -59,7 +57,6 @@ A SubscriptionToken that uniquely identifies the added subscription.
 
 [Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
 
-
 # CompositePresentationEvent(Of TPayload).Subscribe Method (Action(Of TPayload), ThreadOption)
 
 Subscribes a delegate to an event. CompositePresentationEvent will maintain a [WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate.
@@ -84,8 +81,6 @@ Public Function Subscribe (
 Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)))
 
 The delegate that gets executed when the event is raised.
-
-<!-- -->
 
 *threadOption*  
 Type: ThreadOption

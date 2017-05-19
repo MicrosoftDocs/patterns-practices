@@ -17,7 +17,7 @@ Gets the [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/t:mic
 Syntax
 ------
 
-<span id="syntaxToggle"></span>public ModuleDependencyConfigurationElement this\[ int index \] { get; }Public ReadOnly Default Property Item ( index As Integer ) As ModuleDependencyConfigurationElement Get
+<span id="syntaxToggle"></span>public ModuleDependencyConfigurationElement this[ int index \] { get; }Public ReadOnly Default Property Item ( index As Integer ) As ModuleDependencyConfigurationElement Get
 #### Parameters
 
 index  

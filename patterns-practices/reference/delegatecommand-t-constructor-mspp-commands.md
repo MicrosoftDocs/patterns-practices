@@ -10,7 +10,6 @@ Prism Class Library
 DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Constructor
 ===================================================
 
-
 Overload List
 -------------
 

@@ -10,7 +10,6 @@ Prism Class Library
 INavigateAsync..::.RequestNavigate Method
 =========================================
 
-
 Overload List
 -------------
 

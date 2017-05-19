@@ -1,13 +1,13 @@
 ---
-TOCTitle: 'ModuleConfigurationElementCollection Constructor (ModuleConfigurationElement\[\])'
-Title: 'ModuleConfigurationElementCollection Constructor (ModuleConfigurationElement\[\]) (Microsoft.Practices.Prism.Modularity)'
-ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection.\#ctor(Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement\[\])'
+TOCTitle: 'ModuleConfigurationElementCollection Constructor (ModuleConfigurationElement[])'
+Title: 'ModuleConfigurationElementCollection Constructor (ModuleConfigurationElement[]) (Microsoft.Practices.Prism.Modularity)'
+ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection.\#ctor(Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement[])'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405632(v=PandP.50)'
 ---
 
 Prism Class Library
 
-ModuleConfigurationElementCollection Constructor (array&lt;ModuleConfigurationElement&gt;\[\]()\[\])
+ModuleConfigurationElementCollection Constructor (array&lt;ModuleConfigurationElement&gt;[]()[])
 ====================================================================================================
 
 Initializes a new [ModuleConfigurationElementCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection).
@@ -17,11 +17,11 @@ Initializes a new [ModuleConfigurationElementCollection](https://msdn.microsoft.
 Syntax
 ------
 
-<span id="syntaxToggle"></span>public ModuleConfigurationElementCollection( ModuleConfigurationElement\[\] modules )Public Sub New ( modules As ModuleConfigurationElement() )
+<span id="syntaxToggle"></span>public ModuleConfigurationElementCollection( ModuleConfigurationElement[] modules )Public Sub New ( modules As ModuleConfigurationElement() )
 #### Parameters
 
 modules  
-Type: array&lt;[Microsoft.Practices.Prism.Modularity..::.ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement)&gt;\[\]()\[\]
+Type: array&lt;[Microsoft.Practices.Prism.Modularity..::.ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement)&gt;[]()[]
 The initial set of [ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement).
 
 Exceptions

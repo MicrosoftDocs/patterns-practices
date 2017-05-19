@@ -10,7 +10,6 @@ Prism Class Library
 IRegionBehaviorFactory Members
 ==============================
 
-
 The [IRegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorfactory) type exposes the following members.
 
 Methods

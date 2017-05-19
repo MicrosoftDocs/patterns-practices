@@ -10,7 +10,6 @@ Prism Class Library
 RegionAdapterMappings Members
 =============================
 
-
 The [RegionAdapterMappings](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionadaptermappings) type exposes the following members.
 
 Constructors

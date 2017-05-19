@@ -10,7 +10,6 @@ Prism Class Library
 InteractionRequest&lt;(Of &lt;(T&gt;)&gt;)..::.Raise Method
 ===========================================================
 
-
 Overload List
 -------------
 

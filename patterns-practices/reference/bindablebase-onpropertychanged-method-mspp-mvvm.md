@@ -10,7 +10,6 @@ Prism Class Library
 BindableBase..::.OnPropertyChanged Method
 =========================================
 
-
 Overload List
 -------------
 

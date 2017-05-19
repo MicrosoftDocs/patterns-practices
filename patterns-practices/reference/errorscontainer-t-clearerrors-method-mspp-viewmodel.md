@@ -10,7 +10,6 @@ Prism Class Library
 ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)..::.ClearErrors Method
 ==============================================================
 
-
 Overload List
 -------------
 

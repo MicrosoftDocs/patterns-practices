@@ -10,7 +10,6 @@ Prism Class Library
 PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)..::.Unsubscribe Method
 =================================================================
 
-
 Overload List
 -------------
 

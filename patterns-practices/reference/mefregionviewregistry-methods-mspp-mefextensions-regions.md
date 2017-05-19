@@ -10,7 +10,6 @@ Prism Class Library
 MefRegionViewRegistry Methods
 =============================
 
-
 The [MefRegionViewRegistry](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionviewregistry) type exposes the following members.
 
 Methods

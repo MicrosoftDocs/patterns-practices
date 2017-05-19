@@ -10,7 +10,6 @@ Prism Class Library
 UpdateRegionsException Properties
 =================================
 
-
 The [UpdateRegionsException](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.updateregionsexception) type exposes the following members.
 
 Properties

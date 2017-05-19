@@ -24,8 +24,6 @@ behaviorKey
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The behavior key that's used to find if a certain behavior is already added.
 
-<!-- -->
-
 behaviorType  
 Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 Type of the behavior to add. .

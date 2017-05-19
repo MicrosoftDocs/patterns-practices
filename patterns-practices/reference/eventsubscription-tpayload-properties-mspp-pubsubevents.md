@@ -10,7 +10,6 @@ Prism Class Library
 EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
 ===========================================================
 
-
 The [EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventsubscription%601) type exposes the following members.
 
 Properties

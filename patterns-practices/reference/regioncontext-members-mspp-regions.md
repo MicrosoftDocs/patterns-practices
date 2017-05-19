@@ -10,7 +10,6 @@ Prism Class Library
 RegionContext Members
 =====================
 
-
 The [RegionContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regioncontext) type exposes the following members.
 
 Methods

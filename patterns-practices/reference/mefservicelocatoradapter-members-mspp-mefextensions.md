@@ -10,7 +10,6 @@ Prism Class Library
 MefServiceLocatorAdapter Members
 ================================
 
-
 The [MefServiceLocatorAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.mefservicelocatoradapter) type exposes the following members.
 
 Constructors

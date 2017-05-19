@@ -10,7 +10,6 @@ Prism Class Library
 ModuleDependencyConfigurationElement Methods
 ============================================
 
-
 The [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyconfigurationelement) type exposes the following members.
 
 Methods

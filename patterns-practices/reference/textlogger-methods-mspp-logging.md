@@ -10,7 +10,6 @@ Prism Class Library
 TextLogger Methods
 ==================
 
-
 The [TextLogger](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.textlogger) type exposes the following members.
 
 Methods

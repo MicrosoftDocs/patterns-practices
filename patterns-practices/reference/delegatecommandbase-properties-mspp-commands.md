@@ -10,7 +10,6 @@ Prism Class Library
 DelegateCommandBase Properties
 ==============================
 
-
 The [DelegateCommandBase](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommandbase) type exposes the following members.
 
 Properties

@@ -10,7 +10,6 @@ Prism Class Library
 Bootstrapper Properties
 =======================
 
-
 The [Bootstrapper](https://msdn.microsoft.com/t:microsoft.practices.prism.bootstrapper) type exposes the following members.
 
 Properties

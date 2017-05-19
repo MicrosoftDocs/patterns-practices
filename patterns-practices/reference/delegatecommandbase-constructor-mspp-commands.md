@@ -10,7 +10,6 @@ Prism Class Library
 DelegateCommandBase Constructor
 ===============================
 
-
 Overload List
 -------------
 

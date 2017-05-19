@@ -10,7 +10,6 @@ Prism Class Library
 ModulesConfigurationSection Methods
 ===================================
 
-
 The [ModulesConfigurationSection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulesconfigurationsection) type exposes the following members.
 
 Methods

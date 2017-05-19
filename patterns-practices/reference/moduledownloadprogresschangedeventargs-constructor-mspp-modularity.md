@@ -24,13 +24,9 @@ moduleInfo
 Type: [Microsoft.Practices.Prism.Modularity..::.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 The module info.
 
-<!-- -->
-
 bytesReceived  
 Type: [System..::.Int64](http://msdn2.microsoft.com/en-us/library/6yy583ek)
 The bytes received.
-
-<!-- -->
 
 totalBytesToReceive  
 Type: [System..::.Int64](http://msdn2.microsoft.com/en-us/library/6yy583ek)

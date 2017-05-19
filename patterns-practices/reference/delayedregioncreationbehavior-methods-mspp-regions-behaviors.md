@@ -10,7 +10,6 @@ Prism Class Library
 DelayedRegionCreationBehavior Methods
 =====================================
 
-
 The [DelayedRegionCreationBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior) type exposes the following members.
 
 Methods

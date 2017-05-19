@@ -10,7 +10,6 @@ Prism Class Library
 DefaultConfirmationWindow Methods
 =================================
 
-
 The [DefaultConfirmationWindow](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow) type exposes the following members.
 
 Methods

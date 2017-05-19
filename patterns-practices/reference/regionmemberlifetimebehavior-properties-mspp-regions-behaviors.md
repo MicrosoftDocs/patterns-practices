@@ -10,7 +10,6 @@ Prism Class Library
 RegionMemberLifetimeBehavior Properties
 =======================================
 
-
 The [RegionMemberLifetimeBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior) type exposes the following members.
 
 Properties

@@ -10,7 +10,6 @@ Prism Class Library
 ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Members
 =========================================================
 
-
 The [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602) type exposes the following members.
 
 Constructors

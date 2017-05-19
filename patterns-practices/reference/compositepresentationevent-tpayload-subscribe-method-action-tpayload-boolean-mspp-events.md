@@ -24,8 +24,6 @@ action
 Type: [System..::.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/t:microsoft.practices.prism.events.compositepresentationevent%601)&gt;)&gt;)
 The delegate that gets executed when the event is published.
 
-<!-- -->
-
 keepSubscriberReferenceAlive  
 Type: [System..::.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 When trueTruetruetrue (True in Visual Basic), the [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.events.compositepresentationevent%601) keeps a reference to the subscriber so it does not get garbage collected.

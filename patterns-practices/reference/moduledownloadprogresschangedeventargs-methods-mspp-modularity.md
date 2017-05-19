@@ -10,7 +10,6 @@ Prism Class Library
 ModuleDownloadProgressChangedEventArgs Methods
 ==============================================
 
-
 The [ModuleDownloadProgressChangedEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs) type exposes the following members.
 
 Methods

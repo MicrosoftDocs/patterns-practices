@@ -24,8 +24,6 @@ view
 Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 The view to add.
 
-<!-- -->
-
 viewName  
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the view. This can be used to retrieve it later by calling [GetView(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregion.getview(system.string)).

@@ -24,13 +24,9 @@ fromType
 Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The interface type to register.
 
-<!-- -->
-
 toType  
 Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The type implementing the interface.
-
-<!-- -->
 
 registerAsSingleton  
 Type: [System..::.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)

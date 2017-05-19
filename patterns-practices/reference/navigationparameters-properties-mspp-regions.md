@@ -10,7 +10,6 @@ Prism Class Library
 NavigationParameters Properties
 ===============================
 
-
 The [NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters) type exposes the following members.
 
 Properties

@@ -10,7 +10,6 @@ Prism Class Library
 IEventAggregator Methods
 ========================
 
-
 The [IEventAggregator](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventaggregator) type exposes the following members.
 
 Methods

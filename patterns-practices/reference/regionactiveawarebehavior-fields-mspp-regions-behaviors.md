@@ -10,7 +10,6 @@ Prism Class Library
 RegionActiveAwareBehavior Fields
 ================================
 
-
 The [RegionActiveAwareBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior) type exposes the following members.
 
 Fields

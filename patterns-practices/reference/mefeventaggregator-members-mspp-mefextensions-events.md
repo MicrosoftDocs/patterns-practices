@@ -10,7 +10,6 @@ Prism Class Library
 MefEventAggregator Members
 ==========================
 
-
 The [MefEventAggregator](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.events.mefeventaggregator) type exposes the following members.
 
 Constructors

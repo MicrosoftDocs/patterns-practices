@@ -10,7 +10,6 @@ Prism Class Library
 MefRegionNavigationService Members
 ==================================
 
-
 The [MefRegionNavigationService](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice) type exposes the following members.
 
 Constructors

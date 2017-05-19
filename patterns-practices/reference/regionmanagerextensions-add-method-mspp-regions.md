@@ -24,13 +24,9 @@ regionCollection
 Type: [Microsoft.Practices.Prism.Regions..::.IRegionCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregioncollection)
 The regionmanager's collection of regions.
 
-<!-- -->
-
 regionName  
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name to be given to the region.
-
-<!-- -->
 
 region  
 Type: [Microsoft.Practices.Prism.Regions..::.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)

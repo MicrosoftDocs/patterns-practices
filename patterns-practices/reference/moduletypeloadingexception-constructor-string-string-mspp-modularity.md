@@ -24,8 +24,6 @@ moduleName
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The name of the module.
 
-<!-- -->
-
 message  
 Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 The error message that explains the reason for the exception.

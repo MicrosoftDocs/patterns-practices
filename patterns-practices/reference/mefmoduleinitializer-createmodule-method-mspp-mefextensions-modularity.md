@@ -10,7 +10,6 @@ Prism Class Library
 MefModuleInitializer..::.CreateModule Method
 ============================================
 
-
 Overload List
 -------------
 

@@ -10,7 +10,6 @@ Prism Class Library
 IModuleCatalog Properties
 =========================
 
-
 The [IModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulecatalog) type exposes the following members.
 
 Properties

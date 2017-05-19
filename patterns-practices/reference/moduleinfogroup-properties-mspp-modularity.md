@@ -10,7 +10,6 @@ Prism Class Library
 ModuleInfoGroup Properties
 ==========================
 
-
 The [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup) type exposes the following members.
 
 Properties

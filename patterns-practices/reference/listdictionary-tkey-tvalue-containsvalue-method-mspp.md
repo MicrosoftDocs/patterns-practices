@@ -43,8 +43,6 @@ true if the dictionary contains the value in any list; otherwise, false.
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
 
-
-
 # ListDictionary(Of TKey, TValue).ContainsValue Method
 
 Determines whether the dictionary contains the specified value.

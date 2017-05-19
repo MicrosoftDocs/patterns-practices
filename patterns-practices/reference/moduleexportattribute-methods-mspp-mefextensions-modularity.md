@@ -10,7 +10,6 @@ Prism Class Library
 ModuleExportAttribute Methods
 =============================
 
-
 The [ModuleExportAttribute](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.moduleexportattribute) type exposes the following members.
 
 Methods

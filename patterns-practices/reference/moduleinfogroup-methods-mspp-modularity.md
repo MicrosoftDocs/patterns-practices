@@ -10,7 +10,6 @@ Prism Class Library
 ModuleInfoGroup Methods
 =======================
 
-
 The [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup) type exposes the following members.
 
 Methods
@@ -107,13 +106,13 @@ Extension Methods
 Name
 Description
 ![](https://msdn.microsoft.com/en-us/Gg431059.pubextension(en-us,PandP.50).gif "Public Extension Method")
-[AddModule(Type, array&lt;String&gt;\[\]()\[\])](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinfogroupextensions.addmodule(microsoft.practices.prism.modularity.moduleinfogroup%2csystem.type%2csystem.string%5b%5d))
+[AddModule(Type, array&lt;String&gt;[]()[])](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinfogroupextensions.addmodule(microsoft.practices.prism.modularity.moduleinfogroup%2csystem.type%2csystem.string%5b%5d))
 Overloaded.
 Adds a new module that is statically referenced to the specified module info group.
 
 (Defined by [ModuleInfoGroupExtensions](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroupextensions).)
 ![](https://msdn.microsoft.com/en-us/Gg431059.pubextension(en-us,PandP.50).gif "Public Extension Method")
-[AddModule(String, Type, array&lt;String&gt;\[\]()\[\])](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinfogroupextensions.addmodule(microsoft.practices.prism.modularity.moduleinfogroup%2csystem.string%2csystem.type%2csystem.string%5b%5d))
+[AddModule(String, Type, array&lt;String&gt;[]()[])](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinfogroupextensions.addmodule(microsoft.practices.prism.modularity.moduleinfogroup%2csystem.string%2csystem.type%2csystem.string%5b%5d))
 Overloaded.
 Adds a new module that is statically referenced to the specified module info group.
 

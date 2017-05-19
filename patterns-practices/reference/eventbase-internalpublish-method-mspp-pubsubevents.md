@@ -1,7 +1,7 @@
 ---
 TOCTitle: InternalPublish Method
 Title: 'EventBase.InternalPublish Method (Microsoft.Practices.Prism.PubSubEvents)'
-ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventBase.InternalPublish(System.Object\[\])'
+ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventBase.InternalPublish(System.Object[])'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736108(v=PandP.50)'
 ---
 
@@ -17,11 +17,11 @@ Calls all the execution strategies exposed by the list of [IEventSubscription](h
 Syntax
 ------
 
-<span id="syntaxToggle"></span>protected virtual void InternalPublish( params Object\[\] arguments )Protected Overridable Sub InternalPublish ( ParamArray arguments As Object() )
+<span id="syntaxToggle"></span>protected virtual void InternalPublish( params Object[] arguments )Protected Overridable Sub InternalPublish ( ParamArray arguments As Object() )
 #### Parameters
 
 arguments  
-Type: array&lt;[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;\[\]()\[\]
+Type: array&lt;[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;[]()[]
 The arguments that will be passed to the listeners.
 
 Remarks

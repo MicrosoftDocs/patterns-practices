@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431079(v=PandP.50)'
 
 # SyncRegionContextWithHostBehavior Methods
 
-
 The [SyncRegionContextWithHostBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior(v=pandp.50)) type exposes the following members.
 
 ## Methods

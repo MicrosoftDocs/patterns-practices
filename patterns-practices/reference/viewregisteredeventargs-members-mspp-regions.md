@@ -10,7 +10,6 @@ Prism Class Library
 ViewRegisteredEventArgs Members
 ===============================
 
-
 The [ViewRegisteredEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregisteredeventargs) type exposes the following members.
 
 Constructors

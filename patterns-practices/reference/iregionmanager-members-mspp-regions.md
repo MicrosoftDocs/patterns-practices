@@ -10,7 +10,6 @@ Prism Class Library
 IRegionManager Members
 ======================
 
-
 The [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager) type exposes the following members.
 
 Methods

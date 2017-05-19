@@ -9,7 +9,6 @@ Prism Class Library
 
 # IModuleManager Events
 
-
 The [IModuleManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulemanager(v=pandp.50)) type exposes the following members.
 
 ## Events

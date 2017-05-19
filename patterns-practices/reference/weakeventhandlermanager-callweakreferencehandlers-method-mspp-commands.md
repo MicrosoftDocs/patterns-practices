@@ -23,8 +23,6 @@ Syntax
 sender  
 Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 
-<!-- -->
-
 handlers  
 Type: [System.Collections.Generic..::.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)&lt;(Of &lt;([WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd)&gt;)&gt;)
 

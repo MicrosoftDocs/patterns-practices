@@ -39,8 +39,6 @@ Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
 
 The navigation target
 
-<!-- -->
-
 *navigationCallback*  
 Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult(v=pandp.50))&gt;
 

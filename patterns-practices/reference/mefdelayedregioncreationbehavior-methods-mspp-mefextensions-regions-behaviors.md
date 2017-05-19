@@ -10,7 +10,6 @@ Prism Class Library
 MefDelayedRegionCreationBehavior Methods
 ========================================
 
-
 The [MefDelayedRegionCreationBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior) type exposes the following members.
 
 Methods

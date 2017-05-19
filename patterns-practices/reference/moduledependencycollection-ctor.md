@@ -10,7 +10,6 @@ Prism Class Library
 ModuleDependencyCollection Constructor
 ======================================
 
-
 Overload List
 -------------
 

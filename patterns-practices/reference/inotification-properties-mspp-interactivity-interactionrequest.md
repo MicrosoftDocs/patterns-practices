@@ -10,7 +10,6 @@ Prism Class Library
 INotification Properties
 ========================
 
-
 The [INotification](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.inotification) type exposes the following members.
 
 Properties

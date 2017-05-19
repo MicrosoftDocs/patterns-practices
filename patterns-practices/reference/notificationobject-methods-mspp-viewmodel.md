@@ -10,7 +10,6 @@ Prism Class Library
 NotificationObject Methods
 ==========================
 
-
 The [NotificationObject](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.notificationobject) type exposes the following members.
 
 Methods

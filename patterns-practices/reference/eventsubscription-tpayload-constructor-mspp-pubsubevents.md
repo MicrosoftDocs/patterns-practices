@@ -30,7 +30,6 @@ public EventSubscription(
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A reference to a delegate of type [Action&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8).
 
-
 *filterReference*  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50))
@@ -38,8 +37,6 @@ public EventSubscription(
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A reference to a delegate of type [Predicate&ltT&gt;](http://msdn2.microsoft.com/en-us/library/bfcke1bz).
 
 ## Exceptions
-
-
 
 | Exception                                                                             | Condition                                                                                                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
@@ -53,8 +50,6 @@ public EventSubscription(
 EventSubscription&lt;TPayload&gt; Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
-
-
 
 # EventSubscription(Of TPayload) Constructor 
 
@@ -82,7 +77,6 @@ Public Sub New (
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A reference to a delegate of type [Action(Of T)](http://msdn2.microsoft.com/en-us/library/018hxwa8).
 
-
 *filterReference*  
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50))
@@ -90,8 +84,6 @@ Public Sub New (
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A reference to a delegate of type [Predicate(Of T)](http://msdn2.microsoft.com/en-us/library/bfcke1bz).
 
 ## Exceptions
-
-
 
 | Exception                                                                             | Condition                                                                                                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|

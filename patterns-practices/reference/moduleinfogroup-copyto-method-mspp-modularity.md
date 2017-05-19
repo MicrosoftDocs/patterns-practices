@@ -1,7 +1,7 @@
 ---
 TOCTitle: CopyTo Method
 Title: 'ModuleInfoGroup.CopyTo Method (Microsoft.Practices.Prism.Modularity)'
-ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.CopyTo(Microsoft.Practices.Prism.Modularity.ModuleInfo\[\],System.Int32)'
+ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.CopyTo(Microsoft.Practices.Prism.Modularity.ModuleInfo[],System.Int32)'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405907(v=PandP.50)'
 ---
 
@@ -17,14 +17,12 @@ Copies the elements of the [ModuleInfoGroup](https://msdn.microsoft.com/t:micros
 Syntax
 ------
 
-<span id="syntaxToggle"></span>public void CopyTo( ModuleInfo\[\] array, int arrayIndex )Public Sub CopyTo ( array As ModuleInfo(), arrayIndex As Integer )
+<span id="syntaxToggle"></span>public void CopyTo( ModuleInfo[] array, int arrayIndex )Public Sub CopyTo ( array As ModuleInfo(), arrayIndex As Integer )
 #### Parameters
 
 array  
-Type: array&lt;[Microsoft.Practices.Prism.Modularity..::.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;\[\]()\[\]
+Type: array&lt;[Microsoft.Practices.Prism.Modularity..::.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;[]()[]
 The one-dimensional [Array](http://msdn2.microsoft.com/en-us/library/czz5hkty) that is the destination of the elements copied from [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup). The [Array](http://msdn2.microsoft.com/en-us/library/czz5hkty) must have zero-based indexing.
-
-<!-- -->
 
 arrayIndex  
 Type: [System..::.Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
@@ -32,7 +30,7 @@ The zero-based index in array at which copying begins.
 
 #### Implements
 
-[ICollection&lt;(Of &lt;(T&gt;)&gt;)..::.CopyTo(array&lt;T&gt;\[\]()\[\], Int32)](http://msdn2.microsoft.com/en-us/library/0efx51xw)
+[ICollection&lt;(Of &lt;(T&gt;)&gt;)..::.CopyTo(array&lt;T&gt;[]()[], Int32)](http://msdn2.microsoft.com/en-us/library/0efx51xw)
 
 Exceptions
 ----------

@@ -10,7 +10,6 @@ Prism Class Library
 PropertySupport Members
 =======================
 
-
 The [PropertySupport](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.propertysupport) type exposes the following members.
 
 Methods

@@ -10,7 +10,6 @@ Prism Class Library
 SyncActiveStateAttribute Members
 ================================
 
-
 The [SyncActiveStateAttribute](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.syncactivestateattribute) type exposes the following members.
 
 Constructors

@@ -10,7 +10,6 @@ Prism Class Library
 MefRegionManagerRegistrationBehavior Methods
 ============================================
 
-
 The [MefRegionManagerRegistrationBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmanagerregistrationbehavior) type exposes the following members.
 
 Methods

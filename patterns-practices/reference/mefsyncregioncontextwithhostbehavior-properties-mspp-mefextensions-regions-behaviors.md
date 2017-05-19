@@ -10,7 +10,6 @@ Prism Class Library
 MefSyncRegionContextWithHostBehavior Properties
 ===============================================
 
-
 The [MefSyncRegionContextWithHostBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefsyncregioncontextwithhostbehavior) type exposes the following members.
 
 Properties

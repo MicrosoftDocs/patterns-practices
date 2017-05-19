@@ -24,8 +24,6 @@ controlType
 Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The type of the control.
 
-<!-- -->
-
 adapter  
 Type: [Microsoft.Practices.Prism.Regions..::.IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter)
 The adapter to use with the controlType type.

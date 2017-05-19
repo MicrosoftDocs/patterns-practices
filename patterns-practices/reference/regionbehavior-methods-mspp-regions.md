@@ -10,7 +10,6 @@ Prism Class Library
 RegionBehavior Methods
 ======================
 
-
 The [RegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehavior) type exposes the following members.
 
 Methods

@@ -10,7 +10,6 @@ Prism Class Library
 IConfigurationStore Members
 ===========================
 
-
 The [IConfigurationStore](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.iconfigurationstore) type exposes the following members.
 
 Methods

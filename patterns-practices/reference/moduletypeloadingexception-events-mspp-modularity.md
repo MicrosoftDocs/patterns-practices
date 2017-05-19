@@ -10,7 +10,6 @@ Prism Class Library
 ModuleTypeLoadingException Events
 =================================
 
-
 The [ModuleTypeLoadingException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduletypeloadingexception) type exposes the following members.
 
 Events

@@ -24,8 +24,6 @@ container
 Type: IUnityContainer
 The IUnityContainer to check for the type mapping.
 
-<!-- -->
-
 type  
 Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
 The type to check if there is a type mapping for.
