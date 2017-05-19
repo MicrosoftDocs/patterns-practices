@@ -10,8 +10,6 @@ Prism Class Library
 ModularityException Events
 ==========================
 
-Include Protected Members
-Include Inherited Members
 
 The [ModularityException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modularityexception) type exposes the following members.
 

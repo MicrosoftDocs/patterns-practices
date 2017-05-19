@@ -10,8 +10,6 @@ Prism Class Library
 ModuleInfoGroup..::.IndexOf Method
 ==================================
 
-Include Protected Members
-Include Inherited Members
 
 Overload List
 -------------

@@ -7,9 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419173(v=PandP.50)'
 
 # InteractionRequestTrigger Properties
 
-Include Protected Members
-
-Include Inherited Members
 
 The [InteractionRequestTrigger](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger(v=pandp.50)) type exposes the following members.
 

@@ -10,8 +10,6 @@ Prism Class Library
 IRegionNavigationJournal Properties
 ===================================
 
-Include Protected Members
-Include Inherited Members
 
 The [IRegionNavigationJournal](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationjournal) type exposes the following members.
 

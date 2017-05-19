@@ -10,8 +10,6 @@ Prism Class Library
 ObservableObject&lt;T&gt; Events
 ===============================================
 
-Include Protected Members
-Include Inherited Members
 
 The [ObservableObject&lt;T&gt;](https://msdn.microsoft.com/en-us/library/gg431509(v=pandp.50)) type exposes the following members.
 

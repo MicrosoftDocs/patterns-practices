@@ -10,8 +10,6 @@ Prism Class Library
 UnityServiceLocatorAdapter Methods
 ==================================
 
-Include Protected Members
-Include Inherited Members
 
 The [UnityServiceLocatorAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unityservicelocatoradapter) type exposes the following members.
 

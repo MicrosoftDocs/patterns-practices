@@ -10,8 +10,6 @@ Prism Class Library
 RegionNavigationContentLoader Methods
 =====================================
 
-Include Protected Members
-Include Inherited Members
 
 The [RegionNavigationContentLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationcontentloader) type exposes the following members.
 

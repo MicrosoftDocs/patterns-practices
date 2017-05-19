@@ -10,8 +10,6 @@ Prism Class Library
 IRegionAdapter Methods
 ======================
 
-Include Protected Members
-Include Inherited Members
 
 The [IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter) type exposes the following members.
 

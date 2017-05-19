@@ -10,8 +10,6 @@ Prism Class Library
 DelegateCommand Members
 =======================
 
-Include Protected Members
-Include Inherited Members
 
 The [DelegateCommand](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand) type exposes the following members.
 

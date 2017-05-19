@@ -10,8 +10,6 @@ Prism Class Library
 TextLogger Members
 ==================
 
-Include Protected Members
-Include Inherited Members
 
 The [TextLogger](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.textlogger) type exposes the following members.
 

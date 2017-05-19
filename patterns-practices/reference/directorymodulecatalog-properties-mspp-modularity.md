@@ -10,8 +10,6 @@ Prism Class Library
 DirectoryModuleCatalog Properties
 =================================
 
-Include Protected Members
-Include Inherited Members
 
 The [DirectoryModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.directorymodulecatalog) type exposes the following members.
 

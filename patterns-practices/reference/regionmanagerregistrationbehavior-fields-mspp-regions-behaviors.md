@@ -10,8 +10,6 @@ Prism Class Library
 RegionManagerRegistrationBehavior Fields
 ========================================
 
-Include Protected Members
-Include Inherited Members
 
 The [RegionManagerRegistrationBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior) type exposes the following members.
 

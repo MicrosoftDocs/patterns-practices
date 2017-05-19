@@ -10,8 +10,6 @@ Prism Class Library
 EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Methods
 ========================================================
 
-Include Protected Members
-Include Inherited Members
 
 The [EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventsubscription%601) type exposes the following members.
 

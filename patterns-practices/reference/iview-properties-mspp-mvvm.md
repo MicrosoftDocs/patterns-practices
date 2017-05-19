@@ -10,8 +10,6 @@ Prism Class Library
 IView Properties
 ================
 
-Include Protected Members
-Include Inherited Members
 
 The [IView](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.iview) type exposes the following members.
 

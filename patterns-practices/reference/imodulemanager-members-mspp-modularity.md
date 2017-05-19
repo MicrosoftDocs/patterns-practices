@@ -10,8 +10,6 @@ Prism Class Library
 IModuleManager Members
 ======================
 
-Include Protected Members
-Include Inherited Members
 
 The [IModuleManager](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulemanager) type exposes the following members.
 

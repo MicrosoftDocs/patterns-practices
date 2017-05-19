@@ -7,9 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419183(v=PandP.50)'
 
 # MefRegionActiveAwareBehavior Properties
 
-Include Protected Members
-
-Include Inherited Members
 
 The [MefRegionActiveAwareBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionactiveawarebehavior(v=pandp.50)) type exposes the following members.
 

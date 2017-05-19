@@ -10,8 +10,6 @@ Prism Class Library
 MefRegionActiveAwareBehavior Members
 ====================================
 
-Include Protected Members
-Include Inherited Members
 
 The [MefRegionActiveAwareBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefregionactiveawarebehavior) type exposes the following members.
 

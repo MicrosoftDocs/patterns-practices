@@ -10,8 +10,6 @@ Prism Class Library
 MefRegionBehaviorFactory Methods
 ================================
 
-Include Protected Members
-Include Inherited Members
 
 The [MefRegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory) type exposes the following members.
 

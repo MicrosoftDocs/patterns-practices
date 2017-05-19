@@ -10,8 +10,6 @@ Prism Class Library
 IDispatcherFacade Members
 =========================
 
-Include Protected Members
-Include Inherited Members
 
 The [IDispatcherFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.events.idispatcherfacade) type exposes the following members.
 

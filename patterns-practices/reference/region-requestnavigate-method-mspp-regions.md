@@ -10,8 +10,6 @@ Prism Class Library
 Region..::.RequestNavigate Method
 =================================
 
-Include Protected Members
-Include Inherited Members
 
 Overload List
 -------------

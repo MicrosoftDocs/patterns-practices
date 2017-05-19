@@ -10,8 +10,6 @@ Prism Class Library
 IRegion..::.Add Method
 ======================
 
-Include Protected Members
-Include Inherited Members
 
 Adds a new view to the region.
 

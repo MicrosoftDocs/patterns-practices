@@ -10,8 +10,6 @@ Prism Class Library
 RegionViewRegistry Members
 ==========================
 
-Include Protected Members
-Include Inherited Members
 
 The [RegionViewRegistry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionviewregistry) type exposes the following members.
 

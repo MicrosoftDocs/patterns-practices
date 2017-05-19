@@ -10,8 +10,6 @@ Prism Class Library
 INavigateAsync Members
 ======================
 
-Include Protected Members
-Include Inherited Members
 
 The [INavigateAsync](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigateasync) type exposes the following members.
 

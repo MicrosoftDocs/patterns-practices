@@ -10,8 +10,6 @@ Prism Class Library
 ViewsCollection Methods
 =======================
 
-Include Protected Members
-Include Inherited Members
 
 The [ViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewscollection) type exposes the following members.
 

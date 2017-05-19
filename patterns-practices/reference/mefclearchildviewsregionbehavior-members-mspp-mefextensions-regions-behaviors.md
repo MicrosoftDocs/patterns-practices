@@ -10,8 +10,6 @@ Prism Class Library
 MefClearChildViewsRegionBehavior Members
 ========================================
 
-Include Protected Members
-Include Inherited Members
 
 The [MefClearChildViewsRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior) type exposes the following members.
 

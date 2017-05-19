@@ -10,8 +10,6 @@ Prism Class Library
 UnityContainerHelper..::.TryResolve Method
 ==========================================
 
-Include Protected Members
-Include Inherited Members
 
 Overload List
 -------------

@@ -10,8 +10,6 @@ Prism Class Library
 DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)..::.Execute Method
 ==========================================================
 
-Include Protected Members
-Include Inherited Members
 
 Overload List
 -------------

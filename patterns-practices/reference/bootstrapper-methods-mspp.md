@@ -10,8 +10,6 @@ Prism Class Library
 Bootstrapper Methods
 ====================
 
-Include Protected Members
-Include Inherited Members
 
 The [Bootstrapper](https://msdn.microsoft.com/t:microsoft.practices.prism.bootstrapper) type exposes the following members.
 

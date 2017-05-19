@@ -10,8 +10,6 @@ Prism Class Library
 DefaultPrismServiceRegistrar Members
 ====================================
 
-Include Protected Members
-Include Inherited Members
 
 The [DefaultPrismServiceRegistrar](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.defaultprismserviceregistrar) type exposes the following members.
 

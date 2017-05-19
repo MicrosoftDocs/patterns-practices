@@ -10,8 +10,6 @@ Prism Class Library
 ConfigurationStore Members
 ==========================
 
-Include Protected Members
-Include Inherited Members
 
 The [ConfigurationStore](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.configurationstore) type exposes the following members.
 

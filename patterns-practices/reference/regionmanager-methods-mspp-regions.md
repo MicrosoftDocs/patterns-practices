@@ -10,8 +10,6 @@ Prism Class Library
 RegionManager Methods
 =====================
 
-Include Protected Members
-Include Inherited Members
 
 The [RegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanager) type exposes the following members.
 

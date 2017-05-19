@@ -10,8 +10,6 @@ Prism Class Library
 IRegion Methods
 ===============
 
-Include Protected Members
-Include Inherited Members
 
 The [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) type exposes the following members.
 

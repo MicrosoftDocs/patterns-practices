@@ -10,8 +10,6 @@ Prism Class Library
 IRegionNavigationService Events
 ===============================
 
-Include Protected Members
-Include Inherited Members
 
 The [IRegionNavigationService](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationservice) type exposes the following members.
 

@@ -10,8 +10,6 @@ Prism Class Library
 MefRegionMemberLifetimeBehavior Properties
 ==========================================
 
-Include Protected Members
-Include Inherited Members
 
 The [MefRegionMemberLifetimeBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmemberlifetimebehavior) type exposes the following members.
 

@@ -10,8 +10,6 @@ Prism Class Library
 ModuleDependencyCollection Properties
 =====================================
 
-Include Protected Members
-Include Inherited Members
 
 The [ModuleDependencyCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencycollection) type exposes the following members.
 

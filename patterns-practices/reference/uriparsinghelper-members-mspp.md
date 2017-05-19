@@ -10,8 +10,6 @@ Prism Class Library
 UriParsingHelper Members
 ========================
 
-Include Protected Members
-Include Inherited Members
 
 The [UriParsingHelper](https://msdn.microsoft.com/t:microsoft.practices.prism.uriparsinghelper) type exposes the following members.
 

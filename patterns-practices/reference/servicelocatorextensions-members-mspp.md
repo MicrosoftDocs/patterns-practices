@@ -10,8 +10,6 @@ Prism Class Library
 ServiceLocatorExtensions Members
 ================================
 
-Include Protected Members
-Include Inherited Members
 
 Methods
 -------

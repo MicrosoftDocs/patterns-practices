@@ -10,8 +10,6 @@ Prism Class Library
 MefContentControlRegionAdapter Members
 ======================================
 
-Include Protected Members
-Include Inherited Members
 
 The [MefContentControlRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefcontentcontrolregionadapter) type exposes the following members.
 

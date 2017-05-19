@@ -10,8 +10,6 @@ Prism Class Library
 ExceptionExtensions Members
 ===========================
 
-Include Protected Members
-Include Inherited Members
 
 The [ExceptionExtensions](https://msdn.microsoft.com/t:microsoft.practices.prism.exceptionextensions) type exposes the following members.
 

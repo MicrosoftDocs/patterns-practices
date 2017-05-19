@@ -10,8 +10,6 @@ Prism Class Library
 IEventAggregator Methods
 ========================
 
-Include Protected Members
-Include Inherited Members
 
 The [IEventAggregator](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventaggregator) type exposes the following members.
 

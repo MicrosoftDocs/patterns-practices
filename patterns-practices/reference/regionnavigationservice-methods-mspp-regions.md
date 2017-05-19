@@ -10,8 +10,6 @@ Prism Class Library
 RegionNavigationService Methods
 ===============================
 
-Include Protected Members
-Include Inherited Members
 
 The [RegionNavigationService](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationservice) type exposes the following members.
 

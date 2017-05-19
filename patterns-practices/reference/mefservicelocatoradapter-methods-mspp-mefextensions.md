@@ -10,8 +10,6 @@ Prism Class Library
 MefServiceLocatorAdapter Methods
 ================================
 
-Include Protected Members
-Include Inherited Members
 
 The [MefServiceLocatorAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.mefservicelocatoradapter) type exposes the following members.
 

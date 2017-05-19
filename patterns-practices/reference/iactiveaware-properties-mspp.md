@@ -10,8 +10,6 @@ Prism Class Library
 IActiveAware Properties
 =======================
 
-Include Protected Members
-Include Inherited Members
 
 The [IActiveAware](https://msdn.microsoft.com/t:microsoft.practices.prism.iactiveaware) type exposes the following members.
 

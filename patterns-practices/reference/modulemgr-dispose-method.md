@@ -10,8 +10,6 @@ Prism Class Library
 ModuleManager..::.Dispose Method
 ================================
 
-Include Protected Members
-Include Inherited Members
 
 Overload List
 -------------

@@ -10,8 +10,6 @@ Prism Class Library
 NavigationResult Members
 ========================
 
-Include Protected Members
-Include Inherited Members
 
 The [NavigationResult](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationresult) type exposes the following members.
 

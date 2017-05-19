@@ -10,8 +10,6 @@ Prism Class Library
 UnityBootstrapper Methods
 =========================
 
-Include Protected Members
-Include Inherited Members
 
 The [UnityBootstrapper](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unitybootstrapper) type exposes the following members.
 

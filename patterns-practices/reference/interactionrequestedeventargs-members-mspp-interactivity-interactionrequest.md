@@ -10,8 +10,6 @@ Prism Class Library
 InteractionRequestedEventArgs Members
 =====================================
 
-Include Protected Members
-Include Inherited Members
 
 The [InteractionRequestedEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs) type exposes the following members.
 

@@ -10,8 +10,6 @@ Prism Class Library
 CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
 ====================================================================
 
-Include Protected Members
-Include Inherited Members
 
 The [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.events.compositepresentationevent%601) type exposes the following members.
 

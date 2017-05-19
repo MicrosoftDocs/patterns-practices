@@ -10,8 +10,6 @@ Prism Class Library
 PopupWindowAction Fields
 ========================
 
-Include Protected Members
-Include Inherited Members
 
 The [PopupWindowAction](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.popupwindowaction) type exposes the following members.
 

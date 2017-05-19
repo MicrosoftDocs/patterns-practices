@@ -10,8 +10,6 @@ Prism Class Library
 WeakEventHandlerManager Methods
 ===============================
 
-Include Protected Members
-Include Inherited Members
 
 The [WeakEventHandlerManager](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.weakeventhandlermanager) type exposes the following members.
 

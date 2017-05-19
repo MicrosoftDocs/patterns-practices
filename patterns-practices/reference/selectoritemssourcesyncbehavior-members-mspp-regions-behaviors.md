@@ -10,8 +10,6 @@ Prism Class Library
 SelectorItemsSourceSyncBehavior Members
 =======================================
 
-Include Protected Members
-Include Inherited Members
 
 The [SelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior) type exposes the following members.
 

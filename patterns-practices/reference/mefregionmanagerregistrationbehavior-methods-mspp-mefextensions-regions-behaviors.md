@@ -10,8 +10,6 @@ Prism Class Library
 MefRegionManagerRegistrationBehavior Methods
 ============================================
 
-Include Protected Members
-Include Inherited Members
 
 The [MefRegionManagerRegistrationBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmanagerregistrationbehavior) type exposes the following members.
 

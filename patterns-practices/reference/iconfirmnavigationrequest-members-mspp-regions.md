@@ -10,8 +10,6 @@ Prism Class Library
 IConfirmNavigationRequest Members
 =================================
 
-Include Protected Members
-Include Inherited Members
 
 The [IConfirmNavigationRequest](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iconfirmnavigationrequest) type exposes the following members.
 

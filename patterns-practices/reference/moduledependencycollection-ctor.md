@@ -10,8 +10,6 @@ Prism Class Library
 ModuleDependencyCollection Constructor
 ======================================
 
-Include Protected Members
-Include Inherited Members
 
 Overload List
 -------------

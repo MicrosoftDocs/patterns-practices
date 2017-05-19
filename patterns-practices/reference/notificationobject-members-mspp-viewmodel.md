@@ -10,8 +10,6 @@ Prism Class Library
 NotificationObject Members
 ==========================
 
-Include Protected Members
-Include Inherited Members
 
 The [NotificationObject](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.notificationobject) type exposes the following members.
 

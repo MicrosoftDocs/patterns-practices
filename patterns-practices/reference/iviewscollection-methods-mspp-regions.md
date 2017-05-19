@@ -10,8 +10,6 @@ Prism Class Library
 IViewsCollection Methods
 ========================
 
-Include Protected Members
-Include Inherited Members
 
 The [IViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iviewscollection) type exposes the following members.
 

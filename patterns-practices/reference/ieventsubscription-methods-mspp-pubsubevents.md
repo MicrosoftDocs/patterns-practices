@@ -10,8 +10,6 @@ Prism Class Library
 IEventSubscription Methods
 ==========================
 
-Include Protected Members
-Include Inherited Members
 
 The [IEventSubscription](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription) type exposes the following members.
 

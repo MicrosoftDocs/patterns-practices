@@ -10,8 +10,6 @@ Prism Class Library
 CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)..::.Unsubscribe Method
 ================================================================================
 
-Include Protected Members
-Include Inherited Members
 
 Overload List
 -------------

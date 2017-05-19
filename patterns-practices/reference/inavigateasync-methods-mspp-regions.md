@@ -8,9 +8,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431082(v=PandP.50)'
 # INavigateAsync Methods
 
 
-Include Protected Members
-
-Include Inherited Members
 
 The [INavigateAsync](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigateasync) type exposes the following members.
 

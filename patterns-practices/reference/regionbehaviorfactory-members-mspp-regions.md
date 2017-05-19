@@ -10,8 +10,6 @@ Prism Class Library
 RegionBehaviorFactory Members
 =============================
 
-Include Protected Members
-Include Inherited Members
 
 The [RegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehaviorfactory) type exposes the following members.
 

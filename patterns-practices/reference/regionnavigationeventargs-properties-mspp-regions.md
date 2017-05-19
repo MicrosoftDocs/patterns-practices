@@ -10,8 +10,6 @@ Prism Class Library
 RegionNavigationEventArgs Properties
 ====================================
 
-Include Protected Members
-Include Inherited Members
 
 The [RegionNavigationEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationeventargs) type exposes the following members.
 

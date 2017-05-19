@@ -10,8 +10,6 @@ Prism Class Library
 MefRegionManager Members
 ========================
 
-Include Protected Members
-Include Inherited Members
 
 The [MefRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionmanager) type exposes the following members.
 

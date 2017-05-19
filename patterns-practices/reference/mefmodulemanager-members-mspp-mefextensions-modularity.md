@@ -10,8 +10,6 @@ Prism Class Library
 MefModuleManager Members
 ========================
 
-Include Protected Members
-Include Inherited Members
 
 The [MefModuleManager](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.mefmodulemanager) type exposes the following members.
 

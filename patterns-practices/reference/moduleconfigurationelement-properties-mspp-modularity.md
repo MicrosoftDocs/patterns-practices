@@ -10,8 +10,6 @@ Prism Class Library
 ModuleConfigurationElement Properties
 =====================================
 
-Include Protected Members
-Include Inherited Members
 
 The [ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement) type exposes the following members.
 

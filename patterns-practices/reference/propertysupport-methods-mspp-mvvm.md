@@ -10,8 +10,6 @@ Prism Class Library
 PropertySupport Methods
 =======================
 
-Include Protected Members
-Include Inherited Members
 
 The [PropertySupport](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.propertysupport) type exposes the following members.
 

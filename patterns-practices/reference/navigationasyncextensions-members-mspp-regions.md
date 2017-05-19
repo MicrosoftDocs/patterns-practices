@@ -10,8 +10,6 @@ Prism Class Library
 NavigationAsyncExtensions Members
 =================================
 
-Include Protected Members
-Include Inherited Members
 
 Methods
 -------

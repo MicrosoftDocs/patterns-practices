@@ -10,8 +10,6 @@ Prism Class Library
 TraceLogger Members
 ===================
 
-Include Protected Members
-Include Inherited Members
 
 The [TraceLogger](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.tracelogger) type exposes the following members.
 

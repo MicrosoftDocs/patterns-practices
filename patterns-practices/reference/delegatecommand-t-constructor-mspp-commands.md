@@ -10,8 +10,6 @@ Prism Class Library
 DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Constructor
 ===================================================
 
-Include Protected Members
-Include Inherited Members
 
 Overload List
 -------------

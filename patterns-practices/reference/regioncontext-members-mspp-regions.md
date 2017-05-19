@@ -10,8 +10,6 @@ Prism Class Library
 RegionContext Members
 =====================
 
-Include Protected Members
-Include Inherited Members
 
 The [RegionContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regioncontext) type exposes the following members.
 

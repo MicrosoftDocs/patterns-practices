@@ -10,8 +10,6 @@ Prism Class Library
 ILoggerFacade Members
 =====================
 
-Include Protected Members
-Include Inherited Members
 
 The [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade) type exposes the following members.
 

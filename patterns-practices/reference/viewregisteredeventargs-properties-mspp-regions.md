@@ -10,8 +10,6 @@ Prism Class Library
 ViewRegisteredEventArgs Properties
 ==================================
 
-Include Protected Members
-Include Inherited Members
 
 The [ViewRegisteredEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregisteredeventargs) type exposes the following members.
 

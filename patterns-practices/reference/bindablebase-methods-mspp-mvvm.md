@@ -10,8 +10,6 @@ Prism Class Library
 BindableBase Methods
 ====================
 
-Include Protected Members
-Include Inherited Members
 
 The [BindableBase](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.bindablebase) type exposes the following members.
 

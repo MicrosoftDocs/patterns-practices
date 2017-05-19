@@ -10,8 +10,6 @@ Prism Class Library
 Notification Members
 ====================
 
-Include Protected Members
-Include Inherited Members
 
 The [Notification](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.notification) type exposes the following members.
 

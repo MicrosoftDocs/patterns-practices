@@ -10,8 +10,6 @@ Prism Class Library
 ModuleCatalog Methods
 =====================
 
-Include Protected Members
-Include Inherited Members
 
 The [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog) type exposes the following members.
 

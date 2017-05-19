@@ -10,8 +10,6 @@ Prism Class Library
 RegionNavigationJournalEntry Members
 ====================================
 
-Include Protected Members
-Include Inherited Members
 
 The [RegionNavigationJournalEntry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournalentry) type exposes the following members.
 

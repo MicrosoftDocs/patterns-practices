@@ -10,8 +10,6 @@ Prism Class Library
 MefRegionAdapterMappings Members
 ================================
 
-Include Protected Members
-Include Inherited Members
 
 The [MefRegionAdapterMappings](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings) type exposes the following members.
 

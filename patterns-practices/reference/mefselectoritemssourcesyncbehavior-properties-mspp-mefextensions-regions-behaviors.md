@@ -10,8 +10,6 @@ Prism Class Library
 MefSelectorItemsSourceSyncBehavior Properties
 =============================================
 
-Include Protected Members
-Include Inherited Members
 
 The [MefSelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefselectoritemssourcesyncbehavior) type exposes the following members.
 

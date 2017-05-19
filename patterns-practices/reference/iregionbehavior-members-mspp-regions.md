@@ -10,8 +10,6 @@ Prism Class Library
 IRegionBehavior Members
 =======================
 
-Include Protected Members
-Include Inherited Members
 
 The [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior) type exposes the following members.
 

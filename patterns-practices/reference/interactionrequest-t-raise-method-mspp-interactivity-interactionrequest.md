@@ -10,8 +10,6 @@ Prism Class Library
 InteractionRequest&lt;(Of &lt;(T&gt;)&gt;)..::.Raise Method
 ===========================================================
 
-Include Protected Members
-Include Inherited Members
 
 Overload List
 -------------

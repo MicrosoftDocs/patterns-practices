@@ -10,8 +10,6 @@ Prism Class Library
 ItemsControlRegionAdapter Members
 =================================
 
-Include Protected Members
-Include Inherited Members
 
 The [ItemsControlRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemscontrolregionadapter) type exposes the following members.
 

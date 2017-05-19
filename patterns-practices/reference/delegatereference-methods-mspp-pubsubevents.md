@@ -10,8 +10,6 @@ Prism Class Library
 DelegateReference Methods
 =========================
 
-Include Protected Members
-Include Inherited Members
 
 The [DelegateReference](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.delegatereference) type exposes the following members.
 

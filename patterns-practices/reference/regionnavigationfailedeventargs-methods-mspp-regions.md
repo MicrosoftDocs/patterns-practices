@@ -10,8 +10,6 @@ Prism Class Library
 RegionNavigationFailedEventArgs Methods
 =======================================
 
-Include Protected Members
-Include Inherited Members
 
 The [RegionNavigationFailedEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationfailedeventargs) type exposes the following members.
 

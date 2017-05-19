@@ -10,8 +10,6 @@ Prism Class Library
 CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Methods
 ===================================================
 
-Include Protected Members
-Include Inherited Members
 
 The [CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.commandbehaviorbase%601) type exposes the following members.
 

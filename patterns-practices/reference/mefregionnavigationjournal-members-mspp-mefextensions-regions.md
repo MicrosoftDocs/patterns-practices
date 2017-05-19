@@ -10,8 +10,6 @@ Prism Class Library
 MefRegionNavigationJournal Members
 ==================================
 
-Include Protected Members
-Include Inherited Members
 
 The [MefRegionNavigationJournal](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal) type exposes the following members.
 

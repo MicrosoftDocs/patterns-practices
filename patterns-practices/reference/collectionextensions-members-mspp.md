@@ -10,8 +10,6 @@ Prism Class Library
 CollectionExtensions Members
 ============================
 
-Include Protected Members
-Include Inherited Members
 
 The [CollectionExtensions](https://msdn.microsoft.com/t:microsoft.practices.prism.collectionextensions) type exposes the following members.
 

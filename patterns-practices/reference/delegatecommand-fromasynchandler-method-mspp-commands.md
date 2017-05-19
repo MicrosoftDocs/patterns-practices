@@ -10,8 +10,6 @@ Prism Class Library
 DelegateCommand..::.FromAsyncHandler Method
 ===========================================
 
-Include Protected Members
-Include Inherited Members
 
 Overload List
 -------------

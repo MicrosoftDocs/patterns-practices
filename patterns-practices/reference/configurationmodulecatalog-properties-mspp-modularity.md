@@ -10,8 +10,6 @@ Prism Class Library
 ConfigurationModuleCatalog Properties
 =====================================
 
-Include Protected Members
-Include Inherited Members
 
 The [ConfigurationModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.configurationmodulecatalog) type exposes the following members.
 

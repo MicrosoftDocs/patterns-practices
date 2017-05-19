@@ -10,8 +10,6 @@ Prism Class Library
 ViewModelLocationProvider Methods
 =================================
 
-Include Protected Members
-Include Inherited Members
 
 The [ViewModelLocationProvider](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.viewmodellocationprovider) type exposes the following members.
 

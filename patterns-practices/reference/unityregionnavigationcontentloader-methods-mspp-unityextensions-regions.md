@@ -10,8 +10,6 @@ Prism Class Library
 UnityRegionNavigationContentLoader Methods
 ==========================================
 
-Include Protected Members
-Include Inherited Members
 
 The [UnityRegionNavigationContentLoader](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader(v=pandp.50)) type exposes the following members.
 

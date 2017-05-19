@@ -10,8 +10,6 @@ Prism Class Library
 DelegateCommandBase Events
 ==========================
 
-Include Protected Members
-Include Inherited Members
 
 The [DelegateCommandBase](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommandbase) type exposes the following members.
 

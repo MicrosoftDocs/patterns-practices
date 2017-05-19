@@ -10,8 +10,6 @@ Prism Class Library
 IModuleInitializer Members
 ==========================
 
-Include Protected Members
-Include Inherited Members
 
 The [IModuleInitializer](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imoduleinitializer) type exposes the following members.
 

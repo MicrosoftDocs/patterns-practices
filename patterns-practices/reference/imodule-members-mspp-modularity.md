@@ -10,8 +10,6 @@ Prism Class Library
 IModule Members
 ===============
 
-Include Protected Members
-Include Inherited Members
 
 The [IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule) type exposes the following members.
 

@@ -10,8 +10,6 @@ Prism Class Library
 DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Fields
 ==============================================
 
-Include Protected Members
-Include Inherited Members
 
 The [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601) type exposes the following members.
 

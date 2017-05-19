@@ -10,8 +10,6 @@ Prism Class Library
 MefDelayedRegionCreationBehavior Members
 ========================================
 
-Include Protected Members
-Include Inherited Members
 
 The [MefDelayedRegionCreationBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior) type exposes the following members.
 

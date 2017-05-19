@@ -10,8 +10,6 @@ Prism Class Library
 IDelegateReference Properties
 =============================
 
-Include Protected Members
-Include Inherited Members
 
 The [IDelegateReference](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.idelegatereference) type exposes the following members.
 

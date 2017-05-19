@@ -10,8 +10,6 @@ Prism Class Library
 MefFileModuleTypeLoader Events
 ==============================
 
-Include Protected Members
-Include Inherited Members
 
 The [MefFileModuleTypeLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader) type exposes the following members.
 

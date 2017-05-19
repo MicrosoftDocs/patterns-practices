@@ -10,8 +10,6 @@ Prism Class Library
 RegionMemberLifetimeBehavior Methods
 ====================================
 
-Include Protected Members
-Include Inherited Members
 
 The [RegionMemberLifetimeBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior) type exposes the following members.
 

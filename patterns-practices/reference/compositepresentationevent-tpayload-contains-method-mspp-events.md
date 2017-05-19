@@ -7,9 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419056(v=PandP.50)'
 
 # CompositePresentationEvent(Of TPayload).Contains Method 
 
-Include Protected Members
-
-Include Inherited Members
 
 ## Overload List
 

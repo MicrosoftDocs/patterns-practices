@@ -10,8 +10,6 @@ Prism Class Library
 RegionBehaviorCollection Methods
 ================================
 
-Include Protected Members
-Include Inherited Members
 
 The [RegionBehaviorCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehaviorcollection) type exposes the following members.
 

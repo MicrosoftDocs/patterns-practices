@@ -10,8 +10,6 @@ Prism Class Library
 IRegionManager Members
 ======================
 
-Include Protected Members
-Include Inherited Members
 
 The [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager) type exposes the following members.
 

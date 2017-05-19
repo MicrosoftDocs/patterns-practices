@@ -10,8 +10,6 @@ Prism Class Library
 ViewRegistrationException Methods
 =================================
 
-Include Protected Members
-Include Inherited Members
 
 The [ViewRegistrationException](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregistrationexception) type exposes the following members.
 

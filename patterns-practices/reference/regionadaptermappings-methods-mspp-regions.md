@@ -10,8 +10,6 @@ Prism Class Library
 RegionAdapterMappings Methods
 =============================
 
-Include Protected Members
-Include Inherited Members
 
 The [RegionAdapterMappings](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionadaptermappings) type exposes the following members.
 

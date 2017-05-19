@@ -10,8 +10,6 @@ Prism Class Library
 ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)..::.Add Method
 ================================================================
 
-Include Protected Members
-Include Inherited Members
 
 Overload List
 -------------

@@ -10,8 +10,6 @@ Prism Class Library
 InvokeCommandAction Members
 ===========================
 
-Include Protected Members
-Include Inherited Members
 
 The [InvokeCommandAction](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.invokecommandaction) type exposes the following members.
 

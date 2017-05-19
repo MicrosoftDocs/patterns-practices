@@ -10,8 +10,6 @@ Prism Class Library
 LoadModuleCompletedEventArgs Methods
 ====================================
 
-Include Protected Members
-Include Inherited Members
 
 The [LoadModuleCompletedEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.loadmodulecompletedeventargs) type exposes the following members.
 

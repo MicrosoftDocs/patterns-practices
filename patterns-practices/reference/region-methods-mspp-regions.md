@@ -10,8 +10,6 @@ Prism Class Library
 Region Methods
 ==============
 
-Include Protected Members
-Include Inherited Members
 
 The [Region](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.region) type exposes the following members.
 

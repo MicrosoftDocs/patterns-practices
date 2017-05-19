@@ -10,8 +10,6 @@ Prism Class Library
 DuplicateModuleException Methods
 ================================
 
-Include Protected Members
-Include Inherited Members
 
 The [DuplicateModuleException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.duplicatemoduleexception) type exposes the following members.
 

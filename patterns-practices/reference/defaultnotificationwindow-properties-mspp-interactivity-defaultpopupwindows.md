@@ -10,8 +10,6 @@ Prism Class Library
 DefaultNotificationWindow Properties
 ====================================
 
-Include Protected Members
-Include Inherited Members
 
 The [DefaultNotificationWindow](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow) type exposes the following members.
 

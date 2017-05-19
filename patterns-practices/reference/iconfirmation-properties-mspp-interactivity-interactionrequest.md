@@ -10,8 +10,6 @@ Prism Class Library
 IConfirmation Properties
 ========================
 
-Include Protected Members
-Include Inherited Members
 
 The [IConfirmation](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iconfirmation) type exposes the following members.
 

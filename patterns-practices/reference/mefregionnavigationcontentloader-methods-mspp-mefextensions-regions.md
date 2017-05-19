@@ -10,8 +10,6 @@ Prism Class Library
 MefRegionNavigationContentLoader Methods
 ========================================
 
-Include Protected Members
-Include Inherited Members
 
 The [MefRegionNavigationContentLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader) type exposes the following members.
 

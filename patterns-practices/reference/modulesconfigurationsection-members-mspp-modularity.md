@@ -10,8 +10,6 @@ Prism Class Library
 ModulesConfigurationSection Members
 ===================================
 
-Include Protected Members
-Include Inherited Members
 
 The [ModulesConfigurationSection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulesconfigurationsection) type exposes the following members.
 

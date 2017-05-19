@@ -7,9 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430901(v=PandP.50)'
 
 # IRegionManagerAccessor Events
 
-Include Protected Members
-
-Include Inherited Members
 
 The [IRegionManagerAccessor](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor(v=pandp.50)) type exposes the following members.
 

@@ -10,8 +10,6 @@ Prism Class Library
 ModuleInitializeException Events
 ================================
 
-Include Protected Members
-Include Inherited Members
 
 The [ModuleInitializeException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinitializeexception) type exposes the following members.
 

@@ -10,8 +10,6 @@ Prism Class Library
 ModuleInfoGroup Members
 =======================
 
-Include Protected Members
-Include Inherited Members
 
 The [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup) type exposes the following members.
 

@@ -10,8 +10,6 @@ Prism Class Library
 IInteractionRequest Events
 ==========================
 
-Include Protected Members
-Include Inherited Members
 
 The [IInteractionRequest](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest) type exposes the following members.
 

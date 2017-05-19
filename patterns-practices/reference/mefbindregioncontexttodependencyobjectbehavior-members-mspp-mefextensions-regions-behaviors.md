@@ -10,8 +10,6 @@ Prism Class Library
 MefBindRegionContextToDependencyObjectBehavior Members
 ======================================================
 
-Include Protected Members
-Include Inherited Members
 
 The [MefBindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefbindregioncontexttodependencyobjectbehavior) type exposes the following members.
 

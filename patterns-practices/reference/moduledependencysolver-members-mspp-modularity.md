@@ -10,8 +10,6 @@ Prism Class Library
 ModuleDependencySolver Members
 ==============================
 
-Include Protected Members
-Include Inherited Members
 
 The [ModuleDependencySolver](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencysolver) type exposes the following members.
 

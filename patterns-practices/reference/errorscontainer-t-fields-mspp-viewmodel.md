@@ -10,8 +10,6 @@ Prism Class Library
 ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Fields
 ==============================================
 
-Include Protected Members
-Include Inherited Members
 
 The [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.errorscontainer%601) type exposes the following members.
 

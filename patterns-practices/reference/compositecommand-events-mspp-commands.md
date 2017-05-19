@@ -10,8 +10,6 @@ Prism Class Library
 CompositeCommand Events
 =======================
 
-Include Protected Members
-Include Inherited Members
 
 The [CompositeCommand](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.compositecommand) type exposes the following members.
 

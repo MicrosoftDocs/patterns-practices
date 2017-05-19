@@ -10,8 +10,6 @@ Prism Class Library
 AutoPopulateRegionBehavior Members
 ==================================
 
-Include Protected Members
-Include Inherited Members
 
 The [AutoPopulateRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior) type exposes the following members.
 

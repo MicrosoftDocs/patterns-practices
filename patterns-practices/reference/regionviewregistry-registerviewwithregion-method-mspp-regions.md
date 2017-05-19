@@ -10,8 +10,6 @@ Prism Class Library
 RegionViewRegistry..::.RegisterViewWithRegion Method
 ====================================================
 
-Include Protected Members
-Include Inherited Members
 
 Overload List
 -------------

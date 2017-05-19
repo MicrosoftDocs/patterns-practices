@@ -10,8 +10,6 @@ Prism Class Library
 DownloadedPartCatalogCollection Members
 =======================================
 
-Include Protected Members
-Include Inherited Members
 
 The [DownloadedPartCatalogCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection) type exposes the following members.
 

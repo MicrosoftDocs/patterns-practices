@@ -10,8 +10,6 @@ Prism Class Library
 INavigationAware Methods
 ========================
 
-Include Protected Members
-Include Inherited Members
 
 The [INavigationAware](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigationaware) type exposes the following members.
 

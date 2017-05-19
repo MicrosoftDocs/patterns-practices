@@ -7,9 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431153(v=PandP.50)'
 
 # MefRegionManager Properties
 
-Include Protected Members
-
-Include Inherited Members
 
 The [MefRegionManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager(v=pandp.50)) type exposes the following members.
 

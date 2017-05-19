@@ -10,8 +10,6 @@ Prism Class Library
 ModuleCatalog..::.CreateFromXaml Method
 =======================================
 
-Include Protected Members
-Include Inherited Members
 
 Overload List
 -------------

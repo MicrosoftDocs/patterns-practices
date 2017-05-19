@@ -10,8 +10,6 @@ Prism Class Library
 ModuleAttribute Members
 =======================
 
-Include Protected Members
-Include Inherited Members
 
 The [ModuleAttribute](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleattribute) type exposes the following members.
 

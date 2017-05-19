@@ -10,8 +10,6 @@ Prism Class Library
 ItemMetadata Methods
 ====================
 
-Include Protected Members
-Include Inherited Members
 
 The [ItemMetadata](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemmetadata) type exposes the following members.
 

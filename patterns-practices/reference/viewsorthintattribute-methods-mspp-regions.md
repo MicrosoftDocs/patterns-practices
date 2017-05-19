@@ -7,9 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431135(v=PandP.50)'
 
 # ViewSortHintAttribute Methods
 
-Include Protected Members
-
-Include Inherited Members
 
 The [ViewSortHintAttribute](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewsorthintattribute(v=pandp.50)) type exposes the following members.
 

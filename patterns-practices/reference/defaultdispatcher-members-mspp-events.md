@@ -10,8 +10,6 @@ Prism Class Library
 DefaultDispatcher Members
 =========================
 
-Include Protected Members
-Include Inherited Members
 
 The [DefaultDispatcher](https://msdn.microsoft.com/t:microsoft.practices.prism.events.defaultdispatcher) type exposes the following members.
 
