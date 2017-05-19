@@ -1,0 +1,79 @@
+- name: Prism 5.0
+  href: index.md
+  items:
+  - name: Guide
+    href: guide/index.md
+    items:
+    - name: Introduction
+      href: guide/1-introduction-to-the-prism-library-5.0-for-wpf.md
+    - name: Architecture
+      href: guide/13-prism-library-5.0-for-wpf.md
+    - name: What's New
+      href: guide/whats-new-in-prism-library-5.0-for-wpf.md
+    - name: Download and Setup
+      href: guide/download-and-setup-prism-library-5.0-for-wpf.md
+    - name: Initializing Applications
+      href: guide/2-initializing-applications-using-the-prism-library-5.0-for-wpf.md
+    - name: Managing Dependencies Between Components
+      href: guide/3-managing-dependencies-between-components-using-the-prism-library-5.0-for-wpf.md
+    - name: Modular Application Development Using
+      href: guide/4-modular-application-development-using-prism-library-5.0-for-wpf.md
+    - name: Implementing the MVVM Pattern
+      href: guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf.md
+    - name: Advanced MVVM Scenarios
+      href: guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf.md
+    - name: Composing the User Interface
+      href: guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf.md
+    - name: Navigation
+      href: guide/8-navigation-using-the-prism-library-5.0-for-wpf.md
+    - name: Communicating Between Loosely Coupled Components
+      href: guide/9-communicating-between-loosely-coupled-components-using-the-prism-library-5.0-for-wpf.md
+    - name: Deploying Applications
+      href: guide/10-deploying-applications-using-the-prism-library-5.0-for-wpf.md
+    - name: Patterns
+      href: guide/12-patterns-in-the-prism-library-5.0-for-wpf.md
+    - name: Extending
+      href: guide/15-extending-the-prism-library-5.0-for-wpf.md
+    - name: Code Samples
+      href: guide/16-code-samples-using-the-prism-library-5.0-for-wpf.md
+    - name: Upgrading from Prism 2.x
+      href: guide/upgrading-from-prism-2.x.md
+    - name: Upgrading from Prism Library 4.1
+      href: guide/14-upgrading-from-prism-library-4.1.md
+    - name: Deploying Prism Silverlight Applications
+      href: guide/deploying-prism-in-silverlight-applications.md
+    - name: QuickStarts
+      href: guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf.md
+      items:
+      - name: Event Aggregation
+        href: guide/event-aggregation-quickstart-using-the-prism-library-5.0-for-wpf.md
+      - name: Interactivity
+        href: guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf.md
+      - name: Modularity for Silverlight
+        href: guide/modularity-quickstarts-for-silverlight.md
+      - name: Commanding
+        href: guide/commanding-quickstart-using-the-prism-library-5.0-for-wpf.md
+      - name: Multi-Targeting
+        href: guide/multi-targeting-quickstart.md
+      - name: MVVM
+        href: guide/mvvm-quickstart-using-the-prism-library-5.0-for-wpf.md
+      - name: State-Based Navigation
+        href: guide/state-based-navigation-quickstart-using-the-prism-library-5.0-for-wpf.md
+      - name: View-Switching Navigation
+        href: guide/view-switching-navigation-quickstart-using-the-prism-library-5.0-for-wpf.md
+      - name: UI Composition
+        href: guide/ui-composition-quickstart-using-the-prism-library-5.0-for-wpf.md
+    - name: Sharing Code Between Silverlight and WPF
+      href: guide/sharing-code-between-silverlight-and-wpf.md
+    - name: Hands-on Lab
+      href: guide/17-getting-started-using-the-prism-library-5.0-for-wpf-hands-on-lab.md
+    - name: Publishing and Updating Applications Using the Hands-on Lab
+      href: guide/18-publishing-and-updating-applications-using-the-prism-library-5.0-for-wpf-hands-on-lab.md
+    - name: Silverlight Hands-on Lab
+      href: guide/silverlight-hands-on-lab-get-started-with-the-prism-library.md
+    - name: Stock Trader Reference Implementation
+      href: guide/stock-trader-reference-implementation-using-the-prism-library-5.0-for-wpf.md
+    - name: Glossary
+      href: guide/11-glossary-for-the-prism-library-5.0-for-wpf.md
+    - name: Bibliography
+      href: guide/bibliography-for-the-developers-guide-to-prism-library-5.0-for-wpf.md
