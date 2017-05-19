@@ -16,8 +16,9 @@ Returns **truetrue** (**True** in Visual Basic) if there is a subscriber matchin
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 
 ```C#
 public virtual bool Contains(

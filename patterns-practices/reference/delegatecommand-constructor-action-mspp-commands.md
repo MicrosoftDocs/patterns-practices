@@ -14,8 +14,9 @@ Creates a new instance of [DelegateCommand](https://msdn.microsoft.com/t:microso
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public DelegateCommand( Action executeMethod )Public Sub New ( executeMethod As Action )
 #### Parameters

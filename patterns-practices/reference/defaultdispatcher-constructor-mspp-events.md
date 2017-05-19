@@ -14,8 +14,9 @@ Initializes a new instance of the [DefaultDispatcher](https://msdn.microsoft.com
 
 **Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/n:microsoft.practices.prism.events)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public DefaultDispatcher()Public Sub New
 

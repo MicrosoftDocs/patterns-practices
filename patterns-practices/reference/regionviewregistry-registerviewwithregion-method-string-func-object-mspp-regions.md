@@ -14,8 +14,9 @@ Registers a delegate that can be used to retrieve the content associated with a 
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public void RegisterViewWithRegion( string regionName, Func&lt;Object&gt; getContentDelegate )Public Sub RegisterViewWithRegion ( regionName As String, getContentDelegate As Func(Of Object) )
 #### Parameters

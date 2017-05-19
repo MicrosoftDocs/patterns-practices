@@ -14,8 +14,9 @@ Sets the default view type to view model type resolver.
 
 **Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/n:microsoft.practices.prism.mvvm)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public static void SetDefaultViewTypeToViewModelTypeResolver( Func&lt;Type, Type&gt; viewTypeToViewModelTypeResolver )Public Shared Sub SetDefaultViewTypeToViewModelTypeResolver ( viewTypeToViewModelTypeResolver As Func(Of Type, Type) )
 #### Parameters

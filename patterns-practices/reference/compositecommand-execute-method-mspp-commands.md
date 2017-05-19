@@ -14,8 +14,9 @@ Forwards [Execute(Object)](http://msdn2.microsoft.com/en-us/library/ms604094) to
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public virtual void Execute( Object parameter )Public Overridable Sub Execute ( parameter As Object )
 #### Parameters

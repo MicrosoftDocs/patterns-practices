@@ -12,8 +12,9 @@ ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).validationResults Field
 
 **Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/n:microsoft.practices.prism.viewmodel)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected readonly Dictionary&lt;string, List&lt;T&gt;&gt; validationResultsProtected ReadOnly validationResults As Dictionary(Of String, List(Of T))
 #### Field Value

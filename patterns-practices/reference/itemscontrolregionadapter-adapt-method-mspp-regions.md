@@ -14,8 +14,9 @@ Adapts an [ItemsControl](http://msdn2.microsoft.com/en-us/library/ms611045) to a
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected override void Adapt( IRegion region, ItemsControl regionTarget )Protected Overrides Sub Adapt ( region As IRegion, regionTarget As ItemsControl )
 #### Parameters

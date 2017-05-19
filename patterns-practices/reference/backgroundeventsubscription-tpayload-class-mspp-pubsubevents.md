@@ -16,8 +16,9 @@ Extends [EventSubscription(Of TPayload)](https://msdn.microsoft.com/en-us/librar
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 
 ```C#
     public class BackgroundEventSubscription<TPayload> : EventSubscription<TPayload>

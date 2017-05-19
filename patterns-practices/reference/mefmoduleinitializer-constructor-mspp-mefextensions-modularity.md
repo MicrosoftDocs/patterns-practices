@@ -14,8 +14,9 @@ Initializes a new instance of the [MefModuleInitializer](https://msdn.microsoft.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.modularity)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public MefModuleInitializer( IServiceLocator serviceLocator, ILoggerFacade loggerFacade, DownloadedPartCatalogCollection downloadedPartCatalogs, AggregateCatalog aggregateCatalog )Public Sub New ( serviceLocator As IServiceLocator, loggerFacade As ILoggerFacade, downloadedPartCatalogs As DownloadedPartCatalogCollection, aggregateCatalog As AggregateCatalog )
 #### Parameters

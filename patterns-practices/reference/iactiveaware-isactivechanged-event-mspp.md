@@ -14,8 +14,9 @@ Notifies that the value for [IsActive](https://msdn.microsoft.com/p:microsoft.pr
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.SharedInterfaces (in Microsoft.Practices.Prism.SharedInterfaces.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>event EventHandler IsActiveChangedEvent IsActiveChanged As EventHandler
 #### Value

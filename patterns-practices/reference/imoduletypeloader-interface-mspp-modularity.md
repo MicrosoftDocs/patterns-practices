@@ -16,8 +16,9 @@ Defines the interface for moduleTypeLoaders
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 
 ```C#
 public interface IModuleTypeLoader

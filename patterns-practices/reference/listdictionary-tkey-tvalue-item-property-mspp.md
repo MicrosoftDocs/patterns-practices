@@ -14,8 +14,9 @@ Gets or sets the list associated with the given key. The access always succeeds,
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public IList&lt;TValue&gt; this[ TKey key \] { get; set; }Public Default Property Item ( key As TKey ) As IList(Of TValue) Get Set
 #### Parameters

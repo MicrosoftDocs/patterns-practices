@@ -14,8 +14,9 @@ Implements a UnityContainerExtension that checks if a specific type was register
 
 **Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public class UnityBootstrapperExtension : UnityContainerExtensionPublic Class UnityBootstrapperExtension Inherits UnityContainerExtension
 

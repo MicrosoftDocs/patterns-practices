@@ -14,8 +14,9 @@ Factory method to create a new instance of [DelegateCommand&lt;(Of &lt;(T&gt;)&g
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public static DelegateCommand&lt;T&gt; FromAsyncHandler( Func&lt;T, Task&gt; executeMethod )Public Shared Function FromAsyncHandler ( executeMethod As Func(Of T, Task) ) As DelegateCommand(Of T)
 #### Parameters

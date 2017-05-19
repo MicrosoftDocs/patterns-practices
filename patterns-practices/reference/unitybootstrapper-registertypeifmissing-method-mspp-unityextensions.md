@@ -14,8 +14,9 @@ Registers a type in the container only if that type was not already registered.
 
 **Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected void RegisterTypeIfMissing( Type fromType, Type toType, bool registerAsSingleton )Protected Sub RegisterTypeIfMissing ( fromType As Type, toType As Type, registerAsSingleton As Boolean )
 #### Parameters

@@ -14,8 +14,9 @@ Extends [EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsof
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public class DispatcherEventSubscription&lt;TPayload&gt; : EventSubscription&lt;TPayload&gt; Public Class DispatcherEventSubscription(Of TPayload) Inherits EventSubscription(Of TPayload)
 Type Parameters

@@ -14,8 +14,9 @@ Gets a value indicating whether access to the [ICollection](http://msdn2.microso
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public bool IsSynchronized { get; }Public ReadOnly Property IsSynchronized As Boolean Get
 #### Property Value

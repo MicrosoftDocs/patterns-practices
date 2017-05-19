@@ -14,8 +14,9 @@ Gets the single instance of the event managed by this EventAggregator. Multiple 
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public TEventType GetEvent&lt;TEventType&gt;() where TEventType : new(), EventBase Public Function GetEvent(Of TEventType As {New, EventBase}) As TEventType
 Type Parameters

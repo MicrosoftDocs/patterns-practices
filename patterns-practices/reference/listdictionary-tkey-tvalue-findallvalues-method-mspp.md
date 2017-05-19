@@ -14,8 +14,9 @@ Retrieves all the elements that match the condition defined by the specified pre
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public IEnumerable&lt;TValue&gt; FindAllValues( Predicate&lt;TValue&gt; valueFilter )Public Function FindAllValues ( valueFilter As Predicate(Of TValue) ) As IEnumerable(Of TValue)
 #### Parameters

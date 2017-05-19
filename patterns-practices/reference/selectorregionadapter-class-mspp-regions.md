@@ -14,8 +14,9 @@ Adapter that creates a new [Region](https://msdn.microsoft.com/t:microsoft.pract
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public class SelectorRegionAdapter : RegionAdapterBase&lt;Selector&gt;Public Class SelectorRegionAdapter Inherits RegionAdapterBase(Of Selector)
 

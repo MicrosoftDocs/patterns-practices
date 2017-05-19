@@ -14,8 +14,9 @@ Occurs when changes occur that affect whether or not the command should execute.
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public virtual event EventHandler CanExecuteChangedPublic Overridable Event CanExecuteChanged As EventHandler
 #### Value

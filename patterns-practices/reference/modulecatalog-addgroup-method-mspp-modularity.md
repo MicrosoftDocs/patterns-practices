@@ -14,8 +14,9 @@ Creates and adds a [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.prac
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public virtual ModuleCatalog AddGroup( InitializationMode initializationMode, string refValue, params ModuleInfo[] moduleInfos )Public Overridable Function AddGroup ( initializationMode As InitializationMode, refValue As String, ParamArray moduleInfos As ModuleInfo() ) As ModuleCatalog
 #### Parameters

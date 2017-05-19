@@ -56,8 +56,9 @@ Base class to facilitate the creation of [IRegionAdapter](https://msdn.microsoft
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
+## 
 ## Syntax
-------
+
 
 ```VB
 'Declaration

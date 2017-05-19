@@ -14,8 +14,9 @@ Adapts an [Selector](http://msdn2.microsoft.com/en-us/library/ms595227) to an [I
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected override void Adapt( IRegion region, Selector regionTarget )Protected Overrides Sub Adapt ( region As IRegion, regionTarget As Selector )
 #### Parameters

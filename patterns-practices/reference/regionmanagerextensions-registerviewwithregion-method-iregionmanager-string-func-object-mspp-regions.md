@@ -14,8 +14,9 @@ Associate a view with a region, using a delegate to resolve a concreate instance
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public static IRegionManager RegisterViewWithRegion( this IRegionManager regionManager, string regionName, Func&lt;Object&gt; getContentDelegate )&lt;ExtensionAttribute&gt; Public Shared Function RegisterViewWithRegion ( regionManager As IRegionManager, regionName As String, getContentDelegate As Func(Of Object) ) As IRegionManager
 #### Parameters

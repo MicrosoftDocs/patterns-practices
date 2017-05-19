@@ -14,8 +14,9 @@ Configures the [IRegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.p
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected virtual IRegionBehaviorFactory ConfigureDefaultRegionBehaviors()Protected Overridable Function ConfigureDefaultRegionBehaviors As IRegionBehaviorFactory
 #### Return Value

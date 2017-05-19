@@ -16,8 +16,9 @@ Gets or sets the contract names of modules this module depends upon.
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 
 ```C#
 public string[] DependsOnModuleNames { get; set; }

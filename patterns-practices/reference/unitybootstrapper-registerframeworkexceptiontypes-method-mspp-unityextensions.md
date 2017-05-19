@@ -14,8 +14,9 @@ Registers in the IUnityContainer the [Type](http://msdn2.microsoft.com/en-us/lib
 
 **Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected override void RegisterFrameworkExceptionTypes()Protected Overrides Sub RegisterFrameworkExceptionTypes
 

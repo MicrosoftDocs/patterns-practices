@@ -16,8 +16,9 @@ Subscribes a delegate to an event that will be published on the [PublisherThread
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 
 ```C#
 public SubscriptionToken Subscribe(

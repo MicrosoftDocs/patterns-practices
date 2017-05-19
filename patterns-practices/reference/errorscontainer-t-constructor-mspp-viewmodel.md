@@ -14,8 +14,9 @@ Initializes a new instance of the [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)](http
 
 **Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/n:microsoft.practices.prism.viewmodel)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public ErrorsContainer( Action&lt;string&gt; raiseErrorsChanged )Public Sub New ( raiseErrorsChanged As Action(Of String) )
 #### Parameters

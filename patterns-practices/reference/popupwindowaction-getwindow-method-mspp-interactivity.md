@@ -14,8 +14,9 @@ Returns the window to display as part of the trigger action.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected virtual Window GetWindow( INotification notification )Protected Overridable Function GetWindow ( notification As INotification ) As Window
 #### Parameters

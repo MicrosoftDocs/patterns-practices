@@ -16,8 +16,9 @@ Uses the container to resolve a new [IModule](https://msdn.microsoft.com/en-us/l
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected virtual IModule CreateModule( ModuleInfo moduleInfo )Protected Overridable Function CreateModule ( moduleInfo As ModuleInfo ) As IModule
 #### Parameters

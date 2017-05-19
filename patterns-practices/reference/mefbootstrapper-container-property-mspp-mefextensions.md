@@ -14,8 +14,9 @@ Gets or sets the default [CompositionContainer](http://msdn2.microsoft.com/en-us
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected CompositionContainer Container { get; set; }Protected Property Container As CompositionContainer Get Set
 #### Property Value

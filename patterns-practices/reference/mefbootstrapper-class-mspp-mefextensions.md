@@ -14,8 +14,9 @@ Base class that provides a basic bootstrapping sequence that registers most of t
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public abstract class MefBootstrapper : BootstrapperPublic MustInherit Class MefBootstrapper Inherits Bootstrapper
 

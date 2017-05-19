@@ -14,8 +14,9 @@ Checks if the module needs to be retrieved before it's initialized.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.modularity)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected override bool ModuleNeedsRetrieval( ModuleInfo moduleInfo )Protected Overrides Function ModuleNeedsRetrieval ( moduleInfo As ModuleInfo ) As Boolean
 #### Parameters

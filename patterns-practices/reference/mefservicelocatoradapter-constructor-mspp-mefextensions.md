@@ -14,8 +14,9 @@ Initializes a new instance of the [MefServiceLocatorAdapter](https://msdn.micros
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public MefServiceLocatorAdapter( CompositionContainer compositionContainer )Public Sub New ( compositionContainer As CompositionContainer )
 #### Parameters

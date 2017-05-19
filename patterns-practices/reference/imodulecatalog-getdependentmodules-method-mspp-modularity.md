@@ -14,8 +14,9 @@ Return the list of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>IEnumerable&lt;ModuleInfo&gt; GetDependentModules( ModuleInfo moduleInfo )Function GetDependentModules ( moduleInfo As ModuleInfo ) As IEnumerable(Of ModuleInfo)
 #### Parameters

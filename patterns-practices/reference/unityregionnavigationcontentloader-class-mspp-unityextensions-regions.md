@@ -14,8 +14,9 @@ Specialization of the default RegionNavigationContentLoader that queries the cor
 
 **Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions.regions)
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public class UnityRegionNavigationContentLoader : RegionNavigationContentLoaderPublic Class UnityRegionNavigationContentLoader Inherits RegionNavigationContentLoader
 

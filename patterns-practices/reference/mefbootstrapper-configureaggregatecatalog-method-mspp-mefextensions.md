@@ -14,8 +14,9 @@ Configures the [AggregateCatalog](https://msdn.microsoft.com/p:microsoft.practic
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected virtual void ConfigureAggregateCatalog()Protected Overridable Sub ConfigureAggregateCatalog
 

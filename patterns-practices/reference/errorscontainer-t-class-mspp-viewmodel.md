@@ -14,8 +14,9 @@ Manages validation errors for an object, notifying when the error state changes.
 
 **Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/n:microsoft.practices.prism.viewmodel)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public class ErrorsContainer&lt;T&gt; Public Class ErrorsContainer(Of T)
 Type Parameters

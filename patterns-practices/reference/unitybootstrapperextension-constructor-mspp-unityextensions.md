@@ -16,8 +16,9 @@ Initializes a new instance of the [UnityBootstrapperExtension](https://msdn.micr
 
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 
 ```C#
 public UnityBootstrapperExtension()

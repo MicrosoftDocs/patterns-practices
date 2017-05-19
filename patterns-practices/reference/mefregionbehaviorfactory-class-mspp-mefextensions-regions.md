@@ -14,8 +14,9 @@ Exports the RegionBehaviorFactory using the Managed Extensibility Framework (MEF
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public class MefRegionBehaviorFactory : RegionBehaviorFactoryPublic Class MefRegionBehaviorFactory Inherits RegionBehaviorFactory
 

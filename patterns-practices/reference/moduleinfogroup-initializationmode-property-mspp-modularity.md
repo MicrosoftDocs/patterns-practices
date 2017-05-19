@@ -14,8 +14,9 @@ Gets or sets the [InitializationMode](https://msdn.microsoft.com/p:microsoft.pra
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public InitializationMode InitializationMode { get; set; }Public Property InitializationMode As InitializationMode Get Set
 #### Property Value

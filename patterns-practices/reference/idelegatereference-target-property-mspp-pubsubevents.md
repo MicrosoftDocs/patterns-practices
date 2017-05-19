@@ -14,8 +14,9 @@ Gets the referenced [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>Delegate Target { get; }ReadOnly Property Target As Delegate Get
 #### Property Value

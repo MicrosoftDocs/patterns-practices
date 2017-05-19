@@ -14,8 +14,9 @@ Uses the container to resolve a new [IModule](https://msdn.microsoft.com/t:micro
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.modularity)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected override IModule CreateModule( ModuleInfo moduleInfo )Protected Overrides Function CreateModule ( moduleInfo As ModuleInfo ) As IModule
 #### Parameters

@@ -14,8 +14,9 @@ Register the type of an Exception that is thrown by the framework. The [GetRootE
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public static void RegisterFrameworkExceptionType( Type frameworkExceptionType )Public Shared Sub RegisterFrameworkExceptionType ( frameworkExceptionType As Type )
 #### Parameters

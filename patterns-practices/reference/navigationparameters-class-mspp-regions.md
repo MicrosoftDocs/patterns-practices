@@ -14,8 +14,9 @@ Represents Navigation parameters.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public class NavigationParameters : IEnumerable&lt;KeyValuePair&lt;string, Object&gt;&gt;, IEnumerablePublic Class NavigationParameters Implements IEnumerable(Of KeyValuePair(Of String, Object)), IEnumerable
 

@@ -14,8 +14,9 @@ Exports the SelectorItemsSourceSyncBehavior using the Managed Extensibility Fram
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions.behaviors)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public class MefSelectorItemsSourceSyncBehavior : SelectorItemsSourceSyncBehaviorPublic Class MefSelectorItemsSourceSyncBehavior Inherits SelectorItemsSourceSyncBehavior
 

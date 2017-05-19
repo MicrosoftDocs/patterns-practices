@@ -14,8 +14,9 @@ Adds a new module that is statically referenced to the specified module info gro
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public static ModuleInfoGroup AddModule( this ModuleInfoGroup moduleInfoGroup, string moduleName, Type moduleType, params string[] dependsOn )&lt;ExtensionAttribute&gt; Public Shared Function AddModule ( moduleInfoGroup As ModuleInfoGroup, moduleName As String, moduleType As Type, ParamArray dependsOn As String() ) As ModuleInfoGroup
 #### Parameters

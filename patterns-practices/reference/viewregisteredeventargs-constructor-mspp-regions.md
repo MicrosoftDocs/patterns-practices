@@ -14,8 +14,9 @@ Initializes the ViewRegisteredEventArgs class.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public ViewRegisteredEventArgs( string regionName, Func&lt;Object&gt; getViewDelegate )Public Sub New ( regionName As String, getViewDelegate As Func(Of Object) )
 #### Parameters

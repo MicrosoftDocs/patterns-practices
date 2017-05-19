@@ -14,8 +14,9 @@ Determines whether the specified [Object](http://msdn2.microsoft.com/en-us/libra
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public override bool Equals( Object obj )Public Overrides Function Equals ( obj As Object ) As Boolean
 #### Parameters

@@ -14,8 +14,9 @@ The default sort algorithm.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public static int DefaultSortComparison( Object x, Object y )Public Shared Function DefaultSortComparison ( x As Object, y As Object ) As Integer
 #### Parameters

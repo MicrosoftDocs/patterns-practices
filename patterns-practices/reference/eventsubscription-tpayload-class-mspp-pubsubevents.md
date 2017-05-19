@@ -16,8 +16,9 @@ Provides a way to retrieve a [Delegate](http://msdn2.microsoft.com/en-us/library
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 
 ```C#
 public class EventSubscription<TPayload> : IEventSubscription

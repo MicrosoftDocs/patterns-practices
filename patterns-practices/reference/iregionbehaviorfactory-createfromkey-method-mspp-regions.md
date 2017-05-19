@@ -14,8 +14,9 @@ Creates an instance of the Behaviortype that's registered using the specified ke
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>IRegionBehavior CreateFromKey( string key )Function CreateFromKey ( key As String ) As IRegionBehavior
 #### Parameters

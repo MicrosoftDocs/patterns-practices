@@ -14,8 +14,9 @@ Raises this object's PropertyChanged event.
 
 **Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/n:microsoft.practices.prism.viewmodel)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected void RaisePropertyChanged&lt;T&gt;( Expression&lt;Func&lt;T&gt;&gt; propertyExpression ) Protected Sub RaisePropertyChanged(Of T) ( propertyExpression As Expression(Of Func(Of T)) )
 #### Parameters

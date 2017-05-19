@@ -14,8 +14,9 @@ Determines whether this instance accepts being navigated away from.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>void ConfirmNavigationRequest( NavigationContext navigationContext, Action&lt;bool&gt; continuationCallback )Sub ConfirmNavigationRequest ( navigationContext As NavigationContext, continuationCallback As Action(Of Boolean) )
 #### Parameters

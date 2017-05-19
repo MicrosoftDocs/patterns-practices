@@ -14,8 +14,9 @@ Creates a new instance of [BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public BackgroundEventSubscription( IDelegateReference actionReference, IDelegateReference filterReference )Public Sub New ( actionReference As IDelegateReference, filterReference As IDelegateReference )
 #### Parameters

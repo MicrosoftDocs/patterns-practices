@@ -14,8 +14,9 @@ Initializes a new instance of the [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](htt
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public ObservableObject()Public Sub New
 

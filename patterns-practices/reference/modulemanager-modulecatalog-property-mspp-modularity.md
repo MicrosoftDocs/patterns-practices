@@ -14,8 +14,9 @@ The module catalog specified in the constructor.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected IModuleCatalog ModuleCatalog { get; }Protected ReadOnly Property ModuleCatalog As IModuleCatalog Get
 #### Property Value

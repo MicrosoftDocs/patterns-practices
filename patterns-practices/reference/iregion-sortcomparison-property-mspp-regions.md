@@ -16,8 +16,9 @@ Gets or sets the comparison used to sort the views.
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 
 ```C#
     Comparison<Object> SortComparison { get; set; }

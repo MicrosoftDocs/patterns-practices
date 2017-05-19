@@ -14,8 +14,9 @@ Calls all the execution strategies exposed by the list of [IEventSubscription](h
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected virtual void InternalPublish( params Object[] arguments )Protected Overridable Sub InternalPublish ( ParamArray arguments As Object() )
 #### Parameters

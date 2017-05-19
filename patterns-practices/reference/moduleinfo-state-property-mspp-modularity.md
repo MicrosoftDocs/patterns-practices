@@ -14,8 +14,9 @@ Gets or sets the state of the [ModuleInfo](https://msdn.microsoft.com/t:microsof
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public ModuleState State { get; set; }Public Property State As ModuleState Get Set
 #### Property Value

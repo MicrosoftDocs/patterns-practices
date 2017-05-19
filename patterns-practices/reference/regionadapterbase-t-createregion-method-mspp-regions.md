@@ -16,8 +16,9 @@ Template method to create a new instance of [IRegion](https://msdn.microsoft.com
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 
 ```C#
     protected abstract IRegion CreateRegion()

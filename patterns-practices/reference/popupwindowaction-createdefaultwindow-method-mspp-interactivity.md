@@ -16,8 +16,9 @@ When no WindowContent is sent this method is used to create a default basic wind
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 
 ```C#
 protected Window CreateDefaultWindow(

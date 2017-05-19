@@ -14,8 +14,9 @@ Executes the command, if it's set, providing the [CommandParameter](https://msdn
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected virtual void ExecuteCommand( Object parameter )Protected Overridable Sub ExecuteCommand ( parameter As Object )
 #### Parameters

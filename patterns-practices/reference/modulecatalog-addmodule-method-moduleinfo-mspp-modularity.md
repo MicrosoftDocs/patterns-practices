@@ -14,8 +14,9 @@ Adds a [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modul
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public virtual void AddModule( ModuleInfo moduleInfo )Public Overridable Sub AddModule ( moduleInfo As ModuleInfo )
 #### Parameters

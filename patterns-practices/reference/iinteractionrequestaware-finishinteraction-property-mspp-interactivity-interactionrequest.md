@@ -14,8 +14,9 @@ An [Action](http://msdn2.microsoft.com/en-us/library/bb534741) that can be invok
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>Action FinishInteraction { get; set; }Property FinishInteraction As Action Get Set
 #### Property Value

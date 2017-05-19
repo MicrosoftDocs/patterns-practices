@@ -14,8 +14,9 @@ Gets or sets the modules to be imported.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.modularity)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected IEnumerable&lt;Lazy&lt;IModule, IModuleExport&gt;&gt; ImportedModules { get; set; }Protected Property ImportedModules As IEnumerable(Of Lazy(Of IModule, IModuleExport)) Get Set
 #### Property Value

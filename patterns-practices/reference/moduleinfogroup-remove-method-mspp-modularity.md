@@ -16,8 +16,9 @@ Removes the first occurrence of a specific object from the [ModuleInfoGroup](htt
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 
 ```C#
 public bool Remove( ModuleInfo item )

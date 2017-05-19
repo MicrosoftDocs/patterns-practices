@@ -14,8 +14,9 @@ Class that provides extension methods to Collection
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public static class CollectionExtensions&lt;ExtensionAttribute&gt; Public NotInheritable Class CollectionExtensions
 

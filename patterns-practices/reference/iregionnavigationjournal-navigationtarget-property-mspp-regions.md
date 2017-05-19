@@ -16,8 +16,9 @@ Gets or sets the target that implements INavigateAsync.
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 
 ```C#
 INavigateAsync NavigationTarget { get; set; }

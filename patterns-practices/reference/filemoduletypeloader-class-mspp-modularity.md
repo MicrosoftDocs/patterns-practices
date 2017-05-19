@@ -16,8 +16,9 @@ Loads modules from an arbitrary location on the filesystem. This typeloader is o
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 
 ```C#
 public class FileModuleTypeLoader : IModuleTypeLoader, 

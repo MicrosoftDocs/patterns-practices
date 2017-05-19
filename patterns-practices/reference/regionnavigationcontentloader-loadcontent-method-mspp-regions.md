@@ -14,8 +14,9 @@ Gets the view to which the navigation request represented by navigationContext a
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public Object LoadContent( IRegion region, NavigationContext navigationContext )Public Function LoadContent ( region As IRegion, navigationContext As NavigationContext ) As Object
 #### Parameters

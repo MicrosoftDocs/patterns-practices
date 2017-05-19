@@ -14,8 +14,9 @@ Removes the subscriber matching the [SubscriptionToken](https://msdn.microsoft.c
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public virtual void Unsubscribe( SubscriptionToken token )Public Overridable Sub Unsubscribe ( token As SubscriptionToken )
 #### Parameters

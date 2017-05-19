@@ -14,8 +14,9 @@ Adds a groupless [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.p
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public ModuleCatalog AddModule( Type moduleType, InitializationMode initializationMode, params string[] dependsOn )Public Function AddModule ( moduleType As Type, initializationMode As InitializationMode, ParamArray dependsOn As String() ) As ModuleCatalog
 #### Parameters

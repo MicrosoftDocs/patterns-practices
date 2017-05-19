@@ -14,8 +14,9 @@ Initializes a new instance of the [RegionCreationException](https://msdn.microso
 
 **Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public RegionCreationException( string message, Exception inner )Public Sub New ( message As String, inner As Exception )
 #### Parameters

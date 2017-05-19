@@ -14,8 +14,9 @@ Searches the collection for all the [ModuleConfigurationElement](https://msdn.mi
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public IList&lt;ModuleConfigurationElement&gt; FindAll( Predicate&lt;ModuleConfigurationElement&gt; match )Public Function FindAll ( match As Predicate(Of ModuleConfigurationElement) ) As IList(Of ModuleConfigurationElement)
 #### Parameters

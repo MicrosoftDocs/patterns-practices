@@ -14,8 +14,9 @@ Gets the target [Predicate&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/e
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public Predicate&lt;TPayload&gt; Filter { get; }Public ReadOnly Property Filter As Predicate(Of TPayload) Get
 #### Property Value

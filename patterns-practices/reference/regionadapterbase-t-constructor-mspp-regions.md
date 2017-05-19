@@ -14,8 +14,9 @@ Initializes a new instance of [RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)](https:
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected RegionAdapterBase( IRegionBehaviorFactory regionBehaviorFactory )Protected Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
 #### Parameters

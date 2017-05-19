@@ -14,8 +14,9 @@ Determines if the command can execute by invoked the [Func&lt;(Of &lt;(T, TResul
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public virtual bool CanExecute( T parameter )Public Overridable Function CanExecute ( parameter As T ) As Boolean
 #### Parameters

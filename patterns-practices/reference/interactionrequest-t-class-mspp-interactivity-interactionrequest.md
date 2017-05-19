@@ -14,8 +14,9 @@ Implementation of the [IInteractionRequest](https://msdn.microsoft.com/t:microso
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public class InteractionRequest&lt;T&gt; : IInteractionRequest where T : INotification Public Class InteractionRequest(Of T As INotification) Implements IInteractionRequest
 Type Parameters

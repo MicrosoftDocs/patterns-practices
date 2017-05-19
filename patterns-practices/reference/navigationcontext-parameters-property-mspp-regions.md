@@ -14,8 +14,9 @@ Gets the [NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public NavigationParameters Parameters { get; }Public ReadOnly Property Parameters As NavigationParameters Get
 #### Property Value

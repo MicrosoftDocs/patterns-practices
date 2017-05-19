@@ -14,8 +14,9 @@ Gets or sets the type loaders used by the module manager.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.modularity)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public override IEnumerable&lt;IModuleTypeLoader&gt; ModuleTypeLoaders { get; set; }Public Overrides Property ModuleTypeLoaders As IEnumerable(Of IModuleTypeLoader) Get Set
 #### Property Value

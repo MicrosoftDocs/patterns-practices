@@ -16,8 +16,9 @@ Gets a value indicating whether an exception should be raised if a duplicate ele
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 
 ```C#
      protected override bool ThrowOnDuplicate { get; }

@@ -12,8 +12,9 @@ DelegateCommandBase.\_executeMethod Field
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected readonly Func&lt;Object, Task&gt; \_executeMethodProtected ReadOnly \_executeMethod As Func(Of Object, Task)
 #### Field Value

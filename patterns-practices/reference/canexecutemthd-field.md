@@ -12,8 +12,9 @@ DelegateCommandBase.\_canExecuteMethod Field
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected readonly Func&lt;Object, bool&gt; \_canExecuteMethodProtected ReadOnly \_canExecuteMethod As Func(Of Object, Boolean)
 #### Field Value

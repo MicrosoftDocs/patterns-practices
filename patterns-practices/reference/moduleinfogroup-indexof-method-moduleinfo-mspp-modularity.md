@@ -14,8 +14,9 @@ Determines the index of a specific item in the [IList&lt;(Of &lt;(T&gt;)&gt;)](h
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public int IndexOf( ModuleInfo item )Public Function IndexOf ( item As ModuleInfo ) As Integer
 #### Parameters

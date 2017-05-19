@@ -14,8 +14,9 @@ Creates a new child domain and copies the evidence from a parent domain.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected virtual AppDomain BuildChildDomain( AppDomain parentDomain )Protected Overridable Function BuildChildDomain ( parentDomain As AppDomain ) As AppDomain
 #### Parameters

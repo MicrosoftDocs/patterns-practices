@@ -16,8 +16,9 @@ Adds a command to the collection and signs up for the [CanExecuteChanged](http:/
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 ```C#
 public virtual void RegisterCommand(
 	ICommand command

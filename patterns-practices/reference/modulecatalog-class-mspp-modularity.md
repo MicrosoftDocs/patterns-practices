@@ -14,8 +14,9 @@ The ModuleCatalog holds information about the modules that can be used by the ap
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>[ContentPropertyAttribute("Items")\] public class ModuleCatalog : IModuleCatalog&lt;ContentPropertyAttribute("Items")&gt; Public Class ModuleCatalog Implements IModuleCatalog
 

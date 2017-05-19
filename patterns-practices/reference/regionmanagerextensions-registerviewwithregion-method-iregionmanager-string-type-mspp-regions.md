@@ -14,8 +14,9 @@ Associate a view with a region, by registering a type. When the region get's dis
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public static IRegionManager RegisterViewWithRegion( this IRegionManager regionManager, string regionName, Type viewType )&lt;ExtensionAttribute&gt; Public Shared Function RegisterViewWithRegion ( regionManager As IRegionManager, regionName As String, viewType As Type ) As IRegionManager
 #### Parameters

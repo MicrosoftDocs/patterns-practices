@@ -14,8 +14,9 @@ Handles AppDomain's AssemblyResolve event to be able to load assemblies dynamica
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public class AssemblyResolver : IAssemblyResolver, IDisposablePublic Class AssemblyResolver Implements IAssemblyResolver, IDisposable
 

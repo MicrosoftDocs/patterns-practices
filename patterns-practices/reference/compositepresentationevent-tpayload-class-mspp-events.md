@@ -14,8 +14,9 @@ Defines a class that manages publication and subscription to events.
 
 **Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/n:microsoft.practices.prism.events)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>[ObsoleteAttribute("Please use Prism.PubSubEvents.PubSubEvent.")\] public class CompositePresentationEvent&lt;TPayload&gt; : EventBase &lt;ObsoleteAttribute("Please use Prism.PubSubEvents.PubSubEvent.")&gt; Public Class CompositePresentationEvent(Of TPayload) Inherits EventBase
 Type Parameters

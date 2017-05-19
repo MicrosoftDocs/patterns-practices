@@ -14,8 +14,9 @@ The [INotification](https://msdn.microsoft.com/t:microsoft.practices.prism.inter
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>INotification Notification { get; set; }Property Notification As INotification Get Set
 #### Property Value

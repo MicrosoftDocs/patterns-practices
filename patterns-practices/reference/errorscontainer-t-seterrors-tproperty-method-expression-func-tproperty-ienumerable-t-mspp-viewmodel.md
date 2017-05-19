@@ -14,8 +14,9 @@ Sets the validation errors for the specified property.
 
 **Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/n:microsoft.practices.prism.viewmodel)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public void SetErrors&lt;TProperty&gt;( Expression&lt;Func&lt;TProperty&gt;&gt; propertyExpression, IEnumerable&lt;T&gt; propertyErrors ) Public Sub SetErrors(Of TProperty) ( propertyExpression As Expression(Of Func(Of TProperty)), propertyErrors As IEnumerable(Of T) )
 #### Parameters

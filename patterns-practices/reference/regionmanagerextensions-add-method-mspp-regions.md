@@ -14,8 +14,9 @@ Adds a region to the regionmanager with the name received as argument.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public static void Add( this IRegionCollection regionCollection, string regionName, IRegion region )&lt;ExtensionAttribute&gt; Public Shared Sub Add ( regionCollection As IRegionCollection, regionName As String, region As IRegion )
 #### Parameters

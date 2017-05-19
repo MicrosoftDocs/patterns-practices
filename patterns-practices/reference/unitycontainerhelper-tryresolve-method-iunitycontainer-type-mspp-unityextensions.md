@@ -14,8 +14,9 @@ Utility method to try to resolve a service from the container avoiding an except
 
 **Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public static Object TryResolve( this IUnityContainer container, Type typeToResolve )&lt;ExtensionAttribute&gt; Public Shared Function TryResolve ( container As IUnityContainer, typeToResolve As Type ) As Object
 #### Parameters

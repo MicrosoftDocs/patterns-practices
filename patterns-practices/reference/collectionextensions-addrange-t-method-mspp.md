@@ -14,8 +14,9 @@ Add a range of items to a collection.
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public static Collection&lt;T&gt; AddRange&lt;T&gt;( this Collection&lt;T&gt; collection, IEnumerable&lt;T&gt; items ) &lt;ExtensionAttribute&gt; Public Shared Function AddRange(Of T) ( collection As Collection(Of T), items As IEnumerable(Of T) ) As Collection(Of T)
 #### Parameters

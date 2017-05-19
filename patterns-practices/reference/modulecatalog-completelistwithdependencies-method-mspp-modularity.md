@@ -14,8 +14,9 @@ Returns a list of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public virtual IEnumerable&lt;ModuleInfo&gt; CompleteListWithDependencies( IEnumerable&lt;ModuleInfo&gt; modules )Public Overridable Function CompleteListWithDependencies ( modules As IEnumerable(Of ModuleInfo) ) As IEnumerable(Of ModuleInfo)
 #### Parameters

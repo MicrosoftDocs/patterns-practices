@@ -14,8 +14,9 @@ Raises this object's PropertyChanged event.
 
 **Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/n:microsoft.practices.prism.mvvm)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected void OnPropertyChanged&lt;T&gt;( Expression&lt;Func&lt;T&gt;&gt; propertyExpression ) Protected Sub OnPropertyChanged(Of T) ( propertyExpression As Expression(Of Func(Of T)) )
 #### Parameters

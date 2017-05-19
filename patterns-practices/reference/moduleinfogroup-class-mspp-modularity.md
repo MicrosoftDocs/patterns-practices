@@ -14,8 +14,9 @@ Represents a group of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practi
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public class ModuleInfoGroup : IModuleCatalogItem, IList&lt;ModuleInfo&gt;, ICollection&lt;ModuleInfo&gt;, IEnumerable&lt;ModuleInfo&gt;, IList, ICollection, IEnumerablePublic Class ModuleInfoGroup Implements IModuleCatalogItem, IList(Of ModuleInfo), ICollection(Of ModuleInfo), IEnumerable(Of ModuleInfo), IList, ICollection, IEnumerable
 

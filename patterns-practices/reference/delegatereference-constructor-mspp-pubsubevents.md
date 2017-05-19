@@ -14,8 +14,9 @@ Initializes a new instance of [DelegateReference](https://msdn.microsoft.com/t:m
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public DelegateReference( Delegate delegate, bool keepReferenceAlive )Public Sub New ( delegate As Delegate, keepReferenceAlive As Boolean )
 #### Parameters

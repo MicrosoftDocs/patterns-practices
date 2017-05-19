@@ -14,8 +14,9 @@ Dispatches an invocation to the method received as parameter.
 
 **Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/n:microsoft.practices.prism.events)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>void BeginInvoke( Delegate method, Object arg )Sub BeginInvoke ( method As Delegate, arg As Object )
 #### Parameters

@@ -14,8 +14,9 @@ Evaluates the [Ref](https://msdn.microsoft.com/p:microsoft.practices.prism.modul
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public bool CanLoadModuleType( ModuleInfo moduleInfo )Public Function CanLoadModuleType ( moduleInfo As ModuleInfo ) As Boolean
 #### Parameters

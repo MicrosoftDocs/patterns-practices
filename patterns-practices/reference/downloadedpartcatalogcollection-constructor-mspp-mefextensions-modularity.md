@@ -16,8 +16,9 @@ Initializes a new instance of the [DownloadedPartCatalogCollection](https://msdn
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 
 ```C#
 public DownloadedPartCatalogCollection()

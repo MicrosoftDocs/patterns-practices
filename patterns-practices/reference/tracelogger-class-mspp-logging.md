@@ -14,8 +14,9 @@ Implementation of [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practic
 
 **Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/n:microsoft.practices.prism.logging)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public class TraceLogger : ILoggerFacadePublic Class TraceLogger Implements ILoggerFacade
 

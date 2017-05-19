@@ -14,8 +14,9 @@ Gets the ClearChildViews attached property from a DependencyObject.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public static bool GetClearChildViews( DependencyObject target )Public Shared Function GetClearChildViews ( target As DependencyObject ) As Boolean
 #### Parameters

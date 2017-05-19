@@ -14,8 +14,9 @@ Extends EventSubscription to invoke the Action delegate in a specific [Dispatche
 
 **Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/n:microsoft.practices.prism.events)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>[ObsoleteAttribute\] public class DispatcherEventSubscription&lt;TPayload&gt; : EventSubscription&lt;TPayload&gt; &lt;ObsoleteAttribute&gt; Public Class DispatcherEventSubscription(Of TPayload) Inherits EventSubscription(Of TPayload)
 Type Parameters

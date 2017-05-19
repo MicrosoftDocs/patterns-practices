@@ -14,8 +14,9 @@ Defines a collection of [IRegion](https://msdn.microsoft.com/t:microsoft.practic
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public interface IRegionCollection : IEnumerable&lt;IRegion&gt;, IEnumerable, INotifyCollectionChangedPublic Interface IRegionCollection Inherits IEnumerable(Of IRegion), IEnumerable, INotifyCollectionChanged
 

@@ -14,8 +14,9 @@ Initializes a new instance of the [ModuleDownloadProgressChangedEventArgs](https
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public ModuleDownloadProgressChangedEventArgs( ModuleInfo moduleInfo, long bytesReceived, long totalBytesToReceive )Public Sub New ( moduleInfo As ModuleInfo, bytesReceived As Long, totalBytesToReceive As Long )
 #### Parameters

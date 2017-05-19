@@ -14,8 +14,9 @@ Determines whether the exception type is already registered using the [RegisterF
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public static bool IsFrameworkExceptionRegistered( Type frameworkExceptionType )Public Shared Function IsFrameworkExceptionRegistered ( frameworkExceptionType As Type ) As Boolean
 #### Parameters

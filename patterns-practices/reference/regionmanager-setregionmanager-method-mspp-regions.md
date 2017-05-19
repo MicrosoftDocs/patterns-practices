@@ -16,8 +16,9 @@ Sets the [RegionManagerProperty](https://msdn.microsoft.com/en-us/library/micros
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 
 ```C#
 public static void SetRegionManager(

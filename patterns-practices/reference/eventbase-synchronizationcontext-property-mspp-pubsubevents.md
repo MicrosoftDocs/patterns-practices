@@ -14,8 +14,9 @@ Allows the SynchronizationContext to be set by the EventAggregator for UI Thread
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public SynchronizationContext SynchronizationContext { get; set; }Public Property SynchronizationContext As SynchronizationContext Get Set
 #### Property Value

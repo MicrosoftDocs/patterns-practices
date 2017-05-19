@@ -14,8 +14,9 @@ Gets the name used to identify this collection of elements in the configuration 
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected override string ElementName { get; }Protected Overrides ReadOnly Property ElementName As String Get
 #### Property Value

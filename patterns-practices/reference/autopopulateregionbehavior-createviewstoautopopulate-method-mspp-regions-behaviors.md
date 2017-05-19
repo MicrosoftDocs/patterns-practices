@@ -14,8 +14,9 @@ Returns a collection of views that will be added to the View collection.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected virtual IEnumerable&lt;Object&gt; CreateViewsToAutoPopulate()Protected Overridable Function CreateViewsToAutoPopulate As IEnumerable(Of Object)
 #### Return Value

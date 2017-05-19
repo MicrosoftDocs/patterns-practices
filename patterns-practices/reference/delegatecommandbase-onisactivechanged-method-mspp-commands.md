@@ -14,8 +14,9 @@ This raises the [IsActiveChanged](https://msdn.microsoft.com/e:microsoft.practic
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected virtual void OnIsActiveChanged()Protected Overridable Sub OnIsActiveChanged
 

@@ -14,8 +14,9 @@ Defines a factory that allows the registration of the default set of [IRegionBeh
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public class RegionBehaviorFactory : IRegionBehaviorFactory, IEnumerable&lt;string&gt;, IEnumerablePublic Class RegionBehaviorFactory Implements IRegionBehaviorFactory, IEnumerable(Of String), IEnumerable
 

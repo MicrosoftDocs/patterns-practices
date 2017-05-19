@@ -14,8 +14,9 @@ Executes the command with the provided parameter by invoking the [Action&lt;(Of 
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected Task Execute( Object parameter )Protected Function Execute ( parameter As Object ) As Task
 #### Parameters

@@ -14,8 +14,9 @@ Gets the [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected ILoggerFacade Logger { get; set; }Protected Property Logger As ILoggerFacade Get Set
 #### Property Value

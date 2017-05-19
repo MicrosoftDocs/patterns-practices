@@ -14,8 +14,9 @@ Handles any exception occurred in the module Initialization process, logs the er
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public virtual void HandleModuleInitializationError( ModuleInfo moduleInfo, string assemblyName, Exception exception )Public Overridable Sub HandleModuleInitializationError ( moduleInfo As ModuleInfo, assemblyName As String, exception As Exception )
 #### Parameters

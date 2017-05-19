@@ -16,8 +16,9 @@ Adapts an object and binds it to a new [IRegion](https://msdn.microsoft.com/en-u
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 ```C#
 public IRegion Initialize( T regionTarget, string regionName )
 ```

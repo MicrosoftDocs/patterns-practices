@@ -14,8 +14,9 @@ Checks if the module needs to be retrieved before it's initialized.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected virtual bool ModuleNeedsRetrieval( ModuleInfo moduleInfo )Protected Overridable Function ModuleNeedsRetrieval ( moduleInfo As ModuleInfo ) As Boolean
 #### Parameters

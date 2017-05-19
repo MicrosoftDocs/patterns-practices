@@ -16,8 +16,9 @@ Gets or sets a value indicating whether the wrapped item is considered active.
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 ```C#
 public bool IsActive { get; set; }
 ```

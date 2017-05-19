@@ -14,8 +14,9 @@ An [ICommand](http://msdn2.microsoft.com/en-us/library/ms616869) whose delegates
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public class DelegateCommand&lt;T&gt; : DelegateCommandBase Public Class DelegateCommand(Of T) Inherits DelegateCommandBase
 Type Parameters

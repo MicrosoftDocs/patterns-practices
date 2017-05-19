@@ -16,8 +16,9 @@ Initiates navigation to the target specified by the [Uri](http://msdn2.microsoft
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 
 ```C#
 void RequestNavigate(

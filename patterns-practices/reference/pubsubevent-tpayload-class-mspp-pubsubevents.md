@@ -14,8 +14,9 @@ Defines a class that manages publication and subscription to events.
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public class PubSubEvent&lt;TPayload&gt; : EventBase Public Class PubSubEvent(Of TPayload) Inherits EventBase
 Type Parameters

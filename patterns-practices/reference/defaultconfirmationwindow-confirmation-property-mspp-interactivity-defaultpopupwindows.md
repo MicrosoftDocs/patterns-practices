@@ -14,8 +14,9 @@ Sets or gets the [IConfirmation](https://msdn.microsoft.com/t:microsoft.practice
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.defaultpopupwindows)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public IConfirmation Confirmation { get; set; }Public Property Confirmation As IConfirmation Get Set
 #### Property Value

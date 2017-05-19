@@ -14,8 +14,9 @@ Gets the list of all the registered commands.
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public IList&lt;ICommand&gt; RegisteredCommands { get; }Public ReadOnly Property RegisteredCommands As IList(Of ICommand) Get
 #### Property Value

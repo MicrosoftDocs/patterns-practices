@@ -14,8 +14,9 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected IRegionBehaviorFactory RegionBehaviorFactory { get; set; }Protected Property RegionBehaviorFactory As IRegionBehaviorFactory Get Set
 #### Property Value

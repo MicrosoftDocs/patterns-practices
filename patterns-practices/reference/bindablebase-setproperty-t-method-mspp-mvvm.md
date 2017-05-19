@@ -14,8 +14,9 @@ Checks if a property already matches a desired value. Sets the property and noti
 
 **Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/n:microsoft.practices.prism.mvvm)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected virtual bool SetProperty&lt;T&gt;( ref T storage, T value, string propertyName = null ) Protected Overridable Function SetProperty(Of T) ( ByRef storage As T, value As T, Optional propertyName As String = Nothing ) As Boolean
 #### Parameters

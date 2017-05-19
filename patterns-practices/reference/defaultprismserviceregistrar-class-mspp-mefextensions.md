@@ -14,8 +14,9 @@ DefaultPrismServiceRegistrationAgent allows the Prism required types to be regis
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public static class DefaultPrismServiceRegistrarPublic NotInheritable Class DefaultPrismServiceRegistrar
 

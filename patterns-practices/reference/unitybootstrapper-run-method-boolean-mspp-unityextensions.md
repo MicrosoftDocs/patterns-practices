@@ -14,8 +14,9 @@ Run the bootstrapper process.
 
 **Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public override void Run( bool runWithDefaultConfiguration )Public Overrides Sub Run ( runWithDefaultConfiguration As Boolean )
 #### Parameters

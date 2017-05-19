@@ -14,8 +14,9 @@ Helper class for parsing [Uri](http://msdn2.microsoft.com/en-us/library/txt7706a
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>public static class UriParsingHelperPublic NotInheritable Class UriParsingHelper
 

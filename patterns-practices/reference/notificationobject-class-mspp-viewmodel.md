@@ -14,8 +14,9 @@ Base class for items that support property notification.
 
 **Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/n:microsoft.practices.prism.viewmodel)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>[SerializableAttribute\] [ObsoleteAttribute("Please use Prism.Mvvm.BindableBase")\] public abstract class NotificationObject : INotifyPropertyChanged&lt;SerializableAttribute&gt; &lt;ObsoleteAttribute("Please use Prism.Mvvm.BindableBase")&gt; Public MustInherit Class NotificationObject Implements INotifyPropertyChanged
 

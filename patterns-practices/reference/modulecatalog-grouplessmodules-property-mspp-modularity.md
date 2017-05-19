@@ -14,8 +14,9 @@ Returns the list of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practice
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+
+## Syntax
+
 
 <span id="syntaxToggle"></span>protected IEnumerable&lt;ModuleInfo&gt; GrouplessModules { get; }Protected ReadOnly Property GrouplessModules As IEnumerable(Of ModuleInfo) Get
 #### Property Value
