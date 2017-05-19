@@ -11,13 +11,30 @@ The [IViewsCollection](https://msdn.microsoft.com/en-us/library/microsoft.practi
 
 ## Events
 
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Gg430905.pubevent(en-us,PandP.50).gif "Public event")
-[CollectionChanged](http://msdn2.microsoft.com/en-us/library/ms653382)
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg430905.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td><a href="http://msdn2.microsoft.com/en-us/library/ms653382">CollectionChanged</a></td>
+<td><div class="summary">
 Occurs when the collection changes.
-
-(Inherited from [INotifyCollectionChanged](http://msdn2.microsoft.com/en-us/library/ms668629).)
+</div>
+(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/ms668629">INotifyCollectionChanged</a>.)</td>
+</tr>
+</tbody>
+</table>
 
 ## See Also
 
