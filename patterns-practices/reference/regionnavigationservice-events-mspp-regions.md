@@ -15,21 +15,43 @@ The [RegionNavigationService](https://msdn.microsoft.com/en-us/library/microsoft
 Events
 ------
 
-<span id="eventTableToggle"></span>
- 
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Gg430908.pubevent(en-us,PandP.50).gif "Public event")
-[Navigated](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice.navigated(v=pandp.50))
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg430908.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td><a href="https://msdn.microsoft.com/e:microsoft.practices.prism.regions.regionnavigationservice.navigated">Navigated</a></td>
+<td><div class="summary">
 Raised when the region is navigated to content.
-
-![](https://msdn.microsoft.com/en-us/Gg430908.pubevent(en-us,PandP.50).gif "Public event")
-[Navigating](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice.navigating(v=pandp.50))
+</div></td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Gg430908.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td><a href="https://msdn.microsoft.com/e:microsoft.practices.prism.regions.regionnavigationservice.navigating">Navigating</a></td>
+<td><div class="summary">
 Raised when the region is about to be navigated to content.
-
-![](https://msdn.microsoft.com/en-us/Gg430908.pubevent(en-us,PandP.50).gif "Public event")
-[NavigationFailed](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice.navigationfailed(v=pandp.50))
+</div></td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg430908.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td><a href="https://msdn.microsoft.com/e:microsoft.practices.prism.regions.regionnavigationservice.navigationfailed">NavigationFailed</a></td>
+<td><div class="summary">
 Raised when a navigation request fails.
+</div></td>
+</tr>
+</tbody>
+</table>
 
 See Also
 --------
