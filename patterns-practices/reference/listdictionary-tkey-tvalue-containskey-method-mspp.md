@@ -40,12 +40,12 @@ The key to locate.
 
 ### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 true if the dictionary contains the given key; otherwise, false.
 ### Implements
 
-[IDictionary&lt;TKey, TValue&gt;.ContainsKey(TKey)](http://msdn2.microsoft.com/en-us/library/htszx2dy)
+[IDictionary&lt;TKey, TValue&gt;.ContainsKey(TKey)](http://msdn.microsoft.com/en-us/library/htszx2dy)
 
 See Also
 --------

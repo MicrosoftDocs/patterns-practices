@@ -28,25 +28,25 @@ Disposes the associated [IModuleTypeLoader](https://msdn.microsoft.com/en-us/lib
 
 (Inherited from [ModuleManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager(v=pandp.50)).)
 ![](https://msdn.microsoft.com/en-us/Gg431012.pubmethod(en-us,PandP.50).gif "Public method")
-[Equals](http://msdn2.microsoft.com/en-us/library/bsc2ak47)
-Determines whether the specified [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).
+[Equals](http://msdn.microsoft.com/en-us/library/bsc2ak47)
+Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 ![](https://msdn.microsoft.com/en-us/Gg431012.protmethod(en-us,PandP.50).gif "Protected method")
-[Finalize](http://msdn2.microsoft.com/en-us/library/4k87zsw7)
+[Finalize](http://msdn.microsoft.com/en-us/library/4k87zsw7)
 Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 ![](https://msdn.microsoft.com/en-us/Gg431012.pubmethod(en-us,PandP.50).gif "Public method")
-[GetHashCode](http://msdn2.microsoft.com/en-us/library/zdee4b3y)
+[GetHashCode](http://msdn.microsoft.com/en-us/library/zdee4b3y)
 Serves as a hash function for a particular type.
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 ![](https://msdn.microsoft.com/en-us/Gg431012.pubmethod(en-us,PandP.50).gif "Public method")
-[GetType](http://msdn2.microsoft.com/en-us/library/dfwy45w9)
-Gets the [Type](http://msdn2.microsoft.com/en-us/library/42892f65) of the current instance.
+[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)
+Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 ![](https://msdn.microsoft.com/en-us/Gg431012.protmethod(en-us,PandP.50).gif "Protected method")
 [HandleModuleTypeLoadingError](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager.handlemoduletypeloadingerror(v=pandp.50))
 Handles any exception occurred in the module typeloading process, logs the error using the [ILoggerFacade](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.iloggerfacade(v=pandp.50)) and throws a [ModuleTypeLoadingException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadingexception(v=pandp.50).) This method can be overridden to provide a different behavior.
@@ -63,10 +63,10 @@ Loads the modules that are not intialized and have their dependencies loaded.
 
 (Inherited from [ModuleManager](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulemanager).)
 ![](https://msdn.microsoft.com/en-us/Gg431012.protmethod(en-us,PandP.50).gif "Protected method")
-[MemberwiseClone](http://msdn2.microsoft.com/en-us/library/57ctke0a)
-Creates a shallow copy of the current [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).
+[MemberwiseClone](http://msdn.microsoft.com/en-us/library/57ctke0a)
+Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 ![](https://msdn.microsoft.com/en-us/Gg431012.protmethod(en-us,PandP.50).gif "Protected method")
 [ModuleNeedsRetrieval](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager.moduleneedsretrieval(v=pandp.50))
 Checks if the module needs to be retrieved before it's initialized.
@@ -82,10 +82,10 @@ Initializes the modules marked as [WhenAvailable](https://msdn.microsoft.com/en-
 
 (Inherited from [ModuleManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager(v=pandp.50)).)
 ![](https://msdn.microsoft.com/en-us/Gg431012.pubmethod(en-us,PandP.50).gif "Public method")
-[ToString](http://msdn2.microsoft.com/en-us/library/7bxwbwt2)
+[ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)
 Returns a string that represents the current object.
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 
 ## See Also
 

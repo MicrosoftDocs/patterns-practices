@@ -20,12 +20,12 @@ Gets or sets the [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.p
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModuleInfo this[ int index \] { get; set; }Public Default Property Item ( index As Integer ) As ModuleInfo Get Set
+public ModuleInfo this[ int index \] { get; set; }Public Default Property Item ( index As Integer ) As ModuleInfo Get Set
 
 ### Parameters
 
 index  
-Type: [System.Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
+Type: [System.Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
 
 ### Property Value
 
@@ -33,7 +33,7 @@ Type: [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modula
 The [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) at the specified index
 ### Implements
 
-[IList&lt;(Of &lt;(T&gt;)&gt;).Item[([(Int32\])\])](http://msdn2.microsoft.com/en-us/library/ewthkb10)
+[IList&lt;(Of &lt;(T&gt;)&gt;).Item[([(Int32\])\])](http://msdn.microsoft.com/en-us/library/ewthkb10)
 
 See Also
 --------

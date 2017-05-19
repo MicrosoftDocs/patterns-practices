@@ -20,7 +20,7 @@ Attempts to resolve specified type from the underlying IServiceLocator.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static Object TryResolve( this IServiceLocator locator, Type type )&lt;ExtensionAttribute&gt; Public Shared Function TryResolve ( locator As IServiceLocator, type As Type ) As Object
+public static Object TryResolve( this IServiceLocator locator, Type type )&lt;ExtensionAttribute&gt; Public Shared Function TryResolve ( locator As IServiceLocator, type As Type ) As Object
 
 ### Parameters
 
@@ -29,12 +29,12 @@ Type: IServiceLocator
 Locator to use in resolving.
 
 type  
-Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 Type to resolve.
 
 ### Return Value
 
-Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 T or null
 ### Usage Note
 
@@ -51,7 +51,7 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                             | Condition                                                                            |
 |---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
-| [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | Thrown when locator is nullNothingnullptra null reference (Nothing in Visual Basic). |
+| [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | Thrown when locator is nullNothingnullptra null reference (Nothing in Visual Basic). |
 
 See Also
 --------

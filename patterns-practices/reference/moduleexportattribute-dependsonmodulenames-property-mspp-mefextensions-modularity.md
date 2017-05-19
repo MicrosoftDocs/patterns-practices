@@ -34,7 +34,7 @@ Public Property DependsOnModuleNames As String()
 
 ### Property Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)[]
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)[]
 ### Implements
 
 [IModuleExport.DependsOnModuleNames](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport.dependsonmodulenames(v=pandp.50))

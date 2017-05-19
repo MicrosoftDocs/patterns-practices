@@ -20,7 +20,7 @@ Initializes a new instance of the [UpdateRegionsException](https://msdn.microsof
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public UpdateRegionsException()Public Sub New
+public UpdateRegionsException()Public Sub New
 
 See Also
 --------

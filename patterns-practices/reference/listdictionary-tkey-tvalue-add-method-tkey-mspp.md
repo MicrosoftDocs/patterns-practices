@@ -20,7 +20,7 @@ If a list does not already exist, it will be created automatically.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void Add( TKey key )Public Sub Add ( key As TKey )
+public void Add( TKey key )Public Sub Add ( key As TKey )
 
 ### Parameters
 

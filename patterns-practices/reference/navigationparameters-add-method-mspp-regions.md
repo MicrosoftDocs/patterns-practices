@@ -20,16 +20,16 @@ Adds the specified key and value.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void Add( string key, Object value )Public Sub Add ( key As String, value As Object )
+public void Add( string key, Object value )Public Sub Add ( key As String, value As Object )
 
 ### Parameters
 
 key  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name.
 
 value  
-Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The value.
 
 See Also

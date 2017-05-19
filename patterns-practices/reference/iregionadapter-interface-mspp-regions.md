@@ -20,7 +20,7 @@ Defines an interfaces to adapt an object and bind it to a new [IRegion](https://
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IRegionAdapterPublic Interface IRegionAdapter
+public interface IRegionAdapterPublic Interface IRegionAdapter
 
 See Also
 --------

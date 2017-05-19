@@ -20,7 +20,7 @@ When implemented, allows an instance placed in a [IRegion](https://msdn.microsof
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IRegionMemberLifetimePublic Interface IRegionMemberLifetime
+public interface IRegionMemberLifetimePublic Interface IRegionMemberLifetime
 
 See Also
 --------

@@ -18,7 +18,7 @@ Gets the information related to the event.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public TData Value { get; }Public ReadOnly Property Value As TData Get
+public TData Value { get; }Public ReadOnly Property Value As TData Get
 ### Property Value
 
 Type: [TData](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.dataeventargs%601)

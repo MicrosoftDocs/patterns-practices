@@ -41,7 +41,7 @@ Public Sub New (
 
 *callback*
 
-	Type: [System.Action](http://msdn2.microsoft.com/en-us/library/bb534741)
+	Type: [System.Action](http://msdn.microsoft.com/en-us/library/bb534741)
 
 ## See Also
 

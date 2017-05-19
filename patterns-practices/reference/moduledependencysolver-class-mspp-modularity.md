@@ -20,12 +20,12 @@ Used by [ModuleInitializer](https://msdn.microsoft.com/t:microsoft.practices.pri
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class ModuleDependencySolverPublic Class ModuleDependencySolver
+public class ModuleDependencySolverPublic Class ModuleDependencySolver
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Modularity.ModuleDependencySolver
 
 See Also

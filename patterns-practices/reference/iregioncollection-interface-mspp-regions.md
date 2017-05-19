@@ -20,7 +20,7 @@ Defines a collection of [IRegion](https://msdn.microsoft.com/t:microsoft.practic
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IRegionCollection : IEnumerable&lt;IRegion&gt;, IEnumerable, INotifyCollectionChangedPublic Interface IRegionCollection Inherits IEnumerable(Of IRegion), IEnumerable, INotifyCollectionChanged
+public interface IRegionCollection : IEnumerable&lt;IRegion&gt;, IEnumerable, INotifyCollectionChangedPublic Interface IRegionCollection Inherits IEnumerable(Of IRegion), IEnumerable, INotifyCollectionChanged
 
 See Also
 --------

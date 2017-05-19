@@ -33,17 +33,17 @@ public ModuleCatalog AddModule(
 ### Parameters
 
 *moduleName*  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 Name of the module to be added.
 
 *moduleType*  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-[Type](http://msdn2.microsoft.com/en-us/library/42892f65) of the module to be added.
+[Type](http://msdn.microsoft.com/en-us/library/42892f65) of the module to be added.
 
 *refValue*  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 Reference to the location of the module to be added assembly.
 
@@ -53,7 +53,7 @@ Type: [Microsoft.Practices.Prism.Modularity.InitializationMode](https://msdn.mic
 Stage on which the module to be added will be initialized.
 
 *dependsOn*  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)[]
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)[]
 
 Collection of module names ([ModuleName](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo.modulename(v=pandp.50))) of the modules on which the module to be added logically depends on.
 
@@ -100,17 +100,17 @@ Public Function AddModule (
 ### Parameters
 
 *moduleName*  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 Name of the module to be added.
 
 *moduleType*  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-[Type](http://msdn2.microsoft.com/en-us/library/42892f65) of the module to be added.
+[Type](http://msdn.microsoft.com/en-us/library/42892f65) of the module to be added.
 
 *refValue*  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 Reference to the location of the module to be added assembly.
 
@@ -120,7 +120,7 @@ Type: [Microsoft.Practices.Prism.Modularity.InitializationMode](https://msdn.mic
 Stage on which the module to be added will be initialized.
 
 *dependsOn*  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)()
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)()
 
 Collection of module names ([ModuleName](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo.modulename(v=pandp.50))) of the modules on which the module to be added logically depends on.
 

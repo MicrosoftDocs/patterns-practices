@@ -20,7 +20,7 @@ Defines the interface for the service that will retrieve and initialize the appl
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IModuleManagerPublic Interface IModuleManager
+public interface IModuleManagerPublic Interface IModuleManager
 
 See Also
 --------

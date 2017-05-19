@@ -22,13 +22,13 @@ Exception thrown when a requested [OnDemand](https://msdn.microsoft.com/t:micros
 ## Syntax
 
 
-<span id="syntaxToggle"></span>[SerializableAttribute\] public class ModuleNotFoundException : ModularityException&lt;SerializableAttribute&gt; Public Class ModuleNotFoundException Inherits ModularityException
+[SerializableAttribute\] public class ModuleNotFoundException : ModularityException&lt;SerializableAttribute&gt; Public Class ModuleNotFoundException Inherits ModularityException
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
     [Microsoft.Practices.Prism.Modularity.ModularityException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modularityexception)
       Microsoft.Practices.Prism.Modularity.ModuleNotFoundException
 

@@ -30,7 +30,7 @@ Public NotInheritable Class ExceptionExtensions
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
   Microsoft.Practices.Prism.ExceptionExtensions
 

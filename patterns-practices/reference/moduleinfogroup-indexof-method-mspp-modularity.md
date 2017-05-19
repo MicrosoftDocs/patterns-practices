@@ -39,7 +39,7 @@ Determines the index of a specific item in the <a href="https://msdn.microsoft.c
 <td><img src="https://msdn.microsoft.com/en-us/Gg419104.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinfogroup.indexof(microsoft.practices.prism.modularity.moduleinfo)">IndexOf(ModuleInfo)</a></td>
 <td><div class="summary">
-Determines the index of a specific item in the <a href="http://msdn2.microsoft.com/en-us/library/5y536ey6">IList&lt;(Of &lt;(T&gt;)&gt;)</a>.
+Determines the index of a specific item in the <a href="http://msdn.microsoft.com/en-us/library/5y536ey6">IList&lt;(Of &lt;(T&gt;)&gt;)</a>.
 </div></td>
 </tr>
 </tbody>

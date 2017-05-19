@@ -20,13 +20,13 @@ Indicates that the class should be considered a named module using the provided 
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public sealed class ModuleAttribute : AttributePublic NotInheritable Class ModuleAttribute Inherits Attribute
+public sealed class ModuleAttribute : AttributePublic NotInheritable Class ModuleAttribute Inherits Attribute
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System.Attribute](http://msdn2.microsoft.com/en-us/library/e8kc3626)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [System.Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626)
     Microsoft.Practices.Prism.Modularity.ModuleAttribute
 
 See Also

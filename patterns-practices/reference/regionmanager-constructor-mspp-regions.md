@@ -20,7 +20,7 @@ Initializes a new instance of [RegionManager](https://msdn.microsoft.com/t:micro
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public RegionManager()Public Sub New
+public RegionManager()Public Sub New
 
 See Also
 --------

@@ -42,7 +42,7 @@ Public Shared Sub SetRegionManager (
 
 *target*
 
-  Type: [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
+  Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
 
   The target element.
 

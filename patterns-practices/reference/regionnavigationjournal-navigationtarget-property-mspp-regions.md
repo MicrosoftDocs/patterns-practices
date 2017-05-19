@@ -20,7 +20,7 @@ Gets or sets the target that implements INavigate.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public INavigateAsync NavigationTarget { get; set; }Public Property NavigationTarget As INavigateAsync Get Set
+public INavigateAsync NavigationTarget { get; set; }Public Property NavigationTarget As INavigateAsync Get Set
 ### Property Value
 
 Type: [INavigateAsync](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigateasync)

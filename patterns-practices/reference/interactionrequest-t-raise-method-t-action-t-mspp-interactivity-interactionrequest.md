@@ -20,7 +20,7 @@ Fires the Raised event.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void Raise( T context, Action&lt;T&gt; callback )Public Sub Raise ( context As T, callback As Action(Of T) )
+public void Raise( T context, Action&lt;T&gt; callback )Public Sub Raise ( context As T, callback As Action(Of T) )
 
 ### Parameters
 
@@ -29,7 +29,7 @@ Type: [T](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.i
 The context for the interaction request.
 
 callback  
-Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)&gt;)&gt;)
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)&gt;)&gt;)
 The callback to execute when the interaction is completed.
 
 See Also

@@ -32,11 +32,11 @@ Events
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430900.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/ms653382">CollectionChanged</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms653382">CollectionChanged</a></td>
 <td><div class="summary">
 Occurs when the collection changes.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/ms668629">INotifyCollectionChanged</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms668629">INotifyCollectionChanged</a>.)</td>
 </tr>
 </tbody>
 </table>

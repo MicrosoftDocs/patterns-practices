@@ -20,7 +20,7 @@ Initializes a new instance of the [MefContentControlRegionAdapter](https://msdn.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public MefContentControlRegionAdapter( IRegionBehaviorFactory regionBehaviorFactory )Public Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
+public MefContentControlRegionAdapter( IRegionBehaviorFactory regionBehaviorFactory )Public Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
 
 ### Parameters
 

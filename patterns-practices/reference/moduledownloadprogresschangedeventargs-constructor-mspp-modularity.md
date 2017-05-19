@@ -20,7 +20,7 @@ Initializes a new instance of the [ModuleDownloadProgressChangedEventArgs](https
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModuleDownloadProgressChangedEventArgs( ModuleInfo moduleInfo, long bytesReceived, long totalBytesToReceive )Public Sub New ( moduleInfo As ModuleInfo, bytesReceived As Long, totalBytesToReceive As Long )
+public ModuleDownloadProgressChangedEventArgs( ModuleInfo moduleInfo, long bytesReceived, long totalBytesToReceive )Public Sub New ( moduleInfo As ModuleInfo, bytesReceived As Long, totalBytesToReceive As Long )
 
 ### Parameters
 
@@ -29,11 +29,11 @@ Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.c
 The module info.
 
 bytesReceived  
-Type: [System.Int64](http://msdn2.microsoft.com/en-us/library/6yy583ek)
+Type: [System.Int64](http://msdn.microsoft.com/en-us/library/6yy583ek)
 The bytes received.
 
 totalBytesToReceive  
-Type: [System.Int64](http://msdn2.microsoft.com/en-us/library/6yy583ek)
+Type: [System.Int64](http://msdn.microsoft.com/en-us/library/6yy583ek)
 The total bytes to receive.
 
 See Also

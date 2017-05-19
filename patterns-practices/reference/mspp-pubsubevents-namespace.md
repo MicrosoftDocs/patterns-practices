@@ -45,14 +45,14 @@ Generic arguments class to pass to event handlers that need to receive data.
 <td><img src="https://msdn.microsoft.com/en-us/Dn683966.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.delegatereference(v=pandp.50)">DelegateReference</a></td>
 <td><div class="summary">
-Represents a reference to a <a href="http://msdn2.microsoft.com/en-us/library/y22acf51">Delegate</a> that may contain a <a href="http://msdn2.microsoft.com/en-us/library/hbh8w2zd">WeakReference</a> to the target. This class is used internally by the Prism Library.
+Represents a reference to a <a href="http://msdn.microsoft.com/en-us/library/y22acf51">Delegate</a> that may contain a <a href="http://msdn.microsoft.com/en-us/library/hbh8w2zd">WeakReference</a> to the target. This class is used internally by the Prism Library.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn683966.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/dn736239(v=pandp.50)">DispatcherEventSubscription&lt;TPayload&gt;</a></td>
 <td><div class="summary">
-Extends <a href="https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)">EventSubscription&lt;TPayload&gt;</a> to invoke the <a href="https://msdn.microsoft.com/en-us/library/dn736296(v=pandp.50)">Action</a> delegate in a specific <a href="http://msdn2.microsoft.com/en-us/library/wx31754f">SynchronizationContext</a>.
+Extends <a href="https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)">EventSubscription&lt;TPayload&gt;</a> to invoke the <a href="https://msdn.microsoft.com/en-us/library/dn736296(v=pandp.50)">Action</a> delegate in a specific <a href="http://msdn.microsoft.com/en-us/library/wx31754f">SynchronizationContext</a>.
 </div></td>
 </tr>
 <tr class="odd">
@@ -73,7 +73,7 @@ Defines a base class to publish and subscribe to events.
 <td><img src="https://msdn.microsoft.com/en-us/Dn683966.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)">EventSubscription&lt;TPayload&gt;</a></td>
 <td><div class="summary">
-Provides a way to retrieve a <a href="http://msdn2.microsoft.com/en-us/library/y22acf51">Delegate</a> to execute an action depending on the value of a second filter predicate that returns true if the action should execute.
+Provides a way to retrieve a <a href="http://msdn.microsoft.com/en-us/library/y22acf51">Delegate</a> to execute an action depending on the value of a second filter predicate that returns true if the action should execute.
 </div></td>
 </tr>
 <tr class="even">
@@ -114,7 +114,7 @@ Subscription token returned from <a href="https://msdn.microsoft.com/en-us/libra
 <td><img src="https://msdn.microsoft.com/en-us/Dn683966.pubinterface(en-us,PandP.50).gif" title="Public interface" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50)">IDelegateReference</a></td>
 <td><div class="summary">
-Represents a reference to a <a href="http://msdn2.microsoft.com/en-us/library/y22acf51">Delegate</a>.
+Represents a reference to a <a href="http://msdn.microsoft.com/en-us/library/y22acf51">Delegate</a>.
 </div></td>
 </tr>
 <tr class="even">

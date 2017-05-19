@@ -20,7 +20,7 @@ Initializes a new instance of [ModuleDependencyCollection](https://msdn.microsof
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModuleDependencyCollection()Public Sub New
+public ModuleDependencyCollection()Public Sub New
 
 See Also
 --------

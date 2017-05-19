@@ -20,17 +20,17 @@ Returns a list of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public virtual IEnumerable&lt;ModuleInfo&gt; CompleteListWithDependencies( IEnumerable&lt;ModuleInfo&gt; modules )Public Overridable Function CompleteListWithDependencies ( modules As IEnumerable(Of ModuleInfo) ) As IEnumerable(Of ModuleInfo)
+public virtual IEnumerable&lt;ModuleInfo&gt; CompleteListWithDependencies( IEnumerable&lt;ModuleInfo&gt; modules )Public Overridable Function CompleteListWithDependencies ( modules As IEnumerable(Of ModuleInfo) ) As IEnumerable(Of ModuleInfo)
 
 ### Parameters
 
 modules  
-Type: [System.Collections.Generic.IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;)&gt;)
+Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;)&gt;)
 The modules to get the dependencies for.
 
 ### Return Value
 
-Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;)&gt;)
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;)&gt;)
 A list of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) that contains both all [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)s in modules but also all the [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) they depend on.
 ### Implements
 

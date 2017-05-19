@@ -20,7 +20,7 @@ Creates a new region manager.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public IRegionManager CreateRegionManager()Public Function CreateRegionManager As IRegionManager
+public IRegionManager CreateRegionManager()Public Function CreateRegionManager As IRegionManager
 ### Return Value
 
 Type: [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)

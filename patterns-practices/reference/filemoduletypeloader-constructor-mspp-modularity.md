@@ -20,7 +20,7 @@ Initializes a new instance of the [FileModuleTypeLoader](https://msdn.microsoft.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public FileModuleTypeLoader()Public Sub New
+public FileModuleTypeLoader()Public Sub New
 
 See Also
 --------

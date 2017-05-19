@@ -31,7 +31,7 @@ The [SelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/en-us/library/m
 <td><img src="https://msdn.microsoft.com/en-us/Gg431192.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior.hostcontrol">HostControl</a></td>
 <td><div class="summary">
-Gets or sets the <a href="http://msdn2.microsoft.com/en-us/library/ms589309">DependencyObject</a> that the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion">IRegion</a> is attached to.
+Gets or sets the <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a> that the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion">IRegion</a> is attached to.
 </div></td>
 </tr>
 <tr class="even">

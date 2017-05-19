@@ -20,7 +20,7 @@ This is the expected catalog definition for the ModuleManager. The ModuleCatalog
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IModuleCatalogPublic Interface IModuleCatalog
+public interface IModuleCatalogPublic Interface IModuleCatalog
 
 See Also
 --------

@@ -20,10 +20,10 @@ Gets or sets the title to use for the notification.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>string Title { get; set; }Property Title As String Get Set
+string Title { get; set; }Property Title As String Get Set
 ### Property Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 See Also
 --------

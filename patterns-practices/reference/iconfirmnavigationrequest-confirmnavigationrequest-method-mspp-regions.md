@@ -20,7 +20,7 @@ Determines whether this instance accepts being navigated away from.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>void ConfirmNavigationRequest( NavigationContext navigationContext, Action&lt;bool&gt; continuationCallback )Sub ConfirmNavigationRequest ( navigationContext As NavigationContext, continuationCallback As Action(Of Boolean) )
+void ConfirmNavigationRequest( NavigationContext navigationContext, Action&lt;bool&gt; continuationCallback )Sub ConfirmNavigationRequest ( navigationContext As NavigationContext, continuationCallback As Action(Of Boolean) )
 
 ### Parameters
 
@@ -29,7 +29,7 @@ Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microso
 The navigation context.
 
 continuationCallback  
-Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
 The callback to indicate when navigation can proceed.
 
 Remarks

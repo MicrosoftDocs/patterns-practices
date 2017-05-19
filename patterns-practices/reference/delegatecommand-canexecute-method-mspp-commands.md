@@ -18,10 +18,10 @@ Determines if the command can be executed.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public virtual bool CanExecute()Public Overridable Function CanExecute As Boolean
+public virtual bool CanExecute()Public Overridable Function CanExecute As Boolean
 ### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 Returns trueTruetruetrue (True in Visual Basic) if the command can execute, otherwise returns falseFalsefalsefalse (False in Visual Basic).
 
 See Also

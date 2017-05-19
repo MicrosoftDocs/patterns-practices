@@ -20,7 +20,7 @@ Gets or sets the store where the configuration is kept.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public IConfigurationStore Store { get; set; }Public Property Store As IConfigurationStore Get Set
+public IConfigurationStore Store { get; set; }Public Property Store As IConfigurationStore Get Set
 ### Property Value
 
 Type: [IConfigurationStore](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.iconfigurationstore)

@@ -20,7 +20,7 @@ Template method to attach new behaviors.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void AttachBehaviors( IRegion region, T regionTarget )Protected Overridable Sub AttachBehaviors ( region As IRegion, regionTarget As T )
+protected virtual void AttachBehaviors( IRegion region, T regionTarget )Protected Overridable Sub AttachBehaviors ( region As IRegion, regionTarget As T )
 
 ### Parameters
 

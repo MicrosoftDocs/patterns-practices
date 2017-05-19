@@ -20,16 +20,16 @@ Adds a particular type of RegionBehavior if it was not already registered. the b
 ## Syntax
 
 
-<span id="syntaxToggle"></span>void AddIfMissing( string behaviorKey, Type behaviorType )Sub AddIfMissing ( behaviorKey As String, behaviorType As Type )
+void AddIfMissing( string behaviorKey, Type behaviorType )Sub AddIfMissing ( behaviorKey As String, behaviorType As Type )
 
 ### Parameters
 
 behaviorKey  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The behavior key that's used to find if a certain behavior is already added.
 
 behaviorType  
-Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 Type of the behavior to add. .
 
 See Also

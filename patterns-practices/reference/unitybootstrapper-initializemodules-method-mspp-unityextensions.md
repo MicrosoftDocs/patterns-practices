@@ -20,7 +20,7 @@ Initializes the modules. May be overwritten in a derived class to use a custom M
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected override void InitializeModules()Protected Overrides Sub InitializeModules
+protected override void InitializeModules()Protected Overrides Sub InitializeModules
 
 See Also
 --------

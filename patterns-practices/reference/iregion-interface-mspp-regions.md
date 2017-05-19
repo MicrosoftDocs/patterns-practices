@@ -20,7 +20,7 @@ Defines a model that can be used to compose views.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IRegion : INavigateAsync, INotifyPropertyChangedPublic Interface IRegion Inherits INavigateAsync, INotifyPropertyChanged
+public interface IRegion : INavigateAsync, INotifyPropertyChangedPublic Interface IRegion Inherits INavigateAsync, INotifyPropertyChanged
 
 See Also
 --------

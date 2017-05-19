@@ -30,10 +30,10 @@ Public Function GetEnumerator As IEnumerator(Of KeyValuePair(Of String, Object))
 
 ### Return Value
 
-Type: [IEnumerator](http://msdn2.microsoft.com/en-us/library/78dfe2yb)(Of [KeyValuePair](http://msdn2.microsoft.com/en-us/library/5tbh8a42)(Of [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf), [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)))
+Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)(Of [KeyValuePair](http://msdn.microsoft.com/en-us/library/5tbh8a42)(Of [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf), [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)))
 ### Implements
 
-[IEnumerable(Of T).GetEnumerator](http://msdn2.microsoft.com/en-us/library/s793z9y2)
+[IEnumerable(Of T).GetEnumerator](http://msdn.microsoft.com/en-us/library/s793z9y2)
 
 ## See Also
 

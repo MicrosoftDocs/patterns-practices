@@ -20,12 +20,12 @@ A catalog built from a configuration file.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class ConfigurationModuleCatalog : ModuleCatalogPublic Class ConfigurationModuleCatalog Inherits ModuleCatalog
+public class ConfigurationModuleCatalog : ModuleCatalogPublic Class ConfigurationModuleCatalog Inherits ModuleCatalog
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Modularity.ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog)
     Microsoft.Practices.Prism.Modularity.ConfigurationModuleCatalog
 

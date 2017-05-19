@@ -16,10 +16,10 @@ ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).validationResults Field
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected readonly Dictionary&lt;string, List&lt;T&gt;&gt; validationResultsProtected ReadOnly validationResults As Dictionary(Of String, List(Of T))
+protected readonly Dictionary&lt;string, List&lt;T&gt;&gt; validationResultsProtected ReadOnly validationResults As Dictionary(Of String, List(Of T))
 ### Field Value
 
-Type: [Dictionary](http://msdn2.microsoft.com/en-us/library/xfhwa508)&lt;(Of &lt;([String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf), [List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.errorscontainer%601)&gt;)&gt;)&gt;)&gt;)
+Type: [Dictionary](http://msdn.microsoft.com/en-us/library/xfhwa508)&lt;(Of &lt;([String](http://msdn.microsoft.com/en-us/library/s1wwdcbf), [List](http://msdn.microsoft.com/en-us/library/6sh2ey19)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.errorscontainer%601)&gt;)&gt;)&gt;)&gt;)
 
 See Also
 --------

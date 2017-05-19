@@ -20,7 +20,7 @@ Initializes a new instance of the [RegionMemberLifetimeBehavior](https://msdn.mi
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public RegionMemberLifetimeBehavior()Public Sub New
+public RegionMemberLifetimeBehavior()Public Sub New
 
 See Also
 --------

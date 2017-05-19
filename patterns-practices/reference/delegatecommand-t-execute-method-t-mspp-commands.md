@@ -10,7 +10,7 @@ Prism Class Library
 DelegateCommand&lt;(Of &lt;(T&gt;)&gt;).Execute Method (T)
 ==============================================================
 
-Executes the command and invokes the [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/018hxwa8) provided during construction.
+Executes the command and invokes the [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) provided during construction.
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
@@ -18,7 +18,7 @@ Executes the command and invokes the [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msd
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public virtual Task Execute( T parameter )Public Overridable Function Execute ( parameter As T ) As Task
+public virtual Task Execute( T parameter )Public Overridable Function Execute ( parameter As T ) As Task
 
 ### Parameters
 
@@ -28,7 +28,7 @@ Data used by the command.
 
 ### Return Value
 
-Type: [Task](http://msdn2.microsoft.com/en-us/library/dd235678)
+Type: [Task](http://msdn.microsoft.com/en-us/library/dd235678)
 
 See Also
 --------

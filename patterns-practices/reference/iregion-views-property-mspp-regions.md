@@ -20,7 +20,7 @@ Gets a readonly view of the collection of views in the region.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>IViewsCollection Views { get; }ReadOnly Property Views As IViewsCollection Get
+IViewsCollection Views { get; }ReadOnly Property Views As IViewsCollection Get
 ### Property Value
 
 Type: [IViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iviewscollection)

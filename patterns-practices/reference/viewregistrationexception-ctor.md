@@ -20,7 +20,7 @@ Initializes a new instance of the [ViewRegistrationException](https://msdn.micro
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ViewRegistrationException()Public Sub New
+public ViewRegistrationException()Public Sub New
 
 See Also
 --------

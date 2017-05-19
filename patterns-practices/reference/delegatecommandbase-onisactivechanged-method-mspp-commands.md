@@ -18,7 +18,7 @@ This raises the [IsActiveChanged](https://msdn.microsoft.com/e:microsoft.practic
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void OnIsActiveChanged()Protected Overridable Sub OnIsActiveChanged
+protected virtual void OnIsActiveChanged()Protected Overridable Sub OnIsActiveChanged
 
 See Also
 --------

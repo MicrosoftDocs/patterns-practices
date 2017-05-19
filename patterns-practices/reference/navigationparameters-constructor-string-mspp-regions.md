@@ -20,12 +20,12 @@ Initializes a new instance of the [NavigationParameters](https://msdn.microsoft.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public NavigationParameters( string query )Public Sub New ( query As String )
+public NavigationParameters( string query )Public Sub New ( query As String )
 
 ### Parameters
 
 query  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The query string.
 
 See Also

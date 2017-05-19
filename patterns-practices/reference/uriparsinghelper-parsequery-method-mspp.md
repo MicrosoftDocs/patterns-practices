@@ -20,12 +20,12 @@ Parses the query of uri into a dictionary.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static NavigationParameters ParseQuery( Uri uri )Public Shared Function ParseQuery ( uri As Uri ) As NavigationParameters
+public static NavigationParameters ParseQuery( Uri uri )Public Shared Function ParseQuery ( uri As Uri ) As NavigationParameters
 
 ### Parameters
 
 uri  
-Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 The URI.
 
 ### Return Value

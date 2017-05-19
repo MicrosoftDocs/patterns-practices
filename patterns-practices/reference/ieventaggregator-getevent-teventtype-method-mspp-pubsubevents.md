@@ -18,7 +18,7 @@ Gets an instance of an event type.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>TEventType GetEvent&lt;TEventType&gt;() where TEventType : new(), EventBase Function GetEvent(Of TEventType As {New, EventBase}) As TEventType
+TEventType GetEvent&lt;TEventType&gt;() where TEventType : new(), EventBase Function GetEvent(Of TEventType As {New, EventBase}) As TEventType
 Type Parameters
 ---------------
 

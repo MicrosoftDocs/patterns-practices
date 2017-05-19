@@ -10,7 +10,7 @@ Prism Class Library
 UriParsingHelper Class
 ======================
 
-Helper class for parsing [Uri](http://msdn2.microsoft.com/en-us/library/txt7706a) instances.
+Helper class for parsing [Uri](http://msdn.microsoft.com/en-us/library/txt7706a) instances.
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -20,12 +20,12 @@ Helper class for parsing [Uri](http://msdn2.microsoft.com/en-us/library/txt7706a
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static class UriParsingHelperPublic NotInheritable Class UriParsingHelper
+public static class UriParsingHelperPublic NotInheritable Class UriParsingHelper
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.UriParsingHelper
 
 See Also

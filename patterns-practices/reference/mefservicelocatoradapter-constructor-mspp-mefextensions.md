@@ -20,12 +20,12 @@ Initializes a new instance of the [MefServiceLocatorAdapter](https://msdn.micros
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public MefServiceLocatorAdapter( CompositionContainer compositionContainer )Public Sub New ( compositionContainer As CompositionContainer )
+public MefServiceLocatorAdapter( CompositionContainer compositionContainer )Public Sub New ( compositionContainer As CompositionContainer )
 
 ### Parameters
 
 compositionContainer  
-Type: [System.ComponentModel.Composition.Hosting.CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553)
+Type: [System.ComponentModel.Composition.Hosting.CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553)
 The MEF composition container.
 
 See Also

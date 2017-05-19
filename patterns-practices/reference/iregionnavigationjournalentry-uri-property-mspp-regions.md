@@ -20,10 +20,10 @@ Gets or sets the URI.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>Uri Uri { get; set; }Property Uri As Uri Get Set
+Uri Uri { get; set; }Property Uri As Uri Get Set
 ### Property Value
 
-Type: [Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
+Type: [Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 The URI.
 
 See Also

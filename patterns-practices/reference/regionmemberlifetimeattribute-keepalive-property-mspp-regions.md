@@ -20,10 +20,10 @@ Determines if the region member should be kept-alive when deactivated.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public bool KeepAlive { get; set; }Public Property KeepAlive As Boolean Get Set
+public bool KeepAlive { get; set; }Public Property KeepAlive As Boolean Get Set
 ### Property Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 See Also
 --------

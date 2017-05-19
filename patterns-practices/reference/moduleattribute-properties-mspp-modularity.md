@@ -54,11 +54,11 @@ Gets or sets a value indicating whether the module should be loaded at startup.
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431165.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/sa1bf03e">TypeId</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/sa1bf03e">TypeId</a></td>
 <td><div class="summary">
-When implemented in a derived class, gets a unique identifier for this <a href="http://msdn2.microsoft.com/en-us/library/e8kc3626">Attribute</a>.
+When implemented in a derived class, gets a unique identifier for this <a href="http://msdn.microsoft.com/en-us/library/e8kc3626">Attribute</a>.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e8kc3626">Attribute</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e8kc3626">Attribute</a>.)</td>
 </tr>
 </tbody>
 </table>

@@ -20,10 +20,10 @@ Gets the callback to execute when an interaction is completed.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public Action Callback { get; }Public ReadOnly Property Callback As Action Get
+public Action Callback { get; }Public ReadOnly Property Callback As Action Get
 ### Property Value
 
-Type: [Action](http://msdn2.microsoft.com/en-us/library/bb534741)
+Type: [Action](http://msdn.microsoft.com/en-us/library/bb534741)
 
 See Also
 --------

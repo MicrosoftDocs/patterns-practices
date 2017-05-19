@@ -20,7 +20,7 @@ Updates the target object's IsEnabled property based on the commands ability to 
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void UpdateEnabledState()Protected Overridable Sub UpdateEnabledState
+protected virtual void UpdateEnabledState()Protected Overridable Sub UpdateEnabledState
 
 See Also
 --------

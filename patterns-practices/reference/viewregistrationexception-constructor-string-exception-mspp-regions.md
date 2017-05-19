@@ -39,12 +39,12 @@ Public Sub New (
 
 *message*  
 
-	Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+	Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 	The exception message.
 
 *inner*  
 
-	Type: [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+	Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 	The inner exception.
 
 ## See Also

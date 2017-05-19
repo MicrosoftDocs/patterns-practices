@@ -20,10 +20,10 @@ Identifies the RegionContext attached property.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static readonly DependencyProperty RegionContextPropertyPublic Shared ReadOnly RegionContextProperty As DependencyProperty
+public static readonly DependencyProperty RegionContextPropertyPublic Shared ReadOnly RegionContextProperty As DependencyProperty
 ### Field Value
 
-Type: [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318)
+Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 
 See Also
 --------

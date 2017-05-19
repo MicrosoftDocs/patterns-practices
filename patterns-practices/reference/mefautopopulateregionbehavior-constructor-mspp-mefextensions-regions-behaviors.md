@@ -20,7 +20,7 @@ Initializes a new instance of the [MefAutoPopulateRegionBehavior](https://msdn.m
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public MefAutoPopulateRegionBehavior( IRegionViewRegistry regionViewRegistry )Public Sub New ( regionViewRegistry As IRegionViewRegistry )
+public MefAutoPopulateRegionBehavior( IRegionViewRegistry regionViewRegistry )Public Sub New ( regionViewRegistry As IRegionViewRegistry )
 
 ### Parameters
 

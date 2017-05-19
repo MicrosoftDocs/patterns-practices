@@ -16,10 +16,10 @@ DelegateCommandBase.\_executeMethod Field
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected readonly Func&lt;Object, Task&gt; \_executeMethodProtected ReadOnly \_executeMethod As Func(Of Object, Task)
+protected readonly Func&lt;Object, Task&gt; \_executeMethodProtected ReadOnly \_executeMethod As Func(Of Object, Task)
 ### Field Value
 
-Type: [Func](http://msdn2.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b), [Task](http://msdn2.microsoft.com/en-us/library/dd235678)&gt;)&gt;)
+Type: [Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b), [Task](http://msdn.microsoft.com/en-us/library/dd235678)&gt;)&gt;)
 
 See Also
 --------

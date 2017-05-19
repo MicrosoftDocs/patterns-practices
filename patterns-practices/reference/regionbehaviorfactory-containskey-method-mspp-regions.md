@@ -20,17 +20,17 @@ Determines whether a behavior with the specified key already exists.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public bool ContainsKey( string behaviorKey )Public Function ContainsKey ( behaviorKey As String ) As Boolean
+public bool ContainsKey( string behaviorKey )Public Function ContainsKey ( behaviorKey As String ) As Boolean
 
 ### Parameters
 
 behaviorKey  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The behavior key.
 
 ### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if a behavior with the specified key is present; otherwise, falseFalsefalsefalse (False in Visual Basic).
 ### Implements
 

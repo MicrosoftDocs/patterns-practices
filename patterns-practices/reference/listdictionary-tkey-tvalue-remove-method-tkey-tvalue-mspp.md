@@ -20,7 +20,7 @@ Removes a value from the list with the given key.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void Remove( TKey key, TValue value )Public Sub Remove ( key As TKey, value As TValue )
+public void Remove( TKey key, TValue value )Public Sub Remove ( key As TKey, value As TValue )
 
 ### Parameters
 

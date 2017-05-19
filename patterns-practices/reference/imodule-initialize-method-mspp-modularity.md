@@ -20,7 +20,7 @@ Notifies the module that it has be initialized.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>void Initialize()Sub Initialize
+void Initialize()Sub Initialize
 
 See Also
 --------

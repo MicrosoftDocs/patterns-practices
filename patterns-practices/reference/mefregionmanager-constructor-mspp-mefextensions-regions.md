@@ -20,7 +20,7 @@ Initializes a new instance of the [MefRegionManager](https://msdn.microsoft.com/
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public MefRegionManager()Public Sub New
+public MefRegionManager()Public Sub New
 
 See Also
 --------

@@ -83,24 +83,24 @@ Determines whether the <a href="https://msdn.microsoft.com/t:microsoft.practices
 <td><img src="https://msdn.microsoft.com/en-us/Gg430847.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinfogroup.copyto(microsoft.practices.prism.modularity.moduleinfo%5b%5d%2csystem.int32)">CopyTo</a></td>
 <td><div class="summary">
-Copies the elements of the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup">ModuleInfoGroup</a> to an <a href="http://msdn2.microsoft.com/en-us/library/czz5hkty">Array</a>, starting at a particular <a href="http://msdn2.microsoft.com/en-us/library/czz5hkty">Array</a> index.
+Copies the elements of the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup">ModuleInfoGroup</a> to an <a href="http://msdn.microsoft.com/en-us/library/czz5hkty">Array</a>, starting at a particular <a href="http://msdn.microsoft.com/en-us/library/czz5hkty">Array</a> index.
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430847.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/bsc2ak47">Equals</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/bsc2ak47">Equals</a></td>
 <td><div class="summary">
-Determines whether the specified <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b">Object</a> is equal to the current <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b">Object</a>.
+Determines whether the specified <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a> is equal to the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430847.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/4k87zsw7">Finalize</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/4k87zsw7">Finalize</a></td>
 <td><div class="summary">
 Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430847.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
@@ -118,19 +118,19 @@ Returns an enumerator that iterates through the collection.
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430847.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/zdee4b3y">GetHashCode</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/zdee4b3y">GetHashCode</a></td>
 <td><div class="summary">
 Serves as a hash function for a particular type.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430847.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/dfwy45w9">GetType</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/dfwy45w9">GetType</a></td>
 <td><div class="summary">
-Gets the <a href="http://msdn2.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
+Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430847.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
@@ -143,14 +143,14 @@ Determines the index of a specific item in the <a href="https://msdn.microsoft.c
 <td><img src="https://msdn.microsoft.com/en-us/Gg430847.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinfogroup.indexof(microsoft.practices.prism.modularity.moduleinfo)">IndexOf(ModuleInfo)</a></td>
 <td><div class="summary">
-Determines the index of a specific item in the <a href="http://msdn2.microsoft.com/en-us/library/5y536ey6">IList&lt;(Of &lt;(T&gt;)&gt;)</a>.
+Determines the index of a specific item in the <a href="http://msdn.microsoft.com/en-us/library/5y536ey6">IList&lt;(Of &lt;(T&gt;)&gt;)</a>.
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430847.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinfogroup.insert(system.int32%2cmicrosoft.practices.prism.modularity.moduleinfo)">Insert(Int32, ModuleInfo)</a></td>
 <td><div class="summary">
-Inserts an item to the <a href="http://msdn2.microsoft.com/en-us/library/5y536ey6">IList&lt;(Of &lt;(T&gt;)&gt;)</a> at the specified index.
+Inserts an item to the <a href="http://msdn.microsoft.com/en-us/library/5y536ey6">IList&lt;(Of &lt;(T&gt;)&gt;)</a> at the specified index.
 </div></td>
 </tr>
 <tr class="even">
@@ -162,11 +162,11 @@ Inserts an item to the <a href="https://msdn.microsoft.com/t:microsoft.practices
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430847.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/57ctke0a">MemberwiseClone</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/57ctke0a">MemberwiseClone</a></td>
 <td><div class="summary">
-Creates a shallow copy of the current <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b">Object</a>.
+Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430847.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
@@ -179,16 +179,16 @@ Removes the first occurrence of a specific object from the <a href="https://msdn
 <td><img src="https://msdn.microsoft.com/en-us/Gg430847.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinfogroup.removeat(system.int32)">RemoveAt</a></td>
 <td><div class="summary">
-Removes the <a href="http://msdn2.microsoft.com/en-us/library/5y536ey6">IList&lt;(Of &lt;(T&gt;)&gt;)</a> item at the specified index.
+Removes the <a href="http://msdn.microsoft.com/en-us/library/5y536ey6">IList&lt;(Of &lt;(T&gt;)&gt;)</a> item at the specified index.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430847.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/7bxwbwt2">ToString</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">ToString</a></td>
 <td><div class="summary">
 Returns a string that represents the current object.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 </tbody>
 </table>
@@ -282,7 +282,7 @@ Gets a value indicating whether the <a href="https://msdn.microsoft.com/t:micros
 <td><img src="https://msdn.microsoft.com/en-us/Gg430847.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleinfogroup.issynchronized">IsSynchronized</a></td>
 <td><div class="summary">
-Gets a value indicating whether access to the <a href="http://msdn2.microsoft.com/en-us/library/b1ht6113">ICollection</a> is synchronized (thread safe).
+Gets a value indicating whether access to the <a href="http://msdn.microsoft.com/en-us/library/b1ht6113">ICollection</a> is synchronized (thread safe).
 </div></td>
 </tr>
 <tr class="even">
@@ -303,7 +303,7 @@ Gets or sets the <a href="https://msdn.microsoft.com/p:microsoft.practices.prism
 <td><img src="https://msdn.microsoft.com/en-us/Gg430847.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleinfogroup.syncroot">SyncRoot</a></td>
 <td><div class="summary">
-Gets an object that can be used to synchronize access to the <a href="http://msdn2.microsoft.com/en-us/library/b1ht6113">ICollection</a>.
+Gets an object that can be used to synchronize access to the <a href="http://msdn.microsoft.com/en-us/library/b1ht6113">ICollection</a>.
 </div></td>
 </tr>
 </tbody>

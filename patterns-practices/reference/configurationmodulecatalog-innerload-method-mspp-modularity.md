@@ -20,7 +20,7 @@ Loads the catalog from the configuration.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected override void InnerLoad()Protected Overrides Sub InnerLoad
+protected override void InnerLoad()Protected Overrides Sub InnerLoad
 
 See Also
 --------

@@ -20,7 +20,7 @@ Associate a view with a region, using a delegate to resolve a concreate instance
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static IRegionManager RegisterViewWithRegion( this IRegionManager regionManager, string regionName, Func&lt;Object&gt; getContentDelegate )&lt;ExtensionAttribute&gt; Public Shared Function RegisterViewWithRegion ( regionManager As IRegionManager, regionName As String, getContentDelegate As Func(Of Object) ) As IRegionManager
+public static IRegionManager RegisterViewWithRegion( this IRegionManager regionManager, string regionName, Func&lt;Object&gt; getContentDelegate )&lt;ExtensionAttribute&gt; Public Shared Function RegisterViewWithRegion ( regionManager As IRegionManager, regionName As String, getContentDelegate As Func(Of Object) ) As IRegionManager
 
 ### Parameters
 
@@ -29,11 +29,11 @@ Type: [Microsoft.Practices.Prism.Regions.IRegionManager](https://msdn.microsoft.
 The regionmanager that this extension method effects.
 
 regionName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region to associate the view with.
 
 getContentDelegate  
-Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 The delegate used to resolve a concreate instance of the view.
 
 ### Return Value

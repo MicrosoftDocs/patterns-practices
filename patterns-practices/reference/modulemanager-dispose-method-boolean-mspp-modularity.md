@@ -20,12 +20,12 @@ Disposes the associated [IModuleTypeLoader](https://msdn.microsoft.com/t:microso
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void Dispose( bool disposing )Protected Overridable Sub Dispose ( disposing As Boolean )
+protected virtual void Dispose( bool disposing )Protected Overridable Sub Dispose ( disposing As Boolean )
 
 ### Parameters
 
 disposing  
-Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 When trueTruetruetrue (True in Visual Basic), it is being called from the Dispose method.
 
 See Also

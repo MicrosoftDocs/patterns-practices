@@ -20,7 +20,7 @@ Initializes a new instance of the [MefSyncRegionContextWithHostBehavior](https:/
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public MefSyncRegionContextWithHostBehavior()Public Sub New
+public MefSyncRegionContextWithHostBehavior()Public Sub New
 
 See Also
 --------

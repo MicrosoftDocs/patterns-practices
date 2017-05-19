@@ -32,11 +32,11 @@ Public Class ModuleDownloadProgressChangedEventArgs Inherits ProgressChangedEven
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-  [System.EventArgs](http://msdn2.microsoft.com/en-us/library/118wxtk3)
+  [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
   
-    [System.ComponentModel.ProgressChangedEventArgs](http://msdn2.microsoft.com/en-us/library/0tat795f)
+    [System.ComponentModel.ProgressChangedEventArgs](http://msdn.microsoft.com/en-us/library/0tat795f)
     
       Microsoft.Practices.Prism.Modularity.ModuleDownloadProgressChangedEventArgs
 

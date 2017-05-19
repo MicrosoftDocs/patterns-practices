@@ -20,7 +20,7 @@ Initializes a new instance of the [RegionActiveAwareBehavior](https://msdn.micro
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public RegionActiveAwareBehavior()Public Sub New
+public RegionActiveAwareBehavior()Public Sub New
 
 See Also
 --------

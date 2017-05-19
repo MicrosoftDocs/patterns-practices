@@ -10,7 +10,7 @@ Prism Class Library
 CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Class
 =================================================
 
-Base behavior to handle connecting a [Control](http://msdn2.microsoft.com/en-us/library/ms609826) to a Command.
+Base behavior to handle connecting a [Control](http://msdn.microsoft.com/en-us/library/ms609826) to a Command.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
@@ -20,7 +20,7 @@ Base behavior to handle connecting a [Control](http://msdn2.microsoft.com/en-us/
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class CommandBehaviorBase&lt;T&gt; where T : UIElement Public Class CommandBehaviorBase(Of T As UIElement)
+public class CommandBehaviorBase&lt;T&gt; where T : UIElement Public Class CommandBehaviorBase(Of T As UIElement)
 Type Parameters
 ---------------
 
@@ -36,7 +36,7 @@ Remarks
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;)
 
 See Also

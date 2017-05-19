@@ -20,7 +20,7 @@ Defines an interface to manage a set of [regions](https://msdn.microsoft.com/t:m
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IRegionManagerPublic Interface IRegionManager
+public interface IRegionManagerPublic Interface IRegionManager
 
 See Also
 --------

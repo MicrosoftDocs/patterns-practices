@@ -20,7 +20,7 @@ Initializes a new instance of the [MefRegionActiveAwareBehavior](https://msdn.mi
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public MefRegionActiveAwareBehavior()Public Sub New
+public MefRegionActiveAwareBehavior()Public Sub New
 
 See Also
 --------

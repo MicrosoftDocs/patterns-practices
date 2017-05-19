@@ -20,7 +20,7 @@ Provides journaling of current, back, and forward navigation within regions.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IRegionNavigationJournalPublic Interface IRegionNavigationJournal
+public interface IRegionNavigationJournalPublic Interface IRegionNavigationJournal
 
 See Also
 --------

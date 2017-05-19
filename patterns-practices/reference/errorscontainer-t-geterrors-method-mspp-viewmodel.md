@@ -18,17 +18,17 @@ Gets the validation errors for a specified property.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public IEnumerable&lt;T&gt; GetErrors( string propertyName )Public Function GetErrors ( propertyName As String ) As IEnumerable(Of T)
+public IEnumerable&lt;T&gt; GetErrors( string propertyName )Public Function GetErrors ( propertyName As String ) As IEnumerable(Of T)
 
 ### Parameters
 
 propertyName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the property.
 
 ### Return Value
 
-Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.errorscontainer%601)&gt;)&gt;)
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.errorscontainer%601)&gt;)&gt;)
 The validation errors of type T for the property.
 
 See Also

@@ -20,7 +20,7 @@ Gets the navigation service.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public IRegionNavigationService NavigationService { get; set; }Public Property NavigationService As IRegionNavigationService Get Set
+public IRegionNavigationService NavigationService { get; set; }Public Property NavigationService As IRegionNavigationService Get Set
 ### Property Value
 
 Type: [IRegionNavigationService](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationservice)

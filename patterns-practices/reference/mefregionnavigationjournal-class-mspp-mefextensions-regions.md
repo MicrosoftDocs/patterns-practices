@@ -20,7 +20,7 @@ Exports the MefRegionNavigationJournal using the Managed Extensibility Framework
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class MefRegionNavigationJournal : RegionNavigationJournalPublic Class MefRegionNavigationJournal Inherits RegionNavigationJournal
+public class MefRegionNavigationJournal : RegionNavigationJournalPublic Class MefRegionNavigationJournal Inherits RegionNavigationJournal
 
 Remarks
 -------
@@ -30,7 +30,7 @@ Remarks
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Regions.RegionNavigationJournal](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournal)
     Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournal
 

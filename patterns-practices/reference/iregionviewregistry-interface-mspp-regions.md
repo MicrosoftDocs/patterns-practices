@@ -20,7 +20,7 @@ Defines the interface for the registry of region's content.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IRegionViewRegistryPublic Interface IRegionViewRegistry
+public interface IRegionViewRegistryPublic Interface IRegionViewRegistry
 
 See Also
 --------

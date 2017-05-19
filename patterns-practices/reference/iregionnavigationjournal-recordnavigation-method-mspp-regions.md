@@ -20,7 +20,7 @@ Records the navigation to the entry..
 ## Syntax
 
 
-<span id="syntaxToggle"></span>void RecordNavigation( IRegionNavigationJournalEntry entry )Sub RecordNavigation ( entry As IRegionNavigationJournalEntry )
+void RecordNavigation( IRegionNavigationJournalEntry entry )Sub RecordNavigation ( entry As IRegionNavigationJournalEntry )
 
 ### Parameters
 

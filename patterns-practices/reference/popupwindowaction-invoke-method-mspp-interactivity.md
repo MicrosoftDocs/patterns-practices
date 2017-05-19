@@ -20,12 +20,12 @@ Displays the child window and collects results for [IInteractionRequest](https:/
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected override void Invoke( Object parameter )Protected Overrides Sub Invoke ( parameter As Object )
+protected override void Invoke( Object parameter )Protected Overrides Sub Invoke ( parameter As Object )
 
 ### Parameters
 
 parameter  
-Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The parameter to the action. If the action does not require a parameter, the parameter may be set to a null reference.
 
 See Also

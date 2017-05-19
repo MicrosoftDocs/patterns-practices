@@ -20,7 +20,7 @@ Initializes a new instance of the [RegionCreationException](https://msdn.microso
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public RegionCreationException()Public Sub New
+public RegionCreationException()Public Sub New
 
 See Also
 --------

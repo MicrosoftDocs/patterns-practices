@@ -20,7 +20,7 @@ Initiates navigation to the target specified by the target.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static void RequestNavigate( this INavigateAsync navigation, Uri target, NavigationParameters navigationParameters )&lt;ExtensionAttribute&gt; Public Shared Sub RequestNavigate ( navigation As INavigateAsync, target As Uri, navigationParameters As NavigationParameters )
+public static void RequestNavigate( this INavigateAsync navigation, Uri target, NavigationParameters navigationParameters )&lt;ExtensionAttribute&gt; Public Shared Sub RequestNavigate ( navigation As INavigateAsync, target As Uri, navigationParameters As NavigationParameters )
 
 ### Parameters
 
@@ -29,7 +29,7 @@ Type: [Microsoft.Practices.Prism.Regions.INavigateAsync](https://msdn.microsoft.
 The navigation object.
 
 target  
-Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 A Uri that represents the target where the region will navigate.
 
 navigationParameters  

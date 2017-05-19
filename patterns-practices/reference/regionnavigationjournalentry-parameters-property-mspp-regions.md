@@ -20,7 +20,7 @@ Gets or sets the NavigationParameters instance.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public NavigationParameters Parameters { get; set; }Public Property Parameters As NavigationParameters Get Set
+public NavigationParameters Parameters { get; set; }Public Property Parameters As NavigationParameters Get Set
 ### Property Value
 
 Type: [NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters)

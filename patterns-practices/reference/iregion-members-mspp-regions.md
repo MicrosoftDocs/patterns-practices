@@ -83,7 +83,7 @@ Removes the specified view from the region.
 <td><img src="https://msdn.microsoft.com/en-us/Gg430883.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.inavigateasync.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))</a></td>
 <td><div class="summary">
-Initiates navigation to the target specified by the <a href="http://msdn2.microsoft.com/en-us/library/txt7706a">Uri</a>.
+Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a">Uri</a>.
 </div>
 (Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigateasync">INavigateAsync</a>.)</td>
 </tr>
@@ -91,7 +91,7 @@ Initiates navigation to the target specified by the <a href="http://msdn2.micros
 <td><img src="https://msdn.microsoft.com/en-us/Gg430883.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.inavigateasync.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d%2cmicrosoft.practices.prism.regions.navigationparameters)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)</a></td>
 <td><div class="summary">
-Initiates navigation to the target specified by the <a href="http://msdn2.microsoft.com/en-us/library/txt7706a">Uri</a>.
+Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a">Uri</a>.
 </div>
 (Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigateasync">INavigateAsync</a>.)</td>
 </tr>
@@ -130,7 +130,7 @@ Initiates navigation to the target specified by the target.
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.navigationasyncextensions.requestnavigate(microsoft.practices.prism.regions.inavigateasync%2csystem.uri)">RequestNavigate(Uri)</a></td>
 <td>Overloaded.
 <div class="summary">
-Initiates navigation to the target specified by the <a href="http://msdn2.microsoft.com/en-us/library/txt7706a">Uri</a>.
+Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a">Uri</a>.
 </div>
 (Defined by <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationasyncextensions">NavigationAsyncExtensions</a>.)</td>
 </tr>
@@ -270,11 +270,11 @@ Events
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430883.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/ms133023">PropertyChanged</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms133023">PropertyChanged</a></td>
 <td><div class="summary">
 Occurs when a property value changes.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/ms133020">INotifyPropertyChanged</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms133020">INotifyPropertyChanged</a>.)</td>
 </tr>
 </tbody>
 </table>

@@ -20,10 +20,10 @@ Gets the number of modules added to the solver.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public int ModuleCount { get; }Public ReadOnly Property ModuleCount As Integer Get
+public int ModuleCount { get; }Public ReadOnly Property ModuleCount As Integer Get
 ### Property Value
 
-Type: [Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
+Type: [Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
 The number of modules.
 
 See Also

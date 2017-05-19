@@ -20,7 +20,7 @@ Initializes a new instance of the [FileModuleTypeLoader](https://msdn.microsoft.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public FileModuleTypeLoader( IAssemblyResolver assemblyResolver )Public Sub New ( assemblyResolver As IAssemblyResolver )
+public FileModuleTypeLoader( IAssemblyResolver assemblyResolver )Public Sub New ( assemblyResolver As IAssemblyResolver )
 
 ### Parameters
 

@@ -20,10 +20,10 @@ Gets or sets if the window will be initially shown centered over the view that r
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public bool CenterOverAssociatedObject { get; set; }Public Property CenterOverAssociatedObject As Boolean Get Set
+public bool CenterOverAssociatedObject { get; set; }Public Property CenterOverAssociatedObject As Boolean Get Set
 ### Property Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 See Also
 --------

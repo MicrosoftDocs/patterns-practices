@@ -33,7 +33,7 @@ Gets or sets the comparison used to sort the views.
 ```
 ### Property Value
 
-Type: [Comparison](http://msdn2.microsoft.com/en-us/library/tfakywbh)(Of [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b))
+Type: [Comparison](http://msdn.microsoft.com/en-us/library/tfakywbh)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))
 
 The comparison to use.
 

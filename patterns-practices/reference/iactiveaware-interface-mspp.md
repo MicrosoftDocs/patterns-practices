@@ -18,7 +18,7 @@ Interface that defines if the object instance is active and notifies when the ac
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IActiveAwarePublic Interface IActiveAware
+public interface IActiveAwarePublic Interface IActiveAware
 
 See Also
 --------

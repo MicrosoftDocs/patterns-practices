@@ -17,7 +17,7 @@ Name
 Description
 ![](https://msdn.microsoft.com/en-us/Gg431193.pubproperty(en-us,PandP.50).gif "Public property")
 [HostControl](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior.hostcontrol(v=pandp.50))
-Gets or sets the [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309) that the [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)) is attached to.
+Gets or sets the [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309) that the [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)) is attached to.
 
 ![](https://msdn.microsoft.com/en-us/Gg431193.pubproperty(en-us,PandP.50).gif "Public property")
 [IsAttached](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior.isattached(v=pandp.50))

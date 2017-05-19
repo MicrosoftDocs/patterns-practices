@@ -42,7 +42,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419056(v=PandP.50)'
   </td>
   <td>
     <div>
-Returns <strong>Truetrue</strong> (<strong>True</strong> in Visual Basic) if there is a subscriber matching <a href="http://msdn2.microsoft.com/en-us/library/018hxwa8" target="_blank">Action(Of T)</a>.
+Returns <strong>Truetrue</strong> (<strong>True</strong> in Visual Basic) if there is a subscriber matching <a href="http://msdn.microsoft.com/en-us/library/018hxwa8" target="_blank">Action(Of T)</a>.
 </div>
   </td>
 </tr>

@@ -20,7 +20,7 @@ Initializes a new instance of the [MefBootstrapper](https://msdn.microsoft.com/t
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected MefBootstrapper()Protected Sub New
+protected MefBootstrapper()Protected Sub New
 
 See Also
 --------

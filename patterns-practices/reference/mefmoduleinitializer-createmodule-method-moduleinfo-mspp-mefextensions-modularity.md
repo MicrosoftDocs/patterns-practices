@@ -10,7 +10,7 @@ Prism Class Library
 MefModuleInitializer.CreateModule Method (ModuleInfo)
 =========================================================
 
-Uses the container to resolve a new [IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule) by specifying its [Type](http://msdn2.microsoft.com/en-us/library/42892f65).
+Uses the container to resolve a new [IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule) by specifying its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.modularity)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
@@ -20,7 +20,7 @@ Uses the container to resolve a new [IModule](https://msdn.microsoft.com/t:micro
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected override IModule CreateModule( ModuleInfo moduleInfo )Protected Overrides Function CreateModule ( moduleInfo As ModuleInfo ) As IModule
+protected override IModule CreateModule( ModuleInfo moduleInfo )Protected Overrides Function CreateModule ( moduleInfo As ModuleInfo ) As IModule
 
 ### Parameters
 

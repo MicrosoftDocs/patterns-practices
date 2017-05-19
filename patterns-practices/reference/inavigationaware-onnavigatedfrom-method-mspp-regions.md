@@ -20,7 +20,7 @@ Called when the implementer is being navigated away from.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>void OnNavigatedFrom( NavigationContext navigationContext )Sub OnNavigatedFrom ( navigationContext As NavigationContext )
+void OnNavigatedFrom( NavigationContext navigationContext )Sub OnNavigatedFrom ( navigationContext As NavigationContext )
 
 ### Parameters
 

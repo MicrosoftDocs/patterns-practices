@@ -20,10 +20,10 @@ Gets a value that indicates whether there is at least one entry in the back navi
 ## Syntax
 
 
-<span id="syntaxToggle"></span>bool CanGoBack { get; }ReadOnly Property CanGoBack As Boolean Get
+bool CanGoBack { get; }ReadOnly Property CanGoBack As Boolean Get
 ### Property Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 true if the journal can go back; otherwise, false.
 
 See Also

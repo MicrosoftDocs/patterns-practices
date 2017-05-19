@@ -20,10 +20,10 @@ Gets the content which was registered.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public Func&lt;Object&gt; GetView { get; }Public ReadOnly Property GetView As Func(Of Object) Get
+public Func&lt;Object&gt; GetView { get; }Public ReadOnly Property GetView As Func(Of Object) Get
 ### Property Value
 
-Type: [Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
+Type: [Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 
 See Also
 --------

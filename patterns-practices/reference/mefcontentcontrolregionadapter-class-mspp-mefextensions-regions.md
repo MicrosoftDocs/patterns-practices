@@ -20,7 +20,7 @@ Exports the ContentControlRegionAdapter using the Managed Extensibility Framewor
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class MefContentControlRegionAdapter : ContentControlRegionAdapterPublic Class MefContentControlRegionAdapter Inherits ContentControlRegionAdapter
+public class MefContentControlRegionAdapter : ContentControlRegionAdapterPublic Class MefContentControlRegionAdapter Inherits ContentControlRegionAdapter
 
 Remarks
 -------
@@ -30,8 +30,8 @@ Remarks
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft.Practices.Prism.Regions.RegionAdapterBase](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionadapterbase%601)&lt;(Of &lt;([ContentControl](http://msdn2.microsoft.com/en-us/library/ms609797)&gt;)&gt;)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [Microsoft.Practices.Prism.Regions.RegionAdapterBase](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionadapterbase%601)&lt;(Of &lt;([ContentControl](http://msdn.microsoft.com/en-us/library/ms609797)&gt;)&gt;)
     [Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.contentcontrolregionadapter)
       Microsoft.Practices.Prism.MefExtensions.Regions.MefContentControlRegionAdapter
 

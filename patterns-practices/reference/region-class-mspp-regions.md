@@ -30,7 +30,7 @@ Public Class Region
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)<br/>
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
   Microsoft.Practices.Prism.Regions.Region<br/>
     [Microsoft.Practices.Prism.Regions.AllActiveRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.allactiveregion(v=pandp.50))<br/>
     [Microsoft.Practices.Prism.Regions.SingleActiveRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.singleactiveregion(v=pandp.50))

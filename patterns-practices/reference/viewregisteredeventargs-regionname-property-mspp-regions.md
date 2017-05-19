@@ -28,7 +28,7 @@ Public ReadOnly Property RegionName As String
 ```
 
 Property Value<br/>
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ## See Also
 

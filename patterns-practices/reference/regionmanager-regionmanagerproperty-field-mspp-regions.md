@@ -20,10 +20,10 @@ Identifies the RegionManager attached property.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static readonly DependencyProperty RegionManagerPropertyPublic Shared ReadOnly RegionManagerProperty As DependencyProperty
+public static readonly DependencyProperty RegionManagerPropertyPublic Shared ReadOnly RegionManagerProperty As DependencyProperty
 ### Field Value
 
-Type: [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318)
+Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 
 Remarks
 -------

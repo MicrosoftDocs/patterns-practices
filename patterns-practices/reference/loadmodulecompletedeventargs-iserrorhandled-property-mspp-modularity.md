@@ -20,10 +20,10 @@ Gets or sets a value indicating whether the error has been handled by the event 
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public bool IsErrorHandled { get; set; }Public Property IsErrorHandled As Boolean Get Set
+public bool IsErrorHandled { get; set; }Public Property IsErrorHandled As Boolean Get Set
 ### Property Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 trueif the error is handled; otherwise, false.
 
 Remarks

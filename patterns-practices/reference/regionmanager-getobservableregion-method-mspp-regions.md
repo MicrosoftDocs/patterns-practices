@@ -20,12 +20,12 @@ Returns an [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static ObservableObject&lt;IRegion&gt; GetObservableRegion( DependencyObject view )Public Shared Function GetObservableRegion ( view As DependencyObject ) As ObservableObject(Of IRegion)
+public static ObservableObject&lt;IRegion&gt; GetObservableRegion( DependencyObject view )Public Shared Function GetObservableRegion ( view As DependencyObject ) As ObservableObject(Of IRegion)
 
 ### Parameters
 
 view  
-Type: [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
+Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
 The view that will host the region.
 
 ### Return Value

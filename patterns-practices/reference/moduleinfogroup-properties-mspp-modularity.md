@@ -62,7 +62,7 @@ Gets a value indicating whether the <a href="https://msdn.microsoft.com/t:micros
 <td><img src="https://msdn.microsoft.com/en-us/Gg431175.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleinfogroup.issynchronized">IsSynchronized</a></td>
 <td><div class="summary">
-Gets a value indicating whether access to the <a href="http://msdn2.microsoft.com/en-us/library/b1ht6113">ICollection</a> is synchronized (thread safe).
+Gets a value indicating whether access to the <a href="http://msdn.microsoft.com/en-us/library/b1ht6113">ICollection</a> is synchronized (thread safe).
 </div></td>
 </tr>
 <tr class="even">
@@ -83,7 +83,7 @@ Gets or sets the <a href="https://msdn.microsoft.com/p:microsoft.practices.prism
 <td><img src="https://msdn.microsoft.com/en-us/Gg431175.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleinfogroup.syncroot">SyncRoot</a></td>
 <td><div class="summary">
-Gets an object that can be used to synchronize access to the <a href="http://msdn2.microsoft.com/en-us/library/b1ht6113">ICollection</a>.
+Gets an object that can be used to synchronize access to the <a href="http://msdn.microsoft.com/en-us/library/b1ht6113">ICollection</a>.
 </div></td>
 </tr>
 </tbody>

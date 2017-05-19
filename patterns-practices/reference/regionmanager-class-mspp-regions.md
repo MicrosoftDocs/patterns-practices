@@ -20,7 +20,7 @@ This class is responsible for maintaining a collection of regions and attaching 
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class RegionManager : IRegionManagerPublic Class RegionManager Implements IRegionManager
+public class RegionManager : IRegionManagerPublic Class RegionManager Implements IRegionManager
 
 Remarks
 -------
@@ -30,7 +30,7 @@ Remarks
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Regions.RegionManager
     [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionmanager)
 

@@ -10,7 +10,7 @@ Prism Class Library
 SelectorRegionAdapter Class
 ===========================
 
-Adapter that creates a new [Region](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.region) and binds all the views to the adapted [Selector](http://msdn2.microsoft.com/en-us/library/ms595227). It also keeps the [ActiveViews](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.activeviews) and the selected items of the [Selector](http://msdn2.microsoft.com/en-us/library/ms595227) in sync.
+Adapter that creates a new [Region](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.region) and binds all the views to the adapted [Selector](http://msdn.microsoft.com/en-us/library/ms595227). It also keeps the [ActiveViews](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.activeviews) and the selected items of the [Selector](http://msdn.microsoft.com/en-us/library/ms595227) in sync.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -20,13 +20,13 @@ Adapter that creates a new [Region](https://msdn.microsoft.com/t:microsoft.pract
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class SelectorRegionAdapter : RegionAdapterBase&lt;Selector&gt;Public Class SelectorRegionAdapter Inherits RegionAdapterBase(Of Selector)
+public class SelectorRegionAdapter : RegionAdapterBase&lt;Selector&gt;Public Class SelectorRegionAdapter Inherits RegionAdapterBase(Of Selector)
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft.Practices.Prism.Regions.RegionAdapterBase](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionadapterbase%601)&lt;(Of &lt;([Selector](http://msdn2.microsoft.com/en-us/library/ms595227)&gt;)&gt;)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [Microsoft.Practices.Prism.Regions.RegionAdapterBase](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionadapterbase%601)&lt;(Of &lt;([Selector](http://msdn.microsoft.com/en-us/library/ms595227)&gt;)&gt;)
     Microsoft.Practices.Prism.Regions.SelectorRegionAdapter
       [Microsoft.Practices.Prism.MefExtensions.Regions.MefSelectorRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefselectorregionadapter)
 

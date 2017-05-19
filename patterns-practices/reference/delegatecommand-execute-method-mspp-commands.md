@@ -18,10 +18,10 @@ Executes the command.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public virtual Task Execute()Public Overridable Function Execute As Task
+public virtual Task Execute()Public Overridable Function Execute As Task
 ### Return Value
 
-Type: [Task](http://msdn2.microsoft.com/en-us/library/dd235678)
+Type: [Task](http://msdn.microsoft.com/en-us/library/dd235678)
 
 See Also
 --------

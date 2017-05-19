@@ -20,7 +20,7 @@ Drives the main logic of building the child domain and searching for the assembl
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected override void InnerLoad()Protected Overrides Sub InnerLoad
+protected override void InnerLoad()Protected Overrides Sub InnerLoad
 
 See Also
 --------

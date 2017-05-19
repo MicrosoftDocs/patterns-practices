@@ -18,7 +18,7 @@ Defines a contract for an event subscription to be used by [EventBase](https://m
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IEventSubscriptionPublic Interface IEventSubscription
+public interface IEventSubscriptionPublic Interface IEventSubscription
 
 See Also
 --------

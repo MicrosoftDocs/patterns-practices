@@ -20,10 +20,10 @@ Raised repeatedly to provide progress as modules are downloaded in the backgroun
 ## Syntax
 
 
-<span id="syntaxToggle"></span>event EventHandler&lt;ModuleDownloadProgressChangedEventArgs&gt; ModuleDownloadProgressChangedEvent ModuleDownloadProgressChanged As EventHandler(Of ModuleDownloadProgressChangedEventArgs)
+event EventHandler&lt;ModuleDownloadProgressChangedEventArgs&gt; ModuleDownloadProgressChangedEvent ModuleDownloadProgressChanged As EventHandler(Of ModuleDownloadProgressChangedEventArgs)
 ### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([ModuleDownloadProgressChangedEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)&gt;)&gt;)
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([ModuleDownloadProgressChangedEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)&gt;)&gt;)
 
 See Also
 --------

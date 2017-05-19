@@ -20,7 +20,7 @@ Creates and adds a [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.prac
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public virtual ModuleCatalog AddGroup( InitializationMode initializationMode, string refValue, params ModuleInfo[] moduleInfos )Public Overridable Function AddGroup ( initializationMode As InitializationMode, refValue As String, ParamArray moduleInfos As ModuleInfo() ) As ModuleCatalog
+public virtual ModuleCatalog AddGroup( InitializationMode initializationMode, string refValue, params ModuleInfo[] moduleInfos )Public Overridable Function AddGroup ( initializationMode As InitializationMode, refValue As String, ParamArray moduleInfos As ModuleInfo() ) As ModuleCatalog
 
 ### Parameters
 
@@ -29,7 +29,7 @@ Type: [Microsoft.Practices.Prism.Modularity.InitializationMode](https://msdn.mic
 Stage on which the module group to be added will be initialized.
 
 refValue  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Reference to the location of the module group to be added.
 
 moduleInfos  

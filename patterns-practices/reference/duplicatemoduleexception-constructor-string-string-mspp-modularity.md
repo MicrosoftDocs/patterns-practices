@@ -20,16 +20,16 @@ Initializes a new instance of the [DuplicateModuleException](https://msdn.micros
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public DuplicateModuleException( string moduleName, string message )Public Sub New ( moduleName As String, message As String )
+public DuplicateModuleException( string moduleName, string message )Public Sub New ( moduleName As String, message As String )
 
 ### Parameters
 
 moduleName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the module.
 
 message  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The message that describes the error.
 
 See Also

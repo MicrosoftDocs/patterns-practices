@@ -18,7 +18,7 @@ Generic arguments class to pass to event handlers that need to receive data.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class DataEventArgs&lt;TData&gt; : EventArgs Public Class DataEventArgs(Of TData) Inherits EventArgs
+public class DataEventArgs&lt;TData&gt; : EventArgs Public Class DataEventArgs(Of TData) Inherits EventArgs
 Type Parameters
 ---------------
 
@@ -29,8 +29,8 @@ The type of data to pass.
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System.EventArgs](http://msdn2.microsoft.com/en-us/library/118wxtk3)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
     Microsoft.Practices.Prism.PubSubEvents.DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;)
 
 See Also

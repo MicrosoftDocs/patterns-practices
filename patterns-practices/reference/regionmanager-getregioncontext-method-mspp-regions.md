@@ -20,17 +20,17 @@ Gets the value of the [RegionContextProperty](https://msdn.microsoft.com/f:micro
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static Object GetRegionContext( DependencyObject target )Public Shared Function GetRegionContext ( target As DependencyObject ) As Object
+public static Object GetRegionContext( DependencyObject target )Public Shared Function GetRegionContext ( target As DependencyObject ) As Object
 
 ### Parameters
 
 target  
-Type: [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
+Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
 The target element.
 
 ### Return Value
 
-Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The region context to pass to the contained views.
 
 See Also

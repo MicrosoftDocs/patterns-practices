@@ -18,12 +18,12 @@ Initializes a new instance of [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)](https://
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public DelegateCommand( Action&lt;T&gt; executeMethod )Public Sub New ( executeMethod As Action(Of T) )
+public DelegateCommand( Action&lt;T&gt; executeMethod )Public Sub New ( executeMethod As Action(Of T) )
 
 ### Parameters
 
 executeMethod  
-Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601)&gt;)&gt;)
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601)&gt;)&gt;)
 Delegate to execute when Execute is called on the command. This can be null to just hook up a CanExecute delegate.
 
 Remarks

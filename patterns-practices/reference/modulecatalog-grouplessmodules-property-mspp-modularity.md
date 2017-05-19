@@ -20,10 +20,10 @@ Returns the list of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practice
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected IEnumerable&lt;ModuleInfo&gt; GrouplessModules { get; }Protected ReadOnly Property GrouplessModules As IEnumerable(Of ModuleInfo) Get
+protected IEnumerable&lt;ModuleInfo&gt; GrouplessModules { get; }Protected ReadOnly Property GrouplessModules As IEnumerable(Of ModuleInfo) Get
 ### Property Value
 
-Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;)&gt;)
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;)&gt;)
 The groupless modules.
 
 See Also

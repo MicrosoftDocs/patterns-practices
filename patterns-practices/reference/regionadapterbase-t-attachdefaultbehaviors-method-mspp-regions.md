@@ -20,7 +20,7 @@ This method adds the default behaviors by using the [IRegionBehaviorFactory](htt
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void AttachDefaultBehaviors( IRegion region, T regionTarget )Protected Overridable Sub AttachDefaultBehaviors ( region As IRegion, regionTarget As T )
+protected virtual void AttachDefaultBehaviors( IRegion region, T regionTarget )Protected Overridable Sub AttachDefaultBehaviors ( region As IRegion, regionTarget As T )
 
 ### Parameters
 

@@ -9,7 +9,7 @@ Prism Class Library
 
 # ViewsCollection Class
 
-Implementation of [IViewsCollection](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iviewscollection(v=pandp.50)) that takes an [ObservableCollection&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/ms668604) of [ItemMetadata](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50)) and filters it to display an [INotifyCollectionChanged](http://msdn2.microsoft.com/en-us/library/ms668629) collection of [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b) elements (the items which the [ItemMetadata](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50)) wraps).
+Implementation of [IViewsCollection](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iviewscollection(v=pandp.50)) that takes an [ObservableCollection&lt;T&gt;](http://msdn.microsoft.com/en-us/library/ms668604) of [ItemMetadata](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50)) and filters it to display an [INotifyCollectionChanged](http://msdn.microsoft.com/en-us/library/ms668629) collection of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) elements (the items which the [ItemMetadata](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50)) wraps).
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
@@ -31,11 +31,11 @@ Public Class ViewsCollection
 	IEnumerable, INotifyCollectionChanged
 ```	
 
-Implementation of IViewsCollection that takes an [ObservableCollection(Of T)](http://msdn2.microsoft.com/en-us/library/ms668604) of [ItemMetadata](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50)) and filters it to display an [INotifyCollectionChanged](http://msdn2.microsoft.com/en-us/library/ms668629) collection of [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b) elements (the items which the [ItemMetadata](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50)) wraps).
+Implementation of IViewsCollection that takes an [ObservableCollection(Of T)](http://msdn.microsoft.com/en-us/library/ms668604) of [ItemMetadata](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50)) and filters it to display an [INotifyCollectionChanged](http://msdn.microsoft.com/en-us/library/ms668629) collection of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) elements (the items which the [ItemMetadata](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50)) wraps).
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)<br/>
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
     Microsoft.Practices.Prism.Regions.ViewsCollection
 
 ## See Also

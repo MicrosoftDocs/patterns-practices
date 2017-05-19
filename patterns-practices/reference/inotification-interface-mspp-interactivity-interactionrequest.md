@@ -20,7 +20,7 @@ Represents an interaction request used for notifications.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface INotificationPublic Interface INotification
+public interface INotificationPublic Interface INotification
 
 See Also
 --------

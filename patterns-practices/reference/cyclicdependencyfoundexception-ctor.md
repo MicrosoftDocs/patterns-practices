@@ -20,7 +20,7 @@ Initializes a new instance of the [CyclicDependencyFoundException](https://msdn.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public CyclicDependencyFoundException()Public Sub New
+public CyclicDependencyFoundException()Public Sub New
 
 See Also
 --------

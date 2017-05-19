@@ -20,7 +20,7 @@ Attach new behaviors.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected override void AttachBehaviors( IRegion region, Selector regionTarget )Protected Overrides Sub AttachBehaviors ( region As IRegion, regionTarget As Selector )
+protected override void AttachBehaviors( IRegion region, Selector regionTarget )Protected Overrides Sub AttachBehaviors ( region As IRegion, regionTarget As Selector )
 
 ### Parameters
 
@@ -29,7 +29,7 @@ Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/en-
 The region being used.
 
 regionTarget  
-Type: [System.Windows.Controls.Primitives.Selector](http://msdn2.microsoft.com/en-us/library/ms595227)
+Type: [System.Windows.Controls.Primitives.Selector](http://msdn.microsoft.com/en-us/library/ms595227)
 The object to adapt.
 
 Remarks

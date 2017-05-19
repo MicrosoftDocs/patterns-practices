@@ -20,7 +20,7 @@ Creates a new instance of [Region](https://msdn.microsoft.com/t:microsoft.practi
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected override IRegion CreateRegion()Protected Overrides Function CreateRegion As IRegion
+protected override IRegion CreateRegion()Protected Overrides Function CreateRegion As IRegion
 ### Return Value
 
 Type: [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)

@@ -20,7 +20,7 @@ Navigates to the most recent entry in the back navigation history, or does nothi
 ## Syntax
 
 
-<span id="syntaxToggle"></span>void GoBack()Sub GoBack
+void GoBack()Sub GoBack
 
 See Also
 --------

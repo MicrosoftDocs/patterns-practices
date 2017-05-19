@@ -20,12 +20,12 @@ Registers the specified assembly and resolves the types in it when the AppDomain
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void LoadAssemblyFrom( string assemblyFilePath )Public Sub LoadAssemblyFrom ( assemblyFilePath As String )
+public void LoadAssemblyFrom( string assemblyFilePath )Public Sub LoadAssemblyFrom ( assemblyFilePath As String )
 
 ### Parameters
 
 assemblyFilePath  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The path to the assemly to load in the LoadFrom context.
 
 ### Implements
@@ -35,7 +35,7 @@ The path to the assemly to load in the LoadFrom context.
 Remarks
 -------
 
-<span id="remarksToggle"></span>This method does not load the assembly immediately, but lazily until someone requests a [Type](http://msdn2.microsoft.com/en-us/library/42892f65) declared in the assembly.
+<span id="remarksToggle"></span>This method does not load the assembly immediately, but lazily until someone requests a [Type](http://msdn.microsoft.com/en-us/library/42892f65) declared in the assembly.
 
 See Also
 --------

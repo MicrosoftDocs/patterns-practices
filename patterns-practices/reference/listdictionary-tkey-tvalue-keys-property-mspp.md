@@ -20,14 +20,14 @@ Gets the list of keys in the dictionary.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ICollection&lt;TKey&gt; Keys { get; }Public ReadOnly Property Keys As ICollection(Of TKey) Get
+public ICollection&lt;TKey&gt; Keys { get; }Public ReadOnly Property Keys As ICollection(Of TKey) Get
 ### Property Value
 
-Type: [ICollection](http://msdn2.microsoft.com/en-us/library/92t2ye13)&lt;(Of &lt;([TKey](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
+Type: [ICollection](http://msdn.microsoft.com/en-us/library/92t2ye13)&lt;(Of &lt;([TKey](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
 Collection of keys.
 ### Implements
 
-[IDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Keys](http://msdn2.microsoft.com/en-us/library/1ebzfbyx)
+[IDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Keys](http://msdn.microsoft.com/en-us/library/1ebzfbyx)
 
 See Also
 --------

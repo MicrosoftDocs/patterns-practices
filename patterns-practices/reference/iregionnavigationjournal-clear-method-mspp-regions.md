@@ -20,7 +20,7 @@ Clears the journal of current, back, and forward navigation histories.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>void Clear()Sub Clear
+void Clear()Sub Clear
 
 See Also
 --------

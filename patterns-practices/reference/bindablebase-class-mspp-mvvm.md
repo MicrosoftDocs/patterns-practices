@@ -9,7 +9,7 @@ Prism Class Library
 
 # BindableBase Class
 
-Implementation of [INotifyPropertyChanged](http://msdn2.microsoft.com/en-us/library/ms133020) to simplify models.
+Implementation of [INotifyPropertyChanged](http://msdn.microsoft.com/en-us/library/ms133020) to simplify models.
 
 **Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm(v=pandp.50))
 
@@ -29,7 +29,7 @@ Public MustInherit Class BindableBase
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
   Microsoft.Practices.Prism.Mvvm.BindableBase
 

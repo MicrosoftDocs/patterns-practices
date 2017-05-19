@@ -20,13 +20,13 @@ Defines that a view is synchronized with its parent view's Active state.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public sealed class SyncActiveStateAttribute : AttributePublic NotInheritable Class SyncActiveStateAttribute Inherits Attribute
+public sealed class SyncActiveStateAttribute : AttributePublic NotInheritable Class SyncActiveStateAttribute Inherits Attribute
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System.Attribute](http://msdn2.microsoft.com/en-us/library/e8kc3626)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [System.Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626)
     Microsoft.Practices.Prism.Regions.SyncActiveStateAttribute
 
 See Also

@@ -20,12 +20,12 @@ Initializes a new instance of the [ModuleExportAttribute](https://msdn.microsoft
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModuleExportAttribute( Type moduleType )Public Sub New ( moduleType As Type )
+public ModuleExportAttribute( Type moduleType )Public Sub New ( moduleType As Type )
 
 ### Parameters
 
 moduleType  
-Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 The concrete type of the module being exported. Not typeof(IModule).
 
 See Also

@@ -20,7 +20,7 @@ Exports the BindRegionContextToDependencyObjectBehavior using the Managed Extens
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class MefBindRegionContextToDependencyObjectBehavior : BindRegionContextToDependencyObjectBehaviorPublic Class MefBindRegionContextToDependencyObjectBehavior Inherits BindRegionContextToDependencyObjectBehavior
+public class MefBindRegionContextToDependencyObjectBehavior : BindRegionContextToDependencyObjectBehaviorPublic Class MefBindRegionContextToDependencyObjectBehavior Inherits BindRegionContextToDependencyObjectBehavior
 
 Remarks
 -------
@@ -30,7 +30,7 @@ Remarks
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior)
     Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefBindRegionContextToDependencyObjectBehavior
 

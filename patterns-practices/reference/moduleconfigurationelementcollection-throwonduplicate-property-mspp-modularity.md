@@ -33,9 +33,9 @@ Gets a value indicating whether an exception should be raised if a duplicate ele
 
 ### Property Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
-A [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50) value.
+A [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50) value.
 
 See Also
 --------

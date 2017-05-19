@@ -20,7 +20,7 @@ Initializes a new instance of the [RegionBehavior](https://msdn.microsoft.com/t:
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected RegionBehavior()Protected Sub New
+protected RegionBehavior()Protected Sub New
 
 See Also
 --------

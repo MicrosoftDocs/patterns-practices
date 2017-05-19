@@ -20,10 +20,10 @@ Gets the name of the region that uniequely identifies the region within a [IRegi
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public string Name { get; set; }Public Property Name As String Get Set
+public string Name { get; set; }Public Property Name As String Get Set
 ### Property Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region.
 ### Implements
 

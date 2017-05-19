@@ -20,7 +20,7 @@ Ensures that there are no modules marked to be loaded [WhenAvailable](https://ms
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void ValidateDependenciesInitializationMode()Protected Overridable Sub ValidateDependenciesInitializationMode
+protected virtual void ValidateDependenciesInitializationMode()Protected Overridable Sub ValidateDependenciesInitializationMode
 
 See Also
 --------

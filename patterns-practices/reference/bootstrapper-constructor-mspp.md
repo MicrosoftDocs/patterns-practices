@@ -20,7 +20,7 @@ Initializes a new instance of the [Bootstrapper](https://msdn.microsoft.com/t:mi
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected Bootstrapper()Protected Sub New
+protected Bootstrapper()Protected Sub New
 
 See Also
 --------

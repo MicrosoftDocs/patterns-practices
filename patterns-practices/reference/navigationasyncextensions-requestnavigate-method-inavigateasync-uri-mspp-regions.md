@@ -10,7 +10,7 @@ Prism Class Library
 NavigationAsyncExtensions.RequestNavigate Method (INavigateAsync, Uri)
 ==========================================================================
 
-Initiates navigation to the target specified by the [Uri](http://msdn2.microsoft.com/en-us/library/txt7706a).
+Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -20,7 +20,7 @@ Initiates navigation to the target specified by the [Uri](http://msdn2.microsoft
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static void RequestNavigate( this INavigateAsync navigation, Uri target )&lt;ExtensionAttribute&gt; Public Shared Sub RequestNavigate ( navigation As INavigateAsync, target As Uri )
+public static void RequestNavigate( this INavigateAsync navigation, Uri target )&lt;ExtensionAttribute&gt; Public Shared Sub RequestNavigate ( navigation As INavigateAsync, target As Uri )
 
 ### Parameters
 
@@ -29,7 +29,7 @@ Type: [Microsoft.Practices.Prism.Regions.INavigateAsync](https://msdn.microsoft.
 The navigation object.
 
 target  
-Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 The navigation target
 
 ### Usage Note

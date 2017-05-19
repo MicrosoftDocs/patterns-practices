@@ -10,7 +10,7 @@ Prism Class Library
 MefBootstrapper.Container Property
 ======================================
 
-Gets or sets the default [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553) for the application.
+Gets or sets the default [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553) for the application.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
@@ -20,11 +20,11 @@ Gets or sets the default [CompositionContainer](http://msdn2.microsoft.com/en-us
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected CompositionContainer Container { get; set; }Protected Property Container As CompositionContainer Get Set
+protected CompositionContainer Container { get; set; }Protected Property Container As CompositionContainer Get Set
 ### Property Value
 
-Type: [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553)
-The default [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553) instance.
+Type: [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553)
+The default [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553) instance.
 
 See Also
 --------

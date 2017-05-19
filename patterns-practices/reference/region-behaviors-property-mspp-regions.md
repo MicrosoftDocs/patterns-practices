@@ -20,7 +20,7 @@ Gets the collection of [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public IRegionBehaviorCollection Behaviors { get; }Public ReadOnly Property Behaviors As IRegionBehaviorCollection Get
+public IRegionBehaviorCollection Behaviors { get; }Public ReadOnly Property Behaviors As IRegionBehaviorCollection Get
 ### Property Value
 
 Type: [IRegionBehaviorCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorcollection)

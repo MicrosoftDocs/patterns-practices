@@ -20,12 +20,12 @@ Adds a module to the solver.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void AddModule( string name )Public Sub AddModule ( name As String )
+public void AddModule( string name )Public Sub AddModule ( name As String )
 
 ### Parameters
 
 name  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name that uniquely identifies the module.
 
 See Also

@@ -18,7 +18,7 @@ Initializes a new instance of the [EventAggregator](https://msdn.microsoft.com/t
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public EventAggregator()Public Sub New
+public EventAggregator()Public Sub New
 
 See Also
 --------

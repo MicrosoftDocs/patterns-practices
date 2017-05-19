@@ -20,12 +20,12 @@ Registers the mapping between a type and an adapter.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void RegisterMapping( Type controlType, IRegionAdapter adapter )Public Sub RegisterMapping ( controlType As Type, adapter As IRegionAdapter )
+public void RegisterMapping( Type controlType, IRegionAdapter adapter )Public Sub RegisterMapping ( controlType As Type, adapter As IRegionAdapter )
 
 ### Parameters
 
 controlType  
-Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 The type of the control.
 
 adapter  
@@ -38,8 +38,8 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                                 | Condition                                                                                            |
 |-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy)     | When any of controlType or adapter are nullNothingnullptra null reference (Nothing in Visual Basic). |
-| [System.InvalidOperationException](http://msdn2.microsoft.com/en-us/library/2asft85a) | If a mapping for controlType already exists.                                                         |
+| [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)     | When any of controlType or adapter are nullNothingnullptra null reference (Nothing in Visual Basic). |
+| [System.InvalidOperationException](http://msdn.microsoft.com/en-us/library/2asft85a) | If a mapping for controlType already exists.                                                         |
 
 See Also
 --------

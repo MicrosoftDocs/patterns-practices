@@ -48,25 +48,25 @@ Creates the [IModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.pr
 Creates the shell or main window of the application.
 
 ![](https://msdn.microsoft.com/en-us/Gg430970.pubmethod(en-us,PandP.50).gif "Public method")
-[Equals](http://msdn2.microsoft.com/en-us/library/bsc2ak47)
-Determines whether the specified [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).
+[Equals](http://msdn.microsoft.com/en-us/library/bsc2ak47)
+Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 ![](https://msdn.microsoft.com/en-us/Gg430970.protmethod(en-us,PandP.50).gif "Protected method")
-[Finalize](http://msdn2.microsoft.com/en-us/library/4k87zsw7)
+[Finalize](http://msdn.microsoft.com/en-us/library/4k87zsw7)
 Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 ![](https://msdn.microsoft.com/en-us/Gg430970.pubmethod(en-us,PandP.50).gif "Public method")
-[GetHashCode](http://msdn2.microsoft.com/en-us/library/zdee4b3y)
+[GetHashCode](http://msdn.microsoft.com/en-us/library/zdee4b3y)
 Serves as a hash function for a particular type.
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 ![](https://msdn.microsoft.com/en-us/Gg430970.pubmethod(en-us,PandP.50).gif "Public method")
-[GetType](http://msdn2.microsoft.com/en-us/library/dfwy45w9)
-Gets the [Type](http://msdn2.microsoft.com/en-us/library/42892f65) of the current instance.
+[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)
+Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 ![](https://msdn.microsoft.com/en-us/Gg430970.protmethod(en-us,PandP.50).gif "Protected method")
 [InitializeModules](https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.initializemodules)
 Initializes the modules. May be overwritten in a derived class to use a custom Modules Catalog
@@ -76,13 +76,13 @@ Initializes the modules. May be overwritten in a derived class to use a custom M
 Initializes the shell.
 
 ![](https://msdn.microsoft.com/en-us/Gg430970.protmethod(en-us,PandP.50).gif "Protected method")
-[MemberwiseClone](http://msdn2.microsoft.com/en-us/library/57ctke0a)
-Creates a shallow copy of the current [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).
+[MemberwiseClone](http://msdn.microsoft.com/en-us/library/57ctke0a)
+Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 ![](https://msdn.microsoft.com/en-us/Gg430970.protmethod(en-us,PandP.50).gif "Protected method")
 [RegisterFrameworkExceptionTypes](https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.registerframeworkexceptiontypes)
-Registers the [Type](http://msdn2.microsoft.com/en-us/library/42892f65)s of the Exceptions that are not considered root exceptions by the [ExceptionExtensions](https://msdn.microsoft.com/t:microsoft.practices.prism.exceptionextensions).
+Registers the [Type](http://msdn.microsoft.com/en-us/library/42892f65)s of the Exceptions that are not considered root exceptions by the [ExceptionExtensions](https://msdn.microsoft.com/t:microsoft.practices.prism.exceptionextensions).
 
 ![](https://msdn.microsoft.com/en-us/Gg430970.pubmethod(en-us,PandP.50).gif "Public method")
 [Run()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.run)
@@ -93,10 +93,10 @@ Runs the bootstrapper process.
 Run the bootstrapper process.
 
 ![](https://msdn.microsoft.com/en-us/Gg430970.pubmethod(en-us,PandP.50).gif "Public method")
-[ToString](http://msdn2.microsoft.com/en-us/library/7bxwbwt2)
+[ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)
 Returns a string that represents the current object.
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 
 See Also
 --------

@@ -20,7 +20,7 @@ Gets the default IUnityContainer for the application.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public IUnityContainer Container { get; protected set; }Public Property Container As IUnityContainer Get Protected Set
+public IUnityContainer Container { get; protected set; }Public Property Container As IUnityContainer Get Protected Set
 ### Property Value
 
 Type: IUnityContainer

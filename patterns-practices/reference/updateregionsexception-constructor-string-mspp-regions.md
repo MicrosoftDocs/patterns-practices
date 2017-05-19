@@ -20,12 +20,12 @@ Initializes a new instance of the [UpdateRegionsException](https://msdn.microsof
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public UpdateRegionsException( string message )Public Sub New ( message As String )
+public UpdateRegionsException( string message )Public Sub New ( message As String )
 
 ### Parameters
 
 message  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The message that describes the error.
 
 See Also

@@ -34,7 +34,7 @@ Properties
 <td><img src="https://msdn.microsoft.com/en-us/Dn736152.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.pubsubevents.idelegatereference.target">Target</a></td>
 <td><div class="summary">
-Gets the referenced <a href="http://msdn2.microsoft.com/en-us/library/y22acf51">Delegate</a> object.
+Gets the referenced <a href="http://msdn.microsoft.com/en-us/library/y22acf51">Delegate</a> object.
 </div></td>
 </tr>
 </tbody>

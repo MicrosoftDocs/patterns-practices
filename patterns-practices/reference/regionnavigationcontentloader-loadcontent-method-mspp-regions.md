@@ -20,7 +20,7 @@ Gets the view to which the navigation request represented by navigationContext a
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public Object LoadContent( IRegion region, NavigationContext navigationContext )Public Function LoadContent ( region As IRegion, navigationContext As NavigationContext ) As Object
+public Object LoadContent( IRegion region, NavigationContext navigationContext )Public Function LoadContent ( region As IRegion, navigationContext As NavigationContext ) As Object
 
 ### Parameters
 
@@ -34,7 +34,7 @@ The context representing the navigation request.
 
 ### Return Value
 
-Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The view to be the target of the navigation request.
 ### Implements
 
@@ -51,7 +51,7 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                         | Condition                                                     |
 |-----------------------------------------------------------------------------------|---------------------------------------------------------------|
-| [System.ArgumentException](http://msdn2.microsoft.com/en-us/library/3w1b3114) | when a new view cannot be created for the navigation request. |
+| [System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114) | when a new view cannot be created for the navigation request. |
 
 See Also
 --------

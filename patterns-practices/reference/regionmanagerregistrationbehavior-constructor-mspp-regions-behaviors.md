@@ -20,7 +20,7 @@ Initializes a new instance of [RegionManagerRegistrationBehavior](https://msdn.m
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public RegionManagerRegistrationBehavior()Public Sub New
+public RegionManagerRegistrationBehavior()Public Sub New
 
 See Also
 --------

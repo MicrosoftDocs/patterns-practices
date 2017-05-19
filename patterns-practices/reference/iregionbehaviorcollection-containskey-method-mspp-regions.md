@@ -20,17 +20,17 @@ Checks if a [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.p
 ## Syntax
 
 
-<span id="syntaxToggle"></span>bool ContainsKey( string key )Function ContainsKey ( key As String ) As Boolean
+bool ContainsKey( string key )Function ContainsKey ( key As String ) As Boolean
 
 ### Parameters
 
 key  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The key to use to find a particular [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior).
 
 ### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 See Also
 --------

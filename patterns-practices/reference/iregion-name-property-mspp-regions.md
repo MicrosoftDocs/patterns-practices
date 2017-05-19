@@ -32,7 +32,7 @@ Property Name As String
 
 ### Property Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 The name of the region.
 

@@ -20,7 +20,7 @@ Gets or sets the collection of modules configuration.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModuleConfigurationElementCollection Modules { get; set; }Public Property Modules As ModuleConfigurationElementCollection Get Set
+public ModuleConfigurationElementCollection Modules { get; set; }Public Property Modules As ModuleConfigurationElementCollection Get Set
 ### Property Value
 
 Type: [ModuleConfigurationElementCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)

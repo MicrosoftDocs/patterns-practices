@@ -20,10 +20,10 @@ Gets or sets the TriggerParameterPath value.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public string TriggerParameterPath { get; set; }Public Property TriggerParameterPath As String Get Set
+public string TriggerParameterPath { get; set; }Public Property TriggerParameterPath As String Get Set
 ### Property Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 See Also
 --------

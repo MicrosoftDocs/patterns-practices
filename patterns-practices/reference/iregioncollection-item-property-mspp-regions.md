@@ -20,12 +20,12 @@ Gets the IRegion with the name received as index.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>IRegion this[ string regionName \] { get; }ReadOnly Default Property Item ( regionName As String ) As IRegion Get
+IRegion this[ string regionName \] { get; }ReadOnly Default Property Item ( regionName As String ) As IRegion Get
 
 ### Parameters
 
 regionName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Name of the region to be retrieved.
 
 ### Return Value

@@ -18,7 +18,7 @@ Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matchin
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public virtual bool Contains( SubscriptionToken token )Public Overridable Function Contains ( token As SubscriptionToken ) As Boolean
+public virtual bool Contains( SubscriptionToken token )Public Overridable Function Contains ( token As SubscriptionToken ) As Boolean
 
 ### Parameters
 
@@ -28,7 +28,7 @@ The [SubscriptionToken](https://msdn.microsoft.com/t:microsoft.practices.prism.p
 
 ### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if there is a [SubscriptionToken](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken) that matches; otherwise falseFalsefalsefalse (False in Visual Basic).
 
 See Also

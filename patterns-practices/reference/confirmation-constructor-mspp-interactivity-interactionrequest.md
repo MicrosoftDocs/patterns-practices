@@ -20,7 +20,7 @@ Initializes a new instance of the [Confirmation](https://msdn.microsoft.com/t:mi
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public Confirmation()Public Sub New
+public Confirmation()Public Sub New
 
 See Also
 --------

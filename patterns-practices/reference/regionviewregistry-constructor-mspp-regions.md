@@ -20,13 +20,13 @@ Creates a new instance of the [RegionViewRegistry](https://msdn.microsoft.com/t:
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public RegionViewRegistry( IServiceLocator locator )Public Sub New ( locator As IServiceLocator )
+public RegionViewRegistry( IServiceLocator locator )Public Sub New ( locator As IServiceLocator )
 
 ### Parameters
 
 locator  
 Type: IServiceLocator
-IServiceLocator used to create the instance of the views from its [Type](http://msdn2.microsoft.com/en-us/library/42892f65).
+IServiceLocator used to create the instance of the views from its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
 See Also
 --------

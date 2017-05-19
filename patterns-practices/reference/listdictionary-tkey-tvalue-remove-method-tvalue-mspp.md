@@ -20,7 +20,7 @@ Removes a value from all lists where it may be found.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void Remove( TValue value )Public Sub Remove ( value As TValue )
+public void Remove( TValue value )Public Sub Remove ( value As TValue )
 
 ### Parameters
 

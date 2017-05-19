@@ -20,7 +20,7 @@ Configures the [IModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void ConfigureModuleCatalog()Protected Overridable Sub ConfigureModuleCatalog
+protected virtual void ConfigureModuleCatalog()Protected Overridable Sub ConfigureModuleCatalog
 
 See Also
 --------

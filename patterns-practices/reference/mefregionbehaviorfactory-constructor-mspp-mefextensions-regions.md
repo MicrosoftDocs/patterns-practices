@@ -20,13 +20,13 @@ Initializes a new instance of the [MefRegionBehaviorFactory](https://msdn.micros
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public MefRegionBehaviorFactory( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
+public MefRegionBehaviorFactory( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
 
 ### Parameters
 
 serviceLocator  
 Type: IServiceLocator
-IServiceLocator used to create the instance of the behavior from its [Type](http://msdn2.microsoft.com/en-us/library/42892f65).
+IServiceLocator used to create the instance of the behavior from its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
 See Also
 --------

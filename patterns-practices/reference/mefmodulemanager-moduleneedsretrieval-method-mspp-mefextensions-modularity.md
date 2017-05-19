@@ -20,7 +20,7 @@ Checks if the module needs to be retrieved before it's initialized.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected override bool ModuleNeedsRetrieval( ModuleInfo moduleInfo )Protected Overrides Function ModuleNeedsRetrieval ( moduleInfo As ModuleInfo ) As Boolean
+protected override bool ModuleNeedsRetrieval( ModuleInfo moduleInfo )Protected Overrides Function ModuleNeedsRetrieval ( moduleInfo As ModuleInfo ) As Boolean
 
 ### Parameters
 
@@ -30,7 +30,7 @@ Module that is being checked if needs retrieval.
 
 ### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 True if the module needs to be retrieved. Otherwise, false.
 
 See Also

@@ -34,7 +34,7 @@ Methods
 <td><img src="https://msdn.microsoft.com/en-us/Gg430792.pubmethod(en-us,PandP.50).gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg430792.static(en-us,PandP.50).gif" title="Static member" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.mefextensions.defaultprismserviceregistrar.registerrequiredprismservicesifmissing(system.componentmodel.composition.hosting.aggregatecatalog)">RegisterRequiredPrismServicesIfMissing</a></td>
 <td><div class="summary">
-Registers the required Prism types that are not already registered in the <a href="http://msdn2.microsoft.com/en-us/library/dd833165">AggregateCatalog</a>.
+Registers the required Prism types that are not already registered in the <a href="http://msdn.microsoft.com/en-us/library/dd833165">AggregateCatalog</a>.
 </div></td>
 </tr>
 </tbody>

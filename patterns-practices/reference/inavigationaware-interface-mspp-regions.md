@@ -20,7 +20,7 @@ Provides a way for objects involved in navigation to be notified of navigation a
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface INavigationAwarePublic Interface INavigationAware
+public interface INavigationAwarePublic Interface INavigationAware
 
 See Also
 --------

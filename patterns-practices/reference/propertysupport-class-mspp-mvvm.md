@@ -18,12 +18,12 @@ Provides support for extracting property information based on a property express
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static class PropertySupportPublic NotInheritable Class PropertySupport
+public static class PropertySupportPublic NotInheritable Class PropertySupport
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Mvvm.PropertySupport
 
 See Also

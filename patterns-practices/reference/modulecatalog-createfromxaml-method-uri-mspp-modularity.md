@@ -20,13 +20,13 @@ Creates a [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static ModuleCatalog CreateFromXaml( Uri builderResourceUri )Public Shared Function CreateFromXaml ( builderResourceUri As Uri ) As ModuleCatalog
+public static ModuleCatalog CreateFromXaml( Uri builderResourceUri )Public Shared Function CreateFromXaml ( builderResourceUri As Uri ) As ModuleCatalog
 
 ### Parameters
 
 builderResourceUri  
-Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
-Relative [Uri](http://msdn2.microsoft.com/en-us/library/txt7706a) that identifies the XAML included as an Application Resource.
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
+Relative [Uri](http://msdn.microsoft.com/en-us/library/txt7706a) that identifies the XAML included as an Application Resource.
 
 ### Return Value
 

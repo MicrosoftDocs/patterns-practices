@@ -20,13 +20,13 @@ Represents errors that occured during region creation.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>[SerializableAttribute\] public class RegionCreationException : Exception&lt;SerializableAttribute&gt; Public Class RegionCreationException Inherits Exception
+[SerializableAttribute\] public class RegionCreationException : Exception&lt;SerializableAttribute&gt; Public Class RegionCreationException Inherits Exception
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
     Microsoft.Practices.Prism.Regions.Behaviors.RegionCreationException
 
 See Also

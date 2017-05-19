@@ -20,7 +20,7 @@ Constructor specifying the target object.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public CommandBehaviorBase( T targetObject )Public Sub New ( targetObject As T )
+public CommandBehaviorBase( T targetObject )Public Sub New ( targetObject As T )
 
 ### Parameters
 

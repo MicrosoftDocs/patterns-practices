@@ -22,13 +22,13 @@ Exception that's thrown when something goes wrong while Registering a View with 
 ## Syntax
 
 
-<span id="syntaxToggle"></span>[SerializableAttribute\] public class ViewRegistrationException : Exception&lt;SerializableAttribute&gt; Public Class ViewRegistrationException Inherits Exception
+[SerializableAttribute\] public class ViewRegistrationException : Exception&lt;SerializableAttribute&gt; Public Class ViewRegistrationException Inherits Exception
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
     Microsoft.Practices.Prism.Regions.ViewRegistrationException
 
 See Also

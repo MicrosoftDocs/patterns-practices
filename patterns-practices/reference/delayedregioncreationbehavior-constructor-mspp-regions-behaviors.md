@@ -20,7 +20,7 @@ Initializes a new instance of the [DelayedRegionCreationBehavior](https://msdn.m
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public DelayedRegionCreationBehavior( RegionAdapterMappings regionAdapterMappings )Public Sub New ( regionAdapterMappings As RegionAdapterMappings )
+public DelayedRegionCreationBehavior( RegionAdapterMappings regionAdapterMappings )Public Sub New ( regionAdapterMappings As RegionAdapterMappings )
 
 ### Parameters
 

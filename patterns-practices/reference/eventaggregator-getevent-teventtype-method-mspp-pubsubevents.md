@@ -18,7 +18,7 @@ Gets the single instance of the event managed by this EventAggregator. Multiple 
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public TEventType GetEvent&lt;TEventType&gt;() where TEventType : new(), EventBase Public Function GetEvent(Of TEventType As {New, EventBase}) As TEventType
+public TEventType GetEvent&lt;TEventType&gt;() where TEventType : new(), EventBase Public Function GetEvent(Of TEventType As {New, EventBase}) As TEventType
 Type Parameters
 ---------------
 

@@ -20,18 +20,18 @@ Gets the number of elements contained in the [ModuleInfoGroup](https://msdn.micr
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public int Count { get; }Public ReadOnly Property Count As Integer Get
+public int Count { get; }Public ReadOnly Property Count As Integer Get
 ### Property Value
 
-Type: [Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
+Type: [Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
 ### Return Value
 
-Type: [Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
+Type: [Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
 The number of elements contained in the [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup).
 ### Implements
 
-[ICollection&lt;(Of &lt;(T&gt;)&gt;).Count](http://msdn2.microsoft.com/en-us/library/5s3kzhec)
-[ICollection.Count](http://msdn2.microsoft.com/en-us/library/2yz8a4x3)
+[ICollection&lt;(Of &lt;(T&gt;)&gt;).Count](http://msdn.microsoft.com/en-us/library/5s3kzhec)
+[ICollection.Count](http://msdn.microsoft.com/en-us/library/2yz8a4x3)
 
 See Also
 --------

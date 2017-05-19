@@ -18,10 +18,10 @@ Gets the list of all the registered commands.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public IList&lt;ICommand&gt; RegisteredCommands { get; }Public ReadOnly Property RegisteredCommands As IList(Of ICommand) Get
+public IList&lt;ICommand&gt; RegisteredCommands { get; }Public ReadOnly Property RegisteredCommands As IList(Of ICommand) Get
 ### Property Value
 
-Type: [IList](http://msdn2.microsoft.com/en-us/library/5y536ey6)&lt;(Of &lt;([ICommand](http://msdn2.microsoft.com/en-us/library/ms616869)&gt;)&gt;)
+Type: [IList](http://msdn.microsoft.com/en-us/library/5y536ey6)&lt;(Of &lt;([ICommand](http://msdn.microsoft.com/en-us/library/ms616869)&gt;)&gt;)
 A list of registered commands.
 
 Remarks

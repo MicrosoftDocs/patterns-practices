@@ -20,7 +20,7 @@ Evaluates if a specified type was registered in the container.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static bool IsTypeRegistered( IUnityContainer container, Type type )Public Shared Function IsTypeRegistered ( container As IUnityContainer, type As Type ) As Boolean
+public static bool IsTypeRegistered( IUnityContainer container, Type type )Public Shared Function IsTypeRegistered ( container As IUnityContainer, type As Type ) As Boolean
 
 ### Parameters
 
@@ -29,12 +29,12 @@ Type: IUnityContainer
 The container to check if the type was registered in.
 
 type  
-Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 The type to check if it was registered.
 
 ### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if the type was registered with the container.
 
 Remarks

@@ -20,16 +20,16 @@ Initializes a new instance of the [CyclicDependencyFoundException](https://msdn.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public CyclicDependencyFoundException( string message, Exception innerException )Public Sub New ( message As String, innerException As Exception )
+public CyclicDependencyFoundException( string message, Exception innerException )Public Sub New ( message As String, innerException As Exception )
 
 ### Parameters
 
 message  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The error message that explains the reason for the exception.
 
 innerException  
-Type: [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 The exception that is the cause of the current exception.
 
 See Also

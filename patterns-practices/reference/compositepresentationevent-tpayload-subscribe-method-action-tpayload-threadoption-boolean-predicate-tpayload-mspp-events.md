@@ -31,7 +31,7 @@ public virtual SubscriptionToken Subscribe(
 
 *action*
       
-    Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)<[TPayload])(https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))>
+    Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)<[TPayload])(https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))>
     The delegate that gets executed when the event is published.
 
 *threadOption*
@@ -41,12 +41,12 @@ public virtual SubscriptionToken Subscribe(
 
 *keepSubscriberReferenceAlive*
 
-    Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+    Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
     When **truetrue** (**True** in Visual Basic), the [CompositePresentationEvent<TPayload>](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)) keeps a reference to the subscriber so it does not get garbage collected.
 
 *filter*
 
-    Type: [System.Predicate](http://msdn2.microsoft.com/en-us/library/bfcke1bz)<[TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))>
+    Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)<[TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))>
 
     Filter to evaluate if the subscriber should receive the event.
 
@@ -58,7 +58,7 @@ A SubscriptionToken that uniquely identifies the added subscription.
 
 ## Remarks
 
-If *keepSubscriberReferenceAlive* is set to **falsefalse** (**False** in Visual Basic), [CompositePresentationEvent&lt;TPayload&gt;](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)) will maintain a [WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate. If not using a WeakReference (*keepSubscriberReferenceAlive* is **truetrue** (**True** in Visual Basic)), the user must explicitly call Unsubscribe for the event when disposing the subscriber in order to avoid memory leaks or unexepcted behavior. The CompositePresentationEvent collection is thread-safe.
+If *keepSubscriberReferenceAlive* is set to **falsefalse** (**False** in Visual Basic), [CompositePresentationEvent&lt;TPayload&gt;](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate. If not using a WeakReference (*keepSubscriberReferenceAlive* is **truetrue** (**True** in Visual Basic)), the user must explicitly call Unsubscribe for the event when disposing the subscriber in order to avoid memory leaks or unexepcted behavior. The CompositePresentationEvent collection is thread-safe.
 
 ## See Also
 
@@ -97,7 +97,7 @@ Public Overridable Function Subscribe (
 
 *action*
       
-    Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)))
+    Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)))
     The delegate that gets executed when the event is published.
 
 *threadOption*
@@ -107,12 +107,12 @@ Public Overridable Function Subscribe (
 
 *keepSubscriberReferenceAlive*
 
-    Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+    Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
     When trueTruetruetrue (True in Visual Basic), the [CompositePresentationEvent(Of (TPayload))](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)) keeps a reference to the subscriber so it does not get garbage collected.
 
 *filter*
 
-    Type: [System.Predicate](http://msdn2.microsoft.com/en-us/library/bfcke1bz)(Of [TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)))
+    Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)(Of [TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)))
     Filter to evaluate if the subscriber should receive the event.
 
 ### Return Value
@@ -123,7 +123,7 @@ A SubscriptionToken that uniquely identifies the added subscription.
 
 ## Remarks
 
-If *keepSubscriberReferenceAlive* is set to **Falsefalse** (**False** in Visual Basic), [CompositePresentationEvent(Of TPayload)](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)) will maintain a [WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied *action* delegate. If not using a WeakReference (*keepSubscriberReferenceAlive* is **Truetrue** (**True** in Visual Basic)), the user must explicitly call Unsubscribe for the event when disposing the subscriber in order to avoid memory leaks or unexepcted behavior. The CompositePresentationEvent collection is thread-safe.
+If *keepSubscriberReferenceAlive* is set to **Falsefalse** (**False** in Visual Basic), [CompositePresentationEvent(Of TPayload)](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied *action* delegate. If not using a WeakReference (*keepSubscriberReferenceAlive* is **Truetrue** (**True** in Visual Basic)), the user must explicitly call Unsubscribe for the event when disposing the subscriber in order to avoid memory leaks or unexepcted behavior. The CompositePresentationEvent collection is thread-safe.
 
 ## See Also
 

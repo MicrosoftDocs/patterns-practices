@@ -20,12 +20,12 @@ Raises this object's PropertyChanged event.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void RaisePropertyChanged( string propertyName )Protected Overridable Sub RaisePropertyChanged ( propertyName As String )
+protected virtual void RaisePropertyChanged( string propertyName )Protected Overridable Sub RaisePropertyChanged ( propertyName As String )
 
 ### Parameters
 
 propertyName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The property that has a new value.
 
 See Also

@@ -10,7 +10,7 @@ Prism Class Library
 CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;).Command Property
 ================================================================
 
-Corresponding command to be execute and monitored for [CanExecuteChanged](http://msdn2.microsoft.com/en-us/library/ms523106)
+Corresponding command to be execute and monitored for [CanExecuteChanged](http://msdn.microsoft.com/en-us/library/ms523106)
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
@@ -20,10 +20,10 @@ Corresponding command to be execute and monitored for [CanExecuteChanged](http:/
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ICommand Command { get; set; }Public Property Command As ICommand Get Set
+public ICommand Command { get; set; }Public Property Command As ICommand Get Set
 ### Property Value
 
-Type: [ICommand](http://msdn2.microsoft.com/en-us/library/ms616869)
+Type: [ICommand](http://msdn.microsoft.com/en-us/library/ms616869)
 
 See Also
 --------

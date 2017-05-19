@@ -10,7 +10,7 @@ Prism Class Library
 RegionViewRegistry.CreateInstance Method
 ============================================
 
-Creates an instance of a registered view [Type](http://msdn2.microsoft.com/en-us/library/42892f65).
+Creates an instance of a registered view [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -20,17 +20,17 @@ Creates an instance of a registered view [Type](http://msdn2.microsoft.com/en-us
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual Object CreateInstance( Type type )Protected Overridable Function CreateInstance ( type As Type ) As Object
+protected virtual Object CreateInstance( Type type )Protected Overridable Function CreateInstance ( type As Type ) As Object
 
 ### Parameters
 
 type  
-Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 Type of the registered view.
 
 ### Return Value
 
-Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 Instance of the registered view.
 
 See Also

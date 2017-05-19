@@ -20,7 +20,7 @@ Configures the IUnityContainer. May be overwritten in a derived class to add spe
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void ConfigureContainer()Protected Overridable Sub ConfigureContainer
+protected virtual void ConfigureContainer()Protected Overridable Sub ConfigureContainer
 
 See Also
 --------

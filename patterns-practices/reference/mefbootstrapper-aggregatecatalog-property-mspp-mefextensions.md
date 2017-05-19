@@ -30,7 +30,7 @@ Protected Property AggregateCatalog As AggregateCatalog
 
 ### Property Value
 
-Type: [AggregateCatalog](http://msdn2.microsoft.com/en-us/library/dd833165)<br/>
+Type: [AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165)<br/>
 The default AggregateCatalog instance.
 
 ## See Also

@@ -20,10 +20,10 @@ The element that will host the Region.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public DependencyObject TargetElement { get; set; }Public Property TargetElement As DependencyObject Get Set
+public DependencyObject TargetElement { get; set; }Public Property TargetElement As DependencyObject Get Set
 ### Property Value
 
-Type: [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
+Type: [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
 The target element.
 
 See Also

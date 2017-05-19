@@ -20,10 +20,10 @@ Called when a part's imports have been satisfied and it is safe to use.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public virtual void OnImportsSatisfied()Public Overridable Sub OnImportsSatisfied
+public virtual void OnImportsSatisfied()Public Overridable Sub OnImportsSatisfied
 ### Implements
 
-[IPartImportsSatisfiedNotification.OnImportsSatisfied()()()](http://msdn2.microsoft.com/en-us/library/dd833579)
+[IPartImportsSatisfiedNotification.OnImportsSatisfied()()()](http://msdn.microsoft.com/en-us/library/dd833579)
 
 Remarks
 -------

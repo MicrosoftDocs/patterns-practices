@@ -20,7 +20,7 @@ Initializes a new empty instance of [ModuleInfo](https://msdn.microsoft.com/t:mi
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModuleInfo()Public Sub New
+public ModuleInfo()Public Sub New
 
 See Also
 --------

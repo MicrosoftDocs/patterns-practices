@@ -20,7 +20,7 @@ Initializes a new instance of [UnityServiceLocatorAdapter](https://msdn.microsof
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public UnityServiceLocatorAdapter( IUnityContainer unityContainer )Public Sub New ( unityContainer As IUnityContainer )
+public UnityServiceLocatorAdapter( IUnityContainer unityContainer )Public Sub New ( unityContainer As IUnityContainer )
 
 ### Parameters
 

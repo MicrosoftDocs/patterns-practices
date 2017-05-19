@@ -20,10 +20,10 @@ Gets the navigation URI.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public Uri Uri { get; }Public ReadOnly Property Uri As Uri Get
+public Uri Uri { get; }Public ReadOnly Property Uri As Uri Get
 ### Property Value
 
-Type: [Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
+Type: [Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 The navigation URI.
 
 See Also

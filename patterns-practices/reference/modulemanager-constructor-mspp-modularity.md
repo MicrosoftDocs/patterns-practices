@@ -20,7 +20,7 @@ Initializes an instance of the [ModuleManager](https://msdn.microsoft.com/t:micr
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModuleManager( IModuleInitializer moduleInitializer, IModuleCatalog moduleCatalog, ILoggerFacade loggerFacade )Public Sub New ( moduleInitializer As IModuleInitializer, moduleCatalog As IModuleCatalog, loggerFacade As ILoggerFacade )
+public ModuleManager( IModuleInitializer moduleInitializer, IModuleCatalog moduleCatalog, ILoggerFacade loggerFacade )Public Sub New ( moduleInitializer As IModuleInitializer, moduleCatalog As IModuleCatalog, loggerFacade As ILoggerFacade )
 
 ### Parameters
 

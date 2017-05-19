@@ -20,7 +20,7 @@ Loads the modules that are not intialized and have their dependencies loaded.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected void LoadModulesThatAreReadyForLoad()Protected Sub LoadModulesThatAreReadyForLoad
+protected void LoadModulesThatAreReadyForLoad()Protected Sub LoadModulesThatAreReadyForLoad
 
 See Also
 --------

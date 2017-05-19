@@ -20,7 +20,7 @@ Configures the [AggregateCatalog](https://msdn.microsoft.com/p:microsoft.practic
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void ConfigureAggregateCatalog()Protected Overridable Sub ConfigureAggregateCatalog
+protected virtual void ConfigureAggregateCatalog()Protected Overridable Sub ConfigureAggregateCatalog
 
 Remarks
 -------

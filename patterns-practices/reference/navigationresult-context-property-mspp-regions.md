@@ -20,7 +20,7 @@ Gets the navigation context.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public NavigationContext Context { get; }Public ReadOnly Property Context As NavigationContext Get
+public NavigationContext Context { get; }Public ReadOnly Property Context As NavigationContext Get
 ### Property Value
 
 Type: [NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)

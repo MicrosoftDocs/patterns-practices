@@ -20,10 +20,10 @@ Gets or sets the value indicating whether the module should be loaded OnDemand.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public bool OnDemand { get; set; }Public Property OnDemand As Boolean Get Set
+public bool OnDemand { get; set; }Public Property OnDemand As Boolean Get Set
 ### Property Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 See Also
 --------

@@ -20,10 +20,10 @@ Gets or sets the comparison used to sort the views.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public Comparison&lt;Object&gt; SortComparison { get; set; }Public Property SortComparison As Comparison(Of Object) Get Set
+public Comparison&lt;Object&gt; SortComparison { get; set; }Public Property SortComparison As Comparison(Of Object) Get Set
 ### Property Value
 
-Type: [Comparison](http://msdn2.microsoft.com/en-us/library/tfakywbh)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
+Type: [Comparison](http://msdn.microsoft.com/en-us/library/tfakywbh)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 The comparison to use.
 ### Implements
 

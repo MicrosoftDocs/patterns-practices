@@ -20,7 +20,7 @@ Defines the interface for a collection of [IRegionBehavior](https://msdn.microso
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IRegionBehaviorCollection : IEnumerable&lt;KeyValuePair&lt;string, IRegionBehavior&gt;&gt;, IEnumerablePublic Interface IRegionBehaviorCollection Inherits IEnumerable(Of KeyValuePair(Of String, IRegionBehavior)), IEnumerable
+public interface IRegionBehaviorCollection : IEnumerable&lt;KeyValuePair&lt;string, IRegionBehavior&gt;&gt;, IEnumerablePublic Interface IRegionBehaviorCollection Inherits IEnumerable(Of KeyValuePair(Of String, IRegionBehavior)), IEnumerable
 
 See Also
 --------

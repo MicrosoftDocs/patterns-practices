@@ -20,7 +20,7 @@ Gets or sets the [IRegionManager](https://msdn.microsoft.com/t:microsoft.practic
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public IRegionManager RegionManager { get; set; }Public Property RegionManager As IRegionManager Get Set
+public IRegionManager RegionManager { get; set; }Public Property RegionManager As IRegionManager Get Set
 ### Property Value
 
 Type: [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)

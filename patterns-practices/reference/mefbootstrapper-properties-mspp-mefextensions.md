@@ -41,7 +41,7 @@ Gets or sets the default <a href="https://msdn.microsoft.com/p:microsoft.practic
 <td><img src="https://msdn.microsoft.com/en-us/Gg419176.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
 <td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.mefextensions.mefbootstrapper.container">Container</a></td>
 <td><div class="summary">
-Gets or sets the default <a href="http://msdn2.microsoft.com/en-us/library/dd833553">CompositionContainer</a> for the application.
+Gets or sets the default <a href="http://msdn.microsoft.com/en-us/library/dd833553">CompositionContainer</a> for the application.
 </div></td>
 </tr>
 <tr class="odd">

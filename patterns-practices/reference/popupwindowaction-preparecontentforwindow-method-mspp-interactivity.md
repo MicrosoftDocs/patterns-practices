@@ -20,7 +20,7 @@ Checks if the WindowContent or its DataContext implements [IInteractionRequestAw
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void PrepareContentForWindow( INotification notification, Window wrapperWindow )Protected Overridable Sub PrepareContentForWindow ( notification As INotification, wrapperWindow As Window )
+protected virtual void PrepareContentForWindow( INotification notification, Window wrapperWindow )Protected Overridable Sub PrepareContentForWindow ( notification As INotification, wrapperWindow As Window )
 
 ### Parameters
 
@@ -29,7 +29,7 @@ Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification]
 The notification to be set as a DataContext in the HostWindow.
 
 wrapperWindow  
-Type: [System.Windows.Window](http://msdn2.microsoft.com/en-us/library/ms590112)
+Type: [System.Windows.Window](http://msdn.microsoft.com/en-us/library/ms590112)
 The HostWindow
 
 See Also

@@ -20,7 +20,7 @@ Starts to monitor the [IRegion](https://msdn.microsoft.com/t:microsoft.practices
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected override void OnAttach()Protected Overrides Sub OnAttach
+protected override void OnAttach()Protected Overrides Sub OnAttach
 
 See Also
 --------

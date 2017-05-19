@@ -20,13 +20,13 @@ Exception thrown by [IModuleInitializer](https://msdn.microsoft.com/t:microsoft.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>[SerializableAttribute\] public class ModuleInitializeException : ModularityException&lt;SerializableAttribute&gt; Public Class ModuleInitializeException Inherits ModularityException
+[SerializableAttribute\] public class ModuleInitializeException : ModularityException&lt;SerializableAttribute&gt; Public Class ModuleInitializeException Inherits ModularityException
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
     [Microsoft.Practices.Prism.Modularity.ModularityException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modularityexception)
       Microsoft.Practices.Prism.Modularity.ModuleInitializeException
 

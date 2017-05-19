@@ -20,17 +20,17 @@ Resolves the instance of the requested service.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected override IEnumerable&lt;Object&gt; DoGetAllInstances( Type serviceType )Protected Overrides Function DoGetAllInstances ( serviceType As Type ) As IEnumerable(Of Object)
+protected override IEnumerable&lt;Object&gt; DoGetAllInstances( Type serviceType )Protected Overrides Function DoGetAllInstances ( serviceType As Type ) As IEnumerable(Of Object)
 
 ### Parameters
 
 serviceType  
-Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 Type of instance requested.
 
 ### Return Value
 
-Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 The requested service instance.
 
 See Also

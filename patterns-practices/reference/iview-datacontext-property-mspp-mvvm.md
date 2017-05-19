@@ -16,10 +16,10 @@ IView.DataContext Property
 ## Syntax
 
 
-<span id="syntaxToggle"></span>Object DataContext { get; set; }Property DataContext As Object Get Set
+Object DataContext { get; set; }Property DataContext As Object Get Set
 ### Property Value
 
-Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 See Also
 --------

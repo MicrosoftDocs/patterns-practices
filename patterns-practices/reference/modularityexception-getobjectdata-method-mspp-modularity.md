@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405866(v=PandP.50)'
 
 # ModularityException.GetObjectData Method 
 
-Sets the [SerializationInfo](http://msdn2.microsoft.com/en-us/library/a9b6042e) with information about the exception.
+Sets the [SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e) with information about the exception.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
 
@@ -38,20 +38,20 @@ Public Overrides Sub GetObjectData (
 ### Parameters
 
 *info*  
-Type: [System.Runtime.Serialization.SerializationInfo](http://msdn2.microsoft.com/en-us/library/a9b6042e)
+Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)
 
-The [SerializationInfo](http://msdn2.microsoft.com/en-us/library/a9b6042e) that holds the serialized object data about the exception being thrown.
+The [SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e) that holds the serialized object data about the exception being thrown.
 
 *context*  
-Type: [System.Runtime.Serialization.StreamingContext](http://msdn2.microsoft.com/en-us/library/t16abws5)
+Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5)
 
-The [StreamingContext](http://msdn2.microsoft.com/en-us/library/t16abws5) that contains contextual information about the source or destination.
+The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that contains contextual information about the source or destination.
 
 ### Implements
 
-[ISerializable.GetObjectData(SerializationInfo, StreamingContext)](http://msdn2.microsoft.com/en-us/library/27cxsdk6)
+[ISerializable.GetObjectData(SerializationInfo, StreamingContext)](http://msdn.microsoft.com/en-us/library/27cxsdk6)
 
-[_Exception.GetObjectData(SerializationInfo, StreamingContext)](http://msdn2.microsoft.com/en-us/library/854b9522)
+[_Exception.GetObjectData(SerializationInfo, StreamingContext)](http://msdn.microsoft.com/en-us/library/854b9522)
 
 ## See Also
 

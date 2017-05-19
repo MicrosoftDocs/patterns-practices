@@ -20,7 +20,7 @@ Behavior that monitors a [IRegion](https://msdn.microsoft.com/t:microsoft.practi
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class RegionActiveAwareBehavior : IRegionBehaviorPublic Class RegionActiveAwareBehavior Implements IRegionBehavior
+public class RegionActiveAwareBehavior : IRegionBehaviorPublic Class RegionActiveAwareBehavior Implements IRegionBehavior
 
 Remarks
 -------
@@ -30,7 +30,7 @@ Remarks
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior
     [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionActiveAwareBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefregionactiveawarebehavior)
 

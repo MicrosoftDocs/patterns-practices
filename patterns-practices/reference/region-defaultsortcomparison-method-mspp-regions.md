@@ -20,21 +20,21 @@ The default sort algorithm.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static int DefaultSortComparison( Object x, Object y )Public Shared Function DefaultSortComparison ( x As Object, y As Object ) As Integer
+public static int DefaultSortComparison( Object x, Object y )Public Shared Function DefaultSortComparison ( x As Object, y As Object ) As Integer
 
 ### Parameters
 
 x  
-Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The first view to compare.
 
 y  
-Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The second view to compare.
 
 ### Return Value
 
-Type: [Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
+Type: [Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
 
 See Also
 --------

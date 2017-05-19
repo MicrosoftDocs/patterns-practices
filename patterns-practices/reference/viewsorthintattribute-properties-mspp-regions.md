@@ -22,10 +22,10 @@ Description
 Gets the hint.
 
 ![](https://msdn.microsoft.com/en-us/Gg431226.pubproperty(en-us,PandP.50).gif "Public property")
-[TypeId](http://msdn2.microsoft.com/en-us/library/sa1bf03e)
-When implemented in a derived class, gets a unique identifier for this [Attribute](http://msdn2.microsoft.com/en-us/library/e8kc3626).
+[TypeId](http://msdn.microsoft.com/en-us/library/sa1bf03e)
+When implemented in a derived class, gets a unique identifier for this [Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626).
 
-(Inherited from [Attribute](http://msdn2.microsoft.com/en-us/library/e8kc3626).)
+(Inherited from [Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626).)
 
 ## See Also
 

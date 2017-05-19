@@ -29,7 +29,7 @@ Public Class RegionNavigationJournalEntry
 ```
 
 ## Inheritance Hierarchy
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry
     [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournalEntry](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry(v=pandp.50))
 

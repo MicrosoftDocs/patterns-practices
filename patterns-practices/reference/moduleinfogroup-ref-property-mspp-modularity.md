@@ -20,10 +20,10 @@ Gets or sets the [Ref](https://msdn.microsoft.com/p:microsoft.practices.prism.mo
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public string Ref { get; set; }Public Property Ref As String Get Set
+public string Ref { get; set; }Public Property Ref As String Get Set
 ### Property Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The ref value that will be used.
 
 See Also

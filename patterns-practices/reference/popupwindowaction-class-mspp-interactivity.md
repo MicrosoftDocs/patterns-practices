@@ -20,18 +20,18 @@ Shows a popup window in response to an [Microsoft.Practices.Prism.Interactivity.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class PopupWindowAction : TriggerAction&lt;FrameworkElement&gt;Public Class PopupWindowAction Inherits TriggerAction(Of FrameworkElement)
+public class PopupWindowAction : TriggerAction&lt;FrameworkElement&gt;Public Class PopupWindowAction Inherits TriggerAction(Of FrameworkElement)
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System.Windows.Threading.DispatcherObject](http://msdn2.microsoft.com/en-us/library/ms615925)
-    [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
-      [System.Windows.Freezable](http://msdn2.microsoft.com/en-us/library/ms602734)
-        [System.Windows.Media.Animation.Animatable](http://msdn2.microsoft.com/en-us/library/ms618388)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [System.Windows.Threading.DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925)
+    [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
+      [System.Windows.Freezable](http://msdn.microsoft.com/en-us/library/ms602734)
+        [System.Windows.Media.Animation.Animatable](http://msdn.microsoft.com/en-us/library/ms618388)
           TriggerAction
-            TriggerAction&lt;(Of &lt;([FrameworkElement](http://msdn2.microsoft.com/en-us/library/ms602714)&gt;)&gt;)
+            TriggerAction&lt;(Of &lt;([FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714)&gt;)&gt;)
               Microsoft.Practices.Prism.Interactivity.PopupWindowAction
 
 See Also

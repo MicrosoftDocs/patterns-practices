@@ -20,7 +20,7 @@ Initializes a new instance of the [RegionNavigationContentLoader](https://msdn.m
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public RegionNavigationContentLoader( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
+public RegionNavigationContentLoader( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
 
 ### Parameters
 

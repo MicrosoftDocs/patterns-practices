@@ -20,13 +20,13 @@ A configuration element to declare module metadata.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class ModuleConfigurationElement : ConfigurationElementPublic Class ModuleConfigurationElement Inherits ConfigurationElement
+public class ModuleConfigurationElement : ConfigurationElementPublic Class ModuleConfigurationElement Inherits ConfigurationElement
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System.Configuration.ConfigurationElement](http://msdn2.microsoft.com/en-us/library/kyx77cz3)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [System.Configuration.ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3)
     Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement
 
 See Also

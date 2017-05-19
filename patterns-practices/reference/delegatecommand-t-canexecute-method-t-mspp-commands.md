@@ -10,7 +10,7 @@ Prism Class Library
 DelegateCommand&lt;(Of &lt;(T&gt;)&gt;).CanExecute Method (T)
 =================================================================
 
-Determines if the command can execute by invoked the [Func&lt;(Of &lt;(T, TResult&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/bb549151) provided during construction.
+Determines if the command can execute by invoked the [Func&lt;(Of &lt;(T, TResult&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/bb549151) provided during construction.
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
@@ -18,7 +18,7 @@ Determines if the command can execute by invoked the [Func&lt;(Of &lt;(T, TResul
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public virtual bool CanExecute( T parameter )Public Overridable Function CanExecute ( parameter As T ) As Boolean
+public virtual bool CanExecute( T parameter )Public Overridable Function CanExecute ( parameter As T ) As Boolean
 
 ### Parameters
 
@@ -28,7 +28,7 @@ Data used by the command to determine if it can execute.
 
 ### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if this command can be executed; otherwise, falseFalsefalsefalse (False in Visual Basic).
 
 See Also

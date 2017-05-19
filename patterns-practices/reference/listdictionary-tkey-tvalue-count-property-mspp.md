@@ -20,14 +20,14 @@ Gets the number of lists in the dictionary.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public int Count { get; }Public ReadOnly Property Count As Integer Get
+public int Count { get; }Public ReadOnly Property Count As Integer Get
 ### Property Value
 
-Type: [Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
+Type: [Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
 Value indicating the values count.
 ### Implements
 
-[ICollection&lt;(Of &lt;(T&gt;)&gt;).Count](http://msdn2.microsoft.com/en-us/library/5s3kzhec)
+[ICollection&lt;(Of &lt;(T&gt;)&gt;).Count](http://msdn.microsoft.com/en-us/library/5s3kzhec)
 
 See Also
 --------

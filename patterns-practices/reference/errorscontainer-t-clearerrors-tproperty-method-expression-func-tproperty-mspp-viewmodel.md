@@ -28,7 +28,7 @@ public void ClearErrors<TProperty>(
 
 *propertyExpression*
 
-	Type: [System.Linq.Expressions.Expression](http://msdn2.microsoft.com/en-us/library/bb335710)<[Func](http://msdn2.microsoft.com/en-us/library/bb534960)<TProperty>>
+	Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)<[Func](http://msdn.microsoft.com/en-us/library/bb534960)<TProperty>>
 	The expression indicating a property.
 	
 ### Type Parameters
@@ -68,7 +68,7 @@ Public Sub ClearErrors(Of TProperty) (
 
 *propertyExpression*  
 
-	Type: [System.Linq.Expressions.Expression](http://msdn2.microsoft.com/en-us/library/bb335710)(Of [Func](http://msdn2.microsoft.com/en-us/library/bb534960)(Of TProperty))
+	Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)(Of [Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of TProperty))
 
 	The expression indicating a property.
 

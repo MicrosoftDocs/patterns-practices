@@ -36,7 +36,7 @@ Public Class MefModuleInitializer
 
 Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
   [Microsoft.Practices.Prism.Modularity.ModuleInitializer](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer(v=pandp.50))
 

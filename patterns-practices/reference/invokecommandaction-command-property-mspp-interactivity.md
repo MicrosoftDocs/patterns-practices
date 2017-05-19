@@ -20,10 +20,10 @@ Gets or sets the command to execute when invoked.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ICommand Command { get; set; }Public Property Command As ICommand Get Set
+public ICommand Command { get; set; }Public Property Command As ICommand Get Set
 ### Property Value
 
-Type: [ICommand](http://msdn2.microsoft.com/en-us/library/ms616869)
+Type: [ICommand](http://msdn.microsoft.com/en-us/library/ms616869)
 
 See Also
 --------

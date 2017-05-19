@@ -20,10 +20,10 @@ Determines if the content should be shown in a modal window or not.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static readonly DependencyProperty IsModalPropertyPublic Shared ReadOnly IsModalProperty As DependencyProperty
+public static readonly DependencyProperty IsModalPropertyPublic Shared ReadOnly IsModalProperty As DependencyProperty
 ### Field Value
 
-Type: [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318)
+Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 
 See Also
 --------

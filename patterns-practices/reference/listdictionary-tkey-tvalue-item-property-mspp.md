@@ -20,7 +20,7 @@ Gets or sets the list associated with the given key. The access always succeeds,
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public IList&lt;TValue&gt; this[ TKey key \] { get; set; }Public Default Property Item ( key As TKey ) As IList(Of TValue) Get Set
+public IList&lt;TValue&gt; this[ TKey key \] { get; set; }Public Default Property Item ( key As TKey ) As IList(Of TValue) Get Set
 
 ### Parameters
 
@@ -30,11 +30,11 @@ The key of the list to access.
 
 ### Return Value
 
-Type: [IList](http://msdn2.microsoft.com/en-us/library/5y536ey6)&lt;(Of &lt;([TValue](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
+Type: [IList](http://msdn.microsoft.com/en-us/library/5y536ey6)&lt;(Of &lt;([TValue](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
 The list associated with the key.
 ### Implements
 
-[IDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Item[([(TKey\])\])](http://msdn2.microsoft.com/en-us/library/zyxt2e2h)
+[IDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Item[([(TKey\])\])](http://msdn.microsoft.com/en-us/library/zyxt2e2h)
 
 See Also
 --------

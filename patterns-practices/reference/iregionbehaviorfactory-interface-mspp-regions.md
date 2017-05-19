@@ -20,7 +20,7 @@ Interface for RegionBehaviorFactories. This factory allows the registration of t
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IRegionBehaviorFactory : IEnumerable&lt;string&gt;, IEnumerablePublic Interface IRegionBehaviorFactory Inherits IEnumerable(Of String), IEnumerable
+public interface IRegionBehaviorFactory : IEnumerable&lt;string&gt;, IEnumerablePublic Interface IRegionBehaviorFactory Inherits IEnumerable(Of String), IEnumerable
 
 See Also
 --------

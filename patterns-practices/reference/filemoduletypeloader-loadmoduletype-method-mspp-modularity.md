@@ -20,7 +20,7 @@ Retrieves the moduleInfo.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void LoadModuleType( ModuleInfo moduleInfo )Public Sub LoadModuleType ( moduleInfo As ModuleInfo )
+public void LoadModuleType( ModuleInfo moduleInfo )Public Sub LoadModuleType ( moduleInfo As ModuleInfo )
 
 ### Parameters
 

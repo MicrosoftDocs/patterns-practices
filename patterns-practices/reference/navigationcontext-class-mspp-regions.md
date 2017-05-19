@@ -20,12 +20,12 @@ Encapsulates information about a navigation request.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class NavigationContextPublic Class NavigationContext
+public class NavigationContextPublic Class NavigationContext
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Regions.NavigationContext
 
 See Also

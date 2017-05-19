@@ -39,7 +39,7 @@ Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microso
 The context.
 
 *error*  
-Type: [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 
 The error.
 

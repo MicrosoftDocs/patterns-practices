@@ -20,16 +20,16 @@ Initializes a new instance of the [ViewsCollection](https://msdn.microsoft.com/t
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ViewsCollection( ObservableCollection&lt;ItemMetadata&gt; list, Predicate&lt;ItemMetadata&gt; filter )Public Sub New ( list As ObservableCollection(Of ItemMetadata), filter As Predicate(Of ItemMetadata) )
+public ViewsCollection( ObservableCollection&lt;ItemMetadata&gt; list, Predicate&lt;ItemMetadata&gt; filter )Public Sub New ( list As ObservableCollection(Of ItemMetadata), filter As Predicate(Of ItemMetadata) )
 
 ### Parameters
 
 list  
-Type: [System.Collections.ObjectModel.ObservableCollection](http://msdn2.microsoft.com/en-us/library/ms668604)&lt;(Of &lt;([ItemMetadata](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemmetadata)&gt;)&gt;)
+Type: [System.Collections.ObjectModel.ObservableCollection](http://msdn.microsoft.com/en-us/library/ms668604)&lt;(Of &lt;([ItemMetadata](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemmetadata)&gt;)&gt;)
 The list to wrap and filter.
 
 filter  
-Type: [System.Predicate](http://msdn2.microsoft.com/en-us/library/bfcke1bz)&lt;(Of &lt;([ItemMetadata](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemmetadata)&gt;)&gt;)
+Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)&lt;(Of &lt;([ItemMetadata](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemmetadata)&gt;)&gt;)
 A predicate to filter the list collection.
 
 See Also

@@ -20,7 +20,7 @@ Returns the window to display as part of the trigger action.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual Window GetWindow( INotification notification )Protected Overridable Function GetWindow ( notification As INotification ) As Window
+protected virtual Window GetWindow( INotification notification )Protected Overridable Function GetWindow ( notification As INotification ) As Window
 
 ### Parameters
 
@@ -30,7 +30,7 @@ The notification to be set as a DataContext in the window.
 
 ### Return Value
 
-Type: [Window](http://msdn2.microsoft.com/en-us/library/ms590112)
+Type: [Window](http://msdn.microsoft.com/en-us/library/ms590112)
 
 See Also
 --------

@@ -41,14 +41,14 @@ Implementation of <a href="https://msdn.microsoft.com/t:microsoft.practices.pris
 <td><img src="https://msdn.microsoft.com/en-us/Gg419037.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.logging.textlogger">TextLogger</a></td>
 <td><div class="summary">
-Implementation of <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a> that logs into a <a href="http://msdn2.microsoft.com/en-us/library/ywxh2328">TextWriter</a>.
+Implementation of <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a> that logs into a <a href="http://msdn.microsoft.com/en-us/library/ywxh2328">TextWriter</a>.
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419037.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.logging.tracelogger">TraceLogger</a></td>
 <td><div class="summary">
-Implementation of <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a> that logs to .NET <a href="http://msdn2.microsoft.com/en-us/library/36hhw2t6">Trace</a> class.
+Implementation of <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a> that logs to .NET <a href="http://msdn.microsoft.com/en-us/library/36hhw2t6">Trace</a> class.
 </div></td>
 </tr>
 </tbody>

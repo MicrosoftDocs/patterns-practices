@@ -20,12 +20,12 @@ Implements the [IModuleInitializer](https://msdn.microsoft.com/t:microsoft.pract
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class ModuleInitializer : IModuleInitializerPublic Class ModuleInitializer Implements IModuleInitializer
+public class ModuleInitializer : IModuleInitializerPublic Class ModuleInitializer Implements IModuleInitializer
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Modularity.ModuleInitializer
     [Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleInitializer](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer)
 

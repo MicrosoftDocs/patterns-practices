@@ -20,12 +20,12 @@ Creates an instance of the Behaviortype that's registered using the specified ke
 ## Syntax
 
 
-<span id="syntaxToggle"></span>IRegionBehavior CreateFromKey( string key )Function CreateFromKey ( key As String ) As IRegionBehavior
+IRegionBehavior CreateFromKey( string key )Function CreateFromKey ( key As String ) As IRegionBehavior
 
 ### Parameters
 
 key  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The key that's used to register a behavior type.
 
 ### Return Value

@@ -18,10 +18,10 @@ Notifies that the value for [IsActive](https://msdn.microsoft.com/p:microsoft.pr
 ## Syntax
 
 
-<span id="syntaxToggle"></span>event EventHandler IsActiveChangedEvent IsActiveChanged As EventHandler
+event EventHandler IsActiveChangedEvent IsActiveChanged As EventHandler
 ### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
 
 See Also
 --------

@@ -20,12 +20,12 @@ Class that provides extension methods to Collection
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static class CollectionExtensions&lt;ExtensionAttribute&gt; Public NotInheritable Class CollectionExtensions
+public static class CollectionExtensions&lt;ExtensionAttribute&gt; Public NotInheritable Class CollectionExtensions
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.CollectionExtensions
 
 See Also

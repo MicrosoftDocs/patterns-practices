@@ -20,12 +20,12 @@ Wraps the Application Dispatcher.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>[ObsoleteAttribute\] public class DefaultDispatcher : IDispatcherFacade&lt;ObsoleteAttribute&gt; Public Class DefaultDispatcher Implements IDispatcherFacade
+[ObsoleteAttribute\] public class DefaultDispatcher : IDispatcherFacade&lt;ObsoleteAttribute&gt; Public Class DefaultDispatcher Implements IDispatcherFacade
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Events.DefaultDispatcher
 
 See Also

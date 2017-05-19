@@ -20,10 +20,10 @@ Identifies the Value property of the ObservableObject
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static readonly DependencyProperty ValuePropertyPublic Shared ReadOnly ValueProperty As DependencyProperty
+public static readonly DependencyProperty ValuePropertyPublic Shared ReadOnly ValueProperty As DependencyProperty
 ### Field Value
 
-Type: [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318)
+Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 
 See Also
 --------

@@ -18,12 +18,12 @@ Sets the default view type to view model type resolver.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static void SetDefaultViewTypeToViewModelTypeResolver( Func&lt;Type, Type&gt; viewTypeToViewModelTypeResolver )Public Shared Sub SetDefaultViewTypeToViewModelTypeResolver ( viewTypeToViewModelTypeResolver As Func(Of Type, Type) )
+public static void SetDefaultViewTypeToViewModelTypeResolver( Func&lt;Type, Type&gt; viewTypeToViewModelTypeResolver )Public Shared Sub SetDefaultViewTypeToViewModelTypeResolver ( viewTypeToViewModelTypeResolver As Func(Of Type, Type) )
 
 ### Parameters
 
 viewTypeToViewModelTypeResolver  
-Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([Type](http://msdn2.microsoft.com/en-us/library/42892f65), [Type](http://msdn2.microsoft.com/en-us/library/42892f65)&gt;)&gt;)
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([Type](http://msdn.microsoft.com/en-us/library/42892f65), [Type](http://msdn.microsoft.com/en-us/library/42892f65)&gt;)&gt;)
 The view type to view model type resolver.
 
 See Also

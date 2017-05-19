@@ -20,7 +20,7 @@ Navigates to the most recent entry in the forward navigation history, or does no
 ## Syntax
 
 
-<span id="syntaxToggle"></span>void GoForward()Sub GoForward
+void GoForward()Sub GoForward
 
 See Also
 --------

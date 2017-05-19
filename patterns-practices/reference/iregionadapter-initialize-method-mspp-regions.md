@@ -20,16 +20,16 @@ Adapts an object and binds it to a new [IRegion](https://msdn.microsoft.com/t:mi
 ## Syntax
 
 
-<span id="syntaxToggle"></span>IRegion Initialize( Object regionTarget, string regionName )Function Initialize ( regionTarget As Object, regionName As String ) As IRegion
+IRegion Initialize( Object regionTarget, string regionName )Function Initialize ( regionTarget As Object, regionName As String ) As IRegion
 
 ### Parameters
 
 regionTarget  
-Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The object to adapt.
 
 regionName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region to be created.
 
 ### Return Value

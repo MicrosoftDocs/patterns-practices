@@ -20,10 +20,10 @@ Returns the list of registered [IModuleTypeLoader](https://msdn.microsoft.com/t:
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public virtual IEnumerable&lt;IModuleTypeLoader&gt; ModuleTypeLoaders { get; set; }Public Overridable Property ModuleTypeLoaders As IEnumerable(Of IModuleTypeLoader) Get Set
+public virtual IEnumerable&lt;IModuleTypeLoader&gt; ModuleTypeLoaders { get; set; }Public Overridable Property ModuleTypeLoaders As IEnumerable(Of IModuleTypeLoader) Get Set
 ### Property Value
 
-Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([IModuleTypeLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imoduletypeloader)&gt;)&gt;)
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([IModuleTypeLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imoduletypeloader)&gt;)&gt;)
 The module type loaders.
 
 See Also

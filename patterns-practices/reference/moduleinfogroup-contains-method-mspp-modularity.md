@@ -42,13 +42,13 @@ Public Function Contains (
 
 ### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 true if item is found in the [ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50)); otherwise, false.
 
 ### Implements
 
-[ICollection&lt;T&gt;.Contains(T)](http://msdn2.microsoft.com/en-us/library/k5cf1d56)
+[ICollection&lt;T&gt;.Contains(T)](http://msdn.microsoft.com/en-us/library/k5cf1d56)
 
 See Also
 --------

@@ -20,12 +20,12 @@ Defines a factory that allows the registration of the default set of [IRegionBeh
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class RegionBehaviorFactory : IRegionBehaviorFactory, IEnumerable&lt;string&gt;, IEnumerablePublic Class RegionBehaviorFactory Implements IRegionBehaviorFactory, IEnumerable(Of String), IEnumerable
+public class RegionBehaviorFactory : IRegionBehaviorFactory, IEnumerable&lt;string&gt;, IEnumerablePublic Class RegionBehaviorFactory Implements IRegionBehaviorFactory, IEnumerable(Of String), IEnumerable
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Regions.RegionBehaviorFactory
     [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory)
 

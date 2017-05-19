@@ -20,16 +20,16 @@ Dispatches an invocation to the method received as parameter.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>void BeginInvoke( Delegate method, Object arg )Sub BeginInvoke ( method As Delegate, arg As Object )
+void BeginInvoke( Delegate method, Object arg )Sub BeginInvoke ( method As Delegate, arg As Object )
 
 ### Parameters
 
 method  
-Type: [System.Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51)
+Type: [System.Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)
 Method to be invoked.
 
 arg  
-Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 Arguments to pass to the invoked method.
 
 See Also

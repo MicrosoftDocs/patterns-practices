@@ -18,7 +18,7 @@ Adds the specified [IEventSubscription](https://msdn.microsoft.com/t:microsoft.p
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual SubscriptionToken InternalSubscribe( IEventSubscription eventSubscription )Protected Overridable Function InternalSubscribe ( eventSubscription As IEventSubscription ) As SubscriptionToken
+protected virtual SubscriptionToken InternalSubscribe( IEventSubscription eventSubscription )Protected Overridable Function InternalSubscribe ( eventSubscription As IEventSubscription ) As SubscriptionToken
 
 ### Parameters
 

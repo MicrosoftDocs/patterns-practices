@@ -20,7 +20,7 @@ Utility method to try to resolve a service from the container avoiding an except
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static Object TryResolve( this IUnityContainer container, Type typeToResolve )&lt;ExtensionAttribute&gt; Public Shared Function TryResolve ( container As IUnityContainer, typeToResolve As Type ) As Object
+public static Object TryResolve( this IUnityContainer container, Type typeToResolve )&lt;ExtensionAttribute&gt; Public Shared Function TryResolve ( container As IUnityContainer, typeToResolve As Type ) As Object
 
 ### Parameters
 
@@ -29,12 +29,12 @@ Type: IUnityContainer
 The cointainer that will be used to resolve the type.
 
 typeToResolve  
-Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 The type to resolve.
 
 ### Return Value
 
-Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The instance of typeToResolve built up by the container.
 ### Usage Note
 

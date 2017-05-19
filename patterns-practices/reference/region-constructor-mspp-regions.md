@@ -20,7 +20,7 @@ Initializes a new instance of [Region](https://msdn.microsoft.com/t:microsoft.pr
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public Region()Public Sub New
+public Region()Public Sub New
 
 See Also
 --------

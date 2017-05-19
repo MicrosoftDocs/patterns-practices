@@ -20,12 +20,12 @@ Adds a [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>void Add( string key, IRegionBehavior regionBehavior )Sub Add ( key As String, regionBehavior As IRegionBehavior )
+void Add( string key, IRegionBehavior regionBehavior )Sub Add ( key As String, regionBehavior As IRegionBehavior )
 
 ### Parameters
 
 key  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The key that specifies the type of [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior) that's added.
 
 regionBehavior  

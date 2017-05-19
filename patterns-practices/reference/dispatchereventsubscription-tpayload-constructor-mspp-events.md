@@ -31,12 +31,12 @@ public DispatcherEventSubscription(
 *actionReference*
 
     Type: IDelegateReference
-    A reference to a delegate of type [Action&lt;T&gt;(http://msdn2.microsoft.com/en-us/library/bfcke1bz)].
+    A reference to a delegate of type [Action&lt;T&gt;(http://msdn.microsoft.com/en-us/library/bfcke1bz)].
 
 *filterReference*
 
     Type: IDelegateReference
-    A reference to a delegate of type [Predicate&lt;T&gt;(http://msdn2.microsoft.com/en-us/library/bfcke1bz)].
+    A reference to a delegate of type [Predicate&lt;T&gt;(http://msdn.microsoft.com/en-us/library/bfcke1bz)].
 
 *dispatcher*
 
@@ -45,8 +45,8 @@ public DispatcherEventSubscription(
 
 ## Exceptions
 
-| Exception | Condition                                                                                                                              | [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | When *actionReference* or are **null**a null reference (**Nothing** in Visual Basic).                                                                                                                                                           |
-| [System.ArgumentException](http://msdn2.microsoft.com/en-us/library/3w1b3114) | When the target of *actionReference* is not of type [Action&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8), or the target of *filterReference* is not of type [Predicate&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/bfcke1bz). |
+| Exception | Condition                                                                                                                              | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | When *actionReference* or are **null**a null reference (**Nothing** in Visual Basic).                                                                                                                                                           |
+| [System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114) | When the target of *actionReference* is not of type [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8), or the target of *filterReference* is not of type [Predicate&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz). |
 
 ## See Also
 
@@ -83,12 +83,12 @@ Public Sub New (
 *actionReference*
 
     Type: IDelegateReference
-    A reference to a delegate of type [Action(Of T)](http://msdn2.microsoft.com/en-us/library/018hxwa8).
+    A reference to a delegate of type [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8).
 
 *filterReference*
 
     Type: IDelegateReference
-    A reference to a delegate of type [Predicate(Of T)](http://msdn2.microsoft.com/en-us/library/bfcke1bz).
+    A reference to a delegate of type [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz).
 
 *dispatcher*
 
@@ -97,9 +97,9 @@ Public Sub New (
 
 ## Exceptions
 
-| Exception | Condition                                                                                                                              | [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | When actionReference or are *Nothinga* null reference (*Nothing* in Visual Basic).
+| Exception | Condition                                                                                                                              | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | When actionReference or are *Nothinga* null reference (*Nothing* in Visual Basic).
                                  |
-| [System.ArgumentException](http://msdn2.microsoft.com/en-us/library/3w1b3114) | When the target of *actionReference* is not of type [Action(Of T)](http://msdn2.microsoft.com/en-us/library/018hxwa8), or the target of *filterReference* is not of type [Predicate(Of T)](http://msdn2.microsoft.com/en-us/library/bfcke1bz). |
+| [System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114) | When the target of *actionReference* is not of type [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8), or the target of *filterReference* is not of type [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz). |
 
 ## See Also
 

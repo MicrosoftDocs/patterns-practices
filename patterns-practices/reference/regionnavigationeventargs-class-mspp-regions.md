@@ -20,13 +20,13 @@ EventArgs used with the Navigated event.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class RegionNavigationEventArgs : EventArgsPublic Class RegionNavigationEventArgs Inherits EventArgs
+public class RegionNavigationEventArgs : EventArgsPublic Class RegionNavigationEventArgs Inherits EventArgs
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System.EventArgs](http://msdn2.microsoft.com/en-us/library/118wxtk3)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
     Microsoft.Practices.Prism.Regions.RegionNavigationEventArgs
 
 See Also

@@ -20,17 +20,17 @@ Returns the contents registered for a region.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public IEnumerable&lt;Object&gt; GetContents( string regionName )Public Function GetContents ( regionName As String ) As IEnumerable(Of Object)
+public IEnumerable&lt;Object&gt; GetContents( string regionName )Public Function GetContents ( regionName As String ) As IEnumerable(Of Object)
 
 ### Parameters
 
 regionName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Name of the region which content is being requested.
 
 ### Return Value
 
-Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 Collection of contents registered for the region.
 ### Implements
 

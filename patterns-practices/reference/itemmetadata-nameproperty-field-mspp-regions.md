@@ -20,10 +20,10 @@ The name of the wrapped item.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static readonly DependencyProperty NamePropertyPublic Shared ReadOnly NameProperty As DependencyProperty
+public static readonly DependencyProperty NamePropertyPublic Shared ReadOnly NameProperty As DependencyProperty
 ### Field Value
 
-Type: [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318)
+Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 
 See Also
 --------

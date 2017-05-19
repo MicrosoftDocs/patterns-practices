@@ -20,7 +20,7 @@ Initializes a new instance of the [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](htt
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ObservableObject()Public Sub New
+public ObservableObject()Public Sub New
 
 See Also
 --------

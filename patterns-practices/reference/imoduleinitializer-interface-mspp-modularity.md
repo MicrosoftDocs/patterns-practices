@@ -20,7 +20,7 @@ Declares a service which initializes the modules into the application.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IModuleInitializerPublic Interface IModuleInitializer
+public interface IModuleInitializerPublic Interface IModuleInitializer
 
 See Also
 --------

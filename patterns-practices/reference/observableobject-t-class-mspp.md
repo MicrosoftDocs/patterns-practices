@@ -20,7 +20,7 @@ Class that wraps an object, so that other classes can notify for Change events. 
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class ObservableObject&lt;T&gt; : FrameworkElement, INotifyPropertyChanged Public Class ObservableObject(Of T) Inherits FrameworkElement Implements INotifyPropertyChanged
+public class ObservableObject&lt;T&gt; : FrameworkElement, INotifyPropertyChanged Public Class ObservableObject(Of T) Inherits FrameworkElement Implements INotifyPropertyChanged
 Type Parameters
 ---------------
 
@@ -36,12 +36,12 @@ Remarks
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System.Windows.Threading.DispatcherObject](http://msdn2.microsoft.com/en-us/library/ms615925)
-    [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
-      [System.Windows.Media.Visual](http://msdn2.microsoft.com/en-us/library/ms635637)
-        [System.Windows.UIElement](http://msdn2.microsoft.com/en-us/library/ms590078)
-          [System.Windows.FrameworkElement](http://msdn2.microsoft.com/en-us/library/ms602714)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [System.Windows.Threading.DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925)
+    [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
+      [System.Windows.Media.Visual](http://msdn.microsoft.com/en-us/library/ms635637)
+        [System.Windows.UIElement](http://msdn.microsoft.com/en-us/library/ms590078)
+          [System.Windows.FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714)
             Microsoft.Practices.Prism.ObservableObject&lt;(Of &lt;(T&gt;)&gt;)
 
 See Also

@@ -45,7 +45,7 @@ The INotification or IConfirmation parameter to show.
 
 ### Return Value
 
-Type: [Window](http://msdn2.microsoft.com/en-us/library/ms590112)
+Type: [Window](http://msdn.microsoft.com/en-us/library/ms590112)
 
 See Also
 --------

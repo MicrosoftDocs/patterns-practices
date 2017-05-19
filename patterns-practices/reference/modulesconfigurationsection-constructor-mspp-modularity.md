@@ -20,7 +20,7 @@ Initializes a new instance of the [ModulesConfigurationSection](https://msdn.mic
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModulesConfigurationSection()Public Sub New
+public ModulesConfigurationSection()Public Sub New
 
 See Also
 --------

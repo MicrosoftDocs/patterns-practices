@@ -20,7 +20,7 @@ Adds an [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modu
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void Add( ModuleInfo item )Public Sub Add ( item As ModuleInfo )
+public void Add( ModuleInfo item )Public Sub Add ( item As ModuleInfo )
 
 ### Parameters
 
@@ -30,7 +30,7 @@ The [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modulari
 
 ### Implements
 
-[ICollection&lt;(Of &lt;(T&gt;)&gt;).Add(T)](http://msdn2.microsoft.com/en-us/library/63ywd54z)
+[ICollection&lt;(Of &lt;(T&gt;)&gt;).Add(T)](http://msdn.microsoft.com/en-us/library/63ywd54z)
 
 See Also
 --------

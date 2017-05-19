@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431288(v=PandP.50)'
 
 # ModuleConfigurationElementCollection.CollectionType Property
 
-Gets the type of the [ConfigurationElementCollection](http://msdn2.microsoft.com/en-us/library/a35we8et).
+Gets the type of the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
 
@@ -29,9 +29,9 @@ Public Overrides ReadOnly Property CollectionType As ConfigurationElementCollect
 
 ### Property Value
 
-Type: [ConfigurationElementCollectionType](http://msdn2.microsoft.com/en-us/library/xtb86yh0)
+Type: [ConfigurationElementCollectionType](http://msdn.microsoft.com/en-us/library/xtb86yh0)
 
-The [ConfigurationElementCollectionType](http://msdn2.microsoft.com/en-us/library/xtb86yh0) of this collection.
+The [ConfigurationElementCollectionType](http://msdn.microsoft.com/en-us/library/xtb86yh0) of this collection.
 
 ## See Also
 

@@ -41,12 +41,12 @@ Public Sub OnUpdatingRegions (
 
 *sender*
 
-	Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+	Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 	The sender.
 
 *e*
 
-	Type: [System.EventArgs](http://msdn2.microsoft.com/en-us/library/118wxtk3)
+	Type: [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
 	The arguments.
 
 ## See Also

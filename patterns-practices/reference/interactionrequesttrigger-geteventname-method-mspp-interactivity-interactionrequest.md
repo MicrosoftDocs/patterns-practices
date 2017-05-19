@@ -20,10 +20,10 @@ Specifies the name of the Event this EventTriggerBase is listening for.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected override string GetEventName()Protected Overrides Function GetEventName As String
+protected override string GetEventName()Protected Overrides Function GetEventName As String
 ### Return Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 This implementation always returns the Raised event name for ease of connection with [IInteractionRequest](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest).
 
 See Also

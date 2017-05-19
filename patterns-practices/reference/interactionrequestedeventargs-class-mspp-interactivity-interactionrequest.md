@@ -20,13 +20,13 @@ Event args for the [Raised](https://msdn.microsoft.com/e:microsoft.practices.pri
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class InteractionRequestedEventArgs : EventArgsPublic Class InteractionRequestedEventArgs Inherits EventArgs
+public class InteractionRequestedEventArgs : EventArgsPublic Class InteractionRequestedEventArgs Inherits EventArgs
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System.EventArgs](http://msdn2.microsoft.com/en-us/library/118wxtk3)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
     Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestedEventArgs
 
 See Also

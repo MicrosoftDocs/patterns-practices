@@ -18,10 +18,10 @@ Gets or sets a value indicating whether the object is active.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>bool IsActive { get; set; }Property IsActive As Boolean Get Set
+bool IsActive { get; set; }Property IsActive As Boolean Get Set
 ### Property Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if the object is active; otherwise falseFalsefalsefalse (False in Visual Basic).
 
 See Also

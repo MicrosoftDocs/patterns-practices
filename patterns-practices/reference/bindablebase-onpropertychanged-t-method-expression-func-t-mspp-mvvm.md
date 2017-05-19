@@ -18,12 +18,12 @@ Raises this object's PropertyChanged event.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected void OnPropertyChanged&lt;T&gt;( Expression&lt;Func&lt;T&gt;&gt; propertyExpression ) Protected Sub OnPropertyChanged(Of T) ( propertyExpression As Expression(Of Func(Of T)) )
+protected void OnPropertyChanged&lt;T&gt;( Expression&lt;Func&lt;T&gt;&gt; propertyExpression ) Protected Sub OnPropertyChanged(Of T) ( propertyExpression As Expression(Of Func(Of T)) )
 
 ### Parameters
 
 propertyExpression  
-Type: [System.Linq.Expressions.Expression](http://msdn2.microsoft.com/en-us/library/bb335710)&lt;(Of &lt;([Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;)
+Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)&lt;(Of &lt;([Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;)
 A Lambda expression representing the property that has a new value.
 
 Type Parameters

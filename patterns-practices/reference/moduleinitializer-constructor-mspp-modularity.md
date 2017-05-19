@@ -20,7 +20,7 @@ Initializes a new instance of [ModuleInitializer](https://msdn.microsoft.com/t:m
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModuleInitializer( IServiceLocator serviceLocator, ILoggerFacade loggerFacade )Public Sub New ( serviceLocator As IServiceLocator, loggerFacade As ILoggerFacade )
+public ModuleInitializer( IServiceLocator serviceLocator, ILoggerFacade loggerFacade )Public Sub New ( serviceLocator As IServiceLocator, loggerFacade As ILoggerFacade )
 
 ### Parameters
 

@@ -20,7 +20,7 @@ Defines values for the priorities used by [ILoggerFacade](https://msdn.microsoft
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public enum PriorityPublic Enumeration Priority
+public enum PriorityPublic Enumeration Priority
 
 Members
 -------

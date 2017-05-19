@@ -20,7 +20,7 @@ The RegionMemberLifetimeBehavior determines if items should be removed from the 
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class RegionMemberLifetimeBehavior : RegionBehaviorPublic Class RegionMemberLifetimeBehavior Inherits RegionBehavior
+public class RegionMemberLifetimeBehavior : RegionBehaviorPublic Class RegionMemberLifetimeBehavior Inherits RegionBehavior
 
 Remarks
 -------
@@ -29,7 +29,7 @@ Remarks
 
 The behavior checks the removed items for either the [IRegionMemberLifetime](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmemberlifetime) or the [RegionMemberLifetimeAttribute](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmemberlifetimeattribute) (in that order) to determine if it should be kept alive on removal.
 
-If the item in the collection is a [FrameworkElement](http://msdn2.microsoft.com/en-us/library/ms602714), it will also check it's DataContext for [IRegionMemberLifetime](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmemberlifetime) or the [RegionMemberLifetimeAttribute](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmemberlifetimeattribute).
+If the item in the collection is a [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714), it will also check it's DataContext for [IRegionMemberLifetime](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmemberlifetime) or the [RegionMemberLifetimeAttribute](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmemberlifetimeattribute).
 
 The order of checks are:
 1.  Region Item's IRegionMemberLifetime.KeepAlive value.
@@ -40,7 +40,7 @@ The order of checks are:
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Regions.RegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehavior)
     Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior
       [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionMemberLifetimeBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmemberlifetimebehavior)

@@ -18,12 +18,12 @@ The CompositeCommand composes one or more ICommands.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class CompositeCommand : ICommandPublic Class CompositeCommand Implements ICommand
+public class CompositeCommand : ICommandPublic Class CompositeCommand Implements ICommand
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Commands.CompositeCommand
 
 See Also

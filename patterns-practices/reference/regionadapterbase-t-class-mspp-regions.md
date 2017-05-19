@@ -32,7 +32,7 @@ Type of object to adapt.
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
   Microsoft.Practices.Prism.Regions.RegionAdapterBase&lt;T&gt;
 
@@ -78,7 +78,7 @@ Type of object to adapt.
 
 Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
   Microsoft.Practices.Prism.Regions.RegionAdapterBase(Of T)
 

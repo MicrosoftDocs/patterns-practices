@@ -20,7 +20,7 @@ Initializes a new instance of the [SingleActiveRegion](https://msdn.microsoft.co
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public SingleActiveRegion()Public Sub New
+public SingleActiveRegion()Public Sub New
 
 See Also
 --------

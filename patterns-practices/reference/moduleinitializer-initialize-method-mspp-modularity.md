@@ -20,7 +20,7 @@ Initializes the specified module.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void Initialize( ModuleInfo moduleInfo )Public Sub Initialize ( moduleInfo As ModuleInfo )
+public void Initialize( ModuleInfo moduleInfo )Public Sub Initialize ( moduleInfo As ModuleInfo )
 
 ### Parameters
 

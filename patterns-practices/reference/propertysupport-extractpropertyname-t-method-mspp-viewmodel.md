@@ -28,7 +28,7 @@ public static string ExtractPropertyName<T>(
 
 *propertyExpression* 
 
-Type: [System.Linq.Expressions.Expression](http://msdn2.microsoft.com/en-us/library/bb335710)&lt;[Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;T&gt;&gt;
+Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)&lt;[Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;T&gt;&gt;
 
 The property expression (e.g. p =&gt; p.PropertyName)
 
@@ -40,7 +40,7 @@ The property expression (e.g. p =&gt; p.PropertyName)
 
 ### Return Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 The name of the property.
 
@@ -55,14 +55,14 @@ The name of the property.
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="http://msdn2.microsoft.com/en-us/library/27426hcy">System.ArgumentNullException</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/27426hcy">System.ArgumentNullException</a></td>
 <td>Thrown if the propertyExpression is null.</td>
 </tr>
 <tr class="even">
-<td><a href="http://msdn2.microsoft.com/en-us/library/3w1b3114">System.ArgumentException</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/3w1b3114">System.ArgumentException</a></td>
 <td>Thrown when the expression is:<br />
-Not a <a href="http://msdn2.microsoft.com/en-us/library/bb353260">MemberExpression</a><br />
-The <a href="http://msdn2.microsoft.com/en-us/library/bb353260">MemberExpression</a> does not represent a property.<br />
+Not a <a href="http://msdn.microsoft.com/en-us/library/bb353260">MemberExpression</a><br />
+The <a href="http://msdn.microsoft.com/en-us/library/bb353260">MemberExpression</a> does not represent a property.<br />
 Or, the property is static.</td>
 </tr>
 </tbody>
@@ -100,7 +100,7 @@ Public Shared Function ExtractPropertyName(Of T) (
 
 *propertyExpression*
  
-Type: [System.Linq.Expressions.Expression](http://msdn2.microsoft.com/en-us/library/bb335710)(Of [Func](http://msdn2.microsoft.com/en-us/library/bb534960)(Of T))
+Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)(Of [Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of T))
 
 The property expression (e.g. p =&gt; p.PropertyName)
 
@@ -112,7 +112,7 @@ The object type containing the property specified in the expression.
 
 ### Return Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the property.
 
 ## Exceptions
@@ -126,14 +126,14 @@ The name of the property.
 </thead>
 <tbody>
 <tr class="odd">
-<td><a href="http://msdn2.microsoft.com/en-us/library/27426hcy">System.ArgumentNullException</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/27426hcy">System.ArgumentNullException</a></td>
 <td>Thrown if the propertyExpression is null.</td>
 </tr>
 <tr class="even">
-<td><a href="http://msdn2.microsoft.com/en-us/library/3w1b3114">System.ArgumentException</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/3w1b3114">System.ArgumentException</a></td>
 <td>Thrown when the expression is:<br />
-Not a <a href="http://msdn2.microsoft.com/en-us/library/bb353260">MemberExpression</a><br />
-The <a href="http://msdn2.microsoft.com/en-us/library/bb353260">MemberExpression</a> does not represent a property.<br />
+Not a <a href="http://msdn.microsoft.com/en-us/library/bb353260">MemberExpression</a><br />
+The <a href="http://msdn.microsoft.com/en-us/library/bb353260">MemberExpression</a> does not represent a property.<br />
 Or, the property is static.</td>
 </tr>
 </tbody>

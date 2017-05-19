@@ -20,7 +20,7 @@ The region that this behavior is extending.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>IRegion Region { get; set; }Property Region As IRegion Get Set
+IRegion Region { get; set; }Property Region As IRegion Get Set
 ### Property Value
 
 Type: [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)

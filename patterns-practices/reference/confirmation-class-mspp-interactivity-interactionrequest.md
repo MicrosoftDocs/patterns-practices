@@ -20,12 +20,12 @@ Basic implementation of [IConfirmation](https://msdn.microsoft.com/t:microsoft.p
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class Confirmation : Notification, IConfirmation, INotificationPublic Class Confirmation Inherits Notification Implements IConfirmation, INotification
+public class Confirmation : Notification, IConfirmation, INotificationPublic Class Confirmation Inherits Notification Implements IConfirmation, INotification
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.notification)
     Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confirmation
 

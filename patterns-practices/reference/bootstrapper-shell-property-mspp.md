@@ -20,10 +20,10 @@ Gets the shell user interface
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected DependencyObject Shell { get; set; }Protected Property Shell As DependencyObject Get Set
+protected DependencyObject Shell { get; set; }Protected Property Shell As DependencyObject Get Set
 ### Property Value
 
-Type: [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
+Type: [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
 The shell user interface.
 
 See Also

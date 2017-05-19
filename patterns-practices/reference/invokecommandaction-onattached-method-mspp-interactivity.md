@@ -20,7 +20,7 @@ This method is called after the behavior is attached. It updates the command beh
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected override void OnAttached()Protected Overrides Sub OnAttached
+protected override void OnAttached()Protected Overrides Sub OnAttached
 
 See Also
 --------

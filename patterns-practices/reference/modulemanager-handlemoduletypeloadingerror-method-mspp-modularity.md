@@ -45,7 +45,7 @@ Protected Overridable Sub HandleModuleTypeLoadingError (
 
 *exception*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The exception thrown that is the cause of the current error.
 

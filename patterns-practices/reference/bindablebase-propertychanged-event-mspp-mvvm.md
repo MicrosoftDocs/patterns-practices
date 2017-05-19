@@ -24,11 +24,11 @@ Public Event PropertyChanged As PropertyChangedEventHandler
 ```
 ### Value
 
-Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn2.microsoft.com/en-us/library/hyza7z75)
+Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn.microsoft.com/en-us/library/hyza7z75)
 
 ### Implements
 
-[INotifyPropertyChanged.PropertyChanged](http://msdn2.microsoft.com/en-us/library/ms133023)
+[INotifyPropertyChanged.PropertyChanged](http://msdn.microsoft.com/en-us/library/ms133023)
 
 # See Also
 

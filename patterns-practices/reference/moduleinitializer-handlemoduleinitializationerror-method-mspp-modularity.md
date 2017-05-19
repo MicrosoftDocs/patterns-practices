@@ -20,7 +20,7 @@ Handles any exception occurred in the module Initialization process, logs the er
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public virtual void HandleModuleInitializationError( ModuleInfo moduleInfo, string assemblyName, Exception exception )Public Overridable Sub HandleModuleInitializationError ( moduleInfo As ModuleInfo, assemblyName As String, exception As Exception )
+public virtual void HandleModuleInitializationError( ModuleInfo moduleInfo, string assemblyName, Exception exception )Public Overridable Sub HandleModuleInitializationError ( moduleInfo As ModuleInfo, assemblyName As String, exception As Exception )
 
 ### Parameters
 
@@ -29,11 +29,11 @@ Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.c
 The module metadata where the error happenened.
 
 assemblyName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The assembly name.
 
 exception  
-Type: [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 The exception thrown that is the cause of the current error.
 
 Exceptions

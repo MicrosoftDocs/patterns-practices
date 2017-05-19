@@ -20,7 +20,7 @@ Defines the states a [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practic
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public enum ModuleStatePublic Enumeration ModuleState
+public enum ModuleStatePublic Enumeration ModuleState
 
 Members
 -------

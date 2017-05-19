@@ -20,10 +20,10 @@ Gets the type of the module.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>Type ModuleType { get; }ReadOnly Property ModuleType As Type Get
+Type ModuleType { get; }ReadOnly Property ModuleType As Type Get
 ### Property Value
 
-Type: [Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [Type](http://msdn.microsoft.com/en-us/library/42892f65)
 The type of the module.
 
 See Also

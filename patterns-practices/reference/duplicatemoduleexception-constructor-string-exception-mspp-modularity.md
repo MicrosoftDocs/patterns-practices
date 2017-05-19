@@ -20,16 +20,16 @@ Initializes a new instance of the [DuplicateModuleException](https://msdn.micros
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public DuplicateModuleException( string message, Exception innerException )Public Sub New ( message As String, innerException As Exception )
+public DuplicateModuleException( string message, Exception innerException )Public Sub New ( message As String, innerException As Exception )
 
 ### Parameters
 
 message  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The exception message.
 
 innerException  
-Type: [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 The inner exception.
 
 See Also

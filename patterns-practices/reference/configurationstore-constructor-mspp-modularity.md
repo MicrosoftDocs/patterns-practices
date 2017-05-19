@@ -20,7 +20,7 @@ Initializes a new instance of the [ConfigurationStore](https://msdn.microsoft.co
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ConfigurationStore()Public Sub New
+public ConfigurationStore()Public Sub New
 
 See Also
 --------

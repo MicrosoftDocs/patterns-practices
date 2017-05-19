@@ -20,20 +20,20 @@ Adds a groupless [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.p
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModuleCatalog AddModule( string moduleName, string moduleType, params string[] dependsOn )Public Function AddModule ( moduleName As String, moduleType As String, ParamArray dependsOn As String() ) As ModuleCatalog
+public ModuleCatalog AddModule( string moduleName, string moduleType, params string[] dependsOn )Public Function AddModule ( moduleName As String, moduleType As String, ParamArray dependsOn As String() ) As ModuleCatalog
 
 ### Parameters
 
 moduleName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Name of the module to be added.
 
 moduleType  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
-[Type](http://msdn2.microsoft.com/en-us/library/42892f65) of the module to be added.
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+[Type](http://msdn.microsoft.com/en-us/library/42892f65) of the module to be added.
 
 dependsOn  
-Type: array&lt;[System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;
+Type: array&lt;[System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)&gt;
 Collection of module names ([ModuleName](https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleinfo.modulename)) of the modules on which the module to be added logically depends on.
 
 ### Return Value

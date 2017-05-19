@@ -20,7 +20,7 @@ Create the [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.pris
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual ILoggerFacade CreateLogger()Protected Overridable Function CreateLogger As ILoggerFacade
+protected virtual ILoggerFacade CreateLogger()Protected Overridable Function CreateLogger As ILoggerFacade
 ### Return Value
 
 Type: [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade)

@@ -29,7 +29,7 @@ protected void RaisePropertyChanged(
 ### Parameters
 
 *propertyNames*  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)[]
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)[]
 
 The properties that have a new value.
 
@@ -66,7 +66,7 @@ Protected Sub RaisePropertyChanged (
 ### Parameters
 
 *propertyNames*  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)()
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)()
 
 The properties that have a new value.
 

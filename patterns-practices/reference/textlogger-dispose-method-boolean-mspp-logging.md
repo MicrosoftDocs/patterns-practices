@@ -10,7 +10,7 @@ Prism Class Library
 TextLogger.Dispose Method (Boolean)
 =======================================
 
-Disposes the associated [TextWriter](http://msdn2.microsoft.com/en-us/library/ywxh2328).
+Disposes the associated [TextWriter](http://msdn.microsoft.com/en-us/library/ywxh2328).
 
 **Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/n:microsoft.practices.prism.logging)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -20,13 +20,13 @@ Disposes the associated [TextWriter](http://msdn2.microsoft.com/en-us/library/yw
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void Dispose( bool disposing )Protected Overridable Sub Dispose ( disposing As Boolean )
+protected virtual void Dispose( bool disposing )Protected Overridable Sub Dispose ( disposing As Boolean )
 
 ### Parameters
 
 disposing  
-Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
-When trueTruetruetrue (True in Visual Basic), disposes the associated [TextWriter](http://msdn2.microsoft.com/en-us/library/ywxh2328).
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
+When trueTruetruetrue (True in Visual Basic), disposes the associated [TextWriter](http://msdn.microsoft.com/en-us/library/ywxh2328).
 
 See Also
 --------

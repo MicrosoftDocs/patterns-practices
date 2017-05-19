@@ -20,12 +20,12 @@ Run the bootstrapper process.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public override void Run( bool runWithDefaultConfiguration )Public Overrides Sub Run ( runWithDefaultConfiguration As Boolean )
+public override void Run( bool runWithDefaultConfiguration )Public Overrides Sub Run ( runWithDefaultConfiguration As Boolean )
 
 ### Parameters
 
 runWithDefaultConfiguration  
-Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 If trueTruetruetrue (True in Visual Basic), registers default Prism Library services in the container. This is the default behavior.
 
 See Also

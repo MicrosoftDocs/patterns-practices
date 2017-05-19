@@ -20,7 +20,7 @@ Initializes a new instance of the [TraceLogger](https://msdn.microsoft.com/t:mic
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public TraceLogger()Public Sub New
+public TraceLogger()Public Sub New
 
 See Also
 --------

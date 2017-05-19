@@ -20,45 +20,45 @@ Methods
 Name
 Description
 ![](https://msdn.microsoft.com/en-us/Gg431048.pubmethod(en-us,PandP.50).gif "Public method")
-[Equals](http://msdn2.microsoft.com/en-us/library/bsc2ak47)
-Determines whether the specified [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).
+[Equals](http://msdn.microsoft.com/en-us/library/bsc2ak47)
+Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 ![](https://msdn.microsoft.com/en-us/Gg431048.protmethod(en-us,PandP.50).gif "Protected method")
-[Finalize](http://msdn2.microsoft.com/en-us/library/4k87zsw7)
+[Finalize](http://msdn.microsoft.com/en-us/library/4k87zsw7)
 Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 ![](https://msdn.microsoft.com/en-us/Gg431048.pubmethod(en-us,PandP.50).gif "Public method")
-[GetBaseException](http://msdn2.microsoft.com/en-us/library/49kcee3b)
-When overridden in a derived class, returns the [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59) that is the root cause of one or more subsequent exceptions.
+[GetBaseException](http://msdn.microsoft.com/en-us/library/49kcee3b)
+When overridden in a derived class, returns the [Exception](http://msdn.microsoft.com/en-us/library/c18k6c59) that is the root cause of one or more subsequent exceptions.
 
-(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)
+(Inherited from [Exception](http://msdn.microsoft.com/en-us/library/c18k6c59).)
 ![](https://msdn.microsoft.com/en-us/Gg431048.pubmethod(en-us,PandP.50).gif "Public method")
-[GetHashCode](http://msdn2.microsoft.com/en-us/library/zdee4b3y)
+[GetHashCode](http://msdn.microsoft.com/en-us/library/zdee4b3y)
 Serves as a hash function for a particular type.
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 ![](https://msdn.microsoft.com/en-us/Gg431048.pubmethod(en-us,PandP.50).gif "Public method")
 [GetObjectData](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception.getobjectdata(v=pandp.50))
-Sets the [SerializationInfo](http://msdn2.microsoft.com/en-us/library/a9b6042e) with information about the exception.
+Sets the [SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e) with information about the exception.
 
-(Overrides [Exception.GetObjectData(SerializationInfo, StreamingContext)](http://msdn2.microsoft.com/en-us/library/fwb1489e).)
+(Overrides [Exception.GetObjectData(SerializationInfo, StreamingContext)](http://msdn.microsoft.com/en-us/library/fwb1489e).)
 ![](https://msdn.microsoft.com/en-us/Gg431048.pubmethod(en-us,PandP.50).gif "Public method")
-[GetType](http://msdn2.microsoft.com/en-us/library/44zb316t)
+[GetType](http://msdn.microsoft.com/en-us/library/44zb316t)
 Gets the runtime type of the current instance.
 
-(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)
+(Inherited from [Exception](http://msdn.microsoft.com/en-us/library/c18k6c59).)
 ![](https://msdn.microsoft.com/en-us/Gg431048.protmethod(en-us,PandP.50).gif "Protected method")
-[MemberwiseClone](http://msdn2.microsoft.com/en-us/library/57ctke0a)
-Creates a shallow copy of the current [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).
+[MemberwiseClone](http://msdn.microsoft.com/en-us/library/57ctke0a)
+Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 ![](https://msdn.microsoft.com/en-us/Gg431048.pubmethod(en-us,PandP.50).gif "Public method")
-[ToString](http://msdn2.microsoft.com/en-us/library/es4y6f7e)
+[ToString](http://msdn.microsoft.com/en-us/library/es4y6f7e)
 Creates and returns a string representation of the current exception.
 
-(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)
+(Inherited from [Exception](http://msdn.microsoft.com/en-us/library/c18k6c59).)
 
 Extension Methods
 -----------------

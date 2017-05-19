@@ -20,7 +20,7 @@ Initializes a new instance of the [CompositePresentationEvent&lt;(Of &lt;(TPaylo
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public CompositePresentationEvent()Public Sub New
+public CompositePresentationEvent()Public Sub New
 
 See Also
 --------

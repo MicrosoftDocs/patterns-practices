@@ -18,18 +18,18 @@ Calls all the execution strategies exposed by the list of [IEventSubscription](h
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void InternalPublish( params Object[] arguments )Protected Overridable Sub InternalPublish ( ParamArray arguments As Object() )
+protected virtual void InternalPublish( params Object[] arguments )Protected Overridable Sub InternalPublish ( ParamArray arguments As Object() )
 
 ### Parameters
 
 arguments  
-Type: array&lt;[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;
+Type: array&lt;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;
 The arguments that will be passed to the listeners.
 
 Remarks
 -------
 
-<span id="remarksToggle"></span>Before executing the strategies, this class will prune all the subscribers from the list that return a nullNothingnullptra null reference (Nothing in Visual Basic)[Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/018hxwa8) when calling the [GetExecutionStrategy()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.pubsubevents.ieventsubscription.getexecutionstrategy) method.
+<span id="remarksToggle"></span>Before executing the strategies, this class will prune all the subscribers from the list that return a nullNothingnullptra null reference (Nothing in Visual Basic)[Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) when calling the [GetExecutionStrategy()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.pubsubevents.ieventsubscription.getexecutionstrategy) method.
 
 See Also
 --------

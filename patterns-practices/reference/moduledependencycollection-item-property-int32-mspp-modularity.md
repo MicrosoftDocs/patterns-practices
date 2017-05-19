@@ -20,12 +20,12 @@ Gets the [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/t:mic
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModuleDependencyConfigurationElement this[ int index \] { get; }Public ReadOnly Default Property Item ( index As Integer ) As ModuleDependencyConfigurationElement Get
+public ModuleDependencyConfigurationElement this[ int index \] { get; }Public ReadOnly Default Property Item ( index As Integer ) As ModuleDependencyConfigurationElement Get
 
 ### Parameters
 
 index  
-Type: [System.Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
+Type: [System.Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
 The index of the element in the collection.
 
 ### Return Value

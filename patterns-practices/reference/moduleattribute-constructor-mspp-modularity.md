@@ -20,7 +20,7 @@ Initializes a new instance of the [ModuleAttribute](https://msdn.microsoft.com/t
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModuleAttribute()Public Sub New
+public ModuleAttribute()Public Sub New
 
 See Also
 --------

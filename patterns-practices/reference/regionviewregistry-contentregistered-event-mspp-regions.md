@@ -23,7 +23,7 @@ public event EventHandler<ViewRegisteredEventArgs> ContentRegistered
 
 ### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;[ViewRegisteredEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregisteredeventargs(v=pandp.50))&gt;
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[ViewRegisteredEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregisteredeventargs(v=pandp.50))&gt;
 
 ### Implements
 
@@ -38,7 +38,7 @@ Public Event ContentRegistered As EventHandler(Of ViewRegisteredEventArgs)
 
 ### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)( Of [ViewRegisteredEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregisteredeventargs(v=pandp.50)))
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)( Of [ViewRegisteredEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregisteredeventargs(v=pandp.50)))
 
 ### Implements
 

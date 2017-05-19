@@ -25,7 +25,7 @@ public Object CommandParameter { get; set; }
 
 ### Property Value
 
-Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 ## See Also
 
@@ -56,7 +56,7 @@ Public Property CommandParameter As Object
 
 ### Property Value
 
-Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 ## See Also
 

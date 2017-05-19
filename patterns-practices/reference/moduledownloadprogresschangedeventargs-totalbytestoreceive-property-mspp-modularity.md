@@ -20,10 +20,10 @@ Gets the total bytes to receive.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public long TotalBytesToReceive { get; }Public ReadOnly Property TotalBytesToReceive As Long Get
+public long TotalBytesToReceive { get; }Public ReadOnly Property TotalBytesToReceive As Long Get
 ### Property Value
 
-Type: [Int64](http://msdn2.microsoft.com/en-us/library/6yy583ek)
+Type: [Int64](http://msdn.microsoft.com/en-us/library/6yy583ek)
 The total bytes to receive.
 
 See Also

@@ -54,7 +54,7 @@ The module info to forward values to.
 
  Exception                                                                              Condition                                                                                                                                            
  
- [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy)  An [ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) is thrown if *moduleInfo* is **nulla** null reference (**Nothing** in Visual Basic).
+ [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)  An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if *moduleInfo* is **nulla** null reference (**Nothing** in Visual Basic).
 
 ## See Also
 

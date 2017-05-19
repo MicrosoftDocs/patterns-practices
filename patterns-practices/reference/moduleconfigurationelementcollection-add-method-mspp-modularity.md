@@ -20,7 +20,7 @@ Adds a [ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.pract
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void Add( ModuleConfigurationElement module )Public Sub Add ( module As ModuleConfigurationElement )
+public void Add( ModuleConfigurationElement module )Public Sub Add ( module As ModuleConfigurationElement )
 
 ### Parameters
 

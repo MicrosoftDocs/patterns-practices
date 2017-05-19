@@ -20,7 +20,7 @@ Initializes a new instance of the [MefBindRegionContextToDependencyObjectBehavio
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public MefBindRegionContextToDependencyObjectBehavior()Public Sub New
+public MefBindRegionContextToDependencyObjectBehavior()Public Sub New
 
 See Also
 --------

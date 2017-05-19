@@ -20,14 +20,14 @@ An attribute that is applied to describe the Managed Extensibility Framework exp
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class ModuleExportAttribute : ExportAttribute, IModuleExportPublic Class ModuleExportAttribute Inherits ExportAttribute Implements IModuleExport
+public class ModuleExportAttribute : ExportAttribute, IModuleExportPublic Class ModuleExportAttribute Inherits ExportAttribute Implements IModuleExport
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System.Attribute](http://msdn2.microsoft.com/en-us/library/e8kc3626)
-    [System.ComponentModel.Composition.ExportAttribute](http://msdn2.microsoft.com/en-us/library/dd234971)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [System.Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626)
+    [System.ComponentModel.Composition.ExportAttribute](http://msdn.microsoft.com/en-us/library/dd234971)
       Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAttribute
 
 See Also

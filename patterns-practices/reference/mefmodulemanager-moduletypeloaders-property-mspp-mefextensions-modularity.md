@@ -20,10 +20,10 @@ Gets or sets the type loaders used by the module manager.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public override IEnumerable&lt;IModuleTypeLoader&gt; ModuleTypeLoaders { get; set; }Public Overrides Property ModuleTypeLoaders As IEnumerable(Of IModuleTypeLoader) Get Set
+public override IEnumerable&lt;IModuleTypeLoader&gt; ModuleTypeLoaders { get; set; }Public Overrides Property ModuleTypeLoaders As IEnumerable(Of IModuleTypeLoader) Get Set
 ### Property Value
 
-Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([IModuleTypeLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imoduletypeloader)&gt;)&gt;)
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([IModuleTypeLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imoduletypeloader)&gt;)&gt;)
 
 See Also
 --------

@@ -37,7 +37,7 @@ Public Sub New (
 
 *message*
   
-		Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+		Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 		The message that describes the error.
 
 ## See Also

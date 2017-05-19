@@ -18,7 +18,7 @@ Initializes the DataEventArgs class.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public DataEventArgs( TData value )Public Sub New ( value As TData )
+public DataEventArgs( TData value )Public Sub New ( value As TData )
 
 ### Parameters
 

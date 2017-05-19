@@ -10,7 +10,7 @@ Prism Class Library
 TextLogger Class
 ================
 
-Implementation of [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade) that logs into a [TextWriter](http://msdn2.microsoft.com/en-us/library/ywxh2328).
+Implementation of [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade) that logs into a [TextWriter](http://msdn.microsoft.com/en-us/library/ywxh2328).
 
 **Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/n:microsoft.practices.prism.logging)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -20,12 +20,12 @@ Implementation of [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practic
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class TextLogger : ILoggerFacade, IDisposablePublic Class TextLogger Implements ILoggerFacade, IDisposable
+public class TextLogger : ILoggerFacade, IDisposablePublic Class TextLogger Implements ILoggerFacade, IDisposable
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Logging.TextLogger
 
 See Also

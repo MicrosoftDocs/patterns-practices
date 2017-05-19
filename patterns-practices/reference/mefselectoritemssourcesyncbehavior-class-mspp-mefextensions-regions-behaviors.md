@@ -20,7 +20,7 @@ Exports the SelectorItemsSourceSyncBehavior using the Managed Extensibility Fram
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class MefSelectorItemsSourceSyncBehavior : SelectorItemsSourceSyncBehaviorPublic Class MefSelectorItemsSourceSyncBehavior Inherits SelectorItemsSourceSyncBehavior
+public class MefSelectorItemsSourceSyncBehavior : SelectorItemsSourceSyncBehaviorPublic Class MefSelectorItemsSourceSyncBehavior Inherits SelectorItemsSourceSyncBehavior
 
 Remarks
 -------
@@ -30,7 +30,7 @@ Remarks
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Regions.RegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehavior)
     [Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior)
       Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSelectorItemsSourceSyncBehavior

@@ -20,7 +20,7 @@ Adds a new module that is statically referenced to the specified module info gro
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static ModuleInfoGroup AddModule( this ModuleInfoGroup moduleInfoGroup, string moduleName, Type moduleType, params string[] dependsOn )&lt;ExtensionAttribute&gt; Public Shared Function AddModule ( moduleInfoGroup As ModuleInfoGroup, moduleName As String, moduleType As Type, ParamArray dependsOn As String() ) As ModuleInfoGroup
+public static ModuleInfoGroup AddModule( this ModuleInfoGroup moduleInfoGroup, string moduleName, Type moduleType, params string[] dependsOn )&lt;ExtensionAttribute&gt; Public Shared Function AddModule ( moduleInfoGroup As ModuleInfoGroup, moduleName As String, moduleType As Type, ParamArray dependsOn As String() ) As ModuleInfoGroup
 
 ### Parameters
 
@@ -29,15 +29,15 @@ Type: [Microsoft.Practices.Prism.Modularity.ModuleInfoGroup](https://msdn.micros
 The group where to add the module info in.
 
 moduleName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name for the module.
 
 moduleType  
-Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 The type for the module. This type should be a descendant of [IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule).
 
 dependsOn  
-Type: array&lt;[System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;
+Type: array&lt;[System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)&gt;
 The names for the modules that this module depends on.
 
 ### Return Value

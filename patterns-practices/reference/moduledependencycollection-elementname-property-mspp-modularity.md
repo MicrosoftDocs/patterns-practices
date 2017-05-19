@@ -20,10 +20,10 @@ Gets the name used to identify this collection of elements in the configuration 
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected override string ElementName { get; }Protected Overrides ReadOnly Property ElementName As String Get
+protected override string ElementName { get; }Protected Overrides ReadOnly Property ElementName As String Get
 ### Property Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the collection; otherwise, an empty string.
 
 See Also

@@ -20,7 +20,7 @@ Gets the current navigation entry of the content that is currently displayed.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>IRegionNavigationJournalEntry CurrentEntry { get; }ReadOnly Property CurrentEntry As IRegionNavigationJournalEntry Get
+IRegionNavigationJournalEntry CurrentEntry { get; }ReadOnly Property CurrentEntry As IRegionNavigationJournalEntry Get
 ### Property Value
 
 Type: [IRegionNavigationJournalEntry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationjournalentry)

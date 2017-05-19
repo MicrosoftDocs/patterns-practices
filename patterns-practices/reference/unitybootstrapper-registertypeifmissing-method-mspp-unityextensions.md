@@ -20,20 +20,20 @@ Registers a type in the container only if that type was not already registered.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected void RegisterTypeIfMissing( Type fromType, Type toType, bool registerAsSingleton )Protected Sub RegisterTypeIfMissing ( fromType As Type, toType As Type, registerAsSingleton As Boolean )
+protected void RegisterTypeIfMissing( Type fromType, Type toType, bool registerAsSingleton )Protected Sub RegisterTypeIfMissing ( fromType As Type, toType As Type, registerAsSingleton As Boolean )
 
 ### Parameters
 
 fromType  
-Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 The interface type to register.
 
 toType  
-Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 The type implementing the interface.
 
 registerAsSingleton  
-Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 Registers the type as a singleton.
 
 See Also

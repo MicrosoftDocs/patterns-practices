@@ -14,6 +14,7 @@ Gets a collection of [IRegion](https://msdn.microsoft.com/en-us/library/microsof
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))<br/>
 
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -30,7 +31,7 @@ Gets a collection of [IRegion](https://msdn.microsoft.com/en-us/library/microsof
      Public ReadOnly Property Regions As IRegionCollection 
      Get
 ```
-<span id="syntaxToggle"></span>public IRegionCollection Regions { get; }Public ReadOnly Property Regions As IRegionCollection Get
+public IRegionCollection Regions { get; }Public ReadOnly Property Regions As IRegionCollection Get
 ### Property Value
 
 Type: [IRegionCollection](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection(v=pandp.50))

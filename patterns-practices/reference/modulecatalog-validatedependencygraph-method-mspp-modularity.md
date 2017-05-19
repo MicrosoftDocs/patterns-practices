@@ -20,7 +20,7 @@ Ensures that there are no cyclic dependencies.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void ValidateDependencyGraph()Protected Overridable Sub ValidateDependencyGraph
+protected virtual void ValidateDependencyGraph()Protected Overridable Sub ValidateDependencyGraph
 
 See Also
 --------

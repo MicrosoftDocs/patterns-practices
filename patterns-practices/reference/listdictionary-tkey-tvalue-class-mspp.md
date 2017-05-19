@@ -37,7 +37,7 @@ public sealed class ListDictionary<TKey, TValue> : IDictionary<TKey, IList<TValu
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)<br/>
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
     Microsoft.Practices.Prism.ListDictionary<TKey, TValue>
 
 ## See Also
@@ -78,7 +78,7 @@ Public NotInheritable Class ListDictionary(Of TKey, TValue)
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)<br/>
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
   Microsoft.Practices.Prism.ListDictionary(Of TKey, TValue)
   
 

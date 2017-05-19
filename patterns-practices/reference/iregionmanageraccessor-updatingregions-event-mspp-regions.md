@@ -30,7 +30,7 @@ Event UpdatingRegions As EventHandler
 
 ### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
 
 ## Remarks
 

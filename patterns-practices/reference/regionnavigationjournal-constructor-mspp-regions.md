@@ -20,7 +20,7 @@ Initializes a new instance of the [RegionNavigationJournal](https://msdn.microso
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public RegionNavigationJournal()Public Sub New
+public RegionNavigationJournal()Public Sub New
 
 See Also
 --------

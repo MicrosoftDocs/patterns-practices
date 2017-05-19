@@ -20,7 +20,7 @@ Override this method to perform the logic after the behavior has been attached.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected abstract void OnAttach()Protected MustOverride Sub OnAttach
+protected abstract void OnAttach()Protected MustOverride Sub OnAttach
 
 See Also
 --------

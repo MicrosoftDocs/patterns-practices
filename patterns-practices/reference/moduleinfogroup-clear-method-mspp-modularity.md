@@ -20,11 +20,11 @@ Removes all [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void Clear()Public Sub Clear
+public void Clear()Public Sub Clear
 ### Implements
 
-[ICollection&lt;(Of &lt;(T&gt;)&gt;).Clear()()()](http://msdn2.microsoft.com/en-us/library/5axy4fbh)
-[IList.Clear()()()](http://msdn2.microsoft.com/en-us/library/5h6ak0yz)
+[ICollection&lt;(Of &lt;(T&gt;)&gt;).Clear()()()](http://msdn.microsoft.com/en-us/library/5axy4fbh)
+[IList.Clear()()()](http://msdn.microsoft.com/en-us/library/5h6ak0yz)
 
 See Also
 --------

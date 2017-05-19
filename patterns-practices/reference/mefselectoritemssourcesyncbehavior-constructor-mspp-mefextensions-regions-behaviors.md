@@ -20,7 +20,7 @@ Initializes a new instance of the [MefSelectorItemsSourceSyncBehavior](https://m
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public MefSelectorItemsSourceSyncBehavior()Public Sub New
+public MefSelectorItemsSourceSyncBehavior()Public Sub New
 
 See Also
 --------

@@ -20,7 +20,7 @@ Gets the context for a requested interaction.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public INotification Context { get; }Public ReadOnly Property Context As INotification Get
+public INotification Context { get; }Public ReadOnly Property Context As INotification Get
 ### Property Value
 
 Type: [INotification](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.inotification)

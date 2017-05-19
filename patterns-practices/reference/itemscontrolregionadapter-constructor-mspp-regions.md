@@ -20,7 +20,7 @@ Initializes a new instance of [ItemsControlRegionAdapter](https://msdn.microsoft
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ItemsControlRegionAdapter( IRegionBehaviorFactory regionBehaviorFactory )Public Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
+public ItemsControlRegionAdapter( IRegionBehaviorFactory regionBehaviorFactory )Public Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
 
 ### Parameters
 

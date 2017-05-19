@@ -20,7 +20,7 @@ Gets or sets when the module should have Initialize() called.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public InitializationMode InitializationMode { get; set; }Public Property InitializationMode As InitializationMode Get Set
+public InitializationMode InitializationMode { get; set; }Public Property InitializationMode As InitializationMode Get Set
 ### Property Value
 
 Type: [InitializationMode](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.initializationmode)

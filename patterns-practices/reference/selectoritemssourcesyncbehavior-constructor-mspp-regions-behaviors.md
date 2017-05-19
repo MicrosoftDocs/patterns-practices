@@ -20,7 +20,7 @@ Initializes a new instance of the [SelectorItemsSourceSyncBehavior](https://msdn
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public SelectorItemsSourceSyncBehavior()Public Sub New
+public SelectorItemsSourceSyncBehavior()Public Sub New
 
 See Also
 --------

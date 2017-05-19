@@ -20,7 +20,7 @@ Start monitoring the [RegionManager](https://msdn.microsoft.com/t:microsoft.prac
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void Attach()Public Sub Attach
+public void Attach()Public Sub Attach
 
 See Also
 --------

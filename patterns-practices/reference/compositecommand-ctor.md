@@ -18,7 +18,7 @@ Initializes a new instance of [CompositeCommand](https://msdn.microsoft.com/t:mi
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public CompositeCommand()Public Sub New
+public CompositeCommand()Public Sub New
 
 See Also
 --------

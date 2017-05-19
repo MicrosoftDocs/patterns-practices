@@ -20,7 +20,7 @@ Initializes a new instance of the [MefEventAggregator](https://msdn.microsoft.co
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public MefEventAggregator()Public Sub New
+public MefEventAggregator()Public Sub New
 
 See Also
 --------

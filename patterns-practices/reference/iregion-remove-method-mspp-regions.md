@@ -20,12 +20,12 @@ Removes the specified view from the region.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>void Remove( Object view )Sub Remove ( view As Object )
+void Remove( Object view )Sub Remove ( view As Object )
 
 ### Parameters
 
 view  
-Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The view to remove.
 
 See Also

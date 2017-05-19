@@ -20,17 +20,17 @@ Base class for items that support property notification.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>[SerializableAttribute\] [ObsoleteAttribute("Please use Prism.Mvvm.BindableBase")\] public abstract class NotificationObject : INotifyPropertyChanged&lt;SerializableAttribute&gt; &lt;ObsoleteAttribute("Please use Prism.Mvvm.BindableBase")&gt; Public MustInherit Class NotificationObject Implements INotifyPropertyChanged
+[SerializableAttribute\] [ObsoleteAttribute("Please use Prism.Mvvm.BindableBase")\] public abstract class NotificationObject : INotifyPropertyChanged&lt;SerializableAttribute&gt; &lt;ObsoleteAttribute("Please use Prism.Mvvm.BindableBase")&gt; Public MustInherit Class NotificationObject Implements INotifyPropertyChanged
 
 Remarks
 -------
 
-<span id="remarksToggle"></span> This class provides basic support for implementing the [INotifyPropertyChanged](http://msdn2.microsoft.com/en-us/library/ms133020) interface and for marshalling execution to the UI thread.
+<span id="remarksToggle"></span> This class provides basic support for implementing the [INotifyPropertyChanged](http://msdn.microsoft.com/en-us/library/ms133020) interface and for marshalling execution to the UI thread.
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.ViewModel.NotificationObject
 
 See Also

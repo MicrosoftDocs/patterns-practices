@@ -20,7 +20,7 @@ Initializes a new instance of the [MefClearChildViewsRegionBehavior](https://msd
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public MefClearChildViewsRegionBehavior()Public Sub New
+public MefClearChildViewsRegionBehavior()Public Sub New
 
 See Also
 --------

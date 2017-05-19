@@ -20,7 +20,7 @@ Adds a [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modul
 ## Syntax
 
 
-<span id="syntaxToggle"></span>void AddModule( ModuleInfo moduleInfo )Sub AddModule ( moduleInfo As ModuleInfo )
+void AddModule( ModuleInfo moduleInfo )Sub AddModule ( moduleInfo As ModuleInfo )
 
 ### Parameters
 

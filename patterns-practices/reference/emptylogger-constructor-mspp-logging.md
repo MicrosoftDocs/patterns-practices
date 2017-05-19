@@ -20,7 +20,7 @@ Initializes a new instance of the [EmptyLogger](https://msdn.microsoft.com/t:mic
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public EmptyLogger()Public Sub New
+public EmptyLogger()Public Sub New
 
 See Also
 --------

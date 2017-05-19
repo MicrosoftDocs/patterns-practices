@@ -45,12 +45,12 @@ Type: [Microsoft.Practices.Prism.Regions.IRegionManager](https://msdn.microsoft.
 The regionmanager that this extension method effects.
 
 *regionName*  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 The name of the region to call Navigate on.
 
 *source*  
-Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 
 The URI of the content to display.
 

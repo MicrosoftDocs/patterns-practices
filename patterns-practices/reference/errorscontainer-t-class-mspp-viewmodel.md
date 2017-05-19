@@ -18,7 +18,7 @@ Manages validation errors for an object, notifying when the error state changes.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class ErrorsContainer&lt;T&gt; Public Class ErrorsContainer(Of T)
+public class ErrorsContainer&lt;T&gt; Public Class ErrorsContainer(Of T)
 Type Parameters
 ---------------
 
@@ -29,7 +29,7 @@ The type of the error object.
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.ViewModel.ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)
 
 See Also

@@ -20,7 +20,7 @@ Specifies on which stage the Module group will be initialized.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public enum InitializationModePublic Enumeration InitializationMode
+public enum InitializationModePublic Enumeration InitializationMode
 
 Members
 -------

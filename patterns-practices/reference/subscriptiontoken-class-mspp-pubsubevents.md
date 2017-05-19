@@ -18,12 +18,12 @@ Subscription token returned from [EventBase](https://msdn.microsoft.com/t:micros
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class SubscriptionToken : IEquatable&lt;SubscriptionToken&gt;, IDisposablePublic Class SubscriptionToken Implements IEquatable(Of SubscriptionToken), IDisposable
+public class SubscriptionToken : IEquatable&lt;SubscriptionToken&gt;, IDisposablePublic Class SubscriptionToken Implements IEquatable(Of SubscriptionToken), IDisposable
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken
 
 See Also

@@ -20,7 +20,7 @@ Initializes a new instance of the [MefDelayedRegionCreationBehavior](https://msd
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public MefDelayedRegionCreationBehavior( RegionAdapterMappings regionAdapterMappings )Public Sub New ( regionAdapterMappings As RegionAdapterMappings )
+public MefDelayedRegionCreationBehavior( RegionAdapterMappings regionAdapterMappings )Public Sub New ( regionAdapterMappings As RegionAdapterMappings )
 
 ### Parameters
 

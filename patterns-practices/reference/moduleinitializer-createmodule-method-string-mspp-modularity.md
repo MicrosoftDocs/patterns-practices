@@ -10,7 +10,7 @@ Prism Class Library
 ModuleInitializer.CreateModule Method (String)
 ==================================================
 
-Uses the container to resolve a new [IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule) by specifying its [Type](http://msdn2.microsoft.com/en-us/library/42892f65).
+Uses the container to resolve a new [IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule) by specifying its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -20,12 +20,12 @@ Uses the container to resolve a new [IModule](https://msdn.microsoft.com/t:micro
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual IModule CreateModule( string typeName )Protected Overridable Function CreateModule ( typeName As String ) As IModule
+protected virtual IModule CreateModule( string typeName )Protected Overridable Function CreateModule ( typeName As String ) As IModule
 
 ### Parameters
 
 typeName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The type name to resolve. This type must implement [IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule).
 
 ### Return Value

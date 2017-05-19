@@ -20,7 +20,7 @@ Adds the specified catalog using the module info as a key.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void Add( ModuleInfo moduleInfo, ComposablePartCatalog catalog )Public Sub Add ( moduleInfo As ModuleInfo, catalog As ComposablePartCatalog )
+public void Add( ModuleInfo moduleInfo, ComposablePartCatalog catalog )Public Sub Add ( moduleInfo As ModuleInfo, catalog As ComposablePartCatalog )
 
 ### Parameters
 
@@ -29,7 +29,7 @@ Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.c
 The module info.
 
 catalog  
-Type: [System.ComponentModel.Composition.Primitives.ComposablePartCatalog](http://msdn2.microsoft.com/en-us/library/dd454614)
+Type: [System.ComponentModel.Composition.Primitives.ComposablePartCatalog](http://msdn.microsoft.com/en-us/library/dd454614)
 The catalog.
 
 See Also

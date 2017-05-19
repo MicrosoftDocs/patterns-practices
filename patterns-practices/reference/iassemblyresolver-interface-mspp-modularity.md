@@ -20,7 +20,7 @@ Interface for classes that are responsible for resolving and loading assembly fi
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IAssemblyResolverPublic Interface IAssemblyResolver
+public interface IAssemblyResolverPublic Interface IAssemblyResolver
 
 See Also
 --------

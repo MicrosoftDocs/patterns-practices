@@ -40,7 +40,7 @@ Public Sub New (
 *serviceLocator*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IServiceLocator
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IServiceLocator used to create the instance of the view from its [Type](http://msdn2.microsoft.com/en-us/library/42892f65).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IServiceLocator used to create the instance of the view from its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
 *container*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IUnityContainer

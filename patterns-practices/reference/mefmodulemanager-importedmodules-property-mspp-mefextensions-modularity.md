@@ -20,10 +20,10 @@ Gets or sets the modules to be imported.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected IEnumerable&lt;Lazy&lt;IModule, IModuleExport&gt;&gt; ImportedModules { get; set; }Protected Property ImportedModules As IEnumerable(Of Lazy(Of IModule, IModuleExport)) Get Set
+protected IEnumerable&lt;Lazy&lt;IModule, IModuleExport&gt;&gt; ImportedModules { get; set; }Protected Property ImportedModules As IEnumerable(Of Lazy(Of IModule, IModuleExport)) Get Set
 ### Property Value
 
-Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Lazy](http://msdn2.microsoft.com/en-us/library/dd986615)&lt;(Of &lt;([IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule), [IModuleExport](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.imoduleexport)&gt;)&gt;)&gt;)&gt;)
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Lazy](http://msdn.microsoft.com/en-us/library/dd986615)&lt;(Of &lt;([IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule), [IModuleExport](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.imoduleexport)&gt;)&gt;)&gt;)&gt;)
 
 Remarks
 -------

@@ -18,7 +18,7 @@ Defines an interface to get instances of an event type.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IEventAggregatorPublic Interface IEventAggregator
+public interface IEventAggregatorPublic Interface IEventAggregator
 
 See Also
 --------

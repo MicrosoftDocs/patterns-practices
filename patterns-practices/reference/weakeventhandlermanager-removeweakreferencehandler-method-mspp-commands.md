@@ -18,16 +18,16 @@ Removes an event handler from the reference list.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static void RemoveWeakReferenceHandler( List&lt;WeakReference&gt; handlers, EventHandler handler )Public Shared Sub RemoveWeakReferenceHandler ( handlers As List(Of WeakReference), handler As EventHandler )
+public static void RemoveWeakReferenceHandler( List&lt;WeakReference&gt; handlers, EventHandler handler )Public Shared Sub RemoveWeakReferenceHandler ( handlers As List(Of WeakReference), handler As EventHandler )
 
 ### Parameters
 
 handlers  
-Type: [System.Collections.Generic.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)&lt;(Of &lt;([WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd)&gt;)&gt;)
+Type: [System.Collections.Generic.List](http://msdn.microsoft.com/en-us/library/6sh2ey19)&lt;(Of &lt;([WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd)&gt;)&gt;)
 Handler list to remove reference from.
 
 handler  
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
 Handler to remove.
 
 See Also

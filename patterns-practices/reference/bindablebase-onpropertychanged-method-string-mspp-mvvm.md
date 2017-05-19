@@ -18,13 +18,13 @@ Notifies listeners that a property value has changed.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected void OnPropertyChanged( string propertyName )Protected Sub OnPropertyChanged ( propertyName As String )
+protected void OnPropertyChanged( string propertyName )Protected Sub OnPropertyChanged ( propertyName As String )
 
 ### Parameters
 
 propertyName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
-Name of the property used to notify listeners. This value is optional and can be provided automatically when invoked from compilers that support [CallerMemberNameAttribute](http://msdn2.microsoft.com/en-us/library/hh551816).
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+Name of the property used to notify listeners. This value is optional and can be provided automatically when invoked from compilers that support [CallerMemberNameAttribute](http://msdn.microsoft.com/en-us/library/hh551816).
 
 See Also
 --------

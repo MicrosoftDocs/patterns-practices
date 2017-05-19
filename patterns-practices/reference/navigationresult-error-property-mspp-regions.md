@@ -20,10 +20,10 @@ Gets an exception that occurred while navigating.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public Exception Error { get; }Public ReadOnly Property Error As Exception Get
+public Exception Error { get; }Public ReadOnly Property Error As Exception Get
 ### Property Value
 
-Type: [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+Type: [Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 The exception.
 
 See Also

@@ -20,10 +20,10 @@ Removes all entries in the dictionary.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void Clear()Public Sub Clear
+public void Clear()Public Sub Clear
 ### Implements
 
-[ICollection&lt;(Of &lt;(T&gt;)&gt;).Clear()()()](http://msdn2.microsoft.com/en-us/library/5axy4fbh)
+[ICollection&lt;(Of &lt;(T&gt;)&gt;).Clear()()()](http://msdn.microsoft.com/en-us/library/5axy4fbh)
 
 See Also
 --------

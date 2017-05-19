@@ -20,7 +20,7 @@ Initializes a new instance of the [PopupWindowAction](https://msdn.microsoft.com
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public PopupWindowAction()Public Sub New
+public PopupWindowAction()Public Sub New
 
 See Also
 --------

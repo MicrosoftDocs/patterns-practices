@@ -20,12 +20,12 @@ Populates the target region with the views registered to it in the [IRegionViewR
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class AutoPopulateRegionBehavior : RegionBehaviorPublic Class AutoPopulateRegionBehavior Inherits RegionBehavior
+public class AutoPopulateRegionBehavior : RegionBehaviorPublic Class AutoPopulateRegionBehavior Inherits RegionBehavior
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Regions.RegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehavior)
     Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior
       [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefAutoPopulateRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior)

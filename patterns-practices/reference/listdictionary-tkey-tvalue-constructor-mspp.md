@@ -20,7 +20,7 @@ Initializes a new instance of the [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ListDictionary()Public Sub New
+public ListDictionary()Public Sub New
 
 See Also
 --------

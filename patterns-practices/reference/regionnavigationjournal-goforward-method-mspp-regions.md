@@ -20,7 +20,7 @@ Navigates to the most recent entry in the forward navigation history, or does no
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void GoForward()Public Sub GoForward
+public void GoForward()Public Sub GoForward
 ### Implements
 
 [IRegionNavigationJournal.GoForward()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionnavigationjournal.goforward)

@@ -20,17 +20,17 @@ Removes a [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regio
 ## Syntax
 
 
-<span id="syntaxToggle"></span>bool Remove( string regionName )Function Remove ( regionName As String ) As Boolean
+bool Remove( string regionName )Function Remove ( regionName As String ) As Boolean
 
 ### Parameters
 
 regionName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Name of the region to be removed.
 
 ### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if the region was removed from the collection, otherwise falseFalsefalsefalse (False in Visual Basic).
 
 See Also

@@ -36,18 +36,18 @@ Public Shared Function GetRootException (
 
 *exception*
 
-    Type: [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+    Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
     The exception that will provide the list of inner exeptions to examine.
 
 ### Return Value
 
-Type: [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+Type: [Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 
 The exception that most likely caused the exception to occur. If it can't find the root exception, it will return the exception value itself.
 
 ### Usage Note
 
-In Visual Basic and C\#, you can call this method as an instance method on any object of type [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
+In Visual Basic and C\#, you can call this method as an instance method on any object of type [Exception](http://msdn.microsoft.com/en-us/library/c18k6c59). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 
 ## Remarks
 

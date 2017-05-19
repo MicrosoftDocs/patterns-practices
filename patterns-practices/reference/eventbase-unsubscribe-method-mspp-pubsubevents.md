@@ -18,7 +18,7 @@ Removes the subscriber matching the [SubscriptionToken](https://msdn.microsoft.c
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public virtual void Unsubscribe( SubscriptionToken token )Public Overridable Sub Unsubscribe ( token As SubscriptionToken )
+public virtual void Unsubscribe( SubscriptionToken token )Public Overridable Sub Unsubscribe ( token As SubscriptionToken )
 
 ### Parameters
 

@@ -20,7 +20,7 @@ Provides methods to perform navigation.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface INavigateAsyncPublic Interface INavigateAsync
+public interface INavigateAsyncPublic Interface INavigateAsync
 
 Remarks
 -------

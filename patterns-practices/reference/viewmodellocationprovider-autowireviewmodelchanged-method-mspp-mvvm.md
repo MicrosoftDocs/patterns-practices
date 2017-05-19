@@ -18,7 +18,7 @@ Automatically looks up the viewmodel that corresponds to the current view, using
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static void AutoWireViewModelChanged( IView view )Public Shared Sub AutoWireViewModelChanged ( view As IView )
+public static void AutoWireViewModelChanged( IView view )Public Shared Sub AutoWireViewModelChanged ( view As IView )
 
 ### Parameters
 

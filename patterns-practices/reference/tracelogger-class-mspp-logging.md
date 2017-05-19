@@ -10,7 +10,7 @@ Prism Class Library
 TraceLogger Class
 =================
 
-Implementation of [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade) that logs to .NET [Trace](http://msdn2.microsoft.com/en-us/library/36hhw2t6) class.
+Implementation of [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade) that logs to .NET [Trace](http://msdn.microsoft.com/en-us/library/36hhw2t6) class.
 
 **Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/n:microsoft.practices.prism.logging)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -20,12 +20,12 @@ Implementation of [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practic
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class TraceLogger : ILoggerFacadePublic Class TraceLogger Implements ILoggerFacade
+public class TraceLogger : ILoggerFacadePublic Class TraceLogger Implements ILoggerFacade
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Logging.TraceLogger
 
 See Also

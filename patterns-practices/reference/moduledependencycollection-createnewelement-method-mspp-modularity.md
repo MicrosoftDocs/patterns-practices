@@ -15,12 +15,12 @@ Description
 [CreateNewElement](https://msdn.microsoft.com/en-us/library/gg405897(v=pandp.50))
 Creates a new [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement(v=pandp.50)).
 
-(Overrides [ConfigurationElementCollection.CreateNewElement](http://msdn2.microsoft.com/en-us/library/ak7z48w8).)
+(Overrides [ConfigurationElementCollection.CreateNewElement](http://msdn.microsoft.com/en-us/library/ak7z48w8).)
 ![](https://msdn.microsoft.com/en-us/Gg419098.protmethod(en-us,PandP.50).gif "Protected method")
-[CreateNewElement(String)](http://msdn2.microsoft.com/en-us/library/ky49faah)
-Creates a new [ConfigurationElement](http://msdn2.microsoft.com/en-us/library/kyx77cz3) when overridden in a derived class.
+[CreateNewElement(String)](http://msdn.microsoft.com/en-us/library/ky49faah)
+Creates a new [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) when overridden in a derived class.
 
-(Inherited from [ConfigurationElementCollection](http://msdn2.microsoft.com/en-us/library/a35we8et).)
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)
 
 ## See Also
 

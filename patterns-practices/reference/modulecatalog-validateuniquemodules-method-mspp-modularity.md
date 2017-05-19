@@ -20,7 +20,7 @@ Makes sure all modules have an Unique name.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void ValidateUniqueModules()Protected Overridable Sub ValidateUniqueModules
+protected virtual void ValidateUniqueModules()Protected Overridable Sub ValidateUniqueModules
 
 Exceptions
 ----------

@@ -20,17 +20,17 @@ Gets the value for the RegionName attached property.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>string GetRegionName( DependencyObject element )Function GetRegionName ( element As DependencyObject ) As String
+string GetRegionName( DependencyObject element )Function GetRegionName ( element As DependencyObject ) As String
 
 ### Parameters
 
 element  
-Type: [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
+Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
 The object to adapt. This is typically a container (i.e a control).
 
 ### Return Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region that should be created when the RegionManager is also set in this element.
 
 See Also

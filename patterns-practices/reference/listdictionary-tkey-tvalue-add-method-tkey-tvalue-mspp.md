@@ -20,7 +20,7 @@ Adds a value to a list with the given key. If a list does not already exist, it 
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void Add( TKey key, TValue value )Public Sub Add ( key As TKey, value As TValue )
+public void Add( TKey key, TValue value )Public Sub Add ( key As TKey, value As TValue )
 
 ### Parameters
 

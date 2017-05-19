@@ -20,12 +20,12 @@ Marks the specified view as inactive.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>void Deactivate( Object view )Sub Deactivate ( view As Object )
+void Deactivate( Object view )Sub Deactivate ( view As Object )
 
 ### Parameters
 
 view  
-Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The view to deactivate.
 
 See Also

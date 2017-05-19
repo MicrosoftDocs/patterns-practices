@@ -20,12 +20,12 @@ Returns the adapter associated with the type provided.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public IRegionAdapter GetMapping( Type controlType )Public Function GetMapping ( controlType As Type ) As IRegionAdapter
+public IRegionAdapter GetMapping( Type controlType )Public Function GetMapping ( controlType As Type ) As IRegionAdapter
 
 ### Parameters
 
 controlType  
-Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 The type to obtain the [IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter) mapped.
 
 ### Return Value
@@ -44,7 +44,7 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                                                | Condition                                                                 |
 |----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| [System.Collections.Generic.KeyNotFoundException](http://msdn2.microsoft.com/en-us/library/9a35cy81) | When there is no registered type for controlType or any of its ancestors. |
+| [System.Collections.Generic.KeyNotFoundException](http://msdn.microsoft.com/en-us/library/9a35cy81) | When there is no registered type for controlType or any of its ancestors. |
 
 See Also
 --------

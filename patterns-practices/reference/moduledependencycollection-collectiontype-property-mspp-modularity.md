@@ -10,7 +10,7 @@ Prism Class Library
 ModuleDependencyCollection.CollectionType Property
 ======================================================
 
-Gets the type of the [ConfigurationElementCollection](http://msdn2.microsoft.com/en-us/library/a35we8et).
+Gets the type of the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -20,11 +20,11 @@ Gets the type of the [ConfigurationElementCollection](http://msdn2.microsoft.com
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public override ConfigurationElementCollectionType CollectionType { get; }Public Overrides ReadOnly Property CollectionType As ConfigurationElementCollectionType Get
+public override ConfigurationElementCollectionType CollectionType { get; }Public Overrides ReadOnly Property CollectionType As ConfigurationElementCollectionType Get
 ### Property Value
 
-Type: [ConfigurationElementCollectionType](http://msdn2.microsoft.com/en-us/library/xtb86yh0)
-The [ConfigurationElementCollectionType](http://msdn2.microsoft.com/en-us/library/xtb86yh0) of this collection.
+Type: [ConfigurationElementCollectionType](http://msdn.microsoft.com/en-us/library/xtb86yh0)
+The [ConfigurationElementCollectionType](http://msdn.microsoft.com/en-us/library/xtb86yh0) of this collection.
 
 See Also
 --------

@@ -20,7 +20,7 @@ Evaluates the [Ref](https://msdn.microsoft.com/p:microsoft.practices.prism.modul
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public virtual bool CanLoadModuleType( ModuleInfo moduleInfo )Public Overridable Function CanLoadModuleType ( moduleInfo As ModuleInfo ) As Boolean
+public virtual bool CanLoadModuleType( ModuleInfo moduleInfo )Public Overridable Function CanLoadModuleType ( moduleInfo As ModuleInfo ) As Boolean
 
 ### Parameters
 
@@ -30,7 +30,7 @@ Module that should have it's type loaded.
 
 ### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if the current typeloader is able to retrieve the module, otherwise falseFalsefalsefalse (False in Visual Basic).
 ### Implements
 

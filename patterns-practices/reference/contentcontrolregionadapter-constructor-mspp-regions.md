@@ -20,7 +20,7 @@ Initializes a new instance of [ContentControlRegionAdapter](https://msdn.microso
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ContentControlRegionAdapter( IRegionBehaviorFactory regionBehaviorFactory )Public Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
+public ContentControlRegionAdapter( IRegionBehaviorFactory regionBehaviorFactory )Public Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
 
 ### Parameters
 

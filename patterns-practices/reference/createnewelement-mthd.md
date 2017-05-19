@@ -20,10 +20,10 @@ Creates a new [ModuleConfigurationElement](https://msdn.microsoft.com/t:microsof
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected override ConfigurationElement CreateNewElement()Protected Overrides Function CreateNewElement As ConfigurationElement
+protected override ConfigurationElement CreateNewElement()Protected Overrides Function CreateNewElement As ConfigurationElement
 ### Return Value
 
-Type: [ConfigurationElement](http://msdn2.microsoft.com/en-us/library/kyx77cz3)
+Type: [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3)
 A [ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement).
 
 See Also

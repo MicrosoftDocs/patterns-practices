@@ -20,7 +20,7 @@ Initializes a new instance of the [RegionAdapterMappings](https://msdn.microsoft
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public RegionAdapterMappings()Public Sub New
+public RegionAdapterMappings()Public Sub New
 
 See Also
 --------

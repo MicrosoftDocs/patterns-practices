@@ -20,11 +20,11 @@ Gets the error.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public Exception Error { get; }Public ReadOnly Property Error As Exception Get
+public Exception Error { get; }Public ReadOnly Property Error As Exception Get
 ### Property Value
 
-Type: [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
-The [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59), or nullNothingnullptra null reference (Nothing in Visual Basic) if the failure was not caused by an exception.
+Type: [Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
+The [Exception](http://msdn.microsoft.com/en-us/library/c18k6c59), or nullNothingnullptra null reference (Nothing in Visual Basic) if the failure was not caused by an exception.
 
 See Also
 --------

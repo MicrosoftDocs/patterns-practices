@@ -20,10 +20,10 @@ Returns a collection of views that will be added to the View collection.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual IEnumerable&lt;Object&gt; CreateViewsToAutoPopulate()Protected Overridable Function CreateViewsToAutoPopulate As IEnumerable(Of Object)
+protected virtual IEnumerable&lt;Object&gt; CreateViewsToAutoPopulate()Protected Overridable Function CreateViewsToAutoPopulate As IEnumerable(Of Object)
 ### Return Value
 
-Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 
 See Also
 --------

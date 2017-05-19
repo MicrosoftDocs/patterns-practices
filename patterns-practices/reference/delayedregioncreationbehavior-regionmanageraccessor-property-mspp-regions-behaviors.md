@@ -20,7 +20,7 @@ Sets a class that interfaces between the [RegionManager](https://msdn.microsoft.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public IRegionManagerAccessor RegionManagerAccessor { get; set; }Public Property RegionManagerAccessor As IRegionManagerAccessor Get Set
+public IRegionManagerAccessor RegionManagerAccessor { get; set; }Public Property RegionManagerAccessor As IRegionManagerAccessor Get Set
 ### Property Value
 
 Type: [IRegionManagerAccessor](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanageraccessor)

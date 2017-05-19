@@ -20,7 +20,7 @@ Initializes a new instance of the [AssemblyResolver](https://msdn.microsoft.com/
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public AssemblyResolver()Public Sub New
+public AssemblyResolver()Public Sub New
 
 See Also
 --------

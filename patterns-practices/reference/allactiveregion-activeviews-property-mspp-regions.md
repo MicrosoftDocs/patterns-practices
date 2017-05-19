@@ -20,7 +20,7 @@ Gets a readonly view of the collection of all the active views in the region. Th
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public override IViewsCollection ActiveViews { get; }Public Overrides ReadOnly Property ActiveViews As IViewsCollection Get
+public override IViewsCollection ActiveViews { get; }Public Overrides ReadOnly Property ActiveViews As IViewsCollection Get
 ### Property Value
 
 Type: [IViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iviewscollection)

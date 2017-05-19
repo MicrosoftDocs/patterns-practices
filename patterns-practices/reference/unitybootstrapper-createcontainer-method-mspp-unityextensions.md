@@ -20,7 +20,7 @@ Creates the IUnityContainer that will be used as the default container.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual IUnityContainer CreateContainer()Protected Overridable Function CreateContainer As IUnityContainer
+protected virtual IUnityContainer CreateContainer()Protected Overridable Function CreateContainer As IUnityContainer
 ### Return Value
 
 Type: IUnityContainer

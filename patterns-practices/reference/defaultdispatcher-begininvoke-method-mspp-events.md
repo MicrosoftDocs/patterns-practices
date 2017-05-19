@@ -10,7 +10,7 @@ Prism Class Library
 DefaultDispatcher.BeginInvoke Method
 ========================================
 
-Forwards the BeginInvoke to the current application's [Dispatcher](http://msdn2.microsoft.com/en-us/library/ms615907).
+Forwards the BeginInvoke to the current application's [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907).
 
 **Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/n:microsoft.practices.prism.events)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -20,16 +20,16 @@ Forwards the BeginInvoke to the current application's [Dispatcher](http://msdn2.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void BeginInvoke( Delegate method, Object arg )Public Sub BeginInvoke ( method As Delegate, arg As Object )
+public void BeginInvoke( Delegate method, Object arg )Public Sub BeginInvoke ( method As Delegate, arg As Object )
 
 ### Parameters
 
 method  
-Type: [System.Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51)
+Type: [System.Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)
 Method to be invoked.
 
 arg  
-Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 Arguments to pass to the invoked method.
 
 ### Implements

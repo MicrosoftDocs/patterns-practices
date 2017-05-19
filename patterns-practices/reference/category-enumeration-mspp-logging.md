@@ -20,7 +20,7 @@ Defines values for the categories used by [ILoggerFacade](https://msdn.microsoft
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public enum CategoryPublic Enumeration Category
+public enum CategoryPublic Enumeration Category
 
 Members
 -------

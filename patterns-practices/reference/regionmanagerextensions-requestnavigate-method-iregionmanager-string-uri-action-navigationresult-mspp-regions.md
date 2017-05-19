@@ -20,7 +20,7 @@ Navigates the specified region manager.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static void RequestNavigate( this IRegionManager regionManager, string regionName, Uri source, Action&lt;NavigationResult&gt; navigationCallback )&lt;ExtensionAttribute&gt; Public Shared Sub RequestNavigate ( regionManager As IRegionManager, regionName As String, source As Uri, navigationCallback As Action(Of NavigationResult) )
+public static void RequestNavigate( this IRegionManager regionManager, string regionName, Uri source, Action&lt;NavigationResult&gt; navigationCallback )&lt;ExtensionAttribute&gt; Public Shared Sub RequestNavigate ( regionManager As IRegionManager, regionName As String, source As Uri, navigationCallback As Action(Of NavigationResult) )
 
 ### Parameters
 
@@ -29,15 +29,15 @@ Type: [Microsoft.Practices.Prism.Regions.IRegionManager](https://msdn.microsoft.
 The regionmanager that this extension method effects.
 
 regionName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region to call Navigate on.
 
 source  
-Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 The URI of the content to display.
 
 navigationCallback  
-Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)(Of ([NavigationResult](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult(v=pandp.50))))
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of ([NavigationResult](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult(v=pandp.50))))
 The navigation callback.
 
 ### Usage Note

@@ -33,9 +33,9 @@ Public NotInheritable Class ModuleDependencyAttribute Inherits Attribute
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-  [System.Attribute](http://msdn2.microsoft.com/en-us/library/e8kc3626)
+  [System.Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626)
   
     Microsoft.Practices.Prism.Modularity.ModuleDependencyAttribute
 

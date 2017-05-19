@@ -10,7 +10,7 @@ Prism Class Library
 ModuleInitializer.CreateModule Method (ModuleInfo)
 ======================================================
 
-Uses the container to resolve a new [IModule](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodule(v=pandp.50)) by specifying its [Type](http://msdn2.microsoft.com/en-us/library/42892f65).
+Uses the container to resolve a new [IModule](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodule(v=pandp.50)) by specifying its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
 
@@ -22,7 +22,7 @@ Uses the container to resolve a new [IModule](https://msdn.microsoft.com/en-us/l
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual IModule CreateModule( ModuleInfo moduleInfo )Protected Overridable Function CreateModule ( moduleInfo As ModuleInfo ) As IModule
+protected virtual IModule CreateModule( ModuleInfo moduleInfo )Protected Overridable Function CreateModule ( moduleInfo As ModuleInfo ) As IModule
 
 ### Parameters
 

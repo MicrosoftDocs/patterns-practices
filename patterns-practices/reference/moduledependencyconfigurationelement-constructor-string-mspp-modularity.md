@@ -20,12 +20,12 @@ Initializes a new instance of [ModuleDependencyConfigurationElement](https://msd
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModuleDependencyConfigurationElement( string moduleName )Public Sub New ( moduleName As String )
+public ModuleDependencyConfigurationElement( string moduleName )Public Sub New ( moduleName As String )
 
 ### Parameters
 
 moduleName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 A module name.
 
 See Also

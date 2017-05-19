@@ -20,7 +20,7 @@ Represents Navigation parameters.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class NavigationParameters : IEnumerable&lt;KeyValuePair&lt;string, Object&gt;&gt;, IEnumerablePublic Class NavigationParameters Implements IEnumerable(Of KeyValuePair(Of String, Object)), IEnumerable
+public class NavigationParameters : IEnumerable&lt;KeyValuePair&lt;string, Object&gt;&gt;, IEnumerablePublic Class NavigationParameters Implements IEnumerable(Of KeyValuePair(Of String, Object)), IEnumerable
 
 Remarks
 -------
@@ -30,7 +30,7 @@ Remarks
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Regions.NavigationParameters
 
 See Also

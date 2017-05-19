@@ -20,10 +20,10 @@ Gets or sets a value indicating that the confirmation is confirmed.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>bool Confirmed { get; set; }Property Confirmed As Boolean Get Set
+bool Confirmed { get; set; }Property Confirmed As Boolean Get Set
 ### Property Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 See Also
 --------

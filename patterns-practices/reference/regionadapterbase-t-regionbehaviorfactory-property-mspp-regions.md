@@ -20,7 +20,7 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected IRegionBehaviorFactory RegionBehaviorFactory { get; set; }Protected Property RegionBehaviorFactory As IRegionBehaviorFactory Get Set
+protected IRegionBehaviorFactory RegionBehaviorFactory { get; set; }Protected Property RegionBehaviorFactory As IRegionBehaviorFactory Get Set
 ### Property Value
 
 Type: [IRegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorfactory)

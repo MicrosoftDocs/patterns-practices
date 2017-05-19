@@ -20,7 +20,7 @@ Clears the journal of current, back, and forward navigation histories.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void Clear()Public Sub Clear
+public void Clear()Public Sub Clear
 ### Implements
 
 [IRegionNavigationJournal.Clear()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionnavigationjournal.clear)

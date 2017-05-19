@@ -20,12 +20,12 @@ Executes the command, if it's set, providing the [CommandParameter](https://msdn
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void ExecuteCommand( Object parameter )Protected Overridable Sub ExecuteCommand ( parameter As Object )
+protected virtual void ExecuteCommand( Object parameter )Protected Overridable Sub ExecuteCommand ( parameter As Object )
 
 ### Parameters
 
 parameter  
-Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 See Also
 --------

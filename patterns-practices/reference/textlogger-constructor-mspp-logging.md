@@ -20,7 +20,7 @@ Initializes a new instance of [TextLogger](https://msdn.microsoft.com/t:microsof
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public TextLogger()Public Sub New
+public TextLogger()Public Sub New
 
 See Also
 --------

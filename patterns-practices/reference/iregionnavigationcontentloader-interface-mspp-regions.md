@@ -20,7 +20,7 @@ Identifies the view in a region that is the target of a navigation request.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IRegionNavigationContentLoaderPublic Interface IRegionNavigationContentLoader
+public interface IRegionNavigationContentLoaderPublic Interface IRegionNavigationContentLoader
 
 See Also
 --------

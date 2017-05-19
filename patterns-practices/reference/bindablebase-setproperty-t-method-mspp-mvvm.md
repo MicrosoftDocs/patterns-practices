@@ -18,7 +18,7 @@ Checks if a property already matches a desired value. Sets the property and noti
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual bool SetProperty&lt;T&gt;( ref T storage, T value, string propertyName = null ) Protected Overridable Function SetProperty(Of T) ( ByRef storage As T, value As T, Optional propertyName As String = Nothing ) As Boolean
+protected virtual bool SetProperty&lt;T&gt;( ref T storage, T value, string propertyName = null ) Protected Overridable Function SetProperty(Of T) ( ByRef storage As T, value As T, Optional propertyName As String = Nothing ) As Boolean
 
 ### Parameters
 
@@ -31,7 +31,7 @@ Type: T
 Desired value for the property.
 
 propertyName (Optional)  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Name of the property used to notify listeners. This value is optional and can be provided automatically when invoked from compilers that support CallerMemberName.
 
 Type Parameters
@@ -43,7 +43,7 @@ Type of the property.
 
 ### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 True if the value was changed, false if the existing value matched the desired value.
 
 See Also

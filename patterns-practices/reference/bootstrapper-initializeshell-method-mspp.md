@@ -20,7 +20,7 @@ Initializes the shell.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void InitializeShell()Protected Overridable Sub InitializeShell
+protected virtual void InitializeShell()Protected Overridable Sub InitializeShell
 
 See Also
 --------

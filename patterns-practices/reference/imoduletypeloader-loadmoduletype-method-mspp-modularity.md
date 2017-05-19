@@ -20,7 +20,7 @@ Retrieves the moduleInfo.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>void LoadModuleType( ModuleInfo moduleInfo )Sub LoadModuleType ( moduleInfo As ModuleInfo )
+void LoadModuleType( ModuleInfo moduleInfo )Sub LoadModuleType ( moduleInfo As ModuleInfo )
 
 ### Parameters
 

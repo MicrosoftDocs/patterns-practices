@@ -20,10 +20,10 @@ Gets or sets the module type.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public string ModuleType { get; set; }Public Property ModuleType As String Get Set
+public string ModuleType { get; set; }Public Property ModuleType As String Get Set
 ### Property Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The module's type.
 
 See Also

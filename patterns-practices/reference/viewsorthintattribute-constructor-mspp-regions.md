@@ -20,12 +20,12 @@ Initializes a new instance of the [ViewSortHintAttribute](https://msdn.microsoft
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ViewSortHintAttribute( string hint )Public Sub New ( hint As String )
+public ViewSortHintAttribute( string hint )Public Sub New ( hint As String )
 
 ### Parameters
 
 hint  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The hint to use for sorting.
 
 See Also

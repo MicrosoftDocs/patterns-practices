@@ -20,7 +20,7 @@ Gets or sets the region.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public IRegion Region { get; set; }Public Property Region As IRegion Get Set
+public IRegion Region { get; set; }Public Property Region As IRegion Get Set
 ### Property Value
 
 Type: [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)

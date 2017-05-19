@@ -20,7 +20,7 @@ Gets the module info.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModuleInfo ModuleInfo { get; }Public ReadOnly Property ModuleInfo As ModuleInfo Get
+public ModuleInfo ModuleInfo { get; }Public ReadOnly Property ModuleInfo As ModuleInfo Get
 ### Property Value
 
 Type: [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)

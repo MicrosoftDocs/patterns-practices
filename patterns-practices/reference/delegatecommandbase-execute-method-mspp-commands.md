@@ -10,7 +10,7 @@ Prism Class Library
 DelegateCommandBase.Execute Method
 ======================================
 
-Executes the command with the provided parameter by invoking the [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/018hxwa8) supplied during construction.
+Executes the command with the provided parameter by invoking the [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) supplied during construction.
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
@@ -18,16 +18,16 @@ Executes the command with the provided parameter by invoking the [Action&lt;(Of 
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected Task Execute( Object parameter )Protected Function Execute ( parameter As Object ) As Task
+protected Task Execute( Object parameter )Protected Function Execute ( parameter As Object ) As Task
 
 ### Parameters
 
 parameter  
-Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 ### Return Value
 
-Type: [Task](http://msdn2.microsoft.com/en-us/library/dd235678)
+Type: [Task](http://msdn.microsoft.com/en-us/library/dd235678)
 
 See Also
 --------

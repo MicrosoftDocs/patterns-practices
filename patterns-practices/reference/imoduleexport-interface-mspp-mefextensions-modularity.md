@@ -20,7 +20,7 @@ Describe the Managed Extensibility Framework export of an IModule.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IModuleExportPublic Interface IModuleExport
+public interface IModuleExportPublic Interface IModuleExport
 
 Remarks
 -------

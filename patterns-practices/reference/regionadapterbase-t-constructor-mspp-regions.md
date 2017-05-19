@@ -20,7 +20,7 @@ Initializes a new instance of [RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)](https:
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected RegionAdapterBase( IRegionBehaviorFactory regionBehaviorFactory )Protected Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
+protected RegionAdapterBase( IRegionBehaviorFactory regionBehaviorFactory )Protected Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
 
 ### Parameters
 

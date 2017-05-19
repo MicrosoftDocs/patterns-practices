@@ -20,7 +20,7 @@ Initializes a new instance of the [ClearChildViewsRegionBehavior](https://msdn.m
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ClearChildViewsRegionBehavior()Public Sub New
+public ClearChildViewsRegionBehavior()Public Sub New
 
 See Also
 --------

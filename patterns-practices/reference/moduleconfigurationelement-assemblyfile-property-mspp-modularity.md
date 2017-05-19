@@ -32,7 +32,7 @@ Public Property AssemblyFile As String Get Set
 
 ### Property Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 The assembly file.
 

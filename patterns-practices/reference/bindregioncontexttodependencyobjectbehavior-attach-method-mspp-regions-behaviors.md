@@ -20,7 +20,7 @@ Attaches the behavior to the specified region.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void Attach()Public Sub Attach
+public void Attach()Public Sub Attach
 ### Implements
 
 [IRegionBehavior.Attach()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionbehavior.attach)

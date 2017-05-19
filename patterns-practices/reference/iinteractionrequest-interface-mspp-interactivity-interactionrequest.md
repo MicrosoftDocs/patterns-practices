@@ -20,7 +20,7 @@ Represents a request from user interaction.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IInteractionRequestPublic Interface IInteractionRequest
+public interface IInteractionRequestPublic Interface IInteractionRequest
 
 Remarks
 -------

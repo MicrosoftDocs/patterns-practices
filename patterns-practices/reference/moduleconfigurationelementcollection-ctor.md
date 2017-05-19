@@ -20,7 +20,7 @@ Initializes a new instance of [ModuleConfigurationElementCollection](https://msd
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModuleConfigurationElementCollection()Public Sub New
+public ModuleConfigurationElementCollection()Public Sub New
 
 See Also
 --------

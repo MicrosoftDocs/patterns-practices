@@ -20,7 +20,7 @@ Evaluates the [Ref](https://msdn.microsoft.com/p:microsoft.practices.prism.modul
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public bool CanLoadModuleType( ModuleInfo moduleInfo )Public Function CanLoadModuleType ( moduleInfo As ModuleInfo ) As Boolean
+public bool CanLoadModuleType( ModuleInfo moduleInfo )Public Function CanLoadModuleType ( moduleInfo As ModuleInfo ) As Boolean
 
 ### Parameters
 
@@ -30,7 +30,7 @@ Module that should have it's type loaded.
 
 ### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if the current typeloader is able to retrieve the module, otherwise falseFalsefalsefalse (False in Visual Basic).
 ### Implements
 
@@ -42,7 +42,7 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                             | Condition                                                                                                      |
 |---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
-| [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) is thrown if moduleInfo is null. |
+| [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if moduleInfo is null. |
 
 See Also
 --------

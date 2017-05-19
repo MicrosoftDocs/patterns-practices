@@ -20,7 +20,7 @@ Called when the trigger is being dettached from its AssociatedObject, but before
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected override void OnDetaching()Protected Overrides Sub OnDetaching
+protected override void OnDetaching()Protected Overrides Sub OnDetaching
 
 See Also
 --------

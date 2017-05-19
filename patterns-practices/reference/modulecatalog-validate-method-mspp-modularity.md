@@ -20,7 +20,7 @@ Validates the [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.p
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public virtual void Validate()Public Overridable Sub Validate
+public virtual void Validate()Public Overridable Sub Validate
 
 Exceptions
 ----------

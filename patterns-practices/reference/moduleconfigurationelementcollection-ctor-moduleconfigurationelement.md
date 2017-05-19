@@ -20,7 +20,7 @@ Initializes a new [ModuleConfigurationElementCollection](https://msdn.microsoft.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModuleConfigurationElementCollection( ModuleConfigurationElement[] modules )Public Sub New ( modules As ModuleConfigurationElement() )
+public ModuleConfigurationElementCollection( ModuleConfigurationElement[] modules )Public Sub New ( modules As ModuleConfigurationElement() )
 
 ### Parameters
 
@@ -34,7 +34,7 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                             | Condition                                                                                                                                                           |
 |---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) is thrown if modules is nullNothingnullptra null reference (Nothing in Visual Basic). |
+| [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if modules is nullNothingnullptra null reference (Nothing in Visual Basic). |
 
 See Also
 --------

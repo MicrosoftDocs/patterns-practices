@@ -20,12 +20,12 @@ Ensures that all the dependencies within modules refer to [ModuleInfo](https://m
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected static void ValidateDependencies( IEnumerable&lt;ModuleInfo&gt; modules )Protected Shared Sub ValidateDependencies ( modules As IEnumerable(Of ModuleInfo) )
+protected static void ValidateDependencies( IEnumerable&lt;ModuleInfo&gt; modules )Protected Shared Sub ValidateDependencies ( modules As IEnumerable(Of ModuleInfo) )
 
 ### Parameters
 
 modules  
-Type: [System.Collections.Generic.IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;)&gt;)
+Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;)&gt;)
 The modules to validate modules for.
 
 Exceptions
@@ -35,7 +35,7 @@ Exceptions
 | Exception                                                                                                                                             | Condition                                                                                                                                                    |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Microsoft.Practices.Prism.Modularity.ModularityException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modularityexception) | Throws if a [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) in modules depends on a module that's not in modules. |
-| [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy)                                                                 | Throws if modules is nullNothingnullptra null reference (Nothing in Visual Basic).                                                                           |
+| [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)                                                                 | Throws if modules is nullNothingnullptra null reference (Nothing in Visual Basic).                                                                           |
 
 See Also
 --------

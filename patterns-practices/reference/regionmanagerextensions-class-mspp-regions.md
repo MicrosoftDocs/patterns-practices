@@ -20,12 +20,12 @@ Class that creates a fluent interface for the [IRegionManager](https://msdn.micr
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static class RegionManagerExtensions&lt;ExtensionAttribute&gt; Public NotInheritable Class RegionManagerExtensions
+public static class RegionManagerExtensions&lt;ExtensionAttribute&gt; Public NotInheritable Class RegionManagerExtensions
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Regions.RegionManagerExtensions
 
 See Also

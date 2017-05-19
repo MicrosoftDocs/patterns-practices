@@ -20,14 +20,14 @@ A collection of [ModuleConfigurationElement](https://msdn.microsoft.com/t:micros
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class ModuleConfigurationElementCollection : ConfigurationElementCollectionPublic Class ModuleConfigurationElementCollection Inherits ConfigurationElementCollection
+public class ModuleConfigurationElementCollection : ConfigurationElementCollectionPublic Class ModuleConfigurationElementCollection Inherits ConfigurationElementCollection
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System.Configuration.ConfigurationElement](http://msdn2.microsoft.com/en-us/library/kyx77cz3)
-    [System.Configuration.ConfigurationElementCollection](http://msdn2.microsoft.com/en-us/library/a35we8et)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [System.Configuration.ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3)
+    [System.Configuration.ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et)
       Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection
 
 See Also

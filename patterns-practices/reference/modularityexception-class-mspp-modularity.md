@@ -20,13 +20,13 @@ Base class for exceptions that are thrown because of a problem with modules.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>[SerializableAttribute\] public class ModularityException : Exception&lt;SerializableAttribute&gt; Public Class ModularityException Inherits Exception
+[SerializableAttribute\] public class ModularityException : Exception&lt;SerializableAttribute&gt; Public Class ModularityException Inherits Exception
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
     Microsoft.Practices.Prism.Modularity.ModularityException
       [Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
       [Microsoft.Practices.Prism.Modularity.DuplicateModuleException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.duplicatemoduleexception)

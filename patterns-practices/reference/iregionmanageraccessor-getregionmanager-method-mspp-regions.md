@@ -20,12 +20,12 @@ Gets the value of the RegionName attached property.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>IRegionManager GetRegionManager( DependencyObject element )Function GetRegionManager ( element As DependencyObject ) As IRegionManager
+IRegionManager GetRegionManager( DependencyObject element )Function GetRegionManager ( element As DependencyObject ) As IRegionManager
 
 ### Parameters
 
 element  
-Type: [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
+Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
 The target element.
 
 ### Return Value

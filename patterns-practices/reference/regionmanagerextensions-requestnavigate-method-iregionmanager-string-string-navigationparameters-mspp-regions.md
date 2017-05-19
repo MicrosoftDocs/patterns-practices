@@ -20,7 +20,7 @@ This method allows an IRegionManager to locate a specified region and navigate i
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static void RequestNavigate( this IRegionManager regionManager, string regionName, string target, NavigationParameters navigationParameters )&lt;ExtensionAttribute&gt; Public Shared Sub RequestNavigate ( regionManager As IRegionManager, regionName As String, target As String, navigationParameters As NavigationParameters )
+public static void RequestNavigate( this IRegionManager regionManager, string regionName, string target, NavigationParameters navigationParameters )&lt;ExtensionAttribute&gt; Public Shared Sub RequestNavigate ( regionManager As IRegionManager, regionName As String, target As String, navigationParameters As NavigationParameters )
 
 ### Parameters
 
@@ -29,11 +29,11 @@ Type: [Microsoft.Practices.Prism.Regions.IRegionManager](https://msdn.microsoft.
 The IRegionManager instance that is extended by this method.
 
 regionName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region where the navigation will occur.
 
 target  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 A string that represents the target where the region will navigate.
 
 navigationParameters  

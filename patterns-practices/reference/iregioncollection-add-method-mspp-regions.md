@@ -20,7 +20,7 @@ Adds a [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>void Add( IRegion region )Sub Add ( region As IRegion )
+void Add( IRegion region )Sub Add ( region As IRegion )
 
 ### Parameters
 

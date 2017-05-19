@@ -20,7 +20,7 @@ Initializes a new instance of the [SyncActiveStateAttribute](https://msdn.micros
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public SyncActiveStateAttribute()Public Sub New
+public SyncActiveStateAttribute()Public Sub New
 
 See Also
 --------

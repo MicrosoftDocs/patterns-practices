@@ -20,7 +20,7 @@ Initializes the catalog, which may load and validate the modules.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public virtual void Initialize()Public Overridable Sub Initialize
+public virtual void Initialize()Public Overridable Sub Initialize
 ### Implements
 
 [IModuleCatalog.Initialize()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.imodulecatalog.initialize)

@@ -20,7 +20,7 @@ Template method to adapt the object to an [IRegion](https://msdn.microsoft.com/t
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected abstract void Adapt( IRegion region, T regionTarget )Protected MustOverride Sub Adapt ( region As IRegion, regionTarget As T )
+protected abstract void Adapt( IRegion region, T regionTarget )Protected MustOverride Sub Adapt ( region As IRegion, regionTarget As T )
 
 ### Parameters
 

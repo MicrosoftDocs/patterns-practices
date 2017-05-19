@@ -29,13 +29,13 @@ public void SetErrors(
 
 *propertyName* 
 
-	Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+	Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 	
 	The name of the property.
 
 *newValidationResults*  
 
-	Type: [System.Collections.Generic.IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)<[T](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))>
+	Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)<[T](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))>
 	
 	The new validation errors.
 
@@ -75,13 +75,13 @@ Public Sub SetErrors (
 
 *propertyName* 
 
-	Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+	Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 	
 	The name of the property.
 
 *newValidationResults*  
 
-	Type: [System.Collections.Generic.IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)(Of [T](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50)))
+	Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [T](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50)))
 	
 	The new validation errors.
 

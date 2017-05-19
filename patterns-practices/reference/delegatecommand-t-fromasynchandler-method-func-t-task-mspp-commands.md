@@ -18,12 +18,12 @@ Factory method to create a new instance of [DelegateCommand&lt;(Of &lt;(T&gt;)&g
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static DelegateCommand&lt;T&gt; FromAsyncHandler( Func&lt;T, Task&gt; executeMethod )Public Shared Function FromAsyncHandler ( executeMethod As Func(Of T, Task) ) As DelegateCommand(Of T)
+public static DelegateCommand&lt;T&gt; FromAsyncHandler( Func&lt;T, Task&gt; executeMethod )Public Shared Function FromAsyncHandler ( executeMethod As Func(Of T, Task) ) As DelegateCommand(Of T)
 
 ### Parameters
 
 executeMethod  
-Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601), [Task](http://msdn2.microsoft.com/en-us/library/dd235678)&gt;)&gt;)
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601), [Task](http://msdn.microsoft.com/en-us/library/dd235678)&gt;)&gt;)
 Delegate to execute when Execute is called on the command.
 
 ### Return Value

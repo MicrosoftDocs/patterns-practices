@@ -20,7 +20,7 @@ Exports the RegionBehaviorFactory using the Managed Extensibility Framework (MEF
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class MefRegionBehaviorFactory : RegionBehaviorFactoryPublic Class MefRegionBehaviorFactory Inherits RegionBehaviorFactory
+public class MefRegionBehaviorFactory : RegionBehaviorFactoryPublic Class MefRegionBehaviorFactory Inherits RegionBehaviorFactory
 
 Remarks
 -------
@@ -30,7 +30,7 @@ Remarks
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Regions.RegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehaviorfactory)
     Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionBehaviorFactory
 

@@ -18,12 +18,12 @@ Clears the errors for a property.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void ClearErrors( string propertyName )Public Sub ClearErrors ( propertyName As String )
+public void ClearErrors( string propertyName )Public Sub ClearErrors ( propertyName As String )
 
 ### Parameters
 
 propertyName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of th property for which to clear errors.
 
 Examples

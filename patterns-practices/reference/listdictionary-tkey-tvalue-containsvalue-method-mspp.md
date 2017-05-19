@@ -35,7 +35,7 @@ public bool ContainsValue(
 
 ### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)<br/>
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
 true if the dictionary contains the value in any list; otherwise, false.
 
 ## See Also
@@ -74,7 +74,7 @@ Public Function ContainsValue (
 	The value to locate.
 
 ### Return Value
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)<br/> 
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/> 
 
 true if the dictionary contains the value in any list; otherwise, false.
 

@@ -20,7 +20,7 @@ Initializes a new instance of [ModuleConfigurationElement](https://msdn.microsof
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModuleConfigurationElement()Public Sub New
+public ModuleConfigurationElement()Public Sub New
 
 See Also
 --------

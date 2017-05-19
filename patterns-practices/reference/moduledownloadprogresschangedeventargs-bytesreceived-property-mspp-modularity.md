@@ -20,10 +20,10 @@ Gets the bytes received.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public long BytesReceived { get; }Public ReadOnly Property BytesReceived As Long Get
+public long BytesReceived { get; }Public ReadOnly Property BytesReceived As Long Get
 ### Property Value
 
-Type: [Int64](http://msdn2.microsoft.com/en-us/library/6yy583ek)
+Type: [Int64](http://msdn.microsoft.com/en-us/library/6yy583ek)
 The bytes received.
 
 See Also

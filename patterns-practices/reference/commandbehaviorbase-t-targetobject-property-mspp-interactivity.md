@@ -20,7 +20,7 @@ Object to which this behavior is attached.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected T TargetObject { get; }Protected ReadOnly Property TargetObject As T Get
+protected T TargetObject { get; }Protected ReadOnly Property TargetObject As T Get
 ### Property Value
 
 Type: [T](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.commandbehaviorbase%601)

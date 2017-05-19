@@ -20,7 +20,7 @@ Runs the bootstrapper process.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void Run()Public Sub Run
+public void Run()Public Sub Run
 
 See Also
 --------

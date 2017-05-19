@@ -20,12 +20,12 @@ The ModuleCatalog holds information about the modules that can be used by the ap
 ## Syntax
 
 
-<span id="syntaxToggle"></span>[ContentPropertyAttribute("Items")\] public class ModuleCatalog : IModuleCatalog&lt;ContentPropertyAttribute("Items")&gt; Public Class ModuleCatalog Implements IModuleCatalog
+[ContentPropertyAttribute("Items")\] public class ModuleCatalog : IModuleCatalog&lt;ContentPropertyAttribute("Items")&gt; Public Class ModuleCatalog Implements IModuleCatalog
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Modularity.ModuleCatalog
     [Microsoft.Practices.Prism.Modularity.ConfigurationModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.configurationmodulecatalog)
     [Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.directorymodulecatalog)

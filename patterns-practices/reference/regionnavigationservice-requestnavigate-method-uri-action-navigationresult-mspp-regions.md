@@ -20,16 +20,16 @@ Initiates navigation to the specified target.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void RequestNavigate( Uri target, Action&lt;NavigationResult&gt; navigationCallback )Public Sub RequestNavigate ( target As Uri, navigationCallback As Action(Of NavigationResult) )
+public void RequestNavigate( Uri target, Action&lt;NavigationResult&gt; navigationCallback )Public Sub RequestNavigate ( target As Uri, navigationCallback As Action(Of NavigationResult) )
 
 ### Parameters
 
 target  
-Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 The target.
 
 navigationCallback  
-Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([NavigationResult](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationresult)&gt;)&gt;)
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([NavigationResult](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationresult)&gt;)&gt;)
 A callback to execute when the navigation request is completed.
 
 ### Implements

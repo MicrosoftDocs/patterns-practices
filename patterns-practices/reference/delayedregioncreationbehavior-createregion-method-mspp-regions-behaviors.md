@@ -20,16 +20,16 @@ Method that will create the region, by calling the right [IRegionAdapter](https:
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual IRegion CreateRegion( DependencyObject targetElement, string regionName )Protected Overridable Function CreateRegion ( targetElement As DependencyObject, regionName As String ) As IRegion
+protected virtual IRegion CreateRegion( DependencyObject targetElement, string regionName )Protected Overridable Function CreateRegion ( targetElement As DependencyObject, regionName As String ) As IRegion
 
 ### Parameters
 
 targetElement  
-Type: [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
+Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
 The target element that will host the [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion).
 
 regionName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Name of the region.
 
 ### Return Value

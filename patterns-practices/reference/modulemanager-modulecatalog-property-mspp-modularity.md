@@ -20,7 +20,7 @@ The module catalog specified in the constructor.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected IModuleCatalog ModuleCatalog { get; }Protected ReadOnly Property ModuleCatalog As IModuleCatalog Get
+protected IModuleCatalog ModuleCatalog { get; }Protected ReadOnly Property ModuleCatalog As IModuleCatalog Get
 ### Property Value
 
 Type: [IModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulecatalog)

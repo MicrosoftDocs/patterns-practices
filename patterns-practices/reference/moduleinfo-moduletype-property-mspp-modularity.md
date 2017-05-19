@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431318(v=PandP.50)'
 
 # ModuleInfo.ModuleType Property
 
-Gets or sets the module [Type](http://msdn2.microsoft.com/en-us/library/42892f65)'s AssemblyQualifiedName.
+Gets or sets the module [Type](http://msdn.microsoft.com/en-us/library/42892f65)'s AssemblyQualifiedName.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
 
@@ -32,7 +32,7 @@ Public Property ModuleType As String
 
 ### Property Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 The type of the module.
 

@@ -34,7 +34,7 @@ public NavigationResult(
 
 *result*
 
-    Type: [System.Nullable](http://msdn2.microsoft.com/en-us/library/b3h38hb0)&lt;[Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)&gt;
+    Type: [System.Nullable](http://msdn.microsoft.com/en-us/library/b3h38hb0)&lt;[Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;
     The result.
 
 # NavigationResult Constructor (NavigationContext, Nullable(Of Boolean))
@@ -67,7 +67,7 @@ Public Sub New (
 
 *result*
 
-    Type: [System.Nullable](http://msdn2.microsoft.com/en-us/library/b3h38hb0)(Of [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50))
+    Type: [System.Nullable](http://msdn.microsoft.com/en-us/library/b3h38hb0)(Of [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50))
     The result.
 
 ## See Also

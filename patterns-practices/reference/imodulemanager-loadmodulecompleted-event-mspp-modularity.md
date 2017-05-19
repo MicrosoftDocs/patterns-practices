@@ -20,10 +20,10 @@ Raised when a module is loaded or fails to load.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>event EventHandler&lt;LoadModuleCompletedEventArgs&gt; LoadModuleCompletedEvent LoadModuleCompleted As EventHandler(Of LoadModuleCompletedEventArgs)
+event EventHandler&lt;LoadModuleCompletedEventArgs&gt; LoadModuleCompletedEvent LoadModuleCompleted As EventHandler(Of LoadModuleCompletedEventArgs)
 ### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([LoadModuleCompletedEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.loadmodulecompletedeventargs)&gt;)&gt;)
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([LoadModuleCompletedEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.loadmodulecompletedeventargs)&gt;)&gt;)
 
 See Also
 --------

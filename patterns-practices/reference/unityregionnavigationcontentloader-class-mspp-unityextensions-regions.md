@@ -20,12 +20,12 @@ Specialization of the default RegionNavigationContentLoader that queries the cor
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class UnityRegionNavigationContentLoader : RegionNavigationContentLoaderPublic Class UnityRegionNavigationContentLoader Inherits RegionNavigationContentLoader
+public class UnityRegionNavigationContentLoader : RegionNavigationContentLoaderPublic Class UnityRegionNavigationContentLoader Inherits RegionNavigationContentLoader
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationcontentloader)
     Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLoader
 

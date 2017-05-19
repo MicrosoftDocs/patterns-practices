@@ -21,7 +21,7 @@ Name
 Description
 ![](https://msdn.microsoft.com/en-us/Dn683948.pubproperty(en-us,PandP.50).gif "Public property")
 [Target](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.delegatereference.target(v=pandp.50))
-Gets the [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51) (the target) referenced by the current [DelegateReference](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.delegatereference(v=pandp.50)) object.
+Gets the [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) (the target) referenced by the current [DelegateReference](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.delegatereference(v=pandp.50)) object.
 
 See Also
 --------

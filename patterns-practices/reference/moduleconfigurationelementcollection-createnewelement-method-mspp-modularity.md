@@ -34,15 +34,15 @@ Overload List
 <td><div class="summary">
 Creates a new <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a>.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection.CreateNewElement()()()</a>.)</td>
+(Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection.CreateNewElement()()()</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419091.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/ky49faah">CreateNewElement(String)</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ky49faah">CreateNewElement(String)</a></td>
 <td><div class="summary">
-Creates a new <a href="http://msdn2.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> when overridden in a derived class.
+Creates a new <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> when overridden in a derived class.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
 </tr>
 </tbody>
 </table>

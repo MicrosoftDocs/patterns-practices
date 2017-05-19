@@ -20,7 +20,7 @@ Initializes a new instance of [SelectorRegionAdapter](https://msdn.microsoft.com
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public SelectorRegionAdapter( IRegionBehaviorFactory regionBehaviorFactory )Public Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
+public SelectorRegionAdapter( IRegionBehaviorFactory regionBehaviorFactory )Public Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
 
 ### Parameters
 

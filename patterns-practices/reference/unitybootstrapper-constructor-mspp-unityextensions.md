@@ -20,7 +20,7 @@ Initializes a new instance of the [UnityBootstrapper](https://msdn.microsoft.com
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected UnityBootstrapper()Protected Sub New
+protected UnityBootstrapper()Protected Sub New
 
 See Also
 --------

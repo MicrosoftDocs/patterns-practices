@@ -20,7 +20,7 @@ Initializes a new instance of the [MefRegionNavigationJournal](https://msdn.micr
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public MefRegionNavigationJournal()Public Sub New
+public MefRegionNavigationJournal()Public Sub New
 
 See Also
 --------

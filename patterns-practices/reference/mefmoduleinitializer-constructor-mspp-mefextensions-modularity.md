@@ -20,7 +20,7 @@ Initializes a new instance of the [MefModuleInitializer](https://msdn.microsoft.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public MefModuleInitializer( IServiceLocator serviceLocator, ILoggerFacade loggerFacade, DownloadedPartCatalogCollection downloadedPartCatalogs, AggregateCatalog aggregateCatalog )Public Sub New ( serviceLocator As IServiceLocator, loggerFacade As ILoggerFacade, downloadedPartCatalogs As DownloadedPartCatalogCollection, aggregateCatalog As AggregateCatalog )
+public MefModuleInitializer( IServiceLocator serviceLocator, ILoggerFacade loggerFacade, DownloadedPartCatalogCollection downloadedPartCatalogs, AggregateCatalog aggregateCatalog )Public Sub New ( serviceLocator As IServiceLocator, loggerFacade As ILoggerFacade, downloadedPartCatalogs As DownloadedPartCatalogCollection, aggregateCatalog As AggregateCatalog )
 
 ### Parameters
 
@@ -37,7 +37,7 @@ Type: [Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogC
 The downloaded part catalogs.
 
 aggregateCatalog  
-Type: [System.ComponentModel.Composition.Hosting.AggregateCatalog](http://msdn2.microsoft.com/en-us/library/dd833165)
+Type: [System.ComponentModel.Composition.Hosting.AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165)
 The aggregate catalog.
 
 See Also

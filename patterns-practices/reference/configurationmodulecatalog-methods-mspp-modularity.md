@@ -61,15 +61,15 @@ Ensures that the catalog is validated.
 
 (Inherited from [ModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50)).)
 ![](https://msdn.microsoft.com/en-us/Gg431034.pubmethod(en-us,PandP.50).gif "Public method")
-[Equals](http://msdn2.microsoft.com/en-us/library/bsc2ak47)
-Determines whether the specified [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).
+[Equals](http://msdn.microsoft.com/en-us/library/bsc2ak47)
+Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 ![](https://msdn.microsoft.com/en-us/Gg431034.protmethod(en-us,PandP.50).gif "Protected method")
-[Finalize](http://msdn2.microsoft.com/en-us/library/4k87zsw7)
+[Finalize](http://msdn.microsoft.com/en-us/library/4k87zsw7)
 Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 ![](https://msdn.microsoft.com/en-us/Gg431034.pubmethod(en-us,PandP.50).gif "Public method")
 [GetDependentModules](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.getdependentmodules(v=pandp.50))
 Return the list of [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))s that moduleInfo depends on.
@@ -81,15 +81,15 @@ Returns the [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.prac
 
 (Inherited from [ModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50)).)
 ![](https://msdn.microsoft.com/en-us/Gg431034.pubmethod(en-us,PandP.50).gif "Public method")
-[GetHashCode](http://msdn2.microsoft.com/en-us/library/zdee4b3y)
+[GetHashCode](http://msdn.microsoft.com/en-us/library/zdee4b3y)
 Serves as a hash function for a particular type.
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 ![](https://msdn.microsoft.com/en-us/Gg431034.pubmethod(en-us,PandP.50).gif "Public method")
-[GetType](http://msdn2.microsoft.com/en-us/library/dfwy45w9)
-Gets the [Type](http://msdn2.microsoft.com/en-us/library/42892f65) of the current instance.
+[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)
+Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 ![](https://msdn.microsoft.com/en-us/Gg431034.pubmethod(en-us,PandP.50).gif "Public method")
 [Initialize](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.initialize(v=pandp.50))
 Initializes the catalog, which may load and validate the modules.
@@ -106,20 +106,20 @@ Loads the catalog if necessary.
 
 (Inherited from [ModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50)).)
 ![](https://msdn.microsoft.com/en-us/Gg431034.protmethod(en-us,PandP.50).gif "Protected method")
-[MemberwiseClone](http://msdn2.microsoft.com/en-us/library/57ctke0a)
-Creates a shallow copy of the current [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).
+[MemberwiseClone](http://msdn.microsoft.com/en-us/library/57ctke0a)
+Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 ![](https://msdn.microsoft.com/en-us/Gg431034.protmethod(en-us,PandP.50).gif "Protected method")
 [Sort](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.sort(v=pandp.50))
 Sorts a list of [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))s. This method is called by [CompleteListWithDependencies(IEnumerable&lt;ModuleInfo&gt;)](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.completelistwithdependencies(v=pandp.50)) to return a sorted list.
 
 (Inherited from [ModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50)).)
 ![](https://msdn.microsoft.com/en-us/Gg431034.pubmethod(en-us,PandP.50).gif "Public method")
-[ToString](http://msdn2.microsoft.com/en-us/library/7bxwbwt2)
+[ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)
 Returns a string that represents the current object.
 
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
 ![](https://msdn.microsoft.com/en-us/Gg431034.pubmethod(en-us,PandP.50).gif "Public method")
 [Validate](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.validate(v=pandp.50))
 Validates the [ModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50)).

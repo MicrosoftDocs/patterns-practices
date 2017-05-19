@@ -20,10 +20,10 @@ Raised when the region is about to be navigated to content.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public event EventHandler&lt;RegionNavigationEventArgs&gt; NavigatingPublic Event Navigating As EventHandler(Of RegionNavigationEventArgs)
+public event EventHandler&lt;RegionNavigationEventArgs&gt; NavigatingPublic Event Navigating As EventHandler(Of RegionNavigationEventArgs)
 ### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([RegionNavigationEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationeventargs)&gt;)&gt;)
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([RegionNavigationEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationeventargs)&gt;)&gt;)
 ### Implements
 
 [IRegionNavigationService.Navigating](https://msdn.microsoft.com/e:microsoft.practices.prism.regions.iregionnavigationservice.navigating)

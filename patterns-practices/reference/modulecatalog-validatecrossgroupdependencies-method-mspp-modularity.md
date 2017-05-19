@@ -20,7 +20,7 @@ Ensures that there are no dependencies between modules on different groups.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void ValidateCrossGroupDependencies()Protected Overridable Sub ValidateCrossGroupDependencies
+protected virtual void ValidateCrossGroupDependencies()Protected Overridable Sub ValidateCrossGroupDependencies
 
 Remarks
 -------

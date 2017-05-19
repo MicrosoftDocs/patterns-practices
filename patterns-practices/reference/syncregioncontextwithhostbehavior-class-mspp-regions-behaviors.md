@@ -33,7 +33,7 @@ Public Class SyncRegionContextWithHostBehavior
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
   [Microsoft.Practices.Prism.Regions.RegionBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior(v=pandp.50))
     Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior

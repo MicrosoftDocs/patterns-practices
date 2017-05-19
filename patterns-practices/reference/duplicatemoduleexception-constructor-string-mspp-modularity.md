@@ -20,12 +20,12 @@ Initializes a new instance of the [DuplicateModuleException](https://msdn.micros
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public DuplicateModuleException( string message )Public Sub New ( message As String )
+public DuplicateModuleException( string message )Public Sub New ( message As String )
 
 ### Parameters
 
 message  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The exception message.
 
 See Also

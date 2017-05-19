@@ -20,7 +20,7 @@ Builds an instance of ConfigurationModuleCatalog with a [ConfigurationStore](htt
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ConfigurationModuleCatalog()Public Sub New
+public ConfigurationModuleCatalog()Public Sub New
 
 See Also
 --------

@@ -20,17 +20,17 @@ Returns the view instance that was added to the region using a specific name.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>Object GetView( string viewName )Function GetView ( viewName As String ) As Object
+Object GetView( string viewName )Function GetView ( viewName As String ) As Object
 
 ### Parameters
 
 viewName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name used when adding the view to the region.
 
 ### Return Value
 
-Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 Returns the named view or nullNothingnullptra null reference (Nothing in Visual Basic) if the view with viewName does not exist in the current region.
 
 See Also

@@ -20,12 +20,12 @@ Extensions methods to extend and facilitate the usage of IUnityContainer.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static class UnityContainerHelper&lt;ExtensionAttribute&gt; Public NotInheritable Class UnityContainerHelper
+public static class UnityContainerHelper&lt;ExtensionAttribute&gt; Public NotInheritable Class UnityContainerHelper
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.UnityExtensions.UnityContainerHelper
 
 See Also

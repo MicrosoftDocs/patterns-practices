@@ -18,12 +18,12 @@ Handles management and dispatching of EventHandlers in a weak way.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static class WeakEventHandlerManagerPublic NotInheritable Class WeakEventHandlerManager
+public static class WeakEventHandlerManagerPublic NotInheritable Class WeakEventHandlerManager
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Commands.WeakEventHandlerManager
 
 See Also

@@ -20,7 +20,7 @@ Initializes a new instance of the [RegionNavigationFailedEventArgs](https://msdn
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public RegionNavigationFailedEventArgs( NavigationContext navigationContext, Exception error )Public Sub New ( navigationContext As NavigationContext, error As Exception )
+public RegionNavigationFailedEventArgs( NavigationContext navigationContext, Exception error )Public Sub New ( navigationContext As NavigationContext, error As Exception )
 
 ### Parameters
 
@@ -29,7 +29,7 @@ Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microso
 The navigation context.
 
 error  
-Type: [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 The error.
 
 See Also

@@ -20,7 +20,7 @@ Navigates the specified region manager.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static void RequestNavigate( this IRegionManager regionManager, string regionName, string source )&lt;ExtensionAttribute&gt; Public Shared Sub RequestNavigate ( regionManager As IRegionManager, regionName As String, source As String )
+public static void RequestNavigate( this IRegionManager regionManager, string regionName, string source )&lt;ExtensionAttribute&gt; Public Shared Sub RequestNavigate ( regionManager As IRegionManager, regionName As String, source As String )
 
 ### Parameters
 
@@ -29,11 +29,11 @@ Type: [Microsoft.Practices.Prism.Regions.IRegionManager](https://msdn.microsoft.
 The regionmanager that this extension method effects.
 
 regionName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region to call Navigate on.
 
 source  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The URI of the content to display.
 
 ### Usage Note

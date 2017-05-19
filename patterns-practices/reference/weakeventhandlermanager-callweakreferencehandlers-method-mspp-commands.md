@@ -18,15 +18,15 @@ Invokes the handlers
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static void CallWeakReferenceHandlers( Object sender, List&lt;WeakReference&gt; handlers )Public Shared Sub CallWeakReferenceHandlers ( sender As Object, handlers As List(Of WeakReference) )
+public static void CallWeakReferenceHandlers( Object sender, List&lt;WeakReference&gt; handlers )Public Shared Sub CallWeakReferenceHandlers ( sender As Object, handlers As List(Of WeakReference) )
 
 ### Parameters
 
 sender  
-Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 handlers  
-Type: [System.Collections.Generic.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)&lt;(Of &lt;([WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd)&gt;)&gt;)
+Type: [System.Collections.Generic.List](http://msdn.microsoft.com/en-us/library/6sh2ey19)&lt;(Of &lt;([WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd)&gt;)&gt;)
 
 See Also
 --------

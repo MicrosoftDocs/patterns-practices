@@ -10,7 +10,7 @@ Prism Class Library
 RegionActiveAwareBehavior.Detach Method
 ===========================================
 
-Detaches the behavior from the [INotifyCollectionChanged](http://msdn2.microsoft.com/en-us/library/ms668629).
+Detaches the behavior from the [INotifyCollectionChanged](http://msdn.microsoft.com/en-us/library/ms668629).
 
 **Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -20,7 +20,7 @@ Detaches the behavior from the [INotifyCollectionChanged](http://msdn2.microsoft
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void Detach()Public Sub Detach
+public void Detach()Public Sub Detach
 
 See Also
 --------

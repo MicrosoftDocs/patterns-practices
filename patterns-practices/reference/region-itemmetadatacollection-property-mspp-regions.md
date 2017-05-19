@@ -34,9 +34,9 @@ Protected Overridable ReadOnly Property ItemMetadataCollection As ObservableColl
 
 ### Property Value
 
-Type: [ObservableCollection](http://msdn2.microsoft.com/en-us/library/ms668604)&lt;[ItemMetadata](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50))&gt;
+Type: [ObservableCollection](http://msdn.microsoft.com/en-us/library/ms668604)&lt;[ItemMetadata](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50))&gt;
 
-An [ObservableCollection&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/ms668604) of [ItemMetadata](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50)) with all the added views.
+An [ObservableCollection&lt;T&gt;](http://msdn.microsoft.com/en-us/library/ms668604) of [ItemMetadata](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50)) with all the added views.
 
 See Also
 --------

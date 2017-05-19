@@ -20,12 +20,12 @@ Handles AppDomain's AssemblyResolve event to be able to load assemblies dynamica
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class AssemblyResolver : IAssemblyResolver, IDisposablePublic Class AssemblyResolver Implements IAssemblyResolver, IDisposable
+public class AssemblyResolver : IAssemblyResolver, IDisposablePublic Class AssemblyResolver Implements IAssemblyResolver, IDisposable
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Modularity.AssemblyResolver
 
 See Also

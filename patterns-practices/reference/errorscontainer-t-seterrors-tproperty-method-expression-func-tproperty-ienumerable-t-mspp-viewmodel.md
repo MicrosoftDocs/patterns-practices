@@ -18,16 +18,16 @@ Sets the validation errors for the specified property.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void SetErrors&lt;TProperty&gt;( Expression&lt;Func&lt;TProperty&gt;&gt; propertyExpression, IEnumerable&lt;T&gt; propertyErrors ) Public Sub SetErrors(Of TProperty) ( propertyExpression As Expression(Of Func(Of TProperty)), propertyErrors As IEnumerable(Of T) )
+public void SetErrors&lt;TProperty&gt;( Expression&lt;Func&lt;TProperty&gt;&gt; propertyExpression, IEnumerable&lt;T&gt; propertyErrors ) Public Sub SetErrors(Of TProperty) ( propertyExpression As Expression(Of Func(Of TProperty)), propertyErrors As IEnumerable(Of T) )
 
 ### Parameters
 
 propertyExpression  
-Type: [System.Linq.Expressions.Expression](http://msdn2.microsoft.com/en-us/library/bb335710)&lt;(Of &lt;([Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;(TProperty&gt;)&gt;)&gt;)&gt;)
-The [Expression](http://msdn2.microsoft.com/en-us/library/bb356138) indicating the property.
+Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)&lt;(Of &lt;([Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;(TProperty&gt;)&gt;)&gt;)&gt;)
+The [Expression](http://msdn.microsoft.com/en-us/library/bb356138) indicating the property.
 
 propertyErrors  
-Type: [System.Collections.Generic.IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.errorscontainer%601)&gt;)&gt;)
+Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.errorscontainer%601)&gt;)&gt;)
 The list of errors to set for the property.
 
 Type Parameters

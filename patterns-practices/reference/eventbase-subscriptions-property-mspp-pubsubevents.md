@@ -18,10 +18,10 @@ Gets the list of current subscriptions.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected ICollection&lt;IEventSubscription&gt; Subscriptions { get; }Protected ReadOnly Property Subscriptions As ICollection(Of IEventSubscription) Get
+protected ICollection&lt;IEventSubscription&gt; Subscriptions { get; }Protected ReadOnly Property Subscriptions As ICollection(Of IEventSubscription) Get
 ### Property Value
 
-Type: [ICollection](http://msdn2.microsoft.com/en-us/library/92t2ye13)&lt;(Of &lt;([IEventSubscription](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription)&gt;)&gt;)
+Type: [ICollection](http://msdn.microsoft.com/en-us/library/92t2ye13)&lt;(Of &lt;([IEventSubscription](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription)&gt;)&gt;)
 The current subscribers.
 
 See Also

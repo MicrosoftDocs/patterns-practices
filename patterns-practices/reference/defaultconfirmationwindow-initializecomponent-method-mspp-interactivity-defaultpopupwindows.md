@@ -20,10 +20,10 @@ InitializeComponent
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void InitializeComponent()Public Sub InitializeComponent
+public void InitializeComponent()Public Sub InitializeComponent
 ### Implements
 
-[IComponentConnector.InitializeComponent()()()](http://msdn2.microsoft.com/en-us/library/ms603526)
+[IComponentConnector.InitializeComponent()()()](http://msdn.microsoft.com/en-us/library/ms603526)
 
 See Also
 --------

@@ -32,7 +32,7 @@ Public Class ModuleInfo
 ```
 
 ## Inheritance Hierarchy
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)<br/>
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.Modularity.ModuleInfo
 
 ## See Also

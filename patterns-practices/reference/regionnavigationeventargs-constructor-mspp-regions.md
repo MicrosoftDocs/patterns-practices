@@ -20,7 +20,7 @@ Initializes a new instance of the [RegionNavigationEventArgs](https://msdn.micro
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public RegionNavigationEventArgs( NavigationContext navigationContext )Public Sub New ( navigationContext As NavigationContext )
+public RegionNavigationEventArgs( NavigationContext navigationContext )Public Sub New ( navigationContext As NavigationContext )
 
 ### Parameters
 

@@ -20,7 +20,7 @@ Initializes a new instance of the [NavigationContext](https://msdn.microsoft.com
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public NavigationContext( IRegionNavigationService navigationService, Uri uri, NavigationParameters navigationParameters )Public Sub New ( navigationService As IRegionNavigationService, uri As Uri, navigationParameters As NavigationParameters )
+public NavigationContext( IRegionNavigationService navigationService, Uri uri, NavigationParameters navigationParameters )Public Sub New ( navigationService As IRegionNavigationService, uri As Uri, navigationParameters As NavigationParameters )
 
 ### Parameters
 
@@ -29,7 +29,7 @@ Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationService](https://msdn.
 The navigation service.
 
 uri  
-Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 The Uri.
 
 navigationParameters  

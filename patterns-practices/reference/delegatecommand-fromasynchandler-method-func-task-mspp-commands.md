@@ -18,12 +18,12 @@ Factory method to create a new instance of [DelegateCommand](https://msdn.micros
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static DelegateCommand FromAsyncHandler( Func&lt;Task&gt; executeMethod )Public Shared Function FromAsyncHandler ( executeMethod As Func(Of Task) ) As DelegateCommand
+public static DelegateCommand FromAsyncHandler( Func&lt;Task&gt; executeMethod )Public Shared Function FromAsyncHandler ( executeMethod As Func(Of Task) ) As DelegateCommand
 
 ### Parameters
 
 executeMethod  
-Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Task](http://msdn2.microsoft.com/en-us/library/dd235678)&gt;)&gt;)
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Task](http://msdn.microsoft.com/en-us/library/dd235678)&gt;)&gt;)
 Delegate to execute when Execute is called on the command.
 
 ### Return Value

@@ -18,7 +18,7 @@ Specifies on which thread a [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https:/
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public enum ThreadOptionPublic Enumeration ThreadOption
+public enum ThreadOptionPublic Enumeration ThreadOption
 
 Members
 -------

@@ -18,10 +18,10 @@ Allows the SynchronizationContext to be set by the EventAggregator for UI Thread
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public SynchronizationContext SynchronizationContext { get; set; }Public Property SynchronizationContext As SynchronizationContext Get Set
+public SynchronizationContext SynchronizationContext { get; set; }Public Property SynchronizationContext As SynchronizationContext Get Set
 ### Property Value
 
-Type: [SynchronizationContext](http://msdn2.microsoft.com/en-us/library/wx31754f)
+Type: [SynchronizationContext](http://msdn.microsoft.com/en-us/library/wx31754f)
 
 See Also
 --------

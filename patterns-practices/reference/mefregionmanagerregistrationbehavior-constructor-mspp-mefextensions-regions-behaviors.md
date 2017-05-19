@@ -20,7 +20,7 @@ Initializes a new instance of the [MefRegionManagerRegistrationBehavior](https:/
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public MefRegionManagerRegistrationBehavior()Public Sub New
+public MefRegionManagerRegistrationBehavior()Public Sub New
 
 See Also
 --------

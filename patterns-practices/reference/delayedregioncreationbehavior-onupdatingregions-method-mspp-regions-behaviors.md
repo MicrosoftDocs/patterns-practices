@@ -42,15 +42,15 @@ Public Sub OnUpdatingRegions (
 
 *sender*  
 
-   Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+   Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
    The [RegionManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager(v=pandp.50)).
 
 *e*  
 
-   Type: [System.EventArgs](http://msdn2.microsoft.com/en-us/library/118wxtk3)
+   Type: [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
 
-   The [EventArgs](http://msdn2.microsoft.com/en-us/library/118wxtk3) instance containing the event data.
+   The [EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3) instance containing the event data.
 
 Remarks
 -------

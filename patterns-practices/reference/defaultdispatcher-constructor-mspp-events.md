@@ -20,7 +20,7 @@ Initializes a new instance of the [DefaultDispatcher](https://msdn.microsoft.com
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public DefaultDispatcher()Public Sub New
+public DefaultDispatcher()Public Sub New
 
 See Also
 --------

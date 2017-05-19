@@ -20,7 +20,7 @@ Initializes a new instance of the [LoadModuleCompletedEventArgs](https://msdn.mi
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public LoadModuleCompletedEventArgs( ModuleInfo moduleInfo, Exception error )Public Sub New ( moduleInfo As ModuleInfo, error As Exception )
+public LoadModuleCompletedEventArgs( ModuleInfo moduleInfo, Exception error )Public Sub New ( moduleInfo As ModuleInfo, error As Exception )
 
 ### Parameters
 
@@ -29,7 +29,7 @@ Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.c
 The module info.
 
 error  
-Type: [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 Any error that occurred during the call.
 
 See Also

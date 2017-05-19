@@ -20,7 +20,7 @@ Defines a view of a collection.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IViewsCollection : IEnumerable&lt;Object&gt;, IEnumerable, INotifyCollectionChangedPublic Interface IViewsCollection Inherits IEnumerable(Of Object), IEnumerable, INotifyCollectionChanged
+public interface IViewsCollection : IEnumerable&lt;Object&gt;, IEnumerable, INotifyCollectionChangedPublic Interface IViewsCollection Inherits IEnumerable(Of Object), IEnumerable, INotifyCollectionChanged
 
 See Also
 --------

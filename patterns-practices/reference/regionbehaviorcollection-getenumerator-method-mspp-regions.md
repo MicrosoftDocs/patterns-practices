@@ -20,14 +20,14 @@ Returns an enumerator that iterates through the collection.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public IEnumerator&lt;KeyValuePair&lt;string, IRegionBehavior&gt;&gt; GetEnumerator()Public Function GetEnumerator As IEnumerator(Of KeyValuePair(Of String, IRegionBehavior))
+public IEnumerator&lt;KeyValuePair&lt;string, IRegionBehavior&gt;&gt; GetEnumerator()Public Function GetEnumerator As IEnumerator(Of KeyValuePair(Of String, IRegionBehavior))
 ### Return Value
 
-Type: [IEnumerator](http://msdn2.microsoft.com/en-us/library/78dfe2yb)&lt;(Of &lt;([KeyValuePair](http://msdn2.microsoft.com/en-us/library/5tbh8a42)&lt;(Of &lt;([String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf), [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior)&gt;)&gt;)&gt;)&gt;)
-A [IEnumerator&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/78dfe2yb) that can be used to iterate through the collection.
+Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)&lt;(Of &lt;([KeyValuePair](http://msdn.microsoft.com/en-us/library/5tbh8a42)&lt;(Of &lt;([String](http://msdn.microsoft.com/en-us/library/s1wwdcbf), [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior)&gt;)&gt;)&gt;)&gt;)
+A [IEnumerator&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can be used to iterate through the collection.
 ### Implements
 
-[IEnumerable&lt;(Of &lt;(T&gt;)&gt;).GetEnumerator()()()](http://msdn2.microsoft.com/en-us/library/s793z9y2)
+[IEnumerable&lt;(Of &lt;(T&gt;)&gt;).GetEnumerator()()()](http://msdn.microsoft.com/en-us/library/s793z9y2)
 
 See Also
 --------

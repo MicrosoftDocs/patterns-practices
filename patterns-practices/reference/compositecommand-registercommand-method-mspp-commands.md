@@ -10,7 +10,7 @@ Prism Class Library
 CompositeCommand.RegisterCommand Method
 ===========================================
 
-Adds a command to the collection and signs up for the [CanExecuteChanged](http://msdn2.microsoft.com/en-us/library/ms523106) event of it.
+Adds a command to the collection and signs up for the [CanExecuteChanged](http://msdn.microsoft.com/en-us/library/ms523106) event of it.
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
 
@@ -35,7 +35,7 @@ Public Overridable Sub RegisterCommand (
 ### Parameters
 
 *command*  
-Type: [System.Windows.Input.ICommand](http://msdn2.microsoft.com/en-us/library/ms616869)
+Type: [System.Windows.Input.ICommand](http://msdn.microsoft.com/en-us/library/ms616869)
 
 The command to register.
 

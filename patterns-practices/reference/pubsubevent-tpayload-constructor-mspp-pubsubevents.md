@@ -18,7 +18,7 @@ Initializes a new instance of the [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](h
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public PubSubEvent()Public Sub New
+public PubSubEvent()Public Sub New
 
 See Also
 --------

@@ -20,7 +20,7 @@ Does the actual work of loading the catalog. The base implementation does nothin
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void InnerLoad()Protected Overridable Sub InnerLoad
+protected virtual void InnerLoad()Protected Overridable Sub InnerLoad
 
 See Also
 --------

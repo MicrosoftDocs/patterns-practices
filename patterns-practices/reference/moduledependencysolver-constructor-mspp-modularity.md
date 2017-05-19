@@ -20,7 +20,7 @@ Initializes a new instance of the [ModuleDependencySolver](https://msdn.microsof
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModuleDependencySolver()Public Sub New
+public ModuleDependencySolver()Public Sub New
 
 See Also
 --------

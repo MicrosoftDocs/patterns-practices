@@ -10,7 +10,7 @@ Prism Class Library
 MefBootstrapper.ConfigureContainer Method
 =============================================
 
-Configures the [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553). May be overwritten in a derived class to add specific type mappings required by the application.
+Configures the [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553). May be overwritten in a derived class to add specific type mappings required by the application.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
@@ -20,7 +20,7 @@ Configures the [CompositionContainer](http://msdn2.microsoft.com/en-us/library/d
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void ConfigureContainer()Protected Overridable Sub ConfigureContainer
+protected virtual void ConfigureContainer()Protected Overridable Sub ConfigureContainer
 
 Remarks
 -------

@@ -20,13 +20,13 @@ Initializes a new instance of the [MefRegionNavigationContentLoader](https://msd
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public MefRegionNavigationContentLoader( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
+public MefRegionNavigationContentLoader( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
 
 ### Parameters
 
 serviceLocator  
 Type: IServiceLocator
-IServiceLocator used to create the instance of the view from its [Type](http://msdn2.microsoft.com/en-us/library/42892f65).
+IServiceLocator used to create the instance of the view from its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
 See Also
 --------

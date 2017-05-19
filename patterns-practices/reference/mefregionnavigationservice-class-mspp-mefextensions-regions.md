@@ -33,7 +33,7 @@ Public Class MefRegionNavigationService
 
 ## Inheritance Hierarchy
 
-&nbsp;&nbsp;[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)<br/>
+&nbsp;&nbsp;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
 &nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionNavigationService](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice(v=pandp.50))<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationService
 

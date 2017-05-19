@@ -20,7 +20,7 @@ Initializes a new instance of the [InteractionRequest&lt;(Of &lt;(T&gt;)&gt;)](h
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public InteractionRequest()Public Sub New
+public InteractionRequest()Public Sub New
 
 See Also
 --------

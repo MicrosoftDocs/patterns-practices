@@ -20,12 +20,12 @@ Marks the specified view as active.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public override void Activate( Object view )Public Overrides Sub Activate ( view As Object )
+public override void Activate( Object view )Public Overrides Sub Activate ( view As Object )
 
 ### Parameters
 
 view  
-Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The view to activate.
 
 ### Implements

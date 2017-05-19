@@ -20,12 +20,12 @@ Holds a collection of composable part catalogs keyed by module info.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class DownloadedPartCatalogCollectionPublic Class DownloadedPartCatalogCollection
+public class DownloadedPartCatalogCollectionPublic Class DownloadedPartCatalogCollection
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection
 
 See Also

@@ -20,7 +20,7 @@ Initializes a new instance.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModuleInitializeException()Public Sub New
+public ModuleInitializeException()Public Sub New
 
 See Also
 --------

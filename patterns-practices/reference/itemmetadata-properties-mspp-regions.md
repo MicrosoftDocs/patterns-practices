@@ -32,19 +32,19 @@ Properties
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431204.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/ms600674">DependencyObjectType</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms600674">DependencyObjectType</a></td>
 <td><div class="summary">
-Gets the <a href="http://msdn2.microsoft.com/en-us/library/ms589310">DependencyObjectType</a> that wraps the CLR type of this instance. 
+Gets the <a href="http://msdn.microsoft.com/en-us/library/ms589310">DependencyObjectType</a> that wraps the CLR type of this instance. 
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431204.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/ms605656">Dispatcher</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms605656">Dispatcher</a></td>
 <td><div class="summary">
-Gets the <a href="http://msdn2.microsoft.com/en-us/library/ms615907">Dispatcher</a> this <a href="http://msdn2.microsoft.com/en-us/library/ms615925">DispatcherObject</a> is associated with.
+Gets the <a href="http://msdn.microsoft.com/en-us/library/ms615907">Dispatcher</a> this <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a> is associated with.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431204.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
@@ -55,11 +55,11 @@ Gets or sets a value indicating whether the wrapped item is considered active.
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431204.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/ms600677">IsSealed</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms600677">IsSealed</a></td>
 <td><div class="summary">
 Gets a value that indicates whether this instance is currently sealed (read-only).
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431204.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>

@@ -20,10 +20,10 @@ Converts the list of key value pairs to a query string.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public override string ToString()Public Overrides Function ToString As String
+public override string ToString()Public Overrides Function ToString As String
 ### Return Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 See Also
 --------

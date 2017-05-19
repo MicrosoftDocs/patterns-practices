@@ -20,7 +20,7 @@ Initializes a new instance of the [MefSelectorRegionAdapter](https://msdn.micros
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public MefSelectorRegionAdapter( IRegionBehaviorFactory regionBehaviorFactory )Public Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
+public MefSelectorRegionAdapter( IRegionBehaviorFactory regionBehaviorFactory )Public Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
 
 ### Parameters
 

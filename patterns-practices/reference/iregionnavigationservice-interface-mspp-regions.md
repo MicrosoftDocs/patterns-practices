@@ -20,7 +20,7 @@ Provides navigation for regions.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IRegionNavigationService : INavigateAsyncPublic Interface IRegionNavigationService Inherits INavigateAsync
+public interface IRegionNavigationService : INavigateAsyncPublic Interface IRegionNavigationService Inherits INavigateAsync
 
 See Also
 --------

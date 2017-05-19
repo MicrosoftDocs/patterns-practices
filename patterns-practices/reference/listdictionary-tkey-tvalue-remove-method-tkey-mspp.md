@@ -20,7 +20,7 @@ Removes a list by key.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public bool Remove( TKey key )Public Function Remove ( key As TKey ) As Boolean
+public bool Remove( TKey key )Public Function Remove ( key As TKey ) As Boolean
 
 ### Parameters
 
@@ -30,11 +30,11 @@ The key of the list to remove.
 
 ### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if the element was removed.
 ### Implements
 
-[IDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Remove(TKey)](http://msdn2.microsoft.com/en-us/library/k8s489f0)
+[IDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Remove(TKey)](http://msdn.microsoft.com/en-us/library/k8s489f0)
 
 See Also
 --------

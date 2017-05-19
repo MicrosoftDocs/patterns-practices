@@ -20,7 +20,7 @@ Stop monitoring the [RegionManager](https://msdn.microsoft.com/t:microsoft.pract
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void Detach()Public Sub Detach
+public void Detach()Public Sub Detach
 
 See Also
 --------

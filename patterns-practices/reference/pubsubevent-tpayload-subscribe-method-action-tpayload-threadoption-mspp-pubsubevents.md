@@ -10,7 +10,7 @@ Prism Class Library
 PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Subscribe Method (Action&lt;(Of &lt;(TPayload&gt;)&gt;), ThreadOption)
 =====================================================================================================================
 
-Subscribes a delegate to an event. PubSubEvent will maintain a [WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate.
+Subscribes a delegate to an event. PubSubEvent will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate.
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
@@ -18,12 +18,12 @@ Subscribes a delegate to an event. PubSubEvent will maintain a [WeakReference](h
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public SubscriptionToken Subscribe( Action&lt;TPayload&gt; action, ThreadOption threadOption )Public Function Subscribe ( action As Action(Of TPayload), threadOption As ThreadOption ) As SubscriptionToken
+public SubscriptionToken Subscribe( Action&lt;TPayload&gt; action, ThreadOption threadOption )Public Function Subscribe ( action As Action(Of TPayload), threadOption As ThreadOption ) As SubscriptionToken
 
 ### Parameters
 
 action  
-Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.pubsubevent%601)&gt;)&gt;)
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.pubsubevent%601)&gt;)&gt;)
 The delegate that gets executed when the event is raised.
 
 threadOption  

@@ -20,7 +20,7 @@ Gets the journal.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>IRegionNavigationJournal Journal { get; }ReadOnly Property Journal As IRegionNavigationJournal Get
+IRegionNavigationJournal Journal { get; }ReadOnly Property Journal As IRegionNavigationJournal Get
 ### Property Value
 
 Type: [IRegionNavigationJournal](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal(v=pandp.50))

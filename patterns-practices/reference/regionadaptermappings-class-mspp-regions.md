@@ -10,7 +10,7 @@ Prism Class Library
 RegionAdapterMappings Class
 ===========================
 
-This class maps [Type](http://msdn2.microsoft.com/en-us/library/42892f65) with [IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter).
+This class maps [Type](http://msdn.microsoft.com/en-us/library/42892f65) with [IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter).
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -20,12 +20,12 @@ This class maps [Type](http://msdn2.microsoft.com/en-us/library/42892f65) with [
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class RegionAdapterMappingsPublic Class RegionAdapterMappings
+public class RegionAdapterMappingsPublic Class RegionAdapterMappings
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Regions.RegionAdapterMappings
     [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionAdapterMappings](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings)
 

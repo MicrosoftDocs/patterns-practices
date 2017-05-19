@@ -40,7 +40,7 @@ Protected Overridable Function GetContractFromNavigationContext (
 
 ### Return Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)<br/>
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)<br/>
 The candidate contract to seek within the [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)) and to use, if not found, when resolving from the container.
 
 ## See Also

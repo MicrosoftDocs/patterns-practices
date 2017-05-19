@@ -20,7 +20,7 @@ Called when the implementer has been navigated to.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>void OnNavigatedTo( NavigationContext navigationContext )Sub OnNavigatedTo ( navigationContext As NavigationContext )
+void OnNavigatedTo( NavigationContext navigationContext )Sub OnNavigatedTo ( navigationContext As NavigationContext )
 
 ### Parameters
 

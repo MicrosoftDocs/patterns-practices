@@ -20,10 +20,10 @@ Gets or sets the module name.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public string ModuleName { get; set; }Public Property ModuleName As String Get Set
+public string ModuleName { get; set; }Public Property ModuleName As String Get Set
 ### Property Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The module's name.
 
 See Also

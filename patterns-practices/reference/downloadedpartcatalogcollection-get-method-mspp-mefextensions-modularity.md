@@ -20,7 +20,7 @@ Gets the catalog for the specified module info.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ComposablePartCatalog Get( ModuleInfo moduleInfo )Public Function Get ( moduleInfo As ModuleInfo ) As ComposablePartCatalog
+public ComposablePartCatalog Get( ModuleInfo moduleInfo )Public Function Get ( moduleInfo As ModuleInfo ) As ComposablePartCatalog
 
 ### Parameters
 
@@ -30,7 +30,7 @@ The module info.
 
 ### Return Value
 
-Type: [ComposablePartCatalog](http://msdn2.microsoft.com/en-us/library/dd454614)
+Type: [ComposablePartCatalog](http://msdn.microsoft.com/en-us/library/dd454614)
 
 See Also
 --------

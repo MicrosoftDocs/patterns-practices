@@ -20,7 +20,7 @@ Provides an abstraction on top of the RegionManager static members.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IRegionManagerAccessorPublic Interface IRegionManagerAccessor
+public interface IRegionManagerAccessorPublic Interface IRegionManagerAccessor
 
 See Also
 --------

@@ -9,7 +9,7 @@ Prism Class Library
 
 # MefBootstrapper.RegisterBootstrapperProvidedTypes Method
 
-Helper method for configuring the [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553). Registers all the types direct instantiated by the bootstrapper with the container.
+Helper method for configuring the [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553). Registers all the types direct instantiated by the bootstrapper with the container.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions(v=pandp.50))
 

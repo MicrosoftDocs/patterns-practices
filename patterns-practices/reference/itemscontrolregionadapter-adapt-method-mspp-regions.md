@@ -10,7 +10,7 @@ Prism Class Library
 ItemsControlRegionAdapter.Adapt Method
 ==========================================
 
-Adapts an [ItemsControl](http://msdn2.microsoft.com/en-us/library/ms611045) to an [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion).
+Adapts an [ItemsControl](http://msdn.microsoft.com/en-us/library/ms611045) to an [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion).
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -20,7 +20,7 @@ Adapts an [ItemsControl](http://msdn2.microsoft.com/en-us/library/ms611045) to a
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected override void Adapt( IRegion region, ItemsControl regionTarget )Protected Overrides Sub Adapt ( region As IRegion, regionTarget As ItemsControl )
+protected override void Adapt( IRegion region, ItemsControl regionTarget )Protected Overrides Sub Adapt ( region As IRegion, regionTarget As ItemsControl )
 
 ### Parameters
 
@@ -29,7 +29,7 @@ Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:m
 The new region being used.
 
 regionTarget  
-Type: [System.Windows.Controls.ItemsControl](http://msdn2.microsoft.com/en-us/library/ms611045)
+Type: [System.Windows.Controls.ItemsControl](http://msdn.microsoft.com/en-us/library/ms611045)
 The object to adapt.
 
 See Also

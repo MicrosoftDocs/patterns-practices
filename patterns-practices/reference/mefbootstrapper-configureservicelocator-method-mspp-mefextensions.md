@@ -20,7 +20,7 @@ Configures the LocatorProvider for the ServiceLocator.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected override void ConfigureServiceLocator()Protected Overrides Sub ConfigureServiceLocator
+protected override void ConfigureServiceLocator()Protected Overrides Sub ConfigureServiceLocator
 
 Remarks
 -------

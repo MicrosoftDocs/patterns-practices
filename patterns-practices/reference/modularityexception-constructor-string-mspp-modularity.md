@@ -20,12 +20,12 @@ Initializes a new instance of the [ModularityException](https://msdn.microsoft.c
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModularityException( string message )Public Sub New ( message As String )
+public ModularityException( string message )Public Sub New ( message As String )
 
 ### Parameters
 
 message  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The exception message.
 
 See Also

@@ -20,10 +20,10 @@ Gets or sets a name for the wrapped item.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public string Name { get; set; }Public Property Name As String Get Set
+public string Name { get; set; }Public Property Name As String Get Set
 ### Property Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the wrapped item.
 
 See Also

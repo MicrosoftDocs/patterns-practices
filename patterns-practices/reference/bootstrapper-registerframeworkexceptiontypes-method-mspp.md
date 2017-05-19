@@ -10,7 +10,7 @@ Prism Class Library
 Bootstrapper.RegisterFrameworkExceptionTypes Method
 =======================================================
 
-Registers the [Type](http://msdn2.microsoft.com/en-us/library/42892f65)s of the Exceptions that are not considered root exceptions by the [ExceptionExtensions](https://msdn.microsoft.com/t:microsoft.practices.prism.exceptionextensions).
+Registers the [Type](http://msdn.microsoft.com/en-us/library/42892f65)s of the Exceptions that are not considered root exceptions by the [ExceptionExtensions](https://msdn.microsoft.com/t:microsoft.practices.prism.exceptionextensions).
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -20,7 +20,7 @@ Registers the [Type](http://msdn2.microsoft.com/en-us/library/42892f65)s of the 
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual void RegisterFrameworkExceptionTypes()Protected Overridable Sub RegisterFrameworkExceptionTypes
+protected virtual void RegisterFrameworkExceptionTypes()Protected Overridable Sub RegisterFrameworkExceptionTypes
 
 See Also
 --------

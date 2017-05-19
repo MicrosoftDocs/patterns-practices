@@ -10,7 +10,7 @@ Prism Class Library
 RegionNavigationJournalEntry.ToString Method
 ================================================
 
-Returns a [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf) that represents this instance.
+Returns a [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf) that represents this instance.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -20,11 +20,11 @@ Returns a [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf) that repre
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public override string ToString()Public Overrides Function ToString As String
+public override string ToString()Public Overrides Function ToString As String
 ### Return Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
-A [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf) that represents this instance.
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+A [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf) that represents this instance.
 
 See Also
 --------

@@ -30,11 +30,11 @@ Public Function GetEnumerator As IEnumerator(Of Object)
 
 ### Return Value
 
-Type: [IEnumerator](http://msdn2.microsoft.com/en-us/library/78dfe2yb)(Of [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b))<br/>
-A [IEnumerator(Of T)](http://msdn2.microsoft.com/en-us/library/78dfe2yb) that can be used to iterate through the collection.
+Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))<br/>
+A [IEnumerator(Of T)](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can be used to iterate through the collection.
 ### Implements
 
-[IEnumerable(Of T).GetEnumerator](http://msdn2.microsoft.com/en-us/library/s793z9y2)
+[IEnumerable(Of T).GetEnumerator](http://msdn.microsoft.com/en-us/library/s793z9y2)
 
 ## See Also
 

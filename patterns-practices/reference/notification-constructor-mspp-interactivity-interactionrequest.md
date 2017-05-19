@@ -20,7 +20,7 @@ Initializes a new instance of the [Notification](https://msdn.microsoft.com/t:mi
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public Notification()Public Sub New
+public Notification()Public Sub New
 
 See Also
 --------

@@ -20,21 +20,21 @@ Inserts an item to the [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void Insert( int index, Object value )Public Sub Insert ( index As Integer, value As Object )
+public void Insert( int index, Object value )Public Sub Insert ( index As Integer, value As Object )
 
 ### Parameters
 
 index  
-Type: [System.Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
+Type: [System.Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
 The zero-based index at which value should be inserted.
 
 value  
-Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-The [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b) to insert into the [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup). Must be of type [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+The [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) to insert into the [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup). Must be of type [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 
 ### Implements
 
-[IList.Insert(Int32, Object)](http://msdn2.microsoft.com/en-us/library/zkf4388a)
+[IList.Insert(Int32, Object)](http://msdn.microsoft.com/en-us/library/zkf4388a)
 
 Exceptions
 ----------
@@ -42,9 +42,9 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                                   | Condition                                                                                                                               |
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| [System.ArgumentOutOfRangeException](http://msdn2.microsoft.com/en-us/library/8xt94y6e) | index is not a valid index in the [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup). |
-| [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy)       | If value is null.                                                                                                                       |
-| [System.ArgumentException](http://msdn2.microsoft.com/en-us/library/3w1b3114)           | If value is not of type [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)                      |
+| [System.ArgumentOutOfRangeException](http://msdn.microsoft.com/en-us/library/8xt94y6e) | index is not a valid index in the [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup). |
+| [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)       | If value is null.                                                                                                                       |
+| [System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114)           | If value is not of type [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)                      |
 
 See Also
 --------

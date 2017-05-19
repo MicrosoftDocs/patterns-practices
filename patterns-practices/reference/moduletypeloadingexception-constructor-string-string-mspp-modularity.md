@@ -20,16 +20,16 @@ Initializes the exception with a particular module and error message.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModuleTypeLoadingException( string moduleName, string message )Public Sub New ( moduleName As String, message As String )
+public ModuleTypeLoadingException( string moduleName, string message )Public Sub New ( moduleName As String, message As String )
 
 ### Parameters
 
 moduleName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the module.
 
 message  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The error message that explains the reason for the exception.
 
 See Also

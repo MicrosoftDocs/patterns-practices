@@ -20,12 +20,12 @@ Loads and initializes the module on the [ModuleCatalog](https://msdn.microsoft.c
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void LoadModule( string moduleName )Public Sub LoadModule ( moduleName As String )
+public void LoadModule( string moduleName )Public Sub LoadModule ( moduleName As String )
 
 ### Parameters
 
 moduleName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Name of the module requested for initialization.
 
 ### Implements

@@ -20,7 +20,7 @@ Creates a new instance of [DefaultNotificationWindow](https://msdn.microsoft.com
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public DefaultNotificationWindow()Public Sub New
+public DefaultNotificationWindow()Public Sub New
 
 See Also
 --------

@@ -20,10 +20,10 @@ Event triggered when a content is registered to a region name.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>event EventHandler&lt;ViewRegisteredEventArgs&gt; ContentRegisteredEvent ContentRegistered As EventHandler(Of ViewRegisteredEventArgs)
+event EventHandler&lt;ViewRegisteredEventArgs&gt; ContentRegisteredEvent ContentRegistered As EventHandler(Of ViewRegisteredEventArgs)
 ### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([ViewRegisteredEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregisteredeventargs)&gt;)&gt;)
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([ViewRegisteredEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregisteredeventargs)&gt;)&gt;)
 
 Remarks
 -------

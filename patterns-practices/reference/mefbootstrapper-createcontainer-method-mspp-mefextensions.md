@@ -10,7 +10,7 @@ Prism Class Library
 MefBootstrapper.CreateContainer Method
 ==========================================
 
-Creates the [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553) that will be used as the default container.
+Creates the [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553) that will be used as the default container.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
@@ -20,11 +20,11 @@ Creates the [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd83
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected virtual CompositionContainer CreateContainer()Protected Overridable Function CreateContainer As CompositionContainer
+protected virtual CompositionContainer CreateContainer()Protected Overridable Function CreateContainer As CompositionContainer
 ### Return Value
 
-Type: [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553)
-A new instance of [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553).
+Type: [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553)
+A new instance of [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553).
 
 Remarks
 -------

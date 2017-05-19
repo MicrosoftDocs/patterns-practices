@@ -10,7 +10,7 @@ Prism Class Library
 SelectorRegionAdapter.Adapt Method
 ======================================
 
-Adapts an [Selector](http://msdn2.microsoft.com/en-us/library/ms595227) to an [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion).
+Adapts an [Selector](http://msdn.microsoft.com/en-us/library/ms595227) to an [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion).
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -20,7 +20,7 @@ Adapts an [Selector](http://msdn2.microsoft.com/en-us/library/ms595227) to an [I
 ## Syntax
 
 
-<span id="syntaxToggle"></span>protected override void Adapt( IRegion region, Selector regionTarget )Protected Overrides Sub Adapt ( region As IRegion, regionTarget As Selector )
+protected override void Adapt( IRegion region, Selector regionTarget )Protected Overrides Sub Adapt ( region As IRegion, regionTarget As Selector )
 
 ### Parameters
 
@@ -29,7 +29,7 @@ Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:m
 The new region being used.
 
 regionTarget  
-Type: [System.Windows.Controls.Primitives.Selector](http://msdn2.microsoft.com/en-us/library/ms595227)
+Type: [System.Windows.Controls.Primitives.Selector](http://msdn.microsoft.com/en-us/library/ms595227)
 The object to adapt.
 
 See Also

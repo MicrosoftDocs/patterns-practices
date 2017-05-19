@@ -20,7 +20,7 @@ Explicitly invokes [MetadataChanged](https://msdn.microsoft.com/e:microsoft.prac
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public void InvokeMetadataChanged()Public Sub InvokeMetadataChanged
+public void InvokeMetadataChanged()Public Sub InvokeMetadataChanged
 
 See Also
 --------

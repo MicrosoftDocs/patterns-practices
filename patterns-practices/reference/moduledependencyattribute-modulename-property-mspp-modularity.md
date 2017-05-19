@@ -20,10 +20,10 @@ Gets the name of the module that this module is dependant upon.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public string ModuleName { get; }Public ReadOnly Property ModuleName As String Get
+public string ModuleName { get; }Public ReadOnly Property ModuleName As String Get
 ### Property Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the module that this module is dependant upon.
 
 See Also

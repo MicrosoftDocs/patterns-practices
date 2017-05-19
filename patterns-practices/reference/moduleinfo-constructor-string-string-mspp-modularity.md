@@ -20,16 +20,16 @@ Initializes a new instance of [ModuleInfo](https://msdn.microsoft.com/t:microsof
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ModuleInfo( string name, string type )Public Sub New ( name As String, type As String )
+public ModuleInfo( string name, string type )Public Sub New ( name As String, type As String )
 
 ### Parameters
 
 name  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The module's name.
 
 type  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The module's type.
 
 See Also

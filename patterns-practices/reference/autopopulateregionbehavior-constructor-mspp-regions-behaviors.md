@@ -20,7 +20,7 @@ Creates a new instance of the AutoPopulateRegionBehavior associated with the [IR
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public AutoPopulateRegionBehavior( IRegionViewRegistry regionViewRegistry )Public Sub New ( regionViewRegistry As IRegionViewRegistry )
+public AutoPopulateRegionBehavior( IRegionViewRegistry regionViewRegistry )Public Sub New ( regionViewRegistry As IRegionViewRegistry )
 
 ### Parameters
 

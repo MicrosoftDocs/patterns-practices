@@ -13,11 +13,11 @@ Name
 Description
 ![](https://msdn.microsoft.com/en-us/Gg419108.protmethod(en-us,PandP.50).gif "Protected method")
 [CreateModule(String)](https://msdn.microsoft.com/en-us/library/gg405922(v=pandp.50))
-Uses the container to resolve a new [IModule](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodule(v=pandp.50)) by specifying its [Type](http://msdn2.microsoft.com/en-us/library/42892f65).
+Uses the container to resolve a new [IModule](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodule(v=pandp.50)) by specifying its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
 ![](https://msdn.microsoft.com/en-us/Gg419108.protmethod(en-us,PandP.50).gif "Protected method")
 [CreateModule(ModuleInfo)](https://msdn.microsoft.com/en-us/library/gg405921(v=pandp.50))
-Uses the container to resolve a new [IModule](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodule(v=pandp.50)) by specifying its [Type](http://msdn2.microsoft.com/en-us/library/42892f65).
+Uses the container to resolve a new [IModule](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodule(v=pandp.50)) by specifying its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
 ## See Also
 

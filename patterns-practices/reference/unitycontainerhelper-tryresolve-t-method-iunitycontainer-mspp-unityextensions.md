@@ -20,7 +20,7 @@ Utility method to try to resolve a service from the container avoiding an except
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static T TryResolve&lt;T&gt;( this IUnityContainer container ) &lt;ExtensionAttribute&gt; Public Shared Function TryResolve(Of T) ( container As IUnityContainer ) As T
+public static T TryResolve&lt;T&gt;( this IUnityContainer container ) &lt;ExtensionAttribute&gt; Public Shared Function TryResolve(Of T) ( container As IUnityContainer ) As T
 
 ### Parameters
 

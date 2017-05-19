@@ -20,7 +20,7 @@ Marker interface that allows both [ModuleInfoGroup](https://msdn.microsoft.com/t
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IModuleCatalogItemPublic Interface IModuleCatalogItem
+public interface IModuleCatalogItemPublic Interface IModuleCatalogItem
 
 See Also
 --------

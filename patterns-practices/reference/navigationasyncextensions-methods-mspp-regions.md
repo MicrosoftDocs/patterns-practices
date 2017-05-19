@@ -23,7 +23,7 @@ Initiates navigation to the target specified by the *target*.
 
 ![](https://msdn.microsoft.com/en-us/Gg431099.pubmethod(en-us,PandP.50).gif "Public method")![](https://msdn.microsoft.com/en-us/Gg431099.static(en-us,PandP.50).gif "Static member")
 [RequestNavigate(INavigateAsync, Uri)](https://msdn.microsoft.com/en-us/library/gg405989(v=pandp.50))
-Initiates navigation to the target specified by the [Uri](http://msdn2.microsoft.com/en-us/library/txt7706a).
+Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
 
 ![](https://msdn.microsoft.com/en-us/Gg431099.pubmethod(en-us,PandP.50).gif "Public method")![](https://msdn.microsoft.com/en-us/Gg431099.static(en-us,PandP.50).gif "Static member")
 [RequestNavigate(INavigateAsync, String, NavigationParameters)](https://msdn.microsoft.com/en-us/library/dn736211(v=pandp.50))

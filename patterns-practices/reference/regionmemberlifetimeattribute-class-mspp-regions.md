@@ -29,8 +29,8 @@ Public NotInheritable Class RegionMemberLifetimeAttribute
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)<br/>
-  [System.Attribute](http://msdn2.microsoft.com/en-us/library/e8kc3626)<br/>
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
+  [System.Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626)<br/>
     Microsoft.Practices.Prism.Regions.RegionMemberLifetimeAttribute
 
 ## See Also

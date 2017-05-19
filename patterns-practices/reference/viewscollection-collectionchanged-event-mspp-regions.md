@@ -20,13 +20,13 @@ Occurs when the collection changes.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public event NotifyCollectionChangedEventHandler CollectionChangedPublic Event CollectionChanged As NotifyCollectionChangedEventHandler
+public event NotifyCollectionChangedEventHandler CollectionChangedPublic Event CollectionChanged As NotifyCollectionChangedEventHandler
 ### Value
 
-Type: [System.Collections.Specialized.NotifyCollectionChangedEventHandler](http://msdn2.microsoft.com/en-us/library/ms628284)
+Type: [System.Collections.Specialized.NotifyCollectionChangedEventHandler](http://msdn.microsoft.com/en-us/library/ms628284)
 ### Implements
 
-[INotifyCollectionChanged.CollectionChanged](http://msdn2.microsoft.com/en-us/library/ms653382)
+[INotifyCollectionChanged.CollectionChanged](http://msdn.microsoft.com/en-us/library/ms653382)
 
 See Also
 --------

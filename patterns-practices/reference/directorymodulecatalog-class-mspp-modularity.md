@@ -20,7 +20,7 @@ Represets a catalog created from a directory on disk.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class DirectoryModuleCatalog : ModuleCatalogPublic Class DirectoryModuleCatalog Inherits ModuleCatalog
+public class DirectoryModuleCatalog : ModuleCatalogPublic Class DirectoryModuleCatalog Inherits ModuleCatalog
 
 Remarks
 -------
@@ -30,7 +30,7 @@ Remarks
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Modularity.ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog)
     Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog
 

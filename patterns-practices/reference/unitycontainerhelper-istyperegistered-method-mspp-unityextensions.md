@@ -20,7 +20,7 @@ Returns whether a specified type has a type mapping registered in the container.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static bool IsTypeRegistered( this IUnityContainer container, Type type )&lt;ExtensionAttribute&gt; Public Shared Function IsTypeRegistered ( container As IUnityContainer, type As Type ) As Boolean
+public static bool IsTypeRegistered( this IUnityContainer container, Type type )&lt;ExtensionAttribute&gt; Public Shared Function IsTypeRegistered ( container As IUnityContainer, type As Type ) As Boolean
 
 ### Parameters
 
@@ -29,12 +29,12 @@ Type: IUnityContainer
 The IUnityContainer to check for the type mapping.
 
 type  
-Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 The type to check if there is a type mapping for.
 
 ### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if there is a type mapping registered for type.
 ### Usage Note
 

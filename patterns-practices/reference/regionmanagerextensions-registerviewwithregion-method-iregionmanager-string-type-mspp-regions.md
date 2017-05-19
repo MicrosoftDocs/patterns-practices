@@ -20,7 +20,7 @@ Associate a view with a region, by registering a type. When the region get's dis
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static IRegionManager RegisterViewWithRegion( this IRegionManager regionManager, string regionName, Type viewType )&lt;ExtensionAttribute&gt; Public Shared Function RegisterViewWithRegion ( regionManager As IRegionManager, regionName As String, viewType As Type ) As IRegionManager
+public static IRegionManager RegisterViewWithRegion( this IRegionManager regionManager, string regionName, Type viewType )&lt;ExtensionAttribute&gt; Public Shared Function RegisterViewWithRegion ( regionManager As IRegionManager, regionName As String, viewType As Type ) As IRegionManager
 
 ### Parameters
 
@@ -29,11 +29,11 @@ Type: [Microsoft.Practices.Prism.Regions.IRegionManager](https://msdn.microsoft.
 The regionmanager that this extension method effects.
 
 regionName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region to associate the view with.
 
 viewType  
-Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 The type of the view to register with the
 
 ### Return Value

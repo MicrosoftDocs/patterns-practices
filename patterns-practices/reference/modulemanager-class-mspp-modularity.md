@@ -22,12 +22,12 @@ Component responsible for coordinating the modules' type loading and module init
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public class ModuleManager : IModuleManager, IDisposablePublic Class ModuleManager Implements IModuleManager, IDisposable
+public class ModuleManager : IModuleManager, IDisposablePublic Class ModuleManager Implements IModuleManager, IDisposable
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Modularity.ModuleManager
     [Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.mefmodulemanager)
 

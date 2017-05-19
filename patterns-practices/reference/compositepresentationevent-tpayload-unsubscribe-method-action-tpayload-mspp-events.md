@@ -10,7 +10,7 @@ Prism Class Library
 CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Unsubscribe Method (Action&lt;(Of &lt;(TPayload&gt;)&gt;))
 ========================================================================================================================
 
-Removes the first subscriber matching [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/018hxwa8) from the subscribers' list.
+Removes the first subscriber matching [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) from the subscribers' list.
 
 **Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/n:microsoft.practices.prism.events)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -20,13 +20,13 @@ Removes the first subscriber matching [Action&lt;(Of &lt;(T&gt;)&gt;)](http://ms
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public virtual void Unsubscribe( Action&lt;TPayload&gt; subscriber )Public Overridable Sub Unsubscribe ( subscriber As Action(Of TPayload) )
+public virtual void Unsubscribe( Action&lt;TPayload&gt; subscriber )Public Overridable Sub Unsubscribe ( subscriber As Action(Of TPayload) )
 
 ### Parameters
 
 subscriber  
-Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/t:microsoft.practices.prism.events.compositepresentationevent%601)&gt;)&gt;)
-The [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/018hxwa8) used when subscribing to the event.
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/t:microsoft.practices.prism.events.compositepresentationevent%601)&gt;)&gt;)
+The [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) used when subscribing to the event.
 
 See Also
 --------

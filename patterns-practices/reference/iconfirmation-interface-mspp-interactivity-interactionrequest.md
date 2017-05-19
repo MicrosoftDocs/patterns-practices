@@ -20,7 +20,7 @@ Represents an interaction request used for confirmations.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public interface IConfirmation : INotificationPublic Interface IConfirmation Inherits INotification
+public interface IConfirmation : INotificationPublic Interface IConfirmation Inherits INotification
 
 See Also
 --------

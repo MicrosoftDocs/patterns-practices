@@ -10,7 +10,7 @@ Prism Class Library
 MefBootstrapper Class
 =====================
 
-Base class that provides a basic bootstrapping sequence that registers most of the Prism Library assets in a MEF [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553).
+Base class that provides a basic bootstrapping sequence that registers most of the Prism Library assets in a MEF [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553).
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
@@ -20,7 +20,7 @@ Base class that provides a basic bootstrapping sequence that registers most of t
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public abstract class MefBootstrapper : BootstrapperPublic MustInherit Class MefBootstrapper Inherits Bootstrapper
+public abstract class MefBootstrapper : BootstrapperPublic MustInherit Class MefBootstrapper Inherits Bootstrapper
 
 Remarks
 -------
@@ -30,7 +30,7 @@ Remarks
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Bootstrapper](https://msdn.microsoft.com/t:microsoft.practices.prism.bootstrapper)
     Microsoft.Practices.Prism.MefExtensions.MefBootstrapper
 

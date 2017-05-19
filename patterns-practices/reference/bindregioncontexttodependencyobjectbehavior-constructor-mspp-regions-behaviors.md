@@ -20,7 +20,7 @@ Initializes a new instance of the [BindRegionContextToDependencyObjectBehavior](
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public BindRegionContextToDependencyObjectBehavior()Public Sub New
+public BindRegionContextToDependencyObjectBehavior()Public Sub New
 
 See Also
 --------

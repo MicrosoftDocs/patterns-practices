@@ -20,16 +20,16 @@ Initializes the ViewRegisteredEventArgs class.
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public ViewRegisteredEventArgs( string regionName, Func&lt;Object&gt; getViewDelegate )Public Sub New ( regionName As String, getViewDelegate As Func(Of Object) )
+public ViewRegisteredEventArgs( string regionName, Func&lt;Object&gt; getViewDelegate )Public Sub New ( regionName As String, getViewDelegate As Func(Of Object) )
 
 ### Parameters
 
 regionName  
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The region name to which the content was registered.
 
 getViewDelegate  
-Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 The content which was registered.
 
 See Also

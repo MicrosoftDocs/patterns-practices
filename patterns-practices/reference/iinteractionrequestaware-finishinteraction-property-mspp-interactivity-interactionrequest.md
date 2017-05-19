@@ -10,7 +10,7 @@ Prism Class Library
 IInteractionRequestAware.FinishInteraction Property
 =======================================================
 
-An [Action](http://msdn2.microsoft.com/en-us/library/bb534741) that can be invoked to finish the interaction.
+An [Action](http://msdn.microsoft.com/en-us/library/bb534741) that can be invoked to finish the interaction.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
@@ -20,10 +20,10 @@ An [Action](http://msdn2.microsoft.com/en-us/library/bb534741) that can be invok
 ## Syntax
 
 
-<span id="syntaxToggle"></span>Action FinishInteraction { get; set; }Property FinishInteraction As Action Get Set
+Action FinishInteraction { get; set; }Property FinishInteraction As Action Get Set
 ### Property Value
 
-Type: [Action](http://msdn2.microsoft.com/en-us/library/bb534741)
+Type: [Action](http://msdn.microsoft.com/en-us/library/bb534741)
 
 See Also
 --------

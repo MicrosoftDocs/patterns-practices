@@ -20,10 +20,10 @@ Notification used by attached behaviors to update the region managers appropriat
 ## Syntax
 
 
-<span id="syntaxToggle"></span>public static event EventHandler UpdatingRegionsPublic Shared Event UpdatingRegions As EventHandler
+public static event EventHandler UpdatingRegionsPublic Shared Event UpdatingRegions As EventHandler
 ### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
 
 Remarks
 -------
