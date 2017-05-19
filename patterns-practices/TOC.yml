@@ -79,19 +79,19 @@
       href: guide/bibliography-for-the-developers-guide-to-prism-library-5.0-for-wpf.md
   - name: Reference
     href: reference/index.md
-    - name: AddModule Method (ModuleInfoGroup, String, Type, String[])
+    - name: AddModule Method (ModuleInfoGroup, String, Type, String)
       href: reference/addmodule-mthd-moduleinfogroup-str-type-str.md
-    - name: AddModule Method (ModuleInfoGroup, Type, String[])
+    - name: AddModule Method (ModuleInfoGroup, Type, String)
       href: reference/addmodule-mthd-moduleinfogroup-type-str.md
-    - name: AddModule Method (String, String, InitializationMode, String[])
+    - name: AddModule Method (String, String, InitializationMode, String)
       href: reference/addmodule-mthd-str-str-initializationmode-str.md
-    - name: AddModule Method (String, String, String, InitializationMode, String[])
+    - name: AddModule Method (String, String, String, InitializationMode, String)
       href: reference/addmodule-mthd-str-str-str-initializationmode-str.md
-    - name: AddModule Method (String, String, String[])
+    - name: AddModule Method (String, String, String)
       href: reference/addmodule-mthd-str-str-str.md
-    - name: AddModule Method (Type, InitializationMode, String[])
+    - name: AddModule Method (Type, InitializationMode, String)
       href: reference/addmodule-mthd-type-initializationmode-str.md
-    - name: AddModule Method (Type, String[])
+    - name: AddModule Method (Type, String)
       href: reference/addmodule-mthd-type-str.md
     - name: ActiveViews Property
       href: reference/allactiveregion-activeviews-property-mspp-regions.md
@@ -1931,7 +1931,7 @@
       href: reference/moduleconfigurationelementcollection-contains-method-mspp-modularity.md
     - name: CreateNewElement Method
       href: reference/moduleconfigurationelementcollection-createnewelement-method-mspp-modularity.md
-    - name: ModuleConfigurationElementCollection Constructor (ModuleConfigurationElement[])
+    - name: ModuleConfigurationElementCollection Constructor (ModuleConfigurationElement)
       href: reference/moduleconfigurationelementcollection-ctor-moduleconfigurationelement.md
     - name: ModuleConfigurationElementCollection Constructor
       href: reference/moduleconfigurationelementcollection-ctor.md
@@ -1975,7 +1975,7 @@
       href: reference/moduledependencycollection-constructor-mspp-modularity.md
     - name: CreateNewElement Method
       href: reference/moduledependencycollection-createnewelement-method-mspp-modularity.md
-    - name: ModuleDependencyCollection Constructor (ModuleDependencyConfigurationElement[])
+    - name: ModuleDependencyCollection Constructor (ModuleDependencyConfigurationElement)
       href: reference/moduledependencycollection-ctor-moduledependencyconfigurationelement.md
     - name: ModuleDependencyCollection Constructor
       href: reference/moduledependencycollection-ctor.md
@@ -2071,7 +2071,7 @@
       href: reference/moduleinfo-constructor-mspp-modularity.md
     - name: ModuleInfo Constructor (String, String)
       href: reference/moduleinfo-constructor-string-string-mspp-modularity.md
-    - name: ModuleInfo Constructor (String, String, String[])
+    - name: ModuleInfo Constructor (String, String, String)
       href: reference/moduleinfo-ctor-str-str-str.md
     - name: ModuleInfo Constructor
       href: reference/moduleinfo-ctor.md
@@ -2577,7 +2577,7 @@
       href: reference/pubsubevent-tpayload-unsubscribe-method-action-tpayload-mspp-pubsubevents.md
     - name: Unsubscribe Method
       href: reference/pubsubevent-tpayload-unsubscribe-method-mspp-pubsubevents.md
-    - name: RaisePropertyChanged Method (String[])
+    - name: RaisePropertyChanged Method (String)
       href: reference/raisepropertychanged-mthd-str.md
     - name: Activate Method
       href: reference/region-activate-method-mspp-regions.md
