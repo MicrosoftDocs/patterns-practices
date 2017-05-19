@@ -5,7 +5,7 @@ ms:assetid: '377bb4cd-73a1-43bc-81b1-ede8230dce15'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430856(v=PandP.40)'
 ---
 
-# 10: Deploying Applications Using the Prism Library 5.0 for WPF
+# Deploying Applications Using the Prism Library 5.0 for WPF
 
 From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
 

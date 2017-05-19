@@ -5,7 +5,7 @@ ms:assetid: '1c89ff18-4df9-456f-b3fa-cd848d4e7e33'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921122(v=PandP.40)'
 ---
 
-# 9: Communicating Between Loosely Coupled Components Using the Prism Library 5.0 for WPF
+#  Communicating Between Loosely Coupled Components Using the Prism Library 5.0 for WPF
 
 From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
 

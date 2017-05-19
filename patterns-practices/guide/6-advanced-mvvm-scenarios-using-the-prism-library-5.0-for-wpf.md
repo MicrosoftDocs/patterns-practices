@@ -5,7 +5,7 @@ ms:assetid: '11b0cec4-a9ed-4716-a632-dac70ddb764b'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405494(v=PandP.40)'
 ---
 
-# 6: Advanced MVVM Scenarios Using the Prism Library 5.0 for WPF
+#  Advanced MVVM Scenarios Using the Prism Library 5.0 for WPF
 
 From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
 

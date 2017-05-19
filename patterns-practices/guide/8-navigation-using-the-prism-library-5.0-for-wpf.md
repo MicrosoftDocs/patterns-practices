@@ -5,7 +5,7 @@ ms:assetid: 'a5508f83-5f1a-4456-b704-afb05b244c52'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430861(vPandP.40)'
 ---
 
-# 8: Navigation Using the Prism Library 5.0 for WPF
+#  Navigation Using the Prism Library 5.0 for WPF
 
 From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
 

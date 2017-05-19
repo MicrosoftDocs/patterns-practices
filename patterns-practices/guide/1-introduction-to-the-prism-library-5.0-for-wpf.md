@@ -5,7 +5,7 @@ ms:assetid: 'badb51b5-fed3-44e2-8e0b-f307516d62ed'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921153(v=PandP.40)'
 ---
 
-# 1: Introduction to the Prism Library 5.0 for WPF
+# Introduction to the Prism Library 5.0 for WPF
 
 From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
 

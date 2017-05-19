@@ -5,7 +5,7 @@ ms:assetid: '1c19fd0f-ac78-45d8-be6e-5ba39040dedd'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405497(v=PandP.40)'
 ---
 
-# 18: Publishing and Updating Applications Using the Prism Library 5.0 for WPF Hands-on Lab
+# Publishing and Updating Applications Using the Prism Library 5.0 for WPF Hands-on Lab
 
 From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
 

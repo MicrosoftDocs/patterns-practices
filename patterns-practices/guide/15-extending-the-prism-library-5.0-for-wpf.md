@@ -5,7 +5,7 @@ ms:assetid: 'f7e0780d-9a5e-41f7-91d3-07be9f2a6e9f'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430866(vPandP.40)'
 ---
 
-# 15: Extending the Prism Library 5.0 for WPF
+# Extending the Prism Library 5.0 for WPF
 
 From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
 

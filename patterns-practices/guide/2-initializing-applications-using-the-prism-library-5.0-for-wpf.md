@@ -5,7 +5,7 @@ ms:assetid: 'ca61e2a4-bb4c-4833-be07-b3c0cddcddca'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430868(v=PandP.40)'
 ---
 
-# 2: Initializing Applications Using the Prism Library 5.0 for WPF
+#  Initializing Applications Using the Prism Library 5.0 for WPF
 
 From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
 
