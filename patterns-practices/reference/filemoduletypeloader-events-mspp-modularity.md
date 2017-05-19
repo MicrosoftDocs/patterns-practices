@@ -16,17 +16,36 @@ The [FileModuleTypeLoader](https://msdn.microsoft.com/en-us/library/microsoft.pr
 Events
 ------
 
-<span id="eventTableToggle"></span>
- 
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Gg430893.pubevent(en-us,PandP.50).gif "Public event")
-[LoadModuleCompleted](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader.loadmodulecompleted(v=pandp.50))
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg430893.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td><a href="https://msdn.microsoft.com/e:microsoft.practices.prism.modularity.filemoduletypeloader.loadmodulecompleted">LoadModuleCompleted</a></td>
+<td><div class="summary">
 Raised when a module is loaded or fails to load.
-
-![](https://msdn.microsoft.com/en-us/Gg430893.pubevent(en-us,PandP.50).gif "Public event")
-[ModuleDownloadProgressChanged](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader.moduledownloadprogresschanged(v=pandp.50))
+</div></td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Gg430893.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td><a href="https://msdn.microsoft.com/e:microsoft.practices.prism.modularity.filemoduletypeloader.moduledownloadprogresschanged">ModuleDownloadProgressChanged</a></td>
+<td><div class="summary">
 Raised repeatedly to provide progress as modules are loaded in the background.
+</div></td>
+</tr>
+</tbody>
+</table>
 
 See Also
 --------

@@ -13,11 +13,29 @@ The [IAssemblyResolver](https://msdn.microsoft.com/en-us/library/microsoft.pract
 
 ## Methods
 
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Gg431040.pubmethod(en-us,PandP.50).gif "Public method")
-[LoadAssemblyFrom](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.iassemblyresolver.loadassemblyfrom(v=pandp.50))
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431040.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.iassemblyresolver.loadassemblyfrom(system.string)">LoadAssemblyFrom</a></td>
+<td><div class="summary">
 Load an assembly when it's required by the application.
+</div></td>
+</tr>
+</tbody>
+</table>
 
 ## See Also
 
