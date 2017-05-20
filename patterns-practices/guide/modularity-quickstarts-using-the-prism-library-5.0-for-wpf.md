@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921068(v=PandP.40)'
 
 # Modularity QuickStarts Using the Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
 
 Modulatiry QuickStarts source code:
 
@@ -105,7 +105,7 @@ This section describes the scenarios included in both modularity QuickStarts. Ea
 
 Each QuickStart displays each module as a control. The module control indicates whether it has been initialized, displays downloading progress, and on-demand modules can be clicked to request initialization. The control also provides a tooltip that shows its current initialization state and discovery information. At the bottom of each QuickStart page is a text box that displays the log entries from the bootstrapping sequence and module-loading details. The following illustration shows the main page of the Modularity with MEF QuickStart.
 
-![](https://msdn.microsoft.com/en-us/Ff921068.1CB1D9C3CA3AFB26BF4DA2F4E691F0BA(en-us,PandP.40).png "Modularity QuickStart user interface")
+![](images/Modularity-QuickStart(en-us,PandP.40).png "Modularity QuickStart user interface")
 
 Modularity QuickStart user interface
 
@@ -138,7 +138,7 @@ To explore the scenario, perform the steps to build and run the QuickStart:
 
 1.  The main window shows a set of modules, each of which displays the module's initialization state, as shown in the following illustration. As the application starts, Module D and Module A are discovered and initialized.
 
-    ![](https://msdn.microsoft.com/en-us/Ff921068.1CB1D9C3CA3AFB26BF4DA2F4E691F0BA(en-us,PandP.40).png "Main page of Modularity with MEF QuickStart")
+    ![](images/Modularity-QuickStart(en-us,PandP.40).png "Main page of Modularity with MEF QuickStart")
 
     Main page of Modularity with MEF QuickStart
 
@@ -149,14 +149,14 @@ To explore the scenario, perform the steps to build and run the QuickStart:
 
 2.  Hover over the **Module A** control. When the mouse hovers over the **Module A** control, a descriptive tooltip is displayed, as shown in the following illustration.
 
-    ![](https://msdn.microsoft.com/en-us/Ff921068.06BED1C32843460767CB2D2F4123A76E(en-us,PandP.40).png "Module Information tooltip")
+    ![](images/Module-Information-tooltip(en-us,PandP.40).png "Module Information tooltip")
 
     Module Information tooltip
 
 3.  As you hover the pointer over a module, a tooltip displays that shows information about its status, discovery, initialization, download timing, and dependencies.
 4.  Click the **Module B** and **Module C** controls. As each module initialization state changes, the visual control is updated. When either the **Module B** control or the **Module C** control is clicked, that module gets loaded, as shown in the following illustration.
 
-    ![](https://msdn.microsoft.com/en-us/Ff921068.E23B95D15C5CDE745200083BD37E4188(en-us,PandP.40).png "Screen shot of module loaded")
+    ![](images/Screen-shot-of-module-loaded(en-us,PandP.40).png "Screen shot of module loaded")
 
     Screen shot of module loaded
 
@@ -164,7 +164,7 @@ To explore the scenario, perform the steps to build and run the QuickStart:
 
 5.  Click the **Module F** control. When the **Module F** control is clicked, Module E and Module F get loaded, as shown in the following illustration.
 
-    ![](https://msdn.microsoft.com/en-us/Ff921068.E5671E79DE7110409735E6E692A99871(en-us,PandP.40).png "Screen shot of Module E getting loaded to load Module F")
+    ![](images/screen-shot-of-module-e-getting-loaded-to-load-module-f(en-us,PandP.40).png "Screen shot of Module E getting loaded to load Module F")
 
     Screen shot of Module E getting loaded to load Module F
 
@@ -380,16 +380,16 @@ When you run the acceptance tests, you should see the QuickStarts windows and th
 
 ## More Information
 
-To learn more about modularity, see [Modular Application Development](https://msdn.microsoft.com/en-us/library/gg405479(v=pandp.40)).
+To learn more about modularity, see [Modular Application Development](/guide/4-modular-application-development-using-prism-library-5.0-for-wpf(v=pandp.40)).
 
 To learn about other code samples included with Prism, see the following topics:
 
--   [Stock Trader Reference Implementation](https://msdn.microsoft.com/en-us/library/ff921074(v=pandp.40))
--   [Interactivity QuickStart](https://msdn.microsoft.com/en-us/library/ff921081(v=pandp.40))
--   [MVVM QuickStart](https://msdn.microsoft.com/en-us/library/gg430857(v=pandp.40))
--   [Commanding QuickStart](https://msdn.microsoft.com/en-us/library/ff921082(v=pandp.40))
--   [UI Composition QuickStart](https://msdn.microsoft.com/en-us/library/ff921174(v=pandp.40))
--   [State-Based Navigation QuickStart](https://msdn.microsoft.com/en-us/library/gg405495(v=pandp.40))
--   [View-Switching Navigation QuickStart](https://msdn.microsoft.com/en-us/library/gg430881(v=pandp.40))
--   [Event Aggregation QuickStart](https://msdn.microsoft.com/en-us/library/ff921173(v=pandp.40))
+-   [Stock Trader Reference Implementation](/guide/stock-trader-reference-implementation-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-   [Interactivity QuickStart](/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-   [MVVM QuickStart](/guide/mvvm-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-   [Commanding QuickStart](/guide/commanding-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-   [UI Composition QuickStart](/guide/ui-composition-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-   [State-Based Navigation QuickStart](/guide/state-based-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-   [View-Switching Navigation QuickStart](/guide/view-switching-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-   [Event Aggregation QuickStart](/guide/event-aggregation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
 

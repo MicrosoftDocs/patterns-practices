@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430869(v=PandP.40)'
 
 # Prism 4.1 - Developer's Guide to Microsoft Prism Library for WPF and Silverlight
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
 
 ## Summary
 
@@ -80,7 +80,7 @@ The following table contains Prism download links to help you get started with P
 </tr>
 <tr class="odd">
 <td><p>Book</p></td>
-<td><p><a href="http://shop.oreilly.com/product/0790145315496.do"><img src="https://msdn.microsoft.com/en-us/Gg430869.Prism4Cover(en-us,PandP.40).png" alt="book"/></a></p>
+<td><p><a href="http://shop.oreilly.com/product/0790145315496.do"><img src="images/order-book(en-us,PandP.40).png" alt="book"/></a></p>
 <p><a href="http://shop.oreilly.com/product/0790145315496.do">Buy book</a></p></td>
 </tr>
 <tr class="even">

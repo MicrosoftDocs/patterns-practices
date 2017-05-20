@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405484(v=PandP.40)'
 
 # 5: Implementing the MVVM Pattern Using the Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
 
 The Model-View-ViewModel (MVVM) pattern helps you to cleanly separate the business and presentation logic of your application from its user interface (UI). Maintaining a clean separation between application logic and UI helps to address numerous development and design issues and can make your application much easier to test, maintain, and evolve. It can also greatly improve code re-use opportunities and allows developers and UI designers to more easily collaborate when developing their respective parts of the application.
 
@@ -15,7 +15,7 @@ Using the MVVM pattern, the UI of the application and the underlying presentatio
 
 Prism includes samples and reference implementations that show how to implement the MVVM pattern in a Windows Presentation Foundation (WPF) application. The Prism Library also provides features that can help you implement the pattern in your own applications. These features embody the most common practices for implementing the MVVM pattern and are designed to support testability and to work well with Expression Blend and Visual Studio.
 
-This topic provides an overview of the MVVM pattern and describes how to implement its fundamental characteristics. The topic [Advanced MVVM Scenarios](https://msdn.microsoft.com/en-us/library/gg405494(v=pandp.40)) describes how to implement more advanced MVVM scenarios using the Prism Library.
+This topic provides an overview of the MVVM pattern and describes how to implement its fundamental characteristics. The topic [Advanced MVVM Scenarios](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(v=pandp.40)) describes how to implement more advanced MVVM scenarios using the Prism Library.
 
 ## Class Responsibilities and Characteristics
 
@@ -25,7 +25,7 @@ In the MVVM pattern, the view encapsulates the UI and any UI logic, the view mod
 
 The following illustration shows the three MVVM classes and their interaction.
 
-![](https://msdn.microsoft.com/en-us/Gg405484.333D7F906287FB8887D43C85A4A8FC08(en-us,PandP.40).png "The MVVM classes and their interactions")
+![](images/the-mvvm-classes-and-their-interactions(en-us,PandP.40).png "The MVVM classes and their interactions")
 
 The MVVM classes and their interactions
 
@@ -361,7 +361,7 @@ The **DelegateCommand** class is a generic type. The type argument specifies the
 
 The view model can indicate a change in the command's **CanExecute** status by calling the **RaiseCanExecuteChanged** method on the **DelegateCommand** object. This causes the **CanExecuteChanged** event to be raised. Any controls in the UI that are bound to the command will update their enabled status to reflect the availability of the bound command.
 
-Other implementations of the **ICommand** interface are available. The **ActionCommand** class provided by the Expression Blend SDK is similar to Prism's **DelegateCommand** class described earlier, but it supports only a single **Execute** method delegate. Prism also provides the **CompositeCommand** class, which allows **DelegateCommands** to be grouped together for execution. For more information about using the **CompositeCommand** class, see "[Composite Commands](https://msdn.microsoft.com/en-us/library/gg405494(v=pandp.40)#CompositeCommands)" in "[Advanced MVVM Scenarios](https://msdn.microsoft.com/en-us/library/gg405494(v=pandp.40))."
+Other implementations of the **ICommand** interface are available. The **ActionCommand** class provided by the Expression Blend SDK is similar to Prism's **DelegateCommand** class described earlier, but it supports only a single **Execute** method delegate. Prism also provides the **CompositeCommand** class, which allows **DelegateCommands** to be grouped together for execution. For more information about using the **CompositeCommand** class, see "[Composite Commands](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(v=pandp.40)#CompositeCommands)" in "[Advanced MVVM Scenarios](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(v=pandp.40))."
 
 ### Invoking Command Objects from the View
 
@@ -373,7 +373,7 @@ There are a number of ways in which a control in the view can be associated with
 
 A command parameter can also be optionally defined using the **CommandParameter** property. The type of the expected argument is specified in the **Execute** and **CanExecute** target methods. The control will automatically invoke the target command when the user interacts with that control, and the command parameter, if provided, will be passed as the argument to the command's **Execute** method. In the preceding example, the button will automatically invoke the **SubmitCommand** when it is clicked. Additionally, if a **CanExecute** handler is specified, the button will be automatically disabled if **CanExecute** returns **false**, and it will be enabled if it returns **true**.
 
-An alternative approach is to use Blend for Visual Studio 2013 interaction triggers and **InvokeCommandAction** behavior. For more information on **InvokeCommandAction** behavior and associating commands to events see “[Interaction Triggers and Commands](https://msdn.microsoft.com/en-us/library/gg405494(v=pandp.40)#InteractionTriggers)” in "[Advanced MVVM Scenarios](https://msdn.microsoft.com/en-us/library/gg405494(v=pandp.40))."
+An alternative approach is to use Blend for Visual Studio 2013 interaction triggers and **InvokeCommandAction** behavior. For more information on **InvokeCommandAction** behavior and associating commands to events see “[Interaction Triggers and Commands](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(v=pandp.40)#InteractionTriggers)” in "[Advanced MVVM Scenarios](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(v=pandp.40))."
 
 ## Data Validation and Error Reporting
 
@@ -447,7 +447,7 @@ The MVVM pattern helps you to cleanly separate your UI from your presentation an
 
 
 > [!NOTE]
-> Choosing an appropriate strategy to manage this step is especially important if you are using a dependency injection container in your application. The Managed Extensibility Framework (MEF) and the Unity Application Block (Unity) both provide the ability to specify dependencies between the view, view model, and model classes and to have them fulfilled by the container. For more advanced scenarios, see [Advanced MVVM Scenarios](https://msdn.microsoft.com/en-us/library/gg405494(v=pandp.40)).
+> Choosing an appropriate strategy to manage this step is especially important if you are using a dependency injection container in your application. The Managed Extensibility Framework (MEF) and the Unity Application Block (Unity) both provide the ability to specify dependencies between the view, view model, and model classes and to have them fulfilled by the container. For more advanced scenarios, see [Advanced MVVM Scenarios](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 Typically, there is a one-to-one relationship between a view and its view model. The view and view model are loosely coupled via the view's data context property; this allows visual elements and behaviors in the view to be data bound to properties, commands, and methods on the view model. You will need to decide how to manage the instantiation of the view and view model classes and their association via the **DataContext** property at run time.
 
@@ -485,7 +485,7 @@ Another approach is for the view to instantiate its corresponding view model ins
   }
 ```
 
-The programmatic construction and assignment of the view model within the view's code-behind has the advantage that it is simple and works well in design-time tools like Expression Blend or Visual Studio. The disadvantage of this approach is that the view needs to have knowledge of the corresponding view model type and that it requires code in the view's code-behind. Using a dependency injection container, such as Unity or MEF, can help to maintain loose coupling between the view and view model. For more information, see [Managing Dependencies Between Components](https://msdn.microsoft.com/en-us/library/ff921140(v=pandp.40)).
+The programmatic construction and assignment of the view model within the view's code-behind has the advantage that it is simple and works well in design-time tools like Expression Blend or Visual Studio. The disadvantage of this approach is that the view needs to have knowledge of the corresponding view model type and that it requires code in the view's code-behind. Using a dependency injection container, such as Unity or MEF, can help to maintain loose coupling between the view and view model. For more information, see [Managing Dependencies Between Components](/guide/3-managing-dependencies-between-components-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 ## Creating the View Model Using a View Model Locator
 
@@ -500,7 +500,7 @@ In the Basic MVVM QuickStart, the MainWindow.xaml uses the view model locator to
     prism:ViewModelLocator.AutoWireViewModel="True">
 ```
 
-Prism’s **ViewModelLocator** class has an attached property, **AutoWireViewMode**l that when set to true will try to locate the view model of the view, and then set the view’s data context to an instance of the view model. To locate the corresponding view model, the **ViewModelLocationProvider** first attempts to resolve the view model from any mappings that may have been registered by the **Register** method of the **ViewModelLocationProvider** class. If the view model cannot be resolved using this approach, for instance if the mapping wasn't created, the **ViewModelLocationProvider** falls back to a convention-based approach to resolve the correct view model type. This convention assumes that view models are in the same assembly as the view types, that view models are in a .**ViewModels** child namespace, that views are in a .**Views** child namespace, and that view model names correspond with view names and end with "ViewModel.". For instructions on how to change Prism’s View Model Locator convention, see [Appendix E: Extending Prism](https://msdn.microsoft.com/en-us/library/gg430866(v=pandp.40)).
+Prism’s **ViewModelLocator** class has an attached property, **AutoWireViewMode**l that when set to true will try to locate the view model of the view, and then set the view’s data context to an instance of the view model. To locate the corresponding view model, the **ViewModelLocationProvider** first attempts to resolve the view model from any mappings that may have been registered by the **Register** method of the **ViewModelLocationProvider** class. If the view model cannot be resolved using this approach, for instance if the mapping wasn't created, the **ViewModelLocationProvider** falls back to a convention-based approach to resolve the correct view model type. This convention assumes that view models are in the same assembly as the view types, that view models are in a .**ViewModels** child namespace, that views are in a .**Views** child namespace, and that view model names correspond with view names and end with "ViewModel.". For instructions on how to change Prism’s View Model Locator convention, see [Appendix E: Extending Prism](/guide/15-extending-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 >**Note: ViewModelLocationProvider** can be found in the **Microsoft.Practices.Prism.Mvvm** assembly and **ViewModelLocator** can be found in the Microsoft.Practices.Prism.Mvvm.Desktop assembly which is located in the **Prism.Mvvm** NuGet package.
 
@@ -548,10 +548,10 @@ Here, the data template wraps a concrete view type. This allows the view to defi
 
 When you choose to use the MVVM pattern to construct your application, you will have to make certain design decisions that will be difficult to change later on. Generally, these decisions are application-wide and their consistent use throughout the application will improve developer and designer productivity. The following summarizes the most important decisions when implementing the MVVM pattern:
 
--  Decide on the approach to view and view model construction you will use. You need to decide if your application constructs the views or the view models first and whether to use a dependency injection container, such as Unity or MEF. You will usually want this to be consistent application-wide. For more information, see the section, [Construction and Wire-Up](#constructionandwireup), in this topic and the section Advanced Construction and Wire-Up, in [Advanced MVVM Scenarios](https://msdn.microsoft.com/en-us/library/gg405494(v=pandp.40)).
+-  Decide on the approach to view and view model construction you will use. You need to decide if your application constructs the views or the view models first and whether to use a dependency injection container, such as Unity or MEF. You will usually want this to be consistent application-wide. For more information, see the section, [Construction and Wire-Up](#constructionandwireup), in this topic and the section Advanced Construction and Wire-Up, in [Advanced MVVM Scenarios](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 -  Decide if you will expose commands from your view models as command methods or command objects. Command methods are simple to expose and can be invoked through behaviors in the view. Command objects can neatly encapsulate the command and enabled/disabled logic and can be invoked through behaviors or via the **Command** property on **ButtonBase**-derived controls. To make it easier on your developers and designers, it is a good idea to make this an application-wide choice. For more information, see the section, [Commands](#commands), in this topic.
 -  Decide how your view models and models will report errors to the view. Your models can either support **IDataErrorInfo** or **INotifyDataErrorInfo**. Not all models may need to report error information, but for those that do, it is preferable to have a consistent approach for your developers. For more information, see the section, [Data Validation and Error Reporting](#datavalidationanderrorreporting), in this topic.
--  Decide whether Microsoft Blend for Visual Studio 2013 design-time data support is important to your team. If you will use Blend to design and maintain your UI and want to see design time data, make sure that your views and view models offer constructors that do not have parameters and that your views provide a design-time data context. Alternatively, consider using the design-time features provided by Microsoft Blend for Visual Studio 2013 using design-time attributes such as **d:DataContext** and **d:DesignSource**. For more information, see Guidelines for Creating Designer Friendly Views in [Composing the User Interface](https://msdn.microsoft.com/en-us/library/ff921098(v=pandp.40)).
+-  Decide whether Microsoft Blend for Visual Studio 2013 design-time data support is important to your team. If you will use Blend to design and maintain your UI and want to see design time data, make sure that your views and view models offer constructors that do not have parameters and that your views provide a design-time data context. Alternatively, consider using the design-time features provided by Microsoft Blend for Visual Studio 2013 using design-time attributes such as **d:DataContext** and **d:DesignSource**. For more information, see Guidelines for Creating Designer Friendly Views in [Composing the User Interface](/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 ## More Information
 
@@ -567,7 +567,7 @@ For more information about MEF, see [Managed Extensibility Framework Overview](h
 
 For more information about Unity, see [Unity Application Block](http://www.msdn.com/unity) on MSDN.
 
-For more information about **DelegateCommand** and **CompositeCommand**, see [Communicating Between Loosely Coupled Components](https://msdn.microsoft.com/en-us/library/ff921122(v=pandp.40)).
+For more information about **DelegateCommand** and **CompositeCommand**, see [Communicating Between Loosely Coupled Components](/guide/9-communicating-between-loosely-coupled-components-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 For more information about using MVVM in Windows Store Apps see [Using the Model-View-ViewModel (MVVM) pattern in a Windows Store business app using C#, XAML, and Prism](http://msdn.microsoft.com/en-us/library/windows/apps/xx130657.aspx).
 

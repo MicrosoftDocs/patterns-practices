@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921074(v=PandP.40)'
 
 # Stock Trader Reference Implementation Using the Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
 
 Prism includes a sample called a reference implementation, which is a composite application that is based on a real-world scenario. This intentionally incomplete application illustrates the composite application baseline architecture. Within the application, you will see solutions for common, and recurrent, challenges that developers face when creating composite applications. We solve many of the challenges using design patterns such as Model-View-ViewModel (MVVM), Composite View, Event Aggregator, Plug-In, and Dependency Injection that embody important architectural design principles such as separation of concerns and loose coupling. Prism helps you to create a modular application design and build applications using loosely coupled components that can evolve independently but that can be easily and seamlessly integrated into the overall application.
 
@@ -17,7 +17,7 @@ The reference implementation is not a real-world application; however, it is bas
 
 The following illustration shows the desktop version of the Stock Trader Reference Implementation (Stock Trader RI).
 
-![](https://msdn.microsoft.com/en-us/Ff921074.F4DC0365E510CBBE0B2CB69BB23B9B4B(en-us,PandP.40).png "Stock Trader RI")
+![](images/stock-trader-ri(en-us,PandP.40).png "Stock Trader RI")
 
 Stock Trader RI
 
@@ -81,7 +81,7 @@ The features of the Stock Trader reference implementation are covered in greater
 
 The following illustration shows the Stock Trader RI **Buy & Sell** tab.
 
-![](https://msdn.microsoft.com/en-us/Ff921074.DA569A28B8A72A206F56CA85F14229E0(en-us,PandP.40).png "Buy & Sell area in the Stock Trader RI")
+![](images/buy-and-sell-area-in-the-stock-trader-ri(en-us,PandP.40).png "Buy & Sell area in the Stock Trader RI")
 
 Buy & Sell area in the Stock Trader RI
 
@@ -196,7 +196,7 @@ The Stock Trader RI supports the following actions:
 
 The following illustration shows a high-level logical architecture view of the Stock Trader RI.
 
-![](https://msdn.microsoft.com/en-us/Ff921074.E5CF8E505A416744677BE5F7A2639BF0(en-us,PandP.40).png "Architectural view of the Stock Trader RI")
+![](images/architectural-view-of-the-stock-trader-ri(en-us,PandP.40).png "Architectural view of the Stock Trader RI")
 
 Architectural view of the Stock Trader RI
 
@@ -218,7 +218,7 @@ The following describes the main elements of the Stock Trader RI architecture:
 
 The Stock Trader RI is based on the Prism Library. The following illustration shows the Stock Trader RI (Desktop version) Solution Explorer.
 
-![](https://msdn.microsoft.com/en-us/Ff921074.BECD7F76C1540207E08C3C8B95BA6046(en-us,PandP.40).png "Stock Trader RI solution view")
+![](images/stock-trader-ri-solution-view(en-us,PandP.40).png "Stock Trader RI solution view")
 
 Stock Trader RI solution view
 
@@ -226,7 +226,7 @@ Stock Trader RI solution view
 
 The Stock Trader RI is a composite application, which is composed of a set of modules that are initialized at run time. The following illustration shows the application's startup process, which includes the initialization of modules. The next sections provide details about each of these steps.
 
-![](https://msdn.microsoft.com/en-us/Ff921074.0DCBE5079A4EF0EDCCFE3225C90CE38D(en-us,PandP.40).png "Stock Trader RI startup process")
+![](images/stock-trader-ri-startup-process(en-us,PandP.40).png "Stock Trader RI startup process")
 
 Stock Trader RI startup process
 
@@ -383,16 +383,16 @@ In the Stock Trader RI, the view and view model are connected through view disco
   }
 ```
 
-For more information about view discovery, see [Composing the User Interface](https://msdn.microsoft.com/en-us/library/ff921098(v=pandp.40)).
+For more information about view discovery, see [Composing the User Interface](/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 ## Commands
 
 Views can communicate with presenters and services in a loosely coupled fashion by using commands. The **Add To Watch List** control, as shown in the following illustration, uses the **AddWatchCommand**, which is a **DelegateCommand**, to notify the **WatchListService** whenever a new watch item is added.
 
 > [!NOTE]
-> The **DelegateCommand** is one kind of command that the Prism Library provides. For more information about commands in Prism, see [Commands](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40)#Commands) in [Implementing the MVVM Pattern](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40)).
+> The **DelegateCommand** is one kind of command that the Prism Library provides. For more information about commands in Prism, see [Commands](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)#Commands) in [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
-![](https://msdn.microsoft.com/en-us/Ff921074.64F005B3B303B8127ABD05377FB1CA4C(en-us,PandP.40).png "Add To Watch List control")
+![](images/watch-list-control(en-us,PandP.40).png "Add To Watch List control")
 
 Add To Watch List control
 
@@ -458,7 +458,7 @@ The **AddWatchButton** in the view then binds to the **AddWatchViewModel** comma
   </StackPanel>
 ```
 
-This is using an attached behavior on the **Add To Watch List** text box, so when the user enters a stock symbol and then presses ENTER**,** the **AddWatchCommand** will be invoked, thereby passing the stock symbol to the **WatchListService**. For more information about attached behaviors, see [Command Behaviors](https://msdn.microsoft.com/en-us/library/gg405494(v=pandp.40)#CommandBehaviors) in [Advanced MVVM Scenarios](https://msdn.microsoft.com/en-us/library/gg405494(v=pandp.40)).
+This is using an attached behavior on the **Add To Watch List** text box, so when the user enters a stock symbol and then presses ENTER**,** the **AddWatchCommand** will be invoked, thereby passing the stock symbol to the **WatchListService**. For more information about attached behaviors, see [Command Behaviors](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(v=pandp.40)#CommandBehaviors) in [Advanced MVVM Scenarios](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 ## Event Aggregator
 
@@ -579,12 +579,12 @@ You should see the reference implementation window and the tests automatically i
 
 To learn about other code samples included with Prism, see the following topics:
 
--  [Modularity QuickStarts](https://msdn.microsoft.com/en-us/library/ff921068(v=pandp.40))
--  [Interactivity QuickStart](https://msdn.microsoft.com/en-us/library/ff921081(v=pandp.40))
--  [MVVM QuickStart](https://msdn.microsoft.com/en-us/library/gg430857(v=pandp.40))
--  [Commanding QuickStart](https://msdn.microsoft.com/en-us/library/ff921082(v=pandp.40))
--  [UI Composition QuickStart](https://msdn.microsoft.com/en-us/library/ff921174(v=pandp.40))
--  [State-Based Navigation QuickStart](https://msdn.microsoft.com/en-us/library/gg405495(v=pandp.40))
--  [View-Switching Navigation QuickStart](https://msdn.microsoft.com/en-us/library/gg430881(v=pandp.40))
--  [Event Aggregation QuickStart](https://msdn.microsoft.com/en-us/library/ff921173(v=pandp.40))
+-  [Modularity QuickStarts](/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [Interactivity QuickStart](/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [MVVM QuickStart](/guide/mvvm-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [Commanding QuickStart](/guide/commanding-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [UI Composition QuickStart](/guide/ui-composition-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [State-Based Navigation QuickStart](/guide/state-based-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [View-Switching Navigation QuickStart](/guide/view-switching-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [Event Aggregation QuickStart](/guide/event-aggregation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
 

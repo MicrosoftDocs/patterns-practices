@@ -108,7 +108,7 @@ At the bottom of each QuickStart page is a text box that displays the log entrie
 
 The following illustration shows the main page of the Modularity with MEF QuickStart.
 
-![](https://msdn.microsoft.com/en-us/Ff921163.FE9891FFD5344A90F9F24FE7225894DA(en-us,PandP.40).png "Modularity QuickStart user interface - Silverlight version")
+![](images/quickstart-silverlight-version-1(en-us,PandP.40).png "Modularity QuickStart user interface - Silverlight version")
 
 Modularity QuickStart user interface - Silverlight version
 
@@ -139,7 +139,7 @@ To explore the scenario, perform the steps to build and run the QuickStart:
 
 1.  The main window shows a set of modules, each of which displays the module's initialization state. As the application starts, Module B and Module D start downloading, as shown in the following illustration.
 
-    ![](https://msdn.microsoft.com/en-us/Ff921163.FE9891FFD5344A90F9F24FE7225894DA(en-us,PandP.40).png "Main page of Modularity with MEF QuickStart – Silverlight version")
+    ![](images/quickstart-silverlight-version-2(en-us,PandP.40).png "Main page of Modularity with MEF QuickStart – Silverlight version")
 
     Main page of Modularity with MEF QuickStart – Silverlight version
 
@@ -150,21 +150,21 @@ To explore the scenario, perform the steps to build and run the QuickStart:
 
 2.  Hover over the Module A control. When the mouse hovers over the **Module A** control, a descriptive tooltip displays, as shown in the following illustration.
 
-    ![](https://msdn.microsoft.com/en-us/Ff921163.791CB9BFCC5361D43A68CB271AEE5E78(en-us,PandP.40).png "Module information  tooltip")
+    ![](images/module-information-tooltip(en-us,PandP.40).png "Module information  tooltip")
 
     Module information tooltip
 
 3.  As you hover the pointer over a module, a tooltip displays that shows information about its status, discovery, initialization, download timing, and dependencies.
 4.  Click the **Module C** control. As each module initialization state changes, the visual control is updated. When the **Module C** control is clicked, Module C loads, as shown in the following illustration.
 
-    ![](https://msdn.microsoft.com/en-us/Ff921163.FAF04F359BBF76F698306A5DEB647EBA(en-us,PandP.40).png "Screen shot of Module C loaded")
+    ![](images/quickstart-silverlight-version-3(en-us,PandP.40).png "Screen shot of Module C loaded")
 
     Screen shot of Module C loaded
 
 5.  Module B and Module D have downloaded and initialized. Module A also initialized right after its dependency, Module D, was initialized. Module C was clicked by the user. Because it was downloaded with the application, it is immediately initialized.
 6.  Click the **Module F** control. When the Module F control is clicked, Module E and Module F load, as shown in the following illustration.
 
-    ![](https://msdn.microsoft.com/en-us/Ff921163.82AF6FF2731E98A8DFFCE576427F2008(en-us,PandP.40).png "Screen shot of Module E getting loaded to load Module F")
+    ![](images/quickstart-silverlight-version-4(en-us,PandP.40).png "Screen shot of Module E getting loaded to load Module F")
 
     Screen shot of Module E getting loaded to load Module F
 
@@ -365,5 +365,5 @@ To learn about other QuickStarts included with Prism, see the following topics i
 -   State-Based Navigation QuickStart
 -   View-Switching Navigation QuickStart
 -   Event Aggregation QuickStart
--   [Multi-Targeting QuickStart](https://msdn.microsoft.com/en-us/library/ff921176(v=pandp.40)) (also available on MSDN)
+-   [Multi-Targeting QuickStart](/guide/multi-targeting-quickstart(v=pandp.40)) (also available on MSDN)
 

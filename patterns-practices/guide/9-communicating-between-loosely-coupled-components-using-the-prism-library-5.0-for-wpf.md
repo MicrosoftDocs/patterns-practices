@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921122(v=PandP.40)'
 
 # 9: Communicating Between Loosely Coupled Components Using the Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
 
 When building large complex WPF applications, a common approach is to divide the functionality into discrete module assemblies. It is also desirable to minimize the use of static references between these modules, which can be accomplished through the use of delegate commands, region context, shared services, and event aggregator. This allows the modules to be independently developed, tested, deployed, and updated, and it forces loosely coupled communication. This topic provides guidance when to use delegate commands and routed commands and when to use event aggregator and .NET framework events.
 
@@ -126,7 +126,7 @@ The following code example shows how to bind a button to the command in WPF.
 
 There are a lot of scenarios where you might want to share contextual information between the view that is hosting a region and a view that is inside a region. For example, a master detail–like view shows a business entity and exposes a region to show additional detail information for that business entity. The Prism Library uses a concept named **RegionContext** to share an object between the host of the region and any views that are loaded inside the region, as shown in the following illustration.
 
-![Using RegionContext](https://msdn.microsoft.com/en-us/Ff921122.B2FED17023B730FD0E23F2E9B81DE789(en-us,PandP.40).png "Using RegionContext")
+![images/using-region-context(en-us,PandP.40).png "Using RegionContext")
 
 Using RegionContext
 
@@ -176,7 +176,7 @@ One example of this, from the Stock Trader RI, is when the **Process Order** but
 
 Events created with the Prism Library are typed events. This means you can take advantage of compile-time type checking to detect errors before you run the application. In the Prism Library, the **EventAggregator** allows subscribers or publishers to locate a specific **EventBase**. The event aggregator also allows for multiple publishers and multiple subscribers, as shown in the following illustration.
 
-![](https://msdn.microsoft.com/en-us/Ff921122.5E93527B77AFC3B3576B1D5B5ADB0B14(en-us,PandP.40).png "Event aggregator")
+![](images/event-aggregator(en-us,PandP.40).png "Event aggregator")
 
 Event aggregator
 

@@ -7,11 +7,11 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921146(vPandP.40)'
 
 # 12: Patterns in the Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
 
 When you build applications, you typically encounter or employ patterns. In the Prism Library and example reference implementation, the guidance demonstrates the Adapter, Application Controller, Command, Composite and Composite View, Dependency Injection, Event Aggregator, Façade, Inversion of Control, Observer, Model-View-ViewModel (MVVM), Registry, Repository, Separated Interface, Plug-In, and Service Locator patterns that are briefly discussed in this appendix. The following illustration shows a typical composite application architecture using the Prism Library and some of the common patterns. A simpler application would likely encounter some of these patterns while using Prism, but not necessarily all of them.
 
-![](https://msdn.microsoft.com/en-us/Ff921146.64E2BE8FC764C086E6B74A0EDE3DAC88(en-us,PandP.40).png "Sample composite application architecture with common patterns")
+![](images/sample-composite-application-architecture(en-us,PandP.40).png "Sample composite application architecture with common patterns")
 
 Sample composite application architecture with common patterns
 
@@ -33,7 +33,7 @@ The Command pattern is a design pattern in which objects are used to represent a
 
 At the heart of a composite application is the ability to combine individual views into a composite view. Frequently, the composing view defines a layout for the child views. For example, the shell of the application may define a navigation area and content area to host child views at run time, as shown in the following illustration.
 
-![](https://msdn.microsoft.com/en-us/Ff921146.4AC6F9531F379AA9E8DF7E653206FA37(en-us,PandP.40).png "Composition example")
+![](images/composition-example(en-us,PandP.40).png "Composition example")
 
 Composition example
 

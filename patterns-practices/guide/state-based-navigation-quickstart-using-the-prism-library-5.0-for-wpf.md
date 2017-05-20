@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405495(v=PandP.40)'
 
 # State-Based Navigation QuickStart Using the Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
 
 The State-Based Navigation QuickStart sample demonstrates navigation using the WPF Visual State Manager (VSM) with the Model-View-ViewModel (MVVM) pattern and the Prism Library. This approach uses the Visual State Manager to define the different application states that the application has, define animations for both the states and the transitions between states; the animations associated to states are active while the state is active for the duration of the specified timeline.
 
@@ -17,7 +17,7 @@ One important aspect of application design is getting the navigation right. To d
 
 The main window of the State-Based Navigation QuickStart represents a subset of a chat application. This window shows the list of contacts of the user. The user can alternate among different views of their contacts: list, icons, or contact detail. The messages from the user's contacts are displayed as they arrive. In the detail view of a contact, you can send a message to that contact. The following illustration shows the QuickStart main window.
 
-![](https://msdn.microsoft.com/en-us/Gg405495.E7A4FA1CE92A85957BDCEE89981D5B4C(en-us,PandP.40).png "State-Based Navigation QuickStart user interface")
+![](images/state-based-navigation-quickstart-user-interface(en-us,PandP.40).png "State-Based Navigation QuickStart user interface")
 
 State-Based Navigation QuickStart user interface
 
@@ -35,7 +35,7 @@ The QuickStart ships as source code—this means you must compile it before you 
 
 The QuickStart highlights the key elements and considerations to implement an approach for navigation that uses the VSM. For more information about the VSM, see [VisualStateManager Class](http://msdn.microsoft.com/en-us/library/system.windows.visualstatemanager.aspx) on MSDN. In this QuickStart, most of the UI is in a few classes (the **ChatView** and **SendMessagePopupView** classes), and the visual states determine what is shown and how to go from one state to another. Some states change visibility of elements within the view, some states change enablement, and some states activate components. This section describes the key artifacts of the QuickStart, which are shown in the following illustration.
 
-![](https://msdn.microsoft.com/en-us/Gg405495.6AA7104972AA607F39C4DEE0ACCB9444(en-us,PandP.40).png "State-Based Navigation QuickStart conceptual view")
+![](images/state-based-navigation-quickstart-conceptual-view(en-us,PandP.40).png "State-Based Navigation QuickStart conceptual view")
 
 State-Based Navigation QuickStart conceptual view
 
@@ -46,7 +46,7 @@ Notice that the Extensible Application Markup Language (XAML) file contains seve
 
 The following illustration shows states of the application and what visual states are active to create them.
 
-![](https://msdn.microsoft.com/en-us/Gg405495.34DA64B46556383EC4B775F6BC91B9B1(en-us,PandP.40).png "Application states and their active visual states")
+![](images/application-states-and-their-active-visual-states(en-us,PandP.40).png "Application states and their active visual states")
 
 Application states and their active visual states
 
@@ -168,7 +168,7 @@ The states are grouped in different visual state groups. Only one state in a sta
 
 ## Interaction Requests
 
-Interaction requests provide an abstract approach for view models to request interaction with the user. For more information about interaction requests, see Using Interaction Request Objects in [Advanced MVVM Scenarios](https://msdn.microsoft.com/en-us/library/gg405494(v=pandp.40)).
+Interaction requests provide an abstract approach for view models to request interaction with the user. For more information about interaction requests, see Using Interaction Request Objects in [Advanced MVVM Scenarios](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 The QuickStart uses interaction requests for two different situations: receiving and sending messages:
 
@@ -325,17 +325,17 @@ You should see the QuickStart window and the tests automatically interact with t
 
 To learn about other navigation topics included with Prism, see the following topics:
 
--  [Navigation](https://msdn.microsoft.com/en-us/library/gg430861(v=pandp.40))
--  [View-Switching Navigation QuickStart](https://msdn.microsoft.com/en-us/library/gg430881(v=pandp.40))
+-  [Navigation](/guide/8-navigation-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [View-Switching Navigation QuickStart](/guide/view-switching-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
 
 To learn about other code samples included with Prism, see the following topics:
 
--  [Stock Trader Reference Implementation](https://msdn.microsoft.com/en-us/library/ff921074(v=pandp.40))
--  [Modularity QuickStarts](https://msdn.microsoft.com/en-us/library/ff921068(v=pandp.40))
--  [Interactivity QuickStart](https://msdn.microsoft.com/en-us/library/ff921081(v=pandp.40))
--  [MVVM QuickStart](https://msdn.microsoft.com/en-us/library/gg430857(v=pandp.40))
--  [Commanding QuickStart](https://msdn.microsoft.com/en-us/library/ff921082(v=pandp.40))
--  [UI Composition QuickStart](https://msdn.microsoft.com/en-us/library/ff921174(v=pandp.40))
--  [View-Switching Navigation](https://msdn.microsoft.com/en-us/library/gg430881(v=pandp.40))
--  [Event Aggregation QuickStart](https://msdn.microsoft.com/en-us/library/ff921173(v=pandp.40))
+-  [Stock Trader Reference Implementation](/guide/stock-trader-reference-implementation-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [Modularity QuickStarts](/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [Interactivity QuickStart](/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [MVVM QuickStart](/guide/mvvm-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [Commanding QuickStart](/guide/commanding-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [UI Composition QuickStart](/guide/ui-composition-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [View-Switching Navigation](/guide/view-switching-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [Event Aggregation QuickStart](/guide/event-aggregation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
 

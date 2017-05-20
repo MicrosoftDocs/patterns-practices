@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405479(v=PandP.40)'
 
 # 4: Modular Application Development Using Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
 
 A modular application is an application that is divided into a set of loosely coupled functional units (named modules) that can be integrated into a larger application. A client module encapsulates a portion of the application's overall functionality and typically represents a set of related concerns. It can include a collection of related components, such as application features, including user interface and business logic, or pieces of application infrastructure, such as application-level services for logging or authenticating users. Modules are independent of one another but can communicate with each other in a loosely coupled fashion. Using a modular application design makes it easier for you to develop, test, deploy, and maintain your application.
 
@@ -15,7 +15,7 @@ For example, consider a personal banking application. The user can access a vari
 
 The following illustration shows a design of a modular application with multiple modules.
 
-![](https://msdn.microsoft.com/en-us/Gg405479.FDBCCF188A40719622EB9AC60FBAB5B6(en-us,PandP.40).png "Module composition")
+![](images/module_composition(en-us,PandP.40).png "Module composition")
 
 Module composition
 
@@ -75,7 +75,7 @@ The module loading process in Prism includes the following:
 
 The following figure shows the module loading process.
 
-![](https://msdn.microsoft.com/en-us/Gg405479.7F2C990F3ADA75F0BBF5D884F6C68767(en-us,PandP.40).png "Module loading process")
+![](images/module_loading_process(en-us,PandP.40).png "Module loading process")
 
 Module loading process
 
@@ -154,11 +154,11 @@ When you develop your application in a modularized fashion, you structure the ap
 
 A module should encapsulate a set of related concerns and have a distinct set of responsibilities. A module can represent a vertical slice of the application or a horizontal service layer. Large applications will likely have both types of modules.
 
-![](https://msdn.microsoft.com/en-us/Gg405479.8190AAE2E77DB6B78B2EDE52B80BCBFC(en-us,PandP.40).png "An application with modules organized around vertical slices")
+![](images/module_organized_vertical_slices(en-us,PandP.40).png "An application with modules organized around vertical slices")
 
 An application with modules organized around vertical slices
 
-![](https://msdn.microsoft.com/en-us/Gg405479.F5068513C95BFD8F4407F70E90451A91(en-us,PandP.40).png "An application with modules organized around horizontal layers")
+![](images/module_organized_horizontal_slices(en-us,PandP.40).png "An application with modules organized around horizontal layers")
 
 An application with modules organized around horizontal layers
 
@@ -185,7 +185,7 @@ A module should use an independent mechanism to get instances of external interf
 
 The following diagram shows the typical sequence of operations when modules are loaded that need to acquire or register references to the components and services.
 
-![](https://msdn.microsoft.com/en-us/Gg405479.C178D110CDBD7ABB64DE1FDB8BABABED(en-us,PandP.40).png "Example of dependency injection")
+![](images/dependency_injection(en-us,PandP.40).png "Example of dependency injection")
 
 Example of dependency injection
 
@@ -582,7 +582,7 @@ If you are using MEF and the **ModuleExport** attribute for specifying modules a
 
 For more information about assembly caching, see "[How to: Use Assembly Library Caching](http://msdn.microsoft.com/en-us/library/dd833069(vs.95).aspx)" on MSDN.
 
-To learn more about modularity in Prism, see the Modularity with MEF for WPF QuickStart or the Modularity with Unity for WPF QuickStart. For more information about the QuickStarts, see [Modularity QuickStarts](https://msdn.microsoft.com/en-us/library/ff921068(v=pandp.40)).
+To learn more about modularity in Prism, see the Modularity with MEF for WPF QuickStart or the Modularity with Unity for WPF QuickStart. For more information about the QuickStarts, see [Modularity QuickStarts](/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
-For information about the modularity features that can be extended in the Prism Library, see [Modules](https://msdn.microsoft.com/en-us/library/gg430866(v=pandp.40)#Modules) in [Extending the Prism Library](https://msdn.microsoft.com/en-us/library/gg430866(v=pandp.40)).
+For information about the modularity features that can be extended in the Prism Library, see [Modules](/guide/15-extending-the-prism-library-5.0-for-wpf(v=pandp.40)#Modules) in [Extending the Prism Library](/guide/15-extending-the-prism-library-5.0-for-wpf(v=pandp.40)).
 

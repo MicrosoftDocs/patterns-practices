@@ -84,7 +84,7 @@ The following illustration shows the Solution Explorer view for the Multi-Target
 
 Shared files in the Multi-Targeting QuickStart
 
-![](https://msdn.microsoft.com/en-us/Ff921109.B797DC251AF61200B5C7992B5AA6297C(en-us,PandP.40).png "Shared files in the Multi-Targeting QuickStart")
+![](images/Multi-Targeting-QuickStart(en-us,PandP.40).png "Shared files in the Multi-Targeting QuickStart")
 
 ## Creating Multi-Targeted Applications
 
@@ -342,7 +342,7 @@ Silverlight is a cross-browser, cross-platform implementation of the .NET Framew
 
 Silverlight and WPF share many of the same features and capabilities, but they are built on top of different run-time stacks, as illustrated in the following image. WPF leverages the full .NET Framework and executes on the common language runtime (CLR). Silverlight is based on a subset of XAML and the full .NET Framework, and it executes on a different version of the CLR.
 
-![](https://msdn.microsoft.com/en-us/Ff921109.36CE2C87819AC8C49B86F0E4F783E65B(en-us,PandP.40).png "WPF and Silverlight")
+![](images/WPF-and-Silverlight(en-us,PandP.40).png "WPF and Silverlight")
 
 WPF and Silverlight
 

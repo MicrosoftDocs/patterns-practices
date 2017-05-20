@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921081(v=PandP.40)'
 
 # Interactivity QuickStart Using the Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
 
 The Interactivity QuickStart demonstrates how views and view models can interact with the user. This includes interactions triggered from the view model and interactions fired by controls located in the view. To handle these different interactions the Prism library provides **InteractionRequests** and **InteractionRequestTriggers**, along with the custom **InvokeCommandAction** action. InvokeCommandAction is used to connect a trigger including events to a WPF command.
 
@@ -19,7 +19,7 @@ The **Introduction** tab, contains information about the purposes of the QuickSt
 
 The following illustration shows the main page of the Interactivity QuickStart.
 
-![](https://msdn.microsoft.com/en-us/Ff921081.52C1990A61B7C95844251BF27A4FFFA3(en-us,PandP.40).png)
+![](images/interactivity_quickstart(en-us,PandP.40).png)
 
 Interactivity QuickStart user interface
 
@@ -82,7 +82,7 @@ The **InteractionRequestTrigger** has an associated **PopupWindowAction** provid
 
 As no custom window was specified in the example, the out-of-the-box popup window for Notifications will be used, as shown in the following figure.
 
-![](https://msdn.microsoft.com/en-us/Ff921081.640446946307D0B2FD243191B8A65B57(en-us,PandP.40).png "Default Notification View")
+![](images/default_notification(en-us,PandP.40).png "Default Notification View")
 
 Default Notification View
 
@@ -119,7 +119,7 @@ As this example uses the default popup window, the XAML definition is similar to
 
 The following figure shows the default Confirmation popup window.
 
-![](https://msdn.microsoft.com/en-us/Ff921081.DD4CBC06E9951BEB42CA7EF00CAD3366(en-us,PandP.40).png "Default Confirmation view")
+![](images/default_confirmation(en-us,PandP.40).png "Default Confirmation view")
 
 Default Confirmation view
 
@@ -150,7 +150,7 @@ The call to the **Raise** method of the interaction request instance is the same
 
 The following figures shows the custom pop-up window in action, which uses the **Notification** instance properties.
 
-![](https://msdn.microsoft.com/en-us/Ff921081.58DAF1378CAFC203DE37DCE0B9887FF5(en-us,PandP.40).png "A custom popup view")
+![](images/custom_popup(en-us,PandP.40).png "A custom popup view")
 
 A custom popup view
 
@@ -317,7 +317,7 @@ This way the parent view's view model and the popup window's view model are able
 
 In the following figure, you can see a custom popup view that provides a more complex functionality.
 
-![](https://msdn.microsoft.com/en-us/Ff921081.D0BC12E3199A44FA22BEE73702A82099(en-us,PandP.40).png "A custom popup view with a more complex interaction")
+![](images/item_selection_view(en-us,PandP.40).png "A custom popup view with a more complex interaction")
 
 A custom popup view with a more complex interaction
 
@@ -372,16 +372,16 @@ When you run the acceptance tests, you should see the QuickStart window and the 
 
 ## More Information
 
-To learn more about Interactivity, see [Composing the User Interface](https://msdn.microsoft.com/en-us/library/ff921098(v=pandp.40)).
+To learn more about Interactivity, see [Composing the User Interface](/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 To learn about other code samples included with Prism, see the following topics:
 
--  [Stock Trader Reference Implementation](https://msdn.microsoft.com/en-us/library/ff921074(v=pandp.40))
--  [Modularity QuickStarts](https://msdn.microsoft.com/en-us/library/ff921068(v=pandp.40))
--  [MVVM QuickStart](https://msdn.microsoft.com/en-us/library/gg430857(v=pandp.40))
--  [Commanding QuickStart](https://msdn.microsoft.com/en-us/library/ff921082(v=pandp.40))
--  [UI Composition QuickStart](https://msdn.microsoft.com/en-us/library/ff921174(v=pandp.40))
--  [State-Based Navigation QuickStart](https://msdn.microsoft.com/en-us/library/gg405495(v=pandp.40))
--  [View-Switching Navigation QuickStart](https://msdn.microsoft.com/en-us/library/gg430881(v=pandp.40))
--  [Event Aggregation QuickStart](https://msdn.microsoft.com/en-us/library/ff921173(v=pandp.40))
+-  [Stock Trader Reference Implementation](/guide/stock-trader-reference-implementation-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [Modularity QuickStarts](/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [MVVM QuickStart](/guide/mvvm-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [Commanding QuickStart](/guide/commanding-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [UI Composition QuickStart](/guide/ui-composition-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [State-Based Navigation QuickStart](/guide/state-based-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [View-Switching Navigation QuickStart](/guide/view-switching-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [Event Aggregation QuickStart](/guide/event-aggregation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
 

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430861(vPandP.40)'
 
 # 8: Navigation Using the Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
 
 As the user interacts with a rich client application, its user interface (UI) will be continuously updated to reflect the current task and data that the user is working on. The UI may undergo considerable changes over time as the user interacts with and completes various tasks within the application. The process by which the application coordinates these UI changes is often referred to as *navigation*. This topic describes how to implement navigation for composite Model-View-ViewModel (MVVM) applications using the Prism library.
 
@@ -43,7 +43,7 @@ The following sections describe the typical situations in which state-based navi
 
 Your application may often need to present the same data to the user, but in different formats or styles. In this case, you can use a state-based navigation within the view to switch between the different styles, potentially using an animated transition between them. For example, the State-Based Navigation QuickStart allows users to choose how their contacts are displayed—either as a simple text list or as avatars (icons). Users can switch between these visual representations by clicking the **List** button or the **Avatars** button. The view provides an animated transition between the two representations, as shown in the following illustration.
 
-![](https://msdn.microsoft.com/en-us/Gg430861.E70A1E2FB4C7F4FDDC829B6AFB58C26F(en-us,PandP.40).png "Contact view navigation in the State-Based Navigation QuickStart")
+![](images/contact-view-navigation-in-the-state-based-navigation-quickstart(en-us,PandP.40).png "Contact view navigation in the State-Based Navigation QuickStart")
 
 Contact view navigation in the State-Based Navigation QuickStart
 
@@ -62,7 +62,7 @@ As the user clicks the **Contacts** or **Avatar** radio buttons, the visual stat
 
 Another example of this style of navigation is shown by the State-Based Navigation QuickStart application when the user switches to the details views for the currently selected contact. The following illustration shows an example of this.
 
-![](https://msdn.microsoft.com/en-us/Gg430861.F339F5C8335CEE823754C00A191991A4(en-us,PandP.40).png "The Contact Details view in the State-Based Navigation QuickStart")
+![](images/the-contact-details-view-in-the-state-based-navigation-quickstart(en-us,PandP.40).png "The Contact Details view in the State-Based Navigation QuickStart")
 
 The Contact Details view in the State-Based Navigation QuickStart
 
@@ -72,7 +72,7 @@ Again, this can be easily implemented using the Blend **DataStateBehavior;** how
 
 Similarly, the view within an application may sometimes need to change its layout or style based on changes to an internal application state, which in turn is represented by a property on a view model. An example of this scenario is shown in the State-Based Navigation QuickStart where the user's connection status is represented on the Chat view model class using a **ConnectionStatus** property. As the user's connection status changes, the view is informed (via a property change notification event) allowing the view to visually represent the current connection state appropriately, as shown in the following illustration.
 
-![](https://msdn.microsoft.com/en-us/Gg430861.B20129C435640749BE5AB21165F11A80(en-us,PandP.40).png "Connection state representation in the State-Based Navigation QuickStart")
+![](images/connection-state-representation-in-the-state-based-navigation-quickstart(en-us,PandP.40).png "Connection state representation in the State-Based Navigation QuickStart")
 
 Connection state representation in the State-Based Navigation QuickStart
 
@@ -92,11 +92,11 @@ All the preceding examples involve defining visual states in the view and switch
 
 Frequently, an application will need to interact with the user in a limited way. In these situations, it is often more appropriate to interact with the user within the context of the current view, instead of navigating to a new view. For example, in the State-Based Navigation QuickStart, the user is able to send a message to a contact by clicking the **Send Message** button. The view then displays a pop-up window that allows the user to type the message, as shown in the following illustration. Because this interaction with the user is limited and logically takes place within the context of the parent view, it can be easily implemented as state-based navigation.
 
-![](https://msdn.microsoft.com/en-us/Gg430861.945A38725F5B8A7F6B2284316EBC9CFC(en-us,PandP.40).png "Interacting with the user using a pop-up window in the State-Based Navigation QuickStart")
+![](images/interacting-with-the-user-using-a-pop-up-window-in-the-state-based-navigation-quickstart(en-us,PandP.40).png "Interacting with the user using a pop-up window in the State-Based Navigation QuickStart")
 
 Interacting with the user using a pop-up window in the State-Based Navigation QuickStart
 
-To implement this behavior, the State-Based Navigation QuickStart implements a **SendMessage** command, which is bound to the **Send Message** button. When this command is invoked, the view model interacts with the view to display the pop-up window. This is achieved using the Interaction Request pattern described in [Implementing the MVVM Pattern](https://msdn.microsoft.com/en-us/library/gg405484(vpandp.40)).
+To implement this behavior, the State-Based Navigation QuickStart implements a **SendMessage** command, which is bound to the **Send Message** button. When this command is invoked, the view model interacts with the view to display the pop-up window. This is achieved using the Interaction Request pattern described in [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(vpandp.40)).
 
 The following code example shows how the view in the State-Based Navigation QuickStart application responds to the **SendMessageRequest** interaction request object provided by the view model. When the request event is received, the **SendMessageChildWindow** is displayed as a popup window.
 
@@ -169,7 +169,7 @@ View discovery is supported through the **RegisterViewWithRegion** method on the
 ```
 
 
-For a detailed overview of Prisms region support and information about how to leverage regions to compose the application's UI using view injection and discovery, see [Composing the User Interface](https://msdn.microsoft.com/en-us/library/ff921098(vpandp.40)). The rest of this topic describes how regions have been extended to support view-based navigation, and how this addresses the various challenges described earlier.
+For a detailed overview of Prisms region support and information about how to leverage regions to compose the application's UI using view injection and discovery, see [Composing the User Interface](/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf(vpandp.40)). The rest of this topic describes how regions have been extended to support view-based navigation, and how this addresses the various challenges described earlier.
 
 ### Basic Region Navigation
 
@@ -343,14 +343,14 @@ If the **IsNavigationTarget** method always returns **true**, regardless of the 
 
 You will often find that you will need to interact with the user during a navigation operation, so that the user can confirm or cancel it. In many applications, for example, the user may try to navigate while in the middle of entering or editing data. In these situations, you may want to ask the user whether he or she wants to save or discard the data that has been entered before continuing to navigate away from the page, or whether the user wants to cancel the navigation operation altogether. Prism supports these scenarios via the **IConfirmNavigationRequest** interface.
 
-The **IConfirmNavigationRequest** interface derives from the **INavigationAware** interface and adds the **ConfirmNavigationRequest** method. By implementing this interface on your view or view model class, you allow them to participate in the navigation sequence in a way that allows them to interact with the user so that the user can confirm or cancel the navigation. You will often use an **Interaction Request** object, as described in Using Interaction Request Objects in [Advanced MVVM Scenarios](https://msdn.microsoft.com/en-us/library/gg405494(vpandp.40)), to display a confirmation pop-up window.
+The **IConfirmNavigationRequest** interface derives from the **INavigationAware** interface and adds the **ConfirmNavigationRequest** method. By implementing this interface on your view or view model class, you allow them to participate in the navigation sequence in a way that allows them to interact with the user so that the user can confirm or cancel the navigation. You will often use an **Interaction Request** object, as described in Using Interaction Request Objects in [Advanced MVVM Scenarios](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(vpandp.40)), to display a confirmation pop-up window.
 
 > [!NOTE]
 > The **ConfirmNavigationRequest** method is called on the active view or view model, similar to the **OnNavigatedFrom** method described earlier.
 
 The **ConfirmNavigationRequest** method provides two parameters, a reference to the current navigation context as described earlier, and a callback method that you can call when you want navigation to continue. For this reason, the callback is known as a continuation callback. You can store a reference to the continuation callback so the application can call it after it finishes interacting with the user. If your application interacts with the user through an **Interaction Request** object, you can chain the call to the continuation callback to the callback from the interaction request. The following diagram illustrates the overall process.
 
-![](https://msdn.microsoft.com/en-us/Gg430861.430462631AB962DCCBCE65C298A2EED8(en-us,PandP.40).png "Confirming Navigation Using an InteractionRequest Object ")
+![](images/confirming-navigation-using-an-interactionrequest-object(en-us,PandP.40).png "Confirming Navigation Using an InteractionRequest Object ")
 
 Confirming Navigation Using an InteractionRequest Object
 
@@ -518,17 +518,17 @@ The WPF navigation framework is difficult to use to support the MVVM pattern and
 
 The following illustration provides an overview of the sequence of operations during a navigation operation. It is provided for reference so that you can see how the various elements of the Prism region navigation work together during a navigation request.
 
-![](https://msdn.microsoft.com/en-us/Gg430861.E8EAA02D7A2D9A1370C3BF6D79636697(en-us,PandP.40).png "Prism region navigation sequence")
+![](images/prism-region-navigation-sequence(en-us,PandP.40).png "Prism region navigation sequence")
 
 Prism region navigation sequence
 
 ## More Information
 
-For more information about Prism regions, see [Composing the User Interface](https://msdn.microsoft.com/en-us/library/ff921098(vpandp.40)).
+For more information about Prism regions, see [Composing the User Interface](/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf(vpandp.40)).
 
-For more information about the MVVM pattern and Interaction Request pattern, see [Implementing the MVVM Pattern](https://msdn.microsoft.com/en-us/library/gg405484(vpandp.40)) and [Advanced MVVM Scenarios](https://msdn.microsoft.com/en-us/library/gg405494(vpandp.40)).
+For more information about the MVVM pattern and Interaction Request pattern, see [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(vpandp.40)) and [Advanced MVVM Scenarios](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(vpandp.40)).
 
-For more information about the **Interaction Request** object, see Using Interaction Request Objects in [Advanced MVVM Scenarios](https://msdn.microsoft.com/en-us/library/gg405494(vpandp.40)).
+For more information about the **Interaction Request** object, see Using Interaction Request Objects in [Advanced MVVM Scenarios](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(vpandp.40)).
 
 For more information about the Visual State Manager, see [VisualStateManager Class](http://msdn.microsoft.com/en-us/library/cc626338(vvs.95).aspx) on MSDN.
 
@@ -536,4 +536,4 @@ For more information about using Microsoft Blend behaviors, see [Working with bu
 
 For more information about creating custom behaviors with Microsoft Blend, see [Creating Custom Behaviors](http://msdn.microsoft.com/en-us/library/ff724708(vexpression.40).aspx) on MSDN.
 
-Next Topic | Previous Topic | [Home](https://msdn.microsoft.com/en-us/library/gg406140) | [Community](https://compositewpf.codeplex.com/)
+Next Topic | Previous Topic | [Home](/guide/developers-guide-to-microsoft-prism) | [Community](https://compositewpf.codeplex.com/)

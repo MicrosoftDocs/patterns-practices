@@ -25,7 +25,7 @@ This QuickStart uses Project Linker to link files in WPF and Silverlight project
 
 The QuickStart is based on a real estate application as shown in the following figure. This window represents the results of a property search. It shows different characteristics of a selected property and includes a pie chart that shows the percentage of how much that property's characteristics match the search criteria.
 
-![](https://msdn.microsoft.com/en-us/Ff921176.5871E56086EBF0998CFA67538FF7CC3C(en-us,PandP.40).png "Multi-Targeting QuickStart – WPF version")
+![](images/multi-targeting-quickStart–wpf-version(en-us,PandP.40).png "Multi-Targeting QuickStart – WPF version")
 
 Multi-Targeting QuickStart – WPF version
 
@@ -49,7 +49,7 @@ To explore the scenario, perform the steps to build and run the QuickStart:
 
 1. The main window shows the results of the search, as illustrated in the following figure, which shows the Silverlight version of the QuickStart.
 
-  ![](https://msdn.microsoft.com/en-us/Ff921176.661DD2B3EF3E6E29AC9240C523DE9902(en-us,PandP.40).png "QuickStart main window – Silverlight Version")
+  ![](images/quickstart-main-window-silverlight-version(en-us,PandP.40).png "QuickStart main window – Silverlight Version")
 
   QuickStart main window – Silverlight Version
 
@@ -64,7 +64,7 @@ The QuickStart highlights the key implementation details of a multi-targeted app
 
 To follow the shared code/linked projects approach to achieve multi-targeting, structure your solution into two parts: WPF projects and Silverlight projects. To do this, it is recommended that you use Solution folders, as shown in the following figure.
 
-![](https://msdn.microsoft.com/en-us/Ff921176.CD3361EB5AF7F5AC1EBCFE750B404B9C(en-us,PandP.40).png "Multi-Targeting QuickStart solution structure")
+![](images/multi-targeting-quickstart-solution-structure(en-us,PandP.40).png "Multi-Targeting QuickStart solution structure")
 
 Multi-Targeting QuickStart solution structure
 
@@ -72,7 +72,7 @@ Inside each solution folder, create the corresponding projects. Each project in 
 
 To share the code, the common files are added as links in the target projects. To add a link from an existing file to a target project, right-click the target project, point to **Add**, and then click **Existing Item**. After you select the desired file, point to **Add** at the bottom of the dialog, and then click **Add As Link**, as shown in the following figure.
 
-![](https://msdn.microsoft.com/en-us/Ff921176.74EC57532F216550A2B2119C41AA4B3A(en-us,PandP.40).png "Adding an existing item as a link")
+![](images/adding-an-existing-item-as-a-link(en-us,PandP.40).png "Adding an existing item as a link")
 
 Adding an existing item as a link
 
@@ -101,7 +101,7 @@ The remaining partial class is environment-specific; consequently, the Silverlig
 The approach of splitting the implementation of a service over two partial classes (one for Silverlight and one for WPF) can be used to employ different coding strategies in WPF and Silverlight environments. Note that the service interacts with the rest of the core application through a common interface, so this technique is a mechanism to factor implementation level details into files that are only compiled for the intended environment.
 
 > [!NOTE]
-> This technique is useful for minor scale implementation differences between WPF and Silverlight. There are some scenarios where the differences between both environments are considerable enough to apply the aforementioned approach. For more information about multi-targeting considerations, see [Multi-Targeted Considerations](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)#MultiTargetedConsiderations)" in [Sharing Code Between Silverlight and WPF](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)).
+> This technique is useful for minor scale implementation differences between WPF and Silverlight. There are some scenarios where the differences between both environments are considerable enough to apply the aforementioned approach. For more information about multi-targeting considerations, see [Multi-Targeted Considerations](/guide/sharing-code-between-silverlight-and-wpf(v=pandp.40)#MultiTargetedConsiderations)" in [Sharing Code Between Silverlight and WPF](/guide/sharing-code-between-silverlight-and-wpf(v=pandp.40)).
 
 ## Shared Files
 
@@ -114,12 +114,12 @@ Multi-targeted code that is easily shared between both environments is typically
 
 The shared (linked) files are shown in the following figure.
 
-![](https://msdn.microsoft.com/en-us/Ff921176.B797DC251AF61200B5C7992B5AA6297C(en-us,PandP.40).png "Linked files shared between Silverlight and WPF projects")
+![](images/linked-files-shared-between-silverlight-and-wpf-projects(en-us,PandP.40).png "Linked files shared between Silverlight and WPF projects")
 
 Linked files shared between Silverlight and WPF projects
 
 > [!NOTE]
-> For more information about the elements that can be multi-targeted, see [Multi-Targeted Elements](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)#MultiTargetedElements) in [Sharing Code Between Silverlight and WPF](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)).
+> For more information about the elements that can be multi-targeted, see [Multi-Targeted Elements](/guide/sharing-code-between-silverlight-and-wpf(v=pandp.40)#MultiTargetedElements) in [Sharing Code Between Silverlight and WPF](/guide/sharing-code-between-silverlight-and-wpf(v=pandp.40)).
 
 ## Acceptance Tests
 
@@ -139,14 +139,14 @@ You should see the QuickStart window and the tests automatically interact with t
 
 For more information about the main feature differences between Silverlight and WPF, see [WPF Compatibility](http://msdn.microsoft.com/en-us/library/cc903925(vs.95).aspx) on MSDN.
 
-To learn more about building multi-targeting applications with Prism, see [Sharing Code Between Silverlight and WPF](https://msdn.microsoft.com/en-us/library/ff921109(v=pandp.40)).
+To learn more about building multi-targeting applications with Prism, see [Sharing Code Between Silverlight and WPF](/guide/sharing-code-between-silverlight-and-wpf(v=pandp.40)).
 
 You can download [Project Linker](http://visualstudiogallery.msdn.microsoft.com/en-us/5e730577-d11c-4f2e-8e2b-cbb87f76c044) from Visual Studio Gallery or open Visual Studio, click on **Tools**, point to **Extension Manager**, click on **Online Gallery**, and search for "Project Linker."
 
 To learn about other QuickStarts included with Prism, see the following topics in the [Prism4.pdf](http://compositewpf.codeplex.com/releases/view/55580):
 
 -  Modularity QuickStarts for WPF
--  [Modularity QuickStarts for Silverlight](https://msdn.microsoft.com/en-us/library/ff921163(v=pandp.40)) (also available on MSDN)
+-  [Modularity QuickStarts for Silverlight](/guide/modularity-quickstarts-for-silverlight(v=pandp.40)) (also available on MSDN)
 -  Basic MVVM QuickStart
 -  MVVM QuickStart
 -  Commanding QuickStart
