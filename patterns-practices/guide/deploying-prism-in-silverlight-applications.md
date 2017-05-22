@@ -23,7 +23,7 @@ As discussed in "[Modular Application Development](/guide/4-modular-application-
 
 As an example, consider the architecture of the Stock Trader Reference Implementation (Stock Trader RI). It consists of the shell application and four modules: position, watch, market, and news. Because the application was designed for all those features to "light up" at application start, the modules of the Stock Trader RI are all added statically. The Stock Trader RI shell application project has references to all the module assemblies as class libraries, and the modules are loaded through the **ModuleCatalog.AddModule** method during application startup in the bootstrapper. In this case, there is only a single XAP that results from the building of the StockTraderRI.Silverlight shell application project, and it contains the shell, the four modules, and the shared infrastructure class library, as shown in the following illustration. If you were deploying the StockTraderRI application, you would simply place that XAP file on your web server and set up the source parameter tag of your Silverlight plug-in object tag in the hosting page to point to that XAP file (typically in a \\ClientBin subfolder of your site, using an ASP.NET Web Application hosting project template).
 
-![](images/stock_trader_ri_xap_structure(en-us,PandP.40).png "Stock Trader RI XAP structure")
+![](images/stock_trader_ri_xap_structure.png "Stock Trader RI XAP structure")
 
 Stock Trader RI XAP structure
 
@@ -34,7 +34,7 @@ Notice in the following illustration that because the shell and each of the modu
 > [!NOTE]
 > If you plan to have your users install the application OOB, and you expect to deploy updates to your application after it is deployed, you will need to stick to putting all the modules in a single XAP file. The <strong>Application.CheckAndDownloadUpdateAsync</strong> method will only go out and update the main XAP file that the application was launched from.
 
-![](images/modified_stock_trader_ri_xap_structure(en-us,PandP.40).png)
+![](images/modified_stock_trader_ri_xap_structure.png)
 
 Modified Stock Trader RI XAP structure
 
@@ -78,7 +78,7 @@ To deploy a Silverlight application and the modules that are remotely loaded, th
 -   You can manually copy all the XAP files to a public folder on the web server.
 -   You can include the Silverlight XAP files in a web project or website and publish from Microsoft Visual Studio. To do this with a Web Application project, the project needs to be part of the same solution as the Silverlight projects that create the XAP files. You then add the Silverlight projects to the **Silverlight Applications** tab in the web project settings, as shown in the following illustration. A copy of the XAP files from the included Silverlight projects will be placed in a \\ClientBin subfolder of the published site. These files are synchronized in the web project each time you build.
 
-    ![](images/remote_modules_silverlight_applications(en-us,PandP.40).png "Adding the remote modules as Silverlight applications")
+    ![](images/remote_modules_silverlight_applications.png "Adding the remote modules as Silverlight applications")
 
     Adding the remote modules as Silverlight applications
 
