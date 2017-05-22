@@ -13,59 +13,106 @@ The [InvokeCommandAction](https://msdn.microsoft.com/en-us/library/microsoft.pra
 
 ## Properties
 
- 
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Dn683973.protproperty(en-us,PandP.50).gif "Protected property")
-AssociatedObject
-(Inherited from TriggerAction(Of [UIElement](http://msdn.microsoft.com/en-us/library/ms590078)).)
-![](https://msdn.microsoft.com/en-us/Dn683973.protproperty(en-us,PandP.50).gif "Protected property")
-AssociatedObjectTypeConstraint
-(Inherited from TriggerAction(Of [UIElement](http://msdn.microsoft.com/en-us/library/ms590078)).)
-![](https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif "Public property")
-[CanFreeze](http://msdn.microsoft.com/en-us/library/ms600923)
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683973.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
+<td>AssociatedObject</td>
+<td>(Inherited from TriggerAction&lt;(Of &lt;(<a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>&gt;)&gt;).)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683973.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
+<td>AssociatedObjectTypeConstraint</td>
+<td>(Inherited from TriggerAction&lt;(Of &lt;(<a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>&gt;)&gt;).)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms600923">CanFreeze</a></td>
+<td><div class="summary">
 Gets a value that indicates whether the object can be made unmodifiable.
-
-(Inherited from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734).)
-![](https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif "Public property")
-[Command](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.command(v=pandp.50))
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.invokecommandaction.command">Command</a></td>
+<td><div class="summary">
 Gets or sets the command to execute when invoked.
-
-![](https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif "Public property")
-[CommandParameter](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.commandparameter(v=pandp.50))
+</div></td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.invokecommandaction.commandparameter">CommandParameter</a></td>
+<td><div class="summary">
 Gets or sets the command parameter to supply on command execution.
-
-![](https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif "Public property")
-[DependencyObjectType](http://msdn.microsoft.com/en-us/library/ms600674)
-Gets the [DependencyObjectType](http://msdn.microsoft.com/en-us/library/ms589310) that wraps the CLR type of this instance. 
-
-(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)
-![](https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif "Public property")
-[Dispatcher](http://msdn.microsoft.com/en-us/library/ms605656)
-Gets the [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907) this [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925) is associated with.
-
-(Inherited from [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925).)
-![](https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif "Public property")
-[HasAnimatedProperties](http://msdn.microsoft.com/en-us/library/ms616442)
-Gets a value that indicates whether one or more [AnimationClock](http://msdn.microsoft.com/en-us/library/ms618394) objects is associated with any of this object's dependency properties.
-
-(Inherited from [Animatable](http://msdn.microsoft.com/en-us/library/ms618388).)
-![](https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif "Public property")
-IsEnabled
-(Inherited from TriggerAction.)
-![](https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif "Public property")
-[IsFrozen](http://msdn.microsoft.com/en-us/library/ms600924)
+</div></td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms600674">DependencyObjectType</a></td>
+<td><div class="summary">
+Gets the <a href="http://msdn.microsoft.com/en-us/library/ms589310">DependencyObjectType</a> that wraps the CLR type of this instance. 
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms605656">Dispatcher</a></td>
+<td><div class="summary">
+Gets the <a href="http://msdn.microsoft.com/en-us/library/ms615907">Dispatcher</a> this <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a> is associated with.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms616442">HasAnimatedProperties</a></td>
+<td><div class="summary">
+Gets a value that indicates whether one or more <a href="http://msdn.microsoft.com/en-us/library/ms618394">AnimationClock</a> objects is associated with any of this object's dependency properties.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>IsEnabled</td>
+<td>(Inherited from TriggerAction.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms600924">IsFrozen</a></td>
+<td><div class="summary">
 Gets a value that indicates whether the object is currently modifiable.
-
-(Inherited from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734).)
-![](https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif "Public property")
-[IsSealed](http://msdn.microsoft.com/en-us/library/ms600677)
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms600677">IsSealed</a></td>
+<td><div class="summary">
 Gets a value that indicates whether this instance is currently sealed (read-only).
-
-(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)
-![](https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif "Public property")
-[TriggerParameterPath](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.triggerparameterpath(v=pandp.50))
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.invokecommandaction.triggerparameterpath">TriggerParameterPath</a></td>
+<td><div class="summary">
 Gets or sets the TriggerParameterPath value.
+</div></td>
+</tr>
+</tbody>
+</table>
 
 ## See Also
 

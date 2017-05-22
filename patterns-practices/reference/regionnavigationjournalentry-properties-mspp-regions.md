@@ -11,15 +11,36 @@ The [RegionNavigationJournalEntry](https://msdn.microsoft.com/en-us/library/micr
 
 ## Properties
 
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Gg431217.pubproperty(en-us,PandP.50).gif "Public property")
-[Parameters](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournalentry.parameters(v=pandp.50))
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431217.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.regionnavigationjournalentry.parameters">Parameters</a></td>
+<td><div class="summary">
 Gets or sets the NavigationParameters instance.
-
-![](https://msdn.microsoft.com/en-us/Gg431217.pubproperty(en-us,PandP.50).gif "Public property")
-[Uri](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournalentry.uri(v=pandp.50))
+</div></td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431217.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.regionnavigationjournalentry.uri">Uri</a></td>
+<td><div class="summary">
 Gets or sets the URI.
+</div></td>
+</tr>
+</tbody>
+</table>
 
 ## See Also
 

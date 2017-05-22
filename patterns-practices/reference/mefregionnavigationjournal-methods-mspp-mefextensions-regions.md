@@ -11,58 +11,102 @@ The [MefRegionNavigationJournal](https://msdn.microsoft.com/en-us/library/micros
 
 ## Methods
  
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Gg431028.pubmethod(en-us,PandP.50).gif "Public method")
-[Clear](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournal.clear(v=pandp.50))
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431028.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionnavigationjournal.clear">Clear</a></td>
+<td><div class="summary">
 Clears the journal of current, back, and forward navigation histories.
-
-(Inherited from [RegionNavigationJournal](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournal(v=pandp.50)).)
-![](https://msdn.microsoft.com/en-us/Gg431028.pubmethod(en-us,PandP.50).gif "Public method")
-[Equals](http://msdn.microsoft.com/en-us/library/bsc2ak47)
-Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
-
-(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
-![](https://msdn.microsoft.com/en-us/Gg431028.protmethod(en-us,PandP.50).gif "Protected method")
-[Finalize](http://msdn.microsoft.com/en-us/library/4k87zsw7)
+</div>
+(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431028.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/bsc2ak47">Equals</a></td>
+<td><div class="summary">
+Determines whether the specified <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a> is equal to the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431028.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/4k87zsw7">Finalize</a></td>
+<td><div class="summary">
 Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
-
-(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
-![](https://msdn.microsoft.com/en-us/Gg431028.pubmethod(en-us,PandP.50).gif "Public method")
-[GetHashCode](http://msdn.microsoft.com/en-us/library/zdee4b3y)
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431028.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/zdee4b3y">GetHashCode</a></td>
+<td><div class="summary">
 Serves as a hash function for a particular type.
-
-(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
-![](https://msdn.microsoft.com/en-us/Gg431028.pubmethod(en-us,PandP.50).gif "Public method")
-[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)
-Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
-
-(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
-![](https://msdn.microsoft.com/en-us/Gg431028.pubmethod(en-us,PandP.50).gif "Public method")
-[GoBack](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournal.goback(v=pandp.50))
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431028.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/dfwy45w9">GetType</a></td>
+<td><div class="summary">
+Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431028.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionnavigationjournal.goback">GoBack</a></td>
+<td><div class="summary">
 Navigates to the most recent entry in the back navigation history, or does nothing if no entry exists in back navigation.
-
-(Inherited from [RegionNavigationJournal](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournal(v=pandp.50)).)
-![](https://msdn.microsoft.com/en-us/Gg431028.pubmethod(en-us,PandP.50).gif "Public method")
-[GoForward](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournal.goforward(v=pandp.50))
+</div>
+(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431028.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionnavigationjournal.goforward">GoForward</a></td>
+<td><div class="summary">
 Navigates to the most recent entry in the forward navigation history, or does nothing if no entry exists in forward navigation.
-
-(Inherited from [RegionNavigationJournal](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournal(v=pandp.50)).)
-![](https://msdn.microsoft.com/en-us/Gg431028.protmethod(en-us,PandP.50).gif "Protected method")
-[MemberwiseClone](http://msdn.microsoft.com/en-us/library/57ctke0a)
-Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
-
-(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
-![](https://msdn.microsoft.com/en-us/Gg431028.pubmethod(en-us,PandP.50).gif "Public method")
-[RecordNavigation](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournal.recordnavigation(v=pandp.50)))
+</div>
+(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431028.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/57ctke0a">MemberwiseClone</a></td>
+<td><div class="summary">
+Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431028.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionnavigationjournal.recordnavigation(microsoft.practices.prism.regions.iregionnavigationjournalentry)">RecordNavigation</a></td>
+<td><div class="summary">
 Records the navigation to the entry..
-
-(Inherited from [RegionNavigationJournal](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournal(v=pandp.50)).)
-![](https://msdn.microsoft.com/en-us/Gg431028.pubmethod(en-us,PandP.50).gif "Public method")
-[ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)
+</div>
+(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431028.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">ToString</a></td>
+<td><div class="summary">
 Returns a string that represents the current object.
-
-(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+</tr>
+</tbody>
+</table>
 
 ## See Also
 
