@@ -15,7 +15,7 @@ The Commanding QuickStart sample demonstrates how to build a Windows Presentatio
 
 The Commanding QuickStart is based on a fictitious product ordering system. The main window represents a subset of a larger system. In this window, the user can place customer orders and submit them. The following illustration shows the QuickStart's main window.
 
-![](images/commanding-quickstart(en-us,PandP.40).png "Commanding QuickStart")
+![](images/commanding-quickstart.png "Commanding QuickStart")
 
 Commanding QuickStart
 
@@ -33,7 +33,7 @@ This QuickStart requires Visual Studio 2012 or later and the .NET Framework 4.5.
 
 The QuickStart highlights the key implementation details of an application that uses commands. The following illustration shows the key artifacts in the application.
 
-![](images/composite-command(en-us,PandP.40).png "Commanding QuickStart conceptual view")
+![](images/composite-command.png "Commanding QuickStart conceptual view")
 
 Commanding QuickStart conceptual view
 
