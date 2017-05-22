@@ -34,7 +34,7 @@ Because the modules do not have dependencies between them, they are loaded and i
 The following illustration shows the QuickStart main window.
 
 
-![](images/View-Switching-Navigation-QuickStart(en-us,PandP.40).png "View-Switching Navigation QuickStart user interface")
+![](images/view-switching-navigation-quickstart.png "View-Switching Navigation QuickStart user interface")
 
 **View-Switching Navigation QuickStart user interface**
 
@@ -55,7 +55,7 @@ This QuickStart requires Microsoft Visual Studio 2012 or later and the .NET Fram
 
 The QuickStart highlights the key elements that you should consider when you use the navigation features provided by the Prism Library to implement navigation in a composite application. In this approach, the user interface is divided among different modules. Each module populates the navigation region on the left side, and participates in navigation to coordinate the view in the main content region on the right side. This section describes the key artifacts of the QuickStart. The following figure shows the workflow that occurs when a user navigates from one location to another.
 
-![](images/Prism-Region-Navigation-Workflow(en-us,PandP.40).png "Prism Region Navigation Workflow")
+![](images/prism-region-navigation-workflow.png "Prism Region Navigation Workflow")
 
 Prism Region Navigation Workflow
 
@@ -231,7 +231,7 @@ Because this QuickStart implements the MVVM pattern, the logic is located in the
 
 In the preceding code, using Prism's **NavigationParameters** class, the ID of a specific mail is specified. This class forms query parameters to be added to the queries by taking the name and the value of the parameter. The **ToString** method of this class is overridden to create a query string with all the specified parameters. This example shows how to use the **NavigationParameters** class to pass string parameters using the Query String, but it can also be used to pass object parameters, using an overload of the **RequestNavigate** method. Finally, the query is appended to the name of the view. The result will be similar to that shown in the following illustration.
 
-![](images/A-complex-URI-structure(en-us,PandP.40).png "A complex URI structure")
+![](images/a-complex-uri-structure.png "A complex URI structure")
 
 A complex URI structure
 
