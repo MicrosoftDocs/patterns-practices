@@ -21,7 +21,7 @@ An application UI can be built by using one of the following paradigms:
 
 The Stock Trader Reference Implementation (Stock Trader RI) is composed by loading multiple views that come from different modules into regions exposed by the shell, as shown in the following illustration.
 
-![](images/stock_trader_ri_regions_and_views(en-us,PandP.40).png "Stock Trader RI regions and views")
+![](images/stock_trader_ri_regions_and_views.png "Stock Trader RI regions and views")
 
 Stock Trader RI regions and views
 
@@ -112,7 +112,7 @@ Regions are enabled in the Prism Library through a region manager, regions, and 
 
 The **RegionManager** class is responsible for creating and maintaining a collection of regions for the host controls. The **RegionManager** uses a control-specific adapter that associates a new region with the host control. The following illustration shows the relationship between the region, control, and adapter set up by the **RegionManager**.
 
-![](images/region-control-and-adapter-relationship(en-us,PandP.40).png "Region, control, and adapter relationship")
+![](images/region-control-and-adapter-relationship.png "Region, control, and adapter relationship")
 
 Region, control, and adapter relationship
 
@@ -132,7 +132,7 @@ A region can contain zero or more items. Depending on the type of host control t
 
 In the following illustration, the Stock Trader RI shell contains four regions: **MainRegion**, **MainToolbarRegion**, **ResearchRegion**, and **ActionRegion**. These regions are populated by the various modules in the application—the content can be changed at any time.
 
-![](images/stock-trader-ri-regions(en-us,PandP.40).png)
+![](images/stock-trader-ri-regions.png)
 
 Stock Trader RI regions
 
@@ -144,7 +144,7 @@ The **MainRegion** contains the **WatchListView** user control, which is contain
 
 In applications created with the Prism Library, mappings like this will be a part of the design process because designers and developers use them to determine what content is proposed to be in a specific region. This allows designers to determine the overall space needed and any additional items that must be added to ensure that the content will be viewable in the allowable space.
 
-![](images/module-user-control-to-region-mapping(en-us,PandP.40).png)
+![](images/module-user-control-to-region-mapping.png)
 
 Module user control to region mapping
 
@@ -265,7 +265,7 @@ You can also have more than one shell in your application. If your application i
 
 The WPF Stock Trader RI has a shell as its main window. In the following illustration, the shell and views are highlighted. The shell is the main window that appears when the Stock Trader RI starts and which contains all the views. It defines the regions into which modules add their views and a couple of top-level UI items, including the CFI Stock Trader title and the Watch List tear-off banner.
 
-![](images/stock-trader-ri-shell-window(en-us,PandP.40).png "Stock Trader RI shell window, regions, and views")
+![](images/stock-trader-ri-shell-window.png "Stock Trader RI shell window, regions, and views")
 
 Stock Trader RI shell window, regions, and views
 
@@ -366,7 +366,7 @@ The shell of the application defines the application layout at the highest level
 
 A template shell
 
-![](images/template-shell(en-us,PandP.40).png "A template shell")
+![](images/template-shell.png "A template shell")
 
 Regions are sometimes used to define locations for multiple views that are logically related. In this scenario, the region control is typically an **ItemsControl**-derived control that will display the views according to the layout strategy that it implements, such as in a stacked or tabbed layout arrangement.
 
@@ -376,13 +376,13 @@ Regions can also be used to define a location for a single view; for example, by
 
 The Stock Trader RI shows the use of both the single view and the multiple view layout approaches. You can see both in the shell for the application, which defines locations for the application's high-level views. The following illustration shows the regions defined by the Stock Trader RI shell.
 
-![](images/stock-trader-ri-shell-regions(en-us,PandP.40).png "Stock Trader RI shell regions")
+![](images/stock-trader-ri-shell-regions.png "Stock Trader RI shell regions")
 
 Stock Trader RI shell regions
 
 A multiple-view layout is also demonstrated in the Stock Trader RI when the application is buying or selling a stock. The Buy/Sell area is a list-style region that shows multiple buy/sell views (**OrderCompositeView**) as part of its list, as shown in the following illustration.
 
-![](images/items-control-region(en-us,PandP.40).png "ItemsControl region")
+![](images/items-control-region.png "ItemsControl region")
 
 ItemsControl region
 
@@ -445,7 +445,7 @@ After the application is loaded, the composite view is notified to handle the pl
 
 The following illustration shows the view discovery approach.
 
-![](images/view-discovery(en-us,PandP.40).png "View discovery")
+![](images/view-discovery.png "View discovery")
 
 View discovery
 
@@ -471,7 +471,7 @@ The UI Composition QuickStart has a walkthrough in the EmployeeModule ModuleInit
 
 In the view injection approach, views are programmatically added or removed from a named location by the modules that manage them. To enable this, the application contains a registry of named locations in the UI. A module can use the registry to look up one of the locations and then programmatically inject views into it. To make sure that locations in the registry can be accessed similarly, each of the named locations adheres to a common interface used to inject the view. The following illustration shows the view injection approach.
 
-![](images/view-injection(en-us,PandP.40).png "View injection")
+![](images/view-injection.png "View injection")
 
 View injection
 
@@ -599,7 +599,7 @@ Scoped regions are available only with view injection. You should use them if yo
 
 Instead, use scoped regions so that each view will have its own **RegionManager** and its regions will be registered with that **RegionManager** rather than the parent **RegionManager**, as shown in the following illustration.
 
-![](images/parent-region-manager(en-us,PandP.40).png "Parent and scoped RegionManagers")
+![](images/parent-region-manager.png "Parent and scoped RegionManagers")
 
 Parent and scoped RegionManagers
 
@@ -619,7 +619,7 @@ The **Add** method will return the new **RegionManager** that the view can retai
 
 The visual representation of your application can take many forms, including user controls, custom controls, and data templates, to name a few. In the case of the Stock Trader RI, user controls are typically used to represent distinct sections on the main window, but this is not a standard. In your application, you should use an approach that you are most familiar with and that fits into how you work as a designer. Regardless of the predominating visual representation in your application, you will inevitably use a combination of user controls, custom controls, and data templates in your overall design. The following figure shows where the Stock Trader RI uses these various items. This illustration also serves as a reference for the following sections, which describe each of the items.
 
-![](images/user-controls-custom-controls-and-data-templates(en-us,PandP.40).png)
+![](images/user-controls-custom-controls-and-data-templates.png)
 
 Stock Trader RI usage of user controls, custom controls, and data templates
 
@@ -641,7 +641,7 @@ Blend for Visual Studio 2013 and Visual Studio 2013 have full visual design supp
 
 Resources such as styles, resource dictionaries, and control templates can be scattered throughout an application. This is especially true with a composite application. When you consider where to place resources, pay special attention to dependencies between UI elements and the resources they need. The Stock Trader RI solution, shown in the following figure, contains labels that indicate the various areas where resources can live.
 
-![](images/resource-distribution-across-solution(en-us,PandP.40).png)
+![](images/resource-distribution-across-solution.png)
 
 Resource distribution across a solution
 
@@ -681,11 +681,11 @@ The items cannot be seen during design time; therefore, determining how big they
 -  Consider using an expander and **ScrollViewer** combination for situations in which a large amount of dynamic content needs to fit into a confined area.
 -  Pay close attention to how content enlarges as the screen content grows to ensure that the appearance of your application is appealing in any resolution.
 
-![](images/stock-trader-ri-main-window-in-blend-for-visual-studio-2013(en-us,PandP.40).png "Stock Trader RI main window in Blend for Visual Studio 2013")
+![](images/stock-trader-ri-main-window-in-blend-for-visual-studio-2013.png "Stock Trader RI main window in Blend for Visual Studio 2013")
 
 Stock Trader RI main window in Blend for Visual Studio 2013
 
-![](images/stock-trader-ri-main-window-during_run_time(en-us,PandP.40).png)
+![](images/stock-trader-ri-main-window-during_run_time.png)
 
 Stock Trader RI main window during run time
 
@@ -792,19 +792,19 @@ The following table lists the main causes of poor design-time experiences. By av
 </tr>
 <tr class="even">
 <td><p>Spinning multiple threads at design time. For example, instantiating and starting a **Timer** in a constructor or **Loaded** event at design time.</p></td>
-<td><p>![](images/avoid-code(en-us,PandP.40).png)</p></td>
-<td><p>![](images/avoid-code(en-us,PandP.40).png)</p></td>
+<td><p>![](images/avoid-code.png)</p></td>
+<td><p>![](images/avoid-code.png)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Using controls that cause stack overflows at design time.</p>
 <p>Using controls that attempt to recursively load themselves.</p></td>
-<td><p>![](images/avoid-code(en-us,PandP.40).png)</p></td>
-<td><p>![](images/avoid-code(en-us,PandP.40).png)</p></td>
+<td><p>![](images/avoid-code.png)</p></td>
+<td><p>![](images/avoid-code.png)</p></td>
 </tr>
 <tr class="even">
 <td><p>Throwing null reference exceptions in converters or data template selectors.</p></td>
-<td><p>![](images/avoid-code(en-us,PandP.40).png)</p></td>
-<td><p>![](images/avoid-code(en-us,PandP.40).png)</p></td>
+<td><p>![](images/avoid-code.png)</p></td>
+<td><p>![](images/avoid-code.png)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Throwing null reference or other exceptions in constructors. These are caused by:</p>
@@ -812,23 +812,23 @@ The following table lists the main causes of poor design-time experiences. By av
 <li>Using code that calls into the business or data layers to return data from a database or over the network at design time.</li>
 <li>Attempting to resolve dependencies by using MEF, inversion of control (IoC), or a Service Locator before bootstrapping or container initialization code has run.</li>
 </ul></td>
-<td><p>![](images/avoid-code(en-us,PandP.40).png)</p></td>
-<td><p>![](images/avoid-code(en-us,PandP.40).png)</p></td>
+<td><p>![](images/avoid-code.png)</p></td>
+<td><p>![](images/avoid-code.png)</p></td>
 </tr>
 <tr class="even">
 <td><p>Throwing null reference or other exceptions inside the **Loaded** events of controls or user controls. This happens when you make assumptions about the state of the control that might be true at run time but are not true at design time.</p></td>
-<td><p>![](images/avoid-code(en-us,PandP.40).png)</p></td>
-<td><p>![](images/avoid-code(en-us,PandP.40).png)</p></td>
+<td><p>![](images/avoid-code.png)</p></td>
+<td><p>![](images/avoid-code.png)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Attempting to access the **Application** or **Application.Current** object at design time.</p></td>
-<td><p>![](images/avoid-code(en-us,PandP.40).png)</p></td>
-<td><p>![](images/avoid-code(en-us,PandP.40).png)</p></td>
+<td><p>![](images/avoid-code.png)</p></td>
+<td><p>![](images/avoid-code.png)</p></td>
 </tr>
 <tr class="even">
 <td><p>Creating very large projects.</p></td>
-<td><p>![](images/approve-code(en-us,PandP.40).png)" /></p></td>
-<td><p>![](images/avoid-code(en-us,PandP.40).png)</p></td>
+<td><p>![](images/approve-code.png)" /></p></td>
+<td><p>![](images/avoid-code.png)</p></td>
 </tr>
 </tbody>
 </table>
@@ -853,7 +853,7 @@ Both Blend and Visual Studio use mockups of the root object displayed in a desig
 
 In the following illustration, the root **Windows** constructor and **Loaded** event code will not be executed. The child user controls constructor and **Loaded** event code will be executed.
 
-![](images/child-user-control(en-us,PandP.40).png)
+![](images/child-user-control.png)
 
 These concepts are important, especially if you are building composite applications or applications that are built dynamically at run time.
 
@@ -1064,19 +1064,19 @@ When you use Visual Studio 2013 to add a sample data file, you typically add a n
 </tbody>
 </table>
 
-![](images/sample-data-file-properties(en-us,PandP.40).png "Sample data file properties")
+![](images/sample-data-file-properties.png "Sample data file properties")
 
 Sample data file properties
 
 Expression Blend provides tooling for quickly creating and binding XAML sample data. The XAML sample data can be used and viewed in the Visual Studio 2013 designer, as shown in the following illustration.
 
-![](images/sample-data-in-Blend-for-visual-studio-2013(en-us,PandP.40).png "Defining sample data in Blend for Visual Studio 2013")
+![](images/sample-data-in-Blend-for-visual-studio-2013.png "Defining sample data in Blend for Visual Studio 2013")
 
 Defining sample data in Blend for Visual Studio 2013
 
 After it generates the sample data, the data will appear in the Data pane, as shown in the following illustration.
 
-![](images/data-pane(en-us,PandP.40).png "Data pane")
+![](images/data-pane.png "Data pane")
 
 Data pane
 
