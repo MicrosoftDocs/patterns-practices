@@ -15,7 +15,7 @@ The UI Composition QuickStart sample illustrates how to use both the view discov
 
 The UI Composition QuickStart is based on a fictitious resource management system. The main window represents a subset of a larger system. In this window, the user can review detailed information about employees of a company, update their contact information, and view the projects each employee is assigned to. The following illustration shows the QuickStart's main window.
 
-![](images/UI-Composition-QuickStart(en-us,PandP.40).png "UI Composition QuickStart")
+![](images/ui-composition-quickstart.png "UI Composition QuickStart")
 
 UI Composition QuickStart
 
@@ -33,7 +33,7 @@ This QuickStart requires Visual Studio 2012 or later and the .NET Framework 4.5.
 
 The QuickStart highlights the key implementation details of an application that uses regions, using both the view discovery and view injection approaches to composition. The following illustration shows the key artifacts in the application.
 
-![](images/UI-Composition-QuickStart-conceptual-view(en-us,PandP.40).png "UI Composition QuickStart conceptual view")
+![](images/ui-composition-quickstart-conceptual-view.png "UI Composition QuickStart conceptual view")
 
 UI Composition QuickStart conceptual view
 
