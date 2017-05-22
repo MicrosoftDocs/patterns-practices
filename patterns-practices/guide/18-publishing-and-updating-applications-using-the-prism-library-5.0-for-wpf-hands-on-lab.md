@@ -74,7 +74,7 @@ The following procedure describes how to configure the ClickOnce publish setting
 
 1. In Visual Studio, open the project properties for the ModularityWithUnity.Desktop WPF project. To do this, right-click the project in Solution Explorer, and then click **Properties**. In the project settings, click the **Publish** tab. The ClickOnce publishing settings will be shown, as in the following illustration.
 
-  ![](images/clickonce-publish-settings.png"ClickOnce publish settings")
+  ![](images/clickonce-publish-settings.png "ClickOnce publish settings")
 
   ClickOnce publish settings
 

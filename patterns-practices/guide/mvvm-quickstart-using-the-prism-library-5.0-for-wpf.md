@@ -24,7 +24,7 @@ This QuickStart leads you through the following steps:
 
 The main window of the Basic MVVM Application QuickStart represents a subset of a survey application. In this window, an empty survey with different types of questions is shown; and there is a button to submit the questionnaires. The following illustration shows the QuickStart main window.
 
-![](images/mvvm_quickstart-user-interface(en-us,PandP.40).png "MVVM QuickStart user interface")
+![](images/mvvm_quickstart-user-interface.png "MVVM QuickStart user interface")
 
 MVVM QuickStart user interface
 

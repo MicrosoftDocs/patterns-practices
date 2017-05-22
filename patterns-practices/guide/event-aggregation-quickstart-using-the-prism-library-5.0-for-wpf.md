@@ -15,7 +15,7 @@ The Event Aggregation QuickStart sample demonstrates how to build a composite ap
 
 The main window of the Event Aggregation QuickStart represents a subset of a fictitious financial system. In this window, users can add funds to customers and see the activity log for each customer. The following illustration shows the QuickStart main window.
 
-![](images/event-aggregation-quickStart-user-interface(en-us,PandP.40).png "Event Aggregation QuickStart user interface")
+![](images/event-aggregation-quickStart-user-interface.png "Event Aggregation QuickStart user interface")
 
 Event Aggregation QuickStart user interface
 
@@ -33,7 +33,7 @@ This QuickStart requires Visual Studio 2012 or later and the .NET Framework 4.5.
 
 The QuickStart highlights the key elements that interact when using the Event Aggregator service. This section describes the key artifacts of the QuickStart, which are shown in the following illustration.
 
-![](images/event-aggregation-quickStart-conceptual-view(en-us,PandP.40).png "Event Aggregation QuickStart conceptual view")
+![](images/event-aggregation-quickStart-conceptual-view.png "Event Aggregation QuickStart conceptual view")
 
 Event Aggregation QuickStart conceptual view
 

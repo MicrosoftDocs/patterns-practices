@@ -80,7 +80,7 @@ The following table contains Prism download links to help you get started with P
 </tr>
 <tr class="odd">
 <td><p>Book</p></td>
-<td><p><a href="http://shop.oreilly.com/product/0790145315496.do"><img src="images/order-book(en-us,PandP.40).png" alt="book"/></a></p>
+<td><p>[![](images/order-book.png "book")](http://shop.oreilly.com/product/0790145315496.do)</a></p>
 <p><a href="http://shop.oreilly.com/product/0790145315496.do">Buy book</a></p></td>
 </tr>
 <tr class="even">

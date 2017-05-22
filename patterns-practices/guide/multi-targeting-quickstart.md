@@ -25,7 +25,7 @@ This QuickStart uses Project Linker to link files in WPF and Silverlight project
 
 The QuickStart is based on a real estate application as shown in the following figure. This window represents the results of a property search. It shows different characteristics of a selected property and includes a pie chart that shows the percentage of how much that property's characteristics match the search criteria.
 
-![](images/multi-targeting-quickStart–wpf-version(en-us,PandP.40).png "Multi-Targeting QuickStart – WPF version")
+![](images/multi-targeting-quickStart-wpf-version.png "Multi-Targeting QuickStart – WPF version")
 
 Multi-Targeting QuickStart – WPF version
 
@@ -49,7 +49,7 @@ To explore the scenario, perform the steps to build and run the QuickStart:
 
 1. The main window shows the results of the search, as illustrated in the following figure, which shows the Silverlight version of the QuickStart.
 
-  ![](images/quickstart-main-window-silverlight-version(en-us,PandP.40).png "QuickStart main window – Silverlight Version")
+  ![](images/quickstart-main-window-silverlight-version.png "QuickStart main window – Silverlight Version")
 
   QuickStart main window – Silverlight Version
 
@@ -64,7 +64,7 @@ The QuickStart highlights the key implementation details of a multi-targeted app
 
 To follow the shared code/linked projects approach to achieve multi-targeting, structure your solution into two parts: WPF projects and Silverlight projects. To do this, it is recommended that you use Solution folders, as shown in the following figure.
 
-![](images/multi-targeting-quickstart-solution-structure(en-us,PandP.40).png "Multi-Targeting QuickStart solution structure")
+![](images/multi-targeting-quickstart-solution-structure.png "Multi-Targeting QuickStart solution structure")
 
 Multi-Targeting QuickStart solution structure
 
@@ -72,7 +72,7 @@ Inside each solution folder, create the corresponding projects. Each project in 
 
 To share the code, the common files are added as links in the target projects. To add a link from an existing file to a target project, right-click the target project, point to **Add**, and then click **Existing Item**. After you select the desired file, point to **Add** at the bottom of the dialog, and then click **Add As Link**, as shown in the following figure.
 
-![](images/adding-an-existing-item-as-a-link(en-us,PandP.40).png "Adding an existing item as a link")
+![](images/adding-an-existing-item-as-a-link.png "Adding an existing item as a link")
 
 Adding an existing item as a link
 
@@ -114,7 +114,7 @@ Multi-targeted code that is easily shared between both environments is typically
 
 The shared (linked) files are shown in the following figure.
 
-![](images/linked-files-shared-between-silverlight-and-wpf-projects(en-us,PandP.40).png "Linked files shared between Silverlight and WPF projects")
+![](images/linked-files-shared-between-silverlight-and-wpf-projects.png "Linked files shared between Silverlight and WPF projects")
 
 Linked files shared between Silverlight and WPF projects
 
