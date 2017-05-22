@@ -126,7 +126,7 @@ The following code example shows how to bind a button to the command in WPF.
 
 There are a lot of scenarios where you might want to share contextual information between the view that is hosting a region and a view that is inside a region. For example, a master detail–like view shows a business entity and exposes a region to show additional detail information for that business entity. The Prism Library uses a concept named **RegionContext** to share an object between the host of the region and any views that are loaded inside the region, as shown in the following illustration.
 
-![images/using-region-context.png "Using RegionContext")
+![](images/using-region-context.png "Using RegionContext")
 
 Using RegionContext
 
