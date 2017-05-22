@@ -61,7 +61,7 @@ The following procedure describes how to create a solution with a shell project.
 
     Visual Studio will create the HelloWorld.Silverlight project and the HelloWorld.Silverlight.Web ASP.NET web application project, as shown in the following illustration. The first project will be the shell project of your application and the second will be a web project that will host the Silverlight application.
 
-    ![](images/HelloWorld-project(en-us,PandP.40).png "HelloWorld project")
+    ![](images/helloworld-project.png "HelloWorld project")
 
     HelloWorld project
 
@@ -84,7 +84,7 @@ The following procedure explains how to set up the shell.
 1.  In Solution Explorer, rename the file MainPage.xaml to Shell.xaml.
 2.  Open the code-behind file Shell.xaml.cs and rename the **MainPage** class to **Shell** using the Visual Studio refactoring tools. To do this, right-click **MainPage** in the class signature, point to **Refactor**, and then click **Rename**, as shown in the following illustration. In the **Rename** dialog box, type **Shell** as the new name, and then click **OK**. If the **Preview Changes – Rename** dialog box appears, click **Apply**.
 
-    ![](images/Page-renaming-using-Visual-Studio-refactoring-tools(en-us,PandP.40).png "Page renaming using Visual Studio refactoring tools")
+    ![](images/page-renaming-using-visual-studio-refactoring-tools.png "Page renaming using Visual Studio refactoring tools")
 
     Page renaming using Visual Studio refactoring tools
 
@@ -206,7 +206,7 @@ The following procedure explains how to set up the application's bootstrapper.
 
 8.  Build and run the application. You should see an empty Hello World window, as shown in the following illustration.
 
-    ![](images/Hello-World-windowen-us,PandP.40).png "Hello World window")
+    ![](images/hello-world-window.png "Hello World window")
 
     Hello World window
 
@@ -223,7 +223,7 @@ The following procedure describes how to create a module.
 
 1.  Add a new Silverlight class library project to your solution. To do this, right-click the **HelloWorld.Silverlight** solution node in Solution Explorer, point to **Add**, and then click **New Project**. In the **Project types** list, select **Silverlight** in the **Visual C#** node. In the **Templates** box, click **Silverlight Class Library**. Finally, set the project's name to HelloWorldModule, and then click **OK**. The following illustration shows your solution.
 
-    ![](images/Solution-with-a-module-named-HelloWorldModule(en-us,PandP.40).png "Solution with a module named HelloWorldModule")
+    ![](images/solution-with-a-module-named-helloworldmodule.png "Solution with a module named HelloWorldModule")
 
     Solution with a module named HelloWorldModule
 
@@ -261,7 +261,7 @@ The following procedure describes how to create a module.
 
     The following illustration shows the solution with the **HelloWorldModule** module.
 
-    ![](images/Solution-with-the-HelloWorldModule(en-us,PandP.40).png "Solution with the HelloWorldModule")
+    ![](images/solution-with-the-helloworldmodule.png "Solution with the HelloWorldModule")
 
     Solution with the HelloWorldModule
 
@@ -397,7 +397,7 @@ The region manager service is responsible for maintaining a collection of region
 
 6.  Build and run the application. You should see the Hello World window with a "Hello World" message, as shown in the following illustration.
 
-    ![](images/Hello-World-message(en-us,PandP.40).png "Hello World message")
+    ![](images/hello-world-message.png "Hello World message")
 
     Hello World message
 
