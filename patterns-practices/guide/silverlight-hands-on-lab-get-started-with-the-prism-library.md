@@ -349,7 +349,7 @@ The following procedure describes how to create a view.
 3.  Save the file.
 
 > [!NOTE]
-> To keep this hands-on lab simple, the procedure did not explain how to create a view following the Model-View-ViewModel (MVVM) pattern. For more information about the MVVM pattern, see "[Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40))."
+> To keep this hands-on lab simple, the procedure did not explain how to create a view following the Model-View-ViewModel (MVVM) pattern. For more information about the MVVM pattern, see "[Implementing the MVVM Pattern](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf)."
 
 ## Region Manager
 
@@ -411,7 +411,7 @@ To create a Hello World application using WPF, see "WPF Hands-On Lab: Get Starte
 To learn about other QuickStarts included with Prism, see the following topics in the [Prism4.pdf](http://compositewpf.codeplex.com/releases/view/55580):
 
 -   Modularity QuickStarts for WPF
--   [Modularity QuickStarts for Silverlight](/guide/modularity-quickstarts-for-silverlight(v=pandp.40)) (also available on MSDN)
+-   [Modularity QuickStarts for Silverlight](/patterns-practices/guide/modularity-quickstarts-for-silverlight) (also available on MSDN)
 -   Basic MVVM QuickStart
 -   MVVM QuickStart
 -   Commanding QuickStart
@@ -419,5 +419,5 @@ To learn about other QuickStarts included with Prism, see the following topics i
 -   State-Based Navigation QuickStart
 -   View-Switching Navigation QuickStart
 -   Event Aggregation QuickStart
--   [Multi-Targeting QuickStart](/guide/multi-targeting-quickstart(v=pandp.40)) (also available on MSDN)
+-   [Multi-Targeting QuickStart](/patterns-practices/guide/multi-targeting-quickstart) (also available on MSDN)
 

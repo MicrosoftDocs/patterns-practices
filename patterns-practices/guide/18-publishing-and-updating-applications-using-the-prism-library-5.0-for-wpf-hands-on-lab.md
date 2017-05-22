@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405497(v=PandP.40)'
 
 # Publishing and Updating Applications Using the Prism Library 5.0 for WPF Hands-on Lab
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/guide/developers-guide-to-microsoft-prism)
 
 In this lab, you will learn how to publish, deploy, and update a composite Prism Windows Presentation Foundation (WPF) application that uses dynamic module loading with ClickOnce. After completing this lab, you will be able to do the following:
 
@@ -43,7 +43,7 @@ This topic requires you to have Prism and the Prism QuickStarts in the default i
 Additionally, this lab uses the Manifest Manager Utility, which is available on the Prism CodePlex site at <http://compositewpf.codeplex.com/releases/view/14771> in the **Download** section. You will need to download and extract the source code for that utility, and build it to use it later in the lab. You can either run it from a separate instance of Visual Studio or you can build once and just run the binaries for the second task in this lab.
 
 > [!NOTE]
-> This hands-on lab assumes that you understand Prism modularity and deployment concepts. For more information, see [Modular Application Development](/guide/4-modular-application-development-using-prism-library-5.0-for-wpf(v=pandp.40)) and [Deploying Applications](/guide/10-deploying-applications-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+> This hands-on lab assumes that you understand Prism modularity and deployment concepts. For more information, see [Modular Application Development](/patterns-practices/guide/4-modular-application-development-using-prism-library-5.0-for-wpf(v=pandp.40)) and [Deploying Applications](/patterns-practices/guide/10-deploying-applications-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 ## Procedures
 
@@ -271,4 +271,4 @@ In this task, you will launch the application as the client computer and see tha
 
 You should see the modified title on the application after it has launched.
 
-Next Topic | Previous Topic | [Home](/guide/developers-guide-to-microsoft-prism) | [Community](https://compositewpf.codeplex.com/)
+Next Topic | Previous Topic | [Home](/patterns-practices/guide/developers-guide-to-microsoft-prism) | [Community](https://compositewpf.codeplex.com/)

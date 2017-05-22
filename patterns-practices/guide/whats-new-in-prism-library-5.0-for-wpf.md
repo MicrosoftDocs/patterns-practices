@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430871(v=PandP.40)'
 
 # What's New in Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
 Prism 5.0 includes guidance in several new areas, resulting in new code in the Prism Library for WPF, new and updated QuickStarts, and updated documentation. Parts of the Prism Library changed between Prism 4.1 and Prism 5.0 to support the new guidance, fix existing issues, and respond to community requests.
 
@@ -18,10 +18,10 @@ Prism 5.0 includes guidance in several new areas, resulting in new code in the P
 
 Prism 5.0 contains several areas of new guidance as follows:
 
--   **Prism.Mvvm** is a portable class library that encapsulates Prism’s MVVM support. This library includes **ViewModelLocationProvider**. Views and view models can be wired up together using the new **ViewModelLocationProvider**’s convention-based approach as explained in [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)). View model construction can be accomplished using a dependency injection container. The ViewModel Locator’s extensibility points are discussed in [Extending the Prism Library](/guide/15-extending-the-prism-library-5.0-for-wpf(v=pandp.40)). **DelegateCommands** are now extendable and provide Async support. A new implementation of the **INotifyPropertyChanged** interface, the **BindabaleBase** class, was added.
+-   **Prism.Mvvm** is a portable class library that encapsulates Prism’s MVVM support. This library includes **ViewModelLocationProvider**. Views and view models can be wired up together using the new **ViewModelLocationProvider**’s convention-based approach as explained in [Implementing the MVVM Pattern](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf). View model construction can be accomplished using a dependency injection container. The ViewModel Locator’s extensibility points are discussed in [Extending the Prism Library](/patterns-practices/guide/15-extending-the-prism-library-5.0-for-wpf). **DelegateCommands** are now extendable and provide Async support. A new implementation of the **INotifyPropertyChanged** interface, the **BindabaleBase** class, was added.
 -   **The PopupWindowAction** class was added to the **Prism.Interactivity** assembly to open a custom window in response to an interaction request being raised.
     The **InvokeCommandAction** action provided by Prism now passes trigger parameters to the associated command.
-    For more information see [Advanced MVVM Scenarios](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+    For more information see [Advanced MVVM Scenarios](/patterns-practices/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf).
 -   The **EventAggregator** classes have been moved to the **Prism.PubSubEvents** portable class library.
 -   The **NavigationParameters** class can now be used to pass object parameters during navigation, using the overloads of the **RequestNavigate** method of a **Region** or **RegionManager** instance.
 
@@ -94,10 +94,10 @@ The following samples were added for Prism 5.0:
 -   **Basic MVVM QuickStart**. This QuickStart shows a very simple MVVM application that uses the **ViewModel** Locator and show a parent and child **ViewModels**. For more information, see the MVVM QuickStart**.**
 -   **MVVM QuickStart**. This QuickStart was removed for this version.
 -   **MVVM Reference Implementation**. This reference implementation was removed for this version.
--   **View-Switching Navigation QuickStart**. This QuickStart now supports WPF. It demonstrates how to use the Prism region navigation API. For more information, see [View-Switching Navigation QuickStart](/guide/view-switching-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
--   **State-Based Navigation QuickStart**. This QuickStart now supports WPF. It shows an approach that uses the Visual State Manager to define the views (states) and the allowed transitions. For more information, see [State-Based Navigation QuickStart](/guide/state-based-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
--   **UI Composition QuickStart**. This QuickStart now supports WPF. It replaced the View Injection QuickStart and the View Discovery QuickStart from Prism 2.0. In the current versions, both concepts are shown in one example application. For more information, see [UI Composition QuickStart](/guide/ui-composition-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
--   **Interactivity QuickStart**. This new QuickStart demonstrates how to exposes an interaction request to the view through the view model. The interactions can be a popup, confirmation, custom popup, and a more complex case where the popup needs a custom view model. It also shows Prism’s **InvokeCommandAction** action that passes the **EventArgs** from the trigger, as a command parameter. For more infromation, see [Interactivity QuickStart](/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+-   **View-Switching Navigation QuickStart**. This QuickStart now supports WPF. It demonstrates how to use the Prism region navigation API. For more information, see [View-Switching Navigation QuickStart](/patterns-practices/guide/view-switching-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+-   **State-Based Navigation QuickStart**. This QuickStart now supports WPF. It shows an approach that uses the Visual State Manager to define the views (states) and the allowed transitions. For more information, see [State-Based Navigation QuickStart](/patterns-practices/guide/state-based-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+-   **UI Composition QuickStart**. This QuickStart now supports WPF. It replaced the View Injection QuickStart and the View Discovery QuickStart from Prism 2.0. In the current versions, both concepts are shown in one example application. For more information, see [UI Composition QuickStart](/patterns-practices/guide/ui-composition-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+-   **Interactivity QuickStart**. This new QuickStart demonstrates how to exposes an interaction request to the view through the view model. The interactions can be a popup, confirmation, custom popup, and a more complex case where the popup needs a custom view model. It also shows Prism’s **InvokeCommandAction** action that passes the **EventArgs** from the trigger, as a command parameter. For more infromation, see [Interactivity QuickStart](/patterns-practices/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf).
 
 ## NuGet Packages Now Available
 
@@ -116,5 +116,5 @@ In your application, you can now use NuGet to add references to the Prism assemb
 
 ## More Information
 
-For more information about how to upgrade a solution from version 4.1 to version 5.0 of the Prism Library, see [Upgrading from Prism Library 4.1](/guide/14-upgrading-from-prism-library-4.1(v=pandp.40)).
+For more information about how to upgrade a solution from version 4.1 to version 5.0 of the Prism Library, see [Upgrading from Prism Library 4.1](/patterns-practices/guide/14-upgrading-from-prism-library-4.1(v=pandp.40)).
 
