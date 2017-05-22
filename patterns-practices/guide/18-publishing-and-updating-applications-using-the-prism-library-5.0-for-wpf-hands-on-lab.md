@@ -74,7 +74,7 @@ The following procedure describes how to configure the ClickOnce publish setting
 
 1. In Visual Studio, open the project properties for the ModularityWithUnity.Desktop WPF project. To do this, right-click the project in Solution Explorer, and then click **Properties**. In the project settings, click the **Publish** tab. The ClickOnce publishing settings will be shown, as in the following illustration.
 
-  ![](images/clickonce-publish-settings(en-us,PandP.40).png "ClickOnce publish settings")
+  ![](images/clickonce-publish-settings.png"ClickOnce publish settings")
 
   ClickOnce publish settings
 
@@ -83,13 +83,13 @@ The following procedure describes how to configure the ClickOnce publish setting
 4. The install mode and settings provide you fine-grained options for configuring the way the application installs, what files it is composed of, if there are prerequisite installations that need to happen first (such as installing the .NET Framework 4.5), how updates are performed, and a number of other options. For this lab, you will use the default settings, which configures the application to install for offline use (meaning it can at least be launched even if you are not connected to the deployment server, but it depends on what your application does after launch as to whether it will function properly). The default settings also set the application to automatically update before launch if a new version is detected on the deployment server.
 5. Click the **Updates** button, and then select check box labeled **The application should check for updates**, as shown in the following illustration.
 
-  ![](images/application-updates-dialog-box(en-us,PandP.40).png "Application Updates dialog box")
+  ![](images/application-updates-dialog-box.png "Application Updates dialog box")
 
   Application Updates dialog box
 
 6. Click the **Options** button. In the **Options** dialog box, click **Manifests** in the left pane, and then select the check box labeled **Create desktop shortcut**.
 
-  ![](images/publish-options-dialog-box(en-us,PandP.40).png "Publish Options dialog box")
+  ![](images/publish-options-dialog-box.png "Publish Options dialog box")
 
   Publish Options dialog box
 
@@ -102,13 +102,13 @@ The following procedure explains how to set up the certificate used for signing 
 1. In the shell project properties, click the **Signing** tab.
 2. Select the check box labeled **Sign the ClickOnce manifests**. The certificate information will initially be blank if you have not previously created or associated a certificate with the project.
 
-  ![](images/clickonce-publish-project-property-settings(en-us,PandP.40).png "ClickOnce Publish project property settings")
+  ![](images/clickonce-publish-project-property-settings.png "ClickOnce Publish project property settings")
 
   ClickOnce Publish project property settings
 
 3. Click the **Create Test Certificate** button. This opens the Create Test Certificate dialog box, as shown in the following illustration.
 
-  ![](images/create-test-certificate-password-dialog-box(en-us,PandP.40).png "Create Test Certificate password dialog box")
+  ![](images/create-test-certificate-password-dialog-box.png "Create Test Certificate password dialog box")
 
   Create Test Certificate password dialog box
 
@@ -121,7 +121,7 @@ The following procedure explains how to set up the certificate used for signing 
 2. In Visual Studio, click **Publish ModularityWithUnity.Desktop** on the **Build** menu.
 3. The **Publish Wizard** dialog box displays the publish folder location address that you entered in step 2, as shown in the following illustration. Click **Finish** to publish the application.
 
-  ![](images/publish-wizard-dialog-box(en-us,PandP.40).png "Publish Wizard dialog box")
+  ![](images/publish-wizard-dialog-box.png "Publish Wizard dialog box")
 
   Publish Wizard dialog box
 
@@ -148,13 +148,13 @@ The following procedure describes how to add the dynamic module assemblies to th
 
 3. On the **File** menu, click **Open**, and then navigate to the publish folder location where you published the QuickStart in the previous task. In that folder, select the deployment manifest file ModularityWithUnity.Desktop.application, and then click **Open**.
 
-  ![](images/open-dialog-box-from-Manifest-Manager-Utility-in-publish-folder-location(en-us,PandP.40).png "Open dialog box from Manifest Manager Utility in publish folder location")
+  ![](images/open-dialog-box-from-Manifest-Manager-Utility-in-publish-folder-location.png "Open dialog box from Manifest Manager Utility in publish folder location")
 
   Open dialog box from Manifest Manager Utility in publish folder location
 
 4. The deployment and linked application manifest files will be opened by the utility and will be presented in the unified view of the utility, as shown in the following illustration. You can see that the shell executable file and all referenced assemblies that are not part of the framework are automatically included. Note that Modules A and C are included because they were referenced for static loading by the QuickStart, but you will need to add the additional modules using the utility.
 
-  ![](images/manifest-manager-utility(en-us,PandP.40).png "Manifest Manager utility")
+  ![](images/manifest-manager-utility.png "Manifest Manager utility")
 
   Manifest Manager utility
 
@@ -165,7 +165,7 @@ The following procedure describes how to add the dynamic module assemblies to th
 5. Name the new folder DirectoryModules.
 6. Make sure the new folder is selected, and then click **OK**. This copies the Module B DLL into the DirectoryModules subfolder of the application files, as shown in the following illustration.
 
-  ![](images/browse-for-folder-dialog-box-with-directorymodules-subfolder-selected(en-us,PandP.40).png "Browse For Folder dialog box with DirectoryModules subfolder selected")
+  ![](images/browse-for-folder-dialog-box-with-directorymodules-subfolder-selected.png "Browse For Folder dialog box with DirectoryModules subfolder selected")
 
   Browse For Folder dialog box with DirectoryModules subfolder selected
 
@@ -173,7 +173,7 @@ The following procedure describes how to add the dynamic module assemblies to th
 8. Repeat the preceding steps to add Modules E and F to the manifest, but those both go in the root Application Files folder (ModularityWithUnity.Desktop\_1\_0\_0\_0).
 9. At this point, the additional modules should be listed in Manifest Manager Utility with the relative path shown for Modules B and D, as shown in the following illustration (order does not matter).
 
-  ![](images/manifest-manager-utility-with-modules-b-d-E-and-F-added(en-us,PandP.40).png "Manifest Manager utility with Modules B, D, E, and F added")
+  ![](images/manifest-manager-utility-with-modules-b-d-E-and-F-added.png "Manifest Manager utility with Modules B, D, E, and F added")
 
   Manifest Manager utility with Modules B, D, E, and F added
 
@@ -181,7 +181,7 @@ The following procedure describes how to add the dynamic module assemblies to th
 
 1. Click the **Save** button on the toolbar of the utility. This opens the **Select Publisher Certificate to Sign Manifest** dialog box.
 
-  ![](images/select-publisher-certificate-to-Sign-manifest-dialog-box(en-us,PandP.40).png "Select Publisher Certificate to Sign Manifest dialog box")
+  ![](images/select-publisher-certificate-to-Sign-manifest-dialog-box.png "Select Publisher Certificate to Sign Manifest dialog box")
 
   Select Publisher Certificate to Sign Manifest dialog box
 
@@ -199,25 +199,25 @@ In this task, you will launch and install the application.
 1. Open an Internet Explorer browser window and enter the address you used as the publish folder location with the deployment manifest (.application file) path added to the end of it (such as http://localhost/PrismDeploymentHOL/ModularityWithUnity.Desktop.application).
 2. A **Launching Application** dialog box briefly appears as ClickOnce downloads the manifests for the application, as shown in the following illustration.
 
-  ![](images/clickonce-launching-application-dialog box(en-us,PandP.40).png "ClickOnce Launching Application dialog box")
+  ![](images/clickonce-launching-application-dialog-box.png "ClickOnce Launching Application dialog box")
 
   ClickOnce Launching Application dialog box
 
 3. A security warning appears, as shown in the following illustration. It notifies the user of who the publisher of this application is. Because you are using a test certificate, it will show an unknown publisher. To get a more friendly security warning, you will need a certificate issued from a trusted root certification authority.
 
-  ![](images/clickonce-security-warning(en-us,PandP.40).png "ClickOnce security warning")
+  ![](images/clickonce-security-warning.png "ClickOnce security warning")
 
   ClickOnce security warning
 
 4. Click **Install.** While the rest of the application files are downloaded and launched, you will briefly see a dialog box with a progress bar, as shown in the following illustration.
 
-  ![](images/install-progress-bar(en-us,PandP.40).png "Install progress bar")
+  ![](images/install-progress-bar.png "Install progress bar")
 
   Install progress bar
 
 5. The QuickStart should launch and you should see Modules A and D load when it starts. You can click on the other squares to get the other modules to load on demand.
 
-  ![](images/modularity-with-unity-quickstart-running(en-us,PandP.40).png "Modularity with Unity QuickStart running")
+  ![](images/modularity-with-unity-quickstart-running.png "Modularity with Unity QuickStart running")
 
   Modularity with Unity QuickStart running
 
@@ -265,7 +265,7 @@ In this task, you will launch the application as the client computer and see tha
 1. Locate the shortcut on your desktop that was created when you installed the initial version of the application (ModularityWithUnity.Desktop), and then click it to launch the application from the client computer.
 2. The Update Available dialog box appears, as shown in the following illustration. Click **OK** to accept the update.
 
-  ![](images/update-available-dialog-box(en-us,PandP.40).png "Update Available dialog box")
+  ![](images/update-available-dialog-box.png "Update Available dialog box")
 
   Update Available dialog box
 
