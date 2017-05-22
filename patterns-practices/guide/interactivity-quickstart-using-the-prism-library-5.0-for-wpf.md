@@ -19,7 +19,7 @@ The **Introduction** tab, contains information about the purposes of the QuickSt
 
 The following illustration shows the main page of the Interactivity QuickStart.
 
-![](images/interactivity_quickstart(en-us,PandP.40).png)
+![](images/interactivity_quickstart.png)
 
 Interactivity QuickStart user interface
 
@@ -82,7 +82,7 @@ The **InteractionRequestTrigger** has an associated **PopupWindowAction** provid
 
 As no custom window was specified in the example, the out-of-the-box popup window for Notifications will be used, as shown in the following figure.
 
-![](images/default_notification(en-us,PandP.40).png "Default Notification View")
+![](images/default_notification.png "Default Notification View")
 
 Default Notification View
 
@@ -119,7 +119,7 @@ As this example uses the default popup window, the XAML definition is similar to
 
 The following figure shows the default Confirmation popup window.
 
-![](images/default_confirmation(en-us,PandP.40).png "Default Confirmation view")
+![](images/default_confirmation.png "Default Confirmation view")
 
 Default Confirmation view
 
@@ -150,7 +150,7 @@ The call to the **Raise** method of the interaction request instance is the same
 
 The following figures shows the custom pop-up window in action, which uses the **Notification** instance properties.
 
-![](images/custom_popup(en-us,PandP.40).png "A custom popup view")
+![](images/custom_popup.png "A custom popup view")
 
 A custom popup view
 
@@ -317,7 +317,7 @@ This way the parent view's view model and the popup window's view model are able
 
 In the following figure, you can see a custom popup view that provides a more complex functionality.
 
-![](images/item_selection_view(en-us,PandP.40).png "A custom popup view with a more complex interaction")
+![](images/item_selection_view.png "A custom popup view with a more complex interaction")
 
 A custom popup view with a more complex interaction
 
