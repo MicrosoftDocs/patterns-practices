@@ -475,7 +475,7 @@ Region adapter mappings are used by the region manager service to associate the 
 
 ### Customizing the Region Adapter Mappings
 
-One phase of the bootstrapping process is to register the default region adapter mappings. These mappings are used by the region manager to associate the correct adapters for XAML-defined regions. By default, an **ItemsControlRegionAdapter**, a **ContentControlRegionAdapter**, and a **SelectorRegionAdapter** are registered. For more information about these adapters, see [Composing the User Interface](/patterns-practices/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf(vpandp.40)).
+One phase of the bootstrapping process is to register the default region adapter mappings. These mappings are used by the region manager to associate the correct adapters for XAML-defined regions. By default, an **ItemsControlRegionAdapter**, a **ContentControlRegionAdapter**, and a **SelectorRegionAdapter** are registered. For more information about these adapters, see [Composing the User Interface](/patterns-practices/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf).
 
 The following code example shows the default implementation of the **ConfigureRegionAdapterMappings** method. To customize the registration of region adapters, override this method in your applications bootstrapper.
 
@@ -629,7 +629,7 @@ The region navigation service provides the core functionality of coordinating th
 
 The View Model Locator is used in the MVVM Basic QuickStart to wire the view and the view model using its standard convention. This section describes how to change the conventions for naming and locating views, naming, locating and associating view models with views.
 
-For guidance on determining whether to use the View Model Locator or to wire your view and view model together using MEF, see [Implementing the MVVM Pattern](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(vpandp.40)). As background, the Stock Trader reference implementation uses MEF to wire the view and the view model.
+For guidance on determining whether to use the View Model Locator or to wire your view and view model together using MEF, see [Implementing the MVVM Pattern](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf). As background, the Stock Trader reference implementation uses MEF to wire the view and the view model.
 
 ## Changing the View Model Locator Conventions
 
