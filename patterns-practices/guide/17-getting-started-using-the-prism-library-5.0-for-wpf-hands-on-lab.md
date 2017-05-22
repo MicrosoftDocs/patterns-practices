@@ -67,7 +67,7 @@ The following procedure describes how to create a solution with a shell project.
 
   Visual Studio will create the HelloWorld project, as shown in the following illustration. This project will be the shell project of your application.
 
-  ![](images/helloworld-project(en-us,PandP.40).png "HelloWorld project")
+  ![](images/helloworld-project.png "HelloWorld project")
 
   HelloWorld project
 
@@ -84,7 +84,7 @@ The following procedure explains how to set up the shell window.
 1. In Solution Explorer, rename the file MainWindow.xaml to Shell.xaml.
 2. Open the code-behind file Shell.xaml.cs and rename the **MainWindow** class to **Shell** using the Visual Studio refactoring tools. To do this, right-click **MainWindow** in the class signature, point to **Refactor**, and then click **Rename**, as shown in the following illustration. In the **Rename** dialog box, type **Shell** as the new name, and then click **OK**. If the **Preview Changes – Rename** dialog box appears, click **Apply**.
 
-  ![](images/mainwindow-renaming-using-visual-studio-refactoring-tools(en-us,PandP.40).png "MainWindow renaming using Visual Studio refactoring tools")
+  ![](images/mainwindow-renaming-using-visual-studio-refactoring-tools.png "MainWindow renaming using Visual Studio refactoring tools")
 
   MainWindow renaming using Visual Studio refactoring tools
 
@@ -131,7 +131,7 @@ The following procedure describes how to add an **ItemsControl** control to the 
 ```
   The following illustration shows the shell window in the Design view.
 
-  ![](images/shell-window-with-an-itemscontrol-control(en-us,PandP.40).png "Shell window with an ItemsControl control")
+  ![](images/shell-window-with-an-itemscontrol-control.png "Shell window with an ItemsControl control")
 
   Shell window with an ItemsControl control
 
@@ -224,7 +224,7 @@ The following procedure explains how to set up the application's bootstrapper.
 
 10. Build and run the application. You should see an empty Hello World window, as shown in the following illustration.
 
-  ![](images/hello-world-window(en-us,PandP.40).png "Hello World window")
+  ![](images/hello-world-window.png "Hello World window")
 
   Hello World window
 
@@ -243,7 +243,7 @@ The following procedure describes how to create a module.
 
 1. Add a new class library project to your solution. To do this, right-click the **HelloWorld.Desktop** solution node in Solution Explorer, point to **Add**, and then click **New Project**. In the **Project types** list, select **Windows** in the **Visual C#** node. In the **Templates** box, click **Class Library**. Finally, set the project's name to HelloWorldModule, and then click **OK**. The following illustration shows your solution.
 
-  ![](images/solution-with-a-module-named-helloworldmodule(en-us,PandP.40).png "Solution with a module named HelloWorldModule")
+  ![](images/solution-with-a-module-named-helloworldmodule.png "Solution with a module named HelloWorldModule")
 
   Solution with a module named HelloWorldModule
 
@@ -287,7 +287,7 @@ The following procedure describes how to create a module.
 
   The following illustration shows the solution with the **HelloWorldModule** module.
 
-  ![](images/solution-with-the-helloworldmodule(en-us,PandP.40).png "Solution with the HelloWorldModule")
+  ![](images/solution-with-the-helloworldmodule.png "Solution with the HelloWorldModule")
 
   Solution with the HelloWorldModule
 
@@ -415,7 +415,7 @@ The following procedure explains how to obtain an instance of the region manager
 
 6. Build and run the application. You should see the Hello World window with a "Hello World" message, as shown in the following illustration.
 
-  ![](images/hello-world-message(en-us,PandP.40).png "Hello World message")
+  ![](images/hello-world-message.png "Hello World message")
 
   Hello World message
 
