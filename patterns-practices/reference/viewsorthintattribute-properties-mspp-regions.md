@@ -13,19 +13,37 @@ The [ViewSortHintAttribute](https://msdn.microsoft.com/en-us/library/microsoft.p
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
- 
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Gg431226.pubproperty(en-us,PandP.50).gif "Public property")
-[Hint](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewsorthintattribute.hint(v=pandp.50))
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431226.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.viewsorthintattribute.hint">Hint</a></td>
+<td><div class="summary">
 Gets the hint.
-
-![](https://msdn.microsoft.com/en-us/Gg431226.pubproperty(en-us,PandP.50).gif "Public property")
-[TypeId](http://msdn.microsoft.com/en-us/library/sa1bf03e)
-When implemented in a derived class, gets a unique identifier for this [Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626).
-
-(Inherited from [Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626).)
+</div></td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431226.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/sa1bf03e">TypeId</a></td>
+<td><div class="summary">
+When implemented in a derived class, gets a unique identifier for this <a href="http://msdn.microsoft.com/en-us/library/e8kc3626">Attribute</a>.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e8kc3626">Attribute</a>.)</td>
+</tr>
+</tbody>
+</table>
 
 ## See Also
 
