@@ -25,7 +25,7 @@ In many cases, a command defined by a view model will be bound to controls in th
 
 For example, if your application allows the user to edit multiple items at the same time, you may want to allow the user to save all the items using a single command represented by a button in the application's toolbar or ribbon. In this case, the **Save All** command will invoke each of the **Save** commands implemented by the view model instance for each item as shown in the following illustration.
 
-![](images/implementing-the-saveall-composite-command(en-us,PandP.40).png "Implementing the SaveAll composite command")
+![](images/implementing-the-saveall-composite-command.png "Implementing the SaveAll composite command")
 
 Implementing the SaveAll composite command
 
@@ -58,13 +58,13 @@ Often, your application will need to display a collection of child views within 
 
 Prism regions (described in section, [Regions](/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf(v=pandp.40)#Regions), in [Composing the User Interface](/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf(v=pandp.40))) provide a way for child views to be associated with logical placeholders in the application's UI. They are often used to decouple the specific layout of child views from their logical placeholder and its position in the UI. Regions are based on named placeholders that are attached to specific layout controls. The following illustration shows an example where each child view has been added to the region named **EditRegion**, and the UI designer has chosen to use a **Tab** control to lay out the views within that region.
 
-![](images/defining-the-editregion-using-a-tab-control(en-us,PandP.40).png "Defining the EditRegion using a Tab control")
+![](images/defining-the-editregion-using-a-tab-control.png "Defining the EditRegion using a Tab control")
 
 Defining the EditRegion using a Tab control
 
 Composite commands at the parent view level will often be used to coordinate how commands at the child view level are invoked. In some cases, you will want the commands for all shown views to be executed, as in the **Save All** command example described earlier. In other cases, you will want the command to be executed only on the active view. In this case, the composite command will execute the child commands only on views that are deemed to be active; it will not execute the child commands on views that are not active. For example, you may want to implement a **Zoom** command on the application's toolbar or ribbon that causes only the currently active item to be zoomed, as shown in the following diagram.
 
-![](images/defining-the-editRegion-using-a-tab-control-1(en-us,PandP.40).png "Defining the EditRegion using a Tab control")
+![](images/defining-the-editRegion-using-a-tab-control-1.png "Defining the EditRegion using a Tab control")
 
 Defining the EditRegion using a Tab control
 
@@ -87,7 +87,7 @@ Another common scenario you will often encounter when displaying a collection of
 
 For example, in the application shown in the following illustration, the view displays a collection of items in a **ListBox** control, and the data template used to display each item defines a **Delete** button that allows the user to delete individual items from the collection.
 
-![](images/binding-commands-within-collections(en-us,PandP.40).png "Binding commands within collections")
+![](images/binding-commands-within-collections.png "Binding commands within collections")
 
 Binding commands within collections
 
@@ -254,7 +254,7 @@ In this approach, the view model relies on an interaction service component to i
 
 After the view model has a reference to the interaction service, it can programmatically request interaction with the user whenever necessary. The interaction service implements the visual aspects of the interaction, as shown in the following illustration. Using an interface reference in the view model allows for different implementations to be used, according to the implementation requirements of the user interface. For example, implementations of the interaction service for WPF could be provided, allowing for greater re-use of the application's presentation logic.
 
-![](images/using-an-interaction-service-to-interact-with-the-user(en-us,PandP.40).png "Using an interaction service to interact with the user")
+![](images/using-an-interaction-service-to-interact-with-the-user.png "Using an interaction service to interact with the user")
 
 Using an interaction service to interact with the user
 
@@ -294,7 +294,7 @@ The asynchronous approach provides greater flexibility when implementing the int
 
 Another approach to implementing simple user interactions in the MVVM pattern is to allow the view model to make interaction requests directly to the view itself via an interaction request object coupled with a behavior in the view. The interaction request object encapsulates the details of the interaction request, and its response, and communicates with the view via events. The view subscribes to these events to initiate the user experience portion of the interaction. The view will typically encapsulate the user experience of the interaction in a behavior that is data-bound to the interaction request object provided by the view model, as shown in the following illustration.
 
-![](images/using-an-interaction-request-object-to-interact-with-the-user(en-us,PandP.40).png "Using an interaction request object to interact with the user")
+![](images/using-an-interaction-request-object-to-interact-with-the-user.png "Using an interaction request object to interact with the user")
 
 Using an interaction request object to interact with the user
 
