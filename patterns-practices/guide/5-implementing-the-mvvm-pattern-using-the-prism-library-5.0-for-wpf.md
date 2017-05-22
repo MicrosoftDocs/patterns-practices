@@ -25,7 +25,7 @@ In the MVVM pattern, the view encapsulates the UI and any UI logic, the view mod
 
 The following illustration shows the three MVVM classes and their interaction.
 
-![](images/the-mvvm-classes-and-their-interactions(en-us,PandP.40).png "The MVVM classes and their interactions")
+![](images/the-mvvm-classes-and-their-interactions.png "The MVVM classes and their interactions")
 
 The MVVM classes and their interactions
 
