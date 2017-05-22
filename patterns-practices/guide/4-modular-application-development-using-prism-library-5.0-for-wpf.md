@@ -15,7 +15,7 @@ For example, consider a personal banking application. The user can access a vari
 
 The following illustration shows a design of a modular application with multiple modules.
 
-![](images/module_composition(en-us,PandP.40).png "Module composition")
+![](images/module_composition.png "Module composition")
 
 Module composition
 
@@ -75,7 +75,7 @@ The module loading process in Prism includes the following:
 
 The following figure shows the module loading process.
 
-![](images/module_loading_process(en-us,PandP.40).png "Module loading process")
+![](images/module_loading_process.png "Module loading process")
 
 Module loading process
 
@@ -154,11 +154,11 @@ When you develop your application in a modularized fashion, you structure the ap
 
 A module should encapsulate a set of related concerns and have a distinct set of responsibilities. A module can represent a vertical slice of the application or a horizontal service layer. Large applications will likely have both types of modules.
 
-![](images/module_organized_vertical_slices(en-us,PandP.40).png "An application with modules organized around vertical slices")
+![](images/module_organized_vertical_slices.png "An application with modules organized around vertical slices")
 
 An application with modules organized around vertical slices
 
-![](images/module_organized_horizontal_slices(en-us,PandP.40).png "An application with modules organized around horizontal layers")
+![](images/module_organized_horizontal_slices.png "An application with modules organized around horizontal layers")
 
 An application with modules organized around horizontal layers
 
@@ -185,7 +185,7 @@ A module should use an independent mechanism to get instances of external interf
 
 The following diagram shows the typical sequence of operations when modules are loaded that need to acquire or register references to the components and services.
 
-![](images/dependency_injection(en-us,PandP.40).png "Example of dependency injection")
+![](images/dependency_injection.png "Example of dependency injection")
 
 Example of dependency injection
 
