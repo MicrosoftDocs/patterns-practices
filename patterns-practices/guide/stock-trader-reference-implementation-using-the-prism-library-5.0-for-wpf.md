@@ -17,7 +17,7 @@ The reference implementation is not a real-world application; however, it is bas
 
 The following illustration shows the desktop version of the Stock Trader Reference Implementation (Stock Trader RI).
 
-![](images/stock-trader-ri(en-us,PandP.40).png "Stock Trader RI")
+![](images/stock-trader-ri.png "Stock Trader RI")
 
 Stock Trader RI
 
@@ -81,7 +81,7 @@ The features of the Stock Trader reference implementation are covered in greater
 
 The following illustration shows the Stock Trader RI **Buy & Sell** tab.
 
-![](images/buy-and-sell-area-in-the-stock-trader-ri(en-us,PandP.40).png "Buy & Sell area in the Stock Trader RI")
+![](images/buy-and-sell-area-in-the-stock-trader-ri.png "Buy & Sell area in the Stock Trader RI")
 
 Buy & Sell area in the Stock Trader RI
 
@@ -196,7 +196,7 @@ The Stock Trader RI supports the following actions:
 
 The following illustration shows a high-level logical architecture view of the Stock Trader RI.
 
-![](images/architectural-view-of-the-stock-trader-ri(en-us,PandP.40).png "Architectural view of the Stock Trader RI")
+![](images/architectural-view-of-the-stock-trader-ri.png "Architectural view of the Stock Trader RI")
 
 Architectural view of the Stock Trader RI
 
@@ -218,7 +218,7 @@ The following describes the main elements of the Stock Trader RI architecture:
 
 The Stock Trader RI is based on the Prism Library. The following illustration shows the Stock Trader RI (Desktop version) Solution Explorer.
 
-![](images/stock-trader-ri-solution-view(en-us,PandP.40).png "Stock Trader RI solution view")
+![](images/stock-trader-ri-solution-view.png "Stock Trader RI solution view")
 
 Stock Trader RI solution view
 
@@ -226,7 +226,7 @@ Stock Trader RI solution view
 
 The Stock Trader RI is a composite application, which is composed of a set of modules that are initialized at run time. The following illustration shows the application's startup process, which includes the initialization of modules. The next sections provide details about each of these steps.
 
-![](images/stock-trader-ri-startup-process(en-us,PandP.40).png "Stock Trader RI startup process")
+![](images/stock-trader-ri-startup-process.png "Stock Trader RI startup process")
 
 Stock Trader RI startup process
 
@@ -392,7 +392,7 @@ Views can communicate with presenters and services in a loosely coupled fashion 
 > [!NOTE]
 > The **DelegateCommand** is one kind of command that the Prism Library provides. For more information about commands in Prism, see [Commands](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)#Commands) in [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
-![](images/watch-list-control(en-us,PandP.40).png "Add To Watch List control")
+![](images/watch-list-control.png "Add To Watch List control")
 
 Add To Watch List control
 
