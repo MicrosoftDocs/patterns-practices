@@ -250,7 +250,7 @@ Dependency injection containers, often referred to as just "containers," are use
 
 The Prism Library provides the **UnityServiceLocatorAdapter** and the **MefServiceLocatorAdapter**. Both adapters implement the **ISeviceLocator** interface by extending the **ServiceLocatorImplBase** type. The following illustration shows the class hierarchy.
 
-![](images/the-common-service-locator-implementations-in-prism(en-us,PandP.40).png "The Common Service Locator implementations in Prism")
+![](images/the-common-service-locator-implementations-in-prism.png "The Common Service Locator implementations in Prism")
 
 The Common Service Locator implementations in Prism
 
