@@ -365,5 +365,5 @@ To learn about other QuickStarts included with Prism, see the following topics i
 -   State-Based Navigation QuickStart
 -   View-Switching Navigation QuickStart
 -   Event Aggregation QuickStart
--   [Multi-Targeting QuickStart](/guide/multi-targeting-quickstart(v=pandp.40)) (also available on MSDN)
+-   [Multi-Targeting QuickStart](/patterns-practices/guide/multi-targeting-quickstart) (also available on MSDN)
 

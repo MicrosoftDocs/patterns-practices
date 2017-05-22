@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405487(v=PandP.40)'
 
 # Bibliography for the Developer's Guide to Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/guide/developers-guide-to-microsoft-prism)
 
 ## General Links
 
@@ -44,9 +44,9 @@ For information related to containers, see the following:
 
 ##  Modular Application Development
 
-To learn more about modularity in Prism, see the Modularity with MEF for WPF QuickStart or the Modularity with Unity for WPF QuickStart. For more information about the QuickStarts, see [Modularity QuickStarts for WPF](/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+To learn more about modularity in Prism, see the Modularity with MEF for WPF QuickStart or the Modularity with Unity for WPF QuickStart. For more information about the QuickStarts, see [Modularity QuickStarts for WPF](/patterns-practices/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
-For information about the modularity features that can be extended in the Prism Library, see [Modules](/guide/15-extending-the-prism-library-5.0-for-wpf(v=pandp.40)#Modules) in [Extending Prism](/guide/15-extending-the-prism-library-5.0-for-wpf(v=pandp.40)).
+For information about the modularity features that can be extended in the Prism Library, see [Modules](/patterns-practices/guide/15-extending-the-prism-library-5.0-for-wpf#Modules) in [Extending Prism](/patterns-practices/guide/15-extending-the-prism-library-5.0-for-wpf).
 
 ##  Implementing the MVVM Pattern
 
@@ -62,7 +62,7 @@ For more information about MEF, see [Managed Extensibility Framework Overview](h
 
 For more information about Unity, see [Unity Application Block](https://msdn.microsoft.com/library/ff647202.aspx) on MSDN.
 
-For more information about **DelegateCommand** and **CompositeCommand**, see [Communicating Between Loosely Coupled Components](/guide/9-communicating-between-loosely-coupled-components-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+For more information about **DelegateCommand** and **CompositeCommand**, see [Communicating Between Loosely Coupled Components](/patterns-practices/guide/9-communicating-between-loosely-coupled-components-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 For more information about using MVVM in Windows Store Apps see [Using the Model-View-ViewModel (MVVM) pattern in a Windows Store business app using C#, XAML, and Prism](https://msdn.microsoft.com/en-us/library/windows/apps/xx130657.aspx).
 
@@ -76,7 +76,7 @@ For more information about MEF, see [Managed Extensibility Framework Overview](h
 
 For more information about Unity, see [Unity Application Block](https://msdn.microsoft.com/library/ff647202.aspx) on MSDN.
 
-For more information about **DelegateCommand**, see [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+For more information about **DelegateCommand**, see [Implementing the MVVM Pattern](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf).
 
 For more information about using Microsoft Expression Blend behaviors, see [Working with built-in behaviors](https://msdn.microsoft.com/en-us/library/ff724013(v=expression.40).aspx) on MSDN.
 
@@ -86,7 +86,7 @@ For more information about creating custom triggers and actions with Microsoft E
 
 For more information about using the dispatcher in WPF , see [Threading Model](https://msdn.microsoft.com/en-us/library/ms741870.aspx) and [The Dispatcher Class](https://msdn.microsoft.com/en-us/library/ms615907(v=vs.95).aspx) on MSDN.
 
-For more information about region navigation, see the section, [View-Based Navigation](/guide/8-navigation-using-the-prism-library-5.0-for-wpf(v=pandp.40)#ViewBasedNavigation) in [Navigation](/guide/8-navigation-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+For more information about region navigation, see the section, [View-Based Navigation](/patterns-practices/guide/8-navigation-using-the-prism-library-5.0-for-wpf#ViewBasedNavigation) in [Navigation](/patterns-practices/guide/8-navigation-using-the-prism-library-5.0-for-wpf).
 
 For more information about the Event-based Asynchronous pattern, see [Event-based Asynchronous Pattern Overview](https://msdn.microsoft.com/en-us/library/wewwczdw.aspx) on MSDN.
 
@@ -94,13 +94,13 @@ For more information about the IAsyncResult design pattern, see [Asynchronous Pr
 
 ##  Composing the User Interface
 
-For more information about extending the Prism Library, see [Extending the Prism Library](/guide/15-extending-the-prism-library-5.0-for-wpf(v=pandp.40)).
+For more information about extending the Prism Library, see [Extending the Prism Library](/patterns-practices/guide/15-extending-the-prism-library-5.0-for-wpf).
 
-For more information about commands, see [Commands](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)#Commands) in [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+For more information about commands, see [Commands](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf#Commands) in [Implementing the MVVM Pattern](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf).
 
-For more information about data binding, see [Data Binding](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)#DataBinding) in [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+For more information about data binding, see [Data Binding](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf#DataBinding) in [Implementing the MVVM Pattern](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf).
 
-For more information about region navigation, see [Navigation](/guide/8-navigation-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+For more information about region navigation, see [Navigation](/patterns-practices/guide/8-navigation-using-the-prism-library-5.0-for-wpf).
 
 For more information about the guidelines discussed in this topic, see the following:
 
@@ -121,11 +121,11 @@ For more information about the guidelines discussed in this topic, see the follo
 
 ##  Navigation
 
-For more information about Prism regions, see [Composing the User Interface](/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+For more information about Prism regions, see [Composing the User Interface](/patterns-practices/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf).
 
-For more information about the MVVM pattern and Interaction Request pattern, see [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)) and [Advanced MVVM Scenarios](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+For more information about the MVVM pattern and Interaction Request pattern, see [Implementing the MVVM Pattern](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf) and [Advanced MVVM Scenarios](/patterns-practices/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf).
 
-For more information about the **Interaction Request** object, see Using Interaction Request Objects in [Advanced MVVM Scenarios](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+For more information about the **Interaction Request** object, see Using Interaction Request Objects in [Advanced MVVM Scenarios](/patterns-practices/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf).
 
 For more information about the Visual State Manager, see [VisualStateManager Class](http://msdn.microsoft.com/en-us/library/cc626338(v=vs.95).aspx) on MSDN.
 
@@ -141,7 +141,7 @@ For more information about weak references, see [Weak References](http://msdn.mi
 
 Download the [Manifest Manager Utility](http://compositewpf.codeplex.com/releases/view/14771) from the Prism community site on Codeplex.
 
-To learn the specific steps involved in publishing and updating a WPF Prism application that uses dynamic module loading, see the [Publishing and Updating Applications Using the Prism Library Hands-on Lab](/guide/18-publishing-and-updating-applications-using-the-prism-library-5.0-for-wpf-hands-on-lab(v=pandp.40)).
+To learn the specific steps involved in publishing and updating a WPF Prism application that uses dynamic module loading, see the [Publishing and Updating Applications Using the Prism Library Hands-on Lab](/patterns-practices/guide/18-publishing-and-updating-applications-using-the-prism-library-5.0-for-wpf-hands-on-lab(v=pandp.40)).
 
 ## 12: Patterns in the Prism Library
 

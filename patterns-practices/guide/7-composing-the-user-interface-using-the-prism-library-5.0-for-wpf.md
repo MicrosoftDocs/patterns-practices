@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921098(v=PandP.40)'
 
 #  Composing the User Interface Using the Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
 A composite application user interface (UI) is composed from loosely coupled visual components known as *views* that are typically contained in the application modules, but they do not need to be. If you divide your application into modules, you need some way to loosely compose the UI, but you might choose to use this approach even if the views are not in modules. To the user, the application presents a seamless user experience and delivers a fully integrated application.
 
@@ -74,7 +74,7 @@ Unit testing best practices recommend that the object be tested in isolation. To
 
 UI automation testing runs the application, applies gestures to the UI, and then tests for the expected results. This type of test verifies that UI elements are correctly connected to the application logic.
 
-Separating the logic from the view provides a clean separation of concerns. In addition to testability considerations, this separation enables designers to work on the UI independently of the developer. For more information about MVVM, see [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+Separating the logic from the view provides a clean separation of concerns. In addition to testability considerations, this separation enables designers to work on the UI independently of the developer. For more information about MVVM, see [Implementing the MVVM Pattern](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf).
 
 ### Commands, UI Triggers, Actions, and Behaviors
 
@@ -82,17 +82,17 @@ When a view is implemented with its logic in the code-behind file, you add event
 
 #### Commands
 
-Commands separate the semantics and the object that invokes a command from the logic that executes the command. Built into commands is the ability to indicate whether an action is available. Commands in the UI are data bound to **ICommand** properties on the view model. For more information about commands, see [Commands](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)#Commands) in [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+Commands separate the semantics and the object that invokes a command from the logic that executes the command. Built into commands is the ability to indicate whether an action is available. Commands in the UI are data bound to **ICommand** properties on the view model. For more information about commands, see [Commands](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf#Commands) in [Implementing the MVVM Pattern](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf).
 
 #### UI Triggers, Actions, and Behaviors
 
-Triggers, actions, and behaviors are part of the **Microsoft.Expression.Interactivity** namespace and are shipped with Blend for Visual Studio 2013. They are also part of the Blend SDK. Triggers, actions, and behaviors provide a comprehensive API for handling UI events or commands, and then routing them to the **ICommand** properties methods exposed by the **DataContext**. For more information about UI triggers, actions, and behaviors, see sections Invoking Command Objects from the View and Invoking Command Methods from the View in [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)) and [Interaction Triggers and Events to Commands](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(v=pandp.40)#InteractionTriggers) in [Advanced MVVM Scenarios](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+Triggers, actions, and behaviors are part of the **Microsoft.Expression.Interactivity** namespace and are shipped with Blend for Visual Studio 2013. They are also part of the Blend SDK. Triggers, actions, and behaviors provide a comprehensive API for handling UI events or commands, and then routing them to the **ICommand** properties methods exposed by the **DataContext**. For more information about UI triggers, actions, and behaviors, see sections Invoking Command Objects from the View and Invoking Command Methods from the View in [Implementing the MVVM Pattern](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf) and [Interaction Triggers and Events to Commands](/patterns-practices/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf#InteractionTriggers) in [Advanced MVVM Scenarios](/patterns-practices/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf).
 
 #### User Interactions
 
 User interactions are interactions that the application presents to the user. These interaction are typically popup windows presented to the user. In MVVM scenarios these user interactions can be generated either from the view or from the view model. Prism provides **InteractionRequests** and **InteractionRequestTriggers** for cases when the view model needs to request a user interaction, and the **InvokeCommandAction** action for when the view needs to invoke a command when a specified event is fired.
 
-For more information about user Interactions, examples, and how to use them, see the [Interactivity QuickStart](/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+For more information about user Interactions, examples, and how to use them, see the [Interactivity QuickStart](/patterns-practices/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf).
 
 ### Data Binding
 
@@ -102,7 +102,7 @@ Data binding takes full advantage of the intrinsic change notification provided 
 
 Data binding enables dissimilar target and source types to data bind by using a value converter to convert one type to the other type. Data binding has multiple validation hooks within its pipeline that you can use to validate user input.
 
-You are strongly encouraged to read the [Dependency Properties Overview](http://msdn.microsoft.com/en-us/library/ms752914.aspx) and [Data Binding Overview](http://msdn.microsoft.com/en-us/library/ms752347.aspx) topics on MSDN. A full understand of these two topics is critical to successfully developing applications on the Microsoft XAML platforms. For more information about data binding, see [Data Binding](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)#DataBinding) in [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+You are strongly encouraged to read the [Dependency Properties Overview](http://msdn.microsoft.com/en-us/library/ms752914.aspx) and [Data Binding Overview](http://msdn.microsoft.com/en-us/library/ms752347.aspx) topics on MSDN. A full understand of these two topics is critical to successfully developing applications on the Microsoft XAML platforms. For more information about data binding, see [Data Binding](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf#DataBinding) in [Implementing the MVVM Pattern](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf).
 
 ## Regions
 
@@ -207,7 +207,7 @@ The **SelectorItemsSourceSyncBehavior** is used only for controls that derive fr
 
 ### Extending the Region Implementation
 
-The Prism Library provides extension points that allow you to customize or extend the default behavior of the provided APIs. For example, you can write your own region adapters, region behaviors, or change the way the Navigation API parses URIs. For more information about extending the Prism Library, see [Extending the Prism Library](/guide/15-extending-the-prism-library-5.0-for-wpf(v=pandp.40)).
+The Prism Library provides extension points that allow you to customize or extend the default behavior of the provided APIs. For example, you can write your own region adapters, region behaviors, or change the way the Navigation API parses URIs. For more information about extending the Prism Library, see [Extending the Prism Library](/patterns-practices/guide/15-extending-the-prism-library-5.0-for-wpf).
 
 ## View Composition
 
@@ -225,7 +225,7 @@ In view injection, your code obtains a reference to a region, and then programma
 
 ### Navigation
 
-The Prism Library 4.0 contains Navigation APIs. The Navigation APIs simplify the view injection process by allowing you to navigate a region to an URI. The Navigation API instantiates the view, adds it to the region, and then activates it. Additionally, the Navigation API allows navigating back to a previously created view contained in a region. For more information about the Navigation APIs, see [Navigation](/guide/8-navigation-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+The Prism Library 4.0 contains Navigation APIs. The Navigation APIs simplify the view injection process by allowing you to navigate a region to an URI. The Navigation API instantiates the view, adds it to the region, and then activates it. Additionally, the Navigation API allows navigating back to a previously created view contained in a region. For more information about the Navigation APIs, see [Navigation](/patterns-practices/guide/8-navigation-using-the-prism-library-5.0-for-wpf).
 
 ### When to Use View Discovery vs. View Injection
 
@@ -504,7 +504,7 @@ The following code example from the Stock Trader RI **ArticleViewModel** illustr
    new Uri("/NewsReaderView", UriKind.Relative));
 ```
 
-For more information about region navigation, see [Navigation](/guide/8-navigation-using-the-prism-library-5.0-for-wpf(v=pandp.40)). The View-Switching Navigation QuickStart and State-Based Navigation QuickStart are also examples of implementing application navigation.
+For more information about region navigation, see [Navigation](/patterns-practices/guide/8-navigation-using-the-prism-library-5.0-for-wpf). The View-Switching Navigation QuickStart and State-Based Navigation QuickStart are also examples of implementing application navigation.
 
 ## Ordering Views in a Region
 
@@ -693,7 +693,7 @@ Stock Trader RI main window during run time
 
 The two previous figures illustrate one of the challenges of working with high-level views that are composed at run time. Each UI element in a composite application must be designed separately. This makes it hard to visualize how the composite page or window will look at run time. To visualize the composite view in its composed state, you can create a test project with a page or window that contains all the UI elements for the view you want to test.
 
--  Additionally, consider using the design-time sample data features in Blend for Visual Studio 2013 and Visual Studio 2013 to populate UI elements with data. Design-time data is very helpful when you work with data templates, list controls, charts, or graphs. For more information, see the section [Guidelines for Design-Time Sample Data](/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf(v=PandP.40)#GuidelinesforDesignTimeSampleData).
+-  Additionally, consider using the design-time sample data features in Blend for Visual Studio 2013 and Visual Studio 2013 to populate UI elements with data. Design-time data is very helpful when you work with data templates, list controls, charts, or graphs. For more information, see the section [Guidelines for Design-Time Sample Data](/patterns-practices/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf#GuidelinesforDesignTimeSampleData).
 
 ### Layout
 
@@ -867,7 +867,7 @@ The built-in "d:" design-time properties provide a smooth road to a successful d
 
 The problem we need to solve is how to provide a shape to the Binding Builder tools at design-time. In this case, the shape is an instantiated **Type** that the Binding Builder can reflect on, and then list those properties for selection when building a binding.
 
-Shape is also provided by design-time sample data. Sample data is covered in the section, [Guidelines for Design-Time Sample Data](/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf(v=PandP.40)#GuidelinesforDesignTimeSampleData).
+Shape is also provided by design-time sample data. Sample data is covered in the section, [Guidelines for Design-Time Sample Data](/patterns-practices/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf#GuidelinesforDesignTimeSampleData).
 
 The following sections describe how to use the **d:DataContext** property and the **d:DesignInstance** markup extension.
 
@@ -1117,13 +1117,13 @@ The following are the important UI layout decisions:
 
 ## More Information
 
-For more information about extending the Prism Library, see [Extending the Prism Library](/guide/15-extending-the-prism-library-5.0-for-wpf(v=pandp.40)).
+For more information about extending the Prism Library, see [Extending the Prism Library](/patterns-practices/guide/15-extending-the-prism-library-5.0-for-wpf).
 
-For more information about commands, see [Commands](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)#Commands) in [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+For more information about commands, see [Commands](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf#Commands) in [Implementing the MVVM Pattern](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf).
 
-For more information about data binding, see [Data Binding](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)#DataBinding) in [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+For more information about data binding, see [Data Binding](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf#DataBinding) in [Implementing the MVVM Pattern](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf).
 
-For more information about region navigation, see [Navigation](/guide/8-navigation-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+For more information about region navigation, see [Navigation](/patterns-practices/guide/8-navigation-using-the-prism-library-5.0-for-wpf).
 
 For more information about the guidelines discussed in this topic, see the following:
 

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921140(v=PandP.40)'
 
 #  Managing Dependencies Between Components Using the Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
 Applications based on the Prism Library are composite applications that potentially consist of many loosely coupled types and services. They need to interact to contribute content and receive notifications based on user actions. Because they are loosely coupled, they need a way to interact and communicate with one another to deliver the required business functionality. To tie together these various pieces, applications based on the Prism Library rely on a dependency injection container.
 
@@ -111,7 +111,7 @@ During initialization, a type can register other types, such as views and servic
     }
 ```
 
-Depending on which container you use, registration can also be performed outside the code through configuration. For an example of this, see Registering Modules using a Configuration File in [Modular Application Development](/guide/4-modular-application-development-using-prism-library-5.0-for-wpf(v=pandp.40)).
+Depending on which container you use, registration can also be performed outside the code through configuration. For an example of this, see Registering Modules using a Configuration File in [Modular Application Development](/patterns-practices/guide/4-modular-application-development-using-prism-library-5.0-for-wpf(v=pandp.40)).
 
 > [!NOTE]
 > The advantage of registering in code, compared to configuration, is that the registration happens only if the module loads.
