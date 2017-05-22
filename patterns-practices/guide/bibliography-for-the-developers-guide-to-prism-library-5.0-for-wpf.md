@@ -44,7 +44,7 @@ For information related to containers, see the following:
 
 ##  Modular Application Development
 
-To learn more about modularity in Prism, see the Modularity with MEF for WPF QuickStart or the Modularity with Unity for WPF QuickStart. For more information about the QuickStarts, see [Modularity QuickStarts for WPF](/patterns-practices/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+To learn more about modularity in Prism, see the Modularity with MEF for WPF QuickStart or the Modularity with Unity for WPF QuickStart. For more information about the QuickStarts, see [Modularity QuickStarts for WPF](/patterns-practices/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf).
 
 For information about the modularity features that can be extended in the Prism Library, see [Modules](/patterns-practices/guide/15-extending-the-prism-library-5.0-for-wpf#Modules) in [Extending Prism](/patterns-practices/guide/15-extending-the-prism-library-5.0-for-wpf).
 
@@ -62,7 +62,7 @@ For more information about MEF, see [Managed Extensibility Framework Overview](h
 
 For more information about Unity, see [Unity Application Block](https://msdn.microsoft.com/library/ff647202.aspx) on MSDN.
 
-For more information about **DelegateCommand** and **CompositeCommand**, see [Communicating Between Loosely Coupled Components](/patterns-practices/guide/9-communicating-between-loosely-coupled-components-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+For more information about **DelegateCommand** and **CompositeCommand**, see [Communicating Between Loosely Coupled Components](/patterns-practices/guide/9-communicating-between-loosely-coupled-components-using-the-prism-library-5.0-for-wpf).
 
 For more information about using MVVM in Windows Store Apps see [Using the Model-View-ViewModel (MVVM) pattern in a Windows Store business app using C#, XAML, and Prism](https://msdn.microsoft.com/en-us/library/windows/apps/xx130657.aspx).
 

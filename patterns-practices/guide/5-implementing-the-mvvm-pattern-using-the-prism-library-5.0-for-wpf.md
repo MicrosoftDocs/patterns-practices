@@ -567,7 +567,7 @@ For more information about MEF, see [Managed Extensibility Framework Overview](h
 
 For more information about Unity, see [Unity Application Block](http://www.msdn.com/unity) on MSDN.
 
-For more information about **DelegateCommand** and **CompositeCommand**, see [Communicating Between Loosely Coupled Components](/patterns-practices/guide/9-communicating-between-loosely-coupled-components-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+For more information about **DelegateCommand** and **CompositeCommand**, see [Communicating Between Loosely Coupled Components](/patterns-practices/guide/9-communicating-between-loosely-coupled-components-using-the-prism-library-5.0-for-wpf).
 
 For more information about using MVVM in Windows Store Apps see [Using the Model-View-ViewModel (MVVM) pattern in a Windows Store business app using C#, XAML, and Prism](http://msdn.microsoft.com/en-us/library/windows/apps/xx130657.aspx).
 

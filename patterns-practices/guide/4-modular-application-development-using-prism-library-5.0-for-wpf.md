@@ -582,7 +582,7 @@ If you are using MEF and the **ModuleExport** attribute for specifying modules a
 
 For more information about assembly caching, see "[How to: Use Assembly Library Caching](http://msdn.microsoft.com/en-us/library/dd833069(vs.95).aspx)" on MSDN.
 
-To learn more about modularity in Prism, see the Modularity with MEF for WPF QuickStart or the Modularity with Unity for WPF QuickStart. For more information about the QuickStarts, see [Modularity QuickStarts](/patterns-practices/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+To learn more about modularity in Prism, see the Modularity with MEF for WPF QuickStart or the Modularity with Unity for WPF QuickStart. For more information about the QuickStarts, see [Modularity QuickStarts](/patterns-practices/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf).
 
 For information about the modularity features that can be extended in the Prism Library, see [Modules](/patterns-practices/guide/15-extending-the-prism-library-5.0-for-wpf#Modules) in [Extending the Prism Library](/patterns-practices/guide/15-extending-the-prism-library-5.0-for-wpf).
 
