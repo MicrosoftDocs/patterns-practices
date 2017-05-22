@@ -17,7 +17,7 @@ A bootstrapper is a class that is responsible for the initialization of an appli
 
 The Prism Library includes a default abstract **Bootstrapper** base class that can be specialized for use with any container. Many of the methods on the bootstrapper classes are virtual methods. You can override these methods as appropriate in your own custom bootstrapper implementation.
 
-![](images/basic-stages-of-the-bootstrapping-process(en-us,PandP.40).png "Basic stages of the bootstrapping process")
+![](images/basic-stages-of-the-bootstrapping-process.png "Basic stages of the bootstrapping process")
 
 Basic stages of the bootstrapping process
 
