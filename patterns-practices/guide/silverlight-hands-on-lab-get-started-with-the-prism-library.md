@@ -61,7 +61,7 @@ The following procedure describes how to create a solution with a shell project.
 
     Visual Studio will create the HelloWorld.Silverlight project and the HelloWorld.Silverlight.Web ASP.NET web application project, as shown in the following illustration. The first project will be the shell project of your application and the second will be a web project that will host the Silverlight application.
 
-    ![](https://msdn.microsoft.com/en-us/Ff921096.C1BC76C91E1D2D734B4CCAED93DC37EC(en-us,PandP.40).png "HelloWorld project")
+    ![](images/helloworld-project.png "HelloWorld project")
 
     HelloWorld project
 
@@ -84,7 +84,7 @@ The following procedure explains how to set up the shell.
 1.  In Solution Explorer, rename the file MainPage.xaml to Shell.xaml.
 2.  Open the code-behind file Shell.xaml.cs and rename the **MainPage** class to **Shell** using the Visual Studio refactoring tools. To do this, right-click **MainPage** in the class signature, point to **Refactor**, and then click **Rename**, as shown in the following illustration. In the **Rename** dialog box, type **Shell** as the new name, and then click **OK**. If the **Preview Changes – Rename** dialog box appears, click **Apply**.
 
-    ![](https://msdn.microsoft.com/en-us/Ff921096.7570EB488C758FE61CDF76BD15A3326F(en-us,PandP.40).png "Page renaming using Visual Studio refactoring tools")
+    ![](images/page-renaming-using-visual-studio-refactoring-tools.png "Page renaming using Visual Studio refactoring tools")
 
     Page renaming using Visual Studio refactoring tools
 
@@ -206,7 +206,7 @@ The following procedure explains how to set up the application's bootstrapper.
 
 8.  Build and run the application. You should see an empty Hello World window, as shown in the following illustration.
 
-    ![](https://msdn.microsoft.com/en-us/Ff921096.D39B06AF800B3B4FD69D71B1E3587DDB(en-us,PandP.40).png "Hello World window")
+    ![](images/hello-world-window.png "Hello World window")
 
     Hello World window
 
@@ -223,7 +223,7 @@ The following procedure describes how to create a module.
 
 1.  Add a new Silverlight class library project to your solution. To do this, right-click the **HelloWorld.Silverlight** solution node in Solution Explorer, point to **Add**, and then click **New Project**. In the **Project types** list, select **Silverlight** in the **Visual C#** node. In the **Templates** box, click **Silverlight Class Library**. Finally, set the project's name to HelloWorldModule, and then click **OK**. The following illustration shows your solution.
 
-    ![](https://msdn.microsoft.com/en-us/Ff921096.6DA907DFDC988B772825C9946460C930(en-us,PandP.40).png "Solution with a module named HelloWorldModule")
+    ![](images/solution-with-a-module-named-helloworldmodule.png "Solution with a module named HelloWorldModule")
 
     Solution with a module named HelloWorldModule
 
@@ -261,7 +261,7 @@ The following procedure describes how to create a module.
 
     The following illustration shows the solution with the **HelloWorldModule** module.
 
-    ![](https://msdn.microsoft.com/en-us/Ff921096.219DB15C65918EF2DEFA61278763BD5F(en-us,PandP.40).png "Solution with the HelloWorldModule")
+    ![](images/solution-with-the-helloworldmodule.png "Solution with the HelloWorldModule")
 
     Solution with the HelloWorldModule
 
@@ -349,7 +349,7 @@ The following procedure describes how to create a view.
 3.  Save the file.
 
 > [!NOTE]
-> To keep this hands-on lab simple, the procedure did not explain how to create a view following the Model-View-ViewModel (MVVM) pattern. For more information about the MVVM pattern, see "[Implementing the MVVM Pattern](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40))."
+> To keep this hands-on lab simple, the procedure did not explain how to create a view following the Model-View-ViewModel (MVVM) pattern. For more information about the MVVM pattern, see "[Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40))."
 
 ## Region Manager
 
@@ -397,7 +397,7 @@ The region manager service is responsible for maintaining a collection of region
 
 6.  Build and run the application. You should see the Hello World window with a "Hello World" message, as shown in the following illustration.
 
-    ![](https://msdn.microsoft.com/en-us/Ff921096.DDE026EF20F7DA3363249DD80152C593(en-us,PandP.40).png "Hello World message")
+    ![](images/hello-world-message.png "Hello World message")
 
     Hello World message
 
@@ -411,7 +411,7 @@ To create a Hello World application using WPF, see "WPF Hands-On Lab: Get Starte
 To learn about other QuickStarts included with Prism, see the following topics in the [Prism4.pdf](http://compositewpf.codeplex.com/releases/view/55580):
 
 -   Modularity QuickStarts for WPF
--   [Modularity QuickStarts for Silverlight](https://msdn.microsoft.com/en-us/library/ff921163(v=pandp.40)) (also available on MSDN)
+-   [Modularity QuickStarts for Silverlight](/guide/modularity-quickstarts-for-silverlight(v=pandp.40)) (also available on MSDN)
 -   Basic MVVM QuickStart
 -   MVVM QuickStart
 -   Commanding QuickStart
@@ -419,5 +419,5 @@ To learn about other QuickStarts included with Prism, see the following topics i
 -   State-Based Navigation QuickStart
 -   View-Switching Navigation QuickStart
 -   Event Aggregation QuickStart
--   [Multi-Targeting QuickStart](https://msdn.microsoft.com/en-us/library/ff921176(v=pandp.40)) (also available on MSDN)
+-   [Multi-Targeting QuickStart](/guide/multi-targeting-quickstart(v=pandp.40)) (also available on MSDN)
 

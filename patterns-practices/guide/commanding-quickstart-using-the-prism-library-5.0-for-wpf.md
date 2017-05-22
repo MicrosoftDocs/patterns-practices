@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921082(v=PandP.40)'
 
 # Commanding QuickStart Using the Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
 
 The Commanding QuickStart sample demonstrates how to build a Windows Presentation Foundation (WPF) application that uses delegate and composite commands provided by the Prism Library to handle UI actions in a decoupled way. This is useful when implementing the Model-View-ViewModel (MVVM) pattern. The Prism Library also provides an implementation of the ICommand interface.
 
@@ -15,7 +15,7 @@ The Commanding QuickStart sample demonstrates how to build a Windows Presentatio
 
 The Commanding QuickStart is based on a fictitious product ordering system. The main window represents a subset of a larger system. In this window, the user can place customer orders and submit them. The following illustration shows the QuickStart's main window.
 
-![](https://msdn.microsoft.com/en-us/Ff921082.B0DAAAF6E094C006AD15EE91BD9E6E4E(en-us,PandP.40).png "Commanding QuickStart")
+![](images/commanding-quickstart.png "Commanding QuickStart")
 
 Commanding QuickStart
 
@@ -33,7 +33,7 @@ This QuickStart requires Visual Studio 2012 or later and the .NET Framework 4.5.
 
 The QuickStart highlights the key implementation details of an application that uses commands. The following illustration shows the key artifacts in the application.
 
-![](https://msdn.microsoft.com/en-us/Ff921082.EBA20354352E1B321D53A2B31060957C(en-us,PandP.40).png "Commanding QuickStart conceptual view")
+![](images/composite-command.png "Commanding QuickStart conceptual view")
 
 Commanding QuickStart conceptual view
 
@@ -212,18 +212,18 @@ You should see the QuickStart window and the tests automatically interact with t
 
 For more information about commands, see the following topics:
 
--  [Implementing the MVVM Pattern](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40))
--  [Communicating Between Loosely Coupled Components](https://msdn.microsoft.com/en-us/library/ff921122(v=pandp.40))
+-  [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [Communicating Between Loosely Coupled Components](/guide/9-communicating-between-loosely-coupled-components-using-the-prism-library-5.0-for-wpf(v=pandp.40))
 
 To learn about other code samples included with Prism, see the following topics:
 
--  [Stock Trader Reference Implementation](https://msdn.microsoft.com/en-us/library/ff921074(v=pandp.40))
--  [Modularity QuickStarts](https://msdn.microsoft.com/en-us/library/ff921068(v=pandp.40))
--  [Interactivity QuickStart](https://msdn.microsoft.com/en-us/library/ff921081(v=pandp.40))
--  [MVVM QuickStart](https://msdn.microsoft.com/en-us/library/gg430857(v=pandp.40))
--  [UI Composition QuickStart](https://msdn.microsoft.com/en-us/library/ff921174(v=pandp.40))
--  [State-Based Navigation QuickStart](https://msdn.microsoft.com/en-us/library/gg405495(v=pandp.40))
--  [View-Switching Navigation QuickStart](https://msdn.microsoft.com/en-us/library/gg430881(v=pandp.40))
--  [Event Aggregation QuickStart](https://msdn.microsoft.com/en-us/library/ff921173(v=pandp.40))
+-  [Stock Trader Reference Implementation](/guide/stock-trader-reference-implementation-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [Modularity QuickStarts](/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [Interactivity QuickStart](/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [MVVM QuickStart](/guide/mvvm-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [UI Composition QuickStart](/guide/ui-composition-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [State-Based Navigation QuickStart](/guide/state-based-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [View-Switching Navigation QuickStart](/guide/view-switching-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [Event Aggregation QuickStart](/guide/event-aggregation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
 
 

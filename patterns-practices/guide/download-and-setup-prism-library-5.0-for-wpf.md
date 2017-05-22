@@ -7,11 +7,11 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405471(v=PandP.40)'
 
 # Download and Setup Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
 
 Learn what’s included in Prism 5.0 including the documentation, WPF code samples, and libraries. Additionally find out where to get the library and sample source code and the library NuGet packages.
 
-For a list of the new features, assets, and API changes, see [What's New in Prism 5.0](https://msdn.microsoft.com/en-us/library/gg430871(v=pandp.40)).
+For a list of the new features, assets, and API changes, see [What's New in Prism 5.0](/guide/whats-new-in-prism-library-5.0-for-wpf(v=pandp.40)).
 
 ## Documentation
 
@@ -201,7 +201,7 @@ As part of shipping the Prism Library as NuGet packages, the Prism Library proje
 
 
 -   [ManifestManagerUtility for ClickOnce](http://compositewpf.codeplex.com/releases/view/14771)
--   [Getting Started Using the Prism Library Hands-on Lab](https://msdn.microsoft.com/en-us/library/gg405497(v=pandp.40))
+-   [Getting Started Using the Prism Library Hands-on Lab](/guide/18-publishing-and-updating-applications-using-the-prism-library-5.0-for-wpf-hands-on-lab(v=pandp.40))
 -   [MVVM Training](http://visualstudiogallery.msdn.microsoft.com/3ab5f02f-0c54-453c-b437-8e8d57eb9942)
 
 Next Topic | Previous Topic | [Community](https://compositewpf.codeplex.com/)

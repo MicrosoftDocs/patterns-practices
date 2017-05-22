@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921141(v=PandP.40)'
 
 # 17: Getting Started Using the Prism Library 5.0 for WPF Hands-on Lab
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism)
 
 In this lab and associated sample, you will learn the basic concepts of modular application development using the Prism Library, and apply them to create a solution that you can use as the starting point for building a composite Windows Presentation Foundation (WPF) application. After completing this lab, you will be able to do the following:
 
@@ -24,7 +24,7 @@ Before you can use the Prism Library, the following must be installed:
 -  Microsoft Visual Studio 2013 Professional, Premium, or Ultimate editions
 -  Microsoft .NET Framework 4.5 (installed with Visual Studio 2013)
 -  Optional tool:
-  -  [Microsoft Blend for Visual Studio 2013](http://www.microsoft.com/expression/products/blend_overview.aspx)
+  -  [Microsoft Blend for Visual Studio 2013](http://www.microsoft.com/expression/products/blend_overview)
 
 ## Preparation
 
@@ -36,7 +36,7 @@ This topic requires you to have the following Prism Library and Unity Applicatio
 > [!NOTE]
 > This hands-on lab uses the Unity container, but you can also use the Managed Extensibility Framework (MEF) with the Prism Library.
 
-This hands-on lab assumes that you understand Prism basic concepts. For more information, see [Prism Key Concepts](https://msdn.microsoft.com/en-us/library/ff921153(v=pandp.40)#PrismKeyConcepts) in the [Introduction](https://msdn.microsoft.com/en-us/library/ff921153(v=pandp.40)).
+This hands-on lab assumes that you understand Prism basic concepts. For more information, see [Prism Key Concepts](/guide/1-introduction-to-the-prism-library-5.0-for-wpf(v=pandp.40)#PrismKeyConcepts) in the [Introduction](/guide/1-introduction-to-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 ## Procedures
 
@@ -67,7 +67,7 @@ The following procedure describes how to create a solution with a shell project.
 
   Visual Studio will create the HelloWorld project, as shown in the following illustration. This project will be the shell project of your application.
 
-  ![](https://msdn.microsoft.com/en-us/Ff921141.539F66E7016D243D8FC1DB4C15F0767D(en-us,PandP.40).png "HelloWorld project")
+  ![](images/helloworld-project.png "HelloWorld project")
 
   HelloWorld project
 
@@ -84,7 +84,7 @@ The following procedure explains how to set up the shell window.
 1. In Solution Explorer, rename the file MainWindow.xaml to Shell.xaml.
 2. Open the code-behind file Shell.xaml.cs and rename the **MainWindow** class to **Shell** using the Visual Studio refactoring tools. To do this, right-click **MainWindow** in the class signature, point to **Refactor**, and then click **Rename**, as shown in the following illustration. In the **Rename** dialog box, type **Shell** as the new name, and then click **OK**. If the **Preview Changes – Rename** dialog box appears, click **Apply**.
 
-  ![](https://msdn.microsoft.com/en-us/Ff921141.8644A8AFE57DB5A5446E0356E342BE9E(en-us,PandP.40).png "MainWindow renaming using Visual Studio refactoring tools")
+  ![](images/mainwindow-renaming-using-visual-studio-refactoring-tools.png "MainWindow renaming using Visual Studio refactoring tools")
 
   MainWindow renaming using Visual Studio refactoring tools
 
@@ -131,7 +131,7 @@ The following procedure describes how to add an **ItemsControl** control to the 
 ```
   The following illustration shows the shell window in the Design view.
 
-  ![](https://msdn.microsoft.com/en-us/Ff921141.C1554431D7B868750CBD484EEC4A8C4D(en-us,PandP.40).png "Shell window with an ItemsControl control")
+  ![](images/shell-window-with-an-itemscontrol-control.png "Shell window with an ItemsControl control")
 
   Shell window with an ItemsControl control
 
@@ -224,7 +224,7 @@ The following procedure explains how to set up the application's bootstrapper.
 
 10. Build and run the application. You should see an empty Hello World window, as shown in the following illustration.
 
-  ![](https://msdn.microsoft.com/en-us/Ff921141.BCDEE63AFF379A05186594ABCFDA845C(en-us,PandP.40).png "Hello World window")
+  ![](images/hello-world-window.png "Hello World window")
 
   Hello World window
 
@@ -243,7 +243,7 @@ The following procedure describes how to create a module.
 
 1. Add a new class library project to your solution. To do this, right-click the **HelloWorld.Desktop** solution node in Solution Explorer, point to **Add**, and then click **New Project**. In the **Project types** list, select **Windows** in the **Visual C#** node. In the **Templates** box, click **Class Library**. Finally, set the project's name to HelloWorldModule, and then click **OK**. The following illustration shows your solution.
 
-  ![](https://msdn.microsoft.com/en-us/Ff921141.55EAEBECB350F7B43554DBC75C0A59E7(en-us,PandP.40).png "Solution with a module named HelloWorldModule")
+  ![](images/solution-with-a-module-named-helloworldmodule.png "Solution with a module named HelloWorldModule")
 
   Solution with a module named HelloWorldModule
 
@@ -287,7 +287,7 @@ The following procedure describes how to create a module.
 
   The following illustration shows the solution with the **HelloWorldModule** module.
 
-  ![](https://msdn.microsoft.com/en-us/Ff921141.1159A91B6959688194E1FADE1CAF321F(en-us,PandP.40).png "Solution with the HelloWorldModule")
+  ![](images/solution-with-the-helloworldmodule.png "Solution with the HelloWorldModule")
 
   Solution with the HelloWorldModule
 
@@ -370,7 +370,7 @@ The following procedure describes how to create a view.
 3. Save the file.
 
 > [!NOTE]
-> To keep this hands-on lab simple, the procedure did not explain how to create a view following the Model-View-ViewModel (MVVM) pattern. For more information about the MVVM pattern, see [Implementing the MVVM Pattern](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40)).
+> To keep this hands-on lab simple, the procedure did not explain how to create a view following the Model-View-ViewModel (MVVM) pattern. For more information about the MVVM pattern, see [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 ## Region Manager
 
@@ -415,7 +415,7 @@ The following procedure explains how to obtain an instance of the region manager
 
 6. Build and run the application. You should see the Hello World window with a "Hello World" message, as shown in the following illustration.
 
-  ![](https://msdn.microsoft.com/en-us/Ff921141.812AF017E554D8E50435127AE33428B1(en-us,PandP.40).png "Hello World message")
+  ![](images/hello-world-message.png "Hello World message")
 
   Hello World message
 
@@ -426,13 +426,13 @@ The following procedure explains how to obtain an instance of the region manager
 
 To learn about code samples included with Prism, see the following topics:
 
--  [Stock Trader Reference Implementation](https://msdn.microsoft.com/en-us/library/ff921074(v=pandp.40))
--  [Modularity QuickStarts](https://msdn.microsoft.com/en-us/library/ff921068(v=pandp.40))
--  [Interactivity QuickStart](https://msdn.microsoft.com/en-us/library/ff921081(v=pandp.40))
--  [MVVM QuickStart](https://msdn.microsoft.com/en-us/library/gg430857(v=pandp.40))
--  [Commanding QuickStart](https://msdn.microsoft.com/en-us/library/ff921082(v=pandp.40))
--  [UI Composition QuickStart](https://msdn.microsoft.com/en-us/library/ff921174(v=pandp.40))
--  [State-Based Navigation QuickStart](https://msdn.microsoft.com/en-us/library/gg405495(v=pandp.40))
--  [View-Switching Navigation QuickStart](https://msdn.microsoft.com/en-us/library/gg430881(v=pandp.40))
--  [Event Aggregation QuickStart](https://msdn.microsoft.com/en-us/library/ff921173(v=pandp.40))
+-  [Stock Trader Reference Implementation](/guide/stock-trader-reference-implementation-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [Modularity QuickStarts](/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [Interactivity QuickStart](/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [MVVM QuickStart](/guide/mvvm-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [Commanding QuickStart](/guide/commanding-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [UI Composition QuickStart](/guide/ui-composition-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [State-Based Navigation QuickStart](/guide/state-based-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [View-Switching Navigation QuickStart](/guide/view-switching-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [Event Aggregation QuickStart](/guide/event-aggregation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
 

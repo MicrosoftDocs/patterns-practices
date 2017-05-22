@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921098(v=PandP.40)'
 
 #  Composing the User Interface Using the Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
 
 A composite application user interface (UI) is composed from loosely coupled visual components known as *views* that are typically contained in the application modules, but they do not need to be. If you divide your application into modules, you need some way to loosely compose the UI, but you might choose to use this approach even if the views are not in modules. To the user, the application presents a seamless user experience and delivers a fully integrated application.
 
@@ -21,7 +21,7 @@ An application UI can be built by using one of the following paradigms:
 
 The Stock Trader Reference Implementation (Stock Trader RI) is composed by loading multiple views that come from different modules into regions exposed by the shell, as shown in the following illustration.
 
-![](https://msdn.microsoft.com/en-us/Ff921098.869B45BF70BEAF963D2D3C3B4B93C5A3(en-us,PandP.40).png "Stock Trader RI regions and views")
+![](images/stock_trader_ri_regions_and_views.png "Stock Trader RI regions and views")
 
 Stock Trader RI regions and views
 
@@ -74,7 +74,7 @@ Unit testing best practices recommend that the object be tested in isolation. To
 
 UI automation testing runs the application, applies gestures to the UI, and then tests for the expected results. This type of test verifies that UI elements are correctly connected to the application logic.
 
-Separating the logic from the view provides a clean separation of concerns. In addition to testability considerations, this separation enables designers to work on the UI independently of the developer. For more information about MVVM, see [Implementing the MVVM Pattern](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40)).
+Separating the logic from the view provides a clean separation of concerns. In addition to testability considerations, this separation enables designers to work on the UI independently of the developer. For more information about MVVM, see [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 ### Commands, UI Triggers, Actions, and Behaviors
 
@@ -82,17 +82,17 @@ When a view is implemented with its logic in the code-behind file, you add event
 
 #### Commands
 
-Commands separate the semantics and the object that invokes a command from the logic that executes the command. Built into commands is the ability to indicate whether an action is available. Commands in the UI are data bound to **ICommand** properties on the view model. For more information about commands, see [Commands](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40)#Commands) in [Implementing the MVVM Pattern](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40)).
+Commands separate the semantics and the object that invokes a command from the logic that executes the command. Built into commands is the ability to indicate whether an action is available. Commands in the UI are data bound to **ICommand** properties on the view model. For more information about commands, see [Commands](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)#Commands) in [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 #### UI Triggers, Actions, and Behaviors
 
-Triggers, actions, and behaviors are part of the **Microsoft.Expression.Interactivity** namespace and are shipped with Blend for Visual Studio 2013. They are also part of the Blend SDK. Triggers, actions, and behaviors provide a comprehensive API for handling UI events or commands, and then routing them to the **ICommand** properties methods exposed by the **DataContext**. For more information about UI triggers, actions, and behaviors, see sections Invoking Command Objects from the View and Invoking Command Methods from the View in [Implementing the MVVM Pattern](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40)) and [Interaction Triggers and Events to Commands](https://msdn.microsoft.com/en-us/library/gg405494(v=pandp.40)#InteractionTriggers) in [Advanced MVVM Scenarios](https://msdn.microsoft.com/en-us/library/gg405494(v=pandp.40)).
+Triggers, actions, and behaviors are part of the **Microsoft.Expression.Interactivity** namespace and are shipped with Blend for Visual Studio 2013. They are also part of the Blend SDK. Triggers, actions, and behaviors provide a comprehensive API for handling UI events or commands, and then routing them to the **ICommand** properties methods exposed by the **DataContext**. For more information about UI triggers, actions, and behaviors, see sections Invoking Command Objects from the View and Invoking Command Methods from the View in [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)) and [Interaction Triggers and Events to Commands](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(v=pandp.40)#InteractionTriggers) in [Advanced MVVM Scenarios](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 #### User Interactions
 
 User interactions are interactions that the application presents to the user. These interaction are typically popup windows presented to the user. In MVVM scenarios these user interactions can be generated either from the view or from the view model. Prism provides **InteractionRequests** and **InteractionRequestTriggers** for cases when the view model needs to request a user interaction, and the **InvokeCommandAction** action for when the view needs to invoke a command when a specified event is fired.
 
-For more information about user Interactions, examples, and how to use them, see the [Interactivity QuickStart](https://msdn.microsoft.com/en-us/library/ff921081(v=pandp.40)).
+For more information about user Interactions, examples, and how to use them, see the [Interactivity QuickStart](/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 ### Data Binding
 
@@ -102,7 +102,7 @@ Data binding takes full advantage of the intrinsic change notification provided 
 
 Data binding enables dissimilar target and source types to data bind by using a value converter to convert one type to the other type. Data binding has multiple validation hooks within its pipeline that you can use to validate user input.
 
-You are strongly encouraged to read the [Dependency Properties Overview](http://msdn.microsoft.com/en-us/library/ms752914.aspx) and [Data Binding Overview](http://msdn.microsoft.com/en-us/library/ms752347.aspx) topics on MSDN. A full understand of these two topics is critical to successfully developing applications on the Microsoft XAML platforms. For more information about data binding, see [Data Binding](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40)#DataBinding) in [Implementing the MVVM Pattern](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40)).
+You are strongly encouraged to read the [Dependency Properties Overview](http://msdn.microsoft.com/en-us/library/ms752914.aspx) and [Data Binding Overview](http://msdn.microsoft.com/en-us/library/ms752347.aspx) topics on MSDN. A full understand of these two topics is critical to successfully developing applications on the Microsoft XAML platforms. For more information about data binding, see [Data Binding](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)#DataBinding) in [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 ## Regions
 
@@ -112,7 +112,7 @@ Regions are enabled in the Prism Library through a region manager, regions, and 
 
 The **RegionManager** class is responsible for creating and maintaining a collection of regions for the host controls. The **RegionManager** uses a control-specific adapter that associates a new region with the host control. The following illustration shows the relationship between the region, control, and adapter set up by the **RegionManager**.
 
-![](https://msdn.microsoft.com/en-us/Ff921098.F7CC02ABD2B4111432AD8901633D6C5B(en-us,PandP.40).png "Region, control, and adapter relationship")
+![](images/region-control-and-adapter-relationship.png "Region, control, and adapter relationship")
 
 Region, control, and adapter relationship
 
@@ -132,7 +132,7 @@ A region can contain zero or more items. Depending on the type of host control t
 
 In the following illustration, the Stock Trader RI shell contains four regions: **MainRegion**, **MainToolbarRegion**, **ResearchRegion**, and **ActionRegion**. These regions are populated by the various modules in the application—the content can be changed at any time.
 
-![](https://msdn.microsoft.com/en-us/Ff921098.D911E71C13EA21577E46AFCC55864734(en-us,PandP.40).png)
+![](images/stock-trader-ri-regions.png)
 
 Stock Trader RI regions
 
@@ -144,7 +144,7 @@ The **MainRegion** contains the **WatchListView** user control, which is contain
 
 In applications created with the Prism Library, mappings like this will be a part of the design process because designers and developers use them to determine what content is proposed to be in a specific region. This allows designers to determine the overall space needed and any additional items that must be added to ensure that the content will be viewable in the allowable space.
 
-![](https://msdn.microsoft.com/en-us/Ff921098.77F3DC59CBDF535BF41075BCC0CE8D5E(en-us,PandP.40).png)
+![](images/module-user-control-to-region-mapping.png)
 
 Module user control to region mapping
 
@@ -207,7 +207,7 @@ The **SelectorItemsSourceSyncBehavior** is used only for controls that derive fr
 
 ### Extending the Region Implementation
 
-The Prism Library provides extension points that allow you to customize or extend the default behavior of the provided APIs. For example, you can write your own region adapters, region behaviors, or change the way the Navigation API parses URIs. For more information about extending the Prism Library, see [Extending the Prism Library](https://msdn.microsoft.com/en-us/library/gg430866(v=pandp.40)).
+The Prism Library provides extension points that allow you to customize or extend the default behavior of the provided APIs. For example, you can write your own region adapters, region behaviors, or change the way the Navigation API parses URIs. For more information about extending the Prism Library, see [Extending the Prism Library](/guide/15-extending-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 ## View Composition
 
@@ -225,7 +225,7 @@ In view injection, your code obtains a reference to a region, and then programma
 
 ### Navigation
 
-The Prism Library 4.0 contains Navigation APIs. The Navigation APIs simplify the view injection process by allowing you to navigate a region to an URI. The Navigation API instantiates the view, adds it to the region, and then activates it. Additionally, the Navigation API allows navigating back to a previously created view contained in a region. For more information about the Navigation APIs, see [Navigation](https://msdn.microsoft.com/en-us/library/gg430861(v=pandp.40)).
+The Prism Library 4.0 contains Navigation APIs. The Navigation APIs simplify the view injection process by allowing you to navigate a region to an URI. The Navigation API instantiates the view, adds it to the region, and then activates it. Additionally, the Navigation API allows navigating back to a previously created view contained in a region. For more information about the Navigation APIs, see [Navigation](/guide/8-navigation-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 ### When to Use View Discovery vs. View Injection
 
@@ -265,7 +265,7 @@ You can also have more than one shell in your application. If your application i
 
 The WPF Stock Trader RI has a shell as its main window. In the following illustration, the shell and views are highlighted. The shell is the main window that appears when the Stock Trader RI starts and which contains all the views. It defines the regions into which modules add their views and a couple of top-level UI items, including the CFI Stock Trader title and the Watch List tear-off banner.
 
-![](https://msdn.microsoft.com/en-us/Ff921098.7B849FAE76B296BF128C2A75CE185105(en-us,PandP.40).png "Stock Trader RI shell window, regions, and views")
+![](images/stock-trader-ri-shell-window.png "Stock Trader RI shell window, regions, and views")
 
 Stock Trader RI shell window, regions, and views
 
@@ -366,7 +366,7 @@ The shell of the application defines the application layout at the highest level
 
 A template shell
 
-![](https://msdn.microsoft.com/en-us/Ff921098.4AC6F9531F379AA9E8DF7E653206FA37(en-us,PandP.40).png "A template shell")
+![](images/template-shell.png "A template shell")
 
 Regions are sometimes used to define locations for multiple views that are logically related. In this scenario, the region control is typically an **ItemsControl**-derived control that will display the views according to the layout strategy that it implements, such as in a stacked or tabbed layout arrangement.
 
@@ -376,13 +376,13 @@ Regions can also be used to define a location for a single view; for example, by
 
 The Stock Trader RI shows the use of both the single view and the multiple view layout approaches. You can see both in the shell for the application, which defines locations for the application's high-level views. The following illustration shows the regions defined by the Stock Trader RI shell.
 
-![](https://msdn.microsoft.com/en-us/Ff921098.7EFCA7836E2B9971056BC849909B0203(en-us,PandP.40).png "Stock Trader RI shell regions")
+![](images/stock-trader-ri-shell-regions.png "Stock Trader RI shell regions")
 
 Stock Trader RI shell regions
 
 A multiple-view layout is also demonstrated in the Stock Trader RI when the application is buying or selling a stock. The Buy/Sell area is a list-style region that shows multiple buy/sell views (**OrderCompositeView**) as part of its list, as shown in the following illustration.
 
-![](https://msdn.microsoft.com/en-us/Ff921098.2985A028341568D8851ED604B82DE4D1(en-us,PandP.40).png "ItemsControl region")
+![](images/items-control-region.png "ItemsControl region")
 
 ItemsControl region
 
@@ -445,7 +445,7 @@ After the application is loaded, the composite view is notified to handle the pl
 
 The following illustration shows the view discovery approach.
 
-![](https://msdn.microsoft.com/en-us/Ff921098.E89D423BE58E785B61E70AF05EB0F518(en-us,PandP.40).png "View discovery")
+![](images/view-discovery.png "View discovery")
 
 View discovery
 
@@ -471,7 +471,7 @@ The UI Composition QuickStart has a walkthrough in the EmployeeModule ModuleInit
 
 In the view injection approach, views are programmatically added or removed from a named location by the modules that manage them. To enable this, the application contains a registry of named locations in the UI. A module can use the registry to look up one of the locations and then programmatically inject views into it. To make sure that locations in the registry can be accessed similarly, each of the named locations adheres to a common interface used to inject the view. The following illustration shows the view injection approach.
 
-![](https://msdn.microsoft.com/en-us/Ff921098.EDA0B73A2FD9FC5B171ACC1C1A69166A(en-us,PandP.40).png "View injection")
+![](images/view-injection.png "View injection")
 
 View injection
 
@@ -504,7 +504,7 @@ The following code example from the Stock Trader RI **ArticleViewModel** illustr
    new Uri("/NewsReaderView", UriKind.Relative));
 ```
 
-For more information about region navigation, see [Navigation](https://msdn.microsoft.com/en-us/library/gg430861(v=pandp.40)). The View-Switching Navigation QuickStart and State-Based Navigation QuickStart are also examples of implementing application navigation.
+For more information about region navigation, see [Navigation](/guide/8-navigation-using-the-prism-library-5.0-for-wpf(v=pandp.40)). The View-Switching Navigation QuickStart and State-Based Navigation QuickStart are also examples of implementing application navigation.
 
 ## Ordering Views in a Region
 
@@ -599,7 +599,7 @@ Scoped regions are available only with view injection. You should use them if yo
 
 Instead, use scoped regions so that each view will have its own **RegionManager** and its regions will be registered with that **RegionManager** rather than the parent **RegionManager**, as shown in the following illustration.
 
-![](https://msdn.microsoft.com/en-us/Ff921098.C244CEA1B4D8F4EDC72EF84507A9A66A(en-us,PandP.40).png "Parent and scoped RegionManagers")
+![](images/parent-region-manager.png "Parent and scoped RegionManagers")
 
 Parent and scoped RegionManagers
 
@@ -619,7 +619,7 @@ The **Add** method will return the new **RegionManager** that the view can retai
 
 The visual representation of your application can take many forms, including user controls, custom controls, and data templates, to name a few. In the case of the Stock Trader RI, user controls are typically used to represent distinct sections on the main window, but this is not a standard. In your application, you should use an approach that you are most familiar with and that fits into how you work as a designer. Regardless of the predominating visual representation in your application, you will inevitably use a combination of user controls, custom controls, and data templates in your overall design. The following figure shows where the Stock Trader RI uses these various items. This illustration also serves as a reference for the following sections, which describe each of the items.
 
-![](https://msdn.microsoft.com/en-us/Ff921098.1011713B34DC29648F8CFC2768D7A0D3(en-us,PandP.40).png)
+![](images/user-controls-custom-controls-and-data-templates.png)
 
 Stock Trader RI usage of user controls, custom controls, and data templates
 
@@ -641,7 +641,7 @@ Blend for Visual Studio 2013 and Visual Studio 2013 have full visual design supp
 
 Resources such as styles, resource dictionaries, and control templates can be scattered throughout an application. This is especially true with a composite application. When you consider where to place resources, pay special attention to dependencies between UI elements and the resources they need. The Stock Trader RI solution, shown in the following figure, contains labels that indicate the various areas where resources can live.
 
-![](https://msdn.microsoft.com/en-us/Ff921098.94BD083822D75C8EEE8B36350C253C9C(en-us,PandP.40).png)
+![](images/resource-distribution-across-solution.png)
 
 Resource distribution across a solution
 
@@ -681,11 +681,11 @@ The items cannot be seen during design time; therefore, determining how big they
 -  Consider using an expander and **ScrollViewer** combination for situations in which a large amount of dynamic content needs to fit into a confined area.
 -  Pay close attention to how content enlarges as the screen content grows to ensure that the appearance of your application is appealing in any resolution.
 
-![](https://msdn.microsoft.com/en-us/Ff921098.7A95A0CC350D77FE21CA4F575EDC2422(en-us,PandP.40).png "Stock Trader RI main window in Blend for Visual Studio 2013")
+![](images/stock-trader-ri-main-window-in-blend-for-visual-studio-2013.png "Stock Trader RI main window in Blend for Visual Studio 2013")
 
 Stock Trader RI main window in Blend for Visual Studio 2013
 
-![](https://msdn.microsoft.com/en-us/Ff921098.F4DC0365E510CBBE0B2CB69BB23B9B4B(en-us,PandP.40).png)
+![](images/stock-trader-ri-main-window-during_run_time.png)
 
 Stock Trader RI main window during run time
 
@@ -693,7 +693,7 @@ Stock Trader RI main window during run time
 
 The two previous figures illustrate one of the challenges of working with high-level views that are composed at run time. Each UI element in a composite application must be designed separately. This makes it hard to visualize how the composite page or window will look at run time. To visualize the composite view in its composed state, you can create a test project with a page or window that contains all the UI elements for the view you want to test.
 
--  Additionally, consider using the design-time sample data features in Blend for Visual Studio 2013 and Visual Studio 2013 to populate UI elements with data. Design-time data is very helpful when you work with data templates, list controls, charts, or graphs. For more information, see the section [Guidelines for Design-Time Sample Data](https://msdn.microsoft.com/en-us/library/Ff921098(v=PandP.40)#GuidelinesforDesignTimeSampleData).
+-  Additionally, consider using the design-time sample data features in Blend for Visual Studio 2013 and Visual Studio 2013 to populate UI elements with data. Design-time data is very helpful when you work with data templates, list controls, charts, or graphs. For more information, see the section [Guidelines for Design-Time Sample Data](/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf(v=PandP.40)#GuidelinesforDesignTimeSampleData).
 
 ### Layout
 
@@ -792,19 +792,19 @@ The following table lists the main causes of poor design-time experiences. By av
 </tr>
 <tr class="even">
 <td><p>Spinning multiple threads at design time. For example, instantiating and starting a **Timer** in a constructor or **Loaded** event at design time.</p></td>
-<td><p><img src="https://msdn.microsoft.com/en-us/Ff921098.1EF51AB795355866AD21F44FBAFB9020(en-us,PandP.40).png" /></p></td>
-<td><p><img src="https://msdn.microsoft.com/en-us/Ff921098.1EF51AB795355866AD21F44FBAFB9020(en-us,PandP.40).png" /></p></td>
+<td><p>![](images/avoid-code.png)</p></td>
+<td><p>![](images/avoid-code.png)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Using controls that cause stack overflows at design time.</p>
 <p>Using controls that attempt to recursively load themselves.</p></td>
-<td><p><img src="https://msdn.microsoft.com/en-us/Ff921098.1EF51AB795355866AD21F44FBAFB9020(en-us,PandP.40).png" /></p></td>
-<td><p><img src="https://msdn.microsoft.com/en-us/Ff921098.1EF51AB795355866AD21F44FBAFB9020(en-us,PandP.40).png" /></p></td>
+<td><p>![](images/avoid-code.png)</p></td>
+<td><p>![](images/avoid-code.png)</p></td>
 </tr>
 <tr class="even">
 <td><p>Throwing null reference exceptions in converters or data template selectors.</p></td>
-<td><p><img src="https://msdn.microsoft.com/en-us/Ff921098.1EF51AB795355866AD21F44FBAFB9020(en-us,PandP.40).png" /></p></td>
-<td><p><img src="https://msdn.microsoft.com/en-us/Ff921098.1EF51AB795355866AD21F44FBAFB9020(en-us,PandP.40).png" /></p></td>
+<td><p>![](images/avoid-code.png)</p></td>
+<td><p>![](images/avoid-code.png)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Throwing null reference or other exceptions in constructors. These are caused by:</p>
@@ -812,23 +812,23 @@ The following table lists the main causes of poor design-time experiences. By av
 <li>Using code that calls into the business or data layers to return data from a database or over the network at design time.</li>
 <li>Attempting to resolve dependencies by using MEF, inversion of control (IoC), or a Service Locator before bootstrapping or container initialization code has run.</li>
 </ul></td>
-<td><p><img src="https://msdn.microsoft.com/en-us/Ff921098.1EF51AB795355866AD21F44FBAFB9020(en-us,PandP.40).png" /></p></td>
-<td><p><img src="https://msdn.microsoft.com/en-us/Ff921098.1EF51AB795355866AD21F44FBAFB9020(en-us,PandP.40).png" /></p></td>
+<td><p>![](images/avoid-code.png)</p></td>
+<td><p>![](images/avoid-code.png)</p></td>
 </tr>
 <tr class="even">
 <td><p>Throwing null reference or other exceptions inside the **Loaded** events of controls or user controls. This happens when you make assumptions about the state of the control that might be true at run time but are not true at design time.</p></td>
-<td><p><img src="https://msdn.microsoft.com/en-us/Ff921098.1EF51AB795355866AD21F44FBAFB9020(en-us,PandP.40).png" /></p></td>
-<td><p><img src="https://msdn.microsoft.com/en-us/Ff921098.1EF51AB795355866AD21F44FBAFB9020(en-us,PandP.40).png" /></p></td>
+<td><p>![](images/avoid-code.png)</p></td>
+<td><p>![](images/avoid-code.png)</p></td>
 </tr>
 <tr class="odd">
 <td><p>Attempting to access the **Application** or **Application.Current** object at design time.</p></td>
-<td><p><img src="https://msdn.microsoft.com/en-us/Ff921098.1EF51AB795355866AD21F44FBAFB9020(en-us,PandP.40).png" /></p></td>
-<td><p><img src="https://msdn.microsoft.com/en-us/Ff921098.1EF51AB795355866AD21F44FBAFB9020(en-us,PandP.40).png" /></p></td>
+<td><p>![](images/avoid-code.png)</p></td>
+<td><p>![](images/avoid-code.png)</p></td>
 </tr>
 <tr class="even">
 <td><p>Creating very large projects.</p></td>
-<td><p><img src="https://msdn.microsoft.com/en-us/Ff921098.1E77BEFE1197A0832B8DC4FBE919E16D(en-us,PandP.40).png" /></p></td>
-<td><p><img src="https://msdn.microsoft.com/en-us/Ff921098.1EF51AB795355866AD21F44FBAFB9020(en-us,PandP.40).png" /></p></td>
+<td><p>![](images/approve-code.png)" /></p></td>
+<td><p>![](images/avoid-code.png)</p></td>
 </tr>
 </tbody>
 </table>
@@ -853,7 +853,7 @@ Both Blend and Visual Studio use mockups of the root object displayed in a desig
 
 In the following illustration, the root **Windows** constructor and **Loaded** event code will not be executed. The child user controls constructor and **Loaded** event code will be executed.
 
-![](https://msdn.microsoft.com/en-us/Ff921098.FBE263DCB72E5BBE5D3E67578E8F8863(en-us,PandP.40).png)
+![](images/child-user-control.png)
 
 These concepts are important, especially if you are building composite applications or applications that are built dynamically at run time.
 
@@ -867,7 +867,7 @@ The built-in "d:" design-time properties provide a smooth road to a successful d
 
 The problem we need to solve is how to provide a shape to the Binding Builder tools at design-time. In this case, the shape is an instantiated **Type** that the Binding Builder can reflect on, and then list those properties for selection when building a binding.
 
-Shape is also provided by design-time sample data. Sample data is covered in the section, [Guidelines for Design-Time Sample Data](https://msdn.microsoft.com/en-us/library/Ff921098(v=PandP.40)#GuidelinesforDesignTimeSampleData).
+Shape is also provided by design-time sample data. Sample data is covered in the section, [Guidelines for Design-Time Sample Data](/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf(v=PandP.40)#GuidelinesforDesignTimeSampleData).
 
 The following sections describe how to use the **d:DataContext** property and the **d:DesignInstance** markup extension.
 
@@ -1064,19 +1064,19 @@ When you use Visual Studio 2013 to add a sample data file, you typically add a n
 </tbody>
 </table>
 
-![](https://msdn.microsoft.com/en-us/Ff921098.5AA01BF749035206E9702F7E5D1C2724(en-us,PandP.40).png "Sample data file properties")
+![](images/sample-data-file-properties.png "Sample data file properties")
 
 Sample data file properties
 
 Expression Blend provides tooling for quickly creating and binding XAML sample data. The XAML sample data can be used and viewed in the Visual Studio 2013 designer, as shown in the following illustration.
 
-![](https://msdn.microsoft.com/en-us/Ff921098.ACEAFA63887785100A0FF65750D7AF42(en-us,PandP.40).png "Defining sample data in Blend for Visual Studio 2013")
+![](images/sample-data-in-Blend-for-visual-studio-2013.png "Defining sample data in Blend for Visual Studio 2013")
 
 Defining sample data in Blend for Visual Studio 2013
 
 After it generates the sample data, the data will appear in the Data pane, as shown in the following illustration.
 
-![](https://msdn.microsoft.com/en-us/Ff921098.DF7BFF5727521DCAB5A6ABCF8CAA1A27(en-us,PandP.40).png "Data pane")
+![](images/data-pane.png "Data pane")
 
 Data pane
 
@@ -1117,13 +1117,13 @@ The following are the important UI layout decisions:
 
 ## More Information
 
-For more information about extending the Prism Library, see [Extending the Prism Library](https://msdn.microsoft.com/en-us/library/gg430866(v=pandp.40)).
+For more information about extending the Prism Library, see [Extending the Prism Library](/guide/15-extending-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
-For more information about commands, see [Commands](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40)#Commands) in [Implementing the MVVM Pattern](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40)).
+For more information about commands, see [Commands](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)#Commands) in [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
-For more information about data binding, see [Data Binding](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40)#DataBinding) in [Implementing the MVVM Pattern](https://msdn.microsoft.com/en-us/library/gg405484(v=pandp.40)).
+For more information about data binding, see [Data Binding](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)#DataBinding) in [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
-For more information about region navigation, see [Navigation](https://msdn.microsoft.com/en-us/library/gg430861(v=pandp.40)).
+For more information about region navigation, see [Navigation](/guide/8-navigation-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
 
 For more information about the guidelines discussed in this topic, see the following:
 

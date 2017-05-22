@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921140(v=PandP.40)'
 
 #  Managing Dependencies Between Components Using the Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
 
 Applications based on the Prism Library are composite applications that potentially consist of many loosely coupled types and services. They need to interact to contribute content and receive notifications based on user actions. Because they are loosely coupled, they need a way to interact and communicate with one another to deliver the required business functionality. To tie together these various pieces, applications based on the Prism Library rely on a dependency injection container.
 
@@ -111,7 +111,7 @@ During initialization, a type can register other types, such as views and servic
     }
 ```
 
-Depending on which container you use, registration can also be performed outside the code through configuration. For an example of this, see Registering Modules using a Configuration File in [Modular Application Development](https://msdn.microsoft.com/en-us/library/gg405479(v=pandp.40)).
+Depending on which container you use, registration can also be performed outside the code through configuration. For an example of this, see Registering Modules using a Configuration File in [Modular Application Development](/guide/4-modular-application-development-using-prism-library-5.0-for-wpf(v=pandp.40)).
 
 > [!NOTE]
 > The advantage of registering in code, compared to configuration, is that the registration happens only if the module loads.
@@ -250,7 +250,7 @@ Dependency injection containers, often referred to as just "containers," are use
 
 The Prism Library provides the **UnityServiceLocatorAdapter** and the **MefServiceLocatorAdapter**. Both adapters implement the **ISeviceLocator** interface by extending the **ServiceLocatorImplBase** type. The following illustration shows the class hierarchy.
 
-![](https://msdn.microsoft.com/en-us/Ff921140.F6F1179437A349F28D690C9564BDA058(en-us,PandP.40).png "The Common Service Locator implementations in Prism")
+![](images/the-common-service-locator-implementations-in-prism.png "The Common Service Locator implementations in Prism")
 
 The Common Service Locator implementations in Prism
 

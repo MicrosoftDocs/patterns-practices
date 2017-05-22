@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430868(v=PandP.40)'
 
 #  Initializing Applications Using the Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](https://msdn.microsoft.com/en-us/library/gg406140.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
 
 This topic addresses what needs to happen to get a Prism for WPF application up and running. A Prism application requires registration and configuration during the application startup process—this is known as bootstrapping the application. The Prism bootstrapping process includes creating and configuring a module catalog, creating a dependency injection container such as Unity, configuring default region adapter for UI composition, creating and initializing the shell view, and initializing modules.
 
@@ -17,7 +17,7 @@ A bootstrapper is a class that is responsible for the initialization of an appli
 
 The Prism Library includes a default abstract **Bootstrapper** base class that can be specialized for use with any container. Many of the methods on the bootstrapper classes are virtual methods. You can override these methods as appropriate in your own custom bootstrapper implementation.
 
-![](https://msdn.microsoft.com/en-us/Gg430868.544A7BF3FF93BE95A370A3D97774244A(en-us,PandP.40).png "Basic stages of the bootstrapping process")
+![](images/basic-stages-of-the-bootstrapping-process.png "Basic stages of the bootstrapping process")
 
 Basic stages of the bootstrapping process
 
@@ -99,7 +99,7 @@ The **Bootstrapper** provides a protected **ModuleCatalog** property to referenc
     }
 ```
 
-In both the **UnityBootstrapper** and **MefBootstrapper** classes, the **Run** method calls the **CreateModuleCatalog** method and then sets the class's **ModuleCatalog** property using the returned value. If you override this method, it is not necessary to call the base class's implementation because you will replace the provided functionality. For more information about modularity, see "[Modular Application Development](https://msdn.microsoft.com/en-us/library/gg405479(v=pandp.40))."
+In both the **UnityBootstrapper** and **MefBootstrapper** classes, the **Run** method calls the **CreateModuleCatalog** method and then sets the class's **ModuleCatalog** property using the returned value. If you override this method, it is not necessary to call the base class's implementation because you will replace the provided functionality. For more information about modularity, see "[Modular Application Development](/guide/4-modular-application-development-using-prism-library-5.0-for-wpf(v=pandp.40))."
 
 ## Creating and Configuring the Container
 
