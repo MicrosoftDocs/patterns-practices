@@ -26,6 +26,6 @@ Public Sub New
 
 [PubSubEvent(Of TPayload) Class](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50))
 
-[PubSubEvent(Of TPayload) Members]
+PubSubEvent(Of TPayload) Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
