@@ -39,7 +39,6 @@ Gets or sets a <a href="https://msdn.microsoft.com/en-us/library/microsoft.pract
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
 [IEventSubscription Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50))
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
