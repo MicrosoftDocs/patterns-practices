@@ -51,7 +51,7 @@ With the addition of supporting MEF, there were several changes to the Prism Lib
     -   The **GetModuleCatalog** method in the **UnityBootstrapper** class is now called **CreateModuleCatalog**.
 
 
-    ```C#
+```C#
                 // This is the code from the Composite Application Library 2.x
                 // to specify the modules that compose the application.
                 protected override IModuleCatalog GetModuleCatalog()
@@ -70,9 +70,10 @@ With the addition of supporting MEF, there were several changes to the Prism Lib
                         .AddModule(typeof (ModuleB))
                         ;
                 }
-    ```
-=======
-	```C#
+```
+
+
+```C#
 				// This is the code from the Composite Application Library 2.x
 				// to specify the modules that compose the application.
 				protected override IModuleCatalog GetModuleCatalog()
@@ -91,7 +92,7 @@ With the addition of supporting MEF, there were several changes to the Prism Lib
 						.AddModule(typeof (ModuleB))
 						;
 				}
-	```
+```
 
 
 > [!NOTE]
@@ -101,7 +102,7 @@ With the addition of supporting MEF, there were several changes to the Prism Lib
     -   The **ConfigureModuleCatalog** virtual method was added to allow modifying the catalog after creation.
 
 
-    ```C#
+>```C#
                 // Using the ConfigureModuleCatalog method to populate
                 // the module catalog.
                 protected override void ConfigureModuleCatalog()
@@ -112,11 +113,10 @@ With the addition of supporting MEF, there were several changes to the Prism Lib
                                 .AddModule(typeof (ModuleB))
                                 ;
                 }
-    ```
+```
 
 
-=======
-	```C#
+>```C#
 				// Using the ConfigureModuleCatalog method to populate
 				// the module catalog.
 				protected override void ConfigureModuleCatalog()
@@ -127,8 +127,7 @@ With the addition of supporting MEF, there were several changes to the Prism Lib
 								 .AddModule(typeof (ModuleB))
 								 ;
 				}
-	```
-
+```
 	
 
     -   The **ConfigureServiceLocator** virtual method was added to allow overriding the configuration of the **ServiceLocator**.
