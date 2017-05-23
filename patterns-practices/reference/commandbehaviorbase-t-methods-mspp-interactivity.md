@@ -7,15 +7,12 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736245(v=PandP.50)'
 
 Prism Class Library
 
-CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Methods
-===================================================
+# CommandBehaviorBase(Of T) Methods
 
-The [CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.commandbehaviorbase%601) type exposes the following members.
+The [CommandBehaviorBase(Of T)](https://msdn.microsoft.com/en-us/library/dn736144(v=pandp.50)) type exposes the following members.
 
-Methods
--------
+## Methods
 
-<span id="methodTableToggle"></span>
 <table>
 <colgroup>
 <col width="33%" />
