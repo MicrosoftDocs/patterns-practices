@@ -5,16 +5,12 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Mvvm.BindableBase.OnPropertyChan
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736149(v=PandP.50)'
 ---
 
-Prism Class Library
 
-BindableBase..::.OnPropertyChanged Method
-=========================================
+# BindableBase.OnPropertyChanged Method
 
 
-Overload List
--------------
+## Overload List
 
-<span id="overloadMembersTableToggle"></span>
 <table>
 <colgroup>
 <col width="33%" />
@@ -31,14 +27,14 @@ Overload List
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736149.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.mvvm.bindablebase.onpropertychanged%60%601(system.linq.expressions.expression%7bsystem.func%7b%60%600%7d%7d)">OnPropertyChanged&lt;(Of &lt;(T&gt;)&gt;)(Expression&lt;(Of &lt;(Func&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;))</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn736238(v=pandp.50)">OnPropertyChanged&lt;(Of &lt;(T&gt;)&gt;)(Expression&lt;(Of &lt;(Func&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;))</a></td>
 <td><div class="summary">
 Raises this object's PropertyChanged event.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736149.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.mvvm.bindablebase.onpropertychanged(system.string)">OnPropertyChanged(String)</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn736150(v=pandp.50)">OnPropertyChanged(String)</a></td>
 <td><div class="summary">
 Notifies listeners that a property value has changed.
 </div></td>
@@ -46,12 +42,10 @@ Notifies listeners that a property value has changed.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
-<span id="seeAlsoToggle"></span>
-[BindableBase Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.bindablebase)
+[BindableBase Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase(v=pandp.50))
 
-[BindableBase Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mvvm.bindablebase)
+[BindableBase Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase_members(v=pandp.50))
 
-[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mvvm)
+[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm(v=pandp.50))
