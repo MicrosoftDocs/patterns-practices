@@ -270,5 +270,3 @@ In this task, you will launch the application as the client computer and see tha
   Update Available dialog box
 
 You should see the modified title on the application after it has launched.
-
-Next Topic | Previous Topic | [Home](/patterns-practices/index) | [Community](https://compositewpf.codeplex.com/)
