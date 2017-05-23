@@ -391,14 +391,19 @@ In the **ComposeEmailVew** class, an interaction request trigger is defined, and
 
 ```XAML
     <UserControl.Resources>
-        <DataTemplate x:Key"ConfirmExitDialogTemplate">
-            <TextBlock HorizontalAlignment"Center" VerticalAlignment"Center"
-                       Text"{Binding}"/>
+        <DataTemplate x:Key="ConfirmExitDialogTemplate">
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center"
+                    Text="{Binding}"/>
         </DataTemplate>
     </UserControl.Resources>
 
-    <Grid x:Name"LayoutRoot" Background"White">
-    <ei:Interaction.Triggers>     <prism:InteractionRequestTrigger SourceObject"{Binding             ConfirmExitInteractionRequest}">        <prism:PopupWindowAction IsModal"True" CenterOverAssociatedObject"True"/>      </prism:InteractionRequestTrigger></ei:Interaction.Triggers>
+    <Grid x:Name="LayoutRoot" Background="White">
+    <ei:Interaction.Triggers>
+        <prism:InteractionRequestTrigger SourceObject="{Binding  
+            ConfirmExitInteractionRequest}">
+            <prism:PopupWindowAction IsModal="True" CenterOverAssociatedObject="True"/>
+        </prism:InteractionRequestTrigger>
+    </ei:Interaction.Triggers>
     ...
 ```
 
