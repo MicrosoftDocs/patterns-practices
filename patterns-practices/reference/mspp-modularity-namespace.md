@@ -11,11 +11,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419043(v=PandP.50)'
 
 <span id="classToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
 <thead>
 <tr class="header">
 <th> </th>
