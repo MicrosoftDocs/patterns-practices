@@ -32,7 +32,7 @@ Public Class UnityRegionNavigationContentLoader
 
   [Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationcontentloader(v=pandp.50))
 =======
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions.regions)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions)
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -49,7 +49,7 @@ public class UnityRegionNavigationContentLoader : RegionNavigationContentLoaderP
 ## See Also
 =======
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationcontentloader)
+  [Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader)
     Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLoader
 
 

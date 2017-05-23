@@ -42,9 +42,9 @@ Gets or sets a property, attribute, or child element of this configuration eleme
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419093.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleconfigurationelementcollection.item(system.int32)">Item[([(Int32])])</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.item(system.int32)">Item[([(Int32])])</a></td>
 <td><div class="summary">
-Gets the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a> located at the specified index in the collection.
+Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a> located at the specified index in the collection.
 </div></td>
 </tr>
 </tbody>
@@ -54,8 +54,8 @@ See Also
 --------
 
 
-[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
+[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 
 [ModuleConfigurationElementCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

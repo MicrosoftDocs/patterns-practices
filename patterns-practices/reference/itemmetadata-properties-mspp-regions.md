@@ -10,7 +10,7 @@ Prism Class Library
 ItemMetadata Properties
 =======================
 
-The [ItemMetadata](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemmetadata) type exposes the following members.
+The [ItemMetadata](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata) type exposes the following members.
 
 Properties
 ----------
@@ -44,7 +44,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/ms615907">Dispatcher</
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431204.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.itemmetadata.isactive">IsActive</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.isactive">IsActive</a></td>
 <td><div class="summary">
 Gets or sets a value indicating whether the wrapped item is considered active.
 </div></td>
@@ -59,14 +59,14 @@ Gets a value that indicates whether this instance is currently sealed (read-only
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431204.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.itemmetadata.item">Item</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.item">Item</a></td>
 <td><div class="summary">
 Gets the wrapped item.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431204.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.itemmetadata.name">Name</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.name">Name</a></td>
 <td><div class="summary">
 Gets or sets a name for the wrapped item.
 </div></td>
@@ -78,6 +78,6 @@ See Also
 --------
 
 
-[ItemMetadata Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemmetadata)
+[ItemMetadata Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

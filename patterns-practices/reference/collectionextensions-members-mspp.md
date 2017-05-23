@@ -10,7 +10,7 @@ Prism Class Library
 CollectionExtensions Members
 ============================
 
-The [CollectionExtensions](https://msdn.microsoft.com/t:microsoft.practices.prism.collectionextensions) type exposes the following members.
+The [CollectionExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.collectionextensions) type exposes the following members.
 
 Methods
 -------
@@ -27,8 +27,8 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430756.pubmethod(en-us,PandP.50).gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg430756.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.collectionextensions.addrange%60%601(system.collections.objectmodel.collection%7b%60%600%7d%2csystem.collections.generic.ienumerable%7b%60%600%7d)">AddRange&lt;(Of &lt;(T&gt;)&gt;)</a></td>
+<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg430756.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.collectionextensions.addrange%60%601(system.collections.objectmodel.collection%7b%60%600%7d%2csystem.collections.generic.ienumerable%7b%60%600%7d)">AddRange&lt;(Of &lt;(T&gt;)&gt;)</a></td>
 <td><div class="summary">
 Add a range of items to a collection.
 </div></td>
@@ -40,6 +40,6 @@ See Also
 --------
 
 
-[CollectionExtensions Class](https://msdn.microsoft.com/t:microsoft.practices.prism.collectionextensions)
+[CollectionExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.collectionextensions)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)
+[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

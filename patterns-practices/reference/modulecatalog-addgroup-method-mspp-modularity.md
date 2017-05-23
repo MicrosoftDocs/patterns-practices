@@ -10,9 +10,9 @@ Prism Class Library
 ModuleCatalog.AddGroup Method
 =================================
 
-Creates and adds a [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup) to the catalog.
+Creates and adds a [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup) to the catalog.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -25,7 +25,7 @@ public virtual ModuleCatalog AddGroup( InitializationMode initializationMode, st
 ### Parameters
 
 initializationMode  
-Type: [Microsoft.Practices.Prism.Modularity.InitializationMode](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.initializationmode)
+Type: [Microsoft.Practices.Prism.Modularity.InitializationMode](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.initializationmode)
 Stage on which the module group to be added will be initialized.
 
 refValue  
@@ -33,20 +33,20 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Reference to the location of the module group to be added.
 
 moduleInfos  
-Type: array&lt;[Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)&gt;
-Collection of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) included in the group.
+Type: array&lt;[Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)&gt;
+Collection of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) included in the group.
 
 ### Return Value
 
-Type: [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog)
-[ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog) with the added module group.
+Type: [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
+[ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) with the added module group.
 
 See Also
 --------
 
 
-[ModuleCatalog Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog)
+[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

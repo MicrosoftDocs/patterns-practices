@@ -10,7 +10,7 @@ Prism Class Library
 ModularityException Properties
 ==============================
 
-The [ModularityException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modularityexception) type exposes the following members.
+The [ModularityException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception) type exposes the following members.
 
 Properties
 ----------
@@ -68,7 +68,7 @@ Gets a message that describes the current exception.
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431164.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.modularityexception.modulename">ModuleName</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception.modulename">ModuleName</a></td>
 <td><div class="summary">
 Gets or sets the name of the module that this exception refers to.
 </div></td>
@@ -104,6 +104,6 @@ See Also
 --------
 
 
-[ModularityException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modularityexception)
+[ModularityException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

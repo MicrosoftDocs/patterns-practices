@@ -10,9 +10,9 @@ Prism Class Library
 ModuleCatalog.AddModule Method (Type, InitializationMode, array&lt;String&gt;)
 ============================================================================================
 
-Adds a groupless [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) to the catalog.
+Adds a groupless [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) to the catalog.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -29,26 +29,26 @@ Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the module to be added.
 
 initializationMode  
-Type: [Microsoft.Practices.Prism.Modularity.InitializationMode](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.initializationmode)
+Type: [Microsoft.Practices.Prism.Modularity.InitializationMode](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.initializationmode)
 Stage on which the module to be added will be initialized.
 
 dependsOn  
 Type: array&lt;[System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)&gt;
-Collection of module names ([ModuleName](https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleinfo.modulename)) of the modules on which the module to be added logically depends on.
+Collection of module names ([ModuleName](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.modulename)) of the modules on which the module to be added logically depends on.
 
 ### Return Value
 
-Type: [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog)
-The same [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog) instance with the added module.
+Type: [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
+The same [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) instance with the added module.
 
 See Also
 --------
 
 
-[ModuleCatalog Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog)
+[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
 
 [AddModule Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.modulecatalog.addmodule)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

@@ -25,14 +25,14 @@ The [IModuleManager](https://msdn.microsoft.com/en-us/library/microsoft.practice
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430894.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
-<td><a href="https://msdn.microsoft.com/e:microsoft.practices.prism.modularity.imodulemanager.loadmodulecompleted">LoadModuleCompleted</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager.loadmodulecompleted">LoadModuleCompleted</a></td>
 <td><div class="summary">
 Raised when a module is loaded or fails to load.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430894.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
-<td><a href="https://msdn.microsoft.com/e:microsoft.practices.prism.modularity.imodulemanager.moduledownloadprogresschanged">ModuleDownloadProgressChanged</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager.moduledownloadprogresschanged">ModuleDownloadProgressChanged</a></td>
 <td><div class="summary">
 Raised repeatedly to provide progress as modules are downloaded.
 </div></td>

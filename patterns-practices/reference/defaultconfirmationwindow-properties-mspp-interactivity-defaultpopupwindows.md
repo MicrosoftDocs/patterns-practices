@@ -10,7 +10,7 @@ Prism Class Library
 DefaultConfirmationWindow Properties
 ====================================
 
-The [DefaultConfirmationWindow](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow) type exposes the following members.
+The [DefaultConfirmationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow) type exposes the following members.
 
 Properties
 ----------
@@ -174,9 +174,9 @@ Gets a collection of <a href="http://msdn.microsoft.com/en-us/library/ms616826">
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736128.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow.confirmation">Confirmation</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow.confirmation">Confirmation</a></td>
 <td><div class="summary">
-Sets or gets the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iconfirmation">IConfirmation</a> shown by this window./&gt;
+Sets or gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation">IConfirmation</a> shown by this window./&gt;
 </div></td>
 </tr>
 <tr class="even">
@@ -1229,6 +1229,6 @@ See Also
 --------
 
 
-[DefaultConfirmationWindow Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
+[DefaultConfirmationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
 
-[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.defaultpopupwindows)
+[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)

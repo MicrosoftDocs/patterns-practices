@@ -10,7 +10,7 @@ Prism Class Library
 RegionMemberLifetimeAttribute Properties
 ========================================
 
-The [RegionMemberLifetimeAttribute](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmemberlifetimeattribute) type exposes the following members.
+The [RegionMemberLifetimeAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute) type exposes the following members.
 
 Properties
 ----------
@@ -28,7 +28,7 @@ Properties
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431213.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.regionmemberlifetimeattribute.keepalive">KeepAlive</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute.keepalive">KeepAlive</a></td>
 <td><div class="summary">
 Determines if the region member should be kept-alive when deactivated.
 </div></td>
@@ -48,6 +48,6 @@ See Also
 --------
 
 
-[RegionMemberLifetimeAttribute Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmemberlifetimeattribute)
+[RegionMemberLifetimeAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

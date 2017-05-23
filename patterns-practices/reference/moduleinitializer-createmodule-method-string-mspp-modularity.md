@@ -10,9 +10,9 @@ Prism Class Library
 ModuleInitializer.CreateModule Method (String)
 ==================================================
 
-Uses the container to resolve a new [IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule) by specifying its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
+Uses the container to resolve a new [IModule](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule) by specifying its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -26,21 +26,21 @@ protected virtual IModule CreateModule( string typeName )Protected Overridable F
 
 typeName  
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-The type name to resolve. This type must implement [IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule).
+The type name to resolve. This type must implement [IModule](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule).
 
 ### Return Value
 
-Type: [IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule)
+Type: [IModule](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule)
 A new instance of typeName.
 
 See Also
 --------
 
 
-[ModuleInitializer Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinitializer)
+[ModuleInitializer Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer)
 
 [ModuleInitializer Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinitializer)
 
 [CreateModule Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.moduleinitializer.createmodule)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

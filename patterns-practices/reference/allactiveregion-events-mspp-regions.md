@@ -27,11 +27,11 @@ Events
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430898.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
-<td><a href="https://msdn.microsoft.com/e:microsoft.practices.prism.regions.region.propertychanged">PropertyChanged</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.propertychanged">PropertyChanged</a></td>
 <td><div class="summary">
 Occurs when a property value changes.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.region">Region</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>.)</td>
 </tr>
 </tbody>
 </table>

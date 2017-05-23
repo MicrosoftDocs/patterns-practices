@@ -13,7 +13,7 @@ The [ModuleNotFoundException](https://msdn.microsoft.com/en-us/library/microsoft
 ## Events
 
 =======
-The [ModuleNotFoundException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulenotfoundexception) type exposes the following members.
+The [ModuleNotFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception) type exposes the following members.
 
 Events
 ------
@@ -47,7 +47,7 @@ Occurs when an exception is serialized to create an exception state object that 
 [ModuleNotFoundException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception(v=pandp.50))
 =======
 
-[ModuleNotFoundException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulenotfoundexception)
+[ModuleNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception)
 
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))

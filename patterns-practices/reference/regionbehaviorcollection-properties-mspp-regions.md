@@ -10,7 +10,7 @@ Prism Class Library
 RegionBehaviorCollection Properties
 ===================================
 
-The [RegionBehaviorCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehaviorcollection) type exposes the following members.
+The [RegionBehaviorCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection) type exposes the following members.
 
 Properties
 ----------
@@ -28,9 +28,9 @@ Properties
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431211.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.regionbehaviorcollection.item(system.string)">Item</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection.item(system.string)">Item</a></td>
 <td><div class="summary">
-Gets the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a> with the specified key.
+Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a> with the specified key.
 </div></td>
 </tr>
 </tbody>
@@ -40,6 +40,6 @@ See Also
 --------
 
 
-[RegionBehaviorCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehaviorcollection)
+[RegionBehaviorCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

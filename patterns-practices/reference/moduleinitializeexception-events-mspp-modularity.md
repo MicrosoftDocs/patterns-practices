@@ -10,7 +10,7 @@ Prism Class Library
 ModuleInitializeException Events
 ================================
 
-The [ModuleInitializeException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinitializeexception) type exposes the following members.
+The [ModuleInitializeException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception) type exposes the following members.
 
 Events
 ------
@@ -41,6 +41,6 @@ See Also
 --------
 
 
-[ModuleInitializeException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinitializeexception)
+[ModuleInitializeException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

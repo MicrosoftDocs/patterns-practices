@@ -10,7 +10,7 @@ Prism Class Library
 RegionViewRegistry Events
 =========================
 
-The [RegionViewRegistry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionviewregistry) type exposes the following members.
+The [RegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry) type exposes the following members.
 
 Events
 ------
@@ -28,7 +28,7 @@ Events
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430909.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
-<td><a href="https://msdn.microsoft.com/e:microsoft.practices.prism.regions.regionviewregistry.contentregistered">ContentRegistered</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry.contentregistered">ContentRegistered</a></td>
 <td><div class="summary">
 Occurs whenever a new view is registered.
 </div></td>
@@ -40,6 +40,6 @@ See Also
 --------
 
 
-[RegionViewRegistry Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionviewregistry)
+[RegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

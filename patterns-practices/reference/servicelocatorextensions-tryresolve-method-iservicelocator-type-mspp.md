@@ -12,7 +12,7 @@ ServiceLocatorExtensions.TryResolve Method (IServiceLocator, Type)
 
 Attempts to resolve specified type from the underlying IServiceLocator.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -57,10 +57,10 @@ See Also
 --------
 
 
-[ServiceLocatorExtensions Class](https://msdn.microsoft.com/t:microsoft.practices.prism.servicelocatorextensions)
+[ServiceLocatorExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.servicelocatorextensions)
 
 [ServiceLocatorExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.servicelocatorextensions)
 
 [TryResolve Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.servicelocatorextensions.tryresolve)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)
+[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

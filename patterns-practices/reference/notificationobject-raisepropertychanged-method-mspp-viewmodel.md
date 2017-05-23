@@ -26,21 +26,21 @@ Overload List
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419153.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged%60%601(system.linq.expressions.expression%7bsystem.func%7b%60%600%7d%7d)">RaisePropertyChanged&lt;(Of &lt;(T&gt;)&gt;)(Expression&lt;(Of &lt;(Func&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;))</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged%60%601(system.linq.expressions.expression%7bsystem.func%7b%60%600%7d%7d)">RaisePropertyChanged&lt;(Of &lt;(T&gt;)&gt;)(Expression&lt;(Of &lt;(Func&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;))</a></td>
 <td><div class="summary">
 Raises this object's PropertyChanged event.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419153.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged(system.string)">RaisePropertyChanged(String)</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged(system.string)">RaisePropertyChanged(String)</a></td>
 <td><div class="summary">
 Raises this object's PropertyChanged event.
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419153.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged(system.string%5b%5d)">RaisePropertyChanged(array&lt;String&gt;)</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged(system.string%5b%5d)">RaisePropertyChanged(array&lt;String&gt;)</a></td>
 <td><div class="summary">
 Raises this object's PropertyChanged event for each of the properties.
 </div></td>
@@ -52,8 +52,8 @@ See Also
 --------
 
 
-[NotificationObject Class](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.notificationobject)
+[NotificationObject Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject)
 
 [NotificationObject Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.viewmodel.notificationobject)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.viewmodel)
+[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)

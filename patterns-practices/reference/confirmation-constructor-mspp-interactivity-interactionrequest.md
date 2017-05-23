@@ -10,9 +10,9 @@ Prism Class Library
 Confirmation Constructor
 ========================
 
-Initializes a new instance of the [Confirmation](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.confirmation) class
+Initializes a new instance of the [Confirmation](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation) class
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -26,8 +26,8 @@ See Also
 --------
 
 
-[Confirmation Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.confirmation)
+[Confirmation Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation)
 
 [Confirmation Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.confirmation)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)

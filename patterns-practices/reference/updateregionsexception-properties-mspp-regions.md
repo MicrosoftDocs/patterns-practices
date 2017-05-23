@@ -10,7 +10,7 @@ Prism Class Library
 UpdateRegionsException Properties
 =================================
 
-The [UpdateRegionsException](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.updateregionsexception) type exposes the following members.
+The [UpdateRegionsException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception) type exposes the following members.
 
 Properties
 ----------
@@ -97,6 +97,6 @@ See Also
 --------
 
 
-[UpdateRegionsException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.updateregionsexception)
+[UpdateRegionsException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

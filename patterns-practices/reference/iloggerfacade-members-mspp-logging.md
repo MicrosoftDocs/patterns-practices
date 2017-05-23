@@ -10,7 +10,7 @@ Prism Class Library
 ILoggerFacade Members
 =====================
 
-The [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade) type exposes the following members.
+The [ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade) type exposes the following members.
 
 Methods
 -------
@@ -27,8 +27,8 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430789.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.logging.iloggerfacade.log(system.string%2cmicrosoft.practices.prism.logging.category%2cmicrosoft.practices.prism.logging.priority)">Log</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade.log(system.string%2cmicrosoft.practices.prism.logging.category%2cmicrosoft.practices.prism.logging.priority)">Log</a></td>
 <td><div class="summary">
 Write a new log entry with the specified category and priority.
 </div></td>
@@ -40,6 +40,6 @@ See Also
 --------
 
 
-[ILoggerFacade Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade)
+[ILoggerFacade Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade)
 
-[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.logging)
+[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)

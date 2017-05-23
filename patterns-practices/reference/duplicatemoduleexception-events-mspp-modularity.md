@@ -10,7 +10,7 @@ Prism Class Library
 DuplicateModuleException Events
 ===============================
 
-The [DuplicateModuleException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.duplicatemoduleexception) type exposes the following members.
+The [DuplicateModuleException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception) type exposes the following members.
 
 Events
 ------
@@ -41,6 +41,6 @@ See Also
 --------
 
 
-[DuplicateModuleException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.duplicatemoduleexception)
+[DuplicateModuleException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

@@ -10,7 +10,7 @@ Prism Class Library
 IHostAwareRegionBehavior Methods
 ================================
 
-The [IHostAwareRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior) type exposes the following members.
+The [IHostAwareRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior) type exposes the following members.
 
 Methods
 -------
@@ -27,12 +27,12 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431073.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionbehavior.attach">Attach</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior.attach">Attach</a></td>
 <td><div class="summary">
 Attaches the behavior to the specified region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a>.)</td>
 </tr>
 </tbody>
 </table>
@@ -41,6 +41,6 @@ See Also
 --------
 
 
-[IHostAwareRegionBehavior Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior)
+[IHostAwareRegionBehavior Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

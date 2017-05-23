@@ -10,7 +10,7 @@ Prism Class Library
 IRegionAdapter Members
 ======================
 
-The [IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter) type exposes the following members.
+The [IRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter) type exposes the following members.
 
 Methods
 -------
@@ -27,10 +27,10 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430884.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionadapter.initialize(system.object%2csystem.string)">Initialize</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter.initialize(system.object%2csystem.string)">Initialize</a></td>
 <td><div class="summary">
-Adapts an object and binds it to a new <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion">IRegion</a>.
+Adapts an object and binds it to a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion">IRegion</a>.
 </div></td>
 </tr>
 </tbody>
@@ -40,6 +40,6 @@ See Also
 --------
 
 
-[IRegionAdapter Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter)
+[IRegionAdapter Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

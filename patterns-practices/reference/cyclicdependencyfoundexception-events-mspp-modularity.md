@@ -10,7 +10,7 @@ Prism Class Library
 CyclicDependencyFoundException Events
 =====================================
 
-The [CyclicDependencyFoundException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.cyclicdependencyfoundexception) type exposes the following members.
+The [CyclicDependencyFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception) type exposes the following members.
 
 Events
 ------
@@ -41,6 +41,6 @@ See Also
 --------
 
 
-[CyclicDependencyFoundException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
+[CyclicDependencyFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

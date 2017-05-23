@@ -10,7 +10,7 @@ Prism Class Library
 ViewRegistrationException Events
 ================================
 
-The [ViewRegistrationException](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregistrationexception) type exposes the following members.
+The [ViewRegistrationException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception) type exposes the following members.
 
 Events
 ------
@@ -41,6 +41,6 @@ See Also
 --------
 
 
-[ViewRegistrationException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregistrationexception)
+[ViewRegistrationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

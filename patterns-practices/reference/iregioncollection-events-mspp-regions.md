@@ -10,7 +10,7 @@ Prism Class Library
 IRegionCollection Events
 ========================
 
-The [IRegionCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregioncollection) type exposes the following members.
+The [IRegionCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection) type exposes the following members.
 
 Events
 ------
@@ -41,6 +41,6 @@ See Also
 --------
 
 
-[IRegionCollection Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregioncollection)
+[IRegionCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -10,7 +10,7 @@ Prism Class Library
 BindableBase Methods
 ====================
 
-The [BindableBase](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.bindablebase) type exposes the following members.
+The [BindableBase](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase) type exposes the following members.
 
 Methods
 -------
@@ -27,7 +27,7 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736198.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/bsc2ak47">Equals</a></td>
 <td><div class="summary">
 Determines whether the specified <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a> is equal to the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
@@ -43,7 +43,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736198.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/zdee4b3y">GetHashCode</a></td>
 <td><div class="summary">
 Serves as a hash function for a particular type.
@@ -51,7 +51,7 @@ Serves as a hash function for a particular type.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736198.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/dfwy45w9">GetType</a></td>
 <td><div class="summary">
 Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
@@ -68,27 +68,27 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736198.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.mvvm.bindablebase.onpropertychanged(system.string)">OnPropertyChanged(String)</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase.onpropertychanged(system.string)">OnPropertyChanged(String)</a></td>
 <td><div class="summary">
 Notifies listeners that a property value has changed.
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736198.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.mvvm.bindablebase.onpropertychanged%60%601(system.linq.expressions.expression%7bsystem.func%7b%60%600%7d%7d)">OnPropertyChanged&lt;(Of &lt;(T&gt;)&gt;)(Expression&lt;(Of &lt;(Func&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;))</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase.onpropertychanged%60%601(system.linq.expressions.expression%7bsystem.func%7b%60%600%7d%7d)">OnPropertyChanged&lt;(Of &lt;(T&gt;)&gt;)(Expression&lt;(Of &lt;(Func&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;))</a></td>
 <td><div class="summary">
 Raises this object's PropertyChanged event.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736198.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.mvvm.bindablebase.setproperty%60%601(%60%600%40%2c%60%600%2csystem.string)">SetProperty&lt;(Of &lt;(T&gt;)&gt;)</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase.setproperty%60%601(%60%600%40%2c%60%600%2csystem.string)">SetProperty&lt;(Of &lt;(T&gt;)&gt;)</a></td>
 <td><div class="summary">
 Checks if a property already matches a desired value. Sets the property and notifies listeners only when necessary.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736198.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">ToString</a></td>
 <td><div class="summary">
 Returns a string that represents the current object.
@@ -102,6 +102,6 @@ See Also
 --------
 
 
-[BindableBase Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.bindablebase)
+[BindableBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase)
 
-[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mvvm)
+[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)

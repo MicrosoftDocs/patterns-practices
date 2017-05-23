@@ -28,7 +28,7 @@ The [SyncRegionContextWithHostBehavior](https://msdn.microsoft.com/en-us/library
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431079.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior.attach(v=pandp.50)">Attach</a>
@@ -41,7 +41,7 @@ Attaches the behavior to the region.
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431079.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/bsc2ak47" target="_blank">Equals</a>
@@ -63,7 +63,7 @@ Attaches the behavior to the region.
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431079.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/zdee4b3y" target="_blank">GetHashCode</a>
@@ -74,7 +74,7 @@ Attaches the behavior to the region.
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431079.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/dfwy45w9" target="_blank">GetType</a>
@@ -109,7 +109,7 @@ Override this method to perform the logic after the behavior has been attached.
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431079.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2" target="_blank">ToString</a>

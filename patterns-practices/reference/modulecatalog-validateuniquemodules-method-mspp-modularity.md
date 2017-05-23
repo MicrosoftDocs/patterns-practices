@@ -12,7 +12,7 @@ ModuleCatalog.ValidateUniqueModules Method
 
 Makes sure all modules have an Unique name.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -28,14 +28,14 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                                                                                                       | Condition                                                  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| [Microsoft.Practices.Prism.Modularity.DuplicateModuleException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.duplicatemoduleexception) | Thrown if the names of one or more modules are not unique. |
+| [Microsoft.Practices.Prism.Modularity.DuplicateModuleException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception) | Thrown if the names of one or more modules are not unique. |
 
 See Also
 --------
 
 
-[ModuleCatalog Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog)
+[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

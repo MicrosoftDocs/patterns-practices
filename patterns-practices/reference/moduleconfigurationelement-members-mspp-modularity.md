@@ -10,7 +10,7 @@ Prism Class Library
 ModuleConfigurationElement Members
 ==================================
 
-The [ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement) type exposes the following members.
+The [ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement) type exposes the following members.
 
 Constructors
 ------------
@@ -27,17 +27,17 @@ Constructors
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430839.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleconfigurationelement.">ModuleConfigurationElement()()()</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement.">ModuleConfigurationElement()()()</a></td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a>.
+Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430839.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleconfigurationelement.">ModuleConfigurationElement(String, String, String, Boolean)</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement.">ModuleConfigurationElement(String, String, String, Boolean)</a></td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a>.
+Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a>.
 </div></td>
 </tr>
 </tbody>
@@ -66,7 +66,7 @@ Reads XML from the configuration file.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430839.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/cy9e8hzc">Equals</a></td>
 <td><div class="summary">
 Compares the current <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> instance to the specified object.
@@ -82,7 +82,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430839.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/x2t3yh5a">GetHashCode</a></td>
 <td><div class="summary">
 Gets a unique value representing the current <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> instance.
@@ -106,7 +106,7 @@ Returns the transformed version of the specified type name.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430839.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/dfwy45w9">GetType</a></td>
 <td><div class="summary">
 Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
@@ -138,7 +138,7 @@ Indicates whether this configuration element has been modified since it was last
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430839.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms134129">IsReadOnly</a></td>
 <td><div class="summary">
 Gets a value indicating whether the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> object is read-only.
@@ -250,7 +250,7 @@ Sets the <a href="http://msdn.microsoft.com/en-us/library/ms134129">IsReadOnly()
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430839.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">ToString</a></td>
 <td><div class="summary">
 Returns a string that represents the current object.
@@ -284,7 +284,7 @@ Properties
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430839.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleconfigurationelement.assemblyfile">AssemblyFile</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement.assemblyfile">AssemblyFile</a></td>
 <td><div class="summary">
 Gets or sets the assembly file.
 </div></td>
@@ -299,7 +299,7 @@ Gets a reference to the top-level <a href="http://msdn.microsoft.com/en-us/libra
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430839.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleconfigurationelement.dependencies">Dependencies</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement.dependencies">Dependencies</a></td>
 <td><div class="summary">
 Gets or sets the modules this module depends on.
 </div></td>
@@ -394,14 +394,14 @@ Gets or sets a value indicating whether the element is locked.
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430839.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleconfigurationelement.modulename">ModuleName</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement.modulename">ModuleName</a></td>
 <td><div class="summary">
 Gets or sets the module name.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430839.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleconfigurationelement.moduletype">ModuleType</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement.moduletype">ModuleType</a></td>
 <td><div class="summary">
 Gets or sets the module type.
 </div></td>
@@ -416,7 +416,7 @@ Gets the collection of properties.
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430839.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleconfigurationelement.startuploaded">StartupLoaded</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement.startuploaded">StartupLoaded</a></td>
 <td><div class="summary">
 Gets or sets a value indicating whether the module should be loaded at startup.
 </div></td>
@@ -428,6 +428,6 @@ See Also
 --------
 
 
-[ModuleConfigurationElement Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement)
+[ModuleConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

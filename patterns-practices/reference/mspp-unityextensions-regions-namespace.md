@@ -27,8 +27,8 @@ Classes
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736283.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader">UnityRegionNavigationContentLoader</a></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader">UnityRegionNavigationContentLoader</a></td>
 <td><div class="summary">
 Specialization of the default RegionNavigationContentLoader that queries the corresponding IUnityContainer to obtain the name of the view's type registered for the contract name.
 </div></td>

@@ -10,7 +10,7 @@ Prism Class Library
 IInteractionRequest Members
 ===========================
 
-The [IInteractionRequest](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest) type exposes the following members.
+The [IInteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest) type exposes the following members.
 
 Events
 ------
@@ -28,7 +28,7 @@ Events
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430782.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
-<td><a href="https://msdn.microsoft.com/e:microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest.raised">Raised</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest.raised">Raised</a></td>
 <td><div class="summary">
 Fired when the interaction is needed.
 </div></td>
@@ -40,6 +40,6 @@ See Also
 --------
 
 
-[IInteractionRequest Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest)
+[IInteractionRequest Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)

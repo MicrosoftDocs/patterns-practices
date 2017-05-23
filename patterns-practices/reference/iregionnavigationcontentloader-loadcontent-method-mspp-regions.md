@@ -12,7 +12,7 @@ IRegionNavigationContentLoader.LoadContent Method
 
 Gets the content to which the navigation request represented by navigationContext applies.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -25,11 +25,11 @@ Object LoadContent( IRegion region, NavigationContext navigationContext )Functio
 ### Parameters
 
 region  
-Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
+Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 The region.
 
 navigationContext  
-Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 The context representing the navigation request.
 
 ### Return Value
@@ -54,8 +54,8 @@ See Also
 --------
 
 
-[IRegionNavigationContentLoader Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationcontentloader)
+[IRegionNavigationContentLoader Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader)
 
 [IRegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionnavigationcontentloader)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

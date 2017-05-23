@@ -12,7 +12,7 @@ ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Item Property
 
 Gets or sets the list associated with the given key. The access always succeeds, eventually returning an empty list.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -25,12 +25,12 @@ public IList&lt;TValue&gt; this[ TKey key \] { get; set; }Public Default Propert
 ### Parameters
 
 key  
-Type: [TKey](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)
+Type: [TKey](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 The key of the list to access.
 
 ### Return Value
 
-Type: [IList](http://msdn.microsoft.com/en-us/library/5y536ey6)&lt;(Of &lt;([TValue](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
+Type: [IList](http://msdn.microsoft.com/en-us/library/5y536ey6)&lt;(Of &lt;([TValue](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
 The list associated with the key.
 ### Implements
 
@@ -40,8 +40,8 @@ See Also
 --------
 
 
-[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)
+[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 
 [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.listdictionary%602)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)
+[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

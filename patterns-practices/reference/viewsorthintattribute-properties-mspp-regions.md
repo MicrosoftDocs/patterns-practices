@@ -25,7 +25,7 @@ The [ViewSortHintAttribute](https://msdn.microsoft.com/en-us/library/microsoft.p
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431226.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.viewsorthintattribute.hint">Hint</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewsorthintattribute.hint">Hint</a></td>
 <td><div class="summary">
 Gets the hint.
 </div></td>

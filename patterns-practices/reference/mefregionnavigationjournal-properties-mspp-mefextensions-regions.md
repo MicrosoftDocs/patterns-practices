@@ -25,35 +25,35 @@ The [MefRegionNavigationJournal](https://msdn.microsoft.com/en-us/library/micros
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431154.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.regionnavigationjournal.cangoback">CanGoBack</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.cangoback">CanGoBack</a></td>
 <td><div class="summary">
 Gets a value that indicates whether there is at least one entry in the back navigation history.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431154.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.regionnavigationjournal.cangoforward">CanGoForward</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.cangoforward">CanGoForward</a></td>
 <td><div class="summary">
 Gets a value that indicates whether there is at least one entry in the forward navigation history.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431154.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.regionnavigationjournal.currententry">CurrentEntry</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.currententry">CurrentEntry</a></td>
 <td><div class="summary">
 Gets the current navigation entry of the content that is currently displayed.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431154.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.regionnavigationjournal.navigationtarget">NavigationTarget</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.navigationtarget">NavigationTarget</a></td>
 <td><div class="summary">
 Gets or sets the target that implements INavigate.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
 </tr>
 </tbody>
 </table>

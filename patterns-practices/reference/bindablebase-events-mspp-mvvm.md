@@ -10,7 +10,7 @@ Prism Class Library
 BindableBase Events
 ===================
 
-The [BindableBase](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.bindablebase) type exposes the following members.
+The [BindableBase](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase) type exposes the following members.
 
 Events
 ------
@@ -28,7 +28,7 @@ Events
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736183.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
-<td><a href="https://msdn.microsoft.com/e:microsoft.practices.prism.mvvm.bindablebase.propertychanged">PropertyChanged</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase.propertychanged">PropertyChanged</a></td>
 <td><div class="summary">
 Occurs when a property value changes.
 </div></td>
@@ -40,6 +40,6 @@ See Also
 --------
 
 
-[BindableBase Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.bindablebase)
+[BindableBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase)
 
-[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mvvm)
+[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)

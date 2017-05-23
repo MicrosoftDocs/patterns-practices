@@ -10,7 +10,7 @@ Prism Class Library
 SyncActiveStateAttribute Properties
 ===================================
 
-The [SyncActiveStateAttribute](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.syncactivestateattribute) type exposes the following members.
+The [SyncActiveStateAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute) type exposes the following members.
 
 Properties
 ----------
@@ -41,6 +41,6 @@ See Also
 --------
 
 
-[SyncActiveStateAttribute Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.syncactivestateattribute)
+[SyncActiveStateAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

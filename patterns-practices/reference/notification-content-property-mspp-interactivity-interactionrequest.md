@@ -12,7 +12,7 @@ Notification.Content Property
 
 Gets or sets the content of the notification.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -26,14 +26,14 @@ public Object Content { get; set; }Public Property Content As Object Get Set
 Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 ### Implements
 
-[INotification.Content](https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.interactionrequest.inotification.content)
+[INotification.Content](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification.content)
 
 See Also
 --------
 
 
-[Notification Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.notification)
+[Notification Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.notification)
 
 [Notification Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.notification)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)

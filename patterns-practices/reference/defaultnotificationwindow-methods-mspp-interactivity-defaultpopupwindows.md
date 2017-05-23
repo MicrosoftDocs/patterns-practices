@@ -10,7 +10,7 @@ Prism Class Library
 DefaultNotificationWindow Methods
 =================================
 
-The [DefaultNotificationWindow](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow) type exposes the following members.
+The [DefaultNotificationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow) type exposes the following members.
 
 Methods
 -------
@@ -27,7 +27,7 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599695">Activate</a></td>
 <td><div class="summary">
 Attempts to bring the window to the foreground and activates it.
@@ -43,7 +43,7 @@ Adds a specified object as the child of a <a href="http://msdn.microsoft.com/en-
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms609797">ContentControl</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598898">AddHandler(RoutedEvent, Delegate)</a></td>
 <td><div class="summary">
 Adds a routed event handler for a specified routed event, adding the handler to the handler collection on the current element.
@@ -51,7 +51,7 @@ Adds a routed event handler for a specified routed event, adding the handler to
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598899">AddHandler(RoutedEvent, Delegate, Boolean)</a></td>
 <td><div class="summary">
 Adds a routed event handler for a specified routed event, adding the handler to the handler collection on the current element. Specify handledEventsToo as true to have the provided handler be invoked for routed event that had already been marked as handled by another element along the event route.
@@ -75,7 +75,7 @@ Adds a specified text string to a <a href="http://msdn.microsoft.com/en-us/libra
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms609797">ContentControl</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598900">AddToEventRoute</a></td>
 <td><div class="summary">
 Adds handlers to the specified <a href="http://msdn.microsoft.com/en-us/library/ms602393">EventRoute</a> for the current <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a> event handler collection.
@@ -91,7 +91,7 @@ Defines the parent-child relationship between two visuals.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms635637">Visual</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598901">ApplyAnimationClock(DependencyProperty, AnimationClock)</a></td>
 <td><div class="summary">
 Applies an animation to a specified dependency property on this element. Any existing animations are stopped and replaced with the new animation.
@@ -99,7 +99,7 @@ Applies an animation to a specified dependency property on this element. Any ex
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598902">ApplyAnimationClock(DependencyProperty, AnimationClock, HandoffBehavior)</a></td>
 <td><div class="summary">
 Applies an animation to a specified dependency property on this element, with the ability to specify what happens if the property already has a running animation.
@@ -107,7 +107,7 @@ Applies an animation to a specified dependency property on this element, with t
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598092">ApplyTemplate</a></td>
 <td><div class="summary">
 Builds the current template's visual tree if necessary, and returns a value that indicates whether the visual tree was rebuilt by this call.
@@ -115,7 +115,7 @@ Builds the current template's visual tree if necessary, and returns a value that
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598904">Arrange</a></td>
 <td><div class="summary">
 Positions child elements and determines a size for a <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>. Parent elements call this method from their <a href="http://msdn.microsoft.com/en-us/library/ms598903">ArrangeCore(Rect)</a> implementation (or a WPF framework-level equivalent) to form a recursive layout update. This method constitutes the second pass of a layout update.
@@ -139,7 +139,7 @@ Override this method to arrange and size a window and its child elements.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590112">Window</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598906">BeginAnimation(DependencyProperty, AnimationTimeline)</a></td>
 <td><div class="summary">
 Starts an animation for a specified animated property on this element.
@@ -147,7 +147,7 @@ Starts an animation for a specified animated property on this element.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598905">BeginAnimation(DependencyProperty, AnimationTimeline, HandoffBehavior)</a></td>
 <td><div class="summary">
 Starts a specific animation for a specified animated property on this element, with the option of specifying what happens if the property already has a running animation.
@@ -155,7 +155,7 @@ Starts a specific animation for a specified animated property on this element, w
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598100">BeginInit</a></td>
 <td><div class="summary">
 Starts the initialization process for this element.
@@ -163,7 +163,7 @@ Starts the initialization process for this element.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598106">BeginStoryboard(Storyboard)</a></td>
 <td><div class="summary">
 Begins the sequence of actions that are contained in the provided storyboard.
@@ -171,7 +171,7 @@ Begins the sequence of actions that are contained in the provided storyboard.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598109">BeginStoryboard(Storyboard, HandoffBehavior)</a></td>
 <td><div class="summary">
 Begins the sequence of actions contained in the provided storyboard, with options specified for what should happen if the property is already animated.
@@ -179,7 +179,7 @@ Begins the sequence of actions contained in the provided storyboard, with option
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598103">BeginStoryboard(Storyboard, HandoffBehavior, Boolean)</a></td>
 <td><div class="summary">
 Begins the sequence of actions contained in the provided storyboard, with specified state for control of the animation after it is started.
@@ -187,7 +187,7 @@ Begins the sequence of actions contained in the provided storyboard, with specif
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598110">BringIntoView()()()</a></td>
 <td><div class="summary">
 Attempts to bring this element into view, within any scrollable regions it is contained within.
@@ -195,7 +195,7 @@ Attempts to bring this element into view, within any scrollable regions it is co
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598115">BringIntoView(Rect)</a></td>
 <td><div class="summary">
 Attempts to bring the provided region size of this element into view, within any scrollable regions it is contained within.
@@ -203,7 +203,7 @@ Attempts to bring the provided region size of this element into view, within any
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598907">CaptureMouse</a></td>
 <td><div class="summary">
 Attempts to force capture of the mouse to this element.
@@ -211,7 +211,7 @@ Attempts to force capture of the mouse to this element.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598908">CaptureStylus</a></td>
 <td><div class="summary">
 Attempts to force capture of the stylus to this element.
@@ -219,7 +219,7 @@ Attempts to force capture of the stylus to this element.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/dd992299">CaptureTouch</a></td>
 <td><div class="summary">
 Attempts to force capture of a touch to this element.
@@ -227,7 +227,7 @@ Attempts to force capture of a touch to this element.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms591167">CheckAccess</a></td>
 <td><div class="summary">
 Determines whether the calling thread has access to this <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.
@@ -235,7 +235,7 @@ Determines whether the calling thread has access to this <a href="http://msdn.mi
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms597464">ClearValue(DependencyProperty)</a></td>
 <td><div class="summary">
 Clears the local value of a property. The property to be cleared is specified by a <a href="http://msdn.microsoft.com/en-us/library/ms589318">DependencyProperty</a> identifier.
@@ -243,7 +243,7 @@ Clears the local value of a property. The property to be cleared is specified by
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms597465">ClearValue(DependencyPropertyKey)</a></td>
 <td><div class="summary">
 Clears the local value of a read-only property. The property to be cleared is specified by a <a href="http://msdn.microsoft.com/en-us/library/ms602348">DependencyPropertyKey</a>.
@@ -251,7 +251,7 @@ Clears the local value of a read-only property. The property to be cleared is sp
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599697">Close</a></td>
 <td><div class="summary">
 Manually closes a <a href="http://msdn.microsoft.com/en-us/library/ms590112">Window</a>.
@@ -259,7 +259,7 @@ Manually closes a <a href="http://msdn.microsoft.com/en-us/library/ms590112">Win
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590112">Window</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms597466">CoerceValue</a></td>
 <td><div class="summary">
 Coerces the value of the specified dependency property. This is accomplished by invoking any <a href="http://msdn.microsoft.com/en-us/library/ms589135">CoerceValueCallback</a> function specified in property metadata for the dependency property as it exists on the calling <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.
@@ -267,7 +267,7 @@ Coerces the value of the specified dependency property. This is accomplished by 
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599698">DragMove</a></td>
 <td><div class="summary">
 Allows a window to be dragged by a mouse with its left button down over an exposed area of the window's client area.
@@ -275,7 +275,7 @@ Allows a window to be dragged by a mouse with its left button down over an expos
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590112">Window</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598118">EndInit</a></td>
 <td><div class="summary">
 Indicates that the initialization process for the element is complete.
@@ -283,7 +283,7 @@ Indicates that the initialization process for the element is complete.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/aa345743">Equals</a></td>
 <td><div class="summary">
 Determines whether a provided <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a> is equivalent to the current <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.
@@ -299,7 +299,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms608755">FindCommonVisualAncestor</a></td>
 <td><div class="summary">
 Returns the common ancestor of two visual objects.
@@ -307,7 +307,7 @@ Returns the common ancestor of two visual objects.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms635637">Visual</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598120">FindName</a></td>
 <td><div class="summary">
 Finds an element that has the provided identifier name.
@@ -315,7 +315,7 @@ Finds an element that has the provided identifier name.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598123">FindResource</a></td>
 <td><div class="summary">
 Searches for a resource with the specified key, and throws an exception if the requested resource is not found.
@@ -323,7 +323,7 @@ Searches for a resource with the specified key, and throws an exception if the r
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598909">Focus</a></td>
 <td><div class="summary">
 Attempts to set focus to this element.
@@ -331,7 +331,7 @@ Attempts to set focus to this element.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598910">GetAnimationBaseValue</a></td>
 <td><div class="summary">
 Returns the base property value for the specified property on this element, disregarding any possible animated value from a running or stopped animation.
@@ -339,7 +339,7 @@ Returns the base property value for the specified property on this element, disr
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598124">GetBindingExpression</a></td>
 <td><div class="summary">
 Returns the <a href="http://msdn.microsoft.com/en-us/library/ms613455">BindingExpression</a> that represents the binding on the specified property.
@@ -347,7 +347,7 @@ Returns the <a href="http://msdn.microsoft.com/en-us/library/ms613455">BindingEx
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/aa345744">GetHashCode</a></td>
 <td><div class="summary">
 Gets a hash code for this <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.
@@ -363,7 +363,7 @@ Returns a geometry for a clipping mask. The mask applies if the layout system at
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms597467">GetLocalValueEnumerator</a></td>
 <td><div class="summary">
 Creates a specialized enumerator for determining which dependency properties have locally set values on this <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.
@@ -379,7 +379,7 @@ Returns the named element in the visual tree of an instantiated <a href="http://
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/dfwy45w9">GetType</a></td>
 <td><div class="summary">
 Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
@@ -395,7 +395,7 @@ Returns an alternative logical parent for this element if there is no visual par
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms597469">GetValue</a></td>
 <td><div class="summary">
 Returns the current effective value of a dependency property on this instance of a <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.
@@ -411,7 +411,7 @@ Overrides <a href="http://msdn.microsoft.com/en-us/library/ms608857">GetVisualCh
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599700">Hide</a></td>
 <td><div class="summary">
 Makes a window invisible.
@@ -435,14 +435,14 @@ Implements <a href="http://msdn.microsoft.com/en-us/library/ms608858">HitTestCor
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow.initializecomponent">InitializeComponent</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow.initializecomponent">InitializeComponent</a></td>
 <td><div class="summary">
 InitializeComponent
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598916">InputHitTest</a></td>
 <td><div class="summary">
 Returns the input element within the current element that is at the specified coordinates, relative to the current element's origin.
@@ -450,7 +450,7 @@ Returns the input element within the current element that is at the specified co
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598917">InvalidateArrange</a></td>
 <td><div class="summary">
 Invalidates the arrange state (layout) for the element. After the invalidation, the element will have its layout updated, which will occur asynchronously unless subsequently forced by <a href="http://msdn.microsoft.com/en-us/library/ms599327">UpdateLayout()()()</a>.
@@ -458,7 +458,7 @@ Invalidates the arrange state (layout) for the element. After the invalidation, 
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598918">InvalidateMeasure</a></td>
 <td><div class="summary">
 Invalidates the measurement state (layout) for the element.
@@ -466,7 +466,7 @@ Invalidates the measurement state (layout) for the element.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms597470">InvalidateProperty</a></td>
 <td><div class="summary">
 Re-evaluates the effective value for the specified dependency property
@@ -474,7 +474,7 @@ Re-evaluates the effective value for the specified dependency property
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598919">InvalidateVisual</a></td>
 <td><div class="summary">
 Invalidates the rendering of the element, and forces a complete new layout pass. <a href="http://msdn.microsoft.com/en-us/library/ms599305">OnRender(DrawingContext)</a> is called after the layout cycle is completed.
@@ -482,7 +482,7 @@ Invalidates the rendering of the element, and forces a complete new layout pass.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms608860">IsAncestorOf</a></td>
 <td><div class="summary">
 Determines whether the visual object is an ancestor of the descendant visual object.
@@ -490,7 +490,7 @@ Determines whether the visual object is an ancestor of the descendant visual obj
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms635637">Visual</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms608861">IsDescendantOf</a></td>
 <td><div class="summary">
 Determines whether the visual object is a descendant of the ancestor visual object.
@@ -498,7 +498,7 @@ Determines whether the visual object is a descendant of the ancestor visual obje
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms635637">Visual</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598921">Measure</a></td>
 <td><div class="summary">
 Updates the <a href="http://msdn.microsoft.com/en-us/library/ms588686">DesiredSize</a> of a <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>. Parent elements call this method from their own <a href="http://msdn.microsoft.com/en-us/library/ms598920">MeasureCore(Size)</a> implementations to form a recursive layout update. Calling this method constitutes the first pass (the &quot;Measure&quot; pass) of a layout update.
@@ -530,7 +530,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598231">MoveFocus</a></td>
 <td><div class="summary">
 Moves the keyboard focus away from this element and to another element in a provided traversal direction.
@@ -554,7 +554,7 @@ Raises the <a href="http://msdn.microsoft.com/en-us/library/ms596796">Activated<
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590112">Window</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598234">OnApplyTemplate</a></td>
 <td><div class="summary">
 When overridden in a derived class, is invoked whenever application code or internal processes call <a href="http://msdn.microsoft.com/en-us/library/ms598092">ApplyTemplate()()()</a>.
@@ -1514,7 +1514,7 @@ Supports incremental layout implementations in specialized subclasses of <a href
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/aa346960">PointFromScreen</a></td>
 <td><div class="summary">
 Converts a <a href="http://msdn.microsoft.com/en-us/library/ms602977">Point</a> in screen coordinates into a <a href="http://msdn.microsoft.com/en-us/library/ms602977">Point</a> that represents the current coordinate system of the <a href="http://msdn.microsoft.com/en-us/library/ms635637">Visual</a>.
@@ -1522,7 +1522,7 @@ Converts a <a href="http://msdn.microsoft.com/en-us/library/ms602977">Point</a> 
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms635637">Visual</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/aa346961">PointToScreen</a></td>
 <td><div class="summary">
 Converts a <a href="http://msdn.microsoft.com/en-us/library/ms602977">Point</a> that represents the current coordinate system of the <a href="http://msdn.microsoft.com/en-us/library/ms635637">Visual</a> into a <a href="http://msdn.microsoft.com/en-us/library/ms602977">Point</a> in screen coordinates.
@@ -1530,7 +1530,7 @@ Converts a <a href="http://msdn.microsoft.com/en-us/library/ms602977">Point</a> 
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms635637">Visual</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598263">PredictFocus</a></td>
 <td><div class="summary">
 Determines the next element that would receive focus relative to this element for a provided focus movement direction, but does not actually move the focus.
@@ -1538,7 +1538,7 @@ Determines the next element that would receive focus relative to this element fo
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599320">RaiseEvent</a></td>
 <td><div class="summary">
 Raises a specific routed event. The <a href="http://msdn.microsoft.com/en-us/library/ms589739">RoutedEvent</a> to be raised is identified within the <a href="http://msdn.microsoft.com/en-us/library/ms589740">RoutedEventArgs</a> instance that is provided (as the <a href="http://msdn.microsoft.com/en-us/library/ms601234">RoutedEvent</a> property of that event data).
@@ -1546,7 +1546,7 @@ Raises a specific routed event. The <a href="http://msdn.microsoft.com/en-us/lib
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms597472">ReadLocalValue</a></td>
 <td><div class="summary">
 Returns the local value of a dependency property, if it exists.
@@ -1554,7 +1554,7 @@ Returns the local value of a dependency property, if it exists.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598265">RegisterName</a></td>
 <td><div class="summary">
 Provides an accessor that simplifies access to the <a href="http://msdn.microsoft.com/en-us/library/ms602968">NameScope</a> registration method.
@@ -1562,7 +1562,7 @@ Provides an accessor that simplifies access to the <a href="http://msdn.microsof
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/dd783351">ReleaseAllTouchCaptures</a></td>
 <td><div class="summary">
 Releases all captured touch devices from this element.
@@ -1570,7 +1570,7 @@ Releases all captured touch devices from this element.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599321">ReleaseMouseCapture</a></td>
 <td><div class="summary">
 Releases the mouse capture, if this element held the capture.
@@ -1578,7 +1578,7 @@ Releases the mouse capture, if this element held the capture.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599322">ReleaseStylusCapture</a></td>
 <td><div class="summary">
 Releases the stylus device capture, if this element held the capture.
@@ -1586,7 +1586,7 @@ Releases the stylus device capture, if this element held the capture.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/dd990535">ReleaseTouchCapture</a></td>
 <td><div class="summary">
 Attempts to release the specified touch device from this element.
@@ -1594,7 +1594,7 @@ Attempts to release the specified touch device from this element.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599323">RemoveHandler</a></td>
 <td><div class="summary">
 Removes the specified routed event handler from this element.
@@ -1618,7 +1618,7 @@ Removes the parent-child relationship between two visuals.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms635637">Visual</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598273">SetBinding(DependencyProperty, BindingBase)</a></td>
 <td><div class="summary">
 Attaches a binding to this element, based on the provided binding object.
@@ -1626,7 +1626,7 @@ Attaches a binding to this element, based on the provided binding object.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598270">SetBinding(DependencyProperty, String)</a></td>
 <td><div class="summary">
 Attaches a binding to this element, based on the provided source property name as a path qualification to the data source.
@@ -1634,7 +1634,7 @@ Attaches a binding to this element, based on the provided source property name a
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/dd549644">SetCurrentValue</a></td>
 <td><div class="summary">
 Sets the value of a dependency property without changing its value source.
@@ -1642,7 +1642,7 @@ Sets the value of a dependency property without changing its value source.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms557690">SetResourceReference</a></td>
 <td><div class="summary">
 Searches for a resource with the specified name and sets up a resource reference to it for the specified property.
@@ -1650,7 +1650,7 @@ Searches for a resource with the specified name and sets up a resource reference
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms597473">SetValue(DependencyProperty, Object)</a></td>
 <td><div class="summary">
 Sets the local value of a dependency property, specified by its dependency property identifier.
@@ -1658,7 +1658,7 @@ Sets the local value of a dependency property, specified by its dependency prope
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms597474">SetValue(DependencyPropertyKey, Object)</a></td>
 <td><div class="summary">
 Sets the local value of a read-only dependency property, specified by the <a href="http://msdn.microsoft.com/en-us/library/ms602348">DependencyPropertyKey</a> identifier of the dependency property.
@@ -1666,7 +1666,7 @@ Sets the local value of a read-only dependency property, specified by the <a hre
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599324">ShouldSerializeCommandBindings</a></td>
 <td><div class="summary">
 Returns whether serialization processes should serialize the contents of the <a href="http://msdn.microsoft.com/en-us/library/ms588680">CommandBindings</a> property on instances of this class.
@@ -1674,7 +1674,7 @@ Returns whether serialization processes should serialize the contents of the <a 
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms601788">ShouldSerializeContent</a></td>
 <td><div class="summary">
 Indicates whether the <a href="http://msdn.microsoft.com/en-us/library/ms592476">Content</a> property should be persisted.
@@ -1682,7 +1682,7 @@ Indicates whether the <a href="http://msdn.microsoft.com/en-us/library/ms592476"
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms609797">ContentControl</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599325">ShouldSerializeInputBindings</a></td>
 <td><div class="summary">
 Returns whether serialization processes should serialize the contents of the <a href="http://msdn.microsoft.com/en-us/library/ms588692">InputBindings</a> property on instances of this class.
@@ -1698,7 +1698,7 @@ Returns a value that indicates whether serialization processes should serialize 
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms557692">ShouldSerializeResources</a></td>
 <td><div class="summary">
 Returns whether serialization processes should serialize the contents of the <a href="http://msdn.microsoft.com/en-us/library/ms600898">Resources</a> property.
@@ -1706,7 +1706,7 @@ Returns whether serialization processes should serialize the contents of the <a 
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms557694">ShouldSerializeStyle</a></td>
 <td><div class="summary">
 Returns whether serialization processes should serialize the contents of the <a href="http://msdn.microsoft.com/en-us/library/ms600899">Style</a> property.
@@ -1714,7 +1714,7 @@ Returns whether serialization processes should serialize the contents of the <a 
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms557696">ShouldSerializeTriggers</a></td>
 <td><div class="summary">
 Returns whether serialization processes should serialize the contents of the <a href="http://msdn.microsoft.com/en-us/library/ms600903">Triggers</a> property.
@@ -1722,7 +1722,7 @@ Returns whether serialization processes should serialize the contents of the <a 
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599714">Show</a></td>
 <td><div class="summary">
 Opens a window and returns without waiting for the newly opened window to close.
@@ -1730,7 +1730,7 @@ Opens a window and returns without waiting for the newly opened window to close.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590112">Window</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599715">ShowDialog</a></td>
 <td><div class="summary">
 Opens a window and returns only when the newly opened window is closed.
@@ -1738,7 +1738,7 @@ Opens a window and returns only when the newly opened window is closed.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590112">Window</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms558168">ToString</a></td>
 <td><div class="summary">
 Returns the string representation of a <a href="http://msdn.microsoft.com/en-us/library/ms609826">Control</a> object.
@@ -1746,7 +1746,7 @@ Returns the string representation of a <a href="http://msdn.microsoft.com/en-us/
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms609826">Control</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms608865">TransformToAncestor(Visual)</a></td>
 <td><div class="summary">
 Returns a transform that can be used to transform coordinates from the <a href="http://msdn.microsoft.com/en-us/library/ms635637">Visual</a> to the specified <a href="http://msdn.microsoft.com/en-us/library/ms635637">Visual</a> ancestor of the visual object.
@@ -1754,7 +1754,7 @@ Returns a transform that can be used to transform coordinates from the <a href="
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms635637">Visual</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/bb763975">TransformToAncestor(Visual3D)</a></td>
 <td><div class="summary">
 Returns a transform that can be used to transform coordinates from the <a href="http://msdn.microsoft.com/en-us/library/ms635637">Visual</a> to the specified <a href="http://msdn.microsoft.com/en-us/library/ms594932">Visual3D</a> ancestor of the visual object.
@@ -1762,7 +1762,7 @@ Returns a transform that can be used to transform coordinates from the <a href="
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms635637">Visual</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms608866">TransformToDescendant</a></td>
 <td><div class="summary">
 Returns a transform that can be used to transform coordinates from the <a href="http://msdn.microsoft.com/en-us/library/ms635637">Visual</a> to the specified visual object descendant.
@@ -1770,7 +1770,7 @@ Returns a transform that can be used to transform coordinates from the <a href="
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms635637">Visual</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms608867">TransformToVisual</a></td>
 <td><div class="summary">
 Returns a transform that can be used to transform coordinates from the <a href="http://msdn.microsoft.com/en-us/library/ms635637">Visual</a> to the specified visual object.
@@ -1778,7 +1778,7 @@ Returns a transform that can be used to transform coordinates from the <a href="
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms635637">Visual</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599326">TranslatePoint</a></td>
 <td><div class="summary">
 Translates a point relative to this element to coordinates that are relative to the specified element.
@@ -1786,7 +1786,7 @@ Translates a point relative to this element to coordinates that are relative to 
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms557698">TryFindResource</a></td>
 <td><div class="summary">
 Searches for a resource with the specified key, and returns that resource if found.
@@ -1794,7 +1794,7 @@ Searches for a resource with the specified key, and returns that resource if fou
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms557700">UnregisterName</a></td>
 <td><div class="summary">
 Simplifies access to the <a href="http://msdn.microsoft.com/en-us/library/ms602968">NameScope</a> de-registration method.
@@ -1802,7 +1802,7 @@ Simplifies access to the <a href="http://msdn.microsoft.com/en-us/library/ms6029
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/hh534717">UpdateDefaultStyle</a></td>
 <td><div class="summary">
 Reapplies the default style to the current <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.
@@ -1810,7 +1810,7 @@ Reapplies the default style to the current <a href="http://msdn.microsoft.com/en
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599327">UpdateLayout</a></td>
 <td><div class="summary">
 Ensures that all visual child elements of this element are properly updated for layout.
@@ -1818,7 +1818,7 @@ Ensures that all visual child elements of this element are properly updated for 
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736246.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms591169">VerifyAccess</a></td>
 <td><div class="summary">
 Enforces that the calling thread has access to this <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.
@@ -1832,6 +1832,6 @@ See Also
 --------
 
 
-[DefaultNotificationWindow Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
+[DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
 
-[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.defaultpopupwindows)
+[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)

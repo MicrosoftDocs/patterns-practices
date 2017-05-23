@@ -10,7 +10,7 @@ Prism Class Library
 IModuleInitializer Methods
 ==========================
 
-The [IModuleInitializer](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imoduleinitializer) type exposes the following members.
+The [IModuleInitializer](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduleinitializer) type exposes the following members.
 
 Methods
 -------
@@ -27,8 +27,8 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431044.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.imoduleinitializer.initialize(microsoft.practices.prism.modularity.moduleinfo)">Initialize</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduleinitializer.initialize(microsoft.practices.prism.modularity.moduleinfo)">Initialize</a></td>
 <td><div class="summary">
 Initializes the specified module.
 </div></td>
@@ -40,6 +40,6 @@ See Also
 --------
 
 
-[IModuleInitializer Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imoduleinitializer)
+[IModuleInitializer Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduleinitializer)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

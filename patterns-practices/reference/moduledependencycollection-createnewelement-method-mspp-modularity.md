@@ -21,9 +21,9 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419098(v=PandP.50)'
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419098.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduledependencycollection.createnewelement">CreateNewElement()()()</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.createnewelement">CreateNewElement()()()</a></td>
 <td><div class="summary">
-Creates a new <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyconfigurationelement">ModuleDependencyConfigurationElement</a>.
+Creates a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement">ModuleDependencyConfigurationElement</a>.
 </div>
 (Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection..::.CreateNewElement()()()</a>.)</td>
 </tr>

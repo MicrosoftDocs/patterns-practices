@@ -10,7 +10,7 @@ Prism Class Library
 InteractionRequestedEventArgs Properties
 ========================================
 
-The [InteractionRequestedEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs) type exposes the following members.
+The [InteractionRequestedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs) type exposes the following members.
 
 Properties
 ----------
@@ -28,14 +28,14 @@ Properties
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419172.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs.callback">Callback</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs.callback">Callback</a></td>
 <td><div class="summary">
 Gets the callback to execute when an interaction is completed.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419172.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs.context">Context</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs.context">Context</a></td>
 <td><div class="summary">
 Gets the context for a requested interaction.
 </div></td>
@@ -47,6 +47,6 @@ See Also
 --------
 
 
-[InteractionRequestedEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)
+[InteractionRequestedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)

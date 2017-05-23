@@ -10,7 +10,7 @@ Prism Class Library
 ModuleConfigurationElementCollection Methods
 ============================================
 
-The [ModuleConfigurationElementCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection) type exposes the following members.
+The [ModuleConfigurationElementCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection) type exposes the following members.
 
 Methods
 -------
@@ -27,10 +27,10 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431052.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleconfigurationelementcollection.add(microsoft.practices.prism.modularity.moduleconfigurationelement)">Add</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.add(microsoft.practices.prism.modularity.moduleconfigurationelement)">Add</a></td>
 <td><div class="summary">
-Adds a <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a> to the collection.
+Adds a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a> to the collection.
 </div></td>
 </tr>
 <tr class="even">
@@ -130,14 +130,14 @@ Removes the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">Configura
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431052.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleconfigurationelementcollection.contains(system.string)">Contains</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.contains(system.string)">Contains</a></td>
 <td><div class="summary">
 Tests if the collection contains the configuration for the specified module name.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431052.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/d22w8c80">CopyTo</a></td>
 <td><div class="summary">
 Copies the contents of the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a> to an array.
@@ -146,9 +146,9 @@ Copies the contents of the <a href="http://msdn.microsoft.com/en-us/library/a35w
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431052.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleconfigurationelementcollection.createnewelement">CreateNewElement()()()</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.createnewelement">CreateNewElement()()()</a></td>
 <td><div class="summary">
-Creates a new <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a>.
+Creates a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a>.
 </div>
 (Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection.CreateNewElement()()()</a>.)</td>
 </tr>
@@ -169,7 +169,7 @@ Reads XML from the configuration file.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431052.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/0eye6ky8">Equals</a></td>
 <td><div class="summary">
 Compares the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a> to the specified object.
@@ -185,22 +185,22 @@ Allows an object to try to free resources and perform other cleanup operations b
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431052.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleconfigurationelementcollection.findall(system.predicate%7bmicrosoft.practices.prism.modularity.moduleconfigurationelement%7d)">FindAll</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.findall(system.predicate%7bmicrosoft.practices.prism.modularity.moduleconfigurationelement%7d)">FindAll</a></td>
 <td><div class="summary">
-Searches the collection for all the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a> that match the specified predicate.
+Searches the collection for all the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a> that match the specified predicate.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431052.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleconfigurationelementcollection.getelementkey(system.configuration.configurationelement)">GetElementKey</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.getelementkey(system.configuration.configurationelement)">GetElementKey</a></td>
 <td><div class="summary">
 Gets the element key for a specified configuration element when overridden in a derived class.
 </div>
 (Overrides <a href="http://msdn.microsoft.com/en-us/library/bxcte21d">ConfigurationElementCollection.GetElementKey(ConfigurationElement)</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431052.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms134159">GetEnumerator</a></td>
 <td><div class="summary">
 Gets an <a href="http://msdn.microsoft.com/en-us/library/1t2267t6">IEnumerator</a> which is used to iterate through the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.
@@ -208,7 +208,7 @@ Gets an <a href="http://msdn.microsoft.com/en-us/library/1t2267t6">IEnumerator</
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431052.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/7w9k269c">GetHashCode</a></td>
 <td><div class="summary">
 Gets a unique value representing the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a> instance.
@@ -232,7 +232,7 @@ Returns the transformed version of the specified type name.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431052.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/dfwy45w9">GetType</a></td>
 <td><div class="summary">
 Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
@@ -280,7 +280,7 @@ Indicates whether this <a href="http://msdn.microsoft.com/en-us/library/a35we8et
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431052.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms134160">IsReadOnly</a></td>
 <td><div class="summary">
 Indicates whether the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a> object is read only.
@@ -392,7 +392,7 @@ Sets the <a href="http://msdn.microsoft.com/en-us/library/ms134160">IsReadOnly()
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431052.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">ToString</a></td>
 <td><div class="summary">
 Returns a string that represents the current object.
@@ -414,6 +414,6 @@ See Also
 --------
 
 
-[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
+[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

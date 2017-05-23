@@ -27,24 +27,24 @@ Classes
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419035.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.events.compositepresentationevent%601">CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)</a></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601">CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)</a></td>
 <td><strong>Obsolete.</strong>
 <div class="summary">
 Defines a class that manages publication and subscription to events.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419035.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.events.defaultdispatcher">DefaultDispatcher</a></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.events.defaultdispatcher">DefaultDispatcher</a></td>
 <td><strong>Obsolete.</strong>
 <div class="summary">
 Wraps the Application Dispatcher.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419035.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.events.dispatchereventsubscription%601">DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)</a></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601">DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)</a></td>
 <td><strong>Obsolete.</strong>
 <div class="summary">
 Extends EventSubscription to invoke the Action delegate in a specific <a href="http://msdn.microsoft.com/en-us/library/ms615907">Dispatcher</a>.
@@ -68,8 +68,8 @@ Interfaces
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419035.pubinterface(en-us,PandP.50).gif" title="Public interface" /></td>
-<td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.events.idispatcherfacade">IDispatcherFacade</a></td>
+<td><img src="images/public-interface.gif" title="Public interface" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.events.idispatcherfacade">IDispatcherFacade</a></td>
 <td><strong>Obsolete.</strong>
 <div class="summary">
 Defines the interface for invoking methods through a Dispatcher Facade

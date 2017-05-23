@@ -12,7 +12,7 @@ ConfigurationModuleCatalog.Store Property
 
 Gets or sets the store where the configuration is kept.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -23,14 +23,14 @@ Gets or sets the store where the configuration is kept.
 public IConfigurationStore Store { get; set; }Public Property Store As IConfigurationStore Get Set
 ### Property Value
 
-Type: [IConfigurationStore](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.iconfigurationstore)
+Type: [IConfigurationStore](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iconfigurationstore)
 
 See Also
 --------
 
 
-[ConfigurationModuleCatalog Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.configurationmodulecatalog)
+[ConfigurationModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationmodulecatalog)
 
 [ConfigurationModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.configurationmodulecatalog)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

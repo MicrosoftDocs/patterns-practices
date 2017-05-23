@@ -10,7 +10,7 @@ Prism Class Library
 ViewsCollection Events
 ======================
 
-The [ViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewscollection) type exposes the following members.
+The [ViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection) type exposes the following members.
 
 Events
 ------
@@ -28,7 +28,7 @@ Events
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430911.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
-<td><a href="https://msdn.microsoft.com/e:microsoft.practices.prism.regions.viewscollection.collectionchanged">CollectionChanged</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection.collectionchanged">CollectionChanged</a></td>
 <td><div class="summary">
 Occurs when the collection changes.
 </div></td>
@@ -40,6 +40,6 @@ See Also
 --------
 
 
-[ViewsCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewscollection)
+[ViewsCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -14,7 +14,7 @@ The [UpdateRegionsException](https://msdn.microsoft.com/en-us/library/microsoft.
 
 ## Events
 =======
-The [UpdateRegionsException](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.updateregionsexception) type exposes the following members.
+The [UpdateRegionsException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception) type exposes the following members.
 
 
 
@@ -45,7 +45,7 @@ Occurs when an exception is serialized to create an exception state object that 
 [UpdateRegionsException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception(v=pandp.50))
 =======
 
-[UpdateRegionsException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.updateregionsexception)
+[UpdateRegionsException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception)
 
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))

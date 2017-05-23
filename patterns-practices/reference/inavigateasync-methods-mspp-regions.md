@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431082(v=PandP.50)'
 
 # INavigateAsync Methods
 
-The [INavigateAsync](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigateasync) type exposes the following members.
+The [INavigateAsync](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync) type exposes the following members.
 
 ## Methods
 
@@ -28,7 +28,7 @@ The [INavigateAsync](https://msdn.microsoft.com/t:microsoft.practices.prism.regi
 <tr>
   <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431082.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
     
   </td>
   <td>
@@ -43,7 +43,7 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
 <tr>
   <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431082.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
   </td>
   <td>
     <a href="https://msdn.microsoft.com/en-us/library/dn736274(v=pandp.50)">RequestNavigate(Uri, Action(Of NavigationResult), NavigationParameters)</a>

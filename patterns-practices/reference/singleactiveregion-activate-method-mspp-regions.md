@@ -12,7 +12,7 @@ SingleActiveRegion.Activate Method
 
 Marks the specified view as active.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -30,7 +30,7 @@ The view to activate.
 
 ### Implements
 
-[IRegion.Activate(Object)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregion.activate(system.object))
+[IRegion.Activate(Object)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.activate(system.object))
 
 Remarks
 -------
@@ -41,8 +41,8 @@ See Also
 --------
 
 
-[SingleActiveRegion Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.singleactiveregion)
+[SingleActiveRegion Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion)
 
 [SingleActiveRegion Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.singleactiveregion)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

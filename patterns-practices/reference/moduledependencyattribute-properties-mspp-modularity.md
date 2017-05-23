@@ -10,7 +10,7 @@ Prism Class Library
 ModuleDependencyAttribute Properties
 ====================================
 
-The [ModuleDependencyAttribute](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyattribute) type exposes the following members.
+The [ModuleDependencyAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute) type exposes the following members.
 
 Properties
 ----------
@@ -28,7 +28,7 @@ Properties
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431169.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduledependencyattribute.modulename">ModuleName</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute.modulename">ModuleName</a></td>
 <td><div class="summary">
 Gets the name of the module that this module is dependant upon.
 </div></td>
@@ -48,6 +48,6 @@ See Also
 --------
 
 
-[ModuleDependencyAttribute Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyattribute)
+[ModuleDependencyAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

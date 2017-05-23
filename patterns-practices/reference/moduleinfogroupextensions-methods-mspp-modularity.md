@@ -22,15 +22,15 @@ Prism Class Library
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431060.pubmethod(en-us,PandP.50).gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg431060.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinfogroupextensions.addmodule(microsoft.practices.prism.modularity.moduleinfogroup%2csystem.type%2csystem.string%5b%5d)">AddModule(ModuleInfoGroup, Type, array&lt;String&gt;[]()[])</a></td>
+<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg431060.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroupextensions.addmodule(microsoft.practices.prism.modularity.moduleinfogroup%2csystem.type%2csystem.string%5b%5d)">AddModule(ModuleInfoGroup, Type, array&lt;String&gt;[]()[])</a></td>
 <td><div class="summary">
 Adds a new module that is statically referenced to the specified module info group.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431060.pubmethod(en-us,PandP.50).gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg431060.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinfogroupextensions.addmodule(microsoft.practices.prism.modularity.moduleinfogroup%2csystem.string%2csystem.type%2csystem.string%5b%5d)">AddModule(ModuleInfoGroup, String, Type, array&lt;String&gt;[]()[])</a></td>
+<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg431060.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroupextensions.addmodule(microsoft.practices.prism.modularity.moduleinfogroup%2csystem.string%2csystem.type%2csystem.string%5b%5d)">AddModule(ModuleInfoGroup, String, Type, array&lt;String&gt;[]()[])</a></td>
 <td><div class="summary">
 Adds a new module that is statically referenced to the specified module info group.
 </div></td>

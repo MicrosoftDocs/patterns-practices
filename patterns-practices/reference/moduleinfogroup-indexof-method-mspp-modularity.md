@@ -25,15 +25,15 @@ Overload List
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419104.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinfogroup.indexof(system.object)">IndexOf(Object)</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup.indexof(system.object)">IndexOf(Object)</a></td>
 <td><div class="summary">
-Determines the index of a specific item in the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup">ModuleInfoGroup</a>.
+Determines the index of a specific item in the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup">ModuleInfoGroup</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419104.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinfogroup.indexof(microsoft.practices.prism.modularity.moduleinfo)">IndexOf(ModuleInfo)</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup.indexof(microsoft.practices.prism.modularity.moduleinfo)">IndexOf(ModuleInfo)</a></td>
 <td><div class="summary">
 Determines the index of a specific item in the <a href="http://msdn.microsoft.com/en-us/library/5y536ey6">IList&lt;(Of &lt;(T&gt;)&gt;)</a>.
 </div></td>
@@ -45,8 +45,8 @@ See Also
 --------
 
 
-[ModuleInfoGroup Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup)
+[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 
 [ModuleInfoGroup Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroup)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

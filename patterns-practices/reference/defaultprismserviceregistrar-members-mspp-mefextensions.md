@@ -10,7 +10,7 @@ Prism Class Library
 DefaultPrismServiceRegistrar Members
 ====================================
 
-The [DefaultPrismServiceRegistrar](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.defaultprismserviceregistrar) type exposes the following members.
+The [DefaultPrismServiceRegistrar](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.defaultprismserviceregistrar) type exposes the following members.
 
 Methods
 -------
@@ -27,8 +27,8 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430792.pubmethod(en-us,PandP.50).gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg430792.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.mefextensions.defaultprismserviceregistrar.registerrequiredprismservicesifmissing(system.componentmodel.composition.hosting.aggregatecatalog)">RegisterRequiredPrismServicesIfMissing</a></td>
+<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg430792.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.defaultprismserviceregistrar.registerrequiredprismservicesifmissing(system.componentmodel.composition.hosting.aggregatecatalog)">RegisterRequiredPrismServicesIfMissing</a></td>
 <td><div class="summary">
 Registers the required Prism types that are not already registered in the <a href="http://msdn.microsoft.com/en-us/library/dd833165">AggregateCatalog</a>.
 </div></td>
@@ -40,6 +40,6 @@ See Also
 --------
 
 
-[DefaultPrismServiceRegistrar Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.defaultprismserviceregistrar)
+[DefaultPrismServiceRegistrar Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.defaultprismserviceregistrar)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
+[Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)

@@ -25,15 +25,15 @@ Overload List
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419145.pubmethod(en-us,PandP.50).gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg419145.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.servicelocatorextensions.tryresolve%60%601(microsoft.practices.servicelocation.iservicelocator)">TryResolve&lt;(Of &lt;(T&gt;)&gt;)(IServiceLocator)</a></td>
+<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg419145.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.servicelocatorextensions.tryresolve%60%601(microsoft.practices.servicelocation.iservicelocator)">TryResolve&lt;(Of &lt;(T&gt;)&gt;)(IServiceLocator)</a></td>
 <td><div class="summary">
 Attempts to resolve specified type from the underlying IServiceLocator.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419145.pubmethod(en-us,PandP.50).gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg419145.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.servicelocatorextensions.tryresolve(microsoft.practices.servicelocation.iservicelocator%2csystem.type)">TryResolve(IServiceLocator, Type)</a></td>
+<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg419145.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.servicelocatorextensions.tryresolve(microsoft.practices.servicelocation.iservicelocator%2csystem.type)">TryResolve(IServiceLocator, Type)</a></td>
 <td><div class="summary">
 Attempts to resolve specified type from the underlying IServiceLocator.
 </div></td>
@@ -45,8 +45,8 @@ See Also
 --------
 
 
-[ServiceLocatorExtensions Class](https://msdn.microsoft.com/t:microsoft.practices.prism.servicelocatorextensions)
+[ServiceLocatorExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.servicelocatorextensions)
 
 [ServiceLocatorExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.servicelocatorextensions)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)
+[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

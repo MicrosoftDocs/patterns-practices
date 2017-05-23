@@ -12,7 +12,7 @@ RegionAdapterMappings.GetMapping Method
 
 Returns the adapter associated with the type provided.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -26,12 +26,12 @@ public IRegionAdapter GetMapping( Type controlType )Public Function GetMapping (
 
 controlType  
 Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
-The type to obtain the [IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter) mapped.
+The type to obtain the [IRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter) mapped.
 
 ### Return Value
 
-Type: [IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter)
-The [IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter) mapped to the controlType.
+Type: [IRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter)
+The [IRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter) mapped to the controlType.
 
 Remarks
 -------
@@ -50,8 +50,8 @@ See Also
 --------
 
 
-[RegionAdapterMappings Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionadaptermappings)
+[RegionAdapterMappings Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings)
 
 [RegionAdapterMappings Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionadaptermappings)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

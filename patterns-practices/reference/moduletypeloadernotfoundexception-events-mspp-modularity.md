@@ -10,7 +10,7 @@ Prism Class Library
 ModuleTypeLoaderNotFoundException Events
 ========================================
 
-The [ModuleTypeLoaderNotFoundException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduletypeloadernotfoundexception) type exposes the following members.
+The [ModuleTypeLoaderNotFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception) type exposes the following members.
 
 Events
 ------
@@ -41,6 +41,6 @@ See Also
 --------
 
 
-[ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
+[ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

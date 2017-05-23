@@ -12,7 +12,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736151(v=PandP.50)'
 
 The [IEventSubscription](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50)) type exposes the following members.
 =======
-The [IEventSubscription](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription) type exposes the following members.
+The [IEventSubscription](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription) type exposes the following members.
 
 
 ## Properties
@@ -42,7 +42,7 @@ Gets or sets a <a href="https://msdn.microsoft.com/en-us/library/microsoft.pract
 [IEventSubscription Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50))
 =======
 
-[IEventSubscription Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription)
+[IEventSubscription Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription)
 
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
