@@ -5,7 +5,7 @@ ms:assetid: '9cac3304-85f9-4378-8b56-9d4a557f5d25'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405484(v=PandP.40)'
 ---
 
-#  Implementing the MVVM Pattern Using the Prism Library 5.0 for WPF
+# 5: Implementing the MVVM Pattern Using the Prism Library 5.0 for WPF
 
 From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
@@ -100,7 +100,7 @@ Well-designed view, view model, and model classes will not only encapsulate the 
 
 The interactions between the view and its view model are perhaps the most important to consider, but the interactions between the model classes and the view model are also important. The following sections describe the various patterns for these interactions and describe how to design for them when implementing the MVVM pattern in your applications.
 
-## Data Binding
+## <a name="DataBinding"></a>Data Binding
 
 Data binding plays a very important role in the MVVM pattern. WPF provides powerful data binding capabilities. Your view model and (ideally) your model classes should be designed to support data binding so that they can take advantage of these capabilities. Typically, this means that they must implement the correct interfaces.
 
@@ -375,7 +375,7 @@ A command parameter can also be optionally defined using the **CommandParameter*
 
 An alternative approach is to use Blend for Visual Studio 2013 interaction triggers and **InvokeCommandAction** behavior. For more information on **InvokeCommandAction** behavior and associating commands to events see “[Interaction Triggers and Commands](/patterns-practices/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf#InteractionTriggers)” in "[Advanced MVVM Scenarios](/patterns-practices/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf)."
 
-## Data Validation and Error Reporting
+## <a name="datavalidationanderrorreporting"></a>Data Validation and Error Reporting
 
 Your view model or model will often be required to perform data validation and to signal any data validation errors to the view so that the user can act to correct them.
 
@@ -441,7 +441,7 @@ To support **INotifyDataErrorInfo**, you will need to maintain a list of errors 
   }
 ```
 
-## Construction and Wire-Up
+## <a name="constructionandwireup"></a>Construction and Wire-Up
 
 The MVVM pattern helps you to cleanly separate your UI from your presentation and business logic and data, so implementing the right code in the right class is an important first step in using the MVVM pattern effectively. Managing the interactions between the view and view model classes through data binding and commands are also important aspects to consider. The next step is to consider how the view, view model, and model classes are instantiated and associated with each other at run time.
 
