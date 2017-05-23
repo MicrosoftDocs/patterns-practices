@@ -12,7 +12,7 @@ Prism Class Library 5.0 for WPF
 
 The Prism Class Library 5.0 for WPF namespaces are:
 
-* [N:Microsoft.Practices.Prism namespace](mspp-namespace.md)
+* [Microsoft.Practices.Prism namespace](mspp-namespace.md)
 * [Microsoft.Practices.Prism.Commands namespace](mspp-commands-namespace.md)
 * [Microsoft.Practices.Prism.Events namespace](mspp-events-namespace.md)
 * [Microsoft.Practices.Prism.Interactivity namespace](mspp-interactivity-namespace.md)
