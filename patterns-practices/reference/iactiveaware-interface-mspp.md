@@ -14,15 +14,16 @@ Interface that defines if the object instance is active and notifies when the ac
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.SharedInterfaces (in Microsoft.Practices.Prism.SharedInterfaces.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
 
-<span id="syntaxToggle"></span>public interface IActiveAwarePublic Interface IActiveAware
+## Syntax
+
+
+public interface IActiveAwarePublic Interface IActiveAware
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IActiveAware Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.iactiveaware)
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)

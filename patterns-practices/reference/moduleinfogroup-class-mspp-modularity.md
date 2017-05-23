@@ -13,22 +13,25 @@ ModuleInfoGroup Class
 Represents a group of [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) instances that are usually deployed together. ModuleInfoGroups are also used by the [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog) to prevent common deployment problems such as having a module that's required at startup that depends on modules that will only be downloaded on demand. The group also forwards [Ref](https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleinfogroup.ref) and [InitializationMode](https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleinfogroup.initializationmode) values to the [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)s that it contains.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public class ModuleInfoGroup : IModuleCatalogItem, IList&lt;ModuleInfo&gt;, ICollection&lt;ModuleInfo&gt;, IEnumerable&lt;ModuleInfo&gt;, IList, ICollection, IEnumerablePublic Class ModuleInfoGroup Implements IModuleCatalogItem, IList(Of ModuleInfo), ICollection(Of ModuleInfo), IEnumerable(Of ModuleInfo), IList, ICollection, IEnumerable
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public class ModuleInfoGroup : IModuleCatalogItem, IList&lt;ModuleInfo&gt;, ICollection&lt;ModuleInfo&gt;, IEnumerable&lt;ModuleInfo&gt;, IList, ICollection, IEnumerablePublic Class ModuleInfoGroup Implements IModuleCatalogItem, IList(Of ModuleInfo), ICollection(Of ModuleInfo), IEnumerable(Of ModuleInfo), IList, ICollection, IEnumerable
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.Modularity..::.ModuleInfoGroup
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  Microsoft.Practices.Prism.Modularity.ModuleInfoGroup
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInfoGroup Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroup)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

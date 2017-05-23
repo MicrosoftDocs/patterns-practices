@@ -10,7 +10,6 @@ Prism Class Library
 IModuleCatalog Properties
 =========================
 
-
 The [IModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulecatalog) type exposes the following members.
 
 Properties
@@ -44,7 +43,7 @@ Gets all the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.mod
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IModuleCatalog Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulecatalog)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

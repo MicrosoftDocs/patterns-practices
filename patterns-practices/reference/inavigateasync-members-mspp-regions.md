@@ -10,7 +10,6 @@ Prism Class Library
 INavigateAsync Members
 ======================
 
-
 The [INavigateAsync](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigateasync) type exposes the following members.
 
 Methods
@@ -35,14 +34,14 @@ Methods
 <td><img src="https://msdn.microsoft.com/en-us/Gg430880.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.inavigateasync.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))</a></td>
 <td><div class="summary">
-Initiates navigation to the target specified by the <a href="http://msdn2.microsoft.com/en-us/library/txt7706a">Uri</a>.
+Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a">Uri</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430880.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.inavigateasync.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d%2cmicrosoft.practices.prism.regions.navigationparameters)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)</a></td>
 <td><div class="summary">
-Initiates navigation to the target specified by the <a href="http://msdn2.microsoft.com/en-us/library/txt7706a">Uri</a>.
+Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a">Uri</a>.
 </div></td>
 </tr>
 </tbody>
@@ -80,7 +79,7 @@ Initiates navigation to the target specified by the target.
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.navigationasyncextensions.requestnavigate(microsoft.practices.prism.regions.inavigateasync%2csystem.uri)">RequestNavigate(Uri)</a></td>
 <td>Overloaded.
 <div class="summary">
-Initiates navigation to the target specified by the <a href="http://msdn2.microsoft.com/en-us/library/txt7706a">Uri</a>.
+Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a">Uri</a>.
 </div>
 (Defined by <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationasyncextensions">NavigationAsyncExtensions</a>.)</td>
 </tr>
@@ -126,7 +125,7 @@ Initiates navigation to the target specified by the target.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [INavigateAsync Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigateasync)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

@@ -14,10 +14,13 @@ Provides progress information as a module downloads.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-Syntax
-------
+**Version:** 5.0.0.0 (5.0.0.0)
+
+
+## Syntax
+
 ```C#
 public class ModuleDownloadProgressChangedEventArgs : ProgressChangedEventArgs
 ```
@@ -29,18 +32,18 @@ Public Class ModuleDownloadProgressChangedEventArgs Inherits ProgressChangedEven
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-  [System.EventArgs](http://msdn2.microsoft.com/en-us/library/118wxtk3)
+  [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
   
-    [System.ComponentModel.ProgressChangedEventArgs](http://msdn2.microsoft.com/en-us/library/0tat795f)
+    [System.ComponentModel.ProgressChangedEventArgs](http://msdn.microsoft.com/en-us/library/0tat795f)
     
       Microsoft.Practices.Prism.Modularity.ModuleDownloadProgressChangedEventArgs
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleDownloadProgressChangedEventArgs Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs_members(v=pandp.50))
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))

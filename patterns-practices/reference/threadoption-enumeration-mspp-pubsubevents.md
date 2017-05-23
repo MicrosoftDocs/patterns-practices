@@ -14,10 +14,11 @@ Specifies on which thread a [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https:/
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
 
-<span id="syntaxToggle"></span>public enum ThreadOptionPublic Enumeration ThreadOption
+## Syntax
+
+
+public enum ThreadOptionPublic Enumeration ThreadOption
 
 Members
 -------
@@ -32,5 +33,5 @@ Members
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)

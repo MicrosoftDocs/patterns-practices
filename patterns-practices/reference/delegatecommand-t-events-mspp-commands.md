@@ -10,7 +10,6 @@ Prism Class Library
 DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Events
 ==============================================
 
-
 The [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601) type exposes the following members.
 
 Events
@@ -53,7 +52,7 @@ Fired if the <a href="https://msdn.microsoft.com/p:microsoft.practices.prism.com
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601)
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)

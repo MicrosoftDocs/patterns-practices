@@ -25,17 +25,17 @@ public void SetErrors(
 ```
 
 
-#### Parameters
+### Parameters
 
 *propertyName* 
 
-	Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+	Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 	
 	The name of the property.
 
 *newValidationResults*  
 
-	Type: [System.Collections.Generic.IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)<[T](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))>
+	Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)<[T](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))>
 	
 	The new validation errors.
 
@@ -52,8 +52,6 @@ If a change is detected then the errors changed event is raised.
 [SetErrors Overload](https://msdn.microsoft.com/en-us/library/gg419152(v=pandp.50))
 
 [Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
-
-
 
 # ErrorsContainer(Of T).SetErrors Method (String, IEnumerable(Of T))
 
@@ -72,17 +70,18 @@ Public Sub SetErrors (
 	newValidationResults As IEnumerable(Of T)
 )
 ``` 
-#### Parameters
+
+### Parameters
 
 *propertyName* 
 
-	Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+	Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 	
 	The name of the property.
 
 *newValidationResults*  
 
-	Type: [System.Collections.Generic.IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)(Of [T](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50)))
+	Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [T](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50)))
 	
 	The new validation errors.
 

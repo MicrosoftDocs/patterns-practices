@@ -7,9 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736295(v=PandP.50)'
 
 Prism Class Library
 
-SubscriptionToken..::.Equals Method
+SubscriptionToken.Equals Method
 ===================================
-
 
 Overload List
 -------------
@@ -33,9 +32,9 @@ Overload List
 <td><img src="https://msdn.microsoft.com/en-us/Dn736295.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.pubsubevents.subscriptiontoken.equals(system.object)">Equals(Object)</a></td>
 <td><div class="summary">
-Determines whether the specified <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b">Object</a> is equal to the current <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b">Object</a>.
+Determines whether the specified <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a> is equal to the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/bsc2ak47">Object..::.Equals(Object)</a>.)</td>
+(Overrides <a href="http://msdn.microsoft.com/en-us/library/bsc2ak47">Object.Equals(Object)</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736295.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
@@ -50,7 +49,7 @@ Indicates whether the current object is equal to another object of the same type
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [SubscriptionToken Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken)
 
 [SubscriptionToken Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.subscriptiontoken)

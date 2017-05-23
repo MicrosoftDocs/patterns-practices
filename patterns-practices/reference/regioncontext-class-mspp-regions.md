@@ -13,32 +13,30 @@ Class that holds methods to Set and Get the RegionContext from a DependencyObjec
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 ```C#
 public static class RegionContext
 ```
-
 
 ```VB
 'Declaration
 Public NotInheritable Class RegionContext
 ```
 
-
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
   Microsoft.Practices.Prism.Regions.RegionContext
 
 ## See Also
 
 
-<span id="seeAlsoToggle"></span>
 [RegionContext Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regioncontext_members(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))

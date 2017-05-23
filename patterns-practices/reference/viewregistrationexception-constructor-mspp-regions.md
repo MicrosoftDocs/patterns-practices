@@ -9,23 +9,50 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419144(v=PandP.50)'
 
 ## Overload List
 
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Gg419144.pubmethod(en-us,PandP.50).gif "Public method")
-ViewRegistrationException
-Initializes a new instance of the [ViewRegistrationException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregistrationexception(v=pandp.50)) class.
-
-![](https://msdn.microsoft.com/en-us/Gg419144.pubmethod(en-us,PandP.50).gif "Public method")
-ViewRegistrationException(String)
-Initializes a new instance of the [ViewRegistrationException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregistrationexception(v=pandp.50)) class.
-
-![](https://msdn.microsoft.com/en-us/Gg419144.protmethod(en-us,PandP.50).gif "Protected method")
-ViewRegistrationException(SerializationInfo, StreamingContext)
-Initializes a new instance of the [ViewRegistrationException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregistrationexception(v=pandp.50)) class with serialized data.
-
-![](https://msdn.microsoft.com/en-us/Gg419144.pubmethod(en-us,PandP.50).gif "Public method")
-ViewRegistrationException(String, Exception)
-Initializes a new instance of the [ViewRegistrationException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregistrationexception(v=pandp.50)) class.
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg419144.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.viewregistrationexception.">ViewRegistrationException()()()</a></td>
+<td><div class="summary">
+Initializes a new instance of the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregistrationexception">ViewRegistrationException</a> class.
+</div></td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Gg419144.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.viewregistrationexception.">ViewRegistrationException(String)</a></td>
+<td><div class="summary">
+Initializes a new instance of the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregistrationexception">ViewRegistrationException</a> class.
+</div></td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg419144.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.viewregistrationexception.">ViewRegistrationException(SerializationInfo, StreamingContext)</a></td>
+<td><div class="summary">
+Initializes a new instance of the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregistrationexception">ViewRegistrationException</a> class with serialized data.
+</div></td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Gg419144.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.viewregistrationexception.">ViewRegistrationException(String, Exception)</a></td>
+<td><div class="summary">
+Initializes a new instance of the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregistrationexception">ViewRegistrationException</a> class.
+</div></td>
+</tr>
+</tbody>
+</table>
 
 ## See Also
 

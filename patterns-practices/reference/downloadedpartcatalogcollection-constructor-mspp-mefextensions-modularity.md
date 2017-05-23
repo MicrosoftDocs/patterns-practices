@@ -14,10 +14,13 @@ Initializes a new instance of the [DownloadedPartCatalogCollection](https://msdn
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
-Syntax
-------
+**Version:** 5.0.0.0 (5.0.0.0)
+
+
+## Syntax
+
 
 ```C#
 public DownloadedPartCatalogCollection()
@@ -30,7 +33,7 @@ Public Sub New
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DownloadedPartCatalogCollection Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection(v=pandp.50))
 
 [DownloadedPartCatalogCollection Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection_members(v=pandp.50))

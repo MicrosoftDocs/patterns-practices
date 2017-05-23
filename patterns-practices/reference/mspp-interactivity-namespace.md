@@ -34,7 +34,7 @@ Classes
 <td><img src="https://msdn.microsoft.com/en-us/Gg406220.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/dn736144(v=pandp.50)">CommandBehaviorBase(Of T)</a></td>
 <td><div class="summary">
-Base behavior to handle connecting a <a href="http://msdn2.microsoft.com/en-us/library/ms609826">Control</a> to a Command.
+Base behavior to handle connecting a <a href="http://msdn.microsoft.com/en-us/library/ms609826">Control</a> to a Command.
 </div></td>
 </tr>
 <tr class="even">

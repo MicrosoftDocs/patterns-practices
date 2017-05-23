@@ -33,12 +33,31 @@ Public Sub New (
 message  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 
+=======
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public ModularityException( string message )Public Sub New ( message As String )
+
+### Parameters
+
+message  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+
 The exception message.
 
 ## See Also
 
 
 [ModularityException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception(v=pandp.50))
+=======
+
+[ModularityException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modularityexception)
 
 [ModularityException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception_members(v=pandp.50))
 

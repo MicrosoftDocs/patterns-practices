@@ -10,7 +10,6 @@ Prism Class Library
 ConfigurationModuleCatalog Properties
 =====================================
 
-
 The [ConfigurationModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.configurationmodulecatalog) type exposes the following members.
 
 Properties
@@ -84,7 +83,7 @@ Gets or sets a value that remembers whether the <a href="https://msdn.microsoft.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ConfigurationModuleCatalog Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.configurationmodulecatalog)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

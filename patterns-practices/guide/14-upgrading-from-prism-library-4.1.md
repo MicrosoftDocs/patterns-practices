@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921144(v=PandP.40)'
 
 # 14: Upgrading from Prism Library 4.1
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
 This topic describes how to upgrade a solution from version 4.1 to version 5.0 of the Prism Library and the major changes that you should be aware of if you are considering upgrading to the 5.0 version.
 

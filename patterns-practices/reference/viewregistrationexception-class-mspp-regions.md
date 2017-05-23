@@ -15,23 +15,26 @@ Exception that's thrown when something goes wrong while Registering a View with 
 Exception that's thrown when something goes wrong while Registering a View with a region name in the [RegionViewRegistry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionviewregistry) class.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>\[SerializableAttribute\] public class ViewRegistrationException : Exception&lt;SerializableAttribute&gt; Public Class ViewRegistrationException Inherits Exception
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+[SerializableAttribute\] public class ViewRegistrationException : Exception&lt;SerializableAttribute&gt; Public Class ViewRegistrationException Inherits Exception
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System..::.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
-    Microsoft.Practices.Prism.Regions..::.ViewRegistrationException
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
+    Microsoft.Practices.Prism.Regions.ViewRegistrationException
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ViewRegistrationException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewregistrationexception)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

@@ -13,16 +13,19 @@ IRegionCollection Interface
 Defines a collection of [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) uniquely identified by their Name.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public interface IRegionCollection : IEnumerable&lt;IRegion&gt;, IEnumerable, INotifyCollectionChangedPublic Interface IRegionCollection Inherits IEnumerable(Of IRegion), IEnumerable, INotifyCollectionChanged
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public interface IRegionCollection : IEnumerable&lt;IRegion&gt;, IEnumerable, INotifyCollectionChangedPublic Interface IRegionCollection Inherits IEnumerable(Of IRegion), IEnumerable, INotifyCollectionChanged
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregioncollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

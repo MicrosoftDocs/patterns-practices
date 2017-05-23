@@ -13,7 +13,9 @@ Initializes a new instance of the [ViewRegistrationException](https://msdn.micro
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -32,16 +34,17 @@ Public Sub New (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *message*  
 
-	Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+	Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 	The exception message.
 
 *inner*  
 
-	Type: [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+	Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 	The inner exception.
 
 ## See Also

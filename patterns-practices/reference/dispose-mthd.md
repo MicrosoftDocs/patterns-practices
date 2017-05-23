@@ -7,9 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419078(v=PandP.50)'
 
 Prism Class Library
 
-AssemblyResolver..::.Dispose Method
+AssemblyResolver.Dispose Method
 ===================================
-
 
 Overload List
 -------------
@@ -49,7 +48,7 @@ Disposes the associated <a href="https://msdn.microsoft.com/t:microsoft.practice
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [AssemblyResolver Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.assemblyresolver)
 
 [AssemblyResolver Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.assemblyresolver)

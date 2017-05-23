@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921163(v=PandP.40)'
 
 # Modularity QuickStarts for Silverlight
 
-From: [Prism 4.1 - Developer's Guide to Microsoft Prism Library for WPF and Silverlight](https://msdn.microsoft.com/en-us/library/gg430869(v=pandp.40).aspx)
+From: [Prism 4.1 - Developer's Guide to Microsoft Prism Library for WPF and Silverlight](/patterns-practices/guide/index)
 
 The QuickStarts included in this topic demonstrate how to code, discover, and initialize modules using Prism:
 
@@ -365,5 +365,5 @@ To learn about other QuickStarts included with Prism, see the following topics i
 -   State-Based Navigation QuickStart
 -   View-Switching Navigation QuickStart
 -   Event Aggregation QuickStart
--   [Multi-Targeting QuickStart](/guide/multi-targeting-quickstart(v=pandp.40)) (also available on MSDN)
+-   [Multi-Targeting QuickStart](/patterns-practices/guide/multi-targeting-quickstart) (also available on MSDN)
 

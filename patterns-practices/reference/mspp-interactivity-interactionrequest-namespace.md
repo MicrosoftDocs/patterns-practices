@@ -104,7 +104,7 @@ Represents a request from user interaction.
 <td><img src="https://msdn.microsoft.com/en-us/Gg419036.pubinterface(en-us,PandP.50).gif" title="Public interface" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware(v=pandp.50)">IInteractionRequestAware</a></td>
 <td><div class="summary">
-Interface used by the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction(v=pandp.50)">PopupWindowAction</a>. If the DataContext object of a view that is shown with this action implements this interface it will be populated with the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.inotification(v=pandp.50)">INotification</a> data of the interaction request as well as an <a href="http://msdn2.microsoft.com/en-us/library/bb534741">Action</a> to finish the request upon invocation.
+Interface used by the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction(v=pandp.50)">PopupWindowAction</a>. If the DataContext object of a view that is shown with this action implements this interface it will be populated with the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.inotification(v=pandp.50)">INotification</a> data of the interaction request as well as an <a href="http://msdn.microsoft.com/en-us/library/bb534741">Action</a> to finish the request upon invocation.
 </div></td>
 </tr>
 <tr class="even">

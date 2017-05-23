@@ -7,38 +7,40 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405832(v=PandP.50)'
 
 Prism Class Library
 
-MefServiceLocatorAdapter..::.DoGetInstance Method
+MefServiceLocatorAdapter.DoGetInstance Method
 =================================================
 
 Resolves all the instances of the requested service.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
-<span id="syntaxToggle"></span>protected override Object DoGetInstance( Type serviceType, string key )Protected Overrides Function DoGetInstance ( serviceType As Type, key As String ) As Object
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+protected override Object DoGetInstance( Type serviceType, string key )Protected Overrides Function DoGetInstance ( serviceType As Type, key As String ) As Object
+
+### Parameters
 
 serviceType  
-Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 Type of service requested.
 
-<!-- -->
-
 key  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Name of registered service you want. May be null.
 
-#### Return Value
+### Return Value
 
-Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 Sequence of service instance objects.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefServiceLocatorAdapter Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.mefservicelocatoradapter)
 
 [MefServiceLocatorAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.mefservicelocatoradapter)

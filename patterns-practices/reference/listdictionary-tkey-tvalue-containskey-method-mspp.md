@@ -14,10 +14,13 @@ Determines whether the dictionary contains the given key.
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-Syntax
-------
+**Version:** 5.0.0.0 (5.0.0.0)
+
+
+## Syntax
+
 
 ```C#
 public bool ContainsKey( TKey key )
@@ -27,26 +30,27 @@ public bool ContainsKey( TKey key )
 Public Function ContainsKey ( key As TKey ) As Boolean
 ```
 
-#### Parameters
+
+### Parameters
 
 *key*  
 Type: [TKey](https://msdn.microsoft.com/en-us/library/gg431434(v=pandp.50))
 
 The key to locate.
 
-#### Return Value
+### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 true if the dictionary contains the given key; otherwise, false.
-#### Implements
+### Implements
 
-[IDictionary&lt;TKey, TValue&gt;.ContainsKey(TKey)](http://msdn2.microsoft.com/en-us/library/htszx2dy)
+[IDictionary&lt;TKey, TValue&gt;.ContainsKey(TKey)](http://msdn.microsoft.com/en-us/library/htszx2dy)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ListDictionary&lt;TKey, TValue&gt; Class](https://msdn.microsoft.com/en-us/library/gg431434(v=pandp.50))
 
 [ListDictionary&lt;TKey, TValue&gt; Members](https://msdn.microsoft.com/en-us/library/gg430787(v=pandp.50))

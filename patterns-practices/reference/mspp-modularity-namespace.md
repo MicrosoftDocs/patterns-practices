@@ -133,7 +133,7 @@ A collection of <a href="https://msdn.microsoft.com/en-us/library/microsoft.prac
 <td><img src="https://msdn.microsoft.com/en-us/Gg419043.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement">ModuleDependencyConfigurationElement</a></td>
 <td><div>
-A <a href="http://msdn2.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> for module dependencies.
+A <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> for module dependencies.
 </div></td>
 </tr>
 <tr class="odd">
@@ -203,7 +203,7 @@ Exception thrown when a requested <a href="https://msdn.microsoft.com/en-us/libr
 <td><img src="https://msdn.microsoft.com/en-us/Gg419043.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulesconfigurationsection">ModulesConfigurationSection</a></td>
 <td><div>
-A <a href="http://msdn2.microsoft.com/en-us/library/x0kca287">ConfigurationSection</a> for module configuration.
+A <a href="http://msdn.microsoft.com/en-us/library/x0kca287">ConfigurationSection</a> for module configuration.
 </div></td>
 </tr>
 <tr class="odd">

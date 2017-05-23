@@ -9,12 +9,13 @@ Prism Class Library
 
 # Bootstrapper.Run Method (Boolean)
 
-
 Run the bootstrapper process.
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -24,11 +25,12 @@ public abstract void Run(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 runWithDefaultConfiguration  
 
-Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 If truetrue (True in Visual Basic), registers default Prism Library services in the container. This is the default behavior.
 
@@ -39,18 +41,18 @@ Public MustOverride Sub Run (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 runWithDefaultConfiguration  
 
-Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 If Truetrue (True in Visual Basic), registers default Prism Library services in the container. This is the default behavior.
 
 ## See Also
 
 
-<span id="seeAlsoToggle"></span>
 [Bootstrapper Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper(v=pandp.50))
 
 [Bootstrapper Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper_members(v=pandp.50))

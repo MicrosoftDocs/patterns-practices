@@ -10,7 +10,6 @@ Prism Class Library
 IView Properties
 ================
 
-
 The [IView](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.iview) type exposes the following members.
 
 Properties
@@ -24,7 +23,7 @@ Properties
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IView Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.iview)
 
 [Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mvvm)

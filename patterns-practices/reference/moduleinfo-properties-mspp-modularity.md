@@ -10,7 +10,6 @@ Prism Class Library
 ModuleInfo Properties
 =====================
 
-
 The [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo) type exposes the following members.
 
 Properties
@@ -56,7 +55,7 @@ Gets or sets the name of the module.
 <td><img src="https://msdn.microsoft.com/en-us/Gg431174.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleinfo.moduletype">ModuleType</a></td>
 <td><div class="summary">
-Gets or sets the module <a href="http://msdn2.microsoft.com/en-us/library/42892f65">Type</a>'s AssemblyQualifiedName.
+Gets or sets the module <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a>'s AssemblyQualifiedName.
 </div></td>
 </tr>
 <tr class="odd">
@@ -83,7 +82,7 @@ Gets or sets the state of the <a href="https://msdn.microsoft.com/t:microsoft.pr
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInfo Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

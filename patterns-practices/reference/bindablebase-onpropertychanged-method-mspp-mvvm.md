@@ -6,10 +6,18 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736149(v=PandP.50)'
 ---
 
 
+
 # BindableBase.OnPropertyChanged Method
 
 
 ## Overload List
+=======
+BindableBase.OnPropertyChanged Method
+=========================================
+
+Overload List
+-------------
+
 
 <table>
 <colgroup>
@@ -44,7 +52,12 @@ Notifies listeners that a property value has changed.
 
 ## See Also
 
+
 [BindableBase Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase(v=pandp.50))
+=======
+
+[BindableBase Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.bindablebase)
+
 
 [BindableBase Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase_members(v=pandp.50))
 

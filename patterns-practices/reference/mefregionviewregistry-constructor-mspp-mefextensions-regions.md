@@ -13,12 +13,16 @@ MefRegionViewRegistry Constructor
 Initializes a new instance of the [MefRegionViewRegistry](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionviewregistry) class.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
-<span id="syntaxToggle"></span>public MefRegionViewRegistry( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public MefRegionViewRegistry( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
+
+### Parameters
 
 serviceLocator  
 Type: IServiceLocator
@@ -27,7 +31,7 @@ The service locator.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefRegionViewRegistry Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionviewregistry)
 
 [MefRegionViewRegistry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefregionviewregistry)

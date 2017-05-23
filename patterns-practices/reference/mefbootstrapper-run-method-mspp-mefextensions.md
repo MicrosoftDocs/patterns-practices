@@ -9,18 +9,38 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419071(v=PandP.50)'
 
 ## Overload List
 
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Gg419071.pubmethod(en-us,PandP.50).gif "Public method")
-[Run()](https://msdn.microsoft.com/en-us/library/gg405739(v=pandp.50))
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg419071.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.run">Run()()()</a></td>
+<td><div class="summary">
 Runs the bootstrapper process.
-
-(Inherited from [Bootstrapper](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper(v=pandp.50)).)
-![](https://msdn.microsoft.com/en-us/Gg419071.pubmethod(en-us,PandP.50).gif "Public method")
-[Run(Boolean)](https://msdn.microsoft.com/en-us/library/gg405830(v=pandp.50))
+</div>
+(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Gg419071.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.mefextensions.mefbootstrapper.run(system.boolean)">Run(Boolean)</a></td>
+<td><div class="summary">
 Run the bootstrapper process.
-
-(Overrides [Bootstrapper.Run(Boolean)](https://msdn.microsoft.com/en-us/library/gg405740(v=pandp.50)).)
+</div>
+(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.bootstrapper.run(system.boolean)">Bootstrapper..::.Run(Boolean)</a>.)</td>
+</tr>
+</tbody>
+</table>
 
 ## See Also
 

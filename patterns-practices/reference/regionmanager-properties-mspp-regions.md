@@ -10,7 +10,6 @@ Prism Class Library
 RegionManager Properties
 ========================
 
-
 The [RegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanager) type exposes the following members.
 
 Properties
@@ -44,7 +43,7 @@ Gets a collection of <a href="https://msdn.microsoft.com/t:microsoft.practices.p
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionManager Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanager)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

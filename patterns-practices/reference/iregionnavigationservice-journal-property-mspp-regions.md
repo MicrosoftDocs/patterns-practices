@@ -13,12 +13,15 @@ IRegionNavigationService.Journal Property
 Gets the journal.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>IRegionNavigationJournal Journal { get; }ReadOnly Property Journal As IRegionNavigationJournal Get
-#### Property Value
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+IRegionNavigationJournal Journal { get; }ReadOnly Property Journal As IRegionNavigationJournal Get
+### Property Value
 
 Type: [IRegionNavigationJournal](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal(v=pandp.50))
 The journal.
@@ -26,7 +29,7 @@ The journal.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionNavigationService Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice(v=pandp.50))
 
 [IRegionNavigationService Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice_members(v=pandp.50))

@@ -9,9 +9,13 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736148(v=PandP.50)'
 # UpdateRegionsException Events
 
 
+
 The [UpdateRegionsException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception(v=pandp.50)) type exposes the following members.
 
 ## Events
+=======
+The [UpdateRegionsException](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.updateregionsexception) type exposes the following members.
+
 
 
 <table>
@@ -30,17 +34,22 @@ The [UpdateRegionsException](https://msdn.microsoft.com/en-us/library/microsoft.
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736148.protevent(en-us,PandP.50).gif" title="Protected event" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/ee332915">SerializeObjectState</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ee332915">SerializeObjectState</a></td>
 <td><div class="summary">
 Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
+
 [UpdateRegionsException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception(v=pandp.50))
+=======
+
+[UpdateRegionsException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.updateregionsexception)
+
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))

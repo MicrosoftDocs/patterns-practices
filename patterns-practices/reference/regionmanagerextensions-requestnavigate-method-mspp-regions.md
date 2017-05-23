@@ -7,9 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419138(v=PandP.50)'
 
 Prism Class Library
 
-RegionManagerExtensions..::.RequestNavigate Method
+RegionManagerExtensions.RequestNavigate Method
 ==================================================
-
 
 Overload List
 -------------
@@ -91,7 +90,7 @@ This method allows an IRegionManager to locate a specified region and navigate i
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionManagerExtensions Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanagerextensions)
 
 [RegionManagerExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionmanagerextensions)

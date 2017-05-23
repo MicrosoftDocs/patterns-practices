@@ -7,13 +7,13 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430866(vPandP.40)'
 
 # 15: Extending the Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
 Prism contains assets that represent recommended practices for Windows Presentation Foundation (WPF) client development. Developers can use an unmodified version of the guidance to create composite applications using the Model-View-ViewModel (MVVM) pattern. However, because each application is unique, you should analyze whether Prism is suitable for your particular needs. In some cases, you will want to customize the guidance to incorporate your enterprise's best practices and frequently repeated developer tasks.
 
 The Prism Library can serve as the foundation for your WPF client applications. The Prism Library was designed so that significant pieces can be customized or replaced to fit your specific scenario. You can modify the source code for the existing library to incorporate new functionality. Developers can replace key components in the architecture with ones of their own design because of the reliance on a container to locate and construct key components in the architecture. In the library, you can even replace the container itself if you want. Other common areas to customize include creating or customizing the bootstrapper to select a module discovery strategy for module loading, calling your own logger, using your own container, and creating your own region adapters.
 
-This topic describes several key extensibility points in the Prism Library. These tend to be more advanced topics and are not expected to be performed for most developers using the Prism Library. A solid understanding of the goals and design decisions in the Prism Library will help to ensure any extensions to Prism functionality don’t create side effects or degrade the architecture. It is recommended that the main topics of the Prism documentation are read before extending the Prism Library. Most of the techniques described in this document rely on replacing or modifying Prism Library default configuration during the bootstrapping sequence when the application starts, so reading the section [Prism Key Concepts](/guide/1-introduction-to-the-prism-library-5.0-for-wpf(vpandp.40)#PrismKeyConcepts) in [Introduction](/guide/1-introduction-to-the-prism-library-5.0-for-wpf(vpandp.40)) is a prerequisite.
+This topic describes several key extensibility points in the Prism Library. These tend to be more advanced topics and are not expected to be performed for most developers using the Prism Library. A solid understanding of the goals and design decisions in the Prism Library will help to ensure any extensions to Prism functionality don’t create side effects or degrade the architecture. It is recommended that the main topics of the Prism documentation are read before extending the Prism Library. Most of the techniques described in this document rely on replacing or modifying Prism Library default configuration during the bootstrapping sequence when the application starts, so reading the section [Prism Key Concepts](/patterns-practices/guide/1-introduction-to-the-prism-library-5.0-for-wpf#PrismKeyConcepts) in [Introduction](/patterns-practices/guide/1-introduction-to-the-prism-library-5.0-for-wpf) is a prerequisite.
 
 The following are the key extensibility points in the Prism Library covered in this topic:
 
@@ -475,7 +475,7 @@ Region adapter mappings are used by the region manager service to associate the 
 
 ### Customizing the Region Adapter Mappings
 
-One phase of the bootstrapping process is to register the default region adapter mappings. These mappings are used by the region manager to associate the correct adapters for XAML-defined regions. By default, an **ItemsControlRegionAdapter**, a **ContentControlRegionAdapter**, and a **SelectorRegionAdapter** are registered. For more information about these adapters, see [Composing the User Interface](/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf(vpandp.40)).
+One phase of the bootstrapping process is to register the default region adapter mappings. These mappings are used by the region manager to associate the correct adapters for XAML-defined regions. By default, an **ItemsControlRegionAdapter**, a **ContentControlRegionAdapter**, and a **SelectorRegionAdapter** are registered. For more information about these adapters, see [Composing the User Interface](/patterns-practices/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf).
 
 The following code example shows the default implementation of the **ConfigureRegionAdapterMappings** method. To customize the registration of region adapters, override this method in your applications bootstrapper.
 
@@ -629,7 +629,7 @@ The region navigation service provides the core functionality of coordinating th
 
 The View Model Locator is used in the MVVM Basic QuickStart to wire the view and the view model using its standard convention. This section describes how to change the conventions for naming and locating views, naming, locating and associating view models with views.
 
-For guidance on determining whether to use the View Model Locator or to wire your view and view model together using MEF, see [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(vpandp.40)). As background, the Stock Trader reference implementation uses MEF to wire the view and the view model.
+For guidance on determining whether to use the View Model Locator or to wire your view and view model together using MEF, see [Implementing the MVVM Pattern](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf). As background, the Stock Trader reference implementation uses MEF to wire the view and the view model.
 
 ## Changing the View Model Locator Conventions
 
@@ -658,5 +658,3 @@ When bootstrapping your application use the **SetDefaultViewModelFactory** metho
 ```
 
 The default strategy for creating the view models is using the **Activator.CreateInstance** method, which is a valid approach if you have a default constructor in the view model and there are no dependencies to be injected.
-
-Next Topic | Previous Topic | [Home](/guide/developers-guide-to-microsoft-prism) | [Community](https://compositewpf.codeplex.com/)

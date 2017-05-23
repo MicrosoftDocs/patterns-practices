@@ -6,7 +6,12 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736150(v=PandP.50)'
 ---
 
 
+
 # BindableBase.OnPropertyChanged Method (String)
+=======
+BindableBase.OnPropertyChanged Method (String)
+==================================================
+
 
 Notifies listeners that a property value has changed.
 
@@ -15,6 +20,7 @@ Notifies listeners that a property value has changed.
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
+
 
 ~~~c#
 protected void OnPropertyChanged(
@@ -36,10 +42,25 @@ Protected Sub OnPropertyChanged (
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 
 Name of the property used to notify listeners. This value is optional and can be provided automatically when invoked from compilers that support [CallerMemberNameAttribute](http://msdn2.microsoft.com/en-us/library/hh551816).
+=======
+
+protected void OnPropertyChanged( string propertyName )Protected Sub OnPropertyChanged ( propertyName As String )
+
+### Parameters
+
+propertyName  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+Name of the property used to notify listeners. This value is optional and can be provided automatically when invoked from compilers that support [CallerMemberNameAttribute](http://msdn.microsoft.com/en-us/library/hh551816).
+
 
 ## See Also
 
+
 [BindableBase Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase(v=pandp.50))
+=======
+
+[BindableBase Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.bindablebase)
+
 
 [BindableBase Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase_members(v=pandp.50))
 

@@ -16,8 +16,9 @@ Subscribes a delegate to an event that will be published on the [PublisherThread
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
-Syntax
-------
+
+## Syntax
+
 
 ```C#
 public SubscriptionToken Subscribe(
@@ -33,21 +34,20 @@ Public Function Subscribe (
 ) As SubscriptionToken
 ```
 
-#### Parameters
+
+### Parameters
 
 *action*  
-Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50))&gt;
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50))&gt;
 
 The delegate that gets executed when the event is published.
 
-<!-- -->
-
 *keepSubscriberReferenceAlive*  
-Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 When **truetrue** (**True** in Visual Basic), the [PubSubEvent&lt;TPayload&gt;](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50)) keeps a reference to the subscriber so it does not get garbage collected.
 
-#### Return Value
+### Return Value
 
 Type: [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50))
 
@@ -56,14 +56,14 @@ A [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practic
 Remarks
 -------
 
-<span id="remarksToggle"></span> If *keepSubscriberReferenceAlive* is set to **falsefalse** (**False** in Visual Basic), [PubSubEvent&lt;TPayload&gt;](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50)) will maintain a [WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied *action* delegate. If not using a WeakReference (*keepSubscriberReferenceAlive* is **truetrue** (**True** in Visual Basic)), the user must explicitly call Unsubscribe for the event when disposing the subscriber in order to avoid memory leaks or unexpected behavior.
+<span id="remarksToggle"></span> If *keepSubscriberReferenceAlive* is set to **falsefalse** (**False** in Visual Basic), [PubSubEvent&lt;TPayload&gt;](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50)) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied *action* delegate. If not using a WeakReference (*keepSubscriberReferenceAlive* is **truetrue** (**True** in Visual Basic)), the user must explicitly call Unsubscribe for the event when disposing the subscriber in order to avoid memory leaks or unexpected behavior.
 
 The PubSubEvent collection is thread-safe.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [PubSubEvent&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50))
 
 PubSubEvent&lt;TPayload&gt; Members

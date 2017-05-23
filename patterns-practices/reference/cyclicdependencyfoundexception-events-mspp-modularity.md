@@ -10,7 +10,6 @@ Prism Class Library
 CyclicDependencyFoundException Events
 =====================================
 
-
 The [CyclicDependencyFoundException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.cyclicdependencyfoundexception) type exposes the following members.
 
 Events
@@ -33,11 +32,11 @@ Events
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736282.protevent(en-us,PandP.50).gif" title="Protected event" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/ee332915">SerializeObjectState</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ee332915">SerializeObjectState</a></td>
 <td><div class="summary">
 Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
 </tr>
 </tbody>
 </table>
@@ -45,7 +44,7 @@ Occurs when an exception is serialized to create an exception state object that 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [CyclicDependencyFoundException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
