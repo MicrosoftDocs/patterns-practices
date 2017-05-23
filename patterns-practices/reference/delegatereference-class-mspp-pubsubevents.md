@@ -29,10 +29,10 @@ Public Class DelegateReference
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
   Microsoft.Practices.Prism.PubSubEvents.DelegateReference
 
 ## See Also
 
-DelegateReference Members
+DelegateReference Members<br/>
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
