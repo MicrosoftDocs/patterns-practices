@@ -11,7 +11,9 @@ Defines the metadata that describes a module.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -30,8 +32,8 @@ Public Class ModuleInfo
 ```
 
 ## Inheritance Hierarchy
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.Modularity..::.ModuleInfo
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.Modularity.ModuleInfo
 
 ## See Also
 

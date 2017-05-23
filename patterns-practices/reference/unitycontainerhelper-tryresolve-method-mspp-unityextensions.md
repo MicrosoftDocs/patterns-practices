@@ -7,9 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419147(v=PandP.50)'
 
 Prism Class Library
 
-UnityContainerHelper..::.TryResolve Method
+UnityContainerHelper.TryResolve Method
 ==========================================
-
 
 Overload List
 -------------
@@ -49,7 +48,7 @@ Utility method to try to resolve a service from the container avoiding an except
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [UnityContainerHelper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unitycontainerhelper)
 
 [UnityContainerHelper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitycontainerhelper)

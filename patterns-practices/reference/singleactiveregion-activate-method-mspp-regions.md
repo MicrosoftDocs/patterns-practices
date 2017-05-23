@@ -7,26 +7,30 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418995(v=PandP.50)'
 
 Prism Class Library
 
-SingleActiveRegion..::.Activate Method
+SingleActiveRegion.Activate Method
 ======================================
 
 Marks the specified view as active.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public override void Activate( Object view )Public Overrides Sub Activate ( view As Object )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public override void Activate( Object view )Public Overrides Sub Activate ( view As Object )
+
+### Parameters
 
 view  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The view to activate.
 
-#### Implements
+### Implements
 
-[IRegion..::.Activate(Object)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregion.activate(system.object))
+[IRegion.Activate(Object)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregion.activate(system.object))
 
 Remarks
 -------
@@ -36,7 +40,7 @@ Remarks
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [SingleActiveRegion Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.singleactiveregion)
 
 [SingleActiveRegion Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.singleactiveregion)

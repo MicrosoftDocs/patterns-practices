@@ -10,7 +10,6 @@ Prism Class Library
 ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Fields
 ===============================================
 
-
 The [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.observableobject%601) type exposes the following members.
 
 Fields
@@ -44,7 +43,7 @@ Identifies the Value property of the ObservableObject
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.observableobject%601)
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)

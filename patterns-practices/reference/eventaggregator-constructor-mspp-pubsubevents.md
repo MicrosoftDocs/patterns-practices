@@ -15,14 +15,25 @@ Initializes a new instance of the [EventAggregator](https://msdn.microsoft.com/e
 
 ## Syntax
 
+=======
+
+
+public EventAggregator()Public Sub New
+
+
 ```C#
 public EventAggregator()
 ```
+
 
 ```VB
 'Declaration
 Public Sub New
 ```
+=======
+
+[EventAggregator Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventaggregator)
+
 
 ## See Also
 

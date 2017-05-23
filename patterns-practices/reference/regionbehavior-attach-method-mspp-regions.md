@@ -7,25 +7,28 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418949(v=PandP.50)'
 
 Prism Class Library
 
-RegionBehavior..::.Attach Method
+RegionBehavior.Attach Method
 ================================
 
 Attaches the behavior to the region.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public void Attach()Public Sub Attach
-#### Implements
+**Version:** 5.0.0.0 (5.0.0.0)
 
-[IRegionBehavior..::.Attach()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionbehavior.attach)
+## Syntax
+
+
+public void Attach()Public Sub Attach
+### Implements
+
+[IRegionBehavior.Attach()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionbehavior.attach)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehavior)
 
 [RegionBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehavior)

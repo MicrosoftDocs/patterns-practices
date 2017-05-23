@@ -11,7 +11,9 @@ Handles any exception occurred in the module typeloading process, logs the error
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -32,7 +34,8 @@ Protected Overridable Sub HandleModuleTypeLoadingError (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *moduleInfo*
 
@@ -42,12 +45,11 @@ Protected Overridable Sub HandleModuleTypeLoadingError (
 
 *exception*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The exception thrown that is the cause of the current error.
 
 ## Exceptions
-
 
 <span id="exceptionsToggle"></span>
 | Exception                                                                                                                                                           | Condition |

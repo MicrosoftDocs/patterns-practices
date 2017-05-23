@@ -7,25 +7,28 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431251(v=PandP.50)'
 
 Prism Class Library
 
-InteractionRequestedEventArgs..::.Callback Property
+InteractionRequestedEventArgs.Callback Property
 ===================================================
 
 Gets the callback to execute when an interaction is completed.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
-<span id="syntaxToggle"></span>public Action Callback { get; }Public ReadOnly Property Callback As Action Get
-#### Property Value
+**Version:** 5.0.0.0 (5.0.0.0)
 
-Type: [Action](http://msdn2.microsoft.com/en-us/library/bb534741)
+## Syntax
+
+
+public Action Callback { get; }Public ReadOnly Property Callback As Action Get
+### Property Value
+
+Type: [Action](http://msdn.microsoft.com/en-us/library/bb534741)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [InteractionRequestedEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)
 
 [InteractionRequestedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)

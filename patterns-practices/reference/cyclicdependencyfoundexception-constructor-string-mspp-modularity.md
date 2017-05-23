@@ -13,7 +13,9 @@ Initializes a new instance of the [CyclicDependencyFoundException](https://msdn.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -30,11 +32,12 @@ Public Sub New (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *message*
   
-		Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+		Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 		The message that describes the error.
 
 ## See Also

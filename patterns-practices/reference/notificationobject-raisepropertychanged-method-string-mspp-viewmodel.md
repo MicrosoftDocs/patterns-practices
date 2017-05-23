@@ -7,27 +7,31 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419029(v=PandP.50)'
 
 Prism Class Library
 
-NotificationObject..::.RaisePropertyChanged Method (String)
+NotificationObject.RaisePropertyChanged Method (String)
 ===========================================================
 
 Raises this object's PropertyChanged event.
 
 **Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/n:microsoft.practices.prism.viewmodel)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>protected virtual void RaisePropertyChanged( string propertyName )Protected Overridable Sub RaisePropertyChanged ( propertyName As String )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+protected virtual void RaisePropertyChanged( string propertyName )Protected Overridable Sub RaisePropertyChanged ( propertyName As String )
+
+### Parameters
 
 propertyName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The property that has a new value.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [NotificationObject Class](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.notificationobject)
 
 [NotificationObject Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.viewmodel.notificationobject)

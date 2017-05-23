@@ -13,21 +13,25 @@ MefRegionNavigationContentLoader Constructor
 Initializes a new instance of the [MefRegionNavigationContentLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader) class.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
-<span id="syntaxToggle"></span>public MefRegionNavigationContentLoader( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public MefRegionNavigationContentLoader( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
+
+### Parameters
 
 serviceLocator  
 Type: IServiceLocator
-IServiceLocator used to create the instance of the view from its [Type](http://msdn2.microsoft.com/en-us/library/42892f65).
+IServiceLocator used to create the instance of the view from its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefRegionNavigationContentLoader Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader)
 
 [MefRegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader)

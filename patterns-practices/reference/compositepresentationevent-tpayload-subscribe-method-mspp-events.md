@@ -7,9 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419057(v=PandP.50)'
 
 Prism Class Library
 
-CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)..::.Subscribe Method
+CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Subscribe Method
 ==============================================================================
-
 
 Overload List
 -------------
@@ -33,14 +32,14 @@ Overload List
 <td><img src="https://msdn.microsoft.com/en-us/Gg419057.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.events.compositepresentationevent%601.subscribe(system.action%7b%600%7d)">Subscribe(Action&lt;(Of &lt;(TPayload&gt;)&gt;))</a></td>
 <td><div class="summary">
-Subscribes a delegate to an event that will be published on the PublisherThread. <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.events.compositepresentationevent%601">CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)</a> will maintain a <a href="http://msdn2.microsoft.com/en-us/library/hbh8w2zd">WeakReference</a> to the target of the supplied action delegate.
+Subscribes a delegate to an event that will be published on the PublisherThread. <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.events.compositepresentationevent%601">CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)</a> will maintain a <a href="http://msdn.microsoft.com/en-us/library/hbh8w2zd">WeakReference</a> to the target of the supplied action delegate.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419057.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.events.compositepresentationevent%601.subscribe(system.action%7b%600%7d%2cmicrosoft.practices.prism.pubsubevents.threadoption)">Subscribe(Action&lt;(Of &lt;(TPayload&gt;)&gt;), ThreadOption)</a></td>
 <td><div class="summary">
-Subscribes a delegate to an event. CompositePresentationEvent will maintain a <a href="http://msdn2.microsoft.com/en-us/library/hbh8w2zd">WeakReference</a> to the Target of the supplied action delegate.
+Subscribes a delegate to an event. CompositePresentationEvent will maintain a <a href="http://msdn.microsoft.com/en-us/library/hbh8w2zd">WeakReference</a> to the Target of the supplied action delegate.
 </div></td>
 </tr>
 <tr class="odd">
@@ -70,7 +69,7 @@ Subscribes a delegate to an event.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.events.compositepresentationevent%601)
 
 [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.events.compositepresentationevent%601)

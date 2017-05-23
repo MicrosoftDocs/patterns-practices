@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430857(vPandP.40)'
 
 # MVVM QuickStart Using the Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
 The Model-View-ViewModel (MVVM) QuickStart provides sample code that demonstrates how to separate the state and logic that support a view into a separate class named **ViewModel** using the Prism Library. The view model sits on top of the application data model to provide the state or data needed to support the view, insulating the view from needing to know about the full complexity of the application. The view model also encapsulates the interaction logic for the view that does not directly depend on the view elements themselves. This QuickStart provides a tutorial on implementing the MVVM pattern.
 
@@ -58,7 +58,7 @@ Because the first four properties are related to questionnaires, a questionnaire
 Note that even things like buttons represent something that needs support from the view model. You can either expose a command, as shown in this QuickStart, or you can expose a method. With the former, you will need a property exposed from the view model with an object that implements the **ICommand** interface; with the latter, you need a behavior that can target a method.
 
 > [!NOTE]
-> For button clicks, you have the choice of commands or behaviors. For more information, see [Command-Enabled Controls vs. Behaviors](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(vpandp.40)#CommandEnabledControls) in [Advanced MVVM Scenarios](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(vpandp.40)). In this topic, you will use a command. To do that, you need a command implementation, which does not exist in a form compatible with view models in the .NET Framework. Prism provides the **DelegateCommand** class that is perfect for hooking up views to view models with commands.
+> For button clicks, you have the choice of commands or behaviors. For more information, see [Command-Enabled Controls vs. Behaviors](/patterns-practices/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf#CommandEnabledControls) in [Advanced MVVM Scenarios](/patterns-practices/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf). In this topic, you will use a command. To do that, you need a command implementation, which does not exist in a form compatible with view models in the .NET Framework. Prism provides the **DelegateCommand** class that is perfect for hooking up views to view models with commands.
 
 As we want to demonstrate parent-child view model composition, the application UI is composed by two views: **MainWindow**, which contains the **Reset** and **Submit** buttons and an instance of the second view, which is the **QuestionnaireView** that includes the questionnaire's questions.
 
@@ -223,7 +223,7 @@ Open MainWindow.xaml and look for the code where the view model locator property
             viewModel:ViewModelLocator.AutoWireViewModel"True">
 ```
 
-Prism's view model locator is an attached property that when set to true it will try to locate the view model of the view, and then set the view's data context to an instance of the view model. To locate the corresponding view model, the view model locator uses two approaches. First it will look for the view model in a view name/view model registration mapping. If a registration is not found, it will fall back to a convention-based approach, that will locate the view models, by replacing “.View” from the view namespace with “.ViewModel” and appending ‘’ViewModel’’ to the view’s name. For more information about ways to hook up views to view models; see "[Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(vpandp.40))."
+Prism's view model locator is an attached property that when set to true it will try to locate the view model of the view, and then set the view's data context to an instance of the view model. To locate the corresponding view model, the view model locator uses two approaches. First it will look for the view model in a view name/view model registration mapping. If a registration is not found, it will fall back to a convention-based approach, that will locate the view models, by replacing “.View” from the view namespace with “.ViewModel” and appending ‘’ViewModel’’ to the view’s name. For more information about ways to hook up views to view models; see "[Implementing the MVVM Pattern](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf)."
 
 ## Adding Design-Time Support
 
@@ -260,18 +260,16 @@ This design view model just has to initialize the properties used in the view fo
 
 For more information about implementing the MVVM pattern, see the following topics:
 
--   [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(vpandp.40))
--   [Advanced MVVM Scenarios](/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf(vpandp.40))
+-   [Implementing the MVVM Pattern](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf)
+-   [Advanced MVVM Scenarios](/patterns-practices/guide/6-advanced-mvvm-scenarios-using-the-prism-library-5.0-for-wpf)
 
 To learn about other code samples included with Prism, see the following topics:
 
--   [Stock Trader Reference Implementation](/guide/stock-trader-reference-implementation-using-the-prism-library-5.0-for-wpf(vpandp.40))
--   [Modularity QuickStarts](/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf(vpandp.40))
--   [Interactivity QuickStart](/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf(vpandp.40))
--   [Commanding QuickStart](/guide/commanding-quickstart-using-the-prism-library-5.0-for-wpf(vpandp.40))
--   [UI Composition QuickStart](/guide/ui-composition-quickstart-using-the-prism-library-5.0-for-wpf(vpandp.40))
--   [State-Based Navigation QuickStart](/guide/state-based-navigation-quickstart-using-the-prism-library-5.0-for-wpf(vpandp.40))
--   [View-Switching Navigation QuickStart](/guide/view-switching-navigation-quickstart-using-the-prism-library-5.0-for-wpf(vpandp.40))
--   [Event Aggregation QuickStart](/guide/event-aggregation-quickstart-using-the-prism-library-5.0-for-wpf(vpandp.40))
-
-Next Topic | Previous Topic | [Home](/guide/developers-guide-to-microsoft-prism) | [Community](https://compositewpf.codeplex.com/)
+-   [Stock Trader Reference Implementation](/patterns-practices/guide/stock-trader-reference-implementation-using-the-prism-library-5.0-for-wpf)
+-   [Modularity QuickStarts](/patterns-practices/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf)
+-   [Interactivity QuickStart](/patterns-practices/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf)
+-   [Commanding QuickStart](/patterns-practices/guide/commanding-quickstart-using-the-prism-library-5.0-for-wpf)
+-   [UI Composition QuickStart](/patterns-practices/guide/ui-composition-quickstart-using-the-prism-library-5.0-for-wpf)
+-   [State-Based Navigation QuickStart](/patterns-practices/guide/state-based-navigation-quickstart-using-the-prism-library-5.0-for-wpf)
+-   [View-Switching Navigation QuickStart](/patterns-practices/guide/view-switching-navigation-quickstart-using-the-prism-library-5.0-for-wpf)
+-   [Event Aggregation QuickStart](/patterns-practices/guide/event-aggregation-quickstart-using-the-prism-library-5.0-for-wpf)

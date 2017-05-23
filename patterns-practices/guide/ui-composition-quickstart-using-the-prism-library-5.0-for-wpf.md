@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921174(v=PandP.40)'
 
 # UI Composition QuickStart Using the Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
 The UI Composition QuickStart sample illustrates how to use both the view discovery and view injection approaches for user interface (UI) composition with the Prism Library for WPF. When using view discovery, modules can register views (or presentation models) against a particular named location. When that location is displayed at run time, any views that have been registered for that location will be automatically created and displayed within it. In the view injection approach, views are programmatically added or removed from a named location by the modules that manage them. To enable this, the application contains a registry of named locations in the UI, and a module can look up one of the locations using the registry and then programmatically inject views into it.
 
@@ -190,17 +190,17 @@ You should see the QuickStart window and the tests automatically interact with t
 
 ## More Information
 
-For more information about UI composition, see [Composing the User Interface](/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+For more information about UI composition, see [Composing the User Interface](/patterns-practices/guide/7-composing-the-user-interface-using-the-prism-library-5.0-for-wpf).
 
 To learn about other code samples included with Prism, see the following topics:
 
--   [Stock Trader Reference Implementation](/guide/stock-trader-reference-implementation-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--   [Modularity QuickStarts](/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--   [Interactivity QuickStart](/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--   [MVVM QuickStart](/guide/mvvm-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--   [Commanding QuickStart](/guide/commanding-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--   [State-Based Navigation QuickStart](/guide/state-based-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--   [View-Switching Navigation QuickStart](/guide/view-switching-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--   [Event Aggregation QuickStart](/guide/event-aggregation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-   [Stock Trader Reference Implementation](/patterns-practices/guide/stock-trader-reference-implementation-using-the-prism-library-5.0-for-wpf)
+-   [Modularity QuickStarts](/patterns-practices/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf)
+-   [Interactivity QuickStart](/patterns-practices/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf)
+-   [MVVM QuickStart](/patterns-practices/guide/mvvm-quickstart-using-the-prism-library-5.0-for-wpf)
+-   [Commanding QuickStart](/patterns-practices/guide/commanding-quickstart-using-the-prism-library-5.0-for-wpf)
+-   [State-Based Navigation QuickStart](/patterns-practices/guide/state-based-navigation-quickstart-using-the-prism-library-5.0-for-wpf)
+-   [View-Switching Navigation QuickStart](/patterns-practices/guide/view-switching-navigation-quickstart-using-the-prism-library-5.0-for-wpf)
+-   [Event Aggregation QuickStart](/patterns-practices/guide/event-aggregation-quickstart-using-the-prism-library-5.0-for-wpf)
 
-Next Topic | Previous Topic | [Home](/guide/developers-guide-to-microsoft-prism) | [Community](https://compositewpf.codeplex.com/)
+Next Topic | Previous Topic | [Home](/patterns-practices/guide/developers-guide-to-microsoft-prism) | [Community](https://compositewpf.codeplex.com/)

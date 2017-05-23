@@ -10,7 +10,6 @@ Prism Class Library
 ItemsControlRegionAdapter Properties
 ====================================
 
-
 The [ItemsControlRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemscontrolregionadapter) type exposes the following members.
 
 Properties
@@ -45,7 +44,7 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ItemsControlRegionAdapter Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemscontrolregionadapter)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

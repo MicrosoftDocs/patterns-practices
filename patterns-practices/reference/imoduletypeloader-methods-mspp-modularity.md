@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431046(v=PandP.50)'
 
 # IModuleTypeLoader Methods
 
-
 The [IModuleTypeLoader](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader(v=pandp.50)) type exposes the following members.
 
 ## Methods

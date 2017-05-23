@@ -10,7 +10,6 @@ Prism Class Library
 RegionManager Events
 ====================
 
-
 The [RegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanager) type exposes the following members.
 
 Events
@@ -44,7 +43,7 @@ Notification used by attached behaviors to update the region managers appropriat
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionManager Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanager)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

@@ -7,9 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419087(v=PandP.50)'
 
 Prism Class Library
 
-ModuleCatalog..::.CreateFromXaml Method
+ModuleCatalog.CreateFromXaml Method
 =======================================
-
 
 Overload List
 -------------
@@ -49,7 +48,7 @@ Creates a <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modula
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleCatalog Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)

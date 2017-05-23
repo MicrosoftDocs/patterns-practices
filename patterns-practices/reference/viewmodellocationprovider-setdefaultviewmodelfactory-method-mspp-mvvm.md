@@ -9,7 +9,6 @@ Prism Class Library
 
 # ViewModelLocationProvider.SetDefaultViewModelFactory Method
 
-
 Sets the default view model factory.
 
 **Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm(v=pandp.50))
@@ -24,14 +23,14 @@ public static void SetDefaultViewModelFactory(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *viewModelFactory*  
 
-Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb549151)&lt;[Type](http://msdn2.microsoft.com/en-us/library/42892f65), [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;[Type](http://msdn.microsoft.com/en-us/library/42892f65), [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;
 
 The view model factory.
-
 
 ```VB
 'Declaration
@@ -40,20 +39,18 @@ Public Shared Sub SetDefaultViewModelFactory (
 )
 ```
 
-#### Parameters
 
+### Parameters
 
 *viewModelFactory*  
 
-Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb549151)(Of([Type](http://msdn2.microsoft.com/en-us/library/42892f65), [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b))
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of([Type](http://msdn.microsoft.com/en-us/library/42892f65), [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))
 
 The view model factory.
-
 
 ## See Also
 
 
-<span id="seeAlsoToggle"></span>
 [ViewModelLocationProvider Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.viewmodellocationprovider(v=pandp.50))
 
 [ViewModelLocationProvider Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.viewmodellocationprovider_members(v=pandp.50))

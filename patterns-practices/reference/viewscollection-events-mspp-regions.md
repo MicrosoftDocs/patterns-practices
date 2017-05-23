@@ -10,7 +10,6 @@ Prism Class Library
 ViewsCollection Events
 ======================
 
-
 The [ViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewscollection) type exposes the following members.
 
 Events
@@ -44,7 +43,7 @@ Occurs when the collection changes.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ViewsCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewscollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

@@ -10,7 +10,6 @@ Prism Class Library
 DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
 =====================================================================
 
-
 The [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.events.dispatchereventsubscription%601) type exposes the following members.
 
 Properties
@@ -26,7 +25,7 @@ Properties
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.events.dispatchereventsubscription%601)
 
 [Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.events)

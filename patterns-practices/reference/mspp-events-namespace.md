@@ -51,7 +51,7 @@ Wraps the Application Dispatcher.
 <td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.events.dispatchereventsubscription%601">DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)</a></td>
 <td><strong>Obsolete.</strong>
 <div class="summary">
-Extends EventSubscription to invoke the Action delegate in a specific <a href="http://msdn2.microsoft.com/en-us/library/ms615907">Dispatcher</a>.
+Extends EventSubscription to invoke the Action delegate in a specific <a href="http://msdn.microsoft.com/en-us/library/ms615907">Dispatcher</a>.
 </div></td>
 </tr>
 </tbody>

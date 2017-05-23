@@ -10,7 +10,6 @@ Prism Class Library
 UnityBootstrapper Properties
 ============================
 
-
 The [UnityBootstrapper](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unitybootstrapper) type exposes the following members.
 
 Properties
@@ -68,7 +67,7 @@ Gets the shell user interface
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [UnityBootstrapper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unitybootstrapper)
 
 [Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)

@@ -7,9 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736124(v=PandP.50)'
 
 Prism Class Library
 
-DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)..::.FromAsyncHandler Method
+DelegateCommand&lt;(Of &lt;(T&gt;)&gt;).FromAsyncHandler Method
 ===================================================================
-
 
 Overload List
 -------------
@@ -49,7 +48,7 @@ Factory method to create a new instance of <a href="https://msdn.microsoft.com/t
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601)
 
 [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand%601)

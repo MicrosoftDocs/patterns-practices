@@ -10,31 +10,48 @@ Prism Class Library
 MefRegionNavigationJournalEntry Properties
 ==========================================
 
-
 The [MefRegionNavigationJournalEntry](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry) type exposes the following members.
 
 Properties
 ----------
 
-<span id="propertyTableToggle"></span>
- 
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Gg431155.pubproperty(en-us,PandP.50).gif "Public property")
-[Parameters](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.regionnavigationjournalentry.parameters)
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431155.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.regionnavigationjournalentry.parameters">Parameters</a></td>
+<td><div class="summary">
 Gets or sets the NavigationParameters instance.
-
-(Inherited from [RegionNavigationJournalEntry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournalentry).)
-![](https://msdn.microsoft.com/en-us/Gg431155.pubproperty(en-us,PandP.50).gif "Public property")
-[Uri](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.regionnavigationjournalentry.uri)
+</div>
+(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournalentry">RegionNavigationJournalEntry</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431155.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.regionnavigationjournalentry.uri">Uri</a></td>
+<td><div class="summary">
 Gets or sets the URI.
-
-(Inherited from [RegionNavigationJournalEntry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournalentry).)
+</div>
+(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournalentry">RegionNavigationJournalEntry</a>.)</td>
+</tr>
+</tbody>
+</table>
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefRegionNavigationJournalEntry Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)

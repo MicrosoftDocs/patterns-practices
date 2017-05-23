@@ -94,7 +94,7 @@ The RegionMemberLifetimeBehavior determines if items should be removed from the 
 <td><img src="https://msdn.microsoft.com/en-us/Gg419045.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior">SelectorItemsSourceSyncBehavior</a></td>
 <td><div class="summary">
-Defines the attached behavior that keeps the items of the <a href="http://msdn2.microsoft.com/en-us/library/ms595227">Selector</a> host control in synchronization with the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion">IRegion</a>. This behavior also makes sure that, if you activate a view in a region, the SelectedItem is set. If you set the SelectedItem or SelectedItems (ListBox) then this behavior will also call Activate on the selected items.
+Defines the attached behavior that keeps the items of the <a href="http://msdn.microsoft.com/en-us/library/ms595227">Selector</a> host control in synchronization with the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion">IRegion</a>. This behavior also makes sure that, if you activate a view in a region, the SelectedItem is set. If you set the SelectedItem or SelectedItems (ListBox) then this behavior will also call Activate on the selected items.
 <div>
 <h2 id="remarks-1">Remarks</h2>
 <span id="remarksToggle"></span> When calling Activate on a view, you can only select a single active view at a time. By setting the SelectedItems property of a listbox, you can set multiple views to active.

@@ -10,7 +10,6 @@ Prism Class Library
 ModuleConfigurationElement Constructor
 ======================================
 
-
 Overload List
 -------------
 
@@ -49,7 +48,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/t:microsoft.pr
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleConfigurationElement Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement)
 
 [ModuleConfigurationElement Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleconfigurationelement)

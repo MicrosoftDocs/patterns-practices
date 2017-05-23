@@ -10,7 +10,6 @@ Prism Class Library
 ModuleInfo Constructor
 ======================
 
-
 Overload List
 -------------
 
@@ -45,7 +44,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/t:microsoft.pr
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419106.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinfo.">ModuleInfo(String, String, array&lt;String&gt;[]()[])</a></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinfo.">ModuleInfo(String, String, array&lt;String&gt;)</a></td>
 <td><div class="summary">
 Initializes a new instance of <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a>.
 </div></td>
@@ -56,7 +55,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/t:microsoft.pr
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInfo Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 
 [ModuleInfo Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfo)

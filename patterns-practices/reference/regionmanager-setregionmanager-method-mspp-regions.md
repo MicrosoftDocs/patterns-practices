@@ -14,10 +14,13 @@ Sets the [RegionManagerProperty](https://msdn.microsoft.com/en-us/library/micros
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-Syntax
-------
+**Version:** 5.0.0.0 (5.0.0.0)
+
+
+## Syntax
+
 
 ```C#
 public static void SetRegionManager(
@@ -34,11 +37,12 @@ Public Shared Sub SetRegionManager (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *target*
 
-  Type: [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
+  Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
 
   The target element.
 
@@ -51,7 +55,7 @@ Public Shared Sub SetRegionManager (
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager(v=pandp.50))
 
 [RegionManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager_members(v=pandp.50))

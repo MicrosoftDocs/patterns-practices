@@ -14,15 +14,16 @@ Defines a contract for an event subscription to be used by [EventBase](https://m
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
 
-<span id="syntaxToggle"></span>public interface IEventSubscriptionPublic Interface IEventSubscription
+## Syntax
+
+
+public interface IEventSubscriptionPublic Interface IEventSubscription
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IEventSubscription Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.ieventsubscription)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)

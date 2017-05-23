@@ -10,7 +10,6 @@ Prism Class Library
 AllActiveRegion Properties
 ==========================
 
-
 The [AllActiveRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.allactiveregion) type exposes the following members.
 
 Properties
@@ -37,7 +36,7 @@ Properties
 <td><div class="summary">
 Gets a readonly view of the collection of all the active views in the region. These are all the added views.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.region.activeviews">Region..::.ActiveViews</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.region.activeviews">Region.ActiveViews</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431183.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
@@ -109,7 +108,7 @@ Gets a readonly view of the collection of views in the region.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [AllActiveRegion Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.allactiveregion)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

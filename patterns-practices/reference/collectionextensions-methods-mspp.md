@@ -10,7 +10,6 @@ Prism Class Library
 CollectionExtensions Methods
 ============================
 
-
 The [CollectionExtensions](https://msdn.microsoft.com/t:microsoft.practices.prism.collectionextensions) type exposes the following members.
 
 Methods
@@ -44,7 +43,7 @@ Add a range of items to a collection.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [CollectionExtensions Class](https://msdn.microsoft.com/t:microsoft.practices.prism.collectionextensions)
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)

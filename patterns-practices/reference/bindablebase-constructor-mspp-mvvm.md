@@ -28,7 +28,7 @@ Protected Sub New
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [BindableBase Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase(v=pandp.50))
 
 [BindableBase Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase_members(v=pandp.50))

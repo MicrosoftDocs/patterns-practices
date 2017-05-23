@@ -5,9 +5,9 @@ ms:assetid: '8c55fb84-b40a-4321-be92-66f9206eef92'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405479(v=PandP.40)'
 ---
 
-# 4: Modular Application Development Using Prism Library 5.0 for WPF
+#  Modular Application Development Using Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
 A modular application is an application that is divided into a set of loosely coupled functional units (named modules) that can be integrated into a larger application. A client module encapsulates a portion of the application's overall functionality and typically represents a set of related concerns. It can include a collection of related components, such as application features, including user interface and business logic, or pieces of application infrastructure, such as application-level services for logging or authenticating users. Modules are independent of one another but can communicate with each other in a loosely coupled fashion. Using a modular application design makes it easier for you to develop, test, deploy, and maintain your application.
 
@@ -582,7 +582,7 @@ If you are using MEF and the **ModuleExport** attribute for specifying modules a
 
 For more information about assembly caching, see "[How to: Use Assembly Library Caching](http://msdn.microsoft.com/en-us/library/dd833069(vs.95).aspx)" on MSDN.
 
-To learn more about modularity in Prism, see the Modularity with MEF for WPF QuickStart or the Modularity with Unity for WPF QuickStart. For more information about the QuickStarts, see [Modularity QuickStarts](/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+To learn more about modularity in Prism, see the Modularity with MEF for WPF QuickStart or the Modularity with Unity for WPF QuickStart. For more information about the QuickStarts, see [Modularity QuickStarts](/patterns-practices/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf).
 
-For information about the modularity features that can be extended in the Prism Library, see [Modules](/guide/15-extending-the-prism-library-5.0-for-wpf(v=pandp.40)#Modules) in [Extending the Prism Library](/guide/15-extending-the-prism-library-5.0-for-wpf(v=pandp.40)).
+For information about the modularity features that can be extended in the Prism Library, see [Modules](/patterns-practices/guide/15-extending-the-prism-library-5.0-for-wpf#Modules) in [Extending the Prism Library](/patterns-practices/guide/15-extending-the-prism-library-5.0-for-wpf).
 

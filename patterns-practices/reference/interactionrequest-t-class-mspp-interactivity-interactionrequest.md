@@ -13,11 +13,14 @@ InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Class
 Implementation of the [IInteractionRequest](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest) interface.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
-<span id="syntaxToggle"></span>public class InteractionRequest&lt;T&gt; : IInteractionRequest where T : INotification Public Class InteractionRequest(Of T As INotification) Implements IInteractionRequest
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public class InteractionRequest&lt;T&gt; : IInteractionRequest where T : INotification Public Class InteractionRequest(Of T As INotification) Implements IInteractionRequest
 Type Parameters
 ---------------
 
@@ -27,13 +30,13 @@ T
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.Interactivity.InteractionRequest..::.InteractionRequest&lt;(Of &lt;(T&gt;)&gt;)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequest&lt;(Of &lt;(T&gt;)&gt;)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)

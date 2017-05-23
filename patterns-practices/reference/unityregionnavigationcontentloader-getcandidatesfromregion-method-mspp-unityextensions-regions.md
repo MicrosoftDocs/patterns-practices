@@ -7,38 +7,40 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736231(v=PandP.50)'
 
 Prism Class Library
 
-UnityRegionNavigationContentLoader..::.GetCandidatesFromRegion Method
+UnityRegionNavigationContentLoader.GetCandidatesFromRegion Method
 =====================================================================
 
 Returns the set of candidates that may satisfiy this navigation request.
 
 **Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions.regions)
-**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
-<span id="syntaxToggle"></span>protected override IEnumerable&lt;Object&gt; GetCandidatesFromRegion( IRegion region, string candidateNavigationContract )Protected Overrides Function GetCandidatesFromRegion ( region As IRegion, candidateNavigationContract As String ) As IEnumerable(Of Object)
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+protected override IEnumerable&lt;Object&gt; GetCandidatesFromRegion( IRegion region, string candidateNavigationContract )Protected Overrides Function GetCandidatesFromRegion ( region As IRegion, candidateNavigationContract As String ) As IEnumerable(Of Object)
+
+### Parameters
 
 region  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
+Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 The region containing items that may satisfy the navigation request.
 
-<!-- -->
-
 candidateNavigationContract  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The candidate navigation target.
 
-#### Return Value
+### Return Value
 
-Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 An enumerable of candidate objects from the [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [UnityRegionNavigationContentLoader Class](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader)
 
 [UnityRegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader)
