@@ -37,9 +37,9 @@ Determines whether the specified <a href="http://msdn.microsoft.com/en-us/librar
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736245.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.interactivity.commandbehaviorbase%601.executecommand(system.object)">ExecuteCommand</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn736267(v=pandp.50)">ExecuteCommand</a></td>
 <td><div class="summary">
-Executes the command, if it's set, providing the <a href="https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.commandbehaviorbase%601.commandparameter">CommandParameter</a>
+Executes the command, if it's set, providing the <a href="https://msdn.microsoft.com/en-us/library/dn683970(v=pandp.50)">CommandParameter</a>
 </div></td>
 </tr>
 <tr class="odd">
