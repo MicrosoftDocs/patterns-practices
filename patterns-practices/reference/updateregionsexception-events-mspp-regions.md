@@ -14,7 +14,6 @@ The [UpdateRegionsException](https://msdn.microsoft.com/en-us/library/microsoft.
 ## Events
 
 
-<span id="eventTableToggle"></span>
 <table>
 <colgroup>
 <col width="33%" />

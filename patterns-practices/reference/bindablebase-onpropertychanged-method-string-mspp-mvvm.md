@@ -5,33 +5,44 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Mvvm.BindableBase.OnPropertyChanged(Sys
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736150(v=PandP.50)'
 ---
 
-Prism Class Library
 
-BindableBase..::.OnPropertyChanged Method (String)
-==================================================
+# BindableBase.OnPropertyChanged Method (String)
 
 Notifies listeners that a property value has changed.
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/n:microsoft.practices.prism.mvvm)
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm(v=pandp.50))
 
-<span id="syntaxToggle"></span>protected void OnPropertyChanged( string propertyName )Protected Sub OnPropertyChanged ( propertyName As String )
-#### Parameters
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
+
+## Syntax
+
+~~~c#
+protected void OnPropertyChanged(
+	string propertyName
+)
+~~~
+
+~~~VB
+'Declaration
+Protected Sub OnPropertyChanged ( 
+	propertyName As String
+)
+~~~
+
+
+## Parameters
 
 propertyName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+
 Name of the property used to notify listeners. This value is optional and can be provided automatically when invoked from compilers that support [CallerMemberNameAttribute](http://msdn2.microsoft.com/en-us/library/hh551816).
 
-See Also
---------
+## See Also
 
-<span id="seeAlsoToggle"></span>
-[BindableBase Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.bindablebase)
+[BindableBase Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase(v=pandp.50))
 
-[BindableBase Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mvvm.bindablebase)
+[BindableBase Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase_members(v=pandp.50))
 
-[OnPropertyChanged Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.mvvm.bindablebase.onpropertychanged)
+[OnPropertyChanged Overload](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase.onpropertychanged(v=pandp.50))
 
-[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mvvm)
+[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm(v=pandp.50))
