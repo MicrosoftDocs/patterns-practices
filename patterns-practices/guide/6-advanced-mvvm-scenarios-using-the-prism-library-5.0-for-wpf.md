@@ -5,7 +5,7 @@ ms:assetid: '11b0cec4-a9ed-4716-a632-dac70ddb764b'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405494(v=PandP.40)'
 ---
 
-#  Advanced MVVM Scenarios Using the Prism Library 5.0 for WPF
+# 6: Advanced MVVM Scenarios Using the Prism Library 5.0 for WPF
 
 From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
@@ -399,7 +399,7 @@ The **PopupWindowAction** sets the **Notification** object as the data context o
 
 Different triggers and actions can be defined to support other interaction mechanisms. The implementation of the Prism **InteractionRequestTrigger** and **PopupWindowAction** classes can be used as a basis for the development of your own triggers and actions.
 
-## Advanced Construction and Wire-Up
+## <a name="AdvancedConstructionandWireUp"></a>Advanced Construction and Wire-Up
 
 To successfully implement the MVVM pattern, you will need to fully understand the responsibilities of the view, model, and view model classes so that you can implement your application's code in the correct classes. Implementing the correct patterns to allow these classes to interact (through data binding, commands, interaction requests, and so on) is also an important requirement. The final step is to consider how the view, view model, and model classes are instantiated and associated with each other at run time.
 

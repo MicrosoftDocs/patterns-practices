@@ -5,7 +5,7 @@ ms:assetid: '9cac3304-85f9-4378-8b56-9d4a557f5d25'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405484(v=PandP.40)'
 ---
 
-#  Implementing the MVVM Pattern Using the Prism Library 5.0 for WPF
+# 5: Implementing the MVVM Pattern Using the Prism Library 5.0 for WPF
 
 From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 

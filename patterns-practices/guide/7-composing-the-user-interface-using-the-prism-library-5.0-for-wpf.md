@@ -5,7 +5,7 @@ ms:assetid: '9ace102b-6423-4642-ac67-80cf768c7913'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921098(v=PandP.40)'
 ---
 
-#  Composing the User Interface Using the Prism Library 5.0 for WPF
+# 7: Composing the User Interface Using the Prism Library 5.0 for WPF
 
 From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
