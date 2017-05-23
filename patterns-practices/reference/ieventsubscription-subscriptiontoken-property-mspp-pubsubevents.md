@@ -5,30 +5,35 @@ ms:assetid: 'P:Microsoft.Practices.Prism.PubSubEvents.IEventSubscription.Subscri
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736194(v=PandP.50)'
 ---
 
-Prism Class Library
+# IEventSubscription.SubscriptionToken Property
 
-IEventSubscription..::.SubscriptionToken Property
-=================================================
+Gets or sets a SubscriptionToken that identifies this [IEventSubscription](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50)).
 
-Gets or sets a SubscriptionToken that identifies this [IEventSubscription](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription).
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
 
-<span id="syntaxToggle"></span>SubscriptionToken SubscriptionToken { get; set; }Property SubscriptionToken As SubscriptionToken Get Set
-#### Property Value
+## Syntax
 
-Type: [SubscriptionToken](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken)
-A token that identifies this [IEventSubscription](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription).
+```C#
+SubscriptionToken SubscriptionToken { get; set; }
+```
+```VB
+'Declaration
+Property SubscriptionToken As SubscriptionToken
+	Get
+	Set
+```
+### Property Value
 
-See Also
---------
+Type: [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50))
 
-<span id="seeAlsoToggle"></span>
-[IEventSubscription Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription)
+A token that identifies this [IEventSubscription](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50)).
 
-[IEventSubscription Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.ieventsubscription)
+## See Also
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
+[IEventSubscription Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50))
+
+IEventSubscription Members
+
+[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50))
