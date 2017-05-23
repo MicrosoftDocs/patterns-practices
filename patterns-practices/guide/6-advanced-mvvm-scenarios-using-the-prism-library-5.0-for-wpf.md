@@ -19,7 +19,7 @@ Commands provide a way to separate the command's implementation logic from its U
 
 **WPF Routed Commands**: It should be noted that commands implemented as command objects or command methods in the MVVM pattern differ somewhat from WPF's built-in implementation of commands named routed commands. WPF routed commands deliver command messages by routing them through elements in the UI tree (specifically the [logical tree](http://msdn.microsoft.com/en-us/library/ms753391.aspx)). Therefore, command messages are routed up or down the UI tree from the focused element or to an explicitly specified target element; by default, they are not routed to components outside of the UI tree, such as the view model associated with the view. However, WPF-routed commands can use a command handler defined in the view's code-behind to forward the command call to the view model class.
 
-## Composite Commands
+## <a name="CompositeCommands"></a>Composite Commands
 
 In many cases, a command defined by a view model will be bound to controls in the associated view so that the user can directly invoke the command from within the view. However, in some cases, you may want to be able to invoke commands on one or more view models from a control in a parent view in the application's UI.
 
@@ -110,7 +110,7 @@ One approach to this problem is to bind the button in the data template to the c
 
 The content of button control in the data template is bound to the **Name** property on the item in the collection. However, the command for the button is bound via the root element's data context to the **Delete** command. This allows the button to be bound to the command at the parent view level instead of at the item level. You can use the **CommandParameter** property to specify the item to which the command is to be applied, or you can implement the command to operate on the currently selected item (via a **CollectionView**).
 
-## Interaction Triggers and Commands
+## <a name="InteractionTriggers"></a>Interaction Triggers and Commands
 
 An alternative approach to commands is to use Blend for Visual Studio 2013 interaction triggers and the **InvokeCommandAction** action.
 
@@ -138,7 +138,7 @@ The following shows how to use the Blend EventTrigger configured to listen to th
   </ListBox>
 ```
 
-> [!NOTE]
+> <a name="CommandEnabledControls"></a>[!NOTE]
 > WPF controls that support commands allow you to declaratively hook up a control to a command. These controls will invoke the specified command when the user interacts with the control in a specific way. For example, for a **Button** control, the command will be invoked when the user clicks the button. This event associated with the command is fixed and cannot be changed.<br />
 Behaviors also allow you to hook up a control to a command in a declarative fashion. However, behaviors can be associated with a range of events raised by the control, and they can be used to conditionally invoke an associated command object or a command method in the view model. In other words, behaviors can address many of the same scenarios as command-enabled controls, and they may provide a greater degree of flexibility and control.<br />
 You will need to choose when to use command-enabled controls and when to use behaviors, as well as which kind of behavior to use. If you prefer to use a single mechanism to associate controls in the view with functionality in the view model or for consistency, you might consider using behaviors, even for controls that inherently support commands.<br />
@@ -369,7 +369,7 @@ To use the **InteractionRequest&lt;T&gt;** class, the view model class will crea
 
 The [Interactivity QuickStart](/patterns-practices/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf) illustrates how the **IInteractionRequest** interface and the **InteractionRequest&lt;T&gt;** class are used to implement user interactions between the view and view model (see InteractionRequestViewModel.cs).
 
-### Using Behaviors to Implement the Interaction User Experience
+### <a name="CommandBehaviors"></a>Using Behaviors to Implement the Interaction User Experience
 
 Because the interaction request object represents a logical interaction, the exact user experience for the interaction is defined in the view. Behaviors are often used to encapsulate the user experience for an interaction; this allows the UI designer to choose an appropriate behavior and to bind it to the interaction request object on the view model.
 

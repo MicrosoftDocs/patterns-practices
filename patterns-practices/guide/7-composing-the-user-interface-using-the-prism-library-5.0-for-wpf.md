@@ -1001,7 +1001,7 @@ There are several alternative techniques for associating a view and view model a
 The problem with this solution is that you must also include the **d:DataContext** – **d:DesignInstance** combination because the visual designer tooling cannot be reflected in the results of the attached property the way that it can with the **d:DesignInstance**.<br />
 Regardless of which technique you implement in your applications for resolving shape at design time, the most important goal is to be consistent throughout your application. Consistency will make application maintenance much easier and will lead to a successful designer-developer workflow.
 
-## Guidelines for Design-Time Sample Data
+## <a name="GuidelinesforDesignTimeSampleData"></a>Guidelines for Design-Time Sample Data
 
 The WPF and Silverlight Designer team published an in-depth, scenario-based training article that discusses the use of sample data in WPF and Silverlight projects. The article, [Sample Data in the WPF and Silverlight Designer](http://blogs.msdn.com/b/wpfsldesigner/archive/2010/06/30/sample-data-in-the-wpf-and-silverlight-designer.aspx), is available on MSDN.
 

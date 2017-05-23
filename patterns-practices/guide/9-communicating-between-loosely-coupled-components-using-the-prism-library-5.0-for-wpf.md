@@ -356,7 +356,7 @@ For a minimal or default subscription, the subscriber must provide a callback me
 ```
 
 
-### Unsubscribing from an Event
+### <a name="unsubscribingfromanevent"></a>Unsubscribing from an Event
 
 If your subscriber no longer wants to receive events, you can unsubscribe by using your subscriber's handler or you can unsubscribe by using a subscription token.
 
