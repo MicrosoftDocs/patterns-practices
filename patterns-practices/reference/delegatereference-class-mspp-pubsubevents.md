@@ -25,7 +25,6 @@ public class DelegateReference : IDelegateReference
 Public Class DelegateReference
 	Implements IDelegateReference
   
-
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
@@ -33,6 +32,6 @@ Public Class DelegateReference
 
 ## See Also
 
-[DelegateReference Members]
+DelegateReference Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
