@@ -42,7 +42,6 @@ Occurs when an exception is serialized to create an exception state object that 
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
 [UpdateRegionsException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
