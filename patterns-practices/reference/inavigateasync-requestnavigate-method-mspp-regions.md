@@ -34,7 +34,7 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736252.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.inavigateasync.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d%2cmicrosoft.practices.prism.regions.navigationparameters)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)</a></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.inavigateasync.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d%2cmicrosoft.practices.prism.regions.navigationparameters)">RequestNavigate(Uri, Action&lt;NavigationResult&gt;, NavigationParameters)</a></td>
 <td><div class="summary">
 Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a">Uri</a>.
 </div></td>
