@@ -10,9 +10,7 @@ Prism Class Library
 # DelegateCommand.FromAsyncHandler Method
 
 ## Overload List
--------------
 
-<span id="overloadMembersTableToggle"></span>
 <table>
 <colgroup>
 <col width="33%" />
