@@ -14,11 +14,7 @@ The [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.pr
 ## Methods
 
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>

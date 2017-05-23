@@ -14,11 +14,7 @@ The [BackgroundEventSubscription&lt;TPayload&gt;](https://msdn.microsoft.com/en-
 ## Methods
 
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>

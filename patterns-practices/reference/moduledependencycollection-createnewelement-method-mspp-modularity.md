@@ -10,11 +10,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419098(v=PandP.50)'
 ## Overload List
 
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>

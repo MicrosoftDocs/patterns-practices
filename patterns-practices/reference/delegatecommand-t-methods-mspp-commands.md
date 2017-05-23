@@ -15,11 +15,7 @@ The [DelegateCommand&lt;T&gt;](https://msdn.microsoft.com/en-us/library/gg431410
 -------
 
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>

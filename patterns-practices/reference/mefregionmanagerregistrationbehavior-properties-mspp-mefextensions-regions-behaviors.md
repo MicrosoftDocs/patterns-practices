@@ -12,11 +12,7 @@ The [MefRegionManagerRegistrationBehavior](https://msdn.microsoft.com/en-us/libr
 ## Properties
 
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>

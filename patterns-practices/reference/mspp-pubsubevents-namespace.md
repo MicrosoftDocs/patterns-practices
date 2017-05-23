@@ -14,11 +14,7 @@ Prism Class Library
 
 <span id="classToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -97,11 +93,7 @@ Subscription token returned from <a href="https://msdn.microsoft.com/en-us/libra
 
 <span id="interfaceToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -138,11 +130,7 @@ Defines a contract for an event subscription to be used by <a href="https://msdn
 
 <span id="enumerationToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>

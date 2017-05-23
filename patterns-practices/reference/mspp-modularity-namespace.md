@@ -222,11 +222,7 @@ Exception thrown by <a href="https://msdn.microsoft.com/en-us/library/microsoft.
 
 <span id="interfaceToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -298,11 +294,7 @@ Defines the interface for moduleTypeLoaders
 
 <span id="enumerationToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
