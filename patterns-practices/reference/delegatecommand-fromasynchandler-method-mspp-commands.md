@@ -7,10 +7,9 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736249(v=PandP.50)'
 
 Prism Class Library
 
-DelegateCommand.FromAsyncHandler Method
-===========================================
+# DelegateCommand.FromAsyncHandler Method
 
-Overload List
+## Overload List
 -------------
 
 <span id="overloadMembersTableToggle"></span>
@@ -30,9 +29,9 @@ Overload List
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736249.pubmethod(en-us,PandP.50).gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Dn736249.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.commands.delegatecommand.fromasynchandler(system.func%7bsystem.threading.tasks.task%7d)">FromAsyncHandler(Func&lt;(Of &lt;(Task&gt;)&gt;))</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn736189(v=pandp.50)">	FromAsyncHandler(Func&gt;Task&lt;)</a></td>
 <td><div class="summary">
-Factory method to create a new instance of <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand">DelegateCommand</a> from an awaitable handler method.
+Factory method to create a new instance of <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand(v=pandp.50)">DelegateCommand</a> from an awaitable handler method.
 </div></td>
 </tr>
 <tr class="even">
