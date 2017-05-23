@@ -11,7 +11,7 @@ From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-pract
 
 Learn what’s included in Prism 5.0 including the documentation, WPF code samples, and libraries. Additionally find out where to get the library and sample source code and the library NuGet packages.
 
-For a list of the new features, assets, and API changes, see [What's New in Prism 5.0](/patterns-practices/guide/whats-new-in-prism-library-5.0-for-wpf(vpandp.40)(v=pandp.40)).
+For a list of the new features, assets, and API changes, see [What's New in Prism 5.0](/patterns-practices/guide/whats-new-in-prism-library-5.0-for-wpf).
 
 ## Documentation
 

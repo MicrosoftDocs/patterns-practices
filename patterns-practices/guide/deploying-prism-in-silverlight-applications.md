@@ -34,7 +34,7 @@ Notice in the following illustration that because the shell and each of the modu
 > [!NOTE]
 > If you plan to have your users install the application OOB, and you expect to deploy updates to your application after it is deployed, you will need to stick to putting all the modules in a single XAP file. The <strong>Application.CheckAndDownloadUpdateAsync</strong> method will only go out and update the main XAP file that the application was launched from.
 
-![](images/modified_stock_trader_ri_xap_structure.png)
+![Modified Stock Trader RI XAP structure](images/modified_stock_trader_ri_xap_structure.png)
 
 Modified Stock Trader RI XAP structure
 
