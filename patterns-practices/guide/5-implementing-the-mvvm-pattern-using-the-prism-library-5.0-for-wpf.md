@@ -485,7 +485,7 @@ Another approach is for the view to instantiate its corresponding view model ins
   }
 ```
 
-The programmatic construction and assignment of the view model within the view's code-behind has the advantage that it is simple and works well in design-time tools like Expression Blend or Visual Studio. The disadvantage of this approach is that the view needs to have knowledge of the corresponding view model type and that it requires code in the view's code-behind. Using a dependency injection container, such as Unity or MEF, can help to maintain loose coupling between the view and view model. For more information, see [Managing Dependencies Between Components](/patterns-practices/guide/3-managing-dependencies-between-components-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+The programmatic construction and assignment of the view model within the view's code-behind has the advantage that it is simple and works well in design-time tools like Expression Blend or Visual Studio. The disadvantage of this approach is that the view needs to have knowledge of the corresponding view model type and that it requires code in the view's code-behind. Using a dependency injection container, such as Unity or MEF, can help to maintain loose coupling between the view and view model. For more information, see [Managing Dependencies Between Components](/patterns-practices/guide/3-managing-dependencies-between-components-using-the-prism-library-5.0-for-wpf).
 
 ## Creating the View Model Using a View Model Locator
 

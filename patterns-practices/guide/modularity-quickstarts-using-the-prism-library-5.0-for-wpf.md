@@ -380,7 +380,7 @@ When you run the acceptance tests, you should see the QuickStarts windows and th
 
 ## More Information
 
-To learn more about modularity, see [Modular Application Development](/patterns-practices/guide/4-modular-application-development-using-prism-library-5.0-for-wpf(v=pandp.40)).
+To learn more about modularity, see [Modular Application Development](/patterns-practices/guide/4-modular-application-development-using-prism-library-5.0-for-wpf).
 
 To learn about other code samples included with Prism, see the following topics:
 

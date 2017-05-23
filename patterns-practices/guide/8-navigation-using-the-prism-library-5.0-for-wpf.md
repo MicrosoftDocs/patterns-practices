@@ -5,7 +5,7 @@ ms:assetid: 'a5508f83-5f1a-4456-b704-afb05b244c52'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430861(vPandP.40)'
 ---
 
-#  Navigation Using the Prism Library 5.0 for WPF
+# 8: Navigation Using the Prism Library 5.0 for WPF
 
 From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
@@ -535,5 +535,3 @@ For more information about the Visual State Manager, see [VisualStateManager Cla
 For more information about using Microsoft Blend behaviors, see [Working with built-in behaviors](http://msdn.microsoft.com/en-us/library/ff724013(vexpression.40).aspx) on MSDN.
 
 For more information about creating custom behaviors with Microsoft Blend, see [Creating Custom Behaviors](http://msdn.microsoft.com/en-us/library/ff724708(vexpression.40).aspx) on MSDN.
-
-Next Topic | Previous Topic | [Home](/patterns-practices/guide/developers-guide-to-microsoft-prism) | [Community](https://compositewpf.codeplex.com/)

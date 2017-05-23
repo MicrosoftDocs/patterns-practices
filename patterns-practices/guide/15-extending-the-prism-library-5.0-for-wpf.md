@@ -5,7 +5,7 @@ ms:assetid: 'f7e0780d-9a5e-41f7-91d3-07be9f2a6e9f'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430866(vPandP.40)'
 ---
 
-# Extending the Prism Library 5.0 for WPF
+# 15: Extending the Prism Library 5.0 for WPF
 
 From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
@@ -658,5 +658,3 @@ When bootstrapping your application use the **SetDefaultViewModelFactory** metho
 ```
 
 The default strategy for creating the view models is using the **Activator.CreateInstance** method, which is a valid approach if you have a default constructor in the view model and there are no dependencies to be injected.
-
-Next Topic | Previous Topic | [Home](/patterns-practices/guide/developers-guide-to-microsoft-prism) | [Community](https://compositewpf.codeplex.com/)

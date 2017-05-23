@@ -141,7 +141,7 @@ For more information about weak references, see [Weak References](http://msdn.mi
 
 Download the [Manifest Manager Utility](http://compositewpf.codeplex.com/releases/view/14771) from the Prism community site on Codeplex.
 
-To learn the specific steps involved in publishing and updating a WPF Prism application that uses dynamic module loading, see the [Publishing and Updating Applications Using the Prism Library Hands-on Lab](/patterns-practices/guide/18-publishing-and-updating-applications-using-the-prism-library-5.0-for-wpf-hands-on-lab(v=pandp.40)).
+To learn the specific steps involved in publishing and updating a WPF Prism application that uses dynamic module loading, see the [Publishing and Updating Applications Using the Prism Library Hands-on Lab](/patterns-practices/guide/18-publishing-and-updating-applications-using-the-prism-library-5.0-for-wpf-hands-on-lab).
 
 ## 12: Patterns in the Prism Library
 
