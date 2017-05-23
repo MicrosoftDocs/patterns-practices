@@ -75,26 +75,26 @@ With the addition of supporting MEF, there were several changes to the Prism Lib
     ```
 
 
-```C#
-				// This is the code from the Composite Application Library 2.x
-				// to specify the modules that compose the application.
-				protected override IModuleCatalog GetModuleCatalog()
-				{
-					return new ModuleCatalog()
-						.AddModule(typeof (ModuleA), "ModuleB")
-						.AddModule(typeof (ModuleB))
-						;
-				}
+    ```C#
+                    // This is the code from the Composite Application Library 2.x
+                    // to specify the modules that compose the application.
+                    protected override IModuleCatalog GetModuleCatalog()
+                    {
+                        return new ModuleCatalog()
+                            .AddModule(typeof (ModuleA), "ModuleB")
+                            .AddModule(typeof (ModuleB))
+                            ;
+                    }
 
-				// This is the migrated method for the Prism Library 4.0.
-				protected override IModuleCatalog CreateModuleCatalog()
-				{
-					return new ModuleCatalog()
-						.AddModule(typeof (ModuleA), "ModuleB")
-						.AddModule(typeof (ModuleB))
-						;
-				}
-```
+                    // This is the migrated method for the Prism Library 4.0.
+                    protected override IModuleCatalog CreateModuleCatalog()
+                    {
+                        return new ModuleCatalog()
+                            .AddModule(typeof (ModuleA), "ModuleB")
+                            .AddModule(typeof (ModuleB))
+                            ;
+                    }
+    ```
 
 
 > [!NOTE]
@@ -104,32 +104,32 @@ With the addition of supporting MEF, there were several changes to the Prism Lib
     -   The **ConfigureModuleCatalog** virtual method was added to allow modifying the catalog after creation.
 
 
-```C#
-                // Using the ConfigureModuleCatalog method to populate
-                // the module catalog.
-                protected override void ConfigureModuleCatalog()
-                {
-                    base.ConfigureModuleCatalog();
-                    ModuleCatalog moduleCatalog = (ModuleCatalog)this.ModuleCatalog;
-                    moduleCatalog.AddModule(typeof (ModuleA), "ModuleB")
-                                .AddModule(typeof (ModuleB))
-                                ;
-                }
-```
+    ```C#
+                    // Using the ConfigureModuleCatalog method to populate
+                    // the module catalog.
+                    protected override void ConfigureModuleCatalog()
+                    {
+                        base.ConfigureModuleCatalog();
+                        ModuleCatalog moduleCatalog = (ModuleCatalog)this.ModuleCatalog;
+                        moduleCatalog.AddModule(typeof (ModuleA), "ModuleB")
+                                    .AddModule(typeof (ModuleB))
+                                    ;
+                    }
+    ```
 
 
-```C#
-				// Using the ConfigureModuleCatalog method to populate
-				// the module catalog.
-				protected override void ConfigureModuleCatalog()
-				{
-					base.ConfigureModuleCatalog();
-					ModuleCatalog moduleCatalog = (ModuleCatalog)this.ModuleCatalog;
-					moduleCatalog.AddModule(typeof (ModuleA), "ModuleB")
-								 .AddModule(typeof (ModuleB))
-								 ;
-				}
-```
+    ```C#
+                    // Using the ConfigureModuleCatalog method to populate
+                    // the module catalog.
+                    protected override void ConfigureModuleCatalog()
+                    {
+                        base.ConfigureModuleCatalog();
+                        ModuleCatalog moduleCatalog = (ModuleCatalog)this.ModuleCatalog;
+                        moduleCatalog.AddModule(typeof (ModuleA), "ModuleB")
+                                    .AddModule(typeof (ModuleB))
+                                    ;
+                    }
+    ```
 	
 
     -   The **ConfigureServiceLocator** virtual method was added to allow overriding the configuration of the **ServiceLocator**.
