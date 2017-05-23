@@ -13,21 +13,25 @@ ModuleNotFoundException Constructor (String)
 Initializes a new instance of the [ModuleNotFoundException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulenotfoundexception) class with a specified error message.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public ModuleNotFoundException( string message )Public Sub New ( message As String )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public ModuleNotFoundException( string message )Public Sub New ( message As String )
+
+### Parameters
 
 message  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The message that describes the error.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleNotFoundException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulenotfoundexception)
 
 [ModuleNotFoundException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulenotfoundexception)

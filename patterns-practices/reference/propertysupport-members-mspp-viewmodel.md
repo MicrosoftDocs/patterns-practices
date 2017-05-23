@@ -10,7 +10,6 @@ Prism Class Library
 PropertySupport Members
 =======================
 
-
 The [PropertySupport](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.propertysupport) type exposes the following members.
 
 Methods
@@ -44,7 +43,7 @@ Extracts the property name from a property expression.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [PropertySupport Class](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.propertysupport)
 
 [Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.viewmodel)

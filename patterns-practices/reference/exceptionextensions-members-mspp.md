@@ -10,7 +10,6 @@ Prism Class Library
 ExceptionExtensions Members
 ===========================
 
-
 The [ExceptionExtensions](https://msdn.microsoft.com/t:microsoft.practices.prism.exceptionextensions) type exposes the following members.
 
 Methods
@@ -58,7 +57,7 @@ Register the type of an Exception that is thrown by the framework. The <a href="
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ExceptionExtensions Class](https://msdn.microsoft.com/t:microsoft.practices.prism.exceptionextensions)
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)

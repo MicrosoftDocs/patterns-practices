@@ -10,7 +10,6 @@ Prism Class Library
 IModule Methods
 ===============
 
-
 The [IModule](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule) type exposes the following members.
 
 Methods
@@ -44,7 +43,7 @@ Notifies the module that it has be initialized.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IModule Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

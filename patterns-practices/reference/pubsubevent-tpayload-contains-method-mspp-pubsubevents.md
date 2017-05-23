@@ -7,9 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736207(v=PandP.50)'
 
 Prism Class Library
 
-PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)..::.Contains Method
+PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Contains Method
 ==============================================================
-
 
 Overload List
 -------------
@@ -33,7 +32,7 @@ Overload List
 <td><img src="https://msdn.microsoft.com/en-us/Dn736207.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.pubsubevents.pubsubevent%601.contains(system.action%7b%600%7d)">Contains(Action&lt;(Of &lt;(TPayload&gt;)&gt;))</a></td>
 <td><div class="summary">
-Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matching <a href="http://msdn2.microsoft.com/en-us/library/018hxwa8">Action&lt;(Of &lt;(T&gt;)&gt;)</a>.
+Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matching <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;(Of &lt;(T&gt;)&gt;)</a>.
 </div></td>
 </tr>
 <tr class="even">
@@ -50,7 +49,7 @@ Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matchin
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.pubsubevent%601)
 
 [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.pubsubevent%601)

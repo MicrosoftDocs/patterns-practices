@@ -13,7 +13,9 @@ Defines a behavior that forwards the [RegionContextProperty](https://msdn.micros
 
 **Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -27,10 +29,9 @@ Public Class BindRegionContextToDependencyObjectBehavior
 	Implements IRegionBehavior
 ```
 
-
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
   Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior
 

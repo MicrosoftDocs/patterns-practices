@@ -14,10 +14,13 @@ Registers a content type with a region name.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-Syntax
-------
+**Version:** 5.0.0.0 (5.0.0.0)
+
+
+## Syntax
+
 
 ```C#
 void RegisterViewWithRegion(
@@ -34,24 +37,23 @@ Sub RegisterViewWithRegion (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *regionName*
   
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Region name to which the viewType will be registered.
-
-<!-- -->
 
 *viewType*  
 
-Type: [System.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 Content type to be registered for the regionName.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionViewRegistry Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionviewregistry(v=pandp.50))
 
 [IRegionViewRegistry Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionviewregistry_members(v=pandp.50))

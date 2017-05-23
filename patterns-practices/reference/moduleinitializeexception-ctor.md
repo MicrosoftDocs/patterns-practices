@@ -13,16 +13,19 @@ ModuleInitializeException Constructor
 Initializes a new instance.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public ModuleInitializeException()Public Sub New
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public ModuleInitializeException()Public Sub New
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInitializeException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinitializeexception)
 
 [ModuleInitializeException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinitializeexception)

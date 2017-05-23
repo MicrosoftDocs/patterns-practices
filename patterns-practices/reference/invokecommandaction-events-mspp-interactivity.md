@@ -10,7 +10,6 @@ Prism Class Library
 InvokeCommandAction Events
 ==========================
 
-
 The [InvokeCommandAction](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.invokecommandaction) type exposes the following members.
 
 Events
@@ -33,11 +32,11 @@ Events
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736166.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/ms596566">Changed</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms596566">Changed</a></td>
 <td><div class="summary">
-Occurs when the <a href="http://msdn2.microsoft.com/en-us/library/ms602734">Freezable</a> or an object it contains is modified.
+Occurs when the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> or an object it contains is modified.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
 </tr>
 </tbody>
 </table>
@@ -45,7 +44,7 @@ Occurs when the <a href="http://msdn2.microsoft.com/en-us/library/ms602734">Free
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [InvokeCommandAction Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.invokecommandaction)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)

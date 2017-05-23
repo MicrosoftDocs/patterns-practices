@@ -7,26 +7,29 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431295(v=PandP.50)'
 
 Prism Class Library
 
-ModuleConfigurationElement..::.ModuleType Property
+ModuleConfigurationElement.ModuleType Property
 ==================================================
 
 Gets or sets the module type.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public string ModuleType { get; set; }Public Property ModuleType As String Get Set
-#### Property Value
+**Version:** 5.0.0.0 (5.0.0.0)
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+## Syntax
+
+
+public string ModuleType { get; set; }Public Property ModuleType As String Get Set
+### Property Value
+
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The module's type.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleConfigurationElement Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement)
 
 [ModuleConfigurationElement Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleconfigurationelement)

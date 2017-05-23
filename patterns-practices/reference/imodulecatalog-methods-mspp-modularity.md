@@ -10,7 +10,6 @@ Prism Class Library
 IModuleCatalog Methods
 ======================
 
-
 The [IModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulecatalog) type exposes the following members.
 
 Methods
@@ -65,7 +64,7 @@ Initializes the catalog, which may load and validate the modules.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IModuleCatalog Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulecatalog)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

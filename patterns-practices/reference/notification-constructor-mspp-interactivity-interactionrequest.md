@@ -13,16 +13,19 @@ Notification Constructor
 Initializes a new instance of the [Notification](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.notification) class
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
-<span id="syntaxToggle"></span>public Notification()Public Sub New
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public Notification()Public Sub New
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [Notification Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.notification)
 
 [Notification Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.notification)

@@ -7,9 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736276(v=PandP.50)'
 
 Prism Class Library
 
-RegionNavigationService..::.RequestNavigate Method
+RegionNavigationService.RequestNavigate Method
 ==================================================
-
 
 Overload List
 -------------
@@ -49,7 +48,7 @@ Initiates navigation to the specified target.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionNavigationService Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationservice)
 
 [RegionNavigationService Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationservice)

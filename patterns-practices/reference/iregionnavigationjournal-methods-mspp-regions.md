@@ -10,7 +10,6 @@ Prism Class Library
 IRegionNavigationJournal Methods
 ================================
 
-
 The [IRegionNavigationJournal](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationjournal) type exposes the following members.
 
 Methods
@@ -65,7 +64,7 @@ Records the navigation to the entry..
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionNavigationJournal Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationjournal)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

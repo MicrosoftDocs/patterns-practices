@@ -7,34 +7,38 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431366(v=PandP.50)'
 
 Prism Class Library
 
-RegionBehaviorCollection..::.Item Property
+RegionBehaviorCollection.Item Property
 ==========================================
 
 Gets the [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior) with the specified key.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public IRegionBehavior this\[ string key \] { get; }Public ReadOnly Default Property Item ( key As String ) As IRegionBehavior Get
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public IRegionBehavior this[ string key \] { get; }Public ReadOnly Default Property Item ( key As String ) As IRegionBehavior Get
+
+### Parameters
 
 key  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-#### Property Value
+### Property Value
 
 Type: [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior)
 The RegionBehavior that's registered with the key.
-#### Implements
+### Implements
 
-[IRegionBehaviorCollection..::.Item\[(\[(String\])\])](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionbehaviorcollection.item(system.string))
+[IRegionBehaviorCollection.Item[([(String\])\])](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionbehaviorcollection.item(system.string))
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionBehaviorCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehaviorcollection)
 
 [RegionBehaviorCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehaviorcollection)

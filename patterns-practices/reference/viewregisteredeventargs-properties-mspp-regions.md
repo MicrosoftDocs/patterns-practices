@@ -10,7 +10,6 @@ Prism Class Library
 ViewRegisteredEventArgs Properties
 ==================================
 
-
 The [ViewRegisteredEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregisteredeventargs) type exposes the following members.
 
 Properties
@@ -51,7 +50,7 @@ Gets the region name to which the content was registered.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ViewRegisteredEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregisteredeventargs)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

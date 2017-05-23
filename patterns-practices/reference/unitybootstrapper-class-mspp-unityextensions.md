@@ -13,11 +13,14 @@ UnityBootstrapper Class
 Base class that provides a basic bootstrapping sequence that registers most of the Prism Library assets in a IUnityContainer.
 
 **Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)
-**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
-<span id="syntaxToggle"></span>public abstract class UnityBootstrapper : BootstrapperPublic MustInherit Class UnityBootstrapper Inherits Bootstrapper
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public abstract class UnityBootstrapper : BootstrapperPublic MustInherit Class UnityBootstrapper Inherits Bootstrapper
 
 Remarks
 -------
@@ -27,14 +30,14 @@ Remarks
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft.Practices.Prism..::.Bootstrapper](https://msdn.microsoft.com/t:microsoft.practices.prism.bootstrapper)
-    Microsoft.Practices.Prism.UnityExtensions..::.UnityBootstrapper
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [Microsoft.Practices.Prism.Bootstrapper](https://msdn.microsoft.com/t:microsoft.practices.prism.bootstrapper)
+    Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [UnityBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitybootstrapper)
 
 [Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)

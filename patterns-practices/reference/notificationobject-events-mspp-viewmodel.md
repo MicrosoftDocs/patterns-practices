@@ -10,7 +10,6 @@ Prism Class Library
 NotificationObject Events
 =========================
 
-
 The [NotificationObject](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.notificationobject) type exposes the following members.
 
 Events
@@ -44,7 +43,7 @@ Raised when a property on this object has a new value.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [NotificationObject Class](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.notificationobject)
 
 [Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.viewmodel)

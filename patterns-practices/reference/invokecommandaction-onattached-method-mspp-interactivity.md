@@ -7,22 +7,25 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736227(v=PandP.50)'
 
 Prism Class Library
 
-InvokeCommandAction..::.OnAttached Method
+InvokeCommandAction.OnAttached Method
 =========================================
 
 This method is called after the behavior is attached. It updates the command behavior's Command and CommandParameter properties if necessary.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
-<span id="syntaxToggle"></span>protected override void OnAttached()Protected Overrides Sub OnAttached
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+protected override void OnAttached()Protected Overrides Sub OnAttached
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [InvokeCommandAction Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.invokecommandaction)
 
 [InvokeCommandAction Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.invokecommandaction)

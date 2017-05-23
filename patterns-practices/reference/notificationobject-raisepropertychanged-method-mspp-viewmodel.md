@@ -7,9 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419153(v=PandP.50)'
 
 Prism Class Library
 
-NotificationObject..::.RaisePropertyChanged Method
+NotificationObject.RaisePropertyChanged Method
 ==================================================
-
 
 Overload List
 -------------
@@ -45,7 +44,7 @@ Raises this object's PropertyChanged event.
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419153.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged(system.string%5b%5d)">RaisePropertyChanged(array&lt;String&gt;[]()[])</a></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged(system.string%5b%5d)">RaisePropertyChanged(array&lt;String&gt;)</a></td>
 <td><div class="summary">
 Raises this object's PropertyChanged event for each of the properties.
 </div></td>
@@ -56,7 +55,7 @@ Raises this object's PropertyChanged event for each of the properties.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [NotificationObject Class](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.notificationobject)
 
 [NotificationObject Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.viewmodel.notificationobject)

@@ -10,7 +10,6 @@ Prism Class Library
 RegionNavigationEventArgs Properties
 ====================================
 
-
 The [RegionNavigationEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationeventargs) type exposes the following members.
 
 Properties
@@ -51,7 +50,7 @@ Gets the navigation URI
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionNavigationEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationeventargs)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

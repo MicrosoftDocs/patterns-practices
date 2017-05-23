@@ -13,7 +13,9 @@ Gets the enumerator.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -26,12 +28,12 @@ public IEnumerator<KeyValuePair<string, Object>> GetEnumerator()
 Public Function GetEnumerator As IEnumerator(Of KeyValuePair(Of String, Object))
 ```
 
-#### Return Value
+### Return Value
 
-Type: [IEnumerator](http://msdn2.microsoft.com/en-us/library/78dfe2yb)(Of [KeyValuePair](http://msdn2.microsoft.com/en-us/library/5tbh8a42)(Of [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf), [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)))
-#### Implements
+Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)(Of [KeyValuePair](http://msdn.microsoft.com/en-us/library/5tbh8a42)(Of [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf), [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)))
+### Implements
 
-[IEnumerable(Of T).GetEnumerator](http://msdn2.microsoft.com/en-us/library/s793z9y2)
+[IEnumerable(Of T).GetEnumerator](http://msdn.microsoft.com/en-us/library/s793z9y2)
 
 ## See Also
 

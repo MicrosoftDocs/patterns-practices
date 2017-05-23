@@ -7,31 +7,35 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405853(v=PandP.50)'
 
 Prism Class Library
 
-FileModuleTypeLoader..::.LoadModuleType Method
+FileModuleTypeLoader.LoadModuleType Method
 ==============================================
 
 Retrieves the moduleInfo.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public void LoadModuleType( ModuleInfo moduleInfo )Public Sub LoadModuleType ( moduleInfo As ModuleInfo )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public void LoadModuleType( ModuleInfo moduleInfo )Public Sub LoadModuleType ( moduleInfo As ModuleInfo )
+
+### Parameters
 
 moduleInfo  
-Type: [Microsoft.Practices.Prism.Modularity..::.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo)
 Module that should have it's type loaded.
 
-#### Implements
+### Implements
 
-[IModuleTypeLoader..::.LoadModuleType(ModuleInfo)](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.imoduletypeloader.loadmoduletype(microsoft.practices.prism.modularity.moduleinfo))
+[IModuleTypeLoader.LoadModuleType(ModuleInfo)](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.imoduletypeloader.loadmoduletype(microsoft.practices.prism.modularity.moduleinfo))
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [FileModuleTypeLoader Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.filemoduletypeloader)
 
 [FileModuleTypeLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.filemoduletypeloader)

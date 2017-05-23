@@ -7,28 +7,31 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431270(v=PandP.50)'
 
 Prism Class Library
 
-ModuleExportAttribute..::.InitializationMode Property
+ModuleExportAttribute.InitializationMode Property
 =====================================================
 
 Gets or sets when the module should have Initialize() called.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.modularity)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
-<span id="syntaxToggle"></span>public InitializationMode InitializationMode { get; set; }Public Property InitializationMode As InitializationMode Get Set
-#### Property Value
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public InitializationMode InitializationMode { get; set; }Public Property InitializationMode As InitializationMode Get Set
+### Property Value
 
 Type: [InitializationMode](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.initializationmode)
-#### Implements
+### Implements
 
-[IModuleExport..::.InitializationMode](https://msdn.microsoft.com/p:microsoft.practices.prism.mefextensions.modularity.imoduleexport.initializationmode)
+[IModuleExport.InitializationMode](https://msdn.microsoft.com/p:microsoft.practices.prism.mefextensions.modularity.imoduleexport.initializationmode)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleExportAttribute Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.moduleexportattribute)
 
 [ModuleExportAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.moduleexportattribute)

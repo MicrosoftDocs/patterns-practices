@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430869(v=PandP.40)'
 
 # Prism 4.1 - Developer's Guide to Microsoft Prism Library for WPF and Silverlight
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
 ## Summary
 
@@ -50,7 +50,7 @@ Before you can use the Prism Library, the following must be installed:
 > [!NOTE]
 > Although the Silverlight Tools for Visual Studio 2010 are not required, it is recommended that all WPF and Silverlight developers download and use the latest version of the Silverlight Tools for Visual Studio 2010. The WPF and Silverlight Designer for Visual Studio is updated together with the Silverlight developer runtime and SDK. These updates come in the form of new features and bug fixes.
 
-If you are authoring WPF and Silverlight projects that share code, you may want to read [Sharing Code Between WPF and Silverlight,](http://msdn.microsoft.com/library/ff921109(pandp.40).aspx) and install the [Project Linker 2.2](http://visualstudiogallery.msdn.microsoft.com/en-us/5e730577-d11c-4f2e-8e2b-cbb87f76c044) tool.
+If you are authoring WPF and Silverlight projects that share code, you may want to read [Sharing Code Between WPF and Silverlight,](/patterns-practices/guide/sharing-code-between-silverlight-and-wpf) and install the [Project Linker 2.2](http://visualstudiogallery.msdn.microsoft.com/en-us/5e730577-d11c-4f2e-8e2b-cbb87f76c044) tool.
 
 ## Resources
 
@@ -80,7 +80,7 @@ The following table contains Prism download links to help you get started with P
 </tr>
 <tr class="odd">
 <td><p>Book</p></td>
-<td><p><a href="http://shop.oreilly.com/product/0790145315496.do"><img src="images/order-book(en-us,PandP.40).png" alt="book"/></a></p>
+<td><p>[![](images/order-book.png "book")](http://shop.oreilly.com/product/0790145315496.do)</a></p>
 <p><a href="http://shop.oreilly.com/product/0790145315496.do">Buy book</a></p></td>
 </tr>
 <tr class="even">
@@ -189,3 +189,52 @@ Stay informed and up to date about Prism and patterns & practices.
 </tr>
 </tbody>
 </table>
+
+
+## Authors and Contributors
+
+Prism was produced by the following individuals: 
+
+**patterns & practices Team:**
+
+<table summary="table">
+          <tbody><tr><td>
+              <p>Microsoft Corporation</p>
+            </td><td>
+              <p>Blaine Wastell, Bob Brumfield, David Hill, Karl Shifflett, Larry Brader, Michael Puleio, Nelly Delgado</p>
+            </td></tr>
+          <tr><td>
+              <p>Clarius Consulting</p>
+            </td><td>
+              <p>Fernando Simonazzi</p>
+            </td></tr>
+          <tr><td>
+              <p>Infosys Technologies Ltd</p>
+            </td><td>
+              <p>Mani Krishnaswami, Meenakshi Krishnamoorthi, Rathi Velusamy, Ravindra Varman, Sangeetha Manickam, Sanghamitra Chilla</p>
+            </td></tr>
+          <tr><td>
+              <p>Software Insight</p>
+            </td><td>
+              <p>Brian Noyes</p>
+            </td></tr>
+          <tr><td>
+              <p>Southworks SRL</p>
+            </td><td>
+              <p>Diego Poza, Fernando Antivero, Geoff Cox, Matias Bonaventura</p>
+            </td></tr>
+          <tr><td>
+              <p>TinaTech, Inc.</p>
+            </td><td>
+              <p>Tina Burden</p>
+            </td></tr>
+          <tr><td>
+              <p>Modeled Computation</p>
+            </td><td>
+              <p>Sharon Smith, Katie Niemer </p>
+            </td></tr>
+        </tbody></table>
+
+**Many thanks to the following advisors who provided invaluable assistance:**
+
+Bill Wilder of Fidelity Investments, Clifford Tiltman of Morgan Stanley, Rob Eisenberg of Blue Spire, Norman Headlam, Ward Bell of IdeaBlade, Paul Jackson of CM Group Ltd., John Papa of Microsoft, Julian Dominguez of Clarius Consulting, Ted Neveln of Ballard Indexing Services, Glenn Block of Microsoft, Michael Kenyon of IHS, Inc., Terry Young of PEER Group, Jason Beres of Infragistics, Peter Lindes of The Church of Jesus Christ of Latter-day Saints, Mark Tucker of Neudesic, LLC, David Platt of Rolling Thunder Computing, Steve Gentile of Strategic Data Systems, Markus Egger of EPS Software Corp. and CODE Magazine, Ryan Cromwell of Strategic Data Systems, Todd Neal of McKesson Corp, Dipesh Patel of Fidelity Investments, and David Poll of Microsoft.

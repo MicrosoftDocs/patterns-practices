@@ -13,11 +13,14 @@ MefRegionViewRegistry Class
 Exports the RegionViewRegistry using the Managed Extensibility Framework (MEF).
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
-<span id="syntaxToggle"></span>public class MefRegionViewRegistry : RegionViewRegistryPublic Class MefRegionViewRegistry Inherits RegionViewRegistry
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public class MefRegionViewRegistry : RegionViewRegistryPublic Class MefRegionViewRegistry Inherits RegionViewRegistry
 
 Remarks
 -------
@@ -27,14 +30,14 @@ Remarks
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft.Practices.Prism.Regions..::.RegionViewRegistry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionviewregistry)
-    Microsoft.Practices.Prism.MefExtensions.Regions..::.MefRegionViewRegistry
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [Microsoft.Practices.Prism.Regions.RegionViewRegistry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionviewregistry)
+    Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionViewRegistry
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefRegionViewRegistry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefregionviewregistry)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)

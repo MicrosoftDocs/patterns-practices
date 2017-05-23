@@ -7,23 +7,24 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736182(v=PandP.50)'
 
 Prism Class Library
 
-DelegateCommandBase..::.\_executeMethod Field
+DelegateCommandBase.\_executeMethod Field
 =============================================
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
 
-<span id="syntaxToggle"></span>protected readonly Func&lt;Object, Task&gt; \_executeMethodProtected ReadOnly \_executeMethod As Func(Of Object, Task)
-#### Field Value
+## Syntax
 
-Type: [Func](http://msdn2.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b), [Task](http://msdn2.microsoft.com/en-us/library/dd235678)&gt;)&gt;)
+
+protected readonly Func&lt;Object, Task&gt; \_executeMethodProtected ReadOnly \_executeMethod As Func(Of Object, Task)
+### Field Value
+
+Type: [Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b), [Task](http://msdn.microsoft.com/en-us/library/dd235678)&gt;)&gt;)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateCommandBase Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommandbase)
 
 [DelegateCommandBase Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommandbase)

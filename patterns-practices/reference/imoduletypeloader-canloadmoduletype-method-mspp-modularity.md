@@ -11,7 +11,9 @@ Evaluates the [Ref](https://msdn.microsoft.com/en-us/library/microsoft.practices
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 ```C#
@@ -20,7 +22,8 @@ bool CanLoadModuleType(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *moduleInfo*
 
@@ -28,9 +31,9 @@ bool CanLoadModuleType(
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Module that should have it's type loaded.
 
-#### Return Value
+### Return Value
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**truetrue** (**True** in Visual Basic) if the current typeloader is able to retrieve the module, otherwise **falsefalse** (**False** in Visual Basic).
 
@@ -43,7 +46,8 @@ Function CanLoadModuleType (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *moduleInfo*
 
@@ -51,9 +55,9 @@ Function CanLoadModuleType (
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Module that should have it's type loaded.
 
-#### Return Value
+### Return Value
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;**Truetrue** (**True** in Visual Basic) if the current typeloader is able to retrieve the module, otherwise **Falsefalse** (**False** in Visual Basic).
 

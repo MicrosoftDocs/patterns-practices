@@ -14,7 +14,9 @@ Initializes a new instance of the [NavigationParameters](https://msdn.microsoft.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -29,7 +31,7 @@ Public Sub New
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [NavigationParameters Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters(v=pandp.50))
 
 [NavigationParameters Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters_members(v=pandp.50))

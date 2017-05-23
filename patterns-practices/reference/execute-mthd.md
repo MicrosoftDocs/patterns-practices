@@ -7,9 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419052(v=PandP.50)'
 
 Prism Class Library
 
-DelegateCommand..::.Execute Method
+DelegateCommand.Execute Method
 ==================================
-
 
 Overload List
 -------------
@@ -40,7 +39,7 @@ Executes the command.
 <td><img src="https://msdn.microsoft.com/en-us/Gg419052.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.commands.delegatecommandbase.execute(system.object)">Execute(Object)</a></td>
 <td><div class="summary">
-Executes the command with the provided parameter by invoking the <a href="http://msdn2.microsoft.com/en-us/library/018hxwa8">Action&lt;(Of &lt;(T&gt;)&gt;)</a> supplied during construction.
+Executes the command with the provided parameter by invoking the <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;(Of &lt;(T&gt;)&gt;)</a> supplied during construction.
 </div>
 (Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommandbase">DelegateCommandBase</a>.)</td>
 </tr>
@@ -50,7 +49,7 @@ Executes the command with the provided parameter by invoking the <a href="http:/
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateCommand Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand)
 
 [DelegateCommand Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand)

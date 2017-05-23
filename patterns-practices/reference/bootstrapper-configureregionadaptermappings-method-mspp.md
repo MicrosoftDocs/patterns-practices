@@ -11,7 +11,9 @@ Configures the default region adapter mappings to use in the application, in ord
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -24,7 +26,7 @@ protected virtual RegionAdapterMappings ConfigureRegionAdapterMappings()
 Protected Overridable Function ConfigureRegionAdapterMappings As RegionAdapterMappings
 ```
 
-#### Return Value
+### Return Value
 
 Type: [RegionAdapterMappings](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionadaptermappings(v=pandp.50))<br/>
 The [RegionAdapterMappings](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionadaptermappings(v=pandp.50)) instance containing all the mappings.

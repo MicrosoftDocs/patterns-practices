@@ -13,16 +13,19 @@ RegionNavigationJournalEntry Constructor
 Initializes a new instance of the [RegionNavigationJournalEntry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournalentry) class
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public RegionNavigationJournalEntry()Public Sub New
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public RegionNavigationJournalEntry()Public Sub New
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionNavigationJournalEntry Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournalentry)
 
 [RegionNavigationJournalEntry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationjournalentry)

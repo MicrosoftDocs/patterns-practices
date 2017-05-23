@@ -13,7 +13,9 @@ Raised when the region is navigated to content.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -25,9 +27,9 @@ event EventHandler<RegionNavigationEventArgs> Navigated
 Event Navigated As EventHandler(Of RegionNavigationEventArgs)
 ```
 
-#### Value
+### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)(Of [RegionNavigationEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationeventargs(v=pandp.50)))
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [RegionNavigationEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationeventargs(v=pandp.50)))
 
 ## See Also
 

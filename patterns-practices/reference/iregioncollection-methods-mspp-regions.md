@@ -10,7 +10,6 @@ Prism Class Library
 IRegionCollection Methods
 =========================
 
-
 The [IRegionCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregioncollection) type exposes the following members.
 
 Methods
@@ -47,19 +46,19 @@ Checks if the collection contains a <a href="https://msdn.microsoft.com/t:micros
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431089.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/s793z9y2">GetEnumerator()()()</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/s793z9y2">GetEnumerator()()()</a></td>
 <td><div class="summary">
 Returns an enumerator that iterates through the collection.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/9eekhta0">IEnumerable</a>&lt;(Of &lt;(<a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion">IRegion</a>&gt;)&gt;).)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/9eekhta0">IEnumerable</a>&lt;(Of &lt;(<a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion">IRegion</a>&gt;)&gt;).)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431089.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/5zae5365">GetEnumerator()()()</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/5zae5365">GetEnumerator()()()</a></td>
 <td><div class="summary">
 Returns an enumerator that iterates through a collection.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/h1x9x1b1">IEnumerable</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/h1x9x1b1">IEnumerable</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431089.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
@@ -103,7 +102,7 @@ Adds a region to the regionmanager with the name received as argument.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionCollection Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregioncollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

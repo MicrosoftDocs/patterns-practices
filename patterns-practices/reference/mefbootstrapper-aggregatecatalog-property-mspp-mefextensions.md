@@ -11,7 +11,9 @@ Gets or sets the default AggregateCatalog for the application.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -26,9 +28,9 @@ Protected Property AggregateCatalog As AggregateCatalog
 	Set
 ```
 
-#### Property Value
+### Property Value
 
-Type: [AggregateCatalog](http://msdn2.microsoft.com/en-us/library/dd833165)<br/>
+Type: [AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165)<br/>
 The default AggregateCatalog instance.
 
 ## See Also

@@ -7,27 +7,29 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418939(v=PandP.50)'
 
 Prism Class Library
 
-RegionAdapterMappings..::.RegisterMapping Method
+RegionAdapterMappings.RegisterMapping Method
 ================================================
 
 Registers the mapping between a type and an adapter.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public void RegisterMapping( Type controlType, IRegionAdapter adapter )Public Sub RegisterMapping ( controlType As Type, adapter As IRegionAdapter )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public void RegisterMapping( Type controlType, IRegionAdapter adapter )Public Sub RegisterMapping ( controlType As Type, adapter As IRegionAdapter )
+
+### Parameters
 
 controlType  
-Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 The type of the control.
 
-<!-- -->
-
 adapter  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter)
+Type: [Microsoft.Practices.Prism.Regions.IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter)
 The adapter to use with the controlType type.
 
 Exceptions
@@ -36,13 +38,13 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                                 | Condition                                                                                            |
 |-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| [System..::.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy)     | When any of controlType or adapter are nullNothingnullptra null reference (Nothing in Visual Basic). |
-| [System..::.InvalidOperationException](http://msdn2.microsoft.com/en-us/library/2asft85a) | If a mapping for controlType already exists.                                                         |
+| [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)     | When any of controlType or adapter are nullNothingnullptra null reference (Nothing in Visual Basic). |
+| [System.InvalidOperationException](http://msdn.microsoft.com/en-us/library/2asft85a) | If a mapping for controlType already exists.                                                         |
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionAdapterMappings Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionadaptermappings)
 
 [RegionAdapterMappings Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionadaptermappings)

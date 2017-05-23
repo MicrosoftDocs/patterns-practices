@@ -10,7 +10,6 @@ Prism Class Library
 RegionBehavior Properties
 =========================
 
-
 The [RegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehavior) type exposes the following members.
 
 Properties
@@ -51,7 +50,7 @@ Behavior's attached region.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehavior)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921109(v=PandP.40)'
 
 # Sharing Code Between Silverlight and WPF
 
-From: [Prism 4.1 - Developer's Guide to Microsoft Prism Library for WPF and Silverlight](https://msdn.microsoft.com/en-us/library/gg430869(v=pandp.40).aspx)
+From: [Prism 4.1 - Developer's Guide to Microsoft Prism Library for WPF and Silverlight](/patterns-practices/guide/index)
 
 This topic helps you understand multi-targeting from a Prism perspective and its advantages and disadvantages. Multi-targeted code targets two different platforms with largely the same code-base. This allows binaries targeting two different technologies to be produced while keeping the code as much the same as possible. In this case, the technologies this topic describes are Windows Presentation Foundation (WPF) and Silverlight. This topic includes some considerations you should think about when developing multi-targeting applications for these technologies.
 
@@ -84,7 +84,7 @@ The following illustration shows the Solution Explorer view for the Multi-Target
 
 Shared files in the Multi-Targeting QuickStart
 
-![](images/Multi-Targeting-QuickStart(en-us,PandP.40).png "Shared files in the Multi-Targeting QuickStart")
+![](images/multi-targeting-quickstart.png "Shared files in the Multi-Targeting QuickStart")
 
 ## Creating Multi-Targeted Applications
 
@@ -342,7 +342,7 @@ Silverlight is a cross-browser, cross-platform implementation of the .NET Framew
 
 Silverlight and WPF share many of the same features and capabilities, but they are built on top of different run-time stacks, as illustrated in the following image. WPF leverages the full .NET Framework and executes on the common language runtime (CLR). Silverlight is based on a subset of XAML and the full .NET Framework, and it executes on a different version of the CLR.
 
-![](images/WPF-and-Silverlight(en-us,PandP.40).png "WPF and Silverlight")
+![](images/wpf-and-silverlight.png "WPF and Silverlight")
 
 WPF and Silverlight
 

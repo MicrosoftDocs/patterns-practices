@@ -7,9 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419145(v=PandP.50)'
 
 Prism Class Library
 
-ServiceLocatorExtensions..::.TryResolve Method
+ServiceLocatorExtensions.TryResolve Method
 ==============================================
-
 
 Overload List
 -------------
@@ -49,7 +48,7 @@ Attempts to resolve specified type from the underlying IServiceLocator.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ServiceLocatorExtensions Class](https://msdn.microsoft.com/t:microsoft.practices.prism.servicelocatorextensions)
 
 [ServiceLocatorExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.servicelocatorextensions)

@@ -13,16 +13,19 @@ ClearChildViewsRegionBehavior Constructor
 Initializes a new instance of the [ClearChildViewsRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior) class
 
 **Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public ClearChildViewsRegionBehavior()Public Sub New
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public ClearChildViewsRegionBehavior()Public Sub New
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
 
 [ClearChildViewsRegionBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430859(v=PandP.40)'
 
 # Upgrading from Prism 2.x
 
-From: [Prism 4.1 - Developer's Guide to Microsoft Prism Library for WPF and Silverlight](https://msdn.microsoft.com/en-us/library/gg430869(v=pandp.40).aspx)
+From: [Prism 4.1 - Developer's Guide to Microsoft Prism Library for WPF and Silverlight](/patterns-practices/guide/index)
 
 This topic describes how to upgrade a solution from version 2.x to version 4.0 of the Prism Library and the major changes that you should be aware of if you are considering upgrading to the 4.0 version. The following sections describe the major changes:
 
@@ -149,5 +149,3 @@ The **IEventAggregator.GetEvent&lt;TEventBase&gt;** method adds the **new**() re
 ## Commands API Changes
 
 The **DelegateCommand** now checks for **Nullable&lt;T&gt;** or a reference type in the constructor. The constructor deliberately prevents the use of value types. Because **ICommand** takes an object, having a value type for **T** would cause unexpected behavior when **CanExecute(null)** is called during XAML initialization for command bindings. Using **default(T)** was not selected due to possible confusion in selecting the correct domain values when **ICommand** methods are invoked with null values. Instead, callers should support a value type by using a nullable value type and checking the **HasValue** property before using the **Value** property.
-
-Next Topic | Previous Topic | [Home](/guide/developers-guide-to-microsoft-prism) | [Community](https://compositewpf.codeplex.com/)

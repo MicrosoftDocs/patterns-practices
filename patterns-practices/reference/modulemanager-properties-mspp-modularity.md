@@ -10,7 +10,6 @@ Prism Class Library
 ModuleManager Properties
 ========================
 
-
 The [ModuleManager](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulemanager) type exposes the following members.
 
 Properties
@@ -51,7 +50,7 @@ Returns the list of registered <a href="https://msdn.microsoft.com/t:microsoft.p
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleManager Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulemanager)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

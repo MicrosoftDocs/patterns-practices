@@ -7,20 +7,23 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405842(v=PandP.50)'
 
 Prism Class Library
 
-MefModuleManager..::.OnImportsSatisfied Method
+MefModuleManager.OnImportsSatisfied Method
 ==============================================
 
 Called when a part's imports have been satisfied and it is safe to use.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.modularity)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
-<span id="syntaxToggle"></span>public virtual void OnImportsSatisfied()Public Overridable Sub OnImportsSatisfied
-#### Implements
+**Version:** 5.0.0.0 (5.0.0.0)
 
-[IPartImportsSatisfiedNotification..::.OnImportsSatisfied()()()](http://msdn2.microsoft.com/en-us/library/dd833579)
+## Syntax
+
+
+public virtual void OnImportsSatisfied()Public Overridable Sub OnImportsSatisfied
+### Implements
+
+[IPartImportsSatisfiedNotification.OnImportsSatisfied()()()](http://msdn.microsoft.com/en-us/library/dd833579)
 
 Remarks
 -------
@@ -30,7 +33,7 @@ Remarks
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefModuleManager Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.mefmodulemanager)
 
 [MefModuleManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.mefmodulemanager)

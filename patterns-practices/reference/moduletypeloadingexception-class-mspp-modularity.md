@@ -13,7 +13,9 @@ Exception thrown by [IModuleManager](https://msdn.microsoft.com/en-us/library/mi
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -31,11 +33,10 @@ Public Class ModuleTypeLoadingException
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)<br/>
-  [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)<br/>
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
+  [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)<br/>
     [Microsoft.Practices.Prism.Modularity.ModularityException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception(v=pandp.50))<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException
-
 
 ## See Also
 

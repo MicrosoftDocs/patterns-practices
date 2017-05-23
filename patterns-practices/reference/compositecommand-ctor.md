@@ -14,15 +14,16 @@ Initializes a new instance of [CompositeCommand](https://msdn.microsoft.com/t:mi
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
 
-<span id="syntaxToggle"></span>public CompositeCommand()Public Sub New
+## Syntax
+
+
+public CompositeCommand()Public Sub New
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [CompositeCommand Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.compositecommand)
 
 [CompositeCommand Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.compositecommand)

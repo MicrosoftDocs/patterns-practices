@@ -10,7 +10,6 @@ Prism Class Library
 ModuleCatalog Constructor
 =========================
 
-
 Overload List
 -------------
 
@@ -49,7 +48,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/t:microsof
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleCatalog Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)

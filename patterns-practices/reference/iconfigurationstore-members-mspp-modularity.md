@@ -10,7 +10,6 @@ Prism Class Library
 IConfigurationStore Members
 ===========================
 
-
 The [IConfigurationStore](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.iconfigurationstore) type exposes the following members.
 
 Methods
@@ -44,7 +43,7 @@ Gets the module configuration data.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IConfigurationStore Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.iconfigurationstore)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

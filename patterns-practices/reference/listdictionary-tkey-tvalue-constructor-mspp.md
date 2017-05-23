@@ -13,16 +13,19 @@ ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Constructor
 Initializes a new instance of the [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602) class
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public ListDictionary()Public Sub New
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public ListDictionary()Public Sub New
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)
 
 [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.listdictionary%602)

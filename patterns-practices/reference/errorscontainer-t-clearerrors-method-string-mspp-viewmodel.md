@@ -7,21 +7,23 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419024(v=PandP.50)'
 
 Prism Class Library
 
-ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)..::.ClearErrors Method (String)
+ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).ClearErrors Method (String)
 =======================================================================
 
 Clears the errors for a property.
 
 **Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/n:microsoft.practices.prism.viewmodel)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
 
-<span id="syntaxToggle"></span>public void ClearErrors( string propertyName )Public Sub ClearErrors ( propertyName As String )
-#### Parameters
+## Syntax
+
+
+public void ClearErrors( string propertyName )Public Sub ClearErrors ( propertyName As String )
+
+### Parameters
 
 propertyName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of th property for which to clear errors.
 
 Examples
@@ -32,7 +34,7 @@ Examples
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.errorscontainer%601)
 
 [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.viewmodel.errorscontainer%601)

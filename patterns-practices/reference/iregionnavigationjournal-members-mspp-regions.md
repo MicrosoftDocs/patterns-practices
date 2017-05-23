@@ -10,7 +10,6 @@ Prism Class Library
 IRegionNavigationJournal Members
 ================================
 
-
 The [IRegionNavigationJournal](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationjournal) type exposes the following members.
 
 Methods
@@ -114,7 +113,7 @@ Gets or sets the target that implements INavigateAsync.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionNavigationJournal Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationjournal)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

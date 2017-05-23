@@ -10,7 +10,6 @@ Prism Class Library
 RegionMemberLifetimeBehavior Properties
 =======================================
 
-
 The [RegionMemberLifetimeBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior) type exposes the following members.
 
 Properties
@@ -53,7 +52,7 @@ Behavior's attached region.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionMemberLifetimeBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)

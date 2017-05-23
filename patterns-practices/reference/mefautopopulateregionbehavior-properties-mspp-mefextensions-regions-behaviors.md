@@ -10,31 +10,48 @@ Prism Class Library
 MefAutoPopulateRegionBehavior Properties
 ========================================
 
-
 The [MefAutoPopulateRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior) type exposes the following members.
 
 Properties
 ----------
 
-<span id="propertyTableToggle"></span>
- 
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Gg419180.pubproperty(en-us,PandP.50).gif "Public property")
-[IsAttached](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.regionbehavior.isattached)
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg419180.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.regionbehavior.isattached">IsAttached</a></td>
+<td><div class="summary">
 Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
-
-(Inherited from [RegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehavior).)
-![](https://msdn.microsoft.com/en-us/Gg419180.pubproperty(en-us,PandP.50).gif "Public property")
-[Region](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.regionbehavior.region)
+</div>
+(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Gg419180.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.regionbehavior.region">Region</a></td>
+<td><div class="summary">
 Behavior's attached region.
-
-(Inherited from [RegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehavior).)
+</div>
+(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
+</tr>
+</tbody>
+</table>
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefAutoPopulateRegionBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions.behaviors)

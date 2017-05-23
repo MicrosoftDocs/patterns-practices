@@ -13,12 +13,16 @@ UnityServiceLocatorAdapter Constructor
 Initializes a new instance of [UnityServiceLocatorAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unityservicelocatoradapter).
 
 **Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)
-**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
-<span id="syntaxToggle"></span>public UnityServiceLocatorAdapter( IUnityContainer unityContainer )Public Sub New ( unityContainer As IUnityContainer )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public UnityServiceLocatorAdapter( IUnityContainer unityContainer )Public Sub New ( unityContainer As IUnityContainer )
+
+### Parameters
 
 unityContainer  
 Type: IUnityContainer
@@ -27,7 +31,7 @@ The IUnityContainer that will be used by the [DoGetInstance(Type, String)](https
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [UnityServiceLocatorAdapter Class](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
 
 [UnityServiceLocatorAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unityservicelocatoradapter)

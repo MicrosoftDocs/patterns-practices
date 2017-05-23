@@ -15,18 +15,34 @@ The [DelegateReference](https://msdn.microsoft.com/en-us/library/microsoft.pract
 Properties
 ----------
 
-<span id="propertyTableToggle"></span>
- 
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Dn683948.pubproperty(en-us,PandP.50).gif "Public property")
-[Target](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.delegatereference.target(v=pandp.50))
-Gets the [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51) (the target) referenced by the current [DelegateReference](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.delegatereference(v=pandp.50)) object.
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683948.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.pubsubevents.delegatereference.target">Target</a></td>
+<td><div class="summary">
+Gets the <a href="http://msdn.microsoft.com/en-us/library/y22acf51">Delegate</a> (the target) referenced by the current <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.delegatereference">DelegateReference</a> object.
+</div></td>
+</tr>
+</tbody>
+</table>
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateReference Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.delegatereference(v=pandp.50))
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))

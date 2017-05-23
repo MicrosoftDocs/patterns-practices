@@ -41,7 +41,7 @@ Region that keeps all the views in it as active. Deactivation of views is not al
 <td><img src="https://msdn.microsoft.com/en-us/Gg419044.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.contentcontrolregionadapter">ContentControlRegionAdapter</a></td>
 <td><div class="summary">
-Adapter that creates a new <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.singleactiveregion">SingleActiveRegion</a> and monitors its active view to set it on the adapted <a href="http://msdn2.microsoft.com/en-us/library/ms609797">ContentControl</a>.
+Adapter that creates a new <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.singleactiveregion">SingleActiveRegion</a> and monitors its active view to set it on the adapted <a href="http://msdn.microsoft.com/en-us/library/ms609797">ContentControl</a>.
 </div></td>
 </tr>
 <tr class="odd">
@@ -55,7 +55,7 @@ Defines a class that wraps an item and adds metadata for it.
 <td><img src="https://msdn.microsoft.com/en-us/Gg419044.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemscontrolregionadapter">ItemsControlRegionAdapter</a></td>
 <td><div class="summary">
-Adapter that creates a new <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.allactiveregion">AllActiveRegion</a> and binds all the views to the adapted <a href="http://msdn2.microsoft.com/en-us/library/ms611045">ItemsControl</a>.
+Adapter that creates a new <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.allactiveregion">AllActiveRegion</a> and binds all the views to the adapted <a href="http://msdn.microsoft.com/en-us/library/ms611045">ItemsControl</a>.
 </div></td>
 </tr>
 <tr class="odd">
@@ -104,7 +104,7 @@ Base class to facilitate the creation of <a href="https://msdn.microsoft.com/t:m
 <td><img src="https://msdn.microsoft.com/en-us/Gg419044.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionadaptermappings">RegionAdapterMappings</a></td>
 <td><div class="summary">
-This class maps <a href="http://msdn2.microsoft.com/en-us/library/42892f65">Type</a> with <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter">IRegionAdapter</a>.
+This class maps <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> with <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter">IRegionAdapter</a>.
 </div></td>
 </tr>
 <tr class="even">
@@ -209,7 +209,7 @@ Defines a registry for the content of the regions used on View Discovery composi
 <td><img src="https://msdn.microsoft.com/en-us/Gg419044.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.selectorregionadapter">SelectorRegionAdapter</a></td>
 <td><div class="summary">
-Adapter that creates a new <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.region">Region</a> and binds all the views to the adapted <a href="http://msdn2.microsoft.com/en-us/library/ms595227">Selector</a>. It also keeps the <a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.activeviews">ActiveViews</a> and the selected items of the <a href="http://msdn2.microsoft.com/en-us/library/ms595227">Selector</a> in sync.
+Adapter that creates a new <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.region">Region</a> and binds all the views to the adapted <a href="http://msdn.microsoft.com/en-us/library/ms595227">Selector</a>. It also keeps the <a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.activeviews">ActiveViews</a> and the selected items of the <a href="http://msdn.microsoft.com/en-us/library/ms595227">Selector</a> in sync.
 </div></td>
 </tr>
 <tr class="odd">
@@ -251,7 +251,7 @@ Exception that's thrown when something goes wrong while Registering a View with 
 <td><img src="https://msdn.microsoft.com/en-us/Gg419044.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewscollection">ViewsCollection</a></td>
 <td><div class="summary">
-Implementation of <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iviewscollection">IViewsCollection</a> that takes an <a href="http://msdn2.microsoft.com/en-us/library/ms668604">ObservableCollection&lt;(Of &lt;(T&gt;)&gt;)</a> of <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemmetadata">ItemMetadata</a> and filters it to display an <a href="http://msdn2.microsoft.com/en-us/library/ms668629">INotifyCollectionChanged</a> collection of <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b">Object</a> elements (the items which the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemmetadata">ItemMetadata</a> wraps).
+Implementation of <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iviewscollection">IViewsCollection</a> that takes an <a href="http://msdn.microsoft.com/en-us/library/ms668604">ObservableCollection&lt;(Of &lt;(T&gt;)&gt;)</a> of <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemmetadata">ItemMetadata</a> and filters it to display an <a href="http://msdn.microsoft.com/en-us/library/ms668629">INotifyCollectionChanged</a> collection of <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a> elements (the items which the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemmetadata">ItemMetadata</a> wraps).
 </div></td>
 </tr>
 <tr class="odd">

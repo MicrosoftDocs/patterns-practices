@@ -8,7 +8,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430881(v=PandP.40)'
 
 # View-Switching Navigation QuickStart Using the Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
 The View-Switching Navigation QuickStart sample demonstrates how to use the Prism Region Navigation API with the Model-View-ViewModel (MVVM) pattern. The Prism Region Navigation utilizes a Uniform Resource Identifier (URI) approach to switch between views. The QuickStart simulates the navigation of a simple email, contacts, and calendar application. The left region provides navigation to each of the main views. The views demonstrate backward navigation and asynchronous dialog interactions.
 
@@ -34,7 +34,7 @@ Because the modules do not have dependencies between them, they are loaded and i
 The following illustration shows the QuickStart main window.
 
 
-![](images/View-Switching-Navigation-QuickStart(en-us,PandP.40).png "View-Switching Navigation QuickStart user interface")
+![](images/view-switching-navigation-quickstart.png "View-Switching Navigation QuickStart user interface")
 
 **View-Switching Navigation QuickStart user interface**
 
@@ -55,7 +55,7 @@ This QuickStart requires Microsoft Visual Studio 2012 or later and the .NET Fram
 
 The QuickStart highlights the key elements that you should consider when you use the navigation features provided by the Prism Library to implement navigation in a composite application. In this approach, the user interface is divided among different modules. Each module populates the navigation region on the left side, and participates in navigation to coordinate the view in the main content region on the right side. This section describes the key artifacts of the QuickStart. The following figure shows the workflow that occurs when a user navigates from one location to another.
 
-![](images/Prism-Region-Navigation-Workflow(en-us,PandP.40).png "Prism Region Navigation Workflow")
+![](images/prism-region-navigation-workflow.png "Prism Region Navigation Workflow")
 
 Prism Region Navigation Workflow
 
@@ -231,7 +231,7 @@ Because this QuickStart implements the MVVM pattern, the logic is located in the
 
 In the preceding code, using Prism's **NavigationParameters** class, the ID of a specific mail is specified. This class forms query parameters to be added to the queries by taking the name and the value of the parameter. The **ToString** method of this class is overridden to create a query string with all the specified parameters. This example shows how to use the **NavigationParameters** class to pass string parameters using the Query String, but it can also be used to pass object parameters, using an overload of the **RequestNavigate** method. Finally, the query is appended to the name of the view. The result will be similar to that shown in the following illustration.
 
-![](images/A-complex-URI-structure(en-us,PandP.40).png "A complex URI structure")
+![](images/a-complex-uri-structure.png "A complex URI structure")
 
 A complex URI structure
 
@@ -428,16 +428,16 @@ You should see the QuickStart window and the tests automatically interact with t
 
 To learn about other aspects of navigation in Prism, see the following topics:
 
--   [Navigation](/guide/8-navigation-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--   [State-Based Navigation QuickStart](/guide/state-based-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-   [Navigation](/patterns-practices/guide/8-navigation-using-the-prism-library-5.0-for-wpf)
+-   [State-Based Navigation QuickStart](/patterns-practices/guide/state-based-navigation-quickstart-using-the-prism-library-5.0-for-wpf)
 
 To learn about other code samples included with Prism, see the following topics:
 
--   [Stock Trader Reference Implementation](/guide/stock-trader-reference-implementation-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--   [Modularity QuickStarts](/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--   [Interactivity QuickStart](/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--   [MVVM QuickStart](/guide/mvvm-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--   [Commanding QuickStart](/guide/commanding-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--   [UI Composition QuickStart](/guide/ui-composition-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--   [Event Aggregation QuickStart](/guide/event-aggregation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-   [Stock Trader Reference Implementation](/patterns-practices/guide/stock-trader-reference-implementation-using-the-prism-library-5.0-for-wpf)
+-   [Modularity QuickStarts](/patterns-practices/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf)
+-   [Interactivity QuickStart](/patterns-practices/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf)
+-   [MVVM QuickStart](/patterns-practices/guide/mvvm-quickstart-using-the-prism-library-5.0-for-wpf)
+-   [Commanding QuickStart](/patterns-practices/guide/commanding-quickstart-using-the-prism-library-5.0-for-wpf)
+-   [UI Composition QuickStart](/patterns-practices/guide/ui-composition-quickstart-using-the-prism-library-5.0-for-wpf)
+-   [Event Aggregation QuickStart](/patterns-practices/guide/event-aggregation-quickstart-using-the-prism-library-5.0-for-wpf)
 

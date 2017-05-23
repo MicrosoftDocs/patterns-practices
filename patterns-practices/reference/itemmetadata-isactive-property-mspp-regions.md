@@ -14,10 +14,13 @@ Gets or sets a value indicating whether the wrapped item is considered active.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-Syntax
-------
+**Version:** 5.0.0.0 (5.0.0.0)
+
+
+## Syntax
+
 ```C#
 public bool IsActive { get; set; }
 ```
@@ -28,15 +31,15 @@ Public Property IsActive As Boolean
 	Set
 ```
 
-#### Property Value
+### Property Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 **truetrue** (**True** in Visual Basic) if the item should be considered active; otherwise **falsefalse** (**False** in Visual Basic).
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ItemMetadata Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50))
 
 [ItemMetadata Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata_members(v=pandp.50))

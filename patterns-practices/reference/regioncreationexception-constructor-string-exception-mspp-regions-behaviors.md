@@ -13,27 +13,29 @@ RegionCreationException Constructor (String, Exception)
 Initializes a new instance of the [RegionCreationException](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.regioncreationexception) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public RegionCreationException( string message, Exception inner )Public Sub New ( message As String, inner As Exception )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public RegionCreationException( string message, Exception inner )Public Sub New ( message As String, inner As Exception )
+
+### Parameters
 
 message  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The error message that explains the reason for the exception.
 
-<!-- -->
-
 inner  
-Type: [System..::.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionCreationException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.regioncreationexception)
 
 [RegionCreationException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regioncreationexception)

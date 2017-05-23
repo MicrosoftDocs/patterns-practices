@@ -7,28 +7,31 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431326(v=PandP.50)'
 
 Prism Class Library
 
-BindRegionContextToDependencyObjectBehavior..::.Region Property
+BindRegionContextToDependencyObjectBehavior.Region Property
 ===============================================================
 
 Behavior's attached region.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public IRegion Region { get; set; }Public Property Region As IRegion Get Set
-#### Property Value
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public IRegion Region { get; set; }Public Property Region As IRegion Get Set
+### Property Value
 
 Type: [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
-#### Implements
+### Implements
 
-[IRegionBehavior..::.Region](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionbehavior.region)
+[IRegionBehavior.Region](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionbehavior.region)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [BindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior)
 
 [BindRegionContextToDependencyObjectBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior)

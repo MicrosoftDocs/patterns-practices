@@ -9,10 +9,11 @@ Prism Class Library
 
 # RegionManager.RegionContext Attached Property
 
-
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -25,14 +26,13 @@ See GetRegionContext, SetRegionContext
 See GetRegionContext, SetRegionContext
 ```
 
-#### Property Value
+### Property Value
 
-Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 ## See Also
 
 
-<span id="seeAlsoToggle"></span>
 [RegionManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager(v=pandp.50))
 
 [RegionManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager_members(v=pandp.50))

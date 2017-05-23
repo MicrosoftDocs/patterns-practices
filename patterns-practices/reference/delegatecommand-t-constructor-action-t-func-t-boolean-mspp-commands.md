@@ -24,24 +24,25 @@ public DelegateCommand(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *executeMethod*  
 
-	Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;[T](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50))&gt;
+	Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[T](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50))&gt;
 
 	Delegate to execute when Execute is called on the command. This can be null to just hook up a CanExecute delegate.
 
 *canExecuteMethod*
 
-	Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb549151)&lt;[T](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)), [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)&gt;
+	Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;[T](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)), [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;
 
 	Delegate to execute when CanExecute is called on the command. This can be null.
 
 ## Exceptions
 
 | Exception | Condition |
-| [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | When both *executeMethod* and *canExecuteMethod* ar **null**a null reference (**Nothing** in Visual Basic). |
+| [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | When both *executeMethod* and *canExecuteMethod* ar **null**a null reference (**Nothing** in Visual Basic). |
 
 ## See Also
 
@@ -59,6 +60,8 @@ Initializes a new instance of [DelegateCommand(Of T)](https://msdn.microsoft.com
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
 
+
+
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -71,24 +74,25 @@ Public Sub New (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *executeMethod*  
 
-	Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)(Of [T](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)))
+	Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [T](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)))
 
 	Delegate to execute when Execute is called on the command. This can be null to just hook up a CanExecute delegate.
 
 *canExecuteMethod*
 
-	Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb549151)(Of [T](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)), [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50))
+	Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of [T](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)), [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50))
 
 	Delegate to execute when CanExecute is called on the command. This can be null.
 
 ## Exceptions
 
 | Exception | Condition |
-| [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) | When both *executeMethod* and *canExecuteMethod* ar **null**a null reference (**Nothing** in Visual Basic). |
+| [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | When both *executeMethod* and *canExecuteMethod* ar **null**a null reference (**Nothing** in Visual Basic). |
 
 ## See Also
 

@@ -10,7 +10,6 @@ Prism Class Library
 CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Properties
 ======================================================
 
-
 The [CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.commandbehaviorbase%601) type exposes the following members.
 
 Properties
@@ -35,7 +34,7 @@ Properties
 <td><img src="https://msdn.microsoft.com/en-us/Dn736156.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.commandbehaviorbase%601.command">Command</a></td>
 <td><div class="summary">
-Corresponding command to be execute and monitored for <a href="http://msdn2.microsoft.com/en-us/library/ms523106">CanExecuteChanged</a>
+Corresponding command to be execute and monitored for <a href="http://msdn.microsoft.com/en-us/library/ms523106">CanExecuteChanged</a>
 </div></td>
 </tr>
 <tr class="even">
@@ -58,7 +57,7 @@ Object to which this behavior is attached.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.commandbehaviorbase%601)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)
