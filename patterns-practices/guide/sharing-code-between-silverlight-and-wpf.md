@@ -34,7 +34,7 @@ For example, a business may have both a call-center application for customers wh
 
 Service-oriented applications are easier to multi-target because Silverlight is inherently service-oriented. Silverlight does not have support for local storage or database access because of its targeted feature set and security restrictions. Additionally, connected applications are also easier to multi-target because of Silverlight's connected nature.
 
-## Multi-Targeted Considerations
+## <a name="MultiTargetedConsiderations"></a>Multi-Targeted Considerations
 
 By making your solution multi-targetable, you should also consider the following:
 
@@ -47,7 +47,7 @@ By making your solution multi-targetable, you should also consider the following
 
 -   Silverlight supports only asynchronous communications, so you cannot multi-target applications that use synchronous communications.
 
-## Multi-Targeted Elements
+## <a name="MultiTargetedElements"></a>Multi-Targeted Elements
 
 Typically there is a significant amount of code that is unrelated to the actual presentation technology. Because of the very close nature of the Silverlight and .NET Framework runtimes, the bulk of this code can be shared between both technologies. This also encourages heavy use of Separated Presentation patterns to isolate the logic of the presentation from the actual visual presentation, to help maximize the separation between user interface (UI) and non-UI code. Usually, you can multi-target the following source code elements:
 

@@ -5,7 +5,7 @@ ms:assetid: 'bd745855-12db-4fb1-8f56-2e04f1ac3b63'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921140(v=PandP.40)'
 ---
 
-#  Managing Dependencies Between Components Using the Prism Library 5.0 for WPF
+# 3: Managing Dependencies Between Components Using the Prism Library 5.0 for WPF
 
 From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 

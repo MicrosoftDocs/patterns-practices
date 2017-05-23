@@ -2,7 +2,7 @@
 TOCTitle: 'Prism Class Library 5.0 for WPF'
 Title: 'Prism Class Library 5.0 for WPF'
 ms:assetid: 'da755a31-b302-4bd0-8cf7-04e9307c11b1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736262(v=PandP.50)'
+ms:mtpsurl: 'en-us/library/Dn736262(v=PandP.50.md)'
 ---
 
 Prism Class Library
@@ -12,28 +12,29 @@ Prism Class Library 5.0 for WPF
 
 The Prism Class Library 5.0 for WPF namespaces are:
 
--   [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)
--   [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
--   [Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.events)
--   [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)
--   [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.defaultpopupwindows)
--   [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
--   [Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.logging)
--   [Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
--   [Microsoft.Practices.Prism.MefExtensions.Events Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.events)
--   [Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.modularity)
--   [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)
--   [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions.behaviors)
--   [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
--   [Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mvvm)
--   [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
--   [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
--   [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)
--   [Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)
--   [Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.viewmodel)
+* [Microsoft.Practices.Prism namespace](mspp-namespace.md)
+* [Microsoft.Practices.Prism.Commands namespace](mspp-commands-namespace.md)
+* [Microsoft.Practices.Prism.Events namespace](mspp-events-namespace.md)
+* [Microsoft.Practices.Prism.Interactivity namespace](mspp-interactivity-namespace.md)
+* [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows namespace](mspp-interactivity-defaultpopupwindows-namespace.md)
+* [Microsoft.Practices.Prism.Interactivity.InteractionRequest namespace](mspp-interactivity-interactionrequest-namespace.md)
+* [Microsoft.Practices.Prism.Logging namespace](mspp-logging-namespace.md)
+* [Microsoft.Practices.Prism.MefExtensions namespace](mspp-mefextensions-namespace.md)
+* [Microsoft.Practices.Prism.MefExtensions.Events namespace](mspp-mefextensions-events-namespace.md)
+* [Microsoft.Practices.Prism.MefExtensions.Modularity namespace](mspp-mefextensions-modularity-namespace.md)
+* [Microsoft.Practices.Prism.MefExtensions.Regions namespace](mspp-mefextensions-regions-namespace.md)
+* [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors namespace](mspp-mefextensions-regions-behaviors-namespace.md)
+* [Microsoft.Practices.Prism.Modularity namespace](mspp-modularity-namespace.md)
+* [Microsoft.Practices.Prism.Mvvm namespace](mspp-mvvm-namespace.md)
+* [Microsoft.Practices.Prism.PubSubEvents namespace](mspp-pubsubevents-namespace.md)
+* [Microsoft.Practices.Prism.Regions namespace](mspp-regions-namespace.md)
+* [Microsoft.Practices.Prism.Regions.Behaviors namespace](mspp-regions-behaviors-namespace.md)
+* [Microsoft.Practices.Prism.UnityExtensions namespace](mspp-unityextensions-namespace.md)
+* [Microsoft.Practices.Prism.UnityExtensions.Regions namespace](mspp-unityextensions-regions-namespace.md)
+* [Microsoft.Practices.Prism.ViewModel namespace](mspp-viewmodel-namespace.md)
 
 Class Library for previous Prism version:
 
--   [Prism Class Library 4.0 for Desktop](http://aka.ms/prism-wpfsl-prism40refdocchm)
--   [Prism Class Library 4.1 for Silverlight 5.0](http://aka.ms/prism-wpfsl-prism40refdocchm)
--   [Prism Class Library 4.0 for Phone 7.5](http://aka.ms/prism-wpfsl-prism40refdocchm)
+-   [Prism Class Library 4.0 for Desktop](http://aka.ms/prism-wpfsl-prism40refdocchm.md)
+-   [Prism Class Library 4.1 for Silverlight 5.0](http://aka.ms/prism-wpfsl-prism40refdocchm.md)
+-   [Prism Class Library 4.0 for Phone 7.5](http://aka.ms/prism-wpfsl-prism40refdocchm.md)

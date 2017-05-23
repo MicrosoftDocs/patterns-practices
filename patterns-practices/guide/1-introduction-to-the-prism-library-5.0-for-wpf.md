@@ -5,7 +5,7 @@ ms:assetid: 'badb51b5-fed3-44e2-8e0b-f307516d62ed'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921153(v=PandP.40)'
 ---
 
-# Introduction to the Prism Library 5.0 for WPF
+# 1: Introduction to the Prism Library 5.0 for WPF
 
 From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
@@ -187,7 +187,7 @@ The Prism Library source code includes unit and UI automation tests, as shown in
 </table>
 
 
-### Prism Key Concepts
+### <a name="PrismKeyConcepts"></a>Prism Key Concepts
 
 Prism provides capabilities and design patterns that may be unfamiliar to you, especially if you're new to design patterns and composite application development. This section provides a brief overview of the main concepts behind Prism and defines some of the terminology that you will see used throughout the documentation and code.
 
