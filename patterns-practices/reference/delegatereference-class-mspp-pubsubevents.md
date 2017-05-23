@@ -17,7 +17,7 @@ Represents a reference to a [Delegate](http://msdn2.microsoft.com/en-us/library/
 
 ## Syntax
 
-``C#
+```C#
 public class DelegateReference : IDelegateReference
 
 ```VB
