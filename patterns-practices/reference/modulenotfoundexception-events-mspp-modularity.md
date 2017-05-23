@@ -5,17 +5,21 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.ModuleNotFoundExcepti
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736160(v=PandP.50)'
 ---
 
-Prism Class Library
+# ModuleNotFoundException Events
 
-ModuleNotFoundException Events
-==============================
+The [ModuleNotFoundException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception(v=pandp.50)) type exposes the following members.
 
+
+## Events
+
+=======
 The [ModuleNotFoundException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulenotfoundexception) type exposes the following members.
 
 Events
 ------
 
 <span id="eventTableToggle"></span>
+
 <table>
 <colgroup>
 <col width="33%" />
@@ -41,10 +45,13 @@ Occurs when an exception is serialized to create an exception state object that 
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
+
+[ModuleNotFoundException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception(v=pandp.50))
+=======
 
 [ModuleNotFoundException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulenotfoundexception)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))

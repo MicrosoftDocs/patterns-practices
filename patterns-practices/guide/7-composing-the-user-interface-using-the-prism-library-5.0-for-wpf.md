@@ -827,7 +827,7 @@ The following table lists the main causes of poor design-time experiences. By av
 </tr>
 <tr class="even">
 <td><p>Creating very large projects.</p></td>
-<td><p>![](images/approve-code.png)" /></p></td>
+<td><p>![](images/approve-code.png)</p></td>
 <td><p>![](images/avoid-code.png)</p></td>
 </tr>
 </tbody>
