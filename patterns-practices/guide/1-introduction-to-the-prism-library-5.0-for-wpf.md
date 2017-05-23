@@ -187,7 +187,7 @@ The Prism Library source code includes unit and UI automation tests, as shown in
 </table>
 
 
-### Prism Key Concepts
+### <a name="PrismKeyConcepts"></a>Prism Key Concepts
 
 Prism provides capabilities and design patterns that may be unfamiliar to you, especially if you're new to design patterns and composite application development. This section provides a brief overview of the main concepts behind Prism and defines some of the terminology that you will see used throughout the documentation and code.
 
