@@ -5,8 +5,6 @@ ms:assetid: 'F:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.Comma
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736221(v=PandP.50)'
 ---
 
-Prism Class Library
-
 InvokeCommandAction.CommandProperty Field
 =============================================
 
@@ -34,9 +32,7 @@ Public Shared ReadOnly CommandProperty As DependencyProperty
 
 Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 
-See Also
---------
-
+## See Also
 
 [InvokeCommandAction Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50))
 
