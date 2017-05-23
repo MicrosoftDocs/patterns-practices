@@ -11,9 +11,7 @@ Creates a new instance of BackgroundEventSubscription.
 
 **Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
-**Version:** 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -30,18 +28,18 @@ public DispatcherEventSubscription(
 
 *actionReference*
 
-    Type: IDelegateReference
-    A reference to a delegate of type [Action&lt;T&gt;(http://msdn.microsoft.com/en-us/library/bfcke1bz)].
+   Type: IDelegateReference
+   A reference to a delegate of type [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz).
 
 *filterReference*
 
-    Type: IDelegateReference
-    A reference to a delegate of type [Predicate&lt;T&gt;(http://msdn.microsoft.com/en-us/library/bfcke1bz)].
+   Type: IDelegateReference
+   A reference to a delegate of type [Predicate&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz).
 
 *dispatcher*
 
-    Type: [Microsoft.Practices.Prism.Events.IDispatcherFacade](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.idispatcherfacade(v=pandp.50))
-    The dispatcher to use when executing the *actionReference* delegate.
+   Type: [Microsoft.Practices.Prism.Events.IDispatcherFacade](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.idispatcherfacade(v=pandp.50))
+   The dispatcher to use when executing the *actionReference* delegate.
 
 ## Exceptions
 
@@ -62,9 +60,7 @@ Creates a new instance of BackgroundEventSubscription.
 
 **Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
-**Version:** 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -82,18 +78,18 @@ Public Sub New (
 
 *actionReference*
 
-    Type: IDelegateReference
-    A reference to a delegate of type [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8).
+   Type: IDelegateReference
+   A reference to a delegate of type [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8).
 
 *filterReference*
 
-    Type: IDelegateReference
-    A reference to a delegate of type [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz).
+   Type: IDelegateReference
+   A reference to a delegate of type [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz).
 
 *dispatcher*
 
-    Type: [Microsoft.Practices.Prism.Events.IDispatcherFacade](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.idispatcherfacade(v=pandp.50))
-    The dispatcher to use when executing the *actionReference* delegate.
+   Type: [Microsoft.Practices.Prism.Events.IDispatcherFacade](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.idispatcherfacade(v=pandp.50))
+   The dispatcher to use when executing the *actionReference* delegate.
 
 ## Exceptions
 
