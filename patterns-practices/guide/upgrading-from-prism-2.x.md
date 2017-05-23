@@ -90,6 +90,7 @@ With the addition of supporting MEF, there were several changes to the Prism Lib
 				}
 	```
 
+	
     -   The **ConfigureServiceLocator** virtual method was added to allow overriding the configuration of the **ServiceLocator**.
 
 For more information about the **Bootstrapper** classes, see "Initializing Prism Applications" in the [Prism4.pdf](http://compositewpf.codeplex.com/releases/view/55580).
