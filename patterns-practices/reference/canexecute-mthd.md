@@ -7,9 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419050(v=PandP.50)'
 
 Prism Class Library
 
-DelegateCommand..::.CanExecute Method
+DelegateCommand.CanExecute Method
 =====================================
-
 
 Overload List
 -------------
@@ -40,7 +39,7 @@ Determines if the command can be executed.
 <td><img src="https://msdn.microsoft.com/en-us/Gg419050.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.commands.delegatecommandbase.canexecute(system.object)">CanExecute(Object)</a></td>
 <td><div class="summary">
-Determines if the command can execute with the provided parameter by invoking the <a href="http://msdn2.microsoft.com/en-us/library/bb549151">Func&lt;(Of &lt;(T, TResult&gt;)&gt;)</a> supplied during construction.
+Determines if the command can execute with the provided parameter by invoking the <a href="http://msdn.microsoft.com/en-us/library/bb549151">Func&lt;(Of &lt;(T, TResult&gt;)&gt;)</a> supplied during construction.
 </div>
 (Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommandbase">DelegateCommandBase</a>.)</td>
 </tr>
@@ -50,7 +49,7 @@ Determines if the command can execute with the provided parameter by invoking th
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateCommand Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand)
 
 [DelegateCommand Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand)

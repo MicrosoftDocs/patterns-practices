@@ -7,9 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736252(v=PandP.50)'
 
 Prism Class Library
 
-INavigateAsync..::.RequestNavigate Method
+INavigateAsync.RequestNavigate Method
 =========================================
-
 
 Overload List
 -------------
@@ -33,14 +32,14 @@ Overload List
 <td><img src="https://msdn.microsoft.com/en-us/Dn736252.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.inavigateasync.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))</a></td>
 <td><div class="summary">
-Initiates navigation to the target specified by the <a href="http://msdn2.microsoft.com/en-us/library/txt7706a">Uri</a>.
+Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a">Uri</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736252.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.inavigateasync.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d%2cmicrosoft.practices.prism.regions.navigationparameters)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)</a></td>
 <td><div class="summary">
-Initiates navigation to the target specified by the <a href="http://msdn2.microsoft.com/en-us/library/txt7706a">Uri</a>.
+Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a">Uri</a>.
 </div></td>
 </tr>
 </tbody>
@@ -49,7 +48,7 @@ Initiates navigation to the target specified by the <a href="http://msdn2.micros
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [INavigateAsync Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigateasync)
 
 [INavigateAsync Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.inavigateasync)

@@ -14,10 +14,13 @@ Specifies that the current module has a dependency on another module. This attri
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-Syntax
-------
+**Version:** 5.0.0.0 (5.0.0.0)
+
+
+## Syntax
+
 
 ```C#
 public sealed class ModuleDependencyAttribute : Attribute
@@ -30,16 +33,16 @@ Public NotInheritable Class ModuleDependencyAttribute Inherits Attribute
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-  [System.Attribute](http://msdn2.microsoft.com/en-us/library/e8kc3626)
+  [System.Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626)
   
     Microsoft.Practices.Prism.Modularity.ModuleDependencyAttribute
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleDependencyAttribute Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencyattribute_members(v=pandp.50))
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))

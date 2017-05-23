@@ -10,7 +10,6 @@ Prism Class Library
 DelegateCommandBase Properties
 ==============================
 
-
 The [DelegateCommandBase](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommandbase) type exposes the following members.
 
 Properties
@@ -44,7 +43,7 @@ Gets or sets a value indicating whether the object is active.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateCommandBase Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommandbase)
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)

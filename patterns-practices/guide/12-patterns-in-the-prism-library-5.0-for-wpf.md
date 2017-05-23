@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921146(vPandP.40)'
 
 # 12: Patterns in the Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism.aspx)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
 When you build applications, you typically encounter or employ patterns. In the Prism Library and example reference implementation, the guidance demonstrates the Adapter, Application Controller, Command, Composite and Composite View, Dependency Injection, Event Aggregator, Façade, Inversion of Control, Observer, Model-View-ViewModel (MVVM), Registry, Repository, Separated Interface, Plug-In, and Service Locator patterns that are briefly discussed in this appendix. The following illustration shows a typical composite application architecture using the Prism Library and some of the common patterns. A simpler application would likely encounter some of these patterns while using Prism, but not necessarily all of them.
 

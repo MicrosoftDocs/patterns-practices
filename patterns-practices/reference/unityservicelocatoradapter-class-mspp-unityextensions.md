@@ -13,7 +13,9 @@ Defines a IUnityContainer adapter for the IServiceLocator interface to be used b
 
 **Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -29,7 +31,7 @@ Public Class UnityServiceLocatorAdapter
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)<br/>
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
   ServiceLocatorImplBase<br/>
     Microsoft.Practices.Prism.UnityExtensions.UnityServiceLocatorAdapter
 

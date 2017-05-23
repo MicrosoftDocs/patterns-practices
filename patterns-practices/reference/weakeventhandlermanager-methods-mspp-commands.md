@@ -10,7 +10,6 @@ Prism Class Library
 WeakEventHandlerManager Methods
 ===============================
 
-
 The [WeakEventHandlerManager](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.weakeventhandlermanager) type exposes the following members.
 
 Methods
@@ -58,7 +57,7 @@ Removes an event handler from the reference list.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [WeakEventHandlerManager Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.weakeventhandlermanager)
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)

@@ -6,8 +6,7 @@
     items:
     - name: Introduction
       href: guide/1-introduction-to-the-prism-library-5.0-for-wpf.md
-    - name: Architecture
-      href: guide/13-prism-library-5.0-for-wpf.md
+
     - name: What's New
       href: guide/whats-new-in-prism-library-5.0-for-wpf.md
     - name: Download and Setup
@@ -32,23 +31,23 @@
       href: guide/10-deploying-applications-using-the-prism-library-5.0-for-wpf.md
     - name: Patterns
       href: guide/12-patterns-in-the-prism-library-5.0-for-wpf.md
+    - name: Architecture
+      href: guide/13-prism-library-5.0-for-wpf.md
+    - name: Upgrading from Prism Library 4.1
+      href: guide/14-upgrading-from-prism-library-4.1.md
+    - name: Upgrading from Prism 2.x
+      href: guide/upgrading-from-prism-2.x.md
     - name: Extending
       href: guide/15-extending-the-prism-library-5.0-for-wpf.md
     - name: Code Samples
       href: guide/16-code-samples-using-the-prism-library-5.0-for-wpf.md
-    - name: Upgrading from Prism 2.x
-      href: guide/upgrading-from-prism-2.x.md
-    - name: Upgrading from Prism Library 4.1
-      href: guide/14-upgrading-from-prism-library-4.1.md
-    - name: Deploying Prism Silverlight Applications
-      href: guide/deploying-prism-in-silverlight-applications.md
-    - name: QuickStarts
-      href: guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf.md
       items:
       - name: Event Aggregation
         href: guide/event-aggregation-quickstart-using-the-prism-library-5.0-for-wpf.md
       - name: Interactivity
         href: guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf.md
+      - name: Modularity
+        href: guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf.md
       - name: Modularity for Silverlight
         href: guide/modularity-quickstarts-for-silverlight.md
       - name: Commanding
@@ -63,12 +62,14 @@
         href: guide/view-switching-navigation-quickstart-using-the-prism-library-5.0-for-wpf.md
       - name: UI Composition
         href: guide/ui-composition-quickstart-using-the-prism-library-5.0-for-wpf.md
-    - name: Sharing Code Between Silverlight and WPF
-      href: guide/sharing-code-between-silverlight-and-wpf.md
     - name: Hands-on Lab
       href: guide/17-getting-started-using-the-prism-library-5.0-for-wpf-hands-on-lab.md
     - name: Publishing and Updating Applications Using the Hands-on Lab
       href: guide/18-publishing-and-updating-applications-using-the-prism-library-5.0-for-wpf-hands-on-lab.md
+    - name: Deploying Prism Silverlight Applications
+      href: guide/deploying-prism-in-silverlight-applications.md
+    - name: Sharing Code Between Silverlight and WPF
+      href: guide/sharing-code-between-silverlight-and-wpf.md
     - name: Silverlight Hands-on Lab
       href: guide/silverlight-hands-on-lab-get-started-with-the-prism-library.md
     - name: Stock Trader Reference Implementation

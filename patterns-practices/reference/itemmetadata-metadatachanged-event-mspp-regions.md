@@ -11,7 +11,9 @@ Occurs when metadata on the item changes.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -25,9 +27,9 @@ public event EventHandler MetadataChanged
 Public Event MetadataChanged As EventHandler
 ```
 
-#### Value
+### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
 
 ## See Also
 

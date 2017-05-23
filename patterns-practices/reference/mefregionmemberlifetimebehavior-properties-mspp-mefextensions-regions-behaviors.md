@@ -10,7 +10,6 @@ Prism Class Library
 MefRegionMemberLifetimeBehavior Properties
 ==========================================
 
-
 The [MefRegionMemberLifetimeBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmemberlifetimebehavior) type exposes the following members.
 
 Properties
@@ -53,7 +52,7 @@ Behavior's attached region.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefRegionMemberLifetimeBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmemberlifetimebehavior)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions.behaviors)

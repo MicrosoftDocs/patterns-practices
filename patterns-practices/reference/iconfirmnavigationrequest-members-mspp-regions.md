@@ -10,7 +10,6 @@ Prism Class Library
 IConfirmNavigationRequest Members
 =================================
 
-
 The [IConfirmNavigationRequest](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iconfirmnavigationrequest) type exposes the following members.
 
 Methods
@@ -68,7 +67,7 @@ Called when the implementer has been navigated to.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IConfirmNavigationRequest Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iconfirmnavigationrequest)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

@@ -7,17 +7,20 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405822(v=PandP.50)'
 
 Prism Class Library
 
-MefBootstrapper..::.ConfigureContainer Method
+MefBootstrapper.ConfigureContainer Method
 =============================================
 
-Configures the [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553). May be overwritten in a derived class to add specific type mappings required by the application.
+Configures the [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553). May be overwritten in a derived class to add specific type mappings required by the application.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
-<span id="syntaxToggle"></span>protected virtual void ConfigureContainer()Protected Overridable Sub ConfigureContainer
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+protected virtual void ConfigureContainer()Protected Overridable Sub ConfigureContainer
 
 Remarks
 -------
@@ -27,7 +30,7 @@ Remarks
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefBootstrapper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.mefbootstrapper)
 
 [MefBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.mefbootstrapper)

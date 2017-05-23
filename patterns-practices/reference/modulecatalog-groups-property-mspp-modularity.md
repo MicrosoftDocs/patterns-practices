@@ -14,10 +14,13 @@ Gets the [ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.pr
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-Syntax
-------
+**Version:** 5.0.0.0 (5.0.0.0)
+
+
+## Syntax
+
 ```C#
 public IEnumerable<ModuleInfoGroup> Groups { get; }
 ```
@@ -27,16 +30,16 @@ Public ReadOnly Property Groups As IEnumerable(Of ModuleInfoGroup)
 	Get
 ```
 
-#### Property Value
+### Property Value
 
-Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50))&gt;
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50))&gt;
 
 The groups.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleCatalog Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50))
 
 [ModuleCatalog Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog_members(v=pandp.50))

@@ -7,25 +7,28 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736104(v=PandP.50)'
 
 Prism Class Library
 
-InvokeCommandAction..::.CommandParameter Property
+InvokeCommandAction.CommandParameter Property
 =================================================
 
 Gets or sets the command parameter to supply on command execution.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
-<span id="syntaxToggle"></span>public Object CommandParameter { get; set; }Public Property CommandParameter As Object Get Set
-#### Property Value
+**Version:** 5.0.0.0 (5.0.0.0)
 
-Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+## Syntax
+
+
+public Object CommandParameter { get; set; }Public Property CommandParameter As Object Get Set
+### Property Value
+
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [InvokeCommandAction Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.invokecommandaction)
 
 [InvokeCommandAction Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.invokecommandaction)

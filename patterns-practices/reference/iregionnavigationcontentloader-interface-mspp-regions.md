@@ -13,16 +13,19 @@ IRegionNavigationContentLoader Interface
 Identifies the view in a region that is the target of a navigation request.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public interface IRegionNavigationContentLoaderPublic Interface IRegionNavigationContentLoader
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public interface IRegionNavigationContentLoaderPublic Interface IRegionNavigationContentLoader
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionnavigationcontentloader)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

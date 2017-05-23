@@ -11,7 +11,9 @@ Returns the candidate TargetContract based on the [NavigationContext](https://ms
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -28,16 +30,17 @@ Protected Overridable Function GetContractFromNavigationContext (
 ) As String
 ```
 
-#### Parameters
+
+### Parameters
 
 *navigationContext*
 
     Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext(v=pandp.50))
     The navigation contract.
 
-#### Return Value
+### Return Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)<br/>
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)<br/>
 The candidate contract to seek within the [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)) and to use, if not found, when resolving from the container.
 
 ## See Also

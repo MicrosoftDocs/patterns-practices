@@ -14,10 +14,13 @@ Gets or sets the contract names of modules this module depends upon.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
-Syntax
-------
+**Version:** 5.0.0.0 (5.0.0.0)
+
+
+## Syntax
+
 
 ```C#
 public string[] DependsOnModuleNames { get; set; }
@@ -29,17 +32,17 @@ Public Property DependsOnModuleNames As String()
 	Set
 ```
 
-#### Property Value
+### Property Value
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)[]
-#### Implements
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)[]
+### Implements
 
 [IModuleExport.DependsOnModuleNames](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport.dependsonmodulenames(v=pandp.50))
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleExportAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute(v=pandp.50))
 
 [ModuleExportAttribute Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute_members(v=pandp.50))

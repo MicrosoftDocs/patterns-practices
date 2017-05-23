@@ -7,25 +7,28 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431324(v=PandP.50)'
 
 Prism Class Library
 
-ObservableObject&lt;(Of &lt;(T&gt;)&gt;)..::.Value Property
+ObservableObject&lt;(Of &lt;(T&gt;)&gt;).Value Property
 ===========================================================
 
 The value that's wrapped inside the ObservableObject.
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public T Value { get; set; }Public Property Value As T Get Set
-#### Property Value
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public T Value { get; set; }Public Property Value As T Get Set
+### Property Value
 
 Type: [T](https://msdn.microsoft.com/t:microsoft.practices.prism.observableobject%601)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.observableobject%601)
 
 [ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.observableobject%601)

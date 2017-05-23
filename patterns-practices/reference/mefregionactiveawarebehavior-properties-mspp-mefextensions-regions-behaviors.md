@@ -7,11 +7,9 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419183(v=PandP.50)'
 
 # MefRegionActiveAwareBehavior Properties
 
-
 The [MefRegionActiveAwareBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionactiveawarebehavior(v=pandp.50)) type exposes the following members.
 
 ## Properties
-
 
 <table>
 <colgroup>
@@ -42,7 +40,6 @@ The region that this behavior is extending
 </tr>
 </tbody>
 </table>
-
 
 ## See Also
 

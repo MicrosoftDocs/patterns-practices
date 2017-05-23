@@ -10,7 +10,6 @@ Prism Class Library
 IRegionManager Members
 ======================
 
-
 The [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager) type exposes the following members.
 
 Methods
@@ -191,7 +190,7 @@ Gets a collection of <a href="https://msdn.microsoft.com/t:microsoft.practices.p
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionManager Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

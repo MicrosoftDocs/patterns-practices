@@ -10,14 +10,15 @@ Prism Class Library
 DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class
 =============================================
 
-An [ICommand](http://msdn2.microsoft.com/en-us/library/ms616869) whose delegates can be attached for [Execute(T)](https://msdn.microsoft.com/m:microsoft.practices.prism.commands.delegatecommand%601.execute(%600)) and [CanExecute(T)](https://msdn.microsoft.com/m:microsoft.practices.prism.commands.delegatecommand%601.canexecute(%600)).
+An [ICommand](http://msdn.microsoft.com/en-us/library/ms616869) whose delegates can be attached for [Execute(T)](https://msdn.microsoft.com/m:microsoft.practices.prism.commands.delegatecommand%601.execute(%600)) and [CanExecute(T)](https://msdn.microsoft.com/m:microsoft.practices.prism.commands.delegatecommand%601.canexecute(%600)).
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
 
-<span id="syntaxToggle"></span>public class DelegateCommand&lt;T&gt; : DelegateCommandBase Public Class DelegateCommand(Of T) Inherits DelegateCommandBase
+## Syntax
+
+
+public class DelegateCommand&lt;T&gt; : DelegateCommandBase Public Class DelegateCommand(Of T) Inherits DelegateCommandBase
 Type Parameters
 ---------------
 
@@ -39,14 +40,14 @@ Examples
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft.Practices.Prism.Commands..::.DelegateCommandBase](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommandbase)
-    Microsoft.Practices.Prism.Commands..::.DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [Microsoft.Practices.Prism.Commands.DelegateCommandBase](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommandbase)
+    Microsoft.Practices.Prism.Commands.DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand%601)
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)

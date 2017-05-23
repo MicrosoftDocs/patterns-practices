@@ -10,7 +10,6 @@ Prism Class Library
 Region Properties
 =================
 
-
 The [Region](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.region) type exposes the following members.
 
 Properties
@@ -100,7 +99,7 @@ Gets a readonly view of the collection of views in the region.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [Region Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.region)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

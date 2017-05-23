@@ -11,7 +11,9 @@ Initializes a new instance of the [UnityRegionNavigationContentLoader](https://m
 
 **Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -32,12 +34,13 @@ Public Sub New (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *serviceLocator*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IServiceLocator
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IServiceLocator used to create the instance of the view from its [Type](http://msdn2.microsoft.com/en-us/library/42892f65).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;IServiceLocator used to create the instance of the view from its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
 *container*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IUnityContainer

@@ -10,7 +10,6 @@ Prism Class Library
 IHostAwareRegionBehavior Methods
 ================================
 
-
 The [IHostAwareRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior) type exposes the following members.
 
 Methods
@@ -45,7 +44,7 @@ Attaches the behavior to the specified region.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IHostAwareRegionBehavior Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)

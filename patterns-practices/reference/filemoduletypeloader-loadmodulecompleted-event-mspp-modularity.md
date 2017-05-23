@@ -7,28 +7,31 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430921(v=PandP.50)'
 
 Prism Class Library
 
-FileModuleTypeLoader..::.LoadModuleCompleted Event
+FileModuleTypeLoader.LoadModuleCompleted Event
 ==================================================
 
 Raised when a module is loaded or fails to load.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public event EventHandler&lt;LoadModuleCompletedEventArgs&gt; LoadModuleCompletedPublic Event LoadModuleCompleted As EventHandler(Of LoadModuleCompletedEventArgs)
-#### Value
+**Version:** 5.0.0.0 (5.0.0.0)
 
-Type: [System..::.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([LoadModuleCompletedEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.loadmodulecompletedeventargs)&gt;)&gt;)
-#### Implements
+## Syntax
 
-[IModuleTypeLoader..::.LoadModuleCompleted](https://msdn.microsoft.com/e:microsoft.practices.prism.modularity.imoduletypeloader.loadmodulecompleted)
+
+public event EventHandler&lt;LoadModuleCompletedEventArgs&gt; LoadModuleCompletedPublic Event LoadModuleCompleted As EventHandler(Of LoadModuleCompletedEventArgs)
+### Value
+
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([LoadModuleCompletedEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.loadmodulecompletedeventargs)&gt;)&gt;)
+### Implements
+
+[IModuleTypeLoader.LoadModuleCompleted](https://msdn.microsoft.com/e:microsoft.practices.prism.modularity.imoduletypeloader.loadmodulecompleted)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [FileModuleTypeLoader Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.filemoduletypeloader)
 
 [FileModuleTypeLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.filemoduletypeloader)

@@ -11,7 +11,9 @@ Gets the default [IModuleCatalog](https://msdn.microsoft.com/en-us/library/micro
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -26,7 +28,7 @@ Protected Property ModuleCatalog As IModuleCatalog
 	Set
 ```
 
-#### Property Value
+### Property Value
 
 Type: [IModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulecatalog(v=pandp.50))
 

@@ -7,9 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419105(v=PandP.50)'
 
 Prism Class Library
 
-ModuleInfoGroup..::.Insert Method
+ModuleInfoGroup.Insert Method
 =================================
-
 
 Overload List
 -------------
@@ -33,7 +32,7 @@ Overload List
 <td><img src="https://msdn.microsoft.com/en-us/Gg419105.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinfogroup.insert(system.int32%2cmicrosoft.practices.prism.modularity.moduleinfo)">Insert(Int32, ModuleInfo)</a></td>
 <td><div class="summary">
-Inserts an item to the <a href="http://msdn2.microsoft.com/en-us/library/5y536ey6">IList&lt;(Of &lt;(T&gt;)&gt;)</a> at the specified index.
+Inserts an item to the <a href="http://msdn.microsoft.com/en-us/library/5y536ey6">IList&lt;(Of &lt;(T&gt;)&gt;)</a> at the specified index.
 </div></td>
 </tr>
 <tr class="even">
@@ -49,7 +48,7 @@ Inserts an item to the <a href="https://msdn.microsoft.com/t:microsoft.practices
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInfoGroup Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup)
 
 [ModuleInfoGroup Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroup)

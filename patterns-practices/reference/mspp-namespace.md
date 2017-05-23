@@ -76,7 +76,7 @@ Defines extension methods for the ServiceLocator class.
 <td><img src="https://msdn.microsoft.com/en-us/Gg419033.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.uriparsinghelper">UriParsingHelper</a></td>
 <td><div class="summary">
-Helper class for parsing <a href="http://msdn2.microsoft.com/en-us/library/txt7706a">Uri</a> instances.
+Helper class for parsing <a href="http://msdn.microsoft.com/en-us/library/txt7706a">Uri</a> instances.
 </div></td>
 </tr>
 </tbody>

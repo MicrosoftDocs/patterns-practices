@@ -7,9 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419151(v=PandP.50)'
 
 Prism Class Library
 
-ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)..::.ClearErrors Method
+ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).ClearErrors Method
 ==============================================================
-
 
 Overload List
 -------------
@@ -49,7 +48,7 @@ Clears the errors for a property.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.errorscontainer%601)
 
 [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.viewmodel.errorscontainer%601)

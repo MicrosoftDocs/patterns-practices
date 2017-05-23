@@ -14,10 +14,13 @@ Attempts to resolve specified type from the underlying IServiceLocator.
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-Syntax
-------
+**Version:** 5.0.0.0 (5.0.0.0)
+
+
+## Syntax
+
 
 ```C#
 public static T TryResolve<T>(
@@ -33,7 +36,8 @@ Public Shared Function TryResolve(Of T As Class) (
 ) As T
 ```
 
-#### Parameters
+
+### Parameters
 
 *locator*
   
@@ -49,13 +53,13 @@ T
  
 Type to resolve.
 
-#### Return Value
+### Return Value
 
 Type: T
 
 T or null
 
-#### Usage Note
+### Usage Note
 
 In Visual Basic and C\#, you can call this method as an instance method on any object of type IServiceLocator. When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 
@@ -67,7 +71,7 @@ Remarks
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ServiceLocatorExtensions Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.servicelocatorextensions(v=pandp.50))
 
 [ServiceLocatorExtensions Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.servicelocatorextensions_members(v=pandp.50))

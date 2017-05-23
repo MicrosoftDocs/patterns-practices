@@ -14,14 +14,16 @@ Initializes a new instance of [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)](https://
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
 
-<span id="syntaxToggle"></span>public DelegateCommand( Action&lt;T&gt; executeMethod )Public Sub New ( executeMethod As Action(Of T) )
-#### Parameters
+## Syntax
+
+
+public DelegateCommand( Action&lt;T&gt; executeMethod )Public Sub New ( executeMethod As Action(Of T) )
+
+### Parameters
 
 executeMethod  
-Type: [System..::.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601)&gt;)&gt;)
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([T](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601)&gt;)&gt;)
 Delegate to execute when Execute is called on the command. This can be null to just hook up a CanExecute delegate.
 
 Remarks
@@ -32,7 +34,7 @@ Remarks
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601)
 
 [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand%601)

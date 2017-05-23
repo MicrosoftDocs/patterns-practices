@@ -14,6 +14,7 @@ Defines a contract for an event subscription to be used by [EventBase](https://m
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
+
 ~~~C#
 public interface IEventSubscription
 ~~~
@@ -21,9 +22,19 @@ public interface IEventSubscription
 'Declaration
 Public Interface IEventSubscription
 ~~~
+=======
+
+
+public interface IEventSubscriptionPublic Interface IEventSubscription
+
 
 ## See Also
 
+
 IEventSubscription Members
+=======
+
+[IEventSubscription Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.ieventsubscription)
+
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))

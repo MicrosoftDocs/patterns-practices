@@ -7,28 +7,31 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430942(v=PandP.50)'
 
 Prism Class Library
 
-ViewsCollection..::.CollectionChanged Event
+ViewsCollection.CollectionChanged Event
 ===========================================
 
 Occurs when the collection changes.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public event NotifyCollectionChangedEventHandler CollectionChangedPublic Event CollectionChanged As NotifyCollectionChangedEventHandler
-#### Value
+**Version:** 5.0.0.0 (5.0.0.0)
 
-Type: [System.Collections.Specialized..::.NotifyCollectionChangedEventHandler](http://msdn2.microsoft.com/en-us/library/ms628284)
-#### Implements
+## Syntax
 
-[INotifyCollectionChanged..::.CollectionChanged](http://msdn2.microsoft.com/en-us/library/ms653382)
+
+public event NotifyCollectionChangedEventHandler CollectionChangedPublic Event CollectionChanged As NotifyCollectionChangedEventHandler
+### Value
+
+Type: [System.Collections.Specialized.NotifyCollectionChangedEventHandler](http://msdn.microsoft.com/en-us/library/ms628284)
+### Implements
+
+[INotifyCollectionChanged.CollectionChanged](http://msdn.microsoft.com/en-us/library/ms653382)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ViewsCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewscollection)
 
 [ViewsCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewscollection)

@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg406140(v=PandP.40)'
 
 # Developer's Guide to Microsoft Prism
 
-![](https://msdn.microsoft.com/en-us/Gg406140.pnp-logo(en-us,PandP.40).png)
+![](guide/images/pattern-and-practices-logo.png)
 
 November 2010
 
@@ -225,4 +225,4 @@ Prism was produced by the following individuals:
 
 Bill Wilder of Fidelity Investments, Clifford Tiltman of Morgan Stanley, Rob Eisenberg of Blue Spire, Norman Headlam, Ward Bell of IdeaBlade, Paul Jackson of CM Group Ltd., John Papa of Microsoft, Julian Dominguez of Clarius Consulting, Ted Neveln of Ballard Indexing Services, Glenn Block of Microsoft, Michael Kenyon of IHS, Inc., Terry Young of PEER Group, Jason Beres of Infragistics, Peter Lindes of The Church of Jesus Christ of Latter-day Saints, Mark Tucker of Neudesic, LLC, David Platt of Rolling Thunder Computing, Steve Gentile of Strategic Data Systems, Markus Egger of EPS Software Corp. & CODE Magazine, Ryan Cromwell of Strategic Data Systems, Todd Neal of McKesson Corp, Dipesh Patel of Fidelity Investments, David Poll of Microsoft Corporation
 
-![](https://msdn.microsoft.com/en-us/Gg406140.pnp-logo(en-us,PandP.40).png)
+![](guide/images/pattern-and-practices-logo.png)

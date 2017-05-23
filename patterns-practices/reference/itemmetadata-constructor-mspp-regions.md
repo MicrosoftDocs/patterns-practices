@@ -13,21 +13,25 @@ ItemMetadata Constructor
 Initializes a new instance of [ItemMetadata](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemmetadata).
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public ItemMetadata( Object item )Public Sub New ( item As Object )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public ItemMetadata( Object item )Public Sub New ( item As Object )
+
+### Parameters
 
 item  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The item to wrap.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ItemMetadata Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemmetadata)
 
 [ItemMetadata Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.itemmetadata)

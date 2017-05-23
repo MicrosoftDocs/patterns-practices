@@ -10,7 +10,6 @@ Prism Class Library
 IRegionBehaviorCollection Properties
 ====================================
 
-
 The [IRegionBehaviorCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorcollection) type exposes the following members.
 
 Properties
@@ -44,7 +43,7 @@ Gets the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionBehaviorCollection Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorcollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

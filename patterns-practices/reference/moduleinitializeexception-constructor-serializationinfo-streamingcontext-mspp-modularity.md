@@ -14,10 +14,13 @@ Initializes a new instance with serialized data.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-Syntax
-------
+**Version:** 5.0.0.0 (5.0.0.0)
+
+
+## Syntax
+
 
 ```C#
 protected ModuleInitializeException(
@@ -32,24 +35,23 @@ Protected Sub New (
 	context As StreamingContext
 )
 ```
-#### Parameters
+
+### Parameters
 
 *info*  
-Type: [System.Runtime.Serialization.SerializationInfo](http://msdn2.microsoft.com/en-us/library/a9b6042e)
+Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)
 
-The [SerializationInfo](http://msdn2.microsoft.com/en-us/library/a9b6042e) that holds the serialized object data about the exception being thrown.
-
-<!-- -->
+The [SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e) that holds the serialized object data about the exception being thrown.
 
 *context*  
-Type: [System.Runtime.Serialization.StreamingContext](http://msdn2.microsoft.com/en-us/library/t16abws5)
+Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5)
 
-The [StreamingContext](http://msdn2.microsoft.com/en-us/library/t16abws5) that contains contextual information about the source or destination.
+The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that contains contextual information about the source or destination.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInitializeException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception(v=pandp.50))
 
 [ModuleInitializeException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception_members(v=pandp.50))

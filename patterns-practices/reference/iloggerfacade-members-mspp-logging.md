@@ -10,7 +10,6 @@ Prism Class Library
 ILoggerFacade Members
 =====================
 
-
 The [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade) type exposes the following members.
 
 Methods
@@ -44,7 +43,7 @@ Write a new log entry with the specified category and priority.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ILoggerFacade Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade)
 
 [Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.logging)

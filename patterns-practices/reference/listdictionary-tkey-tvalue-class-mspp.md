@@ -13,7 +13,9 @@ A dictionary of lists.
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -23,7 +25,7 @@ public sealed class ListDictionary<TKey, TValue> : IDictionary<TKey, IList<TValu
 	IEnumerable
 ```
 
-#### Type Parameters
+### Type Parameters
 
 *TKey*
 	
@@ -35,7 +37,7 @@ public sealed class ListDictionary<TKey, TValue> : IDictionary<TKey, IList<TValu
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)<br/>
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
     Microsoft.Practices.Prism.ListDictionary<TKey, TValue>
 
 ## See Also
@@ -43,15 +45,15 @@ public sealed class ListDictionary<TKey, TValue> : IDictionary<TKey, IList<TValu
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
     
 
-
-
 # ListDictionary(Of TKey, TValue) Class
 
 A dictionary of lists.
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -64,7 +66,7 @@ Public NotInheritable Class ListDictionary(Of TKey, TValue)
 	IEnumerable
 ```
 
-#### Type Parameters
+### Type Parameters
 
 *TKey*
 	
@@ -76,7 +78,7 @@ Public NotInheritable Class ListDictionary(Of TKey, TValue)
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)<br/>
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
   Microsoft.Practices.Prism.ListDictionary(Of TKey, TValue)
   
 

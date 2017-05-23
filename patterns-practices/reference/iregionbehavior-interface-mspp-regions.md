@@ -13,7 +13,9 @@ Interface for allowing extensible behavior on regions.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -27,7 +29,7 @@ Public Interface IRegionBehavior
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior_members(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))

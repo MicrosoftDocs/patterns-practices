@@ -11,7 +11,9 @@ Provides service location utilizing the Managed Extensibility Framework containe
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -27,7 +29,7 @@ Public Class MefServiceLocatorAdapter
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)</br>
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)</br>
   ServiceLocatorImplBase<br/>
     Microsoft.Practices.Prism.MefExtensions.MefServiceLocatorAdapter
 

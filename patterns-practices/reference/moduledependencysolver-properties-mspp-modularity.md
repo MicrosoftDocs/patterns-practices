@@ -10,7 +10,6 @@ Prism Class Library
 ModuleDependencySolver Properties
 =================================
 
-
 The [ModuleDependencySolver](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencysolver) type exposes the following members.
 
 Properties
@@ -44,7 +43,7 @@ Gets the number of modules added to the solver.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleDependencySolver Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencysolver)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

@@ -14,10 +14,13 @@ When no WindowContent is sent this method is used to create a default basic wind
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
-Syntax
-------
+**Version:** 5.0.0.0 (5.0.0.0)
+
+
+## Syntax
+
 
 ```C#
 protected Window CreateDefaultWindow(
@@ -31,7 +34,8 @@ Protected Function CreateDefaultWindow (
 ) As
 ```
 
-#### Parameters
+
+### Parameters
 
 *notification*
   
@@ -39,14 +43,14 @@ Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification]
 
 The INotification or IConfirmation parameter to show.
 
-#### Return Value
+### Return Value
 
-Type: [Window](http://msdn2.microsoft.com/en-us/library/ms590112)
+Type: [Window](http://msdn.microsoft.com/en-us/library/ms590112)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [PopupWindowAction Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction(v=pandp.50))
 
 [PopupWindowAction Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction_members(v=pandp.50))

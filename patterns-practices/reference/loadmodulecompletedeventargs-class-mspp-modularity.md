@@ -13,23 +13,26 @@ LoadModuleCompletedEventArgs Class
 Provides completion information after a module is loaded, or fails to load.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public class LoadModuleCompletedEventArgs : EventArgsPublic Class LoadModuleCompletedEventArgs Inherits EventArgs
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public class LoadModuleCompletedEventArgs : EventArgsPublic Class LoadModuleCompletedEventArgs Inherits EventArgs
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System..::.EventArgs](http://msdn2.microsoft.com/en-us/library/118wxtk3)
-    Microsoft.Practices.Prism.Modularity..::.LoadModuleCompletedEventArgs
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
+    Microsoft.Practices.Prism.Modularity.LoadModuleCompletedEventArgs
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [LoadModuleCompletedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.loadmodulecompletedeventargs)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

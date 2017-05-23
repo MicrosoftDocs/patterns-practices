@@ -10,7 +10,6 @@ Prism Class Library
 ModuleDependencyCollection Constructor
 ======================================
 
-
 Overload List
 -------------
 
@@ -38,7 +37,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/t:microsoft.pr
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419099.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduledependencycollection.">ModuleDependencyCollection(array&lt;ModuleDependencyConfigurationElement&gt;[]()[])</a></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduledependencycollection.">ModuleDependencyCollection(array&lt;ModuleDependencyConfigurationElement&gt;)</a></td>
 <td><div class="summary">
 Initializes a new instance of <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencycollection">ModuleDependencyCollection</a>.
 </div></td>
@@ -49,7 +48,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/t:microsoft.pr
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleDependencyCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencycollection)
 
 [ModuleDependencyCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencycollection)

@@ -22,7 +22,8 @@ public virtual void InvokeAction(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *action*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50))&gt;
@@ -66,7 +67,8 @@ Public Overridable Sub InvokeAction (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *action*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)))

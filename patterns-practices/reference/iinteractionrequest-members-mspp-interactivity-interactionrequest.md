@@ -10,7 +10,6 @@ Prism Class Library
 IInteractionRequest Members
 ===========================
 
-
 The [IInteractionRequest](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest) type exposes the following members.
 
 Events
@@ -44,7 +43,7 @@ Fired when the interaction is needed.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IInteractionRequest Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest)
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)

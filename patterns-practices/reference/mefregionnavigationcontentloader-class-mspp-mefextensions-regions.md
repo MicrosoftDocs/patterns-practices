@@ -7,12 +7,13 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431465(v=PandP.50)'
 
 # MefRegionNavigationContentLoader Class
 
-
 Exports the LocatorNavigationTargetHandler using the Managed Extensibility Framework (MEF).
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -33,7 +34,7 @@ Public Class MefRegionNavigationContentLoader
 Inheritance Hierarchy
 ---------------------
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)</br>
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)</br>
   [Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationcontentloader(v=pandp.50))<br/>
     Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationContentLoader
 

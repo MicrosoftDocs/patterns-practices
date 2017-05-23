@@ -13,33 +13,33 @@ NavigationContext Constructor (IRegionNavigationService, Uri, NavigationParamete
 Initializes a new instance of the [NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext) class for a region name and a [Uri](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.navigationcontext.uri).
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public NavigationContext( IRegionNavigationService navigationService, Uri uri, NavigationParameters navigationParameters )Public Sub New ( navigationService As IRegionNavigationService, uri As Uri, navigationParameters As NavigationParameters )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public NavigationContext( IRegionNavigationService navigationService, Uri uri, NavigationParameters navigationParameters )Public Sub New ( navigationService As IRegionNavigationService, uri As Uri, navigationParameters As NavigationParameters )
+
+### Parameters
 
 navigationService  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegionNavigationService](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationservice)
+Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationService](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationservice)
 The navigation service.
 
-<!-- -->
-
 uri  
-Type: [System..::.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 The Uri.
 
-<!-- -->
-
 navigationParameters  
-Type: [Microsoft.Practices.Prism.Regions..::.NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters)
+Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters)
 The navigation parameters.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [NavigationContext Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)
 
 [NavigationContext Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationcontext)

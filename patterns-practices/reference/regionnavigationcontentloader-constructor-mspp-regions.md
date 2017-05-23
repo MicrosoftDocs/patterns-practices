@@ -13,12 +13,16 @@ RegionNavigationContentLoader Constructor
 Initializes a new instance of the [RegionNavigationContentLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationcontentloader) class with a service locator.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public RegionNavigationContentLoader( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public RegionNavigationContentLoader( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
+
+### Parameters
 
 serviceLocator  
 Type: IServiceLocator
@@ -27,7 +31,7 @@ The service locator.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionNavigationContentLoader Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationcontentloader)
 
 [RegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationcontentloader)

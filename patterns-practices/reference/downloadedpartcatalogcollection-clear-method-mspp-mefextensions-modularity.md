@@ -13,7 +13,9 @@ Clears the collection of catalogs.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -27,7 +29,7 @@ Public Sub Clear
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [DownloadedPartCatalogCollection Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection(v=pandp.50))
 
 [DownloadedPartCatalogCollection Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection_members(v=pandp.50))

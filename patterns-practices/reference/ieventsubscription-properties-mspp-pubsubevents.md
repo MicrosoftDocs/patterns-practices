@@ -10,7 +10,6 @@ Prism Class Library
 IEventSubscription Properties
 =============================
 
-
 The [IEventSubscription](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription) type exposes the following members.
 
 Properties
@@ -44,7 +43,7 @@ Gets or sets a <a href="https://msdn.microsoft.com/p:microsoft.practices.prism.p
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IEventSubscription Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
