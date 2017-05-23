@@ -58,7 +58,7 @@ public DispatcherEventSubscription(
 </tr>
 <tr class="even">
 <td><a href="http://msdn2.microsoft.com/en-us/library/3w1b3114">System.ArgumentException</a></td>
-<td>When the target of actionReference is not of type <a href="http://msdn2.microsoft.com/en-us/library/018hxwa8">Action&gt;T&lt;</a>, or the target of filterReference is not of type <a href="http://msdn2.microsoft.com/en-us/library/bfcke1bz">Predicate&gt;T&lt;</a>.
+<td>When the target of actionReference is not of type <a href="http://msdn2.microsoft.com/en-us/library/018hxwa8">Action&lt;T&gt;</a>, or the target of filterReference is not of type <a href="http://msdn2.microsoft.com/en-us/library/bfcke1bz">Predicate&lt;T&gt;</a>.
 </tr>
 </tbody>
 </table>
