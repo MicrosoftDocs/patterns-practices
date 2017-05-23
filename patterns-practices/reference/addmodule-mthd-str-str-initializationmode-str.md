@@ -20,8 +20,22 @@ Adds a groupless [ModuleInfo](https://msdn.microsoft.com/t:microsoft.practices.p
 
 ## Syntax
 
-
-public ModuleCatalog AddModule( string moduleName, string moduleType, InitializationMode initializationMode, params string[] dependsOn )Public Function AddModule ( moduleName As String, moduleType As String, initializationMode As InitializationMode, ParamArray dependsOn As String() ) As ModuleCatalog
+```cs
+public ModuleCatalog AddModule(
+ string moduleName,
+ string moduleType,
+ InitializationMode initializationMode,
+ params string[] dependsOn
+)
+```
+```vb
+Public Function AddModule (
+ moduleName As String,
+ moduleType As String,
+ initializationMode As InitializationMode,
+ ParamArray dependsOn As String()
+) As ModuleCatalog
+```
 
 ### Parameters
 
