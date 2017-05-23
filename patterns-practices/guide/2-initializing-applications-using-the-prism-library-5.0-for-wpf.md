@@ -5,7 +5,7 @@ ms:assetid: 'ca61e2a4-bb4c-4833-be07-b3c0cddcddca'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430868(v=PandP.40)'
 ---
 
-#  Initializing Applications Using the Prism Library 5.0 for WPF
+# 2: Initializing Applications Using the Prism Library 5.0 for WPF
 
 From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
@@ -99,7 +99,7 @@ The **Bootstrapper** provides a protected **ModuleCatalog** property to referenc
     }
 ```
 
-In both the **UnityBootstrapper** and **MefBootstrapper** classes, the **Run** method calls the **CreateModuleCatalog** method and then sets the class's **ModuleCatalog** property using the returned value. If you override this method, it is not necessary to call the base class's implementation because you will replace the provided functionality. For more information about modularity, see "[Modular Application Development](/patterns-practices/guide/4-modular-application-development-using-prism-library-5.0-for-wpf(v=pandp.40))."
+In both the **UnityBootstrapper** and **MefBootstrapper** classes, the **Run** method calls the **CreateModuleCatalog** method and then sets the class's **ModuleCatalog** property using the returned value. If you override this method, it is not necessary to call the base class's implementation because you will replace the provided functionality. For more information about modularity, see "[Modular Application Development](/patterns-practices/guide/4-modular-application-development-using-prism-library-5.0-for-wpf)."
 
 ## Creating and Configuring the Container
 
@@ -223,7 +223,10 @@ After the container is created, it probably needs to be configured for your appl
         RegisterTypeIfMissing(typeof(IEventAggregator), typeof(EventAggregator), true);
         RegisterTypeIfMissing(typeof(IRegionViewRegistry), typeof(RegionViewRegistry), true);
         RegisterTypeIfMissing(typeof(IRegionBehaviorFactory), typeof(RegionBehaviorFactory), true);
-        RegisterTypeIfMissing(typeof(IRegionNavigationJournalEntry), typeof(RegionNavigationJournalEntry), false);RegisterTypeIfMissing(typeof(IRegionNavigationJournal), typeof(RegionNavigationJournal), false);RegisterTypeIfMissing(typeof(IRegionNavigationService), typeof(RegionNavigationService), false);RegisterTypeIfMissing(typeof(IRegionNavigationContentLoader), typeof(UnityRegionNavigationContentLoader), true);
+        RegisterTypeIfMissing(typeof(IRegionNavigationJournalEntry), typeof(RegionNavigationJournalEntry), false);
+        RegisterTypeIfMissing(typeof(IRegionNavigationJournal), typeof(RegionNavigationJournal), false);
+        RegisterTypeIfMissing(typeof(IRegionNavigationService), typeof(RegionNavigationService), false);
+        RegisterTypeIfMissing(typeof(IRegionNavigationContentLoader), typeof(UnityRegionNavigationContentLoader), true);
 
       }
     }
@@ -290,7 +293,8 @@ The **ConfigureAggregateCatalog** method allows you to add type registrations to
     // Module B and Module D are copied to a directory as part of a post-build step.
         // These modules are not referenced in the project and are discovered by inspecting a directory.
         // Both projects have a post-build step to copy themselves into that directory.
-        DirectoryCatalog catalog = new DirectoryCatalog("DirectoryModules");    this.AggregateCatalog.Catalogs.Add(catalog);
+        DirectoryCatalog catalog = new DirectoryCatalog("DirectoryModules");    
+        this.AggregateCatalog.Catalogs.Add(catalog);
     }
 ```
 

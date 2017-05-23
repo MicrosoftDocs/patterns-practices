@@ -149,5 +149,3 @@ The **IEventAggregator.GetEvent&lt;TEventBase&gt;** method adds the **new**() re
 ## Commands API Changes
 
 The **DelegateCommand** now checks for **Nullable&lt;T&gt;** or a reference type in the constructor. The constructor deliberately prevents the use of value types. Because **ICommand** takes an object, having a value type for **T** would cause unexpected behavior when **CanExecute(null)** is called during XAML initialization for command bindings. Using **default(T)** was not selected due to possible confusion in selecting the correct domain values when **ICommand** methods are invoked with null values. Instead, callers should support a value type by using a nullable value type and checking the **HasValue** property before using the **Value** property.
-
-Next Topic | Previous Topic | [Home](/patterns-practices/guide/developers-guide-to-microsoft-prism) | [Community](https://compositewpf.codeplex.com/)

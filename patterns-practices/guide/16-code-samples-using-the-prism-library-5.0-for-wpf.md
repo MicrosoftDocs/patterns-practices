@@ -5,9 +5,9 @@ ms:assetid: '93cb57bd-7652-4666-8d1a-2f0e71c8efe6'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430879(v=PandP.40)'
 ---
 
-# Code Samples Using the Prism Library 5.0 for WPF
+# 16: Code Samples Using the Prism Library 5.0 for WPF
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/guide/developers-guide-to-microsoft-prism)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
 The code samples for the Prism Library for WPF are focused applications that illustrate specific Prism-related concepts. The QuickStarts and Reference Implementation are an ideal starting point if you want to gain an understanding of a key concept such as Modularity, MVVM, Commands, UI Composition, Navigation, Event Aggregations, User Interactivity, and Composite Application. The Stock Trader Reference Implementation demonstrates proven practices for implementing composite applications. The samples include both source code and documentation.
 

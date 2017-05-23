@@ -111,7 +111,7 @@ During initialization, a type can register other types, such as views and servic
     }
 ```
 
-Depending on which container you use, registration can also be performed outside the code through configuration. For an example of this, see Registering Modules using a Configuration File in [Modular Application Development](/patterns-practices/guide/4-modular-application-development-using-prism-library-5.0-for-wpf(v=pandp.40)).
+Depending on which container you use, registration can also be performed outside the code through configuration. For an example of this, see Registering Modules using a Configuration File in [Modular Application Development](/patterns-practices/guide/4-modular-application-development-using-prism-library-5.0-for-wpf).
 
 > [!NOTE]
 > The advantage of registering in code, compared to configuration, is that the registration happens only if the module loads.
