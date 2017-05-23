@@ -10,14 +10,17 @@ Prism Class Library
 CompositePresentationEvent&lt;TPayload&gt;.Contains Method (Action&lt;TPayload&gt;)
 =====================================================================================================================
 
-Returns **truetrue** (**True** in Visual Basic) if there is a subscriber matching [Action&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8).
+Returns **truetrue** (**True** in Visual Basic) if there is a subscriber matching [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8).
 
 **Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-Syntax
-------
+**Version:** 5.0.0.0 (5.0.0.0)
+
+
+## Syntax
+
 
 ```C#
 public virtual bool Contains(
@@ -31,23 +34,24 @@ Public Overridable Function Contains (
 ) As Boolean
 ```
 
-#### Parameters
+
+### Parameters
 
 *subscriber*  
-Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))&gt;
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))&gt;
 
-The [Action&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8) used when subscribing to the event.
+The [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) used when subscribing to the event.
 
-#### Return Value
+### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
-**truetrue** (**True** in Visual Basic) if there is an [Action&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8) that matches; otherwise **falsefalse** (**False** in Visual Basic).
+**truetrue** (**True** in Visual Basic) if there is an [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) that matches; otherwise **falsefalse** (**False** in Visual Basic).
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [CompositePresentationEvent&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))
 
 [CompositePresentationEvent&lt;TPayload&gt; Members](https://msdn.microsoft.com/en-us/library/gg430765(v=pandp.50))

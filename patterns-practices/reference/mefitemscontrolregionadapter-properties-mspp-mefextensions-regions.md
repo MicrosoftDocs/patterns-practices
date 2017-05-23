@@ -10,7 +10,6 @@ Prism Class Library
 MefItemsControlRegionAdapter Properties
 =======================================
 
-
 The [MefItemsControlRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefitemscontrolregionadapter) type exposes the following members.
 
 Properties
@@ -45,7 +44,7 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefItemsControlRegionAdapter Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefitemscontrolregionadapter)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)

@@ -13,7 +13,9 @@ Initializes a new instance of [ModuleConfigurationElement](https://msdn.microsof
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -35,32 +37,27 @@ Public Sub New (
 	startupLoaded As Boolean
 )
 ```
-#### Parameters
+
+### Parameters
 
 *assemblyFile
 
-	Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+	Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 	The assembly file where the module is located.
-
-<!-- -->
 
 *moduleType 
 
-	Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+	Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 	The type of the module.
-
-<!-- -->
 
 *moduleName  
 
-	Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+	Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 	The name of the module.
-
-<!-- -->
 
 *startupLoaded 
 
-	Type: [System.Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+	Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 	This attribute specifies whether the module is loaded at startup.
 
 ## See Also

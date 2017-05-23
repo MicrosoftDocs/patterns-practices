@@ -7,22 +7,25 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405890(v=PandP.50)'
 
 Prism Class Library
 
-ModuleCatalog..::.ValidateDependencyGraph Method
+ModuleCatalog.ValidateDependencyGraph Method
 ================================================
 
 Ensures that there are no cyclic dependencies.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>protected virtual void ValidateDependencyGraph()Protected Overridable Sub ValidateDependencyGraph
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+protected virtual void ValidateDependencyGraph()Protected Overridable Sub ValidateDependencyGraph
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleCatalog Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)

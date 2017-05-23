@@ -14,17 +14,19 @@ Retrieves the moduleInfo.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
-Syntax
-------
+**Version:** 5.0.0.0 (5.0.0.0)
+
+
+## Syntax
+
 
 ```C#
 public virtual void LoadModuleType(
 	ModuleInfo moduleInfo
   )
 ```
-
 
 ```VB
 'Declaration
@@ -34,7 +36,7 @@ Public Overridable Sub LoadModuleType (
 ```
 
 
-#### Parameters
+### Parameters
 
 *moduleInfo*  
 
@@ -42,14 +44,14 @@ Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.c
 
 Module that should have it's type loaded.
 
-#### Implements
+### Implements
 
 [IModuleTypeLoader.LoadModuleType(ModuleInfo)](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader.loadmoduletype(v=pandp.50))
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefFileModuleTypeLoader Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader(v=pandp.50))
 
 [MefFileModuleTypeLoader Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader_members(v=pandp.50))

@@ -10,7 +10,6 @@ Prism Class Library
 PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
 =====================================================
 
-
 The [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.pubsubevent%601) type exposes the following members.
 
 Properties
@@ -53,7 +52,7 @@ Allows the SynchronizationContext to be set by the EventAggregator for UI Thread
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.pubsubevent%601)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)

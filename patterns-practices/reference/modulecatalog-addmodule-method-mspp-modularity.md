@@ -7,9 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419086(v=PandP.50)'
 
 Prism Class Library
 
-ModuleCatalog..::.AddModule Method
+ModuleCatalog.AddModule Method
 ==================================
-
 
 Overload List
 -------------
@@ -38,35 +37,35 @@ Adds a <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularit
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419086.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.modulecatalog.addmodule(system.type%2csystem.string%5b%5d)">AddModule(Type, array&lt;String&gt;[]()[])</a></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.modulecatalog.addmodule(system.type%2csystem.string%5b%5d)">AddModule(Type, array&lt;String&gt;)</a></td>
 <td><div class="summary">
 Adds a groupless <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a> to the catalog.
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419086.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.modulecatalog.addmodule(system.string%2csystem.string%2csystem.string%5b%5d)">AddModule(String, String, array&lt;String&gt;[]()[])</a></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.modulecatalog.addmodule(system.string%2csystem.string%2csystem.string%5b%5d)">AddModule(String, String, array&lt;String&gt;)</a></td>
 <td><div class="summary">
 Adds a groupless <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a> to the catalog.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419086.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.modulecatalog.addmodule(system.type%2cmicrosoft.practices.prism.modularity.initializationmode%2csystem.string%5b%5d)">AddModule(Type, InitializationMode, array&lt;String&gt;[]()[])</a></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.modulecatalog.addmodule(system.type%2cmicrosoft.practices.prism.modularity.initializationmode%2csystem.string%5b%5d)">AddModule(Type, InitializationMode, array&lt;String&gt;)</a></td>
 <td><div class="summary">
 Adds a groupless <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a> to the catalog.
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419086.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.modulecatalog.addmodule(system.string%2csystem.string%2cmicrosoft.practices.prism.modularity.initializationmode%2csystem.string%5b%5d)">AddModule(String, String, InitializationMode, array&lt;String&gt;[]()[])</a></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.modulecatalog.addmodule(system.string%2csystem.string%2cmicrosoft.practices.prism.modularity.initializationmode%2csystem.string%5b%5d)">AddModule(String, String, InitializationMode, array&lt;String&gt;)</a></td>
 <td><div class="summary">
 Adds a groupless <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a> to the catalog.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419086.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.modulecatalog.addmodule(system.string%2csystem.string%2csystem.string%2cmicrosoft.practices.prism.modularity.initializationmode%2csystem.string%5b%5d)">AddModule(String, String, String, InitializationMode, array&lt;String&gt;[]()[])</a></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.modulecatalog.addmodule(system.string%2csystem.string%2csystem.string%2cmicrosoft.practices.prism.modularity.initializationmode%2csystem.string%5b%5d)">AddModule(String, String, String, InitializationMode, array&lt;String&gt;)</a></td>
 <td><div class="summary">
 Adds a groupless <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a> to the catalog.
 </div></td>
@@ -77,7 +76,7 @@ Adds a groupless <a href="https://msdn.microsoft.com/t:microsoft.practices.prism
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleCatalog Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)

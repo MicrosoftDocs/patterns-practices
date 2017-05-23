@@ -13,16 +13,19 @@ FileModuleTypeLoader Constructor
 Initializes a new instance of the [FileModuleTypeLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.filemoduletypeloader) class.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public FileModuleTypeLoader()Public Sub New
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public FileModuleTypeLoader()Public Sub New
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [FileModuleTypeLoader Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.filemoduletypeloader)
 
 [FileModuleTypeLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.filemoduletypeloader)

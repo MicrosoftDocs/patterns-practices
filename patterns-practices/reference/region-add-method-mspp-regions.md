@@ -7,9 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419141(v=PandP.50)'
 
 Prism Class Library
 
-Region..::.Add Method
+Region.Add Method
 =====================
-
 
 Adds a new view to the region.
 
@@ -58,7 +57,7 @@ Adds a new view to the region.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [Region Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.region)
 
 [Region Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.region)

@@ -34,7 +34,7 @@ Classes
 <td><img src="https://msdn.microsoft.com/en-us/Dn736243.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.bindablebase">BindableBase</a></td>
 <td><div class="summary">
-Implementation of <a href="http://msdn2.microsoft.com/en-us/library/ms133020">INotifyPropertyChanged</a> to simplify models.
+Implementation of <a href="http://msdn.microsoft.com/en-us/library/ms133020">INotifyPropertyChanged</a> to simplify models.
 </div></td>
 </tr>
 <tr class="even">

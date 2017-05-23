@@ -7,36 +7,40 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405845(v=PandP.50)'
 
 Prism Class Library
 
-AssemblyResolver..::.LoadAssemblyFrom Method
+AssemblyResolver.LoadAssemblyFrom Method
 ============================================
 
 Registers the specified assembly and resolves the types in it when the AppDomain requests for it.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public void LoadAssemblyFrom( string assemblyFilePath )Public Sub LoadAssemblyFrom ( assemblyFilePath As String )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public void LoadAssemblyFrom( string assemblyFilePath )Public Sub LoadAssemblyFrom ( assemblyFilePath As String )
+
+### Parameters
 
 assemblyFilePath  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The path to the assemly to load in the LoadFrom context.
 
-#### Implements
+### Implements
 
-[IAssemblyResolver..::.LoadAssemblyFrom(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.iassemblyresolver.loadassemblyfrom(system.string))
+[IAssemblyResolver.LoadAssemblyFrom(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.iassemblyresolver.loadassemblyfrom(system.string))
 
 Remarks
 -------
 
-<span id="remarksToggle"></span>This method does not load the assembly immediately, but lazily until someone requests a [Type](http://msdn2.microsoft.com/en-us/library/42892f65) declared in the assembly.
+<span id="remarksToggle"></span>This method does not load the assembly immediately, but lazily until someone requests a [Type](http://msdn.microsoft.com/en-us/library/42892f65) declared in the assembly.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [AssemblyResolver Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.assemblyresolver)
 
 [AssemblyResolver Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.assemblyresolver)

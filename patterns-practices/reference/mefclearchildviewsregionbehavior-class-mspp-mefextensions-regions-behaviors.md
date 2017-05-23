@@ -13,11 +13,14 @@ MefClearChildViewsRegionBehavior Class
 Exports the ClearChildViewsRegionBehavior using the Managed Extensibility Framework (MEF).
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions.behaviors)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
-<span id="syntaxToggle"></span>public class MefClearChildViewsRegionBehavior : ClearChildViewsRegionBehaviorPublic Class MefClearChildViewsRegionBehavior Inherits ClearChildViewsRegionBehavior
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public class MefClearChildViewsRegionBehavior : ClearChildViewsRegionBehaviorPublic Class MefClearChildViewsRegionBehavior Inherits ClearChildViewsRegionBehavior
 
 Remarks
 -------
@@ -27,15 +30,15 @@ Remarks
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft.Practices.Prism.Regions..::.RegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehavior)
-    [Microsoft.Practices.Prism.Regions.Behaviors..::.ClearChildViewsRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
-      Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors..::.MefClearChildViewsRegionBehavior
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [Microsoft.Practices.Prism.Regions.RegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehavior)
+    [Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
+      Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefClearChildViewsRegionBehavior
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefClearChildViewsRegionBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions.behaviors)

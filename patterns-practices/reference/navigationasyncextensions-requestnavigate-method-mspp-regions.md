@@ -7,9 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419135(v=PandP.50)'
 
 Prism Class Library
 
-NavigationAsyncExtensions..::.RequestNavigate Method
+NavigationAsyncExtensions.RequestNavigate Method
 ====================================================
-
 
 Overload List
 -------------
@@ -40,7 +39,7 @@ Initiates navigation to the target specified by the target.
 <td><img src="https://msdn.microsoft.com/en-us/Gg419135.pubmethod(en-us,PandP.50).gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg419135.static(en-us,PandP.50).gif" title="Static member" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.navigationasyncextensions.requestnavigate(microsoft.practices.prism.regions.inavigateasync%2csystem.uri)">RequestNavigate(INavigateAsync, Uri)</a></td>
 <td><div class="summary">
-Initiates navigation to the target specified by the <a href="http://msdn2.microsoft.com/en-us/library/txt7706a">Uri</a>.
+Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a">Uri</a>.
 </div></td>
 </tr>
 <tr class="odd">
@@ -77,7 +76,7 @@ Initiates navigation to the target specified by the target.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [NavigationAsyncExtensions Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationasyncextensions)
 
 [NavigationAsyncExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationasyncextensions)

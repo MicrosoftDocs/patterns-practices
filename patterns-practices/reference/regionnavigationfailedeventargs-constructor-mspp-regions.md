@@ -10,7 +10,6 @@ Prism Class Library
 RegionNavigationFailedEventArgs Constructor
 ===========================================
 
-
 Overload List
 -------------
 
@@ -49,7 +48,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/t:microsof
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionNavigationFailedEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationfailedeventargs)
 
 [RegionNavigationFailedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationfailedeventargs)

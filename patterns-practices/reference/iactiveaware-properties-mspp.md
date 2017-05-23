@@ -10,7 +10,6 @@ Prism Class Library
 IActiveAware Properties
 =======================
 
-
 The [IActiveAware](https://msdn.microsoft.com/t:microsoft.practices.prism.iactiveaware) type exposes the following members.
 
 Properties
@@ -44,7 +43,7 @@ Gets or sets a value indicating whether the object is active.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IActiveAware Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.iactiveaware)
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)

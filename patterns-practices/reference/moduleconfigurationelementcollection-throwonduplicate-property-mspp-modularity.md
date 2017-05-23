@@ -14,10 +14,13 @@ Gets a value indicating whether an exception should be raised if a duplicate ele
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-Syntax
-------
+**Version:** 5.0.0.0 (5.0.0.0)
+
+
+## Syntax
+
 
 ```C#
      protected override bool ThrowOnDuplicate { get; }
@@ -28,16 +31,16 @@ Syntax
 	     Get
 ```
 
-#### Property Value
+### Property Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
-A [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50) value.
+A [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50) value.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection(v=pandp.50))
 
 [ModuleConfigurationElementCollection Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection_members(v=pandp.50))

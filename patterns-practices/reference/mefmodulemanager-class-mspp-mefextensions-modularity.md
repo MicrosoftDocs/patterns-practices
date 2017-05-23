@@ -15,7 +15,9 @@ Component responsible for coordinating the modules' type loading and module init
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -41,7 +43,7 @@ Public Class MefModuleManager
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
   [Microsoft.Practices.Prism.Modularity.ModuleManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager(v=pandp.50))
   

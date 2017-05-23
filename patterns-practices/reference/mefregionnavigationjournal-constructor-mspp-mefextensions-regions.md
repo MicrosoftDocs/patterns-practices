@@ -13,16 +13,19 @@ MefRegionNavigationJournal Constructor
 Initializes a new instance of the [MefRegionNavigationJournal](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal) class
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
-<span id="syntaxToggle"></span>public MefRegionNavigationJournal()Public Sub New
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public MefRegionNavigationJournal()Public Sub New
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefRegionNavigationJournal Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal)
 
 [MefRegionNavigationJournal Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal)

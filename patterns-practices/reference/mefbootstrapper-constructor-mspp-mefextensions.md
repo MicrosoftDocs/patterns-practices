@@ -13,16 +13,19 @@ MefBootstrapper Constructor
 Initializes a new instance of the [MefBootstrapper](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.mefbootstrapper) class
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
-<span id="syntaxToggle"></span>protected MefBootstrapper()Protected Sub New
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+protected MefBootstrapper()Protected Sub New
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefBootstrapper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.mefbootstrapper)
 
 [MefBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.mefbootstrapper)

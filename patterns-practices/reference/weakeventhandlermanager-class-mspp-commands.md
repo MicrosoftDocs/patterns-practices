@@ -16,6 +16,7 @@ Handles management and dispatching of EventHandlers in a weak way.
 
 ## Syntax
 
+
 ```C#
 public static class WeakEventHandlerManager
 ```
@@ -26,13 +27,27 @@ Public NotInheritable Class WeakEventHandlerManager
 ```
 
 ## Inheritance Hierarchy
+=======
+
+public static class WeakEventHandlerManagerPublic NotInheritable Class WeakEventHandlerManager
+
 
 [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 
+
 Microsoft.Practices.Prism.Commands.WeakEventHandlerManager
+=======
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  Microsoft.Practices.Prism.Commands.WeakEventHandlerManager
+
 
 ## See Also
 
+
 [WeakEventHandlerManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager_members(v=pandp.50))
+=======
+
+[WeakEventHandlerManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.weakeventhandlermanager)
+
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))

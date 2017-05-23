@@ -10,24 +10,28 @@ Prism Class Library
 ModuleInitializer.CreateModule Method (ModuleInfo)
 ======================================================
 
-Uses the container to resolve a new [IModule](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodule(v=pandp.50)) by specifying its [Type](http://msdn2.microsoft.com/en-us/library/42892f65).
+Uses the container to resolve a new [IModule](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodule(v=pandp.50)) by specifying its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-Syntax
-------
+**Version:** 5.0.0.0 (5.0.0.0)
 
-<span id="syntaxToggle"></span>protected virtual IModule CreateModule( ModuleInfo moduleInfo )Protected Overridable Function CreateModule ( moduleInfo As ModuleInfo ) As IModule
-#### Parameters
+
+## Syntax
+
+
+protected virtual IModule CreateModule( ModuleInfo moduleInfo )Protected Overridable Function CreateModule ( moduleInfo As ModuleInfo ) As IModule
+
+### Parameters
 
 moduleInfo  
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))
 
 The module to create.
 
-#### Return Value
+### Return Value
 
 Type: [IModule](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodule(v=pandp.50))
 
@@ -36,7 +40,7 @@ A new instance of the module specified by moduleInfo.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleInitializer Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer(v=pandp.50))
 
 [ModuleInitializer Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer_members(v=pandp.50))

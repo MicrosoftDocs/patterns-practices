@@ -13,7 +13,9 @@ Creates a new instance of ConfirmationChildWindow.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -27,7 +29,7 @@ Public Sub New
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [DefaultConfirmationWindow Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow(v=pandp.50))
 
 [DefaultConfirmationWindow Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow_members(v=pandp.50))

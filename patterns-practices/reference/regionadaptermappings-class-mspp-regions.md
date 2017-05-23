@@ -10,26 +10,29 @@ Prism Class Library
 RegionAdapterMappings Class
 ===========================
 
-This class maps [Type](http://msdn2.microsoft.com/en-us/library/42892f65) with [IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter).
+This class maps [Type](http://msdn.microsoft.com/en-us/library/42892f65) with [IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter).
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public class RegionAdapterMappingsPublic Class RegionAdapterMappings
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public class RegionAdapterMappingsPublic Class RegionAdapterMappings
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.Regions..::.RegionAdapterMappings
-    [Microsoft.Practices.Prism.MefExtensions.Regions..::.MefRegionAdapterMappings](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  Microsoft.Practices.Prism.Regions.RegionAdapterMappings
+    [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionAdapterMappings](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionAdapterMappings Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionadaptermappings)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

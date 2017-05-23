@@ -10,7 +10,6 @@ Prism Class Library
 PopupWindowAction Fields
 ========================
 
-
 The [PopupWindowAction](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.popupwindowaction) type exposes the following members.
 
 Fields
@@ -58,7 +57,7 @@ The content of the child window to display as part of the popup.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [PopupWindowAction Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.popupwindowaction)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)

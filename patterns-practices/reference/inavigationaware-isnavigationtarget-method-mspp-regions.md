@@ -9,12 +9,13 @@ Prism Class Library
 
 # INavigationAware.IsNavigationTarget Method
 
-
 Called to determine if this instance can handle the navigation request.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -24,7 +25,8 @@ bool IsNavigationTarget(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *navigationContext*  
 
@@ -32,12 +34,11 @@ Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microso
 
 The navigation context.
 
-#### Return Value
+### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 **trueTrue** (**True** in Visual Basic) if this instance accepts the navigation request; otherwise, **falsefalse** (**False** in Visual Basic).
-
 
 ```VB
 'Declaration
@@ -47,7 +48,7 @@ Function IsNavigationTarget (
 ```
 
 
-#### Parameters
+### Parameters
 
 *navigationContext*  
 
@@ -55,15 +56,15 @@ Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microso
 
 The navigation context.
 
-#### Return Value
+### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 **truetrue** (**True** in Visual Basic) if this instance accepts the navigation request; otherwise, **falsefalse** (**False** in Visual Basic).
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [INavigationAware Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigationaware(v=pandp.50))
 
 [INavigationAware Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigationaware_members(v=pandp.50))

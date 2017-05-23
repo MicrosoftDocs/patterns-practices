@@ -7,24 +7,28 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405966(v=PandP.50)'
 
 Prism Class Library
 
-IRegionManagerAccessor..::.GetRegionManager Method
+IRegionManagerAccessor.GetRegionManager Method
 ==================================================
 
 Gets the value of the RegionName attached property.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>IRegionManager GetRegionManager( DependencyObject element )Function GetRegionManager ( element As DependencyObject ) As IRegionManager
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+IRegionManager GetRegionManager( DependencyObject element )Function GetRegionManager ( element As DependencyObject ) As IRegionManager
+
+### Parameters
 
 element  
-Type: [System.Windows..::.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
+Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
 The target element.
 
-#### Return Value
+### Return Value
 
 Type: [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
 The [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager) attached to the element element.
@@ -32,7 +36,7 @@ The [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regi
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionManagerAccessor Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanageraccessor)
 
 [IRegionManagerAccessor Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionmanageraccessor)

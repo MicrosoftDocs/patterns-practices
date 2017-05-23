@@ -10,7 +10,6 @@ Prism Class Library
 RegionNavigationFailedEventArgs Properties
 ==========================================
 
-
 The [RegionNavigationFailedEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationfailedeventargs) type exposes the following members.
 
 Properties
@@ -58,7 +57,7 @@ Gets the navigation URI
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionNavigationFailedEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationfailedeventargs)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

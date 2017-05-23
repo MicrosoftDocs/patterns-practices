@@ -14,7 +14,9 @@ Fired when the interaction is needed.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -27,13 +29,13 @@ event EventHandler<InteractionRequestedEventArgs> Raised
 Event Raised As EventHandler(Of InteractionRequestedEventArgs)
 ```
 
-#### Value
+### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)(Of [InteractionRequestedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs(v=pandp.50)))
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [InteractionRequestedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs(v=pandp.50)))
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [IInteractionRequest Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest(v=pandp.50))
 
 [IInteractionRequest Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest_members(v=pandp.50))

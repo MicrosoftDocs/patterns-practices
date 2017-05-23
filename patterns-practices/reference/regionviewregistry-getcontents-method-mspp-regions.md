@@ -7,35 +7,39 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418980(v=PandP.50)'
 
 Prism Class Library
 
-RegionViewRegistry..::.GetContents Method
+RegionViewRegistry.GetContents Method
 =========================================
 
 Returns the contents registered for a region.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public IEnumerable&lt;Object&gt; GetContents( string regionName )Public Function GetContents ( regionName As String ) As IEnumerable(Of Object)
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public IEnumerable&lt;Object&gt; GetContents( string regionName )Public Function GetContents ( regionName As String ) As IEnumerable(Of Object)
+
+### Parameters
 
 regionName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Name of the region which content is being requested.
 
-#### Return Value
+### Return Value
 
-Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 Collection of contents registered for the region.
-#### Implements
+### Implements
 
-[IRegionViewRegistry..::.GetContents(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionviewregistry.getcontents(system.string))
+[IRegionViewRegistry.GetContents(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionviewregistry.getcontents(system.string))
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionViewRegistry Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionviewregistry)
 
 [RegionViewRegistry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionviewregistry)

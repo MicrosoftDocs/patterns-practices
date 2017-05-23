@@ -10,7 +10,6 @@ Prism Class Library
 DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Constructor
 ===================================================
 
-
 Overload List
 -------------
 
@@ -49,7 +48,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/t:microsoft.pr
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601)
 
 [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand%601)

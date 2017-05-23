@@ -10,7 +10,6 @@ Prism Class Library
 RegionViewRegistry Events
 =========================
 
-
 The [RegionViewRegistry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionviewregistry) type exposes the following members.
 
 Events
@@ -44,7 +43,7 @@ Occurs whenever a new view is registered.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionViewRegistry Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionviewregistry)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

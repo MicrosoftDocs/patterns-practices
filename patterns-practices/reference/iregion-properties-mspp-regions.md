@@ -10,7 +10,6 @@ Prism Class Library
 IRegion Properties
 ==================
 
-
 The [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) type exposes the following members.
 
 Properties
@@ -93,7 +92,7 @@ Gets a readonly view of the collection of views in the region.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegion Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

@@ -10,27 +10,30 @@ Prism Class Library
 ModulesConfigurationSection Class
 =================================
 
-A [ConfigurationSection](http://msdn2.microsoft.com/en-us/library/x0kca287) for module configuration.
+A [ConfigurationSection](http://msdn.microsoft.com/en-us/library/x0kca287) for module configuration.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public class ModulesConfigurationSection : ConfigurationSectionPublic Class ModulesConfigurationSection Inherits ConfigurationSection
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public class ModulesConfigurationSection : ConfigurationSectionPublic Class ModulesConfigurationSection Inherits ConfigurationSection
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System.Configuration..::.ConfigurationElement](http://msdn2.microsoft.com/en-us/library/kyx77cz3)
-    [System.Configuration..::.ConfigurationSection](http://msdn2.microsoft.com/en-us/library/x0kca287)
-      Microsoft.Practices.Prism.Modularity..::.ModulesConfigurationSection
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [System.Configuration.ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3)
+    [System.Configuration.ConfigurationSection](http://msdn.microsoft.com/en-us/library/x0kca287)
+      Microsoft.Practices.Prism.Modularity.ModulesConfigurationSection
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModulesConfigurationSection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulesconfigurationsection)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)

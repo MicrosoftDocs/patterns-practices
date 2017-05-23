@@ -14,20 +14,22 @@ Initializes a new instance of the [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)](http
 
 **Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/n:microsoft.practices.prism.viewmodel)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
 
-<span id="syntaxToggle"></span>public ErrorsContainer( Action&lt;string&gt; raiseErrorsChanged )Public Sub New ( raiseErrorsChanged As Action(Of String) )
-#### Parameters
+## Syntax
+
+
+public ErrorsContainer( Action&lt;string&gt; raiseErrorsChanged )Public Sub New ( raiseErrorsChanged As Action(Of String) )
+
+### Parameters
 
 raiseErrorsChanged  
-Type: [System..::.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)&gt;)&gt;)
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)&gt;)&gt;)
 The action that invoked if when errors are added for an object./&gt; event.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.errorscontainer%601)
 
 [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.viewmodel.errorscontainer%601)

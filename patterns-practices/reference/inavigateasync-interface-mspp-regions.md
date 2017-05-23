@@ -13,11 +13,14 @@ INavigateAsync Interface
 Provides methods to perform navigation.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public interface INavigateAsyncPublic Interface INavigateAsync
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public interface INavigateAsyncPublic Interface INavigateAsync
 
 Remarks
 -------
@@ -27,7 +30,7 @@ Remarks
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [INavigateAsync Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.inavigateasync)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

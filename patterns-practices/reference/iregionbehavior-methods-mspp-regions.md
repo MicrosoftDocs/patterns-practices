@@ -10,7 +10,6 @@ Prism Class Library
 IRegionBehavior Methods
 =======================
 
-
 The [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior) type exposes the following members.
 
 Methods
@@ -44,7 +43,7 @@ Attaches the behavior to the specified region.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionBehavior Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

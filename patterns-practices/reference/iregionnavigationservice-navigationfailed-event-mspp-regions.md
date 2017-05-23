@@ -11,24 +11,26 @@ Raised when a navigation request fails.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 # Syntax
 ```c#
 event EventHandler<RegionNavigationFailedEventArgs> NavigationFailed
 ```
-#### Value
+### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)&lt;[RegionNavigationFailedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs(v=pandp.50))&gt;
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[RegionNavigationFailedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs(v=pandp.50))&gt;
 
 # Syntax
 ```VB
 'Declaration
 Event NavigationFailed As EventHandler(Of RegionNavigationFailedEventArgs)
 ```
-#### Value
+### Value
 
-Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)(Of [RegionNavigationFailedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs(v=pandp.50)))
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [RegionNavigationFailedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs(v=pandp.50)))
 
 ## See Also
 

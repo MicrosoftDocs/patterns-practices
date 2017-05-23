@@ -9,15 +9,36 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419084(v=PandP.50)'
 
 ## Overload List
 
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Gg419084.pubmethod(en-us,PandP.50).gif "Public method")
-[Dispose()](https://msdn.microsoft.com/en-us/library/gg405851(v=pandp.50))
+<table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg419084.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.filemoduletypeloader.dispose">Dispose()()()</a></td>
+<td><div class="summary">
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
-
-![](https://msdn.microsoft.com/en-us/Gg419084.protmethod(en-us,PandP.50).gif "Protected method")
-[Dispose(Boolean)](https://msdn.microsoft.com/en-us/library/gg405852(v=pandp.50))
-Disposes the associated [AssemblyResolver](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.assemblyresolver(v=pandp.50)).
+</div></td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Gg419084.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.filemoduletypeloader.dispose(system.boolean)">Dispose(Boolean)</a></td>
+<td><div class="summary">
+Disposes the associated <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.assemblyresolver">AssemblyResolver</a>.
+</div></td>
+</tr>
+</tbody>
+</table>
 
 ## See Also
 

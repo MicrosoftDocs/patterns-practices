@@ -7,9 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736149(v=PandP.50)'
 
 Prism Class Library
 
-BindableBase..::.OnPropertyChanged Method
+BindableBase.OnPropertyChanged Method
 =========================================
-
 
 Overload List
 -------------
@@ -49,7 +48,7 @@ Notifies listeners that a property value has changed.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [BindableBase Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.bindablebase)
 
 [BindableBase Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mvvm.bindablebase)

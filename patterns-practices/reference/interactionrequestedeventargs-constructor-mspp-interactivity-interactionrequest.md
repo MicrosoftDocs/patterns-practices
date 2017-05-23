@@ -11,7 +11,9 @@ Constructs a new instance of [InteractionRequestedEventArgs](https://msdn.micros
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -30,7 +32,8 @@ Public Sub New (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *context*
 
@@ -38,7 +41,7 @@ Public Sub New (
 
 *callback*
 
-	Type: [System.Action](http://msdn2.microsoft.com/en-us/library/bb534741)
+	Type: [System.Action](http://msdn.microsoft.com/en-us/library/bb534741)
 
 ## See Also
 

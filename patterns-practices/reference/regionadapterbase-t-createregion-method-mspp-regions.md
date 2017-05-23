@@ -14,10 +14,13 @@ Template method to create a new instance of [IRegion](https://msdn.microsoft.com
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-Syntax
-------
+**Version:** 5.0.0.0 (5.0.0.0)
+
+
+## Syntax
+
 
 ```C#
     protected abstract IRegion CreateRegion()
@@ -27,8 +30,7 @@ Syntax
     Protected MustOverride Function CreateRegion As IRegion
 ```
 
-
-#### Return Value
+### Return Value
 
 Type: [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50))
 
@@ -37,7 +39,7 @@ A new instance of [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.p
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [RegionAdapterBase(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431546(v=pandp.50))
 
 [RegionAdapterBase(Of T) Members](https://msdn.microsoft.com/en-us/library/gg405501(v=pandp.50))

@@ -20,21 +20,20 @@ public static void Register(
 	Func<Object> factory
 )
 ```
-#### Parameters
+
+### Parameters
 
 *viewTypeName*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The name of the view type.
 
 *factory*  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb534960)&lt;[Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The viewmodel factory.
-
-
 
 ## Syntax
 
@@ -46,17 +45,18 @@ Public Shared Sub Register (
 )
 )
 ```
-#### Parameters
+
+### Parameters
 
 *viewTypeName*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The name of the view type.
 
 *factory*  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Func](http://msdn2.microsoft.com/en-us/library/bb534960)( Of [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)( Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The viewmodel factory.
 

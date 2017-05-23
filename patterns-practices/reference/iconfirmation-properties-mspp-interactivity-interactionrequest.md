@@ -10,7 +10,6 @@ Prism Class Library
 IConfirmation Properties
 ========================
 
-
 The [IConfirmation](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iconfirmation) type exposes the following members.
 
 Properties
@@ -60,7 +59,7 @@ Gets or sets the title to use for the notification.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IConfirmation Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iconfirmation)
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)

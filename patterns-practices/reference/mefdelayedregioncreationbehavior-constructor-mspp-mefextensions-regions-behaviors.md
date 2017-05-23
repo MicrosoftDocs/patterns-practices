@@ -13,21 +13,25 @@ MefDelayedRegionCreationBehavior Constructor
 Initializes a new instance of the [MefDelayedRegionCreationBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior) class.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions.behaviors)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
-<span id="syntaxToggle"></span>public MefDelayedRegionCreationBehavior( RegionAdapterMappings regionAdapterMappings )Public Sub New ( regionAdapterMappings As RegionAdapterMappings )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public MefDelayedRegionCreationBehavior( RegionAdapterMappings regionAdapterMappings )Public Sub New ( regionAdapterMappings As RegionAdapterMappings )
+
+### Parameters
 
 regionAdapterMappings  
-Type: [Microsoft.Practices.Prism.Regions..::.RegionAdapterMappings](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionadaptermappings)
+Type: [Microsoft.Practices.Prism.Regions.RegionAdapterMappings](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionadaptermappings)
 The region adapter mappings, that are used to find the correct adapter for a given controltype. The controltype is determined by the value.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [MefDelayedRegionCreationBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior)
 
 [MefDelayedRegionCreationBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior)

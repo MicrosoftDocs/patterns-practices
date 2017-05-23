@@ -10,7 +10,6 @@ Prism Class Library
 INotification Properties
 ========================
 
-
 The [INotification](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.inotification) type exposes the following members.
 
 Properties
@@ -51,7 +50,7 @@ Gets or sets the title to use for the notification.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [INotification Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.inotification)
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)

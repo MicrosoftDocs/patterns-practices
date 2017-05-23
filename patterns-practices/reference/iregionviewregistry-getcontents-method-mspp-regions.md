@@ -7,32 +7,36 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405974(v=PandP.50)'
 
 Prism Class Library
 
-IRegionViewRegistry..::.GetContents Method
+IRegionViewRegistry.GetContents Method
 ==========================================
 
 Returns the contents associated with a region name.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>IEnumerable&lt;Object&gt; GetContents( string regionName )Function GetContents ( regionName As String ) As IEnumerable(Of Object)
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+IEnumerable&lt;Object&gt; GetContents( string regionName )Function GetContents ( regionName As String ) As IEnumerable(Of Object)
+
+### Parameters
 
 regionName  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Region name for which contents are requested.
 
-#### Return Value
+### Return Value
 
-Type: [IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 Collection of contents associated with the regionName.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionViewRegistry Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionviewregistry)
 
 [IRegionViewRegistry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionviewregistry)

@@ -7,18 +7,21 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431355(v=PandP.50)'
 
 Prism Class Library
 
-IRegion..::.Views Property
+IRegion.Views Property
 ==========================
 
 Gets a readonly view of the collection of views in the region.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>IViewsCollection Views { get; }ReadOnly Property Views As IViewsCollection Get
-#### Property Value
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+IViewsCollection Views { get; }ReadOnly Property Views As IViewsCollection Get
+### Property Value
 
 Type: [IViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iviewscollection)
 An [IViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iviewscollection) of all the added views.
@@ -26,7 +29,7 @@ An [IViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.reg
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegion Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
 
 [IRegion Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregion)

@@ -10,7 +10,6 @@ Prism Class Library
 NavigationContext Properties
 ============================
 
-
 The [NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext) type exposes the following members.
 
 Properties
@@ -58,7 +57,7 @@ Gets the navigation URI.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [NavigationContext Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)

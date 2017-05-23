@@ -26,9 +26,9 @@ public virtual void Dispose()
 Public Overridable Sub Dispose
 ```
 
-#### Implements
+### Implements
 
-[IDisposable.Dispose](http://msdn2.microsoft.com/en-us/library/es4s3w1d)
+[IDisposable.Dispose](http://msdn.microsoft.com/en-us/library/es4s3w1d)
 
 ## See Also
 
