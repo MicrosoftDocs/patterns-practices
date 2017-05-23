@@ -43,8 +43,25 @@ public DispatcherEventSubscription(
 
 ## Exceptions
 
-| Exception | Condition                                                                                                                              | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | When *actionReference* or are **null**a null reference (**Nothing** in Visual Basic).                                                                                                                                                           |
-| [System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114) | When the target of *actionReference* is not of type [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8), or the target of *filterReference* is not of type [Predicate&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz). |
+<table>
+<thead>
+<tr class="header">
+<th>Exception</th>
+<th>Condition</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="http://msdn2.microsoft.com/en-us/library/27426hcy">System.ArgumentNullException</a></td>
+<td>When actionReference or are **Nothinga** null reference (**Nothing** in Visual Basic).
+</td>
+</tr>
+<tr class="even">
+<td><a href="http://msdn2.microsoft.com/en-us/library/3w1b3114">System.ArgumentException</a></td>
+<td>When the target of actionReference is not of type <a href="http://msdn2.microsoft.com/en-us/library/018hxwa8">Action&gt;T&lt;</a>, or the target of filterReference is not of type <a href="http://msdn2.microsoft.com/en-us/library/bfcke1bz">Predicate&gt;T&lt;</a>.
+</tr>
+</tbody>
+</table>
 
 ## See Also
 
@@ -93,9 +110,25 @@ Public Sub New (
 
 ## Exceptions
 
-| Exception | Condition                                                                                                                              | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | When actionReference or are *Nothinga* null reference (*Nothing* in Visual Basic).
-                                 |
-| [System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114) | When the target of *actionReference* is not of type [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8), or the target of *filterReference* is not of type [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz). |
+<table>
+<thead>
+<tr class="header">
+<th>Exception</th>
+<th>Condition</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><a href="http://msdn2.microsoft.com/en-us/library/27426hcy">System.ArgumentNullException</a></td>
+<td>When actionReference or are **Nothinga** null reference (**Nothing** in Visual Basic).
+</td>
+</tr>
+<tr class="even">
+<td><a href="http://msdn2.microsoft.com/en-us/library/3w1b3114">System.ArgumentException</a></td>
+<td>When the target of actionReference is not of type <a href="http://msdn2.microsoft.com/en-us/library/018hxwa8">Action(Of T)</a>, or the target of filterReference is not of type <a href="http://msdn2.microsoft.com/en-us/library/bfcke1bz">Predicate(Of T)</a>.
+</tr>
+</tbody>
+</table>
 
 ## See Also
 
