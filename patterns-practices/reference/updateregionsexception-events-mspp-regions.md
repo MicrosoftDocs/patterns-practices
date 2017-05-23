@@ -5,16 +5,14 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.UpdateRegionsException'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736148(v=PandP.50)'
 ---
 
-Prism Class Library
 
-UpdateRegionsException Events
-=============================
+# UpdateRegionsException Events
 
 
-The [UpdateRegionsException](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.updateregionsexception) type exposes the following members.
+The [UpdateRegionsException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception(v=pandp.50)) type exposes the following members.
 
-Events
-------
+## Events
+
 
 <span id="eventTableToggle"></span>
 <table>
@@ -42,10 +40,9 @@ Occurs when an exception is serialized to create an exception state object that 
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
 <span id="seeAlsoToggle"></span>
-[UpdateRegionsException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.updateregionsexception)
+[UpdateRegionsException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception(v=pandp.50))
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
