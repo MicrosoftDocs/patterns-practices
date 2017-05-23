@@ -84,7 +84,7 @@ Returns a string that represents the current object.
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736245.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.interactivity.commandbehaviorbase%601.updateenabledstate">UpdateEnabledState</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn736286(v=pandp.50)">UpdateEnabledState</a></td>
 <td><div class="summary">
 Updates the target object's IsEnabled property based on the commands ability to execute.
 </div></td>
@@ -96,6 +96,6 @@ See Also
 --------
 
 
-[CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.commandbehaviorbase%601)
+[CommandBehaviorBase(Of T) Class](https://msdn.microsoft.com/en-us/library/dn736144(v=pandp.50))
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)
+[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
