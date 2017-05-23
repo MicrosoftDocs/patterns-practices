@@ -17,8 +17,16 @@ Gets the [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) (the targe
 
 ## Syntax
 
+```C#
+public Delegate Target { get; }
+```
+ 
+```VB
+'Declaration
+Public ReadOnly Property Target As Delegate
+	Get
+``` 
 
-public Delegate Target { get; }Public ReadOnly Property Target As Delegate Get
 ### Property Value
 
 Type: [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)
