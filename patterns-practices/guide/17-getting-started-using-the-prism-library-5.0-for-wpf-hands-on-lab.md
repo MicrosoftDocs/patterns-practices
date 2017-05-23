@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921141(v=PandP.40)'
 
 # 17: Getting Started Using the Prism Library 5.0 for WPF Hands-on Lab
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/guide/developers-guide-to-microsoft-prism)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
 In this lab and associated sample, you will learn the basic concepts of modular application development using the Prism Library, and apply them to create a solution that you can use as the starting point for building a composite Windows Presentation Foundation (WPF) application. After completing this lab, you will be able to do the following:
 
@@ -36,7 +36,7 @@ This topic requires you to have the following Prism Library and Unity Applicatio
 > [!NOTE]
 > This hands-on lab uses the Unity container, but you can also use the Managed Extensibility Framework (MEF) with the Prism Library.
 
-This hands-on lab assumes that you understand Prism basic concepts. For more information, see [Prism Key Concepts](/patterns-practices/guide/1-introduction-to-the-prism-library-5.0-for-wpf(v=pandp.40)#PrismKeyConcepts) in the [Introduction](/patterns-practices/guide/1-introduction-to-the-prism-library-5.0-for-wpf(v=pandp.40)).
+This hands-on lab assumes that you understand Prism basic concepts. For more information, see [Prism Key Concepts](/patterns-practices/guide/1-introduction-to-the-prism-library-5.0-for-wpf#PrismKeyConcepts) in the [Introduction](/patterns-practices/guide/1-introduction-to-the-prism-library-5.0-for-wpf).
 
 ## Procedures
 
