@@ -32,7 +32,7 @@ Protected Sub OnPropertyChanged (
 
 ## Parameters
 
-propertyName  
+*propertyName*  
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
 
 Name of the property used to notify listeners. This value is optional and can be provided automatically when invoked from compilers that support [CallerMemberNameAttribute](http://msdn2.microsoft.com/en-us/library/hh551816).
