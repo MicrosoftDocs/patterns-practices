@@ -19,12 +19,14 @@ Represents a reference to a [Delegate](http://msdn2.microsoft.com/en-us/library/
 
 ```C#
 public class DelegateReference : IDelegateReference
+```
 
 ```VB
 'Declaration
 Public Class DelegateReference
 	Implements IDelegateReference
-  
+```
+
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
@@ -33,5 +35,4 @@ Public Class DelegateReference
 ## See Also
 
 DelegateReference Members
-
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
