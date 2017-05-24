@@ -30,7 +30,7 @@ The [EventBase](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubeve
 <td><img src="https://msdn.microsoft.com/en-us/Dn736255.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
 <td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.pubsubevents.eventbase.contains(microsoft.practices.prism.pubsubevents.subscriptiontoken)">Contains</a></td>
 <td><div class="summary">
-Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matching <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken">SubscriptionToken</a>.
+Returns **Truetrue** (**True** in Visual Basic) if there is a subscriber matching <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken">SubscriptionToken</a>.
 </div></td>
 </tr>
 <tr class="even">
