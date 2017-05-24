@@ -23,8 +23,8 @@ public SubscriptionToken(
 
 ### Parameters
 
-*unsubscribeAction* 
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)<[SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken)>
+*unsubscribeAction*<br/> 
+		Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)<[SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken)>
 
 ```VB
 'Declaration
@@ -34,8 +34,8 @@ Public Sub New (
 ```
 ### Parameters
 
-*unsubscribeAction*
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken))
+*unsubscribeAction*<br/> 
+		Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken))
 
 ## See Also
 
