@@ -5,8 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken.Dispose'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683936(v=PandP.50)'
 ---
 
-Prism Class Library
-
 # SubscriptionToken.Dispose Method
 
 Disposes the SubscriptionToken, removing the subscription from the corresponding [EventBase](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase(v=pandp.50)).
@@ -20,6 +18,10 @@ Disposes the SubscriptionToken, removing the subscription from the corresponding
 ```C#
 public virtual void Dispose()
 ```
+### Implements
+
+[IDisposable.Dispose()](http://msdn.microsoft.com/en-us/library/es4s3w1d)
+
 
 ```VB
 'Declaration
