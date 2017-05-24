@@ -5,8 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken.Equals(M
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683934(v=PandP.50)'
 ---
 
-Prism Class Library
-
 # SubscriptionToken.Equals Method (SubscriptionToken)
 
 Indicates whether the current object is equal to another object of the same type.
@@ -23,6 +21,22 @@ public bool Equals(
 )
 ```
 
+### Parameters
+
+*other*
+
+Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50))
+	An object to compare with this object.
+
+### Return Value
+
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
+**trueTrue** (**True** in Visual Basic) if the current object is equal to the other parameter; otherwise, **falseFalse** (**False** in Visual Basic).
+### Implements
+
+[IEquatable&lt;T&gt;.Equals(T)](http://msdn2.microsoft.com/en-us/library/ms131190)
+
+
 ```VB
 'Declaration
 Public Function Equals ( 
@@ -34,7 +48,7 @@ Public Function Equals (
 
 *other*
 
-	Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50))
+Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50))
 	An object to compare with this object.
 
 ### Return Value
