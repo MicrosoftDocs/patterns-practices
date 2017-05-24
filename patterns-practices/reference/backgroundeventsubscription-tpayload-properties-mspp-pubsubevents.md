@@ -5,8 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.BackgroundEvent
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736260(v=PandP.50)'
 ---
 
-Prism Class Library
-
 # BackgroundEventSubscription(Of TPayload) Properties
 
 The [BackgroundEventSubscription(Of TPayload)](https://msdn.microsoft.com/en-us/library/dn683933(v=pandp.50)) type exposes the following members.
@@ -54,9 +52,7 @@ Gets or sets a <a href="https://msdn.microsoft.com/en-us/library/dn736140(v=pand
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [BackgroundEventSubscription(Of TPayload) Class](https://msdn.microsoft.com/en-us/library/dn683933(v=pandp.50))
 
