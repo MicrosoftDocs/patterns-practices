@@ -24,13 +24,17 @@ public static void RemoveWeakReferenceHandler(
 
 ### Parameters
 
-*handlers*  
-Type: [System.Collections.Generic.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)&lt;[WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd)&gt;
-Handler list to remove reference from.
+*handlers*
+
+	Type: [System.Collections.Generic.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)&lt;[WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd)&gt;
+
+	Handler list to remove reference from.
 
 *handler*  
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
-Handler to remove.
+		
+	Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
+	
+	Handler to remove.
 
 ```VB
 'Declaration
@@ -43,12 +47,14 @@ Public Shared Sub RemoveWeakReferenceHandler (
 ### Parameters
 
 *handlers*  
-Type: [System.Collections.Generic.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)(Of [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd))
-Handler list to remove reference from.
+		
+	Type: [System.Collections.Generic.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)(Of [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd))
+	Handler list to remove reference from.
 
 *handler*  
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
-Handler to remove.
+
+	Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
+	Handler to remove.
 
 ## See Also
 
