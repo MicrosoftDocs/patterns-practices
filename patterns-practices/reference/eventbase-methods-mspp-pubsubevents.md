@@ -5,14 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.EventBase'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736255(v=PandP.50)'
 ---
 
-# Prism Class Library
-
-## EventBase Methods
+# EventBase Methods
 
 The [EventBase](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventbase) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
