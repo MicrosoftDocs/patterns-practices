@@ -5,11 +5,9 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.INavigateAsync.RequestNa
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736252(v=PandP.50)'
 ---
 
-Prism Class Library
-
 # INavigateAsync.RequestNavigate Method
 
-Overload List
+## Overload List
 
 <table>
 <colgroup>
@@ -42,9 +40,7 @@ Initiates navigation to the target specified by the <a href="http://msdn2.micros
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [INavigateAsync Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync(v=pandp.50))
 
