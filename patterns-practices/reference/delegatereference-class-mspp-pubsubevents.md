@@ -5,8 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.PubSubEvents.DelegateReference'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736244(v=PandP.50)'
 ---
 
-Prism Class Library
-
 # DelegateReference Class
 
 Represents a reference to a [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51) that may contain a [WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd) to the target. This class is used internally by the Prism Library.
