@@ -54,6 +54,6 @@ Gets or sets a <a href="https://msdn.microsoft.com/en-us/library/dn736140(v=pand
 
 ## See Also
 
-[DispatcherEventSubscription&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/dn736239(v=pandp.50))
+[DispatcherEventSubscription(Of TPayload) Class](https://msdn.microsoft.com/en-us/library/dn736239(v=pandp.50))
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
