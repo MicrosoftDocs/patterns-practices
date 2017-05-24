@@ -5,10 +5,7 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventBase.\#ctor'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683937(v=PandP.50)'
 ---
 
-Prism Class Library
-
-EventBase Constructor
-=====================
+# EventBase Constructor
 
 Initializes a new instance of the [EventBase](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase(v=pandp.50)) class
 
@@ -27,7 +24,7 @@ protected EventBase()
 Protected Sub New
 ```
 
-See Also
+## See Also
 
 [EventBase Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase(v=pandp.50))
 
