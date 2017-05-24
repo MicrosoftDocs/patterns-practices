@@ -5,15 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.NavigationContext.\#ctor
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736186(v=PandP.50)'
 ---
 
-Prism Class Library
+# NavigationContext Constructor
 
-NavigationContext Constructor
-=============================
+## Overload List
 
-Overload List
--------------
-
-<span id="overloadMembersTableToggle"></span>
 <table>
 <colgroup>
 <col width="33%" />
@@ -30,27 +25,25 @@ Overload List
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736186.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.navigationcontext.">NavigationContext(IRegionNavigationService, Uri)</a></td>
+<td>NavigationContext(IRegionNavigationService, Uri)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext">NavigationContext</a> class for a region name and a <a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.navigationcontext.uri">Uri</a>.
+Initializes a new instance of the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext(v=pandp.50)">NavigationContext</a> class for a region name and a <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext.uri(v=pandp.50)">Uri</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736186.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.navigationcontext.">NavigationContext(IRegionNavigationService, Uri, NavigationParameters)</a></td>
+<td>NavigationContext(IRegionNavigationService, Uri, NavigationParameters)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext">NavigationContext</a> class for a region name and a <a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.navigationcontext.uri">Uri</a>.
+Initializes a new instance of the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext(v=pandp.50)">NavigationContext</a> class for a region name and a <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext.uri(v=pandp.50)">Uri</a>.
 </div></td>
 </tr>
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
+[NavigationContext Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext(v=pandp.50))
 
-[NavigationContext Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)
+[NavigationContext Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext_members(v=pandp.50))
 
-[NavigationContext Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationcontext)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
