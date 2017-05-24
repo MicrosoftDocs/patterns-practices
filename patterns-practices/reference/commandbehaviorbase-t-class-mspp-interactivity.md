@@ -7,42 +7,79 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736144(v=PandP.50)'
 
 Prism Class Library
 
-CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Class
-=================================================
+# CommandBehaviorBase&lt;T&gt; Class
 
-Base behavior to handle connecting a [Control](http://msdn.microsoft.com/en-us/library/ms609826) to a Command.
+Base behavior to handle connecting a [Control](http://msdn2.microsoft.com/en-us/library/ms609826) to a Command.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
 
-**Version:** 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+```C#
+public class CommandBehaviorBase<T>
+where T : UIElement
+```
 
-public class CommandBehaviorBase&lt;T&gt; where T : UIElement Public Class CommandBehaviorBase(Of T As UIElement)
-Type Parameters
----------------
+### Type Parameters
 
-<span id="templatesToggle"></span>
-T  
+*T*
+
 The target object must derive from Control
 
-Remarks
--------
+## Remarks
 
-<span id="remarksToggle"></span> CommandBehaviorBase can be used to provide new behaviors for commands.
+CommandBehaviorBase can be used to provide new behaviors for commands.
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;)
+[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 
-See Also
---------
+Microsoft.Practices.Prism.Interactivity .CommandBehaviorBase&lt;T&gt;
+
+## See Also
+
+[CommandBehaviorBase&lt;T&gt; Members](https://msdn.microsoft.com/en-us/library/dn741423(v=pandp.50))
+
+[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
 
 
-[CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.commandbehaviorbase%601)
+Prism Class Library
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)
+# CommandBehaviorBase(Of T) Class
+
+Base behavior to handle connecting a [Control](http://msdn2.microsoft.com/en-us/library/ms609826) to a Command.
+
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+```VB
+'Declaration
+Public Class CommandBehaviorBase(Of T As UIElement)
+```
+
+### Type Parameters
+
+*T*
+
+The target object must derive from Control
+
+## Remarks
+
+CommandBehaviorBase can be used to provide new behaviors for commands.
+
+## Inheritance Hierarchy
+
+[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+
+Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase(Of T)
+
+## See Also
+
+[CommandBehaviorBase(Of T) Members](https://msdn.microsoft.com/en-us/library/dn741423(v=pandp.50))
+
+[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
