@@ -5,37 +5,55 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.WeakEventHandlerManager.Remove
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736259(v=PandP.50)'
 ---
 
-Prism Class Library
-
-WeakEventHandlerManager.RemoveWeakReferenceHandler Method
-=============================================================
+# WeakEventHandlerManager.RemoveWeakReferenceHandler Method
 
 Removes an event handler from the reference list.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
+**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
+
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
-
-public static void RemoveWeakReferenceHandler( List&lt;WeakReference&gt; handlers, EventHandler handler )Public Shared Sub RemoveWeakReferenceHandler ( handlers As List(Of WeakReference), handler As EventHandler )
+```C#
+public static void RemoveWeakReferenceHandler(
+	List<WeakReference> handlers,
+	EventHandler handler
+)
+```
 
 ### Parameters
 
-handlers  
-Type: [System.Collections.Generic.List](http://msdn.microsoft.com/en-us/library/6sh2ey19)&lt;(Of &lt;([WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd)&gt;)&gt;)
+*handlers*  
+Type: [System.Collections.Generic.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)&lt;[WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd)&gt;)
 Handler list to remove reference from.
 
-handler  
+*handler*  
 Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
 Handler to remove.
 
-See Also
---------
+```VB
+'Declaration
+Public Shared Sub RemoveWeakReferenceHandler ( 
+	handlers As List(Of WeakReference),
+	handler As EventHandler
+)
+```
 
+### Parameters
 
-[WeakEventHandlerManager Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.weakeventhandlermanager)
+*handlers*  
+Type: [System.Collections.Generic.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)([WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd))
+Handler list to remove reference from.
 
-[WeakEventHandlerManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.weakeventhandlermanager)
+*handler*  
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
+Handler to remove.
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
+## See Also
+
+[WeakEventHandlerManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager(v=pandp.50))
+
+[WeakEventHandlerManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager_members(v=pandp.50))
+
+[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
