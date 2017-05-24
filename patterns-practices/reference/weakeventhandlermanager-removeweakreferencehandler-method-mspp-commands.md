@@ -43,7 +43,7 @@ Public Shared Sub RemoveWeakReferenceHandler (
 ### Parameters
 
 *handlers*  
-Type: [System.Collections.Generic.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)([WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd))
+Type: [System.Collections.Generic.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)(Of [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd))
 Handler list to remove reference from.
 
 *handler*  
