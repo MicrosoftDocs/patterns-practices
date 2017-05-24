@@ -113,7 +113,7 @@ When the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.r
 This event handler gets called when a RegionManager is requering the instances of a region to be registered if they are not already.
 <div>
 <h2 id="remarks">Remarks</h2>
-<span id="remarksToggle"></span>Although this is a public method to support Weak Delegates in Silverlight, it should not be called by the user.
+Although this is a public method to support Weak Delegates in Silverlight, it should not be called by the user.
 </div>
 </div>
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior">RegionManagerRegistrationBehavior</a>.)</td>

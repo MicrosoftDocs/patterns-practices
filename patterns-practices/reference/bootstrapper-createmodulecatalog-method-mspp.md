@@ -28,7 +28,7 @@ Type: [IModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.pr
 Remarks
 -------
 
-<span id="remarksToggle"></span> The base implementation returns a new ModuleCatalog.
+ The base implementation returns a new ModuleCatalog.
 
 See Also
 --------

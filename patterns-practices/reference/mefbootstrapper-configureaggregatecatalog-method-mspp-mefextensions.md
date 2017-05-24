@@ -25,7 +25,7 @@ protected virtual void ConfigureAggregateCatalog()Protected Overridable Sub Conf
 Remarks
 -------
 
-<span id="remarksToggle"></span> The base implementation does nothing.
+ The base implementation does nothing.
 
 See Also
 --------

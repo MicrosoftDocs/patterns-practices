@@ -39,7 +39,7 @@ An enumeration of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.prac
 Remarks
 -------
 
-<span id="remarksToggle"></span> If the [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) was not yet validated, this method will call [Validate()()()](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog.validate).
+ If the [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) was not yet validated, this method will call [Validate()()()](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog.validate).
 
 See Also
 --------

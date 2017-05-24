@@ -28,7 +28,7 @@ Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt
 Remarks
 -------
 
-<span id="remarksToggle"></span>Import the available modules from the MEF container
+Import the available modules from the MEF container
 
 See Also
 --------

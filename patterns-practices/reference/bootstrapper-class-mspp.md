@@ -25,7 +25,7 @@ public abstract class BootstrapperPublic MustInherit Class Bootstrapper
 Remarks
 -------
 
-<span id="remarksToggle"></span> This class must be overridden to provide application specific configuration.
+ This class must be overridden to provide application specific configuration.
 
 Inheritance Hierarchy
 ---------------------

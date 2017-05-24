@@ -25,7 +25,7 @@ public class DirectoryModuleCatalog : ModuleCatalogPublic Class DirectoryModuleC
 Remarks
 -------
 
-<span id="remarksToggle"></span> The directory catalog will scan the contents of a directory, locating classes that implement [IModule](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule) and add them to the catalog based on contents in their associated [ModuleAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleattribute). Assemblies are loaded into a new application domain with ReflectionOnlyLoad. The application domain is destroyed once the assemblies have been discovered. The diretory catalog does not continue to monitor the directory after it has created the initialze catalog.
+ The directory catalog will scan the contents of a directory, locating classes that implement [IModule](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule) and add them to the catalog based on contents in their associated [ModuleAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleattribute). Assemblies are loaded into a new application domain with ReflectionOnlyLoad. The application domain is destroyed once the assemblies have been discovered. The diretory catalog does not continue to monitor the directory after it has created the initialze catalog.
 
 Inheritance Hierarchy
 ---------------------

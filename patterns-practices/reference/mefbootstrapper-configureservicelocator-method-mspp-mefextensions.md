@@ -25,7 +25,7 @@ protected override void ConfigureServiceLocator()Protected Overrides Sub Configu
 Remarks
 -------
 
-<span id="remarksToggle"></span> The base implementation also sets the ServiceLocator provider singleton.
+ The base implementation also sets the ServiceLocator provider singleton.
 
 See Also
 --------

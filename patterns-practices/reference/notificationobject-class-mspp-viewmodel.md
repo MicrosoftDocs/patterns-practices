@@ -25,7 +25,7 @@ Base class for items that support property notification.
 Remarks
 -------
 
-<span id="remarksToggle"></span> This class provides basic support for implementing the [INotifyPropertyChanged](http://msdn.microsoft.com/en-us/library/ms133020) interface and for marshalling execution to the UI thread.
+ This class provides basic support for implementing the [INotifyPropertyChanged](http://msdn.microsoft.com/en-us/library/ms133020) interface and for marshalling execution to the UI thread.
 
 Inheritance Hierarchy
 ---------------------

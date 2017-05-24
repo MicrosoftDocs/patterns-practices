@@ -32,7 +32,7 @@ A [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309) that the 
 Remarks
 -------
 
-<span id="remarksToggle"></span>For this behavior, the host control must always be a [Selector](http://msdn.microsoft.com/en-us/library/ms595227) or an inherited class.
+For this behavior, the host control must always be a [Selector](http://msdn.microsoft.com/en-us/library/ms595227) or an inherited class.
 
 See Also
 --------

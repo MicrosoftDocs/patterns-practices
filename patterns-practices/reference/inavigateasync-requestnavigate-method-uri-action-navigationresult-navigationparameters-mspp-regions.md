@@ -39,7 +39,7 @@ The navigation parameters specific to the navigation request.
 Remarks
 -------
 
-<span id="remarksToggle"></span> Convenience overloads for this method can be found as extension methods on the [NavigationAsyncExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions) class.
+ Convenience overloads for this method can be found as extension methods on the [NavigationAsyncExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions) class.
 
 See Also
 --------

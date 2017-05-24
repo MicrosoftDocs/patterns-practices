@@ -32,7 +32,7 @@ The INavigate implementation.
 Remarks
 -------
 
-<span id="remarksToggle"></span> This is set by the owner of this journal.
+ This is set by the owner of this journal.
 
 See Also
 --------

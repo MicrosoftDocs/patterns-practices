@@ -35,7 +35,7 @@ The view to activate.
 Remarks
 -------
 
-<span id="remarksToggle"></span>If there is an active view before calling this method, that view will be deactivated automatically.
+If there is an active view before calling this method, that view will be deactivated automatically.
 
 See Also
 --------

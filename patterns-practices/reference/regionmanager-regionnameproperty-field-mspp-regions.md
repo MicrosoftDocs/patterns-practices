@@ -28,7 +28,7 @@ Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 Remarks
 -------
 
-<span id="remarksToggle"></span> When a control has both the RegionNameProperty and [RegionManagerProperty](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionmanagerproperty) attached properties set to a value different than nullNothingnullptra null reference (Nothing in Visual Basic) and there is a [IRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter) mapping registered for the control, it will create and adapt a new region for that control, and register it in the [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager) with the specified region name.
+ When a control has both the RegionNameProperty and [RegionManagerProperty](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionmanagerproperty) attached properties set to a value different than nullNothingnullptra null reference (Nothing in Visual Basic) and there is a [IRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter) mapping registered for the control, it will create and adapt a new region for that control, and register it in the [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager) with the specified region name.
 
 See Also
 --------

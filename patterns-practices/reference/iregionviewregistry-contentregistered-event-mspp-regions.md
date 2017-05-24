@@ -28,7 +28,7 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt
 Remarks
 -------
 
-<span id="remarksToggle"></span> This event uses weak references to the event handler to prevent this service (typically a singleton) of keeping the target element longer than expected.
+ This event uses weak references to the event handler to prevent this service (typically a singleton) of keeping the target element longer than expected.
 
 See Also
 --------

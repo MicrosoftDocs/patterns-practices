@@ -36,7 +36,7 @@ The [IRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.pris
 Remarks
 -------
 
-<span id="remarksToggle"></span>This class will look for a registered type for controlType and if there is not any, it will look for a registered type for any of its ancestors in the class hierarchy. If there is no registered type for controlType or any of its ancestors, an exception will be thrown.
+This class will look for a registered type for controlType and if there is not any, it will look for a registered type for any of its ancestors in the class hierarchy. If there is no registered type for controlType or any of its ancestors, an exception will be thrown.
 
 Exceptions
 ----------

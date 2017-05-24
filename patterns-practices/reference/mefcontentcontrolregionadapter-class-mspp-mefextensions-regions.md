@@ -25,7 +25,7 @@ public class MefContentControlRegionAdapter : ContentControlRegionAdapterPublic 
 Remarks
 -------
 
-<span id="remarksToggle"></span> This allows the [ConfigureContainer()()()](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper.configurecontainer) to provide this class as a default implementation. If another implementation is found, this export will not be used.
+ This allows the [ConfigureContainer()()()](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper.configurecontainer) to provide this class as a default implementation. If another implementation is found, this export will not be used.
 
 Inheritance Hierarchy
 ---------------------

@@ -29,7 +29,7 @@ The shell of the application.
 Remarks
 -------
 
-<span id="remarksToggle"></span> If the returned instance is a [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309), the [Bootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper) will attach the default [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager) of the application in its [RegionManagerProperty](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionmanagerproperty) attached property in order to be able to add regions by using the [RegionNameProperty](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionnameproperty) attached property from XAML.
+ If the returned instance is a [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309), the [Bootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper) will attach the default [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager) of the application in its [RegionManagerProperty](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionmanagerproperty) attached property in order to be able to add regions by using the [RegionNameProperty](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionnameproperty) attached property from XAML.
 
 See Also
 --------

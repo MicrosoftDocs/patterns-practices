@@ -25,7 +25,7 @@ public interface IInteractionRequestPublic Interface IInteractionRequest
 Remarks
 -------
 
-<span id="remarksToggle"></span> View models can expose interaction request objects through properties and raise them when user interaction is required so views associated with the view models can materialize the user interaction using an appropriate mechanism.
+ View models can expose interaction request objects through properties and raise them when user interaction is required so views associated with the view models can materialize the user interaction using an appropriate mechanism.
 
 See Also
 --------

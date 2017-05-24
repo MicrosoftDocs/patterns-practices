@@ -34,7 +34,7 @@ The [SubscriptionToken](https://msdn.microsoft.com/library/microsoft.practices.p
 Remarks
 -------
 
-<span id="remarksToggle"></span> Adds the subscription to the internal list and assigns it a new [SubscriptionToken](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken).
+ Adds the subscription to the internal list and assigns it a new [SubscriptionToken](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken).
 
 See Also
 --------

@@ -28,7 +28,7 @@ public virtual void OnImportsSatisfied()Public Overridable Sub OnImportsSatisfie
 Remarks
 -------
 
-<span id="remarksToggle"></span> Whenever the MEF container loads new types that cause ImportedModules to be recomposed, this is called. This method ensures that as the MEF container discovered new modules, the ModuleCatalog is updated.
+ Whenever the MEF container loads new types that cause ImportedModules to be recomposed, this is called. This method ensures that as the MEF container discovered new modules, the ModuleCatalog is updated.
 
 See Also
 --------

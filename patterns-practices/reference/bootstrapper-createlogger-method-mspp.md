@@ -28,7 +28,7 @@ Type: [ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.pri
 Remarks
 -------
 
-<span id="remarksToggle"></span> The base implementation returns a new TextLogger.
+ The base implementation returns a new TextLogger.
 
 See Also
 --------

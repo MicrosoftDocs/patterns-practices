@@ -29,7 +29,7 @@ Delegate to execute when Execute is called on the command. This can be null to j
 Remarks
 -------
 
-<span id="remarksToggle"></span>[CanExecute(T)](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601.canexecute(%600)) will always return true.
+[CanExecute(T)](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601.canexecute(%600)) will always return true.
 
 See Also
 --------

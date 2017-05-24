@@ -34,7 +34,7 @@ A [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50) value indicating w
 Remarks
 -------
 
-<span id="remarksToggle"></span> If this command is set to monitor command activity, and command implements the [!:IActiveAwareCommand\] interface, this method will return falseFalsefalsefalse (False in Visual Basic) if the command's [!:IActiveAwareCommand.IsActive\] property is falseFalsefalsefalse (False in Visual Basic); otherwise it always returns trueTruetruetrue (True in Visual Basic).
+ If this command is set to monitor command activity, and command implements the [!:IActiveAwareCommand\] interface, this method will return falseFalsefalsefalse (False in Visual Basic) if the command's [!:IActiveAwareCommand.IsActive\] property is falseFalsefalsefalse (False in Visual Basic); otherwise it always returns trueTruetruetrue (True in Visual Basic).
 
 See Also
 --------

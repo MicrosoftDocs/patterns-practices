@@ -25,7 +25,7 @@ public class RegionActiveAwareBehavior : IRegionBehaviorPublic Class RegionActiv
 Remarks
 -------
 
-<span id="remarksToggle"></span> This class can also sync the active state for any scoped regions directly on the view based on the [SyncActiveStateAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute). If you use the [Add(Object, String, Boolean)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.add(system.object%2csystem.string%2csystem.boolean)) method with the createRegionManagerScope option, the scoped manager will be attached to the view.
+ This class can also sync the active state for any scoped regions directly on the view based on the [SyncActiveStateAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute). If you use the [Add(Object, String, Boolean)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.add(system.object%2csystem.string%2csystem.boolean)) method with the createRegionManagerScope option, the scoped manager will be attached to the view.
 
 Inheritance Hierarchy
 ---------------------

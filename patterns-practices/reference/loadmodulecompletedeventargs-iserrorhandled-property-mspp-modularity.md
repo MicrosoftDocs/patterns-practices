@@ -29,7 +29,7 @@ trueif the error is handled; otherwise, false.
 Remarks
 -------
 
-<span id="remarksToggle"></span> If there is an error on this event and no event subscriber sets this to true, an exception will be thrown by the event publisher.
+ If there is an error on this event and no event subscriber sets this to true, an exception will be thrown by the event publisher.
 
 See Also
 --------

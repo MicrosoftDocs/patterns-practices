@@ -28,7 +28,7 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
 Remarks
 -------
 
-<span id="remarksToggle"></span>This event uses weak references to the event handler to prevent this static event of keeping the target element longer than expected.
+This event uses weak references to the event handler to prevent this static event of keeping the target element longer than expected.
 
 See Also
 --------

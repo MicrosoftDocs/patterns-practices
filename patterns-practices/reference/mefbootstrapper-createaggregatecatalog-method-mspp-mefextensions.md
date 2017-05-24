@@ -29,7 +29,7 @@ An [AggregateCatalog](https://msdn.microsoft.com/library/microsoft.practices.pri
 Remarks
 -------
 
-<span id="remarksToggle"></span> The base implementation returns a new AggregateCatalog.
+ The base implementation returns a new AggregateCatalog.
 
 See Also
 --------

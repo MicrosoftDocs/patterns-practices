@@ -40,7 +40,7 @@ The item to be the target of the navigation request.
 Remarks
 -------
 
-<span id="remarksToggle"></span> If none of the items in the region match the target of the navigation request, a new item will be created and added to the region.
+ If none of the items in the region match the target of the navigation request, a new item will be created and added to the region.
 
 Exceptions
 ----------

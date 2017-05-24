@@ -43,7 +43,7 @@ The view to be the target of the navigation request.
 Remarks
 -------
 
-<span id="remarksToggle"></span> If none of the views in the region can be the target of the navigation request, a new view is created and added to the region.
+ If none of the views in the region can be the target of the navigation request, a new view is created and added to the region.
 
 Exceptions
 ----------

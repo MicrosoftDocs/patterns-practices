@@ -29,7 +29,7 @@ Parameter type.
 Remarks
 -------
 
-<span id="remarksToggle"></span> The constructor deliberately prevents the use of value types. Because ICommand takes an object, having a value type for T would cause unexpected behavior when CanExecute(null) is called during XAML initialization for command bindings. Using default(T) was considered and rejected as a solution because the implementor would not be able to distinguish between a valid and defaulted values.
+ The constructor deliberately prevents the use of value types. Because ICommand takes an object, having a value type for T would cause unexpected behavior when CanExecute(null) is called during XAML initialization for command bindings. Using default(T) was considered and rejected as a solution because the implementor would not be able to distinguish between a valid and defaulted values.
 
 Instead, callers should support a value type by using a nullable value type and checking the HasValue property before using the Value property.
 Examples

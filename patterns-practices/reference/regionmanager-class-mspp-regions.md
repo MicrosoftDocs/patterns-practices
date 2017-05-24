@@ -25,7 +25,7 @@ public class RegionManager : IRegionManagerPublic Class RegionManager Implements
 Remarks
 -------
 
-<span id="remarksToggle"></span> This class supplies the attached properties that can be used for simple region creation from XAML.
+ This class supplies the attached properties that can be used for simple region creation from XAML.
 
 Inheritance Hierarchy
 ---------------------

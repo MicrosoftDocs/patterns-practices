@@ -31,7 +31,7 @@ The target object must derive from Control
 Remarks
 -------
 
-<span id="remarksToggle"></span> CommandBehaviorBase can be used to provide new behaviors for commands.
+ CommandBehaviorBase can be used to provide new behaviors for commands.
 
 Inheritance Hierarchy
 ---------------------

@@ -38,7 +38,7 @@ A [SubscriptionToken](https://msdn.microsoft.com/library/microsoft.practices.pri
 Remarks
 -------
 
-<span id="remarksToggle"></span> The PubSubEvent collection is thread-safe.
+ The PubSubEvent collection is thread-safe.
 
 See Also
 --------

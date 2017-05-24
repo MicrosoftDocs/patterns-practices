@@ -29,7 +29,7 @@ A new instance of [CompositionContainer](http://msdn.microsoft.com/en-us/library
 Remarks
 -------
 
-<span id="remarksToggle"></span> The base implementation registers a default MEF catalog of exports of key Prism types. Exporting your own types will replace these defaults.
+ The base implementation registers a default MEF catalog of exports of key Prism types. Exporting your own types will replace these defaults.
 
 See Also
 --------

@@ -40,7 +40,7 @@ trueTruetruetrue (True in Visual Basic) if the type was registered with the cont
 Remarks
 -------
 
-<span id="remarksToggle"></span> In order to use this extension, you must first call AddNewExtension\`\`1(IUnityContainer) and specify UnityContainerExtension as the extension type.
+ In order to use this extension, you must first call AddNewExtension\`\`1(IUnityContainer) and specify UnityContainerExtension as the extension type.
 
 See Also
 --------

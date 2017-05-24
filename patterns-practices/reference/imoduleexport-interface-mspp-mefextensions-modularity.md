@@ -25,7 +25,7 @@ public interface IModuleExportPublic Interface IModuleExport
 Remarks
 -------
 
-<span id="remarksToggle"></span> This interface is used when importing classes exported with the ModuleExportAttribute. This interface and the ModuleExport class properties should match.
+ This interface is used when importing classes exported with the ModuleExportAttribute. This interface and the ModuleExport class properties should match.
 
 See Also
 --------

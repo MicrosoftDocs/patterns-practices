@@ -35,7 +35,7 @@ The path to the assemly to load in the LoadFrom context.
 Remarks
 -------
 
-<span id="remarksToggle"></span>This method does not load the assembly immediately, but lazily until someone requests a [Type](http://msdn.microsoft.com/en-us/library/42892f65) declared in the assembly.
+This method does not load the assembly immediately, but lazily until someone requests a [Type](http://msdn.microsoft.com/en-us/library/42892f65) declared in the assembly.
 
 See Also
 --------

@@ -32,7 +32,7 @@ The [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.pris
 Remarks
 -------
 
-<span id="remarksToggle"></span>This is usually used by implementations of [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager) and should not be used by the developer explicitely.
+This is usually used by implementations of [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager) and should not be used by the developer explicitely.
 
 See Also
 --------

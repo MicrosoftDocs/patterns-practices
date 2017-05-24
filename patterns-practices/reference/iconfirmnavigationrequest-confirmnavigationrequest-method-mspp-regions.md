@@ -35,7 +35,7 @@ The callback to indicate when navigation can proceed.
 Remarks
 -------
 
-<span id="remarksToggle"></span> Implementors of this method do not need to invoke the callback before this method is completed, but they must ensure the callback is eventually invoked.
+ Implementors of this method do not need to invoke the callback before this method is completed, but they must ensure the callback is eventually invoked.
 
 See Also
 --------

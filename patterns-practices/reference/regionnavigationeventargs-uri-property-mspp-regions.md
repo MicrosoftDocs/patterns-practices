@@ -29,7 +29,7 @@ The URI.
 Remarks
 -------
 
-<span id="remarksToggle"></span> This is a convenience accessor around NavigationContext.Uri.
+ This is a convenience accessor around NavigationContext.Uri.
 
 See Also
 --------

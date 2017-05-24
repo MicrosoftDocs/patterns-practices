@@ -25,7 +25,7 @@ public abstract class UnityBootstrapper : BootstrapperPublic MustInherit Class U
 Remarks
 -------
 
-<span id="remarksToggle"></span> This class must be overridden to provide application specific configuration.
+ This class must be overridden to provide application specific configuration.
 
 Inheritance Hierarchy
 ---------------------

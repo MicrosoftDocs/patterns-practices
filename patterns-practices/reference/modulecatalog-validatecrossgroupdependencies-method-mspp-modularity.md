@@ -25,7 +25,7 @@ protected virtual void ValidateCrossGroupDependencies()Protected Overridable Sub
 Remarks
 -------
 
-<span id="remarksToggle"></span> A groupless module can only depend on other groupless modules. A module within a group can depend on other modules within the same group and/or on groupless modules.
+ A groupless module can only depend on other groupless modules. A module within a group can depend on other modules within the same group and/or on groupless modules.
 
 See Also
 --------

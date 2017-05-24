@@ -25,7 +25,7 @@ public class DelayedRegionCreationBehaviorPublic Class DelayedRegionCreationBeha
 Remarks
 -------
 
-<span id="remarksToggle"></span> Attached property value inheritance is not available in Silverlight, so the current approach walks up the visual tree when requesting a region from a region manager. The [RegionManagerRegistrationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior) is now responsible for walking up the Tree.
+ Attached property value inheritance is not available in Silverlight, so the current approach walks up the visual tree when requesting a region from a region manager. The [RegionManagerRegistrationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior) is now responsible for walking up the Tree.
 
 Inheritance Hierarchy
 ---------------------

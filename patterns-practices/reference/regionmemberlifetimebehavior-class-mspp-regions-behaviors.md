@@ -25,7 +25,7 @@ public class RegionMemberLifetimeBehavior : RegionBehaviorPublic Class RegionMem
 Remarks
 -------
 
-<span id="remarksToggle"></span> The RegionMemberLifetimeBehavior monitors the [ActiveViews](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.activeviews) collection to discover items that transition into a deactivated state.
+ The RegionMemberLifetimeBehavior monitors the [ActiveViews](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.activeviews) collection to discover items that transition into a deactivated state.
 
 The behavior checks the removed items for either the [IRegionMemberLifetime](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmemberlifetime) or the [RegionMemberLifetimeAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute) (in that order) to determine if it should be kept alive on removal.
 

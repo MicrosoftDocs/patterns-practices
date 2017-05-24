@@ -47,7 +47,7 @@ Defines a behavior that forwards the <a href="https://msdn.microsoft.com/library
 Behavior that removes the RegionManager attached property of all the views in a region once the RegionManager property of a region becomes null. This is useful when removing views with nested regions, to ensure these nested regions get removed from the RegionManager as well.
 <div>
 <h2 id="remarks">Remarks</h2>
-<span id="remarksToggle"></span> This behavior does not apply by default. In order to activate it, the ClearChildViews attached property must be set to True in the view containing the affected child regions.
+ This behavior does not apply by default. In order to activate it, the ClearChildViews attached property must be set to True in the view containing the affected child regions.
 </div>
 </div></td>
 </tr>
@@ -93,7 +93,7 @@ The RegionMemberLifetimeBehavior determines if items should be removed from the 
 Defines the attached behavior that keeps the items of the <a href="http://msdn.microsoft.com/en-us/library/ms595227">Selector</a> host control in synchronization with the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion">IRegion</a>. This behavior also makes sure that, if you activate a view in a region, the SelectedItem is set. If you set the SelectedItem or SelectedItems (ListBox) then this behavior will also call Activate on the selected items.
 <div>
 <h2 id="remarks-1">Remarks</h2>
-<span id="remarksToggle"></span> When calling Activate on a view, you can only select a single active view at a time. By setting the SelectedItems property of a listbox, you can set multiple views to active.
+ When calling Activate on a view, you can only select a single active view at a time. By setting the SelectedItems property of a listbox, you can set multiple views to active.
 </div>
 </div></td>
 </tr>

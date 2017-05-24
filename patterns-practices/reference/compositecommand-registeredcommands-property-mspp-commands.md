@@ -27,7 +27,7 @@ A list of registered commands.
 Remarks
 -------
 
-<span id="remarksToggle"></span>This returns a copy of the commands subscribed to the CompositeCommand.
+This returns a copy of the commands subscribed to the CompositeCommand.
 
 See Also
 --------

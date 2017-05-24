@@ -43,7 +43,7 @@ In Visual Basic and C\#, you can call this method as an instance method on any o
 Remarks
 -------
 
-<span id="remarksToggle"></span>In order to use this extension method, you first need to add the IUnityContainer extension to the [UnityBootstrapperExtension](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension).
+In order to use this extension method, you first need to add the IUnityContainer extension to the [UnityBootstrapperExtension](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension).
 
 See Also
 --------

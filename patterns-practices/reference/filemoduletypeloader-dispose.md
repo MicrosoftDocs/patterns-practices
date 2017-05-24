@@ -28,7 +28,7 @@ public void Dispose()Public Sub Dispose
 Remarks
 -------
 
-<span id="remarksToggle"></span>Calls [Dispose(Boolean)](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.dispose(system.boolean))
+Calls [Dispose(Boolean)](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.dispose(system.boolean))
 
 See Also
 --------

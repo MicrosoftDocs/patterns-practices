@@ -31,7 +31,7 @@ The type of the property that's wrapped in the Observable object
 Remarks
 -------
 
-<span id="remarksToggle"></span> This class is required, because in Silverlight, it's not possible to receive Change notifications for Dependency properties that you do not own.
+ This class is required, because in Silverlight, it's not possible to receive Change notifications for Dependency properties that you do not own.
 
 Inheritance Hierarchy
 ---------------------

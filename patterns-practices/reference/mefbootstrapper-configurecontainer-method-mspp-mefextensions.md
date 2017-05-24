@@ -25,7 +25,7 @@ protected virtual void ConfigureContainer()Protected Overridable Sub ConfigureCo
 Remarks
 -------
 
-<span id="remarksToggle"></span> The base implementation registers all the types direct instantiated by the bootstrapper with the container. If the method is overwritten, the new implementation should call the base class version.
+ The base implementation registers all the types direct instantiated by the bootstrapper with the container. If the method is overwritten, the new implementation should call the base class version.
 
 See Also
 --------

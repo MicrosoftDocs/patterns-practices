@@ -47,7 +47,7 @@ In Visual Basic and C\#, you can call this method as an instance method on any o
 Remarks
 -------
 
-<span id="remarksToggle"></span>The name of the module will be the type name.
+The name of the module will be the type name.
 
 See Also
 --------

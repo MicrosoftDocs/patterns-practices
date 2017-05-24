@@ -36,7 +36,7 @@ A SubscriptionToken that uniquely identifies the added subscription.
 Remarks
 -------
 
-<span id="remarksToggle"></span> The CompositePresentationEvent collection is thread-safe.
+ The CompositePresentationEvent collection is thread-safe.
 
 See Also
 --------
