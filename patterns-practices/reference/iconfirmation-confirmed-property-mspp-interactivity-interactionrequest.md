@@ -5,8 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.InteractionRequest.IConfi
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736258(v=PandP.50)'
 ---
 
-Prism Class Library
-
 # IConfirmation.Confirmed Property
 
 Gets or sets a value indicating that the confirmation is confirmed.
@@ -32,9 +30,7 @@ Property Confirmed As Boolean
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 
-See Also
---------
-
+## See Also
 
 [IConfirmation Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation(v=pandp.50))
 
