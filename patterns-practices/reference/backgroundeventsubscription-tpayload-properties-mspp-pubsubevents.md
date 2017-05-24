@@ -7,15 +7,13 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736260(v=PandP.50)'
 
 Prism Class Library
 
-BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
-=====================================================================
+# BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
 
-The [BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.backgroundeventsubscription%601) type exposes the following members.
 
-Properties
-----------
+The [BackgroundEventSubscription(Of TPayload)](https://msdn.microsoft.com/en-us/library/dn683933(v=pandp.50)) type exposes the following members.
 
-<span id="propertyTableToggle"></span>
+## Properties
+
 <table>
 <colgroup>
 <col width="33%" />
