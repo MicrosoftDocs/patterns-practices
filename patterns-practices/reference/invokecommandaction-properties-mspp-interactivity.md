@@ -30,12 +30,12 @@ The [InvokeCommandAction](https://msdn.microsoft.com/en-us/library/microsoft.pra
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn683973.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
 <td>AssociatedObject</td>
-<td>(Inherited from TriggerAction&lt;(Of &lt;(<a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>&gt;)&gt;).)</td>
+<td>(Inherited from TriggerAction &lt;<a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>&gt;.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn683973.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
 <td>AssociatedObjectTypeConstraint</td>
-<td>(Inherited from TriggerAction&lt;(Of &lt;(<a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>&gt;)&gt;).)</td>
+<td>(Inherited from TriggerAction &lt;<a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>&gt;.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
@@ -47,14 +47,14 @@ Gets a value that indicates whether the object can be made unmodifiable.
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.invokecommandaction.command">Command</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.command(v=pandp.50)">Command</a></td>
 <td><div class="summary">
 Gets or sets the command to execute when invoked.
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.invokecommandaction.commandparameter">CommandParameter</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.commandparameter(v=pandp.50)">CommandParameter</a></td>
 <td><div class="summary">
 Gets or sets the command parameter to supply on command execution.
 </div></td>
@@ -106,7 +106,7 @@ Gets a value that indicates whether this instance is currently sealed (read-only
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.invokecommandaction.triggerparameterpath">TriggerParameterPath</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.triggerparameterpath(v=pandp.50)">TriggerParameterPath</a></td>
 <td><div class="summary">
 Gets or sets the TriggerParameterPath value.
 </div></td>
