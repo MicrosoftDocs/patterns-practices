@@ -7,22 +7,27 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736136(v=PandP.50)'
 
 Prism Class Library
 
-IConfirmation Interface
-=======================
+# IConfirmation Interface
 
 Represents an interaction request used for confirmations.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
+
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
 
-<span id="syntaxToggle"></span>public interface IConfirmation : INotificationPublic Interface IConfirmation Inherits INotification
+## Syntax
+```C#
+public interface IConfirmation : INotification
+```
 
-See Also
---------
+```VB
+'Declaration
+Public Interface IConfirmation
+	Inherits INotification
+```
 
-<span id="seeAlsoToggle"></span>
-[IConfirmation Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.iconfirmation)
+## See Also
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
+[IConfirmation Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation_members(v=pandp.50))
+
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
