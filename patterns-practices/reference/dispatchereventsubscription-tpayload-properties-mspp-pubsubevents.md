@@ -31,15 +31,15 @@ The [DispatcherEventSubscription(Of TPayload)](https://msdn.microsoft.com/en-us/
 <td><div class="summary">
 Gets the target <a href="http://msdn2.microsoft.com/en-us/library/018hxwa8">Action(Of T)</a> that is referenced by the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50)">IDelegateReference</a>.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)">EventSubscription&lt;TPayload&gt;</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)"> EventSubscription(Of TPayload)</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736253.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/dn736196(v=pandp.50)">Filter</a></td>
 <td><div class="summary">
-Gets the target <a href="http://msdn2.microsoft.com/en-us/library/bfcke1bz">Predicate&lt;T&gt;</a> that is referenced by the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50)">IDelegateReference</a>.
+Gets the target <a href="http://msdn2.microsoft.com/en-us/library/bfcke1bz">Predicate(Of T)</a> that is referenced by the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50)">IDelegateReference</a>.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)">EventSubscription&lt;TPayload&gt;</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)"> EventSubscription(Of TPayload)</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736253.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
@@ -47,7 +47,7 @@ Gets the target <a href="http://msdn2.microsoft.com/en-us/library/bfcke1bz">Pred
 <td><div class="summary">
 Gets or sets a <a href="https://msdn.microsoft.com/en-us/library/dn736140(v=pandp.50)">SubscriptionToken</a> that identifies this <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50)">IEventSubscription</a>.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)">EventSubscription&lt;TPayload&gt;</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)"> EventSubscription(Of TPayload)</a>.)</td>
 </tr>
 </tbody>
 </table>
