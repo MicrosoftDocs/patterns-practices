@@ -86,7 +86,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 <td><div class="summary">
 Subscribes to the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.region">Region</a>'s PropertyChanged method to monitor its RegionManager property.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionbehavior.onattach">RegionBehavior..::.OnAttach()()()</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionbehavior.onattach">RegionBehavior.OnAttach()</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn683943.pubmethod(en-us,PandP.50).gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Dn683943.static(en-us,PandP.50).gif" title="Static member" /></td>
