@@ -7,23 +7,27 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736250(v=PandP.50)'
 
 Prism Class Library
 
-IEventAggregator Interface
-==========================
+# IEventAggregator Interface
 
 Defines an interface to get instances of an event type.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
+```C#
+public interface IEventAggregator
+```
 
-public interface IEventAggregatorPublic Interface IEventAggregator
+```VB
+'Declaration
+Public Interface IEventAggregator
+```
 
-See Also
---------
+## See Also
 
+IEventAggregator Members
 
-[IEventAggregator Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.ieventaggregator)
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
