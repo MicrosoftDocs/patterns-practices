@@ -210,7 +210,7 @@ The following procedure explains how to set up the application's bootstrapper.
 
     Hello World window
 
-## Task 2: Adding a Module
+## <a name="task2addingmodule"></a>Task 2: Adding a Module
 
 In this task, you will create a module and add it to your solution. A module in Prism is a logical unit in your application. Adding a module to your solution involves the following tasks:
 

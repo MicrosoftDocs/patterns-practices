@@ -237,7 +237,7 @@ A complex URI structure
 
 Finally, using the **RequestNavigate** method, the region will navigate to the created Uri.
 
-## The Contacts Module (Navigation to a Nested View)
+## <a name="_the_contacts_module"></a>The Contacts Module (Navigation to a Nested View)
 
 The Contacts module demonstrates navigation to a view nested within another view's region. The views in this module implement the **INavigationAware** interface to participate in the navigation. The contacts view has a region in which a sub-view is displayed.
 

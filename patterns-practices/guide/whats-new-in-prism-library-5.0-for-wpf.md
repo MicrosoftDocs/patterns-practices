@@ -116,5 +116,5 @@ In your application, you can now use NuGet to add references to the Prism assemb
 
 ## More Information
 
-For more information about how to upgrade a solution from version 4.1 to version 5.0 of the Prism Library, see [Upgrading from Prism Library 4.1](/patterns-practices/guide/14-upgrading-from-prism-library-4.1(v=pandp.40)).
+For more information about how to upgrade a solution from version 4.1 to version 5.0 of the Prism Library, see [Upgrading from Prism Library 4.1](/patterns-practices/guide/14-upgrading-from-prism-library-4.1).
 

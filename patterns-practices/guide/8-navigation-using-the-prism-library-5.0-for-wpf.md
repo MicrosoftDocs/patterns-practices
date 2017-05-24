@@ -111,7 +111,7 @@ The following code example shows how the view in the State-Based Navigation Quic
 ```
 
 
-## View-Based Navigation
+## <a name="ViewBasedNavigation"></a>View-Based Navigation
 
 
 Although state-based navigation can be useful for the scenarios outlined earlier, navigation within an application will most often be accomplished by replacing one view within the application's UI with another. In Prism, this style of navigation is referred to as view-based navigation.
@@ -269,7 +269,7 @@ The **IRegionMemberLifetime** interface defines a single read-only property, **K
 > [!NOTE]
 > Regions that can display multiple views, such as those that use an **ItemsControl** or a **TabControl**, will display both non-active and active views. Removal of a non-active view from these types of regions will result in the view being removed from the UI.
 
-### Passing Parameters During Navigation
+### <a name="passingparametersduringnavigation"></a>Passing Parameters During Navigation
 
 To implement the required navigational behavior in your application, you will often need to specify additional data during navigation request than just the target view name. The **NavigationContext** object provides access to the navigation URI, and to any parameters that were specified within it or externally. You can access the **NavigationContext** from within the **IsNavigationTarget**, **OnNavigatedFrom**, and **OnNavigatedTo** methods.
 
@@ -312,7 +312,7 @@ You can retrieve the navigation parameters using the **Parameters** property on 
     }
 ```
 
-### Navigating to Existing Views
+### <a name="navigatingtoexistingviews"></a>Navigating to Existing Views
 
 Frequently, it is more appropriate for the views in your application to be re-used, updated, or activated during navigation, instead of replaced by a new view. This is often the case where you are navigating to the same type of view but need to display different information or state to the user, or when the appropriate view is already available in the UI but needs to be activated (that is, selected or made top-most).
 
@@ -391,14 +391,19 @@ In the **ComposeEmailVew** class, an interaction request trigger is defined, and
 
 ```XAML
     <UserControl.Resources>
-        <DataTemplate x:Key"ConfirmExitDialogTemplate">
-            <TextBlock HorizontalAlignment"Center" VerticalAlignment"Center"
-                       Text"{Binding}"/>
+        <DataTemplate x:Key="ConfirmExitDialogTemplate">
+            <TextBlock HorizontalAlignment="Center" VerticalAlignment="Center"
+                    Text="{Binding}"/>
         </DataTemplate>
     </UserControl.Resources>
 
-    <Grid x:Name"LayoutRoot" Background"White">
-    <ei:Interaction.Triggers>     <prism:InteractionRequestTrigger SourceObject"{Binding             ConfirmExitInteractionRequest}">        <prism:PopupWindowAction IsModal"True" CenterOverAssociatedObject"True"/>      </prism:InteractionRequestTrigger></ei:Interaction.Triggers>
+    <Grid x:Name="LayoutRoot" Background="White">
+    <ei:Interaction.Triggers>
+        <prism:InteractionRequestTrigger SourceObject="{Binding  
+            ConfirmExitInteractionRequest}">
+            <prism:PopupWindowAction IsModal="True" CenterOverAssociatedObject="True"/>
+        </prism:InteractionRequestTrigger>
+    </ei:Interaction.Triggers>
     ...
 ```
 
