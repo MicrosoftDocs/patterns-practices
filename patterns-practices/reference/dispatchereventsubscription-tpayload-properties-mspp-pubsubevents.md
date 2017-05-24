@@ -9,7 +9,7 @@ Prism Class Library
 
 # DispatcherEventSubscription&lt;TPayload&gt; Properties
 
-The [DispatcherEventSubscription &lt;TPayload&gt;](https://msdn.microsoft.com/en-us/library/dn736239(v=pandp.50)) type exposes the following members.
+The [DispatcherEventSubscription&lt;TPayload&gt;](https://msdn.microsoft.com/en-us/library/dn736239(v=pandp.50)) type exposes the following members.
 
 ## Properties
 
