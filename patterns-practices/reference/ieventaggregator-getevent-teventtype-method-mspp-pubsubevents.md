@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.IEventAggregator.GetEvent\
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736172(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IEventAggregator.GetEvent&lt;(Of &lt;(TEventType&gt;)&gt;) Method
-=====================================================================
+# IEventAggregator.GetEvent&lt;(Of &lt;(TEventType&gt;)&gt;) Method
 
 Gets an instance of an event type.
 
@@ -19,8 +17,7 @@ Gets an instance of an event type.
 
 
 TEventType GetEvent&lt;TEventType&gt;() where TEventType : new(), EventBase Function GetEvent(Of TEventType As {New, EventBase}) As TEventType
-Type Parameters
----------------
+##Type Parameters
 
 <span id="templatesToggle"></span>
 TEventType  
@@ -31,8 +28,8 @@ The type of event to get.
 Type: TEventType
 An instance of an event object of type TEventType.
 
-See Also
---------
+## See Also
+
 
 
 [IEventAggregator Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventaggregator)
