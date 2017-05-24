@@ -102,6 +102,7 @@ The **IRegion** interface has changed to support navigation features. You will n
 
 The following are the new members, which are used for navigation:
 
+
 -   The **NavigationService** service property. This delegates the core functionality of navigation in a region to the replaceable **IRegionNavigationService** interface.
 -   The **SortComparison** property. This property is used to provide the comparison used to sort the views.
 -   The **RequestNavigate** method. As the **IRegion** interface, implements the **INavigateAsync** interface, this member of that interface should be also implemented. This method initiates navigation to the target specified by the provided Uniform Resource Identifier (URI).
