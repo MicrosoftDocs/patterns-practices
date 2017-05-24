@@ -5,8 +5,6 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindow
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736242(v=PandP.50)'
 ---
 
-Prism Class Library
-
 # DefaultNotificationWindow Events
 
 The [DefaultNotificationWindow](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow(v=pandp.50)) type exposes the following members.
