@@ -76,14 +76,23 @@ With the addition of supporting MEF, there were several changes to the Prism Lib
     -   The **ConfigureModuleCatalog** virtual method was added to allow modifying the catalog after creation.
 	```C#
 		// Using the ConfigureModuleCatalog method to populate
+		
 		// the module catalog.
+		
 		protected override void ConfigureModuleCatalog()
+		
 		{
+		
 			base.ConfigureModuleCatalog();
+			
 			ModuleCatalog moduleCatalog = (ModuleCatalog)this.ModuleCatalog;
+			
 			moduleCatalog.AddModule(typeof (ModuleA), "ModuleB")
+			
 						 .AddModule(typeof (ModuleB))
+						 
 						 ;
+						 
 		}
 	```
     -   The **ConfigureServiceLocator** virtual method was added to allow overriding the configuration of the **ServiceLocator**.
@@ -101,7 +110,6 @@ The **IModuleTypeLoader** and **IModuleManager** interfaces have changed to use 
 The **IRegion** interface has changed to support navigation features. You will need to update any existing classes that implement this interface.
 
 The following are the new members, which are used for navigation:
-
 
 -   The **NavigationService** service property. This delegates the core functionality of navigation in a region to the replaceable **IRegionNavigationService** interface.
 -   The **SortComparison** property. This property is used to provide the comparison used to sort the views.
