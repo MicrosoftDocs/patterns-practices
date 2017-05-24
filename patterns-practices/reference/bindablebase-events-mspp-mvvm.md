@@ -5,17 +5,12 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Mvvm.BindableBase'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736183(v=PandP.50)'
 ---
 
-Prism Class Library
+# BindableBase Events
 
-BindableBase Events
-===================
+The [BindableBase](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase(v=pandp.50)) type exposes the following members.
 
-The [BindableBase](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.bindablebase) type exposes the following members.
+## Events
 
-Events
-------
-
-<span id="eventTableToggle"></span>
 <table>
 <colgroup>
 <col width="33%" />
@@ -32,7 +27,7 @@ Events
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736183.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
-<td><a href="https://msdn.microsoft.com/e:microsoft.practices.prism.mvvm.bindablebase.propertychanged">PropertyChanged</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase.propertychanged(v=pandp.50)">PropertyChanged</a></td>
 <td><div class="summary">
 Occurs when a property value changes.
 </div></td>
@@ -40,10 +35,8 @@ Occurs when a property value changes.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
+[BindableBase Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase(v=pandp.50))
 
-[BindableBase Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.bindablebase)
-
-[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mvvm)
+[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm(v=pandp.50))
