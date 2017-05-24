@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736255(v=PandP.50)'
 
 # EventBase Methods
 
-The [EventBase](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventbase) type exposes the following members.
+The [EventBase](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase) type exposes the following members.
 
 ## Methods
 
@@ -28,9 +28,9 @@ The [EventBase](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubeve
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736255.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.pubsubevents.eventbase.contains(microsoft.practices.prism.pubsubevents.subscriptiontoken)">Contains</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase.contains(microsoft.practices.prism.pubsubevents.subscriptiontoken)">Contains</a></td>
 <td><div class="summary">
-Returns <b>Truetrue</b> (<b>True</b> in Visual Basic) if there is a subscriber matching <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken">SubscriptionToken</a>.
+Returns <b>Truetrue</b> (<b>True</b> in Visual Basic) if there is a subscriber matching <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken">SubscriptionToken</a>.
 </div></td>
 </tr>
 <tr class="even">
@@ -67,16 +67,16 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736255.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.pubsubevents.eventbase.internalpublish(system.object%5b%5d)">InternalPublish</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase.internalpublish(system.object%5b%5d)">InternalPublish</a></td>
 <td><div class="summary">
-Calls all the execution strategies exposed by the list of <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription">IEventSubscription</a>.
+Calls all the execution strategies exposed by the list of <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription">IEventSubscription</a>.
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736255.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.pubsubevents.eventbase.internalsubscribe(microsoft.practices.prism.pubsubevents.ieventsubscription)">InternalSubscribe</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase.internalsubscribe(microsoft.practices.prism.pubsubevents.ieventsubscription)">InternalSubscribe</a></td>
 <td><div class="summary">
-Adds the specified <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription">IEventSubscription</a> to the subscribers' collection.
+Adds the specified <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription">IEventSubscription</a> to the subscribers' collection.
 </div></td>
 </tr>
 <tr class="even">
@@ -97,9 +97,9 @@ Returns a string that represents the current object.
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736255.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.pubsubevents.eventbase.unsubscribe(microsoft.practices.prism.pubsubevents.subscriptiontoken)">Unsubscribe</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase.unsubscribe(microsoft.practices.prism.pubsubevents.subscriptiontoken)">Unsubscribe</a></td>
 <td><div class="summary">
-Removes the subscriber matching the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken">SubscriptionToken</a>.
+Removes the subscriber matching the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken">SubscriptionToken</a>.
 </div></td>
 </tr>
 </tbody>
@@ -107,6 +107,6 @@ Removes the subscriber matching the <a href="https://msdn.microsoft.com/t:micros
 
 ## See Also
 
-[EventBase Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventbase)
+[EventBase Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents)
