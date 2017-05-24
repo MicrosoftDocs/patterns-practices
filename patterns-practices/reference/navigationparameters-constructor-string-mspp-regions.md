@@ -19,7 +19,7 @@ Initializes a new instance of the [NavigationParameters](https://msdn.microsoft.
 
 ```C#
 public NavigationParameters(
-	string query
+	string query 
 )
 ```
 
