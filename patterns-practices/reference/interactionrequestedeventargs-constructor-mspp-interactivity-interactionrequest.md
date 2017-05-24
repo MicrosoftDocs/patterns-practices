@@ -22,7 +22,7 @@ public InteractionRequestedEventArgs(
 	INotification context,
 	Action callback
 )
-````
+```
 
 ```VB
 'Declaration
@@ -37,11 +37,11 @@ Public Sub New (
 
 *context*
 
-	Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.inotification(v=pandp.50))
+Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.inotification(v=pandp.50))
 
 *callback*
 
-	Type: [System.Action](http://msdn.microsoft.com/en-us/library/bb534741)
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/bb534741)
 
 ## See Also
 
