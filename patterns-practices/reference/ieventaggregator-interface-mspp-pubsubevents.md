@@ -5,8 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.PubSubEvents.IEventAggregator'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736250(v=PandP.50)'
 ---
 
-Prism Class Library
-
 # IEventAggregator Interface
 
 Defines an interface to get instances of an event type.
