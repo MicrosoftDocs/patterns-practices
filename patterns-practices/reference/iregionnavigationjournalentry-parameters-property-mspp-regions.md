@@ -5,8 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry.P
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736251(v=PandP.50)'
 ---
 
-Prism Class Library
-
 # IRegionNavigationJournalEntry.Parameters Property
 
 Gets or sets the NavigationParameters instance.
