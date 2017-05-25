@@ -7,16 +7,12 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736292(v=PandP.50)'
 
 Prism Class Library
 
-ModuleTypeLoaderNotFoundException Events
-========================================
+# ModuleTypeLoaderNotFoundException Events
 
+The [ModuleTypeLoaderNotFoundException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception(v=pandp.50)) type exposes the following members.
 
-The [ModuleTypeLoaderNotFoundException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduletypeloadernotfoundexception) type exposes the following members.
+## Events
 
-Events
-------
-
-<span id="eventTableToggle"></span>
 <table>
 <colgroup>
 <col width="33%" />
@@ -42,10 +38,8 @@ Occurs when an exception is serialized to create an exception state object that 
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
-<span id="seeAlsoToggle"></span>
-[ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
+[ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception(v=pandp.50))
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
