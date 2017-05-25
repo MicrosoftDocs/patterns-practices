@@ -5,17 +5,10 @@ ms:assetid: 'N:Microsoft.Practices.Prism.UnityExtensions.Regions'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736283(v=PandP.50)'
 ---
 
-Prism Class Library
+# Microsoft.Practices.Prism.UnityExtensions.Regions Namespace
 
-Microsoft.Practices.Prism.UnityExtensions.Regions Namespace
-===========================================================
+## Classes
 
- 
-
-Classes
--------
-
-<span id="classToggle"></span>
 <table>
 
 <thead>

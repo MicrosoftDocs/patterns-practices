@@ -7,15 +7,14 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736287(v=PandP.50)'
 
 Prism Class Library
 
-IEventSubscription Methods
-==========================
+# IEventSubscription Methods
 
+The [IEventSubscription](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50)) type exposes the following members.
+
+## Methods
+=======
 The [IEventSubscription](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription) type exposes the following members.
 
-Methods
--------
-
-<span id="methodTableToggle"></span>
 <table>
 
 <thead>
@@ -36,9 +35,12 @@ Gets the execution strategy to publish this event.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
+[IEventSubscription Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50))
+
+[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+=======
 
 [IEventSubscription Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription)
 

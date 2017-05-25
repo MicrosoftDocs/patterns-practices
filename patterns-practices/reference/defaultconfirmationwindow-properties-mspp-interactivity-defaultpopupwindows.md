@@ -5,11 +5,13 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWi
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736128(v=PandP.50)'
 ---
 
-Prism Class Library
+# DefaultConfirmationWindow Properties
 
-DefaultConfirmationWindow Properties
-====================================
+The [DefaultConfirmationWindow](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow(v=pandp.50)) type exposes the following members.
 
+## Properties
+
+=======
 The [DefaultConfirmationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow) type exposes the following members.
 
 Properties
@@ -1225,9 +1227,12 @@ Gets or sets a window's border style.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
+[DefaultConfirmationWindow Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow(v=pandp.50))
+
+[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows(v=pandp.50))
+=======
 
 [DefaultConfirmationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
 
