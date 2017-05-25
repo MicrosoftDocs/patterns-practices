@@ -10,18 +10,14 @@ Prism Class Library
 UnityBootstrapper Properties
 ============================
 
-The [UnityBootstrapper](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unitybootstrapper) type exposes the following members.
+The [UnityBootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper) type exposes the following members.
 
 Properties
 ----------
 
 <span id="propertyTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -32,34 +28,34 @@ Properties
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431227.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.unityextensions.unitybootstrapper.container">Container</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper.container">Container</a></td>
 <td><div class="summary">
 Gets the default IUnityContainer for the application.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431227.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.bootstrapper.logger">Logger</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.logger">Logger</a></td>
 <td><div class="summary">
-Gets the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a> for the application.
+Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a> for the application.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431227.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.bootstrapper.modulecatalog">ModuleCatalog</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.modulecatalog">ModuleCatalog</a></td>
 <td><div class="summary">
-Gets the default <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulecatalog">IModuleCatalog</a> for the application.
+Gets the default <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog">IModuleCatalog</a> for the application.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431227.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.bootstrapper.shell">Shell</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.shell">Shell</a></td>
 <td><div class="summary">
 Gets the shell user interface
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
 </tr>
 </tbody>
 </table>
@@ -68,6 +64,6 @@ See Also
 --------
 
 
-[UnityBootstrapper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unitybootstrapper)
+[UnityBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)
+[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)

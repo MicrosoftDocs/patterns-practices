@@ -12,7 +12,7 @@ ModulesConfigurationSection.Modules Property
 
 Gets or sets the collection of modules configuration.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -23,15 +23,15 @@ Gets or sets the collection of modules configuration.
 public ModuleConfigurationElementCollection Modules { get; set; }Public Property Modules As ModuleConfigurationElementCollection Get Set
 ### Property Value
 
-Type: [ModuleConfigurationElementCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
-A [ModuleConfigurationElementCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection) of [ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement).
+Type: [ModuleConfigurationElementCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
+A [ModuleConfigurationElementCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection) of [ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement).
 
 See Also
 --------
 
 
-[ModulesConfigurationSection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulesconfigurationsection)
+[ModulesConfigurationSection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection)
 
 [ModulesConfigurationSection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulesconfigurationsection)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

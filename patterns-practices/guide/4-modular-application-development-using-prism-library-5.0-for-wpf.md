@@ -5,7 +5,7 @@ ms:assetid: '8c55fb84-b40a-4321-be92-66f9206eef92'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405479(v=PandP.40)'
 ---
 
-#  Modular Application Development Using Prism Library 5.0 for WPF
+# 4: Modular Application Development Using Prism Library 5.0 for WPF
 
 From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 

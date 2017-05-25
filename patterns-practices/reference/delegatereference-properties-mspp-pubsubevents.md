@@ -16,11 +16,7 @@ Properties
 ----------
 
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -31,9 +27,9 @@ Properties
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn683948.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.pubsubevents.delegatereference.target">Target</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.delegatereference.target">Target</a></td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/y22acf51">Delegate</a> (the target) referenced by the current <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.delegatereference">DelegateReference</a> object.
+Gets the <a href="http://msdn.microsoft.com/en-us/library/y22acf51">Delegate</a> (the target) referenced by the current <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.delegatereference">DelegateReference</a> object.
 </div></td>
 </tr>
 </tbody>

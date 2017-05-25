@@ -10,6 +10,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736109(v=PandP.50)'
 The [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand) type exposes the following members.
 
 ## Fields
+=======
+The [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand) type exposes the following members.
 
 |                                                                                                | Name                                                                                                                        | Description                                                                                                                  |
 |------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------|
@@ -22,3 +24,7 @@ The [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.pri
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
 
+=======
+[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
+
+[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)

@@ -10,9 +10,9 @@ Prism Class Library
 AssemblyResolver Constructor
 ============================
 
-Initializes a new instance of the [AssemblyResolver](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.assemblyresolver) class
+Initializes a new instance of the [AssemblyResolver](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver) class
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -26,8 +26,8 @@ See Also
 --------
 
 
-[AssemblyResolver Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.assemblyresolver)
+[AssemblyResolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver)
 
 [AssemblyResolver Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.assemblyresolver)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

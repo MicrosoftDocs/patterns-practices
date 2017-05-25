@@ -5,62 +5,32 @@ ms:assetid: 'P:Microsoft.Practices.Prism.PubSubEvents.DataEventArgs\`1.Value'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736102(v=PandP.50)'
 ---
 
-# DataEventArgs&lt;TData&gt;.Value Property
+Prism Class Library
 
-  Gets the information related to the event.
-
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
-
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
-
-## Syntax
-
-```C#
-public TData Value { get; }
-```
-
-### Property Value
-
-Type: [TData](https://msdn.microsoft.com/en-us/library/dn736191(v=pandp.50))
-
-Information related to the event.
-
-## See Also
-
-[DataEventArgs&lt;TData&gt; Class](https://msdn.microsoft.com/en-us/library/dn736191(v=pandp.50))
-
-DataEventArgs&lt;TData&gt; Members
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
-
-
-
-# DataEventArgs(Of TData).Value Property
+DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;).Value Property
+============================================================
 
 Gets the information related to the event.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
-
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
-```VB
-'Declaration
-Public ReadOnly Property Value As TData
-	Get
-```
 
+public TData Value { get; }Public ReadOnly Property Value As TData Get
 ### Property Value
 
-Type: [TData](https://msdn.microsoft.com/en-us/library/dn736191(v=pandp.50))
-
+Type: [TData](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dataeventargs%601)
 Information related to the event.
 
-## See Also
+See Also
+--------
 
-[DataEventArgs(Of TData) Class](https://msdn.microsoft.com/en-us/library/dn736191(v=pandp.50))
 
-DataEventArgs(Of TData) Members
+[DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dataeventargs%601)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+[DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.dataeventargs%601)
+
+[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+

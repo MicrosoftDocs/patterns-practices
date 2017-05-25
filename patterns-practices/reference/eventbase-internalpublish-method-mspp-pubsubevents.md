@@ -5,59 +5,38 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventBase.InternalPublish(
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736108(v=PandP.50)'
 ---
 
+Prism Class Library
 
-# EventBase.InternalPublish Method
+EventBase.InternalPublish Method
+====================================
 
+Calls all the execution strategies exposed by the list of [IEventSubscription](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription).
 
-Calls all the execution strategies exposed by the list of [IEventSubscription](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription).
-
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
-
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
-```C#
-protected virtual void InternalPublish(
-	params Object[] arguments
-)
-```
+
+protected virtual void InternalPublish( params Object[] arguments )Protected Overridable Sub InternalPublish ( ParamArray arguments As Object() )
 
 ### Parameters
 
-*arguments* 
-
-Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&lsqb;&rsqb;
-
+arguments  
+Type: array&lt;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;
 The arguments that will be passed to the listeners.
 
-## Remarks
+Remarks
+-------
 
-Before executing the strategies, this class will prune all the subscribers from the list that return a **null**a null reference (**Nothing** in Visual Basic)[Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) when calling the [GetExecutionStrategy()](https://msdn.microsoft.com/m:microsoft.practices.prism.pubsubevents.ieventsubscription.getexecutionstrategy) method.
+Before executing the strategies, this class will prune all the subscribers from the list that return a nullNothingnullptra null reference (Nothing in Visual Basic)[Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) when calling the [GetExecutionStrategy()()()](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription.getexecutionstrategy) method.
 
-```VB
-'Declaration
-Protected Overridable Sub InternalPublish ( 
-	ParamArray arguments As Object()
-)
-```
+See Also
+--------
 
-### Parameters
 
-*arguments*
+[EventBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase)
 
-Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&lpar;&rpar;
+[EventBase Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.eventbase)
 
-The arguments that will be passed to the listeners.
-
-## Remarks
-
-Before executing the strategies, this class will prune all the subscribers from the list that return a **Nothing**a null reference (**Nothing** in Visual Basic)[Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) when calling the [GetExecutionStrategy](https://msdn.microsoft.com/m:microsoft.practices.prism.pubsubevents.ieventsubscription.getexecutionstrategy) method.
-
-## See Also
-
-[EventBase Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventbase)
-
-EventBase Members
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)

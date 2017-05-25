@@ -160,7 +160,7 @@ The [ModuleDependencyCollection](https://msdn.microsoft.com/en-us/library/micros
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/d22w8c80" target="_blank">CopyTo</a>
@@ -206,7 +206,7 @@ Creates a new <a href="https://msdn.microsoft.com/en-us/library/microsoft.practi
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/0eye6ky8" target="_blank">Equals</a>
@@ -241,7 +241,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms134159" target="_blank">GetEnumerator</a>
@@ -252,7 +252,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/7w9k269c" target="_blank">GetHashCode</a>
@@ -285,7 +285,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/dfwy45w9" target="_blank">GetType</a>
@@ -351,7 +351,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms134160" target="_blank">IsReadOnly</a>
@@ -505,7 +505,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2" target="_blank">ToString</a>

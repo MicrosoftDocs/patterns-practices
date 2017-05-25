@@ -12,7 +12,7 @@ UriParsingHelper Class
 
 Helper class for parsing [Uri](http://msdn.microsoft.com/en-us/library/txt7706a) instances.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -34,4 +34,4 @@ See Also
 
 [UriParsingHelper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.uriparsinghelper)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)
+[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

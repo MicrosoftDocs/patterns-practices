@@ -10,9 +10,9 @@ Prism Class Library
 IRegionBehaviorFactory Interface
 ================================
 
-Interface for RegionBehaviorFactories. This factory allows the registration of the default set of RegionBehaviors, that will be added to the [IRegionBehaviorCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorcollection)s of all [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)s, unless overridden on a 'per-region' basis.
+Interface for RegionBehaviorFactories. This factory allows the registration of the default set of RegionBehaviors, that will be added to the [IRegionBehaviorCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection)s of all [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)s, unless overridden on a 'per-region' basis.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -28,4 +28,4 @@ See Also
 
 [IRegionBehaviorFactory Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionbehaviorfactory)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

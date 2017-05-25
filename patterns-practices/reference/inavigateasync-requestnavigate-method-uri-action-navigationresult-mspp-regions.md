@@ -51,7 +51,7 @@ The callback executed when the navigation request is completed.
 Remarks
 -------
 
-<span id="remarksToggle"></span> Convenience overloads for this method can be found as extension methods on the [NavigationAsyncExtensions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions(v=pandp.50)) class.
+ Convenience overloads for this method can be found as extension methods on the [NavigationAsyncExtensions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions(v=pandp.50)) class.
 
 See Also
 --------

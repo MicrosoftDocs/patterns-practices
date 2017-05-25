@@ -10,7 +10,7 @@ Prism Class Library
 IView Properties
 ================
 
-The [IView](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.iview) type exposes the following members.
+The [IView](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.iview) type exposes the following members.
 
 Properties
 ----------
@@ -18,12 +18,12 @@ Properties
 <span id="propertyTableToggle"></span>
 |                                                                                                  | Name                                                                                         | Description |
 |--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------|
-| ![](https://msdn.microsoft.com/en-us/Dn736146.pubproperty(en-us,PandP.50).gif "Public property") | [DataContext](https://msdn.microsoft.com/p:microsoft.practices.prism.mvvm.iview.datacontext) |             |
+| ![](https://msdn.microsoft.com/en-us/Dn736146.pubproperty(en-us,PandP.50).gif "Public property") | [DataContext](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.iview.datacontext) |             |
 
 See Also
 --------
 
 
-[IView Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.iview)
+[IView Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.iview)
 
-[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mvvm)
+[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)

@@ -12,11 +12,7 @@ Prism Class Library
 ## Methods
 
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -26,15 +22,15 @@ Prism Class Library
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431136.pubmethod(en-us,PandP.50).gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg431136.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.servicelocatorextensions.tryresolve(microsoft.practices.servicelocation.iservicelocator%2csystem.type)">TryResolve(IServiceLocator, Type)</a></td>
+<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg431136.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.servicelocatorextensions.tryresolve(microsoft.practices.servicelocation.iservicelocator%2csystem.type)">TryResolve(IServiceLocator, Type)</a></td>
 <td><div class="summary">
 Attempts to resolve specified type from the underlying IServiceLocator.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431136.pubmethod(en-us,PandP.50).gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg431136.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.servicelocatorextensions.tryresolve%60%601(microsoft.practices.servicelocation.iservicelocator)">TryResolve&lt;(Of &lt;(T&gt;)&gt;)(IServiceLocator)</a></td>
+<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg431136.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.servicelocatorextensions.tryresolve%60%601(microsoft.practices.servicelocation.iservicelocator)">TryResolve&lt;(Of &lt;(T&gt;)&gt;)(IServiceLocator)</a></td>
 <td><div class="summary">
 Attempts to resolve specified type from the underlying IServiceLocator.
 </div></td>

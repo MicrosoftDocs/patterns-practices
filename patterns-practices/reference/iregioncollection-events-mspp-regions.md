@@ -10,18 +10,14 @@ Prism Class Library
 IRegionCollection Events
 ========================
 
-The [IRegionCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregioncollection) type exposes the following members.
+The [IRegionCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection) type exposes the following members.
 
 Events
 ------
 
 <span id="eventTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -45,6 +41,6 @@ See Also
 --------
 
 
-[IRegionCollection Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregioncollection)
+[IRegionCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

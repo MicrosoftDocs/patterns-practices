@@ -10,18 +10,14 @@ Prism Class Library
 ModuleAttribute Properties
 ==========================
 
-The [ModuleAttribute](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleattribute) type exposes the following members.
+The [ModuleAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleattribute) type exposes the following members.
 
 Properties
 ----------
 
 <span id="propertyTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -32,21 +28,21 @@ Properties
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431165.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleattribute.modulename">ModuleName</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleattribute.modulename">ModuleName</a></td>
 <td><div class="summary">
 Gets or sets the name of the module.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431165.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleattribute.ondemand">OnDemand</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleattribute.ondemand">OnDemand</a></td>
 <td><div class="summary">
 Gets or sets the value indicating whether the module should be loaded OnDemand.
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431165.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleattribute.startuploaded">StartupLoaded</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleattribute.startuploaded">StartupLoaded</a></td>
 <td><strong>Obsolete.</strong>
 <div class="summary">
 Gets or sets a value indicating whether the module should be loaded at startup.
@@ -67,6 +63,6 @@ See Also
 --------
 
 
-[ModuleAttribute Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleattribute)
+[ModuleAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleattribute)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

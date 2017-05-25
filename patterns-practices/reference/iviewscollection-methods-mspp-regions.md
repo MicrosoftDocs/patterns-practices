@@ -10,18 +10,14 @@ Prism Class Library
 IViewsCollection Methods
 ========================
 
-The [IViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iviewscollection) type exposes the following members.
+The [IViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection) type exposes the following members.
 
 Methods
 -------
 
 <span id="methodTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -31,14 +27,14 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431098.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iviewscollection.contains(system.object)">Contains</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection.contains(system.object)">Contains</a></td>
 <td><div class="summary">
 Determines whether the collection contains a specific value.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431098.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/s793z9y2">GetEnumerator()()()</a></td>
 <td><div class="summary">
 Returns an enumerator that iterates through the collection.
@@ -46,7 +42,7 @@ Returns an enumerator that iterates through the collection.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/9eekhta0">IEnumerable</a>&lt;(Of &lt;(<a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>&gt;)&gt;).)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431098.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/5zae5365">GetEnumerator()()()</a></td>
 <td><div class="summary">
 Returns an enumerator that iterates through a collection.
@@ -60,6 +56,6 @@ See Also
 --------
 
 
-[IViewsCollection Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iviewscollection)
+[IViewsCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

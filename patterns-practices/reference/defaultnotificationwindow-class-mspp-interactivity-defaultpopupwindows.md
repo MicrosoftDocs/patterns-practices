@@ -14,7 +14,7 @@ Interaction logic for NotificationChildWindow.xaml
 
 DefaultNotificationWindow
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.defaultpopupwindows)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -44,4 +44,4 @@ See Also
 
 [DefaultNotificationWindow Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
 
-[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.defaultpopupwindows)
+[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)

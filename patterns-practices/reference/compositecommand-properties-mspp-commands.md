@@ -14,11 +14,7 @@ The [CompositeCommand](https://msdn.microsoft.com/en-us/library/microsoft.practi
 ## Properties
 
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -29,7 +25,7 @@ The [CompositeCommand](https://msdn.microsoft.com/en-us/library/microsoft.practi
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419157.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.commands.compositecommand.registeredcommands">RegisteredCommands</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand.registeredcommands">RegisteredCommands</a></td>
 <td><div class="summary">
 Gets the list of all the registered commands.
 </div></td>

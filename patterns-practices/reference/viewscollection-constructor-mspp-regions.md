@@ -10,9 +10,9 @@ Prism Class Library
 ViewsCollection Constructor
 ===========================
 
-Initializes a new instance of the [ViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewscollection) class.
+Initializes a new instance of the [ViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -25,19 +25,19 @@ public ViewsCollection( ObservableCollection&lt;ItemMetadata&gt; list, Predicate
 ### Parameters
 
 list  
-Type: [System.Collections.ObjectModel.ObservableCollection](http://msdn.microsoft.com/en-us/library/ms668604)&lt;(Of &lt;([ItemMetadata](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemmetadata)&gt;)&gt;)
+Type: [System.Collections.ObjectModel.ObservableCollection](http://msdn.microsoft.com/en-us/library/ms668604)&lt;(Of &lt;([ItemMetadata](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)&gt;)&gt;)
 The list to wrap and filter.
 
 filter  
-Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)&lt;(Of &lt;([ItemMetadata](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemmetadata)&gt;)&gt;)
+Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)&lt;(Of &lt;([ItemMetadata](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)&gt;)&gt;)
 A predicate to filter the list collection.
 
 See Also
 --------
 
 
-[ViewsCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewscollection)
+[ViewsCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection)
 
 [ViewsCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewscollection)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

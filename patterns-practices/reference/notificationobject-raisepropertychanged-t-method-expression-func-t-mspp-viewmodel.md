@@ -12,7 +12,7 @@ NotificationObject.RaisePropertyChanged&lt;(Of &lt;(T&gt;)&gt;) Method (Expressi
 
 Raises this object's PropertyChanged event.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/n:microsoft.practices.prism.viewmodel)
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -39,10 +39,10 @@ See Also
 --------
 
 
-[NotificationObject Class](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.notificationobject)
+[NotificationObject Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject)
 
 [NotificationObject Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.viewmodel.notificationobject)
 
 [RaisePropertyChanged Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.viewmodel)
+[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)

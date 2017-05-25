@@ -12,7 +12,7 @@ DirectoryModuleCatalog.BuildChildDomain Method
 
 Creates a new child domain and copies the evidence from a parent domain.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -36,7 +36,7 @@ The new child domain.
 Remarks
 -------
 
-<span id="remarksToggle"></span> Grabs the parentDomain evidence and uses it to construct the new [AppDomain](http://msdn.microsoft.com/en-us/library/w124b5fa) because in a ClickOnce execution environment, creating an [AppDomain](http://msdn.microsoft.com/en-us/library/w124b5fa) will by default pick up the partial trust environment of the AppLaunch.exe, which was the root executable. The AppLaunch.exe does a create domain and applies the evidence from the ClickOnce manifests to create the domain that the application is actually executing in. This will need to be Full Trust for Prism applications.
+ Grabs the parentDomain evidence and uses it to construct the new [AppDomain](http://msdn.microsoft.com/en-us/library/w124b5fa) because in a ClickOnce execution environment, creating an [AppDomain](http://msdn.microsoft.com/en-us/library/w124b5fa) will by default pick up the partial trust environment of the AppLaunch.exe, which was the root executable. The AppLaunch.exe does a create domain and applies the evidence from the ClickOnce manifests to create the domain that the application is actually executing in. This will need to be Full Trust for Prism applications.
 
 Exceptions
 ----------
@@ -50,8 +50,8 @@ See Also
 --------
 
 
-[DirectoryModuleCatalog Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.directorymodulecatalog)
+[DirectoryModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.directorymodulecatalog)
 
 [DirectoryModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.directorymodulecatalog)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

@@ -10,18 +10,14 @@ Prism Class Library
 ModuleTypeLoadingException Events
 =================================
 
-The [ModuleTypeLoadingException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduletypeloadingexception) type exposes the following members.
+The [ModuleTypeLoadingException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception) type exposes the following members.
 
 Events
 ------
 
 <span id="eventTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -45,6 +41,6 @@ See Also
 --------
 
 
-[ModuleTypeLoadingException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduletypeloadingexception)
+[ModuleTypeLoadingException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

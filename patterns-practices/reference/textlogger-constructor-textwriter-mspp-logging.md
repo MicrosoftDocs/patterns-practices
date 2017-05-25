@@ -10,9 +10,9 @@ Prism Class Library
 TextLogger Constructor (TextWriter)
 ===================================
 
-Initializes a new instance of [TextLogger](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.textlogger).
+Initializes a new instance of [TextLogger](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger).
 
-**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/n:microsoft.practices.prism.logging)
+**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -32,10 +32,10 @@ See Also
 --------
 
 
-[TextLogger Class](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.textlogger)
+[TextLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger)
 
 [TextLogger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.logging.textlogger)
 
 [TextLogger Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.logging.textlogger.)
 
-[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.logging)
+[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)

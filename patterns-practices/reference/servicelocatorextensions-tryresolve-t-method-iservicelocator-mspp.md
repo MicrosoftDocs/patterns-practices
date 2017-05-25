@@ -66,7 +66,7 @@ In Visual Basic and C\#, you can call this method as an instance method on any o
 Remarks
 -------
 
-<span id="remarksToggle"></span> This will return null on any ActivationException.
+ This will return null on any ActivationException.
 
 See Also
 --------

@@ -12,7 +12,7 @@ CollectionExtensions.AddRange&lt;(Of &lt;(T&gt;)&gt;) Method
 
 Add a range of items to a collection.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -59,8 +59,8 @@ See Also
 --------
 
 
-[CollectionExtensions Class](https://msdn.microsoft.com/t:microsoft.practices.prism.collectionextensions)
+[CollectionExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.collectionextensions)
 
 [CollectionExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.collectionextensions)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)
+[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

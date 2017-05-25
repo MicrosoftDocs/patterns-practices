@@ -32,7 +32,7 @@ Public Sub New
 ```
 =======
 
-[EventAggregator Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventaggregator)
+[EventAggregator Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventaggregator)
 
 
 ## See Also

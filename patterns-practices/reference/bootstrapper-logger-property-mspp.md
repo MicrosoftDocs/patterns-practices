@@ -10,9 +10,9 @@ Prism Class Library
 Bootstrapper.Logger Property
 ================================
 
-Gets the [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade) for the application.
+Gets the [ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade) for the application.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -23,15 +23,15 @@ Gets the [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.
 protected ILoggerFacade Logger { get; set; }Protected Property Logger As ILoggerFacade Get Set
 ### Property Value
 
-Type: [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade)
-A [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade) instance.
+Type: [ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade)
+A [ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade) instance.
 
 See Also
 --------
 
 
-[Bootstrapper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.bootstrapper)
+[Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
 
 [Bootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.bootstrapper)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)
+[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

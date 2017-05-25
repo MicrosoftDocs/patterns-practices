@@ -12,7 +12,7 @@ ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Class
 
 Class that wraps an object, so that other classes can notify for Change events. Typically, this class is set as a Dependency Property on DependencyObjects, and allows other classes to observe any changes in the Value.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -31,7 +31,7 @@ The type of the property that's wrapped in the Observable object
 Remarks
 -------
 
-<span id="remarksToggle"></span> This class is required, because in Silverlight, it's not possible to receive Change notifications for Dependency properties that you do not own.
+ This class is required, because in Silverlight, it's not possible to receive Change notifications for Dependency properties that you do not own.
 
 Inheritance Hierarchy
 ---------------------
@@ -50,4 +50,4 @@ See Also
 
 [ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.observableobject%601)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)
+[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

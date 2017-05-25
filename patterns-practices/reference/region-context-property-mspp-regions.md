@@ -12,7 +12,7 @@ Region.Context Property
 
 Gets or sets a context for the region. This value can be used by the user to share context with the views.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -27,14 +27,14 @@ Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The context value to be shared.
 ### Implements
 
-[IRegion.Context](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.context)
+[IRegion.Context](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.context)
 
 See Also
 --------
 
 
-[Region Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.region)
+[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 
 [Region Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.region)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

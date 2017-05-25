@@ -59,7 +59,7 @@ When modifying the source code, follow these best practices:
 
 This section outlines the extension points, by functional area, and associated information for extending the library.
 
-## Container and Bootstrapper
+## <a name="containerandbootstrapper"></a>Container and Bootstrapper
 
 The Prism Library directly supports both the Unity Application Block (Unity) and Managed Extensibility Framework (MEF) as dependency injection containers; however, because the container is accessed through the **IServiceLocator** interface, the container can be replaced.
 
@@ -332,7 +332,7 @@ The following describes several ways to populate the catalog.
         }
 ```
 
-## Retrieving and Loading Modules from a Custom Assembly Source
+## <a name="retrievingandloadingmodulesfromacustom"></a>Retrieving and Loading Modules from a Custom Assembly Source
 
 
 If your application has a packaging or distribution mechanism other than assemblies, you can implement your own **IModuleTypeLoader** to download and access types.

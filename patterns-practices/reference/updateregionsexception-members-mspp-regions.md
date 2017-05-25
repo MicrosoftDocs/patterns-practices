@@ -10,18 +10,14 @@ Prism Class Library
 UpdateRegionsException Members
 ==============================
 
-The [UpdateRegionsException](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.updateregionsexception) type exposes the following members.
+The [UpdateRegionsException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception) type exposes the following members.
 
 Constructors
 ------------
 
 <span id="constructorTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -31,31 +27,31 @@ Constructors
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405519.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.updateregionsexception.">UpdateRegionsException()()()</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception.">UpdateRegionsException()()()</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.updateregionsexception">UpdateRegionsException</a>
+Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception">UpdateRegionsException</a>
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405519.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.updateregionsexception.">UpdateRegionsException(String)</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception.">UpdateRegionsException(String)</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.updateregionsexception">UpdateRegionsException</a> class with a specified error message.
+Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception">UpdateRegionsException</a> class with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg405519.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.updateregionsexception.">UpdateRegionsException(SerializationInfo, StreamingContext)</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception.">UpdateRegionsException(SerializationInfo, StreamingContext)</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.updateregionsexception">UpdateRegionsException</a> class with serialized data.
+Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception">UpdateRegionsException</a> class with serialized data.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405519.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.updateregionsexception.">UpdateRegionsException(String, Exception)</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception.">UpdateRegionsException(String, Exception)</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.updateregionsexception">UpdateRegionsException</a> class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception">UpdateRegionsException</a> class with a specified error message and a reference to the inner exception that is the cause of this exception.
 </div></td>
 </tr>
 </tbody>
@@ -66,11 +62,7 @@ Methods
 
 <span id="methodTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -80,7 +72,7 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405519.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/bsc2ak47">Equals</a></td>
 <td><div class="summary">
 Determines whether the specified <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a> is equal to the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
@@ -96,7 +88,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405519.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/49kcee3b">GetBaseException</a></td>
 <td><div class="summary">
 When overridden in a derived class, returns the <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a> that is the root cause of one or more subsequent exceptions.
@@ -104,7 +96,7 @@ When overridden in a derived class, returns the <a href="http://msdn.microsoft.c
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405519.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/zdee4b3y">GetHashCode</a></td>
 <td><div class="summary">
 Serves as a hash function for a particular type.
@@ -112,7 +104,7 @@ Serves as a hash function for a particular type.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405519.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/fwb1489e">GetObjectData</a></td>
 <td><div class="summary">
 When overridden in a derived class, sets the <a href="http://msdn.microsoft.com/en-us/library/a9b6042e">SerializationInfo</a> with information about the exception.
@@ -120,7 +112,7 @@ When overridden in a derived class, sets the <a href="http://msdn.microsoft.com/
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405519.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/44zb316t">GetType</a></td>
 <td><div class="summary">
 Gets the runtime type of the current instance.
@@ -136,7 +128,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405519.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/es4y6f7e">ToString</a></td>
 <td><div class="summary">
 Creates and returns a string representation of the current exception.
@@ -151,11 +143,7 @@ Extension Methods
 
 <span id="extensionMethodTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -166,11 +154,11 @@ Extension Methods
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg405519.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.exceptionextensions.getrootexception(system.exception)">GetRootException</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions.getrootexception(system.exception)">GetRootException</a></td>
 <td><div class="summary">
 Looks at all the inner exceptions of the exception parameter to find the most likely root cause of the exception. This works by skipping all registered exception types.
 </div>
-(Defined by <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.exceptionextensions">ExceptionExtensions</a>.)</td>
+(Defined by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions">ExceptionExtensions</a>.)</td>
 </tr>
 </tbody>
 </table>
@@ -180,11 +168,7 @@ Properties
 
 <span id="propertyTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -265,11 +249,7 @@ Events
 
 <span id="eventTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -293,6 +273,6 @@ See Also
 --------
 
 
-[UpdateRegionsException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.updateregionsexception)
+[UpdateRegionsException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

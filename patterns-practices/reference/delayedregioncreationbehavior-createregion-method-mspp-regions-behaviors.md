@@ -10,9 +10,9 @@ Prism Class Library
 DelayedRegionCreationBehavior.CreateRegion Method
 =====================================================
 
-Method that will create the region, by calling the right [IRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter).
+Method that will create the region, by calling the right [IRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -26,7 +26,7 @@ protected virtual IRegion CreateRegion( DependencyObject targetElement, string r
 
 targetElement  
 Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
-The target element that will host the [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion).
+The target element that will host the [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion).
 
 regionName  
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
@@ -34,15 +34,15 @@ Name of the region.
 
 ### Return Value
 
-Type: [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
-The created [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
+Type: [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
+The created [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 
 See Also
 --------
 
 
-[DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
+[DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
 
 [DelayedRegionCreationBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

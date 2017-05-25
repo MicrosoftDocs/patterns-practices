@@ -10,18 +10,14 @@ Prism Class Library
 ModuleDownloadProgressChangedEventArgs Properties
 =================================================
 
-The [ModuleDownloadProgressChangedEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs) type exposes the following members.
+The [ModuleDownloadProgressChangedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs) type exposes the following members.
 
 Properties
 ----------
 
 <span id="propertyTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -32,14 +28,14 @@ Properties
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431173.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs.bytesreceived">BytesReceived</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs.bytesreceived">BytesReceived</a></td>
 <td><div class="summary">
 Gets the bytes received.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431173.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs.moduleinfo">ModuleInfo</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs.moduleinfo">ModuleInfo</a></td>
 <td><div class="summary">
 Getsthe module info.
 </div></td>
@@ -54,7 +50,7 @@ Gets the asynchronous task progress percentage.
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431173.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs.totalbytestoreceive">TotalBytesToReceive</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs.totalbytestoreceive">TotalBytesToReceive</a></td>
 <td><div class="summary">
 Gets the total bytes to receive.
 </div></td>
@@ -74,6 +70,6 @@ See Also
 --------
 
 
-[ModuleDownloadProgressChangedEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
+[ModuleDownloadProgressChangedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

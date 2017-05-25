@@ -10,17 +10,13 @@ Prism Class Library
 ObservableObject&lt;T&gt; Properties
 ===================================================
 
-The [ObservableObject&lt;T&gt;](https://msdn.microsoft.com/t:microsoft.practices.prism.observableobject%601) type exposes the following members.
+The [ObservableObject&lt;T&gt;](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601) type exposes the following members.
 
 Properties
 ----------
 
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -722,7 +718,7 @@ Gets or sets a value that indicates whether layout rounding should be applied to
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431182.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.observableobject%601.value">Value</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601.value">Value</a></td>
 <td><div class="summary">
 The value that's wrapped inside the ObservableObject.
 </div></td>

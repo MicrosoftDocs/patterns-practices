@@ -10,9 +10,9 @@ Prism Class Library
 IRegionAdapter.Initialize Method
 ====================================
 
-Adapts an object and binds it to a new [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion).
+Adapts an object and binds it to a new [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -34,15 +34,15 @@ The name of the region to be created.
 
 ### Return Value
 
-Type: [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
-The new instance of [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) that the regionTarget is bound to.
+Type: [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
+The new instance of [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) that the regionTarget is bound to.
 
 See Also
 --------
 
 
-[IRegionAdapter Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionadapter)
+[IRegionAdapter Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter)
 
 [IRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionadapter)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

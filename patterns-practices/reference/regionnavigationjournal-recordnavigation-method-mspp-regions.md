@@ -12,7 +12,7 @@ RegionNavigationJournal.RecordNavigation Method
 
 Records the navigation to the entry..
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -25,19 +25,19 @@ public void RecordNavigation( IRegionNavigationJournalEntry entry )Public Sub Re
 ### Parameters
 
 entry  
-Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationjournalentry)
+Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry)
 The entry to record.
 
 ### Implements
 
-[IRegionNavigationJournal.RecordNavigation(IRegionNavigationJournalEntry)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionnavigationjournal.recordnavigation(microsoft.practices.prism.regions.iregionnavigationjournalentry))
+[IRegionNavigationJournal.RecordNavigation(IRegionNavigationJournalEntry)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal.recordnavigation(microsoft.practices.prism.regions.iregionnavigationjournalentry))
 
 See Also
 --------
 
 
-[RegionNavigationJournal Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournal)
+[RegionNavigationJournal Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal)
 
 [RegionNavigationJournal Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationjournal)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

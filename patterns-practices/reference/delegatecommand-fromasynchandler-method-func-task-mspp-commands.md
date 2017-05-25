@@ -10,9 +10,9 @@ Prism Class Library
 DelegateCommand.FromAsyncHandler Method (Func&lt;(Of &lt;(Task&gt;)&gt;))
 =============================================================================
 
-Factory method to create a new instance of [DelegateCommand](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand) from an awaitable handler method.
+Factory method to create a new instance of [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand) from an awaitable handler method.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
+**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -28,17 +28,17 @@ Delegate to execute when Execute is called on the command.
 
 ### Return Value
 
-Type: [DelegateCommand](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand)
-Constructed instance of [DelegateCommand](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand)
+Type: [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
+Constructed instance of [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
 
 See Also
 --------
 
 
-[DelegateCommand Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand)
+[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
 
 [DelegateCommand Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand)
 
 [FromAsyncHandler Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.commands.delegatecommand.fromasynchandler)
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
+[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)

@@ -5,23 +5,23 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.CyclicDependencyFound
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736282(v=PandP.50)'
 ---
 
-Prism Class Library
+# CyclicDependencyFoundException Events
 
-CyclicDependencyFoundException Events
-=====================================
+The [CyclicDependencyFoundException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception(v=pandp.50)) type exposes the following members.
 
-The [CyclicDependencyFoundException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.cyclicdependencyfoundexception) type exposes the following members.
+
+## Events
+
+=======
+The [CyclicDependencyFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception) type exposes the following members.
 
 Events
 ------
 
 <span id="eventTableToggle"></span>
+
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -41,10 +41,17 @@ Occurs when an exception is serialized to create an exception state object that 
 </tbody>
 </table>
 
+
+## See Also
+[CyclicDependencyFoundException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception(v=pandp.50))
+
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+=======
 See Also
 --------
 
 
-[CyclicDependencyFoundException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
+[CyclicDependencyFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+

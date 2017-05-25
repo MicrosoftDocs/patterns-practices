@@ -12,7 +12,7 @@ UnityContainerHelper.TryResolve&lt;(Of &lt;(T&gt;)&gt;) Method (IUnityContainer)
 
 Utility method to try to resolve a service from the container avoiding an exception if the container cannot build the type.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -47,10 +47,10 @@ See Also
 --------
 
 
-[UnityContainerHelper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unitycontainerhelper)
+[UnityContainerHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper)
 
 [UnityContainerHelper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitycontainerhelper)
 
 [TryResolve Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.unityextensions.unitycontainerhelper.tryresolve)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)
+[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)

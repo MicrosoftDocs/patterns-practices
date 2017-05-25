@@ -10,9 +10,9 @@ Prism Class Library
 RegionActiveAwareBehavior Constructor
 =====================================
 
-Initializes a new instance of the [RegionActiveAwareBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior) class
+Initializes a new instance of the [RegionActiveAwareBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior) class
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -26,8 +26,8 @@ See Also
 --------
 
 
-[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
+[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
 
 [RegionActiveAwareBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
