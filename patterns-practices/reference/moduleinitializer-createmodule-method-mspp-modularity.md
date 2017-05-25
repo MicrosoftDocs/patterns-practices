@@ -10,11 +10,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419108(v=PandP.50)'
 ## Overload List
 
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -25,16 +21,16 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419108(v=PandP.50)'
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419108.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinitializer.createmodule(system.string)">CreateModule(String)</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer.createmodule(system.string)">CreateModule(String)</a></td>
 <td><div class="summary">
-Uses the container to resolve a new <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule">IModule</a> by specifying its <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a>.
+Uses the container to resolve a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule">IModule</a> by specifying its <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419108.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinitializer.createmodule(microsoft.practices.prism.modularity.moduleinfo)">CreateModule(ModuleInfo)</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer.createmodule(microsoft.practices.prism.modularity.moduleinfo)">CreateModule(ModuleInfo)</a></td>
 <td><div class="summary">
-Uses the container to resolve a new <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodule">IModule</a> by specifying its <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a>.
+Uses the container to resolve a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule">IModule</a> by specifying its <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a>.
 </div></td>
 </tr>
 </tbody>

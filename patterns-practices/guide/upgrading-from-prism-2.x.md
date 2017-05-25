@@ -20,7 +20,7 @@ This topic describes how to upgrade a solution from version 2.x to version 4.0 o
 > [!NOTE]
 > Because this version of Prism targets the .NET Framework 4.0 and Silverlight 4, it was named Prism 4.0 so it would be easy to remember. There is no version Prism 3.x.
 
-## Update Namespace and Assembly References
+## <a name="_update_namespace_and"></a>Update Namespace and Assembly References
 
 The **Composite** namespace was changed into the **Prism** namespace. The **Composite.Presentation** namespace was removed and its classes were moved to the **Prism** namespace. The **Composite** and **Composite.Presentation** assemblies were collapsed into a single assembly named **Microsoft.Practices.Prism**. These changes were done to simplify deployment and adoption, and to facilitate alignment with the MVVM support in Prism 4.0. The following namespace prefix was changed across all assemblies:
 
@@ -34,11 +34,11 @@ In Extensible Application Markup Language (XAML), a new **XmlnsDefinition** of *
 > [!NOTE]
 > The Prism Library now includes the signed binaries to use in your solutions. They are located in the bin folder where you extracted Prism.
 
-## New Assemblies to Support MEF
+## <a name="_new_assemblies_to"></a>New Assemblies to Support MEF
 
 With the addition of supporting the MEF, there were several changes to the Prism Library. You can now use MEF as the dependency injection container. This new functionality is delivered in new assemblies of the Prism Library: **Prism.MefExtensions** (Silverlight and Desktop versions). For more information about dependency injection containers and how to use MEF, see "Managing Dependencies Between Components" in the [Prism4.pdf](http://compositewpf.codeplex.com/releases/view/55580).
 
-## Bootstrapper API Changes
+## <a name="_bootstrapper_api_changes"></a>Bootstrapper API Changes
 
 With the addition of supporting MEF, there were several changes to the Prism Library's bootstrapper for both Desktop and Silverlight. These changes include the following:
 
@@ -49,47 +49,52 @@ With the addition of supporting MEF, there were several changes to the Prism Lib
     -   The **LoggerFacade** property was renamed to **Logger**.
     -   The **Logger** property is set in the **Run** method of the bootstrapper using the result of the **CreateLogger** method rather than the get property on the **Logger**.
     -   The **GetModuleCatalog** method in the **UnityBootstrapper** class is now called **CreateModuleCatalog**.
+	```C#
+		// This is the code from the Composite Application Library 2.x
+		// to specify the modules that compose the application.
+		protected override IModuleCatalog GetModuleCatalog()
+		{
+			return new ModuleCatalog()
+				.AddModule(typeof (ModuleA), "ModuleB")
+				.AddModule(typeof (ModuleB))
+				;
+		}
 
-```C#
-            // This is the code from the Composite Application Library 2.x
-            // to specify the modules that compose the application.
-            protected override IModuleCatalog GetModuleCatalog()
-            {
-                return new ModuleCatalog()
-                    .AddModule(typeof (ModuleA), "ModuleB")
-                    .AddModule(typeof (ModuleB))
-                    ;
-            }
+		// This is the migrated method for the Prism Library 4.0.
+		protected override IModuleCatalog CreateModuleCatalog()
+		{
+			return new ModuleCatalog()
+				.AddModule(typeof (ModuleA), "ModuleB")
+				.AddModule(typeof (ModuleB))
+				;
+		}
+	```
+	> [!NOTE]
+	> There is a new **ConfigureModuleCatalog** method in the **Bootstrapper** class, mentioned in the following bullet that can be used instead of this method.
 
-            // This is the migrated method for the Prism Library 4.0.
-            protected override IModuleCatalog CreateModuleCatalog()
-            {
-                return new ModuleCatalog()
-                    .AddModule(typeof (ModuleA), "ModuleB")
-                    .AddModule(typeof (ModuleB))
-                    ;
-            }
-```
-
-> [!NOTE]
-> There is a new **ConfigureModuleCatalog** method in the **Bootstrapper** class, mentioned in the following bullet that can be used instead of this method.
-
--   Several new methods were added to better separate creation of objects from configuration:
+	-   Several new methods were added to better separate creation of objects from configuration:
     -   The **ConfigureModuleCatalog** virtual method was added to allow modifying the catalog after creation.
-
-```C#
-            // Using the ConfigureModuleCatalog method to populate
-            // the module catalog.
-            protected override void ConfigureModuleCatalog()
-            {
-                base.ConfigureModuleCatalog();
-                ModuleCatalog moduleCatalog = (ModuleCatalog)this.ModuleCatalog;
-                moduleCatalog.AddModule(typeof (ModuleA), "ModuleB")
-                             .AddModule(typeof (ModuleB))
-                             ;
-            }
-```
-
+	```C#
+		// Using the ConfigureModuleCatalog method to populate
+		
+		// the module catalog.
+		
+		protected override void ConfigureModuleCatalog()
+		
+		{
+		
+			base.ConfigureModuleCatalog();
+			
+			ModuleCatalog moduleCatalog = (ModuleCatalog)this.ModuleCatalog;
+			
+			moduleCatalog.AddModule(typeof (ModuleA), "ModuleB")
+			
+						 .AddModule(typeof (ModuleB))
+						 
+						 ;
+						 
+		}
+	```
     -   The **ConfigureServiceLocator** virtual method was added to allow overriding the configuration of the **ServiceLocator**.
 
 For more information about the **Bootstrapper** classes, see "Initializing Prism Applications" in the [Prism4.pdf](http://compositewpf.codeplex.com/releases/view/55580).
@@ -100,7 +105,7 @@ The **IModuleCatalog** interface has changed to support the basic form of the **
 
 The **IModuleTypeLoader** and **IModuleManager** interfaces have changed to use the asynchronous events pattern for reporting module download and loaded events. The new events are **ModuleDownloadProgressChanged** and **LoadModuleCompleted**. You will need to update any existing classes that implement this interface.
 
-## Regions API Changes
+## <a name="_regions_api_changes"></a>Regions API Changes
 
 The **IRegion** interface has changed to support navigation features. You will need to update any existing classes that implement this interface.
 
@@ -134,7 +139,7 @@ The following code example shows the default implementation of these members.
     }
 ```
 
-## EventAggregator API Changes
+## <a name="_eventaggregator_api_changes"></a>EventAggregator API Changes
 
 The **IEventAggregator.GetEvent&lt;TEventBase&gt;** method adds the **new**() restriction on the **TEventBase** generic parameter. The **TEventBase** generic type parameter requires having a parameter-less constructor at run time; this change enforces that requirement at compile time now. This affects only those who have provided their own implementations of the **IEventAggregator** interface; for example, in mock classes. You can see this in the following code example.
 

@@ -26,7 +26,7 @@ The [RegionNavigationEventArgs](https://msdn.microsoft.com/en-us/library/microso
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431123.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/bsc2ak47" target="_blank">Equals</a>
@@ -48,7 +48,7 @@ The [RegionNavigationEventArgs](https://msdn.microsoft.com/en-us/library/microso
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431123.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/zdee4b3y" target="_blank">GetHashCode</a>
@@ -59,7 +59,7 @@ The [RegionNavigationEventArgs](https://msdn.microsoft.com/en-us/library/microso
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431123.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/dfwy45w9" target="_blank">GetType</a>
@@ -81,7 +81,7 @@ The [RegionNavigationEventArgs](https://msdn.microsoft.com/en-us/library/microso
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431123.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2" target="_blank">ToString</a>

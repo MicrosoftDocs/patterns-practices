@@ -12,7 +12,7 @@ IRegion.Add Method (Object, String, Boolean)
 
 Adds a new view to the region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -30,25 +30,25 @@ The view to add.
 
 viewName  
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-The name of the view. This can be used to retrieve it later by calling [GetView(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregion.getview(system.string)).
+The name of the view. This can be used to retrieve it later by calling [GetView(String)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.getview(system.string)).
 
 createRegionManagerScope  
 Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-When trueTruetruetrue (True in Visual Basic), the added view will receive a new instance of [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager), otherwise it will use the current region manager for this region.
+When trueTruetruetrue (True in Visual Basic), the added view will receive a new instance of [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager), otherwise it will use the current region manager for this region.
 
 ### Return Value
 
-Type: [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
-The [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager) that is set on the view if it is a [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).
+Type: [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager)
+The [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager) that is set on the view if it is a [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).
 
 See Also
 --------
 
 
-[IRegion Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
+[IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 
 [IRegion Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregion)
 
 [Add Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.regions.iregion.add)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -6,19 +6,20 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736242(v=PandP.50)'
 ---
 
 # DefaultNotificationWindow Events
+=======
+Prism Class Library
 
-The [DefaultNotificationWindow](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow(v=pandp.50)) type exposes the following members.
+DefaultNotificationWindow Events
+================================
 
-## Events
+The [DefaultNotificationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow) type exposes the following members.
+
+Events
 ------
 
 <span id="eventTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -974,9 +975,10 @@ Occurs when the element is removed from within an element tree of loaded element
 </tbody>
 </table>
 
-## See Also
+See Also
+--------
 
 
-[DefaultNotificationWindow Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow(v=pandp.50))
+[DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
 
-[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)

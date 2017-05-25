@@ -55,7 +55,7 @@ Public Sub OnUpdatingRegions (
 Remarks
 -------
 
-<span id="remarksToggle"></span> This method has to be public, because it has to be callable using weak references in silverlight and other partial trust environments.
+ This method has to be public, because it has to be callable using weak references in silverlight and other partial trust environments.
 
 See Also
 --------

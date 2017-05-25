@@ -10,18 +10,14 @@ Prism Class Library
 ViewRegistrationException Events
 ================================
 
-The [ViewRegistrationException](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregistrationexception) type exposes the following members.
+The [ViewRegistrationException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception) type exposes the following members.
 
 Events
 ------
 
 <span id="eventTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -45,6 +41,6 @@ See Also
 --------
 
 
-[ViewRegistrationException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregistrationexception)
+[ViewRegistrationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

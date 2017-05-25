@@ -10,7 +10,7 @@ Prism Class Library
 UnityBootstrapperExtension Properties
 =====================================
 
-The [UnityBootstrapperExtension](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unitybootstrapperextension) type exposes the following members.
+The [UnityBootstrapperExtension](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension) type exposes the following members.
 
 Properties
 ----------
@@ -25,6 +25,6 @@ See Also
 --------
 
 
-[UnityBootstrapperExtension Class](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unitybootstrapperextension)
+[UnityBootstrapperExtension Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)
+[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)

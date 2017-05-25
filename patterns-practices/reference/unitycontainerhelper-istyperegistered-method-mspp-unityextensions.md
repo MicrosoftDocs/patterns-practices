@@ -12,7 +12,7 @@ UnityContainerHelper.IsTypeRegistered Method
 
 Returns whether a specified type has a type mapping registered in the container.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -43,14 +43,14 @@ In Visual Basic and C\#, you can call this method as an instance method on any o
 Remarks
 -------
 
-<span id="remarksToggle"></span>In order to use this extension method, you first need to add the IUnityContainer extension to the [UnityBootstrapperExtension](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unitybootstrapperextension).
+In order to use this extension method, you first need to add the IUnityContainer extension to the [UnityBootstrapperExtension](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension).
 
 See Also
 --------
 
 
-[UnityContainerHelper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unitycontainerhelper)
+[UnityContainerHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper)
 
 [UnityContainerHelper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitycontainerhelper)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)
+[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)

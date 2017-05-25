@@ -12,7 +12,7 @@ ModuleDependencyAttribute.ModuleName Property
 
 Gets the name of the module that this module is dependant upon.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -30,8 +30,8 @@ See Also
 --------
 
 
-[ModuleDependencyAttribute Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduledependencyattribute)
+[ModuleDependencyAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute)
 
 [ModuleDependencyAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencyattribute)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

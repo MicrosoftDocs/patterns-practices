@@ -10,9 +10,9 @@ Prism Class Library
 ModuleInitializer Constructor
 =============================
 
-Initializes a new instance of [ModuleInitializer](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinitializer).
+Initializes a new instance of [ModuleInitializer](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -29,15 +29,15 @@ Type: IServiceLocator
 The container that will be used to resolve the modules by specifying its type.
 
 loggerFacade  
-Type: [Microsoft.Practices.Prism.Logging.ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade)
+Type: [Microsoft.Practices.Prism.Logging.ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade)
 The logger to use.
 
 See Also
 --------
 
 
-[ModuleInitializer Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinitializer)
+[ModuleInitializer Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer)
 
 [ModuleInitializer Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinitializer)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

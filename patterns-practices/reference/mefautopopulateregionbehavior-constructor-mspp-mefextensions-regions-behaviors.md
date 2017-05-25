@@ -10,9 +10,9 @@ Prism Class Library
 MefAutoPopulateRegionBehavior Constructor
 =========================================
 
-Initializes a new instance of the [MefAutoPopulateRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior) class.
+Initializes a new instance of the [MefAutoPopulateRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior) class.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions.behaviors)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -25,15 +25,15 @@ public MefAutoPopulateRegionBehavior( IRegionViewRegistry regionViewRegistry )Pu
 ### Parameters
 
 regionViewRegistry  
-Type: [Microsoft.Practices.Prism.Regions.IRegionViewRegistry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionviewregistry)
-[IRegionViewRegistry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionviewregistry) that the behavior will monitor for views to populate the region.
+Type: [Microsoft.Practices.Prism.Regions.IRegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry)
+[IRegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry) that the behavior will monitor for views to populate the region.
 
 See Also
 --------
 
 
-[MefAutoPopulateRegionBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior)
+[MefAutoPopulateRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior)
 
 [MefAutoPopulateRegionBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions.behaviors)
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)

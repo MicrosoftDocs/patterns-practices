@@ -10,18 +10,14 @@ Prism Class Library
 ModuleConfigurationElementCollection Properties
 ===============================================
 
-The [ModuleConfigurationElementCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection) type exposes the following members.
+The [ModuleConfigurationElementCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection) type exposes the following members.
 
 Properties
 ----------
 
 <span id="propertyTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -48,7 +44,7 @@ Gets or sets the name for the <a href="http://msdn.microsoft.com/en-us/library/k
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431168.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleconfigurationelementcollection.collectiontype">CollectionType</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.collectiontype">CollectionType</a></td>
 <td><div class="summary">
 Gets the type of the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.
 </div>
@@ -80,7 +76,7 @@ Gets an <a href="http://msdn.microsoft.com/en-us/library/ms134413">ElementInform
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431168.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleconfigurationelementcollection.elementname">ElementName</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.elementname">ElementName</a></td>
 <td><div class="summary">
 Gets the name used to identify this collection of elements in the configuration file when overridden in a derived class.
 </div>
@@ -144,9 +140,9 @@ Gets or sets a property, attribute, or child element of this configuration eleme
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431168.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleconfigurationelementcollection.item(system.int32)">Item[([(Int32])])</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.item(system.int32)">Item[([(Int32])])</a></td>
 <td><div class="summary">
-Gets the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a> located at the specified index in the collection.
+Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a> located at the specified index in the collection.
 </div></td>
 </tr>
 <tr class="even">
@@ -215,7 +211,7 @@ Gets an object used to synchronize access to the <a href="http://msdn.microsoft.
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431168.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.moduleconfigurationelementcollection.throwonduplicate">ThrowOnDuplicate</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.throwonduplicate">ThrowOnDuplicate</a></td>
 <td><div class="summary">
 Gets a value indicating whether an exception should be raised if a duplicate element is found. This property will always return true.
 </div>
@@ -228,6 +224,6 @@ See Also
 --------
 
 
-[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
+[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

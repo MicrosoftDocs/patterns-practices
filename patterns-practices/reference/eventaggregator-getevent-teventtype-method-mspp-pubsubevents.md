@@ -33,7 +33,7 @@ EventAggregator.GetEvent&lt;(Of &lt;(TEventType&gt;)&gt;) Method
 
 Gets the single instance of the event managed by this EventAggregator. Multiple calls to this method with the same TEventType returns the same event instance.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -63,7 +63,7 @@ A singleton instance of an event object of type TEventType.
 =======
 ### Implements
 
-[IEventAggregator.GetEvent&lt;(Of &lt;(TEventType&gt;)&gt;)()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.pubsubevents.ieventaggregator.getevent%60%601)
+[IEventAggregator.GetEvent&lt;(Of &lt;(TEventType&gt;)&gt;)()()()](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventaggregator.getevent%60%601)
 
 
 ## See Also
@@ -72,7 +72,7 @@ A singleton instance of an event object of type TEventType.
 [EventAggregator Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventaggregator(v=pandp.50))
 =======
 
-[EventAggregator Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventaggregator)
+[EventAggregator Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventaggregator)
 
 
 EventAggregator Members 

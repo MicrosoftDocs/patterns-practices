@@ -10,18 +10,14 @@ Prism Class Library
 ModuleNotFoundException Properties
 ==================================
 
-The [ModuleNotFoundException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulenotfoundexception) type exposes the following members.
+The [ModuleNotFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception) type exposes the following members.
 
 Properties
 ----------
 
 <span id="propertyTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -72,11 +68,11 @@ Gets a message that describes the current exception.
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431178.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.modularityexception.modulename">ModuleName</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception.modulename">ModuleName</a></td>
 <td><div class="summary">
 Gets or sets the name of the module that this exception refers to.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modularityexception">ModularityException</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception">ModularityException</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431178.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
@@ -109,6 +105,6 @@ See Also
 --------
 
 
-[ModuleNotFoundException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulenotfoundexception)
+[ModuleNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

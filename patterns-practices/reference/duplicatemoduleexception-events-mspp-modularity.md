@@ -7,21 +7,14 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736119(v=PandP.50)'
 
 Prism Class Library
 
-DuplicateModuleException Events
-===============================
+# DuplicateModuleException Events
 
-The [DuplicateModuleException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.duplicatemoduleexception) type exposes the following members.
+The [DuplicateModuleException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception) type exposes the following members.
 
-Events
-------
+## Events
 
-<span id="eventTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -41,10 +34,8 @@ Occurs when an exception is serialized to create an exception state object that 
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
+[DuplicateModuleException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception)
 
-[DuplicateModuleException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.duplicatemoduleexception)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

@@ -356,7 +356,7 @@ For a minimal or default subscription, the subscriber must provide a callback me
 ```
 
 
-### Unsubscribing from an Event
+### <a name="unsubscribingfromanevent"></a>Unsubscribing from an Event
 
 If your subscriber no longer wants to receive events, you can unsubscribe by using your subscriber's handler or you can unsubscribe by using a subscription token.
 
@@ -382,5 +382,5 @@ The following code example shows how to unsubscribe with a subscription token. T
 
 ## More Information
 
-For more information about weak references, see [Weak References](http://msdn.microsoft.com/en-us/library/ms404247.aspx) on MSDN.
+For more information about weak references, see [Weak References](/dotnet/articles/standard/garbage-collection/weak-references).
 

@@ -12,7 +12,7 @@ SubscriptionToken.Equals Method (Object)
 
 Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -43,10 +43,10 @@ See Also
 --------
 
 
-[SubscriptionToken Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken)
+[SubscriptionToken Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken)
 
 [SubscriptionToken Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.subscriptiontoken)
 
 [Equals Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.pubsubevents.subscriptiontoken.equals)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)

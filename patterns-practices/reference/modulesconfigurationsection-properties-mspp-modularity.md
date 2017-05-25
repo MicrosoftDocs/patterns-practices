@@ -10,18 +10,14 @@ Prism Class Library
 ModulesConfigurationSection Properties
 ======================================
 
-The [ModulesConfigurationSection](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulesconfigurationsection) type exposes the following members.
+The [ModulesConfigurationSection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection) type exposes the following members.
 
 Properties
 ----------
 
 <span id="propertyTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -128,7 +124,7 @@ Gets or sets a value indicating whether the element is locked.
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431179.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.modulesconfigurationsection.modules">Modules</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection.modules">Modules</a></td>
 <td><div class="summary">
 Gets or sets the collection of modules configuration.
 </div></td>
@@ -156,6 +152,6 @@ See Also
 --------
 
 
-[ModulesConfigurationSection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulesconfigurationsection)
+[ModulesConfigurationSection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

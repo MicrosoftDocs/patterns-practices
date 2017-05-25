@@ -10,18 +10,14 @@ Prism Class Library
 MefDelayedRegionCreationBehavior Properties
 ===========================================
 
-The [MefDelayedRegionCreationBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior) type exposes the following members.
+The [MefDelayedRegionCreationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior) type exposes the following members.
 
 Properties
 ----------
 
 <span id="propertyTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -32,19 +28,19 @@ Properties
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419182.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.regionmanageraccessor">RegionManagerAccessor</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.regionmanageraccessor">RegionManagerAccessor</a></td>
 <td><div class="summary">
-Sets a class that interfaces between the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanager">RegionManager</a> 's static properties/events and this behavior, so this behavior can be tested in isolation.
+Sets a class that interfaces between the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager">RegionManager</a> 's static properties/events and this behavior, so this behavior can be tested in isolation.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior">DelayedRegionCreationBehavior</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior">DelayedRegionCreationBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419182.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.targetelement">TargetElement</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.targetelement">TargetElement</a></td>
 <td><div class="summary">
 The element that will host the Region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior">DelayedRegionCreationBehavior</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior">DelayedRegionCreationBehavior</a>.)</td>
 </tr>
 </tbody>
 </table>
@@ -53,6 +49,6 @@ See Also
 --------
 
 
-[MefDelayedRegionCreationBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior)
+[MefDelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions.behaviors)
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)

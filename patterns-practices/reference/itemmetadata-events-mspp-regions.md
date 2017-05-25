@@ -10,17 +10,13 @@ Prism Class Library
 ItemMetadata Events
 ===================
 
-The [ItemMetadata](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemmetadata) type exposes the following members.
+The [ItemMetadata](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata) type exposes the following members.
 
 Events
 ------
 
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -31,7 +27,7 @@ Events
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430904.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
-<td><a href="https://msdn.microsoft.com/e:microsoft.practices.prism.regions.itemmetadata.metadatachanged">MetadataChanged</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.metadatachanged">MetadataChanged</a></td>
 <td><div class="summary">
 Occurs when metadata on the item changes.
 </div></td>
@@ -43,6 +39,6 @@ See Also
 --------
 
 
-[ItemMetadata Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.itemmetadata)
+[ItemMetadata Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

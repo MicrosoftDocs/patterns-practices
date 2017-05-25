@@ -10,9 +10,9 @@ Prism Class Library
 ModuleNotFoundException Constructor (String)
 ============================================
 
-Initializes a new instance of the [ModuleNotFoundException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulenotfoundexception) class with a specified error message.
+Initializes a new instance of the [ModuleNotFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception) class with a specified error message.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -32,10 +32,10 @@ See Also
 --------
 
 
-[ModuleNotFoundException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulenotfoundexception)
+[ModuleNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception)
 
 [ModuleNotFoundException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulenotfoundexception)
 
 [ModuleNotFoundException Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.modulenotfoundexception.)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

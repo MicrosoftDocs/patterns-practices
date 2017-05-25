@@ -10,9 +10,9 @@ Prism Class Library
 RegionBehaviorCollection.ContainsKey Method
 ===============================================
 
-Checks if a [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior) with the specified key is already present.
+Checks if a [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior) with the specified key is already present.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -26,21 +26,21 @@ public bool ContainsKey( string key )Public Function ContainsKey ( key As String
 
 key  
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-The key to use to find a particular [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior).
+The key to use to find a particular [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior).
 
 ### Return Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 ### Implements
 
-[IRegionBehaviorCollection.ContainsKey(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionbehaviorcollection.containskey(system.string))
+[IRegionBehaviorCollection.ContainsKey(String)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection.containskey(system.string))
 
 See Also
 --------
 
 
-[RegionBehaviorCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehaviorcollection)
+[RegionBehaviorCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection)
 
 [RegionBehaviorCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehaviorcollection)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

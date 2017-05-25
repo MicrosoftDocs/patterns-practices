@@ -26,7 +26,7 @@ The [ViewSortHintAttribute](https://msdn.microsoft.com/en-us/library/microsoft.p
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431135.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/09ds241w" target="_blank">Equals</a>
@@ -37,7 +37,7 @@ The [ViewSortHintAttribute](https://msdn.microsoft.com/en-us/library/microsoft.p
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431135.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/365e1bxs" target="_blank">GetHashCode</a>
@@ -48,7 +48,7 @@ The [ViewSortHintAttribute](https://msdn.microsoft.com/en-us/library/microsoft.p
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431135.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/dfwy45w9" target="_blank">GetType</a>
@@ -59,7 +59,7 @@ The [ViewSortHintAttribute](https://msdn.microsoft.com/en-us/library/microsoft.p
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431135.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/tbkb5x6t" target="_blank">IsDefaultAttribute</a>
@@ -70,7 +70,7 @@ The [ViewSortHintAttribute](https://msdn.microsoft.com/en-us/library/microsoft.p
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431135.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/wy7chz44" target="_blank">Match</a>
@@ -81,7 +81,7 @@ The [ViewSortHintAttribute](https://msdn.microsoft.com/en-us/library/microsoft.p
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431135.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2" target="_blank">ToString</a>

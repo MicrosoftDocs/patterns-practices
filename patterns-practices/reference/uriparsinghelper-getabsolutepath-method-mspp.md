@@ -12,7 +12,7 @@ UriParsingHelper.GetAbsolutePath Method
 
 Gets the AbsolutePath part of uri.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -36,8 +36,8 @@ See Also
 --------
 
 
-[UriParsingHelper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.uriparsinghelper)
+[UriParsingHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper)
 
 [UriParsingHelper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.uriparsinghelper)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)
+[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

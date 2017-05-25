@@ -10,9 +10,9 @@ Prism Class Library
 ThreadOption Enumeration
 ========================
 
-Specifies on which thread a [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.pubsubevent%601) subscriber will be called.
+Specifies on which thread a [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601) subscriber will be called.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -26,7 +26,7 @@ Members
 <span id="membersToggle"></span>
 |     | Member name      | Value | Description                                                                                                                                                                                       |
 |-----|------------------|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-|     | PublisherThread  | 0     | The call is done on the same thread on which the [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.pubsubevent%601) was published. |
+|     | PublisherThread  | 0     | The call is done on the same thread on which the [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601) was published. |
 |     | UIThread         | 1     | The call is done on the UI thread.                                                                                                                                                                |
 |     | BackgroundThread | 2     | The call is done asynchronously on a background thread.                                                                                                                                           |
 
@@ -34,4 +34,4 @@ See Also
 --------
 
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)

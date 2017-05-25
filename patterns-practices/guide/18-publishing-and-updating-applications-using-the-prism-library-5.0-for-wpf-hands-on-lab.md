@@ -5,9 +5,9 @@ ms:assetid: '1c19fd0f-ac78-45d8-be6e-5ba39040dedd'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405497(v=PandP.40)'
 ---
 
-# Publishing and Updating Applications Using the Prism Library 5.0 for WPF Hands-on Lab
+# 18: Publishing and Updating Applications Using the Prism Library 5.0 for WPF Hands-on Lab
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/guide/developers-guide-to-microsoft-prism)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
 In this lab, you will learn how to publish, deploy, and update a composite Prism Windows Presentation Foundation (WPF) application that uses dynamic module loading with ClickOnce. After completing this lab, you will be able to do the following:
 
@@ -270,5 +270,3 @@ In this task, you will launch the application as the client computer and see tha
   Update Available dialog box
 
 You should see the modified title on the application after it has launched.
-
-Next Topic | Previous Topic | [Home](/patterns-practices/guide/developers-guide-to-microsoft-prism) | [Community](https://compositewpf.codeplex.com/)

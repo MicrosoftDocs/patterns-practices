@@ -10,9 +10,9 @@ Prism Class Library
 CyclicDependencyFoundException Constructor (String, Exception)
 ==============================================================
 
-Initializes a new instance of the [CyclicDependencyFoundException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.cyclicdependencyfoundexception) class with the specified error message and inner exception.
+Initializes a new instance of the [CyclicDependencyFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception) class with the specified error message and inner exception.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -36,10 +36,10 @@ See Also
 --------
 
 
-[CyclicDependencyFoundException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
+[CyclicDependencyFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
 
 [CyclicDependencyFoundException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
 
 [CyclicDependencyFoundException Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.cyclicdependencyfoundexception.)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

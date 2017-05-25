@@ -12,7 +12,7 @@ MefEventAggregator Class
 
 Exports the EventAggregator using the Managed Extensibility Framework (MEF).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Events](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.events)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Events](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.events)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -25,7 +25,7 @@ public class MefEventAggregator : EventAggregatorPublic Class MefEventAggregator
 Remarks
 -------
 
-<span id="remarksToggle"></span> This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used.
+ This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used.
 
 Inheritance Hierarchy
 ---------------------
@@ -40,4 +40,4 @@ See Also
 
 [MefEventAggregator Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.events.mefeventaggregator)
 
-[Microsoft.Practices.Prism.MefExtensions.Events Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.events)
+[Microsoft.Practices.Prism.MefExtensions.Events Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.events)

@@ -10,9 +10,9 @@ Prism Class Library
 Bootstrapper.CreateModuleCatalog Method
 ===========================================
 
-Creates the [IModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulecatalog) used by Prism.
+Creates the [IModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog) used by Prism.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -23,19 +23,19 @@ Creates the [IModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.pr
 protected virtual IModuleCatalog CreateModuleCatalog()Protected Overridable Function CreateModuleCatalog As IModuleCatalog
 ### Return Value
 
-Type: [IModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulecatalog)
+Type: [IModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog)
 
 Remarks
 -------
 
-<span id="remarksToggle"></span> The base implementation returns a new ModuleCatalog.
+ The base implementation returns a new ModuleCatalog.
 
 See Also
 --------
 
 
-[Bootstrapper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.bootstrapper)
+[Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
 
 [Bootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.bootstrapper)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)
+[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

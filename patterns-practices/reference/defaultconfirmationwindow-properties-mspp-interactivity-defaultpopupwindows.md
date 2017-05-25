@@ -5,23 +5,21 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWi
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736128(v=PandP.50)'
 ---
 
-Prism Class Library
+# DefaultConfirmationWindow Properties
 
-DefaultConfirmationWindow Properties
-====================================
+The [DefaultConfirmationWindow](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow(v=pandp.50)) type exposes the following members.
 
-The [DefaultConfirmationWindow](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow) type exposes the following members.
+## Properties
+
+=======
+The [DefaultConfirmationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow) type exposes the following members.
 
 Properties
 ----------
 
 <span id="propertyTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -178,9 +176,9 @@ Gets a collection of <a href="http://msdn.microsoft.com/en-us/library/ms616826">
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736128.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow.confirmation">Confirmation</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow.confirmation">Confirmation</a></td>
 <td><div class="summary">
-Sets or gets the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iconfirmation">IConfirmation</a> shown by this window./&gt;
+Sets or gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation">IConfirmation</a> shown by this window./&gt;
 </div></td>
 </tr>
 <tr class="even">
@@ -1229,10 +1227,13 @@ Gets or sets a window's border style.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
+[DefaultConfirmationWindow Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow(v=pandp.50))
 
-[DefaultConfirmationWindow Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
+[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows(v=pandp.50))
+=======
 
-[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.defaultpopupwindows)
+[DefaultConfirmationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
+
+[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)

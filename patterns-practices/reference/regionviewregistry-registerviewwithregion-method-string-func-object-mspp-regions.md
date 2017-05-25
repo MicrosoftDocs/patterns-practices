@@ -12,7 +12,7 @@ RegionViewRegistry.RegisterViewWithRegion Method (String, Func&lt;(Of &lt;(Objec
 
 Registers a delegate that can be used to retrieve the content associated with a region name.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -34,16 +34,16 @@ Delegate used to retrieve the content associated with the regionName.
 
 ### Implements
 
-[IRegionViewRegistry.RegisterViewWithRegion(String, Func&lt;(Of &lt;(Object&gt;)&gt;))](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionviewregistry.registerviewwithregion(system.string%2csystem.func%7bsystem.object%7d))
+[IRegionViewRegistry.RegisterViewWithRegion(String, Func&lt;(Of &lt;(Object&gt;)&gt;))](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry.registerviewwithregion(system.string%2csystem.func%7bsystem.object%7d))
 
 See Also
 --------
 
 
-[RegionViewRegistry Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionviewregistry)
+[RegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry)
 
 [RegionViewRegistry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionviewregistry)
 
 [RegisterViewWithRegion Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.regions.regionviewregistry.registerviewwithregion)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

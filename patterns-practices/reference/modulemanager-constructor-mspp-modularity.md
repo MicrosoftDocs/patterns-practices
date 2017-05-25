@@ -10,9 +10,9 @@ Prism Class Library
 ModuleManager Constructor
 =========================
 
-Initializes an instance of the [ModuleManager](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulemanager) class.
+Initializes an instance of the [ModuleManager](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -25,23 +25,23 @@ public ModuleManager( IModuleInitializer moduleInitializer, IModuleCatalog modul
 ### Parameters
 
 moduleInitializer  
-Type: [Microsoft.Practices.Prism.Modularity.IModuleInitializer](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imoduleinitializer)
+Type: [Microsoft.Practices.Prism.Modularity.IModuleInitializer](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduleinitializer)
 Service used for initialization of modules.
 
 moduleCatalog  
-Type: [Microsoft.Practices.Prism.Modularity.IModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.imodulecatalog)
+Type: [Microsoft.Practices.Prism.Modularity.IModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog)
 Catalog that enumerates the modules to be loaded and initialized.
 
 loggerFacade  
-Type: [Microsoft.Practices.Prism.Logging.ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade)
+Type: [Microsoft.Practices.Prism.Logging.ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade)
 Logger used during the load and initialization of modules.
 
 See Also
 --------
 
 
-[ModuleManager Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulemanager)
+[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
 
 [ModuleManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulemanager)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
