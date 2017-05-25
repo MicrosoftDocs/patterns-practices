@@ -10,9 +10,9 @@ Prism Class Library
 MefSelectorRegionAdapter Constructor
 ====================================
 
-Initializes a new instance of the [MefSelectorRegionAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefselectorregionadapter) class.
+Initializes a new instance of the [MefSelectorRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefselectorregionadapter) class.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -25,15 +25,15 @@ public MefSelectorRegionAdapter( IRegionBehaviorFactory regionBehaviorFactory )P
 ### Parameters
 
 regionBehaviorFactory  
-Type: [Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehaviorfactory)
+Type: [Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory)
 The factory used to create the region behaviors to attach to the created regions.
 
 See Also
 --------
 
 
-[MefSelectorRegionAdapter Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefselectorregionadapter)
+[MefSelectorRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefselectorregionadapter)
 
 [MefSelectorRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefselectorregionadapter)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)

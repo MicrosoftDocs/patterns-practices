@@ -12,7 +12,7 @@ Region.Remove Method
 
 Removes the specified view from the region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -30,14 +30,14 @@ The view to remove.
 
 ### Implements
 
-[IRegion.Remove(Object)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregion.remove(system.object))
+[IRegion.Remove(Object)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.remove(system.object))
 
 See Also
 --------
 
 
-[Region Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.region)
+[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 
 [Region Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.region)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

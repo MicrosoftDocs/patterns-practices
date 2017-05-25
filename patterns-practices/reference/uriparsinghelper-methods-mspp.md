@@ -10,18 +10,14 @@ Prism Class Library
 UriParsingHelper Methods
 ========================
 
-The [UriParsingHelper](https://msdn.microsoft.com/t:microsoft.practices.prism.uriparsinghelper) type exposes the following members.
+The [UriParsingHelper](https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper) type exposes the following members.
 
 Methods
 -------
 
 <span id="methodTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -31,22 +27,22 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431141.pubmethod(en-us,PandP.50).gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg431141.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.uriparsinghelper.getabsolutepath(system.uri)">GetAbsolutePath</a></td>
+<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg431141.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper.getabsolutepath(system.uri)">GetAbsolutePath</a></td>
 <td><div class="summary">
 Gets the AbsolutePath part of uri.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431141.pubmethod(en-us,PandP.50).gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg431141.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.uriparsinghelper.getquery(system.uri)">GetQuery</a></td>
+<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg431141.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper.getquery(system.uri)">GetQuery</a></td>
 <td><div class="summary">
 Gets the query part of uri.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431141.pubmethod(en-us,PandP.50).gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg431141.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.uriparsinghelper.parsequery(system.uri)">ParseQuery</a></td>
+<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg431141.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper.parsequery(system.uri)">ParseQuery</a></td>
 <td><div class="summary">
 Parses the query of uri into a dictionary.
 </div></td>
@@ -58,6 +54,6 @@ See Also
 --------
 
 
-[UriParsingHelper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.uriparsinghelper)
+[UriParsingHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)
+[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

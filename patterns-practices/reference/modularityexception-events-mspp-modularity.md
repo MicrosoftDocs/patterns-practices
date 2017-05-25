@@ -10,18 +10,14 @@ Prism Class Library
 ModularityException Events
 ==========================
 
-The [ModularityException](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modularityexception) type exposes the following members.
+The [ModularityException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception) type exposes the following members.
 
 Events
 ------
 
 <span id="eventTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -45,6 +41,6 @@ See Also
 --------
 
 
-[ModularityException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modularityexception)
+[ModularityException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

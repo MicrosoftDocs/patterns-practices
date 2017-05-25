@@ -12,7 +12,7 @@ ModuleTypeLoadingException Constructor (String, String, Exception)
 
 Initializes the exception with a particular module, error message and inner exception that happened.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -40,10 +40,10 @@ See Also
 --------
 
 
-[ModuleTypeLoadingException Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduletypeloadingexception)
+[ModuleTypeLoadingException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception)
 
 [ModuleTypeLoadingException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduletypeloadingexception)
 
 [ModuleTypeLoadingException Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.moduletypeloadingexception.)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

@@ -17,11 +17,7 @@ Classes
 
 <span id="classToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -31,78 +27,78 @@ Classes
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419041.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefcontentcontrolregionadapter">MefContentControlRegionAdapter</a></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefcontentcontrolregionadapter">MefContentControlRegionAdapter</a></td>
 <td><div class="summary">
 Exports the ContentControlRegionAdapter using the Managed Extensibility Framework (MEF).
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419041.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefitemscontrolregionadapter">MefItemsControlRegionAdapter</a></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefitemscontrolregionadapter">MefItemsControlRegionAdapter</a></td>
 <td><div class="summary">
 Exports the ItemsControlRegionAdapter using the Managed Extensibility Framework (MEF).
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419041.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings">MefRegionAdapterMappings</a></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings">MefRegionAdapterMappings</a></td>
 <td><div class="summary">
 Exports the RegionAdapterMappings using the Managed Extensibility Framework (MEF).
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419041.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory">MefRegionBehaviorFactory</a></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory">MefRegionBehaviorFactory</a></td>
 <td><div class="summary">
 Exports the RegionBehaviorFactory using the Managed Extensibility Framework (MEF).
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419041.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionmanager">MefRegionManager</a></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager">MefRegionManager</a></td>
 <td><div class="summary">
 Exports the RegionManager using the Managed Extensibility Framework (MEF).
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419041.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader">MefRegionNavigationContentLoader</a></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader">MefRegionNavigationContentLoader</a></td>
 <td><div class="summary">
 Exports the LocatorNavigationTargetHandler using the Managed Extensibility Framework (MEF).
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419041.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal">MefRegionNavigationJournal</a></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal">MefRegionNavigationJournal</a></td>
 <td><div class="summary">
 Exports the MefRegionNavigationJournal using the Managed Extensibility Framework (MEF).
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419041.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry">MefRegionNavigationJournalEntry</a></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry">MefRegionNavigationJournalEntry</a></td>
 <td><div class="summary">
 Exports the RegionNavigationJournalEntry using the Managed Extensibility Framework (MEF).
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419041.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice">MefRegionNavigationService</a></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice">MefRegionNavigationService</a></td>
 <td><div class="summary">
 Exports the MefRegionNavigationService using the Managed Extensibility Framework (MEF).
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419041.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionviewregistry">MefRegionViewRegistry</a></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionviewregistry">MefRegionViewRegistry</a></td>
 <td><div class="summary">
 Exports the RegionViewRegistry using the Managed Extensibility Framework (MEF).
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419041.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefselectorregionadapter">MefSelectorRegionAdapter</a></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefselectorregionadapter">MefSelectorRegionAdapter</a></td>
 <td><div class="summary">
 Exports the SelectorRegionAdapter using the Managed Extensibility Framework (MEF).
 </div></td>

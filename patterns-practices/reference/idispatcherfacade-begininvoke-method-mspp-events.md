@@ -12,7 +12,7 @@ IDispatcherFacade.BeginInvoke Method
 
 Dispatches an invocation to the method received as parameter.
 
-**Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/n:microsoft.practices.prism.events)
+**Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/library/microsoft.practices.prism.events)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -36,8 +36,8 @@ See Also
 --------
 
 
-[IDispatcherFacade Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.events.idispatcherfacade)
+[IDispatcherFacade Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.events.idispatcherfacade)
 
 [IDispatcherFacade Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.events.idispatcherfacade)
 
-[Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.events)
+[Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.events)

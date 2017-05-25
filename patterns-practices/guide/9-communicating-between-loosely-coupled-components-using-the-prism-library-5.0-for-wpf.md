@@ -382,5 +382,5 @@ The following code example shows how to unsubscribe with a subscription token. T
 
 ## More Information
 
-For more information about weak references, see [Weak References](http://msdn.microsoft.com/en-us/library/ms404247.aspx) on MSDN.
+For more information about weak references, see [Weak References](/dotnet/articles/standard/garbage-collection/weak-references).
 

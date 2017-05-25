@@ -10,9 +10,9 @@ Prism Class Library
 RegionBehaviorCollection.Add Method
 =======================================
 
-Adds a [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior) to the collection, using the specified key as an indexer.
+Adds a [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior) to the collection, using the specified key as an indexer.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -26,15 +26,15 @@ public void Add( string key, IRegionBehavior regionBehavior )Public Sub Add ( ke
 
 key  
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-The key that specifies the type of [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior) that's added.
+The key that specifies the type of [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior) that's added.
 
 regionBehavior  
-Type: [Microsoft.Practices.Prism.Regions.IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior)
-The [IRegionBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionbehavior) to add.
+Type: [Microsoft.Practices.Prism.Regions.IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior)
+The [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior) to add.
 
 ### Implements
 
-[IRegionBehaviorCollection.Add(String, IRegionBehavior)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionbehaviorcollection.add(system.string%2cmicrosoft.practices.prism.regions.iregionbehavior))
+[IRegionBehaviorCollection.Add(String, IRegionBehavior)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection.add(system.string%2cmicrosoft.practices.prism.regions.iregionbehavior))
 
 Exceptions
 ----------
@@ -49,8 +49,8 @@ See Also
 --------
 
 
-[RegionBehaviorCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehaviorcollection)
+[RegionBehaviorCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection)
 
 [RegionBehaviorCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehaviorcollection)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -14,11 +14,7 @@ The [InvokeCommandAction](https://msdn.microsoft.com/en-us/library/microsoft.pra
 ## Properties
 
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -47,14 +43,14 @@ Gets a value that indicates whether the object can be made unmodifiable.
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.invokecommandaction.command">Command</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.command">Command</a></td>
 <td><div class="summary">
 Gets or sets the command to execute when invoked.
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.invokecommandaction.commandparameter">CommandParameter</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.commandparameter">CommandParameter</a></td>
 <td><div class="summary">
 Gets or sets the command parameter to supply on command execution.
 </div></td>
@@ -106,7 +102,7 @@ Gets a value that indicates whether this instance is currently sealed (read-only
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn683973.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.invokecommandaction.triggerparameterpath">TriggerParameterPath</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.triggerparameterpath">TriggerParameterPath</a></td>
 <td><div class="summary">
 Gets or sets the TriggerParameterPath value.
 </div></td>

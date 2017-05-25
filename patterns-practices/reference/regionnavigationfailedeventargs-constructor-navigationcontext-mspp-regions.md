@@ -10,9 +10,9 @@ Prism Class Library
 RegionNavigationFailedEventArgs Constructor (NavigationContext)
 ===============================================================
 
-Initializes a new instance of the [RegionNavigationEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationeventargs) class.
+Initializes a new instance of the [RegionNavigationEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -25,17 +25,17 @@ public RegionNavigationFailedEventArgs( NavigationContext navigationContext )Pub
 ### Parameters
 
 navigationContext  
-Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 The navigation context.
 
 See Also
 --------
 
 
-[RegionNavigationFailedEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationfailedeventargs)
+[RegionNavigationFailedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs)
 
 [RegionNavigationFailedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationfailedeventargs)
 
 [RegionNavigationFailedEventArgs Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.regions.regionnavigationfailedeventargs.)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

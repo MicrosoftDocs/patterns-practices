@@ -12,11 +12,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419047(v=PandP.50)'
 
 <span id="classToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -26,14 +22,14 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419047(v=PandP.50)'
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419047.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50)">ErrorsContainer&lt;T&gt;</a></td>
 <td><div class="summary">
 Manages validation errors for an object, notifying when the error state changes.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419047.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.notificationobject(v=pandp.50)">NotificationObject</a></td>
 <td><strong>Obsolete.</strong>
 <div class="summary">
@@ -41,7 +37,7 @@ Base class for items that support property notification.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419047.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.propertysupport(v=pandp.50)">PropertySupport</a></td>
 <td><strong>Obsolete.</strong>
 <div class="summary">

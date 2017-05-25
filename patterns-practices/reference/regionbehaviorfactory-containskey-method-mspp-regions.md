@@ -12,7 +12,7 @@ RegionBehaviorFactory.ContainsKey Method
 
 Determines whether a behavior with the specified key already exists.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -34,14 +34,14 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if a behavior with the specified key is present; otherwise, falseFalsefalsefalse (False in Visual Basic).
 ### Implements
 
-[IRegionBehaviorFactory.ContainsKey(String)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionbehaviorfactory.containskey(system.string))
+[IRegionBehaviorFactory.ContainsKey(String)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory.containskey(system.string))
 
 See Also
 --------
 
 
-[RegionBehaviorFactory Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehaviorfactory)
+[RegionBehaviorFactory Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory)
 
 [RegionBehaviorFactory Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehaviorfactory)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

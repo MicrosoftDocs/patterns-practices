@@ -10,9 +10,9 @@ Prism Class Library
 ViewRegisteredEventArgs Class
 =============================
 
-Argument class used by the [ContentRegistered](https://msdn.microsoft.com/e:microsoft.practices.prism.regions.iregionviewregistry.contentregistered) event when a new content is registered.
+Argument class used by the [ContentRegistered](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry.contentregistered) event when a new content is registered.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -35,4 +35,4 @@ See Also
 
 [ViewRegisteredEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewregisteredeventargs)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

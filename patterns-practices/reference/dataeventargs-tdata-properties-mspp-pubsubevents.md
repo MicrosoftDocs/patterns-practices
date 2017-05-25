@@ -5,23 +5,23 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.DataEventArgs\`
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736256(v=PandP.50)'
 ---
 
-Prism Class Library
+# DataEventArgs(Of TData) Properties
 
+The [DataEventArgs(Of TData)](https://msdn.microsoft.com/en-us/library/dn736191(v=pandp.50)) type exposes the following members.
+
+## Properties
+=======
 DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Properties
 ====================================================
 
-The [DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;)](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.dataeventargs%601) type exposes the following members.
+The [DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dataeventargs%601) type exposes the following members.
 
 Properties
 ----------
 
 <span id="propertyTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -32,7 +32,7 @@ Properties
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736256.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.pubsubevents.dataeventargs%601.value">Value</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dataeventargs%601.value">Value</a></td>
 <td><div class="summary">
 Gets the information related to the event.
 </div></td>
@@ -40,10 +40,14 @@ Gets the information related to the event.
 </tbody>
 </table>
 
+## See Also
+
+[DataEventArgs(Of TData) Class](https://msdn.microsoft.com/en-us/library/dn736191(v=pandp.50))
+=======
 See Also
 --------
 
 
-[DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.dataeventargs%601)
+[DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dataeventargs%601)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)

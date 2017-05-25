@@ -12,7 +12,7 @@ RegionManagerExtensions.RequestNavigate Method (IRegionManager, String, String, 
 
 This method allows an IRegionManager to locate a specified region and navigate in it to the specified target string, passing a navigation callback and an instance of NavigationParameters, which holds a collection of object parameters.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -25,7 +25,7 @@ public static void RequestNavigate( this IRegionManager regionManager, string re
 ### Parameters
 
 regionManager  
-Type: [Microsoft.Practices.Prism.Regions.IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
+Type: [Microsoft.Practices.Prism.Regions.IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager)
 The IRegionManager instance that is extended by this method.
 
 regionName  
@@ -37,25 +37,25 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 A string that represents the target where the region will navigate.
 
 navigationCallback  
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([NavigationResult](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationresult)&gt;)&gt;)
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([NavigationResult](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult)&gt;)&gt;)
 The navigation callback that will be executed after the navigation is completed.
 
 navigationParameters  
-Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters)
+Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
 An instance of NavigationParameters, which holds a collection of object parameters.
 
 ### Usage Note
 
-In Visual Basic and C\#, you can call this method as an instance method on any object of type [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
+In Visual Basic and C\#, you can call this method as an instance method on any object of type [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 
 See Also
 --------
 
 
-[RegionManagerExtensions Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanagerextensions)
+[RegionManagerExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions)
 
 [RegionManagerExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionmanagerextensions)
 
 [RequestNavigate Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.regions.regionmanagerextensions.requestnavigate)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

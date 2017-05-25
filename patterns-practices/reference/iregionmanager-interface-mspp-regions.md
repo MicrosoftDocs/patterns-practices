@@ -10,9 +10,9 @@ Prism Class Library
 IRegionManager Interface
 ========================
 
-Defines an interface to manage a set of [regions](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion) and to attach regions to objects (typically controls).
+Defines an interface to manage a set of [regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) and to attach regions to objects (typically controls).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -28,4 +28,4 @@ See Also
 
 [IRegionManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionmanager)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

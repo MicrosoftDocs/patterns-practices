@@ -12,7 +12,7 @@ RegionNavigationContentLoader.CreateNewRegionItem Method
 
 Provides a new item for the region based on the supplied candidate target contract name.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -31,14 +31,14 @@ The target contract to build.
 ### Return Value
 
 Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-An instance of an item to put into the [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion).
+An instance of an item to put into the [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion).
 
 See Also
 --------
 
 
-[RegionNavigationContentLoader Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationcontentloader)
+[RegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader)
 
 [RegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationcontentloader)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

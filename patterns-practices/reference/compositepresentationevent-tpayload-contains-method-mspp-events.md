@@ -25,7 +25,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419056(v=PandP.50)'
 <tr>
   <td>
       
-![](https://msdn.microsoft.com/en-us/Gg419056.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
   </td>
   <td>
     Contains(SubscriptionToken)
@@ -35,7 +35,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419056(v=PandP.50)'
 <tr>
   <td>
     
-![](https://msdn.microsoft.com/en-us/Gg419056.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
   </td>
   <td>
     <a href="https://msdn.microsoft.com/en-us/library/gg405766(v=pandp.50)">Contains(Action(Of TPayload))</a>

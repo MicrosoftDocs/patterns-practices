@@ -10,9 +10,9 @@ Prism Class Library
 IActiveAware.IsActiveChanged Event
 ======================================
 
-Notifies that the value for [IsActive](https://msdn.microsoft.com/p:microsoft.practices.prism.iactiveaware.isactive) property has changed.
+Notifies that the value for [IsActive](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware.isactive) property has changed.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.SharedInterfaces (in Microsoft.Practices.Prism.SharedInterfaces.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -27,8 +27,8 @@ See Also
 --------
 
 
-[IActiveAware Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.iactiveaware)
+[IActiveAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware)
 
 [IActiveAware Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.iactiveaware)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)
+[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

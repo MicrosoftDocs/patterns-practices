@@ -12,11 +12,7 @@ Prism Class Library
 ## Overload List
 
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -26,50 +22,50 @@ Prism Class Library
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419107.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException()()()</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException()()()</a></td>
 <td><div class="summary">
 Initializes a new instance.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419107.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException(String)</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException(String)</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinitializeexception">ModuleInitializeException</a> class.
+Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception">ModuleInitializeException</a> class.
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419107.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException(SerializationInfo, StreamingContext)</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException(SerializationInfo, StreamingContext)</a></td>
 <td><div class="summary">
 Initializes a new instance with serialized data.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419107.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException(String, Exception)</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException(String, Exception)</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinitializeexception">ModuleInitializeException</a> class.
+Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception">ModuleInitializeException</a> class.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419107.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException(String, String, Exception)</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException(String, String, Exception)</a></td>
 <td><div class="summary">
 Initializes the exception with a particular module, error message and inner exception that happened.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419107.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException(String, String, String)</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException(String, String, String)</a></td>
 <td><div class="summary">
 Initializes the exception with a particular module and error message.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419107.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException(String, String, String, Exception)</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException(String, String, String, Exception)</a></td>
 <td><div class="summary">
 Initializes the exception with a particular module, error message and inner exception that happened.
 </div></td>

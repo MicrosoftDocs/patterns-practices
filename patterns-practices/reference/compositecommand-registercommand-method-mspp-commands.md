@@ -42,7 +42,7 @@ The command to register.
 Remarks
 -------
 
-<span id="remarksToggle"></span> If this command is set to monitor command activity, and command implements the [!:IActiveAwareCommand] interface, this method will subscribe to its [!:IActiveAwareCommand.IsActiveChanged] event.
+ If this command is set to monitor command activity, and command implements the [!:IActiveAwareCommand] interface, this method will subscribe to its [!:IActiveAwareCommand.IsActiveChanged] event.
 
 See Also
 --------

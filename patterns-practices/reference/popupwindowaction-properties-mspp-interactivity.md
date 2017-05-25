@@ -7,21 +7,20 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736288(v=PandP.50)'
 
 Prism Class Library
 
-PopupWindowAction Properties
-============================
+# PopupWindowAction Properties
 
-The [PopupWindowAction](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.popupwindowaction) type exposes the following members.
+The [PopupWindowAction](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction(v=pandp.50)) type exposes the following members.
+
+## Properties
+=======
+The [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction) type exposes the following members.
 
 Properties
 ----------
 
 <span id="propertyTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -33,11 +32,15 @@ Properties
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736288.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
 <td>AssociatedObject</td>
+<td>(Inherited from TriggerAction(Of [FrameworkElement](http://msdn2.microsoft.com/en-us/library/ms602714)).)</td>
+=======
 <td>(Inherited from TriggerAction&lt;(Of &lt;(<a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>&gt;)&gt;).)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736288.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
 <td>AssociatedObjectTypeConstraint</td>
+<td>(Inherited from TriggerAction(Of [FrameworkElement](http://msdn2.microsoft.com/en-us/library/ms602714)).)</td>
+=======
 <td>(Inherited from TriggerAction&lt;(Of &lt;(<a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>&gt;)&gt;).)</td>
 </tr>
 <tr class="odd">
@@ -50,7 +53,7 @@ Gets a value that indicates whether the object can be made unmodifiable.
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736288.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.popupwindowaction.centeroverassociatedobject">CenterOverAssociatedObject</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.centeroverassociatedobject">CenterOverAssociatedObject</a></td>
 <td><div class="summary">
 Gets or sets if the window will be initially shown centered over the view that raised the interaction request or not.
 </div></td>
@@ -94,7 +97,7 @@ Gets a value that indicates whether the object is currently modifiable.
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736288.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.popupwindowaction.ismodal">IsModal</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.ismodal">IsModal</a></td>
 <td><div class="summary">
 Gets or sets if the window will be modal or not.
 </div></td>
@@ -109,7 +112,7 @@ Gets a value that indicates whether this instance is currently sealed (read-only
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736288.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.popupwindowaction.windowcontent">WindowContent</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.windowcontent">WindowContent</a></td>
 <td><div class="summary">
 Gets or sets the content of the window.
 </div></td>
@@ -117,10 +120,13 @@ Gets or sets the content of the window.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
+[PopupWindowAction Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction(v=pandp.50))
 
-[PopupWindowAction Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.popupwindowaction)
+[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+=======
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)
+[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
+
+[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)

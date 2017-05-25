@@ -35,7 +35,7 @@ The object to adapt.
 Remarks
 -------
 
-<span id="remarksToggle"></span> This class attaches the base behaviors and also listens for changes in the activity of the region or the control selection and keeps the in sync.
+ This class attaches the base behaviors and also listens for changes in the activity of the region or the control selection and keeps the in sync.
 
 See Also
 --------

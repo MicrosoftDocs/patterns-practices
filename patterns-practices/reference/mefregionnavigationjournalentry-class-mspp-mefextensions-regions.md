@@ -13,7 +13,7 @@ Exports the RegionNavigationJournalEntry using the Managed Extensibility Framewo
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions(v=pandp.50))
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
 =======
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -44,7 +44,7 @@ Public Class MefRegionNavigationJournalEntry
 
 =======
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournalentry)
+  [Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry)
 
     Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournalEntry
 

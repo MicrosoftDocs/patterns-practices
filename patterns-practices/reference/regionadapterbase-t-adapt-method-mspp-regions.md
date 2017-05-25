@@ -10,9 +10,9 @@ Prism Class Library
 RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;).Adapt Method
 ==========================================================
 
-Template method to adapt the object to an [IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion).
+Template method to adapt the object to an [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -25,19 +25,19 @@ protected abstract void Adapt( IRegion region, T regionTarget )Protected MustOve
 ### Parameters
 
 region  
-Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregion)
+Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 The new region being used.
 
 regionTarget  
-Type: [T](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionadapterbase%601)
+Type: [T](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601)
 The object to adapt.
 
 See Also
 --------
 
 
-[RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionadapterbase%601)
+[RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601)
 
 [RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionadapterbase%601)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -5,32 +5,40 @@ ms:assetid: 'F:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.CenterO
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736254(v=PandP.50)'
 ---
 
-Prism Class Library
-
-PopupWindowAction.CenterOverAssociatedObjectProperty Field
-==============================================================
+# PopupWindowAction.CenterOverAssociatedObjectProperty Field
 
 Determines if the content should be initially shown centered over the view that raised the interaction request or not.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+=======
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
-**Version:** 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+```C#
+public static readonly DependencyProperty CenterOverAssociatedObjectProperty
+```
 
-public static readonly DependencyProperty CenterOverAssociatedObjectPropertyPublic Shared ReadOnly CenterOverAssociatedObjectProperty As DependencyProperty
+```VB
+'Declaration
+Public Shared ReadOnly CenterOverAssociatedObjectProperty As DependencyProperty
+```
+
 ### Field Value
 
 Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 
-See Also
---------
+## See Also
 
+[PopupWindowAction Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction(v=pandp.50))
+=======
+[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
 
-[PopupWindowAction Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.popupwindowaction)
+[PopupWindowAction Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction_members(v=pandp.50))
 
-[PopupWindowAction Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.popupwindowaction)
-
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity)
+[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+=======
+[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)

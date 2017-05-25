@@ -10,7 +10,7 @@ Prism Class Library
 IView.DataContext Property
 ==============================
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/n:microsoft.practices.prism.mvvm)
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -25,8 +25,8 @@ See Also
 --------
 
 
-[IView Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.iview)
+[IView Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.iview)
 
 [IView Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mvvm.iview)
 
-[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mvvm)
+[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)

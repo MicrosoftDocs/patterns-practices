@@ -28,7 +28,7 @@ The [IModuleTypeLoader](https://msdn.microsoft.com/en-us/library/microsoft.pract
 <tr>
   <td>
  
- ![](https://msdn.microsoft.com/en-us/Gg431046.pubmethod(en-us,PandP.50).gif "Public method")
+ ![](images/public-method.gif "Public method")
   </td>
   <td>
  <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader.canloadmoduletype(v=pandp.50)">CanLoadModuleType</a>
@@ -42,7 +42,7 @@ Evaluates the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practi
 <tr>
   <td>
  
- ![](https://msdn.microsoft.com/en-us/Gg431046.pubmethod(en-us,PandP.50).gif "Public method")
+ ![](images/public-method.gif "Public method")
   </td>
   <td>
  <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader.loadmoduletype(v=pandp.50)">LoadModuleType</a>

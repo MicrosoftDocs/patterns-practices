@@ -10,9 +10,9 @@ Prism Class Library
 ModuleConfigurationElementCollection.Add Method
 ===================================================
 
-Adds a [ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement) to the collection.
+Adds a [ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement) to the collection.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -25,15 +25,15 @@ public void Add( ModuleConfigurationElement module )Public Sub Add ( module As M
 ### Parameters
 
 module  
-Type: [Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement)
-A [ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement) instance.
+Type: [Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
+A [ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement) instance.
 
 See Also
 --------
 
 
-[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
+[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 
 [ModuleConfigurationElementCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

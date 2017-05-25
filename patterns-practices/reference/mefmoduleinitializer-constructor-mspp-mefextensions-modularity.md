@@ -10,9 +10,9 @@ Prism Class Library
 MefModuleInitializer Constructor
 ================================
 
-Initializes a new instance of the [MefModuleInitializer](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer) class.
+Initializes a new instance of the [MefModuleInitializer](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer) class.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.modularity)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -29,11 +29,11 @@ Type: IServiceLocator
 The container that will be used to resolve the modules by specifying its type.
 
 loggerFacade  
-Type: [Microsoft.Practices.Prism.Logging.ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade)
+Type: [Microsoft.Practices.Prism.Logging.ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade)
 The logger to use.
 
 downloadedPartCatalogs  
-Type: [Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection)
+Type: [Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection)
 The downloaded part catalogs.
 
 aggregateCatalog  
@@ -44,8 +44,8 @@ See Also
 --------
 
 
-[MefModuleInitializer Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer)
+[MefModuleInitializer Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer)
 
 [MefModuleInitializer Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.modularity)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)

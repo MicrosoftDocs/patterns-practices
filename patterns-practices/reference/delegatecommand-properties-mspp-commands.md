@@ -14,11 +14,7 @@ The [DelegateCommand](https://msdn.microsoft.com/en-us/library/microsoft.practic
 ## Properties
 
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -29,11 +25,11 @@ The [DelegateCommand](https://msdn.microsoft.com/en-us/library/microsoft.practic
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419158.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.commands.delegatecommandbase.isactive">IsActive</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase.isactive">IsActive</a></td>
 <td><div class="summary">
 Gets or sets a value indicating whether the object is active.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommandbase">DelegateCommandBase</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase">DelegateCommandBase</a>.)</td>
 </tr>
 </tbody>
 </table>

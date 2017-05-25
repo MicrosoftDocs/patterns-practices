@@ -12,7 +12,7 @@ IModuleExport.DependsOnModuleNames Property
 
 Gets the names of modules this module depends upon.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.modularity)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -30,8 +30,8 @@ See Also
 --------
 
 
-[IModuleExport Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.modularity.imoduleexport)
+[IModuleExport Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport)
 
 [IModuleExport Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.imoduleexport)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.modularity)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)

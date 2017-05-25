@@ -10,9 +10,9 @@ Prism Class Library
 RegionNavigationService Constructor
 ===================================
 
-Initializes a new instance of the [RegionNavigationService](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationservice) class.
+Initializes a new instance of the [RegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -29,19 +29,19 @@ Type: IServiceLocator
 The service locator.
 
 regionNavigationContentLoader  
-Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationContentLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationcontentloader)
+Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader)
 The navigation target handler.
 
 journal  
-Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournal](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationjournal)
+Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
 The journal.
 
 See Also
 --------
 
 
-[RegionNavigationService Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationservice)
+[RegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice)
 
 [RegionNavigationService Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationservice)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -10,11 +10,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419051(v=PandP.50)'
 ## Overload List
  
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,17 +20,17 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419051(v=PandP.50)'
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419051.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.commands.delegatecommand.">DelegateCommand(Action)</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand.">DelegateCommand(Action)</a></td>
 <td><div class="summary">
-Creates a new instance of <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand">DelegateCommand</a> with the <a href="http://msdn.microsoft.com/en-us/library/bb534741">Action</a> to invoke on execution.
+Creates a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand">DelegateCommand</a> with the <a href="http://msdn.microsoft.com/en-us/library/bb534741">Action</a> to invoke on execution.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419051.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.commands.delegatecommand.">DelegateCommand(Action, Func&lt;(Of &lt;(Boolean&gt;)&gt;))</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand.">DelegateCommand(Action, Func&lt;(Of &lt;(Boolean&gt;)&gt;))</a></td>
 <td><div class="summary">
-Creates a new instance of <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand">DelegateCommand</a> with the <a href="http://msdn.microsoft.com/en-us/library/bb534741">Action</a> to invoke on execution and a Func to query for determining if the command can execute.
+Creates a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand">DelegateCommand</a> with the <a href="http://msdn.microsoft.com/en-us/library/bb534741">Action</a> to invoke on execution and a Func to query for determining if the command can execute.
 </div></td>
 </tr>
 </tbody>

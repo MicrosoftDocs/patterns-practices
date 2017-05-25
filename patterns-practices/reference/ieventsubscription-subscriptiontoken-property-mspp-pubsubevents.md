@@ -42,7 +42,7 @@ Type: [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.pra
 A token that identifies this [IEventSubscription](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50)).
 =======
 
-[IEventSubscription Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.ieventsubscription)
+[IEventSubscription Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription)
 
 
 ## See Also

@@ -12,7 +12,7 @@ Confirmation.Confirmed Property
 
 Gets or sets a value indicating that the confirmation is confirmed.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -26,14 +26,14 @@ public bool Confirmed { get; set; }Public Property Confirmed As Boolean Get Set
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 ### Implements
 
-[IConfirmation.Confirmed](https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.interactionrequest.iconfirmation.confirmed)
+[IConfirmation.Confirmed](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation.confirmed)
 
 See Also
 --------
 
 
-[Confirmation Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.confirmation)
+[Confirmation Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation)
 
 [Confirmation Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.confirmation)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
