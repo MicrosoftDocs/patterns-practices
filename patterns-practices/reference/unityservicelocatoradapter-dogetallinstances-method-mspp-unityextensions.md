@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityServiceLocatorAdap
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419015(v=PandP.50)'
 ---
 
-Prism Class Library
 
-UnityServiceLocatorAdapter.DoGetAllInstances Method
-=======================================================
+# UnityServiceLocatorAdapter.DoGetAllInstances Method
 
 Resolves all the instances of the requested service.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 protected override IEnumerable&lt;Object&gt; DoGetAllInstances( Type serviceType )Protected Overrides Function DoGetAllInstances ( serviceType As Type ) As IEnumerable(Of Object)
 
@@ -33,9 +30,7 @@ Type of service requested.
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 Sequence of service instance objects.
 
-See Also
---------
-
+## See Also
 
 [UnityServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
 

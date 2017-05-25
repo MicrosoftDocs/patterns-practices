@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Events.MefEven
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430793(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefEventAggregator Members
-==========================
+# MefEventAggregator Members
 
 The [MefEventAggregator](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +33,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -106,9 +102,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [MefEventAggregator Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator)
 

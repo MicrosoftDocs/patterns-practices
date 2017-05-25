@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleConfigurati
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431168(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleConfigurationElementCollection Properties
-===============================================
+# ModuleConfigurationElementCollection Properties
 
 The [ModuleConfigurationElementCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -220,9 +217,7 @@ Gets a value indicating whether an exception should be raised if a duplicate ele
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 

@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.AllActiveRegion'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431183(v=PandP.50)'
 ---
 
-Prism Class Library
 
-AllActiveRegion Properties
-==========================
+# AllActiveRegion Properties
 
 The [AllActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.allactiveregion) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -101,9 +98,7 @@ Gets a readonly view of the collection of views in the region.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [AllActiveRegion Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.allactiveregion)
 

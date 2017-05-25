@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.UriParsingHelper'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405529(v=PandP.50)'
 ---
 
-Prism Class Library
 
-UriParsingHelper Members
-========================
+# UriParsingHelper Members
 
 The [UriParsingHelper](https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -50,9 +47,7 @@ Parses the query of uri into a dictionary.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [UriParsingHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper)
 

@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Mvvm.BindableBase'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683975(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # BindableBase Class
 

@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegion.Deactivate(System.Objec
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405981(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegion.Deactivate Method
-=============================
+# IRegion.Deactivate Method
 
 Marks the specified view as inactive.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 void Deactivate( Object view )Sub Deactivate ( view As Object )
 
@@ -28,9 +25,7 @@ view
 Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The view to deactivate.
 
-See Also
---------
-
+## See Also
 
 [IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 

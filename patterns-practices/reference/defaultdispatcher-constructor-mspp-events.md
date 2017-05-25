@@ -5,26 +5,21 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Events.DefaultDispatcher.\#ctor'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405549(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DefaultDispatcher Constructor
-=============================
+# DefaultDispatcher Constructor
 
 Initializes a new instance of the [DefaultDispatcher](https://msdn.microsoft.com/library/microsoft.practices.prism.events.defaultdispatcher) class
 
-**Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/library/microsoft.practices.prism.events)
+**Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/library/microsoft.practices.prism.events)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public DefaultDispatcher()Public Sub New
 
-See Also
---------
-
+## See Also
 
 [DefaultDispatcher Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.defaultdispatcher)
 

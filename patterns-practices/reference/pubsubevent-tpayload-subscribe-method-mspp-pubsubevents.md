@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Subs
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736298(v=PandP.50)'
 ---
 
-Prism Class Library
 
-PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Subscribe Method
-===============================================================
+# PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Subscribe Method
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -62,9 +59,7 @@ Subscribes a delegate to an event.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601)
 

@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.UnityExtensions.UnityBootstr
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405526(v=PandP.50)'
 ---
 
-Prism Class Library
 
-UnityBootstrapperExtension Members
-==================================
+# UnityBootstrapperExtension Members
 
 The [UnityBootstrapperExtension](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +33,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -126,8 +122,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 |                                                                                                      | Name      | Description                               |
@@ -135,9 +130,7 @@ Properties
 | ![](https://msdn.microsoft.com/en-us/Gg405526.pubproperty(en-us,PandP.50).gif "Public property")     | Container | (Inherited from UnityContainerExtension.) |
 | ![](https://msdn.microsoft.com/en-us/Gg405526.protproperty(en-us,PandP.50).gif "Protected property") | Context   | (Inherited from UnityContainerExtension.) |
 
-See Also
---------
-
+## See Also
 
 [UnityBootstrapperExtension Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension)
 

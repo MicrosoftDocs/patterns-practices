@@ -5,26 +5,21 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewRegistrationException.\#cto
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405717(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ViewRegistrationException Constructor
-=====================================
+# ViewRegistrationException Constructor
 
 Initializes a new instance of the [ViewRegistrationException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public ViewRegistrationException()Public Sub New
 
-See Also
---------
-
+## See Also
 
 [ViewRegistrationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception)
 

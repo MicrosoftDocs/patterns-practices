@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.DuplicateModuleExcept
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419082(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DuplicateModuleException Constructor
-====================================
+# DuplicateModuleException Constructor
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -69,9 +66,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [DuplicateModuleException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception)
 

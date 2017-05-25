@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Commands.CompositeCommand'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419157(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # CompositeCommand Properties
 
@@ -34,7 +33,6 @@ Gets the list of all the registered commands.
 </table>
 
 ## See Also
-
 
 [CompositeCommand Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand(v=pandp.50))
 

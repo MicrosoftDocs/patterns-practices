@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.ActiveViews'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431386(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Region.ActiveViews Property
-===============================
+# Region.ActiveViews Property
 
 Gets a readonly view of the collection of all the active views in the region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public virtual IViewsCollection ActiveViews { get; }Public Overridable ReadOnly Property ActiveViews As IViewsCollection Get
 ### Property Value
@@ -29,9 +26,7 @@ An [IViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.pri
 
 [IRegion.ActiveViews](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.activeviews)
 
-See Also
---------
-
+## See Also
 
 [Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 

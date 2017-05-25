@@ -5,15 +5,12 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.ModuleManager'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430896(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleManager Events
-====================
+# ModuleManager Events
 
 The [ModuleManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager(v=pandp.50)) type exposes the following members.
 
-Events
-------
+## Events
 
 <table>
 
@@ -42,9 +39,7 @@ Raised repeatedly to provide progress as modules are loaded in the background.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager(v=pandp.50))
 

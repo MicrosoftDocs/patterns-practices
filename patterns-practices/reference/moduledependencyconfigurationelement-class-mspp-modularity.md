@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleDependencyConfiguratio
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431495(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleDependencyConfigurationElement Class
 
@@ -37,7 +36,6 @@ Public Class ModuleDependencyConfigurationElement
     Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement
 
 ## See Also
-
 
 [ModuleDependencyConfigurationElement Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement_members(v=pandp.50))
 

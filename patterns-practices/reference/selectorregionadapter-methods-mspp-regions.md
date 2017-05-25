@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.SelectorRegionAdapter'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431129(v=PandP.50)'
 ---
 
-Prism Class Library
 
-SelectorRegionAdapter Methods
-=============================
+# SelectorRegionAdapter Methods
 
 The [SelectorRegionAdapter](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.selectorregionadapter(v=pandp.50)) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <table>
 
@@ -116,9 +113,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [SelectorRegionAdapter Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.selectorregionadapter(v=pandp.50))
 

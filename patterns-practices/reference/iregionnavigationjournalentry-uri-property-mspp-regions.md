@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry.U
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431341(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionNavigationJournalEntry.Uri Property
-==============================================
+# IRegionNavigationJournalEntry.Uri Property
 
 Gets or sets the URI.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 Uri Uri { get; set; }Property Uri As Uri Get Set
 ### Property Value
@@ -26,9 +23,7 @@ Uri Uri { get; set; }Property Uri As Uri Get Set
 Type: [Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 The URI.
 
-See Also
---------
-
+## See Also
 
 [IRegionNavigationJournalEntry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry)
 

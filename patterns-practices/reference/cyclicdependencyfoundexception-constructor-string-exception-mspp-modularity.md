@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundExcepti
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405609(v=PandP.50)'
 ---
 
-Prism Class Library
 
-CyclicDependencyFoundException Constructor (String, Exception)
-==============================================================
+# CyclicDependencyFoundException Constructor (String, Exception)
 
 Initializes a new instance of the [CyclicDependencyFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception) class with the specified error message and inner exception.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public CyclicDependencyFoundException( string message, Exception innerException )Public Sub New ( message As String, innerException As Exception )
 
@@ -32,9 +29,7 @@ innerException
 Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 The exception that is the cause of the current exception.
 
-See Also
---------
-
+## See Also
 
 [CyclicDependencyFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
 

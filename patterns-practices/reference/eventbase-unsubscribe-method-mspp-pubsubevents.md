@@ -5,18 +5,15 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventBase.Unsubscribe(Micr
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736277(v=PandP.50)'
 ---
 
-Prism Class Library
 
-EventBase.Unsubscribe Method
-================================
+# EventBase.Unsubscribe Method
 
 Removes the subscriber matching the [SubscriptionToken](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
 
 public virtual void Unsubscribe( SubscriptionToken token )Public Overridable Sub Unsubscribe ( token As SubscriptionToken )
 
@@ -26,9 +23,7 @@ token
 Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken)
 The [SubscriptionToken](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken) returned by [EventBase](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase) while subscribing to the event.
 
-See Also
---------
-
+## See Also
 
 [EventBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase)
 

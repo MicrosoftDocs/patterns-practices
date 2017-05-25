@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Regions.NavigationAsyncExtensions'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431542(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # NavigationAsyncExtensions Class
 

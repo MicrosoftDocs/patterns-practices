@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory.Contains
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405960(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionBehaviorFactory.ContainsKey Method
-=============================================
+# IRegionBehaviorFactory.ContainsKey Method
 
 Determines whether a behavior with the specified key already exists
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 bool ContainsKey( string behaviorKey )Function ContainsKey ( behaviorKey As String ) As Boolean
 
@@ -33,9 +30,7 @@ The behavior key.
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if a behavior with the specified key is present; otherwise, falseFalsefalsefalse (False in Visual Basic).
 
-See Also
---------
-
+## See Also
 
 [IRegionBehaviorFactory Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory)
 

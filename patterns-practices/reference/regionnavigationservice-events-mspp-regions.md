@@ -5,15 +5,12 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.RegionNavigationService'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430908(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionNavigationService Events
-==============================
+# RegionNavigationService Events
 
 The [RegionNavigationService](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice(v=pandp.50)) type exposes the following members.
 
-Events
-------
+## Events
 
 <table>
 
@@ -49,9 +46,7 @@ Raised when a navigation request fails.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionNavigationService Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice(v=pandp.50))
 

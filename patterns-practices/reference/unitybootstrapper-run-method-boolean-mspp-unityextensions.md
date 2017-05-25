@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.Run(S
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419011(v=PandP.50)'
 ---
 
-Prism Class Library
 
-UnityBootstrapper.Run Method (Boolean)
-==========================================
+# UnityBootstrapper.Run Method (Boolean)
 
 Run the bootstrapper process.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public override void Run( bool runWithDefaultConfiguration )Public Overrides Sub Run ( runWithDefaultConfiguration As Boolean )
 
@@ -28,9 +25,7 @@ runWithDefaultConfiguration
 Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 If trueTruetruetrue (True in Visual Basic), registers default Prism Library services in the container. This is the default behavior.
 
-See Also
---------
-
+## See Also
 
 [UnityBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
 

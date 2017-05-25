@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand\`1.\#ctor(Syst
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg406162(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # DelegateCommand&lt;T&gt; Constructor (Action&lt;T&gt;, Func&lt;T, Boolean&gt;)
 
@@ -23,7 +22,6 @@ public DelegateCommand(
 	Func<T, bool> canExecuteMethod
 )
 ```
-
 
 ### Parameters
 
@@ -73,7 +71,6 @@ Public Sub New (
 	canExecuteMethod As Func(Of T, Boolean)
 )
 ```
-
 
 ### Parameters
 

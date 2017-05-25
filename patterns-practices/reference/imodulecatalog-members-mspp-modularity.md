@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.IModuleCatalog'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430831(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IModuleCatalog Members
-======================
+# IModuleCatalog Members
 
 The [IModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -57,8 +54,7 @@ Initializes the catalog, which may load and validate the modules.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -81,9 +77,7 @@ Gets all the <a href="https://msdn.microsoft.com/library/microsoft.practices.pri
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IModuleCatalog Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog)
 

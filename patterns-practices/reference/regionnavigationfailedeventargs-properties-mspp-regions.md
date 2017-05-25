@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionNavigationFail
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431215(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionNavigationFailedEventArgs Properties
-==========================================
+# RegionNavigationFailedEventArgs Properties
 
 The [RegionNavigationFailedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -50,9 +47,7 @@ Gets the navigation URI
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionNavigationFailedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs)
 

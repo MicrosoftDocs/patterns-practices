@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Events.CompositePresentationEve
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430980(v=PandP.50)'
 ---
 
-Prism Class Library
 
-CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Methods
-=================================================================
+# CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Methods
 
 The [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -153,9 +150,7 @@ Removes the first subscriber matching <a href="http://msdn.microsoft.com/en-us/l
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)
 

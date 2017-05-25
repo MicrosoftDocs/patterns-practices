@@ -5,18 +5,15 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.Execute(Syste
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405749(v=PandP.50)'
 ---
 
-Prism Class Library
 
-CompositeCommand.Execute Method
-===================================
+# CompositeCommand.Execute Method
 
 Forwards [Execute(Object)](http://msdn.microsoft.com/en-us/library/ms604094) to the registered commands.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
 
 public virtual void Execute( Object parameter )Public Overridable Sub Execute ( parameter As Object )
 
@@ -30,9 +27,7 @@ Data used by the command. If the command does not require data to be passed, thi
 
 [ICommand.Execute(Object)](http://msdn.microsoft.com/en-us/library/ms604094)
 
-See Also
---------
-
+## See Also
 
 [CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
 

@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefReg
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430817(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefRegionNavigationJournalEntry Members
-=======================================
+# MefRegionNavigationJournalEntry Members
 
 The [MefRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +33,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -101,8 +97,7 @@ Returns a <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> 
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -134,9 +129,7 @@ Gets or sets the URI.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [MefRegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry)
 

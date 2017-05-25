@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken.E
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736295(v=PandP.50)'
 ---
 
-Prism Class Library
 
-SubscriptionToken.Equals Method
-===================================
+# SubscriptionToken.Equals Method
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -42,9 +39,7 @@ Indicates whether the current object is equal to another object of the same type
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [SubscriptionToken Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken)
 

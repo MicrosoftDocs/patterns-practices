@@ -5,18 +5,15 @@ ms:assetid: 'P:Microsoft.Practices.Prism.IActiveAware.IsActive'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431249(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IActiveAware.IsActive Property
-==================================
+# IActiveAware.IsActive Property
 
 Gets or sets a value indicating whether the object is active.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.SharedInterfaces (in Microsoft.Practices.Prism.SharedInterfaces.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
 
 bool IsActive { get; set; }Property IsActive As Boolean Get Set
 ### Property Value
@@ -24,9 +21,7 @@ bool IsActive { get; set; }Property IsActive As Boolean Get Set
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if the object is active; otherwise falseFalsefalsefalse (False in Visual Basic).
 
-See Also
---------
-
+## See Also
 
 [IActiveAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware)
 

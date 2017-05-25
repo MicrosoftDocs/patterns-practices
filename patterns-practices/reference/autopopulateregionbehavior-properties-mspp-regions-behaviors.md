@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopula
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431184(v=PandP.50)'
 ---
 
-Prism Class Library
 
-AutoPopulateRegionBehavior Properties
-=====================================
+# AutoPopulateRegionBehavior Properties
 
 The [AutoPopulateRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -45,9 +42,7 @@ Behavior's attached region.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [AutoPopulateRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior)
 

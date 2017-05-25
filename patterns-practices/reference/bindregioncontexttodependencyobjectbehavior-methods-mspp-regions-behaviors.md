@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.BindRegionCon
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431071(v=PandP.50)'
 ---
 
-Prism Class Library
 
-BindRegionContextToDependencyObjectBehavior Methods
-===================================================
+# BindRegionContextToDependencyObjectBehavior Methods
 
 The [BindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -84,9 +81,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [BindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior)
 

@@ -5,15 +5,12 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.RegionViewRegistry'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430909(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionViewRegistry Events
-=========================
+# RegionViewRegistry Events
 
 The [RegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -36,9 +33,7 @@ Occurs whenever a new view is registered.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry)
 

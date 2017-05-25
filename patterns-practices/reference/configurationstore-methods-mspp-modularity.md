@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ConfigurationStore'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431035(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ConfigurationStore Methods
 
@@ -82,7 +81,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-
 
 [ConfigurationStore Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.configurationstore(v=pandp.50))
 

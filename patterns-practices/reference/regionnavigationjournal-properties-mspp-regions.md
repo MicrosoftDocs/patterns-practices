@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionNavigationJour
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431216(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionNavigationJournal Properties
-==================================
+# RegionNavigationJournal Properties
 
 The [RegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <table>
 
@@ -56,9 +53,7 @@ Gets or sets the target that implements INavigate.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionNavigationJournal Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal)
 

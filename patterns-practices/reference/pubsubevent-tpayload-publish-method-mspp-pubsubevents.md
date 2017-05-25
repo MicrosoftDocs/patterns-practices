@@ -56,7 +56,6 @@ Public Overridable Sub Publish (
 )
 ```
 
-
 ### Parameters
 *payload*
 

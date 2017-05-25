@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindo
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736273(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DefaultConfirmationWindow Methods
-=================================
+# DefaultConfirmationWindow Methods
 
 The [DefaultConfirmationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -1828,9 +1825,7 @@ Enforces that the calling thread has access to this <a href="http://msdn.microso
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [DefaultConfirmationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
 

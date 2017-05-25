@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationContext.\#ctor(Micros
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405691(v=PandP.50)'
 ---
 
-Prism Class Library
 
-NavigationContext Constructor (IRegionNavigationService, Uri)
-=============================================================
+# NavigationContext Constructor (IRegionNavigationService, Uri)
 
 Initializes a new instance of the [NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext) class for a region name and a [Uri](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.uri).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public NavigationContext( IRegionNavigationService navigationService, Uri uri )Public Sub New ( navigationService As IRegionNavigationService, uri As Uri )
 
@@ -32,9 +29,7 @@ uri
 Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 The Uri.
 
-See Also
---------
-
+## See Also
 
 [NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 

@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModulesConfigurationSection.
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431323(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModulesConfigurationSection.Modules Property
-================================================
+# ModulesConfigurationSection.Modules Property
 
 Gets or sets the collection of modules configuration.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public ModuleConfigurationElementCollection Modules { get; set; }Public Property Modules As ModuleConfigurationElementCollection Get Set
 ### Property Value
@@ -26,9 +23,7 @@ public ModuleConfigurationElementCollection Modules { get; set; }Public Property
 Type: [ModuleConfigurationElementCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 A [ModuleConfigurationElementCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection) of [ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement).
 
-See Also
---------
-
+## See Also
 
 [ModulesConfigurationSection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection)
 

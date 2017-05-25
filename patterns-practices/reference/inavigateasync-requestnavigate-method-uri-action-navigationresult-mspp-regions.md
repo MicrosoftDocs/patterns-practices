@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.INavigateAsync.RequestNavigate(
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405952(v=PandP.50)'
 ---
 
-Prism Class Library
 
-INavigateAsync.RequestNavigate Method (Uri, Action&lt;NavigationResult&gt;)
-==============================================================================================
+# INavigateAsync.RequestNavigate Method (Uri, Action&lt;NavigationResult&gt;)
 
 Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
 
@@ -18,9 +16,7 @@ Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 void RequestNavigate(
@@ -48,14 +44,11 @@ Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[Navi
 
 The callback executed when the navigation request is completed.
 
-Remarks
--------
+## Remarks
 
  Convenience overloads for this method can be found as extension methods on the [NavigationAsyncExtensions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions(v=pandp.50)) class.
 
-See Also
---------
-
+## See Also
 
 [INavigateAsync Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync(v=pandp.50))
 

@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBeh
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405676(v=PandP.50)'
 ---
 
-Prism Class Library
 
-AutoPopulateRegionBehavior Constructor
-======================================
+# AutoPopulateRegionBehavior Constructor
 
 Creates a new instance of the AutoPopulateRegionBehavior associated with the [IRegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry) received.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public AutoPopulateRegionBehavior( IRegionViewRegistry regionViewRegistry )Public Sub New ( regionViewRegistry As IRegionViewRegistry )
 
@@ -28,9 +25,7 @@ regionViewRegistry
 Type: [Microsoft.Practices.Prism.Regions.IRegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry)
 [IRegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry) that the behavior will monitor for views to populate the region.
 
-See Also
---------
-
+## See Also
 
 [AutoPopulateRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior)
 

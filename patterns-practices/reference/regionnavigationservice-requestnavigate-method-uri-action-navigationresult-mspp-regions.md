@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationService.Request
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418978(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionNavigationService.RequestNavigate Method (Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))
-=======================================================================================================
+# RegionNavigationService.RequestNavigate Method (Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))
 
 Initiates navigation to the specified target.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public void RequestNavigate( Uri target, Action&lt;NavigationResult&gt; navigationCallback )Public Sub RequestNavigate ( target As Uri, navigationCallback As Action(Of NavigationResult) )
 
@@ -36,9 +33,7 @@ A callback to execute when the navigation request is completed.
 
 [INavigateAsync.RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d))
 
-See Also
---------
-
+## See Also
 
 [RegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice)
 

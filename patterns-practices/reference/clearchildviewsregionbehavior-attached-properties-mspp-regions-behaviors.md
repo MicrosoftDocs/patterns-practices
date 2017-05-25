@@ -5,24 +5,19 @@ ms:assetid: 'AttachedProperties.T:Microsoft.Practices.Prism.Regions.Behaviors.Cl
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736301(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ClearChildViewsRegionBehavior Attached Properties
-=================================================
+# ClearChildViewsRegionBehavior Attached Properties
 
 The [ClearChildViewsRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior) type exposes the following members.
 
-Attached Properties
--------------------
+## Attached Properties
 
 <span id="attachedPropertyTableToggle"></span>
 |                                                                                                           | Name                                                                                                                                      | Description |
 |-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | ![](https://msdn.microsoft.com/en-us/Dn736301.pubproperty(en-us,PandP.50).gif "Public attached property") | [ClearChildViews](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.clearchildviews) |             |
 
-See Also
---------
-
+## See Also
 
 [ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
 

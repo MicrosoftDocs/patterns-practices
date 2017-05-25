@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleCatalog'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430838(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleCatalog Members
-=====================
+# ModuleCatalog Members
 
 The [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -43,8 +40,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -276,8 +272,7 @@ Makes sure all modules have an Unique name.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -328,9 +323,7 @@ Gets or sets a value that remembers whether the <a href="https://msdn.microsoft.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 

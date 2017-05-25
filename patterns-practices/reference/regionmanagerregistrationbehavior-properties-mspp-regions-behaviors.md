@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionMana
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431190(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionManagerRegistrationBehavior Properties
-============================================
+# RegionManagerRegistrationBehavior Properties
 
 The [RegionManagerRegistrationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -59,9 +56,7 @@ Provides an abstraction on top of the RegionManager static members.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
 

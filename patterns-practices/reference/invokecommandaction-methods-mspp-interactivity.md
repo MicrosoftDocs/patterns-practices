@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.InvokeCommandActi
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683950(v=PandP.50)'
 ---
 
-Prism Class Library
 
-InvokeCommandAction Methods
-===========================
+# InvokeCommandAction Methods
 
 The [InvokeCommandAction](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50)) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <table>
 
@@ -410,9 +407,7 @@ Verifies that the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Fre
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [InvokeCommandAction Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50))
 

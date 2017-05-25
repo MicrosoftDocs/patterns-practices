@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.InteractionReq
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419171(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Confirmation Properties
-=======================
+# Confirmation Properties
 
 The [Confirmation](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -52,9 +49,7 @@ Gets or sets the title to use for the notification.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [Confirmation Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation)
 

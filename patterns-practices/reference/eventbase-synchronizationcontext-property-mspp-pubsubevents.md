@@ -5,27 +5,22 @@ ms:assetid: 'P:Microsoft.Practices.Prism.PubSubEvents.EventBase.SynchronizationC
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736205(v=PandP.50)'
 ---
 
-Prism Class Library
 
-EventBase.SynchronizationContext Property
-=============================================
+# EventBase.SynchronizationContext Property
 
 Allows the SynchronizationContext to be set by the EventAggregator for UI Thread Dispatching
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
 
 public SynchronizationContext SynchronizationContext { get; set; }Public Property SynchronizationContext As SynchronizationContext Get Set
 ### Property Value
 
 Type: [SynchronizationContext](http://msdn.microsoft.com/en-us/library/wx31754f)
 
-See Also
---------
-
+## See Also
 
 [EventBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase)
 

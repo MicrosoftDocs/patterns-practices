@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Subscribe(S
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683969(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # PubSubEvent&lt;TPayload&gt;.Subscribe Method (Action&lt;TPayload&gt;)
 
@@ -22,7 +21,6 @@ public SubscriptionToken Subscribe(
 	Action<TPayload> action
 )
 ```
-
 
 ### Parameters
 
@@ -42,7 +40,6 @@ A [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practic
  The PubSubEvent collection is thread-safe.
 
 ## See Also
-
 
 [PubSubEvent&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50))
 
@@ -69,7 +66,6 @@ Public Function Subscribe (
 ) As SubscriptionToken
 ```
 
-
 ### Parameters
 
 *action*  
@@ -88,7 +84,6 @@ A [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practic
  The PubSubEvent collection is thread-safe.
 
 ## See Also
-
 
 [PubSubEvent(Of TPayload) Class](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50))
 

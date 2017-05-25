@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683927(v=PandP.50)'
 ---
 
-
 # SubscriptionToken Methods
 
 The [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50)) type exposes the following members.

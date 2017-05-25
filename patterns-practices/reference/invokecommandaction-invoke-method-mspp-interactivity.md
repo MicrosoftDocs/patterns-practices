@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.Invok
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736167(v=PandP.50)'
 ---
 
-Prism Class Library
 
-InvokeCommandAction.Invoke Method
-=====================================
+# InvokeCommandAction.Invoke Method
 
 Executes the command
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 protected override void Invoke( Object parameter )Protected Overrides Sub Invoke ( parameter As Object )
 
@@ -28,9 +25,7 @@ parameter
 Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 This parameter is passed to the command; the CommandParameter specified in the CommandParameterProperty is used for command invocation if not null.
 
-See Also
---------
-
+## See Also
 
 [InvokeCommandAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction)
 

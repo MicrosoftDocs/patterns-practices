@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleDependencyConfi
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419101(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleDependencyConfigurationElement Constructor
-================================================
+# ModuleDependencyConfigurationElement Constructor
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,9 +38,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleDependencyConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement)
 

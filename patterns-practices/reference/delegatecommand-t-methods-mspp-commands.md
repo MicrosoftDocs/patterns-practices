@@ -5,14 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Commands.DelegateCommand\`1'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430978(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # DelegateCommand&lt;T&gt; Methods
 
 The [DelegateCommand&lt;T&gt;](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)) type exposes the following members.
 
-## Methods
--------
+## ## Methods
 
 <table>
 
@@ -148,7 +146,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-
 
 [DelegateCommand&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50))
 

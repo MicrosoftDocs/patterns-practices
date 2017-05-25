@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleConfigurationEl
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419092(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleConfigurationElementCollection Constructor
-================================================
+# ModuleConfigurationElementCollection Constructor
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
  
@@ -42,9 +39,7 @@ Initializes a new <a href="https://msdn.microsoft.com/library/microsoft.practice
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection(v=pandp.50))
 

@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtens
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405723(v=PandP.50)'
 ---
 
-Prism Class Library
 
-UnityBootstrapperExtension Constructor
-======================================
+# UnityBootstrapperExtension Constructor
 
 Initializes a new instance of the [UnityBootstrapperExtension](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension(v=pandp.50)) class
 
@@ -18,9 +16,7 @@ Initializes a new instance of the [UnityBootstrapperExtension](https://msdn.micr
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public UnityBootstrapperExtension()
@@ -30,9 +26,7 @@ public UnityBootstrapperExtension()
 Public Sub New
 ```
 
-See Also
---------
-
+## See Also
 
 [UnityBootstrapperExtension Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension(v=pandp.50))
 

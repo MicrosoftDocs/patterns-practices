@@ -5,29 +5,24 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase\`1.Co
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736180(v=PandP.50)'
 ---
 
-Prism Class Library
 
-CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;).Command Property
-================================================================
+# CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;).Command Property
 
 Corresponding command to be execute and monitored for [CanExecuteChanged](http://msdn.microsoft.com/en-us/library/ms523106)
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public ICommand Command { get; set; }Public Property Command As ICommand Get Set
 ### Property Value
 
 Type: [ICommand](http://msdn.microsoft.com/en-us/library/ms616869)
 
-See Also
---------
-
+## See Also
 
 [CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601)
 

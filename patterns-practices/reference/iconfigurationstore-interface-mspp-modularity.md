@@ -5,10 +5,8 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.IConfigurationStore'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431479(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IConfigurationStore Interface
-=============================
+# IConfigurationStore Interface
 
 Defines a store for the module metadata.
 
@@ -18,9 +16,7 @@ Defines a store for the module metadata.
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public interface IConfigurationStore
@@ -29,9 +25,7 @@ public interface IConfigurationStore
 'Declaration
 Public Interface IConfigurationStore
 ```
-See Also
---------
-
+## See Also
 
 [IConfigurationStore Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.iconfigurationstore_members(v=pandp.50))
 

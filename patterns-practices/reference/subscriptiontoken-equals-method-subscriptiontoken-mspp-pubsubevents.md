@@ -30,12 +30,11 @@ Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](https://msdn.mi
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
 **trueTrue** (**True** in Visual Basic) if the current object is equal to the other parameter; otherwise, **falseFalse** (**False** in Visual Basic).
 ### Implements
 
 [IEquatable&lt;T&gt;.Equals(T)](http://msdn2.microsoft.com/en-us/library/ms131190)
-
 
 ```VB
 'Declaration
@@ -53,7 +52,7 @@ Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](https://msdn.mi
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
 **trueTrue** (**True** in Visual Basic) if the current object is equal to the other parameter; otherwise, **falseFalse** (**False** in Visual Basic).
 ### Implements
 

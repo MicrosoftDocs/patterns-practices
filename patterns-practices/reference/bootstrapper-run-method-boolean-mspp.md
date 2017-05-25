@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.Run(System.Boolean)'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405740(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # Bootstrapper.Run Method (Boolean)
 
@@ -25,7 +24,6 @@ public abstract void Run(
 )
 ```
 
-
 ### Parameters
 
 runWithDefaultConfiguration  
@@ -41,7 +39,6 @@ Public MustOverride Sub Run (
 )
 ```
 
-
 ### Parameters
 
 runWithDefaultConfiguration  
@@ -51,7 +48,6 @@ Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 If Truetrue (True in Visual Basic), registers default Prism Library services in the container. This is the default behavior.
 
 ## See Also
-
 
 [Bootstrapper Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper(v=pandp.50))
 

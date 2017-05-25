@@ -25,7 +25,6 @@ public static void RequestNavigate(
 )
 ```
 
-
 ### Parameters
 
 *navigation*  
@@ -68,7 +67,6 @@ Public Shared Sub RequestNavigate (
 	navigationCallback As Action(Of NavigationResult)
 )
 ```
-
 
 ### Parameters
 

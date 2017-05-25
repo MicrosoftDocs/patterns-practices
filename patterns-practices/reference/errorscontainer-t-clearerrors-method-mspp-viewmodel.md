@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.Cle
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419151(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).ClearErrors Method
-==============================================================
+# ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).ClearErrors Method
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,9 +38,7 @@ Clears the errors for a property.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601)
 

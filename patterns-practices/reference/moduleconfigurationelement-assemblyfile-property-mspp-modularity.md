@@ -5,10 +5,8 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement.A
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431292(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleConfigurationElement.AssemblyFile Property
-====================================================
+# ModuleConfigurationElement.AssemblyFile Property
 
 Gets or sets the assembly file.
 
@@ -18,9 +16,7 @@ Gets or sets the assembly file.
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public string AssemblyFile { get; set; }
@@ -36,9 +32,7 @@ Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 The assembly file.
 
-See Also
---------
-
+## See Also
 
 [ModuleConfigurationElement Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelement(v=pandp.50))
 

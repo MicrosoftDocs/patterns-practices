@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Logging.TextLogger.Dispose'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419070(v=PandP.50)'
 ---
 
-Prism Class Library
 
-TextLogger.Dispose Method
-=============================
+# TextLogger.Dispose Method
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,9 +38,7 @@ Disposes the associated <a href="http://msdn.microsoft.com/en-us/library/ywxh232
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [TextLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger)
 

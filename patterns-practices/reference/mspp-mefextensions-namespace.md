@@ -5,15 +5,12 @@ ms:assetid: 'N:Microsoft.Practices.Prism.MefExtensions'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419038(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Microsoft.Practices.Prism.MefExtensions Namespace
-=================================================
+# Microsoft.Practices.Prism.MefExtensions Namespace
 
  
 
-Classes
--------
+## Classes
 
 <span id="classToggle"></span>
 <table>

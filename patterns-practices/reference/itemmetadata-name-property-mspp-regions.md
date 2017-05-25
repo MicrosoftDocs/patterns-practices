@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.ItemMetadata.Name'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431358(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ItemMetadata.Name Property
-==============================
+# ItemMetadata.Name Property
 
 Gets or sets a name for the wrapped item.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public string Name { get; set; }Public Property Name As String Get Set
 ### Property Value
@@ -26,9 +23,7 @@ public string Name { get; set; }Public Property Name As String Get Set
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the wrapped item.
 
-See Also
---------
-
+## See Also
 
 [ItemMetadata Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)
 

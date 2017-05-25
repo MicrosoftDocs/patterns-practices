@@ -5,18 +5,15 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand\`1.Execute(\`0
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405764(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DelegateCommand&lt;(Of &lt;(T&gt;)&gt;).Execute Method (T)
-==============================================================
+# DelegateCommand&lt;(Of &lt;(T&gt;)&gt;).Execute Method (T)
 
 Executes the command and invokes the [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) provided during construction.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
 
 public virtual Task Execute( T parameter )Public Overridable Function Execute ( parameter As T ) As Task
 
@@ -30,9 +27,7 @@ Data used by the command.
 
 Type: [Task](http://msdn.microsoft.com/en-us/library/dd235678)
 
-See Also
---------
-
+## See Also
 
 [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)
 

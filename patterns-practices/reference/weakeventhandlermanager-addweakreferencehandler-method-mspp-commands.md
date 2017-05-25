@@ -5,18 +5,15 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.WeakEventHandlerManager.AddWea
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736187(v=PandP.50)'
 ---
 
-Prism Class Library
 
-WeakEventHandlerManager.AddWeakReferenceHandler Method
-==========================================================
+# WeakEventHandlerManager.AddWeakReferenceHandler Method
 
 Adds a handler to the supplied list in a weak way.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
 
 public static void AddWeakReferenceHandler( ref List&lt;WeakReference&gt; handlers, EventHandler handler, int defaultListSize )Public Shared Sub AddWeakReferenceHandler ( ByRef handlers As List(Of WeakReference), handler As EventHandler, defaultListSize As Integer )
 
@@ -34,9 +31,7 @@ defaultListSize
 Type: [System.Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
 Default list size.
 
-See Also
---------
-
+## See Also
 
 [WeakEventHandlerManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager)
 

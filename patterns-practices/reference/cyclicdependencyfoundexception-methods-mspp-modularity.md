@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoun
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431036(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # CyclicDependencyFoundException Methods
 
@@ -114,7 +113,6 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 </table>
 
 ## See Also
-
 
 [CyclicDependencyFoundException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception(v=pandp.50))
 

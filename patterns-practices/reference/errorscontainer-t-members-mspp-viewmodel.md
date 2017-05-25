@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405531(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Members
-===============================================
+# ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Members
 
 The [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +33,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -136,16 +132,14 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Fields
-------
+## Fields
 
 <span id="fieldTableToggle"></span>
 |                                                                                                | Name                                                                                                                        | Description |
 |------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------|
 | ![](https://msdn.microsoft.com/en-us/Gg405531.protfield(en-us,PandP.50).gif "Protected field") | [validationResults](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601.validationresults) |             |
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -168,9 +162,7 @@ Gets a value indicating whether the object has validation errors.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601)
 

@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.Sort(System.Co
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405884(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleCatalog.Sort Method
 
@@ -31,7 +30,6 @@ Protected Overridable Function Sort (
 	modules As IEnumerable(Of ModuleInfo)
 ) As IEnumerable(Of ModuleInfo)
 ```
-
 
 ### Parameters
 

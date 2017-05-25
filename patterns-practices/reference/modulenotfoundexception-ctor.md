@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleNotFoundExcepti
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419110(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleNotFoundException Constructor
-===================================
+# ModuleNotFoundException Constructor
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -69,9 +66,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception)
 

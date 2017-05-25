@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefFileModuleT
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405838(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefFileModuleTypeLoader.CanLoadModuleType Method
-====================================================
+# MefFileModuleTypeLoader.CanLoadModuleType Method
 
 Evaluates the [Ref](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.ref) property to see if the current typeloader will be able to retrieve the moduleInfo. Returns true if the [Ref](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.ref) property starts with "file://", because this indicates that the file is a local file.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public virtual bool CanLoadModuleType( ModuleInfo moduleInfo )Public Overridable Function CanLoadModuleType ( moduleInfo As ModuleInfo ) As Boolean
 
@@ -36,9 +33,7 @@ trueTruetruetrue (True in Visual Basic) if the current typeloader is able to ret
 
 [IModuleTypeLoader.CanLoadModuleType(ModuleInfo)](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader.canloadmoduletype(microsoft.practices.prism.modularity.moduleinfo))
 
-See Also
---------
-
+## See Also
 
 [MefFileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader)
 

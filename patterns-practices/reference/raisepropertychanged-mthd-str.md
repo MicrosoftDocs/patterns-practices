@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.NotificationObject.RaisePrope
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419030(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # NotificationObject.RaisePropertyChanged Method (String[])
 
@@ -24,7 +23,6 @@ protected void RaisePropertyChanged(
 	params string[] propertyNames
 )
 ```
-
 
 ### Parameters
 
@@ -61,7 +59,6 @@ Protected Sub RaisePropertyChanged (
 	ParamArray propertyNames As String()
 )
 ```
-
 
 ### Parameters
 

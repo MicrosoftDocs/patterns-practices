@@ -34,7 +34,6 @@ Protected Overridable Sub HandleModuleTypeLoadingError (
 )
 ```
 
-
 ### Parameters
 
 *moduleInfo*

@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModulesConfigurat
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430853(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModulesConfigurationSection Members
-===================================
+# ModulesConfigurationSection Members
 
 The [ModulesConfigurationSection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +33,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -309,8 +305,7 @@ Modifies the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">Configur
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -445,9 +440,7 @@ Gets a <a href="http://msdn.microsoft.com/en-us/library/ms134738">SectionInforma
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModulesConfigurationSection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection)
 

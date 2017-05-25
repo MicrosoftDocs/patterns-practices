@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Count'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431306(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleInfoGroup.Count Property
-==================================
+# ModuleInfoGroup.Count Property
 
 Gets the number of elements contained in the [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public int Count { get; }Public ReadOnly Property Count As Integer Get
 ### Property Value
@@ -33,9 +30,7 @@ The number of elements contained in the [ModuleInfoGroup](https://msdn.microsoft
 [ICollection&lt;(Of &lt;(T&gt;)&gt;).Count](http://msdn.microsoft.com/en-us/library/5s3kzhec)
 [ICollection.Count](http://msdn.microsoft.com/en-us/library/2yz8a4x3)
 
-See Also
---------
-
+## See Also
 
 [ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 

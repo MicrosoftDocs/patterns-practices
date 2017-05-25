@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.RegionBehaviorCollectio
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431106(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionBehaviorCollection Methods
-================================
+# RegionBehaviorCollection Methods
 
 The [RegionBehaviorCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -98,9 +95,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionBehaviorCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection)
 

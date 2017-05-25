@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.ListDictionary\`2'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431434(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ListDictionary<TKey, TValue> Class
 

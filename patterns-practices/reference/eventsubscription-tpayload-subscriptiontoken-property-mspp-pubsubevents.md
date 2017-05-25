@@ -7,11 +7,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736140(v=PandP.50)'
 
 # EventSubscription&lt;TPayload&gt;.SubscriptionToken Property
 
-
-Gets or sets a SubscriptionToken that identifies this [IEventSubscription](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50)).
-=======
-EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;).SubscriptionToken Property
-===============================================================================
+# Gets or sets a SubscriptionToken that identifies this [IEventSubscription](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50)).
+# EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;).SubscriptionToken Property
 
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
@@ -41,13 +38,11 @@ A token that identifies this [IEventSubscription](https://msdn.microsoft.com/en-
 
 ## See Also
 
-[EventSubscription &lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50))
-=======
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+# [EventSubscription &lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
 
 public SubscriptionToken SubscriptionToken { get; set; }Public Property SubscriptionToken As SubscriptionToken Get Set
 ### Property Value
@@ -58,12 +53,9 @@ A token that identifies this [IEventSubscription](https://msdn.microsoft.com/lib
 
 [IEventSubscription.SubscriptionToken](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription.subscriptiontoken)
 
-See Also
---------
-
+## See Also
 
 [EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601)
-
 
 EventSubscription &lt;TPayload&gt; Members
 

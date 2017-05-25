@@ -5,26 +5,21 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSele
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405591(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefSelectorItemsSourceSyncBehavior Constructor
-==============================================
+# MefSelectorItemsSourceSyncBehavior Constructor
 
 Initializes a new instance of the [MefSelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefselectoritemssourcesyncbehavior) class
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public MefSelectorItemsSourceSyncBehavior()Public Sub New
 
-See Also
---------
-
+## See Also
 
 [MefSelectorItemsSourceSyncBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefselectoritemssourcesyncbehavior)
 

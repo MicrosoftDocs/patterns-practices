@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behavi
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419180(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefAutoPopulateRegionBehavior Properties
-========================================
+# MefAutoPopulateRegionBehavior Properties
 
 The [MefAutoPopulateRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <table>
 
@@ -44,9 +41,7 @@ Behavior's attached region.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [MefAutoPopulateRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior)
 

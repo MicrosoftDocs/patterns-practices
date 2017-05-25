@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Bootstrapper'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419154(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Bootstrapper Properties
-=======================
+# Bootstrapper Properties
 
 The [Bootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <table>
 
@@ -49,9 +46,7 @@ Gets the shell user interface
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
 

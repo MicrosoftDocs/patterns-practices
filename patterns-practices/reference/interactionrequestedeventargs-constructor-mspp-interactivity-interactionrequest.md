@@ -30,7 +30,6 @@ Public Sub New (
 )
 ```
 
-
 ### Parameters
 
 *context*

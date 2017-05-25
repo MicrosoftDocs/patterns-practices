@@ -5,10 +5,8 @@ ms:assetid: 'P:Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAt
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431269(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleExportAttribute.DependsOnModuleNames Property
-=======================================================
+# ModuleExportAttribute.DependsOnModuleNames Property
 
 Gets or sets the contract names of modules this module depends upon.
 
@@ -18,9 +16,7 @@ Gets or sets the contract names of modules this module depends upon.
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public string[] DependsOnModuleNames { get; set; }
@@ -39,9 +35,7 @@ Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)[]
 
 [IModuleExport.DependsOnModuleNames](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport.dependsonmodulenames(v=pandp.50))
 
-See Also
---------
-
+## See Also
 
 [ModuleExportAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute(v=pandp.50))
 

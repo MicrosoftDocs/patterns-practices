@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtens
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419004(v=PandP.50)'
 ---
 
-Prism Class Library
 
-UnityBootstrapperExtension.IsTypeRegistered Method
-======================================================
+# UnityBootstrapperExtension.IsTypeRegistered Method
 
 Evaluates if a specified type was registered in the container.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public static bool IsTypeRegistered( IUnityContainer container, Type type )Public Shared Function IsTypeRegistered ( container As IUnityContainer, type As Type ) As Boolean
 
@@ -37,14 +34,11 @@ The type to check if it was registered.
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if the type was registered with the container.
 
-Remarks
--------
+## Remarks
 
  In order to use this extension, you must first call AddNewExtension\`\`1(IUnityContainer) and specify UnityContainerExtension as the extension type.
 
-See Also
---------
-
+## See Also
 
 [UnityBootstrapperExtension Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension)
 

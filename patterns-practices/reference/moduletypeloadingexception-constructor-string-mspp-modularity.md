@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException.\
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405669(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleTypeLoadingException Constructor (String)
-===============================================
+# ModuleTypeLoadingException Constructor (String)
 
 Initializes a new instance with a specified error message.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public ModuleTypeLoadingException( string message )Public Sub New ( message As String )
 
@@ -28,9 +25,7 @@ message
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The message that describes the error.
 
-See Also
---------
-
+## See Also
 
 [ModuleTypeLoadingException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception)
 

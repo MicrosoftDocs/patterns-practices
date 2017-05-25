@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSub
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683952(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # BackgroundEventSubscription&lt;TPayload&gt; Methods
 
@@ -91,7 +90,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-
 
 [BackgroundEventSubscription&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/dn683933(v=pandp.50))
 

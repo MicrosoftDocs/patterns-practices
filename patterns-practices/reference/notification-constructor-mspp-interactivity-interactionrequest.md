@@ -5,26 +5,21 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notifi
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405570(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Notification Constructor
-========================
+# Notification Constructor
 
 Initializes a new instance of the [Notification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.notification) class
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public Notification()Public Sub New
 
-See Also
---------
-
+## See Also
 
 [Notification Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.notification)
 

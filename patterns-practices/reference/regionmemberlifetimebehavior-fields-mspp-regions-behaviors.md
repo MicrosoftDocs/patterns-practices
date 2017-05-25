@@ -5,15 +5,12 @@ ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLi
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430950(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionMemberLifetimeBehavior Fields
-===================================
+# RegionMemberLifetimeBehavior Fields
 
 The [RegionMemberLifetimeBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior) type exposes the following members.
 
-Fields
-------
+## Fields
 
 <span id="fieldTableToggle"></span>
 <table>
@@ -36,9 +33,7 @@ The key for this behavior.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionMemberLifetimeBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior)
 

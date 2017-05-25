@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.RegionBehaviorCollec
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405504(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionBehaviorCollection Members
-================================
+# RegionBehaviorCollection Members
 
 The [RegionBehaviorCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +33,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -122,8 +118,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -146,9 +141,7 @@ Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.r
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionBehaviorCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection)
 

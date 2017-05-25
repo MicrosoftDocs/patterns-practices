@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializeException.\#
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405649(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleInitializeException Constructor (SerializationInfo, StreamingContext)
-===========================================================================
+# ModuleInitializeException Constructor (SerializationInfo, StreamingContext)
 
 Initializes a new instance with serialized data.
 
@@ -18,9 +16,7 @@ Initializes a new instance with serialized data.
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 protected ModuleInitializeException(
@@ -48,9 +44,7 @@ Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/
 
 The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that contains contextual information about the source or destination.
 
-See Also
---------
-
+## See Also
 
 [ModuleInitializeException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception(v=pandp.50))
 

@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Region.Add(System.Object,System
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418985(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Region.Add Method (Object, String)
-======================================
+# Region.Add Method (Object, String)
 
 Adds a new view to the region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public IRegionManager Add( Object view, string viewName )Public Function Add ( view As Object, viewName As String ) As IRegionManager
 
@@ -40,9 +37,7 @@ The [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.pris
 
 [IRegion.Add(Object, String)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.add(system.object%2csystem.string))
 
-See Also
---------
-
+## See Also
 
 [Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 

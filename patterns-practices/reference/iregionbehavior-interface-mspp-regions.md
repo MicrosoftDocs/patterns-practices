@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Regions.IRegionBehavior'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431527(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # IRegionBehavior Interface
 
@@ -28,7 +27,6 @@ Public Interface IRegionBehavior
 ```
 
 ## See Also
-
 
 [IRegionBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior_members(v=pandp.50))
 

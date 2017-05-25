@@ -5,10 +5,8 @@ ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefFileModuleT
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431448(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefFileModuleTypeLoader Class
-=============================
+# MefFileModuleTypeLoader Class
 
 Loads modules from an arbitrary location on the filesystem. This typeloader is only called if [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50)) classes have a Ref parameter that starts with "file://". This class is only used on the Desktop version of the Prism Library when used with Managed Extensibility Framework.
 
@@ -18,9 +16,7 @@ Loads modules from an arbitrary location on the filesystem. This typeloader is o
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public class MefFileModuleTypeLoader : IModuleTypeLoader
@@ -32,16 +28,13 @@ Public Class MefFileModuleTypeLoader
 	Implements IModuleTypeLoader
 ```
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
   Microsoft.Practices.Prism.MefExtensions.Modularity.MefFileModuleTypeLoader
 
-See Also
---------
-
+## See Also
 
 [MefFileModuleTypeLoader Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader_members(v=pandp.50))
 

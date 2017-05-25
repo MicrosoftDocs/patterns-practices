@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionNavigationServ
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431218(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionNavigationService Properties
-==================================
+# RegionNavigationService Properties
 
 The [RegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -43,9 +40,7 @@ Gets or sets the region.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice)
 

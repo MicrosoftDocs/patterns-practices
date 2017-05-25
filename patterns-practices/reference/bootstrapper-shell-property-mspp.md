@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Bootstrapper.Shell'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431233(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Bootstrapper.Shell Property
-===============================
+# Bootstrapper.Shell Property
 
 Gets the shell user interface
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 protected DependencyObject Shell { get; set; }Protected Property Shell As DependencyObject Get Set
 ### Property Value
@@ -26,9 +23,7 @@ protected DependencyObject Shell { get; set; }Protected Property Shell As Depend
 Type: [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
 The shell user interface.
 
-See Also
---------
-
+## See Also
 
 [Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
 

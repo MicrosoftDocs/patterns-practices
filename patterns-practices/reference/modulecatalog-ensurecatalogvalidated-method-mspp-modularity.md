@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.EnsureCatalogV
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405877(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleCatalog.EnsureCatalogValidated Method
 
@@ -30,7 +29,6 @@ Protected Overridable Sub EnsureCatalogValidated
 ```
 
 ## See Also
-
 
 [ModuleCatalog Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50))
 

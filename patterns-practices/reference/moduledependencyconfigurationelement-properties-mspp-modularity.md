@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyC
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431171(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleDependencyConfigurationElement Properties
-===============================================
+# ModuleDependencyConfigurationElement Properties
 
 The [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -140,9 +137,7 @@ Gets the collection of properties.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleDependencyConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement)
 

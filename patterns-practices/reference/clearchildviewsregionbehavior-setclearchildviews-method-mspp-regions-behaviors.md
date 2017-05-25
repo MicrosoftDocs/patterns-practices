@@ -32,7 +32,6 @@ Public Shared Sub SetClearChildViews (
 )
 ```
 
-
 ### Parameters
 
 *target*

@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Modularity.Mef
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430798(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefFileModuleTypeLoader Members
-===============================
+# MefFileModuleTypeLoader Members
 
 The [MefFileModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +33,7 @@ Initializes a new instance of the MefFileModuleTypeLoader class. This instance i
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -115,8 +111,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -146,9 +141,7 @@ Raised repeatedly to provide progress as modules are loaded in the background.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [MefFileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader)
 

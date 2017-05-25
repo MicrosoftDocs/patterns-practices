@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyAttr
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431053(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleDependencyAttribute Methods
-=================================
+# ModuleDependencyAttribute Methods
 
 The [ModuleDependencyAttribute](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencyattribute(v=pandp.50)) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <table>
 
@@ -76,9 +73,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleDependencyAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencyattribute(v=pandp.50))
 

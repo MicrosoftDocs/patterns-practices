@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ConfigurationModu
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431158(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ConfigurationModuleCatalog Properties
-=====================================
+# ConfigurationModuleCatalog Properties
 
 The [ConfigurationModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationmodulecatalog) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -76,9 +73,7 @@ Gets or sets a value that remembers whether the <a href="https://msdn.microsoft.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ConfigurationModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationmodulecatalog)
 

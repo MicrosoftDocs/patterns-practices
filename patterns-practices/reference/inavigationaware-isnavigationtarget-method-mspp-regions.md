@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.INavigationAware.IsNavigationTa
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405953(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # INavigationAware.IsNavigationTarget Method
 
@@ -24,7 +23,6 @@ bool IsNavigationTarget(
 	NavigationContext navigationContext
 )
 ```
-
 
 ### Parameters
 
@@ -47,7 +45,6 @@ Function IsNavigationTarget (
 ) As Boolean
 ```
 
-
 ### Parameters
 
 *navigationContext*  
@@ -63,7 +60,6 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 **truetrue** (**True** in Visual Basic) if this instance accepts the navigation request; otherwise, **falsefalse** (**False** in Visual Basic).
 
 ## See Also
-
 
 [INavigationAware Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigationaware(v=pandp.50))
 

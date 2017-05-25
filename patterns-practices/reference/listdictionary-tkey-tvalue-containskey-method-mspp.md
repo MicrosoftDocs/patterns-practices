@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.ContainsKey(\`0)'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405799(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ListDictionary(Of TKey, TValue).ContainsKey Method
-========================================================================
+# ListDictionary(Of TKey, TValue).ContainsKey Method
 
 Determines whether the dictionary contains the given key.
 
@@ -18,9 +16,7 @@ Determines whether the dictionary contains the given key.
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public bool ContainsKey( TKey key )
@@ -29,7 +25,6 @@ public bool ContainsKey( TKey key )
 'Declaration
 Public Function ContainsKey ( key As TKey ) As Boolean
 ```
-
 
 ### Parameters
 
@@ -47,9 +42,7 @@ true if the dictionary contains the given key; otherwise, false.
 
 [IDictionary&lt;TKey, TValue&gt;.ContainsKey(TKey)](http://msdn.microsoft.com/en-us/library/htszx2dy)
 
-See Also
---------
-
+## See Also
 
 [ListDictionary&lt;TKey, TValue&gt; Class](https://msdn.microsoft.com/en-us/library/gg431434(v=pandp.50))
 

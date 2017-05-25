@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Events.DefaultDispatcher.BeginInvoke(Sy
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405774(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DefaultDispatcher.BeginInvoke Method
-========================================
+# DefaultDispatcher.BeginInvoke Method
 
 Forwards the BeginInvoke to the current application's [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907).
 
-**Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/library/microsoft.practices.prism.events)
+**Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/library/microsoft.practices.prism.events)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public void BeginInvoke( Delegate method, Object arg )Public Sub BeginInvoke ( method As Delegate, arg As Object )
 
@@ -36,9 +33,7 @@ Arguments to pass to the invoked method.
 
 [IDispatcherFacade.BeginInvoke(Delegate, Object)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.idispatcherfacade.begininvoke(system.delegate%2csystem.object))
 
-See Also
---------
-
+## See Also
 
 [DefaultDispatcher Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.defaultdispatcher)
 

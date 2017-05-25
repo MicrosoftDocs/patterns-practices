@@ -5,18 +5,15 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.GetErrors(
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419026(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).GetErrors Method
-============================================================
+# ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).GetErrors Method
 
 Gets the validation errors for a specified property.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
 
 public IEnumerable&lt;T&gt; GetErrors( string propertyName )Public Function GetErrors ( propertyName As String ) As IEnumerable(Of T)
 
@@ -31,9 +28,7 @@ The name of the property.
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([T](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601)&gt;)&gt;)
 The validation errors of type T for the property.
 
-See Also
---------
-
+## See Also
 
 [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601)
 

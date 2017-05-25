@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopula
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430862(v=PandP.50)'
 ---
 
-Prism Class Library
 
-AutoPopulateRegionBehavior Members
-==================================
+# AutoPopulateRegionBehavior Members
 
 The [AutoPopulateRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +33,7 @@ Creates a new instance of the AutoPopulateRegionBehavior associated with the <a 
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -138,8 +134,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Fields
-------
+## Fields
 
 <span id="fieldTableToggle"></span>
 <table>
@@ -162,8 +157,7 @@ The key of this behavior.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -195,9 +189,7 @@ Behavior's attached region.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [AutoPopulateRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior)
 

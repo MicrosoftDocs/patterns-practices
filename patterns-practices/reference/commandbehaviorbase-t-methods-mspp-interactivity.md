@@ -5,17 +5,13 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.CommandBehaviorBa
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736245(v=PandP.50)'
 ---
 
-# CommandBehaviorBase(Of T) Methods
-=======
-Prism Class Library
+# # CommandBehaviorBase(Of T) Methods
 
-CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Methods
-===================================================
+# CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Methods
 
 The [CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>

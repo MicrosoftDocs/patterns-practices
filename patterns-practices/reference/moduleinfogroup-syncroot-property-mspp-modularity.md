@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.SyncRoot'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431313(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleInfoGroup.SyncRoot Property
-=====================================
+# ModuleInfoGroup.SyncRoot Property
 
 Gets an object that can be used to synchronize access to the [ICollection](http://msdn.microsoft.com/en-us/library/b1ht6113).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public Object SyncRoot { get; }Public ReadOnly Property SyncRoot As Object Get
 ### Property Value
@@ -32,9 +29,7 @@ An object that can be used to synchronize access to the [ICollection](http://msd
 
 [ICollection.SyncRoot](http://msdn.microsoft.com/en-us/library/ccad5w5z)
 
-See Also
---------
-
+## See Also
 
 [ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 

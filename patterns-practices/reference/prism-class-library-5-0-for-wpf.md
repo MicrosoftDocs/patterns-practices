@@ -1,16 +1,14 @@
 ---
-TOCTitle: 'Prism Class Library 5.0 for WPF'
-Title: 'Prism Class Library 5.0 for WPF'
+TOCTitle: ' 5.0 for WPF'
+Title: ' 5.0 for WPF'
 ms:assetid: 'da755a31-b302-4bd0-8cf7-04e9307c11b1'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736262(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Prism Class Library 5.0 for WPF
-===============================
+#  5.0 for WPF
 
-The Prism Class Library 5.0 for WPF namespaces are:
+The  5.0 for WPF namespaces are:
 
 -   [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
 -   [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
@@ -34,6 +32,6 @@ The Prism Class Library 5.0 for WPF namespaces are:
 
 Class Library for previous Prism version:
 
--   [Prism Class Library 4.0 for Desktop](http://aka.ms/prism-wpfsl-prism40refdocchm)
--   [Prism Class Library 4.1 for Silverlight 5.0](http://aka.ms/prism-wpfsl-prism40refdocchm)
--   [Prism Class Library 4.0 for Phone 7.5](http://aka.ms/prism-wpfsl-prism40refdocchm)
+-   [ 4.0 for Desktop](http://aka.ms/prism-wpfsl-prism40refdocchm)
+-   [ 4.1 for Silverlight 5.0](http://aka.ms/prism-wpfsl-prism40refdocchm)
+-   [ 4.0 for Phone 7.5](http://aka.ms/prism-wpfsl-prism40refdocchm)

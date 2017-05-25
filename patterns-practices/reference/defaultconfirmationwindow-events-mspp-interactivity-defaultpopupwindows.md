@@ -5,7 +5,6 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindow
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736125(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # DefaultConfirmationWindow Events
 
@@ -971,7 +970,6 @@ Occurs when the element is removed from within an element tree of loaded element
 </table>
 
 ## See Also
-
 
 [DefaultConfirmationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
 

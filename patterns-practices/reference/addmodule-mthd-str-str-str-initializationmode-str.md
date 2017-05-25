@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddModule(Syst
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405873(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleCatalog.AddModule Method (String, String, String, InitializationMode, String[])
 
@@ -28,7 +27,6 @@ public ModuleCatalog AddModule(
 	params string[] dependsOn
 )
 ```
-
 
 ### Parameters
 
@@ -95,7 +93,6 @@ Public Function AddModule (
 	ParamArray dependsOn As String()
 ) As ModuleCatalog
 ```
-
 
 ### Parameters
 

@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWith
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405687(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # SyncRegionContextWithHostBehavior Constructor
 

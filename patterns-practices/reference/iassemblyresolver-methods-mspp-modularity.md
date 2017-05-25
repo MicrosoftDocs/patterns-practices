@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.IAssemblyResolver'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431040(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # IAssemblyResolver Methods
 

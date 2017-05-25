@@ -5,10 +5,8 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.IModuleTypeLoader'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431485(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IModuleTypeLoader Interface
-===========================
+# IModuleTypeLoader Interface
 
 Defines the interface for moduleTypeLoaders
 
@@ -18,9 +16,7 @@ Defines the interface for moduleTypeLoaders
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public interface IModuleTypeLoader
@@ -30,9 +26,7 @@ public interface IModuleTypeLoader
 Public Interface IModuleTypeLoader
 ```
 
-See Also
---------
-
+## See Also
 
 [IModuleTypeLoader Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader_members(v=pandp.50))
 

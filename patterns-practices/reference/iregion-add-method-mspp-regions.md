@@ -5,15 +5,12 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.IRegion.Add'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419131(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegion.Add Method
-======================
+# IRegion.Add Method
 
 Adds a new view to the region.
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -50,9 +47,7 @@ Adds a new view to the region.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 

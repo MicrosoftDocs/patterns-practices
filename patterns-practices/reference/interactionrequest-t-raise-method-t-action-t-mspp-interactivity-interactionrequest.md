@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Intera
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405795(v=PandP.50)'
 ---
 
-Prism Class Library
 
-InteractionRequest&lt;(Of &lt;(T&gt;)&gt;).Raise Method (T, Action&lt;(Of &lt;(T&gt;)&gt;))
-===============================================================================================
+# InteractionRequest&lt;(Of &lt;(T&gt;)&gt;).Raise Method (T, Action&lt;(Of &lt;(T&gt;)&gt;))
 
 Fires the Raised event.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public void Raise( T context, Action&lt;T&gt; callback )Public Sub Raise ( context As T, callback As Action(Of T) )
 
@@ -32,9 +29,7 @@ callback
 Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([T](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)&gt;)&gt;)
 The callback to execute when the interaction is completed.
 
-See Also
---------
-
+## See Also
 
 [InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)
 

@@ -5,15 +5,12 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405735(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IInteractionRequest Events
-==========================
+# IInteractionRequest Events
 
 The [IInteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -36,9 +33,7 @@ Fired when the interaction is needed.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IInteractionRequest Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest)
 

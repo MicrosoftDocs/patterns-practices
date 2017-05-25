@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventBase.InternalSubscrib
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736126(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # EventBase.InternalSubscribe Method
 

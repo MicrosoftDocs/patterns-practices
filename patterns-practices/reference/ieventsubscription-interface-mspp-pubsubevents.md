@@ -21,20 +21,14 @@ public interface IEventSubscription
 ~~~VB
 'Declaration
 Public Interface IEventSubscription
-~~~
-=======
-
+# ~~~
 
 public interface IEventSubscriptionPublic Interface IEventSubscription
 
-
 ## See Also
 
-
-IEventSubscription Members
-=======
+# IEventSubscription Members
 
 [IEventSubscription Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.ieventsubscription)
-
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))

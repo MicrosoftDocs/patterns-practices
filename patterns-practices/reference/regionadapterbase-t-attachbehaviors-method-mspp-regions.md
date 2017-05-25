@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionAdapterBase\`1.AttachBeha
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418933(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;).AttachBehaviors Method
-====================================================================
+# RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;).AttachBehaviors Method
 
 Template method to attach new behaviors.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 protected virtual void AttachBehaviors( IRegion region, T regionTarget )Protected Overridable Sub AttachBehaviors ( region As IRegion, regionTarget As T )
 
@@ -32,9 +29,7 @@ regionTarget
 Type: [T](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601)
 The object to adapt.
 
-See Also
---------
-
+## See Also
 
 [RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601)
 

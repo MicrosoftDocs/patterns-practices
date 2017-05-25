@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.RegionNavigationCont
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405510(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionNavigationContentLoader Members
-=====================================
+# RegionNavigationContentLoader Members
 
 The [RegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +33,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -129,9 +125,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader)
 

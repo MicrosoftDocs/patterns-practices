@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.\#ctor'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405629(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleCatalog Constructor
-=========================
+# ModuleCatalog Constructor
 
 Initializes a new instance of the [ModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50)) class.
 
@@ -31,7 +29,6 @@ Public Sub New
 ```
 
 ## See Also
-
 
 [ModuleCatalog Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50))
 

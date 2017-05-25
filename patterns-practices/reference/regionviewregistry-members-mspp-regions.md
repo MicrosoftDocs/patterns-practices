@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.RegionViewRegistry'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405516(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionViewRegistry Members
-==========================
+# RegionViewRegistry Members
 
 The [RegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +33,7 @@ Creates a new instance of the <a href="https://msdn.microsoft.com/library/micros
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -129,8 +125,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -153,9 +148,7 @@ Occurs whenever a new view is registered.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry)
 

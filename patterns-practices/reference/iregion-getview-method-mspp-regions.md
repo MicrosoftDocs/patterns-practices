@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegion.GetView(System.String)'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405982(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegion.GetView Method
-==========================
+# IRegion.GetView Method
 
 Returns the view instance that was added to the region using a specific name.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 Object GetView( string viewName )Function GetView ( viewName As String ) As Object
 
@@ -33,9 +30,7 @@ The name used when adding the view to the region.
 Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 Returns the named view or nullNothingnullptra null reference (Nothing in Visual Basic) if the view with viewName does not exist in the current region.
 
-See Also
---------
-
+## See Also
 
 [IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 

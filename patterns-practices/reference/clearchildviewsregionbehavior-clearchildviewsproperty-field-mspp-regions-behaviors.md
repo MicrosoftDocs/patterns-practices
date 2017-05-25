@@ -5,7 +5,6 @@ ms:assetid: 'F:Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegion
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683957(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ClearChildViewsRegionBehavior.ClearChildViewsProperty Field
 
@@ -32,9 +31,7 @@ Public Shared ReadOnly ClearChildViewsProperty As DependencyProperty
 
 Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 
-See Also
---------
-
+## See Also
 
 [ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior(v=pandp.50))
 

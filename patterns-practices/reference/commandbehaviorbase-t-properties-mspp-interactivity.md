@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.CommandBehavio
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736156(v=PandP.50)'
 ---
 
-Prism Class Library
 
-CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Properties
-======================================================
+# CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Properties
 
 The [CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -50,9 +47,7 @@ Object to which this behavior is attached.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601)
 

@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Logging.EmptyLogger'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431001(v=PandP.50)'
 ---
 
-Prism Class Library
 
-EmptyLogger Methods
-===================
+# EmptyLogger Methods
 
 The [EmptyLogger](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.emptylogger) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <table>
 
@@ -83,9 +80,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [EmptyLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.emptylogger)
 

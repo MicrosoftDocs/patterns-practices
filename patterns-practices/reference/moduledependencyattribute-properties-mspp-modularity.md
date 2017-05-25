@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyA
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431169(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleDependencyAttribute Properties
-====================================
+# ModuleDependencyAttribute Properties
 
 The [ModuleDependencyAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -44,9 +41,7 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleDependencyAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute)
 

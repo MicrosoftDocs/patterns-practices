@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleConfigurationE
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431051(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleConfigurationElement Methods
 

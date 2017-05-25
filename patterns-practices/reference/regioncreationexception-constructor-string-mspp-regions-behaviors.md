@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.RegionCreationExcepti
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405681(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionCreationException Constructor (String)
-============================================
+# RegionCreationException Constructor (String)
 
 Initializes a new instance of the [RegionCreationException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception) class with a specified error message.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public RegionCreationException( string message )Public Sub New ( message As String )
 
@@ -28,9 +25,7 @@ message
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The message that describes the error.
 
-See Also
---------
-
+## See Also
 
 [RegionCreationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception)
 

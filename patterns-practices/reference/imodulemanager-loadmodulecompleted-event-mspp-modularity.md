@@ -5,29 +5,24 @@ ms:assetid: 'E:Microsoft.Practices.Prism.Modularity.IModuleManager.LoadModuleCom
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430923(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IModuleManager.LoadModuleCompleted Event
-============================================
+# IModuleManager.LoadModuleCompleted Event
 
 Raised when a module is loaded or fails to load.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 event EventHandler&lt;LoadModuleCompletedEventArgs&gt; LoadModuleCompletedEvent LoadModuleCompleted As EventHandler(Of LoadModuleCompletedEventArgs)
 ### Value
 
 Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([LoadModuleCompletedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs)&gt;)&gt;)
 
-See Also
---------
-
+## See Also
 
 [IModuleManager Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager)
 

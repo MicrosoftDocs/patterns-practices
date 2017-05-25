@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDe
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431512(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # BindRegionContextToDependencyObjectBehavior Class
 

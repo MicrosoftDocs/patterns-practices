@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.ViewSortHintAttribute.Hint'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431398(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ViewSortHintAttribute.Hint Property
-=======================================
+# ViewSortHintAttribute.Hint Property
 
 Gets the hint.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public string Hint { get; }Public ReadOnly Property Hint As String Get
 ### Property Value
@@ -26,9 +23,7 @@ public string Hint { get; }Public ReadOnly Property Hint As String Get
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The hint to use for sorting.
 
-See Also
---------
-
+## See Also
 
 [ViewSortHintAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewsorthintattribute)
 

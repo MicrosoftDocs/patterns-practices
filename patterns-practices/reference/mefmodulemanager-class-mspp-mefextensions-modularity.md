@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManag
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431450(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # MefModuleManager Class
 

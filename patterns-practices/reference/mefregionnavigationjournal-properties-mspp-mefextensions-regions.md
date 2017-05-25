@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefReg
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431154(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # MefRegionNavigationJournal Properties
 

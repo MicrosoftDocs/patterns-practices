@@ -5,7 +5,6 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Bootstrapper.Run'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419048(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # Bootstrapper.Run Method
 
@@ -39,7 +38,6 @@ Run the bootstrapper process.
 </table>
 
 ## See Also
-
 
 [Bootstrapper Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper(v=pandp.50))
 

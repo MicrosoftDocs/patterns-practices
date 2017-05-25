@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.ClearChild
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736113(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ClearChildViewsRegionBehavior Properties
-========================================
+# ClearChildViewsRegionBehavior Properties
 
 The [ClearChildViewsRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -45,9 +42,7 @@ Behavior's attached region.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
 

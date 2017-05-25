@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddModule(Syst
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405872(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleCatalog.AddModule Method (String, String, InitializationMode, array&lt;String&gt;)
-======================================================================================================
+# ModuleCatalog.AddModule Method (String, String, InitializationMode, array&lt;String&gt;)
 
 Adds a groupless [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) to the catalog.
 
@@ -39,19 +37,19 @@ Public Function AddModule (
 
 ### Parameters
 
-```moduleName```
+```moduleName```
 **Type:** [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Name of the module to be added.
 
-moduleType  
+moduleType  
 **Type:** [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the module to be added.
 
-initializationMode  
+initializationMode  
 **Type:** [Microsoft.Practices.Prism.Modularity.InitializationMode](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.initializationmode)
 Stage on which the module to be added will be initialized.
 
-dependsOn  
+dependsOn  
 **Type:** array&lt;[System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)&gt;
 Collection of module names ([ModuleName](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.modulename)) of the modules on which the module to be added logically depends on.
 
@@ -60,9 +58,7 @@ Collection of module names ([ModuleName](https://msdn.microsoft.com/library/micr
 **Type:** [ModuleCatalog](https://msdn.microsoft.com/microsoft.practices.prism.modularity.modulecatalog)
 The same [ModuleCatalog](https://msdn.microsoft.com/microsoft.practices.prism.modularity.modulecatalog) instance with the added module.
 
-See Also
---------
-
+## See Also
 
 [ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 

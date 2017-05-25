@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.RegionCreationExcepti
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405682(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionCreationException Constructor (String, Exception)
-=======================================================
+# RegionCreationException Constructor (String, Exception)
 
 Initializes a new instance of the [RegionCreationException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public RegionCreationException( string message, Exception inner )Public Sub New ( message As String, inner As Exception )
 
@@ -32,9 +29,7 @@ inner
 Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified.
 
-See Also
---------
-
+## See Also
 
 [RegionCreationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception)
 

@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection.E
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431299(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleDependencyCollection.ElementName Property
-===================================================
+# ModuleDependencyCollection.ElementName Property
 
 Gets the name used to identify this collection of elements in the configuration file when overridden in a derived class.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 protected override string ElementName { get; }Protected Overrides ReadOnly Property ElementName As String Get
 ### Property Value
@@ -26,9 +23,7 @@ protected override string ElementName { get; }Protected Overrides ReadOnly Prope
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the collection; otherwise, an empty string.
 
-See Also
---------
-
+## See Also
 
 [ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
 

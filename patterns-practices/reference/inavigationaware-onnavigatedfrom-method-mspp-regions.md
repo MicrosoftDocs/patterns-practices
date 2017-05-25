@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.INavigationAware.OnNavigatedFro
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405954(v=PandP.50)'
 ---
 
-Prism Class Library
 
-INavigationAware.OnNavigatedFrom Method
-===========================================
+# INavigationAware.OnNavigatedFrom Method
 
 Called when the implementer is being navigated away from.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 void OnNavigatedFrom( NavigationContext navigationContext )Sub OnNavigatedFrom ( navigationContext As NavigationContext )
 
@@ -28,9 +25,7 @@ navigationContext
 Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 The navigation context.
 
-See Also
---------
-
+## See Also
 
 [INavigationAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware)
 

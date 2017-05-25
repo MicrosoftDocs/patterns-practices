@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.ExceptionExtensions'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430779(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ExceptionExtensions Members
-===========================
+# ExceptionExtensions Members
 
 The [ExceptionExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -50,9 +47,7 @@ Register the type of an Exception that is thrown by the framework. The <a href="
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ExceptionExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions)
 

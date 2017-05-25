@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionMemberLifetim
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431200(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionMemberLifetime Properties
-================================
+# IRegionMemberLifetime Properties
 
 The [IRegionMemberLifetime](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmemberlifetime(v=pandp.50)) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <table>
 
@@ -35,9 +32,7 @@ Gets a value indicating whether this instance should be kept-alive upon deactiva
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IRegionMemberLifetime Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmemberlifetime(v=pandp.50))
 

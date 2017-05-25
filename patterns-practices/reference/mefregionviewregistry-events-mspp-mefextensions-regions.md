@@ -5,15 +5,12 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionV
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430892(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefRegionViewRegistry Events
-============================
+# MefRegionViewRegistry Events
 
 The [MefRegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionviewregistry) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -37,9 +34,7 @@ Occurs whenever a new view is registered.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [MefRegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionviewregistry)
 

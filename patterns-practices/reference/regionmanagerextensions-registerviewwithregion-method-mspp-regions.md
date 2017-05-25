@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.RegionManagerExtensions.
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419137(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionManagerExtensions.RegisterViewWithRegion Method
-=========================================================
+# RegionManagerExtensions.RegisterViewWithRegion Method
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,9 +38,7 @@ Associate a view with a region, by registering a type. When the region get's dis
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionManagerExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions)
 

@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.IModuleTypeLoader
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430834(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IModuleTypeLoader Members
-=========================
+# IModuleTypeLoader Members
 
 The [IModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -43,8 +40,7 @@ Retrieves the moduleInfo.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -74,9 +70,7 @@ Raised repeatedly to provide progress as modules are downloaded in the backgroun
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IModuleTypeLoader Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader)
 

@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.NavigationResult.Result'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431364(v=PandP.50)'
 ---
 
-Prism Class Library
 
-NavigationResult.Result Property
-====================================
+# NavigationResult.Result Property
 
 Gets the result.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public Nullable&lt;bool&gt; Result { get; }Public ReadOnly Property Result As Nullable(Of Boolean) Get
 ### Property Value
@@ -26,9 +23,7 @@ public Nullable&lt;bool&gt; Result { get; }Public ReadOnly Property Result As Nu
 Type: [Nullable](http://msdn.microsoft.com/en-us/library/b3h38hb0)&lt;(Of &lt;([Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
 The result.
 
-See Also
---------
-
+## See Also
 
 [NavigationResult Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult)
 

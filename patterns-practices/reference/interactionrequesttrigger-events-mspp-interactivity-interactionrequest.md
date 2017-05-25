@@ -5,15 +5,12 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430886(v=PandP.50)'
 ---
 
-Prism Class Library
 
-InteractionRequestTrigger Events
-================================
+# InteractionRequestTrigger Events
 
 The [InteractionRequestTrigger](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -42,9 +39,7 @@ Occurs when the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freez
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [InteractionRequestTrigger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger)
 

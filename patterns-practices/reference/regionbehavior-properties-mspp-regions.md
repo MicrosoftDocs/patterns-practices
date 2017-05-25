@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionBehavior'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431210(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionBehavior Properties
-=========================
+# RegionBehavior Properties
 
 The [RegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -43,9 +40,7 @@ Behavior's attached region.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
 

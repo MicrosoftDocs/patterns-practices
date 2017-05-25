@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModularityException.\
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419085(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModularityException Constructor
-===============================
+# ModularityException Constructor
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -69,9 +66,7 @@ Initializes the exception with a particular module, error message and inner exce
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModularityException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception)
 

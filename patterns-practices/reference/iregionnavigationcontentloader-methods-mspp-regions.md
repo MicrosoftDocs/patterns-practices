@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegionNavigationConten
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431092(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionNavigationContentLoader Methods
-======================================
+# IRegionNavigationContentLoader Methods
 
 The [IRegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -36,9 +33,7 @@ Gets the content to which the navigation request represented by navigationContex
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IRegionNavigationContentLoader Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader)
 

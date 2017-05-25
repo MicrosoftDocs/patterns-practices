@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewRegistrationException.\#cto
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405719(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ViewRegistrationException Constructor (String, Exception)
 
@@ -33,7 +32,6 @@ Public Sub New (
 	inner As Exception
 )
 ```
-
 
 ### Parameters
 

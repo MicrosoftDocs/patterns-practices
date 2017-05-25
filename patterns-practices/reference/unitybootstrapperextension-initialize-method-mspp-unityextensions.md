@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtens
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419003(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # UnityBootstrapperExtension.Initialize Method
 

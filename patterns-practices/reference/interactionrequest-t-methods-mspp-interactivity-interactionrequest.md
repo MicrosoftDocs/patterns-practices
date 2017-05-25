@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.InteractionReques
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430996(v=PandP.50)'
 ---
 
-Prism Class Library
 
-InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Methods
-==================================================
+# InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Methods
 
 The [InteractionRequest&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -91,9 +88,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)
 

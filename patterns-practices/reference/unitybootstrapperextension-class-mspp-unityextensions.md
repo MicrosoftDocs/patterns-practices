@@ -5,33 +5,27 @@ ms:assetid: 'T:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtens
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431572(v=PandP.50)'
 ---
 
-Prism Class Library
 
-UnityBootstrapperExtension Class
-================================
+# UnityBootstrapperExtension Class
 
 Implements a UnityContainerExtension that checks if a specific type was registered with the container.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public class UnityBootstrapperExtension : UnityContainerExtensionPublic Class UnityBootstrapperExtension Inherits UnityContainerExtension
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   UnityContainerExtension
     Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtension
 
-See Also
---------
-
+## See Also
 
 [UnityBootstrapperExtension Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitybootstrapperextension)
 

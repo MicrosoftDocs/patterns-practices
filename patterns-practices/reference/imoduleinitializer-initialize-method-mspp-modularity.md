@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.IModuleInitializer.Initializ
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405860(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # IModuleInitializer.Initialize Method
 
@@ -31,7 +30,6 @@ Sub Initialize (
 	moduleInfo As ModuleInfo
 )
 ```
-
 
 ### Parameters
 

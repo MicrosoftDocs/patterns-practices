@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431230(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Properties
-==================================================
+# ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Properties
 
 The [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -36,9 +33,7 @@ Gets a value indicating whether the object has validation errors.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601)
 

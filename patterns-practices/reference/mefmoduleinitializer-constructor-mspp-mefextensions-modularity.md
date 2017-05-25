@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleIniti
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405581(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefModuleInitializer Constructor
-================================
+# MefModuleInitializer Constructor
 
 Initializes a new instance of the [MefModuleInitializer](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer) class.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public MefModuleInitializer( IServiceLocator serviceLocator, ILoggerFacade loggerFacade, DownloadedPartCatalogCollection downloadedPartCatalogs, AggregateCatalog aggregateCatalog )Public Sub New ( serviceLocator As IServiceLocator, loggerFacade As ILoggerFacade, downloadedPartCatalogs As DownloadedPartCatalogCollection, aggregateCatalog As AggregateCatalog )
 
@@ -40,9 +37,7 @@ aggregateCatalog
 Type: [System.ComponentModel.Composition.Hosting.AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165)
 The aggregate catalog.
 
-See Also
---------
-
+## See Also
 
 [MefModuleInitializer Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer)
 

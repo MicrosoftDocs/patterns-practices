@@ -5,15 +5,12 @@ ms:assetid: 'N:Microsoft.Practices.Prism.Regions'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419044(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Microsoft.Practices.Prism.Regions Namespace
-===========================================
+# Microsoft.Practices.Prism.Regions Namespace
 
  
 
-Classes
--------
+## Classes
 
 <span id="classToggle"></span>
 <table>
@@ -260,8 +257,7 @@ Provides a hint from a view to a region on how to sort the view.
 </tbody>
 </table>
 
-Interfaces
-----------
+## Interfaces
 
 <span id="interfaceToggle"></span>
 <table>

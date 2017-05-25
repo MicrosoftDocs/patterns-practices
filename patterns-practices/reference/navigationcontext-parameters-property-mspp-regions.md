@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.NavigationContext.Parameters'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431360(v=PandP.50)'
 ---
 
-Prism Class Library
 
-NavigationContext.Parameters Property
-=========================================
+# NavigationContext.Parameters Property
 
 Gets the [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters) extracted from the URI and the object parameters passed in navigation.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public NavigationParameters Parameters { get; }Public ReadOnly Property Parameters As NavigationParameters Get
 ### Property Value
@@ -26,9 +23,7 @@ public NavigationParameters Parameters { get; }Public ReadOnly Property Paramete
 Type: [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
 The URI query.
 
-See Also
---------
-
+## See Also
 
 [NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 

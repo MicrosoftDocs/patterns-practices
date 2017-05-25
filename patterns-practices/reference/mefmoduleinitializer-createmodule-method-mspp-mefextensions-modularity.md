@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModu
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419074(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefModuleInitializer.CreateModule Method
-============================================
+# MefModuleInitializer.CreateModule Method
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -43,9 +40,7 @@ Uses the container to resolve a new <a href="https://msdn.microsoft.com/library/
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [MefModuleInitializer Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer)
 

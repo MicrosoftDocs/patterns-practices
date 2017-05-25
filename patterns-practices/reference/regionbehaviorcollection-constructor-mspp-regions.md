@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionBehaviorCollection.\#ctor
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405696(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # RegionBehaviorCollection Constructor
 
@@ -31,7 +30,6 @@ Public Sub New (
 	region As IRegion
 )
 ```
-
 
 ### Parameters
 

@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.ViewSortHintAttribut
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431226(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ViewSortHintAttribute Properties
 
@@ -42,7 +41,6 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 </table>
 
 ## See Also
-
 
 [ViewSortHintAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewsorthintattribute(v=pandp.50))
 

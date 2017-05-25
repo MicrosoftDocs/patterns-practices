@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManagerExtensions.Request
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736247(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionManagerExtensions.RequestNavigate Method (IRegionManager, String, String, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)
-========================================================================================================================================================
+# RegionManagerExtensions.RequestNavigate Method (IRegionManager, String, String, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)
 
 This method allows an IRegionManager to locate a specified region and navigate in it to the specified target string, passing a navigation callback and an instance of NavigationParameters, which holds a collection of object parameters.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public static void RequestNavigate( this IRegionManager regionManager, string regionName, string target, Action&lt;NavigationResult&gt; navigationCallback, NavigationParameters navigationParameters )&lt;ExtensionAttribute&gt; Public Shared Sub RequestNavigate ( regionManager As IRegionManager, regionName As String, target As String, navigationCallback As Action(Of NavigationResult), navigationParameters As NavigationParameters )
 
@@ -48,9 +45,7 @@ An instance of NavigationParameters, which holds a collection of object paramete
 
 In Visual Basic and C\#, you can call this method as an instance method on any object of type [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 
-See Also
---------
-
+## See Also
 
 [RegionManagerExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions)
 

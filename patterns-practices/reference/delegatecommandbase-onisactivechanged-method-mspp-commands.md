@@ -5,24 +5,19 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommandBase.OnIsActive
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405757(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DelegateCommandBase.OnIsActiveChanged Method
-================================================
+# DelegateCommandBase.OnIsActiveChanged Method
 
 This raises the [IsActiveChanged](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase.isactivechanged) event.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
-
 protected virtual void OnIsActiveChanged()Protected Overridable Sub OnIsActiveChanged
 
-See Also
---------
-
+## See Also
 
 [DelegateCommandBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)
 

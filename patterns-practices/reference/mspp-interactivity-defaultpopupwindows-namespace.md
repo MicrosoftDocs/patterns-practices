@@ -5,7 +5,6 @@ ms:assetid: 'N:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736291(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace
 

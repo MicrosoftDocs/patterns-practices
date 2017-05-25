@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleIniti
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431449(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # MefModuleInitializer Class
 
@@ -43,7 +42,6 @@ Inheritance Hierarchy
     Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleInitializer
 
 ## See Also
-
 
 [MefModuleInitializer Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer_members(v=pandp.50))
 

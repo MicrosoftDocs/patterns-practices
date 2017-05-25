@@ -5,26 +5,21 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigati
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405600(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefRegionNavigationJournal Constructor
-======================================
+# MefRegionNavigationJournal Constructor
 
 Initializes a new instance of the [MefRegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal) class
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public MefRegionNavigationJournal()Public Sub New
 
-See Also
---------
-
+## See Also
 
 [MefRegionNavigationJournal Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal)
 

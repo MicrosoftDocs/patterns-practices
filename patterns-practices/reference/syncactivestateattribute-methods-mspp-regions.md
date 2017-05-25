@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.SyncActiveStateAttribut
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683951(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # SyncActiveStateAttribute Methods
 
@@ -75,7 +74,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-
 
 [SyncActiveStateAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.syncactivestateattribute(v=pandp.50))
 

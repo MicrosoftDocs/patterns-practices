@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionAdapterBase\`1.CreateRegi
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418935(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionAdapterBase(Of T).CreateRegion Method
-=================================================================
+# RegionAdapterBase(Of T).CreateRegion Method
 
 Template method to create a new instance of [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)) that will be used to adapt the object.
 
@@ -18,9 +16,7 @@ Template method to create a new instance of [IRegion](https://msdn.microsoft.com
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
     protected abstract IRegion CreateRegion()
@@ -36,9 +32,7 @@ Type: [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.pri
 
 A new instance of [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)).
 
-See Also
---------
-
+## See Also
 
 [RegionAdapterBase(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431546(v=pandp.50))
 

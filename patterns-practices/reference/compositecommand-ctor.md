@@ -5,24 +5,19 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.\#ctor'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405539(v=PandP.50)'
 ---
 
-Prism Class Library
 
-CompositeCommand Constructor
-============================
+# CompositeCommand Constructor
 
 Initializes a new instance of [CompositeCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand).
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
-
 public CompositeCommand()Public Sub New
 
-See Also
---------
-
+## See Also
 
 [CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
 

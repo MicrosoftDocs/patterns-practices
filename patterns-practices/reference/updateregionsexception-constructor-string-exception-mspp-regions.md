@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.UpdateRegionsException.\#ctor(S
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405714(v=PandP.50)'
 ---
 
-Prism Class Library
 
-UpdateRegionsException Constructor (String, Exception)
-======================================================
+# UpdateRegionsException Constructor (String, Exception)
 
 Initializes a new instance of the [UpdateRegionsException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception(v=pandp.50)) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 
@@ -18,9 +16,7 @@ Initializes a new instance of the [UpdateRegionsException](https://msdn.microsof
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public UpdateRegionsException(
@@ -36,7 +32,6 @@ Public Sub New (
 )
 ```
 
-
 ### Parameters
 
 *message*  
@@ -49,9 +44,7 @@ Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 
 The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified.
 
-See Also
---------
-
+## See Also
 
 [UpdateRegionsException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception(v=pandp.50))
 

@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapp
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431138(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # UnityBootstrapperExtension Methods
 
@@ -100,7 +99,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-
 
 [UnityBootstrapperExtension Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension(v=pandp.50))
 

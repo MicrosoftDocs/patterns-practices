@@ -7,8 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419047(v=PandP.50)'
 
 # Microsoft.Practices.Prism.ViewModel Namespace
 
-## Classes
-=======
+# ## Classes
 
 <span id="classToggle"></span>
 <table>

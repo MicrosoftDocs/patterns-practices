@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.ContainsValue(\`1)'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405800(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ListDictionary&lt;TKey, TValue&gt;.ContainsValue Method
 
@@ -24,7 +23,6 @@ public bool ContainsValue(
 	TValue value
 )
 ```
-
 
 ### Parameters
 
@@ -64,7 +62,6 @@ Public Function ContainsValue (
 	value As TValue
 ) As Boolean
 ```
-
 
 ### Parameters
 

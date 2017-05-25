@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionNavigationService.Journa
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431346(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionNavigationService.Journal Property
-=============================================
+# IRegionNavigationService.Journal Property
 
 Gets the journal.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 IRegionNavigationJournal Journal { get; }ReadOnly Property Journal As IRegionNavigationJournal Get
 ### Property Value
@@ -26,9 +23,7 @@ IRegionNavigationJournal Journal { get; }ReadOnly Property Journal As IRegionNav
 Type: [IRegionNavigationJournal](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal(v=pandp.50))
 The journal.
 
-See Also
---------
-
+## See Also
 
 [IRegionNavigationService Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice(v=pandp.50))
 

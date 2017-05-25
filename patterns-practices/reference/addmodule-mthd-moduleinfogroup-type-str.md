@@ -5,13 +5,12 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroupExtensions.Ad
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405902(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleInfoGroupExtensions.AddModule Method (ModuleInfoGroup, Type, array&lt;String&gt;)
 
 Adds a new module that is statically referenced to the specified module info group.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
 ## Syntax

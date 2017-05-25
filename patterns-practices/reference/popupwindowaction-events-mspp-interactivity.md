@@ -5,15 +5,12 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Interactivity.PopupWindowAction'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736179(v=PandP.50)'
 ---
 
-Prism Class Library
 
-PopupWindowAction Events
-========================
+# PopupWindowAction Events
 
 The [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -37,9 +34,7 @@ Occurs when the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freez
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
 

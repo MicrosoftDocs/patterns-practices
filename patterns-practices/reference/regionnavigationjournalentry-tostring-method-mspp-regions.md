@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry.To
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418973(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionNavigationJournalEntry.ToString Method
-================================================
+# RegionNavigationJournalEntry.ToString Method
 
 Returns a [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf) that represents this instance.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public override string ToString()Public Overrides Function ToString As String
 ### Return Value
@@ -26,9 +23,7 @@ public override string ToString()Public Overrides Function ToString As String
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 A [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf) that represents this instance.
 
-See Also
---------
-
+## See Also
 
 [RegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry)
 

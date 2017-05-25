@@ -5,7 +5,6 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.IModuleManager'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430894(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # IModuleManager Events
 
@@ -41,7 +40,6 @@ Raised repeatedly to provide progress as modules are downloaded.
 </table>
 
 ## See Also
-
 
 [IModuleManager Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulemanager(v=pandp.50))
 

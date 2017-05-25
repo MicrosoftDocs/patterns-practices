@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.NavigationContext'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431206(v=PandP.50)'
 ---
 
-Prism Class Library
 
-NavigationContext Properties
-============================
+# NavigationContext Properties
 
 The [NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -50,9 +47,7 @@ Gets the navigation URI.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 

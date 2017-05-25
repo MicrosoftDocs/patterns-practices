@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.Views'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431394(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Region.Views Property
-=========================
+# Region.Views Property
 
 Gets a readonly view of the collection of views in the region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public virtual IViewsCollection Views { get; }Public Overridable ReadOnly Property Views As IViewsCollection Get
 ### Property Value
@@ -29,9 +26,7 @@ An [IViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.pri
 
 [IRegion.Views](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.views)
 
-See Also
---------
-
+## See Also
 
 [Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 

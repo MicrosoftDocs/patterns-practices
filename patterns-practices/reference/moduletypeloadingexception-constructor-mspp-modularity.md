@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingExce
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419114(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleTypeLoadingException Constructor
-======================================
+# ModuleTypeLoadingException Constructor
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -69,9 +66,7 @@ Initializes the exception with a particular module, error message and inner exce
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleTypeLoadingException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception)
 

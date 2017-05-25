@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationResult.\#ctor(Microso
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405692(v=PandP.50)'
 ---
 
-Prism Class Library
 
-NavigationResult Constructor (NavigationContext, Exception)
-===========================================================
+# NavigationResult Constructor (NavigationContext, Exception)
 
 Initializes a new instance of the [NavigationResult](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult(v=pandp.50)) class.
 
@@ -18,9 +16,7 @@ Initializes a new instance of the [NavigationResult](https://msdn.microsoft.com/
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public NavigationResult( NavigationContext context, Exception error )
@@ -29,7 +25,6 @@ public NavigationResult( NavigationContext context, Exception error )
 'Declaration
 Public Sub New ( context As NavigationContext, error As Exception )
 ```
-
 
 ### Parameters
 
@@ -43,9 +38,7 @@ Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 
 The error.
 
-See Also
---------
-
+## See Also
 
 [NavigationResult Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult(v=pandp.50))
 

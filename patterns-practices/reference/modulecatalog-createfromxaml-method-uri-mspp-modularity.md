@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.CreateFromXaml
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405875(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleCatalog.CreateFromXaml Method (Uri)
-=============================================
+# ModuleCatalog.CreateFromXaml Method (Uri)
 
 Creates a [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) from a XAML included as an Application Resource.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public static ModuleCatalog CreateFromXaml( Uri builderResourceUri )Public Shared Function CreateFromXaml ( builderResourceUri As Uri ) As ModuleCatalog
 
@@ -33,9 +30,7 @@ Relative [Uri](http://msdn.microsoft.com/en-us/library/txt7706a) that identifies
 Type: [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 An instance of [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) build from the XAML.
 
-See Also
---------
-
+## See Also
 
 [ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 

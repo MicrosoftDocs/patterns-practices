@@ -5,15 +5,12 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfo.Ref'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431319(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleInfo.Ref Property
-===========================
+# ModuleInfo.Ref Property
 
 Reference to the location of the module assembly.
 
-Examples
---------
+## Examples
 
 <span id="exampleToggle"></span>The following are examples of valid Ref values: file://c:/MyProject/Modules/MyModule.dll for a loose DLL in WPF.
 
@@ -23,9 +20,7 @@ Examples
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public string Ref { get; set; }
@@ -40,9 +35,7 @@ Public Property Ref As String
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-See Also
---------
-
+## See Also
 
 [ModuleInfo Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))
 

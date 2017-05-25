@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.RegionNavigationJournal
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431126(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionNavigationJournalEntry Methods
-====================================
+# RegionNavigationJournalEntry Methods
 
 The [RegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -77,9 +74,7 @@ Returns a <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> 
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry)
 

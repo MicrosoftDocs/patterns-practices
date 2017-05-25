@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ServiceLocatorExtensions.TryResolve\`\`
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419002(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ServiceLocatorExtensions.TryResolve&lt;T&gt; Method (IServiceLocator)
-========================================================================================
+# ServiceLocatorExtensions.TryResolve&lt;T&gt; Method (IServiceLocator)
 
 Attempts to resolve specified type from the underlying IServiceLocator.
 
@@ -18,9 +16,7 @@ Attempts to resolve specified type from the underlying IServiceLocator.
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public static T TryResolve<T>(
@@ -36,7 +32,6 @@ Public Shared Function TryResolve(Of T As Class) (
 ) As T
 ```
 
-
 ### Parameters
 
 *locator*
@@ -45,8 +40,7 @@ Type: IServiceLocator
 
 Locator to use in resolving.
 
-Type Parameters
----------------
+## Type Parameters
 
 <span id="templatesToggle"></span>
 T 
@@ -63,14 +57,11 @@ T or null
 
 In Visual Basic and C\#, you can call this method as an instance method on any object of type IServiceLocator. When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 
-Remarks
--------
+## Remarks
 
  This will return null on any ActivationException.
 
-See Also
---------
-
+## See Also
 
 [ServiceLocatorExtensions Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.servicelocatorextensions(v=pandp.50))
 

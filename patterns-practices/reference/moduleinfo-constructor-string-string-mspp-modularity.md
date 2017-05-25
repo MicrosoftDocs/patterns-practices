@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfo.\#ctor(System.Str
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405644(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleInfo Constructor (String, String)
-=======================================
+# ModuleInfo Constructor (String, String)
 
 Initializes a new instance of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public ModuleInfo( string name, string type )Public Sub New ( name As String, type As String )
 
@@ -32,9 +29,7 @@ type
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The module's type.
 
-See Also
---------
-
+## See Also
 
 [ModuleInfo Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
 

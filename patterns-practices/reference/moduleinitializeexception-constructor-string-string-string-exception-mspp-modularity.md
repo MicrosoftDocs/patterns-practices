@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializeException.\#
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405652(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleInitializeException Constructor (String, String, String, Exception)
-=========================================================================
+# ModuleInitializeException Constructor (String, String, String, Exception)
 
 Initializes the exception with a particular module, error message and inner exception that happened.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public ModuleInitializeException( string moduleName, string moduleAssembly, string message, Exception innerException )Public Sub New ( moduleName As String, moduleAssembly As String, message As String, innerException As Exception )
 
@@ -40,9 +37,7 @@ innerException
 Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 The exception that is the cause of the current exception, or a nullNothingnullptra null reference (Nothing in Visual Basic) reference if no inner exception is specified.
 
-See Also
---------
-
+## See Also
 
 [ModuleInitializeException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception)
 

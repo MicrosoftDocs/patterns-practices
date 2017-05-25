@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Modularity.Downlo
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431009(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DownloadedPartCatalogCollection Methods
-=======================================
+# DownloadedPartCatalogCollection Methods
 
 The [DownloadedPartCatalogCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -112,9 +109,7 @@ Tries to ge the catalog for the specified module info.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [DownloadedPartCatalogCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection)
 

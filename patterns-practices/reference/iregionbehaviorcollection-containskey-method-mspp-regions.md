@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionBehaviorCollection.Conta
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405958(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionBehaviorCollection.ContainsKey Method
-================================================
+# IRegionBehaviorCollection.ContainsKey Method
 
 Checks if a [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior) with the specified key is already present.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 bool ContainsKey( string key )Function ContainsKey ( key As String ) As Boolean
 
@@ -32,9 +29,7 @@ The key to use to find a particular [IRegionBehavior](https://msdn.microsoft.com
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
-See Also
---------
-
+## See Also
 
 [IRegionBehaviorCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection)
 

@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Subscribe(S
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683949(v=PandP.50)'
 ---
 
-Prism Class Library
 
-PubSubEvent&lt;TPayload&gt;.Subscribe Method (Action&lt;TPayload&gt;, Boolean)
-================================================================================================================
+# PubSubEvent&lt;TPayload&gt;.Subscribe Method (Action&lt;TPayload&gt;, Boolean)
 
 Subscribes a delegate to an event that will be published on the [PublisherThread](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.threadoption(v=pandp.50)).
 
@@ -16,9 +14,7 @@ Subscribes a delegate to an event that will be published on the [PublisherThread
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public SubscriptionToken Subscribe(
@@ -33,7 +29,6 @@ Public Function Subscribe (
 	keepSubscriberReferenceAlive As Boolean
 ) As SubscriptionToken
 ```
-
 
 ### Parameters
 
@@ -53,16 +48,13 @@ Type: [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.pra
 
 A [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50)) that uniquely identifies the added subscription.
 
-Remarks
--------
+## Remarks
 
  If *keepSubscriberReferenceAlive* is set to **falsefalse** (**False** in Visual Basic), [PubSubEvent&lt;TPayload&gt;](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50)) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied *action* delegate. If not using a WeakReference (*keepSubscriberReferenceAlive* is **truetrue** (**True** in Visual Basic)), the user must explicitly call Unsubscribe for the event when disposing the subscriber in order to avoid memory leaks or unexpected behavior.
 
 The PubSubEvent collection is thread-safe.
 
-See Also
---------
-
+## See Also
 
 [PubSubEvent&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50))
 

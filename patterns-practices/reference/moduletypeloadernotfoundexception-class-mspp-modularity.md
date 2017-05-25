@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundExce
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431507(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleTypeLoaderNotFoundException Class
 

@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.IInter
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736133(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # IInteractionRequestAware Interface
 
@@ -23,17 +22,15 @@ public interface IInteractionRequestAware
 ```VB
 'Declaration
 Public Interface IInteractionRequestAware
-```
-=======
+# ```
 Interface used by the [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction). If the DataContext object of a view that is shown with this action implements this interface it will be populated with the [INotification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification) data of the interaction request as well as an [Action](http://msdn.microsoft.com/en-us/library/bb534741) to finish the request upon invocation.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public interface IInteractionRequestAwarePublic Interface IInteractionRequestAware
 
@@ -41,8 +38,7 @@ public interface IInteractionRequestAwarePublic Interface IInteractionRequestAwa
 
 [IInteractionRequestAware Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware_members(v=pandp.50))
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
-=======
+# [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
 
 [IInteractionRequestAware Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware)
 

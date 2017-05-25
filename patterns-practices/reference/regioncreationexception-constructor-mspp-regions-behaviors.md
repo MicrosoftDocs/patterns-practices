@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.Behaviors.RegionCreation
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419126(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionCreationException Constructor
-===================================
+# RegionCreationException Constructor
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -55,9 +52,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionCreationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception)
 

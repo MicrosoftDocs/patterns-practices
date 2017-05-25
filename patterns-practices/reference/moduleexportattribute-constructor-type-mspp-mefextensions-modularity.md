@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAt
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405583(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleExportAttribute Constructor (Type)
-========================================
+# ModuleExportAttribute Constructor (Type)
 
 Initializes a new instance of the [ModuleExportAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute) class.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public ModuleExportAttribute( Type moduleType )Public Sub New ( moduleType As Type )
 
@@ -28,9 +25,7 @@ moduleType
 Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 The concrete type of the module being exported. Not typeof(IModule).
 
-See Also
---------
-
+## See Also
 
 [ModuleExportAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute)
 

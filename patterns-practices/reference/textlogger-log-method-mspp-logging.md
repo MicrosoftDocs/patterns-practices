@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Logging.TextLogger.Log(System.String,Mi
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405818(v=PandP.50)'
 ---
 
-Prism Class Library
 
-TextLogger.Log Method
-=========================
+# TextLogger.Log Method
 
 Write a new log entry with the specified category and priority.
 
-**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
+**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public void Log( string message, Category category, Priority priority )Public Sub Log ( message As String, category As Category, priority As Priority )
 
@@ -40,9 +37,7 @@ The priority of the entry.
 
 [ILoggerFacade.Log(String, Category, Priority)](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade.log(system.string%2cmicrosoft.practices.prism.logging.category%2cmicrosoft.practices.prism.logging.priority))
 
-See Also
---------
-
+## See Also
 
 [TextLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger)
 

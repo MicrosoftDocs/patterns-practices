@@ -5,29 +5,24 @@ ms:assetid: 'P:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManag
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431268(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefModuleManager.ModuleTypeLoaders Property
-===============================================
+# MefModuleManager.ModuleTypeLoaders Property
 
 Gets or sets the type loaders used by the module manager.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public override IEnumerable&lt;IModuleTypeLoader&gt; ModuleTypeLoaders { get; set; }Public Overrides Property ModuleTypeLoaders As IEnumerable(Of IModuleTypeLoader) Get Set
 ### Property Value
 
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([IModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader)&gt;)&gt;)
 
-See Also
---------
-
+## See Also
 
 [MefModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager)
 

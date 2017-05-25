@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431007(v=PandP.50)'
 ---
 
-
 # MefBootstrapper Methods
 
 The [MefBootstrapper](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper(v=pandp.50)) type exposes the following members.
@@ -39,22 +38,17 @@ The [MefBootstrapper](https://msdn.microsoft.com/en-us/library/microsoft.practic
 |![](images/public-method.gif "Public method")|[Run(Boolean)](https://msdn.microsoft.com/en-us/library/gg405830(v=pandp.50)))|Run the bootstrapper process.(Overrides [Bootstrapper.Run(Boolean)](https://msdn.microsoft.com/en-us/library/gg405740(v=pandp.50)).)|
 |![](images/public-method.gif "Public method")|[ToString](http://msdn2.microsoft.com/en-us/library/7bxwbwt2)|Returns a string that represents the current object.(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
 
-
 ## See Also
 
 [MefBootstrapper Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper(v=pandp.50))
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions(v=pandp.50))
-=======
-Prism Class Library
+# [Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions(v=pandp.50))
 
-MefBootstrapper Methods
-=======================
+# MefBootstrapper Methods
 
 The [MefBootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <table>
 
@@ -255,9 +249,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [MefBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper)
 

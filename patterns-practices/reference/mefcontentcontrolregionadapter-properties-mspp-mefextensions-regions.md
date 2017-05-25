@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefCon
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419188(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefContentControlRegionAdapter Properties
-=========================================
+# MefContentControlRegionAdapter Properties
 
 The [MefContentControlRegionAdapter](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefcontentcontrolregionadapter(v=pandp.50)) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <table>
 
@@ -36,9 +33,7 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [MefContentControlRegionAdapter Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefcontentcontrolregionadapter(v=pandp.50))
 

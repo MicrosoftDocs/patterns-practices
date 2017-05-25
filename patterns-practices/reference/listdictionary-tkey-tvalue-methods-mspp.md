@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ListDictionary\`2'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430998(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Methods
-=========================================================
+# ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Methods
 
 The [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -131,9 +128,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 

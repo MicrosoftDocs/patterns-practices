@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431143(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Methods
-===============================================
+# ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Methods
 
 The [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -112,9 +109,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601)
 

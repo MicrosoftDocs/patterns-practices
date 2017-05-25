@@ -5,26 +5,21 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection.\
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405636(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleDependencyCollection Constructor
-======================================
+# ModuleDependencyCollection Constructor
 
 Initializes a new instance of [ModuleDependencyCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public ModuleDependencyCollection()Public Sub New
 
-See Also
---------
-
+## See Also
 
 [ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
 

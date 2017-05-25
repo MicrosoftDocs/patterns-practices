@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundExcepti
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405610(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # CyclicDependencyFoundException Constructor (SerializationInfo, StreamingContext)
 
@@ -33,7 +32,6 @@ Protected Sub New (
 	context As StreamingContext
 )
 ```
-
 
 ### Parameters
 

@@ -30,7 +30,6 @@ Protected Overridable Function GetContractFromNavigationContext (
 ) As String
 ```
 
-
 ### Parameters
 
 *navigationContext*

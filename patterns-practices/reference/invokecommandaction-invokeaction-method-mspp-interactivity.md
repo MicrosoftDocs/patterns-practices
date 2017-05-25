@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.Invok
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683974(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # InvokeCommandAction.InvokeAction Method
 
@@ -23,7 +22,6 @@ public void InvokeAction(
 )
 ```
 
-
 ### Parameters
 
 *parameter*
@@ -36,7 +34,6 @@ Public Sub InvokeAction (
 	parameter As Object
 )
 ```
-
 
 ### Parameters
 

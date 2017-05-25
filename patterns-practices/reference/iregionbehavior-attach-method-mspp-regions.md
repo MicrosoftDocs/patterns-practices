@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionBehavior.Attach'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405962(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionBehavior.Attach Method
-=================================
+# IRegionBehavior.Attach Method
 
 Attaches the behavior to the specified region.
 
@@ -18,9 +16,7 @@ Attaches the behavior to the specified region.
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 void Attach()
@@ -31,9 +27,7 @@ void Attach()
 Sub Attach
 ```
 
-See Also
---------
-
+## See Also
 
 [IRegionBehavior Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior(v=pandp.50))
 

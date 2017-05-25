@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.INavigationAware'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431083(v=PandP.50)'
 ---
 
-Prism Class Library
 
-INavigationAware Methods
-========================
+# INavigationAware Methods
 
 The [INavigationAware](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -50,9 +47,7 @@ Called when the implementer has been navigated to.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [INavigationAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware)
 

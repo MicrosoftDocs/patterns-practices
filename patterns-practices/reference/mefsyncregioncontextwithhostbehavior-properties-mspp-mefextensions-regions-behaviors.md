@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behavi
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419187(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefSyncRegionContextWithHostBehavior Properties
-===============================================
+# MefSyncRegionContextWithHostBehavior Properties
 
 The [MefSyncRegionContextWithHostBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefsyncregioncontextwithhostbehavior) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -53,9 +50,7 @@ Behavior's attached region.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [MefSyncRegionContextWithHostBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefsyncregioncontextwithhostbehavior)
 

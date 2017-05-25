@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException.\
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405672(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleTypeLoadingException Constructor (SerializationInfo, StreamingContext)
-============================================================================
+# ModuleTypeLoadingException Constructor (SerializationInfo, StreamingContext)
 
 Initializes a new instance with serialized data.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 protected ModuleTypeLoadingException( SerializationInfo info, StreamingContext context )Protected Sub New ( info As SerializationInfo, context As StreamingContext )
 
@@ -32,9 +29,7 @@ context
 Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5)
 The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that contains contextual information about the source or destination.
 
-See Also
---------
-
+## See Also
 
 [ModuleTypeLoadingException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception)
 

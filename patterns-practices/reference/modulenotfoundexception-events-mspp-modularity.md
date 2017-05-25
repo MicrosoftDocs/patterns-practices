@@ -9,14 +9,11 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736160(v=PandP.50)'
 
 The [ModuleNotFoundException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception(v=pandp.50)) type exposes the following members.
 
-
 ## Events
-
-=======
+# 
 The [ModuleNotFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 
@@ -43,11 +40,8 @@ Occurs when an exception is serialized to create an exception state object that 
 
 ## See Also
 
-
-[ModuleNotFoundException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception(v=pandp.50))
-=======
+# [ModuleNotFoundException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception(v=pandp.50))
 
 [ModuleNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception)
-
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))

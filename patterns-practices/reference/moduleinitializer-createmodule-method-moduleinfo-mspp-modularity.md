@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializer.CreateModu
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405921(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleInitializer.CreateModule Method (ModuleInfo)
-======================================================
+# ModuleInitializer.CreateModule Method (ModuleInfo)
 
 Uses the container to resolve a new [IModule](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodule(v=pandp.50)) by specifying its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
@@ -18,9 +16,7 @@ Uses the container to resolve a new [IModule](https://msdn.microsoft.com/en-us/l
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 protected virtual IModule CreateModule( ModuleInfo moduleInfo )Protected Overridable Function CreateModule ( moduleInfo As ModuleInfo ) As IModule
 
@@ -37,9 +33,7 @@ Type: [IModule](https://msdn.microsoft.com/en-us/library/microsoft.practices.pri
 
 A new instance of the module specified by moduleInfo.
 
-See Also
---------
-
+## See Also
 
 [ModuleInitializer Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer(v=pandp.50))
 

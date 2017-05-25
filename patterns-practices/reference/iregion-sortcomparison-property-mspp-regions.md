@@ -5,10 +5,8 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegion.SortComparison'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431354(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegion.SortComparison Property
-===================================
+# IRegion.SortComparison Property
 
 Gets or sets the comparison used to sort the views.
 
@@ -18,9 +16,7 @@ Gets or sets the comparison used to sort the views.
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
     Comparison<Object> SortComparison { get; set; }
@@ -37,9 +33,7 @@ Type: [Comparison](http://msdn.microsoft.com/en-us/library/tfakywbh)(Of [Object]
 
 The comparison to use.
 
-See Also
---------
-
+## See Also
 
 [IRegion Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50))
 

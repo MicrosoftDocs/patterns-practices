@@ -5,15 +5,12 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.ModuleInitializeExcep
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736233(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleInitializeException Events
-================================
+# ModuleInitializeException Events
 
 The [ModuleInitializeException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -37,9 +34,7 @@ Occurs when an exception is serialized to create an exception state object that 
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleInitializeException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception)
 

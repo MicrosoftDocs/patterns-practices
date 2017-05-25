@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Regions.AllActiveRegion'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431510(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # AllActiveRegion Class
 
@@ -37,7 +36,6 @@ Public Class AllActiveRegion
     Microsoft.Practices.Prism.Regions.AllActiveRegion
 
 ## See Also
-
 
 [AllActiveRegion Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.allactiveregion_members(v=pandp.50))
 

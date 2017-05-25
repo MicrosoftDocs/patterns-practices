@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.Name'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431390(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Region.Name Property
-========================
+# Region.Name Property
 
 Gets the name of the region that uniequely identifies the region within a [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public string Name { get; set; }Public Property Name As String Get Set
 ### Property Value
@@ -29,9 +26,7 @@ The name of the region.
 
 [IRegion.Name](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.name)
 
-See Also
---------
-
+## See Also
 
 [Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 

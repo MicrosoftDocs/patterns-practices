@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionManager
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431076(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionManagerRegistrationBehavior Methods
-=========================================
+# RegionManagerRegistrationBehavior Methods
 
 The [RegionManagerRegistrationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -104,9 +101,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
 

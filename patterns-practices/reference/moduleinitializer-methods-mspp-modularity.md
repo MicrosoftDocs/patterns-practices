@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleInitializer'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431062(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleInitializer Methods
 
@@ -103,7 +102,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-
 
 [ModuleInitializer Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer(v=pandp.50))
 

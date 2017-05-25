@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleManager.Run'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405931(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleManager.Run Method
 

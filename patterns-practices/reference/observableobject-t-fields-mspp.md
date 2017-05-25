@@ -5,15 +5,12 @@ ms:assetid: 'Fields.T:Microsoft.Practices.Prism.ObservableObject\`1'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430945(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Fields
-===============================================
+# ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Fields
 
 The [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601) type exposes the following members.
 
-Fields
-------
+## Fields
 
 <span id="fieldTableToggle"></span>
 <table>
@@ -36,9 +33,7 @@ Identifies the Value property of the ObservableObject
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601)
 

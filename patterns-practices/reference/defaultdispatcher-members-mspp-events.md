@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Events.DefaultDispatcher'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430767(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DefaultDispatcher Members
-=========================
+# DefaultDispatcher Members
 
 The [DefaultDispatcher](https://msdn.microsoft.com/library/microsoft.practices.prism.events.defaultdispatcher) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +33,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -108,9 +104,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [DefaultDispatcher Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.defaultdispatcher)
 

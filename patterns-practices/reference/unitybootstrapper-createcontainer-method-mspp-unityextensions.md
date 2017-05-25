@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.Creat
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419007(v=PandP.50)'
 ---
 
-Prism Class Library
 
-UnityBootstrapper.CreateContainer Method
-============================================
+# UnityBootstrapper.CreateContainer Method
 
 Creates the IUnityContainer that will be used as the default container.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 protected virtual IUnityContainer CreateContainer()Protected Overridable Function CreateContainer As IUnityContainer
 ### Return Value
@@ -26,9 +23,7 @@ protected virtual IUnityContainer CreateContainer()Protected Overridable Functio
 Type: IUnityContainer
 A new instance of IUnityContainer.
 
-See Also
---------
-
+## See Also
 
 [UnityBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
 

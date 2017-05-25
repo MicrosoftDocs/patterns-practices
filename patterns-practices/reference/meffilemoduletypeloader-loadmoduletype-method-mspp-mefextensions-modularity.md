@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefFileModuleT
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405839(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefFileModuleTypeLoader.LoadModuleType Method
-=================================================
+# MefFileModuleTypeLoader.LoadModuleType Method
 
 Retrieves the moduleInfo.
 
@@ -18,9 +16,7 @@ Retrieves the moduleInfo.
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public virtual void LoadModuleType(
@@ -35,7 +31,6 @@ Public Overridable Sub LoadModuleType (
 )
 ```
 
-
 ### Parameters
 
 *moduleInfo*  
@@ -48,9 +43,7 @@ Module that should have it's type loaded.
 
 [IModuleTypeLoader.LoadModuleType(ModuleInfo)](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader.loadmoduletype(v=pandp.50))
 
-See Also
---------
-
+## See Also
 
 [MefFileModuleTypeLoader Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader(v=pandp.50))
 

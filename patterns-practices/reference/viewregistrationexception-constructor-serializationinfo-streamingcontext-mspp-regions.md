@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewRegistrationException.\#cto
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405720(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ViewRegistrationException Constructor (SerializationInfo, StreamingContext)
 
@@ -32,7 +31,6 @@ Protected Sub New (
 	context As StreamingContext
 )
 ```
-
 
 ### Parameters
 

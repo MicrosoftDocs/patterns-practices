@@ -5,15 +5,12 @@ ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerR
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430949(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionManagerRegistrationBehavior Fields
-========================================
+# RegionManagerRegistrationBehavior Fields
 
 The [RegionManagerRegistrationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior) type exposes the following members.
 
-Fields
-------
+## Fields
 
 <span id="fieldTableToggle"></span>
 <table>
@@ -36,9 +33,7 @@ The key of this behavior.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
 

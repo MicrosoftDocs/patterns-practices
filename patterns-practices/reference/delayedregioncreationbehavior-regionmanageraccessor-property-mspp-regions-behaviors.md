@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreation
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431327(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DelayedRegionCreationBehavior.RegionManagerAccessor Property
-================================================================
+# DelayedRegionCreationBehavior.RegionManagerAccessor Property
 
 Sets a class that interfaces between the [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager) 's static properties/events and this behavior, so this behavior can be tested in isolation.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public IRegionManagerAccessor RegionManagerAccessor { get; set; }Public Property RegionManagerAccessor As IRegionManagerAccessor Get Set
 ### Property Value
@@ -26,9 +23,7 @@ public IRegionManagerAccessor RegionManagerAccessor { get; set; }Public Property
 Type: [IRegionManagerAccessor](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor)
 The region manager accessor.
 
-See Also
---------
-
+## See Also
 
 [DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
 

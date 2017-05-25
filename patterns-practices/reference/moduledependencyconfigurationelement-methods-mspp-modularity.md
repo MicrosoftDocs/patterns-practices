@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyConf
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431055(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleDependencyConfigurationElement Methods
-============================================
+# ModuleDependencyConfigurationElement Methods
 
 The [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -237,9 +234,7 @@ Modifies the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">Configur
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleDependencyConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement)
 

@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.CommandBehavio
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn741423(v=PandP.50)'
 ---
 
-Prism Class Library
 
-CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Members
-===================================================
+# CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Members
 
 The [CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +33,7 @@ Constructor specifying the target object.
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -115,8 +111,7 @@ Updates the target object's IsEnabled property based on the commands ability to 
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -153,9 +148,7 @@ Object to which this behavior is attached.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601)
 

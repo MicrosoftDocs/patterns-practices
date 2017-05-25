@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.UpdateRegionsExcepti
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431221(v=PandP.50)'
 ---
 
-Prism Class Library
 
-UpdateRegionsException Properties
-=================================
+# UpdateRegionsException Properties
 
 The [UpdateRegionsException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -93,9 +90,7 @@ Gets the method that throws the current exception.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [UpdateRegionsException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception)
 

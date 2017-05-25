@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleManager.\#ctor(Microso
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405654(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleManager Constructor
-=========================
+# ModuleManager Constructor
 
 Initializes an instance of the [ModuleManager](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public ModuleManager( IModuleInitializer moduleInitializer, IModuleCatalog moduleCatalog, ILoggerFacade loggerFacade )Public Sub New ( moduleInitializer As IModuleInitializer, moduleCatalog As IModuleCatalog, loggerFacade As ILoggerFacade )
 
@@ -36,9 +33,7 @@ loggerFacade
 Type: [Microsoft.Practices.Prism.Logging.ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade)
 Logger used during the load and initialization of modules.
 
-See Also
---------
-
+## See Also
 
 [ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
 

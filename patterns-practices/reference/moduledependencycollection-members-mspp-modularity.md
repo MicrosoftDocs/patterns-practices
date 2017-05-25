@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyC
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430842(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleDependencyCollection Members
-==================================
+# ModuleDependencyCollection Members
 
 The [ModuleDependencyCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -43,8 +40,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -420,8 +416,7 @@ Reverses the effect of merging configuration information from different levels o
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -628,9 +623,7 @@ Gets a value indicating whether an attempt to add a duplicate <a href="http://ms
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
 

@@ -5,10 +5,8 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCo
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431289(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleConfigurationElementCollection.ElementName Property
-=============================================================
+# ModuleConfigurationElementCollection.ElementName Property
 
 Gets the name used to identify this collection of elements in the configuration file when overridden in a derived class.
 
@@ -18,9 +16,7 @@ Gets the name used to identify this collection of elements in the configuration 
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
     protected override string ElementName { get; }
@@ -36,9 +32,7 @@ Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 The name of the collection; otherwise, an empty string.
 
-See Also
---------
-
+## See Also
 
 [ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection(v=pandp.50))
 

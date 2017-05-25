@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleInfo'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431058(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleInfo Methods
 
@@ -75,7 +74,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-
 
 [ModuleInfo Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))
 

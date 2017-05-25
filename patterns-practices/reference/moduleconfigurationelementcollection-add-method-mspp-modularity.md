@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCo
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405892(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleConfigurationElementCollection.Add Method
-===================================================
+# ModuleConfigurationElementCollection.Add Method
 
 Adds a [ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement) to the collection.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public void Add( ModuleConfigurationElement module )Public Sub Add ( module As ModuleConfigurationElement )
 
@@ -28,9 +25,7 @@ module
 Type: [Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
 A [ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement) instance.
 
-See Also
---------
-
+## See Also
 
 [ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 

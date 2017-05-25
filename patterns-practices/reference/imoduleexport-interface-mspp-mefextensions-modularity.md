@@ -5,31 +5,25 @@ ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Modularity.IModuleExport'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431447(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IModuleExport Interface
-=======================
+# IModuleExport Interface
 
 Describe the Managed Extensibility Framework export of an IModule.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public interface IModuleExportPublic Interface IModuleExport
 
-Remarks
--------
+## Remarks
 
  This interface is used when importing classes exported with the ModuleExportAttribute. This interface and the ModuleExport class properties should match.
 
-See Also
---------
-
+## See Also
 
 [IModuleExport Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.imoduleexport)
 

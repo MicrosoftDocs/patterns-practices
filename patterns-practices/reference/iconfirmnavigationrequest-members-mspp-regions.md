@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IConfirmNavigationRe
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430878(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IConfirmNavigationRequest Members
-=================================
+# IConfirmNavigationRequest Members
 
 The [IConfirmNavigationRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iconfirmnavigationrequest) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -60,9 +57,7 @@ Called when the implementer has been navigated to.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IConfirmNavigationRequest Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iconfirmnavigationrequest)
 

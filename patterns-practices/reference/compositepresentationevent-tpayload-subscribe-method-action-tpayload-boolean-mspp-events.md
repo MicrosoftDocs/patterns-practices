@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Su
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405770(v=PandP.50)'
 ---
 
-Prism Class Library
 
-CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Subscribe Method (Action&lt;(Of &lt;(TPayload&gt;)&gt;), Boolean)
-===============================================================================================================================
+# CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Subscribe Method (Action&lt;(Of &lt;(TPayload&gt;)&gt;), Boolean)
 
 Subscribes a delegate to an event that will be published on the PublisherThread.
 
-**Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/library/microsoft.practices.prism.events)
+**Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/library/microsoft.practices.prism.events)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public SubscriptionToken Subscribe( Action&lt;TPayload&gt; action, bool keepSubscriberReferenceAlive )Public Function Subscribe ( action As Action(Of TPayload), keepSubscriberReferenceAlive As Boolean ) As SubscriptionToken
 
@@ -37,16 +34,13 @@ When trueTruetruetrue (True in Visual Basic), the [CompositePresentationEvent&lt
 Type: SubscriptionToken
 A SubscriptionToken that uniquely identifies the added subscription.
 
-Remarks
--------
+## Remarks
 
  If keepSubscriberReferenceAlive is set to falseFalsefalsefalse (False in Visual Basic), [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate. If not using a WeakReference (keepSubscriberReferenceAlive is trueTruetruetrue (True in Visual Basic)), the user must explicitly call Unsubscribe for the event when disposing the subscriber in order to avoid memory leaks or unexepcted behavior.
 
 The CompositePresentationEvent collection is thread-safe.
 
-See Also
---------
-
+## See Also
 
 [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)
 

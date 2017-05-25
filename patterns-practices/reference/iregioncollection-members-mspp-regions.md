@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionCollection'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405474(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionCollection Members
-=========================
+# IRegionCollection Members
 
 The [IRegionCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -66,8 +63,7 @@ Removes a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.
 </tbody>
 </table>
 
-Extension Methods
------------------
+## Extension Methods
 
 <span id="extensionMethodTableToggle"></span>
 <table>
@@ -91,8 +87,7 @@ Adds a region to the regionmanager with the name received as argument.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -115,8 +110,7 @@ Gets the IRegion with the name received as index.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -140,9 +134,7 @@ Occurs when the collection changes.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IRegionCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection)
 

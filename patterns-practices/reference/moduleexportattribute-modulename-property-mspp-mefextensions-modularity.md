@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAt
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431271(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleExportAttribute.ModuleName Property
-=============================================
+# ModuleExportAttribute.ModuleName Property
 
 Gets the contract name of the module.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public string ModuleName { get; }Public ReadOnly Property ModuleName As String Get
 ### Property Value
@@ -28,9 +25,7 @@ Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 [IModuleExport.ModuleName](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport.modulename)
 
-See Also
---------
-
+## See Also
 
 [ModuleExportAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute)
 

@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Cont
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736207(v=PandP.50)'
 ---
 
-Prism Class Library
 
-PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Contains Method
-==============================================================
+# PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Contains Method
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -42,9 +39,7 @@ Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matchin
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601)
 

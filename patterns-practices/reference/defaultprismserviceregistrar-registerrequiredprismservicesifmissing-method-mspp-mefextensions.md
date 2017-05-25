@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.DefaultPrismServiceRegist
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405820(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # DefaultPrismServiceRegistrar.RegisterRequiredPrismServicesIfMissing Method
 
@@ -31,7 +30,6 @@ Public Shared Function RegisterRequiredPrismServicesIfMissing (
 ) As AggregateCatalog
 ```
 
-
 ### Parameters
 
 *aggregateCatalog*  
@@ -44,7 +42,6 @@ Public Shared Function RegisterRequiredPrismServicesIfMissing (
 Type: [AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165)
 
 ## See Also
-
 
 [DefaultPrismServiceRegistrar Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.defaultprismserviceregistrar(v=pandp.50))
 

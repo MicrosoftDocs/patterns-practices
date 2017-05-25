@@ -5,32 +5,26 @@ ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPart
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431446(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DownloadedPartCatalogCollection Class
-=====================================
+# DownloadedPartCatalogCollection Class
 
 Holds a collection of composable part catalogs keyed by module info.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public class DownloadedPartCatalogCollectionPublic Class DownloadedPartCatalogCollection
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection
 
-See Also
---------
-
+## See Also
 
 [DownloadedPartCatalogCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection)
 

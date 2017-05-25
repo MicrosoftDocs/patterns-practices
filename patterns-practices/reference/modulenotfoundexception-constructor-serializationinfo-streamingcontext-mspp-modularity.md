@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleNotFoundException.\#ct
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405659(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleNotFoundException Constructor (SerializationInfo, StreamingContext)
 
@@ -34,7 +33,6 @@ Protected Sub New (
 )
 ```
 
-
 ### Parameters
 
 *info* 
@@ -50,7 +48,6 @@ Protected Sub New (
    Contains contextual information about the source or destination.
 
 ## See Also
-
 
 [ModuleNotFoundException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception(v=pandp.50))
 

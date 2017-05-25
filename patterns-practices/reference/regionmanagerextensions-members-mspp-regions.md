@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.RegionManagerExtensi
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405508(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionManagerExtensions Members
-===============================
+# RegionManagerExtensions Members
 
 The [RegionManagerExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -113,9 +110,7 @@ This method allows an IRegionManager to locate a specified region and navigate i
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionManagerExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions)
 

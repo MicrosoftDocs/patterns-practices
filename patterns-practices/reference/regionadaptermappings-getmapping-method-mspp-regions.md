@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionAdapterMappings.GetMappin
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418938(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionAdapterMappings.GetMapping Method
-===========================================
+# RegionAdapterMappings.GetMapping Method
 
 Returns the adapter associated with the type provided.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public IRegionAdapter GetMapping( Type controlType )Public Function GetMapping ( controlType As Type ) As IRegionAdapter
 
@@ -33,22 +30,18 @@ The type to obtain the [IRegionAdapter](https://msdn.microsoft.com/library/micro
 Type: [IRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter)
 The [IRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter) mapped to the controlType.
 
-Remarks
--------
+## Remarks
 
 This class will look for a registered type for controlType and if there is not any, it will look for a registered type for any of its ancestors in the class hierarchy. If there is no registered type for controlType or any of its ancestors, an exception will be thrown.
 
-Exceptions
-----------
+## Exceptions
 
 <span id="exceptionsToggle"></span>
 | Exception                                                                                                | Condition                                                                 |
 |----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | [System.Collections.Generic.KeyNotFoundException](http://msdn.microsoft.com/en-us/library/9a35cy81) | When there is no registered type for controlType or any of its ancestors. |
 
-See Also
---------
-
+## See Also
 
 [RegionAdapterMappings Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings)
 

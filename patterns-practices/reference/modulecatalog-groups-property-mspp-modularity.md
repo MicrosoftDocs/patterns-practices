@@ -5,10 +5,8 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleCatalog.Groups'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431284(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleCatalog.Groups Property
-=================================
+# ModuleCatalog.Groups Property
 
 Gets the [ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50))s that have been added to the [ModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50)).
 
@@ -17,7 +15,6 @@ Gets the [ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.pr
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
 
 ## Syntax
 
@@ -36,9 +33,7 @@ Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[Module
 
 The groups.
 
-See Also
---------
-
+## See Also
 
 [ModuleCatalog Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50))
 

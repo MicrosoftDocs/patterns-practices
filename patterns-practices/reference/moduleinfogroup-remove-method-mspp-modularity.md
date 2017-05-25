@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Remove(Micro
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405915(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleInfoGroup.Remove Method
-=================================
+# ModuleInfoGroup.Remove Method
 
 Removes the first occurrence of a specific object from the [ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50)).
 
@@ -18,9 +16,7 @@ Removes the first occurrence of a specific object from the [ModuleInfoGroup](htt
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public bool Remove( ModuleInfo item )
@@ -29,7 +25,6 @@ public bool Remove( ModuleInfo item )
 'Declaration
 Public Function Remove ( item As ModuleInfo ) As Boolean
 ```
-
 
 ### Parameters
 
@@ -46,9 +41,7 @@ true if item was successfully removed from the [ModuleInfoGroup](https://msdn.mi
 
 [ICollection&lt;T&gt;.Remove(T)](http://msdn.microsoft.com/en-us/library/bye7h94w)
 
-See Also
---------
-
+## See Also
 
 [ModuleInfoGroup Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50))
 

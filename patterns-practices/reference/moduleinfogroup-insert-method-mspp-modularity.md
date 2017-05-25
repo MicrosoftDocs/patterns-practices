@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Inser
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419105(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleInfoGroup.Insert Method
-=================================
+# ModuleInfoGroup.Insert Method
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,9 +38,7 @@ Inserts an item to the <a href="https://msdn.microsoft.com/library/microsoft.pra
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 

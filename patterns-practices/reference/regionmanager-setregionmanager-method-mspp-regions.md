@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManager.SetRegionManager(
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418966(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionManager.SetRegionManager Method
-=========================================
+# RegionManager.SetRegionManager Method
 
 Sets the [RegionManagerProperty](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager.regionmanagerproperty(v=pandp.50)) attached property.
 
@@ -18,9 +16,7 @@ Sets the [RegionManagerProperty](https://msdn.microsoft.com/en-us/library/micros
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public static void SetRegionManager(
@@ -37,7 +33,6 @@ Public Shared Sub SetRegionManager (
 )
 ```
 
-
 ### Parameters
 
 *target*
@@ -52,9 +47,7 @@ Public Shared Sub SetRegionManager (
 
   The value.
 
-See Also
---------
-
+## See Also
 
 [RegionManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager(v=pandp.50))
 

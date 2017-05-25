@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommandBase.OnCanExecu
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405756(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # DelegateCommandBase.OnCanExecuteChanged Method
 

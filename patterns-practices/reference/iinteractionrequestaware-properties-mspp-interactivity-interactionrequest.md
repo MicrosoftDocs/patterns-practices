@@ -5,14 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.InteractionReq
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736290(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # IInteractionRequestAware Properties
 
 The [IInteractionRequestAware](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware(v=pandp.50)) type exposes the following members.
 
-## Properties
-=======
+# ## Properties
 The [IInteractionRequestAware](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware) type exposes the following members.
 
 <table>
@@ -46,8 +44,7 @@ The <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.intera
 
 [IInteractionRequestAware Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware(v=pandp.50))
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
-=======
+# [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
 
 [IInteractionRequestAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware)
 

@@ -5,14 +5,12 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.AllActiveRegion.ActiveViews'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431325(v=PandP.50)'
 ---
 
-Prism Class Library
 
-AllActiveRegion.ActiveViews Property
-========================================
+# AllActiveRegion.ActiveViews Property
 
 Gets a readonly view of the collection of all the active views in the region. These are all the added views.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -31,9 +29,7 @@ An [IViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.pri
 
 [IRegion.ActiveViews](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.activeviews)
 
-See Also
---------
-
+## See Also
 
 [AllActiveRegion Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.allactiveregion)
 

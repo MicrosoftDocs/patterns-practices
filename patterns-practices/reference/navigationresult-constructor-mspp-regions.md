@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.NavigationResult.\#ctor'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419136(v=PandP.50)'
 ---
 
-Prism Class Library
 
-NavigationResult Constructor
-============================
+# NavigationResult Constructor
 
-Overload List
--------------
+## Overload List
 
 <table>
 
@@ -40,9 +37,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [NavigationResult Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult)
 

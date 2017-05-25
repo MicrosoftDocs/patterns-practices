@@ -5,14 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736132(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # PubSubEvent(Of TPayload) Properties
 
 The [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50)) type exposes the following members.
 
-## Properties
-=======
+# ## Properties
 The [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601) type exposes the following members.
 
 <table>
@@ -39,8 +37,7 @@ Gets the list of current subscriptions.
 <td><div class="summary">
 Allows the SynchronizationContext to be set by the EventAggregator for UI Thread Dispatching
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase(v=pandp.50)">EventBase</a>.)</td>
-=======
+# (Inherited from <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase(v=pandp.50)">EventBase</a>.)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase.subscriptions">Subscriptions</a></td>
 <td><div class="summary">
 Gets the list of current subscriptions.
@@ -60,8 +57,7 @@ Allows the SynchronizationContext to be set by the EventAggregator for UI Thread
 
 ## See Also
 
-[PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.pubsubevent%601)
-=======
+# [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.pubsubevent%601)
 
 [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601)
 

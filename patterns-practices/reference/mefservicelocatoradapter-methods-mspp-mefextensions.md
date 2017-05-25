@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.MefServiceLocator
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431008(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefServiceLocatorAdapter Methods
-================================
+# MefServiceLocatorAdapter Methods
 
 The [MefServiceLocatorAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -138,9 +135,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [MefServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter)
 

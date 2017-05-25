@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ServiceLocatorExtensions'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431136(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ServiceLocatorExtensions Methods
 

@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.SolveDependenc
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405883(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleCatalog.SolveDependencies Method
-==========================================
+# ModuleCatalog.SolveDependencies Method
 
 Checks for cyclic dependencies, by calling the dependencysolver.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 protected static string[] SolveDependencies( IEnumerable&lt;ModuleInfo&gt; modules )Protected Shared Function SolveDependencies ( modules As IEnumerable(Of ModuleInfo) ) As String()
 
@@ -32,9 +29,7 @@ the.
 
 Type: array&lt;[String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)&gt;
 
-See Also
---------
-
+## See Also
 
 [ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 

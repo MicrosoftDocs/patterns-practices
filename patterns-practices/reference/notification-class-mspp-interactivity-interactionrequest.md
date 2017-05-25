@@ -5,33 +5,27 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notifi
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431433(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Notification Class
-==================
+# Notification Class
 
 Basic implementation of [INotification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification).
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public class Notification : INotificationPublic Class Notification Implements INotification
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification
     [Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confirmation](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation)
 
-See Also
---------
-
+## See Also
 
 [Notification Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.notification)
 

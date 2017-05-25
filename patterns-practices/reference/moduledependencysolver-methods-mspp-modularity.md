@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleDependencySolv
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431056(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleDependencySolver Methods
 

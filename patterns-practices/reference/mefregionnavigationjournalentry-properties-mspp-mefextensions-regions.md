@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefReg
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431155(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefRegionNavigationJournalEntry Properties
-==========================================
+# MefRegionNavigationJournalEntry Properties
 
 The [MefRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <table>
 
@@ -44,9 +41,7 @@ Gets or sets the URI.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [MefRegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry)
 

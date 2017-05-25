@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegion.NavigationService'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431352(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegion.NavigationService Property
-======================================
+# IRegion.NavigationService Property
 
 Gets or sets the navigation service.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 IRegionNavigationService NavigationService { get; set; }Property NavigationService As IRegionNavigationService Get Set
 ### Property Value
@@ -26,9 +23,7 @@ IRegionNavigationService NavigationService { get; set; }Property NavigationServi
 Type: [IRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice)
 The navigation service.
 
-See Also
---------
-
+## See Also
 
 [IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 

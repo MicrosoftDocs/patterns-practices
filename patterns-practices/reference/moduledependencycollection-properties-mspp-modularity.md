@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyC
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431170(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleDependencyCollection Properties
-=====================================
+# ModuleDependencyCollection Properties
 
 The [ModuleDependencyCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <table>
 
@@ -219,9 +216,7 @@ Gets a value indicating whether an attempt to add a duplicate <a href="http://ms
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
 

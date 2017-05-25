@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.ListDictionary\`2.Item(\`0)'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431256(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Item Property
-===================================================================
+# ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Item Property
 
 Gets or sets the list associated with the given key. The access always succeeds, eventually returning an empty list.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public IList&lt;TValue&gt; this[ TKey key \] { get; set; }Public Default Property Item ( key As TKey ) As IList(Of TValue) Get Set
 
@@ -36,9 +33,7 @@ The list associated with the key.
 
 [IDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Item[([(TKey\])\])](http://msdn.microsoft.com/en-us/library/zyxt2e2h)
 
-See Also
---------
-
+## See Also
 
 [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 

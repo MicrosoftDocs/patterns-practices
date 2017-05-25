@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Co
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405766(v=PandP.50)'
 ---
 
-Prism Class Library
 
-CompositePresentationEvent&lt;TPayload&gt;.Contains Method (Action&lt;TPayload&gt;)
-=====================================================================================================================
+# CompositePresentationEvent&lt;TPayload&gt;.Contains Method (Action&lt;TPayload&gt;)
 
 Returns **truetrue** (**True** in Visual Basic) if there is a subscriber matching [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8).
 
@@ -18,9 +16,7 @@ Returns **truetrue** (**True** in Visual Basic) if there is a subscriber matchin
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public virtual bool Contains(
@@ -33,7 +29,6 @@ Public Overridable Function Contains (
 	subscriber As Action(Of TPayload)
 ) As Boolean
 ```
-
 
 ### Parameters
 
@@ -48,9 +43,7 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 **truetrue** (**True** in Visual Basic) if there is an [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) that matches; otherwise **falsefalse** (**False** in Visual Basic).
 
-See Also
---------
-
+## See Also
 
 [CompositePresentationEvent&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))
 

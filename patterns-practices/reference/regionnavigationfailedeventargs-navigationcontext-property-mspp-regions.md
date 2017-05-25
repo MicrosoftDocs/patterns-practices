@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationFailedEventArgs
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431377(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # RegionNavigationFailedEventArgs.NavigationContext Property
 
@@ -42,7 +41,6 @@ Type: [NavigationContext](https://msdn.microsoft.com/en-us/library/microsoft.pra
 The navigation context.
 
 ## See Also
-
 
 [RegionNavigationFailedEventArgs Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs(v=pandp.50))
 

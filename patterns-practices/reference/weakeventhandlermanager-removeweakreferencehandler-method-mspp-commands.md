@@ -10,9 +10,8 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736259(v=PandP.50)'
 Removes an event handler from the reference list.
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
-
-=======
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+# 
+**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -60,12 +59,10 @@ Public Shared Sub RemoveWeakReferenceHandler (
 
 ## See Also
 
-[WeakEventHandlerManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager(v=pandp.50))
-=======
+# [WeakEventHandlerManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager(v=pandp.50))
 [WeakEventHandlerManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager)
 
 [WeakEventHandlerManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager_members(v=pandp.50))
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
-=======
+# [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)

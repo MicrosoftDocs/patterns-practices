@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegionViewRegistry'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431095(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionViewRegistry Methods
-===========================
+# IRegionViewRegistry Methods
 
 The [IRegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -50,9 +47,7 @@ Registers a content type with a region name.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IRegionViewRegistry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry)
 

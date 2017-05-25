@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleInitializeE
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431176(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleInitializeException Properties
 

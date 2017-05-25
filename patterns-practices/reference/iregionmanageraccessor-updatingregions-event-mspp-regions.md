@@ -5,7 +5,6 @@ ms:assetid: 'E:Microsoft.Practices.Prism.Regions.IRegionManagerAccessor.Updating
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430930(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # IRegionManagerAccessor.UpdatingRegions Event
 
@@ -37,7 +36,6 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
 This event uses weak references to the event handler to prevent this static event of keeping the target element longer than expected.
 
 ## See Also
-
 
 [IRegionManagerAccessor Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor(v=pandp.50))
 

@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleConfigurati
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431167(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleConfigurationElement Properties
-=====================================
+# ModuleConfigurationElement Properties
 
 The [ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -168,9 +165,7 @@ Gets or sets a value indicating whether the module should be loaded at startup.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
 

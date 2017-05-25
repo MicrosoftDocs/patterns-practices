@@ -5,16 +5,14 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.IEventAggregator.GetEvent\
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736172(v=PandP.50)'
 ---
 
-
 # IEventAggregator.GetEvent&lt;(Of &lt;(TEventType&gt;)&gt;) Method
 
 Gets an instance of an event type.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
 
 TEventType GetEvent&lt;TEventType&gt;() where TEventType : new(), EventBase Function GetEvent(Of TEventType As {New, EventBase}) As TEventType
 ##Type Parameters
@@ -29,7 +27,6 @@ Type: TEventType
 An instance of an event object of type TEventType.
 
 ## See Also
-
 
 
 [IEventAggregator Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventaggregator)

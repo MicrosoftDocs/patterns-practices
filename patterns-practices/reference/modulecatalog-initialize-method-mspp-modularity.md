@@ -5,37 +5,31 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.Initialize'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405880(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleCatalog.Initialize Method
-===================================
+# ModuleCatalog.Initialize Method
 
 Initializes the catalog, which may load and validate the modules.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public virtual void Initialize()Public Overridable Sub Initialize
 ### Implements
 
 [IModuleCatalog.Initialize()()()](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog.initialize)
 
-Exceptions
-----------
+## Exceptions
 
 <span id="exceptionsToggle"></span>
 | Exception                                                                                                                                             | Condition                                                                                                                                                                                                                                                            |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Microsoft.Practices.Prism.Modularity.ModularityException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception) | When validation of the [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) fails, because this method calls [Validate()()()](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog.validate). |
 
-See Also
---------
-
+## See Also
 
 [ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 

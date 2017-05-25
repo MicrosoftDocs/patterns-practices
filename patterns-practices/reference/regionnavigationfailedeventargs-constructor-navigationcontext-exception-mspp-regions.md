@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationFailedEventArgs
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405704(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionNavigationFailedEventArgs Constructor (NavigationContext, Exception)
-==========================================================================
+# RegionNavigationFailedEventArgs Constructor (NavigationContext, Exception)
 
 Initializes a new instance of the [RegionNavigationFailedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public RegionNavigationFailedEventArgs( NavigationContext navigationContext, Exception error )Public Sub New ( navigationContext As NavigationContext, error As Exception )
 
@@ -32,9 +29,7 @@ error
 Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 The error.
 
-See Also
---------
-
+## See Also
 
 [RegionNavigationFailedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs)
 

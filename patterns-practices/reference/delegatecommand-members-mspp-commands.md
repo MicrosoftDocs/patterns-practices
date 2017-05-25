@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Commands.DelegateCommand'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430761(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DelegateCommand Members
-=======================
+# DelegateCommand Members
 
 The [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -43,8 +40,7 @@ Creates a new instance of <a href="https://msdn.microsoft.com/library/microsoft.
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -180,8 +176,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Fields
-------
+## Fields
 
 <span id="fieldTableToggle"></span>
 |                                                                                                | Name                                                                                                                        | Description                                                                                                                  |
@@ -189,8 +184,7 @@ Fields
 | ![](https://msdn.microsoft.com/en-us/Gg430761.protfield(en-us,PandP.50).gif "Protected field") | [\_canExecuteMethod](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase._canexecutemethod) | (Inherited from [DelegateCommandBase](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase).) |
 | ![](https://msdn.microsoft.com/en-us/Gg430761.protfield(en-us,PandP.50).gif "Protected field") | [\_executeMethod](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase._executemethod)       | (Inherited from [DelegateCommandBase](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase).) |
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -214,8 +208,7 @@ Gets or sets a value indicating whether the object is active.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -247,9 +240,7 @@ Fired if the <a href="https://msdn.microsoft.com/library/microsoft.practices.pri
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
 
