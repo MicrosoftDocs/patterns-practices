@@ -7,16 +7,12 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736293(v=PandP.50)'
 
 Prism Class Library
 
-EventAggregator Methods
-=======================
+# EventAggregator Methods
 
+The [EventAggregator](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventaggregator(v=pandp.50)) type exposes the following members.
 
-The [EventAggregator](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventaggregator) type exposes the following members.
+## Methods
 
-Methods
--------
-
-<span id="methodTableToggle"></span>
 <table>
 <colgroup>
 <col width="33%" />
@@ -89,10 +85,8 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
-<span id="seeAlsoToggle"></span>
-[EventAggregator Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.eventaggregator)
+[EventAggregator Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventaggregator(v=pandp.50))
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
