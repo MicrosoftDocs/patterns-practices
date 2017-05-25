@@ -11,19 +11,39 @@ The [NavigationResult](https://msdn.microsoft.com/en-us/library/microsoft.practi
 
 ## Properties
 
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Gg431207.pubproperty(en-us,PandP.50).gif "Public property")
-[Context](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult.context(v=pandp.50))
+<table>
+
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431207.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.context">Context</a></td>
+<td><div class="summary">
 Gets the navigation context.
-
-![](https://msdn.microsoft.com/en-us/Gg431207.pubproperty(en-us,PandP.50).gif "Public property")
-[Error](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult.error(v=pandp.50))
+</div></td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431207.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.error">Error</a></td>
+<td><div class="summary">
 Gets an exception that occurred while navigating.
-
-![](https://msdn.microsoft.com/en-us/Gg431207.pubproperty(en-us,PandP.50).gif "Public property")
-[Result](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult.result(v=pandp.50))
+</div></td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431207.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.result">Result</a></td>
+<td><div class="summary">
 Gets the result.
+</div></td>
+</tr>
+</tbody>
+</table>
 
 ## See Also
 

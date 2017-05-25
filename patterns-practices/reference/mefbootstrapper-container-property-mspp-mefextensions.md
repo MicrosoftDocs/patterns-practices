@@ -7,28 +7,31 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431262(v=PandP.50)'
 
 Prism Class Library
 
-MefBootstrapper..::.Container Property
+MefBootstrapper.Container Property
 ======================================
 
-Gets or sets the default [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553) for the application.
+Gets or sets the default [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553) for the application.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
-<span id="syntaxToggle"></span>protected CompositionContainer Container { get; set; }Protected Property Container As CompositionContainer Get Set
-#### Property Value
+**Version:** 5.0.0.0 (5.0.0.0)
 
-Type: [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553)
-The default [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553) instance.
+## Syntax
+
+
+protected CompositionContainer Container { get; set; }Protected Property Container As CompositionContainer Get Set
+### Property Value
+
+Type: [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553)
+The default [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553) instance.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[MefBootstrapper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.mefbootstrapper)
+
+[MefBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper)
 
 [MefBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.mefbootstrapper)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
+[Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)

@@ -7,30 +7,33 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736307(v=PandP.50)'
 
 Prism Class Library
 
-RegionNavigationJournalEntry..::.Parameters Property
+RegionNavigationJournalEntry.Parameters Property
 ====================================================
 
 Gets or sets the NavigationParameters instance.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public NavigationParameters Parameters { get; set; }Public Property Parameters As NavigationParameters Get Set
-#### Property Value
+**Version:** 5.0.0.0 (5.0.0.0)
 
-Type: [NavigationParameters](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters)
-#### Implements
+## Syntax
 
-[IRegionNavigationJournalEntry..::.Parameters](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionnavigationjournalentry.parameters)
+
+public NavigationParameters Parameters { get; set; }Public Property Parameters As NavigationParameters Get Set
+### Property Value
+
+Type: [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
+### Implements
+
+[IRegionNavigationJournalEntry.Parameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry.parameters)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[RegionNavigationJournalEntry Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournalentry)
+
+[RegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry)
 
 [RegionNavigationJournalEntry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationjournalentry)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -9,12 +9,13 @@ Prism Class Library
 
 # InteractionRequest&lt;T&gt;.Raise Method (T)
 
-
 Fires the Raised event.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -24,7 +25,8 @@ public void Raise(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *context*  
 
@@ -42,19 +44,17 @@ public void Raise(
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
 
-
-
-
 Prism Class Library
 
 # InteractionRequest(Of T).Raise Method (T)
-
 
 Fires the Raised event.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -65,7 +65,8 @@ Public Sub Raise (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 context  
 Type: [T](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50))
@@ -75,7 +76,6 @@ The context for the interaction request.
 ## See Also
 
 
-<span id="seeAlsoToggle"></span>
 [InteractionRequest(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50))
 
 [InteractionRequest(Of T) Members](https://msdn.microsoft.com/en-us/library/gg430785(v=pandp.50))

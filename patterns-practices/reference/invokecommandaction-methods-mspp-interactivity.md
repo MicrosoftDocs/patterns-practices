@@ -15,253 +15,405 @@ The [InvokeCommandAction](https://msdn.microsoft.com/en-us/library/microsoft.pra
 Methods
 -------
 
-<span id="methodTableToggle"></span>
- 
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[ApplyAnimationClock(DependencyProperty, AnimationClock)](http://msdn2.microsoft.com/en-us/library/ms590752)
-Applies an [AnimationClock](http://msdn2.microsoft.com/en-us/library/ms618394) to the specified [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318). If the property is already animated, the [SnapshotAndReplace](http://msdn2.microsoft.com/en-us/library/ms596029) handoff behavior is used.
+<table>
 
-(Inherited from [Animatable](http://msdn2.microsoft.com/en-us/library/ms618388).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[ApplyAnimationClock(DependencyProperty, AnimationClock, HandoffBehavior)](http://msdn2.microsoft.com/en-us/library/ms590755)
-Applies an [AnimationClock](http://msdn2.microsoft.com/en-us/library/ms618394) to the specified [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318). If the property is already animated, the specified [HandoffBehavior](http://msdn2.microsoft.com/en-us/library/ms596029) is used.
-
-(Inherited from [Animatable](http://msdn2.microsoft.com/en-us/library/ms618388).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-Attach
-(Inherited from TriggerAction.)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[BeginAnimation(DependencyProperty, AnimationTimeline)](http://msdn2.microsoft.com/en-us/library/ms590761)
-Applies an animation to the specified [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318). The animation is started when the next frame is rendered. If the specified property is already animated, the [SnapshotAndReplace](http://msdn2.microsoft.com/en-us/library/ms596029) handoff behavior is used.
-
-(Inherited from [Animatable](http://msdn2.microsoft.com/en-us/library/ms618388).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[BeginAnimation(DependencyProperty, AnimationTimeline, HandoffBehavior)](http://msdn2.microsoft.com/en-us/library/ms590757)
-Applies an animation to the specified [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318). The animation is started when the next frame is rendered. If the specified property is already animated, the specified [HandoffBehavior](http://msdn2.microsoft.com/en-us/library/ms596029) is used.
-
-(Inherited from [Animatable](http://msdn2.microsoft.com/en-us/library/ms618388).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[CheckAccess](http://msdn2.microsoft.com/en-us/library/ms591167)
-Determines whether the calling thread has access to this [DispatcherObject](http://msdn2.microsoft.com/en-us/library/ms615925).
-
-(Inherited from [DispatcherObject](http://msdn2.microsoft.com/en-us/library/ms615925).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[ClearValue(DependencyProperty)](http://msdn2.microsoft.com/en-us/library/ms597464)
-Clears the local value of a property. The property to be cleared is specified by a [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318) identifier.
-
-(Inherited from [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[ClearValue(DependencyPropertyKey)](http://msdn2.microsoft.com/en-us/library/ms597465)
-Clears the local value of a read-only property. The property to be cleared is specified by a [DependencyPropertyKey](http://msdn2.microsoft.com/en-us/library/ms602348).
-
-(Inherited from [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[Clone](http://msdn2.microsoft.com/en-us/library/ms590765)
-Creates a modifiable clone of this [Animatable](http://msdn2.microsoft.com/en-us/library/ms618388), making deep copies of this object's values. When copying this object's dependency properties, this method copies resource references and data bindings (but they might no longer resolve) but not animations or their current values.
-
-(Inherited from [Animatable](http://msdn2.microsoft.com/en-us/library/ms618388).)
-![](https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif "Protected method")
-[CloneCore](http://msdn2.microsoft.com/en-us/library/ms557724)
-Makes the instance a clone (deep copy) of the specified [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734) using base (non-animated) property values.
-
-(Inherited from [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[CloneCurrentValue](http://msdn2.microsoft.com/en-us/library/ms557727)
-Creates a modifiable clone (deep copy) of the [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734) using its current values.
-
-(Inherited from [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734).)
-![](https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif "Protected method")
-[CloneCurrentValueCore](http://msdn2.microsoft.com/en-us/library/ms557729)
-Makes the instance a modifiable clone (deep copy) of the specified [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734) using current property values.
-
-(Inherited from [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[CoerceValue](http://msdn2.microsoft.com/en-us/library/ms597466)
-Coerces the value of the specified dependency property. This is accomplished by invoking any [CoerceValueCallback](http://msdn2.microsoft.com/en-us/library/ms589135) function specified in property metadata for the dependency property as it exists on the calling [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309).
-
-(Inherited from [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309).)
-![](https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif "Protected method")
-[CreateInstance](http://msdn2.microsoft.com/en-us/library/ms557732)
-Initializes a new instance of the [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734) class.
-
-(Inherited from [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734).)
-![](https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif "Protected method")
-CreateInstanceCore
-(Inherited from TriggerAction.)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-Detach
-(Inherited from TriggerAction.)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[Equals](http://msdn2.microsoft.com/en-us/library/aa345743)
-Determines whether a provided [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309) is equivalent to the current [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309).
-
-(Inherited from [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309).)
-![](https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif "Protected method")
-[Finalize](http://msdn2.microsoft.com/en-us/library/4k87zsw7)
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms590752">ApplyAnimationClock(DependencyProperty, AnimationClock)</a></td>
+<td><div class="summary">
+Applies an <a href="http://msdn.microsoft.com/en-us/library/ms618394">AnimationClock</a> to the specified <a href="http://msdn.microsoft.com/en-us/library/ms589318">DependencyProperty</a>. If the property is already animated, the <a href="http://msdn.microsoft.com/en-us/library/ms596029">SnapshotAndReplace</a> handoff behavior is used.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms590755">ApplyAnimationClock(DependencyProperty, AnimationClock, HandoffBehavior)</a></td>
+<td><div class="summary">
+Applies an <a href="http://msdn.microsoft.com/en-us/library/ms618394">AnimationClock</a> to the specified <a href="http://msdn.microsoft.com/en-us/library/ms589318">DependencyProperty</a>. If the property is already animated, the specified <a href="http://msdn.microsoft.com/en-us/library/ms596029">HandoffBehavior</a> is used.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>Attach</td>
+<td>(Inherited from TriggerAction.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms590761">BeginAnimation(DependencyProperty, AnimationTimeline)</a></td>
+<td><div class="summary">
+Applies an animation to the specified <a href="http://msdn.microsoft.com/en-us/library/ms589318">DependencyProperty</a>. The animation is started when the next frame is rendered. If the specified property is already animated, the <a href="http://msdn.microsoft.com/en-us/library/ms596029">SnapshotAndReplace</a> handoff behavior is used.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms590757">BeginAnimation(DependencyProperty, AnimationTimeline, HandoffBehavior)</a></td>
+<td><div class="summary">
+Applies an animation to the specified <a href="http://msdn.microsoft.com/en-us/library/ms589318">DependencyProperty</a>. The animation is started when the next frame is rendered. If the specified property is already animated, the specified <a href="http://msdn.microsoft.com/en-us/library/ms596029">HandoffBehavior</a> is used.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms591167">CheckAccess</a></td>
+<td><div class="summary">
+Determines whether the calling thread has access to this <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms597464">ClearValue(DependencyProperty)</a></td>
+<td><div class="summary">
+Clears the local value of a property. The property to be cleared is specified by a <a href="http://msdn.microsoft.com/en-us/library/ms589318">DependencyProperty</a> identifier.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms597465">ClearValue(DependencyPropertyKey)</a></td>
+<td><div class="summary">
+Clears the local value of a read-only property. The property to be cleared is specified by a <a href="http://msdn.microsoft.com/en-us/library/ms602348">DependencyPropertyKey</a>.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms590765">Clone</a></td>
+<td><div class="summary">
+Creates a modifiable clone of this <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>, making deep copies of this object's values. When copying this object's dependency properties, this method copies resource references and data bindings (but they might no longer resolve) but not animations or their current values.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms557724">CloneCore</a></td>
+<td><div class="summary">
+Makes the instance a clone (deep copy) of the specified <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> using base (non-animated) property values.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms557727">CloneCurrentValue</a></td>
+<td><div class="summary">
+Creates a modifiable clone (deep copy) of the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> using its current values.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms557729">CloneCurrentValueCore</a></td>
+<td><div class="summary">
+Makes the instance a modifiable clone (deep copy) of the specified <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> using current property values.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms597466">CoerceValue</a></td>
+<td><div class="summary">
+Coerces the value of the specified dependency property. This is accomplished by invoking any <a href="http://msdn.microsoft.com/en-us/library/ms589135">CoerceValueCallback</a> function specified in property metadata for the dependency property as it exists on the calling <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms557732">CreateInstance</a></td>
+<td><div class="summary">
+Initializes a new instance of the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> class.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>CreateInstanceCore</td>
+<td>(Inherited from TriggerAction.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>Detach</td>
+<td>(Inherited from TriggerAction.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/aa345743">Equals</a></td>
+<td><div class="summary">
+Determines whether a provided <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a> is equivalent to the current <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/4k87zsw7">Finalize</a></td>
+<td><div class="summary">
 Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
-
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[Freeze](http://msdn2.microsoft.com/en-us/library/ms557735)
-Makes the current object unmodifiable and sets its [IsFrozen](http://msdn2.microsoft.com/en-us/library/ms600924) property to true.
-
-(Inherited from [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734).)
-![](https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif "Protected method")
-[FreezeCore](http://msdn2.microsoft.com/en-us/library/ms590769)
-Makes this [Animatable](http://msdn2.microsoft.com/en-us/library/ms618388) object unmodifiable or determines whether it can be made unmodifiable.
-
-(Inherited from [Animatable](http://msdn2.microsoft.com/en-us/library/ms618388).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[GetAnimationBaseValue](http://msdn2.microsoft.com/en-us/library/ms590770)
-Returns the non-animated value of the specified [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318).
-
-(Inherited from [Animatable](http://msdn2.microsoft.com/en-us/library/ms618388).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[GetAsFrozen](http://msdn2.microsoft.com/en-us/library/ms557740)
-Creates a frozen copy of the [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734), using base (non-animated) property values. Because the copy is frozen, any frozen sub-objects are copied by reference.
-
-(Inherited from [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734).)
-![](https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif "Protected method")
-[GetAsFrozenCore](http://msdn2.microsoft.com/en-us/library/ms557742)
-Makes the instance a frozen clone of the specified [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734) using base (non-animated) property values.
-
-(Inherited from [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[GetCurrentValueAsFrozen](http://msdn2.microsoft.com/en-us/library/ms557743)
-Creates a frozen copy of the [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734) using current property values. Because the copy is frozen, any frozen sub-objects are copied by reference.
-
-(Inherited from [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734).)
-![](https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif "Protected method")
-[GetCurrentValueAsFrozenCore](http://msdn2.microsoft.com/en-us/library/ms557745)
-Makes the current instance a frozen clone of the specified [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734). If the object has animated dependency properties, their current animated values are copied.
-
-(Inherited from [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[GetHashCode](http://msdn2.microsoft.com/en-us/library/aa345744)
-Gets a hash code for this [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309).
-
-(Inherited from [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[GetLocalValueEnumerator](http://msdn2.microsoft.com/en-us/library/ms597467)
-Creates a specialized enumerator for determining which dependency properties have locally set values on this [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309).
-
-(Inherited from [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[GetType](http://msdn2.microsoft.com/en-us/library/dfwy45w9)
-Gets the [Type](http://msdn2.microsoft.com/en-us/library/42892f65) of the current instance.
-
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[GetValue](http://msdn2.microsoft.com/en-us/library/ms597469)
-Returns the current effective value of a dependency property on this instance of a [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309).
-
-(Inherited from [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[InvalidateProperty](http://msdn2.microsoft.com/en-us/library/ms597470)
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms557735">Freeze</a></td>
+<td><div class="summary">
+Makes the current object unmodifiable and sets its <a href="http://msdn.microsoft.com/en-us/library/ms600924">IsFrozen</a> property to true.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms590769">FreezeCore</a></td>
+<td><div class="summary">
+Makes this <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a> object unmodifiable or determines whether it can be made unmodifiable.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms590770">GetAnimationBaseValue</a></td>
+<td><div class="summary">
+Returns the non-animated value of the specified <a href="http://msdn.microsoft.com/en-us/library/ms589318">DependencyProperty</a>.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms557740">GetAsFrozen</a></td>
+<td><div class="summary">
+Creates a frozen copy of the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>, using base (non-animated) property values. Because the copy is frozen, any frozen sub-objects are copied by reference.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms557742">GetAsFrozenCore</a></td>
+<td><div class="summary">
+Makes the instance a frozen clone of the specified <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> using base (non-animated) property values.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms557743">GetCurrentValueAsFrozen</a></td>
+<td><div class="summary">
+Creates a frozen copy of the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> using current property values. Because the copy is frozen, any frozen sub-objects are copied by reference.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms557745">GetCurrentValueAsFrozenCore</a></td>
+<td><div class="summary">
+Makes the current instance a frozen clone of the specified <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>. If the object has animated dependency properties, their current animated values are copied.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/aa345744">GetHashCode</a></td>
+<td><div class="summary">
+Gets a hash code for this <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms597467">GetLocalValueEnumerator</a></td>
+<td><div class="summary">
+Creates a specialized enumerator for determining which dependency properties have locally set values on this <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/dfwy45w9">GetType</a></td>
+<td><div class="summary">
+Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms597469">GetValue</a></td>
+<td><div class="summary">
+Returns the current effective value of a dependency property on this instance of a <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms597470">InvalidateProperty</a></td>
+<td><div class="summary">
 Re-evaluates the effective value for the specified dependency property
-
-(Inherited from [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309).)
-![](https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif "Protected method")
-[Invoke](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.invoke(v=pandp.50))
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.invoke(system.object)">Invoke</a></td>
+<td><div class="summary">
 Executes the command
-
-(Overrides TriggerActionInvoke(Object).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[InvokeAction](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.invokeaction(v=pandp.50))
+</div>
+(Overrides TriggerActionInvoke(Object).)</td>
+</tr>
+<tr class="even">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.invokeaction(system.object)">InvokeAction</a></td>
+<td><div class="summary">
 Public wrapper of the Invoke method.
-
-![](https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif "Protected method")
-[MemberwiseClone](http://msdn2.microsoft.com/en-us/library/57ctke0a)
-Creates a shallow copy of the current [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).
-
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
-![](https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif "Protected method")
-[OnAttached](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.onattached(v=pandp.50))
+</div></td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/57ctke0a">MemberwiseClone</a></td>
+<td><div class="summary">
+Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.onattached">OnAttached</a></td>
+<td><div class="summary">
 This method is called after the behavior is attached. It updates the command behavior's Command and CommandParameter properties if necessary.
-
-(Overrides TriggerActionOnAttached().)
-![](https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif "Protected method")
-[OnChanged](http://msdn2.microsoft.com/en-us/library/ms557749)
-Called when the current [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734) object is modified.
-
-(Inherited from [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734).)
-![](https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif "Protected method")
-[OnDetaching](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.ondetaching(v=pandp.50))
+</div>
+(Overrides TriggerActionOnAttached()()().)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms557749">OnChanged</a></td>
+<td><div class="summary">
+Called when the current <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> object is modified.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.ondetaching">OnDetaching</a></td>
+<td><div class="summary">
 Sets the Command and CommandParameter properties to null.
-
-(Overrides TriggerActionOnDetaching().)
-![](https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif "Protected method")
-[OnFreezablePropertyChanged(DependencyObject, DependencyObject)](http://msdn2.microsoft.com/en-us/library/aa345824)
-Ensures that appropriate context pointers are established for a [DependencyObjectType](http://msdn2.microsoft.com/en-us/library/ms589310) data member that has just been set.
-
-(Inherited from [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734).)
-![](https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif "Protected method")
-[OnFreezablePropertyChanged(DependencyObject, DependencyObject, DependencyProperty)](http://msdn2.microsoft.com/en-us/library/aa345825)
+</div>
+(Overrides TriggerActionOnDetaching()()().)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/aa345824">OnFreezablePropertyChanged(DependencyObject, DependencyObject)</a></td>
+<td><div class="summary">
+Ensures that appropriate context pointers are established for a <a href="http://msdn.microsoft.com/en-us/library/ms589310">DependencyObjectType</a> data member that has just been set.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/aa345825">OnFreezablePropertyChanged(DependencyObject, DependencyObject, DependencyProperty)</a></td>
+<td><div class="summary">
 This member supports the Windows Presentation Foundation (WPF) infrastructure and is not intended to be used directly from your code.
-
-(Inherited from [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734).)
-![](https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif "Protected method")
-[OnPropertyChanged](http://msdn2.microsoft.com/en-us/library/ms557754)
-Overrides the [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309) implementation of [OnPropertyChanged(DependencyPropertyChangedEventArgs)](http://msdn2.microsoft.com/en-us/library/ms597471) to also invoke any [Changed](http://msdn2.microsoft.com/en-us/library/ms596566) handlers in response to a changing dependency property of type [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734).
-
-(Inherited from [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[ReadLocalValue](http://msdn2.microsoft.com/en-us/library/ms597472)
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms557754">OnPropertyChanged</a></td>
+<td><div class="summary">
+Overrides the <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a> implementation of <a href="http://msdn.microsoft.com/en-us/library/ms597471">OnPropertyChanged(DependencyPropertyChangedEventArgs)</a> to also invoke any <a href="http://msdn.microsoft.com/en-us/library/ms596566">Changed</a> handlers in response to a changing dependency property of type <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms597472">ReadLocalValue</a></td>
+<td><div class="summary">
 Returns the local value of a dependency property, if it exists.
-
-(Inherited from [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309).)
-![](https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif "Protected method")
-[ReadPreamble](http://msdn2.microsoft.com/en-us/library/ms557756)
-Ensures that the [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734) is being accessed from a valid thread. Inheritors of [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734) must call this method at the beginning of any API that reads data members that are not dependency properties.
-
-(Inherited from [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[SetCurrentValue](http://msdn2.microsoft.com/en-us/library/dd549644)
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms557756">ReadPreamble</a></td>
+<td><div class="summary">
+Ensures that the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> is being accessed from a valid thread. Inheritors of <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> must call this method at the beginning of any API that reads data members that are not dependency properties.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/dd549644">SetCurrentValue</a></td>
+<td><div class="summary">
 Sets the value of a dependency property without changing its value source.
-
-(Inherited from [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[SetValue(DependencyProperty, Object)](http://msdn2.microsoft.com/en-us/library/ms597473)
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms597473">SetValue(DependencyProperty, Object)</a></td>
+<td><div class="summary">
 Sets the local value of a dependency property, specified by its dependency property identifier.
-
-(Inherited from [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[SetValue(DependencyPropertyKey, Object)](http://msdn2.microsoft.com/en-us/library/ms597474)
-Sets the local value of a read-only dependency property, specified by the [DependencyPropertyKey](http://msdn2.microsoft.com/en-us/library/ms602348) identifier of the dependency property.
-
-(Inherited from [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309).)
-![](https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif "Protected method")
-[ShouldSerializeProperty](http://msdn2.microsoft.com/en-us/library/ms597475)
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms597474">SetValue(DependencyPropertyKey, Object)</a></td>
+<td><div class="summary">
+Sets the local value of a read-only dependency property, specified by the <a href="http://msdn.microsoft.com/en-us/library/ms602348">DependencyPropertyKey</a> identifier of the dependency property.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms597475">ShouldSerializeProperty</a></td>
+<td><div class="summary">
 Returns a value that indicates whether serialization processes should serialize the value for the provided dependency property.
-
-(Inherited from [DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[ToString](http://msdn2.microsoft.com/en-us/library/7bxwbwt2)
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">ToString</a></td>
+<td><div class="summary">
 Returns a string that represents the current object.
-
-(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
-![](https://msdn.microsoft.com/en-us/Dn683950.pubmethod(en-us,PandP.50).gif "Public method")
-[VerifyAccess](http://msdn2.microsoft.com/en-us/library/ms591169)
-Enforces that the calling thread has access to this [DispatcherObject](http://msdn2.microsoft.com/en-us/library/ms615925).
-
-(Inherited from [DispatcherObject](http://msdn2.microsoft.com/en-us/library/ms615925).)
-![](https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif "Protected method")
-[WritePostscript](http://msdn2.microsoft.com/en-us/library/ms557762)
-Raises the [Changed](http://msdn2.microsoft.com/en-us/library/ms596566) event for the [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734) and invokes its [OnChanged()](http://msdn2.microsoft.com/en-us/library/ms557749) method. Classes that derive from [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734) should call this method at the end of any API that modifies class members that are not stored as dependency properties.
-
-(Inherited from [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734).)
-![](https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif "Protected method")
-[WritePreamble](http://msdn2.microsoft.com/en-us/library/ms557763)
-Verifies that the [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734) is not frozen and that it is being accessed from a valid threading context. [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734) inheritors should call this method at the beginning of any API that writes to data members that are not dependency properties.
-
-(Inherited from [Freezable](http://msdn2.microsoft.com/en-us/library/ms602734).)
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms591169">VerifyAccess</a></td>
+<td><div class="summary">
+Enforces that the calling thread has access to this <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms557762">WritePostscript</a></td>
+<td><div class="summary">
+Raises the <a href="http://msdn.microsoft.com/en-us/library/ms596566">Changed</a> event for the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> and invokes its <a href="http://msdn.microsoft.com/en-us/library/ms557749">OnChanged()()()</a> method. Classes that derive from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> should call this method at the end of any API that modifies class members that are not stored as dependency properties.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Dn683950.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms557763">WritePreamble</a></td>
+<td><div class="summary">
+Verifies that the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> is not frozen and that it is being accessed from a valid threading context. <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> inheritors should call this method at the beginning of any API that writes to data members that are not dependency properties.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+</tr>
+</tbody>
+</table>
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [InvokeCommandAction Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50))
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))

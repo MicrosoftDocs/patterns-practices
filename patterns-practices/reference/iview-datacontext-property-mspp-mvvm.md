@@ -7,25 +7,26 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736272(v=PandP.50)'
 
 Prism Class Library
 
-IView..::.DataContext Property
+IView.DataContext Property
 ==============================
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/n:microsoft.practices.prism.mvvm)
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
 
-<span id="syntaxToggle"></span>Object DataContext { get; set; }Property DataContext As Object Get Set
-#### Property Value
+## Syntax
 
-Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+
+Object DataContext { get; set; }Property DataContext As Object Get Set
+### Property Value
+
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[IView Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.mvvm.iview)
+
+[IView Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.iview)
 
 [IView Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mvvm.iview)
 
-[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mvvm)
+[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)

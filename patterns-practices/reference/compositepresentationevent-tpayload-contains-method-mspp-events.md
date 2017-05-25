@@ -7,7 +7,6 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419056(v=PandP.50)'
 
 # CompositePresentationEvent(Of TPayload).Contains Method 
 
-
 ## Overload List
 
 <table>
@@ -26,7 +25,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419056(v=PandP.50)'
 <tr>
   <td>
       
-![](https://msdn.microsoft.com/en-us/Gg419056.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
   </td>
   <td>
     Contains(SubscriptionToken)
@@ -36,14 +35,14 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419056(v=PandP.50)'
 <tr>
   <td>
     
-![](https://msdn.microsoft.com/en-us/Gg419056.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
   </td>
   <td>
     <a href="https://msdn.microsoft.com/en-us/library/gg405766(v=pandp.50)">Contains(Action(Of TPayload))</a>
   </td>
   <td>
     <div>
-Returns <strong>Truetrue</strong> (<strong>True</strong> in Visual Basic) if there is a subscriber matching <a href="http://msdn2.microsoft.com/en-us/library/018hxwa8" target="_blank">Action(Of T)</a>.
+Returns <strong>Truetrue</strong> (<strong>True</strong> in Visual Basic) if there is a subscriber matching <a href="http://msdn.microsoft.com/en-us/library/018hxwa8" target="_blank">Action(Of T)</a>.
 </div>
   </td>
 </tr>
@@ -57,5 +56,4 @@ Returns <strong>Truetrue</strong> (<strong>True</strong> in Visual Basic) if the
 [CompositePresentationEvent(Of TPayload) Members](https://msdn.microsoft.com/en-us/library/gg430765(v=pandp.50))
 
 [Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
-
 

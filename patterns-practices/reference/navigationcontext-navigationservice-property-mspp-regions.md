@@ -7,28 +7,31 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431359(v=PandP.50)'
 
 Prism Class Library
 
-NavigationContext..::.NavigationService Property
+NavigationContext.NavigationService Property
 ================================================
 
 Gets the region navigation service.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public IRegionNavigationService NavigationService { get; }Public ReadOnly Property NavigationService As IRegionNavigationService Get
-#### Property Value
+**Version:** 5.0.0.0 (5.0.0.0)
 
-Type: [IRegionNavigationService](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationservice)
+## Syntax
+
+
+public IRegionNavigationService NavigationService { get; }Public ReadOnly Property NavigationService As IRegionNavigationService Get
+### Property Value
+
+Type: [IRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice)
 The navigation service.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[NavigationContext Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)
+
+[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 
 [NavigationContext Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationcontext)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

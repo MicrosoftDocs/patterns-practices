@@ -10,21 +10,24 @@ Prism Class Library
 TraceLogger Constructor
 =======================
 
-Initializes a new instance of the [TraceLogger](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.tracelogger) class
+Initializes a new instance of the [TraceLogger](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.tracelogger) class
 
-**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/n:microsoft.practices.prism.logging)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public TraceLogger()Public Sub New
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public TraceLogger()Public Sub New
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[TraceLogger Class](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.tracelogger)
+
+[TraceLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.tracelogger)
 
 [TraceLogger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.logging.tracelogger)
 
-[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.logging)
+[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)

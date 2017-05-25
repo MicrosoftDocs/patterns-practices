@@ -7,20 +7,15 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736276(v=PandP.50)'
 
 Prism Class Library
 
-RegionNavigationService..::.RequestNavigate Method
+RegionNavigationService.RequestNavigate Method
 ==================================================
-
 
 Overload List
 -------------
 
 <span id="overloadMembersTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -30,15 +25,15 @@ Overload List
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736276.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionnavigationservice.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))</a></td>
 <td><div class="summary">
 Initiates navigation to the specified target.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736276.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionnavigationservice.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d%2cmicrosoft.practices.prism.regions.navigationparameters)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d%2cmicrosoft.practices.prism.regions.navigationparameters)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)</a></td>
 <td><div class="summary">
 Initiates navigation to the specified target.
 </div></td>
@@ -49,9 +44,9 @@ Initiates navigation to the specified target.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[RegionNavigationService Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationservice)
+
+[RegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice)
 
 [RegionNavigationService Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationservice)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

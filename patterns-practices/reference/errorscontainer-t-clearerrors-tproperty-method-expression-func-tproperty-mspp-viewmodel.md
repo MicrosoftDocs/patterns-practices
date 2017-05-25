@@ -23,11 +23,12 @@ public void ClearErrors<TProperty>(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *propertyExpression*
 
-	Type: [System.Linq.Expressions.Expression](http://msdn2.microsoft.com/en-us/library/bb335710)<[Func](http://msdn2.microsoft.com/en-us/library/bb534960)<TProperty>>
+	Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)<[Func](http://msdn.microsoft.com/en-us/library/bb534960)<TProperty>>
 	The expression indicating a property.
 	
 ### Type Parameters
@@ -45,8 +46,6 @@ container.ClearErrors(()=>SomeProperty);
 [ClearErrors Overload](https://msdn.microsoft.com/en-us/library/gg419151(v=pandp.50))<br/>
 [Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
 
-
-
 # ErrorsContainer(Of T).ClearErrors(Of TProperty) Method (Expression(Of Func(Of TProperty)))
 
 Clears the errors for the property indicated by the property expression.
@@ -57,7 +56,6 @@ Clears the errors for the property indicated by the property expression.
 
 ## Syntax
 
-
 ```VB
 'Declaration
 Public Sub ClearErrors(Of TProperty) ( 
@@ -65,11 +63,12 @@ Public Sub ClearErrors(Of TProperty) (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *propertyExpression*  
 
-	Type: [System.Linq.Expressions.Expression](http://msdn2.microsoft.com/en-us/library/bb335710)(Of [Func](http://msdn2.microsoft.com/en-us/library/bb534960)(Of TProperty))
+	Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)(Of [Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of TProperty))
 
 	The expression indicating a property.
 
@@ -85,7 +84,7 @@ container.ClearErrors(()=&gt;SomeProperty);
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [ErrorsContainer(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))
 
 [ErrorsContainer(Of T) Members](https://msdn.microsoft.com/en-us/library/gg405531(v=pandp.50))

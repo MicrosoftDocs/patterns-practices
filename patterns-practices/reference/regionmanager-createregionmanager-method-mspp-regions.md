@@ -7,31 +7,34 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418960(v=PandP.50)'
 
 Prism Class Library
 
-RegionManager..::.CreateRegionManager Method
+RegionManager.CreateRegionManager Method
 ============================================
 
 Creates a new region manager.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public IRegionManager CreateRegionManager()Public Function CreateRegionManager As IRegionManager
-#### Return Value
+**Version:** 5.0.0.0 (5.0.0.0)
 
-Type: [IRegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanager)
+## Syntax
+
+
+public IRegionManager CreateRegionManager()Public Function CreateRegionManager As IRegionManager
+### Return Value
+
+Type: [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager)
 A new region manager that can be used as a different scope from the current region manager.
-#### Implements
+### Implements
 
-[IRegionManager..::.CreateRegionManager()()()](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionmanager.createregionmanager)
+[IRegionManager.CreateRegionManager()()()](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager.createregionmanager)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[RegionManager Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanager)
+
+[RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)
 
 [RegionManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionmanager)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

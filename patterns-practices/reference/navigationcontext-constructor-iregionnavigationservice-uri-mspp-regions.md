@@ -10,34 +10,36 @@ Prism Class Library
 NavigationContext Constructor (IRegionNavigationService, Uri)
 =============================================================
 
-Initializes a new instance of the [NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext) class for a region name and a [Uri](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.navigationcontext.uri).
+Initializes a new instance of the [NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext) class for a region name and a [Uri](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.uri).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public NavigationContext( IRegionNavigationService navigationService, Uri uri )Public Sub New ( navigationService As IRegionNavigationService, uri As Uri )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public NavigationContext( IRegionNavigationService navigationService, Uri uri )Public Sub New ( navigationService As IRegionNavigationService, uri As Uri )
+
+### Parameters
 
 navigationService  
-Type: [Microsoft.Practices.Prism.Regions..::.IRegionNavigationService](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionnavigationservice)
+Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice)
 The navigation service.
 
-<!-- -->
-
 uri  
-Type: [System..::.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 The Uri.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[NavigationContext Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)
+
+[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 
 [NavigationContext Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationcontext)
 
 [NavigationContext Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.regions.navigationcontext.)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

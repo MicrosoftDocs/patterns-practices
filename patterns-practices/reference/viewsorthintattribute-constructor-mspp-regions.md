@@ -10,26 +10,30 @@ Prism Class Library
 ViewSortHintAttribute Constructor
 =================================
 
-Initializes a new instance of the [ViewSortHintAttribute](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewsorthintattribute) class.
+Initializes a new instance of the [ViewSortHintAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewsorthintattribute) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public ViewSortHintAttribute( string hint )Public Sub New ( hint As String )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public ViewSortHintAttribute( string hint )Public Sub New ( hint As String )
+
+### Parameters
 
 hint  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The hint to use for sorting.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[ViewSortHintAttribute Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewsorthintattribute)
+
+[ViewSortHintAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewsorthintattribute)
 
 [ViewSortHintAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewsorthintattribute)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

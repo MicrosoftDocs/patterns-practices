@@ -10,21 +10,24 @@ Prism Class Library
 SyncActiveStateAttribute Constructor
 ====================================
 
-Initializes a new instance of the [SyncActiveStateAttribute](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.syncactivestateattribute) class
+Initializes a new instance of the [SyncActiveStateAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute) class
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public SyncActiveStateAttribute()Public Sub New
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public SyncActiveStateAttribute()Public Sub New
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[SyncActiveStateAttribute Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.syncactivestateattribute)
+
+[SyncActiveStateAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute)
 
 [SyncActiveStateAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.syncactivestateattribute)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

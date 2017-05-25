@@ -10,14 +10,17 @@ Prism Class Library
 Category Enumeration
 ====================
 
-Defines values for the categories used by [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade).
+Defines values for the categories used by [ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade).
 
-**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/n:microsoft.practices.prism.logging)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public enum CategoryPublic Enumeration Category
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public enum CategoryPublic Enumeration Category
 
 Members
 -------
@@ -33,5 +36,5 @@ Members
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.logging)
+
+[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)

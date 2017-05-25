@@ -11,7 +11,9 @@ Initializes a new instance of the [NavigationResult](https://msdn.microsoft.com/
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -22,7 +24,8 @@ public NavigationResult(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *context*
 
@@ -31,7 +34,7 @@ public NavigationResult(
 
 *result*
 
-    Type: [System.Nullable](http://msdn2.microsoft.com/en-us/library/b3h38hb0)&lt;[Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)&gt;
+    Type: [System.Nullable](http://msdn.microsoft.com/en-us/library/b3h38hb0)&lt;[Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;
     The result.
 
 # NavigationResult Constructor (NavigationContext, Nullable(Of Boolean))
@@ -40,7 +43,9 @@ Initializes a new instance of the [NavigationResult](https://msdn.microsoft.com/
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -52,7 +57,8 @@ Public Sub New (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *context*
 
@@ -61,7 +67,7 @@ Public Sub New (
 
 *result*
 
-    Type: [System.Nullable](http://msdn2.microsoft.com/en-us/library/b3h38hb0)(Of [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50))
+    Type: [System.Nullable](http://msdn.microsoft.com/en-us/library/b3h38hb0)(Of [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50))
     The result.
 
 ## See Also

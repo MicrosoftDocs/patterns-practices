@@ -7,20 +7,15 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419078(v=PandP.50)'
 
 Prism Class Library
 
-AssemblyResolver..::.Dispose Method
+AssemblyResolver.Dispose Method
 ===================================
-
 
 Overload List
 -------------
 
 <span id="overloadMembersTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -30,17 +25,17 @@ Overload List
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419078.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.assemblyresolver.dispose">Dispose()()()</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver.dispose">Dispose()()()</a></td>
 <td><div class="summary">
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419078.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.assemblyresolver.dispose(system.boolean)">Dispose(Boolean)</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver.dispose(system.boolean)">Dispose(Boolean)</a></td>
 <td><div class="summary">
-Disposes the associated <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.assemblyresolver">AssemblyResolver</a>.
+Disposes the associated <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver">AssemblyResolver</a>.
 </div></td>
 </tr>
 </tbody>
@@ -49,9 +44,9 @@ Disposes the associated <a href="https://msdn.microsoft.com/t:microsoft.practice
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[AssemblyResolver Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.assemblyresolver)
+
+[AssemblyResolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver)
 
 [AssemblyResolver Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.assemblyresolver)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

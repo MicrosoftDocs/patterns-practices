@@ -10,19 +10,14 @@ Prism Class Library
 IAssemblyResolver Members
 =========================
 
-
-The [IAssemblyResolver](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.iassemblyresolver) type exposes the following members.
+The [IAssemblyResolver](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iassemblyresolver) type exposes the following members.
 
 Methods
 -------
 
 <span id="methodTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -32,8 +27,8 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430828.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.iassemblyresolver.loadassemblyfrom(system.string)">LoadAssemblyFrom</a></td>
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iassemblyresolver.loadassemblyfrom(system.string)">LoadAssemblyFrom</a></td>
 <td><div class="summary">
 Load an assembly when it's required by the application.
 </div></td>
@@ -44,7 +39,7 @@ Load an assembly when it's required by the application.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[IAssemblyResolver Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.iassemblyresolver)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[IAssemblyResolver Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iassemblyresolver)
+
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

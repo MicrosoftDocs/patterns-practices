@@ -7,28 +7,31 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431327(v=PandP.50)'
 
 Prism Class Library
 
-DelayedRegionCreationBehavior..::.RegionManagerAccessor Property
+DelayedRegionCreationBehavior.RegionManagerAccessor Property
 ================================================================
 
-Sets a class that interfaces between the [RegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanager) 's static properties/events and this behavior, so this behavior can be tested in isolation.
+Sets a class that interfaces between the [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager) 's static properties/events and this behavior, so this behavior can be tested in isolation.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public IRegionManagerAccessor RegionManagerAccessor { get; set; }Public Property RegionManagerAccessor As IRegionManagerAccessor Get Set
-#### Property Value
+**Version:** 5.0.0.0 (5.0.0.0)
 
-Type: [IRegionManagerAccessor](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iregionmanageraccessor)
+## Syntax
+
+
+public IRegionManagerAccessor RegionManagerAccessor { get; set; }Public Property RegionManagerAccessor As IRegionManagerAccessor Get Set
+### Property Value
+
+Type: [IRegionManagerAccessor](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor)
 The region manager accessor.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
+
+[DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
 
 [DelayedRegionCreationBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

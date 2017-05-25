@@ -7,9 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431082(v=PandP.50)'
 
 # INavigateAsync Methods
 
-
-
-The [INavigateAsync](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigateasync) type exposes the following members.
+The [INavigateAsync](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync) type exposes the following members.
 
 ## Methods
 
@@ -30,7 +28,7 @@ The [INavigateAsync](https://msdn.microsoft.com/t:microsoft.practices.prism.regi
 <tr>
   <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431082.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
     
   </td>
   <td>
@@ -38,21 +36,21 @@ The [INavigateAsync](https://msdn.microsoft.com/t:microsoft.practices.prism.regi
   </td>
   <td>
     <div>
-Initiates navigation to the target specified by the <a href="http://msdn2.microsoft.com/en-us/library/txt7706a" target="_blank">Uri</a>.
+Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a" target="_blank">Uri</a>.
 </div>
   </td>
 </tr>
 <tr>
   <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431082.pubmethod(en-us,PandP.50).gif "Public method")
+![](images/public-method.gif "Public method")
   </td>
   <td>
     <a href="https://msdn.microsoft.com/en-us/library/dn736274(v=pandp.50)">RequestNavigate(Uri, Action(Of NavigationResult), NavigationParameters)</a>
   </td>
   <td>
     <div>
-Initiates navigation to the target specified by the <a href="http://msdn2.microsoft.com/en-us/library/txt7706a" target="_blank">Uri</a>.
+Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a" target="_blank">Uri</a>.
 </div>
   </td>
 </tr>
@@ -97,7 +95,7 @@ Initiates navigation to the target specified by the target</span>.
 <a href="https://msdn.microsoft.com/en-us/library/gg405989(v=pandp.50)">RequestNavigate(Uri)</a>
 </td>
 <td>Overloaded.<div>
-Initiates navigation to the target specified by the <a href="http://msdn2.microsoft.com/en-us/library/txt7706a" target="_blank">Uri</a>.
+Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a" target="_blank">Uri</a>.
 </div> (Defined by <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions(v=pandp.50)">NavigationAsyncExtensions</a>.)</td>
 </tr>
 <tr>

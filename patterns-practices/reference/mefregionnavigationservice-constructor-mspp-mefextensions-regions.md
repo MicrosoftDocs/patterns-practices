@@ -7,11 +7,13 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405601(v=PandP.50)'
 
 # MefRegionNavigationService Constructor
 
-Initializes a new instance of the [MefRegionNavigationService](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice) class.
+Initializes a new instance of the [MefRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice) class.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -33,7 +35,8 @@ Public Sub New (
 	journal As IRegionNavigationJournal
 )
 ```
-#### Parameters
+
+### Parameters
 
 *serviceLocator*
 

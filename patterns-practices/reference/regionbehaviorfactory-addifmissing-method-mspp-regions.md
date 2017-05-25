@@ -7,39 +7,41 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418944(v=PandP.50)'
 
 Prism Class Library
 
-RegionBehaviorFactory..::.AddIfMissing Method
+RegionBehaviorFactory.AddIfMissing Method
 =============================================
 
 Adds a particular type of RegionBehavior if it was not already registered. The behaviorKey string is used to check if the behavior is already present
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public void AddIfMissing( string behaviorKey, Type behaviorType )Public Sub AddIfMissing ( behaviorKey As String, behaviorType As Type )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public void AddIfMissing( string behaviorKey, Type behaviorType )Public Sub AddIfMissing ( behaviorKey As String, behaviorType As Type )
+
+### Parameters
 
 behaviorKey  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The behavior key that's used to find if a certain behavior is already added.
 
-<!-- -->
-
 behaviorType  
-Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 Type of the behavior to add.
 
-#### Implements
+### Implements
 
-[IRegionBehaviorFactory..::.AddIfMissing(String, Type)](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.iregionbehaviorfactory.addifmissing(system.string%2csystem.type))
+[IRegionBehaviorFactory.AddIfMissing(String, Type)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory.addifmissing(system.string%2csystem.type))
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[RegionBehaviorFactory Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionbehaviorfactory)
+
+[RegionBehaviorFactory Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory)
 
 [RegionBehaviorFactory Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehaviorfactory)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

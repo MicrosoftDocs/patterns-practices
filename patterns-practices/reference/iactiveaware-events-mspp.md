@@ -10,19 +10,14 @@ Prism Class Library
 IActiveAware Events
 ===================
 
-
-The [IActiveAware](https://msdn.microsoft.com/t:microsoft.practices.prism.iactiveaware) type exposes the following members.
+The [IActiveAware](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware) type exposes the following members.
 
 Events
 ------
 
 <span id="eventTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -33,9 +28,9 @@ Events
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg405734.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
-<td><a href="https://msdn.microsoft.com/e:microsoft.practices.prism.iactiveaware.isactivechanged">IsActiveChanged</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware.isactivechanged">IsActiveChanged</a></td>
 <td><div class="summary">
-Notifies that the value for <a href="https://msdn.microsoft.com/p:microsoft.practices.prism.iactiveaware.isactive">IsActive</a> property has changed.
+Notifies that the value for <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware.isactive">IsActive</a> property has changed.
 </div></td>
 </tr>
 </tbody>
@@ -44,7 +39,7 @@ Notifies that the value for <a href="https://msdn.microsoft.com/p:microsoft.prac
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[IActiveAware Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.iactiveaware)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)
+[IActiveAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware)
+
+[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

@@ -14,10 +14,13 @@ Gets or sets the target that implements INavigateAsync.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-Syntax
-------
+**Version:** 5.0.0.0 (5.0.0.0)
+
+
+## Syntax
+
 
 ```C#
 INavigateAsync NavigationTarget { get; set; }
@@ -29,7 +32,7 @@ Property NavigationTarget As INavigateAsync
 	Set
 ```
 
-#### Property Value
+### Property Value
 
 Type: [INavigateAsync](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync(v=pandp.50))
 The INavigate implementation.
@@ -37,12 +40,12 @@ The INavigate implementation.
 Remarks
 -------
 
-<span id="remarksToggle"></span> This is set by the owner of this journal.
+ This is set by the owner of this journal.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IRegionNavigationJournal Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal(v=pandp.50))
 
 [IRegionNavigationJournal Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal_members(v=pandp.50))

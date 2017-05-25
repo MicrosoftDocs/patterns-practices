@@ -7,29 +7,33 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405892(v=PandP.50)'
 
 Prism Class Library
 
-ModuleConfigurationElementCollection..::.Add Method
+ModuleConfigurationElementCollection.Add Method
 ===================================================
 
-Adds a [ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement) to the collection.
+Adds a [ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement) to the collection.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public void Add( ModuleConfigurationElement module )Public Sub Add ( module As ModuleConfigurationElement )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public void Add( ModuleConfigurationElement module )Public Sub Add ( module As ModuleConfigurationElement )
+
+### Parameters
 
 module  
-Type: [Microsoft.Practices.Prism.Modularity..::.ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement)
-A [ModuleConfigurationElement](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement) instance.
+Type: [Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
+A [ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement) instance.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
+
+[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 
 [ModuleConfigurationElementCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

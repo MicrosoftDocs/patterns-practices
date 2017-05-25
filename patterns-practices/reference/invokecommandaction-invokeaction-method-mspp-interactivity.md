@@ -9,7 +9,6 @@ Prism Class Library
 
 # InvokeCommandAction.InvokeAction Method
 
-
 Public wrapper of the Invoke method.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
@@ -24,11 +23,12 @@ public void InvokeAction(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *parameter*
 
-  Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   
   ```VB
 'Declaration
@@ -37,14 +37,14 @@ Public Sub InvokeAction (
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *parameter*
 
-  Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+  Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 ## See Also
-
 
 [InvokeCommandAction Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50))
 

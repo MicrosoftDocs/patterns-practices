@@ -7,45 +7,47 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419004(v=PandP.50)'
 
 Prism Class Library
 
-UnityBootstrapperExtension..::.IsTypeRegistered Method
+UnityBootstrapperExtension.IsTypeRegistered Method
 ======================================================
 
 Evaluates if a specified type was registered in the container.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)
-**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
-<span id="syntaxToggle"></span>public static bool IsTypeRegistered( IUnityContainer container, Type type )Public Shared Function IsTypeRegistered ( container As IUnityContainer, type As Type ) As Boolean
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public static bool IsTypeRegistered( IUnityContainer container, Type type )Public Shared Function IsTypeRegistered ( container As IUnityContainer, type As Type ) As Boolean
+
+### Parameters
 
 container  
 Type: IUnityContainer
 The container to check if the type was registered in.
 
-<!-- -->
-
 type  
-Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 The type to check if it was registered.
 
-#### Return Value
+### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if the type was registered with the container.
 
 Remarks
 -------
 
-<span id="remarksToggle"></span> In order to use this extension, you must first call AddNewExtension\`\`1(IUnityContainer) and specify UnityContainerExtension as the extension type.
+ In order to use this extension, you must first call AddNewExtension\`\`1(IUnityContainer) and specify UnityContainerExtension as the extension type.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[UnityBootstrapperExtension Class](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unitybootstrapperextension)
+
+[UnityBootstrapperExtension Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension)
 
 [UnityBootstrapperExtension Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitybootstrapperextension)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)
+[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)

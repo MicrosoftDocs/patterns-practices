@@ -7,41 +7,39 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736187(v=PandP.50)'
 
 Prism Class Library
 
-WeakEventHandlerManager..::.AddWeakReferenceHandler Method
+WeakEventHandlerManager.AddWeakReferenceHandler Method
 ==========================================================
 
 Adds a handler to the supplied list in a weak way.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
+**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
 
-<span id="syntaxToggle"></span>public static void AddWeakReferenceHandler( ref List&lt;WeakReference&gt; handlers, EventHandler handler, int defaultListSize )Public Shared Sub AddWeakReferenceHandler ( ByRef handlers As List(Of WeakReference), handler As EventHandler, defaultListSize As Integer )
-#### Parameters
+## Syntax
+
+
+public static void AddWeakReferenceHandler( ref List&lt;WeakReference&gt; handlers, EventHandler handler, int defaultListSize )Public Shared Sub AddWeakReferenceHandler ( ByRef handlers As List(Of WeakReference), handler As EventHandler, defaultListSize As Integer )
+
+### Parameters
 
 handlers  
-Type: [System.Collections.Generic..::.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)&lt;(Of &lt;([WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd)&gt;)&gt;)
+Type: [System.Collections.Generic.List](http://msdn.microsoft.com/en-us/library/6sh2ey19)&lt;(Of &lt;([WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd)&gt;)&gt;)
 Existing handler list. It will be created if null.
 
-<!-- -->
-
 handler  
-Type: [System..::.EventHandler](http://msdn2.microsoft.com/en-us/library/xhb70ccc)
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
 Handler to add.
 
-<!-- -->
-
 defaultListSize  
-Type: [System..::.Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
+Type: [System.Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
 Default list size.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[WeakEventHandlerManager Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.weakeventhandlermanager)
+
+[WeakEventHandlerManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager)
 
 [WeakEventHandlerManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.weakeventhandlermanager)
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
+[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)

@@ -7,40 +7,42 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419016(v=PandP.50)'
 
 Prism Class Library
 
-UnityServiceLocatorAdapter..::.DoGetInstance Method
+UnityServiceLocatorAdapter.DoGetInstance Method
 ===================================================
 
 Resolves the instance of the requested service.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)
-**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
-<span id="syntaxToggle"></span>protected override Object DoGetInstance( Type serviceType, string key )Protected Overrides Function DoGetInstance ( serviceType As Type, key As String ) As Object
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+protected override Object DoGetInstance( Type serviceType, string key )Protected Overrides Function DoGetInstance ( serviceType As Type, key As String ) As Object
+
+### Parameters
 
 serviceType  
-Type: [System..::.Type](http://msdn2.microsoft.com/en-us/library/42892f65)
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 Type of instance requested.
 
-<!-- -->
-
 key  
-Type: [System..::.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Name of registered service you want. May be null.
 
-#### Return Value
+### Return Value
 
-Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The requested service instance.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[UnityServiceLocatorAdapter Class](https://msdn.microsoft.com/t:microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
+
+[UnityServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
 
 [UnityServiceLocatorAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.unityextensions)
+[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)

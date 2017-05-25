@@ -10,26 +10,30 @@ Prism Class Library
 MefServiceLocatorAdapter Constructor
 ====================================
 
-Initializes a new instance of the [MefServiceLocatorAdapter](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.mefservicelocatoradapter) class.
+Initializes a new instance of the [MefServiceLocatorAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter) class.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
-<span id="syntaxToggle"></span>public MefServiceLocatorAdapter( CompositionContainer compositionContainer )Public Sub New ( compositionContainer As CompositionContainer )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public MefServiceLocatorAdapter( CompositionContainer compositionContainer )Public Sub New ( compositionContainer As CompositionContainer )
+
+### Parameters
 
 compositionContainer  
-Type: [System.ComponentModel.Composition.Hosting..::.CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553)
+Type: [System.ComponentModel.Composition.Hosting.CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553)
 The MEF composition container.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[MefServiceLocatorAdapter Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.mefservicelocatoradapter)
+
+[MefServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter)
 
 [MefServiceLocatorAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.mefservicelocatoradapter)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
+[Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)

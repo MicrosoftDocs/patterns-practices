@@ -10,26 +10,30 @@ Prism Class Library
 MefRegionBehaviorFactory Constructor
 ====================================
 
-Initializes a new instance of the [MefRegionBehaviorFactory](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory) class.
+Initializes a new instance of the [MefRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory) class.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
-<span id="syntaxToggle"></span>public MefRegionBehaviorFactory( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public MefRegionBehaviorFactory( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
+
+### Parameters
 
 serviceLocator  
 Type: IServiceLocator
-IServiceLocator used to create the instance of the behavior from its [Type](http://msdn2.microsoft.com/en-us/library/42892f65).
+IServiceLocator used to create the instance of the behavior from its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[MefRegionBehaviorFactory Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory)
+
+[MefRegionBehaviorFactory Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory)
 
 [MefRegionBehaviorFactory Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.regions)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)

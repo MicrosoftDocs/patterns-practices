@@ -9,11 +9,13 @@ Prism Class Library
 
 # CompositePresentationEvent&lt;TPayload&gt;.Subscribe Method (Action&lt;TPayload&gt;, ThreadOption)
 
-Subscribes a delegate to an event. CompositePresentationEvent will maintain a [WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate.
+Subscribes a delegate to an event. CompositePresentationEvent will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate.
 
 **Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -24,21 +26,20 @@ public SubscriptionToken Subscribe(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *action*  
-Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)&gt;
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)&gt;
 
 The delegate that gets executed when the event is raised.
-
-<!-- -->
 
 *threadOption*  
 Type: ThreadOption
 
 Specifies on which thread to receive the delegate callback.
 
-#### Return Value
+### Return Value
 
 Type: SubscriptionToken
 
@@ -46,11 +47,11 @@ A SubscriptionToken that uniquely identifies the added subscription.
 
 ## Remarks
 
-<span id="remarksToggle"></span> The CompositePresentationEvent collection is thread-safe.
+ The CompositePresentationEvent collection is thread-safe.
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [CompositePresentationEvent&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))
 
 [CompositePresentationEvent&lt;TPayload&gt; Members](https://msdn.microsoft.com/en-us/library/gg430765(v=pandp.50))
@@ -59,14 +60,15 @@ A SubscriptionToken that uniquely identifies the added subscription.
 
 [Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
 
-
 # CompositePresentationEvent(Of TPayload).Subscribe Method (Action(Of TPayload), ThreadOption)
 
-Subscribes a delegate to an event. CompositePresentationEvent will maintain a [WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate.
+Subscribes a delegate to an event. CompositePresentationEvent will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate.
 
 **Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -78,21 +80,20 @@ Public Function Subscribe (
 ) As SubscriptionToken
 ```
 
-#### Parameters
+
+### Parameters
 
 *action*  
-Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)))
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)))
 
 The delegate that gets executed when the event is raised.
-
-<!-- -->
 
 *threadOption*  
 Type: ThreadOption
 
 Specifies on which thread to receive the delegate callback.
 
-#### Return Value
+### Return Value
 
 Type: SubscriptionToken
 
@@ -100,11 +101,11 @@ A SubscriptionToken that uniquely identifies the added subscription.
 
 ## Remarks
 
-<span id="remarksToggle"></span> The CompositePresentationEvent collection is thread-safe.
+ The CompositePresentationEvent collection is thread-safe.
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [CompositePresentationEvent(Of TPayload) Class](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))
 
 [CompositePresentationEvent(Of TPayload) Members](https://msdn.microsoft.com/en-us/library/gg430765(v=pandp.50))

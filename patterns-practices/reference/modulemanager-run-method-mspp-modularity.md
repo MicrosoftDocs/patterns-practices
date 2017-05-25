@@ -13,7 +13,9 @@ Initializes the modules marked as [WhenAvailable](https://msdn.microsoft.com/en-
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -26,7 +28,7 @@ public void Run()
 Public Sub Run
 ```
 
-#### Implements
+### Implements
 
 [IModuleManager.Run](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulemanager.run(v=pandp.50))
 

@@ -14,11 +14,7 @@ Prism Class Library
 
 <span id="classToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -28,63 +24,63 @@ Prism Class Library
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn683966.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/dn683933(v=pandp.50)">BackgroundEventSubscription&lt;TPayload&gt;</a></td>
 <td><div class="summary">
 Extends <a href="https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)">EventSubscription&lt;TPayload&gt;</a> to invoke the <a href="https://msdn.microsoft.com/en-us/library/dn736296(v=pandp.50)">Action</a> delegate in a background thread.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn683966.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/dn736191(v=pandp.50)">DataEventArgs&lt;TData&gt;</a></td>
 <td><div class="summary">
 Generic arguments class to pass to event handlers that need to receive data.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn683966.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.delegatereference(v=pandp.50)">DelegateReference</a></td>
 <td><div class="summary">
-Represents a reference to a <a href="http://msdn2.microsoft.com/en-us/library/y22acf51">Delegate</a> that may contain a <a href="http://msdn2.microsoft.com/en-us/library/hbh8w2zd">WeakReference</a> to the target. This class is used internally by the Prism Library.
+Represents a reference to a <a href="http://msdn.microsoft.com/en-us/library/y22acf51">Delegate</a> that may contain a <a href="http://msdn.microsoft.com/en-us/library/hbh8w2zd">WeakReference</a> to the target. This class is used internally by the Prism Library.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn683966.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/dn736239(v=pandp.50)">DispatcherEventSubscription&lt;TPayload&gt;</a></td>
 <td><div class="summary">
-Extends <a href="https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)">EventSubscription&lt;TPayload&gt;</a> to invoke the <a href="https://msdn.microsoft.com/en-us/library/dn736296(v=pandp.50)">Action</a> delegate in a specific <a href="http://msdn2.microsoft.com/en-us/library/wx31754f">SynchronizationContext</a>.
+Extends <a href="https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)">EventSubscription&lt;TPayload&gt;</a> to invoke the <a href="https://msdn.microsoft.com/en-us/library/dn736296(v=pandp.50)">Action</a> delegate in a specific <a href="http://msdn.microsoft.com/en-us/library/wx31754f">SynchronizationContext</a>.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn683966.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventaggregator(v=pandp.50)">EventAggregator</a></td>
 <td><div class="summary">
 Implements <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventaggregator(v=pandp.50)">IEventAggregator</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn683966.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase(v=pandp.50)">EventBase</a></td>
 <td><div class="summary">
 Defines a base class to publish and subscribe to events.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn683966.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)">EventSubscription&lt;TPayload&gt;</a></td>
 <td><div class="summary">
-Provides a way to retrieve a <a href="http://msdn2.microsoft.com/en-us/library/y22acf51">Delegate</a> to execute an action depending on the value of a second filter predicate that returns true if the action should execute.
+Provides a way to retrieve a <a href="http://msdn.microsoft.com/en-us/library/y22acf51">Delegate</a> to execute an action depending on the value of a second filter predicate that returns true if the action should execute.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn683966.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50)">PubSubEvent&lt;TPayload&gt;</a></td>
 <td><div class="summary">
 Defines a class that manages publication and subscription to events.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn683966.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50)">SubscriptionToken</a></td>
 <td><div class="summary">
 Subscription token returned from <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase(v=pandp.50)">EventBase</a> on subscribe.
@@ -97,11 +93,7 @@ Subscription token returned from <a href="https://msdn.microsoft.com/en-us/libra
 
 <span id="interfaceToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -111,21 +103,21 @@ Subscription token returned from <a href="https://msdn.microsoft.com/en-us/libra
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn683966.pubinterface(en-us,PandP.50).gif" title="Public interface" /></td>
+<td><img src="images/public-interface.gif" title="Public interface" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50)">IDelegateReference</a></td>
 <td><div class="summary">
-Represents a reference to a <a href="http://msdn2.microsoft.com/en-us/library/y22acf51">Delegate</a>.
+Represents a reference to a <a href="http://msdn.microsoft.com/en-us/library/y22acf51">Delegate</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn683966.pubinterface(en-us,PandP.50).gif" title="Public interface" /></td>
+<td><img src="images/public-interface.gif" title="Public interface" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventaggregator(v=pandp.50)">IEventAggregator</a></td>
 <td><div class="summary">
 Defines an interface to get instances of an event type.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn683966.pubinterface(en-us,PandP.50).gif" title="Public interface" /></td>
+<td><img src="images/public-interface.gif" title="Public interface" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50)">IEventSubscription</a></td>
 <td><div class="summary">
 Defines a contract for an event subscription to be used by <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase(v=pandp.50)">EventBase</a>.
@@ -138,11 +130,7 @@ Defines a contract for an event subscription to be used by <a href="https://msdn
 
 <span id="enumerationToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>

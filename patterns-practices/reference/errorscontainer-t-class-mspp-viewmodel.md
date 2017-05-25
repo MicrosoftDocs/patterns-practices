@@ -12,12 +12,13 @@ ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Class
 
 Manages validation errors for an object, notifying when the error state changes.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/n:microsoft.practices.prism.viewmodel)
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
 
-<span id="syntaxToggle"></span>public class ErrorsContainer&lt;T&gt; Public Class ErrorsContainer(Of T)
+## Syntax
+
+
+public class ErrorsContainer&lt;T&gt; Public Class ErrorsContainer(Of T)
 Type Parameters
 ---------------
 
@@ -28,13 +29,13 @@ The type of the error object.
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.ViewModel..::.ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  Microsoft.Practices.Prism.ViewModel.ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.viewmodel.errorscontainer%601)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.viewmodel)
+[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)

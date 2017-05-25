@@ -12,12 +12,13 @@ DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Class
 
 Generic arguments class to pass to event handlers that need to receive data.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
 
-<span id="syntaxToggle"></span>public class DataEventArgs&lt;TData&gt; : EventArgs Public Class DataEventArgs(Of TData) Inherits EventArgs
+## Syntax
+
+
+public class DataEventArgs&lt;TData&gt; : EventArgs Public Class DataEventArgs(Of TData) Inherits EventArgs
 Type Parameters
 ---------------
 
@@ -28,14 +29,14 @@ The type of data to pass.
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  [System..::.EventArgs](http://msdn2.microsoft.com/en-us/library/118wxtk3)
-    Microsoft.Practices.Prism.PubSubEvents..::.DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
+    Microsoft.Practices.Prism.PubSubEvents.DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.dataeventargs%601)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)

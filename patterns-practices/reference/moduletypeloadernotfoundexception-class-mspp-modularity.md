@@ -9,12 +9,13 @@ Prism Class Library
 
 # ModuleTypeLoaderNotFoundException Class
 
-
 Exception that's thrown when there is no [IModuleTypeLoader](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader(v=pandp.50)) registered in [ModuleTypeLoaders](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager.moduletypeloaders(v=pandp.50)) that can handle this particular type of module.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -32,9 +33,9 @@ Public Class ModuleTypeLoaderNotFoundException
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-  [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
+  [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 
     [Microsoft.Practices.Prism.Modularity.ModularityException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception(v=pandp.50))
 

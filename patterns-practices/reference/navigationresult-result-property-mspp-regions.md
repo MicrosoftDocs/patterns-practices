@@ -7,28 +7,31 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431364(v=PandP.50)'
 
 Prism Class Library
 
-NavigationResult..::.Result Property
+NavigationResult.Result Property
 ====================================
 
 Gets the result.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public Nullable&lt;bool&gt; Result { get; }Public ReadOnly Property Result As Nullable(Of Boolean) Get
-#### Property Value
+**Version:** 5.0.0.0 (5.0.0.0)
 
-Type: [Nullable](http://msdn2.microsoft.com/en-us/library/b3h38hb0)&lt;(Of &lt;([Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
+## Syntax
+
+
+public Nullable&lt;bool&gt; Result { get; }Public ReadOnly Property Result As Nullable(Of Boolean) Get
+### Property Value
+
+Type: [Nullable](http://msdn.microsoft.com/en-us/library/b3h38hb0)&lt;(Of &lt;([Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
 The result.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[NavigationResult Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationresult)
+
+[NavigationResult Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult)
 
 [NavigationResult Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationresult)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

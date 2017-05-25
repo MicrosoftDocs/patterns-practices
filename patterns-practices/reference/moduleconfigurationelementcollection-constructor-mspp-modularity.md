@@ -15,20 +15,37 @@ Overload List
 
 <span id="overloadMembersTableToggle"></span>
  
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Gg419092.pubmethod(en-us,PandP.50).gif "Public method")
-ModuleConfigurationElementCollection()
-Initializes a new instance of [ModuleConfigurationElementCollection](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection(v=pandp.50)).
+<table>
 
-![](https://msdn.microsoft.com/en-us/Gg419092.pubmethod(en-us,PandP.50).gif "Public method")
-ModuleConfigurationElementCollection(ModuleConfigurationElement[])
-Initializes a new [ModuleConfigurationElementCollection](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection(v=pandp.50)).
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.">ModuleConfigurationElementCollection()()()</a></td>
+<td><div class="summary">
+Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection">ModuleConfigurationElementCollection</a>.
+</div></td>
+</tr>
+<tr class="even">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.">ModuleConfigurationElementCollection(array&lt;ModuleConfigurationElement&gt;[]()[])</a></td>
+<td><div class="summary">
+Initializes a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection">ModuleConfigurationElementCollection</a>.
+</div></td>
+</tr>
+</tbody>
+</table>
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection(v=pandp.50))
 
 [ModuleConfigurationElementCollection Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection_members(v=pandp.50))

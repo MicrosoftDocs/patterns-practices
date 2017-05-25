@@ -10,24 +10,35 @@ Prism Class Library
 IDispatcherFacade Methods
 =========================
 
-
-The [IDispatcherFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.events.idispatcherfacade) type exposes the following members.
+The [IDispatcherFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.events.idispatcherfacade) type exposes the following members.
 
 Methods
 -------
 
-<span id="methodTableToggle"></span>
- 
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Gg430988.pubmethod(en-us,PandP.50).gif "Public method")
-[BeginInvoke](https://msdn.microsoft.com/m:microsoft.practices.prism.events.idispatcherfacade.begininvoke(system.delegate%2csystem.object))
+<table>
+
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.events.idispatcherfacade.begininvoke(system.delegate%2csystem.object)">BeginInvoke</a></td>
+<td><div class="summary">
 Dispatches an invocation to the method received as parameter.
+</div></td>
+</tr>
+</tbody>
+</table>
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[IDispatcherFacade Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.events.idispatcherfacade)
 
-[Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.events)
+[IDispatcherFacade Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.events.idispatcherfacade)
+
+[Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.events)

@@ -7,36 +7,40 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405876(v=PandP.50)'
 
 Prism Class Library
 
-ModuleCatalog..::.CreateFromXaml Method (Stream)
+ModuleCatalog.CreateFromXaml Method (Stream)
 ================================================
 
-Creates a [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog) from XAML.
+Creates a [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) from XAML.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public static ModuleCatalog CreateFromXaml( Stream xamlStream )Public Shared Function CreateFromXaml ( xamlStream As Stream ) As ModuleCatalog
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public static ModuleCatalog CreateFromXaml( Stream xamlStream )Public Shared Function CreateFromXaml ( xamlStream As Stream ) As ModuleCatalog
+
+### Parameters
 
 xamlStream  
-Type: [System.IO..::.Stream](http://msdn2.microsoft.com/en-us/library/8f86tw9e)
-[Stream](http://msdn2.microsoft.com/en-us/library/8f86tw9e) that contains the XAML declaration of the catalog.
+Type: [System.IO.Stream](http://msdn.microsoft.com/en-us/library/8f86tw9e)
+[Stream](http://msdn.microsoft.com/en-us/library/8f86tw9e) that contains the XAML declaration of the catalog.
 
-#### Return Value
+### Return Value
 
-Type: [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog)
-An instance of [ModuleCatalog](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog) built from the XAML.
+Type: [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
+An instance of [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) built from the XAML.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[ModuleCatalog Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.modulecatalog)
+
+[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
 
 [CreateFromXaml Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.modulecatalog.createfromxaml)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

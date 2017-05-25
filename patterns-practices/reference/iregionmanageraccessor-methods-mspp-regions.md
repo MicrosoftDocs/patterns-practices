@@ -11,15 +11,32 @@ The [IRegionManagerAccessor](https://msdn.microsoft.com/en-us/library/microsoft.
 
 ## Methods
 
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Gg431091.pubmethod(en-us,PandP.50).gif "Public method")
-[GetRegionManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor.getregionmanager(v=pandp.50))
-Gets the value of the RegionName attached property.
+<table>
 
-![](https://msdn.microsoft.com/en-us/Gg431091.pubmethod(en-us,PandP.50).gif "Public method")
-[GetRegionName](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor.getregionname(v=pandp.50))
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor.getregionmanager(system.windows.dependencyobject)">GetRegionManager</a></td>
+<td><div class="summary">
+Gets the value of the RegionName attached property.
+</div></td>
+</tr>
+<tr class="even">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor.getregionname(system.windows.dependencyobject)">GetRegionName</a></td>
+<td><div class="summary">
 Gets the value for the RegionName attached property.
+</div></td>
+</tr>
+</tbody>
+</table>
 
 ## See Also
 

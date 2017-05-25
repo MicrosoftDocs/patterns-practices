@@ -11,53 +11,90 @@ The [ModuleTypeLoaderNotFoundException](https://msdn.microsoft.com/en-us/library
 
 ## Properties
 
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Gg431180.pubproperty(en-us,PandP.50).gif "Public property")
-[Data](http://msdn2.microsoft.com/en-us/library/2wyfbc48)
+<table>
+
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431180.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/2wyfbc48">Data</a></td>
+<td><div class="summary">
 Gets a collection of key/value pairs that provide additional user-defined information about the exception.
-
-(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)
-![](https://msdn.microsoft.com/en-us/Gg431180.pubproperty(en-us,PandP.50).gif "Public property")
-[HelpLink](http://msdn2.microsoft.com/en-us/library/71tawy4s)
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431180.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/71tawy4s">HelpLink</a></td>
+<td><div class="summary">
 Gets or sets a link to the help file associated with this exception.
-
-(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)
-![](https://msdn.microsoft.com/en-us/Gg431180.pubproperty(en-us,PandP.50).gif "Public property")
-[HResult](http://msdn2.microsoft.com/en-us/library/sh5cw61c)
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431180.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/sh5cw61c">HResult</a></td>
+<td><div class="summary">
 Gets or sets HRESULT, a coded numerical value that is assigned to a specific exception.
-
-(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)
-![](https://msdn.microsoft.com/en-us/Gg431180.pubproperty(en-us,PandP.50).gif "Public property")
-[InnerException](http://msdn2.microsoft.com/en-us/library/902sca80)
-Gets the [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59) instance that caused the current exception.
-
-(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)
-![](https://msdn.microsoft.com/en-us/Gg431180.pubproperty(en-us,PandP.50).gif "Public property")
-[Message](http://msdn2.microsoft.com/en-us/library/9btwf6wk)
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431180.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/902sca80">InnerException</a></td>
+<td><div class="summary">
+Gets the <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a> instance that caused the current exception.
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431180.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/9btwf6wk">Message</a></td>
+<td><div class="summary">
 Gets a message that describes the current exception.
-
-(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)
-![](https://msdn.microsoft.com/en-us/Gg431180.pubproperty(en-us,PandP.50).gif "Public property")
-[ModuleName](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception.modulename(v=pandp.50))
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431180.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception.modulename">ModuleName</a></td>
+<td><div class="summary">
 Gets or sets the name of the module that this exception refers to.
-
-(Inherited from [ModularityException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception(v=pandp.50)).)
-![](https://msdn.microsoft.com/en-us/Gg431180.pubproperty(en-us,PandP.50).gif "Public property")
-[Source](http://msdn2.microsoft.com/en-us/library/85weac5w)
+</div>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception">ModularityException</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431180.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/85weac5w">Source</a></td>
+<td><div class="summary">
 Gets or sets the name of the application or the object that causes the error.
-
-(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)
-![](https://msdn.microsoft.com/en-us/Gg431180.pubproperty(en-us,PandP.50).gif "Public property")
-[StackTrace](http://msdn2.microsoft.com/en-us/library/dxzhy005)
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+</tr>
+<tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431180.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/dxzhy005">StackTrace</a></td>
+<td><div class="summary">
 Gets a string representation of the immediate frames on the call stack.
-
-(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)
-![](https://msdn.microsoft.com/en-us/Gg431180.pubproperty(en-us,PandP.50).gif "Public property")
-[TargetSite](http://msdn2.microsoft.com/en-us/library/2wchw354)
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+</tr>
+<tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Gg431180.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/2wchw354">TargetSite</a></td>
+<td><div class="summary">
 Gets the method that throws the current exception.
-
-(Inherited from [Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59).)
+</div>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+</tr>
+</tbody>
+</table>
 
 ## See Also
 

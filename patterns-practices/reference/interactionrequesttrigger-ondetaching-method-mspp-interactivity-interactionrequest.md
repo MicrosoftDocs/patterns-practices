@@ -7,24 +7,27 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg406207(v=PandP.50)'
 
 Prism Class Library
 
-InteractionRequestTrigger..::.OnDetaching Method
+InteractionRequestTrigger.OnDetaching Method
 ================================================
 
 Called when the trigger is being dettached from its AssociatedObject, but before it has actually occurred.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
-<span id="syntaxToggle"></span>protected override void OnDetaching()Protected Overrides Sub OnDetaching
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+protected override void OnDetaching()Protected Overrides Sub OnDetaching
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[InteractionRequestTrigger Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger)
+
+[InteractionRequestTrigger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger)
 
 [InteractionRequestTrigger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)

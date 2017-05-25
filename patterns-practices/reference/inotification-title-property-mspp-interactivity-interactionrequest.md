@@ -7,27 +7,30 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736114(v=PandP.50)'
 
 Prism Class Library
 
-INotification..::.Title Property
+INotification.Title Property
 ================================
 
 Gets or sets the title to use for the notification.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
-<span id="syntaxToggle"></span>string Title { get; set; }Property Title As String Get Set
-#### Property Value
+**Version:** 5.0.0.0 (5.0.0.0)
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+## Syntax
+
+
+string Title { get; set; }Property Title As String Get Set
+### Property Value
+
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[INotification Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.inotification)
+
+[INotification Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification)
 
 [INotification Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.inotification)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)

@@ -12,11 +12,7 @@ Prism Class Library
 ## Classes
 
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -26,15 +22,15 @@ Prism Class Library
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736291.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow">DefaultConfirmationWindow</a></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow">DefaultConfirmationWindow</a></td>
 <td><div class="summary">
 Interaction logic for ConfirmationChildWindow.xaml
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736291.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow">DefaultNotificationWindow</a></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow">DefaultNotificationWindow</a></td>
 <td><div class="summary">
 Interaction logic for NotificationChildWindow.xaml
 </div></td>

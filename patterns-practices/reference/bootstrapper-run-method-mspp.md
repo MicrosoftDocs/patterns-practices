@@ -11,21 +11,36 @@ Prism Class Library
 
 ## Overload List
 
-<span id="overloadMembersTableToggle"></span>
- 
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Gg419048.pubmethod(en-us,PandP.50).gif "Public method")
-[Run](https://msdn.microsoft.com/en-us/library/gg405739(v=pandp.50))
-Runs the bootstrapper process.
+<table>
 
-![](https://msdn.microsoft.com/en-us/Gg419048.pubmethod(en-us,PandP.50).gif "Public method")
-[Run(Boolean)](https://msdn.microsoft.com/en-us/library/gg405740(v=pandp.50))
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.run">Run()()()</a></td>
+<td><div class="summary">
+Runs the bootstrapper process.
+</div></td>
+</tr>
+<tr class="even">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.run(system.boolean)">Run(Boolean)</a></td>
+<td><div class="summary">
 Run the bootstrapper process.
+</div></td>
+</tr>
+</tbody>
+</table>
 
 ## See Also
 
-<span id="seeAlsoToggle"></span>
+
 [Bootstrapper Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper(v=pandp.50))
 
 [Bootstrapper Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper_members(v=pandp.50))

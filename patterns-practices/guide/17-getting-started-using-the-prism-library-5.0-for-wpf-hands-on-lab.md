@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Ff921141(v=PandP.40)'
 
 # 17: Getting Started Using the Prism Library 5.0 for WPF Hands-on Lab
 
-From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/guide/developers-guide-to-microsoft-prism)
+From: [Developer's Guide to Microsoft Prism Library 5.0 for WPF](/patterns-practices/index)
 
 In this lab and associated sample, you will learn the basic concepts of modular application development using the Prism Library, and apply them to create a solution that you can use as the starting point for building a composite Windows Presentation Foundation (WPF) application. After completing this lab, you will be able to do the following:
 
@@ -36,7 +36,7 @@ This topic requires you to have the following Prism Library and Unity Applicatio
 > [!NOTE]
 > This hands-on lab uses the Unity container, but you can also use the Managed Extensibility Framework (MEF) with the Prism Library.
 
-This hands-on lab assumes that you understand Prism basic concepts. For more information, see [Prism Key Concepts](/guide/1-introduction-to-the-prism-library-5.0-for-wpf(v=pandp.40)#PrismKeyConcepts) in the [Introduction](/guide/1-introduction-to-the-prism-library-5.0-for-wpf(v=pandp.40)).
+This hands-on lab assumes that you understand Prism basic concepts. For more information, see [Prism Key Concepts](/patterns-practices/guide/1-introduction-to-the-prism-library-5.0-for-wpf#PrismKeyConcepts) in the [Introduction](/patterns-practices/guide/1-introduction-to-the-prism-library-5.0-for-wpf).
 
 ## Procedures
 
@@ -229,7 +229,7 @@ The following procedure explains how to set up the application's bootstrapper.
   Hello World window
 
 
-## Task 2: Adding a Module
+## <a name="task2addingmodule"></a>Task 2: Adding a Module
 
 
 In this task, you will create a module and add it to your solution. A module in Prism is a logical unit in your application. Adding a module to your solution involves the following tasks:
@@ -370,7 +370,7 @@ The following procedure describes how to create a view.
 3. Save the file.
 
 > [!NOTE]
-> To keep this hands-on lab simple, the procedure did not explain how to create a view following the Model-View-ViewModel (MVVM) pattern. For more information about the MVVM pattern, see [Implementing the MVVM Pattern](/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf(v=pandp.40)).
+> To keep this hands-on lab simple, the procedure did not explain how to create a view following the Model-View-ViewModel (MVVM) pattern. For more information about the MVVM pattern, see [Implementing the MVVM Pattern](/patterns-practices/guide/5-implementing-the-mvvm-pattern-using-the-prism-library-5.0-for-wpf).
 
 ## Region Manager
 
@@ -426,13 +426,13 @@ The following procedure explains how to obtain an instance of the region manager
 
 To learn about code samples included with Prism, see the following topics:
 
--  [Stock Trader Reference Implementation](/guide/stock-trader-reference-implementation-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--  [Modularity QuickStarts](/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--  [Interactivity QuickStart](/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--  [MVVM QuickStart](/guide/mvvm-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--  [Commanding QuickStart](/guide/commanding-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--  [UI Composition QuickStart](/guide/ui-composition-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--  [State-Based Navigation QuickStart](/guide/state-based-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--  [View-Switching Navigation QuickStart](/guide/view-switching-navigation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
--  [Event Aggregation QuickStart](/guide/event-aggregation-quickstart-using-the-prism-library-5.0-for-wpf(v=pandp.40))
+-  [Stock Trader Reference Implementation](/patterns-practices/guide/stock-trader-reference-implementation-using-the-prism-library-5.0-for-wpf)
+-  [Modularity QuickStarts](/patterns-practices/guide/modularity-quickstarts-using-the-prism-library-5.0-for-wpf)
+-  [Interactivity QuickStart](/patterns-practices/guide/interactivity-quickstart-using-the-prism-library-5.0-for-wpf)
+-  [MVVM QuickStart](/patterns-practices/guide/mvvm-quickstart-using-the-prism-library-5.0-for-wpf)
+-  [Commanding QuickStart](/patterns-practices/guide/commanding-quickstart-using-the-prism-library-5.0-for-wpf)
+-  [UI Composition QuickStart](/patterns-practices/guide/ui-composition-quickstart-using-the-prism-library-5.0-for-wpf)
+-  [State-Based Navigation QuickStart](/patterns-practices/guide/state-based-navigation-quickstart-using-the-prism-library-5.0-for-wpf)
+-  [View-Switching Navigation QuickStart](/patterns-practices/guide/view-switching-navigation-quickstart-using-the-prism-library-5.0-for-wpf)
+-  [Event Aggregation QuickStart](/patterns-practices/guide/event-aggregation-quickstart-using-the-prism-library-5.0-for-wpf)
 

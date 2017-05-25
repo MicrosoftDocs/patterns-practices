@@ -10,19 +10,14 @@ Prism Class Library
 LoadModuleCompletedEventArgs Properties
 =======================================
 
-
-The [LoadModuleCompletedEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.loadmodulecompletedeventargs) type exposes the following members.
+The [LoadModuleCompletedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs) type exposes the following members.
 
 Properties
 ----------
 
 <span id="propertyTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -33,21 +28,21 @@ Properties
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431163.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.loadmodulecompletedeventargs.error">Error</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs.error">Error</a></td>
 <td><div class="summary">
 Gets any error that occurred
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431163.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.loadmodulecompletedeventargs.iserrorhandled">IsErrorHandled</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs.iserrorhandled">IsErrorHandled</a></td>
 <td><div class="summary">
 Gets or sets a value indicating whether the error has been handled by the event subscriber.
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431163.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.modularity.loadmodulecompletedeventargs.moduleinfo">ModuleInfo</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs.moduleinfo">ModuleInfo</a></td>
 <td><div class="summary">
 Gets the module info.
 </div></td>
@@ -58,7 +53,7 @@ Gets the module info.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[LoadModuleCompletedEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.loadmodulecompletedeventargs)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[LoadModuleCompletedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs)
+
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

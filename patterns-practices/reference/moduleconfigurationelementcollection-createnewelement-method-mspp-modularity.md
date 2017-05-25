@@ -7,20 +7,15 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419091(v=PandP.50)'
 
 Prism Class Library
 
-ModuleConfigurationElementCollection..::.CreateNewElement Method
+ModuleConfigurationElementCollection.CreateNewElement Method
 ================================================================
-
 
 Overload List
 -------------
 
 <span id="overloadMembersTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -31,19 +26,19 @@ Overload List
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419091.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/m:microsoft.practices.prism.modularity.moduleconfigurationelementcollection.createnewelement">CreateNewElement()()()</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.createnewelement">CreateNewElement()()()</a></td>
 <td><div class="summary">
-Creates a new <a href="https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a>.
+Creates a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a>.
 </div>
-(Overrides <a href="http://msdn2.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection..::.CreateNewElement()()()</a>.)</td>
+(Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection.CreateNewElement()()()</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg419091.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/ky49faah">CreateNewElement(String)</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ky49faah">CreateNewElement(String)</a></td>
 <td><div class="summary">
-Creates a new <a href="http://msdn2.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> when overridden in a derived class.
+Creates a new <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> when overridden in a derived class.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
 </tr>
 </tbody>
 </table>
@@ -51,9 +46,9 @@ Creates a new <a href="http://msdn2.microsoft.com/en-us/library/kyx77cz3">Config
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
+
+[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 
 [ModuleConfigurationElementCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

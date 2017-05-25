@@ -7,31 +7,34 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431257(v=PandP.50)'
 
 Prism Class Library
 
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)..::.Keys Property
+ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Keys Property
 ===================================================================
 
 Gets the list of keys in the dictionary.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public ICollection&lt;TKey&gt; Keys { get; }Public ReadOnly Property Keys As ICollection(Of TKey) Get
-#### Property Value
+**Version:** 5.0.0.0 (5.0.0.0)
 
-Type: [ICollection](http://msdn2.microsoft.com/en-us/library/92t2ye13)&lt;(Of &lt;([TKey](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
+## Syntax
+
+
+public ICollection&lt;TKey&gt; Keys { get; }Public ReadOnly Property Keys As ICollection(Of TKey) Get
+### Property Value
+
+Type: [ICollection](http://msdn.microsoft.com/en-us/library/92t2ye13)&lt;(Of &lt;([TKey](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
 Collection of keys.
-#### Implements
+### Implements
 
-[IDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)..::.Keys](http://msdn2.microsoft.com/en-us/library/1ebzfbyx)
+[IDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Keys](http://msdn.microsoft.com/en-us/library/1ebzfbyx)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.listdictionary%602)
+
+[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 
 [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.listdictionary%602)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)
+[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

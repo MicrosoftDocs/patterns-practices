@@ -21,9 +21,9 @@ The parameter to supply the command during execution
 public Object CommandParameter { get; set; }
 ```
 
-#### Property Value
+### Property Value
 
-Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 ## See Also
 
@@ -32,7 +32,6 @@ Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 [CommandBehaviorBase&lt;T&gt; Members](https://msdn.microsoft.com/en-us/library/dn741423(v=pandp.50))
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
-
 
 # CommandBehaviorBase(Of T).CommandParameter Property
 
@@ -51,9 +50,9 @@ Public Property CommandParameter As Object
 	Set
 ```
 
-#### Property Value
+### Property Value
 
-Type: [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 ## See Also
 

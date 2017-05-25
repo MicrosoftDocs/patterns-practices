@@ -13,7 +13,9 @@ Dependency property identifying the TriggerParameterPath to be parsed to identif
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -25,9 +27,9 @@ public static readonly DependencyProperty TriggerParameterPathProperty
 Public Shared ReadOnly TriggerParameterPathProperty As DependencyProperty
 ```
 
-#### Field Value
+### Field Value
 
-Type: [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318)
+Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 
 ## See Also
 

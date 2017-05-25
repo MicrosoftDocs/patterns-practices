@@ -12,22 +12,25 @@ IModuleExport Interface
 
 Describe the Managed Extensibility Framework export of an IModule.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.modularity)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
-<span id="syntaxToggle"></span>public interface IModuleExportPublic Interface IModuleExport
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public interface IModuleExportPublic Interface IModuleExport
 
 Remarks
 -------
 
-<span id="remarksToggle"></span> This interface is used when importing classes exported with the ModuleExportAttribute. This interface and the ModuleExport class properties should match.
+ This interface is used when importing classes exported with the ModuleExportAttribute. This interface and the ModuleExport class properties should match.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [IModuleExport Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.imoduleexport)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions.modularity)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)

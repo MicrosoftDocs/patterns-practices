@@ -24,7 +24,8 @@ Publishes the [PubSubEvent&lt;TPayload&gt;](https://msdn.microsoft.com/en-us/lib
 	)
 
 ```
-#### Parameters
+
+### Parameters
 
 *payload*
 	
@@ -44,6 +45,8 @@ Publishes the [PubSubEvent(Of TPayload)](https://msdn.microsoft.com/en-us/librar
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
 
+
+
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -55,7 +58,8 @@ Public Overridable Sub Publish (
 )
 ```
 
-#### Parameters
+
+### Parameters
 *payload*
 
 	Type: [TPayload](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50))

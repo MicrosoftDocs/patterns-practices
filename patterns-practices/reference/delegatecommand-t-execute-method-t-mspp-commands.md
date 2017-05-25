@@ -7,35 +7,37 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405764(v=PandP.50)'
 
 Prism Class Library
 
-DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)..::.Execute Method (T)
+DelegateCommand&lt;(Of &lt;(T&gt;)&gt;).Execute Method (T)
 ==============================================================
 
-Executes the command and invokes the [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn2.microsoft.com/en-us/library/018hxwa8) provided during construction.
+Executes the command and invokes the [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) provided during construction.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
+**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
 
-<span id="syntaxToggle"></span>public virtual Task Execute( T parameter )Public Overridable Function Execute ( parameter As T ) As Task
-#### Parameters
+## Syntax
+
+
+public virtual Task Execute( T parameter )Public Overridable Function Execute ( parameter As T ) As Task
+
+### Parameters
 
 parameter  
-Type: [T](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601)
+Type: [T](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)
 Data used by the command.
 
-#### Return Value
+### Return Value
 
-Type: [Task](http://msdn2.microsoft.com/en-us/library/dd235678)
+Type: [Task](http://msdn.microsoft.com/en-us/library/dd235678)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/t:microsoft.practices.prism.commands.delegatecommand%601)
+
+[DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)
 
 [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand%601)
 
 [Execute Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.commands.delegatecommand%601.execute)
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.commands)
+[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)

@@ -7,31 +7,34 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431394(v=PandP.50)'
 
 Prism Class Library
 
-Region..::.Views Property
+Region.Views Property
 =========================
 
 Gets a readonly view of the collection of views in the region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public virtual IViewsCollection Views { get; }Public Overridable ReadOnly Property Views As IViewsCollection Get
-#### Property Value
+**Version:** 5.0.0.0 (5.0.0.0)
 
-Type: [IViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iviewscollection)
-An [IViewsCollection](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.iviewscollection) of all the added views.
-#### Implements
+## Syntax
 
-[IRegion..::.Views](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregion.views)
+
+public virtual IViewsCollection Views { get; }Public Overridable ReadOnly Property Views As IViewsCollection Get
+### Property Value
+
+Type: [IViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection)
+An [IViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection) of all the added views.
+### Implements
+
+[IRegion.Views](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.views)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[Region Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.region)
+
+[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 
 [Region Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.region)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

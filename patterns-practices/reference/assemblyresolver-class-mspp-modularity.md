@@ -12,23 +12,26 @@ AssemblyResolver Class
 
 Handles AppDomain's AssemblyResolve event to be able to load assemblies dynamically in the LoadFrom context, but be able to reference the type from assemblies loaded in the Load context.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public class AssemblyResolver : IAssemblyResolver, IDisposablePublic Class AssemblyResolver Implements IAssemblyResolver, IDisposable
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public class AssemblyResolver : IAssemblyResolver, IDisposablePublic Class AssemblyResolver Implements IAssemblyResolver, IDisposable
 
 Inheritance Hierarchy
 ---------------------
 
-<span id="familyToggle"></span>[System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.Modularity..::.AssemblyResolver
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  Microsoft.Practices.Prism.Modularity.AssemblyResolver
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [AssemblyResolver Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.assemblyresolver)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

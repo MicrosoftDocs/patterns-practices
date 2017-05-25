@@ -7,28 +7,31 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431231(v=PandP.50)'
 
 Prism Class Library
 
-Bootstrapper..::.Logger Property
+Bootstrapper.Logger Property
 ================================
 
-Gets the [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade) for the application.
+Gets the [ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade) for the application.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/n:microsoft.practices.prism)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>protected ILoggerFacade Logger { get; set; }Protected Property Logger As ILoggerFacade Get Set
-#### Property Value
+**Version:** 5.0.0.0 (5.0.0.0)
 
-Type: [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade)
-A [ILoggerFacade](https://msdn.microsoft.com/t:microsoft.practices.prism.logging.iloggerfacade) instance.
+## Syntax
+
+
+protected ILoggerFacade Logger { get; set; }Protected Property Logger As ILoggerFacade Get Set
+### Property Value
+
+Type: [ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade)
+A [ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade) instance.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[Bootstrapper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.bootstrapper)
+
+[Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
 
 [Bootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.bootstrapper)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism)
+[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

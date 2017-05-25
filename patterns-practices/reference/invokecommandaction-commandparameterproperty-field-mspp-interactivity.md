@@ -26,9 +26,9 @@ public static readonly DependencyProperty CommandParameterProperty
 Public Shared ReadOnly CommandParameterProperty As DependencyProperty
 ```
 
-#### Field Value
+### Field Value
 
-Type: [DependencyProperty](http://msdn2.microsoft.com/en-us/library/ms589318)
+Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 
 ## See Also
 

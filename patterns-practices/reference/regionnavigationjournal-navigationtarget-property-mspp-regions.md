@@ -7,36 +7,39 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431383(v=PandP.50)'
 
 Prism Class Library
 
-RegionNavigationJournal..::.NavigationTarget Property
+RegionNavigationJournal.NavigationTarget Property
 =====================================================
 
 Gets or sets the target that implements INavigate.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public INavigateAsync NavigationTarget { get; set; }Public Property NavigationTarget As INavigateAsync Get Set
-#### Property Value
+**Version:** 5.0.0.0 (5.0.0.0)
 
-Type: [INavigateAsync](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.inavigateasync)
+## Syntax
+
+
+public INavigateAsync NavigationTarget { get; set; }Public Property NavigationTarget As INavigateAsync Get Set
+### Property Value
+
+Type: [INavigateAsync](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync)
 The INavigate implementation.
-#### Implements
+### Implements
 
-[IRegionNavigationJournal..::.NavigationTarget](https://msdn.microsoft.com/p:microsoft.practices.prism.regions.iregionnavigationjournal.navigationtarget)
+[IRegionNavigationJournal.NavigationTarget](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal.navigationtarget)
 
 Remarks
 -------
 
-<span id="remarksToggle"></span> This is set by the owner of this journal.
+ This is set by the owner of this journal.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[RegionNavigationJournal Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationjournal)
+
+[RegionNavigationJournal Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal)
 
 [RegionNavigationJournal Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationjournal)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

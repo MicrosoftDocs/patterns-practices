@@ -10,19 +10,14 @@ Prism Class Library
 SelectorItemsSourceSyncBehavior Fields
 ======================================
 
-
-The [SelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior) type exposes the following members.
+The [SelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior) type exposes the following members.
 
 Fields
 ------
 
 <span id="fieldTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -33,7 +28,7 @@ Fields
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430951.pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Gg430951.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/f:microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior.behaviorkey">BehaviorKey</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior.behaviorkey">BehaviorKey</a></td>
 <td><div class="summary">
 Name that identifies the SelectorItemsSourceSyncBehavior behavior in a collection of RegionsBehaviors.
 </div></td>
@@ -44,7 +39,7 @@ Name that identifies the SelectorItemsSourceSyncBehavior behavior in a collectio
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[SelectorItemsSourceSyncBehavior Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions.behaviors)
+[SelectorItemsSourceSyncBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior)
+
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

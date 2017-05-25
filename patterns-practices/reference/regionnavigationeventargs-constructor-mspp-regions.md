@@ -10,26 +10,30 @@ Prism Class Library
 RegionNavigationEventArgs Constructor
 =====================================
 
-Initializes a new instance of the [RegionNavigationEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationeventargs) class.
+Initializes a new instance of the [RegionNavigationEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public RegionNavigationEventArgs( NavigationContext navigationContext )Public Sub New ( navigationContext As NavigationContext )
-#### Parameters
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public RegionNavigationEventArgs( NavigationContext navigationContext )Public Sub New ( navigationContext As NavigationContext )
+
+### Parameters
 
 navigationContext  
-Type: [Microsoft.Practices.Prism.Regions..::.NavigationContext](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationcontext)
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 The navigation context.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[RegionNavigationEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationeventargs)
+
+[RegionNavigationEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs)
 
 [RegionNavigationEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationeventargs)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

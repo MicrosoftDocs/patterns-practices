@@ -7,30 +7,33 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431250(v=PandP.50)'
 
 Prism Class Library
 
-Confirmation..::.Confirmed Property
+Confirmation.Confirmed Property
 ===================================
 
 Gets or sets a value indicating that the confirmation is confirmed.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
-<span id="syntaxToggle"></span>public bool Confirmed { get; set; }Public Property Confirmed As Boolean Get Set
-#### Property Value
+**Version:** 5.0.0.0 (5.0.0.0)
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
-#### Implements
+## Syntax
 
-[IConfirmation..::.Confirmed](https://msdn.microsoft.com/p:microsoft.practices.prism.interactivity.interactionrequest.iconfirmation.confirmed)
+
+public bool Confirmed { get; set; }Public Property Confirmed As Boolean Get Set
+### Property Value
+
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
+### Implements
+
+[IConfirmation.Confirmed](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation.confirmed)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[Confirmation Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.confirmation)
+
+[Confirmation Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation)
 
 [Confirmation Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.confirmation)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)

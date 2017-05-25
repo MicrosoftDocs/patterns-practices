@@ -13,7 +13,9 @@ Determines whether the dictionary contains the specified value.
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -23,16 +25,17 @@ public bool ContainsValue(
 )
 ```
 
-#### Parameters
+
+### Parameters
 
 *value*
 
 	Type: [TValue](https://msdn.microsoft.com/en-us/library/gg431434(v=pandp.50))
 	The value to locate.
 
-#### Return Value
+### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)<br/>
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
 true if the dictionary contains the value in any list; otherwise, false.
 
 ## See Also
@@ -43,15 +46,15 @@ true if the dictionary contains the value in any list; otherwise, false.
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
 
-
-
 # ListDictionary(Of TKey, TValue).ContainsValue Method
 
 Determines whether the dictionary contains the specified value.
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -62,15 +65,16 @@ Public Function ContainsValue (
 ) As Boolean
 ```
 
-#### Parameters
+
+### Parameters
 
 *value*
 
 	Type: [TValue](https://msdn.microsoft.com/en-us/library/gg431434(v=pandp.50)) 
 	The value to locate.
 
-#### Return Value
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)<br/> 
+### Return Value
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/> 
 
 true if the dictionary contains the value in any list; otherwise, false.
 

@@ -7,27 +7,29 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736281(v=PandP.50)'
 
 Prism Class Library
 
-SubscriptionToken..::.Equals Method (Object)
+SubscriptionToken.Equals Method (Object)
 ============================================
 
-Determines whether the specified [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).
+Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
-Syntax
-------
 
-<span id="syntaxToggle"></span>public override bool Equals( Object obj )Public Overrides Function Equals ( obj As Object ) As Boolean
-#### Parameters
+## Syntax
+
+
+public override bool Equals( Object obj )Public Overrides Function Equals ( obj As Object ) As Boolean
+
+### Parameters
 
 obj  
-Type: [System..::.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
-The [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b) to compare with the current [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+The [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) to compare with the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 
-#### Return Value
+### Return Value
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
-true if the specified [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b); otherwise, false.
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
+true if the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b); otherwise, false.
 
 Exceptions
 ----------
@@ -35,16 +37,16 @@ Exceptions
 <span id="exceptionsToggle"></span>
 | Exception                                                                              | Condition                  |
 |----------------------------------------------------------------------------------------|----------------------------|
-| [System..::.NullReferenceException](http://msdn2.microsoft.com/en-us/library/8w0s4024) | The obj parameter is null. |
+| [System.NullReferenceException](http://msdn.microsoft.com/en-us/library/8w0s4024) | The obj parameter is null. |
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[SubscriptionToken Class](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.subscriptiontoken)
+
+[SubscriptionToken Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken)
 
 [SubscriptionToken Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.subscriptiontoken)
 
 [Equals Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.pubsubevents.subscriptiontoken.equals)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)

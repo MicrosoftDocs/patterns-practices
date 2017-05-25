@@ -10,19 +10,14 @@ Prism Class Library
 RegionManager Events
 ====================
 
-
-The [RegionManager](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanager) type exposes the following members.
+The [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager) type exposes the following members.
 
 Events
 ------
 
 <span id="eventTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -33,7 +28,7 @@ Events
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430907.pubevent(en-us,PandP.50).gif" title="Public event" /><img src="https://msdn.microsoft.com/en-us/Gg430907.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/e:microsoft.practices.prism.regions.regionmanager.updatingregions">UpdatingRegions</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.updatingregions">UpdatingRegions</a></td>
 <td><div class="summary">
 Notification used by attached behaviors to update the region managers appropriatelly if needed to.
 </div></td>
@@ -44,7 +39,7 @@ Notification used by attached behaviors to update the region managers appropriat
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[RegionManager Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionmanager)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)
+
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -17,11 +17,7 @@ Classes
 
 <span id="classToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -31,21 +27,21 @@ Classes
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg406220.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/dn736144(v=pandp.50)">CommandBehaviorBase(Of T)</a></td>
 <td><div class="summary">
-Base behavior to handle connecting a <a href="http://msdn2.microsoft.com/en-us/library/ms609826">Control</a> to a Command.
+Base behavior to handle connecting a <a href="http://msdn.microsoft.com/en-us/library/ms609826">Control</a> to a Command.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg406220.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50)">InvokeCommandAction</a></td>
 <td><div class="summary">
 Trigger action that executes a command when invoked. It also maintains the Enabled state of the target control based on the CanExecute method of the command.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg406220.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction(v=pandp.50)">PopupWindowAction</a></td>
 <td><div class="summary">
 Shows a popup window in response to an <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50)">Microsoft.Practices.Prism.Interactivity.InteractionRequest</a> being raised.

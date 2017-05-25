@@ -10,27 +10,40 @@ Prism Class Library
 ErrorsContainer&lt;T&gt;.SetErrors Method
 ============================================================
 
-
-
 Overload List
 -------------
 
-<span id="overloadMembersTableToggle"></span>
- 
-Name
-Description
-![](https://msdn.microsoft.com/en-us/Gg419152.pubmethod(en-us,PandP.50).gif "Public method")
-[SetErrors&lt;TProperty&gt;(Expression&lt;Func&lt;TProperty&gt;&gt;, IEnumerable&lt;T&gt;)]https://msdn.microsoft.com/en-us/library/gg406217(v=pandp.50)))
-Sets the validation errors for the specified property.
+<table>
 
-![](https://msdn.microsoft.com/en-us/Gg419152.pubmethod(en-us,PandP.50).gif "Public method")
-[SetErrors(String, IEnumerable&lt;T&gt;)](https://msdn.microsoft.com/en-us/library/gg419027(v=pandp.50)))
+<thead>
+<tr class="header">
+<th> </th>
+<th>Name</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601.seterrors%60%601(system.linq.expressions.expression%7bsystem.func%7b%60%600%7d%7d%2csystem.collections.generic.ienumerable%7b%600%7d)">SetErrors&lt;(Of &lt;(TProperty&gt;)&gt;)(Expression&lt;(Of &lt;(Func&lt;(Of &lt;(TProperty&gt;)&gt;)&gt;)&gt;), IEnumerable&lt;(Of &lt;(T&gt;)&gt;))</a></td>
+<td><div class="summary">
 Sets the validation errors for the specified property.
+</div></td>
+</tr>
+<tr class="even">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601.seterrors(system.string%2csystem.collections.generic.ienumerable%7b%600%7d)">SetErrors(String, IEnumerable&lt;(Of &lt;(T&gt;)&gt;))</a></td>
+<td><div class="summary">
+Sets the validation errors for the specified property.
+</div></td>
+</tr>
+</tbody>
+</table>
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ErrorsContainer&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))
 
 [ErrorsContainer&lt;T&gt; Members](https://msdn.microsoft.com/en-us/library/gg405531(v=pandp.50))

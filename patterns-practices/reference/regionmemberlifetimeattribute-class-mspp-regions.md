@@ -11,7 +11,9 @@ When RegionMemberLifetimeAttribute is applied to class provides data the [Region
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -27,8 +29,8 @@ Public NotInheritable Class RegionMemberLifetimeAttribute
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)<br/>
-  [System.Attribute](http://msdn2.microsoft.com/en-us/library/e8kc3626)<br/>
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
+  [System.Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626)<br/>
     Microsoft.Practices.Prism.Regions.RegionMemberLifetimeAttribute
 
 ## See Also

@@ -7,24 +7,27 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405829(v=PandP.50)'
 
 Prism Class Library
 
-MefBootstrapper..::.RegisterDefaultTypesIfMissing Method
+MefBootstrapper.RegisterDefaultTypesIfMissing Method
 ========================================================
 
-Helper method for configuring the [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553). Registers defaults for all the types necessary for Prism to work, if they are not already registered.
+Helper method for configuring the [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553). Registers defaults for all the types necessary for Prism to work, if they are not already registered.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
-<span id="syntaxToggle"></span>public virtual void RegisterDefaultTypesIfMissing()Public Overridable Sub RegisterDefaultTypesIfMissing
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public virtual void RegisterDefaultTypesIfMissing()Public Overridable Sub RegisterDefaultTypesIfMissing
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[MefBootstrapper Class](https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.mefbootstrapper)
+
+[MefBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper)
 
 [MefBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.mefbootstrapper)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.mefextensions)
+[Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)

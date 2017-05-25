@@ -12,13 +12,11 @@ Prism Class Library
 The [ModuleTypeLoaderNotFoundException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception(v=pandp.50)) type exposes the following members.
 
 ## Events
+=======
+The [ModuleTypeLoaderNotFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception) type exposes the following members.
 
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -29,11 +27,11 @@ The [ModuleTypeLoaderNotFoundException](https://msdn.microsoft.com/en-us/library
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736292.protevent(en-us,PandP.50).gif" title="Protected event" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/ee332915">SerializeObjectState</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ee332915">SerializeObjectState</a></td>
 <td><div class="summary">
 Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
 </tr>
 </tbody>
 </table>
@@ -43,3 +41,8 @@ Occurs when an exception is serialized to create an exception state object that 
 [ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception(v=pandp.50))
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+=======
+
+[ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
+
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

@@ -12,22 +12,25 @@ INavigateAsync Interface
 
 Provides methods to perform navigation.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public interface INavigateAsyncPublic Interface INavigateAsync
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+
+public interface INavigateAsyncPublic Interface INavigateAsync
 
 Remarks
 -------
 
-<span id="remarksToggle"></span> Convenience overloads for the methods in this interface can be found as extension methods on the [NavigationAsyncExtensions](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationasyncextensions) class.
+ Convenience overloads for the methods in this interface can be found as extension methods on the [NavigationAsyncExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions) class.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [INavigateAsync Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.inavigateasync)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -17,11 +17,7 @@ Classes
 
 <span id="classToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -31,8 +27,8 @@ Classes
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419039.pubclass(en-us,PandP.50).gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/t:microsoft.practices.prism.mefextensions.events.mefeventaggregator">MefEventAggregator</a></td>
+<td><img src="images/public-class.gif" title="Public class" /></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator">MefEventAggregator</a></td>
 <td><div class="summary">
 Exports the EventAggregator using the Managed Extensibility Framework (MEF).
 </div></td>

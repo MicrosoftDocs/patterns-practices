@@ -10,19 +10,14 @@ Prism Class Library
 ViewRegisteredEventArgs Properties
 ==================================
 
-
-The [ViewRegisteredEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregisteredeventargs) type exposes the following members.
+The [ViewRegisteredEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs) type exposes the following members.
 
 Properties
 ----------
 
 <span id="propertyTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -33,14 +28,14 @@ Properties
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431223.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.viewregisteredeventargs.getview">GetView</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs.getview">GetView</a></td>
 <td><div class="summary">
 Gets the content which was registered.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431223.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.viewregisteredeventargs.regionname">RegionName</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs.regionname">RegionName</a></td>
 <td><div class="summary">
 Gets the region name to which the content was registered.
 </div></td>
@@ -51,7 +46,7 @@ Gets the region name to which the content was registered.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[ViewRegisteredEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.viewregisteredeventargs)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[ViewRegisteredEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs)
+
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

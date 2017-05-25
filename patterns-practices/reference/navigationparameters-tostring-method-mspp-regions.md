@@ -7,27 +7,32 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736117(v=PandP.50)'
 
 Prism Class Library
 
-NavigationParameters..::.ToString Method
-========================================
+# NavigationParameters.ToString Method
 
 Converts the list of key value pairs to a query string.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
 
-<span id="syntaxToggle"></span>public override string ToString()Public Overrides Function ToString As String
-#### Return Value
+## Syntax
+```C#
+public override string ToString()
+```
 
-Type: [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+```VB
+'Declaration
+Public Overrides Function ToString As String
+```
 
-See Also
---------
+### Return Value
 
-<span id="seeAlsoToggle"></span>
-[NavigationParameters Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.navigationparameters)
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-[NavigationParameters Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationparameters)
+## See Also
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[NavigationParameters Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
+
+[NavigationParameters Members](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters_members)
+
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

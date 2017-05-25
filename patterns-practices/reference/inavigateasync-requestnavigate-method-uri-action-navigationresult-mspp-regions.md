@@ -10,14 +10,17 @@ Prism Class Library
 INavigateAsync.RequestNavigate Method (Uri, Action&lt;NavigationResult&gt;)
 ==============================================================================================
 
-Initiates navigation to the target specified by the [Uri](http://msdn2.microsoft.com/en-us/library/txt7706a).
+Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-Syntax
-------
+**Version:** 5.0.0.0 (5.0.0.0)
+
+
+## Syntax
+
 
 ```C#
 void RequestNavigate(
@@ -32,29 +35,28 @@ Sub RequestNavigate (
 	navigationCallback As Action(Of NavigationResult)
 )
 ```
-#### Parameters
+
+### Parameters
 
 *target*  
-Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 
 The navigation target
 
-<!-- -->
-
 *navigationCallback*  
-Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult(v=pandp.50))&gt;
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult(v=pandp.50))&gt;
 
 The callback executed when the navigation request is completed.
 
 Remarks
 -------
 
-<span id="remarksToggle"></span> Convenience overloads for this method can be found as extension methods on the [NavigationAsyncExtensions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions(v=pandp.50)) class.
+ Convenience overloads for this method can be found as extension methods on the [NavigationAsyncExtensions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions(v=pandp.50)) class.
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [INavigateAsync Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync(v=pandp.50))
 
 [INavigateAsync Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync_members(v=pandp.50))

@@ -5,24 +5,19 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.IDelegateRefere
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736152(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IDelegateReference Properties
-=============================
+# IDelegateReference Properties
 
 
-The [IDelegateReference](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.idelegatereference) type exposes the following members.
+The [IDelegateReference](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50)) type exposes the following members.
 
-Properties
-----------
+## Properties
+=======
+The [IDelegateReference](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.idelegatereference) type exposes the following members.
 
-<span id="propertyTableToggle"></span>
+
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -33,18 +28,21 @@ Properties
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736152.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.pubsubevents.idelegatereference.target">Target</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference.target(v=pandp.50)">Target</a></td>
 <td><div class="summary">
-Gets the referenced <a href="http://msdn2.microsoft.com/en-us/library/y22acf51">Delegate</a> object.
+Gets the referenced <a href="http://msdn.microsoft.com/en-us/library/y22acf51">Delegate</a> object.
 </div></td>
 </tr>
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
-<span id="seeAlsoToggle"></span>
-[IDelegateReference Interface](https://msdn.microsoft.com/t:microsoft.practices.prism.pubsubevents.idelegatereference)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.pubsubevents)
+[IDelegateReference Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50))
+=======
+
+[IDelegateReference Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.idelegatereference)
+
+
+[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))

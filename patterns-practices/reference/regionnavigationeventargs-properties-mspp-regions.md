@@ -10,19 +10,14 @@ Prism Class Library
 RegionNavigationEventArgs Properties
 ====================================
 
-
-The [RegionNavigationEventArgs](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationeventargs) type exposes the following members.
+The [RegionNavigationEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs) type exposes the following members.
 
 Properties
 ----------
 
 <span id="propertyTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -33,14 +28,14 @@ Properties
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431214.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.regionnavigationeventargs.navigationcontext">NavigationContext</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs.navigationcontext">NavigationContext</a></td>
 <td><div class="summary">
 Gets the navigation context.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg431214.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/p:microsoft.practices.prism.regions.regionnavigationeventargs.uri">Uri</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs.uri">Uri</a></td>
 <td><div class="summary">
 Gets the navigation URI
 </div></td>
@@ -51,7 +46,7 @@ Gets the navigation URI
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[RegionNavigationEventArgs Class](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationeventargs)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+[RegionNavigationEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs)
+
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

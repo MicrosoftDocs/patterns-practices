@@ -7,35 +7,38 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431309(v=PandP.50)'
 
 Prism Class Library
 
-ModuleInfoGroup..::.IsReadOnly Property
+ModuleInfoGroup.IsReadOnly Property
 =======================================
 
-Gets a value indicating whether the [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup) is read-only.
+Gets a value indicating whether the [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup) is read-only.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-<span id="syntaxToggle"></span>public bool IsReadOnly { get; }Public ReadOnly Property IsReadOnly As Boolean Get
-#### Property Value
+**Version:** 5.0.0.0 (5.0.0.0)
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
-#### Return Value
+## Syntax
 
-Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
-false, because the [ModuleInfoGroup](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup) is not Read-Only.
-#### Implements
 
-[ICollection&lt;(Of &lt;(T&gt;)&gt;)..::.IsReadOnly](http://msdn2.microsoft.com/en-us/library/0cfatk9t)
-[IList..::.IsReadOnly](http://msdn2.microsoft.com/en-us/library/h3a2x6hz)
+public bool IsReadOnly { get; }Public ReadOnly Property IsReadOnly As Boolean Get
+### Property Value
+
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
+### Return Value
+
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
+false, because the [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup) is not Read-Only.
+### Implements
+
+[ICollection&lt;(Of &lt;(T&gt;)&gt;).IsReadOnly](http://msdn.microsoft.com/en-us/library/0cfatk9t)
+[IList.IsReadOnly](http://msdn.microsoft.com/en-us/library/h3a2x6hz)
 
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[ModuleInfoGroup Class](https://msdn.microsoft.com/t:microsoft.practices.prism.modularity.moduleinfogroup)
+
+[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 
 [ModuleInfoGroup Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroup)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

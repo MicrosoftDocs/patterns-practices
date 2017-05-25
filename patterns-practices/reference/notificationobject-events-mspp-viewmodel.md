@@ -10,19 +10,14 @@ Prism Class Library
 NotificationObject Events
 =========================
 
-
-The [NotificationObject](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.notificationobject) type exposes the following members.
+The [NotificationObject](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject) type exposes the following members.
 
 Events
 ------
 
 <span id="eventTableToggle"></span>
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -33,7 +28,7 @@ Events
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430912.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
-<td><a href="https://msdn.microsoft.com/e:microsoft.practices.prism.viewmodel.notificationobject.propertychanged">PropertyChanged</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject.propertychanged">PropertyChanged</a></td>
 <td><div class="summary">
 Raised when a property on this object has a new value.
 </div></td>
@@ -44,7 +39,7 @@ Raised when a property on this object has a new value.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
-[NotificationObject Class](https://msdn.microsoft.com/t:microsoft.practices.prism.viewmodel.notificationobject)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.viewmodel)
+[NotificationObject Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject)
+
+[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)

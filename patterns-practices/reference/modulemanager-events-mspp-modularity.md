@@ -10,18 +10,13 @@ Prism Class Library
 ModuleManager Events
 ====================
 
-
 The [ModuleManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager(v=pandp.50)) type exposes the following members.
 
 Events
 ------
 
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th> </th>
@@ -32,14 +27,14 @@ Events
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430896.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
-<td><a href="https://msdn.microsoft.com/e:microsoft.practices.prism.modularity.modulemanager.loadmodulecompleted">LoadModuleCompleted</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.loadmodulecompleted">LoadModuleCompleted</a></td>
 <td><div class="summary">
 Raised when a module is loaded or fails to load.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg430896.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
-<td><a href="https://msdn.microsoft.com/e:microsoft.practices.prism.modularity.modulemanager.moduledownloadprogresschanged">ModuleDownloadProgressChanged</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.moduledownloadprogresschanged">ModuleDownloadProgressChanged</a></td>
 <td><div class="summary">
 Raised repeatedly to provide progress as modules are loaded in the background.
 </div></td>
@@ -50,7 +45,7 @@ Raised repeatedly to provide progress as modules are loaded in the background.
 See Also
 --------
 
-<span id="seeAlsoToggle"></span>
+
 [ModuleManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager(v=pandp.50))
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
