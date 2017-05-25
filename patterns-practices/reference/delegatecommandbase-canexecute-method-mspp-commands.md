@@ -2,7 +2,7 @@
 TOCTitle: CanExecute Method
 Title: 'DelegateCommandBase.CanExecute Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommandBase.CanExecute(System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405754(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase.canexecute(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: 'ModuleInitializeException Constructor (SerializationInfo, StreamingContext)'
 Title: 'ModuleInitializeException Constructor (SerializationInfo, StreamingContext) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializeException.\#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405649(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception.moduleinitializeexception(v=pandp.50)'
 ---
 
 Prism Class Library

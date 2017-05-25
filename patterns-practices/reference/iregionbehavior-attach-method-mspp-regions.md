@@ -2,7 +2,7 @@
 TOCTitle: Attach Method
 Title: 'IRegionBehavior.Attach Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionBehavior.Attach'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405962(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior.attach(v=pandp.50)'
 ---
 
 Prism Class Library

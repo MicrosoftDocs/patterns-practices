@@ -2,7 +2,7 @@
 TOCTitle: RegionNavigationJournal Constructor
 Title: 'RegionNavigationJournal Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationJournal.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405706(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournal.regionnavigationjournal(v=pandp.50)'
 ---
 
 Prism Class Library

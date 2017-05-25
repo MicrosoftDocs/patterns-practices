@@ -2,7 +2,7 @@
 TOCTitle: Add Method
 Title: 'ModuleConfigurationElementCollection.Add Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection.Add(Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405892(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.add(v=pandp.50)'
 ---
 
 Prism Class Library

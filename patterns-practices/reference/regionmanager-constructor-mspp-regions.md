@@ -2,7 +2,7 @@
 TOCTitle: RegionManager Constructor
 Title: 'RegionManager Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManager.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405699(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager.regionmanager(v=pandp.50)'
 ---
 
 Prism Class Library

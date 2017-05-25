@@ -2,7 +2,7 @@
 TOCTitle: ModuleInitializer Members
 Title: 'ModuleInitializer Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleInitializer'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430850(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer_members(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: 'Microsoft.Practices.Prism.MefExtensions.Events Namespace'
 Title: 'Microsoft.Practices.Prism.MefExtensions.Events Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.MefExtensions.Events'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419039(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.events(v=pandp.50)'
 ---
 
 Prism Class Library

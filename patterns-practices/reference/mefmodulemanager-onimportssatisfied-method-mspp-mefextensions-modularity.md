@@ -2,7 +2,7 @@
 TOCTitle: OnImportsSatisfied Method
 Title: 'MefModuleManager.OnImportsSatisfied Method (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager.OnImportsSatisfied'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405842(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager.onimportssatisfied(v=pandp.50)'
 ---
 
 Prism Class Library

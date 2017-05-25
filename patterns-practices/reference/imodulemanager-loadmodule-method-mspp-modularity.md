@@ -2,7 +2,7 @@
 TOCTitle: LoadModule Method
 Title: 'IModuleManager.LoadModule Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.IModuleManager.LoadModule(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405861(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulemanager.loadmodule(v=pandp.50)'
 ---
 
 Prism Class Library

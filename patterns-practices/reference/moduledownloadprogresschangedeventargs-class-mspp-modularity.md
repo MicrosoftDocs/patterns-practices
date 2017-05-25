@@ -2,7 +2,7 @@
 TOCTitle: ModuleDownloadProgressChangedEventArgs Class
 Title: 'ModuleDownloadProgressChangedEventArgs Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleDownloadProgressChangedEventArgs'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431497(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs(v=pandp.50)'
 ---
 
 Prism Class Library

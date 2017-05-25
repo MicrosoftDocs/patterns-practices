@@ -2,7 +2,7 @@
 TOCTitle: ViewsCollection Methods
 Title: 'ViewsCollection Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.ViewsCollection'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431134(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewscollection_methods(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: GetCandidatesFromRegion Method
 Title: 'RegionNavigationContentLoader.GetCandidatesFromRegion Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader.GetCandidatesFromRegion(Microsoft.Practices.Prism.Regions.IRegion,System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418970(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationcontentloader.getcandidatesfromregion(v=pandp.50)'
 ---
 
 Prism Class Library

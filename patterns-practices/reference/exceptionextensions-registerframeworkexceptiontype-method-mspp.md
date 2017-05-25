@@ -2,7 +2,7 @@
 TOCTitle: RegisterFrameworkExceptionType Method
 Title: 'ExceptionExtensions.RegisterFrameworkExceptionType Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ExceptionExtensions.RegisterFrameworkExceptionType(System.Type)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405792(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.exceptionextensions.registerframeworkexceptiontype(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: ModuleCatalog Constructor
 Title: 'ModuleCatalog Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleCatalog.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419088(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.modulecatalog(v=pandp.50)'
 ---
 
 Prism Class Library

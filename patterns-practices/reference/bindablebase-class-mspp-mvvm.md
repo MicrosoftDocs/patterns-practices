@@ -2,7 +2,7 @@
 TOCTitle: BindableBase Class
 Title: 'BindableBase Class (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Mvvm.BindableBase'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683975(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase(v=pandp.50)'
 ---
 
 Prism Class Library

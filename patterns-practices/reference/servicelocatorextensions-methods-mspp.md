@@ -2,7 +2,7 @@
 TOCTitle: ServiceLocatorExtensions Methods
 Title: 'ServiceLocatorExtensions Methods (Microsoft.Practices.Prism)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ServiceLocatorExtensions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431136(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.servicelocatorextensions_methods(v=pandp.50)'
 ---
 
 Prism Class Library

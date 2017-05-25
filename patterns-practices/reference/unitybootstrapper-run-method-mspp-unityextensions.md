@@ -2,7 +2,7 @@
 TOCTitle: Run Method
 Title: 'UnityBootstrapper.Run Method (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.Run'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419146(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapper.run(v=pandp.50)'
 ---
 
 # UnityBootstrapper.Run Method

@@ -2,7 +2,7 @@
 TOCTitle: DirectoryModuleCatalog Constructor
 Title: 'DirectoryModuleCatalog Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405612(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.directorymodulecatalog.directorymodulecatalog(v=pandp.50)'
 ---
 
 Prism Class Library

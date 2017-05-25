@@ -2,7 +2,7 @@
 TOCTitle: AddViewIntoRegion Method
 Title: 'AutoPopulateRegionBehavior.AddViewIntoRegion Method (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior.AddViewIntoRegion(System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405933(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior.addviewintoregion(v=pandp.50)'
 ---
 
 Prism Class Library

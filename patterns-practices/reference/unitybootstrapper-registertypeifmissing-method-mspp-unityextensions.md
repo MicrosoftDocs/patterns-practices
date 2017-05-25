@@ -2,7 +2,7 @@
 TOCTitle: RegisterTypeIfMissing Method
 Title: 'UnityBootstrapper.RegisterTypeIfMissing Method (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.RegisterTypeIfMissing(System.Type,System.Type,System.Boolean)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419010(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapper.registertypeifmissing(v=pandp.50)'
 ---
 
 Prism Class Library

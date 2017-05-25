@@ -2,7 +2,7 @@
 TOCTitle: ModulesConfigurationSection Properties
 Title: 'ModulesConfigurationSection Properties (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModulesConfigurationSection'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431179(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulesconfigurationsection_properties(v=pandp.50)'
 ---
 
 Prism Class Library

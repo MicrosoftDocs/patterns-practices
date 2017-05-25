@@ -2,7 +2,7 @@
 TOCTitle: CollectionExtensions Class
 Title: 'CollectionExtensions Class (Microsoft.Practices.Prism)'
 ms:assetid: 'T:Microsoft.Practices.Prism.CollectionExtensions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431403(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.collectionextensions(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: MefRegionMemberLifetimeBehavior Methods
 Title: 'MefRegionMemberLifetimeBehavior Methods (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionMemberLifetimeBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431019(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmemberlifetimebehavior_methods(v=pandp.50)'
 ---
 
 # MefRegionMemberLifetimeBehavior Methods

@@ -2,7 +2,7 @@
 TOCTitle: MefRegionManager Properties
 Title: 'MefRegionManager Properties (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431153(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager_properties(v=pandp.50)'
 ---
 
 # MefRegionManager Properties

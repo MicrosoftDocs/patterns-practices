@@ -2,7 +2,7 @@
 TOCTitle: MefRegionViewRegistry Methods
 Title: 'MefRegionViewRegistry Methods (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionViewRegistry'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431031(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionviewregistry_methods(v=pandp.50)'
 ---
 
 Prism Class Library

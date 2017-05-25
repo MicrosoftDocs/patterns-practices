@@ -2,7 +2,7 @@
 TOCTitle: MefModuleManager Methods
 Title: 'MefModuleManager Methods (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431012(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager_methods(v=pandp.50)'
 ---
 
 Prism Class Library

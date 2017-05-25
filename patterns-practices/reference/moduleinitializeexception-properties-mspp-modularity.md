@@ -2,7 +2,7 @@
 TOCTitle: ModuleInitializeException Properties
 Title: 'ModuleInitializeException Properties (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleInitializeException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431176(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception_properties(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: OnUpdatingRegions Method
 Title: 'RegionManagerRegistrationBehavior.OnUpdatingRegions Method (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior.OnUpdatingRegions(System.Object,System.EventArgs)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405945(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior.onupdatingregions(v=pandp.50)'
 ---
 
 # RegionManagerRegistrationBehavior.OnUpdatingRegions Method

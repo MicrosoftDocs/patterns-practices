@@ -2,7 +2,7 @@
 TOCTitle: 'ModuleDependencyConfigurationElement Constructor (String)'
 Title: 'ModuleDependencyConfigurationElement Constructor (String) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement.\#ctor(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405639(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement.moduledependencyconfigurationelement(v=pandp.50)'
 ---
 
 Prism Class Library

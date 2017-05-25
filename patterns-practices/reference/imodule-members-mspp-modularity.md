@@ -2,7 +2,7 @@
 TOCTitle: IModule Members
 Title: 'IModule Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.IModule'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430830(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodule_members(v=pandp.50)'
 ---
 
 Prism Class Library

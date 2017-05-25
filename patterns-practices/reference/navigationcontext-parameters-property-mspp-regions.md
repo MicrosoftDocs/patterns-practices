@@ -2,7 +2,7 @@
 TOCTitle: Parameters Property
 Title: 'NavigationContext.Parameters Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.NavigationContext.Parameters'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431360(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext.parameters(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: 'Dispose Method (Boolean)'
 Title: 'FileModuleTypeLoader.Dispose Method (Boolean) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader.Dispose(System.Boolean)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405852(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader.dispose(v=pandp.50)'
 ---
 
 Prism Class Library

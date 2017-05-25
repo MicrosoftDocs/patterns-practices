@@ -2,7 +2,7 @@
 TOCTitle: NavigationContext Property
 Title: 'RegionNavigationFailedEventArgs.NavigationContext Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationFailedEventArgs.NavigationContext'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431377(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs.navigationcontext(v=pandp.50)'
 ---
 
 Prism Class Library

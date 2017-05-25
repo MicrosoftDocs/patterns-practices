@@ -2,7 +2,7 @@
 TOCTitle: PropertyChanged Event
 Title: 'ObservableObject(T).PropertyChanged Event (Microsoft.Practices.Prism)'
 ms:assetid: 'E:Microsoft.Practices.Prism.ObservableObject\`1.PropertyChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430929(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg430929(v=pandp.50)'
 ---
 
 Prism Class Library

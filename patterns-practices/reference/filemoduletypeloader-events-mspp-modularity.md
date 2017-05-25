@@ -2,7 +2,7 @@
 TOCTitle: FileModuleTypeLoader Events
 Title: 'FileModuleTypeLoader Events (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430893(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader_events(v=pandp.50)'
 ---
 
 Prism Class Library

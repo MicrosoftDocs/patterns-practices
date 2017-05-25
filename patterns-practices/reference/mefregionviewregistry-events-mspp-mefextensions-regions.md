@@ -2,7 +2,7 @@
 TOCTitle: MefRegionViewRegistry Events
 Title: 'MefRegionViewRegistry Events (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionViewRegistry'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430892(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionviewregistry_events(v=pandp.50)'
 ---
 
 Prism Class Library

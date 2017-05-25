@@ -2,7 +2,7 @@
 TOCTitle: ModuleDependencyAttribute Methods
 Title: 'ModuleDependencyAttribute Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyAttribute'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431053(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencyattribute_methods(v=pandp.50)'
 ---
 
 Prism Class Library

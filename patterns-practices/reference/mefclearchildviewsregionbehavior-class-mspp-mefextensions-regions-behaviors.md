@@ -2,7 +2,7 @@
 TOCTitle: MefClearChildViewsRegionBehavior Class
 Title: 'MefClearChildViewsRegionBehavior Class (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefClearChildViewsRegionBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736145(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior(v=pandp.50)'
 ---
 
 Prism Class Library

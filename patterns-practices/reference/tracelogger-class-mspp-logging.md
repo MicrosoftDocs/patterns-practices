@@ -2,7 +2,7 @@
 TOCTitle: TraceLogger Class
 Title: 'TraceLogger Class (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Logging.TraceLogger'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431440(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.tracelogger(v=pandp.50)'
 ---
 
 Prism Class Library

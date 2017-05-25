@@ -2,7 +2,7 @@
 TOCTitle: ModuleInfo Class
 Title: 'ModuleInfo Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleInfo'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431498(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50)'
 ---
 
 # ModuleInfo Class

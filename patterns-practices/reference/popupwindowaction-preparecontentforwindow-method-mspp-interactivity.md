@@ -2,7 +2,7 @@
 TOCTitle: PrepareContentForWindow Method
 Title: 'PopupWindowAction.PrepareContentForWindow Method (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.PrepareContentForWindow(Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification,System.Windows.Window)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736195(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction.preparecontentforwindow(v=pandp.50)'
 ---
 
 # PopupWindowAction.PrepareContentForWindow Method

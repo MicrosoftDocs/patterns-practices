@@ -2,7 +2,7 @@
 TOCTitle: InternalPublish Method
 Title: 'EventBase.InternalPublish Method (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventBase.InternalPublish(System.Object[])'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736108(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase.internalpublish(v=pandp.50)'
 ---
 
 Prism Class Library

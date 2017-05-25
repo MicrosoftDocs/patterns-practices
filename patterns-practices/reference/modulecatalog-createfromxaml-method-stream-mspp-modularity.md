@@ -2,7 +2,7 @@
 TOCTitle: 'CreateFromXaml Method (Stream)'
 Title: 'ModuleCatalog.CreateFromXaml Method (Stream) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.CreateFromXaml(System.IO.Stream)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405876(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.createfromxaml(v=pandp.50)'
 ---
 
 Prism Class Library

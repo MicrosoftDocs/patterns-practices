@@ -2,7 +2,7 @@
 TOCTitle: ModuleCatalog Properties
 Title: 'ModuleCatalog Properties (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleCatalog'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431166(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog_properties(v=pandp.50)'
 ---
 
 Prism Class Library

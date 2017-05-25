@@ -2,7 +2,7 @@
 TOCTitle: IRegion Properties
 Title: 'IRegion Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegion'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431195(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion_properties(v=pandp.50)'
 ---
 
 Prism Class Library

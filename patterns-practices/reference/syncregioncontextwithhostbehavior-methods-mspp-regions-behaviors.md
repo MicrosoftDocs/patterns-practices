@@ -2,7 +2,7 @@
 TOCTitle: SyncRegionContextWithHostBehavior Methods
 Title: 'SyncRegionContextWithHostBehavior Methods (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431079(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior_methods(v=pandp.50)'
 ---
 
 # SyncRegionContextWithHostBehavior Methods

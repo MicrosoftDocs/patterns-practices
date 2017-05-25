@@ -2,7 +2,7 @@
 TOCTitle: OnAttach Method
 Title: 'SelectorItemsSourceSyncBehavior.OnAttach Method (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior.OnAttach'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405947(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior.onattach(v=pandp.50)'
 ---
 
 Prism Class Library

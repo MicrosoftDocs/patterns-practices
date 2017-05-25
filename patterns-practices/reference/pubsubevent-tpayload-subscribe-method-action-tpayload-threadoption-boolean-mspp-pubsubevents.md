@@ -2,7 +2,7 @@
 TOCTitle: 'Subscribe Method (Action(TPayload), ThreadOption, Boolean)'
 Title: 'PubSubEvent(TPayload).Subscribe Method (Action(TPayload), ThreadOption, Boolean) (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Subscribe(System.Action{\`0},Microsoft.Practices.Prism.PubSubEvents.ThreadOption,System.Boolean)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683942(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn683942(v=pandp.50)'
 ---
 
 

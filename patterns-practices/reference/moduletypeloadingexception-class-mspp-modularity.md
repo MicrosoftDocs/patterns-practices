@@ -2,7 +2,7 @@
 TOCTitle: ModuleTypeLoadingException Class
 Title: 'ModuleTypeLoadingException Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431508(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadingexception(v=pandp.50)'
 ---
 
 Prism Class Library

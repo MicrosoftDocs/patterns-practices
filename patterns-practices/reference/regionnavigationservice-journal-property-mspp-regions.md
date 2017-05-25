@@ -2,7 +2,7 @@
 TOCTitle: Journal Property
 Title: 'RegionNavigationService.Journal Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationService.Journal'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431384(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice.journal(v=pandp.50)'
 ---
 
 Prism Class Library

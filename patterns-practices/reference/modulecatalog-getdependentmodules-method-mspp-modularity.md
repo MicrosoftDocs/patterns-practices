@@ -2,7 +2,7 @@
 TOCTitle: GetDependentModules Method
 Title: 'ModuleCatalog.GetDependentModules Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.GetDependentModules(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405879(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.getdependentmodules(v=pandp.50)'
 ---
 
 Prism Class Library

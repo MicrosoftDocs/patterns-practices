@@ -2,7 +2,7 @@
 TOCTitle: Error Property
 Title: 'RegionNavigationFailedEventArgs.Error Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationFailedEventArgs.Error'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431376(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs.error(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: MefRegionMemberLifetimeBehavior Constructor
 Title: 'MefRegionMemberLifetimeBehavior Constructor (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionMemberLifetimeBehavior.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405590(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmemberlifetimebehavior.mefregionmemberlifetimebehavior(v=pandp.50)'
 ---
 
 # MefRegionMemberLifetimeBehavior Constructor

@@ -2,7 +2,7 @@
 TOCTitle: GetCandidatesFromRegion Method
 Title: 'MefRegionNavigationContentLoader.GetCandidatesFromRegion Method (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationContentLoader.GetCandidatesFromRegion(Microsoft.Practices.Prism.Regions.IRegion,System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736192(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader.getcandidatesfromregion(v=pandp.50)'
 ---
 
 Prism Class Library

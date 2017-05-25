@@ -2,7 +2,7 @@
 TOCTitle: IsActiveChanged Event
 Title: 'DelegateCommandBase.IsActiveChanged Event (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Commands.DelegateCommandBase.IsActiveChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430915(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase.isactivechanged(v=pandp.50)'
 ---
 
 Prism Class Library

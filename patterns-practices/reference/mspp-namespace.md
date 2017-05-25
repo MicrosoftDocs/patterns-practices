@@ -2,7 +2,7 @@
 TOCTitle: 'Microsoft.Practices.Prism Namespace'
 Title: 'Microsoft.Practices.Prism Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419033(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50)'
 ---
 
 Prism Class Library

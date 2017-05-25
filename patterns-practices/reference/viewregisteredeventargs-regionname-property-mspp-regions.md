@@ -2,7 +2,7 @@
 TOCTitle: RegionName Property
 Title: 'ViewRegisteredEventArgs.RegionName Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs.RegionName'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431396(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregisteredeventargs.regionname(v=pandp.50)'
 ---
 
 # ViewRegisteredEventArgs.RegionName Property

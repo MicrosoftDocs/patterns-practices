@@ -2,7 +2,7 @@
 TOCTitle: 'Microsoft.Practices.Prism.MefExtensions Namespace'
 Title: 'Microsoft.Practices.Prism.MefExtensions Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.MefExtensions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419038(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions(v=pandp.50)'
 ---
 
 Prism Class Library

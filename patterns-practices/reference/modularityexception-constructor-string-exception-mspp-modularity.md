@@ -2,7 +2,7 @@
 TOCTitle: 'ModularityException Constructor (String, Exception)'
 Title: 'ModularityException Constructor (String, Exception) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModularityException.\#ctor(System.String,System.Exception)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405624(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception.modularityexception(v=pandp.50)'
 ---
 
 Prism Class Library

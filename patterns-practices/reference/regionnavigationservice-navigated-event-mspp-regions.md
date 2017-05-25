@@ -2,7 +2,7 @@
 TOCTitle: Navigated Event
 Title: 'RegionNavigationService.Navigated Event (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Regions.RegionNavigationService.Navigated'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430937(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice.navigated(v=pandp.50)'
 ---
 
 Prism Class Library

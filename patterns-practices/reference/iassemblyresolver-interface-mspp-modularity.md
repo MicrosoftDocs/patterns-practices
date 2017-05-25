@@ -2,7 +2,7 @@
 TOCTitle: IAssemblyResolver Interface
 Title: 'IAssemblyResolver Interface (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.IAssemblyResolver'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431478(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.iassemblyresolver(v=pandp.50)'
 ---
 
 Prism Class Library

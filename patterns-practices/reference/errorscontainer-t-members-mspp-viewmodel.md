@@ -2,7 +2,7 @@
 TOCTitle: 'ErrorsContainer(T) Members'
 Title: 'ErrorsContainer(T) Members (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405531(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405531(v=pandp.50)'
 ---
 
 Prism Class Library

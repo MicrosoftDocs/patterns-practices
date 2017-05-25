@@ -2,7 +2,7 @@
 TOCTitle: 'SetProperty(T) Method'
 Title: 'BindableBase.SetProperty(T) Method (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Mvvm.BindableBase.SetProperty\`\`1(\`\`0@,\`\`0,System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736263(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736263(v=pandp.50)'
 ---
 
 Prism Class Library

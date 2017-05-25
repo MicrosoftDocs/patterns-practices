@@ -2,7 +2,7 @@
 TOCTitle: MefRegionManager Constructor
 Title: 'MefRegionManager Constructor (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionManager.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405597(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager.mefregionmanager(v=pandp.50)'
 ---
 
 Prism Class Library

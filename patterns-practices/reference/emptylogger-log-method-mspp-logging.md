@@ -2,7 +2,7 @@
 TOCTitle: Log Method
 Title: 'EmptyLogger.Log Method (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Logging.EmptyLogger.Log(System.String,Microsoft.Practices.Prism.Logging.Category,Microsoft.Practices.Prism.Logging.Priority)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405814(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.emptylogger.log(v=pandp.50)'
 ---
 
 Prism Class Library

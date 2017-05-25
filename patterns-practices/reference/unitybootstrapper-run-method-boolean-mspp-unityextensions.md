@@ -2,7 +2,7 @@
 TOCTitle: 'Run Method (Boolean)'
 Title: 'UnityBootstrapper.Run Method (Boolean) (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.Run(System.Boolean)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419011(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapper.run(v=pandp.50)'
 ---
 
 Prism Class Library

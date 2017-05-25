@@ -2,7 +2,7 @@
 TOCTitle: TextLogger Members
 Title: 'TextLogger Members (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Logging.TextLogger'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430790(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.textlogger_members(v=pandp.50)'
 ---
 
 Prism Class Library

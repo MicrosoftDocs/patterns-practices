@@ -2,7 +2,7 @@
 TOCTitle: CyclicDependencyFoundException Properties
 Title: 'CyclicDependencyFoundException Properties (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431159(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception_properties(v=pandp.50)'
 ---
 
 # CyclicDependencyFoundException Properties

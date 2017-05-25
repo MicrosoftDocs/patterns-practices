@@ -2,7 +2,7 @@
 TOCTitle: 'PubSubEvent(TPayload) Constructor'
 Title: 'PubSubEvent(TPayload) Constructor (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736121(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736121(v=pandp.50)'
 ---
 # PubSubEvent &lt;TPayload&gt; Constructor
 

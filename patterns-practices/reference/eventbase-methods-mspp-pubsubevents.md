@@ -2,7 +2,7 @@
 TOCTitle: EventBase Methods
 Title: 'EventBase Methods (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.EventBase'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736255(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase_methods(v=pandp.50)'
 ---
 
 # EventBase Methods

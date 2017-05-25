@@ -2,7 +2,7 @@
 TOCTitle: OnCanExecuteChanged Method
 Title: 'DelegateCommandBase.OnCanExecuteChanged Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommandBase.OnCanExecuteChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405756(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase.oncanexecutechanged(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: MefModuleManager Constructor
 Title: 'MefModuleManager Constructor (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager.\#ctor(Microsoft.Practices.Prism.Modularity.IModuleInitializer,Microsoft.Practices.Prism.Modularity.IModuleCatalog,Microsoft.Practices.Prism.Logging.ILoggerFacade)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405582(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager.mefmodulemanager(v=pandp.50)'
 ---
 
 Prism Class Library

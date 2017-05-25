@@ -2,7 +2,7 @@
 TOCTitle: 'Run Method (Boolean)'
 Title: 'Bootstrapper.Run Method (Boolean) (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.Run(System.Boolean)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405740(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper.run(v=pandp.50)'
 ---
 
 Prism Class Library

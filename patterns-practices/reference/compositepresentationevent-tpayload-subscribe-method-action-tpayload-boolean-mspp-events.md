@@ -2,7 +2,7 @@
 TOCTitle: 'Subscribe Method (Action(TPayload), Boolean)'
 Title: 'CompositePresentationEvent(TPayload).Subscribe Method (Action(TPayload), Boolean) (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Subscribe(System.Action{\`0},System.Boolean)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405770(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405770(v=pandp.50)'
 ---
 
 Prism Class Library

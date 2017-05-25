@@ -2,7 +2,7 @@
 TOCTitle: 'DispatcherEventSubscription(TPayload) Properties'
 Title: 'DispatcherEventSubscription(TPayload) Properties (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscription\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736253(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736253(v=pandp.50)'
 ---
 
 # DispatcherEventSubscription(Of TPayload) Properties

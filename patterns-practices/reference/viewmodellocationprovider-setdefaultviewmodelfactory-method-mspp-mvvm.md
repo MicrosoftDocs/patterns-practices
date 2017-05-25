@@ -2,7 +2,7 @@
 TOCTitle: SetDefaultViewModelFactory Method
 Title: 'ViewModelLocationProvider.SetDefaultViewModelFactory Method (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Mvvm.ViewModelLocationProvider.SetDefaultViewModelFactory(System.Func{System.Type,System.Object})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683958(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.viewmodellocationprovider.setdefaultviewmodelfactory(v=pandp.50)'
 ---
 
 Prism Class Library

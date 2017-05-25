@@ -2,7 +2,7 @@
 TOCTitle: RaiseCanExecuteChanged Method
 Title: 'DelegateCommandBase.RaiseCanExecuteChanged Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommandBase.RaiseCanExecuteChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405758(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase.raisecanexecutechanged(v=pandp.50)'
 ---
 
 # DelegateCommandBase.RaiseCanExecuteChanged Method

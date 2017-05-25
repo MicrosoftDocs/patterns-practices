@@ -2,7 +2,7 @@
 TOCTitle: DuplicateModuleException Class
 Title: 'DuplicateModuleException Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.DuplicateModuleException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431476(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.duplicatemoduleexception(v=pandp.50)'
 ---
 
 Prism Class Library

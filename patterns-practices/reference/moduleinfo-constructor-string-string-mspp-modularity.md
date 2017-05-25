@@ -2,7 +2,7 @@
 TOCTitle: 'ModuleInfo Constructor (String, String)'
 Title: 'ModuleInfo Constructor (String, String) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfo.\#ctor(System.String,System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405644(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo.moduleinfo(v=pandp.50)'
 ---
 
 Prism Class Library

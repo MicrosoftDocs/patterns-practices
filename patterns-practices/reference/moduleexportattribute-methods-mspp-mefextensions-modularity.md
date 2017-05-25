@@ -2,7 +2,7 @@
 TOCTitle: ModuleExportAttribute Methods
 Title: 'ModuleExportAttribute Methods (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAttribute'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431013(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute_methods(v=pandp.50)'
 ---
 
 Prism Class Library

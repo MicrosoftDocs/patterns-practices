@@ -2,7 +2,7 @@
 TOCTitle: Confirmation Properties
 Title: 'Confirmation Properties (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confirmation'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419171(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation_properties(v=pandp.50)'
 ---
 
 Prism Class Library

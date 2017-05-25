@@ -2,7 +2,7 @@
 TOCTitle: RegisterDefaultTypesIfMissing Method
 Title: 'MefBootstrapper.RegisterDefaultTypesIfMissing Method (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.RegisterDefaultTypesIfMissing'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405829(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper.registerdefaulttypesifmissing(v=pandp.50)'
 ---
 
 Prism Class Library

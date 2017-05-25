@@ -2,7 +2,7 @@
 TOCTitle: GetCandidatesFromRegion Method
 Title: 'UnityRegionNavigationContentLoader.GetCandidatesFromRegion Method (Microsoft.Practices.Prism.UnityExtensions.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLoader.GetCandidatesFromRegion(Microsoft.Practices.Prism.Regions.IRegion,System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736231(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader.getcandidatesfromregion(v=pandp.50)'
 ---
 
 Prism Class Library

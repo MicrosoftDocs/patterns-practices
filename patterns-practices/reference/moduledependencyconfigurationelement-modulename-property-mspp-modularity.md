@@ -2,7 +2,7 @@
 TOCTitle: ModuleName Property
 Title: 'ModuleDependencyConfigurationElement.ModuleName Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement.ModuleName'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431301(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement.modulename(v=pandp.50)'
 ---
 
 Prism Class Library

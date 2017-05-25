@@ -2,7 +2,7 @@
 TOCTitle: ModuleInfo Members
 Title: 'ModuleInfo Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleInfo'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430846(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo_members(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: DefaultConfirmationWindow Members
 Title: 'DefaultConfirmationWindow Members (Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultConfirmationWindow'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn741424(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow_members(v=pandp.50)'
 ---
 
 Prism Class Library

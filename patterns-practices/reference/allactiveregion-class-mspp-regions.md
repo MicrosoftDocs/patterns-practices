@@ -2,7 +2,7 @@
 TOCTitle: AllActiveRegion Class
 Title: 'AllActiveRegion Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.AllActiveRegion'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431510(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.allactiveregion(v=pandp.50)'
 ---
 
 Prism Class Library

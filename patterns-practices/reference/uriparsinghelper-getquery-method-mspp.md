@@ -2,7 +2,7 @@
 TOCTitle: GetQuery Method
 Title: 'UriParsingHelper.GetQuery Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UriParsingHelper.GetQuery(System.Uri)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419018(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.uriparsinghelper.getquery(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: 'RegionAdapterBase(T) Members'
 Title: 'RegionAdapterBase(T) Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.RegionAdapterBase\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405501(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405501(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: 'ModuleTypeLoadingException Constructor (String, String, Exception)'
 Title: 'ModuleTypeLoadingException Constructor (String, String, Exception) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException.\#ctor(System.String,System.String,System.Exception)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405673(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadingexception.moduletypeloadingexception(v=pandp.50)'
 ---
 
 Prism Class Library

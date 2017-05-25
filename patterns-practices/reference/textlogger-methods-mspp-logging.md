@@ -2,7 +2,7 @@
 TOCTitle: TextLogger Methods
 Title: 'TextLogger Methods (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Logging.TextLogger'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431003(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.textlogger_methods(v=pandp.50)'
 ---
 
 Prism Class Library

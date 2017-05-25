@@ -2,7 +2,7 @@
 TOCTitle: ModuleInfoGroupExtensions Methods
 Title: 'ModuleInfoGroupExtensions Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleInfoGroupExtensions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431060(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroupextensions_methods(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: 'ObservableObject(T) Events'
 Title: 'ObservableObject(T) Events (Microsoft.Practices.Prism)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.ObservableObject\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430897(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg430897(v=pandp.50)'
 ---
 
 Prism Class Library

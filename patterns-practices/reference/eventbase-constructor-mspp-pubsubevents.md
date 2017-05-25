@@ -2,7 +2,7 @@
 TOCTitle: EventBase Constructor
 Title: 'EventBase Constructor (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventBase.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683937(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase.eventbase(v=pandp.50)'
 ---
 
 # EventBase Constructor

@@ -2,7 +2,7 @@
 TOCTitle: SetClearChildViews Method
 Title: 'ClearChildViewsRegionBehavior.SetClearChildViews Method (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior.SetClearChildViews(System.Windows.DependencyObject,System.Boolean)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683941(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.setclearchildviews(v=pandp.50)'
 ---
 
 # ClearChildViewsRegionBehavior.SetClearChildViews Method

@@ -2,7 +2,7 @@
 TOCTitle: IActiveAware Events
 Title: 'IActiveAware Events (Microsoft.Practices.Prism)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.IActiveAware'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405734(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.iactiveaware_events(v=pandp.50)'
 ---
 
 Prism Class Library

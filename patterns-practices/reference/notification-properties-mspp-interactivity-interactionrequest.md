@@ -2,7 +2,7 @@
 TOCTitle: Notification Properties
 Title: 'Notification Properties (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419174(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.notification_properties(v=pandp.50)'
 ---
 
 Prism Class Library

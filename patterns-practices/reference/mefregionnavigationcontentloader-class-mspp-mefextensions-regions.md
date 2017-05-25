@@ -2,7 +2,7 @@
 TOCTitle: MefRegionNavigationContentLoader Class
 Title: 'MefRegionNavigationContentLoader Class (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationContentLoader'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431465(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader(v=pandp.50)'
 ---
 
 # MefRegionNavigationContentLoader Class

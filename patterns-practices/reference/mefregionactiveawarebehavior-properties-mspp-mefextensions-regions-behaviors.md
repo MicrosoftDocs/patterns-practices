@@ -2,7 +2,7 @@
 TOCTitle: MefRegionActiveAwareBehavior Properties
 Title: 'MefRegionActiveAwareBehavior Properties (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionActiveAwareBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419183(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionactiveawarebehavior_properties(v=pandp.50)'
 ---
 
 # MefRegionActiveAwareBehavior Properties

@@ -2,7 +2,7 @@
 TOCTitle: Execute Method
 Title: 'DelegateCommand.Execute Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Commands.DelegateCommand.Execute'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419052(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand.execute(v=pandp.50)'
 ---
 
 Prism Class Library

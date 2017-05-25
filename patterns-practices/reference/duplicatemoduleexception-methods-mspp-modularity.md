@@ -2,7 +2,7 @@
 TOCTitle: DuplicateModuleException Methods
 Title: 'DuplicateModuleException Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.DuplicateModuleException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431038(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.duplicatemoduleexception_methods(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: Load Method
 Title: 'ModuleCatalog.Load Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.Load'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405882(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.load(v=pandp.50)'
 ---
 
 # ModuleCatalog.Load Method

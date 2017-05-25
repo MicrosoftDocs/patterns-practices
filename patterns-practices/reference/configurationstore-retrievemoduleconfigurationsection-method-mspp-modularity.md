@@ -2,7 +2,7 @@
 TOCTitle: RetrieveModuleConfigurationSection Method
 Title: 'ConfigurationStore.RetrieveModuleConfigurationSection Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ConfigurationStore.RetrieveModuleConfigurationSection'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405847(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.configurationstore.retrievemoduleconfigurationsection(v=pandp.50)'
 ---
 
 # ConfigurationStore.RetrieveModuleConfigurationSection Method

@@ -2,7 +2,7 @@
 TOCTitle: DuplicateModuleException Events
 Title: 'DuplicateModuleException Events (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.DuplicateModuleException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736119(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.duplicatemoduleexception_events(v=pandp.50)'
 ---
 
 Prism Class Library

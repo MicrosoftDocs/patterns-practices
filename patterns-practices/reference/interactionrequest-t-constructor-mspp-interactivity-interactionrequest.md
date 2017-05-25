@@ -2,7 +2,7 @@
 TOCTitle: 'InteractionRequest(T) Constructor'
 Title: 'InteractionRequest(T) Constructor (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequest\`1.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405569(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405569(v=pandp.50)'
 ---
 
 Prism Class Library

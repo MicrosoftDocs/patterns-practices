@@ -2,7 +2,7 @@
 TOCTitle: PopupWindowAction Properties
 Title: 'PopupWindowAction Properties (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.PopupWindowAction'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736288(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction_properties(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: CollectionType Property
 Title: 'ModuleConfigurationElementCollection.CollectionType Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection.CollectionType'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431288(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.collectiontype(v=pandp.50)'
 ---
 
 # ModuleConfigurationElementCollection.CollectionType Property

@@ -2,7 +2,7 @@
 TOCTitle: ContentControlRegionAdapter Constructor
 Title: 'ContentControlRegionAdapter Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter.\#ctor(Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405688(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.contentcontrolregionadapter.contentcontrolregionadapter(v=pandp.50)'
 ---
 
 Prism Class Library

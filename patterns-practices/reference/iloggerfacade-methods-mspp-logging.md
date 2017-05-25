@@ -2,7 +2,7 @@
 TOCTitle: ILoggerFacade Methods
 Title: 'ILoggerFacade Methods (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Logging.ILoggerFacade'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431002(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.iloggerfacade_methods(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: IView Interface
 Title: 'IView Interface (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Mvvm.IView'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683944(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.iview(v=pandp.50)'
 ---
 
 # IView Interface

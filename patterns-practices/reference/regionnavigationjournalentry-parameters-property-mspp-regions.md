@@ -2,7 +2,7 @@
 TOCTitle: Parameters Property
 Title: 'RegionNavigationJournalEntry.Parameters Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry.Parameters'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736307(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournalentry.parameters(v=pandp.50)'
 ---
 
 Prism Class Library

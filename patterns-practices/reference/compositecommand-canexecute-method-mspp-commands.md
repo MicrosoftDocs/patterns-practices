@@ -2,7 +2,7 @@
 TOCTitle: CanExecute Method
 Title: 'CompositeCommand.CanExecute Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.CanExecute(System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405748(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand.canexecute(v=pandp.50)'
 ---
 
 Prism Class Library

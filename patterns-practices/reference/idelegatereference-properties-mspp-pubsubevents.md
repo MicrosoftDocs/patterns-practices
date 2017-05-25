@@ -2,7 +2,7 @@
 TOCTitle: IDelegateReference Properties
 Title: 'IDelegateReference Properties (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.IDelegateReference'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736152(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference_properties(v=pandp.50)'
 ---
 
 

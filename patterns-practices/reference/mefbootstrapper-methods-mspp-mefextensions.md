@@ -2,7 +2,7 @@
 TOCTitle: MefBootstrapper Methods
 Title: 'MefBootstrapper Methods (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431007(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper_methods(v=pandp.50)'
 ---
 
 
@@ -35,8 +35,8 @@ The [MefBootstrapper](https://msdn.microsoft.com/en-us/library/microsoft.practic
 |![](https://msdn.microsoft.com/en-us/Gg431007.protmethod(en-us,PandP.50).gif "Protected method")|[RegisterBootstrapperProvidedTypes](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper.registerbootstrapperprovidedtypes(v=pandp.50))|Helper method for configuring the [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553). Registers all the types direct instantiated by the bootstrapper with the container.|
 |![](images/public-method.gif "Public method")|[RegisterDefaultTypesIfMissing](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper.registerdefaulttypesifmissing(v=pandp.50))|Helper method for configuring the [CompositionContainer](http://msdn2.microsoft.com/en-us/library/dd833553). Registers defaults for all the types necessary for Prism to work, if they are not already registered.|
 |![](https://msdn.microsoft.com/en-us/Gg431007.protmethod(en-us,PandP.50).gif "Protected method")|[RegisterFrameworkExceptionTypes](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper.registerframeworkexceptiontypes(v=pandp.50))|Registers the [Type](http://msdn2.microsoft.com/en-us/library/42892f65)s of the Exceptions that are not considered root exceptions by the[ExceptionExtensions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.exceptionextensions(v=pandp.50)).(Inherited from [Bootstrapper](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper(v=pandp.50)).)|
-|![](images/public-method.gif "Public method")|[Run()](https://msdn.microsoft.com/en-us/library/gg405739(v=pandp.50))|Runs the bootstrapper process.(Inherited from [Bootstrapper](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper(v=pandp.50)).)|
-|![](images/public-method.gif "Public method")|[Run(Boolean)](https://msdn.microsoft.com/en-us/library/gg405830(v=pandp.50)))|Run the bootstrapper process.(Overrides [Bootstrapper.Run(Boolean)](https://msdn.microsoft.com/en-us/library/gg405740(v=pandp.50)).)|
+|![](images/public-method.gif "Public method")|[Run()](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper.run(v=pandp.50))|Runs the bootstrapper process.(Inherited from [Bootstrapper](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper(v=pandp.50)).)|
+|![](images/public-method.gif "Public method")|[Run(Boolean)](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper.run(v=pandp.50)))|Run the bootstrapper process.(Overrides [Bootstrapper.Run(Boolean)](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper.run(v=pandp.50)).)|
 |![](images/public-method.gif "Public method")|[ToString](http://msdn2.microsoft.com/en-us/library/7bxwbwt2)|Returns a string that represents the current object.(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
 
 

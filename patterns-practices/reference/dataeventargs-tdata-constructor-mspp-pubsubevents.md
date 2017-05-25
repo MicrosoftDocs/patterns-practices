@@ -2,7 +2,7 @@
 TOCTitle: 'DataEventArgs(TData) Constructor'
 Title: 'DataEventArgs(TData) Constructor (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.DataEventArgs\`1.\#ctor(\`0)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736134(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736134(v=pandp.50)'
 ---
 
 Prism Class Library

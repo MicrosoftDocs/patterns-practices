@@ -2,7 +2,7 @@
 TOCTitle: Register Method
 Title: 'ViewModelLocationProvider.Register Method (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Mvvm.ViewModelLocationProvider.Register(System.String,System.Func{System.Object})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683961(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.viewmodellocationprovider.register(v=pandp.50)'
 ---
 
 # ViewModelLocationProvider.Register Method 

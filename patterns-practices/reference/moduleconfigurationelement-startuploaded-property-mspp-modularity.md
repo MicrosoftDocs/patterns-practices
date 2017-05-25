@@ -2,7 +2,7 @@
 TOCTitle: StartupLoaded Property
 Title: 'ModuleConfigurationElement.StartupLoaded Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement.StartupLoaded'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431296(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelement.startuploaded(v=pandp.50)'
 ---
 
 Prism Class Library

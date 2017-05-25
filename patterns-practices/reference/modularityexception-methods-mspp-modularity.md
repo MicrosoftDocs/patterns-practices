@@ -2,7 +2,7 @@
 TOCTitle: ModularityException Methods
 Title: 'ModularityException Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModularityException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431048(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception_methods(v=pandp.50)'
 ---
 
 Prism Class Library

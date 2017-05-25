@@ -2,7 +2,7 @@
 TOCTitle: Confirmation Property
 Title: 'DefaultConfirmationWindow.Confirmation Property (Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultConfirmationWindow.Confirmation'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736285(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow.confirmation(v=pandp.50)'
 ---
 
 Prism Class Library

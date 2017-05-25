@@ -2,7 +2,7 @@
 TOCTitle: FileModuleTypeLoader Methods
 Title: 'FileModuleTypeLoader Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431039(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader_methods(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: LoadModuleCompleted Event
 Title: 'MefFileModuleTypeLoader.LoadModuleCompleted Event (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'E:Microsoft.Practices.Prism.MefExtensions.Modularity.MefFileModuleTypeLoader.LoadModuleCompleted'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430919(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader.loadmodulecompleted(v=pandp.50)'
 ---
 
 Prism Class Library

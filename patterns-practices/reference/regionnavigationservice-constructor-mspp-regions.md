@@ -2,7 +2,7 @@
 TOCTitle: RegionNavigationService Constructor
 Title: 'RegionNavigationService Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationService.\#ctor(Microsoft.Practices.ServiceLocation.IServiceLocator,Microsoft.Practices.Prism.Regions.IRegionNavigationContentLoader,Microsoft.Practices.Prism.Regions.IRegionNavigationJournal)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405707(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice.regionnavigationservice(v=pandp.50)'
 ---
 
 Prism Class Library

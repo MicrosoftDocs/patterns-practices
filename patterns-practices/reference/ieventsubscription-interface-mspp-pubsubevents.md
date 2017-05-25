@@ -2,7 +2,7 @@
 TOCTitle: IEventSubscription Interface
 Title: 'IEventSubscription Interface (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'T:Microsoft.Practices.Prism.PubSubEvents.IEventSubscription'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736178(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50)'
 ---
 
 # IEventSubscription Interface

@@ -2,7 +2,7 @@
 TOCTitle: ContainsKey Method
 Title: 'ListDictionary(TKey, TValue).ContainsKey Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.ContainsKey(\`0)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405799(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405799(v=pandp.50)'
 ---
 
 Prism Class Library

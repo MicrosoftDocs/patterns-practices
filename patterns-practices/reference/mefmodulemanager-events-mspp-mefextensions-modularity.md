@@ -2,7 +2,7 @@
 TOCTitle: MefModuleManager Events
 Title: 'MefModuleManager Events (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430890(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager_events(v=pandp.50)'
 ---
 
 Prism Class Library

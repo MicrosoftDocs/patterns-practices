@@ -2,7 +2,7 @@
 TOCTitle: 'InteractionRequest(T) Members'
 Title: 'InteractionRequest(T) Members (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequest\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430785(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg430785(v=pandp.50)'
 ---
 
 Prism Class Library

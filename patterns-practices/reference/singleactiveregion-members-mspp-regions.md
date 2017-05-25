@@ -2,7 +2,7 @@
 TOCTitle: SingleActiveRegion Members
 Title: 'SingleActiveRegion Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.SingleActiveRegion'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405518(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.singleactiveregion_members(v=pandp.50)'
 ---
 
 Prism Class Library

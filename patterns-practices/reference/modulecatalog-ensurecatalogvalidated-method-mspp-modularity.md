@@ -2,7 +2,7 @@
 TOCTitle: EnsureCatalogValidated Method
 Title: 'ModuleCatalog.EnsureCatalogValidated Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.EnsureCatalogValidated'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405877(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.ensurecatalogvalidated(v=pandp.50)'
 ---
 
 Prism Class Library

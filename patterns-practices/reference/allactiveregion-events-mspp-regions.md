@@ -2,7 +2,7 @@
 TOCTitle: AllActiveRegion Events
 Title: 'AllActiveRegion Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.AllActiveRegion'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430898(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.allactiveregion_events(v=pandp.50)'
 ---
 
 Prism Class Library

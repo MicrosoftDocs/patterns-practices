@@ -2,7 +2,7 @@
 TOCTitle: PopupWindowAction Fields
 Title: 'PopupWindowAction Fields (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Interactivity.PopupWindowAction'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736116(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction_fields(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: 'NavigationResult Constructor (NavigationContext, Exception)'
 Title: 'NavigationResult Constructor (NavigationContext, Exception) (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationResult.\#ctor(Microsoft.Practices.Prism.Regions.NavigationContext,System.Exception)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405692(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult.navigationresult(v=pandp.50)'
 ---
 
 Prism Class Library

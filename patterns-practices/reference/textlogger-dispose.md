@@ -2,7 +2,7 @@
 TOCTitle: Dispose Method
 Title: 'TextLogger.Dispose Method (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Logging.TextLogger.Dispose'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405816(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.textlogger.dispose(v=pandp.50)'
 ---
 
 Prism Class Library

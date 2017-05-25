@@ -2,7 +2,7 @@
 TOCTitle: ConfigurationStore Class
 Title: 'ConfigurationStore Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ConfigurationStore'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431473(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.configurationstore(v=pandp.50)'
 ---
 
 # ConfigurationStore Class

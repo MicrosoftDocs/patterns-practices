@@ -2,7 +2,7 @@
 TOCTitle: Contains Method
 Title: 'IViewsCollection.Contains Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IViewsCollection.Contains(System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405987(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iviewscollection.contains(v=pandp.50)'
 ---
 
 Prism Class Library

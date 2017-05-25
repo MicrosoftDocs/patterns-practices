@@ -2,7 +2,7 @@
 TOCTitle: 'DataEventArgs(TData) Methods'
 Title: 'DataEventArgs(TData) Methods (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.DataEventArgs\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736212(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736212(v=pandp.50)'
 ---
 
 Prism Class Library

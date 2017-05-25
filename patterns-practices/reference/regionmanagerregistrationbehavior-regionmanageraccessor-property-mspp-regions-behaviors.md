@@ -2,7 +2,7 @@
 TOCTitle: RegionManagerAccessor Property
 Title: 'RegionManagerRegistrationBehavior.RegionManagerAccessor Property (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior.RegionManagerAccessor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431332(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior.regionmanageraccessor(v=pandp.50)'
 ---
 
 # RegionManagerRegistrationBehavior.RegionManagerAccessor Property

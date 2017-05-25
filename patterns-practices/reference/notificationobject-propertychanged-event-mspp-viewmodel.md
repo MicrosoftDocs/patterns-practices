@@ -2,7 +2,7 @@
 TOCTitle: PropertyChanged Event
 Title: 'NotificationObject.PropertyChanged Event (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'E:Microsoft.Practices.Prism.ViewModel.NotificationObject.PropertyChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430943(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.notificationobject.propertychanged(v=pandp.50)'
 ---
 
 Prism Class Library

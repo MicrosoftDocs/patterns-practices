@@ -2,7 +2,7 @@
 TOCTitle: RegisterBootstrapperProvidedTypes Method
 Title: 'MefBootstrapper.RegisterBootstrapperProvidedTypes Method (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.RegisterBootstrapperProvidedTypes'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405828(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper.registerbootstrapperprovidedtypes(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: 'ViewRegistrationException Constructor (String, Exception)'
 Title: 'ViewRegistrationException Constructor (String, Exception) (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewRegistrationException.\#ctor(System.String,System.Exception)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405719(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregistrationexception.viewregistrationexception(v=pandp.50)'
 ---
 
 Prism Class Library

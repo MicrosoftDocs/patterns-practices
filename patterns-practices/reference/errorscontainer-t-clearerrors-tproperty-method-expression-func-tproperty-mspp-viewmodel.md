@@ -2,7 +2,7 @@
 TOCTitle: 'ClearErrors(TProperty) Method (Expression(Func(TProperty)))'
 Title: 'ErrorsContainer(T).ClearErrors(TProperty) Method (Expression(Func(TProperty))) (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.ClearErrors\`\`1(System.Linq.Expressions.Expression{System.Func{\`\`0}})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg406216(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg406216(v=pandp.50)'
 ---
 
 Prism Class Library

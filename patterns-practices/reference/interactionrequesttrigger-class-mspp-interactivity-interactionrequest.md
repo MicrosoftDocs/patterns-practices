@@ -2,7 +2,7 @@
 TOCTitle: InteractionRequestTrigger Class
 Title: 'InteractionRequestTrigger Class (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestTrigger'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431431(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger(v=pandp.50)'
 ---
 
 # InteractionRequestTrigger Class

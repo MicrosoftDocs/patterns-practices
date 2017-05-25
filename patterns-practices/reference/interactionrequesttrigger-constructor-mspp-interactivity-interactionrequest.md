@@ -2,7 +2,7 @@
 TOCTitle: InteractionRequestTrigger Constructor
 Title: 'InteractionRequestTrigger Constructor (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestTrigger.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405568(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger.interactionrequesttrigger(v=pandp.50)'
 ---
 
 # InteractionRequestTrigger Constructor

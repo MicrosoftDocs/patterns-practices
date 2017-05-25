@@ -2,7 +2,7 @@
 TOCTitle: SingleActiveRegion Events
 Title: 'SingleActiveRegion Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.SingleActiveRegion'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430910(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.singleactiveregion_events(v=pandp.50)'
 ---
 
 Prism Class Library

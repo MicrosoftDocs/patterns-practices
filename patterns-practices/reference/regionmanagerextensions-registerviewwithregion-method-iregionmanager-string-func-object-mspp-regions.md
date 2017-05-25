@@ -2,7 +2,7 @@
 TOCTitle: 'RegisterViewWithRegion Method (IRegionManager, String, Func(Object))'
 Title: 'RegionManagerExtensions.RegisterViewWithRegion Method (IRegionManager, String, Func(Object)) (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManagerExtensions.RegisterViewWithRegion(Microsoft.Practices.Prism.Regions.IRegionManager,System.String,System.Func{System.Object})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg406467(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanagerextensions.registerviewwithregion(v=pandp.50)'
 ---
 
 Prism Class Library

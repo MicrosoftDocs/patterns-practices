@@ -2,7 +2,7 @@
 TOCTitle: MefFileModuleTypeLoader Constructor
 Title: 'MefFileModuleTypeLoader Constructor (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefFileModuleTypeLoader.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405580(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader.meffilemoduletypeloader(v=pandp.50)'
 ---
 
 # MefFileModuleTypeLoader Constructor

@@ -2,7 +2,7 @@
 TOCTitle: 'FromAsyncHandler Method (Func(Task))'
 Title: 'DelegateCommand.FromAsyncHandler Method (Func(Task)) (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand.FromAsyncHandler(System.Func{System.Threading.Tasks.Task})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736189(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand.fromasynchandler(v=pandp.50)'
 ---
 
 Prism Class Library

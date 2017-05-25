@@ -2,7 +2,7 @@
 TOCTitle: Name Property
 Title: 'IRegion.Name Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegion.Name'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431351(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion.name(v=pandp.50)'
 ---
 
 Prism Class Library

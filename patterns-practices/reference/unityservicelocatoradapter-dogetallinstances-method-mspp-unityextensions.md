@@ -2,7 +2,7 @@
 TOCTitle: DoGetAllInstances Method
 Title: 'UnityServiceLocatorAdapter.DoGetAllInstances Method (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityServiceLocatorAdapter.DoGetAllInstances(System.Type)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419015(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter.dogetallinstances(v=pandp.50)'
 ---
 
 Prism Class Library

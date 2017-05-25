@@ -2,7 +2,7 @@
 TOCTitle: ContentControlRegionAdapter Methods
 Title: 'ContentControlRegionAdapter Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431080(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.contentcontrolregionadapter_methods(v=pandp.50)'
 ---
 
 Prism Class Library

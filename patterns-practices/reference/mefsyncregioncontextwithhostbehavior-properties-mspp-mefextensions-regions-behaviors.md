@@ -2,7 +2,7 @@
 TOCTitle: MefSyncRegionContextWithHostBehavior Properties
 Title: 'MefSyncRegionContextWithHostBehavior Properties (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSyncRegionContextWithHostBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419187(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefsyncregioncontextwithhostbehavior_properties(v=pandp.50)'
 ---
 
 Prism Class Library

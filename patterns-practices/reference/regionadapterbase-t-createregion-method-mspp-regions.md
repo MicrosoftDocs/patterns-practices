@@ -2,7 +2,7 @@
 TOCTitle: CreateRegion Method
 Title: 'RegionAdapterBase(T).CreateRegion Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionAdapterBase\`1.CreateRegion'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418935(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg418935(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: 'AddModule Method (ModuleInfoGroup, String, Type, String[])'
 Title: 'ModuleInfoGroupExtensions.AddModule Method (ModuleInfoGroup, String, Type, String[]) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroupExtensions.AddModule(Microsoft.Practices.Prism.Modularity.ModuleInfoGroup,System.String,System.Type,System.String[])'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405903(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroupextensions.addmodule(v=pandp.50)'
 ---
 
 Prism Class Library

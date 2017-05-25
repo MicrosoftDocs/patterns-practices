@@ -2,7 +2,7 @@
 TOCTitle: ILoggerFacade Interface
 Title: 'ILoggerFacade Interface (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Logging.ILoggerFacade'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431437(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.iloggerfacade(v=pandp.50)'
 ---
 
 # ILoggerFacade Interface

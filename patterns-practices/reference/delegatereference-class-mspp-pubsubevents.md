@@ -2,7 +2,7 @@
 TOCTitle: DelegateReference Class
 Title: 'DelegateReference Class (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'T:Microsoft.Practices.Prism.PubSubEvents.DelegateReference'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736244(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.delegatereference(v=pandp.50)'
 ---
 
 # DelegateReference Class

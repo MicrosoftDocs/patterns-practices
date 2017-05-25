@@ -2,7 +2,7 @@
 TOCTitle: CommandProperty Field
 Title: 'InvokeCommandAction.CommandProperty Field (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'F:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.CommandProperty'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736221(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.commandproperty(v=pandp.50)'
 ---
 
 InvokeCommandAction.CommandProperty Field

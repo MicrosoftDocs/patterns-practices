@@ -2,7 +2,7 @@
 TOCTitle: ContainsRegionWithName Method
 Title: 'IRegionCollection.ContainsRegionWithName Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionCollection.ContainsRegionWithName(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405964(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection.containsregionwithname(v=pandp.50)'
 ---
 
 # IRegionCollection.ContainsRegionWithName Method

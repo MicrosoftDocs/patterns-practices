@@ -2,7 +2,7 @@
 TOCTitle: InitializationMode Property
 Title: 'IModuleExport.InitializationMode Property (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.MefExtensions.Modularity.IModuleExport.InitializationMode'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431264(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport.initializationmode(v=pandp.50)'
 ---
 
 Prism Class Library

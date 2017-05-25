@@ -2,7 +2,7 @@
 TOCTitle: DoGetInstance Method
 Title: 'MefServiceLocatorAdapter.DoGetInstance Method (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefServiceLocatorAdapter.DoGetInstance(System.Type,System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405832(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter.dogetinstance(v=pandp.50)'
 ---
 
 Prism Class Library

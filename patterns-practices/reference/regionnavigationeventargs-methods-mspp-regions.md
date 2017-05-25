@@ -2,7 +2,7 @@
 TOCTitle: RegionNavigationEventArgs Methods
 Title: 'RegionNavigationEventArgs Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.RegionNavigationEventArgs'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431123(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationeventargs_methods(v=pandp.50)'
 ---
 
 # RegionNavigationEventArgs Methods

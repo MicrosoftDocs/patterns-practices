@@ -2,7 +2,7 @@
 TOCTitle: 'Microsoft.Practices.Prism.UnityExtensions Namespace'
 Title: 'Microsoft.Practices.Prism.UnityExtensions Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.UnityExtensions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419046(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions(v=pandp.50)'
 ---
 
 Prism Class Library

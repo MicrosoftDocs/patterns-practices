@@ -2,7 +2,7 @@
 TOCTitle: RegionName Attached Property
 Title: 'RegionManager.RegionName Attached Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionManager.RegionName'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431371(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager.regionname(v=pandp.50)'
 ---
 
 Prism Class Library

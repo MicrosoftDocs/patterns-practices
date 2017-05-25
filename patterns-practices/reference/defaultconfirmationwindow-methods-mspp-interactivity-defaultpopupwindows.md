@@ -2,7 +2,7 @@
 TOCTitle: DefaultConfirmationWindow Methods
 Title: 'DefaultConfirmationWindow Methods (Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultConfirmationWindow'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736273(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow_methods(v=pandp.50)'
 ---
 
 Prism Class Library

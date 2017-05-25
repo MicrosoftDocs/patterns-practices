@@ -2,7 +2,7 @@
 TOCTitle: Bootstrapper Properties
 Title: 'Bootstrapper Properties (Microsoft.Practices.Prism)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Bootstrapper'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419154(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper_properties(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: ViewRegistrationException Constructor
 Title: 'ViewRegistrationException Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.ViewRegistrationException.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419144(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregistrationexception.viewregistrationexception(v=pandp.50)'
 ---
 
 # ViewRegistrationException Constructor

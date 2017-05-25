@@ -2,7 +2,7 @@
 TOCTitle: ClearChildViewsRegionBehavior Methods
 Title: 'ClearChildViewsRegionBehavior Methods (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683943(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior_methods(v=pandp.50)'
 ---
 
 # ClearChildViewsRegionBehavior Methods

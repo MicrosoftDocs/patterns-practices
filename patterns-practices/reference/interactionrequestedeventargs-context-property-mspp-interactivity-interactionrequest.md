@@ -2,7 +2,7 @@
 TOCTitle: Context Property
 Title: 'InteractionRequestedEventArgs.Context Property (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestedEventArgs.Context'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431252(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs.context(v=pandp.50)'
 ---
 
 Prism Class Library

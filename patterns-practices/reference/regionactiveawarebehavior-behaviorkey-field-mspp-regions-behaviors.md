@@ -2,7 +2,7 @@
 TOCTitle: BehaviorKey Field
 Title: 'RegionActiveAwareBehavior.BehaviorKey Field (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'F:Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior.BehaviorKey'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430960(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior.behaviorkey(v=pandp.50)'
 ---
 
 Prism Class Library

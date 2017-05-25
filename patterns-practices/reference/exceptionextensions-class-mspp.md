@@ -2,7 +2,7 @@
 TOCTitle: ExceptionExtensions Class
 Title: 'ExceptionExtensions Class (Microsoft.Practices.Prism)'
 ms:assetid: 'T:Microsoft.Practices.Prism.ExceptionExtensions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431426(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.exceptionextensions(v=pandp.50)'
 ---
 
 Prism Class Library

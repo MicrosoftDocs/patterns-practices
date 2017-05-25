@@ -2,7 +2,7 @@
 TOCTitle: 'FileModuleTypeLoader Constructor (IAssemblyResolver)'
 Title: 'FileModuleTypeLoader Constructor (IAssemblyResolver) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader.\#ctor(Microsoft.Practices.Prism.Modularity.IAssemblyResolver)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405620(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader.filemoduletypeloader(v=pandp.50)'
 ---
 
 Prism Class Library

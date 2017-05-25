@@ -2,7 +2,7 @@
 TOCTitle: GetObjectData Method
 Title: 'ModularityException.GetObjectData Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModularityException.GetObjectData(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405866(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception.getobjectdata(v=pandp.50)'
 ---
 
 # ModularityException.GetObjectData Method 

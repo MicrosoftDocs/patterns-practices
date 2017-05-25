@@ -2,7 +2,7 @@
 TOCTitle: IRegionViewRegistry Methods
 Title: 'IRegionViewRegistry Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegionViewRegistry'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431095(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionviewregistry_methods(v=pandp.50)'
 ---
 
 Prism Class Library

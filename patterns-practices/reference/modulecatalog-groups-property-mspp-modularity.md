@@ -2,7 +2,7 @@
 TOCTitle: Groups Property
 Title: 'ModuleCatalog.Groups Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleCatalog.Groups'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431284(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.groups(v=pandp.50)'
 ---
 
 Prism Class Library

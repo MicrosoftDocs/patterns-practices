@@ -2,7 +2,7 @@
 TOCTitle: DirectoryModuleCatalog Methods
 Title: 'DirectoryModuleCatalog Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431037(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.directorymodulecatalog_methods(v=pandp.50)'
 ---
 
 Prism Class Library

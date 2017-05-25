@@ -2,7 +2,7 @@
 TOCTitle: Context Property
 Title: 'Region.Context Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.Context'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431388(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.context(v=pandp.50)'
 ---
 
 Prism Class Library

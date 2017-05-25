@@ -2,7 +2,7 @@
 TOCTitle: IRegionManagerAccessor Methods
 Title: 'IRegionManagerAccessor Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegionManagerAccessor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431091(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor_methods(v=pandp.50)'
 ---
 
 # IRegionManagerAccessor Methods

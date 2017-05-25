@@ -2,7 +2,7 @@
 TOCTitle: RegionNavigationFailedEventArgs Methods
 Title: 'RegionNavigationFailedEventArgs Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.RegionNavigationFailedEventArgs'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431124(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs_methods(v=pandp.50)'
 ---
 
 Prism Class Library

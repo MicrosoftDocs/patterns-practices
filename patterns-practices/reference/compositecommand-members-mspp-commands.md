@@ -2,7 +2,7 @@
 TOCTitle: CompositeCommand Members
 Title: 'CompositeCommand Members (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Commands.CompositeCommand'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430760(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand_members(v=pandp.50)'
 ---
 
 Prism Class Library

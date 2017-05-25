@@ -2,7 +2,7 @@
 TOCTitle: Ref Property
 Title: 'ModuleInfoGroup.Ref Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Ref'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431312(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup.ref(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: 'DispatcherEventSubscription(TPayload) Constructor'
 Title: 'DispatcherEventSubscription(TPayload) Constructor (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscription\`1.\#ctor(Microsoft.Practices.Prism.PubSubEvents.IDelegateReference,Microsoft.Practices.Prism.PubSubEvents.IDelegateReference,System.Threading.SynchronizationContext)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736173(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736173(v=pandp.50)'
 ---
 
 Prism Class Library

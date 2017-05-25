@@ -2,7 +2,7 @@
 TOCTitle: GoBack Method
 Title: 'RegionNavigationJournal.GoBack Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationJournal.GoBack'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418975(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournal.goback(v=pandp.50)'
 ---
 
 Prism Class Library

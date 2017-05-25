@@ -2,7 +2,7 @@
 TOCTitle: DefaultNotificationWindow Events
 Title: 'DefaultNotificationWindow Events (Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultNotificationWindow'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736242(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow_events(v=pandp.50)'
 ---
 
 # DefaultNotificationWindow Events

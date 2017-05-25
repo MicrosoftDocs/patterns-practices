@@ -2,7 +2,7 @@
 TOCTitle: RegionActiveAwareBehavior Fields
 Title: 'RegionActiveAwareBehavior Fields (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430948(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior_fields(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: ModuleInitializeException Members
 Title: 'ModuleInitializeException Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleInitializeException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430849(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception_members(v=pandp.50)'
 ---
 
 Prism Class Library

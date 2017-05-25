@@ -2,7 +2,7 @@
 TOCTitle: OnDemand Property
 Title: 'ModuleAttribute.OnDemand Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleAttribute.OnDemand'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431281(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleattribute.ondemand(v=pandp.50)'
 ---
 
 Prism Class Library

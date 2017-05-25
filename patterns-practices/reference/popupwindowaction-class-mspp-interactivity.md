@@ -2,7 +2,7 @@
 TOCTitle: PopupWindowAction Class
 Title: 'PopupWindowAction Class (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Interactivity.PopupWindowAction'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736112(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction(v=pandp.50)'
 ---
 
 # PopupWindowAction Class

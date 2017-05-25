@@ -2,7 +2,7 @@
 TOCTitle: Confirmed Property
 Title: 'Confirmation.Confirmed Property (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confirmation.Confirmed'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431250(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation.confirmed(v=pandp.50)'
 ---
 
 Prism Class Library

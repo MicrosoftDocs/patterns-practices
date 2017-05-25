@@ -2,7 +2,7 @@
 TOCTitle: MefRegionActiveAwareBehavior Methods
 Title: 'MefRegionActiveAwareBehavior Methods (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionActiveAwareBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431017(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionactiveawarebehavior_methods(v=pandp.50)'
 ---
 
 Prism Class Library

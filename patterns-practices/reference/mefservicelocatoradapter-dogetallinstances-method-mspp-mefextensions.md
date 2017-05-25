@@ -2,7 +2,7 @@
 TOCTitle: DoGetAllInstances Method
 Title: 'MefServiceLocatorAdapter.DoGetAllInstances Method (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefServiceLocatorAdapter.DoGetAllInstances(System.Type)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405831(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter.dogetallinstances(v=pandp.50)'
 ---
 
 Prism Class Library

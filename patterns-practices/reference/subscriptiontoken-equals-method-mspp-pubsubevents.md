@@ -2,7 +2,7 @@
 TOCTitle: Equals Method
 Title: 'SubscriptionToken.Equals Method (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken.Equals'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736295(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken.equals(v=pandp.50)'
 ---
 
 Prism Class Library

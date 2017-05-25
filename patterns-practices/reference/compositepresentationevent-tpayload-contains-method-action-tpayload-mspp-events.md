@@ -2,7 +2,7 @@
 TOCTitle: 'Contains Method (Action(TPayload))'
 Title: 'CompositePresentationEvent(TPayload).Contains Method (Action(TPayload)) (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Contains(System.Action{\`0})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405766(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405766(v=pandp.50)'
 ---
 
 Prism Class Library

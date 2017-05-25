@@ -2,7 +2,7 @@
 TOCTitle: BindableBase Constructor
 Title: 'BindableBase Constructor (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Mvvm.BindableBase.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683954(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase.bindablebase(v=pandp.50)'
 ---
 
 Prism Class Library

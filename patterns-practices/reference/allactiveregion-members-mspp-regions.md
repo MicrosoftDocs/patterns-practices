@@ -2,7 +2,7 @@
 TOCTitle: AllActiveRegion Members
 Title: 'AllActiveRegion Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.AllActiveRegion'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430860(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.allactiveregion_members(v=pandp.50)'
 ---
 
 Prism Class Library

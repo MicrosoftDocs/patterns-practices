@@ -2,7 +2,7 @@
 TOCTitle: FinishInteraction Property
 Title: 'IInteractionRequestAware.FinishInteraction Property (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.InteractionRequest.IInteractionRequestAware.FinishInteraction'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736131(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware.finishinteraction(v=pandp.50)'
 ---
 
 Prism Class Library

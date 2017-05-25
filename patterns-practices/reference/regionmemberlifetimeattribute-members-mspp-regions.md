@@ -2,7 +2,7 @@
 TOCTitle: RegionMemberLifetimeAttribute Members
 Title: 'RegionMemberLifetimeAttribute Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.RegionMemberLifetimeAttribute'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405509(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute_members(v=pandp.50)'
 ---
 
 Prism Class Library

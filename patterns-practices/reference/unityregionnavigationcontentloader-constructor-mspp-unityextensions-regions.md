@@ -2,7 +2,7 @@
 TOCTitle: UnityRegionNavigationContentLoader Constructor
 Title: 'UnityRegionNavigationContentLoader Constructor (Microsoft.Practices.Prism.UnityExtensions.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLoader.\#ctor(Microsoft.Practices.ServiceLocation.IServiceLocator,Microsoft.Practices.Unity.IUnityContainer)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683964(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader.unityregionnavigationcontentloader(v=pandp.50)'
 ---
 
 # UnityRegionNavigationContentLoader Constructor

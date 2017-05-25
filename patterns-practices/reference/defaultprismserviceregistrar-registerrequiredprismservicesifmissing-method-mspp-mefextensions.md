@@ -2,7 +2,7 @@
 TOCTitle: RegisterRequiredPrismServicesIfMissing Method
 Title: 'DefaultPrismServiceRegistrar.RegisterRequiredPrismServicesIfMissing Method (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.DefaultPrismServiceRegistrar.RegisterRequiredPrismServicesIfMissing(System.ComponentModel.Composition.Hosting.AggregateCatalog)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405820(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.defaultprismserviceregistrar.registerrequiredprismservicesifmissing(v=pandp.50)'
 ---
 
 Prism Class Library

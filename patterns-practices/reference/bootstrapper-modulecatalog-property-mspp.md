@@ -2,7 +2,7 @@
 TOCTitle: ModuleCatalog Property
 Title: 'Bootstrapper.ModuleCatalog Property (Microsoft.Practices.Prism)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Bootstrapper.ModuleCatalog'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431232(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper.modulecatalog(v=pandp.50)'
 ---
 
 # Bootstrapper.ModuleCatalog Property

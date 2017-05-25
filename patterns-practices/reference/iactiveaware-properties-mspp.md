@@ -2,7 +2,7 @@
 TOCTitle: IActiveAware Properties
 Title: 'IActiveAware Properties (Microsoft.Practices.Prism)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.IActiveAware'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419170(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.iactiveaware_properties(v=pandp.50)'
 ---
 
 Prism Class Library

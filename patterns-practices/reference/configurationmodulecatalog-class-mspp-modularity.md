@@ -2,7 +2,7 @@
 TOCTitle: ConfigurationModuleCatalog Class
 Title: 'ConfigurationModuleCatalog Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ConfigurationModuleCatalog'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431472(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.configurationmodulecatalog(v=pandp.50)'
 ---
 
 Prism Class Library

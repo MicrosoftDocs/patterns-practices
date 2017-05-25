@@ -2,7 +2,7 @@
 TOCTitle: RegionContext Members
 Title: 'RegionContext Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.RegionContext'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405506(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regioncontext_members(v=pandp.50)'
 ---
 
 Prism Class Library

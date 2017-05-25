@@ -2,7 +2,7 @@
 TOCTitle: INavigateAsync Methods
 Title: 'INavigateAsync Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.INavigateAsync'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431082(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync_methods(v=pandp.50)'
 ---
 
 # INavigateAsync Methods
@@ -32,7 +32,7 @@ The [INavigateAsync](https://msdn.microsoft.com/library/microsoft.practices.pris
     
   </td>
   <td>
-    <a href="https://msdn.microsoft.com/en-us/library/gg405952(v=pandp.50)">RequestNavigate(Uri, Action(Of NavigationResult))</a>
+    <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync.requestnavigate(v=pandp.50)">RequestNavigate(Uri, Action(Of NavigationResult))</a>
   </td>
   <td>
     <div>
@@ -46,7 +46,7 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
 ![](images/public-method.gif "Public method")
   </td>
   <td>
-    <a href="https://msdn.microsoft.com/en-us/library/dn736274(v=pandp.50)">RequestNavigate(Uri, Action(Of NavigationResult), NavigationParameters)</a>
+    <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync.requestnavigate(v=pandp.50)">RequestNavigate(Uri, Action(Of NavigationResult), NavigationParameters)</a>
   </td>
   <td>
     <div>
@@ -80,7 +80,7 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
 ![](https://msdn.microsoft.com/en-us/Gg431082.pubextension(en-us,PandP.50).gif "Public Extension Method")
 </td>
 <td>
-<a href="https://msdn.microsoft.com/en-us/library/gg405988(v=pandp.50)">RequestNavigate(String)</a>
+<a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions.requestnavigate(v=pandp.50)">RequestNavigate(String)</a>
 </td>
 <td>Overloaded.<div>
 Initiates navigation to the target specified by the target</span>.
@@ -92,7 +92,7 @@ Initiates navigation to the target specified by the target</span>.
 ![](https://msdn.microsoft.com/en-us/Gg431082.pubextension(en-us,PandP.50).gif "Public Extension Method")
 </td>
 <td>
-<a href="https://msdn.microsoft.com/en-us/library/gg405989(v=pandp.50)">RequestNavigate(Uri)</a>
+<a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions.requestnavigate(v=pandp.50)">RequestNavigate(Uri)</a>
 </td>
 <td>Overloaded.<div>
 Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a" target="_blank">Uri</a>.
@@ -104,7 +104,7 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
 ![](https://msdn.microsoft.com/en-us/Gg431082.pubextension(en-us,PandP.50).gif "Public Extension Method")
 </td>
 <td>
-<a href="https://msdn.microsoft.com/en-us/library/gg405990(v=pandp.50)">RequestNavigate(String, Action(Of NavigationResult))</a>
+<a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions.requestnavigate(v=pandp.50)">RequestNavigate(String, Action(Of NavigationResult))</a>
 </td>
 <td>Overloaded.<div>
 Initiates navigation to the target specified by the target.
@@ -116,7 +116,7 @@ Initiates navigation to the target specified by the target.
 ![](https://msdn.microsoft.com/en-us/Gg431082.pubextension(en-us,PandP.50).gif "Public Extension Method")
 </td>
 <td>
-<a href="https://msdn.microsoft.com/en-us/library/dn736248(v=pandp.50)">RequestNavigate(Uri, NavigationParameters)</a>
+<a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions.requestnavigate(v=pandp.50)">RequestNavigate(Uri, NavigationParameters)</a>
 </td>
 <td>Overloaded.<div>
 Initiates navigation to the target specified by the target.
@@ -128,7 +128,7 @@ Initiates navigation to the target specified by the target.
 ![](https://msdn.microsoft.com/en-us/Gg431082.pubextension(en-us,PandP.50).gif "Public Extension Method")
 </td>
 <td>
-<a href="https://msdn.microsoft.com/en-us/library/dn736211(v=pandp.50)">RequestNavigate(String, NavigationParameters)</a>
+<a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions.requestnavigate(v=pandp.50)">RequestNavigate(String, NavigationParameters)</a>
 </td>
 <td>Overloaded.<div>
 Initiates navigation to the target specified by the target.
@@ -140,7 +140,7 @@ Initiates navigation to the target specified by the target.
 ![](https://msdn.microsoft.com/en-us/Gg431082.pubextension(en-us,PandP.50).gif "Public Extension Method")
 </td>
 <td>
-<a href="https://msdn.microsoft.com/en-us/library/dn736275(v=pandp.50)">RequestNavigate(String, Action(Of NavigationResult), NavigationParameters)</a>
+<a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions.requestnavigate(v=pandp.50)">RequestNavigate(String, Action(Of NavigationResult), NavigationParameters)</a>
 </td>
 <td>Overloaded.<div>
 Initiates navigation to the target specified by the target.

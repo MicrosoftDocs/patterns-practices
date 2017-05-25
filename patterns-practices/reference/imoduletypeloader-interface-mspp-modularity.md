@@ -2,7 +2,7 @@
 TOCTitle: IModuleTypeLoader Interface
 Title: 'IModuleTypeLoader Interface (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.IModuleTypeLoader'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431485(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader(v=pandp.50)'
 ---
 
 Prism Class Library

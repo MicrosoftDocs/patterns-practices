@@ -2,7 +2,7 @@
 TOCTitle: Clear Method
 Title: 'RegionNavigationJournal.Clear Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationJournal.Clear'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418974(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournal.clear(v=pandp.50)'
 ---
 
 Prism Class Library

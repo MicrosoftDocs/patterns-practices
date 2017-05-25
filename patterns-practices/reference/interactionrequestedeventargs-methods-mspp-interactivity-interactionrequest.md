@@ -2,7 +2,7 @@
 TOCTitle: InteractionRequestedEventArgs Methods
 Title: 'InteractionRequestedEventArgs Methods (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestedEventArgs'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430994(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs_methods(v=pandp.50)'
 ---
 
 Prism Class Library

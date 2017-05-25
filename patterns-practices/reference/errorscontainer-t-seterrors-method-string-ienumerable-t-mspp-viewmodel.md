@@ -2,7 +2,7 @@
 TOCTitle: 'SetErrors Method (String, IEnumerable(T))'
 Title: 'ErrorsContainer(T).SetErrors Method (String, IEnumerable(T)) (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.SetErrors(System.String,System.Collections.Generic.IEnumerable{\`0})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419027(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg419027(v=pandp.50)'
 ---
 
 Prism Class Library

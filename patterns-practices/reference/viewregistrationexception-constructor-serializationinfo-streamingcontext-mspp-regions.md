@@ -2,7 +2,7 @@
 TOCTitle: 'ViewRegistrationException Constructor (SerializationInfo, StreamingContext)'
 Title: 'ViewRegistrationException Constructor (SerializationInfo, StreamingContext) (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewRegistrationException.\#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405720(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregistrationexception.viewregistrationexception(v=pandp.50)'
 ---
 
 Prism Class Library

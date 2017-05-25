@@ -2,7 +2,7 @@
 TOCTitle: MefContentControlRegionAdapter Constructor
 Title: 'MefContentControlRegionAdapter Constructor (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefContentControlRegionAdapter.\#ctor(Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405593(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefcontentcontrolregionadapter.mefcontentcontrolregionadapter(v=pandp.50)'
 ---
 
 Prism Class Library

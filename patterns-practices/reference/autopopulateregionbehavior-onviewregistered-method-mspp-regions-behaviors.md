@@ -2,7 +2,7 @@
 TOCTitle: OnViewRegistered Method
 Title: 'AutoPopulateRegionBehavior.OnViewRegistered Method (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior.OnViewRegistered(System.Object,Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405936(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior.onviewregistered(v=pandp.50)'
 ---
 
 # AutoPopulateRegionBehavior.OnViewRegistered Method

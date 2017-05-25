@@ -2,7 +2,7 @@
 TOCTitle: RegionNavigationJournalEntry Properties
 Title: 'RegionNavigationJournalEntry Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431217(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournalentry_properties(v=pandp.50)'
 ---
 
 # RegionNavigationJournalEntry Properties

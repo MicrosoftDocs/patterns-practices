@@ -2,7 +2,7 @@
 TOCTitle: InitializeShell Method
 Title: 'Bootstrapper.InitializeShell Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.InitializeShell'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405737(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper.initializeshell(v=pandp.50)'
 ---
 
 Prism Class Library

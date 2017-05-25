@@ -2,7 +2,7 @@
 TOCTitle: RegionCreationException Events
 Title: 'RegionCreationException Events (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionCreationException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683947(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regioncreationexception_events(v=pandp.50)'
 ---
 
 # RegionCreationException Events

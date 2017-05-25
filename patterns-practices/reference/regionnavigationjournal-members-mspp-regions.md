@@ -2,7 +2,7 @@
 TOCTitle: RegionNavigationJournal Members
 Title: 'RegionNavigationJournal Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.RegionNavigationJournal'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405513(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournal_members(v=pandp.50)'
 ---
 
 Prism Class Library

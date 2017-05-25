@@ -2,7 +2,7 @@
 TOCTitle: IRegionAdapter Members
 Title: 'IRegionAdapter Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionAdapter'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430884(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionadapter_members(v=pandp.50)'
 ---
 
 Prism Class Library

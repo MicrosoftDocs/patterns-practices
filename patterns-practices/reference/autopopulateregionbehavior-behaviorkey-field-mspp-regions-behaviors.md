@@ -2,7 +2,7 @@
 TOCTitle: BehaviorKey Field
 Title: 'AutoPopulateRegionBehavior.BehaviorKey Field (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'F:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior.BehaviorKey'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430958(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior.behaviorkey(v=pandp.50)'
 ---
 
 # AutoPopulateRegionBehavior.BehaviorKey Field

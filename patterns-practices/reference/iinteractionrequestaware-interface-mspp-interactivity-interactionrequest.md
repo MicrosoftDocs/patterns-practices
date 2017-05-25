@@ -2,7 +2,7 @@
 TOCTitle: IInteractionRequestAware Interface
 Title: 'IInteractionRequestAware Interface (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.IInteractionRequestAware'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736133(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware(v=pandp.50)'
 ---
 
 Prism Class Library

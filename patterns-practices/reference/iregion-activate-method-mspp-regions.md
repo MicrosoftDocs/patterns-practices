@@ -2,7 +2,7 @@
 TOCTitle: Activate Method
 Title: 'IRegion.Activate Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegion.Activate(System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405977(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion.activate(v=pandp.50)'
 ---
 
 # IRegion.Activate Method 

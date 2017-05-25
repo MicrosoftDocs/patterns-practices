@@ -2,7 +2,7 @@
 TOCTitle: DelegateCommandBase Events
 Title: 'DelegateCommandBase Events (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Commands.DelegateCommandBase'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405732(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase_events(v=pandp.50)'
 ---
 
 Prism Class Library

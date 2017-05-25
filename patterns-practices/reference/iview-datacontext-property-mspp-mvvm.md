@@ -2,7 +2,7 @@
 TOCTitle: DataContext Property
 Title: 'IView.DataContext Property (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Mvvm.IView.DataContext'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736272(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.iview.datacontext(v=pandp.50)'
 ---
 
 Prism Class Library

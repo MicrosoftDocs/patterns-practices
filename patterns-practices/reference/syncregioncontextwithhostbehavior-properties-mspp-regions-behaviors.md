@@ -2,7 +2,7 @@
 TOCTitle: SyncRegionContextWithHostBehavior Properties
 Title: 'SyncRegionContextWithHostBehavior Properties (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431193(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior_properties(v=pandp.50)'
 ---
 
 Prism Class Library

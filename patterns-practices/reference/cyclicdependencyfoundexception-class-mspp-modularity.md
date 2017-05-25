@@ -2,7 +2,7 @@
 TOCTitle: CyclicDependencyFoundException Class
 Title: 'CyclicDependencyFoundException Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431474(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception(v=pandp.50)'
 ---
 
 Prism Class Library

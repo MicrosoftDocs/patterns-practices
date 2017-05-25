@@ -2,7 +2,7 @@
 TOCTitle: CanGoBack Property
 Title: 'IRegionNavigationJournal.CanGoBack Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal.CanGoBack'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431342(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal.cangoback(v=pandp.50)'
 ---
 
 Prism Class Library

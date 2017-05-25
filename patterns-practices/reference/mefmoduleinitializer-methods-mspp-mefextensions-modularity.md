@@ -2,7 +2,7 @@
 TOCTitle: MefModuleInitializer Methods
 Title: 'MefModuleInitializer Methods (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleInitializer'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431011(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer_methods(v=pandp.50)'
 ---
 
 Prism Class Library

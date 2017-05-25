@@ -2,7 +2,7 @@
 TOCTitle: BehaviorKey Field
 Title: 'BindRegionContextToDependencyObjectBehavior.BehaviorKey Field (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'F:Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior.BehaviorKey'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430959(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior.behaviorkey(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: 'Microsoft.Practices.Prism.Modularity Namespace'
 Title: 'Microsoft.Practices.Prism.Modularity Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.Modularity'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419043(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50)'
 ---
 
 # Microsoft.Practices.Prism.Modularity Namespace

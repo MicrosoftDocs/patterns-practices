@@ -2,7 +2,7 @@
 TOCTitle: IAssemblyResolver Members
 Title: 'IAssemblyResolver Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.IAssemblyResolver'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430828(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.iassemblyresolver_members(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: CreateFromKey Method
 Title: 'RegionBehaviorFactory.CreateFromKey Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionBehaviorFactory.CreateFromKey(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418946(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorfactory.createfromkey(v=pandp.50)'
 ---
 
 Prism Class Library

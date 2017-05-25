@@ -2,7 +2,7 @@
 TOCTitle: Initialize Method
 Title: 'IRegionAdapter.Initialize Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionAdapter.Initialize(System.Object,System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405956(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionadapter.initialize(v=pandp.50)'
 ---
 
 Prism Class Library

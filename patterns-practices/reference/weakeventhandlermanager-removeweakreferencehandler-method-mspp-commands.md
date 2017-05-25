@@ -2,7 +2,7 @@
 TOCTitle: RemoveWeakReferenceHandler Method
 Title: 'WeakEventHandlerManager.RemoveWeakReferenceHandler Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.WeakEventHandlerManager.RemoveWeakReferenceHandler(System.Collections.Generic.List{System.WeakReference},System.EventHandler)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736259(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager.removeweakreferencehandler(v=pandp.50)'
 ---
 
 # WeakEventHandlerManager.RemoveWeakReferenceHandler Method

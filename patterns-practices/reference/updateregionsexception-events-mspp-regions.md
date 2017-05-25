@@ -2,7 +2,7 @@
 TOCTitle: UpdateRegionsException Events
 Title: 'UpdateRegionsException Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.UpdateRegionsException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736148(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception_events(v=pandp.50)'
 ---
 
 

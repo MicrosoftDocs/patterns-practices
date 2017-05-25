@@ -2,7 +2,7 @@
 TOCTitle: 'DelegateCommand Constructor (Action, Func(Boolean))'
 Title: 'DelegateCommand Constructor (Action, Func(Boolean)) (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand.\#ctor(System.Action,System.Func{System.Boolean})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg406161(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand.delegatecommand(v=pandp.50)'
 ---
 
 Prism Class Library

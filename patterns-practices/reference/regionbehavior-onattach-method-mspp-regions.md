@@ -2,7 +2,7 @@
 TOCTitle: OnAttach Method
 Title: 'RegionBehavior.OnAttach Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionBehavior.OnAttach'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418950(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior.onattach(v=pandp.50)'
 ---
 
 Prism Class Library

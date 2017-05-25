@@ -2,7 +2,7 @@
 TOCTitle: RegionCreationException Members
 Title: 'RegionCreationException Members (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionCreationException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430872(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regioncreationexception_members(v=pandp.50)'
 ---
 
 Prism Class Library

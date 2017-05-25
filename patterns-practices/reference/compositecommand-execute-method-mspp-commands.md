@@ -2,7 +2,7 @@
 TOCTitle: Execute Method
 Title: 'CompositeCommand.Execute Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.Execute(System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405749(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand.execute(v=pandp.50)'
 ---
 
 Prism Class Library

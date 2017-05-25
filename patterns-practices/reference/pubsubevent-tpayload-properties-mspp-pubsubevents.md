@@ -2,7 +2,7 @@
 TOCTitle: 'PubSubEvent(TPayload) Properties'
 Title: 'PubSubEvent(TPayload) Properties (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736132(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736132(v=pandp.50)'
 ---
 
 Prism Class Library

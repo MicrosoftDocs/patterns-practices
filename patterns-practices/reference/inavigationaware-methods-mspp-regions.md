@@ -2,7 +2,7 @@
 TOCTitle: INavigationAware Methods
 Title: 'INavigationAware Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.INavigationAware'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431083(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigationaware_methods(v=pandp.50)'
 ---
 
 Prism Class Library

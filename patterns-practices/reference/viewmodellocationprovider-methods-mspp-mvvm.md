@@ -2,7 +2,7 @@
 TOCTitle: ViewModelLocationProvider Methods
 Title: 'ViewModelLocationProvider Methods (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Mvvm.ViewModelLocationProvider'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736106(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.viewmodellocationprovider_methods(v=pandp.50)'
 ---
 
 # ViewModelLocationProvider Methods

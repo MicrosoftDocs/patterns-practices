@@ -2,7 +2,7 @@
 TOCTitle: UnityBootstrapperExtension Properties
 Title: 'UnityBootstrapperExtension Properties (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtension'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431228(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension_properties(v=pandp.50)'
 ---
 
 Prism Class Library

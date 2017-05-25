@@ -2,7 +2,7 @@
 TOCTitle: 'RaisePropertyChanged Method (String)'
 Title: 'NotificationObject.RaisePropertyChanged Method (String) (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.NotificationObject.RaisePropertyChanged(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419029(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged(v=pandp.50)'
 ---
 
 Prism Class Library

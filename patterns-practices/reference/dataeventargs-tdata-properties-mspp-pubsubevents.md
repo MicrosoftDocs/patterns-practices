@@ -2,7 +2,7 @@
 TOCTitle: 'DataEventArgs(TData) Properties'
 Title: 'DataEventArgs(TData) Properties (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.DataEventArgs\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736256(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736256(v=pandp.50)'
 ---
 
 # DataEventArgs(Of TData) Properties

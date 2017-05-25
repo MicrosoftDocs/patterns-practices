@@ -2,7 +2,7 @@
 TOCTitle: BindableBase Events
 Title: 'BindableBase Events (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Mvvm.BindableBase'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736183(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase_events(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: RegionManager Property
 Title: 'IRegion.RegionManager Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegion.RegionManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431353(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion.regionmanager(v=pandp.50)'
 ---
 
 Prism Class Library

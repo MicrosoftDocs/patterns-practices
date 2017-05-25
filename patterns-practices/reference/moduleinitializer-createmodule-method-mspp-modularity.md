@@ -2,7 +2,7 @@
 TOCTitle: CreateModule Method
 Title: 'ModuleInitializer.CreateModule Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleInitializer.CreateModule'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419108(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer.createmodule(v=pandp.50)'
 ---
 
 # ModuleInitializer.CreateModule Method

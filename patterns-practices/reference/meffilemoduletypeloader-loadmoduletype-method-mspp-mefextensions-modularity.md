@@ -2,7 +2,7 @@
 TOCTitle: LoadModuleType Method
 Title: 'MefFileModuleTypeLoader.LoadModuleType Method (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefFileModuleTypeLoader.LoadModuleType(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405839(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader.loadmoduletype(v=pandp.50)'
 ---
 
 Prism Class Library

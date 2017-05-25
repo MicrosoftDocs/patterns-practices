@@ -2,7 +2,7 @@
 TOCTitle: 'RegionCreationException Constructor (SerializationInfo, StreamingContext)'
 Title: 'RegionCreationException Constructor (SerializationInfo, StreamingContext) (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.RegionCreationException.\#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405683(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regioncreationexception.regioncreationexception(v=pandp.50)'
 ---
 
 # RegionCreationException Constructor (SerializationInfo, StreamingContext)

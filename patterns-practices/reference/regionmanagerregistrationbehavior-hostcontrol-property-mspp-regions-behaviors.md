@@ -2,7 +2,7 @@
 TOCTitle: HostControl Property
 Title: 'RegionManagerRegistrationBehavior.HostControl Property (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior.HostControl'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431331(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior.hostcontrol(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: 'ModuleNotFoundException Constructor (String)'
 Title: 'ModuleNotFoundException Constructor (String) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleNotFoundException.\#ctor(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405656(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception.modulenotfoundexception(v=pandp.50)'
 ---
 
 Prism Class Library

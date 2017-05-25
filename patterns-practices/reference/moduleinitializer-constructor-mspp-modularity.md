@@ -2,7 +2,7 @@
 TOCTitle: ModuleInitializer Constructor
 Title: 'ModuleInitializer Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializer.\#ctor(Microsoft.Practices.ServiceLocation.IServiceLocator,Microsoft.Practices.Prism.Logging.ILoggerFacade)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405653(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer.moduleinitializer(v=pandp.50)'
 ---
 
 Prism Class Library

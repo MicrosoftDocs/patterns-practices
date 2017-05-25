@@ -2,7 +2,7 @@
 TOCTitle: Contains Method
 Title: 'ModuleConfigurationElementCollection.Contains Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection.Contains(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405893(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.contains(v=pandp.50)'
 ---
 
 # ModuleConfigurationElementCollection.Contains Method

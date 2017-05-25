@@ -2,7 +2,7 @@
 TOCTitle: InteractionRequestTrigger Properties
 Title: 'InteractionRequestTrigger Properties (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestTrigger'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419173(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger_properties(v=pandp.50)'
 ---
 
 # InteractionRequestTrigger Properties

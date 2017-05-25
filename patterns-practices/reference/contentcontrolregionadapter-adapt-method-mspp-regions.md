@@ -2,7 +2,7 @@
 TOCTitle: Adapt Method
 Title: 'ContentControlRegionAdapter.Adapt Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter.Adapt(Microsoft.Practices.Prism.Regions.IRegion,System.Windows.Controls.ContentControl)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405949(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.contentcontrolregionadapter.adapt(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: GetEventName Method
 Title: 'InteractionRequestTrigger.GetEventName Method (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestTrigger.GetEventName'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405793(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger.geteventname(v=pandp.50)'
 ---
 
 Prism Class Library

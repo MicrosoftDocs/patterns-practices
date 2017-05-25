@@ -2,7 +2,7 @@
 TOCTitle: IRegionNavigationJournal Interface
 Title: 'IRegionNavigationJournal Interface (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431535(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal(v=pandp.50)'
 ---
 
 Prism Class Library

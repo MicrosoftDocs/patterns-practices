@@ -2,7 +2,7 @@
 TOCTitle: INotification Members
 Title: 'INotification Members (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn741410(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.inotification_members(v=pandp.50)'
 ---
 
 Prism Class Library

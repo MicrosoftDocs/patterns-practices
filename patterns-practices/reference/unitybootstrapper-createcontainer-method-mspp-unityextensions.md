@@ -2,7 +2,7 @@
 TOCTitle: CreateContainer Method
 Title: 'UnityBootstrapper.CreateContainer Method (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.CreateContainer'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419007(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapper.createcontainer(v=pandp.50)'
 ---
 
 Prism Class Library

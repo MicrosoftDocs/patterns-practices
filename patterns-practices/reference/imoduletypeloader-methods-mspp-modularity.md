@@ -2,7 +2,7 @@
 TOCTitle: IModuleTypeLoader Methods
 Title: 'IModuleTypeLoader Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.IModuleTypeLoader'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431046(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader_methods(v=pandp.50)'
 ---
 
 # IModuleTypeLoader Methods

@@ -2,7 +2,7 @@
 TOCTitle: 'ModuleTypeLoaderNotFoundException Constructor (String)'
 Title: 'ModuleTypeLoaderNotFoundException Constructor (String) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException.\#ctor(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405663(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception.moduletypeloadernotfoundexception(v=pandp.50)'
 ---
 
 Prism Class Library

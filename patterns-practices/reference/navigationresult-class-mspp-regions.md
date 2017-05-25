@@ -2,7 +2,7 @@
 TOCTitle: NavigationResult Class
 Title: 'NavigationResult Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.NavigationResult'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431544(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult(v=pandp.50)'
 ---
 
 Prism Class Library

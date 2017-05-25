@@ -2,7 +2,7 @@
 TOCTitle: ParseQuery Method
 Title: 'UriParsingHelper.ParseQuery Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UriParsingHelper.ParseQuery(System.Uri)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419019(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.uriparsinghelper.parsequery(v=pandp.50)'
 ---
 
 Prism Class Library

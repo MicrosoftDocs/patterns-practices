@@ -2,7 +2,7 @@
 TOCTitle: IConfirmNavigationRequest Methods
 Title: 'IConfirmNavigationRequest Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IConfirmNavigationRequest'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431081(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iconfirmnavigationrequest_methods(v=pandp.50)'
 ---
 
 Prism Class Library

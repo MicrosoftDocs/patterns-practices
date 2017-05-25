@@ -2,7 +2,7 @@
 TOCTitle: 'ModuleInitializeException Constructor (String)'
 Title: 'ModuleInitializeException Constructor (String) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializeException.\#ctor(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405647(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception.moduleinitializeexception(v=pandp.50)'
 ---
 
 Prism Class Library

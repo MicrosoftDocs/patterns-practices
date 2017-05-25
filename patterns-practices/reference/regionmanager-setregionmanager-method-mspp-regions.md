@@ -2,7 +2,7 @@
 TOCTitle: SetRegionManager Method
 Title: 'RegionManager.SetRegionManager Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManager.SetRegionManager(System.Windows.DependencyObject,Microsoft.Practices.Prism.Regions.IRegionManager)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418966(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager.setregionmanager(v=pandp.50)'
 ---
 
 Prism Class Library

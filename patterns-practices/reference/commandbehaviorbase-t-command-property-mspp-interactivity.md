@@ -2,7 +2,7 @@
 TOCTitle: Command Property
 Title: 'CommandBehaviorBase(T).Command Property (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase\`1.Command'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736180(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736180(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: DelegateCommandBase Constructor
 Title: 'DelegateCommandBase Constructor (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Commands.DelegateCommandBase.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736224(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase.delegatecommandbase(v=pandp.50)'
 ---
 
 

@@ -2,7 +2,7 @@
 TOCTitle: BeginInvoke Method
 Title: 'IDispatcherFacade.BeginInvoke Method (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.IDispatcherFacade.BeginInvoke(System.Delegate,System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405784(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.idispatcherfacade.begininvoke(v=pandp.50)'
 ---
 
 Prism Class Library

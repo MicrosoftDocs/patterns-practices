@@ -2,7 +2,7 @@
 TOCTitle: MefEventAggregator Methods
 Title: 'MefEventAggregator Methods (Microsoft.Practices.Prism.MefExtensions.Events)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Events.MefEventAggregator'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431006(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator_methods(v=pandp.50)'
 ---
 
 Prism Class Library

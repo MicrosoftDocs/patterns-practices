@@ -2,7 +2,7 @@
 TOCTitle: ConfigureServiceLocator Method
 Title: 'MefBootstrapper.ConfigureServiceLocator Method (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.ConfigureServiceLocator'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405823(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper.configureservicelocator(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: Items Property
 Title: 'ModuleCatalog.Items Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleCatalog.Items'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431285(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.items(v=pandp.50)'
 ---
 
 Prism Class Library

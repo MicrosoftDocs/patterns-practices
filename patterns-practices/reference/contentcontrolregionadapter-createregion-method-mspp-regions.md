@@ -2,7 +2,7 @@
 TOCTitle: CreateRegion Method
 Title: 'ContentControlRegionAdapter.CreateRegion Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter.CreateRegion'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405950(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.contentcontrolregionadapter.createregion(v=pandp.50)'
 ---
 
 Prism Class Library

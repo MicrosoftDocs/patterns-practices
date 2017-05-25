@@ -2,7 +2,7 @@
 TOCTitle: OnPropertyChanged Method
 Title: 'BindableBase.OnPropertyChanged Method (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Mvvm.BindableBase.OnPropertyChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736149(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase.onpropertychanged(v=pandp.50)'
 ---
 
 
@@ -38,7 +38,7 @@ Raises this object's PropertyChanged event.
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736149.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/dn736150(v=pandp.50)">OnPropertyChanged(String)</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase.onpropertychanged(v=pandp.50)">OnPropertyChanged(String)</a></td>
 <td><div class="summary">
 Notifies listeners that a property value has changed.
 </div></td>

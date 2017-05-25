@@ -2,7 +2,7 @@
 TOCTitle: ModuleManager Methods
 Title: 'ModuleManager Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431063(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager_methods(v=pandp.50)'
 ---
 
 Prism Class Library

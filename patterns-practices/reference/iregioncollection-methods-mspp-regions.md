@@ -2,7 +2,7 @@
 TOCTitle: IRegionCollection Methods
 Title: 'IRegionCollection Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegionCollection'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431089(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection_methods(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: Category Enumeration
 Title: 'Category Enumeration (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Logging.Category'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431435(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.category(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: GetRegionName Method
 Title: 'RegionManager.GetRegionName Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManager.GetRegionName(System.Windows.DependencyObject)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418964(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager.getregionname(v=pandp.50)'
 ---
 
 # RegionManager.GetRegionName Method

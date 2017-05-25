@@ -2,7 +2,7 @@
 TOCTitle: NavigationTarget Property
 Title: 'IRegionNavigationJournal.NavigationTarget Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal.NavigationTarget'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431345(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal.navigationtarget(v=pandp.50)'
 ---
 
 Prism Class Library

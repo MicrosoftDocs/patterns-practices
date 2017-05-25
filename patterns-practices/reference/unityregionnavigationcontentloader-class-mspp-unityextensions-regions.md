@@ -2,7 +2,7 @@
 TOCTitle: UnityRegionNavigationContentLoader Class
 Title: 'UnityRegionNavigationContentLoader Class (Microsoft.Practices.Prism.UnityExtensions.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLoader'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736154(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader(v=pandp.50)'
 ---
 
 

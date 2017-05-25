@@ -2,7 +2,7 @@
 TOCTitle: MefRegionActiveAwareBehavior Constructor
 Title: 'MefRegionActiveAwareBehavior Constructor (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionActiveAwareBehavior.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405588(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionactiveawarebehavior.mefregionactiveawarebehavior(v=pandp.50)'
 ---
 
 Prism Class Library

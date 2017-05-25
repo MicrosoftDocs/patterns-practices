@@ -2,7 +2,7 @@
 TOCTitle: LoadModulesThatAreReadyForLoad Method
 Title: 'ModuleManager.LoadModulesThatAreReadyForLoad Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleManager.LoadModulesThatAreReadyForLoad'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405928(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager.loadmodulesthatarereadyforload(v=pandp.50)'
 ---
 
 Prism Class Library

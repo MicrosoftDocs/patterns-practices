@@ -2,7 +2,7 @@
 TOCTitle: ViewSortHintAttribute Properties
 Title: 'ViewSortHintAttribute Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.ViewSortHintAttribute'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431226(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewsorthintattribute_properties(v=pandp.50)'
 ---
 
 Prism Class Library

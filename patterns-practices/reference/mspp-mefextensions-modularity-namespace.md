@@ -2,7 +2,7 @@
 TOCTitle: 'Microsoft.Practices.Prism.MefExtensions.Modularity Namespace'
 Title: 'Microsoft.Practices.Prism.MefExtensions.Modularity Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.MefExtensions.Modularity'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419040(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50)'
 ---
 
 Prism Class Library

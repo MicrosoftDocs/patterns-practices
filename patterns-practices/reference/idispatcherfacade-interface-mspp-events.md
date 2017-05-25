@@ -2,7 +2,7 @@
 TOCTitle: IDispatcherFacade Interface
 Title: 'IDispatcherFacade Interface (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Events.IDispatcherFacade'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431421(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.idispatcherfacade(v=pandp.50)'
 ---
 
 Prism Class Library

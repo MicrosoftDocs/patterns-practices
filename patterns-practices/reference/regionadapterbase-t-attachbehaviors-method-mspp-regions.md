@@ -2,7 +2,7 @@
 TOCTitle: AttachBehaviors Method
 Title: 'RegionAdapterBase(T).AttachBehaviors Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionAdapterBase\`1.AttachBehaviors(Microsoft.Practices.Prism.Regions.IRegion,\`0)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418933(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg418933(v=pandp.50)'
 ---
 
 Prism Class Library

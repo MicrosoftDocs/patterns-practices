@@ -2,7 +2,7 @@
 TOCTitle: ModuleState Enumeration
 Title: 'ModuleState Enumeration (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleState'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431506(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulestate(v=pandp.50)'
 ---
 
 Prism Class Library

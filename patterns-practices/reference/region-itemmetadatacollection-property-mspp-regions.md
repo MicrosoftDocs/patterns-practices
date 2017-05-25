@@ -2,7 +2,7 @@
 TOCTitle: ItemMetadataCollection Property
 Title: 'Region.ItemMetadataCollection Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.ItemMetadataCollection'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431389(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.itemmetadatacollection(v=pandp.50)'
 ---
 
 Prism Class Library

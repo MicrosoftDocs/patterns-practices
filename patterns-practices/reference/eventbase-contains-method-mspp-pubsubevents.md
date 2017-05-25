@@ -2,7 +2,7 @@
 TOCTitle: Contains Method
 Title: 'EventBase.Contains Method (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventBase.Contains(Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736302(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase.contains(v=pandp.50)'
 ---
 
 Prism Class Library

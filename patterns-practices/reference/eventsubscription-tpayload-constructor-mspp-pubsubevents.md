@@ -2,7 +2,7 @@
 TOCTitle: 'EventSubscription(TPayload) Constructor'
 Title: 'EventSubscription(TPayload) Constructor (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventSubscription\`1.\#ctor(Microsoft.Practices.Prism.PubSubEvents.IDelegateReference,Microsoft.Practices.Prism.PubSubEvents.IDelegateReference)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683960(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn683960(v=pandp.50)'
 ---
 
 # EventSubscription&lt;TPayload&gt; Constructor

@@ -2,7 +2,7 @@
 TOCTitle: InvokeMetadataChanged Method
 Title: 'ItemMetadata.InvokeMetadataChanged Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ItemMetadata.InvokeMetadataChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405984(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata.invokemetadatachanged(v=pandp.50)'
 ---
 
 Prism Class Library

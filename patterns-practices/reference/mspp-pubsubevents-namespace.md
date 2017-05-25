@@ -2,7 +2,7 @@
 TOCTitle: 'Microsoft.Practices.Prism.PubSubEvents Namespace'
 Title: 'Microsoft.Practices.Prism.PubSubEvents Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.PubSubEvents'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683966(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50)'
 ---
 
 Prism Class Library

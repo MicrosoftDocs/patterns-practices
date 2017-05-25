@@ -2,7 +2,7 @@
 TOCTitle: ClearErrors Method
 Title: 'ErrorsContainer(T).ClearErrors Method (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.ClearErrors'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419151(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg419151(v=pandp.50)'
 ---
 
 Prism Class Library

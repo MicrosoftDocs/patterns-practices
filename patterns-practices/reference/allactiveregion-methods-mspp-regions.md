@@ -2,7 +2,7 @@
 TOCTitle: AllActiveRegion Methods
 Title: 'AllActiveRegion Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.AllActiveRegion'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431069(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.allactiveregion_methods(v=pandp.50)'
 ---
 
 Prism Class Library

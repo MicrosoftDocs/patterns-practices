@@ -2,7 +2,7 @@
 TOCTitle: MefRegionBehaviorFactory Constructor
 Title: 'MefRegionBehaviorFactory Constructor (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionBehaviorFactory.\#ctor(Microsoft.Practices.ServiceLocation.IServiceLocator)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405596(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory.mefregionbehaviorfactory(v=pandp.50)'
 ---
 
 Prism Class Library

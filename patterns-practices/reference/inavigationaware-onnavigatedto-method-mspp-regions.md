@@ -2,7 +2,7 @@
 TOCTitle: OnNavigatedTo Method
 Title: 'INavigationAware.OnNavigatedTo Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.INavigationAware.OnNavigatedTo(Microsoft.Practices.Prism.Regions.NavigationContext)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405955(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigationaware.onnavigatedto(v=pandp.50)'
 ---
 
 Prism Class Library

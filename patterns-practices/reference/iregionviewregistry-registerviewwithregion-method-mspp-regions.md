@@ -2,7 +2,7 @@
 TOCTitle: RegisterViewWithRegion Method
 Title: 'IRegionViewRegistry.RegisterViewWithRegion Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.IRegionViewRegistry.RegisterViewWithRegion'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419130(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionviewregistry.registerviewwithregion(v=pandp.50)'
 ---
 
 Prism Class Library

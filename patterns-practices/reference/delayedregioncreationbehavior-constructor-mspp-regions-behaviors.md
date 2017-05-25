@@ -2,7 +2,7 @@
 TOCTitle: DelayedRegionCreationBehavior Constructor
 Title: 'DelayedRegionCreationBehavior Constructor (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior.\#ctor(Microsoft.Practices.Prism.Regions.RegionAdapterMappings)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405678(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.delayedregioncreationbehavior(v=pandp.50)'
 ---
 
 Prism Class Library

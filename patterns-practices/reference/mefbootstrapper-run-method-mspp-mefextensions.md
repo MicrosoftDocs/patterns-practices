@@ -2,7 +2,7 @@
 TOCTitle: Run Method
 Title: 'MefBootstrapper.Run Method (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.Run'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419071(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper.run(v=pandp.50)'
 ---
 
 # MefBootstrapper.Run Method

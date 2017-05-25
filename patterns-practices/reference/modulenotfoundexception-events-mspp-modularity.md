@@ -2,7 +2,7 @@
 TOCTitle: ModuleNotFoundException Events
 Title: 'ModuleNotFoundException Events (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.ModuleNotFoundException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736160(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception_events(v=pandp.50)'
 ---
 
 # ModuleNotFoundException Events

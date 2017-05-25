@@ -2,7 +2,7 @@
 TOCTitle: ElementName Property
 Title: 'ModuleConfigurationElementCollection.ElementName Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection.ElementName'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431289(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.elementname(v=pandp.50)'
 ---
 
 Prism Class Library

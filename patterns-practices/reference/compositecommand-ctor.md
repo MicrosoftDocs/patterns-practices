@@ -2,7 +2,7 @@
 TOCTitle: CompositeCommand Constructor
 Title: 'CompositeCommand Constructor (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405539(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand.compositecommand(v=pandp.50)'
 ---
 
 Prism Class Library

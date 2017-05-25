@@ -2,7 +2,7 @@
 TOCTitle: ViewRegistrationException Properties
 Title: 'ViewRegistrationException Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.ViewRegistrationException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431224(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregistrationexception_properties(v=pandp.50)'
 ---
 
 # ViewRegistrationException Properties

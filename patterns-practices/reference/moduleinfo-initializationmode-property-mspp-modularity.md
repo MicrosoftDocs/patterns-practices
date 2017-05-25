@@ -2,7 +2,7 @@
 TOCTitle: InitializationMode Property
 Title: 'ModuleInfo.InitializationMode Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfo.InitializationMode'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431316(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo.initializationmode(v=pandp.50)'
 ---
 
 Prism Class Library

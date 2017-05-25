@@ -2,7 +2,7 @@
 TOCTitle: NavigationContext Properties
 Title: 'NavigationContext Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.NavigationContext'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431206(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext_properties(v=pandp.50)'
 ---
 
 Prism Class Library

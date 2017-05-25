@@ -2,7 +2,7 @@
 TOCTitle: MefBootstrapper Properties
 Title: 'MefBootstrapper Properties (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419176(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper_properties(v=pandp.50)'
 ---
 
 Prism Class Library

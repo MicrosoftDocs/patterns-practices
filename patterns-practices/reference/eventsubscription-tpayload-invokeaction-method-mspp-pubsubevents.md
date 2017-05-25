@@ -2,7 +2,7 @@
 TOCTitle: InvokeAction Method
 Title: 'EventSubscription(TPayload).InvokeAction Method (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventSubscription\`1.InvokeAction(System.Action{\`0},\`0)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683965(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn683965(v=pandp.50)'
 ---
 
 # EventSubscription&lt;TPayload&gt;.InvokeAction Method

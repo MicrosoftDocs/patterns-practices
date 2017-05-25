@@ -2,7 +2,7 @@
 TOCTitle: NavigationContext Members
 Title: 'NavigationContext Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.NavigationContext'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405498(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext_members(v=pandp.50)'
 ---
 
 Prism Class Library

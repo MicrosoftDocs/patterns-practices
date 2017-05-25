@@ -2,7 +2,7 @@
 TOCTitle: ViewsCollection Class
 Title: 'ViewsCollection Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.ViewsCollection'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431568(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewscollection(v=pandp.50)'
 ---
 
 Prism Class Library

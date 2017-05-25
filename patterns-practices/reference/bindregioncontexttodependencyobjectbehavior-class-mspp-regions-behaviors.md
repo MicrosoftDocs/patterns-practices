@@ -2,7 +2,7 @@
 TOCTitle: BindRegionContextToDependencyObjectBehavior Class
 Title: 'BindRegionContextToDependencyObjectBehavior Class (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431512(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior(v=pandp.50)'
 ---
 
 Prism Class Library

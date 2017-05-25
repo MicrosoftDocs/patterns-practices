@@ -2,7 +2,7 @@
 TOCTitle: Add Method
 Title: 'NavigationParameters.Add Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationParameters.Add(System.String,System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736110(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters.add(v=pandp.50)'
 ---
 
 # NavigationParameters.Add Method

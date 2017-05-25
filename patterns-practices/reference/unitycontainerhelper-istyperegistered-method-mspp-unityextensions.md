@@ -2,7 +2,7 @@
 TOCTitle: IsTypeRegistered Method
 Title: 'UnityContainerHelper.IsTypeRegistered Method (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityContainerHelper.IsTypeRegistered(Microsoft.Practices.Unity.IUnityContainer,System.Type)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419012(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitycontainerhelper.istyperegistered(v=pandp.50)'
 ---
 
 Prism Class Library

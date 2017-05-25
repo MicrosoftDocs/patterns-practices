@@ -2,7 +2,7 @@
 TOCTitle: CreateContainer Method
 Title: 'MefBootstrapper.CreateContainer Method (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.CreateContainer'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405825(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper.createcontainer(v=pandp.50)'
 ---
 
 Prism Class Library

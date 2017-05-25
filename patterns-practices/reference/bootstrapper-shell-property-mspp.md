@@ -2,7 +2,7 @@
 TOCTitle: Shell Property
 Title: 'Bootstrapper.Shell Property (Microsoft.Practices.Prism)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Bootstrapper.Shell'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431233(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper.shell(v=pandp.50)'
 ---
 
 Prism Class Library

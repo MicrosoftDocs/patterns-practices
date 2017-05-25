@@ -2,7 +2,7 @@
 TOCTitle: UpdateRegionsException Methods
 Title: 'UpdateRegionsException Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.UpdateRegionsException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431131(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception_methods(v=pandp.50)'
 ---
 
 Prism Class Library

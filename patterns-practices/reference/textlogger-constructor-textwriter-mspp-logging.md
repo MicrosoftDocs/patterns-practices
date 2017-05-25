@@ -2,7 +2,7 @@
 TOCTitle: 'TextLogger Constructor (TextWriter)'
 Title: 'TextLogger Constructor (TextWriter) (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Logging.TextLogger.\#ctor(System.IO.TextWriter)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405574(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.textlogger.textlogger(v=pandp.50)'
 ---
 
 Prism Class Library

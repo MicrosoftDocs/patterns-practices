@@ -2,7 +2,7 @@
 TOCTitle: UpdateEnabledState Method
 Title: 'CommandBehaviorBase(T).UpdateEnabledState Method (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase\`1.UpdateEnabledState'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736286(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736286(v=pandp.50)'
 ---
 
 Prism Class Library

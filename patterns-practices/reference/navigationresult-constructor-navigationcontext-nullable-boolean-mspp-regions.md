@@ -2,7 +2,7 @@
 TOCTitle: 'NavigationResult Constructor (NavigationContext, Nullable(Boolean))'
 Title: 'NavigationResult Constructor (NavigationContext, Nullable(Boolean)) (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationResult.\#ctor(Microsoft.Practices.Prism.Regions.NavigationContext,System.Nullable{System.Boolean})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405693(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult.navigationresult(v=pandp.50)'
 ---
 
 # NavigationResult Constructor (NavigationContext, Nullable&lt;Boolean&gt;)

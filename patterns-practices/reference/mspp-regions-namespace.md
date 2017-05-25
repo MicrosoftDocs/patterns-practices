@@ -2,7 +2,7 @@
 TOCTitle: 'Microsoft.Practices.Prism.Regions Namespace'
 Title: 'Microsoft.Practices.Prism.Regions Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.Regions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419044(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: UnityRegionNavigationContentLoader Methods
 Title: 'UnityRegionNavigationContentLoader Methods (Microsoft.Practices.Prism.UnityExtensions.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLoader'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683926(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader_methods(v=pandp.50)'
 ---
 
 # UnityRegionNavigationContentLoader Methods

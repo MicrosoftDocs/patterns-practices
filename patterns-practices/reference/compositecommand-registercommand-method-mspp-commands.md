@@ -2,7 +2,7 @@
 TOCTitle: RegisterCommand Method
 Title: 'CompositeCommand.RegisterCommand Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.RegisterCommand(System.Windows.Input.ICommand)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405751(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand.registercommand(v=pandp.50)'
 ---
 
 Prism Class Library

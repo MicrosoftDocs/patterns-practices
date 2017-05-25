@@ -2,7 +2,7 @@
 TOCTitle: UnregisterCommand Method
 Title: 'CompositeCommand.UnregisterCommand Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.UnregisterCommand(System.Windows.Input.ICommand)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405753(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand.unregistercommand(v=pandp.50)'
 ---
 
 Prism Class Library

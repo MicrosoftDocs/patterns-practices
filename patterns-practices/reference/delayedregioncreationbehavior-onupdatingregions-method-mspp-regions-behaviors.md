@@ -2,7 +2,7 @@
 TOCTitle: OnUpdatingRegions Method
 Title: 'DelayedRegionCreationBehavior.OnUpdatingRegions Method (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior.OnUpdatingRegions(System.Object,System.EventArgs)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405941(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.onupdatingregions(v=pandp.50)'
 ---
 
 Prism Class Library

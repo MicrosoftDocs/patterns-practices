@@ -2,7 +2,7 @@
 TOCTitle: GetRootException Method
 Title: 'ExceptionExtensions.GetRootException Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ExceptionExtensions.GetRootException(System.Exception)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405790(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.exceptionextensions.getrootexception(v=pandp.50)'
 ---
 
 # ExceptionExtensions.GetRootException Method

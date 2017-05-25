@@ -2,7 +2,7 @@
 TOCTitle: RemoveAt Method
 Title: 'ModuleInfoGroup.RemoveAt Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.RemoveAt(System.Int32)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405914(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup.removeat(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: 'DelegateCommand Constructor (Action)'
 Title: 'DelegateCommand Constructor (Action) (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand.\#ctor(System.Action)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405542(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand.delegatecommand(v=pandp.50)'
 ---
 
 Prism Class Library

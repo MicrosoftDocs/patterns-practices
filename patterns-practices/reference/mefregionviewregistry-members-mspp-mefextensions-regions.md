@@ -2,7 +2,7 @@
 TOCTitle: MefRegionViewRegistry Members
 Title: 'MefRegionViewRegistry Members (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionViewRegistry'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430819(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionviewregistry_members(v=pandp.50)'
 ---
 
 Prism Class Library

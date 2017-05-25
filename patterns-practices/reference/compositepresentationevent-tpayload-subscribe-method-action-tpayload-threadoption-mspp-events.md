@@ -2,7 +2,7 @@
 TOCTitle: 'Subscribe Method (Action(TPayload), ThreadOption)'
 Title: 'CompositePresentationEvent(TPayload).Subscribe Method (Action(TPayload), ThreadOption) (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Subscribe(System.Action{\`0},Microsoft.Practices.Prism.PubSubEvents.ThreadOption)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683953(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn683953(v=pandp.50)'
 ---
 
 Prism Class Library

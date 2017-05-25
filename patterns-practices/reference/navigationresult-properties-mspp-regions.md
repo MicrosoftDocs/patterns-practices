@@ -2,7 +2,7 @@
 TOCTitle: NavigationResult Properties
 Title: 'NavigationResult Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.NavigationResult'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431207(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult_properties(v=pandp.50)'
 ---
 
 # NavigationResult Properties

@@ -2,7 +2,7 @@
 TOCTitle: IsActiveChanged Event
 Title: 'IActiveAware.IsActiveChanged Event (Microsoft.Practices.Prism)'
 ms:assetid: 'E:Microsoft.Practices.Prism.IActiveAware.IsActiveChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430916(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.iactiveaware.isactivechanged(v=pandp.50)'
 ---
 
 Prism Class Library

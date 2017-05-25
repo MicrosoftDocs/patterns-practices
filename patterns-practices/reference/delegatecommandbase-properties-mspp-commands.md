@@ -2,7 +2,7 @@
 TOCTitle: DelegateCommandBase Properties
 Title: 'DelegateCommandBase Properties (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Commands.DelegateCommandBase'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419159(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase_properties(v=pandp.50)'
 ---
 
 Prism Class Library

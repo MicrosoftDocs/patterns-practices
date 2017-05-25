@@ -2,7 +2,7 @@
 TOCTitle: WeakEventHandlerManager Members
 Title: 'WeakEventHandlerManager Members (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Commands.WeakEventHandlerManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn741416(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager_members(v=pandp.50)'
 ---
 
 Prism Class Library

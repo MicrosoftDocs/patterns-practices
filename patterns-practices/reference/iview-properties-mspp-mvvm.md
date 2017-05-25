@@ -2,7 +2,7 @@
 TOCTitle: IView Properties
 Title: 'IView Properties (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Mvvm.IView'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736146(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.iview_properties(v=pandp.50)'
 ---
 
 Prism Class Library

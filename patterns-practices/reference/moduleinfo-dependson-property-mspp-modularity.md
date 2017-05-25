@@ -2,7 +2,7 @@
 TOCTitle: DependsOn Property
 Title: 'ModuleInfo.DependsOn Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfo.DependsOn'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431315(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo.dependson(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: ViewSortHintAttribute Methods
 Title: 'ViewSortHintAttribute Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.ViewSortHintAttribute'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431135(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewsorthintattribute_methods(v=pandp.50)'
 ---
 
 # ViewSortHintAttribute Methods

@@ -2,7 +2,7 @@
 TOCTitle: IRegionNavigationJournal Methods
 Title: 'IRegionNavigationJournal Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431093(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal_methods(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: Dispose Method
 Title: 'FileModuleTypeLoader.Dispose Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader.Dispose'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405851(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader.dispose(v=pandp.50)'
 ---
 
 Prism Class Library

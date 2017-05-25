@@ -2,7 +2,7 @@
 TOCTitle: IModuleManager Interface
 Title: 'IModuleManager Interface (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.IModuleManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431484(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulemanager(v=pandp.50)'
 ---
 
 Prism Class Library

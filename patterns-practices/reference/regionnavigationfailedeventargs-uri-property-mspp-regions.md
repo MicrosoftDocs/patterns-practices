@@ -2,7 +2,7 @@
 TOCTitle: Uri Property
 Title: 'RegionNavigationFailedEventArgs.Uri Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationFailedEventArgs.Uri'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431378(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs.uri(v=pandp.50)'
 ---
 
 Prism Class Library

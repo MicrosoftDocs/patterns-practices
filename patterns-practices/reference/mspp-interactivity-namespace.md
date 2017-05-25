@@ -2,7 +2,7 @@
 TOCTitle: 'Microsoft.Practices.Prism.Interactivity Namespace'
 Title: 'Microsoft.Practices.Prism.Interactivity Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.Interactivity'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg406220(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50)'
 ---
 
 Prism Class Library

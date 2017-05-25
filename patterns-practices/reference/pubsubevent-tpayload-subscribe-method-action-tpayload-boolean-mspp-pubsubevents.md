@@ -2,7 +2,7 @@
 TOCTitle: 'Subscribe Method (Action(TPayload), Boolean)'
 Title: 'PubSubEvent(TPayload).Subscribe Method (Action(TPayload), Boolean) (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Subscribe(System.Action{\`0},System.Boolean)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683949(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn683949(v=pandp.50)'
 ---
 
 Prism Class Library

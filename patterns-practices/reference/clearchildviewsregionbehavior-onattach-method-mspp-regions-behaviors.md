@@ -2,7 +2,7 @@
 TOCTitle: OnAttach Method
 Title: 'ClearChildViewsRegionBehavior.OnAttach Method (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior.OnAttach'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736141(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.onattach(v=pandp.50)'
 ---
 
 # ClearChildViewsRegionBehavior.OnAttach Method

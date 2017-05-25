@@ -2,7 +2,7 @@
 TOCTitle: ViewsCollection Constructor
 Title: 'ViewsCollection Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewsCollection.\#ctor(System.Collections.ObjectModel.ObservableCollection{Microsoft.Practices.Prism.Regions.ItemMetadata},System.Predicate{Microsoft.Practices.Prism.Regions.ItemMetadata})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405721(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewscollection.viewscollection(v=pandp.50)'
 ---
 
 Prism Class Library

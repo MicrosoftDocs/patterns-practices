@@ -2,7 +2,7 @@
 TOCTitle: AddModule Method
 Title: 'ModuleDependencySolver.AddModule Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencySolver.AddModule(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405900(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencysolver.addmodule(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: SyncRoot Property
 Title: 'ModuleInfoGroup.SyncRoot Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.SyncRoot'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431313(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup.syncroot(v=pandp.50)'
 ---
 
 Prism Class Library

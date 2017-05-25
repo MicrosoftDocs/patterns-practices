@@ -2,7 +2,7 @@
 TOCTitle: DefaultDispatcher Class
 Title: 'DefaultDispatcher Class (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Events.DefaultDispatcher'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431414(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.defaultdispatcher(v=pandp.50)'
 ---
 
 Prism Class Library

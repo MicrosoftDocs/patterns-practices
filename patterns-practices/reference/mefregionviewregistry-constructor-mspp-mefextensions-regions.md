@@ -2,7 +2,7 @@
 TOCTitle: MefRegionViewRegistry Constructor
 Title: 'MefRegionViewRegistry Constructor (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionViewRegistry.\#ctor(Microsoft.Practices.ServiceLocation.IServiceLocator)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405602(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionviewregistry.mefregionviewregistry(v=pandp.50)'
 ---
 
 Prism Class Library

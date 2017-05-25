@@ -2,7 +2,7 @@
 TOCTitle: 'OnPropertyChanged Method (String)'
 Title: 'BindableBase.OnPropertyChanged Method (String) (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Mvvm.BindableBase.OnPropertyChanged(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736150(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase.onpropertychanged(v=pandp.50)'
 ---
 
 

@@ -2,7 +2,7 @@
 TOCTitle: GetRegionContext Method
 Title: 'RegionManager.GetRegionContext Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManager.GetRegionContext(System.Windows.DependencyObject)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418962(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager.getregioncontext(v=pandp.50)'
 ---
 
 Prism Class Library

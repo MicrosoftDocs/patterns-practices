@@ -2,7 +2,7 @@
 TOCTitle: IsNavigationTarget Method
 Title: 'INavigationAware.IsNavigationTarget Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.INavigationAware.IsNavigationTarget(Microsoft.Practices.Prism.Regions.NavigationContext)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405953(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigationaware.isnavigationtarget(v=pandp.50)'
 ---
 
 Prism Class Library

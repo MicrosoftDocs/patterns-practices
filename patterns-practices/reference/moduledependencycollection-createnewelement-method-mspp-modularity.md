@@ -2,7 +2,7 @@
 TOCTitle: CreateNewElement Method
 Title: 'ModuleDependencyCollection.CreateNewElement Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection.CreateNewElement'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419098(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencycollection.createnewelement(v=pandp.50)'
 ---
 
 # ModuleDependencyCollection.CreateNewElement Method

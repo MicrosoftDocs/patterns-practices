@@ -2,7 +2,7 @@
 TOCTitle: ConfigureServiceLocator Method
 Title: 'Bootstrapper.ConfigureServiceLocator Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.ConfigureServiceLocator'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431149(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper.configureservicelocator(v=pandp.50)'
 ---
 
 Prism Class Library

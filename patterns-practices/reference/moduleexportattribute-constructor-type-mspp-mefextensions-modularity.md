@@ -2,7 +2,7 @@
 TOCTitle: 'ModuleExportAttribute Constructor (Type)'
 Title: 'ModuleExportAttribute Constructor (Type) (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAttribute.\#ctor(System.Type)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405583(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute.moduleexportattribute(v=pandp.50)'
 ---
 
 Prism Class Library

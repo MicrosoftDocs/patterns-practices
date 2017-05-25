@@ -2,7 +2,7 @@
 TOCTitle: NavigationFailed Event
 Title: 'RegionNavigationService.NavigationFailed Event (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Regions.RegionNavigationService.NavigationFailed'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430939(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice.navigationfailed(v=pandp.50)'
 ---
 
 Prism Class Library

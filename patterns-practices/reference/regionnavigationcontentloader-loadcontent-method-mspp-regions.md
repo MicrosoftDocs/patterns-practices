@@ -2,7 +2,7 @@
 TOCTitle: LoadContent Method
 Title: 'RegionNavigationContentLoader.LoadContent Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader.LoadContent(Microsoft.Practices.Prism.Regions.IRegion,Microsoft.Practices.Prism.Regions.NavigationContext)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418972(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationcontentloader.loadcontent(v=pandp.50)'
 ---
 
 Prism Class Library

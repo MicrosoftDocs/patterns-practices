@@ -2,7 +2,7 @@
 TOCTitle: RegionBehavior Methods
 Title: 'RegionBehavior Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.RegionBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431105(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior_methods(v=pandp.50)'
 ---
 
 Prism Class Library

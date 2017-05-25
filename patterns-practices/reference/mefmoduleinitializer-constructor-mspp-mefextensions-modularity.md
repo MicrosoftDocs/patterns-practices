@@ -2,7 +2,7 @@
 TOCTitle: MefModuleInitializer Constructor
 Title: 'MefModuleInitializer Constructor (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleInitializer.\#ctor(Microsoft.Practices.ServiceLocation.IServiceLocator,Microsoft.Practices.Prism.Logging.ILoggerFacade,Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection,System.ComponentModel.Composition.Hosting.AggregateCatalog)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405581(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer.mefmoduleinitializer(v=pandp.50)'
 ---
 
 Prism Class Library

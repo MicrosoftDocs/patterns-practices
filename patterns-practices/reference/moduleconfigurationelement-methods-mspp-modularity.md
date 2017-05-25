@@ -2,7 +2,7 @@
 TOCTitle: ModuleConfigurationElement Methods
 Title: 'ModuleConfigurationElement Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431051(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelement_methods(v=pandp.50)'
 ---
 
 Prism Class Library

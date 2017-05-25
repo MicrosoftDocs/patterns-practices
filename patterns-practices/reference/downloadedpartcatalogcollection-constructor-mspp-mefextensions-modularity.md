@@ -2,7 +2,7 @@
 TOCTitle: DownloadedPartCatalogCollection Constructor
 Title: 'DownloadedPartCatalogCollection Constructor (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405579(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection.downloadedpartcatalogcollection(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: 'Subscribe Method (Action(TPayload))'
 Title: 'PubSubEvent(TPayload).Subscribe Method (Action(TPayload)) (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Subscribe(System.Action{\`0})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683969(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn683969(v=pandp.50)'
 ---
 
 Prism Class Library

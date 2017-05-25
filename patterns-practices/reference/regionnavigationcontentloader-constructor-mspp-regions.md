@@ -2,7 +2,7 @@
 TOCTitle: RegionNavigationContentLoader Constructor
 Title: 'RegionNavigationContentLoader Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader.\#ctor(Microsoft.Practices.ServiceLocation.IServiceLocator)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405701(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationcontentloader.regionnavigationcontentloader(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: CreateDefaultWindow Method
 Title: 'PopupWindowAction.CreateDefaultWindow Method (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.CreateDefaultWindow(Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683955(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction.createdefaultwindow(v=pandp.50)'
 ---
 
 Prism Class Library

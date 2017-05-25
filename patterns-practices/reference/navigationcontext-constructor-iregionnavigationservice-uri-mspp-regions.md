@@ -2,7 +2,7 @@
 TOCTitle: 'NavigationContext Constructor (IRegionNavigationService, Uri)'
 Title: 'NavigationContext Constructor (IRegionNavigationService, Uri) (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationContext.\#ctor(Microsoft.Practices.Prism.Regions.IRegionNavigationService,System.Uri)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405691(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext.navigationcontext(v=pandp.50)'
 ---
 
 Prism Class Library

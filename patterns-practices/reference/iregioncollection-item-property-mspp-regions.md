@@ -2,7 +2,7 @@
 TOCTitle: Item Property
 Title: 'IRegionCollection.Item Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionCollection.Item(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431338(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection.item(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: 'Dispose Method (Boolean)'
 Title: 'TextLogger.Dispose Method (Boolean) (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Logging.TextLogger.Dispose(System.Boolean)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405817(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.textlogger.dispose(v=pandp.50)'
 ---
 
 Prism Class Library

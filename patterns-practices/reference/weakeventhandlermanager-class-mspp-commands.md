@@ -2,7 +2,7 @@
 TOCTitle: WeakEventHandlerManager Class
 Title: 'WeakEventHandlerManager Class (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Commands.WeakEventHandlerManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736190(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager(v=pandp.50)'
 ---
 
 # WeakEventHandlerManager Class

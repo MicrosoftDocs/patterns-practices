@@ -2,7 +2,7 @@
 TOCTitle: ModuleType Property
 Title: 'ModuleConfigurationElement.ModuleType Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement.ModuleType'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431295(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelement.moduletype(v=pandp.50)'
 ---
 
 Prism Class Library

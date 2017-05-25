@@ -2,7 +2,7 @@
 TOCTitle: IsModal Property
 Title: 'PopupWindowAction.IsModal Property (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.IsModal'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736308(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction.ismodal(v=pandp.50)'
 ---
 
 Prism Class Library

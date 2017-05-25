@@ -2,7 +2,7 @@
 TOCTitle: MefServiceLocatorAdapter Methods
 Title: 'MefServiceLocatorAdapter Methods (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.MefServiceLocatorAdapter'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431008(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter_methods(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: Bootstrapper Members
 Title: 'Bootstrapper Members (Microsoft.Practices.Prism)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Bootstrapper'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430755(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper_members(v=pandp.50)'
 ---
 
 Prism Class Library

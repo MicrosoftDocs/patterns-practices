@@ -2,7 +2,7 @@
 TOCTitle: SyncActiveStateAttribute Class
 Title: 'SyncActiveStateAttribute Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.SyncActiveStateAttribute'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736181(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.syncactivestateattribute(v=pandp.50)'
 ---
 
 Prism Class Library

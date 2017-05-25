@@ -2,7 +2,7 @@
 TOCTitle: InitializeShell Method
 Title: 'MefBootstrapper.InitializeShell Method (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.InitializeShell'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405827(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper.initializeshell(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: Count Property
 Title: 'ListDictionary(TKey, TValue).Count Property (Microsoft.Practices.Prism)'
 ms:assetid: 'P:Microsoft.Practices.Prism.ListDictionary\`2.Count'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431255(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg431255(v=pandp.50)'
 ---
 
 Prism Class Library

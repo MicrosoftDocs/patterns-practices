@@ -2,7 +2,7 @@
 TOCTitle: ModuleTypeLoaders Property
 Title: 'ModuleManager.ModuleTypeLoaders Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleManager.ModuleTypeLoaders'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431322(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager.moduletypeloaders(v=pandp.50)'
 ---
 
 Prism Class Library

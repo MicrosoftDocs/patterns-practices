@@ -2,7 +2,7 @@
 TOCTitle: DelegateReference Properties
 Title: 'DelegateReference Properties (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.DelegateReference'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683948(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.delegatereference_properties(v=pandp.50)'
 ---
 
 Prism Class Library

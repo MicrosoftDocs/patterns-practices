@@ -2,7 +2,7 @@
 TOCTitle: ModuleDependencyConfigurationElement Class
 Title: 'ModuleDependencyConfigurationElement Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431495(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: ConfigurationStore Constructor
 Title: 'ConfigurationStore Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ConfigurationStore.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405606(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.configurationstore.configurationstore(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: ModuleDownloadProgressChanged Event
 Title: 'MefFileModuleTypeLoader.ModuleDownloadProgressChanged Event (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'E:Microsoft.Practices.Prism.MefExtensions.Modularity.MefFileModuleTypeLoader.ModuleDownloadProgressChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430920(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader.moduledownloadprogresschanged(v=pandp.50)'
 ---
 
 # MefFileModuleTypeLoader.ModuleDownloadProgressChanged Event

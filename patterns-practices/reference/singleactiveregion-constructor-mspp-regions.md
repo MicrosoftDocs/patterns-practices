@@ -2,7 +2,7 @@
 TOCTitle: SingleActiveRegion Constructor
 Title: 'SingleActiveRegion Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.SingleActiveRegion.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405711(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.singleactiveregion.singleactiveregion(v=pandp.50)'
 ---
 
 Prism Class Library

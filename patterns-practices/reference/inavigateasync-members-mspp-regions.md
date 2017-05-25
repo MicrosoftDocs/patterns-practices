@@ -2,7 +2,7 @@
 TOCTitle: INavigateAsync Members
 Title: 'INavigateAsync Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.INavigateAsync'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430880(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync_members(v=pandp.50)'
 ---
 
 Prism Class Library

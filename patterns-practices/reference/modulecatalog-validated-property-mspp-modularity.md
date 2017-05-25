@@ -2,7 +2,7 @@
 TOCTitle: Validated Property
 Title: 'ModuleCatalog.Validated Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleCatalog.Validated'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431287(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.validated(v=pandp.50)'
 ---
 
 Prism Class Library

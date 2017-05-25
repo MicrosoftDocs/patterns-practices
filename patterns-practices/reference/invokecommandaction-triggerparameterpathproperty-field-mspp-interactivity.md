@@ -2,7 +2,7 @@
 TOCTitle: TriggerParameterPathProperty Field
 Title: 'InvokeCommandAction.TriggerParameterPathProperty Field (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'F:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.TriggerParameterPathProperty'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683931(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.triggerparameterpathproperty(v=pandp.50)'
 ---
 
 # InvokeCommandAction.TriggerParameterPathProperty Field

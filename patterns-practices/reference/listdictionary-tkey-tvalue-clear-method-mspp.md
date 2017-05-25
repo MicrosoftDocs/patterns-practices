@@ -2,7 +2,7 @@
 TOCTitle: Clear Method
 Title: 'ListDictionary(TKey, TValue).Clear Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.Clear'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405798(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405798(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: EventAggregator Constructor
 Title: 'EventAggregator Constructor (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventAggregator.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736159(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventaggregator.eventaggregator(v=pandp.50)'
 ---
 
 # EventAggregator Constructor

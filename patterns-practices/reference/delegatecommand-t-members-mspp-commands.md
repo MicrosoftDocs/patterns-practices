@@ -2,7 +2,7 @@
 TOCTitle: 'DelegateCommand(T) Members'
 Title: 'DelegateCommand(T) Members (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Commands.DelegateCommand\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430763(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg430763(v=pandp.50)'
 ---
 
 Prism Class Library

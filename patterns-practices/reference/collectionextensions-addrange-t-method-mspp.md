@@ -2,7 +2,7 @@
 TOCTitle: 'AddRange(T) Method'
 Title: 'CollectionExtensions.AddRange(T) Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.CollectionExtensions.AddRange\`\`1(System.Collections.ObjectModel.Collection{\`\`0},System.Collections.Generic.IEnumerable{\`\`0})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405741(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405741(v=pandp.50)'
 ---
 
 Prism Class Library

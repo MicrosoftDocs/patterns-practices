@@ -2,7 +2,7 @@
 TOCTitle: PropertyChanged Event
 Title: 'BindableBase.PropertyChanged Event (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Mvvm.BindableBase.PropertyChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683962(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase.propertychanged(v=pandp.50)'
 ---
 
 # BindableBase.PropertyChanged Event

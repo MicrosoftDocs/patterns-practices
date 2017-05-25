@@ -2,7 +2,7 @@
 TOCTitle: TraceLogger Constructor
 Title: 'TraceLogger Constructor (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Logging.TraceLogger.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405575(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.tracelogger.tracelogger(v=pandp.50)'
 ---
 
 Prism Class Library

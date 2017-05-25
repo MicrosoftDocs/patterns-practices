@@ -2,7 +2,7 @@
 TOCTitle: 'BackgroundEventSubscription(TPayload) Class'
 Title: 'BackgroundEventSubscription(TPayload) Class (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'T:Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscription\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683933(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn683933(v=pandp.50)'
 ---
 
 # BackgroundEventSubscription(Of TPayload) Class

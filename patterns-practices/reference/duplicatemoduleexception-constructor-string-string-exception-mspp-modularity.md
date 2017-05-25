@@ -2,7 +2,7 @@
 TOCTitle: 'DuplicateModuleException Constructor (String, String, Exception)'
 Title: 'DuplicateModuleException Constructor (String, String, Exception) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.DuplicateModuleException.\#ctor(System.String,System.String,System.Exception)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405618(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.duplicatemoduleexception.duplicatemoduleexception(v=pandp.50)'
 ---
 
 Prism Class Library

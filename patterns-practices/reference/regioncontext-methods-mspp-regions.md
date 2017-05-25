@@ -2,7 +2,7 @@
 TOCTitle: RegionContext Methods
 Title: 'RegionContext Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.RegionContext'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431108(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regioncontext_methods(v=pandp.50)'
 ---
 
 Prism Class Library

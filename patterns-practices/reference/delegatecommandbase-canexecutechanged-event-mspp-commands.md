@@ -2,7 +2,7 @@
 TOCTitle: CanExecuteChanged Event
 Title: 'DelegateCommandBase.CanExecuteChanged Event (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Commands.DelegateCommandBase.CanExecuteChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430914(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase.canexecutechanged(v=pandp.50)'
 ---
 
 Prism Class Library

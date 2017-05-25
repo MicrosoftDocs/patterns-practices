@@ -2,7 +2,7 @@
 TOCTitle: RegionAdapterMappings Constructor
 Title: 'RegionAdapterMappings Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionAdapterMappings.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405695(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionadaptermappings.regionadaptermappings(v=pandp.50)'
 ---
 
 Prism Class Library

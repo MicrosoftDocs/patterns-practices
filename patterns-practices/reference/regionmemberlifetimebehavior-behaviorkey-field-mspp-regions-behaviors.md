@@ -2,7 +2,7 @@
 TOCTitle: BehaviorKey Field
 Title: 'RegionMemberLifetimeBehavior.BehaviorKey Field (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'F:Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior.BehaviorKey'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430962(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior.behaviorkey(v=pandp.50)'
 ---
 
 Prism Class Library

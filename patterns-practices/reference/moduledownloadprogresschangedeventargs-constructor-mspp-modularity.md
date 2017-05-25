@@ -2,7 +2,7 @@
 TOCTitle: ModuleDownloadProgressChangedEventArgs Constructor
 Title: 'ModuleDownloadProgressChangedEventArgs Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDownloadProgressChangedEventArgs.\#ctor(Microsoft.Practices.Prism.Modularity.ModuleInfo,System.Int64,System.Int64)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405641(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs.moduledownloadprogresschangedeventargs(v=pandp.50)'
 ---
 
 Prism Class Library

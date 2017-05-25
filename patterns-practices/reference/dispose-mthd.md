@@ -2,7 +2,7 @@
 TOCTitle: Dispose Method
 Title: 'AssemblyResolver.Dispose Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.AssemblyResolver.Dispose'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419078(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.assemblyresolver.dispose(v=pandp.50)'
 ---
 
 Prism Class Library

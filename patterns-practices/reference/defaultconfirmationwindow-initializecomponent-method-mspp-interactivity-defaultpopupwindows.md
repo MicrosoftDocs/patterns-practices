@@ -2,7 +2,7 @@
 TOCTitle: InitializeComponent Method
 Title: 'DefaultConfirmationWindow.InitializeComponent Method (Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultConfirmationWindow.InitializeComponent'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736219(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow.initializecomponent(v=pandp.50)'
 ---
 
 Prism Class Library

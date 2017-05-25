@@ -2,7 +2,7 @@
 TOCTitle: ModuleDependencyCollection Methods
 Title: 'ModuleDependencyCollection Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431054(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencycollection_methods(v=pandp.50)'
 ---
 
 # ModuleDependencyCollection Methods
@@ -174,7 +174,7 @@ The [ModuleDependencyCollection](https://msdn.microsoft.com/en-us/library/micros
 ![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
 </td>
 <td>
-<a href="https://msdn.microsoft.com/en-us/library/gg405897(v=pandp.50)">CreateNewElement<div></a>
+<a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencycollection.createnewelement(v=pandp.50)">CreateNewElement<div></a>
 </td>
 <td>
 <div>

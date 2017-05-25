@@ -2,7 +2,7 @@
 TOCTitle: ModuleNotFoundException Properties
 Title: 'ModuleNotFoundException Properties (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleNotFoundException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431178(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception_properties(v=pandp.50)'
 ---
 
 Prism Class Library

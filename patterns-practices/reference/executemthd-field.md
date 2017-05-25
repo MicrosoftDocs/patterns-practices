@@ -2,7 +2,7 @@
 TOCTitle: '\_executeMethod Field'
 Title: 'DelegateCommandBase.\_executeMethod Field (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'F:Microsoft.Practices.Prism.Commands.DelegateCommandBase.\_executeMethod'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736182(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase._executemethod(v=pandp.50)'
 ---
 
 Prism Class Library

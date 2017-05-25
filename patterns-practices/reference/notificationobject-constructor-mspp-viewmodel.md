@@ -2,7 +2,7 @@
 TOCTitle: NotificationObject Constructor
 Title: 'NotificationObject Constructor (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.NotificationObject.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405729(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.notificationobject.notificationobject(v=pandp.50)'
 ---
 
 # NotificationObject Constructor

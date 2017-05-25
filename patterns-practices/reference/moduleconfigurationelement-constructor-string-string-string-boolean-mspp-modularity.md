@@ -2,7 +2,7 @@
 TOCTitle: 'ModuleConfigurationElement Constructor (String, String, String, Boolean)'
 Title: 'ModuleConfigurationElement Constructor (String, String, String, Boolean) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement.\#ctor(System.String,System.String,System.String,System.Boolean)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405634(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelement.moduleconfigurationelement(v=pandp.50)'
 ---
 
 Prism Class Library

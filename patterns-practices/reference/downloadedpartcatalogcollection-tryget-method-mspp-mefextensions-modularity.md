@@ -2,7 +2,7 @@
 TOCTitle: TryGet Method
 Title: 'DownloadedPartCatalogCollection.TryGet Method (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection.TryGet(Microsoft.Practices.Prism.Modularity.ModuleInfo,System.ComponentModel.Composition.Primitives.ComposablePartCatalog@)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405837(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection.tryget(v=pandp.50)'
 ---
 
 Prism Class Library

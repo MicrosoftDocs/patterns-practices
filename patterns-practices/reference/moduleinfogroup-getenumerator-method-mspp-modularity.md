@@ -2,7 +2,7 @@
 TOCTitle: GetEnumerator Method
 Title: 'ModuleInfoGroup.GetEnumerator Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.GetEnumerator'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405909(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup.getenumerator(v=pandp.50)'
 ---
 
 Prism Class Library

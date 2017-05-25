@@ -2,7 +2,7 @@
 TOCTitle: MefRegionManagerRegistrationBehavior Properties
 Title: 'MefRegionManagerRegistrationBehavior Properties (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionManagerRegistrationBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419184(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmanagerregistrationbehavior_properties(v=pandp.50)'
 ---
 
 # MefRegionManagerRegistrationBehavior Properties

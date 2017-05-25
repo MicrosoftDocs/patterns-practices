@@ -2,7 +2,7 @@
 TOCTitle: SubscriptionToken Methods
 Title: 'SubscriptionToken Methods (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683927(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken_methods(v=pandp.50)'
 ---
 
 

@@ -2,7 +2,7 @@
 TOCTitle: MefBootstrapper Constructor
 Title: 'MefBootstrapper Constructor (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405577(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper.mefbootstrapper(v=pandp.50)'
 ---
 
 Prism Class Library

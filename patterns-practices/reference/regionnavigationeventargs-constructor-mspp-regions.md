@@ -2,7 +2,7 @@
 TOCTitle: RegionNavigationEventArgs Constructor
 Title: 'RegionNavigationEventArgs Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationEventArgs.\#ctor(Microsoft.Practices.Prism.Regions.NavigationContext)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405702(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationeventargs.regionnavigationeventargs(v=pandp.50)'
 ---
 
 Prism Class Library

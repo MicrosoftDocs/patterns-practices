@@ -2,7 +2,7 @@
 TOCTitle: GrouplessModules Property
 Title: 'ModuleCatalog.GrouplessModules Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleCatalog.GrouplessModules'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431283(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.grouplessmodules(v=pandp.50)'
 ---
 
 Prism Class Library

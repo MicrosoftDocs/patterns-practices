@@ -2,7 +2,7 @@
 TOCTitle: ModuleDownloadProgressChanged Event
 Title: 'FileModuleTypeLoader.ModuleDownloadProgressChanged Event (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader.ModuleDownloadProgressChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430922(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader.moduledownloadprogresschanged(v=pandp.50)'
 ---
 
 # FileModuleTypeLoader.ModuleDownloadProgressChanged Event

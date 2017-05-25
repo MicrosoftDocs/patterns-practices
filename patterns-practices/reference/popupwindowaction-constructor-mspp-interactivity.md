@@ -2,7 +2,7 @@
 TOCTitle: PopupWindowAction Constructor
 Title: 'PopupWindowAction Constructor (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736216(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction.popupwindowaction(v=pandp.50)'
 ---
 
 Prism Class Library

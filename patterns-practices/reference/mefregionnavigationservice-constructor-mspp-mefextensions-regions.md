@@ -2,7 +2,7 @@
 TOCTitle: MefRegionNavigationService Constructor
 Title: 'MefRegionNavigationService Constructor (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationService.\#ctor(Microsoft.Practices.ServiceLocation.IServiceLocator,Microsoft.Practices.Prism.Regions.IRegionNavigationContentLoader,Microsoft.Practices.Prism.Regions.IRegionNavigationJournal)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405601(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice.mefregionnavigationservice(v=pandp.50)'
 ---
 
 # MefRegionNavigationService Constructor

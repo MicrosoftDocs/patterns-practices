@@ -2,7 +2,7 @@
 TOCTitle: IEventSubscription Methods
 Title: 'IEventSubscription Methods (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.IEventSubscription'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736287(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription_methods(v=pandp.50)'
 ---
 
 Prism Class Library

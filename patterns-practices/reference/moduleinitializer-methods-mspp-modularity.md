@@ -2,7 +2,7 @@
 TOCTitle: ModuleInitializer Methods
 Title: 'ModuleInitializer Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleInitializer'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431062(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer_methods(v=pandp.50)'
 ---
 
 Prism Class Library

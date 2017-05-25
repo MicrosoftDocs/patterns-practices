@@ -2,7 +2,7 @@
 TOCTitle: SubscriptionToken Property
 Title: 'EventSubscription(TPayload).SubscriptionToken Property (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'P:Microsoft.Practices.Prism.PubSubEvents.EventSubscription\`1.SubscriptionToken'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736140(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736140(v=pandp.50)'
 ---
 
 # EventSubscription&lt;TPayload&gt;.SubscriptionToken Property

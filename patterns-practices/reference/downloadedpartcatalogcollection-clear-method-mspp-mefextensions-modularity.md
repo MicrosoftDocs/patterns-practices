@@ -2,7 +2,7 @@
 TOCTitle: Clear Method
 Title: 'DownloadedPartCatalogCollection.Clear Method (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection.Clear'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405834(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection.clear(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: UnityContainerHelper Members
 Title: 'UnityContainerHelper Members (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.UnityExtensions.UnityContainerHelper'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405527(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitycontainerhelper_members(v=pandp.50)'
 ---
 
 Prism Class Library

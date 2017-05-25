@@ -2,7 +2,7 @@
 TOCTitle: MefRegionManager Methods
 Title: 'MefRegionManager Methods (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431026(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager_methods(v=pandp.50)'
 ---
 
 Prism Class Library

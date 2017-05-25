@@ -2,7 +2,7 @@
 TOCTitle: ClearChildViewsRegionBehavior Members
 Title: 'ClearChildViewsRegionBehavior Members (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn741421(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior_members(v=pandp.50)'
 ---
 
 Prism Class Library

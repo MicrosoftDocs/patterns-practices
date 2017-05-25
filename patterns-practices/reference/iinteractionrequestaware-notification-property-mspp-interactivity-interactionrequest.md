@@ -2,7 +2,7 @@
 TOCTitle: Notification Property
 Title: 'IInteractionRequestAware.Notification Property (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.InteractionRequest.IInteractionRequestAware.Notification'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736229(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware.notification(v=pandp.50)'
 ---
 
 Prism Class Library

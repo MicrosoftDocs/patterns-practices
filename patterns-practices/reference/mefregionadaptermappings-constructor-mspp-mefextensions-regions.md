@@ -2,7 +2,7 @@
 TOCTitle: MefRegionAdapterMappings Constructor
 Title: 'MefRegionAdapterMappings Constructor (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionAdapterMappings.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405595(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings.mefregionadaptermappings(v=pandp.50)'
 ---
 
 # MefRegionAdapterMappings Constructor

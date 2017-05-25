@@ -2,7 +2,7 @@
 TOCTitle: UnityServiceLocatorAdapter Class
 Title: 'UnityServiceLocatorAdapter Class (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.UnityExtensions.UnityServiceLocatorAdapter'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431574(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter(v=pandp.50)'
 ---
 
 Prism Class Library

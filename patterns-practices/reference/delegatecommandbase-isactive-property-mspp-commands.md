@@ -2,7 +2,7 @@
 TOCTitle: IsActive Property
 Title: 'DelegateCommandBase.IsActive Property (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Commands.DelegateCommandBase.IsActive'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431240(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase.isactive(v=pandp.50)'
 ---
 
 Prism Class Library

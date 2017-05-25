@@ -2,7 +2,7 @@
 TOCTitle: RecordNavigation Method
 Title: 'RegionNavigationJournal.RecordNavigation Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationJournal.RecordNavigation(Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418977(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournal.recordnavigation(v=pandp.50)'
 ---
 
 Prism Class Library

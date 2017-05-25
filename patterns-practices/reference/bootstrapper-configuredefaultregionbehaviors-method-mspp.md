@@ -2,7 +2,7 @@
 TOCTitle: ConfigureDefaultRegionBehaviors Method
 Title: 'Bootstrapper.ConfigureDefaultRegionBehaviors Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.ConfigureDefaultRegionBehaviors'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431146(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper.configuredefaultregionbehaviors(v=pandp.50)'
 ---
 
 Prism Class Library

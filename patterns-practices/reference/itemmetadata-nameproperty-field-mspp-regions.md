@@ -2,7 +2,7 @@
 TOCTitle: NameProperty Field
 Title: 'ItemMetadata.NameProperty Field (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'F:Microsoft.Practices.Prism.Regions.ItemMetadata.NameProperty'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430966(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata.nameproperty(v=pandp.50)'
 ---
 
 Prism Class Library

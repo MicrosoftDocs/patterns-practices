@@ -2,7 +2,7 @@
 TOCTitle: 'Microsoft.Practices.Prism.ViewModel Namespace'
 Title: 'Microsoft.Practices.Prism.ViewModel Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.ViewModel'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419047(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50)'
 ---
 
 # Microsoft.Practices.Prism.ViewModel Namespace

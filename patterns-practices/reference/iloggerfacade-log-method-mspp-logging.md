@@ -2,7 +2,7 @@
 TOCTitle: Log Method
 Title: 'ILoggerFacade.Log Method (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Logging.ILoggerFacade.Log(System.String,Microsoft.Practices.Prism.Logging.Category,Microsoft.Practices.Prism.Logging.Priority)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405815(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.iloggerfacade.log(v=pandp.50)'
 ---
 
 Prism Class Library

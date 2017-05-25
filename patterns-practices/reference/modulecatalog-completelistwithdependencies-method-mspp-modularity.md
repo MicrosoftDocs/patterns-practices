@@ -2,7 +2,7 @@
 TOCTitle: CompleteListWithDependencies Method
 Title: 'ModuleCatalog.CompleteListWithDependencies Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.CompleteListWithDependencies(System.Collections.Generic.IEnumerable{Microsoft.Practices.Prism.Modularity.ModuleInfo})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405874(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.completelistwithdependencies(v=pandp.50)'
 ---
 
 Prism Class Library

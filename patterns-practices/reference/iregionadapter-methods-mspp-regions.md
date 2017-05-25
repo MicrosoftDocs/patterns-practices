@@ -2,7 +2,7 @@
 TOCTitle: IRegionAdapter Methods
 Title: 'IRegionAdapter Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegionAdapter'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431085(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionadapter_methods(v=pandp.50)'
 ---
 
 Prism Class Library

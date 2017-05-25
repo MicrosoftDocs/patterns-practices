@@ -2,7 +2,7 @@
 TOCTitle: Initialize Method
 Title: 'UnityBootstrapperExtension.Initialize Method (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtension.Initialize'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419003(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension.initialize(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: MefRegionManagerRegistrationBehavior Methods
 Title: 'MefRegionManagerRegistrationBehavior Methods (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionManagerRegistrationBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431018(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmanagerregistrationbehavior_methods(v=pandp.50)'
 ---
 
 Prism Class Library

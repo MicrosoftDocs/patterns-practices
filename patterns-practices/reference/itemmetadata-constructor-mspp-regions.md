@@ -2,7 +2,7 @@
 TOCTitle: ItemMetadata Constructor
 Title: 'ItemMetadata Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ItemMetadata.\#ctor(System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405689(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata.itemmetadata(v=pandp.50)'
 ---
 
 Prism Class Library

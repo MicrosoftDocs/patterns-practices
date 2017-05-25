@@ -2,7 +2,7 @@
 TOCTitle: GetWindow Method
 Title: 'PopupWindowAction.GetWindow Method (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.GetWindow(Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736153(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction.getwindow(v=pandp.50)'
 ---
 
 

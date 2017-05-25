@@ -2,7 +2,7 @@
 TOCTitle: AddModule Method
 Title: 'ModuleInfoGroupExtensions.AddModule Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleInfoGroupExtensions.AddModule'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419103(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroupextensions.addmodule(v=pandp.50)'
 ---
 
 Prism Class Library

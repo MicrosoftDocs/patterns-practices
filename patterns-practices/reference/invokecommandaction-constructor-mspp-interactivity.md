@@ -2,7 +2,7 @@
 TOCTitle: InvokeCommandAction Constructor
 Title: 'InvokeCommandAction Constructor (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683939(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.invokecommandaction(v=pandp.50)'
 ---
 
 Prism Class Library

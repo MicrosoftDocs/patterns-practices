@@ -2,7 +2,7 @@
 TOCTitle: INotification Interface
 Title: 'INotification Interface (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736130(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.inotification(v=pandp.50)'
 ---
 
 # INotification Interface

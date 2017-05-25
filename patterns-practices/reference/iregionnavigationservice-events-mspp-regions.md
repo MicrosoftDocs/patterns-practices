@@ -2,7 +2,7 @@
 TOCTitle: IRegionNavigationService Events
 Title: 'IRegionNavigationService Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.IRegionNavigationService'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430902(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice_events(v=pandp.50)'
 ---
 
 Prism Class Library

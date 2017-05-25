@@ -2,7 +2,7 @@
 TOCTitle: 'AddModule Method (Type, String[])'
 Title: 'ModuleCatalog.AddModule Method (Type, String[]) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddModule(System.Type,System.String[])'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405869(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.addmodule(v=pandp.50)'
 ---
 
 Prism Class Library

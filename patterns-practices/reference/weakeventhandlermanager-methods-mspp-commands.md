@@ -2,7 +2,7 @@
 TOCTitle: WeakEventHandlerManager Methods
 Title: 'WeakEventHandlerManager Methods (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Commands.WeakEventHandlerManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736230(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager_methods(v=pandp.50)'
 ---
 
 Prism Class Library

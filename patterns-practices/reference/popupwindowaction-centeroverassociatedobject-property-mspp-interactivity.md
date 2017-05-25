@@ -2,7 +2,7 @@
 TOCTitle: CenterOverAssociatedObject Property
 Title: 'PopupWindowAction.CenterOverAssociatedObject Property (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.CenterOverAssociatedObject'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736284(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction.centeroverassociatedobject(v=pandp.50)'
 ---
 
 Prism Class Library

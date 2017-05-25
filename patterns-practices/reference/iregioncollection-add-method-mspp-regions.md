@@ -2,7 +2,7 @@
 TOCTitle: Add Method
 Title: 'IRegionCollection.Add Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionCollection.Add(Microsoft.Practices.Prism.Regions.IRegion)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405963(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection.add(v=pandp.50)'
 ---
 
 Prism Class Library

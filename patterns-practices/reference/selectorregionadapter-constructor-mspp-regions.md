@@ -2,7 +2,7 @@
 TOCTitle: SelectorRegionAdapter Constructor
 Title: 'SelectorRegionAdapter Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.SelectorRegionAdapter.\#ctor(Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405710(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.selectorregionadapter.selectorregionadapter(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: ViewsCollection Events
 Title: 'ViewsCollection Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.ViewsCollection'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430911(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewscollection_events(v=pandp.50)'
 ---
 
 Prism Class Library

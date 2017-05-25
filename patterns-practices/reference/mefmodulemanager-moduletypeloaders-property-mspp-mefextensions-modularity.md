@@ -2,7 +2,7 @@
 TOCTitle: ModuleTypeLoaders Property
 Title: 'MefModuleManager.ModuleTypeLoaders Property (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager.ModuleTypeLoaders'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431268(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager.moduletypeloaders(v=pandp.50)'
 ---
 
 Prism Class Library

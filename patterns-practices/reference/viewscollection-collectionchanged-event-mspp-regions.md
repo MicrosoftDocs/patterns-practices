@@ -2,7 +2,7 @@
 TOCTitle: CollectionChanged Event
 Title: 'ViewsCollection.CollectionChanged Event (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Regions.ViewsCollection.CollectionChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430942(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewscollection.collectionchanged(v=pandp.50)'
 ---
 
 Prism Class Library

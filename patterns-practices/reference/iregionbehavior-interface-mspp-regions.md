@@ -2,7 +2,7 @@
 TOCTitle: IRegionBehavior Interface
 Title: 'IRegionBehavior Interface (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.IRegionBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431527(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior(v=pandp.50)'
 ---
 
 Prism Class Library

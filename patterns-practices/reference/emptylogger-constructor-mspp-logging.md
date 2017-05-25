@@ -2,7 +2,7 @@
 TOCTitle: EmptyLogger Constructor
 Title: 'EmptyLogger Constructor (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Logging.EmptyLogger.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405572(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.emptylogger.emptylogger(v=pandp.50)'
 ---
 
 Prism Class Library

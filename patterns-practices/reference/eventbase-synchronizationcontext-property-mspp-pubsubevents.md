@@ -2,7 +2,7 @@
 TOCTitle: SynchronizationContext Property
 Title: 'EventBase.SynchronizationContext Property (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'P:Microsoft.Practices.Prism.PubSubEvents.EventBase.SynchronizationContext'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736205(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase.synchronizationcontext(v=pandp.50)'
 ---
 
 Prism Class Library

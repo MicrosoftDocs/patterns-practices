@@ -2,7 +2,7 @@
 TOCTitle: Publish Method
 Title: 'PubSubEvent(TPayload).Publish Method (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Publish(\`0)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683930(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn683930(v=pandp.50)'
 ---
 
 # PubSubEvent&lt;TPayload&gt;.Publish Method

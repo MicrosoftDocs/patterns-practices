@@ -2,7 +2,7 @@
 TOCTitle: Bootstrapper Constructor
 Title: 'Bootstrapper Constructor (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405536(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper.bootstrapper(v=pandp.50)'
 ---
 
 Prism Class Library

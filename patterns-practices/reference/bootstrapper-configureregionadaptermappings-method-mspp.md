@@ -2,7 +2,7 @@
 TOCTitle: ConfigureRegionAdapterMappings Method
 Title: 'Bootstrapper.ConfigureRegionAdapterMappings Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.ConfigureRegionAdapterMappings'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431148(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper.configureregionadaptermappings(v=pandp.50)'
 ---
 
 # Bootstrapper.ConfigureRegionAdapterMappings Method

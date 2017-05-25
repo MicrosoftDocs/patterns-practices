@@ -2,7 +2,7 @@
 TOCTitle: IConfirmNavigationRequest Interface
 Title: 'IConfirmNavigationRequest Interface (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.IConfirmNavigationRequest'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431522(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iconfirmnavigationrequest(v=pandp.50)'
 ---
 
 # IConfirmNavigationRequest Interface

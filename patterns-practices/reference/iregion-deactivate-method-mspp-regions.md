@@ -2,7 +2,7 @@
 TOCTitle: Deactivate Method
 Title: 'IRegion.Deactivate Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegion.Deactivate(System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405981(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion.deactivate(v=pandp.50)'
 ---
 
 Prism Class Library

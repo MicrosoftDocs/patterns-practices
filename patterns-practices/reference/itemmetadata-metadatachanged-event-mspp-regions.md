@@ -2,7 +2,7 @@
 TOCTitle: MetadataChanged Event
 Title: 'ItemMetadata.MetadataChanged Event (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Regions.ItemMetadata.MetadataChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430935(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata.metadatachanged(v=pandp.50)'
 ---
 
 # ItemMetadata.MetadataChanged Event

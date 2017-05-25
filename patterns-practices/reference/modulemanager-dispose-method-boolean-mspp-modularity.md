@@ -2,7 +2,7 @@
 TOCTitle: 'Dispose Method (Boolean)'
 Title: 'ModuleManager.Dispose Method (Boolean) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleManager.Dispose(System.Boolean)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405926(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager.dispose(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: Unsubscribe Method
 Title: 'EventBase.Unsubscribe Method (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventBase.Unsubscribe(Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736277(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase.unsubscribe(v=pandp.50)'
 ---
 
 Prism Class Library

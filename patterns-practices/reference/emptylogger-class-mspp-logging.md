@@ -2,7 +2,7 @@
 TOCTitle: EmptyLogger Class
 Title: 'EmptyLogger Class (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Logging.EmptyLogger'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431436(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.emptylogger(v=pandp.50)'
 ---
 
 Prism Class Library

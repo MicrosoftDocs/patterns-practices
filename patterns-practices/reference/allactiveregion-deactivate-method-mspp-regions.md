@@ -2,7 +2,7 @@
 TOCTitle: Deactivate Method
 Title: 'AllActiveRegion.Deactivate Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.AllActiveRegion.Deactivate(System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405932(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.allactiveregion.deactivate(v=pandp.50)'
 ---
 
 # AllActiveRegion.Deactivate Method

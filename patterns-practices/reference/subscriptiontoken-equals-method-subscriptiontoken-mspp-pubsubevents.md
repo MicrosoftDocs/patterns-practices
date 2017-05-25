@@ -2,7 +2,7 @@
 TOCTitle: 'Equals Method (SubscriptionToken)'
 Title: 'SubscriptionToken.Equals Method (SubscriptionToken) (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken.Equals(Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683934(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken.equals(v=pandp.50)'
 ---
 
 # SubscriptionToken.Equals Method (SubscriptionToken)

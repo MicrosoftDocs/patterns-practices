@@ -2,7 +2,7 @@
 TOCTitle: ToString Method
 Title: 'NavigationParameters.ToString Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationParameters.ToString'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736117(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters.tostring(v=pandp.50)'
 ---
 
 Prism Class Library

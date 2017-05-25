@@ -2,7 +2,7 @@
 TOCTitle: 'Microsoft.Practices.Prism.Mvvm Namespace'
 Title: 'Microsoft.Practices.Prism.Mvvm Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.Mvvm'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736243(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm(v=pandp.50)'
 ---
 
 # Microsoft.Practices.Prism.Mvvm Namespace

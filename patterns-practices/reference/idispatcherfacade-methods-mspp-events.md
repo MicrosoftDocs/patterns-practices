@@ -2,7 +2,7 @@
 TOCTitle: IDispatcherFacade Methods
 Title: 'IDispatcherFacade Methods (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Events.IDispatcherFacade'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430988(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.idispatcherfacade_methods(v=pandp.50)'
 ---
 
 Prism Class Library

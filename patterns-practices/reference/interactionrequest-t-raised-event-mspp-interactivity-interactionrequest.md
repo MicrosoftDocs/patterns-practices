@@ -2,7 +2,7 @@
 TOCTitle: Raised Event
 Title: 'InteractionRequest(T).Raised Event (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequest\`1.Raised'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430918(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg430918(v=pandp.50)'
 ---
 
 Prism Class Library

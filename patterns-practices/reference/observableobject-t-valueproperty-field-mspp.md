@@ -2,7 +2,7 @@
 TOCTitle: ValueProperty Field
 Title: 'ObservableObject(T).ValueProperty Field (Microsoft.Practices.Prism)'
 ms:assetid: 'F:Microsoft.Practices.Prism.ObservableObject\`1.ValueProperty'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430957(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg430957(v=pandp.50)'
 ---
 
 Prism Class Library

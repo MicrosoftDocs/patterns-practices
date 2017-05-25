@@ -2,7 +2,7 @@
 TOCTitle: MefModuleManager Properties
 Title: 'MefModuleManager Properties (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419178(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager_properties(v=pandp.50)'
 ---
 
 MefModuleManager Properties

@@ -2,7 +2,7 @@
 TOCTitle: FindAllValues Method
 Title: 'ListDictionary(TKey, TValue).FindAllValues Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.FindAllValues(System.Predicate{\`1})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405802(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405802(v=pandp.50)'
 ---
 
 Prism Class Library

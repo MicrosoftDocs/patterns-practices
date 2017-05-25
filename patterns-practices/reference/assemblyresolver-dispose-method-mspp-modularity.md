@@ -2,7 +2,7 @@
 TOCTitle: Dispose Method
 Title: 'AssemblyResolver.Dispose Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.AssemblyResolver.Dispose'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405843(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.assemblyresolver.dispose(v=pandp.50)'
 ---
 
 # AssemblyResolver.Dispose Method
@@ -32,7 +32,7 @@ Public Sub Dispose
 
 ## Remarks
 
-&nbsp;&nbsp;Calls [Dispose(Boolean)](https://msdn.microsoft.com/en-us/library/gg405844(v=pandp.50))
+&nbsp;&nbsp;Calls [Dispose(Boolean)](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.assemblyresolver.dispose(v=pandp.50))
 
 ## See Also
 

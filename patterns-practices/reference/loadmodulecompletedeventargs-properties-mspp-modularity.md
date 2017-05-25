@@ -2,7 +2,7 @@
 TOCTitle: LoadModuleCompletedEventArgs Properties
 Title: 'LoadModuleCompletedEventArgs Properties (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.LoadModuleCompletedEventArgs'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431163(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs_properties(v=pandp.50)'
 ---
 
 Prism Class Library

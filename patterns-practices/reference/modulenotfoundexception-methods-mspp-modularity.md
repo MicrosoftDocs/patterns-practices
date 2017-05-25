@@ -2,7 +2,7 @@
 TOCTitle: ModuleNotFoundException Methods
 Title: 'ModuleNotFoundException Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleNotFoundException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431064(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception_methods(v=pandp.50)'
 ---
 
 Prism Class Library

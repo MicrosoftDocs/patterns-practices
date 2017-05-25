@@ -2,7 +2,7 @@
 TOCTitle: DownloadedPartCatalogCollection Members
 Title: 'DownloadedPartCatalogCollection Members (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430796(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection_members(v=pandp.50)'
 ---
 
 Prism Class Library

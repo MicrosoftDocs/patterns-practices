@@ -2,7 +2,7 @@
 TOCTitle: RegionBehaviorFactory Constructor
 Title: 'RegionBehaviorFactory Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionBehaviorFactory.\#ctor(Microsoft.Practices.ServiceLocation.IServiceLocator)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405697(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorfactory.regionbehaviorfactory(v=pandp.50)'
 ---
 
 Prism Class Library

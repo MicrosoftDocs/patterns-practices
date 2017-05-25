@@ -2,7 +2,7 @@
 TOCTitle: Publish Method
 Title: 'CompositePresentationEvent(TPayload).Publish Method (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Publish(\`0)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405767(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405767(v=pandp.50)'
 ---
 
 Prism Class Library

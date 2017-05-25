@@ -2,7 +2,7 @@
 TOCTitle: MefRegionMemberLifetimeBehavior Members
 Title: 'MefRegionMemberLifetimeBehavior Members (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionMemberLifetimeBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430807(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmemberlifetimebehavior_members(v=pandp.50)'
 ---
 
 Prism Class Library

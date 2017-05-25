@@ -2,7 +2,7 @@
 TOCTitle: InitializeModules Method
 Title: 'MefBootstrapper.InitializeModules Method (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.InitializeModules'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405826(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper.initializemodules(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: GetElementKey Method
 Title: 'ModuleDependencyCollection.GetElementKey Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection.GetElementKey(System.Configuration.ConfigurationElement)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405898(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencycollection.getelementkey(v=pandp.50)'
 ---
 
 Prism Class Library

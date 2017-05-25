@@ -2,7 +2,7 @@
 TOCTitle: OnAttached Method
 Title: 'InvokeCommandAction.OnAttached Method (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.OnAttached'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736227(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.onattached(v=pandp.50)'
 ---
 
 

@@ -2,7 +2,7 @@
 TOCTitle: 'ListDictionary(TKey, TValue) Constructor'
 Title: 'ListDictionary(TKey, TValue) Constructor (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405571(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405571(v=pandp.50)'
 ---
 
 Prism Class Library

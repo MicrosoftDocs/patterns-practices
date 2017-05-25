@@ -2,7 +2,7 @@
 TOCTitle: GetEnumerator Method
 Title: 'NavigationParameters.GetEnumerator Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationParameters.GetEnumerator'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683935(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters.getenumerator(v=pandp.50)'
 ---
 
 # NavigationParameters.GetEnumerator Method

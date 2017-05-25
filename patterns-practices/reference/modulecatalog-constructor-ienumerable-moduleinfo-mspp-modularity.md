@@ -2,7 +2,7 @@
 TOCTitle: 'ModuleCatalog Constructor (IEnumerable(ModuleInfo))'
 Title: 'ModuleCatalog Constructor (IEnumerable(ModuleInfo)) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.\#ctor(System.Collections.Generic.IEnumerable{Microsoft.Practices.Prism.Modularity.ModuleInfo})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405630(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.modulecatalog(v=pandp.50)'
 ---
 
 Prism Class Library

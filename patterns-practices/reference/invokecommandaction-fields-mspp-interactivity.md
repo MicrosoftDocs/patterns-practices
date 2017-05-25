@@ -2,7 +2,7 @@
 TOCTitle: InvokeCommandAction Fields
 Title: 'InvokeCommandAction Fields (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683972(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction_fields(v=pandp.50)'
 ---
 
 # InvokeCommandAction Fields

@@ -2,7 +2,7 @@
 TOCTitle: 'NavigationParameters Constructor (String)'
 Title: 'NavigationParameters Constructor (String) (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationParameters.\#ctor(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736135(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters.navigationparameters(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: CommandParameterProperty Field
 Title: 'InvokeCommandAction.CommandParameterProperty Field (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'F:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.CommandParameterProperty'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683976(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.commandparameterproperty(v=pandp.50)'
 ---
 
 Prism Class Library

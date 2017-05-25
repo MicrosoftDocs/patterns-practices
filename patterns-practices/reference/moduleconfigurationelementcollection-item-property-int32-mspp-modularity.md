@@ -2,7 +2,7 @@
 TOCTitle: 'Item Property (Int32)'
 Title: 'ModuleConfigurationElementCollection.Item Property (Int32) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection.Item(System.Int32)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431290(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.item(v=pandp.50)'
 ---
 
 Prism Class Library

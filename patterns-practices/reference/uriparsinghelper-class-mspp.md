@@ -2,7 +2,7 @@
 TOCTitle: UriParsingHelper Class
 Title: 'UriParsingHelper Class (Microsoft.Practices.Prism)'
 ms:assetid: 'T:Microsoft.Practices.Prism.UriParsingHelper'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431575(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.uriparsinghelper(v=pandp.50)'
 ---
 
 Prism Class Library

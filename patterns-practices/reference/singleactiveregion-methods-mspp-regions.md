@@ -2,7 +2,7 @@
 TOCTitle: SingleActiveRegion Methods
 Title: 'SingleActiveRegion Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.SingleActiveRegion'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431130(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.singleactiveregion_methods(v=pandp.50)'
 ---
 
 Prism Class Library

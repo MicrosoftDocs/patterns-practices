@@ -2,7 +2,7 @@
 TOCTitle: AllActiveRegion Constructor
 Title: 'AllActiveRegion Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.AllActiveRegion.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405675(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.allactiveregion.allactiveregion(v=pandp.50)'
 ---
 
 Prism Class Library

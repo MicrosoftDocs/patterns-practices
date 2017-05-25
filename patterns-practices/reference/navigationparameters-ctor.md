@@ -2,7 +2,7 @@
 TOCTitle: NavigationParameters Constructor
 Title: 'NavigationParameters Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.NavigationParameters.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683946(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters.navigationparameters(v=pandp.50)'
 ---
 
 # NavigationParameters Constructor

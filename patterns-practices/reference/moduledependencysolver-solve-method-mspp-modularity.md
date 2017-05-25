@@ -2,7 +2,7 @@
 TOCTitle: Solve Method
 Title: 'ModuleDependencySolver.Solve Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencySolver.Solve'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405901(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencysolver.solve(v=pandp.50)'
 ---
 
 # ModuleDependencySolver.Solve Method

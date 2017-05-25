@@ -2,7 +2,7 @@
 TOCTitle: 'ExtractPropertyName(T) Method'
 Title: 'PropertySupport.ExtractPropertyName(T) Method (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Mvvm.PropertySupport.ExtractPropertyName\`\`1(System.Linq.Expressions.Expression{System.Func{\`\`0}})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736209(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736209(v=pandp.50)'
 ---
 
 Prism Class Library

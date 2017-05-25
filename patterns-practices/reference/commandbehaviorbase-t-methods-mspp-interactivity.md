@@ -2,7 +2,7 @@
 TOCTitle: 'CommandBehaviorBase(T) Methods'
 Title: 'CommandBehaviorBase(T) Methods (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736245(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736245(v=pandp.50)'
 ---
 
 # CommandBehaviorBase(Of T) Methods

@@ -2,7 +2,7 @@
 TOCTitle: RegionMemberLifetimeBehavior Methods
 Title: 'RegionMemberLifetimeBehavior Methods (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431077(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior_methods(v=pandp.50)'
 ---
 
 Prism Class Library

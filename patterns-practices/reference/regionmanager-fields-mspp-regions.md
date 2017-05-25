@@ -2,7 +2,7 @@
 TOCTitle: RegionManager Fields
 Title: 'RegionManager Fields (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Regions.RegionManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430954(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager_fields(v=pandp.50)'
 ---
 
 Prism Class Library

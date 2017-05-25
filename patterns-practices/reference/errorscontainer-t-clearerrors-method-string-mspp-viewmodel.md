@@ -2,7 +2,7 @@
 TOCTitle: 'ClearErrors Method (String)'
 Title: 'ErrorsContainer(T).ClearErrors Method (String) (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.ClearErrors(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419024(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg419024(v=pandp.50)'
 ---
 
 Prism Class Library

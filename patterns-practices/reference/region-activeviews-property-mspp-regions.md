@@ -2,7 +2,7 @@
 TOCTitle: ActiveViews Property
 Title: 'Region.ActiveViews Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.ActiveViews'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431386(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.activeviews(v=pandp.50)'
 ---
 
 Prism Class Library

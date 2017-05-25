@@ -2,7 +2,7 @@
 TOCTitle: '\_canExecuteMethod Field'
 Title: 'DelegateCommandBase.\_canExecuteMethod Field (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'F:Microsoft.Practices.Prism.Commands.DelegateCommandBase.\_canExecuteMethod'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736165(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase._canexecutemethod(v=pandp.50)'
 ---
 
 Prism Class Library

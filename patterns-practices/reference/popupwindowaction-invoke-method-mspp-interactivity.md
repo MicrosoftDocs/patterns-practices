@@ -2,7 +2,7 @@
 TOCTitle: Invoke Method
 Title: 'PopupWindowAction.Invoke Method (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.Invoke(System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736269(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction.invoke(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: Item Property
 Title: 'ModuleConfigurationElementCollection.Item Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection.Item'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419093(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.item(v=pandp.50)'
 ---
 
 Prism Class Library

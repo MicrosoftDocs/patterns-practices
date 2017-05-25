@@ -2,7 +2,7 @@
 TOCTitle: ModularityException Events
 Title: 'ModularityException Events (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.ModularityException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736123(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception_events(v=pandp.50)'
 ---
 
 Prism Class Library

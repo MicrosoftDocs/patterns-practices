@@ -2,7 +2,7 @@
 TOCTitle: InteractionRequestedEventArgs Members
 Title: 'InteractionRequestedEventArgs Members (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestedEventArgs'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430783(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs_members(v=pandp.50)'
 ---
 
 Prism Class Library

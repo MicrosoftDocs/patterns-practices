@@ -2,7 +2,7 @@
 TOCTitle: Confirmation Methods
 Title: 'Confirmation Methods (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confirmation'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430993(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation_methods(v=pandp.50)'
 ---
 
 Prism Class Library

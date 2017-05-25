@@ -2,7 +2,7 @@
 TOCTitle: InnerLoad Method
 Title: 'DirectoryModuleCatalog.InnerLoad Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog.InnerLoad'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405849(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.directorymodulecatalog.innerload(v=pandp.50)'
 ---
 
 Prism Class Library

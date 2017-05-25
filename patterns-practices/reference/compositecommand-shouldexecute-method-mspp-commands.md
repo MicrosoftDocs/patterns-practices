@@ -2,7 +2,7 @@
 TOCTitle: ShouldExecute Method
 Title: 'CompositeCommand.ShouldExecute Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.ShouldExecute(System.Windows.Input.ICommand)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405752(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand.shouldexecute(v=pandp.50)'
 ---
 
 Prism Class Library

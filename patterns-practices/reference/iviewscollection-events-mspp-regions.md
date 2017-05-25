@@ -2,7 +2,7 @@
 TOCTitle: IViewsCollection Events
 Title: 'IViewsCollection Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.IViewsCollection'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430905(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iviewscollection_events(v=pandp.50)'
 ---
 
 # IViewsCollection Events

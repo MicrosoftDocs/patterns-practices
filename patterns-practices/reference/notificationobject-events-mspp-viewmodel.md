@@ -2,7 +2,7 @@
 TOCTitle: NotificationObject Events
 Title: 'NotificationObject Events (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.ViewModel.NotificationObject'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430912(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.notificationobject_events(v=pandp.50)'
 ---
 
 Prism Class Library

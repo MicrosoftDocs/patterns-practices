@@ -2,7 +2,7 @@
 TOCTitle: DirectoryModuleCatalog Members
 Title: 'DirectoryModuleCatalog Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430825(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.directorymodulecatalog_members(v=pandp.50)'
 ---
 
 Prism Class Library

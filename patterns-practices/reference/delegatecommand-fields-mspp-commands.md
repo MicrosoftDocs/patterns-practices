@@ -2,7 +2,7 @@
 TOCTitle: DelegateCommand Fields
 Title: 'DelegateCommand Fields (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Commands.DelegateCommand'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736109(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand_fields(v=pandp.50)'
 ---
 
 # DelegateCommand Fields

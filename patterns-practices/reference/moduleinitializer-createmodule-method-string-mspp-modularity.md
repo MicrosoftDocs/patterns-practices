@@ -2,7 +2,7 @@
 TOCTitle: 'CreateModule Method (String)'
 Title: 'ModuleInitializer.CreateModule Method (String) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializer.CreateModule(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405922(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer.createmodule(v=pandp.50)'
 ---
 
 Prism Class Library

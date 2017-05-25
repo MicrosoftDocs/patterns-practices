@@ -2,7 +2,7 @@
 TOCTitle: Region Property
 Title: 'IRegionNavigationService.Region Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionNavigationService.Region'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431347(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice.region(v=pandp.50)'
 ---
 
 # IRegionNavigationService.Region Property 

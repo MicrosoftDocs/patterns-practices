@@ -2,7 +2,7 @@
 TOCTitle: AutoPopulateRegionBehavior Constructor
 Title: 'AutoPopulateRegionBehavior Constructor (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior.\#ctor(Microsoft.Practices.Prism.Regions.IRegionViewRegistry)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405676(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior.autopopulateregionbehavior(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: 'Insert Method (Int32, Object)'
 Title: 'ModuleInfoGroup.Insert Method (Int32, Object) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Insert(System.Int32,System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405912(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup.insert(v=pandp.50)'
 ---
 
 Prism Class Library

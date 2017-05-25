@@ -2,7 +2,7 @@
 TOCTitle: MefRegionNavigationService Methods
 Title: 'MefRegionNavigationService Methods (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationService'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431030(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice_methods(v=pandp.50)'
 ---
 
 Prism Class Library

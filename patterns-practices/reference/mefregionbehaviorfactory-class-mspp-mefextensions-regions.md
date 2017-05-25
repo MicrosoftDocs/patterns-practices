@@ -2,7 +2,7 @@
 TOCTitle: MefRegionBehaviorFactory Class
 Title: 'MefRegionBehaviorFactory Class (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionBehaviorFactory'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431463(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory(v=pandp.50)'
 ---
 
 Prism Class Library

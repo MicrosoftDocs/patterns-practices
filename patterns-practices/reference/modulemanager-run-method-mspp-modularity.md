@@ -2,7 +2,7 @@
 TOCTitle: Run Method
 Title: 'ModuleManager.Run Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleManager.Run'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405931(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager.run(v=pandp.50)'
 ---
 
 Prism Class Library

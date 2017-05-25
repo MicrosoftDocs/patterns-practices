@@ -2,7 +2,7 @@
 TOCTitle: ConfigurationStore Members
 Title: 'ConfigurationStore Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ConfigurationStore'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430823(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.configurationstore_members(v=pandp.50)'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: NavigationParameters Methods
 Title: 'NavigationParameters Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.NavigationParameters'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683945(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters_methods(v=pandp.50)'
 ---
 
 # NavigationParameters Methods

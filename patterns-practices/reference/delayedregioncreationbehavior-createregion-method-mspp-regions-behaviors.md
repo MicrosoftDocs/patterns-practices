@@ -2,7 +2,7 @@
 TOCTitle: CreateRegion Method
 Title: 'DelayedRegionCreationBehavior.CreateRegion Method (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior.CreateRegion(System.Windows.DependencyObject,System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405939(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.createregion(v=pandp.50)'
 ---
 
 Prism Class Library

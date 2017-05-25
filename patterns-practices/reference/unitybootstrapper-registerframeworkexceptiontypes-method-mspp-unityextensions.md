@@ -2,7 +2,7 @@
 TOCTitle: RegisterFrameworkExceptionTypes Method
 Title: 'UnityBootstrapper.RegisterFrameworkExceptionTypes Method (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.RegisterFrameworkExceptionTypes'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419009(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapper.registerframeworkexceptiontypes(v=pandp.50)'
 ---
 
 Prism Class Library

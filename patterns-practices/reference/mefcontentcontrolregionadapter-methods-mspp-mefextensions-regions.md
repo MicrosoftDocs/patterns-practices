@@ -2,7 +2,7 @@
 TOCTitle: MefContentControlRegionAdapter Methods
 Title: 'MefContentControlRegionAdapter Methods (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefContentControlRegionAdapter'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431022(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefcontentcontrolregionadapter_methods(v=pandp.50)'
 ---
 
 Prism Class Library

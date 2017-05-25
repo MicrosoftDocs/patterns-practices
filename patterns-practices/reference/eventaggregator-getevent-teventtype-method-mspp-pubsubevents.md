@@ -2,7 +2,7 @@
 TOCTitle: 'GetEvent(TEventType) Method'
 Title: 'EventAggregator.GetEvent(TEventType) Method (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventAggregator.GetEvent\`\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736138(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736138(v=pandp.50)'
 ---
 
 

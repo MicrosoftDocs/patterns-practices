@@ -2,7 +2,7 @@
 TOCTitle: UpdatingRegions Event
 Title: 'IRegionManagerAccessor.UpdatingRegions Event (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Regions.IRegionManagerAccessor.UpdatingRegions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430930(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor.updatingregions(v=pandp.50)'
 ---
 
 Prism Class Library

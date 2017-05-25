@@ -2,7 +2,7 @@
 TOCTitle: 'Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace'
 Title: 'Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419042(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors(v=pandp.50)'
 ---
 
 Prism Class Library

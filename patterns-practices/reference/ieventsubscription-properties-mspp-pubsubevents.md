@@ -2,7 +2,7 @@
 TOCTitle: IEventSubscription Properties
 Title: 'IEventSubscription Properties (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.IEventSubscription'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736151(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription_properties(v=pandp.50)'
 ---
 
 

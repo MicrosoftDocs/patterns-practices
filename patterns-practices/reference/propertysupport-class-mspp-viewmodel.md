@@ -2,7 +2,7 @@
 TOCTitle: PropertySupport Class
 Title: 'PropertySupport Class (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'T:Microsoft.Practices.Prism.ViewModel.PropertySupport'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431579(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.propertysupport(v=pandp.50)'
 ---
 
 Prism Class Library

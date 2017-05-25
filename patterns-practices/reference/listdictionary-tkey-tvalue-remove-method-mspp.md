@@ -2,7 +2,7 @@
 TOCTitle: Remove Method
 Title: 'ListDictionary(TKey, TValue).Remove Method (Microsoft.Practices.Prism)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.ListDictionary\`2.Remove'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419068(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg419068(v=pandp.50)'
 ---
 
 Prism Class Library

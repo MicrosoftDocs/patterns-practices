@@ -2,7 +2,7 @@
 TOCTitle: InteractionRequestedEventArgs Constructor
 Title: 'InteractionRequestedEventArgs Constructor (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestedEventArgs.\#ctor(Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification,System.Action)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683928(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs.interactionrequestedeventargs(v=pandp.50)'
 ---
 
 # InteractionRequestedEventArgs Constructor

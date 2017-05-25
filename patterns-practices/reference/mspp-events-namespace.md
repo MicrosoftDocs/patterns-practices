@@ -2,7 +2,7 @@
 TOCTitle: 'Microsoft.Practices.Prism.Events Namespace'
 Title: 'Microsoft.Practices.Prism.Events Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.Events'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419035(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50)'
 ---
 
 Prism Class Library

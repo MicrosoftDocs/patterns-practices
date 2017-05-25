@@ -2,7 +2,7 @@
 TOCTitle: 'Add Method (Object, String, Boolean)'
 Title: 'IRegion.Add Method (Object, String, Boolean) (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegion.Add(System.Object,System.String,System.Boolean)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405980(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion.add(v=pandp.50)'
 ---
 
 Prism Class Library

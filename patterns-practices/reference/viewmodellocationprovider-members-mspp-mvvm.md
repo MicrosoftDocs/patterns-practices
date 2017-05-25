@@ -2,7 +2,7 @@
 TOCTitle: ViewModelLocationProvider Members
 Title: 'ViewModelLocationProvider Members (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Mvvm.ViewModelLocationProvider'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn741415(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.viewmodellocationprovider_members(v=pandp.50)'
 ---
 
 Prism Class Library

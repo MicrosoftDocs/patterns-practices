@@ -2,7 +2,7 @@
 TOCTitle: RegionContext Attached Property
 Title: 'RegionManager.RegionContext Attached Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionManager.RegionContext'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431369(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager.regioncontext(v=pandp.50)'
 ---
 
 Prism Class Library

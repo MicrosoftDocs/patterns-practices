@@ -2,7 +2,7 @@
 TOCTitle: MefSelectorRegionAdapter Methods
 Title: 'MefSelectorRegionAdapter Methods (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefSelectorRegionAdapter'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431032(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefselectorregionadapter_methods(v=pandp.50)'
 ---
 
 Prism Class Library

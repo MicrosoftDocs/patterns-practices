@@ -2,7 +2,7 @@
 TOCTitle: 'SetErrors(TProperty) Method (Expression(Func(TProperty)), IEnumerable(T))'
 Title: 'ErrorsContainer(T).SetErrors(TProperty) Method (Expression(Func(TProperty)), IEnumerable(T)) (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.SetErrors\`\`1(System.Linq.Expressions.Expression{System.Func{\`\`0}},System.Collections.Generic.IEnumerable{\`0})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg406217(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg406217(v=pandp.50)'
 ---
 
 Prism Class Library

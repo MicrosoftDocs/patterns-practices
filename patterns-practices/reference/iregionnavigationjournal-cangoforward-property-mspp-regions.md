@@ -2,7 +2,7 @@
 TOCTitle: CanGoForward Property
 Title: 'IRegionNavigationJournal.CanGoForward Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal.CanGoForward'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431343(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal.cangoforward(v=pandp.50)'
 ---
 
 Prism Class Library

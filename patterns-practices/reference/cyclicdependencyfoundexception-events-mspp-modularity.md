@@ -2,7 +2,7 @@
 TOCTitle: CyclicDependencyFoundException Events
 Title: 'CyclicDependencyFoundException Events (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736282(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception_events(v=pandp.50)'
 ---
 
 # CyclicDependencyFoundException Events

@@ -2,7 +2,7 @@
 TOCTitle: 'RegionAdapterBase(T) Class'
 Title: 'RegionAdapterBase(T) Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionAdapterBase\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431546(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg431546(v=pandp.50)'
 ---
 
 Prism Class Library

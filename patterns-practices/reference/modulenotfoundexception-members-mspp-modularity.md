@@ -2,7 +2,7 @@
 TOCTitle: ModuleNotFoundException Members
 Title: 'ModuleNotFoundException Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleNotFoundException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430852(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception_members(v=pandp.50)'
 ---
 
 Prism Class Library

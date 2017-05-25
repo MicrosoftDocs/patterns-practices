@@ -2,7 +2,7 @@
 TOCTitle: MefModuleManager Members
 Title: 'MefModuleManager Members (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430800(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager_members(v=pandp.50)'
 ---
 
 Prism Class Library

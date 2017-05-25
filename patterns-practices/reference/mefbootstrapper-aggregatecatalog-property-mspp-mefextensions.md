@@ -2,7 +2,7 @@
 TOCTitle: AggregateCatalog Property
 Title: 'MefBootstrapper.AggregateCatalog Property (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.AggregateCatalog'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431261(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper.aggregatecatalog(v=pandp.50)'
 ---
 
 # MefBootstrapper.AggregateCatalog Property

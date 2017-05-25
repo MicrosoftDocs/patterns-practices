@@ -2,7 +2,7 @@
 TOCTitle: Validate Method
 Title: 'ModuleCatalog.Validate Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.Validate'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405885(v=PandP.50)'
+ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.validate(v=pandp.50)'
 ---
 
 Prism Class Library
