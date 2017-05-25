@@ -5,26 +5,21 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.\#ctor'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405571(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Constructor
-=============================================================
+# ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Constructor
 
 Initializes a new instance of the [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602) class
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public ListDictionary()Public Sub New
 
-See Also
---------
-
+## See Also
 
 [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 

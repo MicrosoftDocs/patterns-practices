@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Contains(Mic
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405906(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleInfoGroup.Contains Method
-===================================
+# ModuleInfoGroup.Contains Method
 
 Determines whether the [ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50)) contains a specific value.
 
@@ -18,9 +16,7 @@ Determines whether the [ModuleInfoGroup](https://msdn.microsoft.com/en-us/librar
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public bool Contains(
@@ -50,9 +46,7 @@ true if item is found in the [ModuleInfoGroup](https://msdn.microsoft.com/en-us/
 
 [ICollection&lt;T&gt;.Contains(T)](http://msdn.microsoft.com/en-us/library/k5cf1d56)
 
-See Also
---------
-
+## See Also
 
 [ModuleInfoGroup Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50))
 

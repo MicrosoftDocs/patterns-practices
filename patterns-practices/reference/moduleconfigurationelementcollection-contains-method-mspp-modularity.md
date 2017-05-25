@@ -30,7 +30,6 @@ Public Function Contains (
 ) As Boolean
 ```
 
-
 ### Parameters
 
 *moduleName*
@@ -40,7 +39,7 @@ Public Function Contains (
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
 **Truetrue** (**True** in Visual Basic) if a configuration for the module is present; otherwise **Falsefalse** (**False** in Visual Basic).
 
 ## See Also

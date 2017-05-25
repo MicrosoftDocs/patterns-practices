@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleCatalog.Validated'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431287(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleCatalog.Validated Property
 

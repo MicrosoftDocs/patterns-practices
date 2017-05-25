@@ -5,7 +5,6 @@ ms:assetid: 'F:Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBeha
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430960(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # RegionActiveAwareBehavior.BehaviorKey Field
 

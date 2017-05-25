@@ -5,29 +5,24 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog.Modul
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431274(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DirectoryModuleCatalog.ModulePath Property
-==============================================
+# DirectoryModuleCatalog.ModulePath Property
 
 Directory containing modules to search for.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public string ModulePath { get; set; }Public Property ModulePath As String Get Set
 ### Property Value
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-See Also
---------
-
+## See Also
 
 [DirectoryModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.directorymodulecatalog)
 

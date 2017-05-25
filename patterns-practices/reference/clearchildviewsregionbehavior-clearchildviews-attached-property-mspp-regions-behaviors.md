@@ -5,27 +5,22 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegion
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736171(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ClearChildViewsRegionBehavior.ClearChildViews Attached Property
-===================================================================
+# ClearChildViewsRegionBehavior.ClearChildViews Attached Property
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 See GetClearChildViews, SetClearChildViewsSee GetClearChildViews, SetClearChildViews
 ### Property Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
-See Also
---------
-
+## See Also
 
 [ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
 

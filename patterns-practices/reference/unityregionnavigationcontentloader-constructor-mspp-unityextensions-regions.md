@@ -34,7 +34,6 @@ Public Sub New (
 )
 ```
 
-
 ### Parameters
 
 *serviceLocator*  

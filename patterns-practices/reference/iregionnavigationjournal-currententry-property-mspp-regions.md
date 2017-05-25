@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal.Curren
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431344(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionNavigationJournal.CurrentEntry Property
-==================================================
+# IRegionNavigationJournal.CurrentEntry Property
 
 Gets the current navigation entry of the content that is currently displayed.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 IRegionNavigationJournalEntry CurrentEntry { get; }ReadOnly Property CurrentEntry As IRegionNavigationJournalEntry Get
 ### Property Value
@@ -26,9 +23,7 @@ IRegionNavigationJournalEntry CurrentEntry { get; }ReadOnly Property CurrentEntr
 Type: [IRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry)
 The current entry.
 
-See Also
---------
-
+## See Also
 
 [IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
 

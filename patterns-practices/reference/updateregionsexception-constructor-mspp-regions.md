@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.UpdateRegionsException.\
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419143(v=PandP.50)'
 ---
 
-Prism Class Library
 
-UpdateRegionsException Constructor
-==================================
+# UpdateRegionsException Constructor
 
-Overload List
--------------
+## Overload List
 
 <table>
 
@@ -54,9 +51,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [UpdateRegionsException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception(v=pandp.50))
 

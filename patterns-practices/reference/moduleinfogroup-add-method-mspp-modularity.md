@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Add(Microsof
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405904(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleInfoGroup.Add Method
-==============================
+# ModuleInfoGroup.Add Method
 
 Adds an [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) moduleInfo to the [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public void Add( ModuleInfo item )Public Sub Add ( item As ModuleInfo )
 
@@ -32,9 +29,7 @@ The [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.mo
 
 [ICollection&lt;(Of &lt;(T&gt;)&gt;).Add(T)](http://msdn.microsoft.com/en-us/library/63ywd54z)
 
-See Also
---------
-
+## See Also
 
 [ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 

@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegion
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431024(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # MefRegionAdapterMappings Methods
 
@@ -91,7 +90,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-
 
 [MefRegionAdapterMappings Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings(v=pandp.50))
 

@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.RegionManager'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431392(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Region.RegionManager Property
-=================================
+# Region.RegionManager Property
 
 Gets or sets the [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager) that will be passed to the views when adding them to the region, unless the view is added by specifying createRegionManagerScope as trueTruetruetrue (True in Visual Basic).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public IRegionManager RegionManager { get; set; }Public Property RegionManager As IRegionManager Get Set
 ### Property Value
@@ -29,14 +26,11 @@ The [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.pris
 
 [IRegion.RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.regionmanager)
 
-Remarks
--------
+## Remarks
 
 This is usually used by implementations of [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager) and should not be used by the developer explicitely.
 
-See Also
---------
-
+## See Also
 
 [Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 

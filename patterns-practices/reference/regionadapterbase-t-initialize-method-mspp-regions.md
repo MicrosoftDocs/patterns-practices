@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionAdapterBase\`1.Initialize
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418936(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionAdapterBase&lt;T&gt;.Initialize Method
-===============================================================
+# RegionAdapterBase&lt;T&gt;.Initialize Method
 
 Adapts an object and binds it to a new [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)).
 
@@ -17,7 +15,6 @@ Adapts an object and binds it to a new [IRegion](https://msdn.microsoft.com/en-u
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
 
 ## Syntax
 
@@ -28,7 +25,6 @@ public IRegion Initialize( T regionTarget, string regionName )
 'Declaration
 Public Function Initialize ( regionTarget As T, regionName As String ) As IRegion
 ```
-
 
 ### Parameters
 
@@ -48,9 +44,7 @@ Type: [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.pri
 
 The new instance of [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)) that the *regionTarget* is bound to.
 
-See Also
---------
-
+## See Also
 
 [RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/en-us/library/gg431546(v=pandp.50))
 

@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.IndexOf(Micr
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405910(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleInfoGroup.IndexOf Method (ModuleInfo)
-===============================================
+# ModuleInfoGroup.IndexOf Method (ModuleInfo)
 
 Determines the index of a specific item in the [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/5y536ey6).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public int IndexOf( ModuleInfo item )Public Function IndexOf ( item As ModuleInfo ) As Integer
 
@@ -36,9 +33,7 @@ The index of item if found in the list; otherwise, -1.
 
 [IList&lt;(Of &lt;(T&gt;)&gt;).IndexOf(T)](http://msdn.microsoft.com/en-us/library/3w0148af)
 
-See Also
---------
-
+## See Also
 
 [ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 

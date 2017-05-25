@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Region'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431208(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Region Properties
-=================
+# Region Properties
 
 The [Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -92,9 +89,7 @@ Gets a readonly view of the collection of views in the region.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 

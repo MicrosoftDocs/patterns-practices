@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Events.IDispatcherFacade'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431421(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # IDispatcherFacade Interface
 
@@ -30,7 +29,6 @@ Public Interface IDispatcherFacade
 ```
 
 ## See Also
-
 
 [IDispatcherFacade Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.idispatcherfacade_members(v=pandp.50))
 

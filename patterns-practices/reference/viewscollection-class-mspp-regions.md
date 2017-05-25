@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Regions.ViewsCollection'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431568(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ViewsCollection Class
 

@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewsCollection.\#ctor(System.C
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405721(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ViewsCollection Constructor
-===========================
+# ViewsCollection Constructor
 
 Initializes a new instance of the [ViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public ViewsCollection( ObservableCollection&lt;ItemMetadata&gt; list, Predicate&lt;ItemMetadata&gt; filter )Public Sub New ( list As ObservableCollection(Of ItemMetadata), filter As Predicate(Of ItemMetadata) )
 
@@ -32,9 +29,7 @@ filter
 Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)&lt;(Of &lt;([ItemMetadata](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)&gt;)&gt;)
 A predicate to filter the list collection.
 
-See Also
---------
-
+## See Also
 
 [ViewsCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection)
 

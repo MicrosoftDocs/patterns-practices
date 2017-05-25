@@ -23,7 +23,6 @@ IEnumerable<ModuleInfo> CompleteListWithDependencies(
 )
 ```
 
-
 ### Parameters
 
 *modules* 
@@ -45,7 +44,6 @@ Function CompleteListWithDependencies (
 ) As IEnumerable(Of ModuleInfo)
 )
 ```
-
 
 ### Parameters
 

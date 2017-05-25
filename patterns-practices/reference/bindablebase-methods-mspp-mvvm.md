@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Mvvm.BindableBase'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736198(v=PandP.50)'
 ---
 
-Prism Class Library
 
-BindableBase Methods
-====================
+# BindableBase Methods
 
 The [BindableBase](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -98,9 +95,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [BindableBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase)
 

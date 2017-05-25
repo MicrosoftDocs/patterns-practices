@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleCatalog.Modules'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431286(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleCatalog.Modules Property
-==================================
+# ModuleCatalog.Modules Property
 
 Gets all the [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) classes that are in the [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog), regardless if they are within a [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup) or not.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public virtual IEnumerable&lt;ModuleInfo&gt; Modules { get; }Public Overridable ReadOnly Property Modules As IEnumerable(Of ModuleInfo) Get
 ### Property Value
@@ -29,9 +26,7 @@ The modules.
 
 [IModuleCatalog.Modules](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog.modules)
 
-See Also
---------
-
+## See Also
 
 [ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 

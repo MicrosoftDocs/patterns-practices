@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.ObservableObject\`1'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431182(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ObservableObject&lt;T&gt; Properties
-===================================================
+# ObservableObject&lt;T&gt; Properties
 
 The [ObservableObject&lt;T&gt;](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <table>
 
@@ -904,9 +901,7 @@ Gets or sets the width of the element.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ObservableObject&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431509(v=pandp.50))
 

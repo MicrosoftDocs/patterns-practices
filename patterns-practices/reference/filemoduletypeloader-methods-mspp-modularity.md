@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431039(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # FileModuleTypeLoader Methods
 

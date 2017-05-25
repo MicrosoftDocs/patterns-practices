@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddModu
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419086(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleCatalog.AddModule Method
-==================================
+# ModuleCatalog.AddModule Method
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -69,9 +66,7 @@ Adds a groupless <a href="https://msdn.microsoft.com/library/microsoft.practices
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 

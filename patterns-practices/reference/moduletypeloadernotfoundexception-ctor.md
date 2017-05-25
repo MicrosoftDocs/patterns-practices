@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFo
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419113(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleTypeLoaderNotFoundException Constructor
-=============================================
+# ModuleTypeLoaderNotFoundException Constructor
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -62,9 +59,7 @@ Initializes the exception with a particular module, error message and inner exce
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
 

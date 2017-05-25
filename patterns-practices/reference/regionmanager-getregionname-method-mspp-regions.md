@@ -30,7 +30,6 @@ Public Shared Function GetRegionName (
 ) As String
 ```
 
-
 ### Parameters
 
 *regionTarget*

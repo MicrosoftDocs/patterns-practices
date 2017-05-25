@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431017(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # MefRegionActiveAwareBehavior Methods
 

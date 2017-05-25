@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Subscribe(S
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683942(v=PandP.50)'
 ---
 
-
 ## PubSubEvent&lt;TPayload&gt;.Subscribe Method (Action&lt;TPayload&gt;, ThreadOption, Boolean)
 Subscribes a delegate to an event.
 
@@ -31,7 +30,6 @@ Public Function Subscribe (
 	keepSubscriberReferenceAlive As Boolean
 ) As SubscriptionToken
 ```
-
 
 ### Parameters
 

@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBeh
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405935(v=PandP.50)'
 ---
 
-Prism Class Library
 
-AutoPopulateRegionBehavior.OnAttach Method
-==============================================
+# AutoPopulateRegionBehavior.OnAttach Method
 
 Attaches the AutoPopulateRegionBehavior to the Region.
 
@@ -18,9 +16,7 @@ Attaches the AutoPopulateRegionBehavior to the Region.
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 protected override void OnAttach()
@@ -29,9 +25,7 @@ protected override void OnAttach()
 'Declaration
 Protected Overrides Sub OnAttach
 ```
-See Also
---------
-
+## See Also
 
 [AutoPopulateRegionBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior(v=pandp.50))
 

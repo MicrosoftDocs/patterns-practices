@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement.\
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405634(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleConfigurationElement Constructor (String, String, String, Boolean)
 

@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.CopyTo(Micro
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405907(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleInfoGroup.CopyTo Method
-=================================
+# ModuleInfoGroup.CopyTo Method
 
 Copies the elements of the [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup) to an [Array](http://msdn.microsoft.com/en-us/library/czz5hkty), starting at a particular [Array](http://msdn.microsoft.com/en-us/library/czz5hkty) index.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public void CopyTo( ModuleInfo[] array, int arrayIndex )Public Sub CopyTo ( array As ModuleInfo(), arrayIndex As Integer )
 
@@ -36,8 +33,7 @@ The zero-based index in array at which copying begins.
 
 [ICollection&lt;(Of &lt;(T&gt;)&gt;).CopyTo(array&lt;T&gt;, Int32)](http://msdn.microsoft.com/en-us/library/0efx51xw)
 
-Exceptions
-----------
+## Exceptions
 
 <span id="exceptionsToggle"></span>
 | Exception                                                                                   | Condition                                                                                                                                                                                                                                                                                                                           |
@@ -46,9 +42,7 @@ Exceptions
 | [System.ArgumentOutOfRangeException](http://msdn.microsoft.com/en-us/library/8xt94y6e) | arrayIndex is less than 0.                                                                                                                                                                                                                                                                                                          |
 | [System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114)           | array is multidimensional. -or- arrayIndex is equal to or greater than the length of array. -or- The number of elements in the source [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup) is greater than the available space from arrayIndex to the end of the destination array. |
 
-See Also
---------
-
+## See Also
 
 [ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 

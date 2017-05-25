@@ -5,13 +5,10 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.NavigationAsyncExtensio
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431099(v=PandP.50)'
 ---
 
-Prism Class Library
 
-NavigationAsyncExtensions Methods
-=================================
+# NavigationAsyncExtensions Methods
 
-Methods
--------
+## Methods
 
 <table>
 
@@ -68,9 +65,7 @@ Initiates navigation to the target specified by the target.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [NavigationAsyncExtensions Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions(v=pandp.50))
 

@@ -5,26 +5,21 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement.\
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405633(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleConfigurationElement Constructor
-======================================
+# ModuleConfigurationElement Constructor
 
 Initializes a new instance of [ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public ModuleConfigurationElement()Public Sub New
 
-See Also
---------
-
+## See Also
 
 [ModuleConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
 

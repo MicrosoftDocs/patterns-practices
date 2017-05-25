@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPart
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405579(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DownloadedPartCatalogCollection Constructor
-===========================================
+# DownloadedPartCatalogCollection Constructor
 
 Initializes a new instance of the [DownloadedPartCatalogCollection](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection(v=pandp.50)) class
 
@@ -18,9 +16,7 @@ Initializes a new instance of the [DownloadedPartCatalogCollection](https://msdn
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public DownloadedPartCatalogCollection()
@@ -30,9 +26,7 @@ public DownloadedPartCatalogCollection()
 Public Sub New
 ```
 
-See Also
---------
-
+## See Also
 
 [DownloadedPartCatalogCollection Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection(v=pandp.50))
 

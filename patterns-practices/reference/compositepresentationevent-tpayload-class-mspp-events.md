@@ -5,39 +5,32 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431412(v=PandP.50)'
 ---
 
-Prism Class Library
 
-CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class
-===============================================================
+# CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class
 
 Defines a class that manages publication and subscription to events.
 
-**Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/library/microsoft.practices.prism.events)
+**Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/library/microsoft.practices.prism.events)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 [ObsoleteAttribute("Please use Prism.PubSubEvents.PubSubEvent.")\] public class CompositePresentationEvent&lt;TPayload&gt; : EventBase &lt;ObsoleteAttribute("Please use Prism.PubSubEvents.PubSubEvent.")&gt; Public Class CompositePresentationEvent(Of TPayload) Inherits EventBase
-Type Parameters
----------------
+## Type Parameters
 
 <span id="templatesToggle"></span>
 TPayload  
 The type of message that will be passed to the subscribers.
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   EventBase
     Microsoft.Practices.Prism.Events.CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)
 
-See Also
---------
-
+## See Also
 
 [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.events.compositepresentationevent%601)
 

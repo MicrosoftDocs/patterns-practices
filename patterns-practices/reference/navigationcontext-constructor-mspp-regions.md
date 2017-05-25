@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.NavigationContext.\#ctor
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736186(v=PandP.50)'
 ---
 
-Prism Class Library
 
-NavigationContext Constructor
-=============================
+# NavigationContext Constructor
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,9 +38,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 

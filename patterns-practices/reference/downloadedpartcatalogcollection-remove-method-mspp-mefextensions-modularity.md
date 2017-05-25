@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPart
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405836(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # DownloadedPartCatalogCollection.Remove Method
 
@@ -31,7 +30,6 @@ Public Sub Remove (
 	moduleInfo As ModuleInfo
 )
 ```
-
 
 ### Parameters
 

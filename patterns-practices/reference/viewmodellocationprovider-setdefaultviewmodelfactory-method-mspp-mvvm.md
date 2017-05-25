@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Mvvm.ViewModelLocationProvider.SetDefau
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683958(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ViewModelLocationProvider.SetDefaultViewModelFactory Method
 
@@ -23,7 +22,6 @@ public static void SetDefaultViewModelFactory(
 )
 ```
 
-
 ### Parameters
 
 *viewModelFactory*  
@@ -39,7 +37,6 @@ Public Shared Sub SetDefaultViewModelFactory (
 )
 ```
 
-
 ### Parameters
 
 *viewModelFactory*  
@@ -49,7 +46,6 @@ Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of([Type](
 The view model factory.
 
 ## See Also
-
 
 [ViewModelLocationProvider Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.viewmodellocationprovider(v=pandp.50))
 

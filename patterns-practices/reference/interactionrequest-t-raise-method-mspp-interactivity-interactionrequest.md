@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Interactivity.InteractionRequest
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419066(v=PandP.50)'
 ---
 
-Prism Class Library
 
-InteractionRequest&lt;(Of &lt;(T&gt;)&gt;).Raise Method
-===========================================================
+# InteractionRequest&lt;(Of &lt;(T&gt;)&gt;).Raise Method
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,9 +38,7 @@ Fires the Raised event.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)
 

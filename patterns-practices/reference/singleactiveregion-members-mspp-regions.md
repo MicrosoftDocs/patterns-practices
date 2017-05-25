@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.SingleActiveRegion'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405518(v=PandP.50)'
 ---
 
-Prism Class Library
 
-SingleActiveRegion Members
-==========================
+# SingleActiveRegion Members
 
 The [SingleActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +33,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -173,8 +169,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -262,8 +257,7 @@ Gets a readonly view of the collection of views in the region.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -287,9 +281,7 @@ Occurs when a property value changes.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [SingleActiveRegion Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion)
 

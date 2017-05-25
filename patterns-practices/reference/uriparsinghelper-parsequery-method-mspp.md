@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.UriParsingHelper.ParseQuery(System.Uri)
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419019(v=PandP.50)'
 ---
 
-Prism Class Library
 
-UriParsingHelper.ParseQuery Method
-======================================
+# UriParsingHelper.ParseQuery Method
 
 Parses the query of uri into a dictionary.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public static NavigationParameters ParseQuery( Uri uri )Public Shared Function ParseQuery ( uri As Uri ) As NavigationParameters
 
@@ -32,9 +29,7 @@ The URI.
 
 Type: [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
 
-See Also
---------
-
+## See Also
 
 [UriParsingHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper)
 

@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behavi
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430806(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefRegionManagerRegistrationBehavior Members
-============================================
+# MefRegionManagerRegistrationBehavior Members
 
 The [MefRegionManagerRegistrationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmanagerregistrationbehavior) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +33,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -129,8 +125,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -178,9 +173,7 @@ Provides an abstraction on top of the RegionManager static members.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [MefRegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmanagerregistrationbehavior)
 

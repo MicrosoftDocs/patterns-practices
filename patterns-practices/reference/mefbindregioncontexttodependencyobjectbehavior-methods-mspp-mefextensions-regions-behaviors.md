@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431015(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefBindRegionContextToDependencyObjectBehavior Methods
-======================================================
+# MefBindRegionContextToDependencyObjectBehavior Methods
 
 The [MefBindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefbindregioncontexttodependencyobjectbehavior(v=pandp.50)) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <table>
 
@@ -84,9 +81,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [MefBindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefbindregioncontexttodependencyobjectbehavior(v=pandp.50))
 

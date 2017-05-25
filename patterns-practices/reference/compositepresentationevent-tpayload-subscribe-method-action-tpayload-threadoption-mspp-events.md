@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Su
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683953(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # CompositePresentationEvent&lt;TPayload&gt;.Subscribe Method (Action&lt;TPayload&gt;, ThreadOption)
 
@@ -25,7 +24,6 @@ public SubscriptionToken Subscribe(
 	ThreadOption threadOption
 )
 ```
-
 
 ### Parameters
 
@@ -50,7 +48,6 @@ A SubscriptionToken that uniquely identifies the added subscription.
  The CompositePresentationEvent collection is thread-safe.
 
 ## See Also
-
 
 [CompositePresentationEvent&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))
 
@@ -80,7 +77,6 @@ Public Function Subscribe (
 ) As SubscriptionToken
 ```
 
-
 ### Parameters
 
 *action*  
@@ -104,7 +100,6 @@ A SubscriptionToken that uniquely identifies the added subscription.
  The CompositePresentationEvent collection is thread-safe.
 
 ## See Also
-
 
 [CompositePresentationEvent(Of TPayload) Class](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))
 

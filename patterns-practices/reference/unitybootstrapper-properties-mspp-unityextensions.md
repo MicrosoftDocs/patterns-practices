@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.UnityExtensions.UnityBootstr
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431227(v=PandP.50)'
 ---
 
-Prism Class Library
 
-UnityBootstrapper Properties
-============================
+# UnityBootstrapper Properties
 
 The [UnityBootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -60,9 +57,7 @@ Gets the shell user interface
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [UnityBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
 

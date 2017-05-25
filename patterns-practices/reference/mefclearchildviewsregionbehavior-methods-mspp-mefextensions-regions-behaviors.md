@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683967(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # MefClearChildViewsRegionBehavior Methods
 
@@ -91,7 +90,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-
 
 [MefClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior(v=pandp.50))
 

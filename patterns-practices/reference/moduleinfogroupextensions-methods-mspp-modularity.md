@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleInfoGroupExten
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431060(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleInfoGroupExtensions Methods
 

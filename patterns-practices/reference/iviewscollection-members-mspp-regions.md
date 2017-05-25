@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IViewsCollection'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405493(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IViewsCollection Members
-========================
+# IViewsCollection Members
 
 The [IViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -52,8 +49,7 @@ Returns an enumerator that iterates through a collection.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -77,9 +73,7 @@ Occurs when the collection changes.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IViewsCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection)
 

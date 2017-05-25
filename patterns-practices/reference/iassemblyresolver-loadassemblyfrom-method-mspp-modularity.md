@@ -32,7 +32,6 @@ Sub LoadAssemblyFrom (
 )
 ```
 
-
 ### Parameters
 
 *assemblyFilePath*  

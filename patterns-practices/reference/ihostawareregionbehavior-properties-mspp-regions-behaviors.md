@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.IHostAware
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431187(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IHostAwareRegionBehavior Properties
-===================================
+# IHostAwareRegionBehavior Properties
 
 The [IHostAwareRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -44,9 +41,7 @@ The region that this behavior is extending.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IHostAwareRegionBehavior Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior)
 

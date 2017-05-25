@@ -5,27 +5,23 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.Defau
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736176(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DefaultNotificationWindow Class
-===============================
+# DefaultNotificationWindow Class
 
 Interaction logic for NotificationChildWindow.xaml
 
 DefaultNotificationWindow
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public class DefaultNotificationWindow : Window, IComponentConnectorPublic Class DefaultNotificationWindow Inherits Window Implements IComponentConnector
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [System.Windows.Threading.DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925)
@@ -38,9 +34,7 @@ Inheritance Hierarchy
                 [System.Windows.Window](http://msdn.microsoft.com/en-us/library/ms590112)
                   Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultNotificationWindow
 
-See Also
---------
-
+## See Also
 
 [DefaultNotificationWindow Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
 

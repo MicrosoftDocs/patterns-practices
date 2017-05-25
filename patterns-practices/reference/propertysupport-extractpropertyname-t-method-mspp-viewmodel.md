@@ -23,7 +23,6 @@ public static string ExtractPropertyName<T>(
 )
 ```
 
-
 ### Parameters
 
 *propertyExpression* 
@@ -94,7 +93,6 @@ Public Shared Function ExtractPropertyName(Of T) (
 	propertyExpression As Expression(Of Func(Of T))
 ) As String
 ```
-
 
 ### Parameters
 

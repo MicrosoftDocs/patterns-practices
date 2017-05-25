@@ -5,15 +5,12 @@ ms:assetid: 'N:Microsoft.Practices.Prism.Interactivity.InteractionRequest'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419036(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace
-====================================================================
+# Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace
 
  
 
-Classes
--------
+## Classes
 
 <span id="classToggle"></span>
 <table>
@@ -64,8 +61,7 @@ Basic implementation of <a href="https://msdn.microsoft.com/en-us/library/micros
 </tbody>
 </table>
 
-Interfaces
-----------
+## Interfaces
 
 <span id="interfaceToggle"></span>
 <table>

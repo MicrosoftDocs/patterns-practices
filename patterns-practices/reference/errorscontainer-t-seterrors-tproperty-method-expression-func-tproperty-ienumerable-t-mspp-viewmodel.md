@@ -5,18 +5,15 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.SetErrors\
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg406217(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).SetErrors&lt;(Of &lt;(TProperty&gt;)&gt;) Method (Expression&lt;(Of &lt;(Func&lt;(Of &lt;(TProperty&gt;)&gt;)&gt;)&gt;), IEnumerable&lt;(Of &lt;(T&gt;)&gt;))
-=========================================================================================================================================================================================================
+# ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).SetErrors&lt;(Of &lt;(TProperty&gt;)&gt;) Method (Expression&lt;(Of &lt;(Func&lt;(Of &lt;(TProperty&gt;)&gt;)&gt;)&gt;), IEnumerable&lt;(Of &lt;(T&gt;)&gt;))
 
 Sets the validation errors for the specified property.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
 
 public void SetErrors&lt;TProperty&gt;( Expression&lt;Func&lt;TProperty&gt;&gt; propertyExpression, IEnumerable&lt;T&gt; propertyErrors ) Public Sub SetErrors(Of TProperty) ( propertyExpression As Expression(Of Func(Of TProperty)), propertyErrors As IEnumerable(Of T) )
 
@@ -30,16 +27,13 @@ propertyErrors
 Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([T](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601)&gt;)&gt;)
 The list of errors to set for the property.
 
-Type Parameters
----------------
+## Type Parameters
 
 <span id="templatesToggle"></span>
 TProperty  
 The property type for which to set errors.
 
-See Also
---------
-
+## See Also
 
 [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601)
 

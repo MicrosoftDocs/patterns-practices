@@ -5,20 +5,17 @@ ms:assetid: 'E:Microsoft.Practices.Prism.ObservableObject\`1.PropertyChanged'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430929(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ObservableObject&lt;(Of &lt;(T&gt;)&gt;).PropertyChanged Event
-==================================================================
+# ObservableObject&lt;(Of &lt;(T&gt;)&gt;).PropertyChanged Event
 
 Event that gets invoked when the Value property changes.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public event PropertyChangedEventHandler PropertyChangedPublic Event PropertyChanged As PropertyChangedEventHandler
 ### Value
@@ -28,9 +25,7 @@ Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn.microsoft.
 
 [INotifyPropertyChanged.PropertyChanged](http://msdn.microsoft.com/en-us/library/ms133023)
 
-See Also
---------
-
+## See Also
 
 [ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601)
 

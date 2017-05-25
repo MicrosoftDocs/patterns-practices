@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory.CreateFr
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405961(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionBehaviorFactory.CreateFromKey Method
-===============================================
+# IRegionBehaviorFactory.CreateFromKey Method
 
 Creates an instance of the Behaviortype that's registered using the specified key.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 IRegionBehavior CreateFromKey( string key )Function CreateFromKey ( key As String ) As IRegionBehavior
 
@@ -33,9 +30,7 @@ The key that's used to register a behavior type.
 Type: [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior)
 The created behavior.
 
-See Also
---------
-
+## See Also
 
 [IRegionBehaviorFactory Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory)
 

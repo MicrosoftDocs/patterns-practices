@@ -5,25 +5,21 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Logging.Priority'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431438(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Priority Enumeration
-====================
+# Priority Enumeration
 
 Defines values for the priorities used by [ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade).
 
-**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
+**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public enum PriorityPublic Enumeration Priority
 
-Members
--------
+## Members
 
 <span id="membersToggle"></span>
 |     | Member name | Value | Description            |
@@ -33,8 +29,6 @@ Members
 |     | Medium      | 2     | Medium priority entry. |
 |     | Low         | 3     | Low priority entry.    |
 
-See Also
---------
-
+## See Also
 
 [Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)

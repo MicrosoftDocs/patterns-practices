@@ -5,14 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.EventAggregator'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736293(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # EventAggregator Methods
 
 The [EventAggregator](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventaggregator(v=pandp.50)) type exposes the following members.
 
-## Methods
-=======
+# ## Methods
 The [EventAggregator](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventaggregator) type exposes the following members.
 
 <table>
@@ -87,8 +85,7 @@ Returns a string that represents the current object.
 
 [EventAggregator Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventaggregator(v=pandp.50))
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
-=======
+# [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
 
 [EventAggregator Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventaggregator)
 

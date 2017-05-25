@@ -5,16 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.IDelegateRefere
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736152(v=PandP.50)'
 ---
 
-
 # IDelegateReference Properties
-
 
 The [IDelegateReference](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50)) type exposes the following members.
 
-## Properties
-=======
+# ## Properties
 The [IDelegateReference](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.idelegatereference) type exposes the following members.
-
 
 <table>
 
@@ -38,11 +34,8 @@ Gets the referenced <a href="http://msdn.microsoft.com/en-us/library/y22acf51">D
 
 ## See Also
 
-
-[IDelegateReference Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50))
-=======
+# [IDelegateReference Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50))
 
 [IDelegateReference Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.idelegatereference)
-
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))

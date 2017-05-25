@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Commands.DelegateCommand'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419158(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # DelegateCommand Properties
 
@@ -35,7 +34,6 @@ Gets or sets a value indicating whether the object is active.
 </table>
 
 ## See Also
-
 
 [DelegateCommand Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand(v=pandp.50))
 

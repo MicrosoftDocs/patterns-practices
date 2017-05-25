@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Mvvm.ViewModelLocationProvider.AutoWire
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736118(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ViewModelLocationProvider.AutoWireViewModelChanged Method
 
@@ -38,7 +37,6 @@ Public Shared Sub AutoWireViewModelChanged (
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The dependency object, typically a view.
 
 ## See Also
-
 
 [ViewModelLocationProvider Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.viewmodellocationprovider)
 

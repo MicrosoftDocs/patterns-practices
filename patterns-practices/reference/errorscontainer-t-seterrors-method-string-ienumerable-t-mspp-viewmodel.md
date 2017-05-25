@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.SetErrors(
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419027(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ErrorsContainer&lt;T&gt;.SetErrors Method (String, IEnumerable&lt;T&gt;)
 
@@ -23,7 +22,6 @@ public void SetErrors(
 	IEnumerable<T> newValidationResults
 )
 ```
-
 
 ### Parameters
 

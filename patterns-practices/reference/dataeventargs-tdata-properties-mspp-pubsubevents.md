@@ -9,15 +9,12 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736256(v=PandP.50)'
 
 The [DataEventArgs(Of TData)](https://msdn.microsoft.com/en-us/library/dn736191(v=pandp.50)) type exposes the following members.
 
-## Properties
-=======
-DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Properties
-====================================================
+# ## Properties
+# DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Properties
 
 The [DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dataeventargs%601) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -42,11 +39,8 @@ Gets the information related to the event.
 
 ## See Also
 
-[DataEventArgs(Of TData) Class](https://msdn.microsoft.com/en-us/library/dn736191(v=pandp.50))
-=======
-See Also
---------
-
+# [DataEventArgs(Of TData) Class](https://msdn.microsoft.com/en-us/library/dn736191(v=pandp.50))
+## See Also
 
 [DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dataeventargs%601)
 

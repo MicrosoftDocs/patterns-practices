@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase\`1.Ex
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736267(v=PandP.50)'
 ---
 
-Prism Class Library
 
-CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;).ExecuteCommand Method
-=====================================================================
+# CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;).ExecuteCommand Method
 
 Executes the command, if it's set, providing the [CommandParameter](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601.commandparameter)
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 protected virtual void ExecuteCommand( Object parameter )Protected Overridable Sub ExecuteCommand ( parameter As Object )
 
@@ -27,9 +24,7 @@ protected virtual void ExecuteCommand( Object parameter )Protected Overridable S
 parameter  
 Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-See Also
---------
-
+## See Also
 
 [CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601)
 

@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog.\#cto
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405612(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # DirectoryModuleCatalog Constructor
 
@@ -28,7 +27,6 @@ Public Sub New
 ```
 
 ## See Also
-
 
 [DirectoryModuleCatalog Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.directorymodulecatalog(v=pandp.50))
 

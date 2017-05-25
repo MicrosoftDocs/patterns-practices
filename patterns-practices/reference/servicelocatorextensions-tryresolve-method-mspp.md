@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.ServiceLocatorExtensions.TryReso
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419145(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ServiceLocatorExtensions.TryResolve Method
-==============================================
+# ServiceLocatorExtensions.TryResolve Method
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,9 +38,7 @@ Attempts to resolve specified type from the underlying IServiceLocator.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ServiceLocatorExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.servicelocatorextensions)
 

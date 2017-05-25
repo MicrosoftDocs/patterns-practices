@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.SelectorIt
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431192(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # SelectorItemsSourceSyncBehavior Properties
 

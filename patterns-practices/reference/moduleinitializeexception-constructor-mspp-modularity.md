@@ -5,7 +5,6 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleInitializeExcep
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419107(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleInitializeException Constructor
 

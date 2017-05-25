@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Events.CompositePresentation
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430765(v=PandP.50)'
 ---
 
-Prism Class Library
 
-CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Members
-=================================================================
+# CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Members
 
 The [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +33,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -177,8 +173,7 @@ Removes the first subscriber matching <a href="http://msdn.microsoft.com/en-us/l
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 |                                                                                                      | Name                   | Description                 |
@@ -186,9 +181,7 @@ Properties
 | ![](https://msdn.microsoft.com/en-us/Gg430765.protproperty(en-us,PandP.50).gif "Protected property") | Subscriptions          | (Inherited from EventBase.) |
 | ![](https://msdn.microsoft.com/en-us/Gg430765.pubproperty(en-us,PandP.50).gif "Public property")     | SynchronizationContext | (Inherited from EventBase.) |
 
-See Also
---------
-
+## See Also
 
 [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)
 

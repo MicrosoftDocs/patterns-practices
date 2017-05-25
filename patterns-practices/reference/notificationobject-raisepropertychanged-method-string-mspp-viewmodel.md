@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.NotificationObject.RaisePrope
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419029(v=PandP.50)'
 ---
 
-Prism Class Library
 
-NotificationObject.RaisePropertyChanged Method (String)
-===========================================================
+# NotificationObject.RaisePropertyChanged Method (String)
 
 Raises this object's PropertyChanged event.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 protected virtual void RaisePropertyChanged( string propertyName )Protected Overridable Sub RaisePropertyChanged ( propertyName As String )
 
@@ -28,9 +25,7 @@ propertyName
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The property that has a new value.
 
-See Also
---------
-
+## See Also
 
 [NotificationObject Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject)
 

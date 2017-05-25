@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.NavigationAsyncExtension
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419135(v=PandP.50)'
 ---
 
-Prism Class Library
 
-NavigationAsyncExtensions.RequestNavigate Method
-====================================================
+# NavigationAsyncExtensions.RequestNavigate Method
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -69,9 +66,7 @@ Initiates navigation to the target specified by the target.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [NavigationAsyncExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions)
 

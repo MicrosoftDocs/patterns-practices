@@ -5,15 +5,12 @@ ms:assetid: 'N:Microsoft.Practices.Prism.Commands'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419034(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Microsoft.Practices.Prism.Commands Namespace
-============================================
+# Microsoft.Practices.Prism.Commands Namespace
 
  
 
-Classes
--------
+## Classes
 
 <span id="classToggle"></span>
 <table>

@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegionAdapter'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431085(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionAdapter Methods
-======================
+# IRegionAdapter Methods
 
 The [IRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -36,9 +33,7 @@ Adapts an object and binds it to a new <a href="https://msdn.microsoft.com/libra
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IRegionAdapter Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter)
 

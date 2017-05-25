@@ -5,15 +5,12 @@ ms:assetid: 'N:Microsoft.Practices.Prism.Events'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419035(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Microsoft.Practices.Prism.Events Namespace
-==========================================
+# Microsoft.Practices.Prism.Events Namespace
 
  
 
-Classes
--------
+## Classes
 
 <span id="classToggle"></span>
 <table>
@@ -53,8 +50,7 @@ Extends EventSubscription to invoke the Action delegate in a specific <a href="h
 </tbody>
 </table>
 
-Interfaces
-----------
+## Interfaces
 
 <span id="interfaceToggle"></span>
 <table>

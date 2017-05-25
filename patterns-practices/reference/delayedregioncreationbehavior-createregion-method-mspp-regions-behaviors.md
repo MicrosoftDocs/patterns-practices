@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreation
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405939(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DelayedRegionCreationBehavior.CreateRegion Method
-=====================================================
+# DelayedRegionCreationBehavior.CreateRegion Method
 
 Method that will create the region, by calling the right [IRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 protected virtual IRegion CreateRegion( DependencyObject targetElement, string regionName )Protected Overridable Function CreateRegion ( targetElement As DependencyObject, regionName As String ) As IRegion
 
@@ -37,9 +34,7 @@ Name of the region.
 Type: [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 The created [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 
-See Also
---------
-
+## See Also
 
 [DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
 

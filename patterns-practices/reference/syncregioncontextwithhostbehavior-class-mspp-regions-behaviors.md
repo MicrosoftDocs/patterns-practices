@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWith
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431520(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # SyncRegionContextWithHostBehavior Class
 
@@ -40,7 +39,6 @@ Public Class SyncRegionContextWithHostBehavior
       [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSyncRegionContextWithHostBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefsyncregioncontextwithhostbehavior(v=pandp.50))
 
 ## See Also
-
 
 [SyncRegionContextWithHostBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior_members(v=pandp.50))
 

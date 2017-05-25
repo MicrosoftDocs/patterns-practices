@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreation
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431328(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DelayedRegionCreationBehavior.TargetElement Property
-========================================================
+# DelayedRegionCreationBehavior.TargetElement Property
 
 The element that will host the Region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public DependencyObject TargetElement { get; set; }Public Property TargetElement As DependencyObject Get Set
 ### Property Value
@@ -26,9 +23,7 @@ public DependencyObject TargetElement { get; set; }Public Property TargetElement
 Type: [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
 The target element.
 
-See Also
---------
-
+## See Also
 
 [DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
 

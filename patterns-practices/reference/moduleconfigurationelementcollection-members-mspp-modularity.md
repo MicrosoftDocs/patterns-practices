@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleConfigurati
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430840(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleConfigurationElementCollection Members
-============================================
+# ModuleConfigurationElementCollection Members
 
 The [ModuleConfigurationElementCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -43,8 +40,7 @@ Initializes a new <a href="https://msdn.microsoft.com/library/microsoft.practice
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -441,8 +437,7 @@ Reverses the effect of merging configuration information from different levels o
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -649,9 +644,7 @@ Gets a value indicating whether an exception should be raised if a duplicate ele
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 

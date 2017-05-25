@@ -5,32 +5,26 @@ ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.DefaultPrismServiceRegist
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431441(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DefaultPrismServiceRegistrar Class
-==================================
+# DefaultPrismServiceRegistrar Class
 
 DefaultPrismServiceRegistrationAgent allows the Prism required types to be registered if necessary.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public static class DefaultPrismServiceRegistrarPublic NotInheritable Class DefaultPrismServiceRegistrar
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.MefExtensions.DefaultPrismServiceRegistrar
 
-See Also
---------
-
+## See Also
 
 [DefaultPrismServiceRegistrar Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.defaultprismserviceregistrar)
 

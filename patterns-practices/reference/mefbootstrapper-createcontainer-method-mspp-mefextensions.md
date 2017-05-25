@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.CreateCon
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405825(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefBootstrapper.CreateContainer Method
-==========================================
+# MefBootstrapper.CreateContainer Method
 
 Creates the [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553) that will be used as the default container.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 protected virtual CompositionContainer CreateContainer()Protected Overridable Function CreateContainer As CompositionContainer
 ### Return Value
@@ -26,14 +23,11 @@ protected virtual CompositionContainer CreateContainer()Protected Overridable Fu
 Type: [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553)
 A new instance of [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553).
 
-Remarks
--------
+## Remarks
 
  The base implementation registers a default MEF catalog of exports of key Prism types. Exporting your own types will replace these defaults.
 
-See Also
---------
-
+## See Also
 
 [MefBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper)
 

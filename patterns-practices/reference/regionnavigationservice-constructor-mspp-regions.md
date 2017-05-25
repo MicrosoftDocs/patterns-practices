@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationService.\#ctor(
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405707(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionNavigationService Constructor
-===================================
+# RegionNavigationService Constructor
 
 Initializes a new instance of the [RegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public RegionNavigationService( IServiceLocator serviceLocator, IRegionNavigationContentLoader regionNavigationContentLoader, IRegionNavigationJournal journal )Public Sub New ( serviceLocator As IServiceLocator, regionNavigationContentLoader As IRegionNavigationContentLoader, journal As IRegionNavigationJournal )
 
@@ -36,9 +33,7 @@ journal
 Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
 The journal.
 
-See Also
---------
-
+## See Also
 
 [RegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice)
 

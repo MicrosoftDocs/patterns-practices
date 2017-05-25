@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection.\
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405637(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleDependencyCollection Constructor (array&lt;ModuleDependencyConfigurationElement&gt;)
-====================================================================================================
+# ModuleDependencyCollection Constructor (array&lt;ModuleDependencyConfigurationElement&gt;)
 
 Initializes a new instance of [ModuleDependencyCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public ModuleDependencyCollection( ModuleDependencyConfigurationElement[] dependencies )Public Sub New ( dependencies As ModuleDependencyConfigurationElement() )
 
@@ -28,9 +25,7 @@ dependencies
 Type: array&lt;[Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement)&gt;
 An array of [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement) with initial list of dependencies.
 
-See Also
---------
-
+## See Also
 
 [ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
 

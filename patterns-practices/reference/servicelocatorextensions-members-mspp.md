@@ -5,13 +5,10 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.ServiceLocatorExtensions'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405524(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ServiceLocatorExtensions Members
-================================
+# ServiceLocatorExtensions Members
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -41,9 +38,7 @@ Attempts to resolve specified type from the underlying IServiceLocator.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ServiceLocatorExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.servicelocatorextensions)
 

@@ -5,15 +5,12 @@ ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Regions.ItemMetadata'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430953(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ItemMetadata Fields
-===================
+# ItemMetadata Fields
 
 The [ItemMetadata](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata) type exposes the following members.
 
-Fields
-------
+## Fields
 
 <span id="fieldTableToggle"></span>
 <table>
@@ -43,9 +40,7 @@ The name of the wrapped item.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ItemMetadata Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)
 

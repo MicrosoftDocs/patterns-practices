@@ -5,7 +5,6 @@ ms:assetid: 'E:Microsoft.Practices.Prism.Regions.IRegionNavigationService.Naviga
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430931(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # IRegionNavigationService.Navigated Event
 

@@ -32,7 +32,6 @@ Public Overridable Sub OnViewRegistered (
 )
 ```
 
-
 ### Parameters
 
 sender

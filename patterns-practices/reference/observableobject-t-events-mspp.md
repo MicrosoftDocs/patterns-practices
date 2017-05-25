@@ -5,15 +5,12 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.ObservableObject\`1'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430897(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ObservableObject&lt;T&gt; Events
-===============================================
+# ObservableObject&lt;T&gt; Events
 
 The [ObservableObject&lt;T&gt;](https://msdn.microsoft.com/en-us/library/gg431509(v=pandp.50)) type exposes the following members.
 
-Events
-------
+## Events
 
 <table>
 
@@ -899,9 +896,7 @@ Occurs when the element is removed from within an element tree of loaded element
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ObservableObject&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431509(v=pandp.50))
 

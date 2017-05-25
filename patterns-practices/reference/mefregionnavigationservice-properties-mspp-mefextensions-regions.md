@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefReg
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431156(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefRegionNavigationService Properties
-=====================================
+# MefRegionNavigationService Properties
 
 The [MefRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -45,9 +42,7 @@ Gets or sets the region.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [MefRegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice)
 

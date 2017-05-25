@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManager.GetRegionManager(
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418963(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # RegionManager.GetRegionManager Method
 
@@ -31,7 +30,6 @@ Public Shared Function GetRegionManager (
 ) As IRegionManager
 ```
 
-
 ### Parameters
 
 *target*  
@@ -46,7 +44,6 @@ Type: [IRegionManager](https://msdn.microsoft.com/en-us/library/microsoft.practi
 The [IRegionManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanager(v=pandp.50)) attached to the target element.
 
 ## See Also
-
 
 [RegionManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager(v=pandp.50))
 

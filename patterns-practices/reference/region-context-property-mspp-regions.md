@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.Context'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431388(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Region.Context Property
-===========================
+# Region.Context Property
 
 Gets or sets a context for the region. This value can be used by the user to share context with the views.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public Object Context { get; set; }Public Property Context As Object Get Set
 ### Property Value
@@ -29,9 +26,7 @@ The context value to be shared.
 
 [IRegion.Context](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.context)
 
-See Also
---------
-
+## See Also
 
 [Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 

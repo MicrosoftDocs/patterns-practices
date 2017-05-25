@@ -5,9 +5,7 @@ ms:assetid: 'E:Microsoft.Practices.Prism.Modularity.IModuleTypeLoader.LoadModule
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430925(v=PandP.50)'
 ---
 
-Prism Class Library
-
-=======
+# 
 
 # IModuleTypeLoader.LoadModuleCompleted Event
 
@@ -34,8 +32,7 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt
     'Declaration
     Event LoadModuleCompleted As EventHandler(Of LoadModuleCompletedEventArgs)
 ```
-
-=======
+# 
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 

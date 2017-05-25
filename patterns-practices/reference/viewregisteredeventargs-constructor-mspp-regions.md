@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs.\#ctor(
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg406410(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ViewRegisteredEventArgs Constructor
-===================================
+# ViewRegisteredEventArgs Constructor
 
 Initializes the ViewRegisteredEventArgs class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public ViewRegisteredEventArgs( string regionName, Func&lt;Object&gt; getViewDelegate )Public Sub New ( regionName As String, getViewDelegate As Func(Of Object) )
 
@@ -32,9 +29,7 @@ getViewDelegate
 Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 The content which was registered.
 
-See Also
---------
-
+## See Also
 
 [ViewRegisteredEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs)
 

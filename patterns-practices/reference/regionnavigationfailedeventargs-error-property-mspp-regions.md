@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationFailedEventArgs
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431376(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionNavigationFailedEventArgs.Error Property
-==================================================
+# RegionNavigationFailedEventArgs.Error Property
 
 Gets the error.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public Exception Error { get; }Public ReadOnly Property Error As Exception Get
 ### Property Value
@@ -26,9 +23,7 @@ public Exception Error { get; }Public ReadOnly Property Error As Exception Get
 Type: [Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 The [Exception](http://msdn.microsoft.com/en-us/library/c18k6c59), or nullNothingnullptra null reference (Nothing in Visual Basic) if the failure was not caused by an exception.
 
-See Also
---------
-
+## See Also
 
 [RegionNavigationFailedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs)
 

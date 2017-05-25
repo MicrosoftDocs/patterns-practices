@@ -5,15 +5,12 @@ ms:assetid: 'N:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419042(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace
-===================================================================
+# Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace
 
  
 
-Classes
--------
+## Classes
 
 <span id="classToggle"></span>
 <table>

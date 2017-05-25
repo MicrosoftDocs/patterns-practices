@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.InteractionReques
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430993(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Confirmation Methods
-====================
+# Confirmation Methods
 
 The [Confirmation](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation(v=pandp.50)) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <table>
 
@@ -76,9 +73,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [Confirmation Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation(v=pandp.50))
 

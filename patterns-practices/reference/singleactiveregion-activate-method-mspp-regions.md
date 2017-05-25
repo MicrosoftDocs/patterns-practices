@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.SingleActiveRegion.Activate(Sys
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418995(v=PandP.50)'
 ---
 
-Prism Class Library
 
-SingleActiveRegion.Activate Method
-======================================
+# SingleActiveRegion.Activate Method
 
 Marks the specified view as active.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public override void Activate( Object view )Public Overrides Sub Activate ( view As Object )
 
@@ -32,14 +29,11 @@ The view to activate.
 
 [IRegion.Activate(Object)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.activate(system.object))
 
-Remarks
--------
+## Remarks
 
 If there is an active view before calling this method, that view will be deactivated automatically.
 
-See Also
---------
-
+## See Also
 
 [SingleActiveRegion Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion)
 

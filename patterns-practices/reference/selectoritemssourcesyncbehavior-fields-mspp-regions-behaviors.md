@@ -5,15 +5,12 @@ ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsS
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430951(v=PandP.50)'
 ---
 
-Prism Class Library
 
-SelectorItemsSourceSyncBehavior Fields
-======================================
+# SelectorItemsSourceSyncBehavior Fields
 
 The [SelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior) type exposes the following members.
 
-Fields
-------
+## Fields
 
 <span id="fieldTableToggle"></span>
 <table>
@@ -36,9 +33,7 @@ Name that identifies the SelectorItemsSourceSyncBehavior behavior in a collectio
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [SelectorItemsSourceSyncBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior)
 

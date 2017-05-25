@@ -5,15 +5,12 @@ ms:assetid: 'N:Microsoft.Practices.Prism.UnityExtensions'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419046(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Microsoft.Practices.Prism.UnityExtensions Namespace
-===================================================
+# Microsoft.Practices.Prism.UnityExtensions Namespace
 
  
 
-Classes
--------
+## Classes
 
 <span id="classToggle"></span>
 <table>

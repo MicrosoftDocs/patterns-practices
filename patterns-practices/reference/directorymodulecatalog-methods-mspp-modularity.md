@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.DirectoryModuleCatal
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431037(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DirectoryModuleCatalog Methods
-==============================
+# DirectoryModuleCatalog Methods
 
 The [DirectoryModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.directorymodulecatalog) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -244,9 +241,7 @@ Makes sure all modules have an Unique name.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [DirectoryModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.directorymodulecatalog)
 

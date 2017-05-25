@@ -5,18 +5,15 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.\#ctor(System
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405540(v=PandP.50)'
 ---
 
-Prism Class Library
 
-CompositeCommand Constructor (Boolean)
-======================================
+# CompositeCommand Constructor (Boolean)
 
 Initializes a new instance of [CompositeCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand).
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
 
 public CompositeCommand( bool monitorCommandActivity )Public Sub New ( monitorCommandActivity As Boolean )
 
@@ -26,9 +23,7 @@ monitorCommandActivity
 Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 Indicates when the command activity is going to be monitored.
 
-See Also
---------
-
+## See Also
 
 [CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
 

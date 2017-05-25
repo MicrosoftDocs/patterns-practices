@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Su
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683959(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # CompositePresentationEvent&lt;TPayload&gt;.Subscribe Method (Action&lt;TPayload&gt;, ThreadOption, Boolean)
 
@@ -26,7 +25,6 @@ ThreadOption threadOption,
 bool keepSubscriberReferenceAlive
 ) 
 ```
-
 
 ### Parameters
 
@@ -90,7 +88,6 @@ Public Function Subscribe (
 	keepSubscriberReferenceAlive As Boolean
 ) As SubscriptionToken
 ```
-
 
 ### Parameters
 

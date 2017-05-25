@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.NotificationObject.RaisePrope
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg406218(v=PandP.50)'
 ---
 
-Prism Class Library
 
-NotificationObject.RaisePropertyChanged&lt;(Of &lt;(T&gt;)&gt;) Method (Expression&lt;(Of &lt;(Func&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;))
-==========================================================================================================================================
+# NotificationObject.RaisePropertyChanged&lt;(Of &lt;(T&gt;)&gt;) Method (Expression&lt;(Of &lt;(Func&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;))
 
 Raises this object's PropertyChanged event.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 protected void RaisePropertyChanged&lt;T&gt;( Expression&lt;Func&lt;T&gt;&gt; propertyExpression ) Protected Sub RaisePropertyChanged(Of T) ( propertyExpression As Expression(Of Func(Of T)) )
 
@@ -28,16 +25,13 @@ propertyExpression
 Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)&lt;(Of &lt;([Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;)
 A Lambda expression representing the property that has a new value.
 
-Type Parameters
----------------
+## Type Parameters
 
 <span id="templatesToggle"></span>
 T  
 The type of the property that has a new value
 
-See Also
---------
-
+## See Also
 
 [NotificationObject Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject)
 

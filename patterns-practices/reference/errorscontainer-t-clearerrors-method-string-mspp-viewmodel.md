@@ -5,18 +5,15 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.ClearError
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419024(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).ClearErrors Method (String)
-=======================================================================
+# ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).ClearErrors Method (String)
 
 Clears the errors for a property.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
 
 public void ClearErrors( string propertyName )Public Sub ClearErrors ( propertyName As String )
 
@@ -26,14 +23,11 @@ propertyName
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of th property for which to clear errors.
 
-Examples
---------
+## Examples
 
 <span id="exampleToggle"></span> container.ClearErrors("SomeProperty");
 
-See Also
---------
-
+## See Also
 
 [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601)
 

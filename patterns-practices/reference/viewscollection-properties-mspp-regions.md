@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.ViewsCollection'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431225(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ViewsCollection Properties
-==========================
+# ViewsCollection Properties
 
 The [ViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -36,9 +33,7 @@ Gets or sets the comparison used to sort the views.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ViewsCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection)
 

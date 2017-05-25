@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Commands.CompositeCommand'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430975(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # CompositeCommand Methods
 

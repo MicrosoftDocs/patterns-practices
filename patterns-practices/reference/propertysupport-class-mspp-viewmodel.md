@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.ViewModel.PropertySupport'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431579(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # PropertySupport Class
 

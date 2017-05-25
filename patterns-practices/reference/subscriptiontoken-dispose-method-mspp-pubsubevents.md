@@ -22,7 +22,6 @@ public virtual void Dispose()
 
 [IDisposable.Dispose()](http://msdn.microsoft.com/en-us/library/es4s3w1d)
 
-
 ```VB
 'Declaration
 Public Overridable Sub Dispose

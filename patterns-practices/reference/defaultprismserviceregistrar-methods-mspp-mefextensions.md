@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.DefaultPrismServi
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431005(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DefaultPrismServiceRegistrar Methods
-====================================
+# DefaultPrismServiceRegistrar Methods
 
 The [DefaultPrismServiceRegistrar](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.defaultprismserviceregistrar) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -36,9 +33,7 @@ Registers the required Prism types that are not already registered in the <a hre
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [DefaultPrismServiceRegistrar Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.defaultprismserviceregistrar)
 

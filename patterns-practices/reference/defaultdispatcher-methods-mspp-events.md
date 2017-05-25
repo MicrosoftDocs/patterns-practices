@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Events.DefaultDispatcher'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430982(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DefaultDispatcher Methods
-=========================
+# DefaultDispatcher Methods
 
 The [DefaultDispatcher](https://msdn.microsoft.com/library/microsoft.practices.prism.events.defaultdispatcher) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -84,9 +81,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [DefaultDispatcher Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.defaultdispatcher)
 

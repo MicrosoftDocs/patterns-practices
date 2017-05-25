@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Events.CompositePresentation
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419162(v=PandP.50)'
 ---
 
-Prism Class Library
 
-CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
-====================================================================
+# CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
 
 The [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 |                                                                                                      | Name                   | Description                 |
@@ -21,9 +18,7 @@ Properties
 | ![](https://msdn.microsoft.com/en-us/Gg419162.protproperty(en-us,PandP.50).gif "Protected property") | Subscriptions          | (Inherited from EventBase.) |
 | ![](https://msdn.microsoft.com/en-us/Gg419162.pubproperty(en-us,PandP.50).gif "Public property")     | SynchronizationContext | (Inherited from EventBase.) |
 
-See Also
---------
-
+## See Also
 
 [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)
 

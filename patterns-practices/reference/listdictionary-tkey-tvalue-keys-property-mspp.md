@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.ListDictionary\`2.Keys'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431257(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Keys Property
-===================================================================
+# ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Keys Property
 
 Gets the list of keys in the dictionary.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public ICollection&lt;TKey&gt; Keys { get; }Public ReadOnly Property Keys As ICollection(Of TKey) Get
 ### Property Value
@@ -29,9 +26,7 @@ Collection of keys.
 
 [IDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Keys](http://msdn.microsoft.com/en-us/library/1ebzfbyx)
 
-See Also
---------
-
+## See Also
 
 [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 

@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431088(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionBehaviorFactory Methods
-==============================
+# IRegionBehaviorFactory Methods
 
 The [IRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -66,9 +63,7 @@ Returns an enumerator that iterates through a collection.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IRegionBehaviorFactory Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory)
 

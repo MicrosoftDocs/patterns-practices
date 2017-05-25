@@ -23,7 +23,6 @@ public DispatcherEventSubscription(
 )
 ```
 
-
 ### Parameters
 
 *actionReference*
@@ -89,7 +88,6 @@ Public Sub New (
 	dispatcher As IDispatcherFacade
 )
 ```
-
 
 ### Parameters
 

@@ -5,18 +5,15 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Mvvm.BindableBase.SetProperty\`\`1(\`\`
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736263(v=PandP.50)'
 ---
 
-Prism Class Library
 
-BindableBase.SetProperty&lt;(Of &lt;(T&gt;)&gt;) Method
-===========================================================
+# BindableBase.SetProperty&lt;(Of &lt;(T&gt;)&gt;) Method
 
 Checks if a property already matches a desired value. Sets the property and notifies listeners only when necessary.
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
 
 protected virtual bool SetProperty&lt;T&gt;( ref T storage, T value, string propertyName = null ) Protected Overridable Function SetProperty(Of T) ( ByRef storage As T, value As T, Optional propertyName As String = Nothing ) As Boolean
 
@@ -34,8 +31,7 @@ propertyName (Optional)
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Name of the property used to notify listeners. This value is optional and can be provided automatically when invoked from compilers that support CallerMemberName.
 
-Type Parameters
----------------
+## Type Parameters
 
 <span id="templatesToggle"></span>
 T  
@@ -46,9 +42,7 @@ Type of the property.
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 True if the value was changed, false if the existing value matched the desired value.
 
-See Also
---------
-
+## See Also
 
 [BindableBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase)
 

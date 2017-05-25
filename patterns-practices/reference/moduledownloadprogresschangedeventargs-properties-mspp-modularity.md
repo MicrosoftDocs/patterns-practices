@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleDownloadPro
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431173(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleDownloadProgressChangedEventArgs Properties
-=================================================
+# ModuleDownloadProgressChangedEventArgs Properties
 
 The [ModuleDownloadProgressChangedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -66,9 +63,7 @@ Gets a unique user state.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleDownloadProgressChangedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
 

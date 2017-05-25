@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.PopupWindowAction
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736214(v=PandP.50)'
 ---
 
-Prism Class Library
 
-PopupWindowAction Methods
-=========================
+# PopupWindowAction Methods
 
 The [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -419,9 +416,7 @@ Verifies that the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Fre
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
 

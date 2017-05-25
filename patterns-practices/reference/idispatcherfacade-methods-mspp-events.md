@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Events.IDispatcherFacade'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430988(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IDispatcherFacade Methods
-=========================
+# IDispatcherFacade Methods
 
 The [IDispatcherFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.events.idispatcherfacade) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <table>
 
@@ -35,9 +32,7 @@ Dispatches an invocation to the method received as parameter.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IDispatcherFacade Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.events.idispatcherfacade)
 

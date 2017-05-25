@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegion
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736120(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ClearChildViewsRegionBehavior Constructor
 

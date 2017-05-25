@@ -5,10 +5,8 @@ ms:assetid: 'E:Microsoft.Practices.Prism.Interactivity.InteractionRequest.IInter
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430917(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IInteractionRequest.Raised Event
-====================================
+# IInteractionRequest.Raised Event
 
 Fired when the interaction is needed.
 
@@ -34,7 +32,6 @@ Event Raised As EventHandler(Of InteractionRequestedEventArgs)
 Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [InteractionRequestedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs(v=pandp.50)))
 
 ## See Also
-
 
 [IInteractionRequest Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest(v=pandp.50))
 

@@ -5,15 +5,12 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefFile
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430889(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefFileModuleTypeLoader Events
-==============================
+# MefFileModuleTypeLoader Events
 
 The [MefFileModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -43,9 +40,7 @@ Raised repeatedly to provide progress as modules are loaded in the background.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [MefFileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader)
 

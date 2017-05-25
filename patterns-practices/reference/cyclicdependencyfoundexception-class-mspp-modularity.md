@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundExcepti
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431474(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # CyclicDependencyFoundException Class
 

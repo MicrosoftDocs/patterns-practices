@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.IsSynchroniz
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431310(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleInfoGroup.IsSynchronized Property
-===========================================
+# ModuleInfoGroup.IsSynchronized Property
 
 Gets a value indicating whether access to the [ICollection](http://msdn.microsoft.com/en-us/library/b1ht6113) is synchronized (thread safe).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public bool IsSynchronized { get; }Public ReadOnly Property IsSynchronized As Boolean Get
 ### Property Value
@@ -32,9 +29,7 @@ true if access to the [ICollection](http://msdn.microsoft.com/en-us/library/b1ht
 
 [ICollection.IsSynchronized](http://msdn.microsoft.com/en-us/library/d74ky11w)
 
-See Also
---------
-
+## See Also
 
 [ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 

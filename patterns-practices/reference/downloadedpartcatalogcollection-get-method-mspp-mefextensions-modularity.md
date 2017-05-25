@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPart
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405835(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DownloadedPartCatalogCollection.Get Method
-==============================================
+# DownloadedPartCatalogCollection.Get Method
 
 Gets the catalog for the specified module info.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public ComposablePartCatalog Get( ModuleInfo moduleInfo )Public Function Get ( moduleInfo As ModuleInfo ) As ComposablePartCatalog
 
@@ -32,9 +29,7 @@ The module info.
 
 Type: [ComposablePartCatalog](http://msdn.microsoft.com/en-us/library/dd454614)
 
-See Also
---------
-
+## See Also
 
 [DownloadedPartCatalogCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection)
 

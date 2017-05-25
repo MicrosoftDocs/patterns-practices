@@ -30,7 +30,6 @@ Function ContainsRegionWithName (
 ) As Boolean
 ```
 
-
 ### Parameters
 
 *regionName*
@@ -40,7 +39,7 @@ Function ContainsRegionWithName (
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
 **truetrue** (**True** in Visual Basic) if the region is contained in the collection, otherwise **falsefalse** (**False** in Visual Basic).
 
 ## See Also

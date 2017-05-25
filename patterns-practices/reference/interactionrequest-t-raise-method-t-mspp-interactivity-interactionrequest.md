@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Intera
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405794(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # InteractionRequest&lt;T&gt;.Raise Method (T)
 
@@ -25,7 +24,6 @@ public void Raise(
 )
 ```
 
-
 ### Parameters
 
 *context*  
@@ -44,7 +42,6 @@ public void Raise(
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
 
-Prism Class Library
 
 # InteractionRequest(Of T).Raise Method (T)
 
@@ -65,7 +62,6 @@ Public Sub Raise (
 )
 ```
 
-
 ### Parameters
 
 context  
@@ -74,7 +70,6 @@ Type: [T](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50))
 The context for the interaction request.
 
 ## See Also
-
 
 [InteractionRequest(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50))
 

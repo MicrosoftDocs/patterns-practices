@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegion.Name'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431351(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # IRegion.Name Property
 
@@ -37,7 +36,6 @@ Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region.
 
 ## See Also
-
 
 [IRegion Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50))
 

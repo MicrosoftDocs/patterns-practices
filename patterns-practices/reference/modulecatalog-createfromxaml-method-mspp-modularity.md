@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleCatalog.CreateF
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419087(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleCatalog.CreateFromXaml Method
-=======================================
+# ModuleCatalog.CreateFromXaml Method
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,9 +38,7 @@ Creates a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 

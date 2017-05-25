@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionMemberLifetimeAttribute.\
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405700(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionMemberLifetimeAttribute Constructor
-=========================================
+# RegionMemberLifetimeAttribute Constructor
 
 Instantiates an instance of [RegionMemberLifetimeAttribute](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute(v=pandp.50))
 
@@ -18,9 +16,7 @@ Instantiates an instance of [RegionMemberLifetimeAttribute](https://msdn.microso
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public RegionMemberLifetimeAttribute()
@@ -29,9 +25,7 @@ public RegionMemberLifetimeAttribute()
 'Declaration
 Public Sub New
 ```
-See Also
---------
-
+## See Also
 
 [RegionMemberLifetimeAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute(v=pandp.50))
 

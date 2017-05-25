@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionManagerAccessor.GetRegio
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405967(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionManagerAccessor.GetRegionName Method
-===============================================
+# IRegionManagerAccessor.GetRegionName Method
 
 Gets the value for the RegionName attached property.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 string GetRegionName( DependencyObject element )Function GetRegionName ( element As DependencyObject ) As String
 
@@ -33,9 +30,7 @@ The object to adapt. This is typically a container (i.e a control).
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region that should be created when the RegionManager is also set in this element.
 
-See Also
---------
-
+## See Also
 
 [IRegionManagerAccessor Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor)
 

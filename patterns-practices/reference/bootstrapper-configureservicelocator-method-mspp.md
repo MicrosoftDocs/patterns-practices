@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.ConfigureServiceLocator'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431149(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # Bootstrapper.ConfigureServiceLocator Method
 

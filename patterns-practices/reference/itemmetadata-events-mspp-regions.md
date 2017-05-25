@@ -5,15 +5,12 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.ItemMetadata'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430904(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ItemMetadata Events
-===================
+# ItemMetadata Events
 
 The [ItemMetadata](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata) type exposes the following members.
 
-Events
-------
+## Events
 
 <table>
 
@@ -35,9 +32,7 @@ Occurs when metadata on the item changes.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ItemMetadata Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)
 

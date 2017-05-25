@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.UnityExtensions.UnityContainerHe
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419147(v=PandP.50)'
 ---
 
-Prism Class Library
 
-UnityContainerHelper.TryResolve Method
-==========================================
+# UnityContainerHelper.TryResolve Method
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,9 +38,7 @@ Utility method to try to resolve a service from the container avoiding an except
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [UnityContainerHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper)
 

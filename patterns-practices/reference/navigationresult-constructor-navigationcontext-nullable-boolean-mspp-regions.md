@@ -24,7 +24,6 @@ public NavigationResult(
 )
 ```
 
-
 ### Parameters
 
 *context*
@@ -56,7 +55,6 @@ Public Sub New (
 	result As Nullable(Of Boolean)
 )
 ```
-
 
 ### Parameters
 

@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.CollectionExtensions'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430971(v=PandP.50)'
 ---
 
-Prism Class Library
 
-CollectionExtensions Methods
-============================
+# CollectionExtensions Methods
 
 The [CollectionExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.collectionextensions) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -36,9 +33,7 @@ Add a range of items to a collection.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [CollectionExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.collectionextensions)
 

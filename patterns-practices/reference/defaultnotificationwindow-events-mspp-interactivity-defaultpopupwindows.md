@@ -5,17 +5,13 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindow
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736242(v=PandP.50)'
 ---
 
-# DefaultNotificationWindow Events
-=======
-Prism Class Library
+# # DefaultNotificationWindow Events
 
-DefaultNotificationWindow Events
-================================
+# DefaultNotificationWindow Events
 
 The [DefaultNotificationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -975,9 +971,7 @@ Occurs when the element is removed from within an element tree of loaded element
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
 

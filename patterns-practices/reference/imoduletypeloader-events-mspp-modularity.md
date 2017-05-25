@@ -5,15 +5,12 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.IModuleTypeLoader'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430895(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IModuleTypeLoader Events
-========================
+# IModuleTypeLoader Events
 
 The [IModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -43,9 +40,7 @@ Raised repeatedly to provide progress as modules are downloaded in the backgroun
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IModuleTypeLoader Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader)
 

@@ -5,29 +5,24 @@ ms:assetid: 'F:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.IsModal
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736210(v=PandP.50)'
 ---
 
-Prism Class Library
 
-PopupWindowAction.IsModalProperty Field
-===========================================
+# PopupWindowAction.IsModalProperty Field
 
 Determines if the content should be shown in a modal window or not.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public static readonly DependencyProperty IsModalPropertyPublic Shared ReadOnly IsModalProperty As DependencyProperty
 ### Field Value
 
 Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 
-See Also
---------
-
+## See Also
 
 [PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
 

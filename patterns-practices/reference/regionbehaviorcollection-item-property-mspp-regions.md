@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionBehaviorCollection.Item(S
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431366(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionBehaviorCollection.Item Property
-==========================================
+# RegionBehaviorCollection.Item Property
 
 Gets the [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior) with the specified key.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public IRegionBehavior this[ string key \] { get; }Public ReadOnly Default Property Item ( key As String ) As IRegionBehavior Get
 
@@ -35,9 +32,7 @@ The RegionBehavior that's registered with the key.
 
 [IRegionBehaviorCollection.Item[([(String\])\])](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection.item(system.string))
 
-See Also
---------
-
+## See Also
 
 [RegionBehaviorCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection)
 

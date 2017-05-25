@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionManager'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431199(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # IRegionManager Properties
 
@@ -34,7 +33,6 @@ Gets a collection of <a href="https://msdn.microsoft.com/library/microsoft.pract
 </table>
 
 ## See Also
-
 
 [IRegionManager Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanager(v=pandp.50))
 

@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.ForwardValue
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405908(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleInfoGroup.ForwardValues Method
 
@@ -25,7 +24,6 @@ protected void ForwardValues(
 )
 ```
 
-
 ### Parameters
 
 *moduleInfo*  
@@ -40,7 +38,6 @@ Protected Sub ForwardValues (
 	moduleInfo As ModuleInfo
 )
 ```
-
 
 ### Parameters
 
@@ -57,7 +54,6 @@ The module info to forward values to.
  [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)  An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if *moduleInfo* is **nulla** null reference (**Nothing** in Visual Basic).
 
 ## See Also
-
 
 [ModuleInfoGroup Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50))
 

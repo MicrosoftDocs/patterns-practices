@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.IModuleManager'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431045(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IModuleManager Methods
-======================
+# IModuleManager Methods
 
 The [IModuleManager](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -43,9 +40,7 @@ Initializes the modules marked as <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IModuleManager Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager)
 

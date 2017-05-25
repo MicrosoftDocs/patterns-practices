@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionViewRegistry.GetContents(
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418980(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionViewRegistry.GetContents Method
-=========================================
+# RegionViewRegistry.GetContents Method
 
 Returns the contents registered for a region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public IEnumerable&lt;Object&gt; GetContents( string regionName )Public Function GetContents ( regionName As String ) As IEnumerable(Of Object)
 
@@ -36,9 +33,7 @@ Collection of contents registered for the region.
 
 [IRegionViewRegistry.GetContents(String)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry.getcontents(system.string))
 
-See Also
---------
-
+## See Also
 
 [RegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry)
 

@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431508(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleTypeLoadingException Class
 

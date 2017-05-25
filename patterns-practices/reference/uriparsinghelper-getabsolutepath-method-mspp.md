@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.UriParsingHelper.GetAbsolutePath(System
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419017(v=PandP.50)'
 ---
 
-Prism Class Library
 
-UriParsingHelper.GetAbsolutePath Method
-===========================================
+# UriParsingHelper.GetAbsolutePath Method
 
 Gets the AbsolutePath part of uri.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public static string GetAbsolutePath( Uri uri )Public Shared Function GetAbsolutePath ( uri As Uri ) As String
 
@@ -32,9 +29,7 @@ The Uri.
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-See Also
---------
-
+## See Also
 
 [UriParsingHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper)
 

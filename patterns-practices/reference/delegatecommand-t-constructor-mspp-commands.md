@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Commands.DelegateCommand\`1.\#ct
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419054(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Constructor
-===================================================
+# DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Constructor
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,9 +38,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)
 

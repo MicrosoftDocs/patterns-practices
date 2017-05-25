@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionCollection'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431198(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionCollection Properties
-============================
+# IRegionCollection Properties
 
 The [IRegionCollection](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection(v=pandp.50)) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <table>
 
@@ -35,9 +32,7 @@ Gets the IRegion with the name received as index.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IRegionCollection Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection(v=pandp.50))
 

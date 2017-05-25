@@ -5,18 +5,15 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.UnregisterCom
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405753(v=PandP.50)'
 ---
 
-Prism Class Library
 
-CompositeCommand.UnregisterCommand Method
-=============================================
+# CompositeCommand.UnregisterCommand Method
 
 Removes a command from the collection and removes itself from the [CanExecuteChanged](http://msdn.microsoft.com/en-us/library/ms523106) event of it.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
 
 public virtual void UnregisterCommand( ICommand command )Public Overridable Sub UnregisterCommand ( command As ICommand )
 
@@ -26,9 +23,7 @@ command
 Type: [System.Windows.Input.ICommand](http://msdn.microsoft.com/en-us/library/ms616869)
 The command to unregister.
 
-See Also
---------
-
+## See Also
 
 [CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
 

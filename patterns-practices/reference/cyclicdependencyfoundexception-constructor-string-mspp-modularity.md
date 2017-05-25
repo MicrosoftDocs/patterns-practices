@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundExcepti
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405608(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # CyclicDependencyFoundException Constructor (String)
 
@@ -31,7 +30,6 @@ Public Sub New (
 	message As String
 )
 ```
-
 
 ### Parameters
 

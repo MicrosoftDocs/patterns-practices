@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefMod
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431011(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # MefModuleInitializer Methods
 
@@ -107,7 +106,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-
 
 [MefModuleInitializer Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer(v=pandp.50))
 

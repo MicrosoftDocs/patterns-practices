@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleInfo'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431174(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleInfo Properties
-=====================
+# ModuleInfo Properties
 
 The [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -75,9 +72,7 @@ Gets or sets the state of the <a href="https://msdn.microsoft.com/library/micros
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleInfo Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
 

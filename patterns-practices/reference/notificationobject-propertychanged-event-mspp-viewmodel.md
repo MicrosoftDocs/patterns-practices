@@ -5,20 +5,17 @@ ms:assetid: 'E:Microsoft.Practices.Prism.ViewModel.NotificationObject.PropertyCh
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430943(v=PandP.50)'
 ---
 
-Prism Class Library
 
-NotificationObject.PropertyChanged Event
-============================================
+# NotificationObject.PropertyChanged Event
 
 Raised when a property on this object has a new value.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public event PropertyChangedEventHandler PropertyChangedPublic Event PropertyChanged As PropertyChangedEventHandler
 ### Value
@@ -28,9 +25,7 @@ Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn.microsoft.
 
 [INotifyPropertyChanged.PropertyChanged](http://msdn.microsoft.com/en-us/library/ms133023)
 
-See Also
---------
-
+## See Also
 
 [NotificationObject Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject)
 

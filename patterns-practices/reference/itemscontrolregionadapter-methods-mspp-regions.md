@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.ItemsControlRegionAdapt
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431097(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ItemsControlRegionAdapter Methods
-=================================
+# ItemsControlRegionAdapter Methods
 
 The [ItemsControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -117,9 +114,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ItemsControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter)
 

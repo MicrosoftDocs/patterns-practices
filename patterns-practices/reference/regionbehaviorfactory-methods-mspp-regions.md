@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.RegionBehaviorFactory'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431107(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # RegionBehaviorFactory Methods
 
@@ -103,7 +102,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-
 
 [RegionBehaviorFactory Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorfactory(v=pandp.50))
 

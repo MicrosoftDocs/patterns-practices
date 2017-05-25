@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Modularity.IMo
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430797(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IModuleExport Members
-=====================
+# IModuleExport Members
 
 The [IModuleExport](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -57,9 +54,7 @@ Gets the type of the module.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IModuleExport Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport)
 

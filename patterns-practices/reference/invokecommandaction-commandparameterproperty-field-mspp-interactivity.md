@@ -5,7 +5,6 @@ ms:assetid: 'F:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.Comma
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683976(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # InvokeCommandAction.CommandParameterProperty Field
 

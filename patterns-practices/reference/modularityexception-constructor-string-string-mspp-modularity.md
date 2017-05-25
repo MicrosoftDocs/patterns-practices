@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModularityException.\#ctor(S
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405625(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModularityException Constructor (String, String)
-================================================
+# ModularityException Constructor (String, String)
 
 Initializes the exception with a particular module and error message.
 
@@ -18,9 +16,7 @@ Initializes the exception with a particular module and error message.
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public ModularityException(
@@ -37,7 +33,6 @@ Public Sub New (
 )
 ```
 
-
 ### Parameters
 
 *moduleName*  
@@ -52,9 +47,7 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 The error message that explains the reason for the exception.
 
-See Also
---------
-
+## See Also
 
 [ModularityException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception(v=pandp.50))
 

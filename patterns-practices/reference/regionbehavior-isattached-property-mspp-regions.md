@@ -5,29 +5,24 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionBehavior.IsAttached'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431367(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionBehavior.IsAttached Property
-======================================
+# RegionBehavior.IsAttached Property
 
 Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public bool IsAttached { get; }Public ReadOnly Property IsAttached As Boolean Get
 ### Property Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
-See Also
---------
-
+## See Also
 
 [RegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
 

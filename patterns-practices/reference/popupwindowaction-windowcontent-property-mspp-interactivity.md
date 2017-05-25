@@ -5,29 +5,24 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.WindowC
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736162(v=PandP.50)'
 ---
 
-Prism Class Library
 
-PopupWindowAction.WindowContent Property
-============================================
+# PopupWindowAction.WindowContent Property
 
 Gets or sets the content of the window.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public FrameworkElement WindowContent { get; set; }Public Property WindowContent As FrameworkElement Get Set
 ### Property Value
 
 Type: [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714)
 
-See Also
---------
-
+## See Also
 
 [PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
 

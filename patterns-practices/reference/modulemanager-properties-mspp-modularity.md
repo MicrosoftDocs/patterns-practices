@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleManager'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431177(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleManager Properties
-========================
+# ModuleManager Properties
 
 The [ModuleManager](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -43,9 +40,7 @@ Returns the list of registered <a href="https://msdn.microsoft.com/library/micro
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
 

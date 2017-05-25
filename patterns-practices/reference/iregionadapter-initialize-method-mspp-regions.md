@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionAdapter.Initialize(Syste
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405956(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionAdapter.Initialize Method
-====================================
+# IRegionAdapter.Initialize Method
 
 Adapts an object and binds it to a new [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 IRegion Initialize( Object regionTarget, string regionName )Function Initialize ( regionTarget As Object, regionName As String ) As IRegion
 
@@ -37,9 +34,7 @@ The name of the region to be created.
 Type: [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 The new instance of [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) that the regionTarget is bound to.
 
-See Also
---------
-
+## See Also
 
 [IRegionAdapter Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter)
 

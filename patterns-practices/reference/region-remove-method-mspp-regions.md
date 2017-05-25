@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Region.Remove(System.Object)'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418990(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Region.Remove Method
-========================
+# Region.Remove Method
 
 Removes the specified view from the region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public virtual void Remove( Object view )Public Overridable Sub Remove ( view As Object )
 
@@ -32,9 +29,7 @@ The view to remove.
 
 [IRegion.Remove(Object)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.remove(system.object))
 
-See Also
---------
-
+## See Also
 
 [Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 

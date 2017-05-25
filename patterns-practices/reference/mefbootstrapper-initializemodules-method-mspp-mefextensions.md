@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.Initializ
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405826(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # MefBootstrapper.InitializeModules Method
 
@@ -28,7 +27,6 @@ Protected Overrides Sub InitializeModules
 ```
 
 ## See Also
-
 
 [MefBootstrapper Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper(v=pandp.50))
 

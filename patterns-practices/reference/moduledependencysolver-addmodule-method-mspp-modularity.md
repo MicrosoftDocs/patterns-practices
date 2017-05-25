@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencySolver.AddMo
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405900(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleDependencySolver.AddModule Method
-===========================================
+# ModuleDependencySolver.AddModule Method
 
 Adds a module to the solver.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public void AddModule( string name )Public Sub AddModule ( name As String )
 
@@ -28,9 +25,7 @@ name
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name that uniquely identifies the module.
 
-See Also
---------
-
+## See Also
 
 [ModuleDependencySolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver)
 

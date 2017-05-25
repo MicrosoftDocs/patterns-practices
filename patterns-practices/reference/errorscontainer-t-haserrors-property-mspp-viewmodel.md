@@ -5,27 +5,22 @@ ms:assetid: 'P:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.HasErrors'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431401(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).HasErrors Property
-==============================================================
+# ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).HasErrors Property
 
 Gets a value indicating whether the object has validation errors.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
 
 public bool HasErrors { get; }Public ReadOnly Property HasErrors As Boolean Get
 ### Property Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
-See Also
---------
-
+## See Also
 
 [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601)
 

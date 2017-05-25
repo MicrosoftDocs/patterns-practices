@@ -5,15 +5,12 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Commands.DelegateCommand'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405731(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DelegateCommand Events
-======================
+# DelegateCommand Events
 
 The [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -45,9 +42,7 @@ Fired if the <a href="https://msdn.microsoft.com/library/microsoft.practices.pri
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
 

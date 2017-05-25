@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.LoadModuleComplet
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431163(v=PandP.50)'
 ---
 
-Prism Class Library
 
-LoadModuleCompletedEventArgs Properties
-=======================================
+# LoadModuleCompletedEventArgs Properties
 
 The [LoadModuleCompletedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -50,9 +47,7 @@ Gets the module info.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [LoadModuleCompletedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs)
 

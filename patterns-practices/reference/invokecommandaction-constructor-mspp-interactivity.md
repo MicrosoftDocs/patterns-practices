@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.\#cto
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683939(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # InvokeCommandAction Constructor
 

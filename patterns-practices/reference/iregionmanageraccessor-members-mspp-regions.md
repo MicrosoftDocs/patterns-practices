@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionManagerAccess
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405478(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionManagerAccessor Members
-==============================
+# IRegionManagerAccessor Members
 
 The [IRegionManagerAccessor](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -43,8 +40,7 @@ Gets the value for the RegionName attached property.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -67,9 +63,7 @@ Notification used by attached behaviors to update the region managers appropriat
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IRegionManagerAccessor Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor)
 

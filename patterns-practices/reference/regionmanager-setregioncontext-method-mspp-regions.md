@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManager.SetRegionContext(
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418965(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionManager.SetRegionContext Method
-=========================================
+# RegionManager.SetRegionContext Method
 
 Sets the [RegionContextProperty](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager.regioncontextproperty(v=pandp.50)) attached property.
 
@@ -18,9 +16,7 @@ Sets the [RegionContextProperty](https://msdn.microsoft.com/en-us/library/micros
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 public static void SetRegionContext(
@@ -36,7 +32,6 @@ Public Shared Sub SetRegionContext (
 )
 ```
 
-
 ### Parameters
 
 *target*  
@@ -49,9 +44,7 @@ Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 The value.
 
-See Also
---------
-
+## See Also
 
 [RegionManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager(v=pandp.50))
 

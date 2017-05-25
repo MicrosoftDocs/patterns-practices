@@ -5,18 +5,15 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventBase.Contains(Microso
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736302(v=PandP.50)'
 ---
 
-Prism Class Library
 
-EventBase.Contains Method
-=============================
+# EventBase.Contains Method
 
 Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matching [SubscriptionToken](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
 
 public virtual bool Contains( SubscriptionToken token )Public Overridable Function Contains ( token As SubscriptionToken ) As Boolean
 
@@ -31,9 +28,7 @@ The [SubscriptionToken](https://msdn.microsoft.com/library/microsoft.practices.p
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if there is a [SubscriptionToken](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken) that matches; otherwise falseFalsefalsefalse (False in Visual Basic).
 
-See Also
---------
-
+## See Also
 
 [EventBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase)
 

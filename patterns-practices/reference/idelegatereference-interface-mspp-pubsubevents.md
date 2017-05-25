@@ -5,24 +5,19 @@ ms:assetid: 'T:Microsoft.Practices.Prism.PubSubEvents.IDelegateReference'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736279(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IDelegateReference Interface
-============================
+# IDelegateReference Interface
 
 Represents a reference to a [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
-
 public interface IDelegateReferencePublic Interface IDelegateReference
 
-See Also
---------
-
+## See Also
 
 [IDelegateReference Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.idelegatereference)
 

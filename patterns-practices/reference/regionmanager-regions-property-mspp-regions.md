@@ -5,10 +5,8 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionManager.Regions'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431372(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionManager.Regions Property
-==================================
+# RegionManager.Regions Property
 
 Gets a collection of [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)) that identify each region by name. You can use this collection to add or remove regions to the current region manager.
 
@@ -19,9 +17,7 @@ Gets a collection of [IRegion](https://msdn.microsoft.com/en-us/library/microsof
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
     public IRegionCollection Regions { get; }
@@ -41,9 +37,7 @@ A [IRegionCollection](https://msdn.microsoft.com/en-us/library/microsoft.practic
 
 [IRegionManager.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanager.regions(v=pandp.50))
 
-See Also
---------
-
+## See Also
 
 [RegionManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager(v=pandp.50))
 

@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ConfigurationModu
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430822(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ConfigurationModuleCatalog Members
-==================================
+# ConfigurationModuleCatalog Members
 
 The [ConfigurationModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationmodulecatalog) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +33,7 @@ Builds an instance of ConfigurationModuleCatalog with a <a href="https://msdn.mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -261,8 +257,7 @@ Makes sure all modules have an Unique name.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -325,9 +320,7 @@ Gets or sets a value that remembers whether the <a href="https://msdn.microsoft.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ConfigurationModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationmodulecatalog)
 

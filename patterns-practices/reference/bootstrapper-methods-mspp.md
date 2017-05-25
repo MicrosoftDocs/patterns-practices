@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Bootstrapper'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430970(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Bootstrapper Methods
-====================
+# Bootstrapper Methods
 
 The [Bootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <table>
 
@@ -160,9 +157,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
 

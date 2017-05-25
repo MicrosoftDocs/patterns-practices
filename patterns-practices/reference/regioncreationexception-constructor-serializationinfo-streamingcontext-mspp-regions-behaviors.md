@@ -32,7 +32,6 @@ Protected Sub New (
 )
 ```
 
-
 ### Parameters
 
 *info*

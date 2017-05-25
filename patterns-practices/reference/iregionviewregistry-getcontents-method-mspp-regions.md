@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionViewRegistry.GetContents
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405974(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionViewRegistry.GetContents Method
-==========================================
+# IRegionViewRegistry.GetContents Method
 
 Returns the contents associated with a region name.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 IEnumerable&lt;Object&gt; GetContents( string regionName )Function GetContents ( regionName As String ) As IEnumerable(Of Object)
 
@@ -33,9 +30,7 @@ Region name for which contents are requested.
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 Collection of contents associated with the regionName.
 
-See Also
---------
-
+## See Also
 
 [IRegionViewRegistry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry)
 

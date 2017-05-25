@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleDependencyConfiguratio
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431301(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleDependencyConfigurationElement.ModuleName Property
-============================================================
+# ModuleDependencyConfigurationElement.ModuleName Property
 
 Gets or sets the name of a module antoher module depends on.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public string ModuleName { get; set; }Public Property ModuleName As String Get Set
 ### Property Value
@@ -26,9 +23,7 @@ public string ModuleName { get; set; }Public Property ModuleName As String Get S
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of a module antoher module depends on.
 
-See Also
---------
-
+## See Also
 
 [ModuleDependencyConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement)
 

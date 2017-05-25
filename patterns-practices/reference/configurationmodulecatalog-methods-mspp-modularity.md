@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ConfigurationModuleC
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431034(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ConfigurationModuleCatalog Methods
 
@@ -235,7 +234,6 @@ Makes sure all modules have an Unique name.
 </table>
 
 ## See Also
-
 
 [ConfigurationModuleCatalog Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.configurationmodulecatalog(v=pandp.50))
 

@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.IEventAggregator'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736122(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IEventAggregator Methods
-========================
+# IEventAggregator Methods
 
 The [IEventAggregator](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventaggregator) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -36,9 +33,7 @@ Gets an instance of an event type.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IEventAggregator Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventaggregator)
 

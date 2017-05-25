@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.DuplicateModuleException'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431476(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # DuplicateModuleException Class
 

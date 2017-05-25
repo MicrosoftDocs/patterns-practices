@@ -37,8 +37,7 @@ Return Value
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)()</br>
 The resulting ordered list of modules.
 
-## Exceptions
-----------
+## ## Exceptions
 
 |Exception | Condition |
 |[Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception(v=pandp.50)) | This exception is thrown when a cycle is found in the defined depedency graph. |

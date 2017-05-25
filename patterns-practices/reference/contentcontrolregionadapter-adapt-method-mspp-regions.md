@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter.Ada
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405949(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ContentControlRegionAdapter.Adapt Method
-============================================
+# ContentControlRegionAdapter.Adapt Method
 
 Adapts a [ContentControl](http://msdn.microsoft.com/en-us/library/ms609797) to an [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 protected override void Adapt( IRegion region, ContentControl regionTarget )Protected Overrides Sub Adapt ( region As IRegion, regionTarget As ContentControl )
 
@@ -32,9 +29,7 @@ regionTarget
 Type: [System.Windows.Controls.ContentControl](http://msdn.microsoft.com/en-us/library/ms609797)
 The object to adapt.
 
-See Also
---------
-
+## See Also
 
 [ContentControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.contentcontrolregionadapter)
 

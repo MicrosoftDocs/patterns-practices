@@ -5,6 +5,7 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InteractionReq
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430783(v=PandP.50)'
 ---
 
+
 # InteractionRequestedEventArgs Members
 
 The [InteractionRequestedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs) type exposes the following members.

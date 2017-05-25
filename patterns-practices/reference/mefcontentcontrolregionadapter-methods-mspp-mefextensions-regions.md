@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefConten
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431022(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefContentControlRegionAdapter Methods
-======================================
+# MefContentControlRegionAdapter Methods
 
 The [MefContentControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefcontentcontrolregionadapter) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -117,9 +114,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [MefContentControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefcontentcontrolregionadapter)
 

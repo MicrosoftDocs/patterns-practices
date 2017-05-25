@@ -5,10 +5,8 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCo
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431291(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleConfigurationElementCollection.ThrowOnDuplicate Property
-==================================================================
+# ModuleConfigurationElementCollection.ThrowOnDuplicate Property
 
 Gets a value indicating whether an exception should be raised if a duplicate element is found. This property will always return true.
 
@@ -18,9 +16,7 @@ Gets a value indicating whether an exception should be raised if a duplicate ele
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
      protected override bool ThrowOnDuplicate { get; }
@@ -37,9 +33,7 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 A [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50) value.
 
-See Also
---------
-
+## See Also
 
 [ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection(v=pandp.50))
 

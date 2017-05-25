@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.IModule'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431042(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IModule Methods
-===============
+# IModule Methods
 
 The [IModule](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -36,9 +33,7 @@ Notifies the module that it has be initialized.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IModule Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule)
 

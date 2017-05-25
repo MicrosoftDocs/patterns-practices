@@ -5,15 +5,12 @@ ms:assetid: 'N:Microsoft.Practices.Prism'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419033(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Microsoft.Practices.Prism Namespace
-===================================
+# Microsoft.Practices.Prism Namespace
 
  
 
-Classes
--------
+## Classes
 
 <span id="classToggle"></span>
 <table>
@@ -78,8 +75,7 @@ Helper class for parsing <a href="http://msdn.microsoft.com/en-us/library/txt770
 </tbody>
 </table>
 
-Interfaces
-----------
+## Interfaces
 
 <span id="interfaceToggle"></span>
 <table>

@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.UnityExtensions.UnityServiceLocatorAdap
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431574(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # UnityServiceLocatorAdapter Class
 

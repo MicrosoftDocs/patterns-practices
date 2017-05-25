@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Events.MefEventAg
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431006(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # MefEventAggregator Methods
 
@@ -80,7 +79,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-
 
 [MefEventAggregator Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator(v=pandp.50))
 

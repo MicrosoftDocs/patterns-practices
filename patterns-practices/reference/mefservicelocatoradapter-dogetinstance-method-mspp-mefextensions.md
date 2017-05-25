@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefServiceLocatorAdapter.
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405832(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefServiceLocatorAdapter.DoGetInstance Method
-=================================================
+# MefServiceLocatorAdapter.DoGetInstance Method
 
 Resolves all the instances of the requested service.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 protected override Object DoGetInstance( Type serviceType, string key )Protected Overrides Function DoGetInstance ( serviceType As Type, key As String ) As Object
 
@@ -37,9 +34,7 @@ Name of registered service you want. May be null.
 Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 Sequence of service instance objects.
 
-See Also
---------
-
+## See Also
 
 [MefServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter)
 

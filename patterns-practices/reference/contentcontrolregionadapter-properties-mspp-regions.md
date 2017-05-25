@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.ContentControlRegion
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431194(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ContentControlRegionAdapter Properties
-======================================
+# ContentControlRegionAdapter Properties
 
 The [ContentControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.contentcontrolregionadapter) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -37,9 +34,7 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ContentControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.contentcontrolregionadapter)
 

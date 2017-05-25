@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.INavigationAware.OnNavigatedTo(
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405955(v=PandP.50)'
 ---
 
-Prism Class Library
 
-INavigationAware.OnNavigatedTo Method
-=========================================
+# INavigationAware.OnNavigatedTo Method
 
 Called when the implementer has been navigated to.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 void OnNavigatedTo( NavigationContext navigationContext )Sub OnNavigatedTo ( navigationContext As NavigationContext )
 
@@ -28,9 +25,7 @@ navigationContext
 Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 The navigation context.
 
-See Also
---------
-
+## See Also
 
 [INavigationAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware)
 

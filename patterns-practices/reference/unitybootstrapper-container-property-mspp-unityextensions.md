@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.Conta
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431399(v=PandP.50)'
 ---
 
-Prism Class Library
 
-UnityBootstrapper.Container Property
-========================================
+# UnityBootstrapper.Container Property
 
 Gets the default IUnityContainer for the application.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public IUnityContainer Container { get; protected set; }Public Property Container As IUnityContainer Get Protected Set
 ### Property Value
@@ -26,9 +23,7 @@ public IUnityContainer Container { get; protected set; }Public Property Containe
 Type: IUnityContainer
 The default IUnityContainer instance.
 
-See Also
---------
-
+## See Also
 
 [UnityBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
 

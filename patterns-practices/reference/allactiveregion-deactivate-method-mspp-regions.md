@@ -30,7 +30,6 @@ Public Overrides Sub Deactivate (
 )
 ```
 
-
 ### Parameters
 
 *view*

@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.IActiveAware'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430780(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IActiveAware Members
-====================
+# IActiveAware Members
 
 The [IActiveAware](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -36,8 +33,7 @@ Gets or sets a value indicating whether the object is active.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -60,9 +56,7 @@ Notifies that the value for <a href="https://msdn.microsoft.com/library/microsof
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IActiveAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware)
 

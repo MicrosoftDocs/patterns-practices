@@ -5,29 +5,24 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBeh
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405934(v=PandP.50)'
 ---
 
-Prism Class Library
 
-AutoPopulateRegionBehavior.CreateViewsToAutoPopulate Method
-===============================================================
+# AutoPopulateRegionBehavior.CreateViewsToAutoPopulate Method
 
 Returns a collection of views that will be added to the View collection.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 protected virtual IEnumerable&lt;Object&gt; CreateViewsToAutoPopulate()Protected Overridable Function CreateViewsToAutoPopulate As IEnumerable(Of Object)
 ### Return Value
 
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 
-See Also
---------
-
+## See Also
 
 [AutoPopulateRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior)
 

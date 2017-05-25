@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry.Pa
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736307(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionNavigationJournalEntry.Parameters Property
-====================================================
+# RegionNavigationJournalEntry.Parameters Property
 
 Gets or sets the NavigationParameters instance.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public NavigationParameters Parameters { get; set; }Public Property Parameters As NavigationParameters Get Set
 ### Property Value
@@ -28,9 +25,7 @@ Type: [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practi
 
 [IRegionNavigationJournalEntry.Parameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry.parameters)
 
-See Also
---------
-
+## See Also
 
 [RegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry)
 

@@ -5,26 +5,21 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.InnerLoad'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405881(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleCatalog.InnerLoad Method
-==================================
+# ModuleCatalog.InnerLoad Method
 
 Does the actual work of loading the catalog. The base implementation does nothing.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 protected virtual void InnerLoad()Protected Overridable Sub InnerLoad
 
-See Also
---------
-
+## See Also
 
 [ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 

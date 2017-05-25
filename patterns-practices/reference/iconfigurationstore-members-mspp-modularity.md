@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.IConfigurationSto
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430829(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IConfigurationStore Members
-===========================
+# IConfigurationStore Members
 
 The [IConfigurationStore](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iconfigurationstore) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -36,9 +33,7 @@ Gets the module configuration data.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IConfigurationStore Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iconfigurationstore)
 

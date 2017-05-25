@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPart
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405834(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # DownloadedPartCatalogCollection.Clear Method
 
@@ -28,7 +27,6 @@ Public Sub Clear
 ```
 
 ## See Also
-
 
 [DownloadedPartCatalogCollection Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection(v=pandp.50))
 

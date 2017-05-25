@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.ListDictionary\`2.Add'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419067(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Add Method
-================================================================
+# ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Add Method
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,9 +38,7 @@ Adds a value to a list with the given key. If a list does not already exist, it 
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 

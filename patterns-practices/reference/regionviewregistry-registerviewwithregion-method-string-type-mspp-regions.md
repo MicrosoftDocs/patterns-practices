@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionViewRegistry.RegisterView
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418981(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionViewRegistry.RegisterViewWithRegion Method (String, Type)
-===================================================================
+# RegionViewRegistry.RegisterViewWithRegion Method (String, Type)
 
 Registers a content type with a region name.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public void RegisterViewWithRegion( string regionName, Type viewType )Public Sub RegisterViewWithRegion ( regionName As String, viewType As Type )
 
@@ -36,9 +33,7 @@ Content type to be registered for the regionName.
 
 [IRegionViewRegistry.RegisterViewWithRegion(String, Type)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry.registerviewwithregion(system.string%2csystem.type))
 
-See Also
---------
-
+## See Also
 
 [RegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry)
 

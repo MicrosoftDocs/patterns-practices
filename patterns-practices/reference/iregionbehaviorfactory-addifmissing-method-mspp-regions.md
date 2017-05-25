@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory.AddIfMis
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405959(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionBehaviorFactory.AddIfMissing Method
-==============================================
+# IRegionBehaviorFactory.AddIfMissing Method
 
 Adds a particular type of RegionBehavior if it was not already registered. the behaviorKey string is used to check if the behavior is already present
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 void AddIfMissing( string behaviorKey, Type behaviorType )Sub AddIfMissing ( behaviorKey As String, behaviorType As Type )
 
@@ -32,9 +29,7 @@ behaviorType
 Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 Type of the behavior to add. .
 
-See Also
---------
-
+## See Also
 
 [IRegionBehaviorFactory Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory)
 

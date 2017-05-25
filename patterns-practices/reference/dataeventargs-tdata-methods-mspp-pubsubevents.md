@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.DataEventArgs\`1'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736212(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Methods
-=================================================
+# DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Methods
 
 The [DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dataeventargs%601) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -77,9 +74,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dataeventargs%601)
 

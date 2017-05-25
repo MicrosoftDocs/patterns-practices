@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleConfigurationEl
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419091(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleConfigurationElementCollection.CreateNewElement Method
-================================================================
+# ModuleConfigurationElementCollection.CreateNewElement Method
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -43,9 +40,7 @@ Creates a new <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">Configu
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 

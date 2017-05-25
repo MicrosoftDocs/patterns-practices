@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Events.DispatcherEventSubscr
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430769(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Members
-==================================================================
+# DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Members
 
 The [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +33,7 @@ Creates a new instance of BackgroundEventSubscription.
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -114,8 +110,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 |                                                                                                  | Name              | Description                                                                                                                                                         |
@@ -124,9 +119,7 @@ Properties
 | ![](https://msdn.microsoft.com/en-us/Gg430769.pubproperty(en-us,PandP.50).gif "Public property") | Filter            | (Inherited from EventSubscription&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)&gt;)&gt;).) |
 | ![](https://msdn.microsoft.com/en-us/Gg430769.pubproperty(en-us,PandP.50).gif "Public property") | SubscriptionToken | (Inherited from EventSubscription&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)&gt;)&gt;).) |
 
-See Also
---------
-
+## See Also
 
 [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)
 

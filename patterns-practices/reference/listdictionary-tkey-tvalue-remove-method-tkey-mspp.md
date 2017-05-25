@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.Remove(\`0)'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405804(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Remove Method (TKey)
-==========================================================================
+# ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Remove Method (TKey)
 
 Removes a list by key.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public bool Remove( TKey key )Public Function Remove ( key As TKey ) As Boolean
 
@@ -36,9 +33,7 @@ trueTruetruetrue (True in Visual Basic) if the element was removed.
 
 [IDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Remove(TKey)](http://msdn.microsoft.com/en-us/library/k8s489f0)
 
-See Also
---------
-
+## See Also
 
 [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 

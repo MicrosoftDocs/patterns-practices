@@ -5,7 +5,6 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.InvokeCommandA
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683973(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # InvokeCommandAction Properties
 
@@ -111,7 +110,6 @@ Gets or sets the TriggerParameterPath value.
 </table>
 
 ## See Also
-
 
 [InvokeCommandAction Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50))
 

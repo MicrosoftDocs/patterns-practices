@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializeException.\#
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405648(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleInitializeException Constructor (String, Exception)
-=========================================================
+# ModuleInitializeException Constructor (String, Exception)
 
 Initializes a new instance of the [ModuleInitializeException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public ModuleInitializeException( string message, Exception innerException )Public Sub New ( message As String, innerException As Exception )
 
@@ -32,9 +29,7 @@ innerException
 Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 The inner exception.
 
-See Also
---------
-
+## See Also
 
 [ModuleInitializeException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception)
 

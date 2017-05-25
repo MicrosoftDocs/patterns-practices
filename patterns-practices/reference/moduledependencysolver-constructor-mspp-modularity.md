@@ -5,26 +5,21 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencySolver.\#cto
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405640(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleDependencySolver Constructor
-==================================
+# ModuleDependencySolver Constructor
 
 Initializes a new instance of the [ModuleDependencySolver](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver) class
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public ModuleDependencySolver()Public Sub New
 
-See Also
---------
-
+## See Also
 
 [ModuleDependencySolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver)
 

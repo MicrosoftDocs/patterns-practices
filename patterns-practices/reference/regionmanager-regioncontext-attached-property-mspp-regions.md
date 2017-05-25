@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionManager.RegionContext'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431369(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # RegionManager.RegionContext Attached Property
 
@@ -31,7 +30,6 @@ See GetRegionContext, SetRegionContext
 Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 ## See Also
-
 
 [RegionManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager(v=pandp.50))
 

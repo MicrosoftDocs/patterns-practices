@@ -55,20 +55,17 @@ Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows .DefaultConfirmation
 ## See Also
 
 [DefaultConfirmationWindow Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow_members(v=pandp.50))
-[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows(v=pandp.50))
-=======
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
+# [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public class DefaultConfirmationWindow : Window, IComponentConnectorPublic Class DefaultConfirmationWindow Inherits Window Implements IComponentConnector
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [System.Windows.Threading.DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925)
@@ -81,9 +78,7 @@ Inheritance Hierarchy
                 [System.Windows.Window](http://msdn.microsoft.com/en-us/library/ms590112)
                   Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultConfirmationWindow
 
-See Also
---------
-
+## See Also
 
 [DefaultConfirmationWindow Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
 

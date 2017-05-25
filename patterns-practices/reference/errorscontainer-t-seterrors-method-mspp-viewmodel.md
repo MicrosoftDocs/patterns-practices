@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.Set
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419152(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ErrorsContainer&lt;T&gt;.SetErrors Method
-============================================================
+# ErrorsContainer&lt;T&gt;.SetErrors Method
 
-Overload List
--------------
+## Overload List
 
 <table>
 
@@ -40,9 +37,7 @@ Sets the validation errors for the specified property.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ErrorsContainer&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))
 

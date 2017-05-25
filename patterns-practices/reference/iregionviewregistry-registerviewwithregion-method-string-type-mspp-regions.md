@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionViewRegistry.RegisterVie
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405975(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionViewRegistry.RegisterViewWithRegion Method (String, Type)
-====================================================================
+# IRegionViewRegistry.RegisterViewWithRegion Method (String, Type)
 
 Registers a content type with a region name.
 
@@ -18,9 +16,7 @@ Registers a content type with a region name.
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 void RegisterViewWithRegion(
@@ -37,7 +33,6 @@ Sub RegisterViewWithRegion (
 )
 ```
 
-
 ### Parameters
 
 *regionName*
@@ -50,9 +45,7 @@ Region name to which the viewType will be registered.
 Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 Content type to be registered for the regionName.
 
-See Also
---------
-
+## See Also
 
 [IRegionViewRegistry Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionviewregistry(v=pandp.50))
 

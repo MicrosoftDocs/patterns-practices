@@ -5,29 +5,24 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleManager.ModuleCatalog'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431321(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleManager.ModuleCatalog Property
-========================================
+# ModuleManager.ModuleCatalog Property
 
 The module catalog specified in the constructor.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 protected IModuleCatalog ModuleCatalog { get; }Protected ReadOnly Property ModuleCatalog As IModuleCatalog Get
 ### Property Value
 
 Type: [IModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog)
 
-See Also
---------
-
+## See Also
 
 [ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
 

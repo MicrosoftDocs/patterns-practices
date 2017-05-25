@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.RegisterB
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405828(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # MefBootstrapper.RegisterBootstrapperProvidedTypes Method
 

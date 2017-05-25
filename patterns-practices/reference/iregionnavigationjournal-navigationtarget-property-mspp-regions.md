@@ -5,10 +5,8 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal.Naviga
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431345(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionNavigationJournal.NavigationTarget Property
-======================================================
+# IRegionNavigationJournal.NavigationTarget Property
 
 Gets or sets the target that implements INavigateAsync.
 
@@ -18,9 +16,7 @@ Gets or sets the target that implements INavigateAsync.
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-
 ## Syntax
-
 
 ```C#
 INavigateAsync NavigationTarget { get; set; }
@@ -37,14 +33,11 @@ Property NavigationTarget As INavigateAsync
 Type: [INavigateAsync](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync(v=pandp.50))
 The INavigate implementation.
 
-Remarks
--------
+## Remarks
 
  This is set by the owner of this journal.
 
-See Also
---------
-
+## See Also
 
 [IRegionNavigationJournal Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal(v=pandp.50))
 

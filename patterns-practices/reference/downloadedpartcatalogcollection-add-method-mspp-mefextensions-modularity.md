@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPart
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405833(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DownloadedPartCatalogCollection.Add Method
-==============================================
+# DownloadedPartCatalogCollection.Add Method
 
 Adds the specified catalog using the module info as a key.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public void Add( ModuleInfo moduleInfo, ComposablePartCatalog catalog )Public Sub Add ( moduleInfo As ModuleInfo, catalog As ComposablePartCatalog )
 
@@ -32,9 +29,7 @@ catalog
 Type: [System.ComponentModel.Composition.Primitives.ComposablePartCatalog](http://msdn.microsoft.com/en-us/library/dd454614)
 The catalog.
 
-See Also
---------
-
+## See Also
 
 [DownloadedPartCatalogCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection)
 

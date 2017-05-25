@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionContext'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431551(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # RegionContext Class
 
@@ -35,7 +34,6 @@ Public NotInheritable Class RegionContext
   Microsoft.Practices.Prism.Regions.RegionContext
 
 ## See Also
-
 
 [RegionContext Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regioncontext_members(v=pandp.50))
 

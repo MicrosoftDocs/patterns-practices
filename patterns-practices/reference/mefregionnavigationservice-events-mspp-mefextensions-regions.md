@@ -5,15 +5,12 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionN
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430891(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefRegionNavigationService Events
-=================================
+# MefRegionNavigationService Events
 
 The [MefRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -53,9 +50,7 @@ Raised when a navigation request fails.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [MefRegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice)
 

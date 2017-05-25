@@ -36,7 +36,6 @@ Public Sub OnUpdatingRegions (
 )
 ```
 
-
 ### Parameters
 
 *sender*

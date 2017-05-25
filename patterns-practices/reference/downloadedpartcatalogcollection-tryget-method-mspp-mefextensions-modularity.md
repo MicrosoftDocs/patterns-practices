@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPart
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405837(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DownloadedPartCatalogCollection.TryGet Method
-=================================================
+# DownloadedPartCatalogCollection.TryGet Method
 
 Tries to ge the catalog for the specified module info.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public bool TryGet( ModuleInfo moduleInfo, out ComposablePartCatalog catalog )Public Function TryGet ( moduleInfo As ModuleInfo, &lt;OutAttribute&gt; ByRef catalog As ComposablePartCatalog ) As Boolean
 
@@ -37,9 +34,7 @@ The catalog.
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 true if found; otherwise false;
 
-See Also
---------
-
+## See Also
 
 [DownloadedPartCatalogCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection)
 

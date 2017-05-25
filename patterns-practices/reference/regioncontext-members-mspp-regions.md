@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.RegionContext'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405506(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionContext Members
-=====================
+# RegionContext Members
 
 The [RegionContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regioncontext) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -36,9 +33,7 @@ Returns an <a href="https://msdn.microsoft.com/library/microsoft.practices.prism
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regioncontext)
 

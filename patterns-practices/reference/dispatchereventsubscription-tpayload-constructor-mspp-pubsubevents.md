@@ -5,18 +5,15 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscriptio
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736173(v=PandP.50)'
 ---
 
-Prism Class Library
 
-DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Constructor
-======================================================================
+# DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Constructor
 
 Creates a new instance of [BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.backgroundeventsubscription%601).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
 
 public DispatcherEventSubscription( IDelegateReference actionReference, IDelegateReference filterReference, SynchronizationContext context )Public Sub New ( actionReference As IDelegateReference, filterReference As IDelegateReference, context As SynchronizationContext )
 
@@ -34,8 +31,7 @@ context
 Type: [System.Threading.SynchronizationContext](http://msdn.microsoft.com/en-us/library/wx31754f)
 The synchronization context to use for UI thread dispatching.
 
-Exceptions
-----------
+## Exceptions
 
 <span id="exceptionsToggle"></span>
 | Exception                                                                             | Condition                                                                                                                                                                                                                                                                      |
@@ -43,9 +39,7 @@ Exceptions
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | When actionReference or are nullNothingnullptra null reference (Nothing in Visual Basic).                                                                                                                                                                                      |
 | [System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114)     | When the target of actionReference is not of type [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8), or the target of filterReference is not of type [Predicate&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/bfcke1bz). |
 
-See Also
---------
-
+## See Also
 
 [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dispatchereventsubscription%601)
 

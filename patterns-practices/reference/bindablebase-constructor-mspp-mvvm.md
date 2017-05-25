@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Mvvm.BindableBase.\#ctor'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683954(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # BindableBase Constructor
 
@@ -25,9 +24,7 @@ protected BindableBase()
 Protected Sub New
 ```
 
-See Also
---------
-
+## See Also
 
 [BindableBase Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase(v=pandp.50))
 

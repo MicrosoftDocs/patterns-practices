@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfo.InitializationMod
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431316(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleInfo.InitializationMode Property
 

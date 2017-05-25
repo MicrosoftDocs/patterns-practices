@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.ClearError
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg406216(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ErrorsContainer&lt;T&gt;.ClearErrors&lt;TProperty&gt; Method (Expression&lt;Func&lt;TProperty&gt;&gt;)
 
@@ -22,7 +21,6 @@ public void ClearErrors<TProperty>(
 	Expression<Func<TProperty>> propertyExpression
 )
 ```
-
 
 ### Parameters
 
@@ -63,7 +61,6 @@ Public Sub ClearErrors(Of TProperty) (
 )
 ```
 
-
 ### Parameters
 
 *propertyExpression*  
@@ -83,7 +80,6 @@ Public Sub ClearErrors(Of TProperty) (
 container.ClearErrors(()=&gt;SomeProperty);
 
 ## See Also
-
 
 [ErrorsContainer(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))
 

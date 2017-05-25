@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAt
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431272(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleExportAttribute.ModuleType Property
 
@@ -36,7 +35,6 @@ Type: [Type](http://msdn.microsoft.com/en-us/library/42892f65)
 [IModuleExport.ModuleType](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport.moduletype(v=pandp.50))
 
 ## See Also
-
 
 [ModuleExportAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute(v=pandp.50))
 

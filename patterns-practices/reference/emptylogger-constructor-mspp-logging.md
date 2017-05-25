@@ -5,26 +5,21 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Logging.EmptyLogger.\#ctor'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405572(v=PandP.50)'
 ---
 
-Prism Class Library
 
-EmptyLogger Constructor
-=======================
+# EmptyLogger Constructor
 
 Initializes a new instance of the [EmptyLogger](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.emptylogger) class
 
-**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
+**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public EmptyLogger()Public Sub New
 
-See Also
---------
-
+## See Also
 
 [EmptyLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.emptylogger)
 

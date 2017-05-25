@@ -5,20 +5,17 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleDependencyAttribute.Mo
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431297(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleDependencyAttribute.ModuleName Property
-=================================================
+# ModuleDependencyAttribute.ModuleName Property
 
 Gets the name of the module that this module is dependant upon.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public string ModuleName { get; }Public ReadOnly Property ModuleName As String Get
 ### Property Value
@@ -26,9 +23,7 @@ public string ModuleName { get; }Public ReadOnly Property ModuleName As String G
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the module that this module is dependant upon.
 
-See Also
---------
-
+## See Also
 
 [ModuleDependencyAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute)
 

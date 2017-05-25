@@ -5,15 +5,12 @@ ms:assetid: 'N:Microsoft.Practices.Prism.Interactivity'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg406220(v=PandP.50)'
 ---
 
-Prism Class Library
 
-Microsoft.Practices.Prism.Interactivity Namespace
-=================================================
+# Microsoft.Practices.Prism.Interactivity Namespace
 
  
 
-Classes
--------
+## Classes
 
 <span id="classToggle"></span>
 <table>

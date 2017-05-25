@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.ListDictionary\`2'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419175(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Properties
-============================================================
+# ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Properties
 
 The [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -57,9 +54,7 @@ Gets a shallow copy of all values in all lists.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 

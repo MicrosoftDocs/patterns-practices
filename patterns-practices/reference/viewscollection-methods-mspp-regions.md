@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.ViewsCollection'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431134(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ViewsCollection Methods
-=======================
+# ViewsCollection Methods
 
 The [ViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <table>
 
@@ -90,9 +87,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ViewsCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection)
 

@@ -5,26 +5,21 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDe
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405677(v=PandP.50)'
 ---
 
-Prism Class Library
 
-BindRegionContextToDependencyObjectBehavior Constructor
-=======================================================
+# BindRegionContextToDependencyObjectBehavior Constructor
 
 Initializes a new instance of the [BindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior) class
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public BindRegionContextToDependencyObjectBehavior()Public Sub New
 
-See Also
---------
-
+## See Also
 
 [BindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior)
 

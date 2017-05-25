@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Pu
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405767(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # CompositePresentationEvent&lt;TPayload&gt;.Publish Method
 
@@ -25,7 +24,6 @@ public virtual void Publish(
 )
 ```
 
-
 ### Parameters
 
 *payload*  
@@ -36,14 +34,12 @@ Message to pass to the subscribers.
 
 See Also
 
-
 [CompositePresentationEvent&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))
 
 [CompositePresentationEvent&lt;TPayload&gt; Members](https://msdn.microsoft.com/en-us/library/gg430765(v=pandp.50))
 
 [Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
 
-Prism Class Library
 
 # CompositePresentationEvent(Of TPayload).Publish Method
 
@@ -64,7 +60,6 @@ Public Overridable Sub Publish (
 )
 ```
 
-
 ### Parameters
 
 *payload*  
@@ -74,7 +69,6 @@ Type: [TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))
 Message to pass to the subscribers.
 
 ## See Also
-
 
 [CompositePresentationEvent(Of TPayload) Class](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))
 

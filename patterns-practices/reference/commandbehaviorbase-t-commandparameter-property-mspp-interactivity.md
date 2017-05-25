@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase\`1.Co
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683970(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # CommandBehaviorBase&lt;T&gt;.CommandParameter Property
 

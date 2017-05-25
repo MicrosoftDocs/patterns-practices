@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddModule(Micr
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405868(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleCatalog.AddModule Method (ModuleInfo)
-===============================================
+# ModuleCatalog.AddModule Method (ModuleInfo)
 
 Adds a [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) to the [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public virtual void AddModule( ModuleInfo moduleInfo )Public Overridable Sub AddModule ( moduleInfo As ModuleInfo )
 
@@ -36,9 +33,7 @@ The [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism
 
 [IModuleCatalog.AddModule(ModuleInfo)](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog.addmodule(microsoft.practices.prism.modularity.moduleinfo))
 
-See Also
---------
-
+## See Also
 
 [ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 

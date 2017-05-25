@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.CanExecute(Sy
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405748(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # CompositeCommand.CanExecute Method
 
@@ -29,7 +28,6 @@ Public Overridable Function CanExecute (
 ) As Boolean
 ```
 
-
 ### Parameters
 
 *parameter*  
@@ -47,7 +45,6 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 [ICommand.CanExecute(Object)](http://msdn.microsoft.com/en-us/library/ms604093)
 
 ## See Also
-
 
 [CompositeCommand Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand(v=pandp.50))
 

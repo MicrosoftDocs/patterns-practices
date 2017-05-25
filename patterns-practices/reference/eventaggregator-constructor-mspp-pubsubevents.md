@@ -14,26 +14,20 @@ Initializes a new instance of the [EventAggregator](https://msdn.microsoft.com/e
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
-=======
-
+# 
 
 public EventAggregator()Public Sub New
-
 
 ```C#
 public EventAggregator()
 ```
 
-
 ```VB
 'Declaration
 Public Sub New
-```
-=======
+# ```
 
 [EventAggregator Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventaggregator)
-
 
 ## See Also
 

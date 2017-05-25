@@ -5,34 +5,28 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader.Dispose
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405851(v=PandP.50)'
 ---
 
-Prism Class Library
 
-FileModuleTypeLoader.Dispose Method
-=======================================
+# FileModuleTypeLoader.Dispose Method
 
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public void Dispose()Public Sub Dispose
 ### Implements
 
 [IDisposable.Dispose()()()](http://msdn.microsoft.com/en-us/library/es4s3w1d)
 
-Remarks
--------
+## Remarks
 
 Calls [Dispose(Boolean)](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.dispose(system.boolean))
 
-See Also
---------
-
+## See Also
 
 [FileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader)
 

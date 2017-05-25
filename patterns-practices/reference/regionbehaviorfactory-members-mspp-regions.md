@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.RegionBehaviorFactor
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405505(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionBehaviorFactory Members
-=============================
+# RegionBehaviorFactory Members
 
 The [RegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +33,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -129,9 +125,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionBehaviorFactory Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory)
 

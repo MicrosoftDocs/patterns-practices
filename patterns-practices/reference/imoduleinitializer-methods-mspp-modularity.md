@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.IModuleInitializer'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431044(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IModuleInitializer Methods
-==========================
+# IModuleInitializer Methods
 
 The [IModuleInitializer](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduleinitializer) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -36,9 +33,7 @@ Initializes the specified module.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IModuleInitializer Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduleinitializer)
 

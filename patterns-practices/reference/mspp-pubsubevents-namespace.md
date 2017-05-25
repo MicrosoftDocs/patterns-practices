@@ -5,7 +5,6 @@ ms:assetid: 'N:Microsoft.Practices.Prism.PubSubEvents'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683966(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # Microsoft.Practices.Prism.PubSubEvents Namespace
 

@@ -5,15 +5,12 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.AllActiveRegion'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430898(v=PandP.50)'
 ---
 
-Prism Class Library
 
-AllActiveRegion Events
-======================
+# AllActiveRegion Events
 
 The [AllActiveRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.allactiveregion(v=pandp.50)) type exposes the following members.
 
-Events
-------
+## Events
 
 <table>
 
@@ -36,9 +33,7 @@ Occurs when a property value changes.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [AllActiveRegion Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.allactiveregion(v=pandp.50))
 

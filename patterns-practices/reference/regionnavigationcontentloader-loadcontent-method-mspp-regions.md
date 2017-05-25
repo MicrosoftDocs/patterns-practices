@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader.L
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418972(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionNavigationContentLoader.LoadContent Method
-====================================================
+# RegionNavigationContentLoader.LoadContent Method
 
 Gets the view to which the navigation request represented by navigationContext applies.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public Object LoadContent( IRegion region, NavigationContext navigationContext )Public Function LoadContent ( region As IRegion, navigationContext As NavigationContext ) As Object
 
@@ -40,22 +37,18 @@ The view to be the target of the navigation request.
 
 [IRegionNavigationContentLoader.LoadContent(IRegion, NavigationContext)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader.loadcontent(microsoft.practices.prism.regions.iregion%2cmicrosoft.practices.prism.regions.navigationcontext))
 
-Remarks
--------
+## Remarks
 
  If none of the views in the region can be the target of the navigation request, a new view is created and added to the region.
 
-Exceptions
-----------
+## Exceptions
 
 <span id="exceptionsToggle"></span>
 | Exception                                                                         | Condition                                                     |
 |-----------------------------------------------------------------------------------|---------------------------------------------------------------|
 | [System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114) | when a new view cannot be created for the navigation request. |
 
-See Also
---------
-
+## See Also
 
 [RegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader)
 

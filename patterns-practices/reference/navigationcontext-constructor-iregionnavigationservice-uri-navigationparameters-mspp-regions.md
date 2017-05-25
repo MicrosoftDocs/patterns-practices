@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationContext.\#ctor(Micros
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736208(v=PandP.50)'
 ---
 
-Prism Class Library
 
-NavigationContext Constructor (IRegionNavigationService, Uri, NavigationParameters)
-===================================================================================
+# NavigationContext Constructor (IRegionNavigationService, Uri, NavigationParameters)
 
 Initializes a new instance of the [NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext) class for a region name and a [Uri](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.uri).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public NavigationContext( IRegionNavigationService navigationService, Uri uri, NavigationParameters navigationParameters )Public Sub New ( navigationService As IRegionNavigationService, uri As Uri, navigationParameters As NavigationParameters )
 
@@ -36,9 +33,7 @@ navigationParameters
 Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
 The navigation parameters.
 
-See Also
---------
-
+## See Also
 
 [NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 

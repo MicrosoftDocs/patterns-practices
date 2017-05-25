@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.IRegionViewRegistry.Regi
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419130(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionViewRegistry.RegisterViewWithRegion Method
-=====================================================
+# IRegionViewRegistry.RegisterViewWithRegion Method
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,9 +38,7 @@ Registers a content type with a region name.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IRegionViewRegistry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry)
 

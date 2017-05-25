@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationJournal.RecordN
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418977(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionNavigationJournal.RecordNavigation Method
-===================================================
+# RegionNavigationJournal.RecordNavigation Method
 
 Records the navigation to the entry..
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public void RecordNavigation( IRegionNavigationJournalEntry entry )Public Sub RecordNavigation ( entry As IRegionNavigationJournalEntry )
 
@@ -32,9 +29,7 @@ The entry to record.
 
 [IRegionNavigationJournal.RecordNavigation(IRegionNavigationJournalEntry)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal.recordnavigation(microsoft.practices.prism.regions.iregionnavigationjournalentry))
 
-See Also
---------
-
+## See Also
 
 [RegionNavigationJournal Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal)
 

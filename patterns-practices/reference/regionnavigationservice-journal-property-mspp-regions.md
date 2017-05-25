@@ -5,7 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationService.Journal
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431384(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # RegionNavigationService.Journal Property
 
@@ -39,7 +38,6 @@ Type: [IRegionNavigationJournal](https://msdn.microsoft.com/en-us/library/micros
 [IRegionNavigationService.Journal](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice.journal(v=pandp.50))
 
 ## See Also
-
 
 [RegionNavigationService Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice(v=pandp.50))
 

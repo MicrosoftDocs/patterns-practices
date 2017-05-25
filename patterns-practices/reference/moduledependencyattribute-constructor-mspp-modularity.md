@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencyAttribute.\#
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405635(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleDependencyAttribute Constructor
-=====================================
+# ModuleDependencyAttribute Constructor
 
 Initializes a new instance of [ModuleDependencyAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public ModuleDependencyAttribute( string moduleName )Public Sub New ( moduleName As String )
 
@@ -28,9 +25,7 @@ moduleName
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the module that this module is dependant upon.
 
-See Also
---------
-
+## See Also
 
 [ModuleDependencyAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute)
 

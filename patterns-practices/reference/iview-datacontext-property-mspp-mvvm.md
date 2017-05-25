@@ -5,25 +5,20 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Mvvm.IView.DataContext'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736272(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IView.DataContext Property
-==============================
+# IView.DataContext Property
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
 
 Object DataContext { get; set; }Property DataContext As Object Get Set
 ### Property Value
 
 Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-See Also
---------
-
+## See Also
 
 [IView Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.iview)
 

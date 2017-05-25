@@ -5,15 +5,12 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.IRegionNavigationService
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430902(v=PandP.50)'
 ---
 
-Prism Class Library
 
-IRegionNavigationService Events
-===============================
+# IRegionNavigationService Events
 
 The [IRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -50,9 +47,7 @@ Raised when a navigation request fails.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IRegionNavigationService Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice)
 

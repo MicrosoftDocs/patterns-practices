@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683938(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # PubSubEvent(Of TPayload) Methods
 

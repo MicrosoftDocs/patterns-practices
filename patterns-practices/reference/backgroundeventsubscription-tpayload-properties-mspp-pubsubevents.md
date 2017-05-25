@@ -5,17 +5,13 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.BackgroundEvent
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736260(v=PandP.50)'
 ---
 
-# BackgroundEventSubscription(Of TPayload) Properties
-=======
-Prism Class Library
+# # BackgroundEventSubscription(Of TPayload) Properties
 
-BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
-=====================================================================
+# BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
 
 The [BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.backgroundeventsubscription%601) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>

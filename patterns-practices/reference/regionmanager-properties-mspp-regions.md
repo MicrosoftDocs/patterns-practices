@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionManager'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431212(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionManager Properties
-========================
+# RegionManager Properties
 
 The [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -36,9 +33,7 @@ Gets a collection of <a href="https://msdn.microsoft.com/library/microsoft.pract
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)
 

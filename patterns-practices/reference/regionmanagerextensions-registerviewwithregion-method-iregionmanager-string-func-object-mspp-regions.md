@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManagerExtensions.Registe
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg406467(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionManagerExtensions.RegisterViewWithRegion Method (IRegionManager, String, Func&lt;(Of &lt;(Object&gt;)&gt;))
-=====================================================================================================================
+# RegionManagerExtensions.RegisterViewWithRegion Method (IRegionManager, String, Func&lt;(Of &lt;(Object&gt;)&gt;))
 
 Associate a view with a region, using a delegate to resolve a concreate instance of the view. When the region get's displayed, this delelgate will be called and the result will be added to the views collection of the region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public static IRegionManager RegisterViewWithRegion( this IRegionManager regionManager, string regionName, Func&lt;Object&gt; getContentDelegate )&lt;ExtensionAttribute&gt; Public Shared Function RegisterViewWithRegion ( regionManager As IRegionManager, regionName As String, getContentDelegate As Func(Of Object) ) As IRegionManager
 
@@ -44,9 +41,7 @@ The regionmanager, for adding several views easily
 
 In Visual Basic and C\#, you can call this method as an instance method on any object of type [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 
-See Also
---------
-
+## See Also
 
 [RegionManagerExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions)
 

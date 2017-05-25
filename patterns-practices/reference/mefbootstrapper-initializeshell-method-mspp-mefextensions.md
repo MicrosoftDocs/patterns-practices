@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.Initializ
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405827(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # MefBootstrapper.InitializeShell Method
 

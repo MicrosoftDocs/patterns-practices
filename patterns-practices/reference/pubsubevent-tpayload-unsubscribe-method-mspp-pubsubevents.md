@@ -5,13 +5,10 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Unsu
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736175(v=PandP.50)'
 ---
 
-Prism Class Library
 
-PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Unsubscribe Method
-=================================================================
+# PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Unsubscribe Method
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -42,9 +39,7 @@ Removes the subscriber matching the <a href="https://msdn.microsoft.com/library/
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601)
 

@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionAdapterBase\`1'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431546(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # RegionAdapterBase&lt;T&gt; Class
 
@@ -48,7 +47,6 @@ Type of object to adapt.
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-Prism Class Library
 
 # RegionAdapterBase(Of T) Class
 
@@ -62,7 +60,6 @@ Base class to facilitate the creation of [IRegionAdapter](https://msdn.microsoft
 
 ## 
 ## Syntax
-
 
 ```VB
 'Declaration
@@ -90,7 +87,6 @@ https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.items
     [Microsoft.Practices.Prism.Regions.SelectorRegionAdapter](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.selectorregionadapter(v=pandp.50))
 
 ## See Also
-
 
 [RegionAdapterBase(Of T) Members](https://msdn.microsoft.com/en-us/library/gg405501(v=pandp.50))
 

@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.SingleActiveRegion'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431220(v=PandP.50)'
 ---
 
-Prism Class Library
 
-SingleActiveRegion Properties
-=============================
+# SingleActiveRegion Properties
 
 The [SingleActiveRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.singleactiveregion(v=pandp.50)) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <table>
 
@@ -100,9 +97,7 @@ Gets a readonly view of the collection of views in the region.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [SingleActiveRegion Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.singleactiveregion(v=pandp.50))
 

@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManager.SetRegionName(Sys
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg418967(v=PandP.50)'
 ---
 
-Prism Class Library
 
-RegionManager.SetRegionName Method
-======================================
+# RegionManager.SetRegionName Method
 
 Sets the [RegionNameProperty](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionnameproperty) attached property.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public static void SetRegionName( DependencyObject regionTarget, string regionName )Public Shared Sub SetRegionName ( regionTarget As DependencyObject, regionName As String )
 
@@ -32,9 +29,7 @@ regionName
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region to register.
 
-See Also
---------
-
+## See Also
 
 [RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)
 

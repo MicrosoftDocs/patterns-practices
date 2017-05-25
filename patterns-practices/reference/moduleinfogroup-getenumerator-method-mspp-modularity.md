@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.GetEnumerato
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405909(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleInfoGroup.GetEnumerator Method
 
@@ -48,9 +47,7 @@ A [IEnumerator(Of T)](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can
 
 [IEnumerable(Of T).GetEnumerator](http://msdn.microsoft.com/en-us/library/s793z9y2)
 
-## See Also
---------
-
+## ## See Also
 
 [ModuleInfoGroup Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50))
 

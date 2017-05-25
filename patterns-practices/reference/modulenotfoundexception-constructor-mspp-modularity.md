@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleNotFoundException.\#ct
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405655(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleNotFoundException Constructor
 

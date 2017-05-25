@@ -5,20 +5,17 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleIniti
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405840(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefModuleInitializer.CreateModule Method (ModuleInfo)
-=========================================================
+# MefModuleInitializer.CreateModule Method (ModuleInfo)
 
 Uses the container to resolve a new [IModule](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule) by specifying its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 protected override IModule CreateModule( ModuleInfo moduleInfo )Protected Overrides Function CreateModule ( moduleInfo As ModuleInfo ) As IModule
 
@@ -33,9 +30,7 @@ The module to create.
 Type: [IModule](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule)
 A new instance of the module specified by moduleInfo.
 
-See Also
---------
-
+## See Also
 
 [MefModuleInitializer Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer)
 

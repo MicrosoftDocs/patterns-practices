@@ -20,14 +20,12 @@ public PubSubEvent()
 
 ## See Also
 
-
 [PubSubEvent&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50))
 
 PubSubEvent&lt;TPayload&gt; Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
-
----------------------------------------------------------------------------------
+## 
 
 # PubSubEvent(Of TPayload) Constructor
 
@@ -45,7 +43,6 @@ Public Sub New
 ```
 
 ## See Also
-
 
 [PubSubEvent(Of TPayload) Class](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50))
 

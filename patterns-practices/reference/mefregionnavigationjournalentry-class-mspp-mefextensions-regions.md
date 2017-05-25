@@ -11,18 +11,15 @@ Exports the RegionNavigationJournalEntry using the Managed Extensibility Framewo
 
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions(v=pandp.50))
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
-=======
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+# **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
 public class MefRegionNavigationJournalEntry : RegionNavigationJournalEntryPublic Class MefRegionNavigationJournalEntry Inherits RegionNavigationJournalEntry
-
 
 ## Syntax
 ```c#
@@ -41,8 +38,7 @@ Public Class MefRegionNavigationJournalEntry
 
 [Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournalentry(v=pandp.50))
 
-
-=======
+# 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry)
 
@@ -50,10 +46,8 @@ Public Class MefRegionNavigationJournalEntry
 
 ## See Also
 
-[MefRegionNavigationJournalEntry Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry_members(v=pandp.50))
-=======
+# [MefRegionNavigationJournalEntry Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry_members(v=pandp.50))
 
 [MefRegionNavigationJournalEntry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry)
-
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions(v=pandp.50))

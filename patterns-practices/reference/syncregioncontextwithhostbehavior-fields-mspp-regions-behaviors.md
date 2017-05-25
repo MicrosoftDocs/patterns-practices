@@ -5,15 +5,12 @@ ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionCont
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg430952(v=PandP.50)'
 ---
 
-Prism Class Library
 
-SyncRegionContextWithHostBehavior Fields
-========================================
+# SyncRegionContextWithHostBehavior Fields
 
 The [SyncRegionContextWithHostBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior) type exposes the following members.
 
-Fields
-------
+## Fields
 
 <span id="fieldTableToggle"></span>
 <table>
@@ -36,9 +33,7 @@ Name that identifies the SyncRegionContextWithHostBehavior behavior in a collect
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [SyncRegionContextWithHostBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior)
 

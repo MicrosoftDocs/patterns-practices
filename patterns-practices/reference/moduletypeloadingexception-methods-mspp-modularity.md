@@ -5,15 +5,12 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingExc
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431067(v=PandP.50)'
 ---
 
-Prism Class Library
 
-ModuleTypeLoadingException Methods
-==================================
+# ModuleTypeLoadingException Methods
 
 The [ModuleTypeLoadingException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadingexception(v=pandp.50)) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <table>
 

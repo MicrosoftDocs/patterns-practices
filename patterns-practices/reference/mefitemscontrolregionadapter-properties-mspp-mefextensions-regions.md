@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefIte
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419189(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefItemsControlRegionAdapter Properties
-=======================================
+# MefItemsControlRegionAdapter Properties
 
 The [MefItemsControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefitemscontrolregionadapter) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -37,9 +34,7 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [MefItemsControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefitemscontrolregionadapter)
 

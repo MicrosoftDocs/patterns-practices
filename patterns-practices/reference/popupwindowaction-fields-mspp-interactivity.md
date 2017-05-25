@@ -5,7 +5,6 @@ ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Interactivity.PopupWindowAction'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736116(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # PopupWindowAction Fields
 
@@ -48,7 +47,6 @@ The content of the child window to display as part of the popup.
 </table>
 
 ## See Also
-
 
 [PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
 

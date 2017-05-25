@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleInitializeExce
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg431061(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # ModuleInitializeException Methods
 
@@ -114,7 +113,6 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 </table>
 
 ## See Also
-
 
 [ModuleInitializeException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception(v=pandp.50))
 

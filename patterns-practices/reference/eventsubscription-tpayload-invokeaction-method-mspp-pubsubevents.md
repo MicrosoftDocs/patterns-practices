@@ -22,7 +22,6 @@ public virtual void InvokeAction(
 )
 ```
 
-
 ### Parameters
 
 *action*  
@@ -66,7 +65,6 @@ Public Overridable Sub InvokeAction (
 	argument As TPayload
 )
 ```
-
 
 ### Parameters
 

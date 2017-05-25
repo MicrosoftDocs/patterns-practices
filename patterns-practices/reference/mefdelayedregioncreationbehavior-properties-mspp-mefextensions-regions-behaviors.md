@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behavi
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg419182(v=PandP.50)'
 ---
 
-Prism Class Library
 
-MefDelayedRegionCreationBehavior Properties
-===========================================
+# MefDelayedRegionCreationBehavior Properties
 
 The [MefDelayedRegionCreationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -45,9 +42,7 @@ The element that will host the Region.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [MefDelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior)
 
