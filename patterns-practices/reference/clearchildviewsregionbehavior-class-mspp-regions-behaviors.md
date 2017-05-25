@@ -5,8 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegion
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683932(v=PandP.50)'
 ---
 
-Prism Class Library
-
 # ClearChildViewsRegionBehavior Class
 
 Behavior that removes the RegionManager attached property of all the views in a region once the RegionManager property of a region becomes null. This is useful when removing views with nested regions, to ensure these nested regions get removed from the RegionManager as well.
@@ -17,9 +15,7 @@ This behavior does not apply by default. In order to activate it, the ClearChild
 
 **Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
-**Version:** 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
