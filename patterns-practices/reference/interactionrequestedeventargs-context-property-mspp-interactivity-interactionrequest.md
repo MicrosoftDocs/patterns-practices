@@ -25,9 +25,7 @@ public INotification Context { get; }Public ReadOnly Property Context As INotifi
 
 Type: [INotification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification)
 
-See Also
---------
-
+## See Also
 
 [InteractionRequestedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)
 
