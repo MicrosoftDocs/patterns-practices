@@ -7,27 +7,33 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736285(v=PandP.50)'
 
 Prism Class Library
 
-DefaultConfirmationWindow..::.Confirmation Property
-===================================================
+# DefaultConfirmationWindow.Confirmation Property
 
-Sets or gets the [IConfirmation](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iconfirmation) shown by this window./&gt;
+Sets or gets the [IConfirmation](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation(v=pandp.50)) shown by this window./&gt;
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.defaultpopupwindows)
+
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
-Syntax
-------
 
-<span id="syntaxToggle"></span>public IConfirmation Confirmation { get; set; }Public Property Confirmation As IConfirmation Get Set
-#### Property Value
+## Syntax
+```C#
+public IConfirmation Confirmation { get; set; }
+```
 
-Type: [IConfirmation](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.interactionrequest.iconfirmation)
+```VB
+'Declaration
+Public Property Confirmation As IConfirmation
+	Get
+	Set
+```
+### Property Value
 
-See Also
---------
+Type: [IConfirmation](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation(v=pandp.50))
 
-<span id="seeAlsoToggle"></span>
-[DefaultConfirmationWindow Class](https://msdn.microsoft.com/t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
+## See Also
 
-[DefaultConfirmationWindow Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
+[DefaultConfirmationWindow Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow(v=pandp.50))
 
-[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.defaultpopupwindows)
+[DefaultConfirmationWindow Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow_members(v=pandp.50))
+
+[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows(v=pandp.50))
