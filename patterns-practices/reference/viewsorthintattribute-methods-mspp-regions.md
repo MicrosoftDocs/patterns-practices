@@ -96,5 +96,5 @@ The [ViewSortHintAttribute](viewsorthintattribute-class-mspp-regions.md) type ex
 
 [ViewSortHintAttribute Class](viewsorthintattribute-class-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](hmspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
 

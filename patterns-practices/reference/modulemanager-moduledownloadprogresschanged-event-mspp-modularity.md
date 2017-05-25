@@ -48,4 +48,4 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of
 
 [ModuleManager Members](modulemanager-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](hmspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
