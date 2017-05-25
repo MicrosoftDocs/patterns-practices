@@ -7,24 +7,21 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736115(v=PandP.50)'
 
 Prism Class Library
 
-DelegateCommandBase Fields
-==========================
+# DelegateCommandBase Fields
 
 The [DelegateCommandBase](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase) type exposes the following members.
 
-Fields
-------
+## Fields
 
-<span id="fieldTableToggle"></span>
 |                                                                                                | Name                                                                                                                        | Description |
 |------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------|
 | ![](https://msdn.microsoft.com/en-us/Dn736115.protfield(en-us,PandP.50).gif "Protected field") | [\_canExecuteMethod](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase._canexecutemethod) |             |
 | ![](https://msdn.microsoft.com/en-us/Dn736115.protfield(en-us,PandP.50).gif "Protected field") | [\_executeMethod](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase._executemethod)       |             |
 
-See Also
---------
+
+## See Also
 
 
-[DelegateCommandBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)
+[DelegateCommandBase Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase)
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)

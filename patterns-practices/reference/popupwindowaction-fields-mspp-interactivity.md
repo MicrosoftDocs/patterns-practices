@@ -7,15 +7,12 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736116(v=PandP.50)'
 
 Prism Class Library
 
-PopupWindowAction Fields
-========================
+# PopupWindowAction Fields
 
 The [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction) type exposes the following members.
 
-Fields
-------
+## Fields
 
-<span id="fieldTableToggle"></span>
 <table>
 
 <thead>
@@ -50,8 +47,7 @@ The content of the child window to display as part of the popup.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
 
 [PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)

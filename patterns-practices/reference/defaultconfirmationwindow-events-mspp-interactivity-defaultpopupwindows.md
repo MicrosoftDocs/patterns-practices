@@ -7,15 +7,12 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736125(v=PandP.50)'
 
 Prism Class Library
 
-DefaultConfirmationWindow Events
-================================
+# DefaultConfirmationWindow Events
 
 The [DefaultConfirmationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow) type exposes the following members.
 
-Events
-------
+## Events
 
-<span id="eventTableToggle"></span>
 <table>
 
 <thead>
@@ -973,8 +970,7 @@ Occurs when the element is removed from within an element tree of loaded element
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
 
 [DefaultConfirmationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
