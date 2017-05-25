@@ -5,6 +5,8 @@ ms:assetid: 'T:Microsoft.Practices.Prism.PubSubEvents.IEventAggregator'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736250(v=PandP.50)'
 ---
 
+# IEventAggregator Interface
+=======
 Prism Class Library
 
 IEventAggregator Interface

@@ -5,8 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.DataEventArgs\`
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736256(v=PandP.50)'
 ---
 
-Prism Class Library
+# DataEventArgs(Of TData) Properties
 
+The [DataEventArgs(Of TData)](https://msdn.microsoft.com/en-us/library/dn736191(v=pandp.50)) type exposes the following members.
+
+## Properties
+=======
 DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Properties
 ====================================================
 
@@ -36,6 +40,10 @@ Gets the information related to the event.
 </tbody>
 </table>
 
+## See Also
+
+[DataEventArgs(Of TData) Class](https://msdn.microsoft.com/en-us/library/dn736191(v=pandp.50))
+=======
 See Also
 --------
 

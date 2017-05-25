@@ -5,6 +5,8 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.BackgroundEvent
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736260(v=PandP.50)'
 ---
 
+# BackgroundEventSubscription(Of TPayload) Properties
+=======
 Prism Class Library
 
 BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
@@ -53,9 +55,7 @@ Gets or sets a <a href="https://msdn.microsoft.com/library/microsoft.practices.p
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.backgroundeventsubscription%601)
 

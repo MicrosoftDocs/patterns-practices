@@ -5,6 +5,8 @@ ms:assetid: 'T:Microsoft.Practices.Prism.PubSubEvents.DelegateReference'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736244(v=PandP.50)'
 ---
 
+# DelegateReference Class
+=======
 Prism Class Library
 
 DelegateReference Class

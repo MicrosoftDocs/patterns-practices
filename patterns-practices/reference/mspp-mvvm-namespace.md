@@ -5,15 +5,9 @@ ms:assetid: 'N:Microsoft.Practices.Prism.Mvvm'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736243(v=PandP.50)'
 ---
 
-Prism Class Library
+# Microsoft.Practices.Prism.Mvvm Namespace
 
-Microsoft.Practices.Prism.Mvvm Namespace
-========================================
-
- 
-
-Classes
--------
+## Classes
 
 <span id="classToggle"></span>
 <table>
@@ -50,8 +44,7 @@ The ViewModelLocationProvider class locates the view model for the view that has
 </tbody>
 </table>
 
-Interfaces
-----------
+## Interfaces
 
 <span id="interfaceToggle"></span>
 |                                                                                                    | Interface                                                                  | Description |
