@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683927(v=PandP.50)'
 ---
 
-Prism Class Library
 
 # SubscriptionToken Methods
 

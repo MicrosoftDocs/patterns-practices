@@ -5,6 +5,8 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.CommandBehaviorBa
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736245(v=PandP.50)'
 ---
 
+# CommandBehaviorBase(Of T) Methods
+=======
 Prism Class Library
 
 CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Methods
@@ -91,9 +93,7 @@ Updates the target object's IsEnabled property based on the commands ability to 
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601)
 

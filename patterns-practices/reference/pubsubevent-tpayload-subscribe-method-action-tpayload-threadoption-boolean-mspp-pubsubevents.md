@@ -5,11 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Subscribe(S
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683942(v=PandP.50)'
 ---
 
-Prism Class Library
 
-PubSubEvent&lt;TPayload&gt;.Subscribe Method (Action&lt;TPayload&gt;, ThreadOption, Boolean)
-==============================================================================================================================
-
+## PubSubEvent&lt;TPayload&gt;.Subscribe Method (Action&lt;TPayload&gt;, ThreadOption, Boolean)
 Subscribes a delegate to an event.
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))

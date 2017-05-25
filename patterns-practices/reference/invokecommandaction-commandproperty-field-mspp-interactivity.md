@@ -5,13 +5,15 @@ ms:assetid: 'F:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.Comma
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736221(v=PandP.50)'
 ---
 
-Prism Class Library
-
 InvokeCommandAction.CommandProperty Field
 =============================================
 
 Dependency property identifying the command to execute when invoked.
 
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+
+
+=======
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -19,18 +21,27 @@ Dependency property identifying the command to execute when invoked.
 
 ## Syntax
 
+```C#
+public static readonly DependencyProperty CommandProperty
+```
+ 
+```VB
+'Declaration
+Public Shared ReadOnly CommandProperty As DependencyProperty
+``` 
 
-public static readonly DependencyProperty CommandPropertyPublic Shared ReadOnly CommandProperty As DependencyProperty
 ### Field Value
 
 Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 
-See Also
---------
+## See Also
 
-
+[InvokeCommandAction Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50))
+=======
 [InvokeCommandAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction)
 
-[InvokeCommandAction Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.invokecommandaction)
+[InvokeCommandAction Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction_members(v=pandp.50))
 
+[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+=======
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)

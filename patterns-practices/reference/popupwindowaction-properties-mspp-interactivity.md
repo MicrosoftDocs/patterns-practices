@@ -7,9 +7,12 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736288(v=PandP.50)'
 
 Prism Class Library
 
-PopupWindowAction Properties
-============================
+# PopupWindowAction Properties
 
+The [PopupWindowAction](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction(v=pandp.50)) type exposes the following members.
+
+## Properties
+=======
 The [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction) type exposes the following members.
 
 Properties
@@ -29,11 +32,15 @@ Properties
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736288.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
 <td>AssociatedObject</td>
+<td>(Inherited from TriggerAction(Of [FrameworkElement](http://msdn2.microsoft.com/en-us/library/ms602714)).)</td>
+=======
 <td>(Inherited from TriggerAction&lt;(Of &lt;(<a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>&gt;)&gt;).)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736288.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
 <td>AssociatedObjectTypeConstraint</td>
+<td>(Inherited from TriggerAction(Of [FrameworkElement](http://msdn2.microsoft.com/en-us/library/ms602714)).)</td>
+=======
 <td>(Inherited from TriggerAction&lt;(Of &lt;(<a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>&gt;)&gt;).)</td>
 </tr>
 <tr class="odd">
@@ -113,9 +120,12 @@ Gets or sets the content of the window.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
+[PopupWindowAction Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction(v=pandp.50))
+
+[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+=======
 
 [PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
 

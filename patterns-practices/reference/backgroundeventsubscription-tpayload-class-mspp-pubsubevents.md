@@ -5,10 +5,7 @@ ms:assetid: 'T:Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscriptio
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683933(v=PandP.50)'
 ---
 
-Prism Class Library
-
-BackgroundEventSubscription(Of TPayload) Class
-================================================================
+# BackgroundEventSubscription(Of TPayload) Class
 
 Extends [EventSubscription(Of TPayload)](https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)) to invoke the [Action](https://msdn.microsoft.com/en-us/library/dn736296(v=pandp.50)) delegate in a background thread.
 
@@ -29,24 +26,20 @@ Extends [EventSubscription(Of TPayload)](https://msdn.microsoft.com/en-us/librar
 	   Inherits EventSubscription(Of TPayload)
 ```
 
-Type Parameters
----------------
+## Type Parameters
 
 <span id="templatesToggle"></span>
 *TPayload*  
     The type to use for the generic [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) and [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz) types.
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   
   [Microsoft.Practices.Prism.PubSubEvents.EventSubscription](https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50))(Of TPayload)
     Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscription(Of TPayload)
 
-See Also
---------
-
+## See Also
 
 BackgroundEventSubscription(Of TPayload) Members
 

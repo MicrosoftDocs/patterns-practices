@@ -7,15 +7,14 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn736290(v=PandP.50)'
 
 Prism Class Library
 
-IInteractionRequestAware Properties
-===================================
+# IInteractionRequestAware Properties
 
+The [IInteractionRequestAware](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware(v=pandp.50)) type exposes the following members.
+
+## Properties
+=======
 The [IInteractionRequestAware](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware) type exposes the following members.
 
-Properties
-----------
-
-<span id="propertyTableToggle"></span>
 <table>
 
 <thead>
@@ -43,9 +42,12 @@ The <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.intera
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
+[IInteractionRequestAware Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware(v=pandp.50))
+
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+=======
 
 [IInteractionRequestAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware)
 

@@ -5,15 +5,11 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRe
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683926(v=PandP.50)'
 ---
 
-Prism Class Library
-
-UnityRegionNavigationContentLoader Methods
-==========================================
+# UnityRegionNavigationContentLoader Methods
 
 The [UnityRegionNavigationContentLoader](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader(v=pandp.50)) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <table>
 
@@ -105,6 +101,8 @@ Returns a string that represents the current object.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
+<tr><td>**ARYA**</td>
+<td>*Hemant*</td></tr>
 </tbody>
 </table>
 
