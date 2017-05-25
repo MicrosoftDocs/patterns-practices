@@ -2,7 +2,7 @@
 TOCTitle: PopupWindowAction Events
 Title: 'PopupWindowAction Events (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Interactivity.PopupWindowAction'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction_events(v=pandp.50)'
+ms:mtpsurl: 'popupwindowaction-events-mspp-interactivity.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: AssemblyFile Property
 Title: 'ModuleConfigurationElement.AssemblyFile Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement.AssemblyFile'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelement.assemblyfile(v=pandp.50)'
+ms:mtpsurl: 'moduleconfigurationelement-assemblyfile-property-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -12,7 +12,7 @@ ModuleConfigurationElement.AssemblyFile Property
 
 Gets or sets the assembly file.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -40,8 +40,8 @@ See Also
 --------
 
 
-[ModuleConfigurationElement Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelement(v=pandp.50))
+[ModuleConfigurationElement Class](moduleconfigurationelement-class-mspp-modularity.md)
 
-[ModuleConfigurationElement Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelement_members(v=pandp.50))
+[ModuleConfigurationElement Members](moduleconfigurationelement-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

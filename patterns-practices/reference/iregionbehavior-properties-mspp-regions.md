@@ -2,7 +2,7 @@
 TOCTitle: IRegionBehavior Properties
 Title: 'IRegionBehavior Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior_properties(v=pandp.50)'
+ms:mtpsurl: 'iregionbehavior-properties-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -10,7 +10,7 @@ Prism Class Library
 IRegionBehavior Properties
 ==========================
 
-The [IRegionBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior(v=pandp.50)) type exposes the following members.
+The [IRegionBehavior](iregionbehavior-interface-mspp-regions.md) type exposes the following members.
 
 Properties
 ----------
@@ -39,6 +39,6 @@ See Also
 --------
 
 
-[IRegionBehavior Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior(v=pandp.50))
+[IRegionBehavior Interface](iregionbehavior-interface-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

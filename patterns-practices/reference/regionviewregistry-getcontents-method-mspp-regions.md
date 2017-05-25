@@ -2,7 +2,7 @@
 TOCTitle: GetContents Method
 Title: 'RegionViewRegistry.GetContents Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionViewRegistry.GetContents(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionviewregistry.getcontents(v=pandp.50)'
+ms:mtpsurl: 'regionviewregistry-getcontents-method-mspp-regions.md'
 ---
 
 Prism Class Library

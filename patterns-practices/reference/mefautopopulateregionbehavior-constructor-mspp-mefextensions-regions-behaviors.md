@@ -2,7 +2,7 @@
 TOCTitle: MefAutoPopulateRegionBehavior Constructor
 Title: 'MefAutoPopulateRegionBehavior Constructor (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefAutoPopulateRegionBehavior.\#ctor(Microsoft.Practices.Prism.Regions.IRegionViewRegistry)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior.mefautopopulateregionbehavior(v=pandp.50)'
+ms:mtpsurl: 'mefautopopulateregionbehavior-constructor-mspp-mefextensions-regions-behaviors.md'
 ---
 
 Prism Class Library

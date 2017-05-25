@@ -2,7 +2,7 @@
 TOCTitle: MefBindRegionContextToDependencyObjectBehavior Methods
 Title: 'MefBindRegionContextToDependencyObjectBehavior Methods (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefBindRegionContextToDependencyObjectBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefbindregioncontexttodependencyobjectbehavior_methods(v=pandp.50)'
+ms:mtpsurl: 'mefbindregioncontexttodependencyobjectbehavior-methods-mspp-mefextensions-regions-behaviors.md'
 ---
 
 Prism Class Library
@@ -10,7 +10,7 @@ Prism Class Library
 MefBindRegionContextToDependencyObjectBehavior Methods
 ======================================================
 
-The [MefBindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefbindregioncontexttodependencyobjectbehavior(v=pandp.50)) type exposes the following members.
+The [MefBindRegionContextToDependencyObjectBehavior](mefbindregioncontexttodependencyobjectbehavior-class-mspp-mefextensions-regions-behaviors.md) type exposes the following members.
 
 Methods
 -------
@@ -88,7 +88,7 @@ See Also
 --------
 
 
-[MefBindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefbindregioncontexttodependencyobjectbehavior(v=pandp.50))
+[MefBindRegionContextToDependencyObjectBehavior Class](mefbindregioncontexttodependencyobjectbehavior-class-mspp-mefextensions-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace.md)
 	

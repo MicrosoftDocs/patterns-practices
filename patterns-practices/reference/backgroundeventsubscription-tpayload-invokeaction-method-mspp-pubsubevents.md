@@ -2,7 +2,7 @@
 TOCTitle: InvokeAction Method
 Title: 'BackgroundEventSubscription(TPayload).InvokeAction Method (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscription\`1.InvokeAction(System.Action{\`0},\`0)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736193(v=pandp.50)'
+ms:mtpsurl: 'backgroundeventsubscription-tpayload-invokeaction-method-mspp-pubsubevents.md'
 ---
 
 Prism Class Library

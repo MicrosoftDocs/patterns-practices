@@ -2,7 +2,7 @@
 TOCTitle: Content Property
 Title: 'INotification.Content Property (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification.Content'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.inotification.content(v=pandp.50)'
+ms:mtpsurl: 'inotification-content-property-mspp-interactivity-interactionrequest.md'
 ---
 
 Prism Class Library

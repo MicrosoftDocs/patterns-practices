@@ -2,16 +2,16 @@
 TOCTitle: BehaviorKey Field
 Title: 'RegionActiveAwareBehavior.BehaviorKey Field (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'F:Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior.BehaviorKey'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior.behaviorkey(v=pandp.50)'
+ms:mtpsurl: 'regionactiveawarebehavior-behaviorkey-field-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library
 
 # RegionActiveAwareBehavior.BehaviorKey Field
 
-Name that identifies the [RegionActiveAwareBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior(v=pandp.50)) behavior in a collection of [IRegionBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior(v=pandp.50)).
+Name that identifies the [RegionActiveAwareBehavior](regionactiveawarebehavior-class-mspp-regions-behaviors.md) behavior in a collection of [IRegionBehavior](iregionbehavior-interface-mspp-regions.md).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -34,8 +34,8 @@ Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ## See Also
 
-[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior(v=pandp.50))
+[RegionActiveAwareBehavior Class](regionactiveawarebehavior-class-mspp-regions-behaviors.md)
 
-[RegionActiveAwareBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior_members(v=pandp.50))
+[RegionActiveAwareBehavior Members](regionactiveawarebehavior-members-mspp-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)

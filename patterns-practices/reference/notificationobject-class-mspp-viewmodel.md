@@ -2,7 +2,7 @@
 TOCTitle: NotificationObject Class
 Title: 'NotificationObject Class (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'T:Microsoft.Practices.Prism.ViewModel.NotificationObject'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.notificationobject(v=pandp.50)'
+ms:mtpsurl: 'notificationobject-class-mspp-viewmodel.md'
 ---
 
 Prism Class Library

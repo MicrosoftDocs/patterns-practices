@@ -2,7 +2,7 @@
 TOCTitle: IRegionMemberLifetime Properties
 Title: 'IRegionMemberLifetime Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionMemberLifetime'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmemberlifetime_properties(v=pandp.50)'
+ms:mtpsurl: 'iregionmemberlifetime-properties-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -10,7 +10,7 @@ Prism Class Library
 IRegionMemberLifetime Properties
 ================================
 
-The [IRegionMemberLifetime](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmemberlifetime(v=pandp.50)) type exposes the following members.
+The [IRegionMemberLifetime](iregionmemberlifetime-interface-mspp-regions.md) type exposes the following members.
 
 Properties
 ----------
@@ -39,6 +39,6 @@ See Also
 --------
 
 
-[IRegionMemberLifetime Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmemberlifetime(v=pandp.50))
+[IRegionMemberLifetime Interface](iregionmemberlifetime-interface-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

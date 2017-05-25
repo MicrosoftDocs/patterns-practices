@@ -2,7 +2,7 @@
 TOCTitle: BeginInvoke Method
 Title: 'DefaultDispatcher.BeginInvoke Method (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.DefaultDispatcher.BeginInvoke(System.Delegate,System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.defaultdispatcher.begininvoke(v=pandp.50)'
+ms:mtpsurl: 'defaultdispatcher-begininvoke-method-mspp-events.md'
 ---
 
 Prism Class Library

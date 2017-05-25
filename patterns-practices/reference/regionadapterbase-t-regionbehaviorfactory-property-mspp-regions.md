@@ -2,7 +2,7 @@
 TOCTitle: RegionBehaviorFactory Property
 Title: 'RegionAdapterBase(T).RegionBehaviorFactory Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionAdapterBase\`1.RegionBehaviorFactory'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg431365(v=pandp.50)'
+ms:mtpsurl: 'regionadapterbase-t-regionbehaviorfactory-property-mspp-regions.md'
 ---
 
 Prism Class Library

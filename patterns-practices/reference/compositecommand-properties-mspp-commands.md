@@ -2,14 +2,14 @@
 TOCTitle: CompositeCommand Properties
 Title: 'CompositeCommand Properties (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Commands.CompositeCommand'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand_properties(v=pandp.50)'
+ms:mtpsurl: 'compositecommand-properties-mspp-commands.md'
 ---
 
 Prism Class Library
 
 # CompositeCommand Properties
 
-The [CompositeCommand](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand(v=pandp.50)) type exposes the following members.
+The [CompositeCommand](compositecommand-class-mspp-commands.md) type exposes the following members.
 
 ## Properties
 
@@ -36,6 +36,6 @@ Gets the list of all the registered commands.
 ## See Also
 
 
-[CompositeCommand Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand(v=pandp.50))
+[CompositeCommand Class](compositecommand-class-mspp-commands.md)
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
+[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: IDelegateReference Interface
 Title: 'IDelegateReference Interface (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'T:Microsoft.Practices.Prism.PubSubEvents.IDelegateReference'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50)'
+ms:mtpsurl: 'idelegatereference-interface-mspp-pubsubevents.md'
 ---
 
 Prism Class Library

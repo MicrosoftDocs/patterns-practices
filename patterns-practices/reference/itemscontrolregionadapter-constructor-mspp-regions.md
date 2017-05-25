@@ -2,7 +2,7 @@
 TOCTitle: ItemsControlRegionAdapter Constructor
 Title: 'ItemsControlRegionAdapter Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ItemsControlRegionAdapter.\#ctor(Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemscontrolregionadapter.itemscontrolregionadapter(v=pandp.50)'
+ms:mtpsurl: 'itemscontrolregionadapter-constructor-mspp-regions.md'
 ---
 
 Prism Class Library

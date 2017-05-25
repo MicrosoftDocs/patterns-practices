@@ -2,7 +2,7 @@
 TOCTitle: IRegionMemberLifetime Members
 Title: 'IRegionMemberLifetime Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionMemberLifetime'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmemberlifetime_members(v=pandp.50)'
+ms:mtpsurl: 'iregionmemberlifetime-members-mspp-regions.md'
 ---
 
 Prism Class Library

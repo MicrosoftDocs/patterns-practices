@@ -2,7 +2,7 @@
 TOCTitle: IConfigurationStore Members
 Title: 'IConfigurationStore Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.IConfigurationStore'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.iconfigurationstore_members(v=pandp.50)'
+ms:mtpsurl: 'iconfigurationstore-members-mspp-modularity.md'
 ---
 
 Prism Class Library

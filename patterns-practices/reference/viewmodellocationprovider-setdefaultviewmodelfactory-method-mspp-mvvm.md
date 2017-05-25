@@ -2,7 +2,7 @@
 TOCTitle: SetDefaultViewModelFactory Method
 Title: 'ViewModelLocationProvider.SetDefaultViewModelFactory Method (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Mvvm.ViewModelLocationProvider.SetDefaultViewModelFactory(System.Func{System.Type,System.Object})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.viewmodellocationprovider.setdefaultviewmodelfactory(v=pandp.50)'
+ms:mtpsurl: 'viewmodellocationprovider-setdefaultviewmodelfactory-method-mspp-mvvm.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Sets the default view model factory.
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](mspp-mvvm-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -51,8 +51,8 @@ The view model factory.
 ## See Also
 
 
-[ViewModelLocationProvider Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.viewmodellocationprovider(v=pandp.50))
+[ViewModelLocationProvider Class](viewmodellocationprovider-class-mspp-mvvm.md)
 
-[ViewModelLocationProvider Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.viewmodellocationprovider_members(v=pandp.50))
+[ViewModelLocationProvider Members](viewmodellocationprovider-members-mspp-mvvm.md)
 
-[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm(v=pandp.50))
+[Microsoft.Practices.Prism.Mvvm Namespace](mspp-mvvm-namespace.md)

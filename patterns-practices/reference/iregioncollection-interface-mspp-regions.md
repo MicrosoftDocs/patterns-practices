@@ -2,7 +2,7 @@
 TOCTitle: IRegionCollection Interface
 Title: 'IRegionCollection Interface (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.IRegionCollection'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection(v=pandp.50)'
+ms:mtpsurl: 'iregioncollection-interface-mspp-regions.md'
 ---
 
 Prism Class Library

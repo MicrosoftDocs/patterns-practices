@@ -2,14 +2,14 @@
 TOCTitle: RegionBehavior Class
 Title: 'RegionBehavior Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior(v=pandp.50)'
+ms:mtpsurl: 'regionbehavior-class-mspp-regions.md'
 ---
 
 # RegionBehavior Class
 
 Provides a base class for region's behaviors.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,15 +32,15 @@ Public MustInherit Class RegionBehavior
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)</br>
   Microsoft.Practices.Prism.Regions.RegionBehavior
-    [Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior(v=pandp.50))
-    [Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior(v=pandp.50))
-    [Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior(v=pandp.50))
-    [Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior(v=pandp.50))
-    [Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior(v=pandp.50))
-    [Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior(v=pandp.50))
+    [Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior](autopopulateregionbehavior-class-mspp-regions-behaviors.md)
+    [Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior](clearchildviewsregionbehavior-class-mspp-regions-behaviors.md)
+    [Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior](regionmanagerregistrationbehavior-class-mspp-regions-behaviors.md)
+    [Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior](regionmemberlifetimebehavior-class-mspp-regions-behaviors.md)
+    [Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior](selectoritemssourcesyncbehavior-class-mspp-regions-behaviors.md)
+    [Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors.md)
 
 ## See Also
 
-[RegionBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior_members(v=pandp.50))
+[RegionBehavior Members](regionbehavior-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: ModuleDownloadProgressChanged Event
 Title: 'MefFileModuleTypeLoader.ModuleDownloadProgressChanged Event (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'E:Microsoft.Practices.Prism.MefExtensions.Modularity.MefFileModuleTypeLoader.ModuleDownloadProgressChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader.moduledownloadprogresschanged(v=pandp.50)'
+ms:mtpsurl: 'meffilemoduletypeloader-moduledownloadprogresschanged-event-mspp-mefextensions-modularity.md'
 ---
 
 # MefFileModuleTypeLoader.ModuleDownloadProgressChanged Event
@@ -23,7 +23,7 @@ public virtual event EventHandler<ModuleDownloadProgressChangedEventArgs> Module
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[ModuleDownloadProgressChangedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs(v=pandp.50))&gt;
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[ModuleDownloadProgressChangedEventArgs](moduledownloadprogresschangedeventargs-class-mspp-modularity.md)&gt;
 
 ## Syntax
 
@@ -34,16 +34,16 @@ Public Overridable Event ModuleDownloadProgressChanged As EventHandler(Of Module
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [ModuleDownloadProgressChangedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs(v=pandp.50)))
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [ModuleDownloadProgressChangedEventArgs](moduledownloadprogresschangedeventargs-class-mspp-modularity.md))
 
 ### Implements
 
-[IModuleTypeLoader.ModuleDownloadProgressChanged](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader.moduledownloadprogresschanged(v=pandp.50))
+[IModuleTypeLoader.ModuleDownloadProgressChanged](imoduletypeloader-moduledownloadprogresschanged-event-mspp-modularity.md)
 
 ## See Also
 
-[MefFileModuleTypeLoader Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader(v=pandp.50))
+[MefFileModuleTypeLoader Class](meffilemoduletypeloader-class-mspp-mefextensions-modularity.md)
 
-[MefFileModuleTypeLoader Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader_members(v=pandp.50))
+[MefFileModuleTypeLoader Members](meffilemoduletypeloader-members-mspp-mefextensions-modularity.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)

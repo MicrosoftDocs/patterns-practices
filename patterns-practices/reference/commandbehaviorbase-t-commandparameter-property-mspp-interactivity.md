@@ -2,7 +2,7 @@
 TOCTitle: CommandParameter Property
 Title: 'CommandBehaviorBase(T).CommandParameter Property (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase\`1.CommandParameter'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn683970(v=pandp.50)'
+ms:mtpsurl: 'commandbehaviorbase-t-commandparameter-property-mspp-interactivity.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 The parameter to supply the command during execution
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](mspp-interactivity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -27,17 +27,17 @@ Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 ## See Also
 
-[CommandBehaviorBase&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/dn736144(v=pandp.50))
+[CommandBehaviorBase&lt;T&gt; Class](commandbehaviorbase-t-class-mspp-interactivity.md)
 
-[CommandBehaviorBase&lt;T&gt; Members](https://msdn.microsoft.com/en-us/library/dn741423(v=pandp.50))
+[CommandBehaviorBase&lt;T&gt; Members](commandbehaviorbase-t-members-mspp-interactivity.md)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace.md)
 
 # CommandBehaviorBase(Of T).CommandParameter Property
 
 The parameter to supply the command during execution
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](mspp-interactivity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -56,8 +56,8 @@ Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 ## See Also
 
-[CommandBehaviorBase(Of T) Class](https://msdn.microsoft.com/en-us/library/dn736144(v=pandp.50))
+[CommandBehaviorBase(Of T) Class](commandbehaviorbase-t-class-mspp-interactivity.md)
 
-[CommandBehaviorBase(Of T) Members](https://msdn.microsoft.com/en-us/library/dn741423(v=pandp.50))
+[CommandBehaviorBase(Of T) Members](commandbehaviorbase-t-members-mspp-interactivity.md)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace.md)

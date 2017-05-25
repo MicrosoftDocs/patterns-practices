@@ -2,7 +2,7 @@
 TOCTitle: IConfigurationStore Interface
 Title: 'IConfigurationStore Interface (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.IConfigurationStore'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.iconfigurationstore(v=pandp.50)'
+ms:mtpsurl: 'iconfigurationstore-interface-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -12,7 +12,7 @@ IConfigurationStore Interface
 
 Defines a store for the module metadata.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -33,6 +33,6 @@ See Also
 --------
 
 
-[IConfigurationStore Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.iconfigurationstore_members(v=pandp.50))
+[IConfigurationStore Members](iconfigurationstore-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

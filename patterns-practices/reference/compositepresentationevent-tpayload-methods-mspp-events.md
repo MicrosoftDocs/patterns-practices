@@ -2,7 +2,7 @@
 TOCTitle: 'CompositePresentationEvent(TPayload) Methods'
 Title: 'CompositePresentationEvent(TPayload) Methods (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg430980(v=pandp.50)'
+ms:mtpsurl: 'compositepresentationevent-tpayload-methods-mspp-events.md'
 ---
 
 Prism Class Library

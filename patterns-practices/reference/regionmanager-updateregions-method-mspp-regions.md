@@ -2,14 +2,14 @@
 TOCTitle: UpdateRegions Method
 Title: 'RegionManager.UpdateRegions Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManager.UpdateRegions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager.updateregions(v=pandp.50)'
+ms:mtpsurl: 'regionmanager-updateregions-method-mspp-regions.md'
 ---
 
 # RegionManager.UpdateRegions Method 
 
 Notifies attached behaviors to update the region managers appropriatelly if needed to.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -34,8 +34,8 @@ This method is normally called internally, and there is usually no need to call 
 
 ## See Also
 
-[RegionManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager(v=pandp.50))
+[RegionManager Class](regionmanager-class-mspp-regions.md)
 
-[RegionManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager_members(v=pandp.50))
+[RegionManager Members](regionmanager-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

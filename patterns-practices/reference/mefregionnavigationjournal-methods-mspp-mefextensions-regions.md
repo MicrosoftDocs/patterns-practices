@@ -2,12 +2,12 @@
 TOCTitle: MefRegionNavigationJournal Methods
 Title: 'MefRegionNavigationJournal Methods (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournal'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal_methods(v=pandp.50)'
+ms:mtpsurl: 'mefregionnavigationjournal-methods-mspp-mefextensions-regions.md'
 ---
 
 # MefRegionNavigationJournal Methods
 
-The [MefRegionNavigationJournal](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal(v=pandp.50)) type exposes the following members.
+The [MefRegionNavigationJournal](mefregionnavigationjournal-class-mspp-mefextensions-regions.md) type exposes the following members.
 
 ## Methods
  
@@ -106,6 +106,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[MefRegionNavigationJournal Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal(v=pandp.50))
+[MefRegionNavigationJournal Class](mefregionnavigationjournal-class-mspp-mefextensions-regions.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace.md)

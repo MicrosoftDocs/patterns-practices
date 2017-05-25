@@ -2,7 +2,7 @@
 TOCTitle: Attach Method
 Title: 'DelayedRegionCreationBehavior.Attach Method (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior.Attach'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.attach(v=pandp.50)'
+ms:mtpsurl: 'delayedregioncreationbehavior-attach-method-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library

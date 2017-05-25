@@ -2,12 +2,12 @@
 TOCTitle: MefRegionActiveAwareBehavior Properties
 Title: 'MefRegionActiveAwareBehavior Properties (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionActiveAwareBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionactiveawarebehavior_properties(v=pandp.50)'
+ms:mtpsurl: 'mefregionactiveawarebehavior-properties-mspp-mefextensions-regions-behaviors.md'
 ---
 
 # MefRegionActiveAwareBehavior Properties
 
-The [MefRegionActiveAwareBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionactiveawarebehavior(v=pandp.50)) type exposes the following members.
+The [MefRegionActiveAwareBehavior](mefregionactiveawarebehavior-class-mspp-mefextensions-regions-behaviors.md) type exposes the following members.
 
 ## Properties
 
@@ -31,18 +31,18 @@ The [MefRegionActiveAwareBehavior](https://msdn.microsoft.com/en-us/library/micr
 ![](https://msdn.microsoft.com/en-us/Gg419183.pubproperty(en-us,PandP.50).gif "Public property")
 </td>
 <td>
-<a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior.region(v=pandp.50)">Region</a>
+<a href="regionactiveawarebehavior-region-property-mspp-regions-behaviors.md">Region</a>
 </td>
 <td>
 <div>
 The region that this behavior is extending
-</div> (Inherited from <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior(v=pandp.50)">RegionActiveAwareBehavior</a>.)</td>
+</div> (Inherited from <a href="regionactiveawarebehavior-class-mspp-regions-behaviors.md">RegionActiveAwareBehavior</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[MefRegionActiveAwareBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionactiveawarebehavior(v=pandp.50))
+[MefRegionActiveAwareBehavior Class](mefregionactiveawarebehavior-class-mspp-mefextensions-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace.md)

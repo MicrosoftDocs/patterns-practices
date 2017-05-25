@@ -2,14 +2,14 @@
 TOCTitle: UnityBootstrapperExtension Methods
 Title: 'UnityBootstrapperExtension Methods (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtension'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension_methods(v=pandp.50)'
+ms:mtpsurl: 'unitybootstrapperextension-methods-mspp-unityextensions.md'
 ---
 
 Prism Class Library
 
 # UnityBootstrapperExtension Methods
 
-The [UnityBootstrapperExtension](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension(v=pandp.50)) type exposes the following members.
+The [UnityBootstrapperExtension](unitybootstrapperextension-class-mspp-unityextensions.md) type exposes the following members.
 
 ## Methods
 
@@ -102,6 +102,6 @@ Returns a string that represents the current object.
 ## See Also
 
 
-[UnityBootstrapperExtension Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension(v=pandp.50))
+[UnityBootstrapperExtension Class](unitybootstrapperextension-class-mspp-unityextensions.md)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions(v=pandp.50))
+[Microsoft.Practices.Prism.UnityExtensions Namespace](mspp-unityextensions-namespace.md)

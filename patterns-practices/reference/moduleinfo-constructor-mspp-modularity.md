@@ -2,7 +2,7 @@
 TOCTitle: ModuleInfo Constructor
 Title: 'ModuleInfo Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleInfo.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo.moduleinfo(v=pandp.50)'
+ms:mtpsurl: 'moduleinfo-constructor-mspp-modularity.md'
 ---
 
 Prism Class Library

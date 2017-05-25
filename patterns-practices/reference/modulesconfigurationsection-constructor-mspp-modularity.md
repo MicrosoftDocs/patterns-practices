@@ -2,7 +2,7 @@
 TOCTitle: ModulesConfigurationSection Constructor
 Title: 'ModulesConfigurationSection Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModulesConfigurationSection.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulesconfigurationsection.modulesconfigurationsection(v=pandp.50)'
+ms:mtpsurl: 'modulesconfigurationsection-constructor-mspp-modularity.md'
 ---
 
 Prism Class Library

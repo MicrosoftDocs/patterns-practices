@@ -2,12 +2,12 @@
 TOCTitle: Notification Methods
 Title: 'Notification Methods (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.notification_methods(v=pandp.50)'
+ms:mtpsurl: 'notification-methods-mspp-interactivity-interactionrequest.md'
 ---
 
 # Notification Methods
 
-The [Notification](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.notification(v=pandp.50)) type exposes the following members.
+The [Notification](notification-class-mspp-interactivity-interactionrequest.md) type exposes the following members.
 
 ## Methods
  
@@ -74,6 +74,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[Notification Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.notification(v=pandp.50))
+[Notification Class](notification-class-mspp-interactivity-interactionrequest.md)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)

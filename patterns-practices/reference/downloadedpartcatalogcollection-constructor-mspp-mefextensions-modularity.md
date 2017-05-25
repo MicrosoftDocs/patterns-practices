@@ -2,7 +2,7 @@
 TOCTitle: DownloadedPartCatalogCollection Constructor
 Title: 'DownloadedPartCatalogCollection Constructor (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection.downloadedpartcatalogcollection(v=pandp.50)'
+ms:mtpsurl: 'downloadedpartcatalogcollection-constructor-mspp-mefextensions-modularity.md'
 ---
 
 Prism Class Library
@@ -10,9 +10,9 @@ Prism Class Library
 DownloadedPartCatalogCollection Constructor
 ===========================================
 
-Initializes a new instance of the [DownloadedPartCatalogCollection](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection(v=pandp.50)) class
+Initializes a new instance of the [DownloadedPartCatalogCollection](downloadedpartcatalogcollection-class-mspp-mefextensions-modularity.md) class
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -34,8 +34,8 @@ See Also
 --------
 
 
-[DownloadedPartCatalogCollection Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection(v=pandp.50))
+[DownloadedPartCatalogCollection Class](downloadedpartcatalogcollection-class-mspp-mefextensions-modularity.md)
 
-[DownloadedPartCatalogCollection Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection_members(v=pandp.50))
+[DownloadedPartCatalogCollection Members](downloadedpartcatalogcollection-members-mspp-mefextensions-modularity.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)

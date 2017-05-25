@@ -2,14 +2,14 @@
 TOCTitle: RegionManagerAccessor Property
 Title: 'RegionManagerRegistrationBehavior.RegionManagerAccessor Property (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior.RegionManagerAccessor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior.regionmanageraccessor(v=pandp.50)'
+ms:mtpsurl: 'regionmanagerregistrationbehavior-regionmanageraccessor-property-mspp-regions-behaviors.md'
 ---
 
 # RegionManagerRegistrationBehavior.RegionManagerAccessor Property
 
 Provides an abstraction on top of the RegionManager static members.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -30,12 +30,12 @@ Public Property RegionManagerAccessor As IRegionManagerAccessor
 
 ### Property Value
 
-Type: [IRegionManagerAccessor](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor(v=pandp.50))
+Type: [IRegionManagerAccessor](iregionmanageraccessor-interface-mspp-regions.md)
 
 ## See Also
 
-[RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior(v=pandp.50))
+[RegionManagerRegistrationBehavior Class](regionmanagerregistrationbehavior-class-mspp-regions-behaviors.md)
 
-[RegionManagerRegistrationBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior_members(v=pandp.50))
+[RegionManagerRegistrationBehavior Members](regionmanagerregistrationbehavior-members-mspp-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)

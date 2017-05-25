@@ -2,7 +2,7 @@
 TOCTitle: DefaultNotificationWindow Class
 Title: 'DefaultNotificationWindow Class (Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultNotificationWindow'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow(v=pandp.50)'
+ms:mtpsurl: 'defaultnotificationwindow-class-mspp-interactivity-defaultpopupwindows.md'
 ---
 
 Prism Class Library

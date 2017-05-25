@@ -2,7 +2,7 @@
 TOCTitle: Region Events
 Title: 'Region Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.Region'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region_events(v=pandp.50)'
+ms:mtpsurl: 'region-events-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -10,7 +10,7 @@ Prism Class Library
 Region Events
 =============
 
-The [Region](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region(v=pandp.50)) type exposes the following members.
+The [Region](region-class-mspp-regions.md) type exposes the following members.
 
 Events
 ------
@@ -39,6 +39,6 @@ See Also
 --------
 
 
-[Region Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region(v=pandp.50))
+[Region Class](region-class-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

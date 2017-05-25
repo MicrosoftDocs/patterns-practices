@@ -5,7 +5,7 @@ Serves as a hash function for a particular type.
 # SubscriptionToken..::.GetHashCode Method
 =======
 
- **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+ **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
  **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 =======
 SubscriptionToken.GetHashCode Method
@@ -49,7 +49,7 @@ A hash code for the current [Object](http://msdn2.microsoft.com/en-us/library/e5
 
 ## See Also
 
-[SubscriptionToken Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50))
+[SubscriptionToken Class](subscriptiontoken-class-mspp-pubsubevents.md)
 
 =======
 ## Syntax
@@ -64,7 +64,7 @@ A hash code for the current [Object](http://msdn.microsoft.com/en-us/library/e5k
 
 
 ## See Also
-[SubscriptionToken Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50))
+[SubscriptionToken Class](subscriptiontoken-class-mspp-pubsubevents.md)
 =======
 See Also
 --------
@@ -75,4 +75,4 @@ See Also
 
 SubscriptionToken Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)

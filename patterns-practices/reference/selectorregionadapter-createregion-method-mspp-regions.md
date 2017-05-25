@@ -2,7 +2,7 @@
 TOCTitle: CreateRegion Method
 Title: 'SelectorRegionAdapter.CreateRegion Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.SelectorRegionAdapter.CreateRegion'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.selectorregionadapter.createregion(v=pandp.50)'
+ms:mtpsurl: 'selectorregionadapter-createregion-method-mspp-regions.md'
 ---
 
 Prism Class Library

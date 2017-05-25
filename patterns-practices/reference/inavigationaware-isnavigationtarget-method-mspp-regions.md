@@ -2,7 +2,7 @@
 TOCTitle: IsNavigationTarget Method
 Title: 'INavigationAware.IsNavigationTarget Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.INavigationAware.IsNavigationTarget(Microsoft.Practices.Prism.Regions.NavigationContext)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigationaware.isnavigationtarget(v=pandp.50)'
+ms:mtpsurl: 'inavigationaware-isnavigationtarget-method-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Called to determine if this instance can handle the navigation request.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -30,7 +30,7 @@ bool IsNavigationTarget(
 
 *navigationContext*  
 
-Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext(v=pandp.50))
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](navigationcontext-class-mspp-regions.md)
 
 The navigation context.
 
@@ -52,7 +52,7 @@ Function IsNavigationTarget (
 
 *navigationContext*  
 
-Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext(v=pandp.50))
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](navigationcontext-class-mspp-regions.md)
 
 The navigation context.
 
@@ -65,8 +65,8 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 ## See Also
 
 
-[INavigationAware Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigationaware(v=pandp.50))
+[INavigationAware Interface](inavigationaware-interface-mspp-regions.md)
 
-[INavigationAware Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigationaware_members(v=pandp.50))
+[INavigationAware Members](inavigationaware-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

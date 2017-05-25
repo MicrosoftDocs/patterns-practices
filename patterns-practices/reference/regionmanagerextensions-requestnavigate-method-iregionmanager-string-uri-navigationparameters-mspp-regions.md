@@ -2,7 +2,7 @@
 TOCTitle: 'RequestNavigate Method (IRegionManager, String, Uri, NavigationParameters)'
 Title: 'RegionManagerExtensions.RequestNavigate Method (IRegionManager, String, Uri, NavigationParameters) (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManagerExtensions.RequestNavigate(Microsoft.Practices.Prism.Regions.IRegionManager,System.String,System.Uri,Microsoft.Practices.Prism.Regions.NavigationParameters)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanagerextensions.requestnavigate(v=pandp.50)'
+ms:mtpsurl: 'regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-action-navigationresult-mspp-regions.md'
 ---
 
 Prism Class Library

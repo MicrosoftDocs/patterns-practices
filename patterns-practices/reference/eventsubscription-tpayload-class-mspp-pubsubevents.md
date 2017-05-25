@@ -2,7 +2,7 @@
 TOCTitle: 'EventSubscription(TPayload) Class'
 Title: 'EventSubscription(TPayload) Class (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'T:Microsoft.Practices.Prism.PubSubEvents.EventSubscription\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)'
+ms:mtpsurl: 'eventsubscription-tpayload-class-mspp-pubsubevents.md'
 ---
 
 Prism Class Library
@@ -12,7 +12,7 @@ EventSubscription&lt;TPayload&gt; Class
 
 Provides a way to retrieve a [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) to execute an action depending on the value of a second filter predicate that returns true if the action should execute.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -47,9 +47,9 @@ Inheritance Hierarchy
 
   Microsoft.Practices.Prism.PubSubEvents.EventSubscription&lt;TPayload&gt;
 
-    [Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscription&lt;TPayload&gt;](https://msdn.microsoft.com/en-us/library/dn683933(v=pandp.50))
+    [Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscription&lt;TPayload&gt;](backgroundeventsubscription-tpayload-class-mspp-pubsubevents.md)
 
-    [Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscription&lt;TPayload&gt;](https://msdn.microsoft.com/en-us/library/dn736239(v=pandp.50))
+    [Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscription&lt;TPayload&gt;](dispatchereventsubscription-tpayload-class-mspp-pubsubevents.md)
 
 See Also
 --------
@@ -57,4 +57,4 @@ See Also
 
 EventSubscription&lt;TPayload&gt; Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)

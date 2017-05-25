@@ -2,7 +2,7 @@
 TOCTitle: Subscriptions Property
 Title: 'EventBase.Subscriptions Property (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'P:Microsoft.Practices.Prism.PubSubEvents.EventBase.Subscriptions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase.subscriptions(v=pandp.50)'
+ms:mtpsurl: 'eventbase-subscriptions-property-mspp-pubsubevents.md'
 ---
 
 Prism Class Library

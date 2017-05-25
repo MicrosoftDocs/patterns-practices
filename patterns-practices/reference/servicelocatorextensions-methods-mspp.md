@@ -2,7 +2,7 @@
 TOCTitle: ServiceLocatorExtensions Methods
 Title: 'ServiceLocatorExtensions Methods (Microsoft.Practices.Prism)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ServiceLocatorExtensions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.servicelocatorextensions_methods(v=pandp.50)'
+ms:mtpsurl: 'servicelocatorextensions-methods-mspp.md'
 ---
 
 Prism Class Library
@@ -40,6 +40,6 @@ Attempts to resolve specified type from the underlying IServiceLocator.
 
 ## See Also
 
-[ServiceLocatorExtensions Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.servicelocatorextensions(v=pandp.50))
+[ServiceLocatorExtensions Class](servicelocatorextensions-class-mspp.md)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+[Microsoft.Practices.Prism Namespace](mspp-namespace.md)

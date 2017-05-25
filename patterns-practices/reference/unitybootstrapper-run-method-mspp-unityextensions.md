@@ -2,7 +2,7 @@
 TOCTitle: Run Method
 Title: 'UnityBootstrapper.Run Method (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.Run'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapper.run(v=pandp.50)'
+ms:mtpsurl: 'unitybootstrapper-run-method-boolean-mspp-unityextensions.md'
 ---
 
 # UnityBootstrapper.Run Method
@@ -40,8 +40,8 @@ Run the bootstrapper process.
 
 ## See Also
 
-[UnityBootstrapper Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapper(v=pandp.50))
+[UnityBootstrapper Class](unitybootstrapper-class-mspp-unityextensions.md)
 
-[UnityBootstrapper Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapper_members(v=pandp.50))
+[UnityBootstrapper Members](unitybootstrapper-members-mspp-unityextensions.md)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions(v=pandp.50))
+[Microsoft.Practices.Prism.UnityExtensions Namespace](mspp-unityextensions-namespace.md)

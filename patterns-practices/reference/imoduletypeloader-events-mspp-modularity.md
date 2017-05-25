@@ -2,7 +2,7 @@
 TOCTitle: IModuleTypeLoader Events
 Title: 'IModuleTypeLoader Events (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.IModuleTypeLoader'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader_events(v=pandp.50)'
+ms:mtpsurl: 'imoduletypeloader-events-mspp-modularity.md'
 ---
 
 Prism Class Library

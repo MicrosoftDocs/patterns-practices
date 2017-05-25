@@ -2,7 +2,7 @@
 TOCTitle: Initialize Method
 Title: 'UnityBootstrapperExtension.Initialize Method (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtension.Initialize'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension.initialize(v=pandp.50)'
+ms:mtpsurl: 'unitybootstrapperextension-initialize-method-mspp-unityextensions.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Initializes the container with this extension's functionality.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](mspp-unityextensions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
@@ -29,8 +29,8 @@ Protected Overrides Sub Initialize
 
 ## See Also
 
-[UnityBootstrapperExtension Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension(v=pandp.50))
+[UnityBootstrapperExtension Class](unitybootstrapperextension-class-mspp-unityextensions.md)
 
-[UnityBootstrapperExtension Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension_members(v=pandp.50))
+[UnityBootstrapperExtension Members](unitybootstrapperextension-members-mspp-unityextensions.md)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions(v=pandp.50))
+[Microsoft.Practices.Prism.UnityExtensions Namespace](mspp-unityextensions-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: GetObservableContext Method
 Title: 'RegionContext.GetObservableContext Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionContext.GetObservableContext(System.Windows.DependencyObject)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regioncontext.getobservablecontext(v=pandp.50)'
+ms:mtpsurl: 'regioncontext-getobservablecontext-method-mspp-regions.md'
 ---
 
 Prism Class Library

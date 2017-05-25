@@ -2,7 +2,7 @@
 TOCTitle: DelegateCommandBase Constructor
 Title: 'DelegateCommandBase Constructor (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Commands.DelegateCommandBase.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase.delegatecommandbase(v=pandp.50)'
+ms:mtpsurl: 'delegatecommandbase-constructor-action-object-func-object-boolean-mspp-commands.md'
 ---
 
 
@@ -23,11 +23,11 @@ DelegateCommandBase Constructor
 <tbody>
 <tr class="odd">
 <td>DelegateCommandBase(Action<(Of <(Object>)>), Func<(Of <(Object, Boolean>)>))</td>
-<td>Creates a new instance of a <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase(v=pandp.50)">DelegateCommandBase,</a> specifying both the execute action and the can execute function.</td>
+<td>Creates a new instance of a <a href="delegatecommandbase-class-mspp-commands.md">DelegateCommandBase,</a> specifying both the execute action and the can execute function.</td>
 </tr>
 <tr class="even">
 <td>DelegateCommandBase(Func<(Of <(Object, Task>)>), Func<(Of <(Object, Boolean>)>))</td>
-<td>Creates a new instance of a <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase(v=pandp.50)">DelegateCommandBase,</a> specifying both the Execute action as an awaitable Task and the CanExecute function.</td>
+<td>Creates a new instance of a <a href="delegatecommandbase-class-mspp-commands.md">DelegateCommandBase,</a> specifying both the Execute action as an awaitable Task and the CanExecute function.</td>
 =======
 <td><img src="https://msdn.microsoft.com/en-us/Dn736224.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase.">DelegateCommandBase(Action&lt;(Of &lt;(Object&gt;)&gt;), Func&lt;(Of &lt;(Object, Boolean&gt;)&gt;))</a></td>
@@ -47,11 +47,11 @@ Creates a new instance of a <a href="https://msdn.microsoft.com/library/microsof
 
 ## See Also
 
-[DelegateCommandBase Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase(v=pandp.50))
+[DelegateCommandBase Class](delegatecommandbase-class-mspp-commands.md)
 
-[DelegateCommandBase Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase_members(v=pandp.50))
+[DelegateCommandBase Members](delegatecommandbase-members-mspp-commands.md)
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
+[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)
 =======
 [DelegateCommandBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)
 

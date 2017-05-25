@@ -2,7 +2,7 @@
 TOCTitle: BehaviorKey Field
 Title: 'SelectorItemsSourceSyncBehavior.BehaviorKey Field (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'F:Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior.BehaviorKey'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior.behaviorkey(v=pandp.50)'
+ms:mtpsurl: 'selectoritemssourcesyncbehavior-behaviorkey-field-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library

@@ -2,14 +2,14 @@
 TOCTitle: Dispose Method
 Title: 'AssemblyResolver.Dispose Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.AssemblyResolver.Dispose'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.assemblyresolver.dispose(v=pandp.50)'
+ms:mtpsurl: 'assemblyresolver-dispose-method-boolean-mspp-modularity.md'
 ---
 
 # AssemblyResolver.Dispose Method
 
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,16 +32,16 @@ Public Sub Dispose
 
 ## Remarks
 
-&nbsp;&nbsp;Calls [Dispose(Boolean)](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.assemblyresolver.dispose(v=pandp.50))
+&nbsp;&nbsp;Calls [Dispose(Boolean)](assemblyresolver-dispose-method-boolean-mspp-modularity.md)
 
 ## See Also
 
-[AssemblyResolver Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.assemblyresolver(v=pandp.50))
+[AssemblyResolver Class](assemblyresolver-class-mspp-modularity.md)
 
-[AssemblyResolver Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.assemblyresolver_members(v=pandp.50))
+[AssemblyResolver Members](assemblyresolver-members-mspp-modularity.md)
 
-[Dispose Overload](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.assemblyresolver.dispose(v=pandp.50))
+[Dispose Overload](assemblyresolver-dispose-method-boolean-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
 
 

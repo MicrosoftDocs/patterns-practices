@@ -2,14 +2,14 @@
 TOCTitle: ILoggerFacade Interface
 Title: 'ILoggerFacade Interface (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Logging.ILoggerFacade'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.iloggerfacade(v=pandp.50)'
+ms:mtpsurl: 'iloggerfacade-interface-mspp-logging.md'
 ---
 
 # ILoggerFacade Interface
 
 Defines a simple logger façade to be used by the Prism Library.
 
-**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Logging](mspp-logging-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,6 +28,6 @@ Public Interface ILoggerFacade
 
 ## See Also
 
-[ILoggerFacade Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.iloggerfacade_members(v=pandp.50))
+[ILoggerFacade Members](iloggerfacade-members-mspp-logging.md)
 
-[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging(v=pandp.50))
+[Microsoft.Practices.Prism.Logging Namespace](mspp-logging-namespace.md)

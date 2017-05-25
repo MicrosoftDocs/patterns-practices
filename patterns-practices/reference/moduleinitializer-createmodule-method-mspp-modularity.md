@@ -2,7 +2,7 @@
 TOCTitle: CreateModule Method
 Title: 'ModuleInitializer.CreateModule Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleInitializer.CreateModule'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer.createmodule(v=pandp.50)'
+ms:mtpsurl: 'moduleinitializer-createmodule-method-moduleinfo-mspp-modularity.md'
 ---
 
 # ModuleInitializer.CreateModule Method
@@ -38,8 +38,8 @@ Uses the container to resolve a new <a href="https://msdn.microsoft.com/library/
 
 ## See Also
 
-[ModuleInitializer Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer(v=pandp.50))
+[ModuleInitializer Class](moduleinitializer-class-mspp-modularity.md)
 
-[ModuleInitializer Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer_members(v=pandp.50))
+[ModuleInitializer Members](moduleinitializer-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

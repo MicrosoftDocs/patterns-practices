@@ -2,7 +2,7 @@
 TOCTitle: CreateNewElement Method
 Title: 'ModuleDependencyCollection.CreateNewElement Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection.CreateNewElement'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencycollection.createnewelement(v=pandp.50)'
+ms:mtpsurl: 'moduledependencycoll-createnew-method.md'
 ---
 
 # ModuleDependencyCollection.CreateNewElement Method
@@ -40,8 +40,8 @@ Creates a new <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">Configu
 
 ## See Also
 
-[ModuleDependencyCollection Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencycollection(v=pandp.50))
+[ModuleDependencyCollection Class](moduledependencycollection-class-mspp-modularity.md)
 
-[ModuleDependencyCollection Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencycollection_members(v=pandp.50))
+[ModuleDependencyCollection Members](moduledependencycollection-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

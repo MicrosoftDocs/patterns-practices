@@ -2,7 +2,7 @@
 TOCTitle: CallWeakReferenceHandlers Method
 Title: 'WeakEventHandlerManager.CallWeakReferenceHandlers Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.WeakEventHandlerManager.CallWeakReferenceHandlers(System.Object,System.Collections.Generic.List{System.WeakReference})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager.callweakreferencehandlers(v=pandp.50)'
+ms:mtpsurl: 'weakeventhandlermanager-callweakreferencehandlers-method-mspp-commands.md'
 ---
 
 Prism Class Library

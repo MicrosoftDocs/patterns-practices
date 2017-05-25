@@ -2,7 +2,7 @@
 TOCTitle: Confirmation Constructor
 Title: 'Confirmation Constructor (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confirmation.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation.confirmation(v=pandp.50)'
+ms:mtpsurl: 'confirmation-constructor-mspp-interactivity-interactionrequest.md'
 ---
 
 Prism Class Library

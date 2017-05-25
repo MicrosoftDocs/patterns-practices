@@ -2,7 +2,7 @@
 TOCTitle: CreateDefaultWindow Method
 Title: 'PopupWindowAction.CreateDefaultWindow Method (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.CreateDefaultWindow(Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction.createdefaultwindow(v=pandp.50)'
+ms:mtpsurl: 'popupwindowaction-createdefaultwindow-method-mspp-interactivity.md'
 ---
 
 Prism Class Library
@@ -10,9 +10,9 @@ Prism Class Library
 PopupWindowAction.CreateDefaultWindow Method
 ================================================
 
-When no WindowContent is sent this method is used to create a default basic window to show the corresponding [INotification](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.inotification(v=pandp.50)) or [IConfirmation](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation(v=pandp.50)).
+When no WindowContent is sent this method is used to create a default basic window to show the corresponding [INotification](inotification-interface-mspp-interactivity-interactionrequest.md) or [IConfirmation](iconfirmation-interface-mspp-interactivity-interactionrequest.md).
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](mspp-interactivity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -39,7 +39,7 @@ Protected Function CreateDefaultWindow (
 
 *notification*
   
-Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.inotification(v=pandp.50))
+Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](inotification-interface-mspp-interactivity-interactionrequest.md)
 
 The INotification or IConfirmation parameter to show.
 
@@ -51,8 +51,8 @@ See Also
 --------
 
 
-[PopupWindowAction Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction(v=pandp.50))
+[PopupWindowAction Class](popupwindowaction-class-mspp-interactivity.md)
 
-[PopupWindowAction Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction_members(v=pandp.50))
+[PopupWindowAction Members](popupwindowaction-members-mspp-interactivity.md)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace.md)

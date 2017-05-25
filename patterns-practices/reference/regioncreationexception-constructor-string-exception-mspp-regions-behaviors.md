@@ -2,7 +2,7 @@
 TOCTitle: 'RegionCreationException Constructor (String, Exception)'
 Title: 'RegionCreationException Constructor (String, Exception) (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.RegionCreationException.\#ctor(System.String,System.Exception)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regioncreationexception.regioncreationexception(v=pandp.50)'
+ms:mtpsurl: 'regioncreationexception-constructor-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library

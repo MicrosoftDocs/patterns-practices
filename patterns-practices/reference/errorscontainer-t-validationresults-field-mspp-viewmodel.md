@@ -2,7 +2,7 @@
 TOCTitle: validationResults Field
 Title: 'ErrorsContainer(T).validationResults Field (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'F:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.validationResults'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736157(v=pandp.50)'
+ms:mtpsurl: 'errorscontainer-t-validationresults-field-mspp-viewmodel.md'
 ---
 
 Prism Class Library

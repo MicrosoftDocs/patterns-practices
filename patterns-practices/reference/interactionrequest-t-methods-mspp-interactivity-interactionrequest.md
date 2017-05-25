@@ -2,7 +2,7 @@
 TOCTitle: 'InteractionRequest(T) Methods'
 Title: 'InteractionRequest(T) Methods (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequest\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg430996(v=pandp.50)'
+ms:mtpsurl: 'interactionrequest-t-methods-mspp-interactivity-interactionrequest.md'
 ---
 
 Prism Class Library

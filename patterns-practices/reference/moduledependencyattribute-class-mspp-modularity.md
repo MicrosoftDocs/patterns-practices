@@ -2,7 +2,7 @@
 TOCTitle: ModuleDependencyAttribute Class
 Title: 'ModuleDependencyAttribute Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleDependencyAttribute'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencyattribute(v=pandp.50)'
+ms:mtpsurl: 'moduledependencyattribute-class-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -10,9 +10,9 @@ Prism Class Library
 ModuleDependencyAttribute Class
 ===============================
 
-Specifies that the current module has a dependency on another module. This attribute should be used on classes that implement [IModule](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodule(v=pandp.50)).
+Specifies that the current module has a dependency on another module. This attribute should be used on classes that implement [IModule](imodule-interface-mspp-modularity.md).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -43,6 +43,6 @@ See Also
 --------
 
 
-[ModuleDependencyAttribute Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencyattribute_members(v=pandp.50))
+[ModuleDependencyAttribute Members](moduledependencyattribute-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

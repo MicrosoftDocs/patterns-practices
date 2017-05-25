@@ -2,7 +2,7 @@
 TOCTitle: AutoPopulateRegionBehavior Properties
 Title: 'AutoPopulateRegionBehavior Properties (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior_properties(v=pandp.50)'
+ms:mtpsurl: 'autopopulateregionbehavior-properties-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library

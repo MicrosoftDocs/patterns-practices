@@ -2,16 +2,16 @@
 TOCTitle: SyncRegionContextWithHostBehavior Constructor
 Title: 'SyncRegionContextWithHostBehavior Constructor (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior.syncregioncontextwithhostbehavior(v=pandp.50)'
+ms:mtpsurl: 'syncregioncontextwithhostbehavior-constructor-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library
 
 # SyncRegionContextWithHostBehavior Constructor
 
-Initializes a new instance of the [SyncRegionContextWithHostBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior(v=pandp.50)) class
+Initializes a new instance of the [SyncRegionContextWithHostBehavior](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors.md) class
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -30,8 +30,8 @@ Public Sub New
 
 ## See Also
 
-[SyncRegionContextWithHostBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior(v=pandp.50))
+[SyncRegionContextWithHostBehavior Class](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors.md)
 
-[SyncRegionContextWithHostBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior_members(v=pandp.50))
+[SyncRegionContextWithHostBehavior Members](syncregioncontextwithhostbehavior-members-mspp-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: ToString Method
 Title: 'RegionNavigationJournalEntry.ToString Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry.ToString'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournalentry.tostring(v=pandp.50)'
+ms:mtpsurl: 'regionnavigationjournalentry-tostring-method-mspp-regions.md'
 ---
 
 Prism Class Library

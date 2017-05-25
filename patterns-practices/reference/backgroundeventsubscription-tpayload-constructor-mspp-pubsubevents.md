@@ -2,7 +2,7 @@
 TOCTitle: 'BackgroundEventSubscription(TPayload) Constructor'
 Title: 'BackgroundEventSubscription(TPayload) Constructor (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscription\`1.\#ctor(Microsoft.Practices.Prism.PubSubEvents.IDelegateReference,Microsoft.Practices.Prism.PubSubEvents.IDelegateReference)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736142(v=pandp.50)'
+ms:mtpsurl: 'backgroundeventsubscription-tpayload-constructor-mspp-pubsubevents.md'
 ---
 
 Prism Class Library

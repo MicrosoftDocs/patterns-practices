@@ -2,14 +2,14 @@
 TOCTitle: GetRegionName Method
 Title: 'RegionManager.GetRegionName Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManager.GetRegionName(System.Windows.DependencyObject)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager.getregionname(v=pandp.50)'
+ms:mtpsurl: 'regionmanager-getregionname-method-mspp-regions.md'
 ---
 
 # RegionManager.GetRegionName Method
 
-Gets the value for the [RegionNameProperty](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager.regionnameproperty(v=pandp.50)) attached property.
+Gets the value for the [RegionNameProperty](regionmanager-regionnameproperty-field-mspp-regions.md) attached property.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -41,12 +41,12 @@ Public Shared Function GetRegionName (
 ### Return Value
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)<br/>
-The name of the region that should be created when [RegionManagerProperty](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager.regionmanagerproperty(v=pandp.50)) is also set in this element.
+The name of the region that should be created when [RegionManagerProperty](regionmanager-regionmanagerproperty-field-mspp-regions.md) is also set in this element.
 
 ## See Also
 
-[RegionManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager(v=pandp.50))
+[RegionManager Class](regionmanager-class-mspp-regions.md)
 
-[RegionManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager_members(v=pandp.50))
+[RegionManager Members](regionmanager-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

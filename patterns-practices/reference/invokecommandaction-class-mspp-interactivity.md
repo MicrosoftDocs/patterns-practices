@@ -2,14 +2,14 @@
 TOCTitle: InvokeCommandAction Class
 Title: 'InvokeCommandAction Class (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50)'
+ms:mtpsurl: 'invokecommandaction-class-mspp-interactivity.md'
 ---
 
 # InvokeCommandAction Class
 
 Trigger action that executes a command when invoked. It also maintains the Enabled state of the target control based on the CanExecute method of the command.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](mspp-interactivity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -53,6 +53,6 @@ Public Class InvokeCommandAction
 
 ## See Also
 
-[InvokeCommandAction Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction_members(v=pandp.50))
+[InvokeCommandAction Members](invokecommandaction-members-mspp-interactivity.md)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace.md)

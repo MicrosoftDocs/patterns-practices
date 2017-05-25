@@ -2,7 +2,7 @@
 TOCTitle: ClearChildViewsRegionBehavior Attached Properties
 Title: 'ClearChildViewsRegionBehavior Attached Properties (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'AttachedProperties.T:Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior_attachedproperties(v=pandp.50)'
+ms:mtpsurl: 'clearchildviewsregionbehavior-attached-properties-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library

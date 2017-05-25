@@ -2,7 +2,7 @@
 TOCTitle: CreateViewsToAutoPopulate Method
 Title: 'AutoPopulateRegionBehavior.CreateViewsToAutoPopulate Method (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior.CreateViewsToAutoPopulate'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior.createviewstoautopopulate(v=pandp.50)'
+ms:mtpsurl: 'autopopulateregionbehavior-createviewstoautopopulate-method-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library

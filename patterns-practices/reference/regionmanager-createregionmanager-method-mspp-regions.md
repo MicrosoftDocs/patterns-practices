@@ -2,7 +2,7 @@
 TOCTitle: CreateRegionManager Method
 Title: 'RegionManager.CreateRegionManager Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManager.CreateRegionManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager.createregionmanager(v=pandp.50)'
+ms:mtpsurl: 'regionmanager-createregionmanager-method-mspp-regions.md'
 ---
 
 Prism Class Library

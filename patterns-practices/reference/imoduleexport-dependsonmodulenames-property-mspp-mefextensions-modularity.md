@@ -2,7 +2,7 @@
 TOCTitle: DependsOnModuleNames Property
 Title: 'IModuleExport.DependsOnModuleNames Property (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.MefExtensions.Modularity.IModuleExport.DependsOnModuleNames'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport.dependsonmodulenames(v=pandp.50)'
+ms:mtpsurl: 'imoduleexport-dependsonmodulenames-property-mspp-mefextensions-modularity.md'
 ---
 
 Prism Class Library

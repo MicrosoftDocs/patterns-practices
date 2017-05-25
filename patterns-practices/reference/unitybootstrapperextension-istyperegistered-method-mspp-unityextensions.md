@@ -2,7 +2,7 @@
 TOCTitle: IsTypeRegistered Method
 Title: 'UnityBootstrapperExtension.IsTypeRegistered Method (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtension.IsTypeRegistered(Microsoft.Practices.Unity.IUnityContainer,System.Type)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension.istyperegistered(v=pandp.50)'
+ms:mtpsurl: 'unitybootstrapperextension-istyperegistered-method-mspp-unityextensions.md'
 ---
 
 Prism Class Library

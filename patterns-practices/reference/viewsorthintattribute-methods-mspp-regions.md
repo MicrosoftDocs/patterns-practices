@@ -2,12 +2,12 @@
 TOCTitle: ViewSortHintAttribute Methods
 Title: 'ViewSortHintAttribute Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.ViewSortHintAttribute'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewsorthintattribute_methods(v=pandp.50)'
+ms:mtpsurl: 'viewsorthintattribute-methods-mspp-regions.md'
 ---
 
 # ViewSortHintAttribute Methods
 
-The [ViewSortHintAttribute](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewsorthintattribute(v=pandp.50)) type exposes the following members.
+The [ViewSortHintAttribute](viewsorthintattribute-class-mspp-regions.md) type exposes the following members.
 
 ## Methods
  
@@ -94,7 +94,7 @@ The [ViewSortHintAttribute](https://msdn.microsoft.com/en-us/library/microsoft.p
 
 ## See Also
 
-[ViewSortHintAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewsorthintattribute(v=pandp.50))
+[ViewSortHintAttribute Class](viewsorthintattribute-class-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](hhttps://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](hmspp-regions-namespace.md)
 

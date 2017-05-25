@@ -2,7 +2,7 @@
 TOCTitle: LoadModuleType Method
 Title: 'MefFileModuleTypeLoader.LoadModuleType Method (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefFileModuleTypeLoader.LoadModuleType(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader.loadmoduletype(v=pandp.50)'
+ms:mtpsurl: 'meffilemoduletypeloader-loadmoduletype-method-mspp-mefextensions-modularity.md'
 ---
 
 Prism Class Library
@@ -12,7 +12,7 @@ MefFileModuleTypeLoader.LoadModuleType Method
 
 Retrieves the moduleInfo.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -40,20 +40,20 @@ Public Overridable Sub LoadModuleType (
 
 *moduleInfo*  
 
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity.md)
 
 Module that should have it's type loaded.
 
 ### Implements
 
-[IModuleTypeLoader.LoadModuleType(ModuleInfo)](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader.loadmoduletype(v=pandp.50))
+[IModuleTypeLoader.LoadModuleType(ModuleInfo)](imoduletypeloader-loadmoduletype-method-mspp-modularity.md)
 
 See Also
 --------
 
 
-[MefFileModuleTypeLoader Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader(v=pandp.50))
+[MefFileModuleTypeLoader Class](meffilemoduletypeloader-class-mspp-mefextensions-modularity.md)
 
-[MefFileModuleTypeLoader Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader_members(v=pandp.50))
+[MefFileModuleTypeLoader Members](meffilemoduletypeloader-members-mspp-mefextensions-modularity.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)

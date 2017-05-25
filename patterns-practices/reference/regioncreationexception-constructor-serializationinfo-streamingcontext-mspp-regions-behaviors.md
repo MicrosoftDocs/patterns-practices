@@ -2,14 +2,14 @@
 TOCTitle: 'RegionCreationException Constructor (SerializationInfo, StreamingContext)'
 Title: 'RegionCreationException Constructor (SerializationInfo, StreamingContext) (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.RegionCreationException.\#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regioncreationexception.regioncreationexception(v=pandp.50)'
+ms:mtpsurl: 'regioncreationexception-constructor-mspp-regions-behaviors.md'
 ---
 
 # RegionCreationException Constructor (SerializationInfo, StreamingContext)
 
-Initializes a new instance of the [RegionCreationException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regioncreationexception(v=pandp.50)) class with serialized data.
+Initializes a new instance of the [RegionCreationException](regioncreationexception-class-mspp-regions-behaviors.md) class with serialized data.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -47,10 +47,10 @@ Protected Sub New (
 
 ## See Also
 
-[RegionCreationException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regioncreationexception(v=pandp.50))
+[RegionCreationException Class](regioncreationexception-class-mspp-regions-behaviors.md)
 
-[RegionCreationException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regioncreationexception_members(v=pandp.50))
+[RegionCreationException Members](regioncreationexception-members-mspp-regions-behaviors.md)
 
 RegionCreationException Overload
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)

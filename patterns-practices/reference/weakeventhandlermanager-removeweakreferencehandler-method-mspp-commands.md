@@ -2,14 +2,14 @@
 TOCTitle: RemoveWeakReferenceHandler Method
 Title: 'WeakEventHandlerManager.RemoveWeakReferenceHandler Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.WeakEventHandlerManager.RemoveWeakReferenceHandler(System.Collections.Generic.List{System.WeakReference},System.EventHandler)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager.removeweakreferencehandler(v=pandp.50)'
+ms:mtpsurl: 'weakeventhandlermanager-removeweakreferencehandler-method-mspp-commands.md'
 ---
 
 # WeakEventHandlerManager.RemoveWeakReferenceHandler Method
 
 Removes an event handler from the reference list.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Commands](mspp-commands-namespace.md)
 
 =======
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
@@ -60,12 +60,12 @@ Public Shared Sub RemoveWeakReferenceHandler (
 
 ## See Also
 
-[WeakEventHandlerManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager(v=pandp.50))
+[WeakEventHandlerManager Class](weakeventhandlermanager-class-mspp-commands.md)
 =======
 [WeakEventHandlerManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager)
 
-[WeakEventHandlerManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager_members(v=pandp.50))
+[WeakEventHandlerManager Members](weakeventhandlermanager-members-mspp-commands.md)
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
+[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)
 =======
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)

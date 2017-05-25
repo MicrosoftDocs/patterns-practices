@@ -2,7 +2,7 @@
 TOCTitle: Remove Method
 Title: 'ModuleInfoGroup.Remove Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Remove(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup.remove(v=pandp.50)'
+ms:mtpsurl: 'moduleinfogroup-remove-method-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -10,9 +10,9 @@ Prism Class Library
 ModuleInfoGroup.Remove Method
 =================================
 
-Removes the first occurrence of a specific object from the [ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50)).
+Removes the first occurrence of a specific object from the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -34,14 +34,14 @@ Public Function Remove ( item As ModuleInfo ) As Boolean
 ### Parameters
 
 *item*  
-	Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))
-	The object to remove from the [ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50)).
+	Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity.md)
+	The object to remove from the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md).
 
 ### Return Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
-true if item was successfully removed from the [ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50)); otherwise, false. This method also returns false if item is not found in the original [ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50)).
+true if item was successfully removed from the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md); otherwise, false. This method also returns false if item is not found in the original [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md).
 ### Implements
 
 [ICollection&lt;T&gt;.Remove(T)](http://msdn.microsoft.com/en-us/library/bye7h94w)
@@ -50,8 +50,8 @@ See Also
 --------
 
 
-[ModuleInfoGroup Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50))
+[ModuleInfoGroup Class](moduleinfogroup-class-mspp-modularity.md)
 
-[ModuleInfoGroup Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup_members(v=pandp.50))
+[ModuleInfoGroup Members](moduleinfogroup-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: Filter Property
 Title: 'EventSubscription(TPayload).Filter Property (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'P:Microsoft.Practices.Prism.PubSubEvents.EventSubscription\`1.Filter'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736196(v=pandp.50)'
+ms:mtpsurl: 'eventsubscription-tpayload-filter-property-mspp-pubsubevents.md'
 ---
 
 Prism Class Library

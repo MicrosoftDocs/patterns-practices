@@ -2,14 +2,14 @@
 TOCTitle: OnViewRegistered Method
 Title: 'AutoPopulateRegionBehavior.OnViewRegistered Method (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior.OnViewRegistered(System.Object,Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior.onviewregistered(v=pandp.50)'
+ms:mtpsurl: 'autopopulateregionbehavior-onviewregistered-method-mspp-regions-behaviors.md'
 ---
 
 # AutoPopulateRegionBehavior.OnViewRegistered Method
 
 Handler of the event that fires when a new viewtype is registered to the registry.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -41,7 +41,7 @@ sender
 
 *e*
 
-    Type: [Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregisteredeventargs(v=pandp.50))
+    Type: [Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs](viewregisteredeventargs-class-mspp-regions.md)
 
 ## Remarks
 
@@ -49,8 +49,8 @@ Although this is a public method to support Weak Delegates in Silverlight, it sh
 
 ## See Also
 
-[AutoPopulateRegionBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior(v=pandp.50))
+[AutoPopulateRegionBehavior Class](autopopulateregionbehavior-class-mspp-regions-behaviors.md)
 
-[AutoPopulateRegionBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior_members(v=pandp.50))
+[AutoPopulateRegionBehavior Members](autopopulateregionbehavior-members-mspp-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: RegionBehavior Constructor
 Title: 'RegionBehavior Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionBehavior.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior.regionbehavior(v=pandp.50)'
+ms:mtpsurl: 'regionbehavior-constructor-mspp-regions.md'
 ---
 
 Prism Class Library

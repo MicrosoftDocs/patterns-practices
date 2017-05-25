@@ -2,7 +2,7 @@
 TOCTitle: 'Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace'
 Title: 'Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows(v=pandp.50)'
+ms:mtpsurl: 'mspp-interactivity-defaultpopupwindows-namespace.md'
 ---
 
 Prism Class Library

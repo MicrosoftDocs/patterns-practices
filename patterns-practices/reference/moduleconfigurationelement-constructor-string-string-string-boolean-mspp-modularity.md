@@ -2,16 +2,16 @@
 TOCTitle: 'ModuleConfigurationElement Constructor (String, String, String, Boolean)'
 Title: 'ModuleConfigurationElement Constructor (String, String, String, Boolean) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement.\#ctor(System.String,System.String,System.String,System.Boolean)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelement.moduleconfigurationelement(v=pandp.50)'
+ms:mtpsurl: 'moduleconfigurationelement-constructor-mspp-modularity.md'
 ---
 
 Prism Class Library
 
 # ModuleConfigurationElement Constructor (String, String, String, Boolean)
 
-Initializes a new instance of [ModuleConfigurationElement](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelement(v=pandp.50)).
+Initializes a new instance of [ModuleConfigurationElement](moduleconfigurationelement-class-mspp-modularity.md).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -62,10 +62,10 @@ Public Sub New (
 
 ## See Also
 
-[ModuleConfigurationElement Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelement(v=pandp.50))
+[ModuleConfigurationElement Class](moduleconfigurationelement-class-mspp-modularity.md)
 
-[ModuleConfigurationElement Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelement_members(v=pandp.50))
+[ModuleConfigurationElement Members](moduleconfigurationelement-members-mspp-modularity.md)
 
 ModuleConfigurationElement Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

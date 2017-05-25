@@ -2,7 +2,7 @@
 TOCTitle: OnIsActiveChanged Method
 Title: 'DelegateCommandBase.OnIsActiveChanged Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommandBase.OnIsActiveChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase.onisactivechanged(v=pandp.50)'
+ms:mtpsurl: 'delegatecommandbase-onisactivechanged-method-mspp-commands.md'
 ---
 
 Prism Class Library

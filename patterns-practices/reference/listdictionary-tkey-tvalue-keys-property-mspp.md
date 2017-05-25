@@ -2,7 +2,7 @@
 TOCTitle: Keys Property
 Title: 'ListDictionary(TKey, TValue).Keys Property (Microsoft.Practices.Prism)'
 ms:assetid: 'P:Microsoft.Practices.Prism.ListDictionary\`2.Keys'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg431257(v=pandp.50)'
+ms:mtpsurl: 'listdictionary-tkey-tvalue-keys-property-mspp.md'
 ---
 
 Prism Class Library

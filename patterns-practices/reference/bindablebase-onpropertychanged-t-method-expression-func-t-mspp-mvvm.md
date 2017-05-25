@@ -2,7 +2,7 @@
 TOCTitle: 'OnPropertyChanged(T) Method (Expression(Func(T)))'
 Title: 'BindableBase.OnPropertyChanged(T) Method (Expression(Func(T))) (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Mvvm.BindableBase.OnPropertyChanged\`\`1(System.Linq.Expressions.Expression{System.Func{\`\`0}})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736238(v=pandp.50)'
+ms:mtpsurl: 'bindablebase-onpropertychanged-t-method-expression-func-t-mspp-mvvm.md'
 ---
 
 Prism Class Library

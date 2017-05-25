@@ -2,7 +2,7 @@
 TOCTitle: State Property
 Title: 'ModuleInfo.State Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfo.State'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo.state(v=pandp.50)'
+ms:mtpsurl: 'moduleinfo-state-property-mspp-modularity.md'
 ---
 
 Prism Class Library

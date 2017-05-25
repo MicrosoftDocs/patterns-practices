@@ -2,7 +2,7 @@
 TOCTitle: HandleModuleInitializationError Method
 Title: 'ModuleInitializer.HandleModuleInitializationError Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializer.HandleModuleInitializationError(Microsoft.Practices.Prism.Modularity.ModuleInfo,System.String,System.Exception)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer.handlemoduleinitializationerror(v=pandp.50)'
+ms:mtpsurl: 'moduleinitializer-handlemoduleinitializationerror-method-mspp-modularity.md'
 ---
 
 Prism Class Library

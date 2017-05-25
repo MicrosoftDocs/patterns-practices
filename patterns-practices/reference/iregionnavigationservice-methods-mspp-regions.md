@@ -2,7 +2,7 @@
 TOCTitle: IRegionNavigationService Methods
 Title: 'IRegionNavigationService Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegionNavigationService'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice_methods(v=pandp.50)'
+ms:mtpsurl: 'iregionnavigationservice-methods-mspp-regions.md'
 ---
 
 Prism Class Library

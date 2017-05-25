@@ -2,7 +2,7 @@
 TOCTitle: PropertySupport Methods
 Title: 'PropertySupport Methods (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Mvvm.PropertySupport'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.propertysupport_methods(v=pandp.50)'
+ms:mtpsurl: 'propertysupport-methods-mspp-mvvm.md'
 ---
 
 Prism Class Library

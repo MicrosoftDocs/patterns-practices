@@ -2,7 +2,7 @@
 TOCTitle: ConfigureContainer Method
 Title: 'UnityBootstrapper.ConfigureContainer Method (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.ConfigureContainer'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapper.configurecontainer(v=pandp.50)'
+ms:mtpsurl: 'unitybootstrapper-configurecontainer-method-mspp-unityextensions.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: ModuleAttribute Constructor
 Title: 'ModuleAttribute Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleAttribute.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleattribute.moduleattribute(v=pandp.50)'
+ms:mtpsurl: 'moduleattribute-constructor-mspp-modularity.md'
 ---
 
 Prism Class Library

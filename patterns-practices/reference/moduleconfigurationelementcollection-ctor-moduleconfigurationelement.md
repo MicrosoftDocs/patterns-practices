@@ -2,7 +2,7 @@
 TOCTitle: 'ModuleConfigurationElementCollection Constructor (ModuleConfigurationElement[])'
 Title: 'ModuleConfigurationElementCollection Constructor (ModuleConfigurationElement[]) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection.\#ctor(Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement[])'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.moduleconfigurationelementcollection(v=pandp.50)'
+ms:mtpsurl: 'moduleconfigurationelementcollection-constructor-mspp-modularity.md'
 ---
 
 Prism Class Library

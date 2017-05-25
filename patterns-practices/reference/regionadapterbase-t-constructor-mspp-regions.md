@@ -2,7 +2,7 @@
 TOCTitle: 'RegionAdapterBase(T) Constructor'
 Title: 'RegionAdapterBase(T) Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionAdapterBase\`1.\#ctor(Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405694(v=pandp.50)'
+ms:mtpsurl: 'regionadapterbase-t-constructor-mspp-regions.md'
 ---
 
 Prism Class Library

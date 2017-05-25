@@ -2,7 +2,7 @@
 TOCTitle: ConfirmNavigationRequest Method
 Title: 'IConfirmNavigationRequest.ConfirmNavigationRequest Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IConfirmNavigationRequest.ConfirmNavigationRequest(Microsoft.Practices.Prism.Regions.NavigationContext,System.Action{System.Boolean})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iconfirmnavigationrequest.confirmnavigationrequest(v=pandp.50)'
+ms:mtpsurl: 'iconfirmnavigationrequest-confirmnavigationrequest-method-mspp-regions.md'
 ---
 
 Prism Class Library

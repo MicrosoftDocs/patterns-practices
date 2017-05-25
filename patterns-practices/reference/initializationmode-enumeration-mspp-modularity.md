@@ -2,7 +2,7 @@
 TOCTitle: InitializationMode Enumeration
 Title: 'InitializationMode Enumeration (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.InitializationMode'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.initializationmode(v=pandp.50)'
+ms:mtpsurl: 'initializationmode-enumeration-mspp-modularity.md'
 ---
 
 Prism Class Library

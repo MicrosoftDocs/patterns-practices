@@ -2,14 +2,14 @@
 TOCTitle: FileModuleTypeLoader Methods
 Title: 'FileModuleTypeLoader Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader_methods(v=pandp.50)'
+ms:mtpsurl: 'filemoduletypeloader-methods-mspp-modularity.md'
 ---
 
 Prism Class Library
 
 # FileModuleTypeLoader Methods
 
-The [FileModuleTypeLoader](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader(v=pandp.50)) type exposes the following members.
+The [FileModuleTypeLoader](filemoduletypeloader-class-mspp-modularity.md) type exposes the following members.
 
 ## Methods
  
@@ -104,6 +104,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[FileModuleTypeLoader Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader(v=pandp.50))
+[FileModuleTypeLoader Class](filemoduletypeloader-class-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

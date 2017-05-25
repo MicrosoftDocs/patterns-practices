@@ -2,7 +2,7 @@
 TOCTitle: IRegionCollection Properties
 Title: 'IRegionCollection Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionCollection'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection_properties(v=pandp.50)'
+ms:mtpsurl: 'iregioncollection-properties-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -10,7 +10,7 @@ Prism Class Library
 IRegionCollection Properties
 ============================
 
-The [IRegionCollection](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection(v=pandp.50)) type exposes the following members.
+The [IRegionCollection](iregioncollection-interface-mspp-regions.md) type exposes the following members.
 
 Properties
 ----------
@@ -39,6 +39,6 @@ See Also
 --------
 
 
-[IRegionCollection Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection(v=pandp.50))
+[IRegionCollection Interface](iregioncollection-interface-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

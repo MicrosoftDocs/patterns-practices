@@ -2,14 +2,14 @@
 TOCTitle: Region Class
 Title: 'Region Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.Region'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region(v=pandp.50)'
+ms:mtpsurl: 'region-class-mspp-regions.md'
 ---
 
 # Region Class
 
-Implementation of [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)) that allows multiple active views.
+Implementation of [IRegion](iregion-interface-mspp-regions.md) that allows multiple active views.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,11 +32,11 @@ Public Class Region
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
   Microsoft.Practices.Prism.Regions.Region<br/>
-    [Microsoft.Practices.Prism.Regions.AllActiveRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.allactiveregion(v=pandp.50))<br/>
-    [Microsoft.Practices.Prism.Regions.SingleActiveRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.singleactiveregion(v=pandp.50))
+    [Microsoft.Practices.Prism.Regions.AllActiveRegion](allactiveregion-class-mspp-regions.md)<br/>
+    [Microsoft.Practices.Prism.Regions.SingleActiveRegion](singleactiveregion-class-mspp-regions.md)
 
 ## See Also
 
-[Region Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region_members(v=pandp.50))
+[Region Members](region-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

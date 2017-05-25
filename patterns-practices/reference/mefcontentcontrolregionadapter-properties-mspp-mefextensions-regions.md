@@ -2,7 +2,7 @@
 TOCTitle: MefContentControlRegionAdapter Properties
 Title: 'MefContentControlRegionAdapter Properties (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefContentControlRegionAdapter'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefcontentcontrolregionadapter_properties(v=pandp.50)'
+ms:mtpsurl: 'mefcontentcontrolregionadapter-properties-mspp-mefextensions-regions.md'
 ---
 
 Prism Class Library
@@ -10,7 +10,7 @@ Prism Class Library
 MefContentControlRegionAdapter Properties
 =========================================
 
-The [MefContentControlRegionAdapter](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefcontentcontrolregionadapter(v=pandp.50)) type exposes the following members.
+The [MefContentControlRegionAdapter](mefcontentcontrolregionadapter-class-mspp-mefextensions-regions.md) type exposes the following members.
 
 Properties
 ----------
@@ -40,6 +40,6 @@ See Also
 --------
 
 
-[MefContentControlRegionAdapter Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefcontentcontrolregionadapter(v=pandp.50))
+[MefContentControlRegionAdapter Class](mefcontentcontrolregionadapter-class-mspp-mefextensions-regions.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace.md)

@@ -2,12 +2,12 @@
 TOCTitle: IRegionNavigationService Properties
 Title: 'IRegionNavigationService Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionNavigationService'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice_properties(v=pandp.50)'
+ms:mtpsurl: 'iregionnavigationservice-properties-mspp-regions.md'
 ---
 
 # IRegionNavigationService Properties
 
-The [IRegionNavigationService](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice(v=pandp.50)) type exposes the following members.
+The [IRegionNavigationService](iregionnavigationservice-interface-mspp-regions.md) type exposes the following members.
 
 ## Properties
 
@@ -33,7 +33,7 @@ The [IRegionNavigationService](https://msdn.microsoft.com/en-us/library/microsof
 
  </td>
  <td>
-<a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice.journal(v=pandp.50)">Journal</a>
+<a href="iregionnavigationservice-journal-property-mspp-regions.md">Journal</a>
  </td>
  <td>
 <div>
@@ -47,7 +47,7 @@ Gets the journal.
 ![](https://msdn.microsoft.com/en-us/Gg431203.pubproperty(en-us,PandP.50).gif "Public property")
  </td>
  <td>
-<a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice.region(v=pandp.50)">Region</a>
+<a href="iregionnavigationservice-region-property-mspp-regions.md">Region</a>
  </td>
  <td>
 <div>
@@ -60,6 +60,6 @@ Gets or sets the region owning this service.
 
 ## See Also
 
-[IRegionNavigationService Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice(v=pandp.50))
+[IRegionNavigationService Interface](iregionnavigationservice-interface-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: NotificationObject Members
 Title: 'NotificationObject Members (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.ViewModel.NotificationObject'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.notificationobject_members(v=pandp.50)'
+ms:mtpsurl: 'notificationobject-members-mspp-viewmodel.md'
 ---
 
 Prism Class Library

@@ -2,16 +2,16 @@
 TOCTitle: 'DelegateCommand(T) Constructor (Action(T), Func(T, Boolean))'
 Title: 'DelegateCommand(T) Constructor (Action(T), Func(T, Boolean)) (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand\`1.\#ctor(System.Action{\`0},System.Func{\`0,System.Boolean})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg406162(v=pandp.50)'
+ms:mtpsurl: 'delegatecommand-t-constructor-action-t-func-t-boolean-mspp-commands.md'
 ---
 
 Prism Class Library
 
 # DelegateCommand&lt;T&gt; Constructor (Action&lt;T&gt;, Func&lt;T, Boolean&gt;)
 
-Initializes a new instance of [DelegateCommand&lt;T&gt;](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)).
+Initializes a new instance of [DelegateCommand&lt;T&gt;](delegatecommand-t-class-mspp-commands.md).
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Commands](mspp-commands-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -29,13 +29,13 @@ public DelegateCommand(
 
 *executeMethod*  
 
-	Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[T](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50))&gt;
+	Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[T](delegatecommand-t-class-mspp-commands.md)&gt;
 
 	Delegate to execute when Execute is called on the command. This can be null to just hook up a CanExecute delegate.
 
 *canExecuteMethod*
 
-	Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;[T](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)), [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;
+	Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;[T](delegatecommand-t-class-mspp-commands.md), [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;
 
 	Delegate to execute when CanExecute is called on the command. This can be null.
 
@@ -46,19 +46,19 @@ public DelegateCommand(
 
 ## See Also
 
-[DelegateCommand&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50))
+[DelegateCommand&lt;T&gt; Class](delegatecommand-t-class-mspp-commands.md)
 
-[DelegateCommand&lt;T&gt; Members](https://msdn.microsoft.com/en-us/library/gg430763(v=pandp.50))
+[DelegateCommand&lt;T&gt; Members](delegatecommand-t-members-mspp-commands.md)
 
 DelegateCommand&lt;T&gt; Overload
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
+[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)
 
 # DelegateCommand(Of T) Constructor (Action(Of T), Func(Of T, Boolean))
 
-Initializes a new instance of [DelegateCommand(Of T)](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)).
+Initializes a new instance of [DelegateCommand(Of T)](delegatecommand-t-class-mspp-commands.md).
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Commands](mspp-commands-namespace.md)
 
 
 
@@ -79,13 +79,13 @@ Public Sub New (
 
 *executeMethod*  
 
-	Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [T](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)))
+	Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [T](delegatecommand-t-class-mspp-commands.md))
 
 	Delegate to execute when Execute is called on the command. This can be null to just hook up a CanExecute delegate.
 
 *canExecuteMethod*
 
-	Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of [T](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)), [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50))
+	Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of [T](delegatecommand-t-class-mspp-commands.md), [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50))
 
 	Delegate to execute when CanExecute is called on the command. This can be null.
 
@@ -96,10 +96,10 @@ Public Sub New (
 
 ## See Also
 
-[DelegateCommand(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50))
+[DelegateCommand(Of T) Class](delegatecommand-t-class-mspp-commands.md)
 
-[DelegateCommand(Of T) Members](https://msdn.microsoft.com/en-us/library/gg430763(v=pandp.50))
+[DelegateCommand(Of T) Members](delegatecommand-t-members-mspp-commands.md)
 
 DelegateCommand(Of T) Overload
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
+[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)

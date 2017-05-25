@@ -2,7 +2,7 @@
 TOCTitle: 'RequestNavigate Method (Uri, Action(NavigationResult))'
 Title: 'INavigateAsync.RequestNavigate Method (Uri, Action(NavigationResult)) (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.INavigateAsync.RequestNavigate(System.Uri,System.Action{Microsoft.Practices.Prism.Regions.NavigationResult})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync.requestnavigate(v=pandp.50)'
+ms:mtpsurl: 'inavigateasync-requestnavigate-method-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -12,7 +12,7 @@ INavigateAsync.RequestNavigate Method (Uri, Action&lt;NavigationResult&gt;)
 
 Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -44,23 +44,23 @@ Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 The navigation target
 
 *navigationCallback*  
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult(v=pandp.50))&gt;
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](navigationresult-class-mspp-regions.md)&gt;
 
 The callback executed when the navigation request is completed.
 
 Remarks
 -------
 
- Convenience overloads for this method can be found as extension methods on the [NavigationAsyncExtensions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions(v=pandp.50)) class.
+ Convenience overloads for this method can be found as extension methods on the [NavigationAsyncExtensions](navigationasyncextensions-class-mspp-regions.md) class.
 
 See Also
 --------
 
 
-[INavigateAsync Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync(v=pandp.50))
+[INavigateAsync Interface](inavigateasync-interface-mspp-regions.md)
 
-[INavigateAsync Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync_members(v=pandp.50))
+[INavigateAsync Members](inavigateasync-members-mspp-regions.md)
 
-[RequestNavigate Overload](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync.requestnavigate(v=pandp.50))
+[RequestNavigate Overload](inavigateasync-requestnavigate-method-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: Priority Enumeration
 Title: 'Priority Enumeration (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Logging.Priority'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.priority(v=pandp.50)'
+ms:mtpsurl: 'priority-enumeration-mspp-logging.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: MefRegionNavigationContentLoader Constructor
 Title: 'MefRegionNavigationContentLoader Constructor (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationContentLoader.\#ctor(Microsoft.Practices.ServiceLocation.IServiceLocator)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader.mefregionnavigationcontentloader(v=pandp.50)'
+ms:mtpsurl: 'mefregionnavigationcontentloader-constructor-mspp-mefextensions-regions.md'
 ---
 
 Prism Class Library

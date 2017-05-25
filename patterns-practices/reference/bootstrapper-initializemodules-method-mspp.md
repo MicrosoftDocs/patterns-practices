@@ -2,7 +2,7 @@
 TOCTitle: InitializeModules Method
 Title: 'Bootstrapper.InitializeModules Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.InitializeModules'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper.initializemodules(v=pandp.50)'
+ms:mtpsurl: 'bootstrapper-initializemodules-method-mspp.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: MefRegionNavigationJournal Class
 Title: 'MefRegionNavigationJournal Class (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournal'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal(v=pandp.50)'
+ms:mtpsurl: 'mefregionnavigationjournal-class-mspp-mefextensions-regions.md'
 ---
 
 Prism Class Library

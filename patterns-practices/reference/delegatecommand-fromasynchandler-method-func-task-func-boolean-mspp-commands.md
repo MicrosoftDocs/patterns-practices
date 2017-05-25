@@ -2,7 +2,7 @@
 TOCTitle: 'FromAsyncHandler Method (Func(Task), Func(Boolean))'
 Title: 'DelegateCommand.FromAsyncHandler Method (Func(Task), Func(Boolean)) (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand.FromAsyncHandler(System.Func{System.Threading.Tasks.Task},System.Func{System.Boolean})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand.fromasynchandler(v=pandp.50)'
+ms:mtpsurl: 'delegatecommand-fromasynchandler-method-func-task-func-boolean-mspp-commands.md'
 ---
 
 Prism Class Library

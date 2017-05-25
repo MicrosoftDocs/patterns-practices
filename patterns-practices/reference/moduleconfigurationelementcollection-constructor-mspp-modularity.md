@@ -2,7 +2,7 @@
 TOCTitle: ModuleConfigurationElementCollection Constructor
 Title: 'ModuleConfigurationElementCollection Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.moduleconfigurationelementcollection(v=pandp.50)'
+ms:mtpsurl: 'moduleconfigurationelementcollection-constructor-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -46,8 +46,8 @@ See Also
 --------
 
 
-[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection(v=pandp.50))
+[ModuleConfigurationElementCollection Class](moduleconfigurationelementcollection-class-mspp-modularity.md)
 
-[ModuleConfigurationElementCollection Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection_members(v=pandp.50))
+[ModuleConfigurationElementCollection Members](moduleconfigurationelementcollection-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

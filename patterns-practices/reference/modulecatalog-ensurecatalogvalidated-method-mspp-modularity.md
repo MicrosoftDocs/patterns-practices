@@ -2,7 +2,7 @@
 TOCTitle: EnsureCatalogValidated Method
 Title: 'ModuleCatalog.EnsureCatalogValidated Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.EnsureCatalogValidated'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.ensurecatalogvalidated(v=pandp.50)'
+ms:mtpsurl: 'modulecatalog-ensurecatalogvalidated-method-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Ensures that the catalog is validated.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,8 +32,8 @@ Protected Overridable Sub EnsureCatalogValidated
 ## See Also
 
 
-[ModuleCatalog Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50))
+[ModuleCatalog Class](modulecatalog-class-mspp-modularity.md)
 
-[ModuleCatalog Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog_members(v=pandp.50))
+[ModuleCatalog Members](modulecatalog-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: RegisteredCommands Property
 Title: 'CompositeCommand.RegisteredCommands Property (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Commands.CompositeCommand.RegisteredCommands'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand.registeredcommands(v=pandp.50)'
+ms:mtpsurl: 'compositecommand-registeredcommands-property-mspp-commands.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: MefDelayedRegionCreationBehavior Methods
 Title: 'MefDelayedRegionCreationBehavior Methods (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefDelayedRegionCreationBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior_methods(v=pandp.50)'
+ms:mtpsurl: 'mefdelayedregioncreationbehavior-methods-mspp-mefextensions-regions-behaviors.md'
 ---
 
 Prism Class Library

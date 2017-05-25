@@ -2,7 +2,7 @@
 TOCTitle: IDispatcherFacade Interface
 Title: 'IDispatcherFacade Interface (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Events.IDispatcherFacade'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.idispatcherfacade(v=pandp.50)'
+ms:mtpsurl: 'idispatcherfacade-interface-mspp-events.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Defines the interface for invoking methods through a Dispatcher Facade
 
-**Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Events](mspp-events-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,6 +32,6 @@ Public Interface IDispatcherFacade
 ## See Also
 
 
-[IDispatcherFacade Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.idispatcherfacade_members(v=pandp.50))
+[IDispatcherFacade Members](idispatcherfacade-members-mspp-events.md)
 
-[Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
+[Microsoft.Practices.Prism.Events Namespace](mspp-events-namespace.md)

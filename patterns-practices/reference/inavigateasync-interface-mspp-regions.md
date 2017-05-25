@@ -2,7 +2,7 @@
 TOCTitle: INavigateAsync Interface
 Title: 'INavigateAsync Interface (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.INavigateAsync'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync(v=pandp.50)'
+ms:mtpsurl: 'inavigateasync-interface-mspp-regions.md'
 ---
 
 Prism Class Library

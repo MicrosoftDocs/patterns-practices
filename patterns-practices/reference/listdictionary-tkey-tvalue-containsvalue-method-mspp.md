@@ -2,7 +2,7 @@
 TOCTitle: ContainsValue Method
 Title: 'ListDictionary(TKey, TValue).ContainsValue Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.ContainsValue(\`1)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405800(v=pandp.50)'
+ms:mtpsurl: 'listdictionary-tkey-tvalue-containsvalue-method-mspp.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Determines whether the dictionary contains the specified value.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism](mspp-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -30,7 +30,7 @@ public bool ContainsValue(
 
 *value*
 
-	Type: [TValue](https://msdn.microsoft.com/en-us/library/gg431434(v=pandp.50))
+	Type: [TValue](listdictionary-tkey-tvalue-class-mspp.md)
 	The value to locate.
 
 ### Return Value
@@ -40,17 +40,17 @@ true if the dictionary contains the value in any list; otherwise, false.
 
 ## See Also
 
-[ListDictionary&lt;TKey, TValue&gt; Class](https://msdn.microsoft.com/en-us/library/gg431434(v=pandp.50))
+[ListDictionary&lt;TKey, TValue&gt; Class](listdictionary-tkey-tvalue-class-mspp.md)
 
-[ListDictionary&lt;TKey, TValue&gt; Members](https://msdn.microsoft.com/en-us/library/gg430787(v=pandp.50))
+[ListDictionary&lt;TKey, TValue&gt; Members](listdictionary-tkey-tvalue-members-mspp.md)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+[Microsoft.Practices.Prism Namespace](mspp-namespace.md)
 
 # ListDictionary(Of TKey, TValue).ContainsValue Method
 
 Determines whether the dictionary contains the specified value.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism](mspp-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -70,7 +70,7 @@ Public Function ContainsValue (
 
 *value*
 
-	Type: [TValue](https://msdn.microsoft.com/en-us/library/gg431434(v=pandp.50)) 
+	Type: [TValue](listdictionary-tkey-tvalue-class-mspp.md) 
 	The value to locate.
 
 ### Return Value
@@ -80,8 +80,8 @@ true if the dictionary contains the value in any list; otherwise, false.
 
 ## See Also
 
-[ListDictionary(Of TKey, TValue) Class](https://msdn.microsoft.com/en-us/library/gg431434(v=pandp.50))
+[ListDictionary(Of TKey, TValue) Class](listdictionary-tkey-tvalue-class-mspp.md)
 
-[ListDictionary(Of TKey, TValue) Members](https://msdn.microsoft.com/en-us/library/gg430787(v=pandp.50))
+[ListDictionary(Of TKey, TValue) Members](listdictionary-tkey-tvalue-members-mspp.md)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+[Microsoft.Practices.Prism Namespace](mspp-namespace.md)

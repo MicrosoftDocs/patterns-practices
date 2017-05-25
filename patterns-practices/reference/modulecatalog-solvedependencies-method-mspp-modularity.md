@@ -2,7 +2,7 @@
 TOCTitle: SolveDependencies Method
 Title: 'ModuleCatalog.SolveDependencies Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.SolveDependencies(System.Collections.Generic.IEnumerable{Microsoft.Practices.Prism.Modularity.ModuleInfo})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.solvedependencies(v=pandp.50)'
+ms:mtpsurl: 'modulecatalog-solvedependencies-method-mspp-modularity.md'
 ---
 
 Prism Class Library

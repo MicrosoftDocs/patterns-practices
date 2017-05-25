@@ -2,14 +2,14 @@
 TOCTitle: RegionName Property
 Title: 'ViewRegisteredEventArgs.RegionName Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs.RegionName'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregisteredeventargs.regionname(v=pandp.50)'
+ms:mtpsurl: 'viewregisteredeventargs-regionname-property-mspp-regions.md'
 ---
 
 # ViewRegisteredEventArgs.RegionName Property
 
 Gets the region name to which the content was registered.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,8 +32,8 @@ Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ## See Also
 
-[ViewRegisteredEventArgs Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregisteredeventargs(v=pandp.50))
+[ViewRegisteredEventArgs Class](viewregisteredeventargs-class-mspp-regions.md)
 
-[ViewRegisteredEventArgs Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregisteredeventargs_members(v=pandp.50))
+[ViewRegisteredEventArgs Members](viewregisteredeventargs-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

@@ -2,14 +2,14 @@
 TOCTitle: ContentRegistered Event
 Title: 'RegionViewRegistry.ContentRegistered Event (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Regions.RegionViewRegistry.ContentRegistered'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionviewregistry.contentregistered(v=pandp.50)'
+ms:mtpsurl: 'regionviewregistry-contentregistered-event-mspp-regions.md'
 ---
 
 # RegionViewRegistry.ContentRegistered Event
 
 Occurs whenever a new view is registered.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -23,11 +23,11 @@ public event EventHandler<ViewRegisteredEventArgs> ContentRegistered
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[ViewRegisteredEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregisteredeventargs(v=pandp.50))&gt;
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[ViewRegisteredEventArgs](viewregisteredeventargs-class-mspp-regions.md)&gt;
 
 ### Implements
 
-[IRegionViewRegistry.ContentRegistered](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionviewregistry.contentregistered(v=pandp.50))
+[IRegionViewRegistry.ContentRegistered](iregionviewregistry-contentregistered-event-mspp-regions.md)
 
 ## Syntax
 
@@ -38,16 +38,16 @@ Public Event ContentRegistered As EventHandler(Of ViewRegisteredEventArgs)
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)( Of [ViewRegisteredEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregisteredeventargs(v=pandp.50)))
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)( Of [ViewRegisteredEventArgs](viewregisteredeventargs-class-mspp-regions.md))
 
 ### Implements
 
-[IRegionViewRegistry.ContentRegistered](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionviewregistry.contentregistered(v=pandp.50))
+[IRegionViewRegistry.ContentRegistered](iregionviewregistry-contentregistered-event-mspp-regions.md)
 
 ## See Also
 
-[RegionViewRegistry Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionviewregistry(v=pandp.50))
+[RegionViewRegistry Class](regionviewregistry-class-mspp-regions.md)
 
-[RegionViewRegistry Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionviewregistry_members(v=pandp.50))
+[RegionViewRegistry Members](regionviewregistry-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

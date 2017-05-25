@@ -2,7 +2,7 @@
 TOCTitle: IsFixedSize Property
 Title: 'ModuleInfoGroup.IsFixedSize Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.IsFixedSize'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup.isfixedsize(v=pandp.50)'
+ms:mtpsurl: 'moduleinfogroup-isfixedsize-property-mspp-modularity.md'
 ---
 
 Prism Class Library

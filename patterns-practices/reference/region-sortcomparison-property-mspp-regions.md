@@ -2,7 +2,7 @@
 TOCTitle: SortComparison Property
 Title: 'Region.SortComparison Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.SortComparison'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.sortcomparison(v=pandp.50)'
+ms:mtpsurl: 'region-sortcomparison-property-mspp-regions.md'
 ---
 
 Prism Class Library

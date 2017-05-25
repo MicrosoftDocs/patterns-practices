@@ -2,7 +2,7 @@
 TOCTitle: ExceptionExtensions Methods
 Title: 'ExceptionExtensions Methods (Microsoft.Practices.Prism)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ExceptionExtensions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.exceptionextensions_methods(v=pandp.50)'
+ms:mtpsurl: 'exceptionextensions-methods-mspp.md'
 ---
 
 Prism Class Library
@@ -10,7 +10,7 @@ Prism Class Library
 ExceptionExtensions Methods
 ===========================
 
-The [ExceptionExtensions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.exceptionextensions(v=pandp.50)) type exposes the following members.
+The [ExceptionExtensions](exceptionextensions-class-mspp.md) type exposes the following members.
 
 Methods
 -------
@@ -53,6 +53,6 @@ See Also
 --------
 
 
-[ExceptionExtensions Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.exceptionextensions(v=pandp.50))
+[ExceptionExtensions Class](exceptionextensions-class-mspp.md)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+[Microsoft.Practices.Prism Namespace](mspp-namespace.md)

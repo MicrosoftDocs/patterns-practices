@@ -2,7 +2,7 @@
 TOCTitle: RegionManagerRegistrationBehavior Constructor
 Title: 'RegionManagerRegistrationBehavior Constructor (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior.regionmanagerregistrationbehavior(v=pandp.50)'
+ms:mtpsurl: 'regionmanagerregistrationbehavior-constructor-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: CopyTo Method
 Title: 'ModuleInfoGroup.CopyTo Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.CopyTo(Microsoft.Practices.Prism.Modularity.ModuleInfo[],System.Int32)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup.copyto(v=pandp.50)'
+ms:mtpsurl: 'moduleinfogroup-copyto-method-mspp-modularity.md'
 ---
 
 Prism Class Library

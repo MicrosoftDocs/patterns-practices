@@ -2,14 +2,14 @@
 TOCTitle: IEventSubscription Methods
 Title: 'IEventSubscription Methods (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.IEventSubscription'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription_methods(v=pandp.50)'
+ms:mtpsurl: 'ieventsubscription-methods-mspp-pubsubevents.md'
 ---
 
 Prism Class Library
 
 # IEventSubscription Methods
 
-The [IEventSubscription](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50)) type exposes the following members.
+The [IEventSubscription](ieventsubscription-interface-mspp-pubsubevents.md) type exposes the following members.
 
 ## Methods
 =======
@@ -37,9 +37,9 @@ Gets the execution strategy to publish this event.
 
 ## See Also
 
-[IEventSubscription Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50))
+[IEventSubscription Interface](ieventsubscription-interface-mspp-pubsubevents.md)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
 =======
 
 [IEventSubscription Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription)

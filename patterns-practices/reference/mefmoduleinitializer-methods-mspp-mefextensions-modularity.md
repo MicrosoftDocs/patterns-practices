@@ -2,14 +2,14 @@
 TOCTitle: MefModuleInitializer Methods
 Title: 'MefModuleInitializer Methods (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleInitializer'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer_methods(v=pandp.50)'
+ms:mtpsurl: 'mefmoduleinitializer-methods-mspp-mefextensions-modularity.md'
 ---
 
 Prism Class Library
 
 # MefModuleInitializer Methods
 
-The [MefModuleInitializer](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer(v=pandp.50)) type exposes the following members.
+The [MefModuleInitializer](mefmoduleinitializer-class-mspp-mefextensions-modularity.md) type exposes the following members.
 
 ## Methods
 
@@ -109,6 +109,6 @@ Returns a string that represents the current object.
 ## See Also
 
 
-[MefModuleInitializer Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer(v=pandp.50))
+[MefModuleInitializer Class](mefmoduleinitializer-class-mspp-mefextensions-modularity.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)

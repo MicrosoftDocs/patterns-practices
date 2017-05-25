@@ -2,7 +2,7 @@
 TOCTitle: BindableBase Methods
 Title: 'BindableBase Methods (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Mvvm.BindableBase'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase_methods(v=pandp.50)'
+ms:mtpsurl: 'bindablebase-methods-mspp-mvvm.md'
 ---
 
 Prism Class Library

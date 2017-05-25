@@ -2,7 +2,7 @@
 TOCTitle: PopupWindowAction Methods
 Title: 'PopupWindowAction Methods (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.PopupWindowAction'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction_methods(v=pandp.50)'
+ms:mtpsurl: 'popupwindowaction-methods-mspp-interactivity.md'
 ---
 
 Prism Class Library

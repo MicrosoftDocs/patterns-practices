@@ -2,7 +2,7 @@
 TOCTitle: 'Add Method (Object, String)'
 Title: 'IRegion.Add Method (Object, String) (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegion.Add(System.Object,System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion.add(v=pandp.50)'
+ms:mtpsurl: 'iregion-add-method-mspp-regions.md'
 ---
 
 Prism Class Library

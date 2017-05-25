@@ -2,7 +2,7 @@
 TOCTitle: Unsubscribe Method
 Title: 'CompositePresentationEvent(TPayload).Unsubscribe Method (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Unsubscribe'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg419058(v=pandp.50)'
+ms:mtpsurl: 'compositepresentationevent-tpayload-unsubscribe-method-mspp-events.md'
 ---
 
 Prism Class Library

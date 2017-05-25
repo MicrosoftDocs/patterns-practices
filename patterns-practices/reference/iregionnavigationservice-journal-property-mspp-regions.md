@@ -2,7 +2,7 @@
 TOCTitle: Journal Property
 Title: 'IRegionNavigationService.Journal Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionNavigationService.Journal'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice.journal(v=pandp.50)'
+ms:mtpsurl: 'iregionnavigationservice-journal-property-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -12,7 +12,7 @@ IRegionNavigationService.Journal Property
 
 Gets the journal.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -23,15 +23,15 @@ Gets the journal.
 IRegionNavigationJournal Journal { get; }ReadOnly Property Journal As IRegionNavigationJournal Get
 ### Property Value
 
-Type: [IRegionNavigationJournal](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal(v=pandp.50))
+Type: [IRegionNavigationJournal](iregionnavigationjournal-interface-mspp-regions.md)
 The journal.
 
 See Also
 --------
 
 
-[IRegionNavigationService Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice(v=pandp.50))
+[IRegionNavigationService Interface](iregionnavigationservice-interface-mspp-regions.md)
 
-[IRegionNavigationService Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice_members(v=pandp.50))
+[IRegionNavigationService Members](iregionnavigationservice-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

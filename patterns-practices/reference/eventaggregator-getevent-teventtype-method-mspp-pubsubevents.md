@@ -2,7 +2,7 @@
 TOCTitle: 'GetEvent(TEventType) Method'
 Title: 'EventAggregator.GetEvent(TEventType) Method (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventAggregator.GetEvent\`\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736138(v=pandp.50)'
+ms:mtpsurl: 'eventaggregator-getevent-teventtype-method-mspp-pubsubevents.md'
 ---
 
 
@@ -10,7 +10,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736138(v=pandp.50)'
 
 Gets the single instance of the event managed by this EventAggregator. Multiple calls to this method with the same TEventType returns the same event instance.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -48,7 +48,7 @@ Type Parameters
 
 *TEventType*
 
-The type of event to get. This must inherit from [EventBase](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase(v=pandp.50)).
+The type of event to get. This must inherit from [EventBase](eventbase-class-mspp-pubsubevents.md).
 
 ### Return Value
 
@@ -59,7 +59,7 @@ A singleton instance of an event object of type TEventType.
 
 #### Implements
 
-[IEventAggregator.GetEvent(Of TEventType)()](https://msdn.microsoft.com/en-us/library/dn736172(v=pandp.50)) 
+[IEventAggregator.GetEvent(Of TEventType)()](ieventaggregator-getevent-teventtype-method-mspp-pubsubevents.md) 
 =======
 ### Implements
 
@@ -69,7 +69,7 @@ A singleton instance of an event object of type TEventType.
 ## See Also
 
 
-[EventAggregator Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventaggregator(v=pandp.50))
+[EventAggregator Class](eventaggregator-class-mspp-pubsubevents.md)
 =======
 
 [EventAggregator Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventaggregator)
@@ -77,4 +77,4 @@ A singleton instance of an event object of type TEventType.
 
 EventAggregator Members 
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)

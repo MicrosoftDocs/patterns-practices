@@ -2,7 +2,7 @@
 TOCTitle: ContentRegistered Event
 Title: 'IRegionViewRegistry.ContentRegistered Event (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Regions.IRegionViewRegistry.ContentRegistered'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionviewregistry.contentregistered(v=pandp.50)'
+ms:mtpsurl: 'iregionviewregistry-contentregistered-event-mspp-regions.md'
 ---
 
 Prism Class Library

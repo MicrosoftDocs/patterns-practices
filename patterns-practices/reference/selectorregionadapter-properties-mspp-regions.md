@@ -2,7 +2,7 @@
 TOCTitle: SelectorRegionAdapter Properties
 Title: 'SelectorRegionAdapter Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.SelectorRegionAdapter'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.selectorregionadapter_properties(v=pandp.50)'
+ms:mtpsurl: 'selectorregionadapter-properties-mspp-regions.md'
 ---
 
 Prism Class Library

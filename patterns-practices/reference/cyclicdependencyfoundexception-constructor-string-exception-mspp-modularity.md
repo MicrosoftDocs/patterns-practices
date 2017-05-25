@@ -2,7 +2,7 @@
 TOCTitle: 'CyclicDependencyFoundException Constructor (String, Exception)'
 Title: 'CyclicDependencyFoundException Constructor (String, Exception) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException.\#ctor(System.String,System.Exception)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception.cyclicdependencyfoundexception(v=pandp.50)'
+ms:mtpsurl: 'cyclicdependencyfoundexception-constructor-mspp-modularity.md'
 ---
 
 Prism Class Library

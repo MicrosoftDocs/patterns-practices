@@ -2,7 +2,7 @@
 TOCTitle: CollectionExtensions Members
 Title: 'CollectionExtensions Members (Microsoft.Practices.Prism)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.CollectionExtensions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.collectionextensions_members(v=pandp.50)'
+ms:mtpsurl: 'collectionextensions-members-mspp.md'
 ---
 
 Prism Class Library

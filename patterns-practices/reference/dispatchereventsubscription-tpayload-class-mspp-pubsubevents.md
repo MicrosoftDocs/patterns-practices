@@ -2,7 +2,7 @@
 TOCTitle: 'DispatcherEventSubscription(TPayload) Class'
 Title: 'DispatcherEventSubscription(TPayload) Class (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'T:Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscription\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736239(v=pandp.50)'
+ms:mtpsurl: 'dispatchereventsubscription-tpayload-class-mspp-pubsubevents.md'
 ---
 
 Prism Class Library

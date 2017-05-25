@@ -2,7 +2,7 @@
 TOCTitle: DefaultConfirmationWindow Events
 Title: 'DefaultConfirmationWindow Events (Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultConfirmationWindow'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow_events(v=pandp.50)'
+ms:mtpsurl: 'defaultconfirmationwindow-events-mspp-interactivity-defaultpopupwindows.md'
 ---
 
 Prism Class Library

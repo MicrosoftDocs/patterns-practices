@@ -2,7 +2,7 @@
 TOCTitle: ILoggerFacade Members
 Title: 'ILoggerFacade Members (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Logging.ILoggerFacade'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.iloggerfacade_members(v=pandp.50)'
+ms:mtpsurl: 'iloggerfacade-members-mspp-logging.md'
 ---
 
 Prism Class Library

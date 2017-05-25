@@ -2,7 +2,7 @@
 TOCTitle: IRegionViewRegistry Events
 Title: 'IRegionViewRegistry Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.IRegionViewRegistry'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionviewregistry_events(v=pandp.50)'
+ms:mtpsurl: 'iregionviewregistry-events-mspp-regions.md'
 ---
 
 Prism Class Library

@@ -2,14 +2,14 @@
 TOCTitle: DuplicateModuleException Constructor
 Title: 'DuplicateModuleException Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.DuplicateModuleException.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.duplicatemoduleexception.duplicatemoduleexception(v=pandp.50)'
+ms:mtpsurl: 'duplicatemoduleexception-constructor-mspp-modularity.md'
 ---
 
 # DuplicateModuleException Constructor
 
-Initializes a new instance of the [DuplicateModuleException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.duplicatemoduleexception(v=pandp.50)) class.
+Initializes a new instance of the [DuplicateModuleException](duplicatemoduleexception-class-mspp-modularity.md) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,10 +28,10 @@ Public Sub New
 
 ## See Also
 
-[DuplicateModuleException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.duplicatemoduleexception(v=pandp.50))
+[DuplicateModuleException Class](duplicatemoduleexception-class-mspp-modularity.md)
 
-[DuplicateModuleException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.duplicatemoduleexception_members(v=pandp.50))
+[DuplicateModuleException Members](duplicatemoduleexception-members-mspp-modularity.md)
 
 DuplicateModuleException Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

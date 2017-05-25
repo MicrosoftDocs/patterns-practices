@@ -2,7 +2,7 @@
 TOCTitle: 'Add Method (TKey)'
 Title: 'ListDictionary(TKey, TValue).Add Method (TKey) (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.Add(\`0)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405796(v=pandp.50)'
+ms:mtpsurl: 'listdictionary-tkey-tvalue-add-method-tkey-mspp.md'
 ---
 
 Prism Class Library

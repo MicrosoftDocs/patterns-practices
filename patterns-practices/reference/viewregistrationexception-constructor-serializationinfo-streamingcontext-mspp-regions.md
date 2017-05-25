@@ -2,16 +2,16 @@
 TOCTitle: 'ViewRegistrationException Constructor (SerializationInfo, StreamingContext)'
 Title: 'ViewRegistrationException Constructor (SerializationInfo, StreamingContext) (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewRegistrationException.\#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregistrationexception.viewregistrationexception(v=pandp.50)'
+ms:mtpsurl: 'viewregistrationexception-constructor-mspp-regions.md'
 ---
 
 Prism Class Library
 
 # ViewRegistrationException Constructor (SerializationInfo, StreamingContext)
 
-Initializes a new instance of the [ViewRegistrationException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregistrationexception(v=pandp.50)) class with serialized data.
+Initializes a new instance of the [ViewRegistrationException](viewregistrationexception-class-mspp-regions.md) class with serialized data.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -48,10 +48,10 @@ The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that co
 
 ## See Also
 
-[ViewRegistrationException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregistrationexception(v=pandp.50))
+[ViewRegistrationException Class](viewregistrationexception-class-mspp-regions.md)
 
-[ViewRegistrationException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregistrationexception_members(v=pandp.50))
+[ViewRegistrationException Members](viewregistrationexception-members-mspp-regions.md)
 
 ViewRegistrationException Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

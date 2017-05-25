@@ -2,12 +2,12 @@
 TOCTitle: UnityRegionNavigationContentLoader Methods
 Title: 'UnityRegionNavigationContentLoader Methods (Microsoft.Practices.Prism.UnityExtensions.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLoader'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader_methods(v=pandp.50)'
+ms:mtpsurl: 'unityregionnavigationcontentloader-methods-mspp-unityextensions-regions.md'
 ---
 
 # UnityRegionNavigationContentLoader Methods
 
-The [UnityRegionNavigationContentLoader](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader(v=pandp.50)) type exposes the following members.
+The [UnityRegionNavigationContentLoader](unityregionnavigationcontentloader-class-mspp-unityextensions-regions.md) type exposes the following members.
 
 ## Methods
 
@@ -110,6 +110,6 @@ See Also
 --------
 
 
-[UnityRegionNavigationContentLoader Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader(v=pandp.50))
+[UnityRegionNavigationContentLoader Class](unityregionnavigationcontentloader-class-mspp-unityextensions-regions.md)
 
-[Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions(v=pandp.50))
+[Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](mspp-unityextensions-regions-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: InteractionRequestedEventArgs Properties
 Title: 'InteractionRequestedEventArgs Properties (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestedEventArgs'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs_properties(v=pandp.50)'
+ms:mtpsurl: 'interactionrequestedeventargs-properties-mspp-interactivity-interactionrequest.md'
 ---
 
 Prism Class Library

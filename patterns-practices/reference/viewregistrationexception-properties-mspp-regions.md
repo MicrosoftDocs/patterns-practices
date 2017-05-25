@@ -2,12 +2,12 @@
 TOCTitle: ViewRegistrationException Properties
 Title: 'ViewRegistrationException Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.ViewRegistrationException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregistrationexception_properties(v=pandp.50)'
+ms:mtpsurl: 'viewregistrationexception-properties-mspp-regions.md'
 ---
 
 # ViewRegistrationException Properties
 
-The [ViewRegistrationException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregistrationexception(v=pandp.50)) type exposes the following members.
+The [ViewRegistrationException](viewregistrationexception-class-mspp-regions.md) type exposes the following members.
 
 ## Properties
 
@@ -90,6 +90,6 @@ Gets the method that throws the current exception.
 
 ## See Also
 
-[ViewRegistrationException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregistrationexception(v=pandp.50))
+[ViewRegistrationException Class](viewregistrationexception-class-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

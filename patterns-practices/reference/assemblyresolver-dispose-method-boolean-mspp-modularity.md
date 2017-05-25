@@ -2,7 +2,7 @@
 TOCTitle: 'Dispose Method (Boolean)'
 Title: 'AssemblyResolver.Dispose Method (Boolean) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.AssemblyResolver.Dispose(System.Boolean)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.assemblyresolver.dispose(v=pandp.50)'
+ms:mtpsurl: 'assemblyresolver-dispose-method-boolean-mspp-modularity.md'
 ---
 
 Prism Class Library

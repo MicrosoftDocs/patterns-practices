@@ -2,7 +2,7 @@
 TOCTitle: Attach Method
 Title: 'RegionActiveAwareBehavior.Attach Method (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior.Attach'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior.attach(v=pandp.50)'
+ms:mtpsurl: 'regionactiveawarebehavior-attach-method-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library

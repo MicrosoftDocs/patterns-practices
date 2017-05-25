@@ -2,7 +2,7 @@
 TOCTitle: ContainsKey Method
 Title: 'ListDictionary(TKey, TValue).ContainsKey Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.ContainsKey(\`0)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405799(v=pandp.50)'
+ms:mtpsurl: 'listdictionary-tkey-tvalue-containskey-method-mspp.md'
 ---
 
 Prism Class Library
@@ -12,7 +12,7 @@ ListDictionary(Of TKey, TValue).ContainsKey Method
 
 Determines whether the dictionary contains the given key.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism](mspp-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -34,7 +34,7 @@ Public Function ContainsKey ( key As TKey ) As Boolean
 ### Parameters
 
 *key*  
-Type: [TKey](https://msdn.microsoft.com/en-us/library/gg431434(v=pandp.50))
+Type: [TKey](listdictionary-tkey-tvalue-class-mspp.md)
 
 The key to locate.
 
@@ -51,8 +51,8 @@ See Also
 --------
 
 
-[ListDictionary&lt;TKey, TValue&gt; Class](https://msdn.microsoft.com/en-us/library/gg431434(v=pandp.50))
+[ListDictionary&lt;TKey, TValue&gt; Class](listdictionary-tkey-tvalue-class-mspp.md)
 
-[ListDictionary&lt;TKey, TValue&gt; Members](https://msdn.microsoft.com/en-us/library/gg430787(v=pandp.50))
+[ListDictionary&lt;TKey, TValue&gt; Members](listdictionary-tkey-tvalue-members-mspp.md)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+[Microsoft.Practices.Prism Namespace](mspp-namespace.md)

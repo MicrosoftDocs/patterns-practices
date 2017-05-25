@@ -2,12 +2,12 @@
 TOCTitle: MefRegionManagerRegistrationBehavior Properties
 Title: 'MefRegionManagerRegistrationBehavior Properties (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionManagerRegistrationBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmanagerregistrationbehavior_properties(v=pandp.50)'
+ms:mtpsurl: 'mefregionmanagerregistrationbehavior-properties-mspp-mefextensions-regions-behaviors.md'
 ---
 
 # MefRegionManagerRegistrationBehavior Properties
 
-The [MefRegionManagerRegistrationBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmanagerregistrationbehavior(v=pandp.50)) type exposes the following members.
+The [MefRegionManagerRegistrationBehavior](mefregionmanagerregistrationbehavior-class-mspp-mefextensions-regions-behaviors.md) type exposes the following members.
 
 ## Properties
 
@@ -58,6 +58,6 @@ Provides an abstraction on top of the RegionManager static members.
 
 ## See Also
 
-[MefRegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmanagerregistrationbehavior(v=pandp.50))
+[MefRegionManagerRegistrationBehavior Class](mefregionmanagerregistrationbehavior-class-mspp-mefextensions-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace.md)

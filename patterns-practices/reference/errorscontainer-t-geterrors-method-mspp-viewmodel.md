@@ -2,7 +2,7 @@
 TOCTitle: GetErrors Method
 Title: 'ErrorsContainer(T).GetErrors Method (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.GetErrors(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg419026(v=pandp.50)'
+ms:mtpsurl: 'errorscontainer-t-geterrors-method-mspp-viewmodel.md'
 ---
 
 Prism Class Library

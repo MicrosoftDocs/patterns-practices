@@ -2,12 +2,12 @@
 TOCTitle: InteractionRequestTrigger Properties
 Title: 'InteractionRequestTrigger Properties (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestTrigger'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger_properties(v=pandp.50)'
+ms:mtpsurl: 'interactionrequesttrigger-properties-mspp-interactivity-interactionrequest.md'
 ---
 
 # InteractionRequestTrigger Properties
 
-The [InteractionRequestTrigger](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger(v=pandp.50)) type exposes the following members.
+The [InteractionRequestTrigger](interactionrequesttrigger-class-mspp-interactivity-interactionrequest.md) type exposes the following members.
 
 ## Properties
 
@@ -177,6 +177,6 @@ SourceTypeConstraint
 
 ## See Also
 
-[InteractionRequestTrigger Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger(v=pandp.50))
+[InteractionRequestTrigger Class](interactionrequesttrigger-class-mspp-interactivity-interactionrequest.md)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)

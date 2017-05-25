@@ -2,7 +2,7 @@
 TOCTitle: ModuleTypeLoadingException Events
 Title: 'ModuleTypeLoadingException Events (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadingexception_events(v=pandp.50)'
+ms:mtpsurl: 'moduletypeloadingexception-events-mspp-modularity.md'
 ---
 
 Prism Class Library

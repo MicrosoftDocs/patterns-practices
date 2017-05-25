@@ -2,14 +2,14 @@
 TOCTitle: ModuleTypeLoaderNotFoundException Constructor
 Title: 'ModuleTypeLoaderNotFoundException Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception.moduletypeloadernotfoundexception(v=pandp.50)'
+ms:mtpsurl: 'moduletypeloadernotfoundexception-constructor-mspp-modularity.md'
 ---
 
 # ModuleTypeLoaderNotFoundException Constructor
 
-Initializes a new instance of the [ModuleTypeLoaderNotFoundException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception(v=pandp.50)) class.
+Initializes a new instance of the [ModuleTypeLoaderNotFoundException](moduletypeloadernotfoundexception-class-mspp-modularity.md) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,10 +28,10 @@ Public Sub New
 
 ## See Also
 
-[ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception(v=pandp.50))
+[ModuleTypeLoaderNotFoundException Class](moduletypeloadernotfoundexception-class-mspp-modularity.md)
 
-[ModuleTypeLoaderNotFoundException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception_members(v=pandp.50))
+[ModuleTypeLoaderNotFoundException Members](moduletypeloadernotfoundexception-members-mspp-modularity.md)
 
 ModuleTypeLoaderNotFoundException Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

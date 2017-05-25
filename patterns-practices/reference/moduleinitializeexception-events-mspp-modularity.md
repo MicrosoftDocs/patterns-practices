@@ -2,7 +2,7 @@
 TOCTitle: ModuleInitializeException Events
 Title: 'ModuleInitializeException Events (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.ModuleInitializeException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception_events(v=pandp.50)'
+ms:mtpsurl: 'moduleinitializeexception-events-mspp-modularity.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: Action Property
 Title: 'EventSubscription(TPayload).Action Property (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'P:Microsoft.Practices.Prism.PubSubEvents.EventSubscription\`1.Action'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736296(v=pandp.50)'
+ms:mtpsurl: 'eventsubscription-tpayload-action-property-mspp-pubsubevents.md'
 ---
 
 Prism Class Library

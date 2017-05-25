@@ -2,14 +2,14 @@
 TOCTitle: RegionMemberLifetimeAttribute Class
 Title: 'RegionMemberLifetimeAttribute Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionMemberLifetimeAttribute'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute(v=pandp.50)'
+ms:mtpsurl: 'regionmemberlifetimeattribute-class-mspp-regions.md'
 ---
 
 # RegionMemberLifetimeAttribute Class
 
-When RegionMemberLifetimeAttribute is applied to class provides data the [RegionMemberLifetimeBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior(v=pandp.50)) can use to determine if the instance should be removed when it is deactivated.
+When RegionMemberLifetimeAttribute is applied to class provides data the [RegionMemberLifetimeBehavior](regionmemberlifetimebehavior-class-mspp-regions-behaviors.md) can use to determine if the instance should be removed when it is deactivated.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -35,6 +35,6 @@ Public NotInheritable Class RegionMemberLifetimeAttribute
 
 ## See Also
 
-[RegionMemberLifetimeAttribute Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute_members(v=pandp.50))
+[RegionMemberLifetimeAttribute Members](regionmemberlifetimeattribute-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

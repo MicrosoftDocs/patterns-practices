@@ -2,7 +2,7 @@
 TOCTitle: NavigationAsyncExtensions Methods
 Title: 'NavigationAsyncExtensions Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.NavigationAsyncExtensions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions_methods(v=pandp.50)'
+ms:mtpsurl: 'navigationasyncextensions-methods-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -72,6 +72,6 @@ See Also
 --------
 
 
-[NavigationAsyncExtensions Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions(v=pandp.50))
+[NavigationAsyncExtensions Class](navigationasyncextensions-class-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

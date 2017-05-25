@@ -2,14 +2,14 @@
 TOCTitle: ModuleType Property
 Title: 'ModuleInfo.ModuleType Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfo.ModuleType'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo.moduletype(v=pandp.50)'
+ms:mtpsurl: 'moduleinfo-moduletype-property-mspp-modularity.md'
 ---
 
 # ModuleInfo.ModuleType Property
 
 Gets or sets the module [Type](http://msdn.microsoft.com/en-us/library/42892f65)'s AssemblyQualifiedName.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -38,8 +38,8 @@ The type of the module.
 
 ## See Also
 
-[ModuleInfo Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))
+[ModuleInfo Class](moduleinfo-class-mspp-modularity.md)
 
-[ModuleInfo Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo_members(v=pandp.50))
+[ModuleInfo Members](moduleinfo-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

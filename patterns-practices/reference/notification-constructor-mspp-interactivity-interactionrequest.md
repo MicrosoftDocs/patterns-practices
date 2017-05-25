@@ -2,7 +2,7 @@
 TOCTitle: Notification Constructor
 Title: 'Notification Constructor (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.notification.notification(v=pandp.50)'
+ms:mtpsurl: 'notification-constructor-mspp-interactivity-interactionrequest.md'
 ---
 
 Prism Class Library

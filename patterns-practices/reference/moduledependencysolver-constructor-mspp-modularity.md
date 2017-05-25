@@ -2,7 +2,7 @@
 TOCTitle: ModuleDependencySolver Constructor
 Title: 'ModuleDependencySolver Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencySolver.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencysolver.moduledependencysolver(v=pandp.50)'
+ms:mtpsurl: 'moduledependencysolver-constructor-mspp-modularity.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: InitializationMode Property
 Title: 'ModuleInfo.InitializationMode Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfo.InitializationMode'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo.initializationmode(v=pandp.50)'
+ms:mtpsurl: 'moduleinfo-initializationmode-property-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Specifies on which stage the Module will be initialized.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,12 +32,12 @@ Public Property InitializationMode As InitializationMode
 
 ### Property Value
 
-Type: [InitializationMode](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.initializationmode(v=pandp.50))
+Type: [InitializationMode](initializationmode-enumeration-mspp-modularity.md)
 
 ## See Also
 
-[ModuleInfo Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))
+[ModuleInfo Class](moduleinfo-class-mspp-modularity.md)
 
-[ModuleInfo Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo_members(v=pandp.50))
+[ModuleInfo Members](moduleinfo-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

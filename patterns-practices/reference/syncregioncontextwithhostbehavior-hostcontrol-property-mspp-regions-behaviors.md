@@ -2,7 +2,7 @@
 TOCTitle: HostControl Property
 Title: 'SyncRegionContextWithHostBehavior.HostControl Property (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior.HostControl'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior.hostcontrol(v=pandp.50)'
+ms:mtpsurl: 'syncregioncontextwithhostbehavior-hostcontrol-property-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library

@@ -2,12 +2,12 @@
 TOCTitle: InvokeCommandAction Fields
 Title: 'InvokeCommandAction Fields (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction_fields(v=pandp.50)'
+ms:mtpsurl: 'invokecommandaction-fields-mspp-interactivity.md'
 ---
 
 # InvokeCommandAction Fields
 
-The [InvokeCommandAction](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50)) type exposes the following members.
+The [InvokeCommandAction](invokecommandaction-class-mspp-interactivity.md) type exposes the following members.
 
 ## Fields
 
@@ -47,6 +47,6 @@ Dependency property identifying the TriggerParameterPath to be parsed to identif
 
 ## See Also
 
-[InvokeCommandAction Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50))
+[InvokeCommandAction Class](invokecommandaction-class-mspp-interactivity.md)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace.md)

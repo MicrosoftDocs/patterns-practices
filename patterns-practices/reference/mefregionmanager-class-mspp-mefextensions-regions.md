@@ -2,14 +2,14 @@
 TOCTitle: MefRegionManager Class
 Title: 'MefRegionManager Class (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager(v=pandp.50)'
+ms:mtpsurl: 'mefregionmanager-class-mspp-mefextensions-regions.md'
 ---
 
 # MefRegionManager Class
 
 Exports the RegionManager using the Managed Extensibility Framework (MEF). 
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](mspp-mefextensions-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -36,11 +36,11 @@ Public Class MefRegionManager
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager(v=pandp.50))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionManager](regionmanager-class-mspp-regions.md)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionManage
 
 ## See Also
 
-[MefRegionManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager_members(v=pandp.50))
+[MefRegionManager Members](mefregionmanager-members-mspp-mefextensions-regions.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace.md)

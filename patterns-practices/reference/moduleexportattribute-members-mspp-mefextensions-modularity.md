@@ -2,7 +2,7 @@
 TOCTitle: ModuleExportAttribute Members
 Title: 'ModuleExportAttribute Members (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAttribute'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute_members(v=pandp.50)'
+ms:mtpsurl: 'moduleexportattribute-members-mspp-mefextensions-modularity.md'
 ---
 
 Prism Class Library

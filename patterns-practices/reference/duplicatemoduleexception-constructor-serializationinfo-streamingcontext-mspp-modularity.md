@@ -2,7 +2,7 @@
 TOCTitle: 'DuplicateModuleException Constructor (SerializationInfo, StreamingContext)'
 Title: 'DuplicateModuleException Constructor (SerializationInfo, StreamingContext) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.DuplicateModuleException.\#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.duplicatemoduleexception.duplicatemoduleexception(v=pandp.50)'
+ms:mtpsurl: 'duplicatemoduleexception-constructor-mspp-modularity.md'
 ---
 
 Prism Class Library

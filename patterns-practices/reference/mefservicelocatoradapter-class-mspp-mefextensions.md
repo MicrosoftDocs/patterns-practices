@@ -2,14 +2,14 @@
 TOCTitle: MefServiceLocatorAdapter Class
 Title: 'MefServiceLocatorAdapter Class (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.MefServiceLocatorAdapter'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter(v=pandp.50)'
+ms:mtpsurl: 'mefservicelocatoradapter-class-mspp-mefextensions.md'
 ---
 
 # MefServiceLocatorAdapter Class
 
 Provides service location utilizing the Managed Extensibility Framework container.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](mspp-mefextensions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -35,6 +35,6 @@ Public Class MefServiceLocatorAdapter
 
 ## See Also
 
-[MefServiceLocatorAdapter Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter_members(v=pandp.50))
+[MefServiceLocatorAdapter Members](mefservicelocatoradapter-members-mspp-mefextensions.md)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions Namespace](mspp-mefextensions-namespace.md)

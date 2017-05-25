@@ -2,7 +2,7 @@
 TOCTitle: DelegateReference Properties
 Title: 'DelegateReference Properties (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.DelegateReference'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.delegatereference_properties(v=pandp.50)'
+ms:mtpsurl: 'delegatereference-properties-mspp-pubsubevents.md'
 ---
 
 Prism Class Library
@@ -10,7 +10,7 @@ Prism Class Library
 DelegateReference Properties
 ============================
 
-The [DelegateReference](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.delegatereference(v=pandp.50)) type exposes the following members.
+The [DelegateReference](delegatereference-class-mspp-pubsubevents.md) type exposes the following members.
 
 Properties
 ----------
@@ -39,6 +39,6 @@ See Also
 --------
 
 
-[DelegateReference Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.delegatereference(v=pandp.50))
+[DelegateReference Class](delegatereference-class-mspp-pubsubevents.md)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)

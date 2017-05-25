@@ -2,12 +2,12 @@
 TOCTitle: 'DataEventArgs(TData) Properties'
 Title: 'DataEventArgs(TData) Properties (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.DataEventArgs\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736256(v=pandp.50)'
+ms:mtpsurl: 'dataeventargs-tdata-properties-mspp-pubsubevents.md'
 ---
 
 # DataEventArgs(Of TData) Properties
 
-The [DataEventArgs(Of TData)](https://msdn.microsoft.com/en-us/library/dn736191(v=pandp.50)) type exposes the following members.
+The [DataEventArgs(Of TData)](dataeventargs-tdata-class-mspp-pubsubevents.md) type exposes the following members.
 
 ## Properties
 =======
@@ -42,7 +42,7 @@ Gets the information related to the event.
 
 ## See Also
 
-[DataEventArgs(Of TData) Class](https://msdn.microsoft.com/en-us/library/dn736191(v=pandp.50))
+[DataEventArgs(Of TData) Class](dataeventargs-tdata-class-mspp-pubsubevents.md)
 =======
 See Also
 --------

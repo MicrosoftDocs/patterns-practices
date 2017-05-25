@@ -2,7 +2,7 @@
 TOCTitle: ViewRegisteredEventArgs Constructor
 Title: 'ViewRegisteredEventArgs Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs.\#ctor(System.String,System.Func{System.Object})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregisteredeventargs.viewregisteredeventargs(v=pandp.50)'
+ms:mtpsurl: 'viewregisteredeventargs-constructor-mspp-regions.md'
 ---
 
 Prism Class Library

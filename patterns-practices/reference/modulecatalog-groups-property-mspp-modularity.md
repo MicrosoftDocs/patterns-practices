@@ -2,7 +2,7 @@
 TOCTitle: Groups Property
 Title: 'ModuleCatalog.Groups Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleCatalog.Groups'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.groups(v=pandp.50)'
+ms:mtpsurl: 'modulecatalog-groups-property-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -10,9 +10,9 @@ Prism Class Library
 ModuleCatalog.Groups Property
 =================================
 
-Gets the [ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50))s that have been added to the [ModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50)).
+Gets the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md)s that have been added to the [ModuleCatalog](modulecatalog-class-mspp-modularity.md).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,7 +32,7 @@ Public ReadOnly Property Groups As IEnumerable(Of ModuleInfoGroup)
 
 ### Property Value
 
-Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50))&gt;
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md)&gt;
 
 The groups.
 
@@ -40,8 +40,8 @@ See Also
 --------
 
 
-[ModuleCatalog Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50))
+[ModuleCatalog Class](modulecatalog-class-mspp-modularity.md)
 
-[ModuleCatalog Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog_members(v=pandp.50))
+[ModuleCatalog Members](modulecatalog-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

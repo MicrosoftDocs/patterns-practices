@@ -2,7 +2,7 @@
 TOCTitle: BytesReceived Property
 Title: 'ModuleDownloadProgressChangedEventArgs.BytesReceived Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleDownloadProgressChangedEventArgs.BytesReceived'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs.bytesreceived(v=pandp.50)'
+ms:mtpsurl: 'moduledownloadprogresschangedeventargs-bytesreceived-property-mspp-modularity.md'
 ---
 
 Prism Class Library

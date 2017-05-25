@@ -2,7 +2,7 @@
 TOCTitle: RegionNavigationFailedEventArgs Constructor
 Title: 'RegionNavigationFailedEventArgs Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.RegionNavigationFailedEventArgs.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs.regionnavigationfailedeventargs(v=pandp.50)'
+ms:mtpsurl: 'regionnavigationfailedeventargs-constructor-mspp-regions.md'
 ---
 
 Prism Class Library

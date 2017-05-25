@@ -2,7 +2,7 @@
 TOCTitle: CreateNewElement Method
 Title: 'ModuleConfigurationElementCollection.CreateNewElement Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection.CreateNewElement'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.createnewelement(v=pandp.50)'
+ms:mtpsurl: 'createnewelement-mthd.md'
 ---
 
 Prism Class Library

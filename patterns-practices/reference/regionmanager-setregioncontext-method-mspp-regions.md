@@ -2,7 +2,7 @@
 TOCTitle: SetRegionContext Method
 Title: 'RegionManager.SetRegionContext Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManager.SetRegionContext(System.Windows.DependencyObject,System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager.setregioncontext(v=pandp.50)'
+ms:mtpsurl: 'regionmanager-setregioncontext-method-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -10,9 +10,9 @@ Prism Class Library
 RegionManager.SetRegionContext Method
 =========================================
 
-Sets the [RegionContextProperty](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager.regioncontextproperty(v=pandp.50)) attached property.
+Sets the [RegionContextProperty](regionmanager-regioncontextproperty-field-mspp-regions.md) attached property.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -53,8 +53,8 @@ See Also
 --------
 
 
-[RegionManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager(v=pandp.50))
+[RegionManager Class](regionmanager-class-mspp-regions.md)
 
-[RegionManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager_members(v=pandp.50))
+[RegionManager Members](regionmanager-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

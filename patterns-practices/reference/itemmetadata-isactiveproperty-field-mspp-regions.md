@@ -2,7 +2,7 @@
 TOCTitle: IsActiveProperty Field
 Title: 'ItemMetadata.IsActiveProperty Field (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'F:Microsoft.Practices.Prism.Regions.ItemMetadata.IsActiveProperty'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata.isactiveproperty(v=pandp.50)'
+ms:mtpsurl: 'itemmetadata-isactiveproperty-field-mspp-regions.md'
 ---
 
 Prism Class Library

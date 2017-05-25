@@ -2,12 +2,12 @@
 TOCTitle: IModuleTypeLoader Methods
 Title: 'IModuleTypeLoader Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.IModuleTypeLoader'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader_methods(v=pandp.50)'
+ms:mtpsurl: 'imoduletypeloader-methods-mspp-modularity.md'
 ---
 
 # IModuleTypeLoader Methods
 
-The [IModuleTypeLoader](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader(v=pandp.50)) type exposes the following members.
+The [IModuleTypeLoader](imoduletypeloader-interface-mspp-modularity.md) type exposes the following members.
 
 ## Methods
 
@@ -31,11 +31,11 @@ The [IModuleTypeLoader](https://msdn.microsoft.com/en-us/library/microsoft.pract
  ![](images/public-method.gif "Public method")
   </td>
   <td>
- <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader.canloadmoduletype(v=pandp.50)">CanLoadModuleType</a>
+ <a href="imoduletypeloader-canloadmoduletype-method-mspp-modularity.md">CanLoadModuleType</a>
   </td>
   <td>
  <div>
-Evaluates the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo.ref(v=pandp.50)">Ref</a> property to see if the current typeloader will be able to retrieve the <em>moduleInfo</em>.
+Evaluates the <a href="moduleinfo-ref-property-mspp-modularity.md">Ref</a> property to see if the current typeloader will be able to retrieve the <em>moduleInfo</em>.
 </div>
   </td>
 </tr>
@@ -45,7 +45,7 @@ Evaluates the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practi
  ![](images/public-method.gif "Public method")
   </td>
   <td>
- <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader.loadmoduletype(v=pandp.50)">LoadModuleType</a>
+ <a href="imoduletypeloader-loadmoduletype-method-mspp-modularity.md">LoadModuleType</a>
   </td>
   <td>
  <div>
@@ -58,6 +58,6 @@ Retrieves the <em>moduleInfo</em>.
 
 ## See Also
 
-[IModuleTypeLoader Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader(v=pandp.50))
+[IModuleTypeLoader Interface](imoduletypeloader-interface-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

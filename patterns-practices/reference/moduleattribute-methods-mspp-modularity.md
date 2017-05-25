@@ -2,14 +2,14 @@
 TOCTitle: ModuleAttribute Methods
 Title: 'ModuleAttribute Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleAttribute'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleattribute_methods(v=pandp.50)'
+ms:mtpsurl: 'moduleattribute-methods-mspp-modularity.md'
 ---
 
 Prism Class Library
 
 # ModuleAttribute Methods
 
-The [ModuleAttribute](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleattribute(v=pandp.50)) type exposes the following members.
+The [ModuleAttribute](moduleattribute-class-mspp-modularity.md) type exposes the following members.
 
 ## Methods
 
@@ -77,7 +77,7 @@ Returns a string that represents the current object.
 ## See Also
 
 
-[ModuleAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleattribute(v=pandp.50))
+[ModuleAttribute Class](moduleattribute-class-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
 

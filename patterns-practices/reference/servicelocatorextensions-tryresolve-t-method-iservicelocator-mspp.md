@@ -2,7 +2,7 @@
 TOCTitle: 'TryResolve(T) Method (IServiceLocator)'
 Title: 'ServiceLocatorExtensions.TryResolve(T) Method (IServiceLocator) (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ServiceLocatorExtensions.TryResolve\`\`1(Microsoft.Practices.ServiceLocation.IServiceLocator)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg419002(v=pandp.50)'
+ms:mtpsurl: 'servicelocatorextensions-tryresolve-t-method-iservicelocator-mspp.md'
 ---
 
 Prism Class Library
@@ -12,7 +12,7 @@ ServiceLocatorExtensions.TryResolve&lt;T&gt; Method (IServiceLocator)
 
 Attempts to resolve specified type from the underlying IServiceLocator.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism](mspp-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -72,10 +72,10 @@ See Also
 --------
 
 
-[ServiceLocatorExtensions Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.servicelocatorextensions(v=pandp.50))
+[ServiceLocatorExtensions Class](servicelocatorextensions-class-mspp.md)
 
-[ServiceLocatorExtensions Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.servicelocatorextensions_members(v=pandp.50))
+[ServiceLocatorExtensions Members](servicelocatorextensions-members-mspp.md)
 
-[TryResolve Overload](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.servicelocatorextensions.tryresolve(v=pandp.50))
+[TryResolve Overload](servicelocatorextensions-tryresolve-method-iservicelocator-type-mspp.md)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+[Microsoft.Practices.Prism Namespace](mspp-namespace.md)

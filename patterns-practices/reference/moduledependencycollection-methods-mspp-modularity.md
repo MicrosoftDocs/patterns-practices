@@ -2,12 +2,12 @@
 TOCTitle: ModuleDependencyCollection Methods
 Title: 'ModuleDependencyCollection Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencycollection_methods(v=pandp.50)'
+ms:mtpsurl: 'moduledependencycollection-methods-mspp-modularity.md'
 ---
 
 # ModuleDependencyCollection Methods
 
-The [ModuleDependencyCollection](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencycollection(v=pandp.50)) type exposes the following members.
+The [ModuleDependencyCollection](moduledependencycollection-class-mspp-modularity.md) type exposes the following members.
 
 ## Methods
  
@@ -174,11 +174,11 @@ The [ModuleDependencyCollection](https://msdn.microsoft.com/en-us/library/micros
 ![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
 </td>
 <td>
-<a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencycollection.createnewelement(v=pandp.50)">CreateNewElement<div></a>
+<a href="moduledependencycoll-createnew-method.md">CreateNewElement<div></a>
 </td>
 <td>
 <div>
-Creates a new <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement(v=pandp.50)">ModuleDependencyConfigurationElement</a>.
+Creates a new <a href="moduledependencyconfigurationelement-class-mspp-modularity.md">ModuleDependencyConfigurationElement</a>.
 </div> (Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8" target="_blank">ConfigurationElementCollection<div>.CreateNewElement<div></a>.)</td>
 </tr>
 <tr>
@@ -231,7 +231,7 @@ Creates a new <a href="https://msdn.microsoft.com/en-us/library/microsoft.practi
 ![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
 </td>
 <td>
-<a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencycollection.getelementkey(v=pandp.50)">GetElementKey</a>
+<a href="moduledependencycollection-getelementkey-method-mspp-modularity.md">GetElementKey</a>
 </td>
 <td>
 <div>
@@ -529,6 +529,6 @@ Gets the element key for a specified configuration element when overridden in a 
 
 ## See Also
 
-[ModuleDependencyCollection Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencycollection(v=pandp.50))
+[ModuleDependencyCollection Class](moduledependencycollection-class-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

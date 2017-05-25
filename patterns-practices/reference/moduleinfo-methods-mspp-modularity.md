@@ -2,14 +2,14 @@
 TOCTitle: ModuleInfo Methods
 Title: 'ModuleInfo Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleInfo'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo_methods(v=pandp.50)'
+ms:mtpsurl: 'moduleinfo-methods-mspp-modularity.md'
 ---
 
 Prism Class Library
 
 # ModuleInfo Methods
 
-The [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50)) type exposes the following members.
+The [ModuleInfo](moduleinfo-class-mspp-modularity.md) type exposes the following members.
 
 ## Methods
 
@@ -77,6 +77,6 @@ Returns a string that represents the current object.
 ## See Also
 
 
-[ModuleInfo Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))
+[ModuleInfo Class](moduleinfo-class-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

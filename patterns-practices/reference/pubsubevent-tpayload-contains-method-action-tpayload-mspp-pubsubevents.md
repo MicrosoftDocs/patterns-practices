@@ -2,7 +2,7 @@
 TOCTitle: 'Contains Method (Action(TPayload))'
 Title: 'PubSubEvent(TPayload).Contains Method (Action(TPayload)) (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Contains(System.Action{\`0})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736237(v=pandp.50)'
+ms:mtpsurl: 'pubsubevent-tpayload-contains-method-action-tpayload-mspp-pubsubevents.md'
 ---
 
 Prism Class Library

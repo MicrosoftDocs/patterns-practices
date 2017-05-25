@@ -2,7 +2,7 @@
 TOCTitle: DuplicateModuleException Class
 Title: 'DuplicateModuleException Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.DuplicateModuleException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.duplicatemoduleexception(v=pandp.50)'
+ms:mtpsurl: 'duplicatemoduleexception-class-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Exception thrown when a module is declared twice in the same catalog.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -35,11 +35,11 @@ Public Class DuplicateModuleException
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
   [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)<br/>
-    [Microsoft.Practices.Prism.Modularity.ModularityException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception(v=pandp.50))<br/>
+    [Microsoft.Practices.Prism.Modularity.ModularityException](modularityexception-class-mspp-modularity.md)<br/>
       Microsoft.Practices.Prism.Modularity.DuplicateModuleException
 
 ## See Also
 
-[DuplicateModuleException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.duplicatemoduleexception_members(v=pandp.50))
+[DuplicateModuleException Members](duplicatemoduleexception-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

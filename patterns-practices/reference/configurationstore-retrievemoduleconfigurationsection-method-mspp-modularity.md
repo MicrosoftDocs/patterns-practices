@@ -2,14 +2,14 @@
 TOCTitle: RetrieveModuleConfigurationSection Method
 Title: 'ConfigurationStore.RetrieveModuleConfigurationSection Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ConfigurationStore.RetrieveModuleConfigurationSection'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.configurationstore.retrievemoduleconfigurationsection(v=pandp.50)'
+ms:mtpsurl: 'configurationstore-retrievemoduleconfigurationsection-method-mspp-modularity.md'
 ---
 
 # ConfigurationStore.RetrieveModuleConfigurationSection Method
 
 Gets the module configuration data.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,17 +28,17 @@ Public Function RetrieveModuleConfigurationSection As ModulesConfigurationSectio
 
 ### Return Value
 
-Type: [ModulesConfigurationSection](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulesconfigurationsection(v=pandp.50))<br/>
-A [ModulesConfigurationSection](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulesconfigurationsection(v=pandp.50)) instance.
+Type: [ModulesConfigurationSection](modulesconfigurationsection-class-mspp-modularity.md)<br/>
+A [ModulesConfigurationSection](modulesconfigurationsection-class-mspp-modularity.md) instance.
 
 ### Implements
 
-[IConfigurationStore.RetrieveModuleConfigurationSection()](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.iconfigurationstore.retrievemoduleconfigurationsection(v=pandp.50))
+[IConfigurationStore.RetrieveModuleConfigurationSection()](iconfigurationstore-retrievemoduleconfigurationsection-method-mspp-modularity.md)
 
 ## See Also
 
-[ConfigurationStore Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.configurationstore(v=pandp.50))
+[ConfigurationStore Class](configurationstore-class-mspp-modularity.md)
 
-[ConfigurationStore Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.configurationstore_members(v=pandp.50))
+[ConfigurationStore Members](configurationstore-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

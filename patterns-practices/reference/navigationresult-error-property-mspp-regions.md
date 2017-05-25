@@ -2,7 +2,7 @@
 TOCTitle: Error Property
 Title: 'NavigationResult.Error Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.NavigationResult.Error'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult.error(v=pandp.50)'
+ms:mtpsurl: 'navigationresult-error-property-mspp-regions.md'
 ---
 
 Prism Class Library

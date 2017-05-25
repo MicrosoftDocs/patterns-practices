@@ -2,7 +2,7 @@
 TOCTitle: ModuleType Property
 Title: 'ModuleExportAttribute.ModuleType Property (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAttribute.ModuleType'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute.moduletype(v=pandp.50)'
+ms:mtpsurl: 'moduleexportattribute-moduletype-property-mspp-mefextensions-modularity.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Gets concrete type of the module being exported. Not typeof(IModule).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -33,13 +33,13 @@ Public ReadOnly Property ModuleType As Type
 Type: [Type](http://msdn.microsoft.com/en-us/library/42892f65)
 ### Implements
 
-[IModuleExport.ModuleType](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport.moduletype(v=pandp.50))
+[IModuleExport.ModuleType](imoduleexport-moduletype-property-mspp-mefextensions-modularity.md)
 
 ## See Also
 
 
-[ModuleExportAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute(v=pandp.50))
+[ModuleExportAttribute Class](moduleexportattribute-class-mspp-mefextensions-modularity.md)
 
-[ModuleExportAttribute Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute_members(v=pandp.50))
+[ModuleExportAttribute Members](moduleexportattribute-members-mspp-mefextensions-modularity.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)

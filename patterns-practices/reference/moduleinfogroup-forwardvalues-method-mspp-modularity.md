@@ -2,14 +2,14 @@
 TOCTitle: ForwardValues Method
 Title: 'ModuleInfoGroup.ForwardValues Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.ForwardValues(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup.forwardvalues(v=pandp.50)'
+ms:mtpsurl: 'moduleinfogroup-forwardvalues-method-mspp-modularity.md'
 ---
 
 Prism Class Library
 
 # ModuleInfoGroup.ForwardValues Method
 
-Forwards [InitializationMode](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup.initializationmode(v=pandp.50)) and [Ref](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup.ref(v=pandp.50)) properties from this [ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50)) to moduleInfo.
+Forwards [InitializationMode](moduleinfogroup-initializationmode-property-mspp-modularity.md) and [Ref](moduleinfogroup-ref-property-mspp-modularity.md) properties from this [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md) to moduleInfo.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 
@@ -30,7 +30,7 @@ protected void ForwardValues(
 
 *moduleInfo*  
 
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity.md)
 
 The module info to forward values to.
 
@@ -46,7 +46,7 @@ Protected Sub ForwardValues (
 
 *moduleInfo*  
 
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity.md)
 
 The module info to forward values to.
 
@@ -59,8 +59,8 @@ The module info to forward values to.
 ## See Also
 
 
-[ModuleInfoGroup Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50))
+[ModuleInfoGroup Class](moduleinfogroup-class-mspp-modularity.md)
 
-[ModuleInfoGroup Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup_members(v=pandp.50))
+[ModuleInfoGroup Members](moduleinfogroup-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

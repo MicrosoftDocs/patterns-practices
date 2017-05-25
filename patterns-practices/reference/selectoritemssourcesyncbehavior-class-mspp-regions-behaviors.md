@@ -2,7 +2,7 @@
 TOCTitle: SelectorItemsSourceSyncBehavior Class
 Title: 'SelectorItemsSourceSyncBehavior Class (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior(v=pandp.50)'
+ms:mtpsurl: 'selectoritemssourcesyncbehavior-class-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library

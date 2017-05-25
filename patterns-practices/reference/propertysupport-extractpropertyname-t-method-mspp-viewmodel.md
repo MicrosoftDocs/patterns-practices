@@ -2,14 +2,14 @@
 TOCTitle: 'ExtractPropertyName(T) Method'
 Title: 'PropertySupport.ExtractPropertyName(T) Method (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.PropertySupport.ExtractPropertyName\`\`1(System.Linq.Expressions.Expression{System.Func{\`\`0}})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg406219(v=pandp.50)'
+ms:mtpsurl: 'propertysupport-extractpropertyname-t-method-mspp-viewmodel.md'
 ---
 
 # PropertySupport.ExtractPropertyName&lt;T&gt; Method
 
 Extracts the property name from a property expression.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -70,17 +70,17 @@ Or, the property is static.</td>
 
 ## See Also
 
-[PropertySupport Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.propertysupport(v=pandp.50))
+[PropertySupport Class](propertysupport-class-mspp-viewmodel.md)
 
-[PropertySupport Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.propertysupport_members(v=pandp.50))
+[PropertySupport Members](propertysupport-members-mspp-viewmodel.md)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace.md)
 
 # PropertySupport.ExtractPropertyName(Of T) Method
 
 Extracts the property name from a property expression.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -141,8 +141,8 @@ Or, the property is static.</td>
 
 ## See Also
 
-[PropertySupport Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.propertysupport(v=pandp.50))
+[PropertySupport Class](propertysupport-class-mspp-viewmodel.md)
 
-[PropertySupport Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.propertysupport_members(v=pandp.50))
+[PropertySupport Members](propertysupport-members-mspp-viewmodel.md)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace.md)

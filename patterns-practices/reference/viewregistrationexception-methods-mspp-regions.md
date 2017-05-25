@@ -2,7 +2,7 @@
 TOCTitle: ViewRegistrationException Methods
 Title: 'ViewRegistrationException Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.ViewRegistrationException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregistrationexception_methods(v=pandp.50)'
+ms:mtpsurl: 'viewregistrationexception-methods-mspp-regions.md'
 ---
 
 Prism Class Library

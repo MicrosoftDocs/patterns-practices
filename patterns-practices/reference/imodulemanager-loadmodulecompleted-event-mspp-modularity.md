@@ -2,7 +2,7 @@
 TOCTitle: LoadModuleCompleted Event
 Title: 'IModuleManager.LoadModuleCompleted Event (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Modularity.IModuleManager.LoadModuleCompleted'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulemanager.loadmodulecompleted(v=pandp.50)'
+ms:mtpsurl: 'imodulemanager-loadmodulecompleted-event-mspp-modularity.md'
 ---
 
 Prism Class Library

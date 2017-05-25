@@ -2,7 +2,7 @@
 TOCTitle: SingleActiveRegion Properties
 Title: 'SingleActiveRegion Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.SingleActiveRegion'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.singleactiveregion_properties(v=pandp.50)'
+ms:mtpsurl: 'singleactiveregion-properties-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -10,7 +10,7 @@ Prism Class Library
 SingleActiveRegion Properties
 =============================
 
-The [SingleActiveRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.singleactiveregion(v=pandp.50)) type exposes the following members.
+The [SingleActiveRegion](singleactiveregion-class-mspp-regions.md) type exposes the following members.
 
 Properties
 ----------
@@ -104,6 +104,6 @@ See Also
 --------
 
 
-[SingleActiveRegion Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.singleactiveregion(v=pandp.50))
+[SingleActiveRegion Class](singleactiveregion-class-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

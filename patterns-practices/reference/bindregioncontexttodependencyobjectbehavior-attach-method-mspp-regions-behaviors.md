@@ -2,7 +2,7 @@
 TOCTitle: Attach Method
 Title: 'BindRegionContextToDependencyObjectBehavior.Attach Method (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior.Attach'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior.attach(v=pandp.50)'
+ms:mtpsurl: 'bindregioncontexttodependencyobjectbehavior-attach-method-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library

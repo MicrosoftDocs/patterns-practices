@@ -2,7 +2,7 @@
 TOCTitle: DefaultDispatcher Members
 Title: 'DefaultDispatcher Members (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Events.DefaultDispatcher'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.defaultdispatcher_members(v=pandp.50)'
+ms:mtpsurl: 'defaultdispatcher-members-mspp-events.md'
 ---
 
 Prism Class Library

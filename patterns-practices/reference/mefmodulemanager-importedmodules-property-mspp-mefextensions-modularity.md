@@ -2,7 +2,7 @@
 TOCTitle: ImportedModules Property
 Title: 'MefModuleManager.ImportedModules Property (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager.ImportedModules'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager.importedmodules(v=pandp.50)'
+ms:mtpsurl: 'mefmodulemanager-importedmodules-property-mspp-mefextensions-modularity.md'
 ---
 
 Prism Class Library

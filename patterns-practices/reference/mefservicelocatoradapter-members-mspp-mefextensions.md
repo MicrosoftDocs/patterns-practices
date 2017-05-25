@@ -2,7 +2,7 @@
 TOCTitle: MefServiceLocatorAdapter Members
 Title: 'MefServiceLocatorAdapter Members (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.MefServiceLocatorAdapter'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter_members(v=pandp.50)'
+ms:mtpsurl: 'mefservicelocatoradapter-members-mspp-mefextensions.md'
 ---
 
 Prism Class Library

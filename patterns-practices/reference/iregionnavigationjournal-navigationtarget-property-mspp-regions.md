@@ -2,7 +2,7 @@
 TOCTitle: NavigationTarget Property
 Title: 'IRegionNavigationJournal.NavigationTarget Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal.NavigationTarget'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal.navigationtarget(v=pandp.50)'
+ms:mtpsurl: 'iregionnavigationjournal-navigationtarget-property-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -12,7 +12,7 @@ IRegionNavigationJournal.NavigationTarget Property
 
 Gets or sets the target that implements INavigateAsync.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -34,7 +34,7 @@ Property NavigationTarget As INavigateAsync
 
 ### Property Value
 
-Type: [INavigateAsync](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync(v=pandp.50))
+Type: [INavigateAsync](inavigateasync-interface-mspp-regions.md)
 The INavigate implementation.
 
 Remarks
@@ -46,8 +46,8 @@ See Also
 --------
 
 
-[IRegionNavigationJournal Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal(v=pandp.50))
+[IRegionNavigationJournal Interface](iregionnavigationjournal-interface-mspp-regions.md)
 
-[IRegionNavigationJournal Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal_members(v=pandp.50))
+[IRegionNavigationJournal Members](iregionnavigationjournal-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

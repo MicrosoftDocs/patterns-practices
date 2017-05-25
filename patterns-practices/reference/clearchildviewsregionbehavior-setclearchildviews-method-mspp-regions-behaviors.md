@@ -2,14 +2,14 @@
 TOCTitle: SetClearChildViews Method
 Title: 'ClearChildViewsRegionBehavior.SetClearChildViews Method (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior.SetClearChildViews(System.Windows.DependencyObject,System.Boolean)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.setclearchildviews(v=pandp.50)'
+ms:mtpsurl: 'clearchildviewsregionbehavior-setclearchildviews-method-mspp-regions-behaviors.md'
 ---
 
 # ClearChildViewsRegionBehavior.SetClearChildViews Method
 
 Sets the ClearChildViews attached property in a DependencyObject.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -47,8 +47,8 @@ Public Shared Sub SetClearChildViews (
 
 ## See Also
 
-[ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior(v=pandp.50))
+[ClearChildViewsRegionBehavior Class](clearchildviewsregionbehavior-class-mspp-regions-behaviors.md)
 
-[ClearChildViewsRegionBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior_members(v=pandp.50))
+[ClearChildViewsRegionBehavior Members](clearchildviewsregionbehavior-members-mspp-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)

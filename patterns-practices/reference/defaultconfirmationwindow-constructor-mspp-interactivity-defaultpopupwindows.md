@@ -2,7 +2,7 @@
 TOCTitle: DefaultConfirmationWindow Constructor
 Title: 'DefaultConfirmationWindow Constructor (Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultConfirmationWindow.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow.defaultconfirmationwindow(v=pandp.50)'
+ms:mtpsurl: 'defaultconfirmationwindow-constructor-mspp-interactivity-defaultpopupwindows.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Creates a new instance of ConfirmationChildWindow.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](mspp-interactivity-defaultpopupwindows-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -30,8 +30,8 @@ Public Sub New
 ## See Also
 
 
-[DefaultConfirmationWindow Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow(v=pandp.50))
+[DefaultConfirmationWindow Class](defaultconfirmationwindow-class-mspp-interactivity-defaultpopupwindows.md)
 
-[DefaultConfirmationWindow Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow_members(v=pandp.50))
+[DefaultConfirmationWindow Members](defaultconfirmationwindow-members-mspp-interactivity-defaultpopupwindows.md)
 
-[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](mspp-interactivity-defaultpopupwindows-namespace.md)

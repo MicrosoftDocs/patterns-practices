@@ -2,14 +2,14 @@
 TOCTitle: SyncActiveStateAttribute Methods
 Title: 'SyncActiveStateAttribute Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.SyncActiveStateAttribute'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.syncactivestateattribute_methods(v=pandp.50)'
+ms:mtpsurl: 'syncactivestateattribute-methods-mspp-regions.md'
 ---
 
 Prism Class Library
 
 # SyncActiveStateAttribute Methods
 
-The [SyncActiveStateAttribute](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.syncactivestateattribute(v=pandp.50)) type exposes the following members.
+The [SyncActiveStateAttribute](syncactivestateattribute-class-mspp-regions.md) type exposes the following members.
 
 ## Methods
 
@@ -77,6 +77,6 @@ Returns a string that represents the current object.
 ## See Also
 
 
-[SyncActiveStateAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.syncactivestateattribute(v=pandp.50))
+[SyncActiveStateAttribute Class](syncactivestateattribute-class-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

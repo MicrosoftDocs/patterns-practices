@@ -2,7 +2,7 @@
 TOCTitle: 'NavigationResult Constructor (NavigationContext, Exception)'
 Title: 'NavigationResult Constructor (NavigationContext, Exception) (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationResult.\#ctor(Microsoft.Practices.Prism.Regions.NavigationContext,System.Exception)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult.navigationresult(v=pandp.50)'
+ms:mtpsurl: 'navigationresult-constructor-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -10,9 +10,9 @@ Prism Class Library
 NavigationResult Constructor (NavigationContext, Exception)
 ===========================================================
 
-Initializes a new instance of the [NavigationResult](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult(v=pandp.50)) class.
+Initializes a new instance of the [NavigationResult](navigationresult-class-mspp-regions.md) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -34,7 +34,7 @@ Public Sub New ( context As NavigationContext, error As Exception )
 ### Parameters
 
 *context*  
-Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext(v=pandp.50))
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](navigationcontext-class-mspp-regions.md)
 
 The context.
 
@@ -47,10 +47,10 @@ See Also
 --------
 
 
-[NavigationResult Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult(v=pandp.50))
+[NavigationResult Class](navigationresult-class-mspp-regions.md)
 
-[NavigationResult Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult_members(v=pandp.50))
+[NavigationResult Members](navigationresult-members-mspp-regions.md)
 
 NavigationResult Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

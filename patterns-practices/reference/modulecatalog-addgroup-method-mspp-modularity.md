@@ -2,7 +2,7 @@
 TOCTitle: AddGroup Method
 Title: 'ModuleCatalog.AddGroup Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddGroup(Microsoft.Practices.Prism.Modularity.InitializationMode,System.String,Microsoft.Practices.Prism.Modularity.ModuleInfo[])'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.addgroup(v=pandp.50)'
+ms:mtpsurl: 'modulecatalog-addgroup-method-mspp-modularity.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: ThreadOption Enumeration
 Title: 'ThreadOption Enumeration (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'T:Microsoft.Practices.Prism.PubSubEvents.ThreadOption'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.threadoption(v=pandp.50)'
+ms:mtpsurl: 'threadoption-enumeration-mspp-pubsubevents.md'
 ---
 
 Prism Class Library

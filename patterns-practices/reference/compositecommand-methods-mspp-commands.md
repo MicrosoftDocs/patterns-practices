@@ -2,14 +2,14 @@
 TOCTitle: CompositeCommand Methods
 Title: 'CompositeCommand Methods (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Commands.CompositeCommand'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand_methods(v=pandp.50)'
+ms:mtpsurl: 'compositecommand-methods-mspp-commands.md'
 ---
 
 Prism Class Library
 
 # CompositeCommand Methods
 
-The [CompositeCommand](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand(v=pandp.50)) type exposes the following members.
+The [CompositeCommand](compositecommand-class-mspp-commands.md) type exposes the following members.
 
 ## Methods
  
@@ -118,6 +118,6 @@ Removes a command from the collection and removes itself from the <a href="http:
 
 ## See Also
 
-[CompositeCommand Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand(v=pandp.50))
+[CompositeCommand Class](compositecommand-class-mspp-commands.md)
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
+[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)

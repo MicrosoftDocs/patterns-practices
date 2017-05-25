@@ -2,12 +2,12 @@
 TOCTitle: MefRegionManager Properties
 Title: 'MefRegionManager Properties (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager_properties(v=pandp.50)'
+ms:mtpsurl: 'mefregionmanager-properties-mspp-mefextensions-regions.md'
 ---
 
 # MefRegionManager Properties
 
-The [MefRegionManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager(v=pandp.50)) type exposes the following members.
+The [MefRegionManager](mefregionmanager-class-mspp-mefextensions-regions.md) type exposes the following members.
 
 ## Properties
 
@@ -32,18 +32,18 @@ The [MefRegionManager](https://msdn.microsoft.com/en-us/library/microsoft.practi
 ![](https://msdn.microsoft.com/en-us/Gg431153.pubproperty(en-us,PandP.50).gif "Public property")
 </td>
 <td>
-<a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager.regions(v=pandp.50)">Regions</a>
+<a href="regionmanager-regions-property-mspp-regions.md">Regions</a>
 </td>
 <td>
 <div>
-Gets a collection of <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)">IRegion</a> that identify each region by name. You can use this collection to add or remove regions to the current region manager.
-</div> (Inherited from <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager(v=pandp.50)">RegionManager</a>.)</td>
+Gets a collection of <a href="iregion-interface-mspp-regions.md">IRegion</a> that identify each region by name. You can use this collection to add or remove regions to the current region manager.
+</div> (Inherited from <a href="regionmanager-class-mspp-regions.md">RegionManager</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[MefRegionManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager(v=pandp.50))
+[MefRegionManager Class](mefregionmanager-class-mspp-mefextensions-regions.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace.md)

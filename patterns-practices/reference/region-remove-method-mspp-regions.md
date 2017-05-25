@@ -2,7 +2,7 @@
 TOCTitle: Remove Method
 Title: 'Region.Remove Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Region.Remove(System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.remove(v=pandp.50)'
+ms:mtpsurl: 'region-remove-method-mspp-regions.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: IModuleCatalogItem Interface
 Title: 'IModuleCatalogItem Interface (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.IModuleCatalogItem'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulecatalogitem(v=pandp.50)'
+ms:mtpsurl: 'imodulecatalogitem-interface-mspp-modularity.md'
 ---
 
 Prism Class Library

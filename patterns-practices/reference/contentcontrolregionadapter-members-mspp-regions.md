@@ -2,7 +2,7 @@
 TOCTitle: ContentControlRegionAdapter Members
 Title: 'ContentControlRegionAdapter Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.contentcontrolregionadapter_members(v=pandp.50)'
+ms:mtpsurl: 'contentcontrolregionadapter-members-mspp-regions.md'
 ---
 
 Prism Class Library

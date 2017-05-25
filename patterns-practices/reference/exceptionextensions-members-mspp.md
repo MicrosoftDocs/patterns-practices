@@ -2,7 +2,7 @@
 TOCTitle: ExceptionExtensions Members
 Title: 'ExceptionExtensions Members (Microsoft.Practices.Prism)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.ExceptionExtensions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.exceptionextensions_members(v=pandp.50)'
+ms:mtpsurl: 'exceptionextensions-members-mspp.md'
 ---
 
 Prism Class Library

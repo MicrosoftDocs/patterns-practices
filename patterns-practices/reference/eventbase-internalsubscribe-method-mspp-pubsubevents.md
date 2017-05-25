@@ -2,7 +2,7 @@
 TOCTitle: InternalSubscribe Method
 Title: 'EventBase.InternalSubscribe Method (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventBase.InternalSubscribe(Microsoft.Practices.Prism.PubSubEvents.IEventSubscription)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase.internalsubscribe(v=pandp.50)'
+ms:mtpsurl: 'eventbase-internalsubscribe-method-mspp-pubsubevents.md'
 ---
 
 Prism Class Library

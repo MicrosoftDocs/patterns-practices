@@ -2,7 +2,7 @@
 TOCTitle: InvokeCommandAction Events
 Title: 'InvokeCommandAction Events (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction_events(v=pandp.50)'
+ms:mtpsurl: 'invokecommandaction-events-mspp-interactivity.md'
 ---
 
 Prism Class Library

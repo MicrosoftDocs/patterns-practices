@@ -2,7 +2,7 @@
 TOCTitle: GetEnumerator Method
 Title: 'ViewsCollection.GetEnumerator Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewsCollection.GetEnumerator'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewscollection.getenumerator(v=pandp.50)'
+ms:mtpsurl: 'viewscollection-getenumerator-method-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Returns an enumerator that iterates through the collection.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -38,8 +38,8 @@ A [IEnumerator(Of T)](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can
 
 ## See Also
 
-[ViewsCollection Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewscollection(v=pandp.50))
+[ViewsCollection Class](viewscollection-class-mspp-regions.md)
 
-[ViewsCollection Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewscollection_members(v=pandp.50))
+[ViewsCollection Members](viewscollection-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

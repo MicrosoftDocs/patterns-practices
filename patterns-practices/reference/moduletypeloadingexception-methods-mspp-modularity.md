@@ -2,7 +2,7 @@
 TOCTitle: ModuleTypeLoadingException Methods
 Title: 'ModuleTypeLoadingException Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadingexception_methods(v=pandp.50)'
+ms:mtpsurl: 'moduletypeloadingexception-methods-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -10,7 +10,7 @@ Prism Class Library
 ModuleTypeLoadingException Methods
 ==================================
 
-The [ModuleTypeLoadingException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadingexception(v=pandp.50)) type exposes the following members.
+The [ModuleTypeLoadingException](moduletypeloadingexception-class-mspp-modularity.md) type exposes the following members.
 
 Methods
 -------
@@ -117,6 +117,6 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 
 ## See Also
 
-[ModuleTypeLoadingException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadingexception(v=pandp.50))
+[ModuleTypeLoadingException Class](moduletypeloadingexception-class-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

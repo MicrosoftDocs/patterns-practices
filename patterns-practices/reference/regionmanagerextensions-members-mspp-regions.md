@@ -2,7 +2,7 @@
 TOCTitle: RegionManagerExtensions Members
 Title: 'RegionManagerExtensions Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.RegionManagerExtensions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanagerextensions_members(v=pandp.50)'
+ms:mtpsurl: 'regionmanagerextensions-members-mspp-regions.md'
 ---
 
 Prism Class Library

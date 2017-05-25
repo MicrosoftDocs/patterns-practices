@@ -2,7 +2,7 @@
 TOCTitle: 'ModuleInitializeException Constructor (SerializationInfo, StreamingContext)'
 Title: 'ModuleInitializeException Constructor (SerializationInfo, StreamingContext) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializeException.\#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception.moduleinitializeexception(v=pandp.50)'
+ms:mtpsurl: 'moduleinitializeexception-constructor-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -12,7 +12,7 @@ ModuleInitializeException Constructor (SerializationInfo, StreamingContext)
 
 Initializes a new instance with serialized data.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -52,10 +52,10 @@ See Also
 --------
 
 
-[ModuleInitializeException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception(v=pandp.50))
+[ModuleInitializeException Class](moduleinitializeexception-class-mspp-modularity.md)
 
-[ModuleInitializeException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception_members(v=pandp.50))
+[ModuleInitializeException Members](moduleinitializeexception-members-mspp-modularity.md)
 
 ModuleInitializeException Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

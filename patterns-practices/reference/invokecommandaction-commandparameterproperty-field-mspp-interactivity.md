@@ -2,7 +2,7 @@
 TOCTitle: CommandParameterProperty Field
 Title: 'InvokeCommandAction.CommandParameterProperty Field (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'F:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.CommandParameterProperty'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.commandparameterproperty(v=pandp.50)'
+ms:mtpsurl: 'invokecommandaction-commandparameterproperty-field-mspp-interactivity.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Dependency property identifying the command parameter to supply on command execution.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](mspp-interactivity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -32,8 +32,8 @@ Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 
 ## See Also
 
-[InvokeCommandAction Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50))
+[InvokeCommandAction Class](invokecommandaction-class-mspp-interactivity.md)
 
-[InvokeCommandAction Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction_members(v=pandp.50))
+[InvokeCommandAction Members](invokecommandaction-members-mspp-interactivity.md)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace.md)

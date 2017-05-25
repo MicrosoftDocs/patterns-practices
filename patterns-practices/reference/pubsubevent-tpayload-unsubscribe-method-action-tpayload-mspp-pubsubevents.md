@@ -2,7 +2,7 @@
 TOCTitle: 'Unsubscribe Method (Action(TPayload))'
 Title: 'PubSubEvent(TPayload).Unsubscribe Method (Action(TPayload)) (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Unsubscribe(System.Action{\`0})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736235(v=pandp.50)'
+ms:mtpsurl: 'pubsubevent-tpayload-unsubscribe-method-action-tpayload-mspp-pubsubevents.md'
 ---
 
 Prism Class Library

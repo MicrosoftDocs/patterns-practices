@@ -2,7 +2,7 @@
 TOCTitle: ModuleManager Events
 Title: 'ModuleManager Events (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.ModuleManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager_events(v=pandp.50)'
+ms:mtpsurl: 'modulemanager-events-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -10,7 +10,7 @@ Prism Class Library
 ModuleManager Events
 ====================
 
-The [ModuleManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager(v=pandp.50)) type exposes the following members.
+The [ModuleManager](modulemanager-class-mspp-modularity.md) type exposes the following members.
 
 Events
 ------
@@ -46,6 +46,6 @@ See Also
 --------
 
 
-[ModuleManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager(v=pandp.50))
+[ModuleManager Class](modulemanager-class-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

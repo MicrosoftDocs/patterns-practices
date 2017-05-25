@@ -2,7 +2,7 @@
 TOCTitle: Contains Method
 Title: 'CompositePresentationEvent(TPayload).Contains Method (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Contains'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg419056(v=pandp.50)'
+ms:mtpsurl: 'compositepresentationevent-tpayload-contains-method-mspp-events.md'
 ---
 
 # CompositePresentationEvent(Of TPayload).Contains Method 
@@ -38,7 +38,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg419056(v=pandp.50)'
 ![](images/public-method.gif "Public method")
   </td>
   <td>
-    <a href="https://msdn.microsoft.com/en-us/library/gg405766(v=pandp.50)">Contains(Action(Of TPayload))</a>
+    <a href="compositepresentationevent-tpayload-contains-method-action-tpayload-mspp-events.md">Contains(Action(Of TPayload))</a>
   </td>
   <td>
     <div>
@@ -51,9 +51,9 @@ Returns <strong>Truetrue</strong> (<strong>True</strong> in Visual Basic) if the
 
 ## See Also
 
- [CompositePresentationEvent(Of TPayload) Class](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))
+ [CompositePresentationEvent(Of TPayload) Class](compositepresentationevent-tpayload-class-mspp-events.md)
  
-[CompositePresentationEvent(Of TPayload) Members](https://msdn.microsoft.com/en-us/library/gg430765(v=pandp.50))
+[CompositePresentationEvent(Of TPayload) Members](compositepresentationevent-tpayload-members-mspp-events.md)
 
-[Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
+[Microsoft.Practices.Prism.Events Namespace](mspp-events-namespace.md)
 

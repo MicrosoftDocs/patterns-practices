@@ -2,7 +2,7 @@
 TOCTitle: DelegateCommandBase Methods
 Title: 'DelegateCommandBase Methods (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Commands.DelegateCommandBase'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase_methods(v=pandp.50)'
+ms:mtpsurl: 'delegatecommandbase-methods-mspp-commands.md'
 ---
 
 Prism Class Library

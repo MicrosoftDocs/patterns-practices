@@ -2,7 +2,7 @@
 TOCTitle: DelegateReference Constructor
 Title: 'DelegateReference Constructor (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.DelegateReference.\#ctor(System.Delegate,System.Boolean)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.delegatereference.delegatereference(v=pandp.50)'
+ms:mtpsurl: 'delegatereference-constructor-mspp-pubsubevents.md'
 ---
 
 Prism Class Library

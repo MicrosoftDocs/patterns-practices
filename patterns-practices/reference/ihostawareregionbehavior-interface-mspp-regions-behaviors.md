@@ -2,14 +2,14 @@
 TOCTitle: IHostAwareRegionBehavior Interface
 Title: 'IHostAwareRegionBehavior Interface (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.Behaviors.IHostAwareRegionBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior(v=pandp.50)'
+ms:mtpsurl: 'ihostawareregionbehavior-interface-mspp-regions-behaviors.md'
 ---
 
 # IHostAwareRegionBehavior Interface
 
-Defines a [IRegionBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior(v=pandp.50)) that not allows extensible behaviors on regions which also interact with the target element that the [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)) is attached to.
+Defines a [IRegionBehavior](iregionbehavior-interface-mspp-regions.md) that not allows extensible behaviors on regions which also interact with the target element that the [IRegion](iregion-interface-mspp-regions.md) is attached to.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -31,6 +31,6 @@ Public Interface IHostAwareRegionBehavior
 
 ## See Also
 
-[IHostAwareRegionBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior_members(v=pandp.50))
+[IHostAwareRegionBehavior Members](ihostawareregionbehavior-members-mspp-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: GetExecutionStrategy Method
 Title: 'EventSubscription(TPayload).GetExecutionStrategy Method (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventSubscription\`1.GetExecutionStrategy'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736174(v=pandp.50)'
+ms:mtpsurl: 'eventsubscription-tpayload-getexecutionstrategy-method-mspp-pubsubevents.md'
 ---
 
 Prism Class Library

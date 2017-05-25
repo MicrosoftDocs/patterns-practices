@@ -2,14 +2,14 @@
 TOCTitle: RegionContext Attached Property
 Title: 'RegionManager.RegionContext Attached Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionManager.RegionContext'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager.regioncontext(v=pandp.50)'
+ms:mtpsurl: 'regionmanager-regioncontext-attached-property-mspp-regions.md'
 ---
 
 Prism Class Library
 
 # RegionManager.RegionContext Attached Property
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -33,8 +33,8 @@ Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 ## See Also
 
 
-[RegionManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager(v=pandp.50))
+[RegionManager Class](regionmanager-class-mspp-regions.md)
 
-[RegionManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager_members(v=pandp.50))
+[RegionManager Members](regionmanager-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

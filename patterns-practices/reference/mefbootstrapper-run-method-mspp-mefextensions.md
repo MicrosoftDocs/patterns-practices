@@ -2,7 +2,7 @@
 TOCTitle: Run Method
 Title: 'MefBootstrapper.Run Method (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.Run'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper.run(v=pandp.50)'
+ms:mtpsurl: 'mefbootstrapper-run-method-boolean-mspp-mefextensions.md'
 ---
 
 # MefBootstrapper.Run Method
@@ -40,8 +40,8 @@ Run the bootstrapper process.
 
 ## See Also
 
-[MefBootstrapper Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper(v=pandp.50))
+[MefBootstrapper Class](mefbootstrapper-class-mspp-mefextensions.md)
 
-[MefBootstrapper Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions(v=pandp.50))
+[MefBootstrapper Members](mspp-mefextensions-namespace.md)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions Namespace](mspp-mefextensions-namespace.md)

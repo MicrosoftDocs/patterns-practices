@@ -2,12 +2,12 @@
 TOCTitle: ModuleNotFoundException Events
 Title: 'ModuleNotFoundException Events (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.ModuleNotFoundException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception_events(v=pandp.50)'
+ms:mtpsurl: 'modulenotfoundexception-events-mspp-modularity.md'
 ---
 
 # ModuleNotFoundException Events
 
-The [ModuleNotFoundException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception(v=pandp.50)) type exposes the following members.
+The [ModuleNotFoundException](modulenotfoundexception-class-mspp-modularity.md) type exposes the following members.
 
 
 ## Events
@@ -44,10 +44,10 @@ Occurs when an exception is serialized to create an exception state object that 
 ## See Also
 
 
-[ModuleNotFoundException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception(v=pandp.50))
+[ModuleNotFoundException Class](modulenotfoundexception-class-mspp-modularity.md)
 =======
 
 [ModuleNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception)
 
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

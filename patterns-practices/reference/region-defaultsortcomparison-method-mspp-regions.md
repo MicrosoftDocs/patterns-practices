@@ -2,7 +2,7 @@
 TOCTitle: DefaultSortComparison Method
 Title: 'Region.DefaultSortComparison Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Region.DefaultSortComparison(System.Object,System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.defaultsortcomparison(v=pandp.50)'
+ms:mtpsurl: 'region-defaultsortcomparison-method-mspp-regions.md'
 ---
 
 Prism Class Library

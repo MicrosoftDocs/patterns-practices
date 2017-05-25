@@ -2,7 +2,7 @@
 TOCTitle: DefaultConfirmationWindow Class
 Title: 'DefaultConfirmationWindow Class (Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultConfirmationWindow'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow(v=pandp.50)'
+ms:mtpsurl: 'defaultconfirmationwindow-class-mspp-interactivity-defaultpopupwindows.md'
 ---
 
 # DefaultConfirmationWindow Class
@@ -12,7 +12,7 @@ Interaction logic for ConfirmationChildWindow.xaml
 DefaultConfirmationWindow
 
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](mspp-interactivity-defaultpopupwindows-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -54,8 +54,8 @@ Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows .DefaultConfirmation
 
 ## See Also
 
-[DefaultConfirmationWindow Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow_members(v=pandp.50))
-[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows(v=pandp.50))
+[DefaultConfirmationWindow Members](defaultconfirmationwindow-members-mspp-interactivity-defaultpopupwindows.md)
+[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](mspp-interactivity-defaultpopupwindows-namespace.md)
 =======
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)

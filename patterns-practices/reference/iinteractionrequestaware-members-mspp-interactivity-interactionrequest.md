@@ -2,7 +2,7 @@
 TOCTitle: IInteractionRequestAware Members
 Title: 'IInteractionRequestAware Members (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.IInteractionRequestAware'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware_members(v=pandp.50)'
+ms:mtpsurl: 'iinteractionrequestaware-members-mspp-interactivity-interactionrequest.md'
 ---
 
 Prism Class Library

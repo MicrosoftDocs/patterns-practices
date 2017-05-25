@@ -2,7 +2,7 @@
 TOCTitle: SyncActiveStateAttribute Constructor
 Title: 'SyncActiveStateAttribute Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.SyncActiveStateAttribute.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.syncactivestateattribute.syncactivestateattribute(v=pandp.50)'
+ms:mtpsurl: 'syncactivestateattribute-constructor-mspp-regions.md'
 ---
 
 Prism Class Library

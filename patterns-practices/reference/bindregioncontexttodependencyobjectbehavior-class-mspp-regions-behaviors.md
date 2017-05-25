@@ -2,16 +2,16 @@
 TOCTitle: BindRegionContextToDependencyObjectBehavior Class
 Title: 'BindRegionContextToDependencyObjectBehavior Class (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior(v=pandp.50)'
+ms:mtpsurl: 'bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library
 
 # BindRegionContextToDependencyObjectBehavior Class
 
-Defines a behavior that forwards the [RegionContextProperty](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager.regioncontextproperty(v=pandp.50)) to the views in the region.
+Defines a behavior that forwards the [RegionContextProperty](regionmanager-regioncontextproperty-field-mspp-regions.md) to the views in the region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -35,10 +35,10 @@ Public Class BindRegionContextToDependencyObjectBehavior
 
   Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior
 
-    [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefBindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefbindregioncontexttodependencyobjectbehavior(v=pandp.50))
+    [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefBindRegionContextToDependencyObjectBehavior](mefbindregioncontexttodependencyobjectbehavior-class-mspp-mefextensions-regions-behaviors.md)
 
 ## See Also
 
-[BindRegionContextToDependencyObjectBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior_members(v=pandp.50))
+[BindRegionContextToDependencyObjectBehavior Members](bindregioncontexttodependencyobjectbehavior-members-mspp-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)

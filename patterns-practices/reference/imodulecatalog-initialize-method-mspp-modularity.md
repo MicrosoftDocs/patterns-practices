@@ -2,14 +2,14 @@
 TOCTitle: Initialize Method
 Title: 'IModuleCatalog.Initialize Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.IModuleCatalog.Initialize'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulecatalog.initialize(v=pandp.50)'
+ms:mtpsurl: 'imodulecatalog-initialize-method-mspp-modularity.md'
 ---
 
 # IModuleCatalog.Initialize Method
 
 Initializes the catalog, which may load and validate the modules.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,8 +28,8 @@ Sub Initialize
 
 ## See Also
 
-[IModuleCatalog Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulecatalog(v=pandp.50))
+[IModuleCatalog Interface](imodulecatalog-interface-mspp-modularity.md)
 
-[IModuleCatalog Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulecatalog_members(v=pandp.50))
+[IModuleCatalog Members](imodulecatalog-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

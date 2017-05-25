@@ -2,7 +2,7 @@
 TOCTitle: CanExecute Method
 Title: 'CompositeCommand.CanExecute Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.CanExecute(System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand.canexecute(v=pandp.50)'
+ms:mtpsurl: 'compositecommand-canexecute-method-mspp-commands.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Forwards [CanExecute(Object)](http://msdn.microsoft.com/en-us/library/ms604093) to the registered commands and returns **truetrue** (**True** in Visual Basic) if all of the commands return **truetrue** (**True** in Visual Basic).
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Commands](mspp-commands-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -49,8 +49,8 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 ## See Also
 
 
-[CompositeCommand Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand(v=pandp.50))
+[CompositeCommand Class](compositecommand-class-mspp-commands.md)
 
-[CompositeCommand Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand_members(v=pandp.50))
+[CompositeCommand Members](compositecommand-members-mspp-commands.md)
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
+[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)

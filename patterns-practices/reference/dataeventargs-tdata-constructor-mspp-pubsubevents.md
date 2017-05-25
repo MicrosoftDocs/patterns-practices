@@ -2,7 +2,7 @@
 TOCTitle: 'DataEventArgs(TData) Constructor'
 Title: 'DataEventArgs(TData) Constructor (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.DataEventArgs\`1.\#ctor(\`0)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736134(v=pandp.50)'
+ms:mtpsurl: 'dataeventargs-tdata-constructor-mspp-pubsubevents.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Initializes the DataEventArgs class.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -27,7 +27,7 @@ public DataEventArgs(
 
 _value_
 
-Type: [TData](https://msdn.microsoft.com/en-us/library/dn736191(v=pandp.50))
+Type: [TData](dataeventargs-tdata-class-mspp-pubsubevents.md)
 
 Information related to the event.
 
@@ -58,7 +58,7 @@ Public Sub New (
 
 _value_
 
-Type: [TData](https://msdn.microsoft.com/en-us/library/dn736191(v=pandp.50))
+Type: [TData](dataeventargs-tdata-class-mspp-pubsubevents.md)
 
 =======
 
@@ -74,7 +74,7 @@ Information related to the event.
 ## See Also
 
 
-[DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Class](https://msdn.microsoft.com/en-us/library/dn736191(v=pandp.50))
+[DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Class](dataeventargs-tdata-class-mspp-pubsubevents.md)
 =======
 
 [DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dataeventargs%601)
@@ -83,7 +83,7 @@ Information related to the event.
 DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Members
 
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
 =======
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
 

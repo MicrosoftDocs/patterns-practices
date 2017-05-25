@@ -2,7 +2,7 @@
 TOCTitle: ExecuteCommand Method
 Title: 'CommandBehaviorBase(T).ExecuteCommand Method (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase\`1.ExecuteCommand(System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736267(v=pandp.50)'
+ms:mtpsurl: 'commandbehaviorbase-t-executecommand-method-mspp-interactivity.md'
 ---
 
 Prism Class Library

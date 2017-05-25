@@ -2,7 +2,7 @@
 TOCTitle: AttachDefaultBehaviors Method
 Title: 'RegionAdapterBase(T).AttachDefaultBehaviors Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionAdapterBase\`1.AttachDefaultBehaviors(Microsoft.Practices.Prism.Regions.IRegion,\`0)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg418934(v=pandp.50)'
+ms:mtpsurl: 'regionadapterbase-t-attachdefaultbehaviors-method-mspp-regions.md'
 ---
 
 Prism Class Library

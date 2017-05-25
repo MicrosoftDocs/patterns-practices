@@ -2,7 +2,7 @@
 TOCTitle: ModuleDependencyAttribute Methods
 Title: 'ModuleDependencyAttribute Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyAttribute'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencyattribute_methods(v=pandp.50)'
+ms:mtpsurl: 'moduledependencyattribute-methods-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -10,7 +10,7 @@ Prism Class Library
 ModuleDependencyAttribute Methods
 =================================
 
-The [ModuleDependencyAttribute](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencyattribute(v=pandp.50)) type exposes the following members.
+The [ModuleDependencyAttribute](moduledependencyattribute-class-mspp-modularity.md) type exposes the following members.
 
 Methods
 -------
@@ -80,6 +80,6 @@ See Also
 --------
 
 
-[ModuleDependencyAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencyattribute(v=pandp.50))
+[ModuleDependencyAttribute Class](moduledependencyattribute-class-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

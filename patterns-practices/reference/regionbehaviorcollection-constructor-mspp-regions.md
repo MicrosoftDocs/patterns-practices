@@ -2,16 +2,16 @@
 TOCTitle: RegionBehaviorCollection Constructor
 Title: 'RegionBehaviorCollection Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionBehaviorCollection.\#ctor(Microsoft.Practices.Prism.Regions.IRegion)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorcollection.regionbehaviorcollection(v=pandp.50)'
+ms:mtpsurl: 'regionbehaviorcollection-constructor-mspp-regions.md'
 ---
 
 Prism Class Library
 
 # RegionBehaviorCollection Constructor
 
-Initializes a new instance of the [RegionBehaviorCollection](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorcollection(v=pandp.50)) class and associates it with a region.
+Initializes a new instance of the [RegionBehaviorCollection](regionbehaviorcollection-class-mspp-regions.md) class and associates it with a region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -37,13 +37,13 @@ Public Sub New (
 
 *region*
 
-	Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50))
+	Type: [Microsoft.Practices.Prism.Regions.IRegion](iregion-interface-mspp-regions.md)
 	The region to associate the behavior collection with.
 
 ## See Also
 
-[RegionBehaviorCollection Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorcollection(v=pandp.50))
+[RegionBehaviorCollection Class](regionbehaviorcollection-class-mspp-regions.md)
 
-[RegionBehaviorCollection Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorcollection_members(v=pandp.50))
+[RegionBehaviorCollection Members](regionbehaviorcollection-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

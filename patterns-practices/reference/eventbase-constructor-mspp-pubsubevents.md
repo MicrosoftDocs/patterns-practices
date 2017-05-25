@@ -2,14 +2,14 @@
 TOCTitle: EventBase Constructor
 Title: 'EventBase Constructor (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventBase.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase.eventbase(v=pandp.50)'
+ms:mtpsurl: 'eventbase-constructor-mspp-pubsubevents.md'
 ---
 
 # EventBase Constructor
 
-Initializes a new instance of the [EventBase](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase(v=pandp.50)) class
+Initializes a new instance of the [EventBase](eventbase-class-mspp-pubsubevents.md) class
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -26,8 +26,8 @@ Protected Sub New
 
 ## See Also
 
-[EventBase Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase(v=pandp.50))
+[EventBase Class](eventbase-class-mspp-pubsubevents.md)
 
 EventBase Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)

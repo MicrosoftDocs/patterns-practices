@@ -2,16 +2,16 @@
 TOCTitle: ModuleTypeLoaderNotFoundException Class
 Title: 'ModuleTypeLoaderNotFoundException Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception(v=pandp.50)'
+ms:mtpsurl: 'moduletypeloadernotfoundexception-class-mspp-modularity.md'
 ---
 
 Prism Class Library
 
 # ModuleTypeLoaderNotFoundException Class
 
-Exception that's thrown when there is no [IModuleTypeLoader](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader(v=pandp.50)) registered in [ModuleTypeLoaders](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager.moduletypeloaders(v=pandp.50)) that can handle this particular type of module.
+Exception that's thrown when there is no [IModuleTypeLoader](imoduletypeloader-interface-mspp-modularity.md) registered in [ModuleTypeLoaders](modulemanager-moduletypeloaders-property-mspp-modularity.md) that can handle this particular type of module.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -37,12 +37,12 @@ Public Class ModuleTypeLoaderNotFoundException
 
   [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 
-    [Microsoft.Practices.Prism.Modularity.ModularityException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception(v=pandp.50))
+    [Microsoft.Practices.Prism.Modularity.ModularityException](modularityexception-class-mspp-modularity.md)
 
       Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException
 
 ## See Also
 
-[ModuleTypeLoaderNotFoundException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception_members(v=pandp.50))
+[ModuleTypeLoaderNotFoundException Members](moduletypeloadernotfoundexception-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

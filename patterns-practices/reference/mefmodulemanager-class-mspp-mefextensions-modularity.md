@@ -2,7 +2,7 @@
 TOCTitle: MefModuleManager Class
 Title: 'MefModuleManager Class (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager(v=pandp.50)'
+ms:mtpsurl: 'mefmodulemanager-class-mspp-mefextensions-modularity.md'
 ---
 
 Prism Class Library
@@ -13,7 +13,7 @@ Component responsible for coordinating the modules' type loading and module init
 
 Component responsible for coordinating the modules' type loading and module initialization process.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -45,12 +45,12 @@ Public Class MefModuleManager
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-  [Microsoft.Practices.Prism.Modularity.ModuleManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager(v=pandp.50))
+  [Microsoft.Practices.Prism.Modularity.ModuleManager](modulemanager-class-mspp-modularity.md)
   
     Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager
 
 ## See Also
 
-[MefModuleManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager_members(v=pandp.50))
+[MefModuleManager Members](mefmodulemanager-members-mspp-mefextensions-modularity.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)

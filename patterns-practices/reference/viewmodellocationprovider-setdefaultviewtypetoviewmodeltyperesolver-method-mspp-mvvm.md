@@ -2,7 +2,7 @@
 TOCTitle: SetDefaultViewTypeToViewModelTypeResolver Method
 Title: 'ViewModelLocationProvider.SetDefaultViewTypeToViewModelTypeResolver Method (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Mvvm.ViewModelLocationProvider.SetDefaultViewTypeToViewModelTypeResolver(System.Func{System.Type,System.Type})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.viewmodellocationprovider.setdefaultviewtypetoviewmodeltyperesolver(v=pandp.50)'
+ms:mtpsurl: 'viewmodellocationprovider-setdefaultviewtypetoviewmodeltyperesolver-method-mspp-mvvm.md'
 ---
 
 Prism Class Library

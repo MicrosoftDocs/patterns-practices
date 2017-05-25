@@ -2,14 +2,14 @@
 TOCTitle: 'DispatcherEventSubscription(TPayload) Constructor'
 Title: 'DispatcherEventSubscription(TPayload) Constructor (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.DispatcherEventSubscription\`1.\#ctor(Microsoft.Practices.Prism.PubSubEvents.IDelegateReference,Microsoft.Practices.Prism.PubSubEvents.IDelegateReference,Microsoft.Practices.Prism.Events.IDispatcherFacade)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn683971(v=pandp.50)'
+ms:mtpsurl: 'dispatchereventsubscription-tpayload-constructor-mspp-events.md'
 ---
 
 # DispatcherEventSubscription&lt;TPayload&gt; Constructor
 
 Creates a new instance of BackgroundEventSubscription.
 
-**Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Events](mspp-events-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -38,7 +38,7 @@ public DispatcherEventSubscription(
 
 *dispatcher*
 
-   Type: [Microsoft.Practices.Prism.Events.IDispatcherFacade](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.idispatcherfacade(v=pandp.50))
+   Type: [Microsoft.Practices.Prism.Events.IDispatcherFacade](idispatcherfacade-interface-mspp-events.md)
    The dispatcher to use when executing the *actionReference* delegate.
 
 ## Exceptions
@@ -65,17 +65,17 @@ public DispatcherEventSubscription(
 
 ## See Also
 
-[DispatcherEventSubscription&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/gg431416(v=pandp.50))
+[DispatcherEventSubscription&lt;TPayload&gt; Class](dispatchereventsubscription-tpayload-class-mspp-events.md)
 
-[DispatcherEventSubscription&lt;TPayload&gt; Members](https://msdn.microsoft.com/en-us/library/gg430769(v=pandp.50))
+[DispatcherEventSubscription&lt;TPayload&gt; Members](dispatchereventsubscription-tpayload-members-mspp-events.md)
 
-[Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
+[Microsoft.Practices.Prism.Events Namespace](mspp-events-namespace.md)
 
 # DispatcherEventSubscription(Of TPayload) Constructor
 
 Creates a new instance of BackgroundEventSubscription.
 
-**Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Events](mspp-events-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -105,7 +105,7 @@ Public Sub New (
 
 *dispatcher*
 
-   Type: [Microsoft.Practices.Prism.Events.IDispatcherFacade](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.idispatcherfacade(v=pandp.50))
+   Type: [Microsoft.Practices.Prism.Events.IDispatcherFacade](idispatcherfacade-interface-mspp-events.md)
    The dispatcher to use when executing the *actionReference* delegate.
 
 ## Exceptions
@@ -132,8 +132,8 @@ Public Sub New (
 
 ## See Also
 
-[DispatcherEventSubscription(Of TPayload) Class](https://msdn.microsoft.com/en-us/library/gg431416(v=pandp.50))
+[DispatcherEventSubscription(Of TPayload) Class](dispatchereventsubscription-tpayload-class-mspp-events.md)
 
-[DispatcherEventSubscription(Of TPayload) Members](https://msdn.microsoft.com/en-us/library/gg430769(v=pandp.50))
+[DispatcherEventSubscription(Of TPayload) Members](dispatchereventsubscription-tpayload-members-mspp-events.md)
 
-[Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
+[Microsoft.Practices.Prism.Events Namespace](mspp-events-namespace.md)

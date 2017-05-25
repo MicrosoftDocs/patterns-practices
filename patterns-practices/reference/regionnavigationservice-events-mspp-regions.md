@@ -2,7 +2,7 @@
 TOCTitle: RegionNavigationService Events
 Title: 'RegionNavigationService Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.RegionNavigationService'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice_events(v=pandp.50)'
+ms:mtpsurl: 'regionnavigationservice-events-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -10,7 +10,7 @@ Prism Class Library
 RegionNavigationService Events
 ==============================
 
-The [RegionNavigationService](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice(v=pandp.50)) type exposes the following members.
+The [RegionNavigationService](regionnavigationservice-class-mspp-regions.md) type exposes the following members.
 
 Events
 ------
@@ -53,6 +53,6 @@ See Also
 --------
 
 
-[RegionNavigationService Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice(v=pandp.50))
+[RegionNavigationService Class](regionnavigationservice-class-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

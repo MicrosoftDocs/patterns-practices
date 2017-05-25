@@ -2,7 +2,7 @@
 TOCTitle: PropertyChanged Event
 Title: 'Region.PropertyChanged Event (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Regions.Region.PropertyChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.propertychanged(v=pandp.50)'
+ms:mtpsurl: 'region-propertychanged-event-mspp-regions.md'
 ---
 
 Prism Class Library

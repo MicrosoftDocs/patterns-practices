@@ -2,7 +2,7 @@
 TOCTitle: ModuleInitializeException Constructor
 Title: 'ModuleInitializeException Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleInitializeException.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception.moduleinitializeexception(v=pandp.50)'
+ms:mtpsurl: 'moduleinitializeexception-constructor-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -75,8 +75,8 @@ Initializes the exception with a particular module, error message and inner exce
 
 ## See Also
 
-[ModuleInitializeException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception(v=pandp.50))
+[ModuleInitializeException Class](moduleinitializeexception-class-mspp-modularity.md)
 
-[ModuleInitializeException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception_members(v=pandp.50))
+[ModuleInitializeException Members](moduleinitializeexception-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

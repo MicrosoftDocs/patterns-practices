@@ -2,14 +2,14 @@
 TOCTitle: ContainsRegionWithName Method
 Title: 'IRegionCollection.ContainsRegionWithName Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionCollection.ContainsRegionWithName(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection.containsregionwithname(v=pandp.50)'
+ms:mtpsurl: 'iregioncollection-containsregionwithname-method-mspp-regions.md'
 ---
 
 # IRegionCollection.ContainsRegionWithName Method
 
-Checks if the collection contains a [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)) with the name received as parameter.
+Checks if the collection contains a [IRegion](iregion-interface-mspp-regions.md) with the name received as parameter.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -45,8 +45,8 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
 
 ## See Also
 
-[IRegionCollection Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection(v=pandp.50))
+[IRegionCollection Interface](iregioncollection-interface-mspp-regions.md)
 
-[IRegionCollection Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection_members(v=pandp.50))
+[IRegionCollection Members](iregioncollection-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

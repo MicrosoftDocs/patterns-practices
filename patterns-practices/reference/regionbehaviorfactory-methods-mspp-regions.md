@@ -2,14 +2,14 @@
 TOCTitle: RegionBehaviorFactory Methods
 Title: 'RegionBehaviorFactory Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.RegionBehaviorFactory'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorfactory_methods(v=pandp.50)'
+ms:mtpsurl: 'regionbehaviorfactory-methods-mspp-regions.md'
 ---
 
 Prism Class Library
 
 # RegionBehaviorFactory Methods
 
-The [RegionBehaviorFactory](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorfactory(v=pandp.50)) type exposes the following members.
+The [RegionBehaviorFactory](regionbehaviorfactory-class-mspp-regions.md) type exposes the following members.
 
 ## Methods
 
@@ -105,6 +105,6 @@ Returns a string that represents the current object.
 ## See Also
 
 
-[RegionBehaviorFactory Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorfactory(v=pandp.50))
+[RegionBehaviorFactory Class](regionbehaviorfactory-class-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

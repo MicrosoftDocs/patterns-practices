@@ -2,7 +2,7 @@
 TOCTitle: DefaultPrismServiceRegistrar Members
 Title: 'DefaultPrismServiceRegistrar Members (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.DefaultPrismServiceRegistrar'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.defaultprismserviceregistrar_members(v=pandp.50)'
+ms:mtpsurl: 'defaultprismserviceregistrar-members-mspp-mefextensions.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: LoadAssemblyFrom Method
 Title: 'AssemblyResolver.LoadAssemblyFrom Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.AssemblyResolver.LoadAssemblyFrom(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.assemblyresolver.loadassemblyfrom(v=pandp.50)'
+ms:mtpsurl: 'assemblyresolver-loadassemblyfrom-method-mspp-modularity.md'
 ---
 
 Prism Class Library

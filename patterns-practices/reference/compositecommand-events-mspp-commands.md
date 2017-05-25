@@ -2,7 +2,7 @@
 TOCTitle: CompositeCommand Events
 Title: 'CompositeCommand Events (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Commands.CompositeCommand'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand_events(v=pandp.50)'
+ms:mtpsurl: 'compositecommand-events-mspp-commands.md'
 ---
 
 Prism Class Library

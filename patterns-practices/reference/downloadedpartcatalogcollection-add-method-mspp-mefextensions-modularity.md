@@ -2,7 +2,7 @@
 TOCTitle: Add Method
 Title: 'DownloadedPartCatalogCollection.Add Method (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection.Add(Microsoft.Practices.Prism.Modularity.ModuleInfo,System.ComponentModel.Composition.Primitives.ComposablePartCatalog)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection.add(v=pandp.50)'
+ms:mtpsurl: 'downloadedpartcatalogcollection-add-method-mspp-mefextensions-modularity.md'
 ---
 
 Prism Class Library

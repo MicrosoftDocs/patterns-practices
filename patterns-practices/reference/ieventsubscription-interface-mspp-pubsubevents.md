@@ -2,14 +2,14 @@
 TOCTitle: IEventSubscription Interface
 Title: 'IEventSubscription Interface (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'T:Microsoft.Practices.Prism.PubSubEvents.IEventSubscription'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50)'
+ms:mtpsurl: 'ieventsubscription-interface-mspp-pubsubevents.md'
 ---
 
 # IEventSubscription Interface
 
-Defines a contract for an event subscription to be used by [EventBase](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase(v=pandp.50)).
+Defines a contract for an event subscription to be used by [EventBase](eventbase-class-mspp-pubsubevents.md).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -37,4 +37,4 @@ IEventSubscription Members
 [IEventSubscription Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.ieventsubscription)
 
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)

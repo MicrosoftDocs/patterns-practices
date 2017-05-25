@@ -2,14 +2,14 @@
 TOCTitle: PropertyChanged Event
 Title: 'BindableBase.PropertyChanged Event (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Mvvm.BindableBase.PropertyChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase.propertychanged(v=pandp.50)'
+ms:mtpsurl: 'bindablebase-propertychanged-event-mspp-mvvm.md'
 ---
 
 # BindableBase.PropertyChanged Event
 
 Occurs when a property value changes.
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](mspp-mvvm-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -32,8 +32,8 @@ Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn.microsoft.
 
 # See Also
 
-[BindableBase Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase(v=pandp.50))
+[BindableBase Class](bindablebase-class-mspp-mvvm.md)
 
-[BindableBase Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase_members(v=pandp.50))
+[BindableBase Members](bindablebase-members-mspp-mvvm.md)
 
-[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm(v=pandp.50))
+[Microsoft.Practices.Prism.Mvvm Namespace](mspp-mvvm-namespace.md)

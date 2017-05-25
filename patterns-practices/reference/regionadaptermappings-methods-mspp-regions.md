@@ -2,7 +2,7 @@
 TOCTitle: RegionAdapterMappings Methods
 Title: 'RegionAdapterMappings Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.RegionAdapterMappings'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionadaptermappings_methods(v=pandp.50)'
+ms:mtpsurl: 'regionadaptermappings-methods-mspp-regions.md'
 ---
 
 Prism Class Library

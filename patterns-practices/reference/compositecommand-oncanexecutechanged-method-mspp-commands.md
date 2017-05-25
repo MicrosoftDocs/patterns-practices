@@ -2,7 +2,7 @@
 TOCTitle: OnCanExecuteChanged Method
 Title: 'CompositeCommand.OnCanExecuteChanged Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.OnCanExecuteChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand.oncanexecutechanged(v=pandp.50)'
+ms:mtpsurl: 'compositecommand-oncanexecutechanged-method-mspp-commands.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: IModuleExport Interface
 Title: 'IModuleExport Interface (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Modularity.IModuleExport'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport(v=pandp.50)'
+ms:mtpsurl: 'imoduleexport-interface-mspp-mefextensions-modularity.md'
 ---
 
 Prism Class Library

@@ -2,14 +2,14 @@
 TOCTitle: NotificationObject Constructor
 Title: 'NotificationObject Constructor (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.NotificationObject.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.notificationobject.notificationobject(v=pandp.50)'
+ms:mtpsurl: 'notificationobject-constructor-mspp-viewmodel.md'
 ---
 
 # NotificationObject Constructor
 
-Initializes a new instance of the [NotificationObject](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.notificationobject(v=pandp.50)) class
+Initializes a new instance of the [NotificationObject](notificationobject-class-mspp-viewmodel.md) class
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,8 +28,8 @@ Protected Sub New
 
 ## See Also
 
-[NotificationObject Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.notificationobject(v=pandp.50))
+[NotificationObject Class](notificationobject-class-mspp-viewmodel.md)
 
-[NotificationObject Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.notificationobject_members(v=pandp.50))
+[NotificationObject Members](notificationobject-members-mspp-viewmodel.md)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace.md)

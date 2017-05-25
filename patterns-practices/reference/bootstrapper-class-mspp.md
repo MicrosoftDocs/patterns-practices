@@ -2,7 +2,7 @@
 TOCTitle: Bootstrapper Class
 Title: 'Bootstrapper Class (Microsoft.Practices.Prism)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Bootstrapper'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper(v=pandp.50)'
+ms:mtpsurl: 'bootstrapper-class-mspp.md'
 ---
 
 Prism Class Library

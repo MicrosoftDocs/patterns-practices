@@ -2,7 +2,7 @@
 TOCTitle: GetClearChildViews Method
 Title: 'ClearChildViewsRegionBehavior.GetClearChildViews Method (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior.GetClearChildViews(System.Windows.DependencyObject)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.getclearchildviews(v=pandp.50)'
+ms:mtpsurl: 'clearchildviewsregionbehavior-getclearchildviews-method-mspp-regions-behaviors.md'
 ---
 
 
@@ -10,7 +10,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.
 
 Gets the ClearChildViews attached property from a DependencyObject.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -72,12 +72,12 @@ The value of the ClearChildViews attached property in the target specified.
 ## See Also
 
 
-[ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior(v=pandp.50))
+[ClearChildViewsRegionBehavior Class](clearchildviewsregionbehavior-class-mspp-regions-behaviors.md)
 =======
 
 [ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
 
 
-[ClearChildViewsRegionBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior_members(v=pandp.50))
+[ClearChildViewsRegionBehavior Members](clearchildviewsregionbehavior-members-mspp-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)

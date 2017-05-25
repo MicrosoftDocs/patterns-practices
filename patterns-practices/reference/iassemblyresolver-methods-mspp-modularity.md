@@ -2,14 +2,14 @@
 TOCTitle: IAssemblyResolver Methods
 Title: 'IAssemblyResolver Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.IAssemblyResolver'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.iassemblyresolver_methods(v=pandp.50)'
+ms:mtpsurl: 'iassemblyresolver-methods-mspp-modularity.md'
 ---
 
 Prism Class Library
 
 # IAssemblyResolver Methods
 
-The [IAssemblyResolver](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.iassemblyresolver(v=pandp.50)) type exposes the following members.
+The [IAssemblyResolver](iassemblyresolver-interface-mspp-modularity.md) type exposes the following members.
 
 ## Methods
 
@@ -35,6 +35,6 @@ Load an assembly when it's required by the application.
 
 ## See Also
 
-[IAssemblyResolver Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.iassemblyresolver(v=pandp.50))
+[IAssemblyResolver Interface](iassemblyresolver-interface-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

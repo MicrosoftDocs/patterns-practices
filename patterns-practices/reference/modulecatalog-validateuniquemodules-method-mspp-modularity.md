@@ -2,7 +2,7 @@
 TOCTitle: ValidateUniqueModules Method
 Title: 'ModuleCatalog.ValidateUniqueModules Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.ValidateUniqueModules'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.validateuniquemodules(v=pandp.50)'
+ms:mtpsurl: 'modulecatalog-validateuniquemodules-method-mspp-modularity.md'
 ---
 
 Prism Class Library

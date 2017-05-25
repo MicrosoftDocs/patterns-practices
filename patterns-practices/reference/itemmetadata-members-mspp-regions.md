@@ -2,7 +2,7 @@
 TOCTitle: ItemMetadata Members
 Title: 'ItemMetadata Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.ItemMetadata'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata_members(v=pandp.50)'
+ms:mtpsurl: 'itemmetadata-members-mspp-regions.md'
 ---
 
 Prism Class Library

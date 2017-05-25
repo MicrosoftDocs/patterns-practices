@@ -2,7 +2,7 @@
 TOCTitle: IRegionCollection Events
 Title: 'IRegionCollection Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.IRegionCollection'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection_events(v=pandp.50)'
+ms:mtpsurl: 'iregioncollection-events-mspp-regions.md'
 ---
 
 Prism Class Library

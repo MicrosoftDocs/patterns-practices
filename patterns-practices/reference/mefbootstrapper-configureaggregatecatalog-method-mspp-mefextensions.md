@@ -2,7 +2,7 @@
 TOCTitle: ConfigureAggregateCatalog Method
 Title: 'MefBootstrapper.ConfigureAggregateCatalog Method (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.ConfigureAggregateCatalog'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper.configureaggregatecatalog(v=pandp.50)'
+ms:mtpsurl: 'mefbootstrapper-configureaggregatecatalog-method-mspp-mefextensions.md'
 ---
 
 Prism Class Library

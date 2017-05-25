@@ -2,12 +2,12 @@
 TOCTitle: MefModuleManager Properties
 Title: 'MefModuleManager Properties (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager_properties(v=pandp.50)'
+ms:mtpsurl: 'mefmodulemanager-properties-mspp-mefextensions-modularity.md'
 ---
 
 MefModuleManager Properties
 
-The [MefModuleManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager(v=pandp.50)) type exposes the following members.
+The [MefModuleManager](mefmodulemanager-class-mspp-mefextensions-modularity.md) type exposes the following members.
 
 ## Properties
 
@@ -49,6 +49,6 @@ Gets or sets the type loaders used by the module manager.
 
 ## See Also
 
-[MefModuleManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager(v=pandp.50))
+[MefModuleManager Class](mefmodulemanager-class-mspp-mefextensions-modularity.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)

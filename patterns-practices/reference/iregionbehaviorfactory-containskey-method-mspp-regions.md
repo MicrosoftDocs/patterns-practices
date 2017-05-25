@@ -2,7 +2,7 @@
 TOCTitle: ContainsKey Method
 Title: 'IRegionBehaviorFactory.ContainsKey Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory.ContainsKey(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehaviorfactory.containskey(v=pandp.50)'
+ms:mtpsurl: 'iregionbehaviorfactory-containskey-method-mspp-regions.md'
 ---
 
 Prism Class Library

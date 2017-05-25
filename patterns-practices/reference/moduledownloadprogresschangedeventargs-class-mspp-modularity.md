@@ -2,7 +2,7 @@
 TOCTitle: ModuleDownloadProgressChangedEventArgs Class
 Title: 'ModuleDownloadProgressChangedEventArgs Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleDownloadProgressChangedEventArgs'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs(v=pandp.50)'
+ms:mtpsurl: 'moduledownloadprogresschangedeventargs-class-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -12,7 +12,7 @@ ModuleDownloadProgressChangedEventArgs Class
 
 Provides progress information as a module downloads.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -44,6 +44,6 @@ See Also
 --------
 
 
-[ModuleDownloadProgressChangedEventArgs Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs_members(v=pandp.50))
+[ModuleDownloadProgressChangedEventArgs Members](moduledownloadprogresschangedeventargs-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

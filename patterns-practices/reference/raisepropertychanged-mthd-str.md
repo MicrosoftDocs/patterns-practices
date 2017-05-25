@@ -2,7 +2,7 @@
 TOCTitle: 'RaisePropertyChanged Method (String[])'
 Title: 'NotificationObject.RaisePropertyChanged Method (String[]) (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.NotificationObject.RaisePropertyChanged(System.String[])'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged(v=pandp.50)'
+ms:mtpsurl: 'notificationobject-raisepropertychanged-method-mspp-viewmodel.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Raises this object's PropertyChanged event for each of the properties.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -35,19 +35,19 @@ The properties that have a new value.
 
 ## See Also
 
-[NotificationObject Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.notificationobject(v=pandp.50))
+[NotificationObject Class](notificationobject-class-mspp-viewmodel.md)
 
-[NotificationObject Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.notificationobject_members(v=pandp.50))
+[NotificationObject Members](notificationobject-members-mspp-viewmodel.md)
 
-[RaisePropertyChanged Overload](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged(v=pandp.50))
+[RaisePropertyChanged Overload](notificationobject-raisepropertychanged-method-mspp-viewmodel.md)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace.md)
 
 # NotificationObject.RaisePropertyChanged Method (String())
 
 Raises this object's PropertyChanged event for each of the properties.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -72,10 +72,10 @@ The properties that have a new value.
 
 ## See Also
 
-[NotificationObject Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.notificationobject(v=pandp.50))
+[NotificationObject Class](notificationobject-class-mspp-viewmodel.md)
 
-[NotificationObject Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.notificationobject_members(v=pandp.50))
+[NotificationObject Members](notificationobject-members-mspp-viewmodel.md)
 
-[RaisePropertyChanged Overload](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged(v=pandp.50))
+[RaisePropertyChanged Overload](notificationobject-raisepropertychanged-method-mspp-viewmodel.md)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace.md)

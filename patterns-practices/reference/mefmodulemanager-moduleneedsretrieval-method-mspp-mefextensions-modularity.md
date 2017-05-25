@@ -2,7 +2,7 @@
 TOCTitle: ModuleNeedsRetrieval Method
 Title: 'MefModuleManager.ModuleNeedsRetrieval Method (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager.ModuleNeedsRetrieval(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager.moduleneedsretrieval(v=pandp.50)'
+ms:mtpsurl: 'mefmodulemanager-moduleneedsretrieval-method-mspp-mefextensions-modularity.md'
 ---
 
 Prism Class Library

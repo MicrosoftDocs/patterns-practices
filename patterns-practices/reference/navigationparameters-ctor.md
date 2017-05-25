@@ -2,7 +2,7 @@
 TOCTitle: NavigationParameters Constructor
 Title: 'NavigationParameters Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.NavigationParameters.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters.navigationparameters(v=pandp.50)'
+ms:mtpsurl: 'navigationparameters-constructor-mspp-regions.md'
 ---
 
 # NavigationParameters Constructor
@@ -38,8 +38,8 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## See Also
 
-[NavigationParameters Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters(v=pandp.50))
+[NavigationParameters Class](navigationparameters-class-mspp-regions.md)
 
-[NavigationParameters Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters_members(v=pandp.50))
+[NavigationParameters Members](navigationparameters-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

@@ -2,14 +2,14 @@
 TOCTitle: HandleModuleTypeLoadingError Method
 Title: 'ModuleManager.HandleModuleTypeLoadingError Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleManager.HandleModuleTypeLoadingError(Microsoft.Practices.Prism.Modularity.ModuleInfo,System.Exception)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager.handlemoduletypeloadingerror(v=pandp.50)'
+ms:mtpsurl: 'modulemanager-handlemoduletypeloadingerror-method-mspp-modularity.md'
 ---
 
 # ModuleManager.HandleModuleTypeLoadingError Method 
 
-Handles any exception occurred in the module typeloading process, logs the error using the [ILoggerFacade](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.iloggerfacade(v=pandp.50)) and throws a [ModuleTypeLoadingException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadingexception(v=pandp.50)). This method can be overridden to provide a different behavior.
+Handles any exception occurred in the module typeloading process, logs the error using the [ILoggerFacade](iloggerfacade-interface-mspp-logging.md) and throws a [ModuleTypeLoadingException](moduletypeloadingexception-class-mspp-modularity.md). This method can be overridden to provide a different behavior.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -39,7 +39,7 @@ Protected Overridable Sub HandleModuleTypeLoadingError (
 
 *moduleInfo*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The module metadata where the error happenened.
 
@@ -54,12 +54,12 @@ Protected Overridable Sub HandleModuleTypeLoadingError (
 <span id="exceptionsToggle"></span>
 | Exception                                                                                                                                                           | Condition |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| [Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadingexception(v=pandp.50)) |           |
+| [Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException](moduletypeloadingexception-class-mspp-modularity.md) |           |
 
 ## See Also
 
-[ModuleManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager(v=pandp.50))
+[ModuleManager Class](modulemanager-class-mspp-modularity.md)
 
-[ModuleManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager_members(v=pandp.50))
+[ModuleManager Members](modulemanager-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

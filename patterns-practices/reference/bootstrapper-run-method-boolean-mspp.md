@@ -2,7 +2,7 @@
 TOCTitle: 'Run Method (Boolean)'
 Title: 'Bootstrapper.Run Method (Boolean) (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.Run(System.Boolean)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper.run(v=pandp.50)'
+ms:mtpsurl: 'bootstrapper-run-method-boolean-mspp.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Run the bootstrapper process.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism](mspp-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -53,10 +53,10 @@ If Truetrue (True in Visual Basic), registers default Prism Library services in 
 ## See Also
 
 
-[Bootstrapper Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper(v=pandp.50))
+[Bootstrapper Class](bootstrapper-class-mspp.md)
 
-[Bootstrapper Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper_members(v=pandp.50))
+[Bootstrapper Members](bootstrapper-members-mspp.md)
 
-[Run Overload](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper.run(v=pandp.50))
+[Run Overload](bootstrapper-run-method-boolean-mspp.md)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+[Microsoft.Practices.Prism Namespace](mspp-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: BindableBase Members
 Title: 'BindableBase Members (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Mvvm.BindableBase'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase_members(v=pandp.50)'
+ms:mtpsurl: 'bindablebase-members-mspp-mvvm.md'
 ---
 
 Prism Class Library

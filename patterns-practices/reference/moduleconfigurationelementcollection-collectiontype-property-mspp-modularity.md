@@ -2,14 +2,14 @@
 TOCTitle: CollectionType Property
 Title: 'ModuleConfigurationElementCollection.CollectionType Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection.CollectionType'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.collectiontype(v=pandp.50)'
+ms:mtpsurl: 'moduleconfigurationelementcollection-collectiontype-property-mspp-modularity.md'
 ---
 
 # ModuleConfigurationElementCollection.CollectionType Property
 
 Gets the type of the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -35,8 +35,8 @@ The [ConfigurationElementCollectionType](http://msdn.microsoft.com/en-us/library
 
 ## See Also
 
-[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection(v=pandp.50))
+[ModuleConfigurationElementCollection Class](moduleconfigurationelementcollection-class-mspp-modularity.md)
 
-[ModuleConfigurationElementCollection Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection_members(v=pandp.50))
+[ModuleConfigurationElementCollection Members](moduleconfigurationelementcollection-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

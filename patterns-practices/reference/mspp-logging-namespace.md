@@ -2,7 +2,7 @@
 TOCTitle: 'Microsoft.Practices.Prism.Logging Namespace'
 Title: 'Microsoft.Practices.Prism.Logging Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.Logging'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging(v=pandp.50)'
+ms:mtpsurl: 'mspp-logging-namespace.md'
 ---
 
 Prism Class Library

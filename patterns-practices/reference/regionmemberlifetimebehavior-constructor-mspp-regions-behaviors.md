@@ -2,7 +2,7 @@
 TOCTitle: RegionMemberLifetimeBehavior Constructor
 Title: 'RegionMemberLifetimeBehavior Constructor (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior.regionmemberlifetimebehavior(v=pandp.50)'
+ms:mtpsurl: 'regionmemberlifetimebehavior-constructor-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library

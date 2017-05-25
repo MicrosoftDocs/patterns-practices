@@ -2,7 +2,7 @@
 TOCTitle: OnDetaching Method
 Title: 'InteractionRequestTrigger.OnDetaching Method (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestTrigger.OnDetaching'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger.ondetaching(v=pandp.50)'
+ms:mtpsurl: 'interactionrequesttrigger-ondetaching-method-mspp-interactivity-interactionrequest.md'
 ---
 
 Prism Class Library

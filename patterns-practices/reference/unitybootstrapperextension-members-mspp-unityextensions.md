@@ -2,7 +2,7 @@
 TOCTitle: UnityBootstrapperExtension Members
 Title: 'UnityBootstrapperExtension Members (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtension'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension_members(v=pandp.50)'
+ms:mtpsurl: 'unitybootstrapperextension-members-mspp-unityextensions.md'
 ---
 
 Prism Class Library

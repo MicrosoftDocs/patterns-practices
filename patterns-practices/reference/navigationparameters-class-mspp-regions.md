@@ -2,7 +2,7 @@
 TOCTitle: NavigationParameters Class
 Title: 'NavigationParameters Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.NavigationParameters'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters(v=pandp.50)'
+ms:mtpsurl: 'navigationparameters-class-mspp-regions.md'
 ---
 
 # NavigationParameters Class
@@ -10,7 +10,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.
 Represents Navigation parameters.
 
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -55,10 +55,10 @@ Microsoft.Practices.Prism.Regions.NavigationParameters
 ## See Also
 
 
-[NavigationParameters Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters_members(v=pandp.50))
+[NavigationParameters Members](navigationparameters-members-mspp-regions.md)
 =======
 
 [NavigationParameters Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationparameters)
 
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

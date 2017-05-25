@@ -2,7 +2,7 @@
 TOCTitle: ModuleManager Class
 Title: 'ModuleManager Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager(v=pandp.50)'
+ms:mtpsurl: 'modulemanager-class-mspp-modularity.md'
 ---
 
 Prism Class Library

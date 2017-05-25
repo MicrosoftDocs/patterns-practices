@@ -2,14 +2,14 @@
 TOCTitle: ModuleInitializeException Methods
 Title: 'ModuleInitializeException Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleInitializeException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception_methods(v=pandp.50)'
+ms:mtpsurl: 'moduleinitializeexception-methods-mspp-modularity.md'
 ---
 
 Prism Class Library
 
 # ModuleInitializeException Methods
 
-The [ModuleInitializeException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception(v=pandp.50)) type exposes the following members.
+The [ModuleInitializeException](moduleinitializeexception-class-mspp-modularity.md) type exposes the following members.
 
 ## Methods
 
@@ -116,6 +116,6 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 ## See Also
 
 
-[ModuleInitializeException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializeexception(v=pandp.50))
+[ModuleInitializeException Class](moduleinitializeexception-class-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

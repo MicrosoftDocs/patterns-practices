@@ -2,14 +2,14 @@
 TOCTitle: IRegionManager Properties
 Title: 'IRegionManager Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanager_properties(v=pandp.50)'
+ms:mtpsurl: 'iregionmanager-properties-mspp-regions.md'
 ---
 
 Prism Class Library
 
 # IRegionManager Properties
 
-The [IRegionManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanager(v=pandp.50)) type exposes the following members.
+The [IRegionManager](iregionmanager-interface-mspp-regions.md) type exposes the following members.
 
 ## Properties
  
@@ -36,6 +36,6 @@ Gets a collection of <a href="https://msdn.microsoft.com/library/microsoft.pract
 ## See Also
 
 
-[IRegionManager Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanager(v=pandp.50))
+[IRegionManager Interface](iregionmanager-interface-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

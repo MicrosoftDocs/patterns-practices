@@ -2,14 +2,14 @@
 TOCTitle: Dispose Method
 Title: 'SubscriptionToken.Dispose Method (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken.Dispose'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken.dispose(v=pandp.50)'
+ms:mtpsurl: 'subscriptiontoken-dispose-method-mspp-pubsubevents.md'
 ---
 
 # SubscriptionToken.Dispose Method
 
-Disposes the SubscriptionToken, removing the subscription from the corresponding [EventBase](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase(v=pandp.50)).
+Disposes the SubscriptionToken, removing the subscription from the corresponding [EventBase](eventbase-class-mspp-pubsubevents.md).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -34,8 +34,8 @@ Public Overridable Sub Dispose
 
 ## See Also
 
-[SubscriptionToken Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50))
+[SubscriptionToken Class](subscriptiontoken-class-mspp-pubsubevents.md)
 
 SubscriptionToken Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)

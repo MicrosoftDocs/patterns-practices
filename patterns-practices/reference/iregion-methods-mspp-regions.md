@@ -2,7 +2,7 @@
 TOCTitle: IRegion Methods
 Title: 'IRegion Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegion'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion_methods(v=pandp.50)'
+ms:mtpsurl: 'iregion-methods-mspp-regions.md'
 ---
 
 Prism Class Library

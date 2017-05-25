@@ -2,7 +2,7 @@
 TOCTitle: CyclicDependencyFoundException Class
 Title: 'CyclicDependencyFoundException Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception(v=pandp.50)'
+ms:mtpsurl: 'cyclicdependencyfoundexception-class-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Represents the exception that is thrown when there is a circular dependency between modules during the module loading process.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -34,11 +34,11 @@ Public Class CyclicDependencyFoundException
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
   [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)<br/>
-    [Microsoft.Practices.Prism.Modularity.ModularityException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception(v=pandp.50))<br/>
+    [Microsoft.Practices.Prism.Modularity.ModularityException](modularityexception-class-mspp-modularity.md)<br/>
       Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException
 
 ## See Also
 
-[CyclicDependencyFoundException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception_members(v=pandp.50))
+[CyclicDependencyFoundException Members](cyclicdependencyfoundexception-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

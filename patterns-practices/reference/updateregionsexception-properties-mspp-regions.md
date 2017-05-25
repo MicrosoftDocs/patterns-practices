@@ -2,7 +2,7 @@
 TOCTitle: UpdateRegionsException Properties
 Title: 'UpdateRegionsException Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.UpdateRegionsException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception_properties(v=pandp.50)'
+ms:mtpsurl: 'updateregionsexception-properties-mspp-regions.md'
 ---
 
 Prism Class Library

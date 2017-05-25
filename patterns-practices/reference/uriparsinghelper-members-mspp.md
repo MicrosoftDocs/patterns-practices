@@ -2,7 +2,7 @@
 TOCTitle: UriParsingHelper Members
 Title: 'UriParsingHelper Members (Microsoft.Practices.Prism)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.UriParsingHelper'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.uriparsinghelper_members(v=pandp.50)'
+ms:mtpsurl: 'uriparsinghelper-members-mspp.md'
 ---
 
 Prism Class Library

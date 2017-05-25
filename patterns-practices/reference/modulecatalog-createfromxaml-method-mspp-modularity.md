@@ -2,7 +2,7 @@
 TOCTitle: CreateFromXaml Method
 Title: 'ModuleCatalog.CreateFromXaml Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleCatalog.CreateFromXaml'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.createfromxaml(v=pandp.50)'
+ms:mtpsurl: 'modulecatalog-createfromxaml-method-mspp-modularity.md'
 ---
 
 Prism Class Library

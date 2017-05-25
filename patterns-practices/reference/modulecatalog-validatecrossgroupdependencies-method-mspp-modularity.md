@@ -2,7 +2,7 @@
 TOCTitle: ValidateCrossGroupDependencies Method
 Title: 'ModuleCatalog.ValidateCrossGroupDependencies Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.ValidateCrossGroupDependencies'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.validatecrossgroupdependencies(v=pandp.50)'
+ms:mtpsurl: 'modulecatalog-validatecrossgroupdependencies-method-mspp-modularity.md'
 ---
 
 Prism Class Library

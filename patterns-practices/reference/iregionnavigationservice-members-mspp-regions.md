@@ -2,7 +2,7 @@
 TOCTitle: IRegionNavigationService Members
 Title: 'IRegionNavigationService Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionNavigationService'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice_members(v=pandp.50)'
+ms:mtpsurl: 'iregionnavigationservice-members-mspp-regions.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: ClearChildViewsRegionBehavior Class
 Title: 'ClearChildViewsRegionBehavior Class (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior(v=pandp.50)'
+ms:mtpsurl: 'clearchildviewsregionbehavior-class-mspp-regions-behaviors.md'
 ---
 
 # ClearChildViewsRegionBehavior Class
@@ -13,7 +13,7 @@ Behavior that removes the RegionManager attached property of all the views in a 
 
 This behavior does not apply by default. In order to activate it, the ClearChildViews attached property must be set to True in the view containing the affected child regions.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -32,12 +32,12 @@ Public Class ClearChildViewsRegionBehavior
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-  [Microsoft.Practices.Prism.Regions.RegionBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior(v=pandp.50))
+  [Microsoft.Practices.Prism.Regions.RegionBehavior](regionbehavior-class-mspp-regions.md)
     Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior
-      [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefClearChildViewsRegionBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior(v=pandp.50))
+      [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefClearChildViewsRegionBehavior](mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors.md)
 
 ## See Also
 
-[ClearChildViewsRegionBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior_members(v=pandp.50))
+[ClearChildViewsRegionBehavior Members](clearchildviewsregionbehavior-members-mspp-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)

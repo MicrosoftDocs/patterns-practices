@@ -2,7 +2,7 @@
 TOCTitle: DefaultDispatcher Constructor
 Title: 'DefaultDispatcher Constructor (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.DefaultDispatcher.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.defaultdispatcher.defaultdispatcher(v=pandp.50)'
+ms:mtpsurl: 'defaultdispatcher-constructor-mspp-events.md'
 ---
 
 Prism Class Library

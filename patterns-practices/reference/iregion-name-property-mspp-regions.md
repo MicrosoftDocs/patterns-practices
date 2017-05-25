@@ -2,16 +2,16 @@
 TOCTitle: Name Property
 Title: 'IRegion.Name Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegion.Name'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion.name(v=pandp.50)'
+ms:mtpsurl: 'iregion-name-property-mspp-regions.md'
 ---
 
 Prism Class Library
 
 # IRegion.Name Property
 
-Gets the name of the region that uniequely identifies the region within a [IRegionManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanager(v=pandp.50)).
+Gets the name of the region that uniequely identifies the region within a [IRegionManager](iregionmanager-interface-mspp-regions.md).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -39,8 +39,8 @@ The name of the region.
 ## See Also
 
 
-[IRegion Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50))
+[IRegion Interface](iregion-interface-mspp-regions.md)
 
-[IRegion Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion_members(v=pandp.50))
+[IRegion Members](iregion-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

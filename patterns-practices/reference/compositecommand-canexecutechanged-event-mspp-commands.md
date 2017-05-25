@@ -2,7 +2,7 @@
 TOCTitle: CanExecuteChanged Event
 Title: 'CompositeCommand.CanExecuteChanged Event (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Commands.CompositeCommand.CanExecuteChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand.canexecutechanged(v=pandp.50)'
+ms:mtpsurl: 'compositecommand-canexecutechanged-event-mspp-commands.md'
 ---
 
 Prism Class Library

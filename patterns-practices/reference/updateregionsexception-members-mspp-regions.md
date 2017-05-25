@@ -2,7 +2,7 @@
 TOCTitle: UpdateRegionsException Members
 Title: 'UpdateRegionsException Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.UpdateRegionsException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception_members(v=pandp.50)'
+ms:mtpsurl: 'updateregionsexception-members-mspp-regions.md'
 ---
 
 Prism Class Library

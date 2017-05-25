@@ -2,12 +2,12 @@
 TOCTitle: RegionCreationException Events
 Title: 'RegionCreationException Events (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionCreationException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regioncreationexception_events(v=pandp.50)'
+ms:mtpsurl: 'regioncreationexception-events-mspp-regions-behaviors.md'
 ---
 
 # RegionCreationException Events
 
-The [RegionCreationException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regioncreationexception(v=pandp.50)) type exposes the following members.
+The [RegionCreationException](regioncreationexception-class-mspp-regions-behaviors.md) type exposes the following members.
 
 ## Events
 
@@ -34,6 +34,6 @@ Occurs when an exception is serialized to create an exception state object that 
 
 ## See Also
 
-[RegionCreationException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regioncreationexception(v=pandp.50))
+[RegionCreationException Class](regioncreationexception-class-mspp-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)

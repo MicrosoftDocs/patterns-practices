@@ -2,7 +2,7 @@
 TOCTitle: IEventAggregator Interface
 Title: 'IEventAggregator Interface (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'T:Microsoft.Practices.Prism.PubSubEvents.IEventAggregator'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventaggregator(v=pandp.50)'
+ms:mtpsurl: 'ieventaggregator-interface-mspp-pubsubevents.md'
 ---
 
 # IEventAggregator Interface

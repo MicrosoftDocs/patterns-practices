@@ -2,7 +2,7 @@
 TOCTitle: AssemblyResolver Class
 Title: 'AssemblyResolver Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.AssemblyResolver'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.assemblyresolver(v=pandp.50)'
+ms:mtpsurl: 'assemblyresolver-class-mspp-modularity.md'
 ---
 
 Prism Class Library

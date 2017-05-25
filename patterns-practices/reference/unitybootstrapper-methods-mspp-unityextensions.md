@@ -2,7 +2,7 @@
 TOCTitle: UnityBootstrapper Methods
 Title: 'UnityBootstrapper Methods (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapper_methods(v=pandp.50)'
+ms:mtpsurl: 'unitybootstrapper-methods-mspp-unityextensions.md'
 ---
 
 Prism Class Library

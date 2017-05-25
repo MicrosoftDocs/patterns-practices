@@ -2,7 +2,7 @@
 TOCTitle: 'RaisePropertyChanged(T) Method (Expression(Func(T)))'
 Title: 'NotificationObject.RaisePropertyChanged(T) Method (Expression(Func(T))) (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.NotificationObject.RaisePropertyChanged\`\`1(System.Linq.Expressions.Expression{System.Func{\`\`0}})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg406218(v=pandp.50)'
+ms:mtpsurl: 'notificationobject-raisepropertychanged-t-method-expression-func-t-mspp-viewmodel.md'
 ---
 
 Prism Class Library

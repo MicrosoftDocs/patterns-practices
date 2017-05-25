@@ -2,14 +2,14 @@
 TOCTitle: MefRegionAdapterMappings Constructor
 Title: 'MefRegionAdapterMappings Constructor (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionAdapterMappings.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings.mefregionadaptermappings(v=pandp.50)'
+ms:mtpsurl: 'mefregionadaptermappings-constructor-mspp-mefextensions-regions.md'
 ---
 
 # MefRegionAdapterMappings Constructor
 
-Initializes a new instance of the [MefRegionAdapterMappings](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings(v=pandp.50)) class
+Initializes a new instance of the [MefRegionAdapterMappings](mefregionadaptermappings-class-mspp-mefextensions-regions.md) class
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](mspp-mefextensions-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -27,8 +27,8 @@ Public Sub New
 ```
 ## See Also
 
-[MefRegionAdapterMappings Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings(v=pandp.50))
+[MefRegionAdapterMappings Class](mefregionadaptermappings-class-mspp-mefextensions-regions.md)
 
-[MefRegionAdapterMappings Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings_members(v=pandp.50))
+[MefRegionAdapterMappings Members](mefregionadaptermappings-members-mspp-mefextensions-regions.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace.md)

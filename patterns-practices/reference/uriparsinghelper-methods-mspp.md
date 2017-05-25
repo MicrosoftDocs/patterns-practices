@@ -2,7 +2,7 @@
 TOCTitle: UriParsingHelper Methods
 Title: 'UriParsingHelper Methods (Microsoft.Practices.Prism)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.UriParsingHelper'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.uriparsinghelper_methods(v=pandp.50)'
+ms:mtpsurl: 'uriparsinghelper-methods-mspp.md'
 ---
 
 Prism Class Library

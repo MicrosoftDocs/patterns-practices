@@ -2,7 +2,7 @@
 TOCTitle: Notification Members
 Title: 'Notification Members (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.notification_members(v=pandp.50)'
+ms:mtpsurl: 'notification-members-mspp-interactivity-interactionrequest.md'
 ---
 
 Prism Class Library

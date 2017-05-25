@@ -2,16 +2,16 @@
 TOCTitle: NavigationAsyncExtensions Class
 Title: 'NavigationAsyncExtensions Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.NavigationAsyncExtensions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions(v=pandp.50)'
+ms:mtpsurl: 'navigationasyncextensions-class-mspp-regions.md'
 ---
 
 Prism Class Library
 
 # NavigationAsyncExtensions Class
 
-Provides additional methods to the [INavigateAsync](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync(v=pandp.50)) interface.
+Provides additional methods to the [INavigateAsync](inavigateasync-interface-mspp-regions.md) interface.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -36,6 +36,6 @@ Public NotInheritable Class NavigationAsyncExtensions
 
 ## See Also
 
-[NavigationAsyncExtensions Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions_members(v=pandp.50))
+[NavigationAsyncExtensions Members](navigationasyncextensions-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

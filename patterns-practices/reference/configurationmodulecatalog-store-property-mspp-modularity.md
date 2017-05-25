@@ -2,7 +2,7 @@
 TOCTitle: Store Property
 Title: 'ConfigurationModuleCatalog.Store Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ConfigurationModuleCatalog.Store'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.configurationmodulecatalog.store(v=pandp.50)'
+ms:mtpsurl: 'configurationmodulecatalog-store-property-mspp-modularity.md'
 ---
 
 Prism Class Library

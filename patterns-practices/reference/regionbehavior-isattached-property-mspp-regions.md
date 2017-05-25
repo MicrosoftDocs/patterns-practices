@@ -2,7 +2,7 @@
 TOCTitle: IsAttached Property
 Title: 'RegionBehavior.IsAttached Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionBehavior.IsAttached'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior.isattached(v=pandp.50)'
+ms:mtpsurl: 'regionbehavior-isattached-property-mspp-regions.md'
 ---
 
 Prism Class Library

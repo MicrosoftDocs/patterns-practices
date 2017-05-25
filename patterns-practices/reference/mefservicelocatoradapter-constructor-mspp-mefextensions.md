@@ -2,7 +2,7 @@
 TOCTitle: MefServiceLocatorAdapter Constructor
 Title: 'MefServiceLocatorAdapter Constructor (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefServiceLocatorAdapter.\#ctor(System.ComponentModel.Composition.Hosting.CompositionContainer)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter.mefservicelocatoradapter(v=pandp.50)'
+ms:mtpsurl: 'mefservicelocatoradapter-constructor-mspp-mefextensions.md'
 ---
 
 Prism Class Library

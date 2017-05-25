@@ -2,7 +2,7 @@
 TOCTitle: ModuleInfo Property
 Title: 'LoadModuleCompletedEventArgs.ModuleInfo Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.LoadModuleCompletedEventArgs.ModuleInfo'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs.moduleinfo(v=pandp.50)'
+ms:mtpsurl: 'loadmodulecompletedeventargs-moduleinfo-property-mspp-modularity.md'
 ---
 
 Prism Class Library

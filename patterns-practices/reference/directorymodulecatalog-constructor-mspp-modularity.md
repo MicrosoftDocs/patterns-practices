@@ -2,16 +2,16 @@
 TOCTitle: DirectoryModuleCatalog Constructor
 Title: 'DirectoryModuleCatalog Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.directorymodulecatalog.directorymodulecatalog(v=pandp.50)'
+ms:mtpsurl: 'directorymodulecatalog-constructor-mspp-modularity.md'
 ---
 
 Prism Class Library
 
 # DirectoryModuleCatalog Constructor
 
-Initializes a new instance of the [DirectoryModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.directorymodulecatalog(v=pandp.50)) class
+Initializes a new instance of the [DirectoryModuleCatalog](directorymodulecatalog-class-mspp-modularity.md) class
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -30,8 +30,8 @@ Public Sub New
 ## See Also
 
 
-[DirectoryModuleCatalog Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.directorymodulecatalog(v=pandp.50))
+[DirectoryModuleCatalog Class](directorymodulecatalog-class-mspp-modularity.md)
 
-[DirectoryModuleCatalog Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.directorymodulecatalog_members(v=pandp.50))
+[DirectoryModuleCatalog Members](directorymodulecatalog-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

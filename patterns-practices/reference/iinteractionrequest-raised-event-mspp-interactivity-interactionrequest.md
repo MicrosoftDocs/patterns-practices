@@ -2,7 +2,7 @@
 TOCTitle: Raised Event
 Title: 'IInteractionRequest.Raised Event (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Interactivity.InteractionRequest.IInteractionRequest.Raised'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest.raised(v=pandp.50)'
+ms:mtpsurl: 'iinteractionrequest-raised-event-mspp-interactivity-interactionrequest.md'
 ---
 
 Prism Class Library
@@ -12,7 +12,7 @@ IInteractionRequest.Raised Event
 
 Fired when the interaction is needed.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](mspp-interactivity-interactionrequest-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -31,13 +31,13 @@ Event Raised As EventHandler(Of InteractionRequestedEventArgs)
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [InteractionRequestedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs(v=pandp.50)))
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [InteractionRequestedEventArgs](interactionrequestedeventargs-class-mspp-interactivity-interactionrequest.md))
 
 ## See Also
 
 
-[IInteractionRequest Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest(v=pandp.50))
+[IInteractionRequest Interface](iinteractionrequest-interface-mspp-interactivity-interactionrequest.md)
 
-[IInteractionRequest Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest_members(v=pandp.50))
+[IInteractionRequest Members](iinteractionrequest-members-mspp-interactivity-interactionrequest.md)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)

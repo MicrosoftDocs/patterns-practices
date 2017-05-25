@@ -2,7 +2,7 @@
 TOCTitle: CreateModule Method
 Title: 'MefModuleInitializer.CreateModule Method (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleInitializer.CreateModule'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer.createmodule(v=pandp.50)'
+ms:mtpsurl: 'mefmoduleinitializer-createmodule-method-moduleinfo-mspp-mefextensions-modularity.md'
 ---
 
 Prism Class Library

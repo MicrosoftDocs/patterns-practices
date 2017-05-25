@@ -2,16 +2,16 @@
 TOCTitle: Run Method
 Title: 'ModuleManager.Run Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleManager.Run'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager.run(v=pandp.50)'
+ms:mtpsurl: 'modulemanager-run-method-mspp-modularity.md'
 ---
 
 Prism Class Library
 
 # ModuleManager.Run Method
 
-Initializes the modules marked as [WhenAvailable](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.initializationmode(v=pandp.50)) on the [ModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager.modulecatalog(v=pandp.50)).
+Initializes the modules marked as [WhenAvailable](initializationmode-enumeration-mspp-modularity.md) on the [ModuleCatalog](modulemanager-modulecatalog-property-mspp-modularity.md).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -30,12 +30,12 @@ Public Sub Run
 
 ### Implements
 
-[IModuleManager.Run](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulemanager.run(v=pandp.50))
+[IModuleManager.Run](imodulemanager-run-method-mspp-modularity.md)
 
 ## See Also
 
-[ModuleManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager(v=pandp.50))
+[ModuleManager Class](modulemanager-class-mspp-modularity.md)
 
-[ModuleManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager_members(v=pandp.50))
+[ModuleManager Members](modulemanager-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

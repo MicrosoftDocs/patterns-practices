@@ -2,7 +2,7 @@
 TOCTitle: IModule Methods
 Title: 'IModule Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.IModule'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodule_methods(v=pandp.50)'
+ms:mtpsurl: 'imodule-methods-mspp-modularity.md'
 ---
 
 Prism Class Library

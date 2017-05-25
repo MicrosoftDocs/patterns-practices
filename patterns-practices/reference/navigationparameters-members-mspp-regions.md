@@ -2,7 +2,7 @@
 TOCTitle: NavigationParameters Members
 Title: 'NavigationParameters Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.NavigationParameters'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters_members(v=pandp.50)'
+ms:mtpsurl: 'navigationparameters-members-mspp-regions.md'
 ---
 
 Prism Class Library

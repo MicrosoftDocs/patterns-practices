@@ -2,7 +2,7 @@
 TOCTitle: Behaviors Property
 Title: 'Region.Behaviors Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.Behaviors'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.behaviors(v=pandp.50)'
+ms:mtpsurl: 'region-behaviors-property-mspp-regions.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: LoadModuleCompleted Event
 Title: 'IModuleTypeLoader.LoadModuleCompleted Event (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Modularity.IModuleTypeLoader.LoadModuleCompleted'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader.loadmodulecompleted(v=pandp.50)'
+ms:mtpsurl: 'imoduletypeloader-loadmodulecompleted-event-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -13,7 +13,7 @@ Prism Class Library
 
 Raised when a module is loaded or fails to load.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -26,7 +26,7 @@ Raised when a module is loaded or fails to load.
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs(v=pandp.50))&gt;
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](loadmodulecompletedeventargs-class-mspp-modularity.md)&gt;
 
 ## Syntax
 
@@ -49,7 +49,7 @@ event EventHandler<LoadModuleCompletedEventArgs> LoadModuleCompleted
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs(v=pandp.50))&gt;
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](loadmodulecompletedeventargs-class-mspp-modularity.md)&gt;
 
 ## Syntax
 
@@ -60,16 +60,16 @@ Event LoadModuleCompleted As EventHandler(Of LoadModuleCompletedEventArgs)
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [LoadModuleCompletedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs(v=pandp.50)))
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [LoadModuleCompletedEventArgs](loadmodulecompletedeventargs-class-mspp-modularity.md))
 
 ## Remarks
 
-This event is raised once per ModuleInfo instance requested in [LoadModuleType(ModuleInfo)](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader.loadmoduletype(v=pandp.50)).
+This event is raised once per ModuleInfo instance requested in [LoadModuleType(ModuleInfo)](imoduletypeloader-loadmoduletype-method-mspp-modularity.md).
 
 ## See Also
 
-[IModuleTypeLoader Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader(v=pandp.50))
+[IModuleTypeLoader Interface](imoduletypeloader-interface-mspp-modularity.md)
 
-[IModuleTypeLoader Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader_members(v=pandp.50))
+[IModuleTypeLoader Members](imoduletypeloader-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

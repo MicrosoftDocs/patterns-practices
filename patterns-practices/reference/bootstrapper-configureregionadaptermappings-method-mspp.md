@@ -2,14 +2,14 @@
 TOCTitle: ConfigureRegionAdapterMappings Method
 Title: 'Bootstrapper.ConfigureRegionAdapterMappings Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.ConfigureRegionAdapterMappings'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper.configureregionadaptermappings(v=pandp.50)'
+ms:mtpsurl: 'bootstrapper-configureregionadaptermappings-method-mspp.md'
 ---
 
 # Bootstrapper.ConfigureRegionAdapterMappings Method
 
 Configures the default region adapter mappings to use in the application, in order to adapt UI controls defined in XAML to use a region and register it automatically. May be overwritten in a derived class to add specific mappings required by the application.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism](mspp-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,13 +28,13 @@ Protected Overridable Function ConfigureRegionAdapterMappings As RegionAdapterMa
 
 ### Return Value
 
-Type: [RegionAdapterMappings](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionadaptermappings(v=pandp.50))<br/>
-The [RegionAdapterMappings](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionadaptermappings(v=pandp.50)) instance containing all the mappings.
+Type: [RegionAdapterMappings](regionadaptermappings-class-mspp-regions.md)<br/>
+The [RegionAdapterMappings](regionadaptermappings-class-mspp-regions.md) instance containing all the mappings.
 
 ## See Also
 
-[Bootstrapper Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper(v=pandp.50))
+[Bootstrapper Class](bootstrapper-class-mspp.md)
 
-[Bootstrapper Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper_members(v=pandp.50))
+[Bootstrapper Members](bootstrapper-members-mspp.md)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+[Microsoft.Practices.Prism Namespace](mspp-namespace.md)

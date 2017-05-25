@@ -2,16 +2,16 @@
 TOCTitle: ModuleInfoGroupExtensions Class
 Title: 'ModuleInfoGroupExtensions Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleInfoGroupExtensions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroupextensions(v=pandp.50)'
+ms:mtpsurl: 'moduleinfogroupextensions-class-mspp-modularity.md'
 ---
 
 Prism Class Library
 
 # ModuleInfoGroupExtensions Class
 
-Defines extension methods for the [ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50)) class.
+Defines extension methods for the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -37,6 +37,6 @@ Public NotInheritable Class ModuleInfoGroupExtensions
 ## See Also
 
 
-[ModuleInfoGroupExtensions Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroupextensions_members(v=pandp.50))
+[ModuleInfoGroupExtensions Members](moduleinfogroupextensions-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

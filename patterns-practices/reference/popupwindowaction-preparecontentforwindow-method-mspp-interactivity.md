@@ -2,19 +2,19 @@
 TOCTitle: PrepareContentForWindow Method
 Title: 'PopupWindowAction.PrepareContentForWindow Method (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.PrepareContentForWindow(Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification,System.Windows.Window)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction.preparecontentforwindow(v=pandp.50)'
+ms:mtpsurl: 'popupwindowaction-preparecontentforwindow-method-mspp-interactivity.md'
 ---
 
 # PopupWindowAction.PrepareContentForWindow Method
 
 
-Checks if the WindowContent or its DataContext implements [IInteractionRequestAware](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware(v=pandp.50)). If so, it sets the corresponding value. Also, if WindowContent does not have a RegionManager attached, it creates a new scoped RegionManager for it.
+Checks if the WindowContent or its DataContext implements [IInteractionRequestAware](iinteractionrequestaware-interface-mspp-interactivity-interactionrequest.md). If so, it sets the corresponding value. Also, if WindowContent does not have a RegionManager attached, it creates a new scoped RegionManager for it.
 =======
 PopupWindowAction.PrepareContentForWindow Method
 ====================================================
 
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](mspp-interactivity-namespace.md)
 
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
@@ -39,7 +39,7 @@ Protected Overridable Sub PrepareContentForWindow (
 
 *notification*
 
-Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction(v=pandp.50))
+Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](popupwindowaction-class-mspp-interactivity.md)
 
 The notification to be set as a DataContext in the HostWindow.
 
@@ -72,12 +72,12 @@ The HostWindow
 ## See Also
 
 
-[PopupWindowAction Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction(v=pandp.50))
+[PopupWindowAction Class](popupwindowaction-class-mspp-interactivity.md)
 =======
 
 [PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
 
 
-[PopupWindowAction Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction_members(v=pandp.50))
+[PopupWindowAction Members](popupwindowaction-members-mspp-interactivity.md)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace.md)

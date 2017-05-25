@@ -2,7 +2,7 @@
 TOCTitle: 'IndexOf Method (Object)'
 Title: 'ModuleInfoGroup.IndexOf Method (Object) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.IndexOf(System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup.indexof(v=pandp.50)'
+ms:mtpsurl: 'moduleinfogroup-indexof-method-moduleinfo-mspp-modularity.md'
 ---
 
 Prism Class Library

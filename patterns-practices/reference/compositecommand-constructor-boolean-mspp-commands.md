@@ -2,7 +2,7 @@
 TOCTitle: 'CompositeCommand Constructor (Boolean)'
 Title: 'CompositeCommand Constructor (Boolean) (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.\#ctor(System.Boolean)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand.compositecommand(v=pandp.50)'
+ms:mtpsurl: 'compositecommand-constructor-boolean-mspp-commands.md'
 ---
 
 Prism Class Library

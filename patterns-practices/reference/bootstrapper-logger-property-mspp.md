@@ -2,7 +2,7 @@
 TOCTitle: Logger Property
 Title: 'Bootstrapper.Logger Property (Microsoft.Practices.Prism)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Bootstrapper.Logger'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper.logger(v=pandp.50)'
+ms:mtpsurl: 'bootstrapper-logger-property-mspp.md'
 ---
 
 Prism Class Library

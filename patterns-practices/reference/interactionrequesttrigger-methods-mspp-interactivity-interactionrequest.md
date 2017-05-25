@@ -2,7 +2,7 @@
 TOCTitle: InteractionRequestTrigger Methods
 Title: 'InteractionRequestTrigger Methods (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestTrigger'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger_methods(v=pandp.50)'
+ms:mtpsurl: 'interactionrequesttrigger-methods-mspp-interactivity-interactionrequest.md'
 ---
 
 Prism Class Library

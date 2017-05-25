@@ -2,7 +2,7 @@
 TOCTitle: CreateNewRegionItem Method
 Title: 'RegionNavigationContentLoader.CreateNewRegionItem Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader.CreateNewRegionItem(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationcontentloader.createnewregionitem(v=pandp.50)'
+ms:mtpsurl: 'regionnavigationcontentloader-createnewregionitem-method-mspp-regions.md'
 ---
 
 Prism Class Library

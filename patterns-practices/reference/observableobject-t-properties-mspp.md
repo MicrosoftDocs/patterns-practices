@@ -2,7 +2,7 @@
 TOCTitle: 'ObservableObject(T) Properties'
 Title: 'ObservableObject(T) Properties (Microsoft.Practices.Prism)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.ObservableObject\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg431182(v=pandp.50)'
+ms:mtpsurl: 'observableobject-t-properties-mspp.md'
 ---
 
 Prism Class Library
@@ -908,6 +908,6 @@ See Also
 --------
 
 
-[ObservableObject&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431509(v=pandp.50))
+[ObservableObject&lt;T&gt; Class](observableobject-t-class-mspp.md)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+[Microsoft.Practices.Prism Namespace](mspp-namespace.md)

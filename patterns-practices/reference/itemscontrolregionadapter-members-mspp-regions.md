@@ -2,7 +2,7 @@
 TOCTitle: ItemsControlRegionAdapter Members
 Title: 'ItemsControlRegionAdapter Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.ItemsControlRegionAdapter'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemscontrolregionadapter_members(v=pandp.50)'
+ms:mtpsurl: 'itemscontrolregionadapter-members-mspp-regions.md'
 ---
 
 Prism Class Library

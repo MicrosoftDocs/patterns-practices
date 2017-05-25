@@ -2,7 +2,7 @@
 TOCTitle: ModuleCatalog Constructor
 Title: 'ModuleCatalog Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.modulecatalog(v=pandp.50)'
+ms:mtpsurl: 'modulecatalog-constructor-ienumerable-moduleinfo-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -10,10 +10,10 @@ Prism Class Library
 ModuleCatalog Constructor
 =========================
 
-Initializes a new instance of the [ModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50)) class.
+Initializes a new instance of the [ModuleCatalog](modulecatalog-class-mspp-modularity.md) class.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](
-https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -33,10 +33,10 @@ Public Sub New
 ## See Also
 
 
-[ModuleCatalog Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50))
+[ModuleCatalog Class](modulecatalog-class-mspp-modularity.md)
 
-[ModuleCatalog Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog_members(v=pandp.50))
+[ModuleCatalog Members](modulecatalog-members-mspp-modularity.md)
 
 ModuleCatalog Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

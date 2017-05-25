@@ -2,14 +2,14 @@
 TOCTitle: NavigationResult Methods
 Title: 'NavigationResult Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.NavigationResult'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult_methods(v=pandp.50)'
+ms:mtpsurl: 'navigationresult-methods-mspp-regions.md'
 ---
 
 Prism Class Library
 
 # NavigationResult Methods
 
-The [NavigationResult](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult(v=pandp.50)) type exposes the following members.
+The [NavigationResult](navigationresult-class-mspp-regions.md) type exposes the following members.
 
 ## Methods
  
@@ -76,6 +76,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[NavigationResult Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult(v=pandp.50))
+[NavigationResult Class](navigationresult-class-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

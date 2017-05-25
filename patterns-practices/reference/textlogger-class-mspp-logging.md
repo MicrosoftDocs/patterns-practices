@@ -2,7 +2,7 @@
 TOCTitle: TextLogger Class
 Title: 'TextLogger Class (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Logging.TextLogger'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.textlogger(v=pandp.50)'
+ms:mtpsurl: 'textlogger-class-mspp-logging.md'
 ---
 
 Prism Class Library

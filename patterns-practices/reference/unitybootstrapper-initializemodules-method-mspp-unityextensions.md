@@ -2,7 +2,7 @@
 TOCTitle: InitializeModules Method
 Title: 'UnityBootstrapper.InitializeModules Method (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.InitializeModules'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapper.initializemodules(v=pandp.50)'
+ms:mtpsurl: 'unitybootstrapper-initializemodules-method-mspp-unityextensions.md'
 ---
 
 Prism Class Library

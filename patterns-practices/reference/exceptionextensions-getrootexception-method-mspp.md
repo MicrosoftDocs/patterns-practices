@@ -2,14 +2,14 @@
 TOCTitle: GetRootException Method
 Title: 'ExceptionExtensions.GetRootException Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ExceptionExtensions.GetRootException(System.Exception)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.exceptionextensions.getrootexception(v=pandp.50)'
+ms:mtpsurl: 'exceptionextensions-getrootexception-method-mspp.md'
 ---
 
 # ExceptionExtensions.GetRootException Method
 
 Looks at all the inner exceptions of the exception parameter to find the most likely root cause of the exception. This works by skipping all registered exception types.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism](mspp-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -55,8 +55,8 @@ This method is not 100% accurate and should only be used to point a developer in
 
 ## See Also
 
-[ExceptionExtensions Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.exceptionextensions(v=pandp.50))
+[ExceptionExtensions Class](exceptionextensions-class-mspp.md)
 
-[ExceptionExtensions Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.exceptionextensions_members(v=pandp.50))
+[ExceptionExtensions Members](exceptionextensions-members-mspp.md)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+[Microsoft.Practices.Prism Namespace](mspp-namespace.md)

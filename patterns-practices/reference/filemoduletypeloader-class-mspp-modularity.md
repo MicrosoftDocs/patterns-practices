@@ -2,7 +2,7 @@
 TOCTitle: FileModuleTypeLoader Class
 Title: 'FileModuleTypeLoader Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader(v=pandp.50)'
+ms:mtpsurl: 'filemoduletypeloader-class-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -10,9 +10,9 @@ Prism Class Library
 FileModuleTypeLoader Class
 ==========================
 
-Loads modules from an arbitrary location on the filesystem. This typeloader is only called if [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50)) classes have a Ref parameter that starts with "file://". This class is only used on the Desktop version of the Prism Library.
+Loads modules from an arbitrary location on the filesystem. This typeloader is only called if [ModuleInfo](moduleinfo-class-mspp-modularity.md) classes have a Ref parameter that starts with "file://". This class is only used on the Desktop version of the Prism Library.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -42,6 +42,6 @@ See Also
 --------
 
 
-[FileModuleTypeLoader Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader_members(v=pandp.50))
+[FileModuleTypeLoader Members](filemoduletypeloader-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

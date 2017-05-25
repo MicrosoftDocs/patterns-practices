@@ -2,7 +2,7 @@
 TOCTitle: MefModuleInitializer Class
 Title: 'MefModuleInitializer Class (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleInitializer'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer(v=pandp.50)'
+ms:mtpsurl: 'mefmoduleinitializer-class-mspp-mefextensions-modularity.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Exports the ModuleInitializer using the Managed Extensibility Framework (MEF).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -38,13 +38,13 @@ Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-  [Microsoft.Practices.Prism.Modularity.ModuleInitializer](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer(v=pandp.50))
+  [Microsoft.Practices.Prism.Modularity.ModuleInitializer](moduleinitializer-class-mspp-modularity.md)
 
     Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleInitializer
 
 ## See Also
 
 
-[MefModuleInitializer Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer_members(v=pandp.50))
+[MefModuleInitializer Members](mefmoduleinitializer-members-mspp-mefextensions-modularity.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)

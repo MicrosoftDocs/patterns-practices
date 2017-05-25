@@ -2,7 +2,7 @@
 TOCTitle: Uri Property
 Title: 'NavigationContext.Uri Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.NavigationContext.Uri'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext.uri(v=pandp.50)'
+ms:mtpsurl: 'navigationcontext-uri-property-mspp-regions.md'
 ---
 
 Prism Class Library

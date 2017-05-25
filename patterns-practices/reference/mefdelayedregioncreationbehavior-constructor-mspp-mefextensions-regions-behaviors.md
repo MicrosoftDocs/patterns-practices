@@ -2,7 +2,7 @@
 TOCTitle: MefDelayedRegionCreationBehavior Constructor
 Title: 'MefDelayedRegionCreationBehavior Constructor (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefDelayedRegionCreationBehavior.\#ctor(Microsoft.Practices.Prism.Regions.RegionAdapterMappings)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior.mefdelayedregioncreationbehavior(v=pandp.50)'
+ms:mtpsurl: 'mefdelayedregioncreationbehavior-constructor-mspp-mefextensions-regions-behaviors.md'
 ---
 
 Prism Class Library

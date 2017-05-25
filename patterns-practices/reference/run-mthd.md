@@ -2,7 +2,7 @@
 TOCTitle: Run Method
 Title: 'Bootstrapper.Run Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.Run'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper.run(v=pandp.50)'
+ms:mtpsurl: 'bootstrapper-run-method-boolean-mspp.md'
 ---
 
 Prism Class Library

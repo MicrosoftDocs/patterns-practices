@@ -2,7 +2,7 @@
 TOCTitle: RegionNavigationJournal Class
 Title: 'RegionNavigationJournal Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionNavigationJournal'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournal(v=pandp.50)'
+ms:mtpsurl: 'regionnavigationjournal-class-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -12,7 +12,7 @@ RegionNavigationJournal Class
 
 Provides journaling of current, back, and forward navigation within regions.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -39,12 +39,12 @@ Inheritance Hierarchy
 
   Microsoft.Practices.Prism.Regions.RegionNavigationJournal
 
-    [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournal](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal(v=pandp.50))
+    [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournal](mefregionnavigationjournal-class-mspp-mefextensions-regions.md)
 
 See Also
 --------
 
 
-[RegionNavigationJournal Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournal_members(v=pandp.50))
+[RegionNavigationJournal Members](regionnavigationjournal-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

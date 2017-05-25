@@ -2,7 +2,7 @@
 TOCTitle: BehaviorKey Field
 Title: 'ClearChildViewsRegionBehavior.BehaviorKey Field (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'F:Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior.BehaviorKey'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.behaviorkey(v=pandp.50)'
+ms:mtpsurl: 'clearchildviewsregionbehavior-behaviorkey-field-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: InitializeShell Method
 Title: 'MefBootstrapper.InitializeShell Method (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.InitializeShell'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper.initializeshell(v=pandp.50)'
+ms:mtpsurl: 'mefbootstrapper-initializeshell-method-mspp-mefextensions.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Initializes the shell.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](mspp-mefextensions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -34,8 +34,8 @@ Protected Overrides Sub InitializeShell
 
 ## See Also
 
-[MefBootstrapper Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper(v=pandp.50))
+[MefBootstrapper Class](mefbootstrapper-class-mspp-mefextensions.md)
 
-[MefBootstrapper Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper_members(v=pandp.50))
+[MefBootstrapper Members](mefbootstrapper-members-mspp-mefextensions.md)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions Namespace](mspp-mefextensions-namespace.md)

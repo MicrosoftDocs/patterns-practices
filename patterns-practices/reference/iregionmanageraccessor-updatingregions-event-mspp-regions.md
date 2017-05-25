@@ -2,7 +2,7 @@
 TOCTitle: UpdatingRegions Event
 Title: 'IRegionManagerAccessor.UpdatingRegions Event (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Regions.IRegionManagerAccessor.UpdatingRegions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor.updatingregions(v=pandp.50)'
+ms:mtpsurl: 'iregionmanageraccessor-updatingregions-event-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Notification used by attached behaviors to update the region managers appropriatelly if needed to.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -39,8 +39,8 @@ This event uses weak references to the event handler to prevent this static even
 ## See Also
 
 
-[IRegionManagerAccessor Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor(v=pandp.50))
+[IRegionManagerAccessor Interface](iregionmanageraccessor-interface-mspp-regions.md)
 
-[IRegionManagerAccessor Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor_members(v=pandp.50))
+[IRegionManagerAccessor Members](iregionmanageraccessor-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

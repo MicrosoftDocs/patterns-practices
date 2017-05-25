@@ -2,7 +2,7 @@
 TOCTitle: RegionNavigationJournalEntry Class
 Title: 'RegionNavigationJournalEntry Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournalentry(v=pandp.50)'
+ms:mtpsurl: 'regionnavigationjournalentry-class-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 An entry in an IRegionNavigationJournal representing the URI navigated to.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -31,8 +31,8 @@ Public Class RegionNavigationJournalEntry
 ## Inheritance Hierarchy
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry
-    [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournalEntry](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry(v=pandp.50))
+    [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournalEntry](mefregionnavigationjournalentry-class-mspp-mefextensions-regions.md)
 
 ## See Also
-	[RegionNavigationJournalEntry Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournalentry_members(v=pandp.50))
-	[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+	[RegionNavigationJournalEntry Members](regionnavigationjournalentry-members-mspp-regions.md)
+	[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

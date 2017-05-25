@@ -2,7 +2,7 @@
 TOCTitle: Confirmed Property
 Title: 'IConfirmation.Confirmed Property (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.InteractionRequest.IConfirmation.Confirmed'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation.confirmed(v=pandp.50)'
+ms:mtpsurl: 'iconfirmation-confirmed-property-mspp-interactivity-interactionrequest.md'
 ---
 
 # IConfirmation.Confirmed Property

@@ -2,7 +2,7 @@
 TOCTitle: IRegionNavigationJournal Properties
 Title: 'IRegionNavigationJournal Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal_properties(v=pandp.50)'
+ms:mtpsurl: 'iregionnavigationjournal-properties-mspp-regions.md'
 ---
 
 Prism Class Library

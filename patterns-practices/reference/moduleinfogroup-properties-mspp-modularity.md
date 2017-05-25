@@ -2,7 +2,7 @@
 TOCTitle: ModuleInfoGroup Properties
 Title: 'ModuleInfoGroup Properties (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup_properties(v=pandp.50)'
+ms:mtpsurl: 'moduleinfogroup-properties-mspp-modularity.md'
 ---
 
 Prism Class Library

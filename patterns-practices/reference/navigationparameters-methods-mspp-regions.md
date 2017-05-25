@@ -2,12 +2,12 @@
 TOCTitle: NavigationParameters Methods
 Title: 'NavigationParameters Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.NavigationParameters'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters_methods(v=pandp.50)'
+ms:mtpsurl: 'navigationparameters-methods-mspp-regions.md'
 ---
 
 # NavigationParameters Methods
 
-The [NavigationParameters](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters(v=pandp.50)) type exposes the following members.
+The [NavigationParameters](navigationparameters-class-mspp-regions.md) type exposes the following members.
 
 ## Methods
 
@@ -88,6 +88,6 @@ Converts the list of key value pairs to a query string.
 
 ## See Also
 
-[NavigationParameters Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters(v=pandp.50))
+[NavigationParameters Class](navigationparameters-class-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

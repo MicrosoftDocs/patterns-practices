@@ -2,7 +2,7 @@
 TOCTitle: BehaviorKey Field
 Title: 'RegionManagerRegistrationBehavior.BehaviorKey Field (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'F:Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior.BehaviorKey'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior.behaviorkey(v=pandp.50)'
+ms:mtpsurl: 'regionmanagerregistrationbehavior-behaviorkey-field-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: GetEnumerator Method
 Title: 'RegionBehaviorCollection.GetEnumerator Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionBehaviorCollection.GetEnumerator'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorcollection.getenumerator(v=pandp.50)'
+ms:mtpsurl: 'regionbehaviorcollection-getenumerator-method-mspp-regions.md'
 ---
 
 Prism Class Library

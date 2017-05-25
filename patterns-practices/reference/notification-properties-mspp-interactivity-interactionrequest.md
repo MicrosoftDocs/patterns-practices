@@ -2,14 +2,14 @@
 TOCTitle: Notification Properties
 Title: 'Notification Properties (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.notification_properties(v=pandp.50)'
+ms:mtpsurl: 'notification-properties-mspp-interactivity-interactionrequest.md'
 ---
 
 Prism Class Library
 
 # Notification Properties
 
-The [Notification](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.notification(v=pandp.50)) type exposes the following members.
+The [Notification](notification-class-mspp-interactivity-interactionrequest.md) type exposes the following members.
 
 ## Properties
 
@@ -44,6 +44,6 @@ See Also
 --------
 
 
-[Notification Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.notification(v=pandp.50))
+[Notification Class](notification-class-mspp-interactivity-interactionrequest.md)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)

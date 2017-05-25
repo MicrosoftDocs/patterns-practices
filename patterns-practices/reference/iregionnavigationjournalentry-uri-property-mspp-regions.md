@@ -2,7 +2,7 @@
 TOCTitle: Uri Property
 Title: 'IRegionNavigationJournalEntry.Uri Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry.Uri'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournalentry.uri(v=pandp.50)'
+ms:mtpsurl: 'iregionnavigationjournalentry-uri-property-mspp-regions.md'
 ---
 
 Prism Class Library

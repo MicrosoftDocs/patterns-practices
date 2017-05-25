@@ -2,7 +2,7 @@
 TOCTitle: OnUpdatingRegions Method
 Title: 'RegionManagerRegistrationBehavior.OnUpdatingRegions Method (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior.OnUpdatingRegions(System.Object,System.EventArgs)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior.onupdatingregions(v=pandp.50)'
+ms:mtpsurl: 'regionmanagerregistrationbehavior-onupdatingregions-method-mspp-regions-behaviors.md'
 ---
 
 # RegionManagerRegistrationBehavior.OnUpdatingRegions Method
@@ -13,7 +13,7 @@ This event handler gets called when a RegionManager is requering the instances o
 
 Although this is a public method to support Weak Delegates in Silverlight, it should not be called by the user.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -51,8 +51,8 @@ Public Sub OnUpdatingRegions (
 
 ## See Also
 
-[RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior(v=pandp.50))
+[RegionManagerRegistrationBehavior Class](regionmanagerregistrationbehavior-class-mspp-regions-behaviors.md)
 
-[RegionManagerRegistrationBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior_members(v=pandp.50))
+[RegionManagerRegistrationBehavior Members](regionmanagerregistrationbehavior-members-mspp-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)

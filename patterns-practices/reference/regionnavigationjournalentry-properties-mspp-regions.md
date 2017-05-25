@@ -2,12 +2,12 @@
 TOCTitle: RegionNavigationJournalEntry Properties
 Title: 'RegionNavigationJournalEntry Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournalentry_properties(v=pandp.50)'
+ms:mtpsurl: 'regionnavigationjournalentry-properties-mspp-regions.md'
 ---
 
 # RegionNavigationJournalEntry Properties
 
-The [RegionNavigationJournalEntry](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournalentry(v=pandp.50)) type exposes the following members.
+The [RegionNavigationJournalEntry](regionnavigationjournalentry-class-mspp-regions.md) type exposes the following members.
 
 ## Properties
 
@@ -40,6 +40,6 @@ Gets or sets the URI.
 
 ## See Also
 
-[RegionNavigationJournalEntry Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournalentry(v=pandp.50))
+[RegionNavigationJournalEntry Class](regionnavigationjournalentry-class-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: ThrowOnDuplicate Property
 Title: 'ModuleConfigurationElementCollection.ThrowOnDuplicate Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection.ThrowOnDuplicate'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.throwonduplicate(v=pandp.50)'
+ms:mtpsurl: 'moduleconfigurationelementcollection-throwonduplicate-property-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -12,7 +12,7 @@ ModuleConfigurationElementCollection.ThrowOnDuplicate Property
 
 Gets a value indicating whether an exception should be raised if a duplicate element is found. This property will always return true.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -41,8 +41,8 @@ See Also
 --------
 
 
-[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection(v=pandp.50))
+[ModuleConfigurationElementCollection Class](moduleconfigurationelementcollection-class-mspp-modularity.md)
 
-[ModuleConfigurationElementCollection Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection_members(v=pandp.50))
+[ModuleConfigurationElementCollection Members](moduleconfigurationelementcollection-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

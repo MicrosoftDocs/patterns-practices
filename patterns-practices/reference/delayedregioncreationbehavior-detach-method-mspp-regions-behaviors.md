@@ -2,7 +2,7 @@
 TOCTitle: Detach Method
 Title: 'DelayedRegionCreationBehavior.Detach Method (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior.Detach'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.detach(v=pandp.50)'
+ms:mtpsurl: 'delayedregioncreationbehavior-detach-method-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library

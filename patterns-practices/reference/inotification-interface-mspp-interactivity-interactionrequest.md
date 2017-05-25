@@ -2,14 +2,14 @@
 TOCTitle: INotification Interface
 Title: 'INotification Interface (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.inotification(v=pandp.50)'
+ms:mtpsurl: 'inotification-interface-mspp-interactivity-interactionrequest.md'
 ---
 
 # INotification Interface
 
 Represents an interaction request used for notifications.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](mspp-interactivity-interactionrequest-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -35,9 +35,9 @@ public interface INotificationPublic Interface INotification
 
 ## See Also
 
-[INotification Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.inotification_members(v=pandp.50))
+[INotification Members](inotification-members-mspp-interactivity-interactionrequest.md)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)
 =======
 
 [INotification Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.inotification)

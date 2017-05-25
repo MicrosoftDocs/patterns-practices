@@ -2,7 +2,7 @@
 TOCTitle: ModuleInfoGroupExtensions Methods
 Title: 'ModuleInfoGroupExtensions Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleInfoGroupExtensions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroupextensions_methods(v=pandp.50)'
+ms:mtpsurl: 'moduleinfogroupextensions-methods-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -40,6 +40,6 @@ Adds a new module that is statically referenced to the specified module info gro
 
 ## See Also
 
-[ModuleInfoGroupExtensions Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroupextensions(v=pandp.50))
+[ModuleInfoGroupExtensions Class](moduleinfogroupextensions-class-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

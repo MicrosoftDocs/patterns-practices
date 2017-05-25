@@ -2,7 +2,7 @@
 TOCTitle: Subscribe Method
 Title: 'PubSubEvent(TPayload).Subscribe Method (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Subscribe'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736298(v=pandp.50)'
+ms:mtpsurl: 'pubsubevent-tpayload-subscribe-method-mspp-pubsubevents.md'
 ---
 
 Prism Class Library

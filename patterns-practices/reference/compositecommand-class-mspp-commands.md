@@ -2,7 +2,7 @@
 TOCTitle: CompositeCommand Class
 Title: 'CompositeCommand Class (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Commands.CompositeCommand'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand(v=pandp.50)'
+ms:mtpsurl: 'compositecommand-class-mspp-commands.md'
 ---
 
 Prism Class Library

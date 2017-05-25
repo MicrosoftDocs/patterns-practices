@@ -2,7 +2,7 @@
 TOCTitle: IModuleInitializer Interface
 Title: 'IModuleInitializer Interface (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.IModuleInitializer'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduleinitializer(v=pandp.50)'
+ms:mtpsurl: 'imoduleinitializer-interface-mspp-modularity.md'
 ---
 
 Prism Class Library

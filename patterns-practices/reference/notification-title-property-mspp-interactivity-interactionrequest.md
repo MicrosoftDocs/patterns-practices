@@ -2,7 +2,7 @@
 TOCTitle: Title Property
 Title: 'Notification.Title Property (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification.Title'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.notification.title(v=pandp.50)'
+ms:mtpsurl: 'notification-title-property-mspp-interactivity-interactionrequest.md'
 ---
 
 Prism Class Library

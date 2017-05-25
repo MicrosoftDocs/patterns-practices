@@ -2,14 +2,14 @@
 TOCTitle: MefRegionMemberLifetimeBehavior Class
 Title: 'MefRegionMemberLifetimeBehavior Class (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionMemberLifetimeBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmemberlifetimebehavior(v=pandp.50)'
+ms:mtpsurl: 'mefregionmemberlifetimebehavior-class-mspp-mefextensions-regions-behaviors.md'
 ---
 
 # MefRegionMemberLifetimeBehavior Class
 
 Exports the AutoPopulateRegionBehavior using the Managed Extensibility Framework (MEF).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](mspp-mefextensions-regions-behaviors-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -34,12 +34,12 @@ Public Class MefRegionMemberLifetimeBehavior
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-  [Microsoft.Practices.Prism.Regions.RegionBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior(v=pandp.50))<br/>
-    [Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior(v=pandp.50))<br/>
+  [Microsoft.Practices.Prism.Regions.RegionBehavior](regionbehavior-class-mspp-regions.md)<br/>
+    [Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior](regionmemberlifetimebehavior-class-mspp-regions-behaviors.md)<br/>
       Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionMemberLifetimeBehavior
 
 ## See Also
 
-[MefRegionMemberLifetimeBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmemberlifetimebehavior_members(v=pandp.50))
+[MefRegionMemberLifetimeBehavior Members](mefregionmemberlifetimebehavior-members-mspp-mefextensions-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace.md)

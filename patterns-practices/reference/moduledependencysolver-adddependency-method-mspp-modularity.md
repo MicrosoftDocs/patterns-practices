@@ -2,7 +2,7 @@
 TOCTitle: AddDependency Method
 Title: 'ModuleDependencySolver.AddDependency Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencySolver.AddDependency(System.String,System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencysolver.adddependency(v=pandp.50)'
+ms:mtpsurl: 'moduledependencysolver-adddependency-method-mspp-modularity.md'
 ---
 
 Prism Class Library

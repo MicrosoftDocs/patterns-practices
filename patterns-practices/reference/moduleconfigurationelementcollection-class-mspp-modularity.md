@@ -2,7 +2,7 @@
 TOCTitle: ModuleConfigurationElementCollection Class
 Title: 'ModuleConfigurationElementCollection Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection(v=pandp.50)'
+ms:mtpsurl: 'moduleconfigurationelementcollection-class-mspp-modularity.md'
 ---
 
 Prism Class Library

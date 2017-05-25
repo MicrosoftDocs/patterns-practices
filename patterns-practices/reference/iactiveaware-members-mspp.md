@@ -2,7 +2,7 @@
 TOCTitle: IActiveAware Members
 Title: 'IActiveAware Members (Microsoft.Practices.Prism)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.IActiveAware'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.iactiveaware_members(v=pandp.50)'
+ms:mtpsurl: 'iactiveaware-members-mspp.md'
 ---
 
 Prism Class Library

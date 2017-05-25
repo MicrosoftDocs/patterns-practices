@@ -2,14 +2,14 @@
 TOCTitle: MefDelayedRegionCreationBehavior Class
 Title: 'MefDelayedRegionCreationBehavior Class (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefDelayedRegionCreationBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior(v=pandp.50)'
+ms:mtpsurl: 'mefdelayedregioncreationbehavior-class-mspp-mefextensions-regions-behaviors.md'
 ---
 
 # MefDelayedRegionCreationBehavior Class
 
 Exports the DelayedRegionCreationBehavior using the Managed Extensibility Framework (MEF).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](mspp-mefextensions-regions-behaviors-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -34,11 +34,11 @@ Public Class MefDelayedRegionCreationBehavior
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)</br>
-  [Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior(v=pandp.50))</br>
+  [Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior](delayedregioncreationbehavior-class-mspp-regions-behaviors.md)</br>
     Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefDelayedRegionCreationBehavior
 
 ## See Also
 
-[MefDelayedRegionCreationBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior_members(v=pandp.50))
+[MefDelayedRegionCreationBehavior Members](mefdelayedregioncreationbehavior-members-mspp-mefextensions-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace.md)

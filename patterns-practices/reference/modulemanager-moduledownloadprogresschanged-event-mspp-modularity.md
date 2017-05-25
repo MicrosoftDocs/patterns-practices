@@ -2,14 +2,14 @@
 TOCTitle: ModuleDownloadProgressChanged Event
 Title: 'ModuleManager.ModuleDownloadProgressChanged Event (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Modularity.ModuleManager.ModuleDownloadProgressChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager.moduledownloadprogresschanged(v=pandp.50)'
+ms:mtpsurl: 'modulemanager-moduledownloadprogresschanged-event-mspp-modularity.md'
 ---
 
 # ModuleManager.ModuleDownloadProgressChanged Event
 
 Raised repeatedly to provide progress as modules are loaded in the background.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -22,11 +22,11 @@ public event EventHandler<ModuleDownloadProgressChangedEventArgs> ModuleDownload
 ```
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[ModuleDownloadProgressChangedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs(v=pandp.50))&gt;
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[ModuleDownloadProgressChangedEventArgs](moduledownloadprogresschangedeventargs-class-mspp-modularity.md)&gt;
 
 ### Implements
 
-[IModuleManager.ModuleDownloadProgressChanged](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulemanager.moduledownloadprogresschanged(v=pandp.50))
+[IModuleManager.ModuleDownloadProgressChanged](imodulemanager-moduledownloadprogresschanged-event-mspp-modularity.md)
 
 ## Syntax
 
@@ -36,16 +36,16 @@ Public Event ModuleDownloadProgressChanged As EventHandler(Of ModuleDownloadProg
 ```
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [ModuleDownloadProgressChangedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs(v=pandp.50)))
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [ModuleDownloadProgressChangedEventArgs](moduledownloadprogresschangedeventargs-class-mspp-modularity.md))
 
 ### Implements
 
-[IModuleManager.ModuleDownloadProgressChanged](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulemanager.moduledownloadprogresschanged(v=pandp.50))
+[IModuleManager.ModuleDownloadProgressChanged](imodulemanager-moduledownloadprogresschanged-event-mspp-modularity.md)
 
 ## See Also
 
-[ModuleManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager(v=pandp.50))
+[ModuleManager Class](modulemanager-class-mspp-modularity.md)
 
-[ModuleManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager_members(v=pandp.50))
+[ModuleManager Members](modulemanager-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](hhttps://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](hmspp-modularity-namespace.md)

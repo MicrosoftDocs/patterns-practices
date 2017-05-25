@@ -2,7 +2,7 @@
 TOCTitle: AddWeakReferenceHandler Method
 Title: 'WeakEventHandlerManager.AddWeakReferenceHandler Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.WeakEventHandlerManager.AddWeakReferenceHandler(System.Collections.Generic.List{System.WeakReference}@,System.EventHandler,System.Int32)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager.addweakreferencehandler(v=pandp.50)'
+ms:mtpsurl: 'weakeventhandlermanager-addweakreferencehandler-method-mspp-commands.md'
 ---
 
 Prism Class Library

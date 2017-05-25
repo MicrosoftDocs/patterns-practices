@@ -2,7 +2,7 @@
 TOCTitle: DelegateReference Methods
 Title: 'DelegateReference Methods (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.DelegateReference'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.delegatereference_methods(v=pandp.50)'
+ms:mtpsurl: 'delegatereference-methods-mspp-pubsubevents.md'
 ---
 
 Prism Class Library

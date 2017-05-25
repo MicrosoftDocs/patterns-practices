@@ -2,7 +2,7 @@
 TOCTitle: ExceptionExtensions Class
 Title: 'ExceptionExtensions Class (Microsoft.Practices.Prism)'
 ms:assetid: 'T:Microsoft.Practices.Prism.ExceptionExtensions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.exceptionextensions(v=pandp.50)'
+ms:mtpsurl: 'exceptionextensions-class-mspp.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Class that provides extension methods for the Exception class. These extension methods provide a mechanism for developers to get more easily to the root cause of an exception, especially in combination with DI-containers such as Unity.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism](mspp-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -36,6 +36,6 @@ Public NotInheritable Class ExceptionExtensions
 
 ## See Also
 
-[ExceptionExtensions Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.exceptionextensions_members(v=pandp.50))
+[ExceptionExtensions Members](exceptionextensions-members-mspp.md)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+[Microsoft.Practices.Prism Namespace](mspp-namespace.md)

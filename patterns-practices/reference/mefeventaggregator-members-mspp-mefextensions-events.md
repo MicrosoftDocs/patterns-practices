@@ -2,7 +2,7 @@
 TOCTitle: MefEventAggregator Members
 Title: 'MefEventAggregator Members (Microsoft.Practices.Prism.MefExtensions.Events)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Events.MefEventAggregator'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator_members(v=pandp.50)'
+ms:mtpsurl: 'mefeventaggregator-members-mspp-mefextensions-events.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: IsReadOnly Property
 Title: 'ModuleInfoGroup.IsReadOnly Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.IsReadOnly'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup.isreadonly(v=pandp.50)'
+ms:mtpsurl: 'moduleinfogroup-isreadonly-property-mspp-modularity.md'
 ---
 
 Prism Class Library

@@ -2,14 +2,14 @@
 TOCTitle: ModuleCatalog Property
 Title: 'Bootstrapper.ModuleCatalog Property (Microsoft.Practices.Prism)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Bootstrapper.ModuleCatalog'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper.modulecatalog(v=pandp.50)'
+ms:mtpsurl: 'bootstrapper-modulecatalog-property-mspp.md'
 ---
 
 # Bootstrapper.ModuleCatalog Property
 
-Gets the default [IModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulecatalog(v=pandp.50)) for the application.
+Gets the default [IModuleCatalog](imodulecatalog-interface-mspp-modularity.md) for the application.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism](mspp-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -30,14 +30,14 @@ Protected Property ModuleCatalog As IModuleCatalog
 
 ### Property Value
 
-Type: [IModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulecatalog(v=pandp.50))
+Type: [IModuleCatalog](imodulecatalog-interface-mspp-modularity.md)
 
-The default [IModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulecatalog(v=pandp.50)) instance.
+The default [IModuleCatalog](imodulecatalog-interface-mspp-modularity.md) instance.
 
 ## See Also
 
-[Bootstrapper Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper(v=pandp.50))
+[Bootstrapper Class](bootstrapper-class-mspp.md)
 
-[Bootstrapper Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper_members(v=pandp.50))
+[Bootstrapper Members](bootstrapper-members-mspp.md)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+[Microsoft.Practices.Prism Namespace](mspp-namespace.md)

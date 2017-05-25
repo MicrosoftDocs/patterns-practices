@@ -2,7 +2,7 @@
 TOCTitle: OnUpdatingRegions Method
 Title: 'DelayedRegionCreationBehavior.OnUpdatingRegions Method (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior.OnUpdatingRegions(System.Object,System.EventArgs)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.onupdatingregions(v=pandp.50)'
+ms:mtpsurl: 'delayedregioncreationbehavior-onupdatingregions-method-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library
@@ -10,9 +10,9 @@ Prism Class Library
 DelayedRegionCreationBehavior.OnUpdatingRegions Method
 ==========================================================
 
-Called when the [RegionManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager(v=pandp.50)) is updating it's [Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager.regions(v=pandp.50)) collection.
+Called when the [RegionManager](regionmanager-class-mspp-regions.md) is updating it's [Regions](regionmanager-regions-property-mspp-regions.md) collection.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -44,7 +44,7 @@ Public Sub OnUpdatingRegions (
 
    Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-   The [RegionManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager(v=pandp.50)).
+   The [RegionManager](regionmanager-class-mspp-regions.md).
 
 *e*  
 
@@ -61,8 +61,8 @@ See Also
 --------
 
 
-[DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior(v=pandp.50))
+[DelayedRegionCreationBehavior Class](delayedregioncreationbehavior-class-mspp-regions-behaviors.md)
 
-[DelayedRegionCreationBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior_members(v=pandp.50))
+[DelayedRegionCreationBehavior Members](delayedregioncreationbehavior-members-mspp-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)

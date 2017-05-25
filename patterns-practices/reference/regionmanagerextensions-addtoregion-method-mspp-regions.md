@@ -2,7 +2,7 @@
 TOCTitle: AddToRegion Method
 Title: 'RegionManagerExtensions.AddToRegion Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManagerExtensions.AddToRegion(Microsoft.Practices.Prism.Regions.IRegionManager,System.String,System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanagerextensions.addtoregion(v=pandp.50)'
+ms:mtpsurl: 'regionmanagerextensions-addtoregion-method-mspp-regions.md'
 ---
 
 Prism Class Library

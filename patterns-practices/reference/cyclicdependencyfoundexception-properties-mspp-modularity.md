@@ -2,12 +2,12 @@
 TOCTitle: CyclicDependencyFoundException Properties
 Title: 'CyclicDependencyFoundException Properties (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception_properties(v=pandp.50)'
+ms:mtpsurl: 'cyclicdependencyfoundexception-properties-mspp-modularity.md'
 ---
 
 # CyclicDependencyFoundException Properties
 
-The [CyclicDependencyFoundException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception(v=pandp.50)) type exposes the following members.
+The [CyclicDependencyFoundException](cyclicdependencyfoundexception-class-mspp-modularity.md) type exposes the following members.
 
 ## Properties
 
@@ -98,6 +98,6 @@ Gets the method that throws the current exception.
 
 ## See Also
 
-[CyclicDependencyFoundException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception(v=pandp.50))
+[CyclicDependencyFoundException Class](cyclicdependencyfoundexception-class-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

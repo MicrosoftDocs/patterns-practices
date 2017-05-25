@@ -2,14 +2,14 @@
 TOCTitle: MefSelectorItemsSourceSyncBehavior Methods
 Title: 'MefSelectorItemsSourceSyncBehavior Methods (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSelectorItemsSourceSyncBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefselectoritemssourcesyncbehavior_methods(v=pandp.50)'
+ms:mtpsurl: 'mefselectoritemssourcesyncbehavior-methods-mspp-mefextensions-regions-behaviors.md'
 ---
 
 Prism Class Library
 
 # MefSelectorItemsSourceSyncBehavior Methods
 
-The [MefSelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefselectoritemssourcesyncbehavior(v=pandp.50)) type exposes the following members.
+The [MefSelectorItemsSourceSyncBehavior](mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors.md) type exposes the following members.
 
 ## Methods
 
@@ -92,6 +92,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[MefSelectorItemsSourceSyncBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefselectoritemssourcesyncbehavior(v=pandp.50))
+[MefSelectorItemsSourceSyncBehavior Class](mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace.md)

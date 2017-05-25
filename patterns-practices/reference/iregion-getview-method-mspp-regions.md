@@ -2,7 +2,7 @@
 TOCTitle: GetView Method
 Title: 'IRegion.GetView Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegion.GetView(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion.getview(v=pandp.50)'
+ms:mtpsurl: 'iregion-getview-method-mspp-regions.md'
 ---
 
 Prism Class Library

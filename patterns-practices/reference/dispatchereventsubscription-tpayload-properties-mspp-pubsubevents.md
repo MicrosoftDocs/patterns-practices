@@ -2,12 +2,12 @@
 TOCTitle: 'DispatcherEventSubscription(TPayload) Properties'
 Title: 'DispatcherEventSubscription(TPayload) Properties (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscription\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736253(v=pandp.50)'
+ms:mtpsurl: 'dispatchereventsubscription-tpayload-properties-mspp-pubsubevents.md'
 ---
 
 # DispatcherEventSubscription(Of TPayload) Properties
 
-The [DispatcherEventSubscription(Of TPayload)](https://msdn.microsoft.com/en-us/library/dn736239(v=pandp.50)) type exposes the following members.
+The [DispatcherEventSubscription(Of TPayload)](dispatchereventsubscription-tpayload-class-mspp-pubsubevents.md) type exposes the following members.
 =======
 DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
 =====================================================================
@@ -32,9 +32,9 @@ Properties
 <td><img src="https://msdn.microsoft.com/en-us/Dn736253.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601.action">Action</a></td>
 <td><div class="summary">
-Gets the target <a href="http://msdn2.microsoft.com/en-us/library/018hxwa8">Action(Of T)</a> that is referenced by the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50)">IDelegateReference</a>.
+Gets the target <a href="http://msdn2.microsoft.com/en-us/library/018hxwa8">Action(Of T)</a> that is referenced by the <a href="idelegatereference-interface-mspp-pubsubevents.md">IDelegateReference</a>.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)"> EventSubscription(Of TPayload)</a>.)</td>
+(Inherited from <a href="eventsubscription-tpayload-class-mspp-pubsubevents.md"> EventSubscription(Of TPayload)</a>.)</td>
 =======
 Gets the target <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;(Of &lt;(T&gt;)&gt;)</a> that is referenced by the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.idelegatereference">IDelegateReference</a>.
 </div>
@@ -44,9 +44,9 @@ Gets the target <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Actio
 <td><img src="https://msdn.microsoft.com/en-us/Dn736253.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601.filter">Filter</a></td>
 <td><div class="summary">
-Gets the target <a href="http://msdn2.microsoft.com/en-us/library/bfcke1bz">Predicate(Of T)</a> that is referenced by the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50)">IDelegateReference</a>.
+Gets the target <a href="http://msdn2.microsoft.com/en-us/library/bfcke1bz">Predicate(Of T)</a> that is referenced by the <a href="idelegatereference-interface-mspp-pubsubevents.md">IDelegateReference</a>.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)"> EventSubscription(Of TPayload)</a>.)</td>
+(Inherited from <a href="eventsubscription-tpayload-class-mspp-pubsubevents.md"> EventSubscription(Of TPayload)</a>.)</td>
 =======
 Gets the target <a href="http://msdn.microsoft.com/en-us/library/bfcke1bz">Predicate&lt;(Of &lt;(T&gt;)&gt;)</a> that is referenced by the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.idelegatereference">IDelegateReference</a>.
 </div>
@@ -58,7 +58,7 @@ Gets the target <a href="http://msdn.microsoft.com/en-us/library/bfcke1bz">Predi
 <td><div class="summary">
 Gets or sets a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601.subscriptiontoken">SubscriptionToken</a> that identifies this <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription">IEventSubscription</a>.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)"> EventSubscription(Of TPayload)</a>.)</td>
+(Inherited from <a href="eventsubscription-tpayload-class-mspp-pubsubevents.md"> EventSubscription(Of TPayload)</a>.)</td>
 =======
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601">EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)</a>.)</td>
 </tr>
@@ -69,7 +69,7 @@ See Also
 --------
 
 
-[DispatcherEventSubscription(Of TPayload) Class](https://msdn.microsoft.com/en-us/library/dn736239(v=pandp.50))
+[DispatcherEventSubscription(Of TPayload) Class](dispatchereventsubscription-tpayload-class-mspp-pubsubevents.md)
 =======
 [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dispatchereventsubscription%601)
 

@@ -2,7 +2,7 @@
 TOCTitle: 'Microsoft.Practices.Prism.Modularity Namespace'
 Title: 'Microsoft.Practices.Prism.Modularity Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.Modularity'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50)'
+ms:mtpsurl: 'mspp-modularity-namespace.md'
 ---
 
 # Microsoft.Practices.Prism.Modularity Namespace
@@ -35,21 +35,21 @@ A catalog built from a configuration file.
 </tr>
 <tr class="odd">
 <td><img src="images/public-class.gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.configurationstore(v=pandp.50)">ConfigurationStore</a></td>
+<td><a href="configurationstore-class-mspp-modularity.md">ConfigurationStore</a></td>
 <td><div>
 Defines a store for the module metadata.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="images/public-class.gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception(v=pandp.50)">CyclicDependencyFoundException</a></td>
+<td><a href="cyclicdependencyfoundexception-class-mspp-modularity.md">CyclicDependencyFoundException</a></td>
 <td><div>
 Represents the exception that is thrown when there is a circular dependency between modules during the module loading process.
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="images/public-class.gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.directorymodulecatalog(v=pandp.50)">DirectoryModuleCatalog</a></td>
+<td><a href="directorymodulecatalog-class-mspp-modularity.md">DirectoryModuleCatalog</a></td>
 <td><div>
 Represets a catalog created from a directory on disk.
 </div></td>
@@ -63,7 +63,7 @@ Exception thrown when a module is declared twice in the same catalog.
 </tr>
 <tr class="odd">
 <td><img src="images/public-class.gif" title="Public class" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader(v=pandp.50)">FileModuleTypeLoader</a></td>
+<td><a href="filemoduletypeloader-class-mspp-modularity.md">FileModuleTypeLoader</a></td>
 <td><div>
 Loads modules from an arbitrary location on the filesystem. This typeloader is only called if <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a> classes have a Ref parameter that starts with &quot;file://&quot;. This class is only used on the Desktop version of the Prism Library.
 </div></td>

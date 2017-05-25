@@ -2,7 +2,7 @@
 TOCTitle: RegionManagerAccessor Property
 Title: 'DelayedRegionCreationBehavior.RegionManagerAccessor Property (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior.RegionManagerAccessor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.regionmanageraccessor(v=pandp.50)'
+ms:mtpsurl: 'delayedregioncreationbehavior-regionmanageraccessor-property-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library

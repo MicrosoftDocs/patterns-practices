@@ -2,7 +2,7 @@
 TOCTitle: 'Raise Method (T)'
 Title: 'InteractionRequest(T).Raise Method (T) (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequest\`1.Raise(\`0)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405794(v=pandp.50)'
+ms:mtpsurl: 'interactionrequest-t-raise-method-t-mspp-interactivity-interactionrequest.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Fires the Raised event.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](mspp-interactivity-interactionrequest-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -30,19 +30,19 @@ public void Raise(
 
 *context*  
 
-  Type: [T](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50))
+  Type: [T](interactionrequest-t-class-mspp-interactivity-interactionrequest.md)
 
   The context for the interaction request.
 
 ## See Also
 
-[InteractionRequest&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50))
+[InteractionRequest&lt;T&gt; Class](interactionrequest-t-class-mspp-interactivity-interactionrequest.md)
 
-[InteractionRequest&lt;T&gt; Members](https://msdn.microsoft.com/en-us/library/gg430785(v=pandp.50))
+[InteractionRequest&lt;T&gt; Members](interactionrequest-t-members-mspp-interactivity-interactionrequest.md)
 
-[Raise Overload](https://msdn.microsoft.com/en-us/library/gg419066(v=pandp.50))
+[Raise Overload](interactionrequest-t-raise-method-mspp-interactivity-interactionrequest.md)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)
 
 Prism Class Library
 
@@ -50,7 +50,7 @@ Prism Class Library
 
 Fires the Raised event.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](mspp-interactivity-interactionrequest-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -69,17 +69,17 @@ Public Sub Raise (
 ### Parameters
 
 context  
-Type: [T](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50))
+Type: [T](interactionrequest-t-class-mspp-interactivity-interactionrequest.md)
 
 The context for the interaction request.
 
 ## See Also
 
 
-[InteractionRequest(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50))
+[InteractionRequest(Of T) Class](interactionrequest-t-class-mspp-interactivity-interactionrequest.md)
 
-[InteractionRequest(Of T) Members](https://msdn.microsoft.com/en-us/library/gg430785(v=pandp.50))
+[InteractionRequest(Of T) Members](interactionrequest-t-members-mspp-interactivity-interactionrequest.md)
 
-[Raise Overload](https://msdn.microsoft.com/en-us/library/gg419066(v=pandp.50))
+[Raise Overload](interactionrequest-t-raise-method-mspp-interactivity-interactionrequest.md)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)

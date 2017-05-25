@@ -2,7 +2,7 @@
 TOCTitle: TraceLogger Members
 Title: 'TraceLogger Members (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Logging.TraceLogger'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.tracelogger_members(v=pandp.50)'
+ms:mtpsurl: 'tracelogger-members-mspp-logging.md'
 ---
 
 Prism Class Library

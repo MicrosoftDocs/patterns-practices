@@ -2,7 +2,7 @@
 TOCTitle: SetRegionName Method
 Title: 'RegionManager.SetRegionName Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManager.SetRegionName(System.Windows.DependencyObject,System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmanager.setregionname(v=pandp.50)'
+ms:mtpsurl: 'regionmanager-setregionname-method-mspp-regions.md'
 ---
 
 Prism Class Library

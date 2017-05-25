@@ -2,7 +2,7 @@
 TOCTitle: UpdateRegionsException Constructor
 Title: 'UpdateRegionsException Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.UpdateRegionsException.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception.updateregionsexception(v=pandp.50)'
+ms:mtpsurl: 'updateregionsexception-constructor-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -58,8 +58,8 @@ See Also
 --------
 
 
-[UpdateRegionsException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception(v=pandp.50))
+[UpdateRegionsException Class](updateregionsexception-class-mspp-regions.md)
 
-[UpdateRegionsException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception_members(v=pandp.50))
+[UpdateRegionsException Members](updateregionsexception-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

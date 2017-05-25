@@ -2,7 +2,7 @@
 TOCTitle: Log Method
 Title: 'TextLogger.Log Method (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Logging.TextLogger.Log(System.String,Microsoft.Practices.Prism.Logging.Category,Microsoft.Practices.Prism.Logging.Priority)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.textlogger.log(v=pandp.50)'
+ms:mtpsurl: 'textlogger-log-method-mspp-logging.md'
 ---
 
 Prism Class Library

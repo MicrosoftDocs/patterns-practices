@@ -2,14 +2,14 @@
 TOCTitle: SelectorItemsSourceSyncBehavior Methods
 Title: 'SelectorItemsSourceSyncBehavior Methods (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior_methods(v=pandp.50)'
+ms:mtpsurl: 'selectoritemssourcesyncbehavior-methods-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library
 
 # SelectorItemsSourceSyncBehavior Methods
 
-The [SelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior(v=pandp.50)) type exposes the following members.
+The [SelectorItemsSourceSyncBehavior](selectoritemssourcesyncbehavior-class-mspp-regions-behaviors.md) type exposes the following members.
 
 ## Methods
 
@@ -92,6 +92,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[SelectorItemsSourceSyncBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior(v=pandp.50))
+[SelectorItemsSourceSyncBehavior Class](selectoritemssourcesyncbehavior-class-mspp-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)

@@ -2,14 +2,14 @@
 TOCTitle: 'NavigationResult Constructor (NavigationContext, Nullable(Boolean))'
 Title: 'NavigationResult Constructor (NavigationContext, Nullable(Boolean)) (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationResult.\#ctor(Microsoft.Practices.Prism.Regions.NavigationContext,System.Nullable{System.Boolean})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult.navigationresult(v=pandp.50)'
+ms:mtpsurl: 'navigationresult-constructor-mspp-regions.md'
 ---
 
 # NavigationResult Constructor (NavigationContext, Nullable&lt;Boolean&gt;)
 
-Initializes a new instance of the [NavigationResult](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult(v=pandp.50)) class.
+Initializes a new instance of the [NavigationResult](navigationresult-class-mspp-regions.md) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -29,7 +29,7 @@ public NavigationResult(
 
 *context*
 
-    Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext(v=pandp.50))
+    Type: [Microsoft.Practices.Prism.Regions.NavigationContext](navigationcontext-class-mspp-regions.md)
     The context.
 
 *result*
@@ -39,9 +39,9 @@ public NavigationResult(
 
 # NavigationResult Constructor (NavigationContext, Nullable(Of Boolean))
 
-Initializes a new instance of the [NavigationResult](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult(v=pandp.50)) class.
+Initializes a new instance of the [NavigationResult](navigationresult-class-mspp-regions.md) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -62,7 +62,7 @@ Public Sub New (
 
 *context*
 
-    Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext(v=pandp.50))
+    Type: [Microsoft.Practices.Prism.Regions.NavigationContext](navigationcontext-class-mspp-regions.md)
     The context.
 
 *result*
@@ -72,10 +72,10 @@ Public Sub New (
 
 ## See Also
 
-[NavigationResult Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult(v=pandp.50))
+[NavigationResult Class](navigationresult-class-mspp-regions.md)
 
-[NavigationResult Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult_members(v=pandp.50))
+[NavigationResult Members](navigationresult-members-mspp-regions.md)
 
 NavigationResult Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

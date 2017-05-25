@@ -2,7 +2,7 @@
 TOCTitle: CurrentEntry Property
 Title: 'IRegionNavigationJournal.CurrentEntry Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal.CurrentEntry'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal.currententry(v=pandp.50)'
+ms:mtpsurl: 'iregionnavigationjournal-currententry-property-mspp-regions.md'
 ---
 
 Prism Class Library

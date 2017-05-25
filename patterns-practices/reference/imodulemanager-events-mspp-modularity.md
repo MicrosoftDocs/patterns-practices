@@ -2,14 +2,14 @@
 TOCTitle: IModuleManager Events
 Title: 'IModuleManager Events (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.IModuleManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulemanager_events(v=pandp.50)'
+ms:mtpsurl: 'imodulemanager-events-mspp-modularity.md'
 ---
 
 Prism Class Library
 
 # IModuleManager Events
 
-The [IModuleManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulemanager(v=pandp.50)) type exposes the following members.
+The [IModuleManager](imodulemanager-interface-mspp-modularity.md) type exposes the following members.
 
 ## Events
 
@@ -43,6 +43,6 @@ Raised repeatedly to provide progress as modules are downloaded.
 ## See Also
 
 
-[IModuleManager Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulemanager(v=pandp.50))
+[IModuleManager Interface](imodulemanager-interface-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

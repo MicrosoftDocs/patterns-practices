@@ -2,7 +2,7 @@
 TOCTitle: BuildChildDomain Method
 Title: 'DirectoryModuleCatalog.BuildChildDomain Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog.BuildChildDomain(System.AppDomain)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.directorymodulecatalog.buildchilddomain(v=pandp.50)'
+ms:mtpsurl: 'directorymodulecatalog-buildchilddomain-method-mspp-modularity.md'
 ---
 
 Prism Class Library

@@ -2,16 +2,16 @@
 TOCTitle: 'ModuleNotFoundException Constructor (SerializationInfo, StreamingContext)'
 Title: 'ModuleNotFoundException Constructor (SerializationInfo, StreamingContext) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleNotFoundException.\#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception.modulenotfoundexception(v=pandp.50)'
+ms:mtpsurl: 'modulenotfoundexception-constructor-mspp-modularity.md'
 ---
 
 Prism Class Library
 
 # ModuleNotFoundException Constructor (SerializationInfo, StreamingContext)
 
-Initializes a new instance of the [ModuleNotFoundException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception(v=pandp.50)) class with the serialization data.
+Initializes a new instance of the [ModuleNotFoundException](modulenotfoundexception-class-mspp-modularity.md) class with the serialization data.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -52,10 +52,10 @@ Protected Sub New (
 ## See Also
 
 
-[ModuleNotFoundException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception(v=pandp.50))
+[ModuleNotFoundException Class](modulenotfoundexception-class-mspp-modularity.md)
 
-[ModuleNotFoundException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception_members(v=pandp.50))
+[ModuleNotFoundException Members](modulenotfoundexception-members-mspp-modularity.md)
 
 ModuleNotFoundException Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

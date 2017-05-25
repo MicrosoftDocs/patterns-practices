@@ -2,7 +2,7 @@
 TOCTitle: MefFileModuleTypeLoader Class
 Title: 'MefFileModuleTypeLoader Class (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefFileModuleTypeLoader'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader(v=pandp.50)'
+ms:mtpsurl: 'meffilemoduletypeloader-class-mspp-mefextensions-modularity.md'
 ---
 
 Prism Class Library
@@ -10,9 +10,9 @@ Prism Class Library
 MefFileModuleTypeLoader Class
 =============================
 
-Loads modules from an arbitrary location on the filesystem. This typeloader is only called if [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50)) classes have a Ref parameter that starts with "file://". This class is only used on the Desktop version of the Prism Library when used with Managed Extensibility Framework.
+Loads modules from an arbitrary location on the filesystem. This typeloader is only called if [ModuleInfo](moduleinfo-class-mspp-modularity.md) classes have a Ref parameter that starts with "file://". This class is only used on the Desktop version of the Prism Library when used with Managed Extensibility Framework.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -43,6 +43,6 @@ See Also
 --------
 
 
-[MefFileModuleTypeLoader Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader_members(v=pandp.50))
+[MefFileModuleTypeLoader Members](meffilemoduletypeloader-members-mspp-mefextensions-modularity.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)

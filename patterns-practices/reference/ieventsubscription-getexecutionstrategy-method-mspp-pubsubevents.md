@@ -2,7 +2,7 @@
 TOCTitle: GetExecutionStrategy Method
 Title: 'IEventSubscription.GetExecutionStrategy Method (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.IEventSubscription.GetExecutionStrategy'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription.getexecutionstrategy(v=pandp.50)'
+ms:mtpsurl: 'ieventsubscription-getexecutionstrategy-method-mspp-pubsubevents.md'
 ---
 
 
@@ -10,7 +10,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.
 
 Gets the execution strategy to publish this event.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -29,7 +29,7 @@ Function GetExecutionStrategy As Action(Of Object())
 
 Type: [Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt; [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)[]&gt;
 
-An [Action&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8) with the execution strategy, or **Nothinga** null reference (**Nothing** in Visual Basic) if the [IEventSubscription](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50)) is no longer valid.
+An [Action&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8) with the execution strategy, or **Nothinga** null reference (**Nothing** in Visual Basic) if the [IEventSubscription](ieventsubscription-interface-mspp-pubsubevents.md) is no longer valid.
 =======
 Prism Class Library
 
@@ -54,7 +54,7 @@ An [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018h
 ## See Also
 
 
-[IEventSubscription Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50))
+[IEventSubscription Interface](ieventsubscription-interface-mspp-pubsubevents.md)
 =======
 
 [IEventSubscription Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription)
@@ -62,4 +62,4 @@ An [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018h
 
 IEventSubscription Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)

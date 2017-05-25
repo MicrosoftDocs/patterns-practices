@@ -2,7 +2,7 @@
 TOCTitle: ModuleDependencyCollection Properties
 Title: 'ModuleDependencyCollection Properties (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencycollection_properties(v=pandp.50)'
+ms:mtpsurl: 'moduledependencycollection-properties-mspp-modularity.md'
 ---
 
 Prism Class Library

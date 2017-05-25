@@ -2,16 +2,16 @@
 TOCTitle: BindableBase Constructor
 Title: 'BindableBase Constructor (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Mvvm.BindableBase.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase.bindablebase(v=pandp.50)'
+ms:mtpsurl: 'bindablebase-constructor-mspp-mvvm.md'
 ---
 
 Prism Class Library
 
 # BindableBase Constructor
 
-Initializes a new instance of the [BindableBase](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase(v=pandp.50)) class
+Initializes a new instance of the [BindableBase](bindablebase-class-mspp-mvvm.md) class
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](mspp-mvvm-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -29,8 +29,8 @@ See Also
 --------
 
 
-[BindableBase Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase(v=pandp.50))
+[BindableBase Class](bindablebase-class-mspp-mvvm.md)
 
-[BindableBase Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase_members(v=pandp.50))
+[BindableBase Members](bindablebase-members-mspp-mvvm.md)
 
-[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm(v=pandp.50))
+[Microsoft.Practices.Prism.Mvvm Namespace](mspp-mvvm-namespace.md)

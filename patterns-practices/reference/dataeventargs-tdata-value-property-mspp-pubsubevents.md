@@ -2,7 +2,7 @@
 TOCTitle: Value Property
 Title: 'DataEventArgs(TData).Value Property (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'P:Microsoft.Practices.Prism.PubSubEvents.DataEventArgs\`1.Value'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736102(v=pandp.50)'
+ms:mtpsurl: 'dataeventargs-tdata-value-property-mspp-pubsubevents.md'
 ---
 
 Prism Class Library

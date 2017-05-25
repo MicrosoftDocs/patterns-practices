@@ -2,7 +2,7 @@
 TOCTitle: Contains Method
 Title: 'ModuleInfoGroup.Contains Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Contains(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup.contains(v=pandp.50)'
+ms:mtpsurl: 'moduleinfogroup-contains-method-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -10,9 +10,9 @@ Prism Class Library
 ModuleInfoGroup.Contains Method
 ===================================
 
-Determines whether the [ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50)) contains a specific value.
+Determines whether the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md) contains a specific value.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -36,15 +36,15 @@ Public Function Contains (
 
 *item*  
 
-     Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))
+     Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity.md)
 	 
-     The object to locate in the [ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50)).
+     The object to locate in the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md).
 
 ### Return Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
-true if item is found in the [ModuleInfoGroup](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50)); otherwise, false.
+true if item is found in the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md); otherwise, false.
 
 ### Implements
 
@@ -54,8 +54,8 @@ See Also
 --------
 
 
-[ModuleInfoGroup Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50))
+[ModuleInfoGroup Class](moduleinfogroup-class-mspp-modularity.md)
 
-[ModuleInfoGroup Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup_members(v=pandp.50))
+[ModuleInfoGroup Members](moduleinfogroup-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

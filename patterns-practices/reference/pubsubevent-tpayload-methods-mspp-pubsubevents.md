@@ -2,14 +2,14 @@
 TOCTitle: 'PubSubEvent(TPayload) Methods'
 Title: 'PubSubEvent(TPayload) Methods (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn683938(v=pandp.50)'
+ms:mtpsurl: 'pubsubevent-tpayload-methods-mspp-pubsubevents.md'
 ---
 
 Prism Class Library
 
 # PubSubEvent(Of TPayload) Methods
 
-The [PubSubEvent(Of TPayload)](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50)) type exposes the following members.
+The [PubSubEvent(Of TPayload)](pubsubevent-tpayload-class-mspp-pubsubevents.md) type exposes the following members.
 
 ## Methods
 
@@ -164,6 +164,6 @@ Removes the subscriber matching the <a href="https://msdn.microsoft.com/library/
 
 ## See Also
 
-[PubSubEvent(Of TPayload) Class](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50)  )
+[PubSubEvent(Of TPayload) Class](pubsubevent-tpayload-class-mspp-pubsubevents.md  )
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)

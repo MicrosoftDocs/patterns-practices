@@ -2,7 +2,7 @@
 TOCTitle: 'Raise Method (T, Action(T))'
 Title: 'InteractionRequest(T).Raise Method (T, Action(T)) (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequest\`1.Raise(\`0,System.Action{\`0})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405795(v=pandp.50)'
+ms:mtpsurl: 'interactionrequest-t-raise-method-t-action-t-mspp-interactivity-interactionrequest.md'
 ---
 
 Prism Class Library

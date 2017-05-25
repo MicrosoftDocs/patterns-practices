@@ -2,16 +2,16 @@
 TOCTitle: ModuleNotFoundException Constructor
 Title: 'ModuleNotFoundException Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleNotFoundException.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception.modulenotfoundexception(v=pandp.50)'
+ms:mtpsurl: 'modulenotfoundexception-constructor-mspp-modularity.md'
 ---
 
 Prism Class Library
 
 # ModuleNotFoundException Constructor
 
-Initializes a new instance of the [ModuleNotFoundException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception(v=pandp.50)) class.
+Initializes a new instance of the [ModuleNotFoundException](modulenotfoundexception-class-mspp-modularity.md) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -30,10 +30,10 @@ Public Sub New
 
 ## See Also
 
-[ModuleNotFoundException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception(v=pandp.50))
+[ModuleNotFoundException Class](modulenotfoundexception-class-mspp-modularity.md)
 
-[ModuleNotFoundException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception_members(v=pandp.50))
+[ModuleNotFoundException Members](modulenotfoundexception-members-mspp-modularity.md)
 
 ModuleNotFoundException Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

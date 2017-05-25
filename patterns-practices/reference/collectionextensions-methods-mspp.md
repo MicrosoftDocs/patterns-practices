@@ -2,7 +2,7 @@
 TOCTitle: CollectionExtensions Methods
 Title: 'CollectionExtensions Methods (Microsoft.Practices.Prism)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.CollectionExtensions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.collectionextensions_methods(v=pandp.50)'
+ms:mtpsurl: 'collectionextensions-methods-mspp.md'
 ---
 
 Prism Class Library

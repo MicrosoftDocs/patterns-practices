@@ -2,14 +2,14 @@
 TOCTitle: MetadataChanged Event
 Title: 'ItemMetadata.MetadataChanged Event (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Regions.ItemMetadata.MetadataChanged'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata.metadatachanged(v=pandp.50)'
+ms:mtpsurl: 'itemmetadata-metadatachanged-event-mspp-regions.md'
 ---
 
 # ItemMetadata.MetadataChanged Event
 
 Occurs when metadata on the item changes.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -33,8 +33,8 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
 
 ## See Also
 
-[ItemMetadata Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50))
+[ItemMetadata Class](itemmetadata-class-mspp-regions.md)
 
-[ItemMetadata Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata_members(v=pandp.50))
+[ItemMetadata Members](itemmetadata-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

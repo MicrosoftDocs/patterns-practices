@@ -2,14 +2,14 @@
 TOCTitle: 'BackgroundEventSubscription(TPayload) Methods'
 Title: 'BackgroundEventSubscription(TPayload) Methods (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscription\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn683952(v=pandp.50)'
+ms:mtpsurl: 'backgroundeventsubscription-tpayload-methods-mspp-pubsubevents.md'
 ---
 
 Prism Class Library
 
 # BackgroundEventSubscription&lt;TPayload&gt; Methods
 
-The [BackgroundEventSubscription&lt;TPayload&gt;](https://msdn.microsoft.com/en-us/library/dn683933(v=pandp.50)) type exposes the following members.
+The [BackgroundEventSubscription&lt;TPayload&gt;](backgroundeventsubscription-tpayload-class-mspp-pubsubevents.md) type exposes the following members.
 
 ## Methods
 
@@ -93,6 +93,6 @@ Returns a string that represents the current object.
 ## See Also
 
 
-[BackgroundEventSubscription&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/dn683933(v=pandp.50))
+[BackgroundEventSubscription&lt;TPayload&gt; Class](backgroundeventsubscription-tpayload-class-mspp-pubsubevents.md)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)

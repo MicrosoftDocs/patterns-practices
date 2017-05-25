@@ -2,7 +2,7 @@
 TOCTitle: GetEnumerator Method
 Title: 'ModuleInfoGroup.GetEnumerator Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.GetEnumerator'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup.getenumerator(v=pandp.50)'
+ms:mtpsurl: 'moduleinfogroup-getenumerator-method-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Returns an enumerator that iterates through the collection.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -25,7 +25,7 @@ public IEnumerator<ModuleInfo> GetEnumerator()
 
 ### Return Value
 
-Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)&lt;[ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))&gt;
+Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)&lt;[ModuleInfo](moduleinfo-class-mspp-modularity.md)&gt;
 
 A [IEnumerator&lt;T&gt;](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can be used to iterate through the collection.
 
@@ -40,7 +40,7 @@ Public Function GetEnumerator As IEnumerator(Of ModuleInfo)
 
 ### Return Value
 
-Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)(Of [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50)))
+Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)(Of [ModuleInfo](moduleinfo-class-mspp-modularity.md))
 
 A [IEnumerator(Of T)](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can be used to iterate through the collection.
 
@@ -52,9 +52,9 @@ A [IEnumerator(Of T)](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can
 --------
 
 
-[ModuleInfoGroup Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup(v=pandp.50))
+[ModuleInfoGroup Class](moduleinfogroup-class-mspp-modularity.md)
 
-[ModuleInfoGroup Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup_members(v=pandp.50))
+[ModuleInfoGroup Members](moduleinfogroup-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
 

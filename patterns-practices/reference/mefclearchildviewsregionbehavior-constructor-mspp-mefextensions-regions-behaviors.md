@@ -2,7 +2,7 @@
 TOCTitle: MefClearChildViewsRegionBehavior Constructor
 Title: 'MefClearChildViewsRegionBehavior Constructor (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefClearChildViewsRegionBehavior.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior.mefclearchildviewsregionbehavior(v=pandp.50)'
+ms:mtpsurl: 'mefclearchildviewsregionbehavior-constructor-mspp-mefextensions-regions-behaviors.md'
 ---
 
 
@@ -34,6 +34,6 @@ Public Sub New
 
 [MefClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior)
 
-[MefClearChildViewsRegionBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior_members(v=pandp.50))
+[MefClearChildViewsRegionBehavior Members](mefclearchildviewsregionbehavior-members-mspp-mefextensions-regions-behaviors.md)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)

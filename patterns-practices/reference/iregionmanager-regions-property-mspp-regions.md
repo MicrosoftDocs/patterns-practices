@@ -2,16 +2,16 @@
 TOCTitle: Regions Property
 Title: 'IRegionManager.Regions Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionManager.Regions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanager.regions(v=pandp.50)'
+ms:mtpsurl: 'iregionmanager-regions-property-mspp-regions.md'
 ---
 
 Prism Class Library
 
 # IRegionManager.Regions Property
 
-Gets a collection of [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)) that identify each region by name. You can use this collection to add or remove regions to the current region manager.
+Gets a collection of [IRegion](iregion-interface-mspp-regions.md) that identify each region by name. You can use this collection to add or remove regions to the current region manager.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -31,12 +31,12 @@ ReadOnly Property Regions As IRegionCollection
 
 ### Property Value
 
-Type: [IRegionCollection](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection(v=pandp.50))
+Type: [IRegionCollection](iregioncollection-interface-mspp-regions.md)
 
 ## See Also
 
-[IRegionManager Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanager(v=pandp.50))
+[IRegionManager Interface](iregionmanager-interface-mspp-regions.md)
 
-[IRegionManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanager_members(v=pandp.50))
+[IRegionManager Members](iregionmanager-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

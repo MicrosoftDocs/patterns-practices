@@ -2,7 +2,7 @@
 TOCTitle: ModuleName Property
 Title: 'ModuleExportAttribute.ModuleName Property (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAttribute.ModuleName'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute.modulename(v=pandp.50)'
+ms:mtpsurl: 'moduleexportattribute-modulename-property-mspp-mefextensions-modularity.md'
 ---
 
 Prism Class Library

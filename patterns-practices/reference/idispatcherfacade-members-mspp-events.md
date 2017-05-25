@@ -2,7 +2,7 @@
 TOCTitle: IDispatcherFacade Members
 Title: 'IDispatcherFacade Members (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Events.IDispatcherFacade'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.idispatcherfacade_members(v=pandp.50)'
+ms:mtpsurl: 'idispatcherfacade-members-mspp-events.md'
 ---
 
 Prism Class Library

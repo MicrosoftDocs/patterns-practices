@@ -2,7 +2,7 @@
 TOCTitle: Initialize Method
 Title: 'RegionAdapterBase(T).Initialize Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionAdapterBase\`1.Initialize(\`0,System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg418936(v=pandp.50)'
+ms:mtpsurl: 'regionadapterbase-t-initialize-method-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -10,9 +10,9 @@ Prism Class Library
 RegionAdapterBase&lt;T&gt;.Initialize Method
 ===============================================================
 
-Adapts an object and binds it to a new [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)).
+Adapts an object and binds it to a new [IRegion](iregion-interface-mspp-regions.md).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -33,7 +33,7 @@ Public Function Initialize ( regionTarget As T, regionName As String ) As IRegio
 ### Parameters
 
 *regionTarget*  
-Type: [T](https://msdn.microsoft.com/en-us/library/gg431546(v=pandp.50))
+Type: [T](regionadapterbase-t-class-mspp-regions.md)
 
 The object to adapt.
 
@@ -44,16 +44,16 @@ The name of the region to be created.
 
 ### Return Value
 
-Type: [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50))
+Type: [IRegion](iregion-interface-mspp-regions.md)
 
-The new instance of [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)) that the *regionTarget* is bound to.
+The new instance of [IRegion](iregion-interface-mspp-regions.md) that the *regionTarget* is bound to.
 
 See Also
 --------
 
 
-[RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/en-us/library/gg431546(v=pandp.50))
+[RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Class](regionadapterbase-t-class-mspp-regions.md)
 
-[RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/en-us/library/gg405501(v=pandp.50))
+[RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Members](regionadapterbase-t-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

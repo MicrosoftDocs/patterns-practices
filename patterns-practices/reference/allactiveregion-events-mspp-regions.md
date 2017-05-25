@@ -2,7 +2,7 @@
 TOCTitle: AllActiveRegion Events
 Title: 'AllActiveRegion Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.AllActiveRegion'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.allactiveregion_events(v=pandp.50)'
+ms:mtpsurl: 'allactiveregion-events-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -10,7 +10,7 @@ Prism Class Library
 AllActiveRegion Events
 ======================
 
-The [AllActiveRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.allactiveregion(v=pandp.50)) type exposes the following members.
+The [AllActiveRegion](allactiveregion-class-mspp-regions.md) type exposes the following members.
 
 Events
 ------
@@ -40,6 +40,6 @@ See Also
 --------
 
 
-[AllActiveRegion Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.allactiveregion(v=pandp.50))
+[AllActiveRegion Class](allactiveregion-class-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

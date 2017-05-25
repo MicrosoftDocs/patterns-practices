@@ -2,7 +2,7 @@
 TOCTitle: ViewRegistrationException Constructor
 Title: 'ViewRegistrationException Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.ViewRegistrationException.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregistrationexception.viewregistrationexception(v=pandp.50)'
+ms:mtpsurl: 'viewregistrationexception-constructor-mspp-regions.md'
 ---
 
 # ViewRegistrationException Constructor
@@ -52,8 +52,8 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## See Also
 
-[ViewRegistrationException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregistrationexception(v=pandp.50))
+[ViewRegistrationException Class](viewregistrationexception-class-mspp-regions.md)
 
-[ViewRegistrationException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregistrationexception_members(v=pandp.50))
+[ViewRegistrationException Members](viewregistrationexception-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: RegionManagerRegistrationBehavior Methods
 Title: 'RegionManagerRegistrationBehavior Methods (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior_methods(v=pandp.50)'
+ms:mtpsurl: 'regionmanagerregistrationbehavior-methods-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library

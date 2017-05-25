@@ -2,7 +2,7 @@
 TOCTitle: EventAggregator Class
 Title: 'EventAggregator Class (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'T:Microsoft.Practices.Prism.PubSubEvents.EventAggregator'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventaggregator(v=pandp.50)'
+ms:mtpsurl: 'eventaggregator-class-mspp-pubsubevents.md'
 ---
 
 Prism Class Library

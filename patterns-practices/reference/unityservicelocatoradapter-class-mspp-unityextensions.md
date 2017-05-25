@@ -2,7 +2,7 @@
 TOCTitle: UnityServiceLocatorAdapter Class
 Title: 'UnityServiceLocatorAdapter Class (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.UnityExtensions.UnityServiceLocatorAdapter'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter(v=pandp.50)'
+ms:mtpsurl: 'unityservicelocatoradapter-class-mspp-unityextensions.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Defines a IUnityContainer adapter for the IServiceLocator interface to be used by the Prism Library.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](mspp-unityextensions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
@@ -37,6 +37,6 @@ Public Class UnityServiceLocatorAdapter
 
 ## See Also
 
-[UnityServiceLocatorAdapter Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter_members(v=pandp.50))
+[UnityServiceLocatorAdapter Members](unityservicelocatoradapter-members-mspp-unityextensions.md)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions(v=pandp.50))
+[Microsoft.Practices.Prism.UnityExtensions Namespace](mspp-unityextensions-namespace.md)

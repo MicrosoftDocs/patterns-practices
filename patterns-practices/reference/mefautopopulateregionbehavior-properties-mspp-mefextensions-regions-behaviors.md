@@ -2,7 +2,7 @@
 TOCTitle: MefAutoPopulateRegionBehavior Properties
 Title: 'MefAutoPopulateRegionBehavior Properties (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefAutoPopulateRegionBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior_properties(v=pandp.50)'
+ms:mtpsurl: 'mefautopopulateregionbehavior-properties-mspp-mefextensions-regions-behaviors.md'
 ---
 
 Prism Class Library

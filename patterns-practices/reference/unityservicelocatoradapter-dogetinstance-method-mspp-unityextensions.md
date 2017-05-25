@@ -2,7 +2,7 @@
 TOCTitle: DoGetInstance Method
 Title: 'UnityServiceLocatorAdapter.DoGetInstance Method (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityServiceLocatorAdapter.DoGetInstance(System.Type,System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter.dogetinstance(v=pandp.50)'
+ms:mtpsurl: 'unityservicelocatoradapter-dogetinstance-method-mspp-unityextensions.md'
 ---
 
 Prism Class Library

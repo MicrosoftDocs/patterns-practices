@@ -2,7 +2,7 @@
 TOCTitle: UnityBootstrapperExtension Constructor
 Title: 'UnityBootstrapperExtension Constructor (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtension.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension.unitybootstrapperextension(v=pandp.50)'
+ms:mtpsurl: 'unitybootstrapperextension-constructor-mspp-unityextensions.md'
 ---
 
 Prism Class Library
@@ -10,9 +10,9 @@ Prism Class Library
 UnityBootstrapperExtension Constructor
 ======================================
 
-Initializes a new instance of the [UnityBootstrapperExtension](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension(v=pandp.50)) class
+Initializes a new instance of the [UnityBootstrapperExtension](unitybootstrapperextension-class-mspp-unityextensions.md) class
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](mspp-unityextensions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
@@ -34,8 +34,8 @@ See Also
 --------
 
 
-[UnityBootstrapperExtension Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension(v=pandp.50))
+[UnityBootstrapperExtension Class](unitybootstrapperextension-class-mspp-unityextensions.md)
 
-[UnityBootstrapperExtension Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension_members(v=pandp.50))
+[UnityBootstrapperExtension Members](unitybootstrapperextension-members-mspp-unityextensions.md)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions(v=pandp.50))
+[Microsoft.Practices.Prism.UnityExtensions Namespace](mspp-unityextensions-namespace.md)

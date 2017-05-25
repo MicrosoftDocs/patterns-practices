@@ -2,7 +2,7 @@
 TOCTitle: ViewRegisteredEventArgs Members
 Title: 'ViewRegisteredEventArgs Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.viewregisteredeventargs_members(v=pandp.50)'
+ms:mtpsurl: 'viewregisteredeventargs-members-mspp-regions.md'
 ---
 
 Prism Class Library

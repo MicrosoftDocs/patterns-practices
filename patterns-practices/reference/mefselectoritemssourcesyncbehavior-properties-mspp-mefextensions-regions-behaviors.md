@@ -2,7 +2,7 @@
 TOCTitle: MefSelectorItemsSourceSyncBehavior Properties
 Title: 'MefSelectorItemsSourceSyncBehavior Properties (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSelectorItemsSourceSyncBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefselectoritemssourcesyncbehavior_properties(v=pandp.50)'
+ms:mtpsurl: 'mefselectoritemssourcesyncbehavior-properties-mspp-mefextensions-regions-behaviors.md'
 ---
 
 Prism Class Library

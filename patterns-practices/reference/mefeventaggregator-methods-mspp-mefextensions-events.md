@@ -2,14 +2,14 @@
 TOCTitle: MefEventAggregator Methods
 Title: 'MefEventAggregator Methods (Microsoft.Practices.Prism.MefExtensions.Events)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Events.MefEventAggregator'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator_methods(v=pandp.50)'
+ms:mtpsurl: 'mefeventaggregator-methods-mspp-mefextensions-events.md'
 ---
 
 Prism Class Library
 
 # MefEventAggregator Methods
 
-The [MefEventAggregator](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator(v=pandp.50)) type exposes the following members.
+The [MefEventAggregator](mefeventaggregator-class-mspp-mefextensions-events.md) type exposes the following members.
 
 ## Methods
 
@@ -82,6 +82,6 @@ Returns a string that represents the current object.
 ## See Also
 
 
-[MefEventAggregator Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator(v=pandp.50))
+[MefEventAggregator Class](mefeventaggregator-class-mspp-mefextensions-events.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Events Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.events(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Events Namespace](mspp-mefextensions-events-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: IView Members
 Title: 'IView Members (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Mvvm.IView'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.iview_members(v=pandp.50)'
+ms:mtpsurl: 'iview-members-mspp-mvvm.md'
 ---
 
 Prism Class Library

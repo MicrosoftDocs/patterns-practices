@@ -2,7 +2,7 @@
 TOCTitle: FindAllValuesByKey Method
 Title: 'ListDictionary(TKey, TValue).FindAllValuesByKey Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.FindAllValuesByKey(System.Predicate{\`0})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405801(v=pandp.50)'
+ms:mtpsurl: 'listdictionary-tkey-tvalue-findallvaluesbykey-method-mspp.md'
 ---
 
 Prism Class Library

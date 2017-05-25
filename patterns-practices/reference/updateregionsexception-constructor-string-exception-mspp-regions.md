@@ -2,7 +2,7 @@
 TOCTitle: 'UpdateRegionsException Constructor (String, Exception)'
 Title: 'UpdateRegionsException Constructor (String, Exception) (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.UpdateRegionsException.\#ctor(System.String,System.Exception)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception.updateregionsexception(v=pandp.50)'
+ms:mtpsurl: 'updateregionsexception-constructor-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -10,9 +10,9 @@ Prism Class Library
 UpdateRegionsException Constructor (String, Exception)
 ======================================================
 
-Initializes a new instance of the [UpdateRegionsException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception(v=pandp.50)) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the [UpdateRegionsException](updateregionsexception-class-mspp-regions.md) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -53,10 +53,10 @@ See Also
 --------
 
 
-[UpdateRegionsException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception(v=pandp.50))
+[UpdateRegionsException Class](updateregionsexception-class-mspp-regions.md)
 
-[UpdateRegionsException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception_members(v=pandp.50))
+[UpdateRegionsException Members](updateregionsexception-members-mspp-regions.md)
 
 UpdateRegionsException Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

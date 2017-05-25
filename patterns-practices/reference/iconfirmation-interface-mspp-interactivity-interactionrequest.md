@@ -2,7 +2,7 @@
 TOCTitle: IConfirmation Interface
 Title: 'IConfirmation Interface (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.IConfirmation'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation(v=pandp.50)'
+ms:mtpsurl: 'iconfirmation-interface-mspp-interactivity-interactionrequest.md'
 ---
 
 Prism Class Library
@@ -38,9 +38,9 @@ public interface IConfirmation : INotificationPublic Interface IConfirmation Inh
 
 ## See Also
 
-[IConfirmation Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation_members(v=pandp.50))
+[IConfirmation Members](iconfirmation-members-mspp-interactivity-interactionrequest.md)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)
 =======
 
 [IConfirmation Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.iconfirmation)

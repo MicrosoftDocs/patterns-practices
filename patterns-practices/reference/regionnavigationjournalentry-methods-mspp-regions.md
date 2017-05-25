@@ -2,7 +2,7 @@
 TOCTitle: RegionNavigationJournalEntry Methods
 Title: 'RegionNavigationJournalEntry Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationjournalentry_methods(v=pandp.50)'
+ms:mtpsurl: 'regionnavigationjournalentry-methods-mspp-regions.md'
 ---
 
 Prism Class Library

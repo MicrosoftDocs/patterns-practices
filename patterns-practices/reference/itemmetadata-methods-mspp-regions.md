@@ -2,7 +2,7 @@
 TOCTitle: ItemMetadata Methods
 Title: 'ItemMetadata Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.ItemMetadata'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata_methods(v=pandp.50)'
+ms:mtpsurl: 'itemmetadata-methods-mspp-regions.md'
 ---
 
 Prism Class Library

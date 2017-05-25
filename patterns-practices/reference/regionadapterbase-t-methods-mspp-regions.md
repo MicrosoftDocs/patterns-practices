@@ -2,7 +2,7 @@
 TOCTitle: 'RegionAdapterBase(T) Methods'
 Title: 'RegionAdapterBase(T) Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.RegionAdapterBase\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg431103(v=pandp.50)'
+ms:mtpsurl: 'regionadapterbase-t-methods-mspp-regions.md'
 ---
 
 Prism Class Library

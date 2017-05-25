@@ -2,7 +2,7 @@
 TOCTitle: Dispose Method
 Title: 'FileModuleTypeLoader.Dispose Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader.Dispose'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader.dispose(v=pandp.50)'
+ms:mtpsurl: 'filemoduletypeloader-dispose-method-boolean-mspp-modularity.md'
 ---
 
 # FileModuleTypeLoader.Dispose Method
@@ -38,8 +38,8 @@ Disposes the associated <a href="https://msdn.microsoft.com/library/microsoft.pr
 
 ## See Also
 
-[FileModuleTypeLoader Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader(v=pandp.50))
+[FileModuleTypeLoader Class](filemoduletypeloader-class-mspp-modularity.md)
 
-[FileModuleTypeLoader Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader_members(v=pandp.50))
+[FileModuleTypeLoader Members](filemoduletypeloader-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: Confirmation Members
 Title: 'Confirmation Members (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confirmation'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation_members(v=pandp.50)'
+ms:mtpsurl: 'confirmation-members-mspp-interactivity-interactionrequest.md'
 ---
 
 Prism Class Library

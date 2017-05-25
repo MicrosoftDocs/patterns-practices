@@ -2,7 +2,7 @@
 TOCTitle: IsFrameworkExceptionRegistered Method
 Title: 'ExceptionExtensions.IsFrameworkExceptionRegistered Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ExceptionExtensions.IsFrameworkExceptionRegistered(System.Type)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.exceptionextensions.isframeworkexceptionregistered(v=pandp.50)'
+ms:mtpsurl: 'exceptionextensions-isframeworkexceptionregistered-method-mspp.md'
 ---
 
 Prism Class Library

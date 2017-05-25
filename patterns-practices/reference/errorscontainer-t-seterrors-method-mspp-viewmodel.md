@@ -2,7 +2,7 @@
 TOCTitle: SetErrors Method
 Title: 'ErrorsContainer(T).SetErrors Method (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.SetErrors'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg419152(v=pandp.50)'
+ms:mtpsurl: 'errorscontainer-t-seterrors-method-mspp-viewmodel.md'
 ---
 
 Prism Class Library
@@ -44,8 +44,8 @@ See Also
 --------
 
 
-[ErrorsContainer&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))
+[ErrorsContainer&lt;T&gt; Class](errorscontainer-t-class-mspp-viewmodel.md)
 
-[ErrorsContainer&lt;T&gt; Members](https://msdn.microsoft.com/en-us/library/gg405531(v=pandp.50))
+[ErrorsContainer&lt;T&gt; Members](errorscontainer-t-members-mspp-viewmodel.md)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace.md)

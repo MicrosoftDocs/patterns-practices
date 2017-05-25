@@ -2,7 +2,7 @@
 TOCTitle: 'CreateFromXaml Method (Uri)'
 Title: 'ModuleCatalog.CreateFromXaml Method (Uri) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.CreateFromXaml(System.Uri)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.createfromxaml(v=pandp.50)'
+ms:mtpsurl: 'modulecatalog-createfromxaml-method-mspp-modularity.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: Bootstrapper Methods
 Title: 'Bootstrapper Methods (Microsoft.Practices.Prism)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Bootstrapper'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper_methods(v=pandp.50)'
+ms:mtpsurl: 'bootstrapper-methods-mspp.md'
 ---
 
 Prism Class Library

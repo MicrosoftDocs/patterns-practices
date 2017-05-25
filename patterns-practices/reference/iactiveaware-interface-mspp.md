@@ -2,7 +2,7 @@
 TOCTitle: IActiveAware Interface
 Title: 'IActiveAware Interface (Microsoft.Practices.Prism)'
 ms:assetid: 'T:Microsoft.Practices.Prism.IActiveAware'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.iactiveaware(v=pandp.50)'
+ms:mtpsurl: 'iactiveaware-interface-mspp.md'
 ---
 
 Prism Class Library

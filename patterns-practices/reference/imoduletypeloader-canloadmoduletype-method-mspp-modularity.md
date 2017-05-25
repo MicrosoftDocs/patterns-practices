@@ -2,14 +2,14 @@
 TOCTitle: CanLoadModuleType Method
 Title: 'IModuleTypeLoader.CanLoadModuleType Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.IModuleTypeLoader.CanLoadModuleType(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader.canloadmoduletype(v=pandp.50)'
+ms:mtpsurl: 'imoduletypeloader-canloadmoduletype-method-mspp-modularity.md'
 ---
 
 # IModuleTypeLoader.CanLoadModuleType Method
 
-Evaluates the [Ref](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo.ref(v=pandp.50)) property to see if the current typeloader will be able to retrieve the *moduleInfo*.
+Evaluates the [Ref](moduleinfo-ref-property-mspp-modularity.md) property to see if the current typeloader will be able to retrieve the *moduleInfo*.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -27,7 +27,7 @@ bool CanLoadModuleType(
 
 *moduleInfo*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Module that should have it's type loaded.
 
@@ -51,7 +51,7 @@ Function CanLoadModuleType (
 
 *moduleInfo*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Module that should have it's type loaded.
 
@@ -63,8 +63,8 @@ Function CanLoadModuleType (
 
 ## See Also
 
-[IModuleTypeLoader Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader(v=pandp.50))
+[IModuleTypeLoader Interface](imoduletypeloader-interface-mspp-modularity.md)
 
-[IModuleTypeLoader Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduletypeloader_members(v=pandp.50))
+[IModuleTypeLoader Members](imoduletypeloader-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

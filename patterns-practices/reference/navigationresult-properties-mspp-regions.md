@@ -2,12 +2,12 @@
 TOCTitle: NavigationResult Properties
 Title: 'NavigationResult Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.NavigationResult'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult_properties(v=pandp.50)'
+ms:mtpsurl: 'navigationresult-properties-mspp-regions.md'
 ---
 
 # NavigationResult Properties
 
-The [NavigationResult](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult(v=pandp.50)) type exposes the following members.
+The [NavigationResult](navigationresult-class-mspp-regions.md) type exposes the following members.
 
 ## Properties
 
@@ -47,6 +47,6 @@ Gets the result.
 
 ## See Also
 
-[NavigationResult Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult(v=pandp.50))
+[NavigationResult Class](navigationresult-class-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

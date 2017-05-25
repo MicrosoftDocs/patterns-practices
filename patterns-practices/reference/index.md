@@ -2,7 +2,7 @@
 TOCTitle: 'Prism Class Library 5.0 for WPF'
 Title: 'Prism Class Library 5.0 for WPF'
 ms:assetid: 'da755a31-b302-4bd0-8cf7-04e9307c11b1'
-ms:mtpsurl: 'en-us/library/Dn736262(v=PandP.50.md)'
+ms:mtpsurl: 'index.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: Ref Property
 Title: 'ModuleInfo.Ref Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfo.Ref'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo.ref(v=pandp.50)'
+ms:mtpsurl: 'moduleinfo-ref-property-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -17,7 +17,7 @@ Examples
 
 <span id="exampleToggle"></span>The following are examples of valid Ref values: file://c:/MyProject/Modules/MyModule.dll for a loose DLL in WPF.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -44,8 +44,8 @@ See Also
 --------
 
 
-[ModuleInfo Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))
+[ModuleInfo Class](moduleinfo-class-mspp-modularity.md)
 
-[ModuleInfo Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo_members(v=pandp.50))
+[ModuleInfo Members](moduleinfo-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

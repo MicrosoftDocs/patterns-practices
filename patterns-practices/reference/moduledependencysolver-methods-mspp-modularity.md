@@ -2,14 +2,14 @@
 TOCTitle: ModuleDependencySolver Methods
 Title: 'ModuleDependencySolver Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleDependencySolver'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencysolver_methods(v=pandp.50)'
+ms:mtpsurl: 'moduledependencysolver-methods-mspp-modularity.md'
 ---
 
 Prism Class Library
 
 # ModuleDependencySolver Methods
 
-The [ModuleDependencySolver](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencysolver(v=pandp.50)) type exposes the following members.
+The [ModuleDependencySolver](moduledependencysolver-class-mspp-modularity.md) type exposes the following members.
 
 ## Methods
  
@@ -97,6 +97,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[ModuleDependencySolver Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencysolver(v=pandp.50))
+[ModuleDependencySolver Class](moduledependencysolver-class-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: ClearChildViewsProperty Field
 Title: 'ClearChildViewsRegionBehavior.ClearChildViewsProperty Field (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'F:Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior.ClearChildViewsProperty'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.clearchildviewsproperty(v=pandp.50)'
+ms:mtpsurl: 'clearchildviewsregionbehavior-clearchildviewsproperty-field-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 This attached property can be defined on a view to indicate that regions defined in it must be removed from the region manager when the parent view gets removed from a region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -36,8 +36,8 @@ See Also
 --------
 
 
-[ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior(v=pandp.50))
+[ClearChildViewsRegionBehavior Class](clearchildviewsregionbehavior-class-mspp-regions-behaviors.md)
 
-[ClearChildViewsRegionBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior_members(v=pandp.50))
+[ClearChildViewsRegionBehavior Members](clearchildviewsregionbehavior-members-mspp-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)

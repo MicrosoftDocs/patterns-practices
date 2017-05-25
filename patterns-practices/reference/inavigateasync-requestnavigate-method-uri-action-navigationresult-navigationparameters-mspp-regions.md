@@ -2,7 +2,7 @@
 TOCTitle: 'RequestNavigate Method (Uri, Action(NavigationResult), NavigationParameters)'
 Title: 'INavigateAsync.RequestNavigate Method (Uri, Action(NavigationResult), NavigationParameters) (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.INavigateAsync.RequestNavigate(System.Uri,System.Action{Microsoft.Practices.Prism.Regions.NavigationResult},Microsoft.Practices.Prism.Regions.NavigationParameters)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync.requestnavigate(v=pandp.50)'
+ms:mtpsurl: 'inavigateasync-requestnavigate-method-mspp-regions.md'
 ---
 
 Prism Class Library

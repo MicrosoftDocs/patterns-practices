@@ -2,14 +2,14 @@
 TOCTitle: Item Property
 Title: 'ItemMetadata.Item Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.ItemMetadata.Item'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata.item(v=pandp.50)'
+ms:mtpsurl: 'itemmetadata-item-property-mspp-regions.md'
 ---
 
 # ItemMetadata.Item Property
 
 Gets the wrapped item.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -37,8 +37,8 @@ The wrapped item.
 
 ## See Also
 
-[ItemMetadata Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50))
+[ItemMetadata Class](itemmetadata-class-mspp-regions.md)
 
-[ItemMetadata Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata_members(v=pandp.50))
+[ItemMetadata Members](itemmetadata-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

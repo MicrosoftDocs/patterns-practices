@@ -2,12 +2,12 @@
 TOCTitle: ModuleTypeLoaderNotFoundException Properties
 Title: 'ModuleTypeLoaderNotFoundException Properties (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception_properties(v=pandp.50)'
+ms:mtpsurl: 'moduletypeloadernotfoundexception-properties-mspp-modularity.md'
 ---
 
 # ModuleTypeLoaderNotFoundException Properties
 
-The [ModuleTypeLoaderNotFoundException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception(v=pandp.50)) type exposes the following members.
+The [ModuleTypeLoaderNotFoundException](moduletypeloadernotfoundexception-class-mspp-modularity.md) type exposes the following members.
 
 ## Properties
 
@@ -98,6 +98,6 @@ Gets the method that throws the current exception.
 
 ## See Also
 
-[ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception(v=pandp.50))
+[ModuleTypeLoaderNotFoundException Class](moduletypeloadernotfoundexception-class-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

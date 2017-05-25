@@ -2,7 +2,7 @@
 TOCTitle: ConfigureServiceLocator Method
 Title: 'UnityBootstrapper.ConfigureServiceLocator Method (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.ConfigureServiceLocator'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapper.configureservicelocator(v=pandp.50)'
+ms:mtpsurl: 'unitybootstrapper-configureservicelocator-method-mspp-unityextensions.md'
 ---
 
 Prism Class Library

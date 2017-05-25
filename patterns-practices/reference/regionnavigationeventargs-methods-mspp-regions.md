@@ -2,12 +2,12 @@
 TOCTitle: RegionNavigationEventArgs Methods
 Title: 'RegionNavigationEventArgs Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.RegionNavigationEventArgs'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationeventargs_methods(v=pandp.50)'
+ms:mtpsurl: 'regionnavigationeventargs-methods-mspp-regions.md'
 ---
 
 # RegionNavigationEventArgs Methods
 
-The [RegionNavigationEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationeventargs(v=pandp.50)) type exposes the following members.
+The [RegionNavigationEventArgs](regionnavigationeventargs-class-mspp-regions.md) type exposes the following members.
 
 ## Methods
 
@@ -94,6 +94,6 @@ The [RegionNavigationEventArgs](https://msdn.microsoft.com/en-us/library/microso
 
 ## See Also
 
-[RegionNavigationEventArgs Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationeventargs(v=pandp.50))
+[RegionNavigationEventArgs Class](regionnavigationeventargs-class-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

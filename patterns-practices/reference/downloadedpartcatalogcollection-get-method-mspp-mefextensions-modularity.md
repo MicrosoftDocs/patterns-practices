@@ -2,7 +2,7 @@
 TOCTitle: Get Method
 Title: 'DownloadedPartCatalogCollection.Get Method (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection.Get(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection.get(v=pandp.50)'
+ms:mtpsurl: 'downloadedpartcatalogcollection-get-method-mspp-mefextensions-modularity.md'
 ---
 
 Prism Class Library

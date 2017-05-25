@@ -2,14 +2,14 @@
 TOCTitle: MefRegionNavigationService Class
 Title: 'MefRegionNavigationService Class (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationService'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice(v=pandp.50)'
+ms:mtpsurl: 'mefregionnavigationservice-class-mspp-mefextensions-regions.md'
 ---
 
 # MefRegionNavigationService Class
 
 Exports the MefRegionNavigationService using the Managed Extensibility Framework (MEF).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](mspp-mefextensions-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -34,11 +34,11 @@ Public Class MefRegionNavigationService
 ## Inheritance Hierarchy
 
 &nbsp;&nbsp;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionNavigationService](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice(v=pandp.50))<br/>
+&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionNavigationService](regionnavigationservice-class-mspp-regions.md)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationService
 
 ## See Also
 
-[MefRegionNavigationService Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice_members(v=pandp.50))
+[MefRegionNavigationService Members](mefregionnavigationservice-members-mspp-mefextensions-regions.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace.md)

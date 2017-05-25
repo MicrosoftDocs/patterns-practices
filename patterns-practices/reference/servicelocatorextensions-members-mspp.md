@@ -2,7 +2,7 @@
 TOCTitle: ServiceLocatorExtensions Members
 Title: 'ServiceLocatorExtensions Members (Microsoft.Practices.Prism)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.ServiceLocatorExtensions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.servicelocatorextensions_members(v=pandp.50)'
+ms:mtpsurl: 'servicelocatorextensions-members-mspp.md'
 ---
 
 Prism Class Library

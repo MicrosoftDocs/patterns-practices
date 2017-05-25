@@ -2,14 +2,14 @@
 TOCTitle: CompleteListWithDependencies Method
 Title: 'IModuleCatalog.CompleteListWithDependencies Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.IModuleCatalog.CompleteListWithDependencies(System.Collections.Generic.IEnumerable{Microsoft.Practices.Prism.Modularity.ModuleInfo})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulecatalog.completelistwithdependencies(v=pandp.50)'
+ms:mtpsurl: 'imodulecatalog-completelistwithdependencies-method-mspp-modularity.md'
 ---
 
 # IModuleCatalog.CompleteListWithDependencies Method
 
-Returns the collection of [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))s that contain both the [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))s in modules, but also all the modules they depend on.
+Returns the collection of [ModuleInfo](moduleinfo-class-mspp-modularity.md)s that contain both the [ModuleInfo](moduleinfo-class-mspp-modularity.md)s in modules, but also all the modules they depend on.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,15 +28,15 @@ IEnumerable<ModuleInfo> CompleteListWithDependencies(
 
 *modules* 
 
-Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))&gt;
+Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfo](moduleinfo-class-mspp-modularity.md)&gt;
 
 The modules to get the dependencies for.
 
 ### Return Value
 
-Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))&gt;
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfo](moduleinfo-class-mspp-modularity.md)&gt;
 
-A collection of [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50)) that contains both all [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))s in modules and also all the [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50)) they depend on.
+A collection of [ModuleInfo](moduleinfo-class-mspp-modularity.md) that contains both all [ModuleInfo](moduleinfo-class-mspp-modularity.md)s in modules and also all the [ModuleInfo](moduleinfo-class-mspp-modularity.md) they depend on.
 
 ```VB
 'Declaration
@@ -51,20 +51,20 @@ Function CompleteListWithDependencies (
 
 *modules* 
 
-Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50)))
+Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [ModuleInfo](moduleinfo-class-mspp-modularity.md))
 
 The modules to get the dependencies for.
 
 ### Return Value
 
-Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50)))
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [ModuleInfo](moduleinfo-class-mspp-modularity.md))
 
-A collection of [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50)) that contains both all [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))s in modules and also all the [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50)) they depend on.
+A collection of [ModuleInfo](moduleinfo-class-mspp-modularity.md) that contains both all [ModuleInfo](moduleinfo-class-mspp-modularity.md)s in modules and also all the [ModuleInfo](moduleinfo-class-mspp-modularity.md) they depend on.
 
 ## See Also
 
-[IModuleCatalog Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulecatalog(v=pandp.50))
+[IModuleCatalog Interface](imodulecatalog-interface-mspp-modularity.md)
 
-[IModuleCatalog Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulecatalog_members(v=pandp.50))
+[IModuleCatalog Members](imodulecatalog-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: 'ClearErrors(TProperty) Method (Expression(Func(TProperty)))'
 Title: 'ErrorsContainer(T).ClearErrors(TProperty) Method (Expression(Func(TProperty))) (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.ClearErrors\`\`1(System.Linq.Expressions.Expression{System.Func{\`\`0}})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg406216(v=pandp.50)'
+ms:mtpsurl: 'errorscontainer-t-clearerrors-tproperty-method-expression-func-tproperty-mspp-viewmodel.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Clears the errors for the property indicated by the property expression.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -41,16 +41,16 @@ container.ClearErrors(()=>SomeProperty);
 
 ## See Also
 
-[ErrorsContainer&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))<br/>
-[ErrorsContainer&lt;T&gt; Members](https://msdn.microsoft.com/en-us/library/gg405531(v=pandp.50))<br/>
-[ClearErrors Overload](https://msdn.microsoft.com/en-us/library/gg419151(v=pandp.50))<br/>
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+[ErrorsContainer&lt;T&gt; Class](errorscontainer-t-class-mspp-viewmodel.md)<br/>
+[ErrorsContainer&lt;T&gt; Members](errorscontainer-t-members-mspp-viewmodel.md)<br/>
+[ClearErrors Overload](errorscontainer-t-clearerrors-method-mspp-viewmodel.md)<br/>
+[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace.md)
 
 # ErrorsContainer(Of T).ClearErrors(Of TProperty) Method (Expression(Of Func(Of TProperty)))
 
 Clears the errors for the property indicated by the property expression.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -85,10 +85,10 @@ container.ClearErrors(()=&gt;SomeProperty);
 ## See Also
 
 
-[ErrorsContainer(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))
+[ErrorsContainer(Of T) Class](errorscontainer-t-class-mspp-viewmodel.md)
 
-[ErrorsContainer(Of T) Members](https://msdn.microsoft.com/en-us/library/gg405531(v=pandp.50))
+[ErrorsContainer(Of T) Members](errorscontainer-t-members-mspp-viewmodel.md)
 
-[ClearErrors Overload](https://msdn.microsoft.com/en-us/library/gg419151(v=pandp.50))
+[ClearErrors Overload](errorscontainer-t-clearerrors-method-mspp-viewmodel.md)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace.md)

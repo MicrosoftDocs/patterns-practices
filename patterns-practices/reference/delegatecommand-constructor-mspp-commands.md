@@ -2,7 +2,7 @@
 TOCTitle: DelegateCommand Constructor
 Title: 'DelegateCommand Constructor (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Commands.DelegateCommand.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand.delegatecommand(v=pandp.50)'
+ms:mtpsurl: 'delegatecommand-constructor-action-func-boolean-mspp-commands.md'
 ---
 
 # DelegateCommand Constructor
@@ -38,8 +38,8 @@ Creates a new instance of <a href="https://msdn.microsoft.com/library/microsoft.
 
 ## See Also
 
-[DelegateCommand Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand(v=pandp.50))
+[DelegateCommand Class](delegatecommand-class-mspp-commands.md)
 
-[DelegateCommand Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand_members(v=pandp.50))
+[DelegateCommand Members](delegatecommand-members-mspp-commands.md)
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
+[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)

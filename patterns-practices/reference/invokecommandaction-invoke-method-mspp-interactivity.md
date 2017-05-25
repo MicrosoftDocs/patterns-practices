@@ -2,7 +2,7 @@
 TOCTitle: Invoke Method
 Title: 'InvokeCommandAction.Invoke Method (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.Invoke(System.Object)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.invoke(v=pandp.50)'
+ms:mtpsurl: 'invokecommandaction-invoke-method-mspp-interactivity.md'
 ---
 
 Prism Class Library

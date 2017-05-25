@@ -2,7 +2,7 @@
 TOCTitle: ModuleInfoGroup Constructor
 Title: 'ModuleInfoGroup Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup.moduleinfogroup(v=pandp.50)'
+ms:mtpsurl: 'moduleinfogroup-constructor-mspp-modularity.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: RegionViewRegistry Constructor
 Title: 'RegionViewRegistry Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionViewRegistry.\#ctor(Microsoft.Practices.ServiceLocation.IServiceLocator)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionviewregistry.regionviewregistry(v=pandp.50)'
+ms:mtpsurl: 'regionviewregistry-constructor-mspp-regions.md'
 ---
 
 Prism Class Library

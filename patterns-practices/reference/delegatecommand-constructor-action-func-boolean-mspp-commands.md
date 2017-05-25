@@ -2,16 +2,16 @@
 TOCTitle: 'DelegateCommand Constructor (Action, Func(Boolean))'
 Title: 'DelegateCommand Constructor (Action, Func(Boolean)) (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand.\#ctor(System.Action,System.Func{System.Boolean})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand.delegatecommand(v=pandp.50)'
+ms:mtpsurl: 'delegatecommand-constructor-action-func-boolean-mspp-commands.md'
 ---
 
 Prism Class Library
 
 # DelegateCommand Constructor (Action, Func(Of Boolean))
 
-Creates a new instance of [DelegateCommand](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand(v=pandp.50)) with the [Action](http://msdn.microsoft.com/en-us/library/bb534741) to invoke on execution and a Func to query for determining if the command can execute.
+Creates a new instance of [DelegateCommand](delegatecommand-class-mspp-commands.md) with the [Action](http://msdn.microsoft.com/en-us/library/bb534741) to invoke on execution and a Func to query for determining if the command can execute.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Commands](mspp-commands-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -47,10 +47,10 @@ Public Sub New (
 
 ## See Also
 
-[DelegateCommand Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand(v=pandp.50))
+[DelegateCommand Class](delegatecommand-class-mspp-commands.md)
 
-[DelegateCommand Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand_members(v=pandp.50))
+[DelegateCommand Members](delegatecommand-members-mspp-commands.md)
 
 DelegateCommand Overload
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
+[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)

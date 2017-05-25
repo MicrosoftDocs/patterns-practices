@@ -2,7 +2,7 @@
 TOCTitle: GoForward Method
 Title: 'IRegionNavigationJournal.GoForward Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal.GoForward'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal.goforward(v=pandp.50)'
+ms:mtpsurl: 'iregionnavigationjournal-goforward-method-mspp-regions.md'
 ---
 
 Prism Class Library

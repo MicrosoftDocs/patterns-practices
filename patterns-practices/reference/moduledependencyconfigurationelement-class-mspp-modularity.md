@@ -2,7 +2,7 @@
 TOCTitle: ModuleDependencyConfigurationElement Class
 Title: 'ModuleDependencyConfigurationElement Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement(v=pandp.50)'
+ms:mtpsurl: 'moduledependencyconfigurationelement-class-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 A [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) for module dependencies.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -39,6 +39,6 @@ Public Class ModuleDependencyConfigurationElement
 ## See Also
 
 
-[ModuleDependencyConfigurationElement Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement_members(v=pandp.50))
+[ModuleDependencyConfigurationElement Members](moduledependencyconfigurationelement-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

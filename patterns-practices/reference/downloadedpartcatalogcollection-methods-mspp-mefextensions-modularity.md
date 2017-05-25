@@ -2,7 +2,7 @@
 TOCTitle: DownloadedPartCatalogCollection Methods
 Title: 'DownloadedPartCatalogCollection Methods (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection_methods(v=pandp.50)'
+ms:mtpsurl: 'downloadedpartcatalogcollection-methods-mspp-mefextensions-modularity.md'
 ---
 
 Prism Class Library

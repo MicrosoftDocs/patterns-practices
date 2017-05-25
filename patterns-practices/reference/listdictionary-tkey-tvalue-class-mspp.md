@@ -2,7 +2,7 @@
 TOCTitle: 'ListDictionary(TKey, TValue) Class'
 Title: 'ListDictionary(TKey, TValue) Class (Microsoft.Practices.Prism)'
 ms:assetid: 'T:Microsoft.Practices.Prism.ListDictionary\`2'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg431434(v=pandp.50)'
+ms:mtpsurl: 'listdictionary-tkey-tvalue-class-mspp.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 A dictionary of lists.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism](mspp-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -41,15 +41,15 @@ public sealed class ListDictionary<TKey, TValue> : IDictionary<TKey, IList<TValu
     Microsoft.Practices.Prism.ListDictionary<TKey, TValue>
 
 ## See Also
-[ListDictionary<TKey, TValue> Members](https://msdn.microsoft.com/en-us/library/gg430787(v=pandp.50))<br/>
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+[ListDictionary<TKey, TValue> Members](listdictionary-tkey-tvalue-members-mspp.md)<br/>
+[Microsoft.Practices.Prism Namespace](mspp-namespace.md)
     
 
 # ListDictionary(Of TKey, TValue) Class
 
 A dictionary of lists.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism](mspp-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -84,5 +84,5 @@ Public NotInheritable Class ListDictionary(Of TKey, TValue)
 
 ## See Also
 
-[ListDictionary(Of TKey, TValue) Members](https://msdn.microsoft.com/en-us/library/gg430787(v=pandp.50))<br/>
- [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+[ListDictionary(Of TKey, TValue) Members](listdictionary-tkey-tvalue-members-mspp.md)<br/>
+ [Microsoft.Practices.Prism Namespace](mspp-namespace.md)

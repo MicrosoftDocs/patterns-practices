@@ -2,7 +2,7 @@
 TOCTitle: RegionNavigationContentLoader Members
 Title: 'RegionNavigationContentLoader Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationcontentloader_members(v=pandp.50)'
+ms:mtpsurl: 'regionnavigationcontentloader-members-mspp-regions.md'
 ---
 
 Prism Class Library

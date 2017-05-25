@@ -2,7 +2,7 @@
 TOCTitle: Initialize Method
 Title: 'IModuleInitializer.Initialize Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.IModuleInitializer.Initialize(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduleinitializer.initialize(v=pandp.50)'
+ms:mtpsurl: 'imoduleinitializer-initialize-method-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Initializes the specified module.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -37,13 +37,13 @@ Sub Initialize (
 
 *moduleInfo*
 
-	Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50))
+	Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity.md)
 	The module to initialize
 
 ## See Also
 
-[IModuleInitializer Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduleinitializer(v=pandp.50))
+[IModuleInitializer Interface](imoduleinitializer-interface-mspp-modularity.md)
 
-[IModuleInitializer Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imoduleinitializer_members(v=pandp.50))
+[IModuleInitializer Members](imoduleinitializer-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

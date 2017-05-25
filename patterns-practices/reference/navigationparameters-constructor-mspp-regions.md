@@ -2,15 +2,15 @@
 TOCTitle: NavigationParameters Constructor
 Title: 'NavigationParameters Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationParameters.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters.navigationparameters(v=pandp.50)'
+ms:mtpsurl: 'navigationparameters-constructor-mspp-regions.md'
 ---
 
 
 # NavigationParameters Constructor
 
-Initializes a new instance of the [NavigationParameters](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters(v=pandp.50)) class.
+Initializes a new instance of the [NavigationParameters](navigationparameters-class-mspp-regions.md) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -30,10 +30,10 @@ Public Sub New
 ## See Also
 
 
-[NavigationParameters Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters(v=pandp.50))
+[NavigationParameters Class](navigationparameters-class-mspp-regions.md)
 
-[NavigationParameters Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters_members(v=pandp.50))
+[NavigationParameters Members](navigationparameters-members-mspp-regions.md)
 
 NavigationParameters Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

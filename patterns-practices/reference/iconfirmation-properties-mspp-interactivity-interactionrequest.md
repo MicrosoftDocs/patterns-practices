@@ -2,7 +2,7 @@
 TOCTitle: IConfirmation Properties
 Title: 'IConfirmation Properties (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.IConfirmation'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation_properties(v=pandp.50)'
+ms:mtpsurl: 'iconfirmation-properties-mspp-interactivity-interactionrequest.md'
 ---
 
 Prism Class Library

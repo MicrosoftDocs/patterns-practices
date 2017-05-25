@@ -2,14 +2,14 @@
 TOCTitle: SyncRegionContextWithHostBehavior Properties
 Title: 'SyncRegionContextWithHostBehavior Properties (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior_properties(v=pandp.50)'
+ms:mtpsurl: 'syncregioncontextwithhostbehavior-properties-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library
 
 # SyncRegionContextWithHostBehavior Properties
 
-The [SyncRegionContextWithHostBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior(v=pandp.50)) type exposes the following members.
+The [SyncRegionContextWithHostBehavior](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors.md) type exposes the following members.
 
 ## Properties
  
@@ -51,6 +51,6 @@ Behavior's attached region.
 
 ## See Also
 
-[SyncRegionContextWithHostBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior(v=pandp.50))
+[SyncRegionContextWithHostBehavior Class](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)

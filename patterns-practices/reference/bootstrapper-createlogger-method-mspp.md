@@ -2,7 +2,7 @@
 TOCTitle: CreateLogger Method
 Title: 'Bootstrapper.CreateLogger Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.CreateLogger'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper.createlogger(v=pandp.50)'
+ms:mtpsurl: 'bootstrapper-createlogger-method-mspp.md'
 ---
 
 Prism Class Library

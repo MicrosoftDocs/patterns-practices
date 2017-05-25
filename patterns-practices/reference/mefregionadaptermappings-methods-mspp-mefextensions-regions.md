@@ -2,14 +2,14 @@
 TOCTitle: MefRegionAdapterMappings Methods
 Title: 'MefRegionAdapterMappings Methods (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionAdapterMappings'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings_methods(v=pandp.50)'
+ms:mtpsurl: 'mefregionadaptermappings-methods-mspp-mefextensions-regions.md'
 ---
 
 Prism Class Library
 
 # MefRegionAdapterMappings Methods
 
-The [MefRegionAdapterMappings](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings(v=pandp.50)) type exposes the following members.
+The [MefRegionAdapterMappings](mefregionadaptermappings-class-mspp-mefextensions-regions.md) type exposes the following members.
 
 ## Methods
 
@@ -93,6 +93,6 @@ Returns a string that represents the current object.
 ## See Also
 
 
-[MefRegionAdapterMappings Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings(v=pandp.50))
+[MefRegionAdapterMappings Class](mefregionadaptermappings-class-mspp-mefextensions-regions.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace.md)

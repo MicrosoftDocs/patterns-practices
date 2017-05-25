@@ -2,7 +2,7 @@
 TOCTitle: HasErrors Property
 Title: 'ErrorsContainer(T).HasErrors Property (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'P:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.HasErrors'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg431401(v=pandp.50)'
+ms:mtpsurl: 'errorscontainer-t-haserrors-property-mspp-viewmodel.md'
 ---
 
 Prism Class Library

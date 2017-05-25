@@ -2,18 +2,18 @@
 TOCTitle: SubscriptionToken Property
 Title: 'IEventSubscription.SubscriptionToken Property (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'P:Microsoft.Practices.Prism.PubSubEvents.IEventSubscription.SubscriptionToken'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription.subscriptiontoken(v=pandp.50)'
+ms:mtpsurl: 'ieventsubscription-subscriptiontoken-property-mspp-pubsubevents.md'
 ---
 
 # IEventSubscription.SubscriptionToken Property
 
 
-Gets or sets a SubscriptionToken that identifies this [IEventSubscription](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50)).
+Gets or sets a SubscriptionToken that identifies this [IEventSubscription](ieventsubscription-interface-mspp-pubsubevents.md).
 =======
 IEventSubscription.SubscriptionToken Property
 =================================================
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -37,9 +37,9 @@ Property SubscriptionToken As SubscriptionToken
 ```
 ### Property Value
 
-Type: [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50))
+Type: [SubscriptionToken](subscriptiontoken-class-mspp-pubsubevents.md)
 
-A token that identifies this [IEventSubscription](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50)).
+A token that identifies this [IEventSubscription](ieventsubscription-interface-mspp-pubsubevents.md).
 =======
 
 [IEventSubscription Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription)
@@ -47,8 +47,8 @@ A token that identifies this [IEventSubscription](https://msdn.microsoft.com/en-
 
 ## See Also
 
-[IEventSubscription Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50))
+[IEventSubscription Interface](ieventsubscription-interface-mspp-pubsubevents.md)
 
 IEventSubscription Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50))
+[Microsoft.Practices.Prism.PubSubEvents Namespace](ieventsubscription-interface-mspp-pubsubevents.md)

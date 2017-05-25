@@ -2,14 +2,14 @@
 TOCTitle: InteractionRequestedEventArgs Constructor
 Title: 'InteractionRequestedEventArgs Constructor (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestedEventArgs.\#ctor(Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification,System.Action)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs.interactionrequestedeventargs(v=pandp.50)'
+ms:mtpsurl: 'interactionrequestedeventargs-constructor-mspp-interactivity-interactionrequest.md'
 ---
 
 # InteractionRequestedEventArgs Constructor
 
-Constructs a new instance of [InteractionRequestedEventArgs](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs(v=pandp.50))
+Constructs a new instance of [InteractionRequestedEventArgs](interactionrequestedeventargs-class-mspp-interactivity-interactionrequest.md)
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](mspp-interactivity-interactionrequest-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -35,7 +35,7 @@ Public Sub New (
 
 *context*
 
-Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.inotification(v=pandp.50))
+Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](inotification-interface-mspp-interactivity-interactionrequest.md)
 
 *callback*
 
@@ -43,8 +43,8 @@ Type: [System.Action](http://msdn.microsoft.com/en-us/library/bb534741)
 
 ## See Also
 
-[InteractionRequestedEventArgs Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs(v=pandp.50))
+[InteractionRequestedEventArgs Class](interactionrequestedeventargs-class-mspp-interactivity-interactionrequest.md)
 
-[InteractionRequestedEventArgs Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs_members(v=pandp.50))
+[InteractionRequestedEventArgs Members](interactionrequestedeventargs-members-mspp-interactivity-interactionrequest.md)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)

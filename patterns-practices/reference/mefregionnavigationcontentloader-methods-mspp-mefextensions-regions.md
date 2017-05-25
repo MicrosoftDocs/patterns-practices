@@ -2,7 +2,7 @@
 TOCTitle: MefRegionNavigationContentLoader Methods
 Title: 'MefRegionNavigationContentLoader Methods (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationContentLoader'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader_methods(v=pandp.50)'
+ms:mtpsurl: 'mefregionnavigationcontentloader-methods-mspp-mefextensions-regions.md'
 ---
 
 Prism Class Library

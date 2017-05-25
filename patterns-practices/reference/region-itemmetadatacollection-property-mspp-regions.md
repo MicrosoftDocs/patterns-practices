@@ -2,7 +2,7 @@
 TOCTitle: ItemMetadataCollection Property
 Title: 'Region.ItemMetadataCollection Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.ItemMetadataCollection'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.itemmetadatacollection(v=pandp.50)'
+ms:mtpsurl: 'region-itemmetadatacollection-property-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -12,7 +12,7 @@ Region.ItemMetadataCollection Property
 
 Gets the collection with all the views along with their metadata.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -34,16 +34,16 @@ Protected Overridable ReadOnly Property ItemMetadataCollection As ObservableColl
 
 ### Property Value
 
-Type: [ObservableCollection](http://msdn.microsoft.com/en-us/library/ms668604)&lt;[ItemMetadata](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50))&gt;
+Type: [ObservableCollection](http://msdn.microsoft.com/en-us/library/ms668604)&lt;[ItemMetadata](itemmetadata-class-mspp-regions.md)&gt;
 
-An [ObservableCollection&lt;T&gt;](http://msdn.microsoft.com/en-us/library/ms668604) of [ItemMetadata](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50)) with all the added views.
+An [ObservableCollection&lt;T&gt;](http://msdn.microsoft.com/en-us/library/ms668604) of [ItemMetadata](itemmetadata-class-mspp-regions.md) with all the added views.
 
 See Also
 --------
 
 
-[Region Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region(v=pandp.50))
+[Region Class](region-class-mspp-regions.md)
 
-[Region Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region_members(v=pandp.50))
+[Region Members](region-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

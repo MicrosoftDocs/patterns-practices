@@ -2,7 +2,7 @@
 TOCTitle: RequestNavigate Method
 Title: 'Region.RequestNavigate Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.Region.RequestNavigate'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.requestnavigate(v=pandp.50)'
+ms:mtpsurl: 'region-requestnavigate-method-mspp-regions.md'
 ---
 
 Prism Class Library

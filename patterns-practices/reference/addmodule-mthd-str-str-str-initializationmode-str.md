@@ -2,16 +2,16 @@
 TOCTitle: 'AddModule Method (String, String, String, InitializationMode, String[])'
 Title: 'ModuleCatalog.AddModule Method (String, String, String, InitializationMode, String[]) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddModule(System.String,System.String,System.String,Microsoft.Practices.Prism.Modularity.InitializationMode,System.String[])'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.addmodule(v=pandp.50)'
+ms:mtpsurl: 'addmodule-mthd-str-str-initializationmode-str.md'
 ---
 
 Prism Class Library
 
 # ModuleCatalog.AddModule Method (String, String, String, InitializationMode, String[])
 
-Adds a groupless [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50)) to the catalog.
+Adds a groupless [ModuleInfo](moduleinfo-class-mspp-modularity.md) to the catalog.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -48,36 +48,36 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Reference to the location of the module to be added assembly.
 
 *initializationMode*  
-Type: [Microsoft.Practices.Prism.Modularity.InitializationMode](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.initializationmode(v=pandp.50))
+Type: [Microsoft.Practices.Prism.Modularity.InitializationMode](initializationmode-enumeration-mspp-modularity.md)
 
 Stage on which the module to be added will be initialized.
 
 *dependsOn*  
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)[]
 
-Collection of module names ([ModuleName](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo.modulename(v=pandp.50))) of the modules on which the module to be added logically depends on.
+Collection of module names ([ModuleName](moduleinfo-modulename-property-mspp-modularity.md)) of the modules on which the module to be added logically depends on.
 
 ### Return Value
 
-Type: [ModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50))
+Type: [ModuleCatalog](modulecatalog-class-mspp-modularity.md)
 
-The same [ModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50)) instance with the added module.
+The same [ModuleCatalog](modulecatalog-class-mspp-modularity.md) instance with the added module.
 
 ## See Also
 
-[ModuleCatalog Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50))
+[ModuleCatalog Class](modulecatalog-class-mspp-modularity.md)
 
-[ModuleCatalog Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog_members(v=pandp.50))
+[ModuleCatalog Members](modulecatalog-members-mspp-modularity.md)
 
-[AddModule Overload](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.addmodule(v=pandp.50))
+[AddModule Overload](addmodule-mthd-str-str-initializationmode-str.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
 
 # ModuleCatalog.AddModule Method (String, String, String, InitializationMode, String())
 
-Adds a groupless [ModuleInfo](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo(v=pandp.50)) to the catalog.
+Adds a groupless [ModuleInfo](moduleinfo-class-mspp-modularity.md) to the catalog.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -115,27 +115,27 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Reference to the location of the module to be added assembly.
 
 *initializationMode*  
-Type: [Microsoft.Practices.Prism.Modularity.InitializationMode](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.initializationmode(v=pandp.50))
+Type: [Microsoft.Practices.Prism.Modularity.InitializationMode](initializationmode-enumeration-mspp-modularity.md)
 
 Stage on which the module to be added will be initialized.
 
 *dependsOn*  
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)()
 
-Collection of module names ([ModuleName](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfo.modulename(v=pandp.50))) of the modules on which the module to be added logically depends on.
+Collection of module names ([ModuleName](moduleinfo-modulename-property-mspp-modularity.md)) of the modules on which the module to be added logically depends on.
 
 ### Return Value
 
-Type: [ModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50))
+Type: [ModuleCatalog](modulecatalog-class-mspp-modularity.md)
 
-The same [ModuleCatalog](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50)) instance with the added module.
+The same [ModuleCatalog](modulecatalog-class-mspp-modularity.md) instance with the added module.
 
 ## See Also
 
-[ModuleCatalog Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog(v=pandp.50))
+[ModuleCatalog Class](modulecatalog-class-mspp-modularity.md)
 
-[ModuleCatalog Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog_members(v=pandp.50))
+[ModuleCatalog Members](modulecatalog-members-mspp-modularity.md)
 
-[AddModule Overload](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.addmodule(v=pandp.50))
+[AddModule Overload](addmodule-mthd-str-str-initializationmode-str.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

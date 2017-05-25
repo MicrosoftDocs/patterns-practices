@@ -2,7 +2,7 @@
 TOCTitle: IEventAggregator Methods
 Title: 'IEventAggregator Methods (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.IEventAggregator'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventaggregator_methods(v=pandp.50)'
+ms:mtpsurl: 'ieventaggregator-methods-mspp-pubsubevents.md'
 ---
 
 Prism Class Library

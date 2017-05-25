@@ -2,7 +2,7 @@
 TOCTitle: MefRegionActiveAwareBehavior Class
 Title: 'MefRegionActiveAwareBehavior Class (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionActiveAwareBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionactiveawarebehavior(v=pandp.50)'
+ms:mtpsurl: 'mefregionactiveawarebehavior-class-mspp-mefextensions-regions-behaviors.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Exports the RegionActiveAwareBehavior using the Managed Extensibility Framework (MEF).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](mspp-mefextensions-regions-behaviors-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -36,11 +36,11 @@ This allows the MefBootstrapper to provide this class as a default implementatio
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-  [Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior(v=pandp.50))
+  [Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior](regionactiveawarebehavior-class-mspp-regions-behaviors.md)
     Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionActiveAwareBehavior
 
 ## See Also
 
-[MefRegionActiveAwareBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionactiveawarebehavior_members(v=pandp.50))
+[MefRegionActiveAwareBehavior Members](mefregionactiveawarebehavior-members-mspp-mefextensions-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace.md)

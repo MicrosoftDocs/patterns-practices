@@ -2,14 +2,14 @@
 TOCTitle: ModuleInitializer Methods
 Title: 'ModuleInitializer Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleInitializer'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer_methods(v=pandp.50)'
+ms:mtpsurl: 'moduleinitializer-methods-mspp-modularity.md'
 ---
 
 Prism Class Library
 
 # ModuleInitializer Methods
 
-The [ModuleInitializer](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer(v=pandp.50)) type exposes the following members.
+The [ModuleInitializer](moduleinitializer-class-mspp-modularity.md) type exposes the following members.
 
 ## Methods
  
@@ -105,6 +105,6 @@ Returns a string that represents the current object.
 ## See Also
 
 
-[ModuleInitializer Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer(v=pandp.50))
+[ModuleInitializer Class](moduleinitializer-class-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

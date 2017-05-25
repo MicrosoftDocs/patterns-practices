@@ -2,7 +2,7 @@
 TOCTitle: ModularityException Properties
 Title: 'ModularityException Properties (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModularityException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception_properties(v=pandp.50)'
+ms:mtpsurl: 'modularityexception-properties-mspp-modularity.md'
 ---
 
 Prism Class Library

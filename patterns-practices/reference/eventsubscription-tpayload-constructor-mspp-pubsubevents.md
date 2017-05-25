@@ -2,14 +2,14 @@
 TOCTitle: 'EventSubscription(TPayload) Constructor'
 Title: 'EventSubscription(TPayload) Constructor (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventSubscription\`1.\#ctor(Microsoft.Practices.Prism.PubSubEvents.IDelegateReference,Microsoft.Practices.Prism.PubSubEvents.IDelegateReference)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn683960(v=pandp.50)'
+ms:mtpsurl: 'eventsubscription-tpayload-constructor-mspp-pubsubevents.md'
 ---
 
 # EventSubscription&lt;TPayload&gt; Constructor
 
-Creates a new instance of [EventSubscription&lt;TPayload&gt;](https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)).
+Creates a new instance of [EventSubscription&lt;TPayload&gt;](eventsubscription-tpayload-class-mspp-pubsubevents.md).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -27,13 +27,13 @@ public EventSubscription(
 
 *actionReference*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](idelegatereference-interface-mspp-pubsubevents.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A reference to a delegate of type [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8).
 
 *filterReference*  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](idelegatereference-interface-mspp-pubsubevents.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A reference to a delegate of type [Predicate&ltT&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz).
 
@@ -46,17 +46,17 @@ public EventSubscription(
 
 ## See Also
 
-[EventSubscription&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50))
+[EventSubscription&lt;TPayload&gt; Class](eventsubscription-tpayload-class-mspp-pubsubevents.md)
 
 EventSubscription&lt;TPayload&gt; Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
 
 # EventSubscription(Of TPayload) Constructor 
 
-Creates a new instance of [EventSubscription(Of TPayload)](https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)).
+Creates a new instance of [EventSubscription(Of TPayload)](eventsubscription-tpayload-class-mspp-pubsubevents.md).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -75,13 +75,13 @@ Public Sub New (
 
 *actionReference*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](idelegatereference-interface-mspp-pubsubevents.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A reference to a delegate of type [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8).
 
 *filterReference*  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](idelegatereference-interface-mspp-pubsubevents.md)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A reference to a delegate of type [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz).
 
@@ -94,8 +94,8 @@ Public Sub New (
 
 ## See Also
 
-[EventSubscription(Of TPayload) Class](https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50))
+[EventSubscription(Of TPayload) Class](eventsubscription-tpayload-class-mspp-pubsubevents.md)
 
 EventSubscription(Of TPayload) Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)

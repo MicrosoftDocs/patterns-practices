@@ -2,14 +2,14 @@
 TOCTitle: Register Method
 Title: 'ViewModelLocationProvider.Register Method (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Mvvm.ViewModelLocationProvider.Register(System.String,System.Func{System.Object})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.viewmodellocationprovider.register(v=pandp.50)'
+ms:mtpsurl: 'viewmodellocationprovider-register-method-mspp-mvvm.md'
 ---
 
 # ViewModelLocationProvider.Register Method 
 
 Registers the view model factory for the specified view type name.
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](mspp-mvvm-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -61,8 +61,8 @@ Public Shared Sub Register (
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The viewmodel factory.
 
 ## See Also
-[ViewModelLocationProvider Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.viewmodellocationprovider(v=pandp.50))
+[ViewModelLocationProvider Class](viewmodellocationprovider-class-mspp-mvvm.md)
 
-[ViewModelLocationProvider Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.viewmodellocationprovider_members(v=pandp.50))
+[ViewModelLocationProvider Members](viewmodellocationprovider-members-mspp-mvvm.md)
 
-[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm(v=pandp.50))
+[Microsoft.Practices.Prism.Mvvm Namespace](mspp-mvvm-namespace.md)

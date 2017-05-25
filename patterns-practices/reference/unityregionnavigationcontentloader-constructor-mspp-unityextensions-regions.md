@@ -2,14 +2,14 @@
 TOCTitle: UnityRegionNavigationContentLoader Constructor
 Title: 'UnityRegionNavigationContentLoader Constructor (Microsoft.Practices.Prism.UnityExtensions.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLoader.\#ctor(Microsoft.Practices.ServiceLocation.IServiceLocator,Microsoft.Practices.Unity.IUnityContainer)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader.unityregionnavigationcontentloader(v=pandp.50)'
+ms:mtpsurl: 'unityregionnavigationcontentloader-constructor-mspp-unityextensions-regions.md'
 ---
 
 # UnityRegionNavigationContentLoader Constructor
 
-Initializes a new instance of the [UnityRegionNavigationContentLoader](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader(v=pandp.50)) class.
+Initializes a new instance of the [UnityRegionNavigationContentLoader](unityregionnavigationcontentloader-class-mspp-unityextensions-regions.md) class.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](mspp-unityextensions-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
@@ -49,8 +49,8 @@ Public Sub New (
 
 ## See Also
 
-[UnityRegionNavigationContentLoader Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader(v=pandp.50))
+[UnityRegionNavigationContentLoader Class](unityregionnavigationcontentloader-class-mspp-unityextensions-regions.md)
 
-[UnityRegionNavigationContentLoader Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader_members(v=pandp.50))
+[UnityRegionNavigationContentLoader Members](unityregionnavigationcontentloader-members-mspp-unityextensions-regions.md)
 
-[Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions(v=pandp.50))
+[Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](mspp-unityextensions-regions-namespace.md)

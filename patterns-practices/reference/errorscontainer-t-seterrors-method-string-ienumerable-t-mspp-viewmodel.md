@@ -2,7 +2,7 @@
 TOCTitle: 'SetErrors Method (String, IEnumerable(T))'
 Title: 'ErrorsContainer(T).SetErrors Method (String, IEnumerable(T)) (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.SetErrors(System.String,System.Collections.Generic.IEnumerable{\`0})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg419027(v=pandp.50)'
+ms:mtpsurl: 'errorscontainer-t-seterrors-method-string-ienumerable-t-mspp-viewmodel.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Sets the validation errors for the specified property.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -35,7 +35,7 @@ public void SetErrors(
 
 *newValidationResults*  
 
-	Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)<[T](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))>
+	Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)<[T](errorscontainer-t-class-mspp-viewmodel.md)>
 	
 	The new validation errors.
 
@@ -45,19 +45,19 @@ If a change is detected then the errors changed event is raised.
 
 ## See Also
 
-[ErrorsContainer&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))
+[ErrorsContainer&lt;T&gt; Class](errorscontainer-t-class-mspp-viewmodel.md)
 
-[ErrorsContainer&lt;T&gt; Members](https://msdn.microsoft.com/en-us/library/gg405531(v=pandp.50))
+[ErrorsContainer&lt;T&gt; Members](errorscontainer-t-members-mspp-viewmodel.md)
 
-[SetErrors Overload](https://msdn.microsoft.com/en-us/library/gg419152(v=pandp.50))
+[SetErrors Overload](errorscontainer-t-seterrors-method-mspp-viewmodel.md)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace.md)
 
 # ErrorsContainer(Of T).SetErrors Method (String, IEnumerable(Of T))
 
 Sets the validation errors for the specified property.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -81,7 +81,7 @@ Public Sub SetErrors (
 
 *newValidationResults*  
 
-	Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [T](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50)))
+	Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [T](errorscontainer-t-class-mspp-viewmodel.md))
 	
 	The new validation errors.
 
@@ -89,7 +89,7 @@ Public Sub SetErrors (
 If a change is detected then the errors changed event is raised.
 
 ## See Also
-[ErrorsContainer(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))<br/>
-[ErrorsContainer(Of T) Members](https://msdn.microsoft.com/en-us/library/gg405531(v=pandp.50))<br/>
-[SetErrors Overload](https://msdn.microsoft.com/en-us/library/gg419152(v=pandp.50))<br/>
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+[ErrorsContainer(Of T) Class](errorscontainer-t-class-mspp-viewmodel.md)<br/>
+[ErrorsContainer(Of T) Members](errorscontainer-t-members-mspp-viewmodel.md)<br/>
+[SetErrors Overload](errorscontainer-t-seterrors-method-mspp-viewmodel.md)<br/>
+[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace.md)

@@ -2,14 +2,14 @@
 TOCTitle: GetContractFromNavigationContext Method
 Title: 'RegionNavigationContentLoader.GetContractFromNavigationContext Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader.GetContractFromNavigationContext(Microsoft.Practices.Prism.Regions.NavigationContext)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationcontentloader.getcontractfromnavigationcontext(v=pandp.50)'
+ms:mtpsurl: 'regionnavigationcontentloader-getcontractfromnavigationcontext-method-mspp-regions.md'
 ---
 
 # RegionNavigationContentLoader.GetContractFromNavigationContext Method
 
-Returns the candidate TargetContract based on the [NavigationContext](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext(v=pandp.50)).
+Returns the candidate TargetContract based on the [NavigationContext](navigationcontext-class-mspp-regions.md).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -35,18 +35,18 @@ Protected Overridable Function GetContractFromNavigationContext (
 
 *navigationContext*
 
-    Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext(v=pandp.50))
+    Type: [Microsoft.Practices.Prism.Regions.NavigationContext](navigationcontext-class-mspp-regions.md)
     The navigation contract.
 
 ### Return Value
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)<br/>
-The candidate contract to seek within the [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)) and to use, if not found, when resolving from the container.
+The candidate contract to seek within the [IRegion](iregion-interface-mspp-regions.md) and to use, if not found, when resolving from the container.
 
 ## See Also
 
-[RegionNavigationContentLoader Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationcontentloader(v=pandp.50))
+[RegionNavigationContentLoader Class](regionnavigationcontentloader-class-mspp-regions.md)
 
-[RegionNavigationContentLoader Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationcontentloader_members(v=pandp.50))
+[RegionNavigationContentLoader Members](regionnavigationcontentloader-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

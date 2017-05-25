@@ -2,7 +2,7 @@
 TOCTitle: InteractionRequestedEventArgs Class
 Title: 'InteractionRequestedEventArgs Class (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestedEventArgs'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs(v=pandp.50)'
+ms:mtpsurl: 'interactionrequestedeventargs-class-mspp-interactivity-interactionrequest.md'
 ---
 
 Prism Class Library

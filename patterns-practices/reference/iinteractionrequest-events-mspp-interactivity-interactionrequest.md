@@ -2,7 +2,7 @@
 TOCTitle: IInteractionRequest Events
 Title: 'IInteractionRequest Events (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.IInteractionRequest'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest_events(v=pandp.50)'
+ms:mtpsurl: 'iinteractionrequest-events-mspp-interactivity-interactionrequest.md'
 ---
 
 Prism Class Library

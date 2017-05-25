@@ -2,7 +2,7 @@
 TOCTitle: IRegionNavigationService Interface
 Title: 'IRegionNavigationService Interface (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.IRegionNavigationService'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice(v=pandp.50)'
+ms:mtpsurl: 'iregionnavigationservice-interface-mspp-regions.md'
 ---
 
 Prism Class Library

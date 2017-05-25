@@ -2,7 +2,7 @@
 TOCTitle: GetDependentModulesInner Method
 Title: 'ModuleCatalog.GetDependentModulesInner Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.GetDependentModulesInner(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.getdependentmodulesinner(v=pandp.50)'
+ms:mtpsurl: 'modulecatalog-getdependentmodulesinner-method-mspp-modularity.md'
 ---
 
 Prism Class Library

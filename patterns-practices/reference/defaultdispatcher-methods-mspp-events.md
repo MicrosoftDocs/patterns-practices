@@ -2,7 +2,7 @@
 TOCTitle: DefaultDispatcher Methods
 Title: 'DefaultDispatcher Methods (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Events.DefaultDispatcher'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.defaultdispatcher_methods(v=pandp.50)'
+ms:mtpsurl: 'defaultdispatcher-methods-mspp-events.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: CreateRegion Method
 Title: 'RegionAdapterBase(T).CreateRegion Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionAdapterBase\`1.CreateRegion'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg418935(v=pandp.50)'
+ms:mtpsurl: 'regionadapterbase-t-createregion-method-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -10,9 +10,9 @@ Prism Class Library
 RegionAdapterBase(Of T).CreateRegion Method
 =================================================================
 
-Template method to create a new instance of [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)) that will be used to adapt the object.
+Template method to create a new instance of [IRegion](iregion-interface-mspp-regions.md) that will be used to adapt the object.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,16 +32,16 @@ Template method to create a new instance of [IRegion](https://msdn.microsoft.com
 
 ### Return Value
 
-Type: [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50))
+Type: [IRegion](iregion-interface-mspp-regions.md)
 
-A new instance of [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)).
+A new instance of [IRegion](iregion-interface-mspp-regions.md).
 
 See Also
 --------
 
 
-[RegionAdapterBase(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431546(v=pandp.50))
+[RegionAdapterBase(Of T) Class](regionadapterbase-t-class-mspp-regions.md)
 
-[RegionAdapterBase(Of T) Members](https://msdn.microsoft.com/en-us/library/gg405501(v=pandp.50))
+[RegionAdapterBase(Of T) Members](regionadapterbase-t-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

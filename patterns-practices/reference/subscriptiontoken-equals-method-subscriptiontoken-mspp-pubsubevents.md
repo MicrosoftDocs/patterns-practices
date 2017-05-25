@@ -2,14 +2,14 @@
 TOCTitle: 'Equals Method (SubscriptionToken)'
 Title: 'SubscriptionToken.Equals Method (SubscriptionToken) (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken.Equals(Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken.equals(v=pandp.50)'
+ms:mtpsurl: 'subscriptiontoken-equals-method-mspp-pubsubevents.md'
 ---
 
 # SubscriptionToken.Equals Method (SubscriptionToken)
 
 Indicates whether the current object is equal to another object of the same type.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -25,7 +25,7 @@ public bool Equals(
 
 *other*
 
-Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50))
+Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](subscriptiontoken-class-mspp-pubsubevents.md)
 	An object to compare with this object.
 
 ### Return Value
@@ -48,7 +48,7 @@ Public Function Equals (
 
 *other*
 
-Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50))
+Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](subscriptiontoken-class-mspp-pubsubevents.md)
 	An object to compare with this object.
 
 ### Return Value
@@ -61,10 +61,10 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
 
 ## See Also
 
-[SubscriptionToken Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50))
+[SubscriptionToken Class](subscriptiontoken-class-mspp-pubsubevents.md)
 
 SubscriptionToken Members
 
-[Equals Overload](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken.equals(v=pandp.50))
+[Equals Overload](subscriptiontoken-equals-method-mspp-pubsubevents.md)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)

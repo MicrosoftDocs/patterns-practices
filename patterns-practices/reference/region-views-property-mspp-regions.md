@@ -2,7 +2,7 @@
 TOCTitle: Views Property
 Title: 'Region.Views Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.Views'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.views(v=pandp.50)'
+ms:mtpsurl: 'region-views-property-mspp-regions.md'
 ---
 
 Prism Class Library

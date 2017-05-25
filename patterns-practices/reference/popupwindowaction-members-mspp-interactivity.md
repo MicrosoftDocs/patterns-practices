@@ -2,7 +2,7 @@
 TOCTitle: PopupWindowAction Members
 Title: 'PopupWindowAction Members (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.PopupWindowAction'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction_members(v=pandp.50)'
+ms:mtpsurl: 'popupwindowaction-members-mspp-interactivity.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: MefBootstrapper Members
 Title: 'MefBootstrapper Members (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper_members(v=pandp.50)'
+ms:mtpsurl: 'mefbootstrapper-members-mspp-mefextensions.md'
 ---
 
 Prism Class Library

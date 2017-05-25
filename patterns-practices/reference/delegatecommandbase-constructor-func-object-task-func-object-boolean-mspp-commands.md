@@ -2,7 +2,7 @@
 TOCTitle: 'DelegateCommandBase Constructor (Func(Object, Task), Func(Object, Boolean))'
 Title: 'DelegateCommandBase Constructor (Func(Object, Task), Func(Object, Boolean)) (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommandBase.\#ctor(System.Func{System.Object,System.Threading.Tasks.Task},System.Func{System.Object,System.Boolean})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase.delegatecommandbase(v=pandp.50)'
+ms:mtpsurl: 'delegatecommandbase-constructor-action-object-func-object-boolean-mspp-commands.md'
 ---
 
 Prism Class Library

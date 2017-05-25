@@ -2,7 +2,7 @@
 TOCTitle: 'Remove Method (TKey, TValue)'
 Title: 'ListDictionary(TKey, TValue).Remove Method (TKey, TValue) (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.Remove(\`0,\`1)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405805(v=pandp.50)'
+ms:mtpsurl: 'listdictionary-tkey-tvalue-remove-method-tkey-tvalue-mspp.md'
 ---
 
 Prism Class Library

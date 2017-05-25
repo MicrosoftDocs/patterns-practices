@@ -2,7 +2,7 @@
 TOCTitle: BindRegionContextToDependencyObjectBehavior Constructor
 Title: 'BindRegionContextToDependencyObjectBehavior Constructor (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior.bindregioncontexttodependencyobjectbehavior(v=pandp.50)'
+ms:mtpsurl: 'bindregioncontexttodependencyobjectbehavior-constructor-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library

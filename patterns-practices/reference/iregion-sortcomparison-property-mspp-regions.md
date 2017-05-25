@@ -2,7 +2,7 @@
 TOCTitle: SortComparison Property
 Title: 'IRegion.SortComparison Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegion.SortComparison'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion.sortcomparison(v=pandp.50)'
+ms:mtpsurl: 'iregion-sortcomparison-property-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -12,7 +12,7 @@ IRegion.SortComparison Property
 
 Gets or sets the comparison used to sort the views.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -41,8 +41,8 @@ See Also
 --------
 
 
-[IRegion Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50))
+[IRegion Interface](iregion-interface-mspp-regions.md)
 
-[IRegion Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion_members(v=pandp.50))
+[IRegion Members](iregion-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

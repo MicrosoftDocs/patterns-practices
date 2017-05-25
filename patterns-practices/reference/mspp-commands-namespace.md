@@ -2,7 +2,7 @@
 TOCTitle: 'Microsoft.Practices.Prism.Commands Namespace'
 Title: 'Microsoft.Practices.Prism.Commands Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.Commands'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50)'
+ms:mtpsurl: 'mspp-commands-namespace.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: FileModuleTypeLoader Events
 Title: 'FileModuleTypeLoader Events (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader_events(v=pandp.50)'
+ms:mtpsurl: 'filemoduletypeloader-events-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -10,7 +10,7 @@ Prism Class Library
 FileModuleTypeLoader Events
 ===========================
 
-The [FileModuleTypeLoader](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader(v=pandp.50)) type exposes the following members.
+The [FileModuleTypeLoader](filemoduletypeloader-class-mspp-modularity.md) type exposes the following members.
 
 Events
 ------
@@ -46,6 +46,6 @@ See Also
 --------
 
 
-[FileModuleTypeLoader Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.filemoduletypeloader(v=pandp.50))
+[FileModuleTypeLoader Class](filemoduletypeloader-class-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

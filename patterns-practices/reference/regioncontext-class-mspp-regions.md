@@ -2,16 +2,16 @@
 TOCTitle: RegionContext Class
 Title: 'RegionContext Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionContext'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regioncontext(v=pandp.50)'
+ms:mtpsurl: 'regioncontext-class-mspp-regions.md'
 ---
 
 Prism Class Library
 
 # RegionContext Class
 
-Class that holds methods to Set and Get the RegionContext from a DependencyObject. RegionContext allows sharing of contextual information between the view that's hosting a [IRegion](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50)) and any views that are inside the Region.
+Class that holds methods to Set and Get the RegionContext from a DependencyObject. RegionContext allows sharing of contextual information between the view that's hosting a [IRegion](iregion-interface-mspp-regions.md) and any views that are inside the Region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -37,6 +37,6 @@ Public NotInheritable Class RegionContext
 ## See Also
 
 
-[RegionContext Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regioncontext_members(v=pandp.50))
+[RegionContext Members](regioncontext-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

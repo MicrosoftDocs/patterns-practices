@@ -2,7 +2,7 @@
 TOCTitle: 'CompositePresentationEvent(TPayload) Constructor'
 Title: 'CompositePresentationEvent(TPayload) Constructor (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405547(v=pandp.50)'
+ms:mtpsurl: 'compositepresentationevent-tpayload-constructor-mspp-events.md'
 ---
 
 Prism Class Library

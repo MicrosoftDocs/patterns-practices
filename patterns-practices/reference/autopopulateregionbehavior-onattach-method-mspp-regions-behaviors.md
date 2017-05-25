@@ -2,7 +2,7 @@
 TOCTitle: OnAttach Method
 Title: 'AutoPopulateRegionBehavior.OnAttach Method (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior.OnAttach'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior.onattach(v=pandp.50)'
+ms:mtpsurl: 'autopopulateregionbehavior-onattach-method-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library
@@ -12,7 +12,7 @@ AutoPopulateRegionBehavior.OnAttach Method
 
 Attaches the AutoPopulateRegionBehavior to the Region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -33,8 +33,8 @@ See Also
 --------
 
 
-[AutoPopulateRegionBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior(v=pandp.50))
+[AutoPopulateRegionBehavior Class](autopopulateregionbehavior-class-mspp-regions-behaviors.md)
 
-[AutoPopulateRegionBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior_members(v=pandp.50))
+[AutoPopulateRegionBehavior Members](autopopulateregionbehavior-members-mspp-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)

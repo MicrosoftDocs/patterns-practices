@@ -2,7 +2,7 @@
 TOCTitle: 'ErrorsContainer(T) Fields'
 Title: 'ErrorsContainer(T) Fields (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'Fields.T:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn736164(v=pandp.50)'
+ms:mtpsurl: 'errorscontainer-t-fields-mspp-viewmodel.md'
 ---
 
 Prism Class Library

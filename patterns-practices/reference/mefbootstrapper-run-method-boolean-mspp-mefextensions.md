@@ -2,7 +2,7 @@
 TOCTitle: 'Run Method (Boolean)'
 Title: 'MefBootstrapper.Run Method (Boolean) (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.Run(System.Boolean)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper.run(v=pandp.50)'
+ms:mtpsurl: 'mefbootstrapper-run-method-boolean-mspp-mefextensions.md'
 ---
 
 Prism Class Library

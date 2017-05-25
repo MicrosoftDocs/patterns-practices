@@ -2,7 +2,7 @@
 TOCTitle: 'TryResolve Method (IServiceLocator, Type)'
 Title: 'ServiceLocatorExtensions.TryResolve Method (IServiceLocator, Type) (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ServiceLocatorExtensions.TryResolve(Microsoft.Practices.ServiceLocation.IServiceLocator,System.Type)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.servicelocatorextensions.tryresolve(v=pandp.50)'
+ms:mtpsurl: 'servicelocatorextensions-tryresolve-method-iservicelocator-type-mspp.md'
 ---
 
 Prism Class Library

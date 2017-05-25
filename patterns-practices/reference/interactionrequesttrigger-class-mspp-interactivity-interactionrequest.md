@@ -2,14 +2,14 @@
 TOCTitle: InteractionRequestTrigger Class
 Title: 'InteractionRequestTrigger Class (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestTrigger'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger(v=pandp.50)'
+ms:mtpsurl: 'interactionrequesttrigger-class-mspp-interactivity-interactionrequest.md'
 ---
 
 # InteractionRequestTrigger Class
 
-Custom event trigger for using with [IInteractionRequest](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest(v=pandp.50)) objects.
+Custom event trigger for using with [IInteractionRequest](iinteractionrequest-interface-mspp-interactivity-interactionrequest.md) objects.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](mspp-interactivity-interactionrequest-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -61,6 +61,6 @@ Public Class InteractionRequestTrigger
 
 ## See Also
 
-[InteractionRequestTrigger Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger_members(v=pandp.50))
+[InteractionRequestTrigger Members](interactionrequesttrigger-members-mspp-interactivity-interactionrequest.md)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)

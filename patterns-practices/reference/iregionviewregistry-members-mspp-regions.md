@@ -2,7 +2,7 @@
 TOCTitle: IRegionViewRegistry Members
 Title: 'IRegionViewRegistry Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionViewRegistry'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405488(v=PandP.50)'
+ms:mtpsurl: 'iregionviewregistry-members-mspp-regions.md'
 ---
 
 Prism Class Library

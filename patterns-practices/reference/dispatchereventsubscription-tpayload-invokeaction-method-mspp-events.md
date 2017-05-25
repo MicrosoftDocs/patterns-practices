@@ -2,7 +2,7 @@
 TOCTitle: InvokeAction Method
 Title: 'DispatcherEventSubscription(TPayload).InvokeAction Method (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.DispatcherEventSubscription\`1.InvokeAction(System.Action{\`0},\`0)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405775(v=pandp.50)'
+ms:mtpsurl: 'dispatchereventsubscription-tpayload-invokeaction-method-mspp-events.md'
 ---
 
 Prism Class Library

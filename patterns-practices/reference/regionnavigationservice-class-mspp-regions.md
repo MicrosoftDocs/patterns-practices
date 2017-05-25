@@ -2,7 +2,7 @@
 TOCTitle: RegionNavigationService Class
 Title: 'RegionNavigationService Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionNavigationService'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice(v=pandp.50)'
+ms:mtpsurl: 'regionnavigationservice-class-mspp-regions.md'
 ---
 
 Prism Class Library

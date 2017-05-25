@@ -2,14 +2,14 @@
 TOCTitle: IConfirmNavigationRequest Interface
 Title: 'IConfirmNavigationRequest Interface (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.IConfirmNavigationRequest'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iconfirmnavigationrequest(v=pandp.50)'
+ms:mtpsurl: 'iconfirmnavigationrequest-interface-mspp-regions.md'
 ---
 
 # IConfirmNavigationRequest Interface
 
 Provides a way for objects involved in navigation to determine if a navigation request should continue.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -31,6 +31,6 @@ Public Interface IConfirmNavigationRequest
 
 ## See Also
 
-[IConfirmNavigationRequest Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iconfirmnavigationrequest_members(v=pandp.50))
+[IConfirmNavigationRequest Members](iconfirmnavigationrequest-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

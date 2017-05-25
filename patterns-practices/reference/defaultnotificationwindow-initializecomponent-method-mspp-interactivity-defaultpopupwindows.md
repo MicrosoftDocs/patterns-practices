@@ -2,7 +2,7 @@
 TOCTitle: InitializeComponent Method
 Title: 'DefaultNotificationWindow.InitializeComponent Method (Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultNotificationWindow.InitializeComponent'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow.initializecomponent(v=pandp.50)'
+ms:mtpsurl: 'defaultnotificationwindow-initializecomponent-method-mspp-interactivity-defaultpopupwindows.md'
 ---
 
 Prism Class Library

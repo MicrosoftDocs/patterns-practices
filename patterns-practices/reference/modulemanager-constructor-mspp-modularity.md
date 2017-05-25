@@ -2,7 +2,7 @@
 TOCTitle: ModuleManager Constructor
 Title: 'ModuleManager Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleManager.\#ctor(Microsoft.Practices.Prism.Modularity.IModuleInitializer,Microsoft.Practices.Prism.Modularity.IModuleCatalog,Microsoft.Practices.Prism.Logging.ILoggerFacade)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulemanager.modulemanager(v=pandp.50)'
+ms:mtpsurl: 'modulemanager-constructor-mspp-modularity.md'
 ---
 
 Prism Class Library

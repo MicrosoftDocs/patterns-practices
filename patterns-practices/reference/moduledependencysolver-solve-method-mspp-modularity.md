@@ -2,14 +2,14 @@
 TOCTitle: Solve Method
 Title: 'ModuleDependencySolver.Solve Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencySolver.Solve'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencysolver.solve(v=pandp.50)'
+ms:mtpsurl: 'moduledependencysolver-solve-method-mspp-modularity.md'
 ---
 
 # ModuleDependencySolver.Solve Method
 
 Calculates an ordered vector according to the defined dependencies. Non-dependant modules appears at the beginning of the resulting array.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -41,12 +41,12 @@ The resulting ordered list of modules.
 ----------
 
 |Exception | Condition |
-|[Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception(v=pandp.50)) | This exception is thrown when a cycle is found in the defined depedency graph. |
+|[Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException](cyclicdependencyfoundexception-class-mspp-modularity.md) | This exception is thrown when a cycle is found in the defined depedency graph. |
 
 ## See Also
 
-[ModuleDependencySolver Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencysolver(v=pandp.50))
+[ModuleDependencySolver Class](moduledependencysolver-class-mspp-modularity.md)
 
-[ModuleDependencySolver Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencysolver_members(v=pandp.50))
+[ModuleDependencySolver Members](moduledependencysolver-members-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

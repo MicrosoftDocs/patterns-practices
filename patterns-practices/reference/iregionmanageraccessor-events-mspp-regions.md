@@ -2,12 +2,12 @@
 TOCTitle: IRegionManagerAccessor Events
 Title: 'IRegionManagerAccessor Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.IRegionManagerAccessor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor_events(v=pandp.50)'
+ms:mtpsurl: 'iregionmanageraccessor-events-mspp-regions.md'
 ---
 
 # IRegionManagerAccessor Events
 
-The [IRegionManagerAccessor](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor(v=pandp.50)) type exposes the following members.
+The [IRegionManagerAccessor](iregionmanageraccessor-interface-mspp-regions.md) type exposes the following members.
 
 ## Events
 
@@ -31,7 +31,7 @@ The [IRegionManagerAccessor](https://msdn.microsoft.com/en-us/library/microsoft.
 ![](https://msdn.microsoft.com/en-us/Gg430901.pubevent(en-us,PandP.50).gif "Public event")
 </td>
 <td>
-<a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor.updatingregions(v=pandp.50)">UpdatingRegions</a>
+<a href="iregionmanageraccessor-updatingregions-event-mspp-regions.md">UpdatingRegions</a>
 </td>
 <td>
 <div>
@@ -44,6 +44,6 @@ Notification used by attached behaviors to update the region managers appropriat
 
 ## See Also
 
-[IRegionManagerAccessor Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor(v=pandp.50))
+[IRegionManagerAccessor Interface](iregionmanageraccessor-interface-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: SelectorRegionAdapter Methods
 Title: 'SelectorRegionAdapter Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.SelectorRegionAdapter'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.selectorregionadapter_methods(v=pandp.50)'
+ms:mtpsurl: 'selectorregionadapter-methods-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -10,7 +10,7 @@ Prism Class Library
 SelectorRegionAdapter Methods
 =============================
 
-The [SelectorRegionAdapter](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.selectorregionadapter(v=pandp.50)) type exposes the following members.
+The [SelectorRegionAdapter](selectorregionadapter-class-mspp-regions.md) type exposes the following members.
 
 Methods
 -------
@@ -120,6 +120,6 @@ See Also
 --------
 
 
-[SelectorRegionAdapter Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.selectorregionadapter(v=pandp.50))
+[SelectorRegionAdapter Class](selectorregionadapter-class-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

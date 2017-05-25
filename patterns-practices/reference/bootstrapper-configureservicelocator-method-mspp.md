@@ -2,7 +2,7 @@
 TOCTitle: ConfigureServiceLocator Method
 Title: 'Bootstrapper.ConfigureServiceLocator Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.ConfigureServiceLocator'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper.configureservicelocator(v=pandp.50)'
+ms:mtpsurl: 'bootstrapper-configureservicelocator-method-mspp.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Configures the LocatorProvider for the ServiceLocator.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism](mspp-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -30,8 +30,8 @@ Protected MustOverride Sub ConfigureServiceLocator
 
 ## See Also
 
-[Bootstrapper Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper(v=pandp.50))
+[Bootstrapper Class](bootstrapper-class-mspp.md)
 
-[Bootstrapper Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.bootstrapper_members(v=pandp.50))
+[Bootstrapper Members](bootstrapper-members-mspp.md)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism(v=pandp.50))
+[Microsoft.Practices.Prism Namespace](mspp-namespace.md)

@@ -2,12 +2,12 @@
 TOCTitle: CyclicDependencyFoundException Events
 Title: 'CyclicDependencyFoundException Events (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception_events(v=pandp.50)'
+ms:mtpsurl: 'cyclicdependencyfoundexception-events-mspp-modularity.md'
 ---
 
 # CyclicDependencyFoundException Events
 
-The [CyclicDependencyFoundException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception(v=pandp.50)) type exposes the following members.
+The [CyclicDependencyFoundException](cyclicdependencyfoundexception-class-mspp-modularity.md) type exposes the following members.
 
 
 ## Events
@@ -43,9 +43,9 @@ Occurs when an exception is serialized to create an exception state object that 
 
 
 ## See Also
-[CyclicDependencyFoundException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception(v=pandp.50))
+[CyclicDependencyFoundException Class](cyclicdependencyfoundexception-class-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
 =======
 See Also
 --------

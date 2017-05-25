@@ -2,7 +2,7 @@
 TOCTitle: MefBindRegionContextToDependencyObjectBehavior Constructor
 Title: 'MefBindRegionContextToDependencyObjectBehavior Constructor (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefBindRegionContextToDependencyObjectBehavior.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefbindregioncontexttodependencyobjectbehavior.mefbindregioncontexttodependencyobjectbehavior(v=pandp.50)'
+ms:mtpsurl: 'mefbindregioncontexttodependencyobjectbehavior-constructor-mspp-mefextensions-regions-behaviors.md'
 ---
 
 Prism Class Library

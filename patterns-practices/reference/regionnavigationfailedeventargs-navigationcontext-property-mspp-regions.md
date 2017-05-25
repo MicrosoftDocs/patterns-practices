@@ -2,7 +2,7 @@
 TOCTitle: NavigationContext Property
 Title: 'RegionNavigationFailedEventArgs.NavigationContext Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationFailedEventArgs.NavigationContext'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs.navigationcontext(v=pandp.50)'
+ms:mtpsurl: 'regionnavigationfailedeventargs-navigationcontext-property-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Gets the navigation context.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -25,7 +25,7 @@ public NavigationContext NavigationContext { get; }
 
 ### Property Value
 
-Type: [NavigationContext](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext(v=pandp.50))
+Type: [NavigationContext](navigationcontext-class-mspp-regions.md)
 
 The navigation context.
 
@@ -37,15 +37,15 @@ Public ReadOnly Property NavigationContext As NavigationContext
 
 ### Property Value
 
-Type: [NavigationContext](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationcontext(v=pandp.50))
+Type: [NavigationContext](navigationcontext-class-mspp-regions.md)
 
 The navigation context.
 
 ## See Also
 
 
-[RegionNavigationFailedEventArgs Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs(v=pandp.50))
+[RegionNavigationFailedEventArgs Class](regionnavigationfailedeventargs-class-mspp-regions.md)
 
-[RegionNavigationFailedEventArgs Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs_members(v=pandp.50))
+[RegionNavigationFailedEventArgs Members](regionnavigationfailedeventargs-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

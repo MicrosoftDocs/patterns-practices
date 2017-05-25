@@ -2,14 +2,14 @@
 TOCTitle: CyclicDependencyFoundException Methods
 Title: 'CyclicDependencyFoundException Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception_methods(v=pandp.50)'
+ms:mtpsurl: 'cyclicdependencyfoundexception-methods-mspp-modularity.md'
 ---
 
 Prism Class Library
 
 # CyclicDependencyFoundException Methods
 
-The [CyclicDependencyFoundException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception(v=pandp.50)) type exposes the following members.
+The [CyclicDependencyFoundException](cyclicdependencyfoundexception-class-mspp-modularity.md) type exposes the following members.
 
 ## Methods
 
@@ -116,6 +116,6 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 ## See Also
 
 
-[CyclicDependencyFoundException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception(v=pandp.50))
+[CyclicDependencyFoundException Class](cyclicdependencyfoundexception-class-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

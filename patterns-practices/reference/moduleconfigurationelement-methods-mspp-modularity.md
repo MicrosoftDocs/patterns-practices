@@ -2,14 +2,14 @@
 TOCTitle: ModuleConfigurationElement Methods
 Title: 'ModuleConfigurationElement Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelement_methods(v=pandp.50)'
+ms:mtpsurl: 'moduleconfigurationelement-methods-mspp-modularity.md'
 ---
 
 Prism Class Library
 
 # ModuleConfigurationElement Methods
 
-The [ModuleConfigurationElement](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelement(v=pandp.50)) type exposes the following members.
+The [ModuleConfigurationElement](moduleconfigurationelement-class-mspp-modularity.md) type exposes the following members.
 
 ## Methods
 
@@ -236,6 +236,6 @@ Modifies the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">Configur
 
 ## See Also
 
-[ModuleConfigurationElement Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleconfigurationelement(v=pandp.50))
+[ModuleConfigurationElement Class](moduleconfigurationelement-class-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

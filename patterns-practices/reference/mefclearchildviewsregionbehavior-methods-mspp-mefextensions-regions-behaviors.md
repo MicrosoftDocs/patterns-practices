@@ -2,14 +2,14 @@
 TOCTitle: MefClearChildViewsRegionBehavior Methods
 Title: 'MefClearChildViewsRegionBehavior Methods (Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefClearChildViewsRegionBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior_methods(v=pandp.50)'
+ms:mtpsurl: 'mefclearchildviewsregionbehavior-methods-mspp-mefextensions-regions-behaviors.md'
 ---
 
 Prism Class Library
 
 # MefClearChildViewsRegionBehavior Methods
 
-The [MefClearChildViewsRegionBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior(v=pandp.50)) type exposes the following members.
+The [MefClearChildViewsRegionBehavior](mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors.md) type exposes the following members.
 
 ## Methods
  
@@ -93,6 +93,6 @@ Returns a string that represents the current object.
 ## See Also
 
 
-[MefClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior(v=pandp.50))
+[MefClearChildViewsRegionBehavior Class](mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace.md)

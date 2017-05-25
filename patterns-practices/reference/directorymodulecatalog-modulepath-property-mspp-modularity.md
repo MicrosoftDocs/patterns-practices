@@ -2,7 +2,7 @@
 TOCTitle: ModulePath Property
 Title: 'DirectoryModuleCatalog.ModulePath Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog.ModulePath'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.directorymodulecatalog.modulepath(v=pandp.50)'
+ms:mtpsurl: 'directorymodulecatalog-modulepath-property-mspp-modularity.md'
 ---
 
 Prism Class Library

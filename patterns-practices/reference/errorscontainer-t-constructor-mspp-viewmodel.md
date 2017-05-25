@@ -2,7 +2,7 @@
 TOCTitle: 'ErrorsContainer(T) Constructor'
 Title: 'ErrorsContainer(T) Constructor (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.\#ctor(System.Action{System.String})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405728(v=pandp.50)'
+ms:mtpsurl: 'errorscontainer-t-constructor-mspp-viewmodel.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: OnDetaching Method
 Title: 'InvokeCommandAction.OnDetaching Method (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.OnDetaching'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.ondetaching(v=pandp.50)'
+ms:mtpsurl: 'invokecommandaction-ondetaching-method-mspp-interactivity.md'
 ---
 
 Prism Class Library

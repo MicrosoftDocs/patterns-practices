@@ -2,7 +2,7 @@
 TOCTitle: ConfigurationModuleCatalog Constructor
 Title: 'ConfigurationModuleCatalog Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ConfigurationModuleCatalog.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.configurationmodulecatalog.configurationmodulecatalog(v=pandp.50)'
+ms:mtpsurl: 'configurationmodulecatalog-constructor-mspp-modularity.md'
 ---
 
 Prism Class Library

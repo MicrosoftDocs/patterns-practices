@@ -2,7 +2,7 @@
 TOCTitle: UpdateRegionsException Events
 Title: 'UpdateRegionsException Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.UpdateRegionsException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception_events(v=pandp.50)'
+ms:mtpsurl: 'updateregionsexception-events-mspp-regions.md'
 ---
 
 
@@ -10,7 +10,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.
 
 
 
-The [UpdateRegionsException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception(v=pandp.50)) type exposes the following members.
+The [UpdateRegionsException](updateregionsexception-class-mspp-regions.md) type exposes the following members.
 
 ## Events
 =======
@@ -42,10 +42,10 @@ Occurs when an exception is serialized to create an exception state object that 
 ## See Also
 
 
-[UpdateRegionsException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.updateregionsexception(v=pandp.50))
+[UpdateRegionsException Class](updateregionsexception-class-mspp-regions.md)
 =======
 
 [UpdateRegionsException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception)
 
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

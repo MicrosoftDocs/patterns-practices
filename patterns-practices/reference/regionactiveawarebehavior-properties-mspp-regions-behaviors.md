@@ -2,12 +2,12 @@
 TOCTitle: RegionActiveAwareBehavior Properties
 Title: 'RegionActiveAwareBehavior Properties (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior_properties(v=pandp.50)'
+ms:mtpsurl: 'regionactiveawarebehavior-properties-mspp-regions-behaviors.md'
 ---
 
 # RegionActiveAwareBehavior Properties
 
-The [RegionActiveAwareBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior(v=pandp.50)) type exposes the following members.
+The [RegionActiveAwareBehavior](regionactiveawarebehavior-class-mspp-regions-behaviors.md) type exposes the following members.
 
 ## Properties
 
@@ -33,6 +33,6 @@ The region that this behavior is extending
 
 ## See Also
 
-[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior(v=pandp.50))
+[RegionActiveAwareBehavior Class](regionactiveawarebehavior-class-mspp-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: GetAbsolutePath Method
 Title: 'UriParsingHelper.GetAbsolutePath Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UriParsingHelper.GetAbsolutePath(System.Uri)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.uriparsinghelper.getabsolutepath(v=pandp.50)'
+ms:mtpsurl: 'uriparsinghelper-getabsolutepath-method-mspp.md'
 ---
 
 Prism Class Library

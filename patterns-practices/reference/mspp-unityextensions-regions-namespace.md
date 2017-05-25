@@ -2,7 +2,7 @@
 TOCTitle: 'Microsoft.Practices.Prism.UnityExtensions.Regions Namespace'
 Title: 'Microsoft.Practices.Prism.UnityExtensions.Regions Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.UnityExtensions.Regions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions(v=pandp.50)'
+ms:mtpsurl: 'mspp-unityextensions-regions-namespace.md'
 ---
 
 # Microsoft.Practices.Prism.UnityExtensions.Regions Namespace

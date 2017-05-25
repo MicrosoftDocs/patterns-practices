@@ -2,7 +2,7 @@
 TOCTitle: ModularityException Methods
 Title: 'ModularityException Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModularityException'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception_methods(v=pandp.50)'
+ms:mtpsurl: 'modularityexception-methods-mspp-modularity.md'
 ---
 
 Prism Class Library
@@ -10,7 +10,7 @@ Prism Class Library
 ModularityException Methods
 ===========================
 
-The [ModularityException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception(v=pandp.50)) type exposes the following members.
+The [ModularityException](modularityexception-class-mspp-modularity.md) type exposes the following members.
 
 Methods
 -------
@@ -120,6 +120,6 @@ See Also
 --------
 
 
-[ModularityException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception(v=pandp.50))
+[ModularityException Class](modularityexception-class-mspp-modularity.md)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

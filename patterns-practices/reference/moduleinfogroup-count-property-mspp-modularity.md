@@ -2,7 +2,7 @@
 TOCTitle: Count Property
 Title: 'ModuleInfoGroup.Count Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Count'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup.count(v=pandp.50)'
+ms:mtpsurl: 'moduleinfogroup-count-property-mspp-modularity.md'
 ---
 
 Prism Class Library

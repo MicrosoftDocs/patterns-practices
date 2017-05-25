@@ -2,7 +2,7 @@
 TOCTitle: 'OnPropertyChanged Method (String)'
 Title: 'BindableBase.OnPropertyChanged Method (String) (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Mvvm.BindableBase.OnPropertyChanged(System.String)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase.onpropertychanged(v=pandp.50)'
+ms:mtpsurl: 'bindablebase-onpropertychanged-method-mspp-mvvm.md'
 ---
 
 
@@ -15,7 +15,7 @@ BindableBase.OnPropertyChanged Method (String)
 
 Notifies listeners that a property value has changed.
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](mspp-mvvm-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -56,14 +56,14 @@ Name of the property used to notify listeners. This value is optional and can be
 ## See Also
 
 
-[BindableBase Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase(v=pandp.50))
+[BindableBase Class](bindablebase-class-mspp-mvvm.md)
 =======
 
 [BindableBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase)
 
 
-[BindableBase Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase_members(v=pandp.50))
+[BindableBase Members](bindablebase-members-mspp-mvvm.md)
 
-[OnPropertyChanged Overload](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase.onpropertychanged(v=pandp.50))
+[OnPropertyChanged Overload](bindablebase-onpropertychanged-method-mspp-mvvm.md)
 
-[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm(v=pandp.50))
+[Microsoft.Practices.Prism.Mvvm Namespace](mspp-mvvm-namespace.md)

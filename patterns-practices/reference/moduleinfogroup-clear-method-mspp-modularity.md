@@ -2,7 +2,7 @@
 TOCTitle: Clear Method
 Title: 'ModuleInfoGroup.Clear Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Clear'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinfogroup.clear(v=pandp.50)'
+ms:mtpsurl: 'moduleinfogroup-clear-method-mspp-modularity.md'
 ---
 
 Prism Class Library

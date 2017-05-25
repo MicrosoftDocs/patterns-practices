@@ -2,7 +2,7 @@
 TOCTitle: RegisterRequiredPrismServicesIfMissing Method
 Title: 'DefaultPrismServiceRegistrar.RegisterRequiredPrismServicesIfMissing Method (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.DefaultPrismServiceRegistrar.RegisterRequiredPrismServicesIfMissing(System.ComponentModel.Composition.Hosting.AggregateCatalog)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.defaultprismserviceregistrar.registerrequiredprismservicesifmissing(v=pandp.50)'
+ms:mtpsurl: 'defaultprismserviceregistrar-registerrequiredprismservicesifmissing-method-mspp-mefextensions.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Registers the required Prism types that are not already registered in the [AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](mspp-mefextensions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -46,8 +46,8 @@ Type: [AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165)
 ## See Also
 
 
-[DefaultPrismServiceRegistrar Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.defaultprismserviceregistrar(v=pandp.50))
+[DefaultPrismServiceRegistrar Class](defaultprismserviceregistrar-class-mspp-mefextensions.md)
 
-[DefaultPrismServiceRegistrar Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.defaultprismserviceregistrar_members(v=pandp.50))
+[DefaultPrismServiceRegistrar Members](defaultprismserviceregistrar-members-mspp-mefextensions.md)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions Namespace](mspp-mefextensions-namespace.md)

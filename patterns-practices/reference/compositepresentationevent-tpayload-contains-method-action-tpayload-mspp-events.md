@@ -2,7 +2,7 @@
 TOCTitle: 'Contains Method (Action(TPayload))'
 Title: 'CompositePresentationEvent(TPayload).Contains Method (Action(TPayload)) (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Contains(System.Action{\`0})'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg405766(v=pandp.50)'
+ms:mtpsurl: 'compositepresentationevent-tpayload-contains-method-action-tpayload-mspp-events.md'
 ---
 
 Prism Class Library
@@ -12,7 +12,7 @@ CompositePresentationEvent&lt;TPayload&gt;.Contains Method (Action&lt;TPayload&g
 
 Returns **truetrue** (**True** in Visual Basic) if there is a subscriber matching [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8).
 
-**Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Events](mspp-events-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -38,7 +38,7 @@ Public Overridable Function Contains (
 ### Parameters
 
 *subscriber*  
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))&gt;
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](compositepresentationevent-tpayload-class-mspp-events.md)&gt;
 
 The [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) used when subscribing to the event.
 
@@ -52,10 +52,10 @@ See Also
 --------
 
 
-[CompositePresentationEvent&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))
+[CompositePresentationEvent&lt;TPayload&gt; Class](compositepresentationevent-tpayload-class-mspp-events.md)
 
-[CompositePresentationEvent&lt;TPayload&gt; Members](https://msdn.microsoft.com/en-us/library/gg430765(v=pandp.50))
+[CompositePresentationEvent&lt;TPayload&gt; Members](compositepresentationevent-tpayload-members-mspp-events.md)
 
-[Contains Overload](https://msdn.microsoft.com/en-us/library/gg419056(v=pandp.50))
+[Contains Overload](compositepresentationevent-tpayload-contains-method-mspp-events.md)
 
-[Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
+[Microsoft.Practices.Prism.Events Namespace](mspp-events-namespace.md)

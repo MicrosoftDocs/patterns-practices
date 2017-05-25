@@ -2,14 +2,14 @@
 TOCTitle: EventAggregator Methods
 Title: 'EventAggregator Methods (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.EventAggregator'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventaggregator_methods(v=pandp.50)'
+ms:mtpsurl: 'eventaggregator-methods-mspp-pubsubevents.md'
 ---
 
 Prism Class Library
 
 # EventAggregator Methods
 
-The [EventAggregator](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventaggregator(v=pandp.50)) type exposes the following members.
+The [EventAggregator](eventaggregator-class-mspp-pubsubevents.md) type exposes the following members.
 
 ## Methods
 =======
@@ -85,9 +85,9 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[EventAggregator Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventaggregator(v=pandp.50))
+[EventAggregator Class](eventaggregator-class-mspp-pubsubevents.md)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
 =======
 
 [EventAggregator Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventaggregator)

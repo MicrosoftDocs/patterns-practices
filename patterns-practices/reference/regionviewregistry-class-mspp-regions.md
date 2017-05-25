@@ -2,7 +2,7 @@
 TOCTitle: RegionViewRegistry Class
 Title: 'RegionViewRegistry Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionViewRegistry'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionviewregistry(v=pandp.50)'
+ms:mtpsurl: 'regionviewregistry-class-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -12,7 +12,7 @@ RegionViewRegistry Class
 
 Defines a registry for the content of the regions used on View Discovery composition.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -37,12 +37,12 @@ Inheritance Hierarchy
 
   Microsoft.Practices.Prism.Regions.RegionViewRegistry
   
-    [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionViewRegistry](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionviewregistry(v=pandp.50))
+    [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionViewRegistry](mefregionviewregistry-class-mspp-mefextensions-regions.md)
 
 See Also
 --------
 
 
-[RegionViewRegistry Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionviewregistry_members(v=pandp.50))
+[RegionViewRegistry Members](regionviewregistry-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

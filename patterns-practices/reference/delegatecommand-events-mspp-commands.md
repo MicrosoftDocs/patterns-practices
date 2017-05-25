@@ -2,7 +2,7 @@
 TOCTitle: DelegateCommand Events
 Title: 'DelegateCommand Events (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Commands.DelegateCommand'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand_events(v=pandp.50)'
+ms:mtpsurl: 'delegatecommand-events-mspp-commands.md'
 ---
 
 Prism Class Library

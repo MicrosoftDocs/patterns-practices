@@ -2,7 +2,7 @@
 TOCTitle: IEventSubscription Properties
 Title: 'IEventSubscription Properties (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.IEventSubscription'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription_properties(v=pandp.50)'
+ms:mtpsurl: 'ieventsubscription-properties-mspp-pubsubevents.md'
 ---
 
 
@@ -10,7 +10,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.
 
 
 
-The [IEventSubscription](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50)) type exposes the following members.
+The [IEventSubscription](ieventsubscription-interface-mspp-pubsubevents.md) type exposes the following members.
 =======
 The [IEventSubscription](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription) type exposes the following members.
 
@@ -29,9 +29,9 @@ The [IEventSubscription](https://msdn.microsoft.com/library/microsoft.practices.
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736151.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription.subscriptiontoken(v=pandp.50)">SubscriptionToken</a></td>
+<td><a href="ieventsubscription-subscriptiontoken-property-mspp-pubsubevents.md">SubscriptionToken</a></td>
 <td><div class="summary">
-Gets or sets a <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription.subscriptiontoken(v=pandp.50)">SubscriptionToken</a> that identifies this <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50)">IEventSubscription</a>.
+Gets or sets a <a href="ieventsubscription-subscriptiontoken-property-mspp-pubsubevents.md">SubscriptionToken</a> that identifies this <a href="ieventsubscription-interface-mspp-pubsubevents.md">IEventSubscription</a>.
 </div></td>
 </tr>
 </tbody>
@@ -39,10 +39,10 @@ Gets or sets a <a href="https://msdn.microsoft.com/en-us/library/microsoft.pract
 
 ## See Also
 
-[IEventSubscription Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription(v=pandp.50))
+[IEventSubscription Interface](ieventsubscription-interface-mspp-pubsubevents.md)
 =======
 
 [IEventSubscription Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription)
 
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)

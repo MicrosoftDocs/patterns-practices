@@ -2,7 +2,7 @@
 TOCTitle: RegionMemberLifetimeAttribute Constructor
 Title: 'RegionMemberLifetimeAttribute Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionMemberLifetimeAttribute.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute.regionmemberlifetimeattribute(v=pandp.50)'
+ms:mtpsurl: 'regionmemberlifetimeattribute-constructor-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -10,9 +10,9 @@ Prism Class Library
 RegionMemberLifetimeAttribute Constructor
 =========================================
 
-Instantiates an instance of [RegionMemberLifetimeAttribute](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute(v=pandp.50))
+Instantiates an instance of [RegionMemberLifetimeAttribute](regionmemberlifetimeattribute-class-mspp-regions.md)
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -33,8 +33,8 @@ See Also
 --------
 
 
-[RegionMemberLifetimeAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute(v=pandp.50))
+[RegionMemberLifetimeAttribute Class](regionmemberlifetimeattribute-class-mspp-regions.md)
 
-[RegionMemberLifetimeAttribute Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute_members(v=pandp.50))
+[RegionMemberLifetimeAttribute Members](regionmemberlifetimeattribute-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

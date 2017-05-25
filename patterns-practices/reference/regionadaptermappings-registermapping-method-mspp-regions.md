@@ -2,7 +2,7 @@
 TOCTitle: RegisterMapping Method
 Title: 'RegionAdapterMappings.RegisterMapping Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionAdapterMappings.RegisterMapping(System.Type,Microsoft.Practices.Prism.Regions.IRegionAdapter)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionadaptermappings.registermapping(v=pandp.50)'
+ms:mtpsurl: 'regionadaptermappings-registermapping-method-mspp-regions.md'
 ---
 
 Prism Class Library

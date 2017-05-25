@@ -2,14 +2,14 @@
 TOCTitle: MefFileModuleTypeLoader Constructor
 Title: 'MefFileModuleTypeLoader Constructor (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefFileModuleTypeLoader.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader.meffilemoduletypeloader(v=pandp.50)'
+ms:mtpsurl: 'meffilemoduletypeloader-constructor-mspp-mefextensions-modularity.md'
 ---
 
 # MefFileModuleTypeLoader Constructor
 
 Initializes a new instance of the MefFileModuleTypeLoader class. This instance is used to load requested module types.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -28,8 +28,8 @@ Public Sub New
 
 ## See Also
 
-[MefFileModuleTypeLoader Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader(v=pandp.50))
+[MefFileModuleTypeLoader Class](meffilemoduletypeloader-class-mspp-mefextensions-modularity.md)
 
-[MefFileModuleTypeLoader Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader_members(v=pandp.50))
+[MefFileModuleTypeLoader Members](meffilemoduletypeloader-members-mspp-mefextensions-modularity.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)

@@ -2,12 +2,12 @@
 TOCTitle: SyncRegionContextWithHostBehavior Methods
 Title: 'SyncRegionContextWithHostBehavior Methods (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior_methods(v=pandp.50)'
+ms:mtpsurl: 'syncregioncontextwithhostbehavior-methods-mspp-regions-behaviors.md'
 ---
 
 # SyncRegionContextWithHostBehavior Methods
 
-The [SyncRegionContextWithHostBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior(v=pandp.50)) type exposes the following members.
+The [SyncRegionContextWithHostBehavior](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors.md) type exposes the following members.
 
 ## Methods
  
@@ -31,12 +31,12 @@ The [SyncRegionContextWithHostBehavior](https://msdn.microsoft.com/en-us/library
 ![](images/public-method.gif "Public method")
 </td>
 <td>
-<a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior.attach(v=pandp.50)">Attach</a>
+<a href="regionbehavior-attach-method-mspp-regions.md">Attach</a>
 </td>
 <td>
 <div>
 Attaches the behavior to the region.
-</div> (Inherited from <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior(v=pandp.50)">RegionBehavior</a>.)</td>
+</div> (Inherited from <a href="regionbehavior-class-mspp-regions.md">RegionBehavior</a>.)</td>
 </tr>
 <tr>
 <td>
@@ -99,12 +99,12 @@ Attaches the behavior to the region.
 ![](https://msdn.microsoft.com/en-us/Gg431079.protmethod(en-us,PandP.50).gif "Protected method")
 </td>
 <td>
-<a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior.onattach(v=pandp.50)">OnAttach</a>
+<a href="syncregioncontextwithhostbehavior-onattach-method-mspp-regions-behaviors.md">OnAttach</a>
 </td>
 <td>
 <div>
 Override this method to perform the logic after the behavior has been attached.
-</div> (Overrides <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior.onattach(v=pandp.50)">RegionBehavior<span>.</span>OnAttach<span></span></a>.)</td>
+</div> (Overrides <a href="regionbehavior-onattach-method-mspp-regions.md">RegionBehavior<span>.</span>OnAttach<span></span></a>.)</td>
 </tr>
 <tr>
 <td>
@@ -122,6 +122,6 @@ Override this method to perform the logic after the behavior has been attached.
 
 ## See Also
 
-[SyncRegionContextWithHostBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior(v=pandp.50))
+[SyncRegionContextWithHostBehavior Class](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors.md)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)

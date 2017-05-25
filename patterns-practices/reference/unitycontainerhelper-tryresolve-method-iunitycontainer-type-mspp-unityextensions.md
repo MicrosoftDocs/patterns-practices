@@ -2,7 +2,7 @@
 TOCTitle: 'TryResolve Method (IUnityContainer, Type)'
 Title: 'UnityContainerHelper.TryResolve Method (IUnityContainer, Type) (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityContainerHelper.TryResolve(Microsoft.Practices.Unity.IUnityContainer,System.Type)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitycontainerhelper.tryresolve(v=pandp.50)'
+ms:mtpsurl: 'unitycontainerhelper-tryresolve-method-iunitycontainer-type-mspp-unityextensions.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: WindowContentProperty Field
 Title: 'PopupWindowAction.WindowContentProperty Field (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'F:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.WindowContentProperty'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.popupwindowaction.windowcontentproperty(v=pandp.50)'
+ms:mtpsurl: 'popupwindowaction-windowcontentproperty-field-mspp-interactivity.md'
 ---
 
 Prism Class Library

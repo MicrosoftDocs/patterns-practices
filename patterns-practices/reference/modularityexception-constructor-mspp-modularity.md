@@ -2,14 +2,14 @@
 TOCTitle: ModularityException Constructor
 Title: 'ModularityException Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModularityException.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception.modularityexception(v=pandp.50)'
+ms:mtpsurl: 'modularityexception-constructor-mspp-modularity.md'
 ---
 
 # ModularityException Constructor
 
-Initializes a new instance of the [ModularityException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception(v=pandp.50)) class.
+Initializes a new instance of the [ModularityException](modularityexception-class-mspp-modularity.md) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,10 +28,10 @@ Public Sub New
 
 ## See Also
 
-[ModularityException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception(v=pandp.50))
+[ModularityException Class](modularityexception-class-mspp-modularity.md)
 
-[ModularityException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modularityexception_members(v=pandp.50))
+[ModularityException Members](modularityexception-members-mspp-modularity.md)
 
 ModularityException Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

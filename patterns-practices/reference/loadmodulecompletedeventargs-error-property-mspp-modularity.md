@@ -2,7 +2,7 @@
 TOCTitle: Error Property
 Title: 'LoadModuleCompletedEventArgs.Error Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.LoadModuleCompletedEventArgs.Error'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs.error(v=pandp.50)'
+ms:mtpsurl: 'loadmodulecompletedeventargs-error-property-mspp-modularity.md'
 ---
 
 Prism Class Library

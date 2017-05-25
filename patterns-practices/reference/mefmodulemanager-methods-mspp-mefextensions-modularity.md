@@ -2,14 +2,14 @@
 TOCTitle: MefModuleManager Methods
 Title: 'MefModuleManager Methods (Microsoft.Practices.Prism.MefExtensions.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager_methods(v=pandp.50)'
+ms:mtpsurl: 'mefmodulemanager-methods-mspp-mefextensions-modularity.md'
 ---
 
 Prism Class Library
 
 # MefModuleManager Methods
 
-The [MefModuleManager](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager(v=pandp.50)) type exposes the following members.
+The [MefModuleManager](mefmodulemanager-class-mspp-mefextensions-modularity.md) type exposes the following members.
 
 ## Methods
 
@@ -140,6 +140,6 @@ Returns a string that represents the current object.
 ## See Also
 
 
-[MefModuleManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager(v=pandp.50))
+[MefModuleManager Class](mefmodulemanager-class-mspp-mefextensions-modularity.md)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)

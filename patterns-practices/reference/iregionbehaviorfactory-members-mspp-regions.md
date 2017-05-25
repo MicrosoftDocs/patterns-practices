@@ -2,7 +2,7 @@
 TOCTitle: IRegionBehaviorFactory Members
 Title: 'IRegionBehaviorFactory Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehaviorfactory_members(v=pandp.50)'
+ms:mtpsurl: 'iregionbehaviorfactory-members-mspp-regions.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: EventBase Properties
 Title: 'EventBase Properties (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.EventBase'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase_properties(v=pandp.50)'
+ms:mtpsurl: 'eventbase-properties-mspp-pubsubevents.md'
 ---
 
 Prism Class Library

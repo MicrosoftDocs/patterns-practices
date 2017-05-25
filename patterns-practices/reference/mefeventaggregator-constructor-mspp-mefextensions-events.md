@@ -2,7 +2,7 @@
 TOCTitle: MefEventAggregator Constructor
 Title: 'MefEventAggregator Constructor (Microsoft.Practices.Prism.MefExtensions.Events)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Events.MefEventAggregator.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator.mefeventaggregator(v=pandp.50)'
+ms:mtpsurl: 'mefeventaggregator-constructor-mspp-mefextensions-events.md'
 ---
 
 Prism Class Library

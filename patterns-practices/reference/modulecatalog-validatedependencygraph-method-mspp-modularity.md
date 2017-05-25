@@ -2,7 +2,7 @@
 TOCTitle: ValidateDependencyGraph Method
 Title: 'ModuleCatalog.ValidateDependencyGraph Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.ValidateDependencyGraph'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.validatedependencygraph(v=pandp.50)'
+ms:mtpsurl: 'modulecatalog-validatedependencygraph-method-mspp-modularity.md'
 ---
 
 Prism Class Library

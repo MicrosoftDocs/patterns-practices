@@ -2,7 +2,7 @@
 TOCTitle: ModuleDependencySolver Members
 Title: 'ModuleDependencySolver Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleDependencySolver'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduledependencysolver_members(v=pandp.50)'
+ms:mtpsurl: 'moduledependencysolver-members-mspp-modularity.md'
 ---
 
 Prism Class Library

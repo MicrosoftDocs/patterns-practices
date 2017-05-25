@@ -2,7 +2,7 @@
 TOCTitle: IsActive Property
 Title: 'IActiveAware.IsActive Property (Microsoft.Practices.Prism)'
 ms:assetid: 'P:Microsoft.Practices.Prism.IActiveAware.IsActive'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.iactiveaware.isactive(v=pandp.50)'
+ms:mtpsurl: 'iactiveaware-isactive-property-mspp.md'
 ---
 
 Prism Class Library

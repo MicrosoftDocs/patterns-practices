@@ -2,7 +2,7 @@
 TOCTitle: MefRegionNavigationService Events
 Title: 'MefRegionNavigationService Events (Microsoft.Practices.Prism.MefExtensions.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationService'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice_events(v=pandp.50)'
+ms:mtpsurl: 'mefregionnavigationservice-events-mspp-mefextensions-regions.md'
 ---
 
 Prism Class Library

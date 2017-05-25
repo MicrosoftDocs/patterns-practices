@@ -2,7 +2,7 @@
 TOCTitle: IRegionBehavior Interface
 Title: 'IRegionBehavior Interface (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.IRegionBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior(v=pandp.50)'
+ms:mtpsurl: 'iregionbehavior-interface-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Interface for allowing extensible behavior on regions.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -30,6 +30,6 @@ Public Interface IRegionBehavior
 ## See Also
 
 
-[IRegionBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior_members(v=pandp.50))
+[IRegionBehavior Members](iregionbehavior-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

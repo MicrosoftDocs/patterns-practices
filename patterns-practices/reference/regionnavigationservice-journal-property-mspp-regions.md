@@ -2,7 +2,7 @@
 TOCTitle: Journal Property
 Title: 'RegionNavigationService.Journal Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationService.Journal'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice.journal(v=pandp.50)'
+ms:mtpsurl: 'regionnavigationservice-journal-property-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Gets the journal.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -31,18 +31,18 @@ Public ReadOnly Property Journal As IRegionNavigationJournal
 
 ### Property Value
 
-Type: [IRegionNavigationJournal](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal(v=pandp.50))
+Type: [IRegionNavigationJournal](iregionnavigationjournal-interface-mspp-regions.md)
 <br/>The journal.
 
 ### Implements
 
-[IRegionNavigationService.Journal](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice.journal(v=pandp.50))
+[IRegionNavigationService.Journal](iregionnavigationservice-journal-property-mspp-regions.md)
 
 ## See Also
 
 
-[RegionNavigationService Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice(v=pandp.50))
+[RegionNavigationService Class](regionnavigationservice-class-mspp-regions.md)
 
-[RegionNavigationService Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice_members(v=pandp.50))
+[RegionNavigationService Members](regionnavigationservice-members-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

@@ -2,7 +2,7 @@
 TOCTitle: IModuleCatalog Members
 Title: 'IModuleCatalog Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.IModuleCatalog'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.imodulecatalog_members(v=pandp.50)'
+ms:mtpsurl: 'imodulecatalog-members-mspp-modularity.md'
 ---
 
 Prism Class Library

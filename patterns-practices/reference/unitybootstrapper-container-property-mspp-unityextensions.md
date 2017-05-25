@@ -2,7 +2,7 @@
 TOCTitle: Container Property
 Title: 'UnityBootstrapper.Container Property (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.Container'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapper.container(v=pandp.50)'
+ms:mtpsurl: 'unitybootstrapper-container-property-mspp-unityextensions.md'
 ---
 
 Prism Class Library

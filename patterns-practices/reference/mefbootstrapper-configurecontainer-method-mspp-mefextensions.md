@@ -2,7 +2,7 @@
 TOCTitle: ConfigureContainer Method
 Title: 'MefBootstrapper.ConfigureContainer Method (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.ConfigureContainer'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper.configurecontainer(v=pandp.50)'
+ms:mtpsurl: 'mefbootstrapper-configurecontainer-method-mspp-mefextensions.md'
 ---
 
 Prism Class Library

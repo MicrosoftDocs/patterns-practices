@@ -2,7 +2,7 @@
 TOCTitle: 'RegisterViewWithRegion Method (String, Type)'
 Title: 'IRegionViewRegistry.RegisterViewWithRegion Method (String, Type) (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionViewRegistry.RegisterViewWithRegion(System.String,System.Type)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionviewregistry.registerviewwithregion(v=pandp.50)'
+ms:mtpsurl: 'iregionviewregistry-registerviewwithregion-method-mspp-regions.md'
 ---
 
 Prism Class Library
@@ -12,7 +12,7 @@ IRegionViewRegistry.RegisterViewWithRegion Method (String, Type)
 
 Registers a content type with a region name.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -54,10 +54,10 @@ See Also
 --------
 
 
-[IRegionViewRegistry Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionviewregistry(v=pandp.50))
+[IRegionViewRegistry Interface](iregionviewregistry-interface-mspp-regions.md)
 
 [IRegionViewRegistry Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionviewregistry_members(v=pandp.50))
 
-[RegisterViewWithRegion Overload](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionviewregistry.registerviewwithregion(v=pandp.50))
+[RegisterViewWithRegion Overload](iregionviewregistry-registerviewwithregion-method-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

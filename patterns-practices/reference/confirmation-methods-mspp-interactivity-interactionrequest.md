@@ -2,7 +2,7 @@
 TOCTitle: Confirmation Methods
 Title: 'Confirmation Methods (Microsoft.Practices.Prism.Interactivity.InteractionRequest)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confirmation'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation_methods(v=pandp.50)'
+ms:mtpsurl: 'confirmation-methods-mspp-interactivity-interactionrequest.md'
 ---
 
 Prism Class Library
@@ -10,7 +10,7 @@ Prism Class Library
 Confirmation Methods
 ====================
 
-The [Confirmation](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation(v=pandp.50)) type exposes the following members.
+The [Confirmation](confirmation-class-mspp-interactivity-interactionrequest.md) type exposes the following members.
 
 Methods
 -------
@@ -80,6 +80,6 @@ See Also
 --------
 
 
-[Confirmation Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation(v=pandp.50))
+[Confirmation Class](confirmation-class-mspp-interactivity-interactionrequest.md)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)

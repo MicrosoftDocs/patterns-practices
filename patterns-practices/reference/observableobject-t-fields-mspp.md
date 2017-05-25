@@ -2,7 +2,7 @@
 TOCTitle: 'ObservableObject(T) Fields'
 Title: 'ObservableObject(T) Fields (Microsoft.Practices.Prism)'
 ms:assetid: 'Fields.T:Microsoft.Practices.Prism.ObservableObject\`1'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/gg430945(v=pandp.50)'
+ms:mtpsurl: 'observableobject-t-fields-mspp.md'
 ---
 
 Prism Class Library

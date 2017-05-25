@@ -2,7 +2,7 @@
 TOCTitle: KeepAlive Property
 Title: 'IRegionMemberLifetime.KeepAlive Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionMemberLifetime.KeepAlive'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmemberlifetime.keepalive(v=pandp.50)'
+ms:mtpsurl: 'iregionmemberlifetime-keepalive-property-mspp-regions.md'
 ---
 
 Prism Class Library

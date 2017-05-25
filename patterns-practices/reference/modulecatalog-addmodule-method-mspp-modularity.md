@@ -2,7 +2,7 @@
 TOCTitle: AddModule Method
 Title: 'ModuleCatalog.AddModule Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddModule'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulecatalog.addmodule(v=pandp.50)'
+ms:mtpsurl: 'addmodule-mthd-str-str-initializationmode-str.md'
 ---
 
 Prism Class Library

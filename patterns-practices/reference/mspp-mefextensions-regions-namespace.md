@@ -2,7 +2,7 @@
 TOCTitle: 'Microsoft.Practices.Prism.MefExtensions.Regions Namespace'
 Title: 'Microsoft.Practices.Prism.MefExtensions.Regions Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.MefExtensions.Regions'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions(v=pandp.50)'
+ms:mtpsurl: 'mspp-mefextensions-regions-namespace.md'
 ---
 
 Prism Class Library

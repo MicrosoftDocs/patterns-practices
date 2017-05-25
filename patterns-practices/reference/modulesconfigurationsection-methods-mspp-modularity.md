@@ -2,7 +2,7 @@
 TOCTitle: ModulesConfigurationSection Methods
 Title: 'ModulesConfigurationSection Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModulesConfigurationSection'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulesconfigurationsection_methods(v=pandp.50)'
+ms:mtpsurl: 'modulesconfigurationsection-methods-mspp-modularity.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: Region Property
 Title: 'RegionNavigationService.Region Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationService.Region'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice.region(v=pandp.50)'
+ms:mtpsurl: 'regionnavigationservice-region-property-mspp-regions.md'
 ---
 
 Prism Class Library

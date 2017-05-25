@@ -2,7 +2,7 @@
 TOCTitle: IHostAwareRegionBehavior Methods
 Title: 'IHostAwareRegionBehavior Methods (Microsoft.Practices.Prism.Regions.Behaviors)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.IHostAwareRegionBehavior'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior_methods(v=pandp.50)'
+ms:mtpsurl: 'ihostawareregionbehavior-methods-mspp-regions-behaviors.md'
 ---
 
 Prism Class Library

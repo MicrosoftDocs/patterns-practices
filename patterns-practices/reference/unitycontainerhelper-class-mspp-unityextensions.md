@@ -2,7 +2,7 @@
 TOCTitle: UnityContainerHelper Class
 Title: 'UnityContainerHelper Class (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.UnityExtensions.UnityContainerHelper'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitycontainerhelper(v=pandp.50)'
+ms:mtpsurl: 'unitycontainerhelper-class-mspp-unityextensions.md'
 ---
 
 Prism Class Library

@@ -2,7 +2,7 @@
 TOCTitle: Container Property
 Title: 'MefBootstrapper.Container Property (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.Container'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper.container(v=pandp.50)'
+ms:mtpsurl: 'mefbootstrapper-container-property-mspp-mefextensions.md'
 ---
 
 Prism Class Library

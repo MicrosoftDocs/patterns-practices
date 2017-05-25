@@ -2,7 +2,7 @@
 TOCTitle: ModuleInitializer Class
 Title: 'ModuleInitializer Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleInitializer'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduleinitializer(v=pandp.50)'
+ms:mtpsurl: 'moduleinitializer-class-mspp-modularity.md'
 ---
 
 Prism Class Library

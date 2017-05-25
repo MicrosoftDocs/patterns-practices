@@ -2,12 +2,12 @@
 TOCTitle: IRegionManagerAccessor Methods
 Title: 'IRegionManagerAccessor Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegionManagerAccessor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor_methods(v=pandp.50)'
+ms:mtpsurl: 'iregionmanageraccessor-methods-mspp-regions.md'
 ---
 
 # IRegionManagerAccessor Methods
 
-The [IRegionManagerAccessor](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor(v=pandp.50)) type exposes the following members.
+The [IRegionManagerAccessor](iregionmanageraccessor-interface-mspp-regions.md) type exposes the following members.
 
 ## Methods
 
@@ -40,6 +40,6 @@ Gets the value for the RegionName attached property.
 
 ## See Also
 
-[IRegionManagerAccessor Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor(v=pandp.50))
+[IRegionManagerAccessor Interface](iregionmanageraccessor-interface-mspp-regions.md)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

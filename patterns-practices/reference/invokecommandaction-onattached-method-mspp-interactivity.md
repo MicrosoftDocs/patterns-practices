@@ -2,7 +2,7 @@
 TOCTitle: OnAttached Method
 Title: 'InvokeCommandAction.OnAttached Method (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.OnAttached'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.onattached(v=pandp.50)'
+ms:mtpsurl: 'invokecommandaction-onattached-method-mspp-interactivity.md'
 ---
 
 
@@ -11,7 +11,7 @@ InvokeCommandAction.OnAttached Method
 
 This method is called after the behavior is attached. It updates the command behavior's Command and CommandParameter properties if necessary.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](mspp-interactivity-namespace.md)
 
 =======
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
@@ -32,12 +32,12 @@ Protected Overrides Sub OnAttached
 
 ## See Also
 
-[InvokeCommandAction Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50))
+[InvokeCommandAction Class](invokecommandaction-class-mspp-interactivity.md)
 =======
 [InvokeCommandAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction)
 
-[InvokeCommandAction Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction_members(v=pandp.50))
+[InvokeCommandAction Members](invokecommandaction-members-mspp-interactivity.md)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace.md)
 =======
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)

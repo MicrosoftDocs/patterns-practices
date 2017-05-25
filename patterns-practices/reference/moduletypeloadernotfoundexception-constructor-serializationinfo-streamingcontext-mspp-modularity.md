@@ -2,7 +2,7 @@
 TOCTitle: 'ModuleTypeLoaderNotFoundException Constructor (SerializationInfo, StreamingContext)'
 Title: 'ModuleTypeLoaderNotFoundException Constructor (SerializationInfo, StreamingContext) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException.\#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception.moduletypeloadernotfoundexception(v=pandp.50)'
+ms:mtpsurl: 'moduletypeloadernotfoundexception-constructor-mspp-modularity.md'
 ---
 
 Prism Class Library

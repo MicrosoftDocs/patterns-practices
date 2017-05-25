@@ -2,7 +2,7 @@
 TOCTitle: UnityBootstrapper Constructor
 Title: 'UnityBootstrapper Constructor (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.\#ctor'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitybootstrapper.unitybootstrapper(v=pandp.50)'
+ms:mtpsurl: 'unitybootstrapper-constructor-mspp-unityextensions.md'
 ---
 
 Prism Class Library

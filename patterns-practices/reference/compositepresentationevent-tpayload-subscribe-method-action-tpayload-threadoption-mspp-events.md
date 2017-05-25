@@ -2,7 +2,7 @@
 TOCTitle: 'Subscribe Method (Action(TPayload), ThreadOption)'
 Title: 'CompositePresentationEvent(TPayload).Subscribe Method (Action(TPayload), ThreadOption) (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Subscribe(System.Action{\`0},Microsoft.Practices.Prism.PubSubEvents.ThreadOption)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/dn683953(v=pandp.50)'
+ms:mtpsurl: 'compositepresentationevent-tpayload-subscribe-method-action-tpayload-threadoption-mspp-events.md'
 ---
 
 Prism Class Library
@@ -11,7 +11,7 @@ Prism Class Library
 
 Subscribes a delegate to an event. CompositePresentationEvent will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate.
 
-**Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Events](mspp-events-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -30,7 +30,7 @@ public SubscriptionToken Subscribe(
 ### Parameters
 
 *action*  
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)&gt;
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](compositepresentationevent-tpayload-class-mspp-events.md&gt;
 
 The delegate that gets executed when the event is raised.
 
@@ -52,19 +52,19 @@ A SubscriptionToken that uniquely identifies the added subscription.
 ## See Also
 
 
-[CompositePresentationEvent&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))
+[CompositePresentationEvent&lt;TPayload&gt; Class](compositepresentationevent-tpayload-class-mspp-events.md)
 
-[CompositePresentationEvent&lt;TPayload&gt; Members](https://msdn.microsoft.com/en-us/library/gg430765(v=pandp.50))
+[CompositePresentationEvent&lt;TPayload&gt; Members](compositepresentationevent-tpayload-members-mspp-events.md)
 
-[Subscribe Overload](https://msdn.microsoft.com/en-us/library/gg419057(v=pandp.50))
+[Subscribe Overload](compositepresentationevent-tpayload-subscribe-method-mspp-events.md)
 
-[Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
+[Microsoft.Practices.Prism.Events Namespace](mspp-events-namespace.md)
 
 # CompositePresentationEvent(Of TPayload).Subscribe Method (Action(Of TPayload), ThreadOption)
 
 Subscribes a delegate to an event. CompositePresentationEvent will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate.
 
-**Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Events](mspp-events-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -84,7 +84,7 @@ Public Function Subscribe (
 ### Parameters
 
 *action*  
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50)))
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](compositepresentationevent-tpayload-class-mspp-events.md))
 
 The delegate that gets executed when the event is raised.
 
@@ -106,10 +106,10 @@ A SubscriptionToken that uniquely identifies the added subscription.
 ## See Also
 
 
-[CompositePresentationEvent(Of TPayload) Class](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))
+[CompositePresentationEvent(Of TPayload) Class](compositepresentationevent-tpayload-class-mspp-events.md)
 
-[CompositePresentationEvent(Of TPayload) Members](https://msdn.microsoft.com/en-us/library/gg430765(v=pandp.50))
+[CompositePresentationEvent(Of TPayload) Members](compositepresentationevent-tpayload-members-mspp-events.md)
 
-[Subscribe Overload](https://msdn.microsoft.com/en-us/library/gg419057(v=pandp.50))
+[Subscribe Overload](compositepresentationevent-tpayload-subscribe-method-mspp-events.md)
 
-[Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
+[Microsoft.Practices.Prism.Events Namespace](mspp-events-namespace.md)

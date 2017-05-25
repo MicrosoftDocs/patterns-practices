@@ -2,7 +2,7 @@
 TOCTitle: Adapt Method
 Title: 'ItemsControlRegionAdapter.Adapt Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ItemsControlRegionAdapter.Adapt(Microsoft.Practices.Prism.Regions.IRegion,System.Windows.Controls.ItemsControl)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemscontrolregionadapter.adapt(v=pandp.50)'
+ms:mtpsurl: 'itemscontrolregionadapter-adapt-method-mspp-regions.md'
 ---
 
 Prism Class Library

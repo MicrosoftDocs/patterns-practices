@@ -2,16 +2,16 @@
 TOCTitle: 'CyclicDependencyFoundException Constructor (SerializationInfo, StreamingContext)'
 Title: 'CyclicDependencyFoundException Constructor (SerializationInfo, StreamingContext) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException.\#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
-ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception.cyclicdependencyfoundexception(v=pandp.50)'
+ms:mtpsurl: 'cyclicdependencyfoundexception-constructor-mspp-modularity.md'
 ---
 
 Prism Class Library
 
 # CyclicDependencyFoundException Constructor (SerializationInfo, StreamingContext)
 
-Initializes a new instance of the [CyclicDependencyFoundException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception(v=pandp.50)) class with the serialization data.
+Initializes a new instance of the [CyclicDependencyFoundException](cyclicdependencyfoundexception-class-mspp-modularity.md) class with the serialization data.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -49,10 +49,10 @@ Protected Sub New (
 
 ## See Also
 
-[CyclicDependencyFoundException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception(v=pandp.50))
+[CyclicDependencyFoundException Class](cyclicdependencyfoundexception-class-mspp-modularity.md)
 
-[CyclicDependencyFoundException Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception_members(v=pandp.50))
+[CyclicDependencyFoundException Members](cyclicdependencyfoundexception-members-mspp-modularity.md)
 
 CyclicDependencyFoundException Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
