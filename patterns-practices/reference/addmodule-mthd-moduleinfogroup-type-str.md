@@ -7,7 +7,7 @@ ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Gg405902(v=PandP.50)'
 
 Prism Class Library
 
-ModuleInfoGroupExtensions.AddModule Method (ModuleInfoGroup, Type, array&lt;String&gt;)
+# ModuleInfoGroupExtensions.AddModule Method (ModuleInfoGroup, Type, array&lt;String&gt;)
 =====================================================================================================
 
 Adds a new module that is statically referenced to the specified module info group.
