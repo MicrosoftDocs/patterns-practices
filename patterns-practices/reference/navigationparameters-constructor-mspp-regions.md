@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationParameters.\#ctor'
 ms:mtpsurl: 'https://msdn.microsoft.com/en-us/library/Dn683929(v=PandP.50)'
 ---
 
-Prism Class Library
 
-NavigationParameters Constructor
-================================
+# NavigationParameters Constructor
 
 Initializes a new instance of the [NavigationParameters](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters(v=pandp.50)) class.
 
