@@ -6,31 +6,34 @@ ms:mtpsurl: 'iconfirmation-confirmed-property-mspp-interactivity-interactionrequ
 ---
 
 # IConfirmation.Confirmed Property
-=======
-Prism Class Library
-
-IConfirmation.Confirmed Property
-====================================
 
 Gets or sets a value indicating that the confirmation is confirmed.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
 
-**Version:** 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+```C#
+bool Confirmed { get; set; }
+```
 
-bool Confirmed { get; set; }Property Confirmed As Boolean Get Set
+```VB
+'Declaration
+Property Confirmed As Boolean
+	Get
+	Set
+```
+
 ### Property Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 
 ## See Also
 
-[IConfirmation Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation)
+[IConfirmation Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation(v=pandp.50))
 
-[IConfirmation Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.iconfirmation)
+[IConfirmation Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation_members(v=pandp.50))
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
