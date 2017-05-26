@@ -35,11 +35,11 @@ For information related to containers, see the following:
 -  [Unity community site](http://www.codeplex.com/unity) on CodePlex.
 -  [Managed Extensibility Framework Overview](http://msdn.microsoft.com/en-us/library/dd460648.aspx) on MSDN.
 -  [MEF community site](http://mef.codeplex.com/) on CodePlex
--  [Inversion of Control containers and the Dependency Injection pattern](http://www.martinfowler.com/articles/injection.html) on Martin Fowler's website.
+-  [Inversion of Control containers and the Dependency Injection pattern](https://www.martinfowler.com/articles/injection.html) on Martin Fowler's website.
 -  [Design Patterns: Dependency Injection](http://msdn.microsoft.com/en-us/magazine/cc163739.aspx) in *MSDN Magazine*.
 -  [Loosen Up: Tame Your Software Dependencies for More Flexible Apps](http://msdn.microsoft.com/en-us/magazine/cc337885.aspx) in *MSDN Magazine*.
--  [Castle Project](http://www.castleproject.org/container/index.html)
--  [StructureMap](http://structuremap.sourceforge.net/default.htm)
+-  [Castle Project](http://www.castleproject.org/)
+-  [StructureMap](https://sourceforge.net/projects/structuremap/)
 -  [Spring.NET](http://www.springframework.net/)
 
 ##  Modular Application Development
@@ -153,14 +153,14 @@ The following are references and links to the patterns found in the Stock Trader
 -  Template Method pattern in Chapter 5, "Behavioral Patterns," in *Design Patterns: Elements of Reusable Object-Oriented Software* (1).
 -  Observer pattern in Chapter 5, "Behavioral Patterns," in *Design Patterns: Elements of Reusable Object-Oriented Software* (1).
 -  [Exploring the Observer Design Pattern](http://msdn.microsoft.com/en-us/library/ee817669(pandp.10).aspx) on MSDN.
--  [Repository pattern](http://www.martinfowler.com/eaacatalog/repository.html) in *Patterns of Enterprise Application Architecture* by Martin Fowler or the abbreviated version on his website.
--  Inversion of Control containers and the [Dependency Injection](http://www.martinfowler.com/articles/injection.html) pattern on Martin Fowler's website.
--  [Plugin pattern](http://www.martinfowler.com/eaacatalog/plugin.html) on Martin Fowler's website.
--  [Registry pattern](http://martinfowler.com/eaacatalog/registry.html) on Martin Fowler's website.
--  [Presentation Model pattern](http://www.martinfowler.com/eaadev/presentationmodel.html) on Martin Fowler's website.
--  [Event Aggregator pattern](http://www.martinfowler.com/eaadev/eventaggregator.html) on Martin Fowler's website.
--  [Separated Interface pattern](http://www.martinfowler.com/eaacatalog/separatedinterface.html) on Martin Fowler's website.
--  [MVC and MVP variants](http://martinfowler.com/eaadev/uiarchs.html) on Martin Fowler's website.
+-  [Repository pattern](https://www.martinfowler.com/eaaCatalog/repository.html) in *Patterns of Enterprise Application Architecture* by Martin Fowler or the abbreviated version on his website.
+-  Inversion of Control containers and the [Dependency Injection](https://www.martinfowler.com/articles/injection.html) pattern on Martin Fowler's website.
+-  [Plugin pattern](https://www.martinfowler.com/eaaCatalog/plugin.html) on Martin Fowler's website.
+-  [Registry pattern](https://www.martinfowler.com/eaaCatalog/registry.html) on Martin Fowler's website.
+-  [Presentation Model pattern](https://www.martinfowler.com/eaaDev/PresentationModel.html) on Martin Fowler's website.
+-  [Event Aggregator pattern](https://www.martinfowler.com/eaaDev/EventAggregator.html) on Martin Fowler's website.
+-  [Separated Interface pattern](https://www.martinfowler.com/eaaCatalog/separatedInterface.html) on Martin Fowler's website.
+-  [MVC and MVP variants](https://www.martinfowler.com/eaaDev/uiArchs.html) on Martin Fowler's website.
 -  [Design Patterns: Dependency Injection](http://msdn.microsoft.com/en-us/magazine/cc163739.aspx) by Griffin Caprio on MSDN.
 -  [Model-View-ViewModel pattern](http://blogs.msdn.com/johngossman/archive/2005/10/08/478683.aspx) on John Gossman's blog.
 

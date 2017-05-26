@@ -339,14 +339,14 @@ In the following situations, it may be appropriate for you to use the **IService
 
 For information related to containers, see the following:
 
--   [Unity Application Block](http://www.msdn.com/unity) on MSDN.
+-   [Unity Application Block](https://msdn.microsoft.com/library/ff647202.aspx) on MSDN.
 -   [Unity community site](http://www.codeplex.com/unity) on CodePlex.
 -   [Managed Extensibility Framework Overview](http://msdn.microsoft.com/en-us/library/dd460648.aspx) on MSDN.
 -   [MEF community site](http://mef.codeplex.com/) on CodePlex.
--   [Inversion of Control containers and the Dependency Injection pattern](http://www.martinfowler.com/articles/injection.html) on Martin Fowler's website.
--   [Design Patterns: Dependency Injection](http://msdn.microsoft.com/en-us/magazine/cc163739.aspx) in *MSDN Magazine*.
--   [Loosen Up: Tame Your Software Dependencies for More Flexible Apps](http://msdn.microsoft.com/en-us/magazine/cc337885.aspx) in *MSDN Magazine*.
--   [Castle Project](http://www.castleproject.org/container/index.html)
--   [StructureMap](http://structuremap.sourceforge.net/default.htm)
+-   [Inversion of Control containers and the Dependency Injection pattern](https://www.martinfowler.com/articles/injection.html) on Martin Fowler's website.
+-   [Design Patterns: Dependency Injection](https://msdn.microsoft.com/en-us/magazine/cc163739.aspx) in *MSDN Magazine*.
+-   [Loosen Up: Tame Your Software Dependencies for More Flexible Apps](https://msdn.microsoft.com/en-us/magazine/cc337885.aspx) in *MSDN Magazine*.
+-   [Castle Project](http://www.castleproject.org/)
+-   [StructureMap](http://sourceforge.net/projects/structuremap/)
 -   [Spring.NET](http://www.springframework.net/)
 
