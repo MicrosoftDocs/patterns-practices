@@ -5,19 +5,18 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.IEventAggregator'
 ms:mtpsurl: 'ieventaggregator-methods-mspp-pubsubevents.md'
 ---
 
-Prism Class Library
-
-IEventAggregator Methods
-========================
+# IEventAggregator Methods
 
 The [IEventAggregator](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventaggregator) type exposes the following members.
 
-Methods
--------
+## Methods
 
-<span id="methodTableToggle"></span>
 <table>
-
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th> </th>
@@ -27,8 +26,9 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventaggregator.getevent%60%601">GetEvent&lt;(Of &lt;(TEventType&gt;)&gt;)</a></td>
+<td>
+<img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn736172(v=pandp.50)">GetEvent(Of TEventType)</a></td>
 <td><div class="summary">
 Gets an instance of an event type.
 </div></td>
@@ -36,9 +36,7 @@ Gets an instance of an event type.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IEventAggregator Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventaggregator)
 
