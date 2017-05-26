@@ -36,22 +36,13 @@ Public Shared Sub RequestNavigate (
 ### Parameters
 
 *navigation*  
-        
-        Type: [Microsoft.Practices.Prism.Regions.INavigateAsync](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync(v=pandp.50))
+The navigation object.
 
-        The navigation object.
-
-*target* 
- 
-        Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
-
-        A Uri that represents the target where the region will navigate.
+*target*<br/>
+A Uri that represents the target where the region will navigate.
 
 *navigationParameters*  
-
-        Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters(v=pandp.50))
-
-        An instance of NavigationParameters, which holds a collection of object parameters.
+An instance of NavigationParameters, which holds a collection of object parameters.
 
 ### Usage Note
 
