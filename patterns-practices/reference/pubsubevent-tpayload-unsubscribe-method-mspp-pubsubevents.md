@@ -5,17 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Unsu
 ms:mtpsurl: 'pubsubevent-tpayload-unsubscribe-method-mspp-pubsubevents.md'
 ---
 
-Prism Class Library
+# PubSubEvent&lt;TPayload&gt;.Unsubscribe Method
 
-PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Unsubscribe Method
-=================================================================
+## Overload List
 
-Overload List
--------------
-
-<span id="overloadMembersTableToggle"></span>
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -26,9 +20,9 @@ Overload List
 <tbody>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601.unsubscribe(system.action%7b%600%7d)">Unsubscribe(Action&lt;(Of &lt;(TPayload&gt;)&gt;))</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn736235(v=pandp.50)">Unsubscribe(Action&lt;TPayload&gt;)</a></td>
 <td><div class="summary">
-Removes the first subscriber matching <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;(Of &lt;(T&gt;)&gt;)</a> from the subscribers' list.
+Removes the first subscriber matching <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;T&gt;</a> from the subscribers' list.
 </div></td>
 </tr>
 <tr class="even">
@@ -42,12 +36,10 @@ Removes the subscriber matching the <a href="https://msdn.microsoft.com/library/
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
+[PubSubEvent&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50))
 
-[PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601)
-
-[PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.pubsubevent%601)
+PubSubEvent&lt;TPayload&gt; Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)

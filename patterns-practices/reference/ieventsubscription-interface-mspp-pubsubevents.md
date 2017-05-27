@@ -7,34 +7,26 @@ ms:mtpsurl: 'ieventsubscription-interface-mspp-pubsubevents.md'
 
 # IEventSubscription Interface
 
-Defines a contract for an event subscription to be used by [EventBase](eventbase-class-mspp-pubsubevents.md).
+Defines a contract for an event subscription to be used by [EventBase](https://review.docs.microsoft.com/en-us/patterns-practices/reference/eventbase-class-mspp-pubsubevents).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://review.docs.microsoft.com/en-us/patterns-practices/reference/mspp-pubsubevents-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
-~~~C#
+```C#
 public interface IEventSubscription
-~~~
-~~~VB
+```
+
+```VB
 'Declaration
 Public Interface IEventSubscription
-~~~
-=======
-
-
-public interface IEventSubscriptionPublic Interface IEventSubscription
-
+``` 
 
 ## See Also
 
-
 IEventSubscription Members
-=======
 
-[IEventSubscription Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.ieventsubscription)
+[IEventSubscription Members](https://review.docs.microsoft.com/en-us/patterns-practices/reference/mspp-pubsubevents-namespace)
 
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
