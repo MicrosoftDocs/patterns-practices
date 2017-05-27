@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Su
 ms:mtpsurl: 'compositepresentationevent-tpayload-subscribe-method-action-tpayload-threadoption-boolean-mspp-events.md'
 ---
 
-Prism Class Library
 
 # CompositePresentationEvent&lt;TPayload&gt;.Subscribe Method (Action&lt;TPayload&gt;, ThreadOption, Boolean)
 

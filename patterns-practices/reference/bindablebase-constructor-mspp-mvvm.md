@@ -5,8 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Mvvm.BindableBase.\#ctor'
 ms:mtpsurl: 'bindablebase-constructor-mspp-mvvm.md'
 ---
 
-Prism Class Library
-
 # BindableBase Constructor
 
 Initializes a new instance of the [BindableBase](bindablebase-class-mspp-mvvm.md) class
@@ -25,9 +23,7 @@ protected BindableBase()
 Protected Sub New
 ```
 
-See Also
---------
-
+## See Also
 
 [BindableBase Class](bindablebase-class-mspp-mvvm.md)
 

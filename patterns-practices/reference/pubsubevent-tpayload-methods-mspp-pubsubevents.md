@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1'
 ms:mtpsurl: 'pubsubevent-tpayload-methods-mspp-pubsubevents.md'
 ---
 
-Prism Class Library
 
 # PubSubEvent(Of TPayload) Methods
 
@@ -25,9 +24,9 @@ The [PubSubEvent(Of TPayload)](pubsubevent-tpayload-class-mspp-pubsubevents.md) 
 <tbody>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601.contains(system.action%7b%600%7d)">Contains(Action&lt;(Of &lt;(TPayload&gt;)&gt;))</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601.contains(system.action%7b%600%7d)">Contains(Action&lt;TPayload&gt;)</a></td>
 <td><div class="summary">
-Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matching <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;(Of &lt;(T&gt;)&gt;)</a>.
+Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matching <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;T&gt;</a>.
 </div></td>
 </tr>
 <tr class="even">
@@ -96,42 +95,42 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601.publish(%600)">Publish</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn683930(v=pandp.50)">Publish</a></td>
 <td><div class="summary">
-Publishes the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601">PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)</a>.
+Publishes the <a href="https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50)">PubSubEvent&lt;TPayload&gt;</a>.
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601.subscribe(system.action%7b%600%7d)">Subscribe(Action&lt;(Of &lt;(TPayload&gt;)&gt;))</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn683969(v=pandp.50)">Subscribe(Action&lt;TPayload&gt;)</a></td>
 <td><div class="summary">
-Subscribes a delegate to an event that will be published on the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.threadoption">PublisherThread</a>. <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601">PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)</a> will maintain a <a href="http://msdn.microsoft.com/en-us/library/hbh8w2zd">WeakReference</a> to the target of the supplied action delegate.
+Subscribes a delegate to an event that will be published on the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.threadoption">PublisherThread</a>. <a href="https://msdn.microsoft.com/en-us/library/dn736103(v=pandp.50)">PubSubEvent&lt;TPayload&gt;</a> will maintain a <a href="http://msdn.microsoft.com/en-us/library/hbh8w2zd">WeakReference</a> to the target of the supplied action delegate.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601.subscribe(system.action%7b%600%7d%2cmicrosoft.practices.prism.pubsubevents.threadoption)">Subscribe(Action&lt;(Of &lt;(TPayload&gt;)&gt;), ThreadOption)</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn736155(v=pandp.50)">Subscribe(Action&lt;TPayload&gt;, ThreadOption)</a></td>
 <td><div class="summary">
 Subscribes a delegate to an event. PubSubEvent will maintain a <a href="http://msdn.microsoft.com/en-us/library/hbh8w2zd">WeakReference</a> to the Target of the supplied action delegate.
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601.subscribe(system.action%7b%600%7d%2csystem.boolean)">Subscribe(Action&lt;(Of &lt;(TPayload&gt;)&gt;), Boolean)</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn683949(v=pandp.50)">Subscribe(Action&lt;TPayload&gt;, Boolean)</a></td>
 <td><div class="summary">
 Subscribes a delegate to an event that will be published on the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.threadoption">PublisherThread</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601.subscribe(system.action%7b%600%7d%2cmicrosoft.practices.prism.pubsubevents.threadoption%2csystem.boolean)">Subscribe(Action&lt;(Of &lt;(TPayload&gt;)&gt;), ThreadOption, Boolean)</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn683942(v=pandp.50)">Subscribe(Action&lt;TPayload&gt;, ThreadOption, Boolean)</a></td>
 <td><div class="summary">
 Subscribes a delegate to an event.
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601.subscribe(system.action%7b%600%7d%2cmicrosoft.practices.prism.pubsubevents.threadoption%2csystem.boolean%2csystem.predicate%7b%600%7d)">Subscribe(Action&lt;(Of &lt;(TPayload&gt;)&gt;), ThreadOption, Boolean, Predicate&lt;(Of &lt;(TPayload&gt;)&gt;))</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn736225(v=pandp.50)">Subscribe(Action&lt;TPayload&gt;, ThreadOption, Boolean, Predicate&lt;TPayload&gt;)</a></td>
 <td><div class="summary">
 Subscribes a delegate to an event.
 </div></td>
@@ -146,9 +145,9 @@ Returns a string that represents the current object.
 </tr>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601.unsubscribe(system.action%7b%600%7d)">Unsubscribe(Action&lt;(Of &lt;(TPayload&gt;)&gt;))</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn736235(v=pandp.50)">Unsubscribe(Action&lt;TPayload&gt;)</a></td>
 <td><div class="summary">
-Removes the first subscriber matching <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;(Of &lt;(T&gt;)&gt;)</a> from the subscribers' list.
+Removes the first subscriber matching <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;T&gt;</a> from the subscribers' list.
 </div></td>
 </tr>
 <tr class="even">
@@ -164,6 +163,6 @@ Removes the subscriber matching the <a href="https://msdn.microsoft.com/library/
 
 ## See Also
 
-[PubSubEvent(Of TPayload) Class](pubsubevent-tpayload-class-mspp-pubsubevents.md  )
+[PubSubEvent(Of TPayload) Class](pubsubevent-tpayload-class-mspp-pubsubevents.md)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)

@@ -5,8 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.\#cto
 ms:mtpsurl: 'invokecommandaction-constructor-mspp-interactivity.md'
 ---
 
-Prism Class Library
-
 # InvokeCommandAction Constructor
 
 Initializes a new instance of the [InvokeCommandAction](invokecommandaction-class-mspp-interactivity.md) class
