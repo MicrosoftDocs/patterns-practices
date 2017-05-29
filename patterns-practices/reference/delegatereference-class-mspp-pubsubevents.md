@@ -34,5 +34,6 @@ Public Class DelegateReference
 
 ## See Also
 
+DelegateReference Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
