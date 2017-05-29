@@ -4,9 +4,7 @@ Title: 'DuplicateModuleException Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.DuplicateModuleException'
 ms:mtpsurl: 'duplicatemoduleexception-class-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # DuplicateModuleException Class
 
 Exception thrown when a module is declared twice in the same catalog.

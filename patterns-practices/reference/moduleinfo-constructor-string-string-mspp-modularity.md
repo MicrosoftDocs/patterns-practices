@@ -4,11 +4,8 @@ Title: 'ModuleInfo Constructor (String, String) (Microsoft.Practices.Prism.Modul
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfo.\#ctor(System.String,System.String)'
 ms:mtpsurl: 'moduleinfo-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInfo Constructor (String, String)
-=======================================
+
+# ModuleInfo Constructor (String, String)
 
 Initializes a new instance of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo).
 
@@ -18,9 +15,7 @@ Initializes a new instance of [ModuleInfo](https://msdn.microsoft.com/library/mi
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ModuleInfo( string name, string type )Public Sub New ( name As String, type As String )
+public ModuleInfo( string name, string type )Public Sub New ( name As String, type As String )
 
 ### Parameters
 
@@ -32,11 +27,8 @@ type
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The module's type.
 
-See Also
---------
-
-
-[ModuleInfo Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
+## See Also
+[ModuleInfo Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
 
 [ModuleInfo Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfo)
 

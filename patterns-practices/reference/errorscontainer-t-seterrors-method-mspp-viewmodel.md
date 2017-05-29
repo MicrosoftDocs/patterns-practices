@@ -4,14 +4,10 @@ Title: 'ErrorsContainer(T).SetErrors Method (Microsoft.Practices.Prism.ViewModel
 ms:assetid: 'Overload:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.SetErrors'
 ms:mtpsurl: 'errorscontainer-t-seterrors-method-mspp-viewmodel.md'
 ---
+
+# ErrorsContainer&lt;T&gt;.SetErrors Method
 
-Prism Class Library
-
-ErrorsContainer&lt;T&gt;.SetErrors Method
-============================================================
-
-Overload List
--------------
+## Overload List
 
 <table>
 
@@ -40,11 +36,8 @@ Sets the validation errors for the specified property.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ErrorsContainer&lt;T&gt; Class](errorscontainer-t-class-mspp-viewmodel.md)
+## See Also
+[ErrorsContainer&lt;T&gt; Class](errorscontainer-t-class-mspp-viewmodel.md)
 
 [ErrorsContainer&lt;T&gt; Members](errorscontainer-t-members-mspp-viewmodel.md)
 

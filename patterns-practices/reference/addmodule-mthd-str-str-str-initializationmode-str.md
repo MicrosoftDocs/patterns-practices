@@ -4,9 +4,7 @@ Title: 'ModuleCatalog.AddModule Method (String, String, String, InitializationMo
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddModule(System.String,System.String,System.String,Microsoft.Practices.Prism.Modularity.InitializationMode,System.String[])'
 ms:mtpsurl: 'addmodule-mthd-str-str-initializationmode-str.md'
 ---
-
-Prism Class Library
-
+
 # ModuleCatalog.AddModule Method (String, String, String, InitializationMode, String[])
 
 Adds a groupless [ModuleInfo](moduleinfo-class-mspp-modularity.md) to the catalog.
@@ -28,9 +26,7 @@ public ModuleCatalog AddModule(
 	params string[] dependsOn
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *moduleName*  
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
@@ -95,9 +91,7 @@ Public Function AddModule (
 	ParamArray dependsOn As String()
 ) As ModuleCatalog
 ```
-
-
-### Parameters
+### Parameters
 
 *moduleName*  
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)

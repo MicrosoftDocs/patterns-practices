@@ -4,9 +4,7 @@ Title: 'DirectoryModuleCatalog Constructor (Microsoft.Practices.Prism.Modularity
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog.\#ctor'
 ms:mtpsurl: 'directorymodulecatalog-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # DirectoryModuleCatalog Constructor
 
 Initializes a new instance of the [DirectoryModuleCatalog](directorymodulecatalog-class-mspp-modularity.md) class
@@ -28,9 +26,7 @@ Public Sub New
 ```
 
 ## See Also
-
-
-[DirectoryModuleCatalog Class](directorymodulecatalog-class-mspp-modularity.md)
+[DirectoryModuleCatalog Class](directorymodulecatalog-class-mspp-modularity.md)
 
 [DirectoryModuleCatalog Members](directorymodulecatalog-members-mspp-modularity.md)
 

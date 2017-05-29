@@ -4,9 +4,7 @@ Title: 'ListDictionary(TKey, TValue) Class (Microsoft.Practices.Prism)'
 ms:assetid: 'T:Microsoft.Practices.Prism.ListDictionary\`2'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-class-mspp.md'
 ---
-
-Prism Class Library
-
+
 # ListDictionary<TKey, TValue> Class
 
 A dictionary of lists.

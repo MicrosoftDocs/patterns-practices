@@ -4,14 +4,10 @@ Title: 'SubscriptionToken.Equals Method (Microsoft.Practices.Prism.PubSubEvents)
 ms:assetid: 'Overload:Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken.Equals'
 ms:mtpsurl: 'subscriptiontoken-equals-method-mspp-pubsubevents.md'
 ---
+
+# SubscriptionToken.Equals Method
 
-Prism Class Library
-
-SubscriptionToken.Equals Method
-===================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -42,11 +38,8 @@ Indicates whether the current object is equal to another object of the same type
 </tbody>
 </table>
 
-See Also
---------
-
-
-[SubscriptionToken Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken)
+## See Also
+[SubscriptionToken Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken)
 
 [SubscriptionToken Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.subscriptiontoken)
 

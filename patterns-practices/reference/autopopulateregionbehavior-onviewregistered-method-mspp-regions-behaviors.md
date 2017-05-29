@@ -31,9 +31,7 @@ Public Overridable Sub OnViewRegistered (
 	e As ViewRegisteredEventArgs
 )
 ```
-
-
-### Parameters
+### Parameters
 
 sender
 

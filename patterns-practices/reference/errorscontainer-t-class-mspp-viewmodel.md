@@ -4,11 +4,8 @@ Title: 'ErrorsContainer(T) Class (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'T:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1'
 ms:mtpsurl: 'errorscontainer-t-class-mspp-viewmodel.md'
 ---
-
-Prism Class Library
-
-ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Class
-=============================================
+
+# ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Class
 
 Manages validation errors for an object, notifying when the error state changes.
 
@@ -16,26 +13,19 @@ Manages validation errors for an object, notifying when the error state changes.
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
-
-public class ErrorsContainer&lt;T&gt; Public Class ErrorsContainer(Of T)
-Type Parameters
----------------
+public class ErrorsContainer&lt;T&gt; Public Class ErrorsContainer(Of T)
+## Type Parameters
 
 <span id="templatesToggle"></span>
 T  
 The type of the error object.
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.ViewModel.ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)
 
-See Also
---------
-
-
-[ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.viewmodel.errorscontainer%601)
+## See Also
+[ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.viewmodel.errorscontainer%601)
 
 [Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)

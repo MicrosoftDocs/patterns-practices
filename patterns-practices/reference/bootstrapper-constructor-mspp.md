@@ -4,11 +4,8 @@ Title: 'Bootstrapper Constructor (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.\#ctor'
 ms:mtpsurl: 'bootstrapper-constructor-mspp.md'
 ---
-
-Prism Class Library
-
-Bootstrapper Constructor
-========================
+
+# Bootstrapper Constructor
 
 Initializes a new instance of the [Bootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [Bootstrapper](https://msdn.microsoft.com/libr
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+protected Bootstrapper()Protected Sub New
 
-
-protected Bootstrapper()Protected Sub New
-
-See Also
---------
-
-
-[Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
+## See Also
+[Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
 
 [Bootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.bootstrapper)
 

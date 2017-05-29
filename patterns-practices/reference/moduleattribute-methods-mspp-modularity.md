@@ -4,9 +4,7 @@ Title: 'ModuleAttribute Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleAttribute'
 ms:mtpsurl: 'moduleattribute-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleAttribute Methods
 
 The [ModuleAttribute](moduleattribute-class-mspp-modularity.md) type exposes the following members.
@@ -75,9 +73,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-
-
-[ModuleAttribute Class](moduleattribute-class-mspp-modularity.md)
+[ModuleAttribute Class](moduleattribute-class-mspp-modularity.md)
 
 [Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
 

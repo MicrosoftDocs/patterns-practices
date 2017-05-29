@@ -4,9 +4,7 @@ Title: 'InteractionRequestTrigger.OnAttached Method (Microsoft.Practices.Prism.I
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestTrigger.OnAttached'
 ms:mtpsurl: 'interactionrequesttrigger-onattached-method-mspp-interactivity-interactionrequest.md'
 ---
-
-Prism Class Library
-
+
 # InteractionRequestTrigger.OnAttached Method
 
 Called after the trigger is attached to an AssociatedObject.

@@ -4,16 +4,12 @@ Title: 'MefDelayedRegionCreationBehavior Members (Microsoft.Practices.Prism.MefE
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefDelayedRegionCreationBehavior'
 ms:mtpsurl: 'mefdelayedregioncreationbehavior-members-mspp-mefextensions-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-MefDelayedRegionCreationBehavior Members
-========================================
+
+# MefDelayedRegionCreationBehavior Members
 
 The [MefDelayedRegionCreationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -133,8 +128,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -166,10 +160,7 @@ The element that will host the Region.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefDelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior)
+## See Also
+[MefDelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)

@@ -4,9 +4,7 @@ Title: 'BindRegionContextToDependencyObjectBehavior Class (Microsoft.Practices.P
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior'
 ms:mtpsurl: 'bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
+
 # BindRegionContextToDependencyObjectBehavior Class
 
 Defines a behavior that forwards the [RegionContextProperty](regionmanager-regioncontextproperty-field-mspp-regions.md) to the views in the region.

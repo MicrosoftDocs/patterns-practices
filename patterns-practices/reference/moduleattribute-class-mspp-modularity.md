@@ -4,11 +4,8 @@ Title: 'ModuleAttribute Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleAttribute'
 ms:mtpsurl: 'moduleattribute-class-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleAttribute Class
-=====================
+
+# ModuleAttribute Class
 
 Indicates that the class should be considered a named module using the provided module name.
 
@@ -18,21 +15,15 @@ Indicates that the class should be considered a named module using the provided 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public sealed class ModuleAttribute : AttributePublic NotInheritable Class ModuleAttribute Inherits Attribute
 
-
-public sealed class ModuleAttribute : AttributePublic NotInheritable Class ModuleAttribute Inherits Attribute
-
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [System.Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626)
     Microsoft.Practices.Prism.Modularity.ModuleAttribute
 
-See Also
---------
-
-
-[ModuleAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleattribute)
+## See Also
+[ModuleAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleattribute)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

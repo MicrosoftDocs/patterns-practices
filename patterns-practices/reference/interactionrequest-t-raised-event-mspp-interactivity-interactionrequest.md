@@ -4,11 +4,8 @@ Title: 'InteractionRequest(T).Raised Event (Microsoft.Practices.Prism.Interactiv
 ms:assetid: 'E:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequest\`1.Raised'
 ms:mtpsurl: 'interactionrequest-t-raised-event-mspp-interactivity-interactionrequest.md'
 ---
-
-Prism Class Library
-
-InteractionRequest&lt;(Of &lt;(T&gt;)&gt;).Raised Event
-===========================================================
+
+# InteractionRequest&lt;(Of &lt;(T&gt;)&gt;).Raised Event
 
 Fired when interaction is needed.
 
@@ -18,9 +15,7 @@ Fired when interaction is needed.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public event EventHandler&lt;InteractionRequestedEventArgs&gt; RaisedPublic Event Raised As EventHandler(Of InteractionRequestedEventArgs)
+public event EventHandler&lt;InteractionRequestedEventArgs&gt; RaisedPublic Event Raised As EventHandler(Of InteractionRequestedEventArgs)
 ### Value
 
 Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([InteractionRequestedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)&gt;)&gt;)
@@ -28,11 +23,8 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt
 
 [IInteractionRequest.Raised](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest.raised)
 
-See Also
---------
-
-
-[InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)
+## See Also
+[InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)
 
 [InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)
 

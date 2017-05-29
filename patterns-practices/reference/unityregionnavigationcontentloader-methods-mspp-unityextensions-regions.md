@@ -106,10 +106,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[UnityRegionNavigationContentLoader Class](unityregionnavigationcontentloader-class-mspp-unityextensions-regions.md)
+## See Also
+[UnityRegionNavigationContentLoader Class](unityregionnavigationcontentloader-class-mspp-unityextensions-regions.md)
 
 [Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](mspp-unityextensions-regions-namespace.md)

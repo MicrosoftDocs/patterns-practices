@@ -4,9 +4,7 @@ Title: 'PopupWindowAction.GetWindow Method (Microsoft.Practices.Prism.Interactiv
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.GetWindow(Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification)'
 ms:mtpsurl: 'popupwindowaction-getwindow-method-mspp-interactivity.md'
 ---
-
-
-# PopupWindowAction.GetWindow Method
+# PopupWindowAction.GetWindow Method
 
 Returns the window to display as part of the trigger action.
 
@@ -35,11 +33,8 @@ Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest..::.INotificat
 The notification to be set as a DataContext in the window.
 
 ## Return Value
-=======
-Prism Class Library
 
 PopupWindowAction.GetWindow Method
-======================================
 
 Returns the window to display as part of the trigger action.
 
@@ -49,9 +44,7 @@ Returns the window to display as part of the trigger action.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected virtual Window GetWindow( INotification notification )Protected Overridable Function GetWindow ( notification As INotification ) As Window
+protected virtual Window GetWindow( INotification notification )Protected Overridable Function GetWindow ( notification As INotification ) As Window
 
 ### Parameters
 
@@ -60,19 +53,12 @@ Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification]
 The notification to be set as a DataContext in the window.
 
 ### Return Value
-
-
-Type: [Window](http://msdn.microsoft.com/en-us/library/ms590112)
+Type: [Window](http://msdn.microsoft.com/en-us/library/ms590112)
 
 ## See Also
-
-
-[PopupWindowAction Class](popupwindowaction-class-mspp-interactivity.md)
-=======
+[PopupWindowAction Class](popupwindowaction-class-mspp-interactivity.md)
 
 [PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
-
-
-[PopupWindowAction Members](popupwindowaction-members-mspp-interactivity.md)
+[PopupWindowAction Members](popupwindowaction-members-mspp-interactivity.md)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace.md)

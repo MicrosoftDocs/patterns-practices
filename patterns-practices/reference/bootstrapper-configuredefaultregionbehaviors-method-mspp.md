@@ -4,11 +4,8 @@ Title: 'Bootstrapper.ConfigureDefaultRegionBehaviors Method (Microsoft.Practices
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.ConfigureDefaultRegionBehaviors'
 ms:mtpsurl: 'bootstrapper-configuredefaultregionbehaviors-method-mspp.md'
 ---
-
-Prism Class Library
-
-Bootstrapper.ConfigureDefaultRegionBehaviors Method
-=======================================================
+
+# Bootstrapper.ConfigureDefaultRegionBehaviors Method
 
 Configures the [IRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory). This will be the list of default behaviors that will be added to a region.
 
@@ -18,18 +15,13 @@ Configures the [IRegionBehaviorFactory](https://msdn.microsoft.com/library/micro
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected virtual IRegionBehaviorFactory ConfigureDefaultRegionBehaviors()Protected Overridable Function ConfigureDefaultRegionBehaviors As IRegionBehaviorFactory
+protected virtual IRegionBehaviorFactory ConfigureDefaultRegionBehaviors()Protected Overridable Function ConfigureDefaultRegionBehaviors As IRegionBehaviorFactory
 ### Return Value
 
 Type: [IRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory)
 
-See Also
---------
-
-
-[Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
+## See Also
+[Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
 
 [Bootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.bootstrapper)
 

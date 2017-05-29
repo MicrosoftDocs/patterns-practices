@@ -4,16 +4,12 @@ Title: 'ModuleTypeLoadingException Methods (Microsoft.Practices.Prism.Modularity
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException'
 ms:mtpsurl: 'moduletypeloadingexception-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleTypeLoadingException Methods
-==================================
+
+# ModuleTypeLoadingException Methods
 
 The [ModuleTypeLoadingException](moduletypeloadingexception-class-mspp-modularity.md) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <table>
 

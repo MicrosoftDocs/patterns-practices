@@ -4,9 +4,7 @@ Title: 'CompositePresentationEvent(TPayload).Subscribe Method (Action(TPayload),
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Subscribe(System.Action{\`0},Microsoft.Practices.Prism.PubSubEvents.ThreadOption)'
 ms:mtpsurl: 'compositepresentationevent-tpayload-subscribe-method-action-tpayload-threadoption-mspp-events.md'
 ---
-
-Prism Class Library
-
+
 # CompositePresentationEvent&lt;TPayload&gt;.Subscribe Method (Action&lt;TPayload&gt;, ThreadOption)
 
 Subscribes a delegate to an event. CompositePresentationEvent will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate.
@@ -25,9 +23,7 @@ public SubscriptionToken Subscribe(
 	ThreadOption threadOption
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *action*  
 Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](compositepresentationevent-tpayload-class-mspp-events.md&gt;
@@ -50,9 +46,7 @@ A SubscriptionToken that uniquely identifies the added subscription.
  The CompositePresentationEvent collection is thread-safe.
 
 ## See Also
-
-
-[CompositePresentationEvent&lt;TPayload&gt; Class](compositepresentationevent-tpayload-class-mspp-events.md)
+[CompositePresentationEvent&lt;TPayload&gt; Class](compositepresentationevent-tpayload-class-mspp-events.md)
 
 [CompositePresentationEvent&lt;TPayload&gt; Members](compositepresentationevent-tpayload-members-mspp-events.md)
 
@@ -79,9 +73,7 @@ Public Function Subscribe (
 	threadOption As ThreadOption
 ) As SubscriptionToken
 ```
-
-
-### Parameters
+### Parameters
 
 *action*  
 Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](compositepresentationevent-tpayload-class-mspp-events.md))
@@ -104,9 +96,7 @@ A SubscriptionToken that uniquely identifies the added subscription.
  The CompositePresentationEvent collection is thread-safe.
 
 ## See Also
-
-
-[CompositePresentationEvent(Of TPayload) Class](compositepresentationevent-tpayload-class-mspp-events.md)
+[CompositePresentationEvent(Of TPayload) Class](compositepresentationevent-tpayload-class-mspp-events.md)
 
 [CompositePresentationEvent(Of TPayload) Members](compositepresentationevent-tpayload-members-mspp-events.md)
 

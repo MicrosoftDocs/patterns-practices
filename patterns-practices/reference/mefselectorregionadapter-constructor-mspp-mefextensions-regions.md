@@ -4,11 +4,8 @@ Title: 'MefSelectorRegionAdapter Constructor (Microsoft.Practices.Prism.MefExten
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefSelectorRegionAdapter.\#ctor(Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory)'
 ms:mtpsurl: 'mefselectorregionadapter-constructor-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
-MefSelectorRegionAdapter Constructor
-====================================
+
+# MefSelectorRegionAdapter Constructor
 
 Initializes a new instance of the [MefSelectorRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefselectorregionadapter) class.
 
@@ -18,9 +15,7 @@ Initializes a new instance of the [MefSelectorRegionAdapter](https://msdn.micros
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public MefSelectorRegionAdapter( IRegionBehaviorFactory regionBehaviorFactory )Public Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
+public MefSelectorRegionAdapter( IRegionBehaviorFactory regionBehaviorFactory )Public Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ regionBehaviorFactory
 Type: [Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory)
 The factory used to create the region behaviors to attach to the created regions.
 
-See Also
---------
-
-
-[MefSelectorRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefselectorregionadapter)
+## See Also
+[MefSelectorRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefselectorregionadapter)
 
 [MefSelectorRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefselectorregionadapter)
 

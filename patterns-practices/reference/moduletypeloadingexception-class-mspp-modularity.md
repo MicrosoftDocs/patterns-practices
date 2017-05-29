@@ -4,9 +4,7 @@ Title: 'ModuleTypeLoadingException Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException'
 ms:mtpsurl: 'moduletypeloadingexception-class-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleTypeLoadingException Class
 
 Exception thrown by [IModuleManager](imodulemanager-interface-mspp-modularity.md) implementations whenever a module fails to retrieve.

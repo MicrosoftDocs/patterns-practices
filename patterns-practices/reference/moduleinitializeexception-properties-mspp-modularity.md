@@ -4,9 +4,7 @@ Title: 'ModuleInitializeException Properties (Microsoft.Practices.Prism.Modulari
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleInitializeException'
 ms:mtpsurl: 'moduleinitializeexception-properties-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleInitializeException Properties
 
 The [ModuleInitializeException](moduleinitializeexception-class-mspp-modularity.md) type exposes the following members.

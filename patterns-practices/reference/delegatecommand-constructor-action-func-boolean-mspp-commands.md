@@ -4,9 +4,7 @@ Title: 'DelegateCommand Constructor (Action, Func(Boolean)) (Microsoft.Practices
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand.\#ctor(System.Action,System.Func{System.Boolean})'
 ms:mtpsurl: 'delegatecommand-constructor-action-func-boolean-mspp-commands.md'
 ---
-
-Prism Class Library
-
+
 # DelegateCommand Constructor (Action, Func(Of Boolean))
 
 Creates a new instance of [DelegateCommand](delegatecommand-class-mspp-commands.md) with the [Action](http://msdn.microsoft.com/en-us/library/bb534741) to invoke on execution and a Func to query for determining if the command can execute.
@@ -31,9 +29,7 @@ Public Sub New (
 	canExecuteMethod As Func(Of Boolean)
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *executeMethod*
 

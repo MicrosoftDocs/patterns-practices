@@ -29,9 +29,7 @@ Function ContainsRegionWithName (
 	regionName As String
 ) As Boolean
 ```
-
-
-### Parameters
+### Parameters
 
 *regionName*
 

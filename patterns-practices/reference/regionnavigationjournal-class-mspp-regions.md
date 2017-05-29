@@ -4,11 +4,8 @@ Title: 'RegionNavigationJournal Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionNavigationJournal'
 ms:mtpsurl: 'regionnavigationjournal-class-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationJournal Class
-=============================
+
+# RegionNavigationJournal Class
 
 Provides journaling of current, back, and forward navigation within regions.
 
@@ -17,12 +14,8 @@ Provides journaling of current, back, and forward navigation within regions.
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
     public class RegionNavigationJournal : IRegionNavigationJournal
 ```
 
@@ -32,8 +25,7 @@ Public Class RegionNavigationJournal
 	Implements IRegionNavigationJournal
 ```
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
@@ -41,10 +33,7 @@ Inheritance Hierarchy
 
     [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournal](mefregionnavigationjournal-class-mspp-mefextensions-regions.md)
 
-See Also
---------
-
-
-[RegionNavigationJournal Members](regionnavigationjournal-members-mspp-regions.md)
+## See Also
+[RegionNavigationJournal Members](regionnavigationjournal-members-mspp-regions.md)
 
 [Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

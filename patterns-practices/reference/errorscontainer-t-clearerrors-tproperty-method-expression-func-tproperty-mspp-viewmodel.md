@@ -4,9 +4,7 @@ Title: 'ErrorsContainer(T).ClearErrors(TProperty) Method (Expression(Func(TPrope
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.ClearErrors\`\`1(System.Linq.Expressions.Expression{System.Func{\`\`0}})'
 ms:mtpsurl: 'errorscontainer-t-clearerrors-tproperty-method-expression-func-tproperty-mspp-viewmodel.md'
 ---
-
-Prism Class Library
-
+
 # ErrorsContainer&lt;T&gt;.ClearErrors&lt;TProperty&gt; Method (Expression&lt;Func&lt;TProperty&gt;&gt;)
 
 Clears the errors for the property indicated by the property expression.
@@ -22,9 +20,7 @@ public void ClearErrors<TProperty>(
 	Expression<Func<TProperty>> propertyExpression
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *propertyExpression*
 
@@ -62,9 +58,7 @@ Public Sub ClearErrors(Of TProperty) (
 	propertyExpression As Expression(Of Func(Of TProperty))
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *propertyExpression*  
 
@@ -83,9 +77,7 @@ Public Sub ClearErrors(Of TProperty) (
 container.ClearErrors(()=&gt;SomeProperty);
 
 ## See Also
-
-
-[ErrorsContainer(Of T) Class](errorscontainer-t-class-mspp-viewmodel.md)
+[ErrorsContainer(Of T) Class](errorscontainer-t-class-mspp-viewmodel.md)
 
 [ErrorsContainer(Of T) Members](errorscontainer-t-members-mspp-viewmodel.md)
 

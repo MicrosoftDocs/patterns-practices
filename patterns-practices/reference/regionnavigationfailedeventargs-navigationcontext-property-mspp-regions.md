@@ -4,9 +4,7 @@ Title: 'RegionNavigationFailedEventArgs.NavigationContext Property (Microsoft.Pr
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationFailedEventArgs.NavigationContext'
 ms:mtpsurl: 'regionnavigationfailedeventargs-navigationcontext-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # RegionNavigationFailedEventArgs.NavigationContext Property
 
 Gets the navigation context.
@@ -42,9 +40,7 @@ Type: [NavigationContext](navigationcontext-class-mspp-regions.md)
 The navigation context.
 
 ## See Also
-
-
-[RegionNavigationFailedEventArgs Class](regionnavigationfailedeventargs-class-mspp-regions.md)
+[RegionNavigationFailedEventArgs Class](regionnavigationfailedeventargs-class-mspp-regions.md)
 
 [RegionNavigationFailedEventArgs Members](regionnavigationfailedeventargs-members-mspp-regions.md)
 

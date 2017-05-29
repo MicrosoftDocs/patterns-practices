@@ -4,11 +4,8 @@ Title: 'IModuleTypeLoader.ModuleDownloadProgressChanged Event (Microsoft.Practic
 ms:assetid: 'E:Microsoft.Practices.Prism.Modularity.IModuleTypeLoader.ModuleDownloadProgressChanged'
 ms:mtpsurl: 'imoduletypeloader-moduledownloadprogresschanged-event-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-IModuleTypeLoader.ModuleDownloadProgressChanged Event
-=========================================================
+
+# IModuleTypeLoader.ModuleDownloadProgressChanged Event
 
 Raised repeatedly to provide progress as modules are downloaded in the background.
 
@@ -18,18 +15,13 @@ Raised repeatedly to provide progress as modules are downloaded in the backgroun
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-event EventHandler&lt;ModuleDownloadProgressChangedEventArgs&gt; ModuleDownloadProgressChangedEvent ModuleDownloadProgressChanged As EventHandler(Of ModuleDownloadProgressChangedEventArgs)
+event EventHandler&lt;ModuleDownloadProgressChangedEventArgs&gt; ModuleDownloadProgressChangedEvent ModuleDownloadProgressChanged As EventHandler(Of ModuleDownloadProgressChangedEventArgs)
 ### Value
 
 Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([ModuleDownloadProgressChangedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)&gt;)&gt;)
 
-See Also
---------
-
-
-[IModuleTypeLoader Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader)
+## See Also
+[IModuleTypeLoader Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader)
 
 [IModuleTypeLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.imoduletypeloader)
 

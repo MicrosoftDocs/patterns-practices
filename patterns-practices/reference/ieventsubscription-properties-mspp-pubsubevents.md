@@ -4,18 +4,12 @@ Title: 'IEventSubscription Properties (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.IEventSubscription'
 ms:mtpsurl: 'ieventsubscription-properties-mspp-pubsubevents.md'
 ---
-
-
-# IEventSubscription Properties
-
-
-
+# IEventSubscription Properties
+
 The [IEventSubscription](ieventsubscription-interface-mspp-pubsubevents.md) type exposes the following members.
-=======
+
 The [IEventSubscription](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription) type exposes the following members.
-
-
-## Properties
+## Properties
 
 <table>
 
@@ -40,9 +34,6 @@ Gets or sets a <a href="ieventsubscription-subscriptiontoken-property-mspp-pubsu
 ## See Also
 
 [IEventSubscription Interface](ieventsubscription-interface-mspp-pubsubevents.md)
-=======
 
 [IEventSubscription Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription)
-
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)

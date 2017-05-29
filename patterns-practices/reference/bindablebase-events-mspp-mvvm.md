@@ -4,16 +4,12 @@ Title: 'BindableBase Events (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Mvvm.BindableBase'
 ms:mtpsurl: 'bindablebase-events-mspp-mvvm.md'
 ---
-
-Prism Class Library
-
-BindableBase Events
-===================
+
+# BindableBase Events
 
 The [BindableBase](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -36,10 +32,7 @@ Occurs when a property value changes.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[BindableBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase)
+## See Also
+[BindableBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase)
 
 [Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)

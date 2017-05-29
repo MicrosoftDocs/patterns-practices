@@ -4,9 +4,7 @@ Title: 'PubSubEvent(TPayload).Subscribe Method (Action(TPayload)) (Microsoft.Pra
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Subscribe(System.Action{\`0})'
 ms:mtpsurl: 'pubsubevent-tpayload-subscribe-method-action-tpayload-mspp-pubsubevents.md'
 ---
-
-Prism Class Library
-
+
 # PubSubEvent&lt;TPayload&gt;.Subscribe Method (Action&lt;TPayload&gt;)
 
 Subscribes a delegate to an event that will be published on the [PublisherThread](threadoption-enumeration-mspp-pubsubevents.md). [PubSubEvent&lt;TPayload&gt;](pubsubevent-tpayload-class-mspp-pubsubevents.md) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the target of the supplied action delegate.
@@ -22,9 +20,7 @@ public SubscriptionToken Subscribe(
 	Action<TPayload> action
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *action*  
 Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](pubsubevent-tpayload-class-mspp-pubsubevents.md)&gt;
@@ -42,9 +38,7 @@ A [SubscriptionToken](subscriptiontoken-class-mspp-pubsubevents.md) that uniquel
  The PubSubEvent collection is thread-safe.
 
 ## See Also
-
-
-[PubSubEvent&lt;TPayload&gt; Class](pubsubevent-tpayload-class-mspp-pubsubevents.md)
+[PubSubEvent&lt;TPayload&gt; Class](pubsubevent-tpayload-class-mspp-pubsubevents.md)
 
 PubSubEvent&lt;TPayload&gt; Members
 
@@ -68,9 +62,7 @@ Public Function Subscribe (
 	action As Action(Of TPayload)
 ) As SubscriptionToken
 ```
-
-
-### Parameters
+### Parameters
 
 *action*  
 Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](pubsubevent-tpayload-class-mspp-pubsubevents.md))
@@ -88,9 +80,7 @@ A [SubscriptionToken](subscriptiontoken-class-mspp-pubsubevents.md) that uniquel
  The PubSubEvent collection is thread-safe.
 
 ## See Also
-
-
-[PubSubEvent(Of TPayload) Class](pubsubevent-tpayload-class-mspp-pubsubevents.md)
+[PubSubEvent(Of TPayload) Class](pubsubevent-tpayload-class-mspp-pubsubevents.md)
 
 PubSubEvent(Of TPayload) Members
 

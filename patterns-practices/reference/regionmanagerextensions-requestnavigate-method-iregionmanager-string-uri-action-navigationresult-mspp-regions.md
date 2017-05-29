@@ -4,11 +4,8 @@ Title: 'RegionManagerExtensions.RequestNavigate Method (IRegionManager, String, 
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManagerExtensions.RequestNavigate(Microsoft.Practices.Prism.Regions.IRegionManager,System.String,System.Uri,System.Action{Microsoft.Practices.Prism.Regions.NavigationResult})'
 ms:mtpsurl: 'regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-action-navigationresult-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionManagerExtensions.RequestNavigate Method (IRegionManager, String, Uri, Action (Of (NavigationResult))
-===============================================================================================================================
+
+# RegionManagerExtensions.RequestNavigate Method (IRegionManager, String, Uri, Action (Of (NavigationResult))
 
 Navigates the specified region manager.
 
@@ -18,9 +15,7 @@ Navigates the specified region manager.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public static void RequestNavigate( this IRegionManager regionManager, string regionName, Uri source, Action&lt;NavigationResult&gt; navigationCallback )&lt;ExtensionAttribute&gt; Public Shared Sub RequestNavigate ( regionManager As IRegionManager, regionName As String, source As Uri, navigationCallback As Action(Of NavigationResult) )
+public static void RequestNavigate( this IRegionManager regionManager, string regionName, Uri source, Action&lt;NavigationResult&gt; navigationCallback )&lt;ExtensionAttribute&gt; Public Shared Sub RequestNavigate ( regionManager As IRegionManager, regionName As String, source As Uri, navigationCallback As Action(Of NavigationResult) )
 
 ### Parameters
 
@@ -44,11 +39,8 @@ The navigation callback.
 
 In Visual Basic and C\#, you can call this method as an instance method on any object of type [IRegionManager](iregionmanager-interface-mspp-regions.md). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](https://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 
-See Also
---------
-
-
-[RegionManagerExtensions Class](regionmanagerextensions-class-mspp-regions.md)
+## See Also
+[RegionManagerExtensions Class](regionmanagerextensions-class-mspp-regions.md)
 
 [RegionManagerExtensions Members](regionmanagerextensions-members-mspp-regions.md)
 

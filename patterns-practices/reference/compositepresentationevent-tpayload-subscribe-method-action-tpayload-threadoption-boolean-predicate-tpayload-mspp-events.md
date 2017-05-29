@@ -25,9 +25,7 @@ public virtual SubscriptionToken Subscribe(
 	Predicate<TPayload> filter
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *action*
       
@@ -91,9 +89,7 @@ Public Overridable Function Subscribe (
 	filter As Predicate(Of TPayload)
 ) As SubscriptionToken
 ```
-
-
-### Parameters
+### Parameters
 
 *action*
       

@@ -4,11 +4,8 @@ Title: 'ModuleDependencyAttribute Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleDependencyAttribute'
 ms:mtpsurl: 'moduledependencyattribute-class-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDependencyAttribute Class
-===============================
+
+# ModuleDependencyAttribute Class
 
 Specifies that the current module has a dependency on another module. This attribute should be used on classes that implement [IModule](imodule-interface-mspp-modularity.md).
 
@@ -17,12 +14,8 @@ Specifies that the current module has a dependency on another module. This attri
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 public sealed class ModuleDependencyAttribute : Attribute
 ```
 ```VB
@@ -30,8 +23,7 @@ public sealed class ModuleDependencyAttribute : Attribute
 Public NotInheritable Class ModuleDependencyAttribute Inherits Attribute
 ```
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
@@ -39,10 +31,7 @@ Inheritance Hierarchy
   
     Microsoft.Practices.Prism.Modularity.ModuleDependencyAttribute
 
-See Also
---------
-
-
-[ModuleDependencyAttribute Members](moduledependencyattribute-members-mspp-modularity.md)
+## See Also
+[ModuleDependencyAttribute Members](moduledependencyattribute-members-mspp-modularity.md)
 
 [Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

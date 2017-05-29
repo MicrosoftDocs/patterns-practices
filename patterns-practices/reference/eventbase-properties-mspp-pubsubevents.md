@@ -4,16 +4,12 @@ Title: 'EventBase Properties (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.EventBase'
 ms:mtpsurl: 'eventbase-properties-mspp-pubsubevents.md'
 ---
-
-Prism Class Library
-
-EventBase Properties
-====================
+
+# EventBase Properties
 
 The [EventBase](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -43,10 +39,7 @@ Allows the SynchronizationContext to be set by the EventAggregator for UI Thread
 </tbody>
 </table>
 
-See Also
---------
-
-
-[EventBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase)
+## See Also
+[EventBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)

@@ -4,19 +4,16 @@ Title: 'PopupWindowAction Properties (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.PopupWindowAction'
 ms:mtpsurl: 'popupwindowaction-properties-mspp-interactivity.md'
 ---
-
-Prism Class Library
-
+
 # PopupWindowAction Properties
 
 The [PopupWindowAction](popupwindowaction-class-mspp-interactivity.md) type exposes the following members.
 
 ## Properties
-=======
+
 The [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -33,14 +30,14 @@ Properties
 <td><img src="https://msdn.microsoft.com/en-us/Dn736288.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
 <td>AssociatedObject</td>
 <td>(Inherited from TriggerAction(Of [FrameworkElement](http://msdn2.microsoft.com/en-us/library/ms602714)).)</td>
-=======
+
 <td>(Inherited from TriggerAction&lt;(Of &lt;(<a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>&gt;)&gt;).)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn736288.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
 <td>AssociatedObjectTypeConstraint</td>
 <td>(Inherited from TriggerAction(Of [FrameworkElement](http://msdn2.microsoft.com/en-us/library/ms602714)).)</td>
-=======
+
 <td>(Inherited from TriggerAction&lt;(Of &lt;(<a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>&gt;)&gt;).)</td>
 </tr>
 <tr class="odd">
@@ -125,7 +122,6 @@ Gets or sets the content of the window.
 [PopupWindowAction Class](popupwindowaction-class-mspp-interactivity.md)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace.md)
-=======
 
 [PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
 

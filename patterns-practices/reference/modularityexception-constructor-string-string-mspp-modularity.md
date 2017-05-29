@@ -4,11 +4,8 @@ Title: 'ModularityException Constructor (String, String) (Microsoft.Practices.Pr
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModularityException.\#ctor(System.String,System.String)'
 ms:mtpsurl: 'modularityexception-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModularityException Constructor (String, String)
-================================================
+
+# ModularityException Constructor (String, String)
 
 Initializes the exception with a particular module and error message.
 
@@ -17,12 +14,8 @@ Initializes the exception with a particular module and error message.
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 public ModularityException(
 	string moduleName,
 	string message
@@ -36,9 +29,7 @@ Public Sub New (
 	message As String
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *moduleName*  
 
@@ -52,11 +43,8 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 The error message that explains the reason for the exception.
 
-See Also
---------
-
-
-[ModularityException Class](modularityexception-class-mspp-modularity.md)
+## See Also
+[ModularityException Class](modularityexception-class-mspp-modularity.md)
 
 [ModularityException Members](modularityexception-members-mspp-modularity.md)
 

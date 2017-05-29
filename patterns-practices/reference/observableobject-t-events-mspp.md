@@ -4,16 +4,12 @@ Title: 'ObservableObject(T) Events (Microsoft.Practices.Prism)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.ObservableObject\`1'
 ms:mtpsurl: 'observableobject-t-events-mspp.md'
 ---
-
-Prism Class Library
-
-ObservableObject&lt;T&gt; Events
-===============================================
+
+# ObservableObject&lt;T&gt; Events
 
 The [ObservableObject&lt;T&gt;](observableobject-t-class-mspp.md) type exposes the following members.
 
-Events
-------
+## Events
 
 <table>
 
@@ -899,10 +895,7 @@ Occurs when the element is removed from within an element tree of loaded element
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ObservableObject&lt;T&gt; Class](observableobject-t-class-mspp.md)
+## See Also
+[ObservableObject&lt;T&gt; Class](observableobject-t-class-mspp.md)
 
 [Microsoft.Practices.Prism Namespace](mspp-namespace.md)

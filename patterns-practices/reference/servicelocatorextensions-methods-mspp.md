@@ -4,9 +4,7 @@ Title: 'ServiceLocatorExtensions Methods (Microsoft.Practices.Prism)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ServiceLocatorExtensions'
 ms:mtpsurl: 'servicelocatorextensions-methods-mspp.md'
 ---
-
-Prism Class Library
-
+
 # ServiceLocatorExtensions Methods
 
 ## Methods

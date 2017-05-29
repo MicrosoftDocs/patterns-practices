@@ -29,9 +29,7 @@ Protected Overridable Function GetContractFromNavigationContext (
 	navigationContext As NavigationContext
 ) As String
 ```
-
-
-### Parameters
+### Parameters
 
 *navigationContext*
 

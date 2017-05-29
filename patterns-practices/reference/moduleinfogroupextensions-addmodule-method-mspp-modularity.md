@@ -4,14 +4,10 @@ Title: 'ModuleInfoGroupExtensions.AddModule Method (Microsoft.Practices.Prism.Mo
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleInfoGroupExtensions.AddModule'
 ms:mtpsurl: 'addmodule-mthd-moduleinfogroup-str-type-str.md'
 ---
+
+# ModuleInfoGroupExtensions.AddModule Method
 
-Prism Class Library
-
-ModuleInfoGroupExtensions.AddModule Method
-==============================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,11 +37,8 @@ Adds a new module that is statically referenced to the specified module info gro
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleInfoGroupExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroupextensions)
+## See Also
+[ModuleInfoGroupExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroupextensions)
 
 [ModuleInfoGroupExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroupextensions)
 

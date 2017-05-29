@@ -4,11 +4,8 @@ Title: 'RegionNavigationJournal.CanGoBack Property (Microsoft.Practices.Prism.Re
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationJournal.CanGoBack'
 ms:mtpsurl: 'regionnavigationjournal-cangoback-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationJournal.CanGoBack Property
-==============================================
+
+# RegionNavigationJournal.CanGoBack Property
 
 Gets a value that indicates whether there is at least one entry in the back navigation history.
 
@@ -18,9 +15,7 @@ Gets a value that indicates whether there is at least one entry in the back navi
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public bool CanGoBack { get; }Public ReadOnly Property CanGoBack As Boolean Get
+public bool CanGoBack { get; }Public ReadOnly Property CanGoBack As Boolean Get
 ### Property Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
@@ -29,11 +24,8 @@ true if the journal can go back; otherwise, false.
 
 [IRegionNavigationJournal.CanGoBack](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal.cangoback)
 
-See Also
---------
-
-
-[RegionNavigationJournal Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal)
+## See Also
+[RegionNavigationJournal Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal)
 
 [RegionNavigationJournal Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationjournal)
 

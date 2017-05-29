@@ -4,9 +4,7 @@ Title: 'ModuleExportAttribute.ModuleType Property (Microsoft.Practices.Prism.Mef
 ms:assetid: 'P:Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAttribute.ModuleType'
 ms:mtpsurl: 'moduleexportattribute-moduletype-property-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleExportAttribute.ModuleType Property
 
 Gets concrete type of the module being exported. Not typeof(IModule).
@@ -36,9 +34,7 @@ Type: [Type](http://msdn.microsoft.com/en-us/library/42892f65)
 [IModuleExport.ModuleType](imoduleexport-moduletype-property-mspp-mefextensions-modularity.md)
 
 ## See Also
-
-
-[ModuleExportAttribute Class](moduleexportattribute-class-mspp-mefextensions-modularity.md)
+[ModuleExportAttribute Class](moduleexportattribute-class-mspp-mefextensions-modularity.md)
 
 [ModuleExportAttribute Members](moduleexportattribute-members-mspp-mefextensions-modularity.md)
 

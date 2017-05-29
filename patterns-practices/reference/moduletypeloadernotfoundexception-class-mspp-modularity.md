@@ -4,9 +4,7 @@ Title: 'ModuleTypeLoaderNotFoundException Class (Microsoft.Practices.Prism.Modul
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException'
 ms:mtpsurl: 'moduletypeloadernotfoundexception-class-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleTypeLoaderNotFoundException Class
 
 Exception that's thrown when there is no [IModuleTypeLoader](imoduletypeloader-interface-mspp-modularity.md) registered in [ModuleTypeLoaders](modulemanager-moduletypeloaders-property-mspp-modularity.md) that can handle this particular type of module.

@@ -4,9 +4,7 @@ Title: 'CyclicDependencyFoundException Constructor (String) (Microsoft.Practices
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException.\#ctor(System.String)'
 ms:mtpsurl: 'cyclicdependencyfoundexception-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # CyclicDependencyFoundException Constructor (String)
 
 Initializes a new instance of the [CyclicDependencyFoundException](cyclicdependencyfoundexception-class-mspp-modularity.md) class with the specified error message.
@@ -31,9 +29,7 @@ Public Sub New (
 	message As String
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *message*
   

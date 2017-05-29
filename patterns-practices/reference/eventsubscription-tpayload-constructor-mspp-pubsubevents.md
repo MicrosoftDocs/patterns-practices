@@ -21,9 +21,7 @@ public EventSubscription(
 	IDelegateReference filterReference
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *actionReference*
 
@@ -69,9 +67,7 @@ Public Sub New (
 	filterReference As IDelegateReference
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *actionReference*
 

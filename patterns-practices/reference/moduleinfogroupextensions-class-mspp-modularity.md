@@ -4,9 +4,7 @@ Title: 'ModuleInfoGroupExtensions Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleInfoGroupExtensions'
 ms:mtpsurl: 'moduleinfogroupextensions-class-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleInfoGroupExtensions Class
 
 Defines extension methods for the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md) class.
@@ -35,8 +33,6 @@ Public NotInheritable Class ModuleInfoGroupExtensions
   Microsoft.Practices.Prism.Modularity.ModuleInfoGroupExtensions
 
 ## See Also
-
-
-[ModuleInfoGroupExtensions Members](moduleinfogroupextensions-members-mspp-modularity.md)
+[ModuleInfoGroupExtensions Members](moduleinfogroupextensions-members-mspp-modularity.md)
 
 [Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

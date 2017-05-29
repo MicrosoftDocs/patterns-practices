@@ -6,11 +6,6 @@ ms:mtpsurl: 'iregionnavigationjournalentry-parameters-property-mspp-regions.md'
 ---
 
 # IRegionNavigationJournalEntry.Parameters Property
-=======
-Prism Class Library
-
-IRegionNavigationJournalEntry.Parameters Property
-=====================================================
 
 Gets or sets the NavigationParameters instance.
 
@@ -20,18 +15,13 @@ Gets or sets the NavigationParameters instance.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-NavigationParameters Parameters { get; set; }Property Parameters As NavigationParameters Get Set
+NavigationParameters Parameters { get; set; }Property Parameters As NavigationParameters Get Set
 ### Property Value
 
 Type: [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
 
-See Also
---------
-
-
-[IRegionNavigationJournalEntry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry)
+## See Also
+[IRegionNavigationJournalEntry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry)
 
 [IRegionNavigationJournalEntry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionnavigationjournalentry)
 

@@ -4,9 +4,7 @@ Title: 'IRegionManager.Regions Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionManager.Regions'
 ms:mtpsurl: 'iregionmanager-regions-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # IRegionManager.Regions Property
 
 Gets a collection of [IRegion](iregion-interface-mspp-regions.md) that identify each region by name. You can use this collection to add or remove regions to the current region manager.

@@ -4,9 +4,7 @@ Title: 'ModuleInitializeException Methods (Microsoft.Practices.Prism.Modularity)
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleInitializeException'
 ms:mtpsurl: 'moduleinitializeexception-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleInitializeException Methods
 
 The [ModuleInitializeException](moduleinitializeexception-class-mspp-modularity.md) type exposes the following members.
@@ -114,8 +112,6 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 </table>
 
 ## See Also
-
-
-[ModuleInitializeException Class](moduleinitializeexception-class-mspp-modularity.md)
+[ModuleInitializeException Class](moduleinitializeexception-class-mspp-modularity.md)
 
 [Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

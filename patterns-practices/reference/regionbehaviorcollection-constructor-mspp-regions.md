@@ -4,9 +4,7 @@ Title: 'RegionBehaviorCollection Constructor (Microsoft.Practices.Prism.Regions)
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionBehaviorCollection.\#ctor(Microsoft.Practices.Prism.Regions.IRegion)'
 ms:mtpsurl: 'regionbehaviorcollection-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # RegionBehaviorCollection Constructor
 
 Initializes a new instance of the [RegionBehaviorCollection](regionbehaviorcollection-class-mspp-regions.md) class and associates it with a region.
@@ -31,9 +29,7 @@ Public Sub New (
 	region As IRegion
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *region*
 

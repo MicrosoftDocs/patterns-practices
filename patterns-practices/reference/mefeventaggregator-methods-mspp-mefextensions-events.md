@@ -4,9 +4,7 @@ Title: 'MefEventAggregator Methods (Microsoft.Practices.Prism.MefExtensions.Even
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Events.MefEventAggregator'
 ms:mtpsurl: 'mefeventaggregator-methods-mspp-mefextensions-events.md'
 ---
-
-Prism Class Library
-
+
 # MefEventAggregator Methods
 
 The [MefEventAggregator](mefeventaggregator-class-mspp-mefextensions-events.md) type exposes the following members.
@@ -80,8 +78,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-
-
-[MefEventAggregator Class](mefeventaggregator-class-mspp-mefextensions-events.md)
+[MefEventAggregator Class](mefeventaggregator-class-mspp-mefextensions-events.md)
 
 [Microsoft.Practices.Prism.MefExtensions.Events Namespace](mspp-mefextensions-events-namespace.md)

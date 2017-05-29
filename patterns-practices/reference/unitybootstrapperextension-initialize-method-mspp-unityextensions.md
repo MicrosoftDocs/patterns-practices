@@ -4,9 +4,7 @@ Title: 'UnityBootstrapperExtension.Initialize Method (Microsoft.Practices.Prism.
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtension.Initialize'
 ms:mtpsurl: 'unitybootstrapperextension-initialize-method-mspp-unityextensions.md'
 ---
-
-Prism Class Library
-
+
 # UnityBootstrapperExtension.Initialize Method
 
 Initializes the container with this extension's functionality.

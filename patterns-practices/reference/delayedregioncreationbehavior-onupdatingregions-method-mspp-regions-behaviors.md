@@ -4,11 +4,8 @@ Title: 'DelayedRegionCreationBehavior.OnUpdatingRegions Method (Microsoft.Practi
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior.OnUpdatingRegions(System.Object,System.EventArgs)'
 ms:mtpsurl: 'delayedregioncreationbehavior-onupdatingregions-method-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-DelayedRegionCreationBehavior.OnUpdatingRegions Method
-==========================================================
+
+# DelayedRegionCreationBehavior.OnUpdatingRegions Method
 
 Called when the [RegionManager](regionmanager-class-mspp-regions.md) is updating it's [Regions](regionmanager-regions-property-mspp-regions.md) collection.
 
@@ -17,12 +14,8 @@ Called when the [RegionManager](regionmanager-class-mspp-regions.md) is updating
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 public void OnUpdatingRegions(
 	Object sender,
 	EventArgs e
@@ -36,9 +29,7 @@ Public Sub OnUpdatingRegions (
 	e As EventArgs
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *sender*  
 
@@ -52,16 +43,12 @@ Public Sub OnUpdatingRegions (
 
    The [EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3) instance containing the event data.
 
-Remarks
--------
+## Remarks
 
  This method has to be public, because it has to be callable using weak references in silverlight and other partial trust environments.
 
-See Also
---------
-
-
-[DelayedRegionCreationBehavior Class](delayedregioncreationbehavior-class-mspp-regions-behaviors.md)
+## See Also
+[DelayedRegionCreationBehavior Class](delayedregioncreationbehavior-class-mspp-regions-behaviors.md)
 
 [DelayedRegionCreationBehavior Members](delayedregioncreationbehavior-members-mspp-regions-behaviors.md)
 

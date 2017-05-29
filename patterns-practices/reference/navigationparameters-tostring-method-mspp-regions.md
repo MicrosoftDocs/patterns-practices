@@ -4,9 +4,7 @@ Title: 'NavigationParameters.ToString Method (Microsoft.Practices.Prism.Regions)
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationParameters.ToString'
 ms:mtpsurl: 'navigationparameters-tostring-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # NavigationParameters.ToString Method
 
 Converts the list of key value pairs to a query string.

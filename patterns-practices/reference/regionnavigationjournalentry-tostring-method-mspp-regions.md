@@ -4,11 +4,8 @@ Title: 'RegionNavigationJournalEntry.ToString Method (Microsoft.Practices.Prism.
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry.ToString'
 ms:mtpsurl: 'regionnavigationjournalentry-tostring-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationJournalEntry.ToString Method
-================================================
+
+# RegionNavigationJournalEntry.ToString Method
 
 Returns a [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf) that represents this instance.
 
@@ -18,19 +15,14 @@ Returns a [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf) that repres
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public override string ToString()Public Overrides Function ToString As String
+public override string ToString()Public Overrides Function ToString As String
 ### Return Value
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 A [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf) that represents this instance.
 
-See Also
---------
-
-
-[RegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry)
+## See Also
+[RegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry)
 
 [RegionNavigationJournalEntry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationjournalentry)
 

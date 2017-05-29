@@ -4,11 +4,8 @@ Title: 'InteractionRequestedEventArgs.Callback Property (Microsoft.Practices.Pri
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestedEventArgs.Callback'
 ms:mtpsurl: 'interactionrequestedeventargs-callback-property-mspp-interactivity-interactionrequest.md'
 ---
-
-Prism Class Library
-
-InteractionRequestedEventArgs.Callback Property
-===================================================
+
+# InteractionRequestedEventArgs.Callback Property
 
 Gets the callback to execute when an interaction is completed.
 
@@ -18,18 +15,13 @@ Gets the callback to execute when an interaction is completed.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public Action Callback { get; }Public ReadOnly Property Callback As Action Get
+public Action Callback { get; }Public ReadOnly Property Callback As Action Get
 ### Property Value
 
 Type: [Action](http://msdn.microsoft.com/en-us/library/bb534741)
 
-See Also
---------
-
-
-[InteractionRequestedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)
+## See Also
+[InteractionRequestedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)
 
 [InteractionRequestedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)
 

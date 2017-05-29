@@ -4,9 +4,7 @@ Title: 'DefaultConfirmationWindow Events (Microsoft.Practices.Prism.Interactivit
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultConfirmationWindow'
 ms:mtpsurl: 'defaultconfirmationwindow-events-mspp-interactivity-defaultpopupwindows.md'
 ---
-
-Prism Class Library
-
+
 # DefaultConfirmationWindow Events
 
 The [DefaultConfirmationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow) type exposes the following members.
@@ -971,8 +969,6 @@ Occurs when the element is removed from within an element tree of loaded element
 </table>
 
 ## See Also
-
-
-[DefaultConfirmationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
+[DefaultConfirmationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
 
 [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)

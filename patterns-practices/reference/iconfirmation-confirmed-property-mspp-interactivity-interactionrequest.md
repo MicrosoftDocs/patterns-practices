@@ -6,11 +6,6 @@ ms:mtpsurl: 'iconfirmation-confirmed-property-mspp-interactivity-interactionrequ
 ---
 
 # IConfirmation.Confirmed Property
-=======
-Prism Class Library
-
-IConfirmation.Confirmed Property
-====================================
 
 Gets or sets a value indicating that the confirmation is confirmed.
 
@@ -20,9 +15,7 @@ Gets or sets a value indicating that the confirmation is confirmed.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-bool Confirmed { get; set; }Property Confirmed As Boolean Get Set
+bool Confirmed { get; set; }Property Confirmed As Boolean Get Set
 ### Property Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)

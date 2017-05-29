@@ -4,9 +4,7 @@ Title: 'ModuleInfoGroupExtensions Methods (Microsoft.Practices.Prism.Modularity)
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleInfoGroupExtensions'
 ms:mtpsurl: 'moduleinfogroupextensions-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleInfoGroupExtensions Methods
 
 ## Methods

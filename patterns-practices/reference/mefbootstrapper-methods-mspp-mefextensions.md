@@ -4,9 +4,7 @@ Title: 'MefBootstrapper Methods (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper'
 ms:mtpsurl: 'mefbootstrapper-methods-mspp-mefextensions.md'
 ---
-
-
-# MefBootstrapper Methods
+# MefBootstrapper Methods
 
 The [MefBootstrapper](mefbootstrapper-class-mspp-mefextensions.md) type exposes the following members.
 
@@ -38,23 +36,16 @@ The [MefBootstrapper](mefbootstrapper-class-mspp-mefextensions.md) type exposes 
 |![](images/public-method.gif "Public method")|[Run()](bootstrapper-run-method-boolean-mspp.md)|Runs the bootstrapper process.(Inherited from [Bootstrapper](bootstrapper-class-mspp.md).)|
 |![](images/public-method.gif "Public method")|[Run(Boolean)](mefbootstrapper-run-method-boolean-mspp-mefextensions.md))|Run the bootstrapper process.(Overrides [Bootstrapper.Run(Boolean)](bootstrapper-run-method-boolean-mspp.md).)|
 |![](images/public-method.gif "Public method")|[ToString](http://msdn2.microsoft.com/en-us/library/7bxwbwt2)|Returns a string that represents the current object.(Inherited from [Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b).)
-
-
-## See Also
+## See Also
 
 [MefBootstrapper Class](mefbootstrapper-class-mspp-mefextensions.md)
 
 [Microsoft.Practices.Prism.MefExtensions Namespace](mspp-mefextensions-namespace.md)
-=======
-Prism Class Library
-
-MefBootstrapper Methods
-=======================
+MefBootstrapper Methods
 
 The [MefBootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <table>
 
@@ -255,11 +246,8 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper)
+## See Also
+[MefBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper)
 
 [Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)
 

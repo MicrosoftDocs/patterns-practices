@@ -4,11 +4,8 @@ Title: 'RegionManager.SetRegionManager Method (Microsoft.Practices.Prism.Regions
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManager.SetRegionManager(System.Windows.DependencyObject,Microsoft.Practices.Prism.Regions.IRegionManager)'
 ms:mtpsurl: 'regionmanager-setregionmanager-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionManager.SetRegionManager Method
-=========================================
+
+# RegionManager.SetRegionManager Method
 
 Sets the [RegionManagerProperty](regionmanager-regionmanagerproperty-field-mspp-regions.md) attached property.
 
@@ -17,12 +14,8 @@ Sets the [RegionManagerProperty](regionmanager-regionmanagerproperty-field-mspp-
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 public static void SetRegionManager(
 	DependencyObject target,
 	IRegionManager value
@@ -36,9 +29,7 @@ Public Shared Sub SetRegionManager (
 	value As IRegionManager
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *target*
 
@@ -52,11 +43,8 @@ Public Shared Sub SetRegionManager (
 
   The value.
 
-See Also
---------
-
-
-[RegionManager Class](regionmanager-class-mspp-regions.md)
+## See Also
+[RegionManager Class](regionmanager-class-mspp-regions.md)
 
 [RegionManager Members](regionmanager-members-mspp-regions.md)
 

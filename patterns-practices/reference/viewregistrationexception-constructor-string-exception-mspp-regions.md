@@ -4,9 +4,7 @@ Title: 'ViewRegistrationException Constructor (String, Exception) (Microsoft.Pra
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewRegistrationException.\#ctor(System.String,System.Exception)'
 ms:mtpsurl: 'viewregistrationexception-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # ViewRegistrationException Constructor (String, Exception)
 
 Initializes a new instance of the [ViewRegistrationException](viewregistrationexception-class-mspp-regions.md) class.
@@ -33,9 +31,7 @@ Public Sub New (
 	inner As Exception
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *message*  
 

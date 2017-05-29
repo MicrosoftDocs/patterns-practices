@@ -4,16 +4,12 @@ Title: 'Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.Interactivity.InteractionRequest'
 ms:mtpsurl: 'mspp-interactivity-interactionrequest-namespace.md'
 ---
-
-Prism Class Library
-
-Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace
-====================================================================
+
+# Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace
 
  
 
-Classes
--------
+## Classes
 
 <span id="classToggle"></span>
 <table>
@@ -64,8 +60,7 @@ Basic implementation of <a href="inotification-interface-mspp-interactivity-inte
 </tbody>
 </table>
 
-Interfaces
-----------
+## Interfaces
 
 <span id="interfaceToggle"></span>
 <table>

@@ -4,9 +4,7 @@ Title: 'RegionContext Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionContext'
 ms:mtpsurl: 'regioncontext-class-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # RegionContext Class
 
 Class that holds methods to Set and Get the RegionContext from a DependencyObject. RegionContext allows sharing of contextual information between the view that's hosting a [IRegion](iregion-interface-mspp-regions.md) and any views that are inside the Region.
@@ -35,8 +33,6 @@ Public NotInheritable Class RegionContext
   Microsoft.Practices.Prism.Regions.RegionContext
 
 ## See Also
-
-
-[RegionContext Members](regioncontext-members-mspp-regions.md)
+[RegionContext Members](regioncontext-members-mspp-regions.md)
 
 [Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

@@ -4,16 +4,12 @@ Title: 'ModuleConfigurationElementCollection Members (Microsoft.Practices.Prism.
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection'
 ms:mtpsurl: 'moduleconfigurationelementcollection-members-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleConfigurationElementCollection Members
-============================================
+
+# ModuleConfigurationElementCollection Members
 
 The [ModuleConfigurationElementCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -43,8 +39,7 @@ Initializes a new <a href="https://msdn.microsoft.com/library/microsoft.practice
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -441,8 +436,7 @@ Reverses the effect of merging configuration information from different levels o
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -649,10 +643,7 @@ Gets a value indicating whether an exception should be raised if a duplicate ele
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
+## See Also
+[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

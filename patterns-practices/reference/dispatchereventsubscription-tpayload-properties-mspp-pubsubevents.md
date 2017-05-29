@@ -8,14 +8,10 @@ ms:mtpsurl: 'dispatchereventsubscription-tpayload-properties-mspp-pubsubevents.m
 # DispatcherEventSubscription(Of TPayload) Properties
 
 The [DispatcherEventSubscription(Of TPayload)](dispatchereventsubscription-tpayload-class-mspp-pubsubevents.md) type exposes the following members.
-=======
-DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
-=====================================================================
+DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
+The [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dispatchereventsubscription%601) type exposes the following members.
 
-The [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dispatchereventsubscription%601) type exposes the following members.
-
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -35,7 +31,7 @@ Properties
 Gets the target <a href="http://msdn2.microsoft.com/en-us/library/018hxwa8">Action(Of T)</a> that is referenced by the <a href="idelegatereference-interface-mspp-pubsubevents.md">IDelegateReference</a>.
 </div>
 (Inherited from <a href="eventsubscription-tpayload-class-mspp-pubsubevents.md"> EventSubscription(Of TPayload)</a>.)</td>
-=======
+
 Gets the target <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;(Of &lt;(T&gt;)&gt;)</a> that is referenced by the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.idelegatereference">IDelegateReference</a>.
 </div>
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601">EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)</a>.)</td>
@@ -47,7 +43,7 @@ Gets the target <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Actio
 Gets the target <a href="http://msdn2.microsoft.com/en-us/library/bfcke1bz">Predicate(Of T)</a> that is referenced by the <a href="idelegatereference-interface-mspp-pubsubevents.md">IDelegateReference</a>.
 </div>
 (Inherited from <a href="eventsubscription-tpayload-class-mspp-pubsubevents.md"> EventSubscription(Of TPayload)</a>.)</td>
-=======
+
 Gets the target <a href="http://msdn.microsoft.com/en-us/library/bfcke1bz">Predicate&lt;(Of &lt;(T&gt;)&gt;)</a> that is referenced by the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.idelegatereference">IDelegateReference</a>.
 </div>
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601">EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)</a>.)</td>
@@ -59,18 +55,15 @@ Gets the target <a href="http://msdn.microsoft.com/en-us/library/bfcke1bz">Predi
 Gets or sets a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601.subscriptiontoken">SubscriptionToken</a> that identifies this <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription">IEventSubscription</a>.
 </div>
 (Inherited from <a href="eventsubscription-tpayload-class-mspp-pubsubevents.md"> EventSubscription(Of TPayload)</a>.)</td>
-=======
+
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601">EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)</a>.)</td>
 </tr>
 </tbody>
 </table>
 
-See Also
---------
+## See Also
+[DispatcherEventSubscription(Of TPayload) Class](dispatchereventsubscription-tpayload-class-mspp-pubsubevents.md)
 
-
-[DispatcherEventSubscription(Of TPayload) Class](dispatchereventsubscription-tpayload-class-mspp-pubsubevents.md)
-=======
 [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dispatchereventsubscription%601)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)

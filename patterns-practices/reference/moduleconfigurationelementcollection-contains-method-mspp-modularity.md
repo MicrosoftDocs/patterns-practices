@@ -29,9 +29,7 @@ Public Function Contains (
 	moduleName As String
 ) As Boolean
 ```
-
-
-### Parameters
+### Parameters
 
 *moduleName*
 

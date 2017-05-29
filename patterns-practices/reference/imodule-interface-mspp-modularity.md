@@ -4,9 +4,7 @@ Title: 'IModule Interface (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.IModule'
 ms:mtpsurl: 'imodule-interface-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # IModule Interface
 
 Defines the contract for the modules deployed in the application.

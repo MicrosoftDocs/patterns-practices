@@ -4,9 +4,7 @@ Title: 'ModuleCatalog.Sort Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.Sort(System.Collections.Generic.IEnumerable{Microsoft.Practices.Prism.Modularity.ModuleInfo})'
 ms:mtpsurl: 'modulecatalog-sort-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleCatalog.Sort Method
 
 Sorts a list of [ModuleInfo](moduleinfo-class-mspp-modularity.md)s. This method is called by [CompleteListWithDependencies(IEnumerable&lt;ModuleInfo&gt;)](modulecatalog-completelistwithdependencies-method-mspp-modularity.md) to return a sorted list.
@@ -31,9 +29,7 @@ Protected Overridable Function Sort (
 	modules As IEnumerable(Of ModuleInfo)
 ) As IEnumerable(Of ModuleInfo)
 ```
-
-
-### Parameters
+### Parameters
 
 *modules*
 

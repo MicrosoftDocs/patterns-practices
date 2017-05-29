@@ -4,11 +4,8 @@ Title: 'ModuleDependencySolver Constructor (Microsoft.Practices.Prism.Modularity
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencySolver.\#ctor'
 ms:mtpsurl: 'moduledependencysolver-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDependencySolver Constructor
-==================================
+
+# ModuleDependencySolver Constructor
 
 Initializes a new instance of the [ModuleDependencySolver](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [ModuleDependencySolver](https://msdn.microsof
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public ModuleDependencySolver()Public Sub New
 
-
-public ModuleDependencySolver()Public Sub New
-
-See Also
---------
-
-
-[ModuleDependencySolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver)
+## See Also
+[ModuleDependencySolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver)
 
 [ModuleDependencySolver Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencysolver)
 

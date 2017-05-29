@@ -24,9 +24,7 @@ Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)&lt;[KeyVal
 ### Implements
 
 [IEnumerable&lt;T&gt;.GetEnumerator()](http://msdn.microsoft.com/en-us/library/s793z9y2)
-
-
-```VB
+```VB
 'Declaration
 Public Function GetEnumerator As IEnumerator(Of KeyValuePair(Of String, Object))
 ```

@@ -4,9 +4,7 @@ Title: 'PropertySupport Class (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'T:Microsoft.Practices.Prism.ViewModel.PropertySupport'
 ms:mtpsurl: 'propertysupport-class-mspp-viewmodel.md'
 ---
-
-Prism Class Library
-
+
 # PropertySupport Class
 
 Provides support for extracting property information based on a property expression.

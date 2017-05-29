@@ -4,9 +4,7 @@ Title: 'PubSubEvent(TPayload) Methods (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1'
 ms:mtpsurl: 'pubsubevent-tpayload-methods-mspp-pubsubevents.md'
 ---
-
-Prism Class Library
-
+
 # PubSubEvent(Of TPayload) Methods
 
 The [PubSubEvent(Of TPayload)](pubsubevent-tpayload-class-mspp-pubsubevents.md) type exposes the following members.

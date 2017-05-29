@@ -4,11 +4,8 @@ Title: 'IRegionNavigationService Interface (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.IRegionNavigationService'
 ms:mtpsurl: 'iregionnavigationservice-interface-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionNavigationService Interface
-==================================
+
+# IRegionNavigationService Interface
 
 Provides navigation for regions.
 
@@ -18,14 +15,9 @@ Provides navigation for regions.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public interface IRegionNavigationService : INavigateAsyncPublic Interface IRegionNavigationService Inherits INavigateAsync
 
-
-public interface IRegionNavigationService : INavigateAsyncPublic Interface IRegionNavigationService Inherits INavigateAsync
-
-See Also
---------
-
-
-[IRegionNavigationService Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionnavigationservice)
+## See Also
+[IRegionNavigationService Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionnavigationservice)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -4,11 +4,8 @@ Title: 'MefFileModuleTypeLoader.LoadModuleType Method (Microsoft.Practices.Prism
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefFileModuleTypeLoader.LoadModuleType(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'meffilemoduletypeloader-loadmoduletype-method-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-MefFileModuleTypeLoader.LoadModuleType Method
-=================================================
+
+# MefFileModuleTypeLoader.LoadModuleType Method
 
 Retrieves the moduleInfo.
 
@@ -17,12 +14,8 @@ Retrieves the moduleInfo.
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 public virtual void LoadModuleType(
 	ModuleInfo moduleInfo
   )
@@ -34,9 +27,7 @@ Public Overridable Sub LoadModuleType (
 	moduleInfo As ModuleInfo
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *moduleInfo*  
 
@@ -48,11 +39,8 @@ Module that should have it's type loaded.
 
 [IModuleTypeLoader.LoadModuleType(ModuleInfo)](imoduletypeloader-loadmoduletype-method-mspp-modularity.md)
 
-See Also
---------
-
-
-[MefFileModuleTypeLoader Class](meffilemoduletypeloader-class-mspp-mefextensions-modularity.md)
+## See Also
+[MefFileModuleTypeLoader Class](meffilemoduletypeloader-class-mspp-mefextensions-modularity.md)
 
 [MefFileModuleTypeLoader Members](meffilemoduletypeloader-members-mspp-mefextensions-modularity.md)
 

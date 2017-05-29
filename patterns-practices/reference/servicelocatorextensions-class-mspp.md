@@ -4,11 +4,8 @@ Title: 'ServiceLocatorExtensions Class (Microsoft.Practices.Prism)'
 ms:assetid: 'T:Microsoft.Practices.Prism.ServiceLocatorExtensions'
 ms:mtpsurl: 'servicelocatorextensions-class-mspp.md'
 ---
-
-Prism Class Library
-
-ServiceLocatorExtensions Class
-==============================
+
+# ServiceLocatorExtensions Class
 
 Defines extension methods for the ServiceLocator class.
 
@@ -17,12 +14,8 @@ Defines extension methods for the ServiceLocator class.
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
     public static class ServiceLocatorExtensions
 ```
 ```VB
@@ -31,17 +24,13 @@ Defines extension methods for the ServiceLocator class.
     Public NotInheritable Class ServiceLocatorExtensions
 ```
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
   Microsoft.Practices.Prism.ServiceLocatorExtensions
 
-See Also
---------
-
-
-[ServiceLocatorExtensions Members](servicelocatorextensions-members-mspp.md)
+## See Also
+[ServiceLocatorExtensions Members](servicelocatorextensions-members-mspp.md)
 
 [Microsoft.Practices.Prism Namespace](mspp-namespace.md)

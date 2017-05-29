@@ -4,9 +4,7 @@ Title: 'ErrorsContainer(T).SetErrors Method (String, IEnumerable(T)) (Microsoft.
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.SetErrors(System.String,System.Collections.Generic.IEnumerable{\`0})'
 ms:mtpsurl: 'errorscontainer-t-seterrors-method-string-ienumerable-t-mspp-viewmodel.md'
 ---
-
-Prism Class Library
-
+
 # ErrorsContainer&lt;T&gt;.SetErrors Method (String, IEnumerable&lt;T&gt;)
 
 Sets the validation errors for the specified property.
@@ -23,9 +21,7 @@ public void SetErrors(
 	IEnumerable<T> newValidationResults
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *propertyName* 
 

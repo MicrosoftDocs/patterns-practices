@@ -4,9 +4,7 @@ Title: 'SyncRegionContextWithHostBehavior Properties (Microsoft.Practices.Prism.
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior'
 ms:mtpsurl: 'syncregioncontextwithhostbehavior-properties-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
+
 # SyncRegionContextWithHostBehavior Properties
 
 The [SyncRegionContextWithHostBehavior](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors.md) type exposes the following members.

@@ -4,15 +4,13 @@ Title: 'IInteractionRequestAware Properties (Microsoft.Practices.Prism.Interacti
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.IInteractionRequestAware'
 ms:mtpsurl: 'iinteractionrequestaware-properties-mspp-interactivity-interactionrequest.md'
 ---
-
-Prism Class Library
-
+
 # IInteractionRequestAware Properties
 
 The [IInteractionRequestAware](iinteractionrequestaware-interface-mspp-interactivity-interactionrequest.md) type exposes the following members.
 
 ## Properties
-=======
+
 The [IInteractionRequestAware](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware) type exposes the following members.
 
 <table>
@@ -47,7 +45,6 @@ The <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.intera
 [IInteractionRequestAware Interface](iinteractionrequestaware-interface-mspp-interactivity-interactionrequest.md)
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)
-=======
 
 [IInteractionRequestAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware)
 

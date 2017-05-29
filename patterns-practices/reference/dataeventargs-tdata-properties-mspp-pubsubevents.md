@@ -10,14 +10,12 @@ ms:mtpsurl: 'dataeventargs-tdata-properties-mspp-pubsubevents.md'
 The [DataEventArgs(Of TData)](dataeventargs-tdata-class-mspp-pubsubevents.md) type exposes the following members.
 
 ## Properties
-=======
+
 DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Properties
-====================================================
 
 The [DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dataeventargs%601) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -43,10 +41,6 @@ Gets the information related to the event.
 ## See Also
 
 [DataEventArgs(Of TData) Class](dataeventargs-tdata-class-mspp-pubsubevents.md)
-=======
-See Also
---------
-
 
 [DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dataeventargs%601)
 

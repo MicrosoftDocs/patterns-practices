@@ -4,9 +4,7 @@ Title: 'SelectorItemsSourceSyncBehavior Properties (Microsoft.Practices.Prism.Re
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior'
 ms:mtpsurl: 'selectoritemssourcesyncbehavior-properties-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
+
 # SelectorItemsSourceSyncBehavior Properties
 
 The [SelectorItemsSourceSyncBehavior](selectoritemssourcesyncbehavior-class-mspp-regions-behaviors.md) type exposes the following members.

@@ -4,11 +4,8 @@ Title: 'MefEventAggregator Constructor (Microsoft.Practices.Prism.MefExtensions.
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Events.MefEventAggregator.\#ctor'
 ms:mtpsurl: 'mefeventaggregator-constructor-mspp-mefextensions-events.md'
 ---
-
-Prism Class Library
-
-MefEventAggregator Constructor
-==============================
+
+# MefEventAggregator Constructor
 
 Initializes a new instance of the [MefEventAggregator](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [MefEventAggregator](https://msdn.microsoft.co
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public MefEventAggregator()Public Sub New
 
-
-public MefEventAggregator()Public Sub New
-
-See Also
---------
-
-
-[MefEventAggregator Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator)
+## See Also
+[MefEventAggregator Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator)
 
 [MefEventAggregator Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.events.mefeventaggregator)
 

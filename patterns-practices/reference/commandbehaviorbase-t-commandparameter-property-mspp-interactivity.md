@@ -4,9 +4,7 @@ Title: 'CommandBehaviorBase(T).CommandParameter Property (Microsoft.Practices.Pr
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase\`1.CommandParameter'
 ms:mtpsurl: 'commandbehaviorbase-t-commandparameter-property-mspp-interactivity.md'
 ---
-
-Prism Class Library
-
+
 # CommandBehaviorBase&lt;T&gt;.CommandParameter Property
 
 The parameter to supply the command during execution

@@ -35,9 +35,7 @@ Public Sub OnUpdatingRegions (
 	e As EventArgs
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *sender*
 

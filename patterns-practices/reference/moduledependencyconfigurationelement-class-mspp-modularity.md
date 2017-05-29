@@ -4,9 +4,7 @@ Title: 'ModuleDependencyConfigurationElement Class (Microsoft.Practices.Prism.Mo
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement'
 ms:mtpsurl: 'moduledependencyconfigurationelement-class-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleDependencyConfigurationElement Class
 
 A [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) for module dependencies.
@@ -37,8 +35,6 @@ Public Class ModuleDependencyConfigurationElement
     Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement
 
 ## See Also
-
-
-[ModuleDependencyConfigurationElement Members](moduledependencyconfigurationelement-members-mspp-modularity.md)
+[ModuleDependencyConfigurationElement Members](moduledependencyconfigurationelement-members-mspp-modularity.md)
 
 [Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

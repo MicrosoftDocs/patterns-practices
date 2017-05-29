@@ -4,9 +4,7 @@ Title: 'ModuleInfoGroup.ForwardValues Method (Microsoft.Practices.Prism.Modulari
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.ForwardValues(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'moduleinfogroup-forwardvalues-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleInfoGroup.ForwardValues Method
 
 Forwards [InitializationMode](moduleinfogroup-initializationmode-property-mspp-modularity.md) and [Ref](moduleinfogroup-ref-property-mspp-modularity.md) properties from this [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md) to moduleInfo.
@@ -24,9 +22,7 @@ protected void ForwardValues(
 	ModuleInfo moduleInfo
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *moduleInfo*  
 
@@ -40,9 +36,7 @@ Protected Sub ForwardValues (
 	moduleInfo As ModuleInfo
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *moduleInfo*  
 
@@ -57,9 +51,7 @@ The module info to forward values to.
  [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)  An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if *moduleInfo* is **nulla** null reference (**Nothing** in Visual Basic).
 
 ## See Also
-
-
-[ModuleInfoGroup Class](moduleinfogroup-class-mspp-modularity.md)
+[ModuleInfoGroup Class](moduleinfogroup-class-mspp-modularity.md)
 
 [ModuleInfoGroup Members](moduleinfogroup-members-mspp-modularity.md)
 

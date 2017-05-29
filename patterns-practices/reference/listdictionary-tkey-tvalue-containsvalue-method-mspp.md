@@ -4,9 +4,7 @@ Title: 'ListDictionary(TKey, TValue).ContainsValue Method (Microsoft.Practices.P
 ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.ContainsValue(\`1)'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-containsvalue-method-mspp.md'
 ---
-
-Prism Class Library
-
+
 # ListDictionary&lt;TKey, TValue&gt;.ContainsValue Method
 
 Determines whether the dictionary contains the specified value.
@@ -24,9 +22,7 @@ public bool ContainsValue(
 	TValue value
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *value*
 
@@ -64,9 +60,7 @@ Public Function ContainsValue (
 	value As TValue
 ) As Boolean
 ```
-
-
-### Parameters
+### Parameters
 
 *value*
 

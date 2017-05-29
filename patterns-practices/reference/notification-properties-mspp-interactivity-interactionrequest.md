@@ -4,9 +4,7 @@ Title: 'Notification Properties (Microsoft.Practices.Prism.Interactivity.Interac
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification'
 ms:mtpsurl: 'notification-properties-mspp-interactivity-interactionrequest.md'
 ---
-
-Prism Class Library
-
+
 # Notification Properties
 
 The [Notification](notification-class-mspp-interactivity-interactionrequest.md) type exposes the following members.
@@ -40,10 +38,7 @@ Gets or sets the title to use for the notification.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[Notification Class](notification-class-mspp-interactivity-interactionrequest.md)
+## See Also
+[Notification Class](notification-class-mspp-interactivity-interactionrequest.md)
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)

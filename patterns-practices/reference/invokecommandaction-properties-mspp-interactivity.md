@@ -4,9 +4,7 @@ Title: 'InvokeCommandAction Properties (Microsoft.Practices.Prism.Interactivity)
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction'
 ms:mtpsurl: 'invokecommandaction-properties-mspp-interactivity.md'
 ---
-
-Prism Class Library
-
+
 # InvokeCommandAction Properties
 
 The [InvokeCommandAction](invokecommandaction-class-mspp-interactivity.md) type exposes the following members.
@@ -111,8 +109,6 @@ Gets or sets the TriggerParameterPath value.
 </table>
 
 ## See Also
-
-
-[InvokeCommandAction Class](invokecommandaction-class-mspp-interactivity.md)
+[InvokeCommandAction Class](invokecommandaction-class-mspp-interactivity.md)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace.md)

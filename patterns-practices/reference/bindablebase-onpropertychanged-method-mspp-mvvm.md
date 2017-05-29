@@ -4,22 +4,15 @@ Title: 'BindableBase.OnPropertyChanged Method (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Mvvm.BindableBase.OnPropertyChanged'
 ms:mtpsurl: 'bindablebase-onpropertychanged-method-mspp-mvvm.md'
 ---
-
-
-
+
 # BindableBase.OnPropertyChanged Method
 
+## Overload List
+
+### BindableBase.OnPropertyChanged Method
 
 ## Overload List
-=======
-BindableBase.OnPropertyChanged Method
-=========================================
-
-Overload List
--------------
-
-
-<table>
+<table>
 
 <thead>
 <tr class="header">
@@ -48,13 +41,9 @@ Notifies listeners that a property value has changed.
 
 ## See Also
 
-
 [BindableBase Class](bindablebase-class-mspp-mvvm.md)
-=======
 
 [BindableBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase)
-
-
-[BindableBase Members](bindablebase-members-mspp-mvvm.md)
+[BindableBase Members](bindablebase-members-mspp-mvvm.md)
 
 [Microsoft.Practices.Prism.Mvvm Namespace](mspp-mvvm-namespace.md)

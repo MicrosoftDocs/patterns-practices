@@ -29,9 +29,7 @@ Sub Activate (
 	view As Object
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *view*
 

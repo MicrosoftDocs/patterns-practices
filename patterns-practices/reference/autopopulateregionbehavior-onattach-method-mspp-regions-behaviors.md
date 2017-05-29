@@ -4,11 +4,8 @@ Title: 'AutoPopulateRegionBehavior.OnAttach Method (Microsoft.Practices.Prism.Re
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior.OnAttach'
 ms:mtpsurl: 'autopopulateregionbehavior-onattach-method-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-AutoPopulateRegionBehavior.OnAttach Method
-==============================================
+
+# AutoPopulateRegionBehavior.OnAttach Method
 
 Attaches the AutoPopulateRegionBehavior to the Region.
 
@@ -17,23 +14,16 @@ Attaches the AutoPopulateRegionBehavior to the Region.
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 protected override void OnAttach()
 ```
 ```VB
 'Declaration
 Protected Overrides Sub OnAttach
 ```
-See Also
---------
-
-
-[AutoPopulateRegionBehavior Class](autopopulateregionbehavior-class-mspp-regions-behaviors.md)
+## See Also
+[AutoPopulateRegionBehavior Class](autopopulateregionbehavior-class-mspp-regions-behaviors.md)
 
 [AutoPopulateRegionBehavior Members](autopopulateregionbehavior-members-mspp-regions-behaviors.md)
 

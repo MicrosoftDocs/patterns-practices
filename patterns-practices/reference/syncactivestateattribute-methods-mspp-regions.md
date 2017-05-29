@@ -4,9 +4,7 @@ Title: 'SyncActiveStateAttribute Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.SyncActiveStateAttribute'
 ms:mtpsurl: 'syncactivestateattribute-methods-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # SyncActiveStateAttribute Methods
 
 The [SyncActiveStateAttribute](syncactivestateattribute-class-mspp-regions.md) type exposes the following members.
@@ -75,8 +73,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-
-
-[SyncActiveStateAttribute Class](syncactivestateattribute-class-mspp-regions.md)
+[SyncActiveStateAttribute Class](syncactivestateattribute-class-mspp-regions.md)
 
 [Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

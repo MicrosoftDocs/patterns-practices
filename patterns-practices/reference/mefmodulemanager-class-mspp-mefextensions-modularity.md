@@ -4,9 +4,7 @@ Title: 'MefModuleManager Class (Microsoft.Practices.Prism.MefExtensions.Modulari
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager'
 ms:mtpsurl: 'mefmodulemanager-class-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
+
 # MefModuleManager Class
 
 Component responsible for coordinating the modules' type loading and module initialization process.

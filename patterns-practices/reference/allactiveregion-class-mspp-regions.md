@@ -4,9 +4,7 @@ Title: 'AllActiveRegion Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.AllActiveRegion'
 ms:mtpsurl: 'allactiveregion-class-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # AllActiveRegion Class
 
 Region that keeps all the views in it as active. Deactivation of views is not allowed.
@@ -37,8 +35,6 @@ Public Class AllActiveRegion
     Microsoft.Practices.Prism.Regions.AllActiveRegion
 
 ## See Also
-
-
-[AllActiveRegion Members](allactiveregion-members-mspp-regions.md)
+[AllActiveRegion Members](allactiveregion-members-mspp-regions.md)
 
 [Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

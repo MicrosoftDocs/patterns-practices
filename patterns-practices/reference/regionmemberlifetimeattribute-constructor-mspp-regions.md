@@ -4,11 +4,8 @@ Title: 'RegionMemberLifetimeAttribute Constructor (Microsoft.Practices.Prism.Reg
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionMemberLifetimeAttribute.\#ctor'
 ms:mtpsurl: 'regionmemberlifetimeattribute-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionMemberLifetimeAttribute Constructor
-=========================================
+
+# RegionMemberLifetimeAttribute Constructor
 
 Instantiates an instance of [RegionMemberLifetimeAttribute](regionmemberlifetimeattribute-class-mspp-regions.md)
 
@@ -17,23 +14,16 @@ Instantiates an instance of [RegionMemberLifetimeAttribute](regionmemberlifetime
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 public RegionMemberLifetimeAttribute()
 ```
 ```VB
 'Declaration
 Public Sub New
 ```
-See Also
---------
-
-
-[RegionMemberLifetimeAttribute Class](regionmemberlifetimeattribute-class-mspp-regions.md)
+## See Also
+[RegionMemberLifetimeAttribute Class](regionmemberlifetimeattribute-class-mspp-regions.md)
 
 [RegionMemberLifetimeAttribute Members](regionmemberlifetimeattribute-members-mspp-regions.md)
 

@@ -6,11 +6,8 @@ ms:mtpsurl: 'ieventaggregator-interface-mspp-pubsubevents.md'
 ---
 
 # IEventAggregator Interface
-=======
-Prism Class Library
 
 IEventAggregator Interface
-==========================
 
 Defines an interface to get instances of an event type.
 
@@ -18,14 +15,9 @@ Defines an interface to get instances of an event type.
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
+public interface IEventAggregatorPublic Interface IEventAggregator
 
-
-public interface IEventAggregatorPublic Interface IEventAggregator
-
-See Also
---------
-
-
-[IEventAggregator Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.ieventaggregator)
+## See Also
+[IEventAggregator Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.ieventaggregator)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)

@@ -4,16 +4,12 @@ Title: 'ModularityException Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModularityException'
 ms:mtpsurl: 'modularityexception-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModularityException Methods
-===========================
+
+# ModularityException Methods
 
 The [ModularityException](modularityexception-class-mspp-modularity.md) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <table>
 
@@ -92,8 +88,7 @@ Creates and returns a string representation of the current exception.
 </tbody>
 </table>
 
-Extension Methods
------------------
+## Extension Methods
 
 <table>
 
@@ -116,10 +111,7 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModularityException Class](modularityexception-class-mspp-modularity.md)
+## See Also
+[ModularityException Class](modularityexception-class-mspp-modularity.md)
 
 [Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

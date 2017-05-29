@@ -23,9 +23,7 @@ public NavigationResult(
 	Nullable<bool> result
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *context*
 
@@ -56,9 +54,7 @@ Public Sub New (
 	result As Nullable(Of Boolean)
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *context*
 

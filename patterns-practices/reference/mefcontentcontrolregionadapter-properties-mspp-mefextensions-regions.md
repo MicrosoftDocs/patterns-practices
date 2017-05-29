@@ -4,16 +4,12 @@ Title: 'MefContentControlRegionAdapter Properties (Microsoft.Practices.Prism.Mef
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefContentControlRegionAdapter'
 ms:mtpsurl: 'mefcontentcontrolregionadapter-properties-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
-MefContentControlRegionAdapter Properties
-=========================================
+
+# MefContentControlRegionAdapter Properties
 
 The [MefContentControlRegionAdapter](mefcontentcontrolregionadapter-class-mspp-mefextensions-regions.md) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <table>
 
@@ -36,10 +32,7 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefContentControlRegionAdapter Class](mefcontentcontrolregionadapter-class-mspp-mefextensions-regions.md)
+## See Also
+[MefContentControlRegionAdapter Class](mefcontentcontrolregionadapter-class-mspp-mefextensions-regions.md)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace.md)

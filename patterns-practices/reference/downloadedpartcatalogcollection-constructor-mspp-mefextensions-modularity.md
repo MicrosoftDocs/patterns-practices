@@ -4,11 +4,8 @@ Title: 'DownloadedPartCatalogCollection Constructor (Microsoft.Practices.Prism.M
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection.\#ctor'
 ms:mtpsurl: 'downloadedpartcatalogcollection-constructor-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-DownloadedPartCatalogCollection Constructor
-===========================================
+
+# DownloadedPartCatalogCollection Constructor
 
 Initializes a new instance of the [DownloadedPartCatalogCollection](downloadedpartcatalogcollection-class-mspp-mefextensions-modularity.md) class
 
@@ -17,12 +14,8 @@ Initializes a new instance of the [DownloadedPartCatalogCollection](downloadedpa
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 public DownloadedPartCatalogCollection()
 ```
 ```VB
@@ -30,11 +23,8 @@ public DownloadedPartCatalogCollection()
 Public Sub New
 ```
 
-See Also
---------
-
-
-[DownloadedPartCatalogCollection Class](downloadedpartcatalogcollection-class-mspp-mefextensions-modularity.md)
+## See Also
+[DownloadedPartCatalogCollection Class](downloadedpartcatalogcollection-class-mspp-mefextensions-modularity.md)
 
 [DownloadedPartCatalogCollection Members](downloadedpartcatalogcollection-members-mspp-mefextensions-modularity.md)
 

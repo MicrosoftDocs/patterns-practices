@@ -4,9 +4,7 @@ Title: 'PubSubEvent(TPayload).Subscribe Method (Action(TPayload), ThreadOption, 
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Subscribe(System.Action{\`0},Microsoft.Practices.Prism.PubSubEvents.ThreadOption,System.Boolean)'
 ms:mtpsurl: 'pubsubevent-tpayload-subscribe-method-action-tpayload-threadoption-boolean-mspp-pubsubevents.md'
 ---
-
-
-## PubSubEvent&lt;TPayload&gt;.Subscribe Method (Action&lt;TPayload&gt;, ThreadOption, Boolean)
+## PubSubEvent&lt;TPayload&gt;.Subscribe Method (Action&lt;TPayload&gt;, ThreadOption, Boolean)
 Subscribes a delegate to an event.
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
@@ -31,9 +29,7 @@ Public Function Subscribe (
 	keepSubscriberReferenceAlive As Boolean
 ) As SubscriptionToken
 ```
-
-
-### Parameters
+### Parameters
 
 *action*
 

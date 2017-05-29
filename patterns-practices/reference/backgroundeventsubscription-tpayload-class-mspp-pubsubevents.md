@@ -12,12 +12,8 @@ Extends [EventSubscription(Of TPayload)](eventsubscription-tpayload-class-mspp-p
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
     public class BackgroundEventSubscription<TPayload> : EventSubscription<TPayload>
 ```
 ```VB

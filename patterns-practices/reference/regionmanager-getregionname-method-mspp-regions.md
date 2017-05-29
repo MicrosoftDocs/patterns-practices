@@ -29,9 +29,7 @@ Public Shared Function GetRegionName (
 	regionTarget As DependencyObject
 ) As String
 ```
-
-
-### Parameters
+### Parameters
 
 *regionTarget*
 

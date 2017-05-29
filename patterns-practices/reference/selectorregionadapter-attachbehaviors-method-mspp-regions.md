@@ -4,11 +4,8 @@ Title: 'SelectorRegionAdapter.AttachBehaviors Method (Microsoft.Practices.Prism.
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.SelectorRegionAdapter.AttachBehaviors(Microsoft.Practices.Prism.Regions.IRegion,System.Windows.Controls.Primitives.Selector)'
 ms:mtpsurl: 'selectorregionadapter-attachbehaviors-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-SelectorRegionAdapter.AttachBehaviors Method
-================================================
+
+# SelectorRegionAdapter.AttachBehaviors Method
 
 Attach new behaviors.
 
@@ -18,9 +15,7 @@ Attach new behaviors.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected override void AttachBehaviors( IRegion region, Selector regionTarget )Protected Overrides Sub AttachBehaviors ( region As IRegion, regionTarget As Selector )
+protected override void AttachBehaviors( IRegion region, Selector regionTarget )Protected Overrides Sub AttachBehaviors ( region As IRegion, regionTarget As Selector )
 
 ### Parameters
 
@@ -32,16 +27,12 @@ regionTarget
 Type: [System.Windows.Controls.Primitives.Selector](http://msdn.microsoft.com/en-us/library/ms595227)
 The object to adapt.
 
-Remarks
--------
+## Remarks
 
  This class attaches the base behaviors and also listens for changes in the activity of the region or the control selection and keeps the in sync.
 
-See Also
---------
-
-
-[SelectorRegionAdapter Class](selectorregionadapter-class-mspp-regions.md)
+## See Also
+[SelectorRegionAdapter Class](selectorregionadapter-class-mspp-regions.md)
 
 [SelectorRegionAdapter Members](selectorregionadapter-members-mspp-regions.md)
 

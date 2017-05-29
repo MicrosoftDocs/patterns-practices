@@ -33,9 +33,7 @@ Public Overrides Sub GetObjectData (
 	context As StreamingContext
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *info*  
 Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)

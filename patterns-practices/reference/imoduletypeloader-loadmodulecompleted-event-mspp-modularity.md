@@ -4,10 +4,7 @@ Title: 'IModuleTypeLoader.LoadModuleCompleted Event (Microsoft.Practices.Prism.M
 ms:assetid: 'E:Microsoft.Practices.Prism.Modularity.IModuleTypeLoader.LoadModuleCompleted'
 ms:mtpsurl: 'imoduletypeloader-loadmodulecompleted-event-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-=======
+
 
 # IModuleTypeLoader.LoadModuleCompleted Event
 
@@ -34,10 +31,7 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt
     'Declaration
     Event LoadModuleCompleted As EventHandler(Of LoadModuleCompletedEventArgs)
 ```
-
-=======
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 

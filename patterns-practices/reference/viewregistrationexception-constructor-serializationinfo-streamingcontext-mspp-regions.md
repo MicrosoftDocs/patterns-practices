@@ -4,9 +4,7 @@ Title: 'ViewRegistrationException Constructor (SerializationInfo, StreamingConte
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewRegistrationException.\#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
 ms:mtpsurl: 'viewregistrationexception-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # ViewRegistrationException Constructor (SerializationInfo, StreamingContext)
 
 Initializes a new instance of the [ViewRegistrationException](viewregistrationexception-class-mspp-regions.md) class with serialized data.
@@ -32,9 +30,7 @@ Protected Sub New (
 	context As StreamingContext
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *info*  
 Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)

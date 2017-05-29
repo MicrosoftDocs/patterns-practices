@@ -4,9 +4,7 @@ Title: 'ModuleNotFoundException Constructor (Microsoft.Practices.Prism.Modularit
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleNotFoundException.\#ctor'
 ms:mtpsurl: 'modulenotfoundexception-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleNotFoundException Constructor
 
 Initializes a new instance of the [ModuleNotFoundException](modulenotfoundexception-class-mspp-modularity.md) class.

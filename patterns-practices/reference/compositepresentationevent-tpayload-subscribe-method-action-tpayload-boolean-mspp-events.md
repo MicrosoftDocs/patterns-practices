@@ -4,11 +4,8 @@ Title: 'CompositePresentationEvent(TPayload).Subscribe Method (Action(TPayload),
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Subscribe(System.Action{\`0},System.Boolean)'
 ms:mtpsurl: 'compositepresentationevent-tpayload-subscribe-method-action-tpayload-boolean-mspp-events.md'
 ---
-
-Prism Class Library
-
-CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Subscribe Method (Action&lt;(Of &lt;(TPayload&gt;)&gt;), Boolean)
-===============================================================================================================================
+
+# CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Subscribe Method (Action&lt;(Of &lt;(TPayload&gt;)&gt;), Boolean)
 
 Subscribes a delegate to an event that will be published on the PublisherThread.
 
@@ -18,9 +15,7 @@ Subscribes a delegate to an event that will be published on the PublisherThread.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public SubscriptionToken Subscribe( Action&lt;TPayload&gt; action, bool keepSubscriberReferenceAlive )Public Function Subscribe ( action As Action(Of TPayload), keepSubscriberReferenceAlive As Boolean ) As SubscriptionToken
+public SubscriptionToken Subscribe( Action&lt;TPayload&gt; action, bool keepSubscriberReferenceAlive )Public Function Subscribe ( action As Action(Of TPayload), keepSubscriberReferenceAlive As Boolean ) As SubscriptionToken
 
 ### Parameters
 
@@ -37,18 +32,14 @@ When trueTruetruetrue (True in Visual Basic), the [CompositePresentationEvent&lt
 Type: SubscriptionToken
 A SubscriptionToken that uniquely identifies the added subscription.
 
-Remarks
--------
+## Remarks
 
  If keepSubscriberReferenceAlive is set to falseFalsefalsefalse (False in Visual Basic), [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate. If not using a WeakReference (keepSubscriberReferenceAlive is trueTruetruetrue (True in Visual Basic)), the user must explicitly call Unsubscribe for the event when disposing the subscriber in order to avoid memory leaks or unexepcted behavior.
 
 The CompositePresentationEvent collection is thread-safe.
 
-See Also
---------
-
-
-[CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)
+## See Also
+[CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)
 
 [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.events.compositepresentationevent%601)
 

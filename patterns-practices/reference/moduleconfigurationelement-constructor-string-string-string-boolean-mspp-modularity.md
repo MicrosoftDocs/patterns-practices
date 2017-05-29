@@ -4,9 +4,7 @@ Title: 'ModuleConfigurationElement Constructor (String, String, String, Boolean)
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement.\#ctor(System.String,System.String,System.String,System.Boolean)'
 ms:mtpsurl: 'moduleconfigurationelement-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleConfigurationElement Constructor (String, String, String, Boolean)
 
 Initializes a new instance of [ModuleConfigurationElement](moduleconfigurationelement-class-mspp-modularity.md).

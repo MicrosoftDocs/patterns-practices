@@ -4,11 +4,8 @@ Title: 'ModuleManager.LoadModulesThatAreReadyForLoad Method (Microsoft.Practices
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleManager.LoadModulesThatAreReadyForLoad'
 ms:mtpsurl: 'modulemanager-loadmodulesthatarereadyforload-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleManager.LoadModulesThatAreReadyForLoad Method
-=======================================================
+
+# ModuleManager.LoadModulesThatAreReadyForLoad Method
 
 Loads the modules that are not intialized and have their dependencies loaded.
 
@@ -18,15 +15,10 @@ Loads the modules that are not intialized and have their dependencies loaded.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+protected void LoadModulesThatAreReadyForLoad()Protected Sub LoadModulesThatAreReadyForLoad
 
-
-protected void LoadModulesThatAreReadyForLoad()Protected Sub LoadModulesThatAreReadyForLoad
-
-See Also
---------
-
-
-[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
+## See Also
+[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
 
 [ModuleManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulemanager)
 

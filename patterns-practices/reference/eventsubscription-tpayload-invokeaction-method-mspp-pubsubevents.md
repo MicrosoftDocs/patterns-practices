@@ -21,9 +21,7 @@ public virtual void InvokeAction(
 	TPayload argument
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *action*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](eventsubscription-tpayload-class-mspp-pubsubevents.md)&gt;
@@ -66,9 +64,7 @@ Public Overridable Sub InvokeAction (
 	argument As TPayload
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *action*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](eventsubscription-tpayload-class-mspp-pubsubevents.md))

@@ -4,14 +4,10 @@ Title: 'PubSubEvent(TPayload).Unsubscribe Method (Microsoft.Practices.Prism.PubS
 ms:assetid: 'Overload:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Unsubscribe'
 ms:mtpsurl: 'pubsubevent-tpayload-unsubscribe-method-mspp-pubsubevents.md'
 ---
+
+# PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Unsubscribe Method
 
-Prism Class Library
-
-PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Unsubscribe Method
-=================================================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -42,11 +38,8 @@ Removes the subscriber matching the <a href="https://msdn.microsoft.com/library/
 </tbody>
 </table>
 
-See Also
---------
-
-
-[PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601)
+## See Also
+[PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601)
 
 [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.pubsubevent%601)
 

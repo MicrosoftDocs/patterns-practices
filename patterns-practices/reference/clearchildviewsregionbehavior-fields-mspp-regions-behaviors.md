@@ -4,16 +4,12 @@ Title: 'ClearChildViewsRegionBehavior Fields (Microsoft.Practices.Prism.Regions.
 ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior'
 ms:mtpsurl: 'clearchildviewsregionbehavior-fields-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-ClearChildViewsRegionBehavior Fields
-====================================
+
+# ClearChildViewsRegionBehavior Fields
 
 The [ClearChildViewsRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior) type exposes the following members.
 
-Fields
-------
+## Fields
 
 <span id="fieldTableToggle"></span>
 <table>
@@ -43,10 +39,7 @@ This attached property can be defined on a view to indicate that regions defined
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
+## See Also
+[ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

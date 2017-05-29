@@ -4,9 +4,7 @@ Title: 'MefRegionNavigationJournal Properties (Microsoft.Practices.Prism.MefExte
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournal'
 ms:mtpsurl: 'mefregionnavigationjournal-properties-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
+
 # MefRegionNavigationJournal Properties
 
 The [MefRegionNavigationJournal](mefregionnavigationjournal-class-mspp-mefextensions-regions.md) type exposes the following members.

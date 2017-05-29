@@ -4,14 +4,10 @@ Title: 'CyclicDependencyFoundException Constructor (Microsoft.Practices.Prism.Mo
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException.\#ctor'
 ms:mtpsurl: 'cyclicdependencyfoundexception-constructor-mspp-modularity.md'
 ---
+
+# CyclicDependencyFoundException Constructor
 
-Prism Class Library
-
-CyclicDependencyFoundException Constructor
-==========================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -62,11 +58,8 @@ Initializes the exception with a particular module, error message and inner exce
 </tbody>
 </table>
 
-See Also
---------
-
-
-[CyclicDependencyFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
+## See Also
+[CyclicDependencyFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
 
 [CyclicDependencyFoundException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
 

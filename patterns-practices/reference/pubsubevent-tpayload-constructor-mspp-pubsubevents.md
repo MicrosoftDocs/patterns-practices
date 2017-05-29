@@ -19,15 +19,12 @@ public PubSubEvent()
 ```
 
 ## See Also
-
-
-[PubSubEvent&lt;TPayload&gt; Class](pubsubevent-tpayload-class-mspp-pubsubevents.md)
+[PubSubEvent&lt;TPayload&gt; Class](pubsubevent-tpayload-class-mspp-pubsubevents.md)
 
 PubSubEvent&lt;TPayload&gt; Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
-
----------------------------------------------------------------------------------
+## 
 
 # PubSubEvent(Of TPayload) Constructor
 
@@ -45,9 +42,7 @@ Public Sub New
 ```
 
 ## See Also
-
-
-[PubSubEvent(Of TPayload) Class](pubsubevent-tpayload-class-mspp-pubsubevents.md)
+[PubSubEvent(Of TPayload) Class](pubsubevent-tpayload-class-mspp-pubsubevents.md)
 
 PubSubEvent(Of TPayload) Members
 

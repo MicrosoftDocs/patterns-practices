@@ -4,9 +4,7 @@ Title: 'FileModuleTypeLoader Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader'
 ms:mtpsurl: 'filemoduletypeloader-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # FileModuleTypeLoader Methods
 
 The [FileModuleTypeLoader](filemoduletypeloader-class-mspp-modularity.md) type exposes the following members.

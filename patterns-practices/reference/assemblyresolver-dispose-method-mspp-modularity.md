@@ -43,5 +43,4 @@ Public Sub Dispose
 [Dispose Overload](assemblyresolver-dispose-method-boolean-mspp-modularity.md)
 
 [Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
-
-
+

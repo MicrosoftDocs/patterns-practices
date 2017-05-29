@@ -4,16 +4,12 @@ Title: 'RegionManagerRegistrationBehavior Fields (Microsoft.Practices.Prism.Regi
 ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior'
 ms:mtpsurl: 'regionmanagerregistrationbehavior-fields-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionManagerRegistrationBehavior Fields
-========================================
+
+# RegionManagerRegistrationBehavior Fields
 
 The [RegionManagerRegistrationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior) type exposes the following members.
 
-Fields
-------
+## Fields
 
 <span id="fieldTableToggle"></span>
 <table>
@@ -36,10 +32,7 @@ The key of this behavior.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
+## See Also
+[RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

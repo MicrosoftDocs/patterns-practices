@@ -4,11 +4,8 @@ Title: 'IConfigurationStore Interface (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.IConfigurationStore'
 ms:mtpsurl: 'iconfigurationstore-interface-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-IConfigurationStore Interface
-=============================
+
+# IConfigurationStore Interface
 
 Defines a store for the module metadata.
 
@@ -17,22 +14,15 @@ Defines a store for the module metadata.
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 public interface IConfigurationStore
 ```
 ```VB
 'Declaration
 Public Interface IConfigurationStore
 ```
-See Also
---------
-
-
-[IConfigurationStore Members](iconfigurationstore-members-mspp-modularity.md)
+## See Also
+[IConfigurationStore Members](iconfigurationstore-members-mspp-modularity.md)
 
 [Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

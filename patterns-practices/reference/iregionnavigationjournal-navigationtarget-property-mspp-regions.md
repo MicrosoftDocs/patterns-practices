@@ -4,11 +4,8 @@ Title: 'IRegionNavigationJournal.NavigationTarget Property (Microsoft.Practices.
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal.NavigationTarget'
 ms:mtpsurl: 'iregionnavigationjournal-navigationtarget-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionNavigationJournal.NavigationTarget Property
-======================================================
+
+# IRegionNavigationJournal.NavigationTarget Property
 
 Gets or sets the target that implements INavigateAsync.
 
@@ -17,12 +14,8 @@ Gets or sets the target that implements INavigateAsync.
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 INavigateAsync NavigationTarget { get; set; }
 ```
 ```VB
@@ -37,16 +30,12 @@ Property NavigationTarget As INavigateAsync
 Type: [INavigateAsync](inavigateasync-interface-mspp-regions.md)
 The INavigate implementation.
 
-Remarks
--------
+## Remarks
 
  This is set by the owner of this journal.
 
-See Also
---------
-
-
-[IRegionNavigationJournal Interface](iregionnavigationjournal-interface-mspp-regions.md)
+## See Also
+[IRegionNavigationJournal Interface](iregionnavigationjournal-interface-mspp-regions.md)
 
 [IRegionNavigationJournal Members](iregionnavigationjournal-members-mspp-regions.md)
 

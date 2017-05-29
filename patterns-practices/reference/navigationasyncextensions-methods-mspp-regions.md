@@ -4,14 +4,10 @@ Title: 'NavigationAsyncExtensions Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.NavigationAsyncExtensions'
 ms:mtpsurl: 'navigationasyncextensions-methods-mspp-regions.md'
 ---
+
+# NavigationAsyncExtensions Methods
 
-Prism Class Library
-
-NavigationAsyncExtensions Methods
-=================================
-
-Methods
--------
+## Methods
 
 <table>
 
@@ -68,10 +64,7 @@ Initiates navigation to the target specified by the target.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[NavigationAsyncExtensions Class](navigationasyncextensions-class-mspp-regions.md)
+## See Also
+[NavigationAsyncExtensions Class](navigationasyncextensions-class-mspp-regions.md)
 
 [Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

@@ -11,7 +11,6 @@ Initializes a new instance of [SubscriptionToken](https://msdn.microsoft.com/en-
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents)
 
-=======
 Initializes a new instance of [SubscriptionToken](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken).
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
@@ -38,8 +37,7 @@ Public Sub New (
 )
 ```
 ### Parameters
-=======
-unsubscribeAction  
+
 Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([SubscriptionToken](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken)&gt;)&gt;)
 
 *unsubscribeAction*<br/> 
@@ -49,11 +47,11 @@ Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &
 ## See Also
 
 [SubscriptionToken Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken)
-=======
+
 [SubscriptionToken Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken)
 
 SubscriptionToken Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents)
-=======
+
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)

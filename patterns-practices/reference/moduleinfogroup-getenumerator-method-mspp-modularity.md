@@ -4,9 +4,7 @@ Title: 'ModuleInfoGroup.GetEnumerator Method (Microsoft.Practices.Prism.Modulari
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.GetEnumerator'
 ms:mtpsurl: 'moduleinfogroup-getenumerator-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleInfoGroup.GetEnumerator Method
 
 Returns an enumerator that iterates through the collection.
@@ -48,11 +46,8 @@ A [IEnumerator(Of T)](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can
 
 [IEnumerable(Of T).GetEnumerator](http://msdn.microsoft.com/en-us/library/s793z9y2)
 
-## See Also
---------
-
-
-[ModuleInfoGroup Class](moduleinfogroup-class-mspp-modularity.md)
+## ## See Also
+[ModuleInfoGroup Class](moduleinfogroup-class-mspp-modularity.md)
 
 [ModuleInfoGroup Members](moduleinfogroup-members-mspp-modularity.md)
 

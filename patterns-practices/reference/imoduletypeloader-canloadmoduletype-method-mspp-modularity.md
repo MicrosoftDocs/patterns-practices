@@ -21,9 +21,7 @@ bool CanLoadModuleType(
 	ModuleInfo moduleInfo
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *moduleInfo*
 
@@ -45,9 +43,7 @@ Function CanLoadModuleType (
 ) As Boolean
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *moduleInfo*
 

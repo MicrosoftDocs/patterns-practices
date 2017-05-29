@@ -4,16 +4,12 @@ Title: 'DefaultNotificationWindow Properties (Microsoft.Practices.Prism.Interact
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultNotificationWindow'
 ms:mtpsurl: 'defaultnotificationwindow-properties-mspp-interactivity-defaultpopupwindows.md'
 ---
-
-Prism Class Library
-
-DefaultNotificationWindow Properties
-====================================
+
+# DefaultNotificationWindow Properties
 
 The [DefaultNotificationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -1225,10 +1221,7 @@ Gets or sets a window's border style.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
+## See Also
+[DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
 
 [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)

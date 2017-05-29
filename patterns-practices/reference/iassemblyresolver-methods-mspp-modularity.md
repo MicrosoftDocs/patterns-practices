@@ -4,9 +4,7 @@ Title: 'IAssemblyResolver Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.IAssemblyResolver'
 ms:mtpsurl: 'iassemblyresolver-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # IAssemblyResolver Methods
 
 The [IAssemblyResolver](iassemblyresolver-interface-mspp-modularity.md) type exposes the following members.

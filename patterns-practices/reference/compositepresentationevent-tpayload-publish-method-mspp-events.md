@@ -4,9 +4,7 @@ Title: 'CompositePresentationEvent(TPayload).Publish Method (Microsoft.Practices
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Publish(\`0)'
 ms:mtpsurl: 'compositepresentationevent-tpayload-publish-method-mspp-events.md'
 ---
-
-Prism Class Library
-
+
 # CompositePresentationEvent&lt;TPayload&gt;.Publish Method
 
 Publishes the [CompositePresentationEvent&lt;TPayload&gt;](compositepresentationevent-tpayload-class-mspp-events.md).
@@ -24,9 +22,7 @@ public virtual void Publish(
 	TPayload payload
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *payload*  
 
@@ -35,17 +31,12 @@ Type: [TPayload](compositepresentationevent-tpayload-class-mspp-events.md)
 Message to pass to the subscribers.
 
 See Also
-
-
-[CompositePresentationEvent&lt;TPayload&gt; Class](compositepresentationevent-tpayload-class-mspp-events.md)
+[CompositePresentationEvent&lt;TPayload&gt; Class](compositepresentationevent-tpayload-class-mspp-events.md)
 
 [CompositePresentationEvent&lt;TPayload&gt; Members](compositepresentationevent-tpayload-members-mspp-events.md)
 
 [Microsoft.Practices.Prism.Events Namespace](mspp-events-namespace.md)
-
-Prism Class Library
-
-# CompositePresentationEvent(Of TPayload).Publish Method
+# CompositePresentationEvent(Of TPayload).Publish Method
 
 Publishes the [CompositePresentationEvent(Of TPayload)](compositepresentationevent-tpayload-class-mspp-events.md).
 
@@ -63,9 +54,7 @@ Public Overridable Sub Publish (
 	payload As TPayload
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *payload*  
 
@@ -74,9 +63,7 @@ Type: [TPayload](compositepresentationevent-tpayload-class-mspp-events.md)
 Message to pass to the subscribers.
 
 ## See Also
-
-
-[CompositePresentationEvent(Of TPayload) Class](compositepresentationevent-tpayload-class-mspp-events.md)
+[CompositePresentationEvent(Of TPayload) Class](compositepresentationevent-tpayload-class-mspp-events.md)
 
 [CompositePresentationEvent(Of TPayload) Members](compositepresentationevent-tpayload-members-mspp-events.md)
 

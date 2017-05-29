@@ -4,9 +4,7 @@ Title: 'DelegateCommand(T) Constructor (Action(T), Func(T, Boolean)) (Microsoft.
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand\`1.\#ctor(System.Action{\`0},System.Func{\`0,System.Boolean})'
 ms:mtpsurl: 'delegatecommand-t-constructor-action-t-func-t-boolean-mspp-commands.md'
 ---
-
-Prism Class Library
-
+
 # DelegateCommand&lt;T&gt; Constructor (Action&lt;T&gt;, Func&lt;T, Boolean&gt;)
 
 Initializes a new instance of [DelegateCommand&lt;T&gt;](delegatecommand-t-class-mspp-commands.md).
@@ -23,9 +21,7 @@ public DelegateCommand(
 	Func<T, bool> canExecuteMethod
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *executeMethod*  
 
@@ -59,9 +55,7 @@ DelegateCommand&lt;T&gt; Overload
 Initializes a new instance of [DelegateCommand(Of T)](delegatecommand-t-class-mspp-commands.md).
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](mspp-commands-namespace.md)
-
-
-
+
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -73,9 +67,7 @@ Public Sub New (
 	canExecuteMethod As Func(Of T, Boolean)
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *executeMethod*  
 

@@ -35,9 +35,7 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
 ### Implements
 
 [IEquatable&lt;T&gt;.Equals(T)](http://msdn2.microsoft.com/en-us/library/ms131190)
-
-
-```VB
+```VB
 'Declaration
 Public Function Equals ( 
 	other As SubscriptionToken

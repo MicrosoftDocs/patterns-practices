@@ -4,9 +4,7 @@ Title: 'SyncRegionContextWithHostBehavior Constructor (Microsoft.Practices.Prism
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior.\#ctor'
 ms:mtpsurl: 'syncregioncontextwithhostbehavior-constructor-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
+
 # SyncRegionContextWithHostBehavior Constructor
 
 Initializes a new instance of the [SyncRegionContextWithHostBehavior](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors.md) class

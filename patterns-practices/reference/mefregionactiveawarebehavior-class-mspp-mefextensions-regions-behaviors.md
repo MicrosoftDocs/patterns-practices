@@ -4,9 +4,7 @@ Title: 'MefRegionActiveAwareBehavior Class (Microsoft.Practices.Prism.MefExtensi
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionActiveAwareBehavior'
 ms:mtpsurl: 'mefregionactiveawarebehavior-class-mspp-mefextensions-regions-behaviors.md'
 ---
-
-Prism Class Library
-
+
 # MefRegionActiveAwareBehavior Class
 
 Exports the RegionActiveAwareBehavior using the Managed Extensibility Framework (MEF).

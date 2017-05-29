@@ -4,14 +4,10 @@ Title: 'DelegateCommand(T).FromAsyncHandler Method (Microsoft.Practices.Prism.Co
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Commands.DelegateCommand\`1.FromAsyncHandler'
 ms:mtpsurl: 'delegatecommand-t-fromasynchandler-method-mspp-commands.md'
 ---
+
+# DelegateCommand&lt;(Of &lt;(T&gt;)&gt;).FromAsyncHandler Method
 
-Prism Class Library
-
-DelegateCommand&lt;(Of &lt;(T&gt;)&gt;).FromAsyncHandler Method
-===================================================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,11 +37,8 @@ Factory method to create a new instance of <a href="https://msdn.microsoft.com/l
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)
+## See Also
+[DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)
 
 [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand%601)
 

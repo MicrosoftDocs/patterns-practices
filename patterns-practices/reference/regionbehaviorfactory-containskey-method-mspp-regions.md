@@ -4,11 +4,8 @@ Title: 'RegionBehaviorFactory.ContainsKey Method (Microsoft.Practices.Prism.Regi
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionBehaviorFactory.ContainsKey(System.String)'
 ms:mtpsurl: 'regionbehaviorfactory-containskey-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionBehaviorFactory.ContainsKey Method
-============================================
+
+# RegionBehaviorFactory.ContainsKey Method
 
 Determines whether a behavior with the specified key already exists.
 
@@ -18,9 +15,7 @@ Determines whether a behavior with the specified key already exists.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public bool ContainsKey( string behaviorKey )Public Function ContainsKey ( behaviorKey As String ) As Boolean
+public bool ContainsKey( string behaviorKey )Public Function ContainsKey ( behaviorKey As String ) As Boolean
 
 ### Parameters
 
@@ -36,11 +31,8 @@ trueTruetruetrue (True in Visual Basic) if a behavior with the specified key is 
 
 [IRegionBehaviorFactory.ContainsKey(String)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory.containskey(system.string))
 
-See Also
---------
-
-
-[RegionBehaviorFactory Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory)
+## See Also
+[RegionBehaviorFactory Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory)
 
 [RegionBehaviorFactory Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehaviorfactory)
 

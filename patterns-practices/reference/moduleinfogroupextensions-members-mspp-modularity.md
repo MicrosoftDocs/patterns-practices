@@ -4,14 +4,10 @@ Title: 'ModuleInfoGroupExtensions Members (Microsoft.Practices.Prism.Modularity)
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleInfoGroupExtensions'
 ms:mtpsurl: 'moduleinfogroupextensions-members-mspp-modularity.md'
 ---
+
+# ModuleInfoGroupExtensions Members
 
-Prism Class Library
-
-ModuleInfoGroupExtensions Members
-=================================
-
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -41,10 +37,7 @@ Adds a new module that is statically referenced to the specified module info gro
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleInfoGroupExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroupextensions)
+## See Also
+[ModuleInfoGroupExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroupextensions)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

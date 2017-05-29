@@ -4,16 +4,12 @@ Title: 'RegionActiveAwareBehavior Methods (Microsoft.Practices.Prism.Regions.Beh
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior'
 ms:mtpsurl: 'regionactiveawarebehavior-methods-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionActiveAwareBehavior Methods
-=================================
+
+# RegionActiveAwareBehavior Methods
 
 The [RegionActiveAwareBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -91,10 +87,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
+## See Also
+[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

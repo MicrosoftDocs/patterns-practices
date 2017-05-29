@@ -4,11 +4,8 @@ Title: 'IRegionNavigationJournal.CanGoForward Property (Microsoft.Practices.Pris
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal.CanGoForward'
 ms:mtpsurl: 'iregionnavigationjournal-cangoforward-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionNavigationJournal.CanGoForward Property
-==================================================
+
+# IRegionNavigationJournal.CanGoForward Property
 
 Gets a value that indicates whether there is at least one entry in the forward navigation history.
 
@@ -18,19 +15,14 @@ Gets a value that indicates whether there is at least one entry in the forward n
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-bool CanGoForward { get; }ReadOnly Property CanGoForward As Boolean Get
+bool CanGoForward { get; }ReadOnly Property CanGoForward As Boolean Get
 ### Property Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 true if this instance can go forward; otherwise, false.
 
-See Also
---------
-
-
-[IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
+## See Also
+[IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
 
 [IRegionNavigationJournal Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionnavigationjournal)
 

@@ -31,9 +31,7 @@ Public Shared Sub SetClearChildViews (
 	value As Boolean
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *target*
 

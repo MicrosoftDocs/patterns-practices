@@ -4,14 +4,10 @@ Title: 'ErrorsContainer(T).ClearErrors Method (Microsoft.Practices.Prism.ViewMod
 ms:assetid: 'Overload:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.ClearErrors'
 ms:mtpsurl: 'errorscontainer-t-clearerrors-method-mspp-viewmodel.md'
 ---
+
+# ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).ClearErrors Method
 
-Prism Class Library
-
-ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).ClearErrors Method
-==============================================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,11 +37,8 @@ Clears the errors for a property.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601)
+## See Also
+[ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601)
 
 [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.viewmodel.errorscontainer%601)
 

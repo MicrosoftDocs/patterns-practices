@@ -4,16 +4,12 @@ Title: 'Microsoft.Practices.Prism.Commands Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.Commands'
 ms:mtpsurl: 'mspp-commands-namespace.md'
 ---
-
-Prism Class Library
-
-Microsoft.Practices.Prism.Commands Namespace
-============================================
+
+# Microsoft.Practices.Prism.Commands Namespace
 
  
 
-Classes
--------
+## Classes
 
 <span id="classToggle"></span>
 <table>

@@ -8,15 +8,11 @@ ms:mtpsurl: 'modulenotfoundexception-events-mspp-modularity.md'
 # ModuleNotFoundException Events
 
 The [ModuleNotFoundException](modulenotfoundexception-class-mspp-modularity.md) type exposes the following members.
+## Events
 
-
-## Events
-
-=======
 The [ModuleNotFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 
@@ -42,12 +38,7 @@ Occurs when an exception is serialized to create an exception state object that 
 </table>
 
 ## See Also
-
-
-[ModuleNotFoundException Class](modulenotfoundexception-class-mspp-modularity.md)
-=======
+[ModuleNotFoundException Class](modulenotfoundexception-class-mspp-modularity.md)
 
 [ModuleNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception)
-
-
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

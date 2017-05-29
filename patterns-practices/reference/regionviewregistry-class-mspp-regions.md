@@ -4,11 +4,8 @@ Title: 'RegionViewRegistry Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionViewRegistry'
 ms:mtpsurl: 'regionviewregistry-class-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionViewRegistry Class
-========================
+
+# RegionViewRegistry Class
 
 Defines a registry for the content of the regions used on View Discovery composition.
 
@@ -17,9 +14,7 @@ Defines a registry for the content of the regions used on View Discovery composi
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
+## Syntax
 
 ```C#
 public class RegionViewRegistry : IRegionViewRegistry
@@ -30,8 +25,7 @@ Public Class RegionViewRegistry
 	Implements IRegionViewRegistry
 ```
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
@@ -39,10 +33,7 @@ Inheritance Hierarchy
   
     [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionViewRegistry](mefregionviewregistry-class-mspp-mefextensions-regions.md)
 
-See Also
---------
-
-
-[RegionViewRegistry Members](regionviewregistry-members-mspp-regions.md)
+## See Also
+[RegionViewRegistry Members](regionviewregistry-members-mspp-regions.md)
 
 [Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

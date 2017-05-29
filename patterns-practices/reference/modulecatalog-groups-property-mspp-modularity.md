@@ -4,11 +4,8 @@ Title: 'ModuleCatalog.Groups Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleCatalog.Groups'
 ms:mtpsurl: 'modulecatalog-groups-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleCatalog.Groups Property
-=================================
+
+# ModuleCatalog.Groups Property
 
 Gets the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md)s that have been added to the [ModuleCatalog](modulecatalog-class-mspp-modularity.md).
 
@@ -17,9 +14,7 @@ Gets the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md)s that have 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
+## Syntax
 
 ```C#
 public IEnumerable<ModuleInfoGroup> Groups { get; }
@@ -36,11 +31,8 @@ Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[Module
 
 The groups.
 
-See Also
---------
-
-
-[ModuleCatalog Class](modulecatalog-class-mspp-modularity.md)
+## See Also
+[ModuleCatalog Class](modulecatalog-class-mspp-modularity.md)
 
 [ModuleCatalog Members](modulecatalog-members-mspp-modularity.md)
 

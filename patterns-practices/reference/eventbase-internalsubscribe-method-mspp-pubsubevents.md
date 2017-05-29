@@ -4,9 +4,7 @@ Title: 'EventBase.InternalSubscribe Method (Microsoft.Practices.Prism.PubSubEven
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.EventBase.InternalSubscribe(Microsoft.Practices.Prism.PubSubEvents.IEventSubscription)'
 ms:mtpsurl: 'eventbase-internalsubscribe-method-mspp-pubsubevents.md'
 ---
-
-Prism Class Library
-
+
 # EventBase.InternalSubscribe Method
 
 Adds the specified [IEventSubscription](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription) to the subscribers' collection.

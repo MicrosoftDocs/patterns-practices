@@ -4,9 +4,7 @@ Title: 'IRegionManagerAccessor.UpdatingRegions Event (Microsoft.Practices.Prism.
 ms:assetid: 'E:Microsoft.Practices.Prism.Regions.IRegionManagerAccessor.UpdatingRegions'
 ms:mtpsurl: 'iregionmanageraccessor-updatingregions-event-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # IRegionManagerAccessor.UpdatingRegions Event
 
 Notification used by attached behaviors to update the region managers appropriatelly if needed to.
@@ -37,9 +35,7 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
 This event uses weak references to the event handler to prevent this static event of keeping the target element longer than expected.
 
 ## See Also
-
-
-[IRegionManagerAccessor Interface](iregionmanageraccessor-interface-mspp-regions.md)
+[IRegionManagerAccessor Interface](iregionmanageraccessor-interface-mspp-regions.md)
 
 [IRegionManagerAccessor Members](iregionmanageraccessor-members-mspp-regions.md)
 

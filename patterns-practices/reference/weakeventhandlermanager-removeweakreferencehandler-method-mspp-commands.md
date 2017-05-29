@@ -11,7 +11,6 @@ Removes an event handler from the reference list.
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](mspp-commands-namespace.md)
 
-=======
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -61,11 +60,11 @@ Public Shared Sub RemoveWeakReferenceHandler (
 ## See Also
 
 [WeakEventHandlerManager Class](weakeventhandlermanager-class-mspp-commands.md)
-=======
+
 [WeakEventHandlerManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager)
 
 [WeakEventHandlerManager Members](weakeventhandlermanager-members-mspp-commands.md)
 
 [Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)
-=======
+
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)

@@ -31,8 +31,7 @@ Public Class MefRegionNavigationContentLoader
 
 &nbsp;&nbsp;This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used.
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)</br>
   [Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader](regionnavigationcontentloader-class-mspp-regions.md)<br/>

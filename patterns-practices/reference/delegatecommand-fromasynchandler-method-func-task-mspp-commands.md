@@ -4,11 +4,8 @@ Title: 'DelegateCommand.FromAsyncHandler Method (Func(Task)) (Microsoft.Practice
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand.FromAsyncHandler(System.Func{System.Threading.Tasks.Task})'
 ms:mtpsurl: 'delegatecommand-fromasynchandler-method-func-task-func-boolean-mspp-commands.md'
 ---
-
-Prism Class Library
-
-DelegateCommand.FromAsyncHandler Method (Func&lt;(Of &lt;(Task&gt;)&gt;))
-=============================================================================
+
+# DelegateCommand.FromAsyncHandler Method (Func&lt;(Of &lt;(Task&gt;)&gt;))
 
 Factory method to create a new instance of [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand) from an awaitable handler method.
 
@@ -16,9 +13,7 @@ Factory method to create a new instance of [DelegateCommand](https://msdn.micros
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
-
-public static DelegateCommand FromAsyncHandler( Func&lt;Task&gt; executeMethod )Public Shared Function FromAsyncHandler ( executeMethod As Func(Of Task) ) As DelegateCommand
+public static DelegateCommand FromAsyncHandler( Func&lt;Task&gt; executeMethod )Public Shared Function FromAsyncHandler ( executeMethod As Func(Of Task) ) As DelegateCommand
 
 ### Parameters
 
@@ -31,11 +26,8 @@ Delegate to execute when Execute is called on the command.
 Type: [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
 Constructed instance of [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
 
-See Also
---------
-
-
-[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
+## See Also
+[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
 
 [DelegateCommand Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand)
 

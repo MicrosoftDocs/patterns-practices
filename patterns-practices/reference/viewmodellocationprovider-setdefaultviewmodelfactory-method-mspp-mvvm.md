@@ -4,9 +4,7 @@ Title: 'ViewModelLocationProvider.SetDefaultViewModelFactory Method (Microsoft.P
 ms:assetid: 'M:Microsoft.Practices.Prism.Mvvm.ViewModelLocationProvider.SetDefaultViewModelFactory(System.Func{System.Type,System.Object})'
 ms:mtpsurl: 'viewmodellocationprovider-setdefaultviewmodelfactory-method-mspp-mvvm.md'
 ---
-
-Prism Class Library
-
+
 # ViewModelLocationProvider.SetDefaultViewModelFactory Method
 
 Sets the default view model factory.
@@ -22,9 +20,7 @@ public static void SetDefaultViewModelFactory(
 	Func<Type, Object> viewModelFactory
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *viewModelFactory*  
 
@@ -38,9 +34,7 @@ Public Shared Sub SetDefaultViewModelFactory (
 	viewModelFactory As Func(Of Type, Object)
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *viewModelFactory*  
 
@@ -49,9 +43,7 @@ Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of([Type](
 The view model factory.
 
 ## See Also
-
-
-[ViewModelLocationProvider Class](viewmodellocationprovider-class-mspp-mvvm.md)
+[ViewModelLocationProvider Class](viewmodellocationprovider-class-mspp-mvvm.md)
 
 [ViewModelLocationProvider Members](viewmodellocationprovider-members-mspp-mvvm.md)
 

@@ -4,11 +4,8 @@ Title: 'ModuleInitializer.CreateModule Method (String) (Microsoft.Practices.Pris
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializer.CreateModule(System.String)'
 ms:mtpsurl: 'moduleinitializer-createmodule-method-moduleinfo-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInitializer.CreateModule Method (String)
-==================================================
+
+# ModuleInitializer.CreateModule Method (String)
 
 Uses the container to resolve a new [IModule](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule) by specifying its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
@@ -18,9 +15,7 @@ Uses the container to resolve a new [IModule](https://msdn.microsoft.com/library
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected virtual IModule CreateModule( string typeName )Protected Overridable Function CreateModule ( typeName As String ) As IModule
+protected virtual IModule CreateModule( string typeName )Protected Overridable Function CreateModule ( typeName As String ) As IModule
 
 ### Parameters
 
@@ -33,11 +28,8 @@ The type name to resolve. This type must implement [IModule](https://msdn.micros
 Type: [IModule](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule)
 A new instance of typeName.
 
-See Also
---------
-
-
-[ModuleInitializer Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer)
+## See Also
+[ModuleInitializer Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer)
 
 [ModuleInitializer Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinitializer)
 

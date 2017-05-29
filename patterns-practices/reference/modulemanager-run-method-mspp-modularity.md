@@ -4,9 +4,7 @@ Title: 'ModuleManager.Run Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleManager.Run'
 ms:mtpsurl: 'modulemanager-run-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleManager.Run Method
 
 Initializes the modules marked as [WhenAvailable](initializationmode-enumeration-mspp-modularity.md) on the [ModuleCatalog](modulemanager-modulecatalog-property-mspp-modularity.md).

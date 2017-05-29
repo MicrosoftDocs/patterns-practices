@@ -4,11 +4,8 @@ Title: 'DelegateCommandBase.CanExecute Method (Microsoft.Practices.Prism.Command
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommandBase.CanExecute(System.Object)'
 ms:mtpsurl: 'delegatecommandbase-canexecute-method-mspp-commands.md'
 ---
-
-Prism Class Library
-
-DelegateCommandBase.CanExecute Method
-=========================================
+
+# DelegateCommandBase.CanExecute Method
 
 Determines if the command can execute with the provided parameter by invoking the [Func&lt;(Of &lt;(T, TResult&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/bb549151) supplied during construction.
 
@@ -16,9 +13,7 @@ Determines if the command can execute with the provided parameter by invoking th
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
-
-protected bool CanExecute( Object parameter )Protected Function CanExecute ( parameter As Object ) As Boolean
+protected bool CanExecute( Object parameter )Protected Function CanExecute ( parameter As Object ) As Boolean
 
 ### Parameters
 
@@ -31,11 +26,8 @@ The parameter to use when determining if this command can execute.
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 Returns trueTruetruetrue (True in Visual Basic) if the command can execute. falseFalsefalsefalse (False in Visual Basic) otherwise.
 
-See Also
---------
-
-
-[DelegateCommandBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)
+## See Also
+[DelegateCommandBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)
 
 [DelegateCommandBase Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommandbase)
 

@@ -4,16 +4,12 @@ Title: 'RegionNavigationContentLoader Members (Microsoft.Practices.Prism.Regions
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader'
 ms:mtpsurl: 'regionnavigationcontentloader-members-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationContentLoader Members
-=====================================
+
+# RegionNavigationContentLoader Members
 
 The [RegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -129,10 +124,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader)
+## See Also
+[RegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

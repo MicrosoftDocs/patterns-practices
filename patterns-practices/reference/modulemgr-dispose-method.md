@@ -4,14 +4,10 @@ Title: 'ModuleManager.Dispose Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleManager.Dispose'
 ms:mtpsurl: 'modulemanager-dispose-method-boolean-mspp-modularity.md'
 ---
+
+# ModuleManager.Dispose Method
 
-Prism Class Library
-
-ModuleManager.Dispose Method
-================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,11 +37,8 @@ Disposes the associated <a href="https://msdn.microsoft.com/library/microsoft.pr
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
+## See Also
+[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
 
 [ModuleManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulemanager)
 

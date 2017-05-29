@@ -4,9 +4,7 @@ Title: 'RegionNavigationJournalEntry Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry'
 ms:mtpsurl: 'regionnavigationjournalentry-class-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # RegionNavigationJournalEntry Class
 
 An entry in an IRegionNavigationJournal representing the URI navigated to.

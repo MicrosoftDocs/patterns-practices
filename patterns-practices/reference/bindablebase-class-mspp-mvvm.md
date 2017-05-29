@@ -4,9 +4,7 @@ Title: 'BindableBase Class (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Mvvm.BindableBase'
 ms:mtpsurl: 'bindablebase-class-mspp-mvvm.md'
 ---
-
-Prism Class Library
-
+
 # BindableBase Class
 
 Implementation of [INotifyPropertyChanged](http://msdn.microsoft.com/en-us/library/ms133020) to simplify models.

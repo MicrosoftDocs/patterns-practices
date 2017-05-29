@@ -4,9 +4,7 @@ Title: 'NotificationObject.RaisePropertyChanged Method (String[]) (Microsoft.Pra
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.NotificationObject.RaisePropertyChanged(System.String[])'
 ms:mtpsurl: 'notificationobject-raisepropertychanged-method-mspp-viewmodel.md'
 ---
-
-Prism Class Library
-
+
 # NotificationObject.RaisePropertyChanged Method (String[])
 
 Raises this object's PropertyChanged event for each of the properties.
@@ -24,9 +22,7 @@ protected void RaisePropertyChanged(
 	params string[] propertyNames
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *propertyNames*  
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)[]
@@ -61,9 +57,7 @@ Protected Sub RaisePropertyChanged (
 	ParamArray propertyNames As String()
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *propertyNames*  
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)()

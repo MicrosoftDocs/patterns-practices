@@ -4,11 +4,8 @@ Title: 'ViewRegisteredEventArgs.GetView Property (Microsoft.Practices.Prism.Regi
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs.GetView'
 ms:mtpsurl: 'viewregisteredeventargs-getview-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ViewRegisteredEventArgs.GetView Property
-============================================
+
+# ViewRegisteredEventArgs.GetView Property
 
 Gets the content which was registered.
 
@@ -18,18 +15,13 @@ Gets the content which was registered.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public Func&lt;Object&gt; GetView { get; }Public ReadOnly Property GetView As Func(Of Object) Get
+public Func&lt;Object&gt; GetView { get; }Public ReadOnly Property GetView As Func(Of Object) Get
 ### Property Value
 
 Type: [Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 
-See Also
---------
-
-
-[ViewRegisteredEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs)
+## See Also
+[ViewRegisteredEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs)
 
 [ViewRegisteredEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewregisteredeventargs)
 

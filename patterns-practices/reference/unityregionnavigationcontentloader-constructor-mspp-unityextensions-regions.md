@@ -33,9 +33,7 @@ Public Sub New (
 	container As IUnityContainer
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *serviceLocator*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IServiceLocator

@@ -4,9 +4,7 @@ Title: 'IRegionNavigationService.Navigated Event (Microsoft.Practices.Prism.Regi
 ms:assetid: 'E:Microsoft.Practices.Prism.Regions.IRegionNavigationService.Navigated'
 ms:mtpsurl: 'iregionnavigationservice-navigated-event-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # IRegionNavigationService.Navigated Event
 
 Raised when the region is navigated to content.

@@ -4,9 +4,7 @@ Title: 'NavigationResult Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.NavigationResult'
 ms:mtpsurl: 'navigationresult-methods-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # NavigationResult Methods
 
 The [NavigationResult](navigationresult-class-mspp-regions.md) type exposes the following members.

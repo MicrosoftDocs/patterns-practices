@@ -42,9 +42,7 @@ PubSubEvent&lt;TPayload&gt; Members<br/>
 Publishes the [PubSubEvent(Of TPayload)](pubsubevent-tpayload-class-mspp-pubsubevents.md).
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
-
-
-
+
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -55,9 +53,7 @@ Public Overridable Sub Publish (
 	payload As TPayload
 )
 ```
-
-
-### Parameters
+### Parameters
 *payload*
 
 	Type: [TPayload](pubsubevent-tpayload-class-mspp-pubsubevents.md)

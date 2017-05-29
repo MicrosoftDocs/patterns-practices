@@ -4,16 +4,12 @@ Title: 'RegionMemberLifetimeAttribute Members (Microsoft.Practices.Prism.Regions
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.RegionMemberLifetimeAttribute'
 ms:mtpsurl: 'regionmemberlifetimeattribute-members-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionMemberLifetimeAttribute Members
-=====================================
+
+# RegionMemberLifetimeAttribute Members
 
 The [RegionMemberLifetimeAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Instantiates an instance of <a href="https://msdn.microsoft.com/library/microsof
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -101,8 +96,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -133,10 +127,7 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionMemberLifetimeAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute)
+## See Also
+[RegionMemberLifetimeAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

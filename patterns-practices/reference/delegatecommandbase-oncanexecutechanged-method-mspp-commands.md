@@ -4,9 +4,7 @@ Title: 'DelegateCommandBase.OnCanExecuteChanged Method (Microsoft.Practices.Pris
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommandBase.OnCanExecuteChanged'
 ms:mtpsurl: 'delegatecommandbase-oncanexecutechanged-method-mspp-commands.md'
 ---
-
-Prism Class Library
-
+
 # DelegateCommandBase.OnCanExecuteChanged Method
 
 Raises [CanExecuteChanged](http://msdn.microsoft.com/en-us/library/ms523106) on the UI thread so every command invoker can requery [CanExecute(Object)](http://msdn.microsoft.com/en-us/library/ms604093).

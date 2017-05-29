@@ -4,11 +4,8 @@ Title: 'WeakEventHandlerManager.AddWeakReferenceHandler Method (Microsoft.Practi
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.WeakEventHandlerManager.AddWeakReferenceHandler(System.Collections.Generic.List{System.WeakReference}@,System.EventHandler,System.Int32)'
 ms:mtpsurl: 'weakeventhandlermanager-addweakreferencehandler-method-mspp-commands.md'
 ---
-
-Prism Class Library
-
-WeakEventHandlerManager.AddWeakReferenceHandler Method
-==========================================================
+
+# WeakEventHandlerManager.AddWeakReferenceHandler Method
 
 Adds a handler to the supplied list in a weak way.
 
@@ -16,9 +13,7 @@ Adds a handler to the supplied list in a weak way.
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
-
-public static void AddWeakReferenceHandler( ref List&lt;WeakReference&gt; handlers, EventHandler handler, int defaultListSize )Public Shared Sub AddWeakReferenceHandler ( ByRef handlers As List(Of WeakReference), handler As EventHandler, defaultListSize As Integer )
+public static void AddWeakReferenceHandler( ref List&lt;WeakReference&gt; handlers, EventHandler handler, int defaultListSize )Public Shared Sub AddWeakReferenceHandler ( ByRef handlers As List(Of WeakReference), handler As EventHandler, defaultListSize As Integer )
 
 ### Parameters
 
@@ -34,11 +29,8 @@ defaultListSize
 Type: [System.Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
 Default list size.
 
-See Also
---------
-
-
-[WeakEventHandlerManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager)
+## See Also
+[WeakEventHandlerManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager)
 
 [WeakEventHandlerManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.weakeventhandlermanager)
 

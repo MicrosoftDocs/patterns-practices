@@ -4,9 +4,7 @@ Title: 'MefRegionAdapterMappings Methods (Microsoft.Practices.Prism.MefExtension
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionAdapterMappings'
 ms:mtpsurl: 'mefregionadaptermappings-methods-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
+
 # MefRegionAdapterMappings Methods
 
 The [MefRegionAdapterMappings](mefregionadaptermappings-class-mspp-mefextensions-regions.md) type exposes the following members.
@@ -91,8 +89,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-
-
-[MefRegionAdapterMappings Class](mefregionadaptermappings-class-mspp-mefextensions-regions.md)
+[MefRegionAdapterMappings Class](mefregionadaptermappings-class-mspp-mefextensions-regions.md)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace.md)

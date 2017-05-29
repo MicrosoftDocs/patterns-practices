@@ -4,9 +4,7 @@ Title: 'Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace ()
 ms:assetid: 'N:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows'
 ms:mtpsurl: 'mspp-interactivity-defaultpopupwindows-namespace.md'
 ---
-
-Prism Class Library
-
+
 # Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace
 
 ## Classes

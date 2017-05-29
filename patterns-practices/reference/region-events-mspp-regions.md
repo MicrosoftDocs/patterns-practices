@@ -4,16 +4,12 @@ Title: 'Region Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.Region'
 ms:mtpsurl: 'region-events-mspp-regions.md'
 ---
-
-Prism Class Library
-
-Region Events
-=============
+
+# Region Events
 
 The [Region](region-class-mspp-regions.md) type exposes the following members.
 
-Events
-------
+## Events
 
 <table>
 
@@ -35,10 +31,7 @@ Occurs when a property value changes.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[Region Class](region-class-mspp-regions.md)
+## See Also
+[Region Class](region-class-mspp-regions.md)
 
 [Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

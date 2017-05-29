@@ -24,9 +24,7 @@ public static void RequestNavigate(
 	Action<NavigationResult> navigationCallback
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *navigation*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Regions.INavigateAsync](inavigateasync-interface-mspp-regions.md)
@@ -68,9 +66,7 @@ Public Shared Sub RequestNavigate (
 	navigationCallback As Action(Of NavigationResult)
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *navigation*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Regions.INavigateAsync](inavigateasync-interface-mspp-regions.md)

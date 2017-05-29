@@ -4,11 +4,8 @@ Title: 'MefRegionManager Constructor (Microsoft.Practices.Prism.MefExtensions.Re
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionManager.\#ctor'
 ms:mtpsurl: 'mefregionmanager-constructor-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
-MefRegionManager Constructor
-============================
+
+# MefRegionManager Constructor
 
 Initializes a new instance of the [MefRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [MefRegionManager](https://msdn.microsoft.com/
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public MefRegionManager()Public Sub New
 
-
-public MefRegionManager()Public Sub New
-
-See Also
---------
-
-
-[MefRegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager)
+## See Also
+[MefRegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager)
 
 [MefRegionManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefregionmanager)
 

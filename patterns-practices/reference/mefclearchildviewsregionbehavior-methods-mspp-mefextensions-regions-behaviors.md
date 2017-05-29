@@ -4,9 +4,7 @@ Title: 'MefClearChildViewsRegionBehavior Methods (Microsoft.Practices.Prism.MefE
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefClearChildViewsRegionBehavior'
 ms:mtpsurl: 'mefclearchildviewsregionbehavior-methods-mspp-mefextensions-regions-behaviors.md'
 ---
-
-Prism Class Library
-
+
 # MefClearChildViewsRegionBehavior Methods
 
 The [MefClearChildViewsRegionBehavior](mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors.md) type exposes the following members.
@@ -91,8 +89,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-
-
-[MefClearChildViewsRegionBehavior Class](mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors.md)
+[MefClearChildViewsRegionBehavior Class](mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors.md)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace.md)

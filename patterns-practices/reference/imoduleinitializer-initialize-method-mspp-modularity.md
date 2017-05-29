@@ -4,9 +4,7 @@ Title: 'IModuleInitializer.Initialize Method (Microsoft.Practices.Prism.Modulari
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.IModuleInitializer.Initialize(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'imoduleinitializer-initialize-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # IModuleInitializer.Initialize Method
 
 Initializes the specified module.
@@ -31,9 +29,7 @@ Sub Initialize (
 	moduleInfo As ModuleInfo
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *moduleInfo*
 

@@ -4,9 +4,7 @@ Title: 'ConfigurationStore Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ConfigurationStore'
 ms:mtpsurl: 'configurationstore-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ConfigurationStore Methods
 
 The [ConfigurationStore](configurationstore-class-mspp-modularity.md) type exposes the following members.
@@ -82,8 +80,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-
-
-[ConfigurationStore Class](configurationstore-class-mspp-modularity.md)
+[ConfigurationStore Class](configurationstore-class-mspp-modularity.md)
 
 [Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

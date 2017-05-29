@@ -29,9 +29,7 @@ Public Sub New (
 	callback As Action
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *context*
 

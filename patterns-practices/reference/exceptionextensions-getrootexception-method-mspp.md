@@ -30,9 +30,7 @@ Public Shared Function GetRootException (
 	exception As Exception
 ) As Exception
 ```
-
-
-### Parameters
+### Parameters
 
 *exception*
 

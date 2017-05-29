@@ -4,9 +4,7 @@ Title: 'ViewsCollection.GetEnumerator Method (Microsoft.Practices.Prism.Regions)
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewsCollection.GetEnumerator'
 ms:mtpsurl: 'viewscollection-getenumerator-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # ViewsCollection.GetEnumerator Method
 
 Returns an enumerator that iterates through the collection.

@@ -4,11 +4,8 @@ Title: 'ModuleCatalog Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.\#ctor'
 ms:mtpsurl: 'modulecatalog-constructor-ienumerable-moduleinfo-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleCatalog Constructor
-=========================
+
+# ModuleCatalog Constructor
 
 Initializes a new instance of the [ModuleCatalog](modulecatalog-class-mspp-modularity.md) class.
 
@@ -31,9 +28,7 @@ Public Sub New
 ```
 
 ## See Also
-
-
-[ModuleCatalog Class](modulecatalog-class-mspp-modularity.md)
+[ModuleCatalog Class](modulecatalog-class-mspp-modularity.md)
 
 [ModuleCatalog Members](modulecatalog-members-mspp-modularity.md)
 

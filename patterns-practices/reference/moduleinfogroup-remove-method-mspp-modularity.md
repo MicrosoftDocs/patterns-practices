@@ -4,11 +4,8 @@ Title: 'ModuleInfoGroup.Remove Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Remove(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'moduleinfogroup-remove-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInfoGroup.Remove Method
-=================================
+
+# ModuleInfoGroup.Remove Method
 
 Removes the first occurrence of a specific object from the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md).
 
@@ -17,21 +14,15 @@ Removes the first occurrence of a specific object from the [ModuleInfoGroup](mod
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 public bool Remove( ModuleInfo item )
 ```
 ```VB
 'Declaration
 Public Function Remove ( item As ModuleInfo ) As Boolean
 ```
-
-
-### Parameters
+### Parameters
 
 *item*  
 	Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity.md)
@@ -46,11 +37,8 @@ true if item was successfully removed from the [ModuleInfoGroup](moduleinfogroup
 
 [ICollection&lt;T&gt;.Remove(T)](http://msdn.microsoft.com/en-us/library/bye7h94w)
 
-See Also
---------
-
-
-[ModuleInfoGroup Class](moduleinfogroup-class-mspp-modularity.md)
+## See Also
+[ModuleInfoGroup Class](moduleinfogroup-class-mspp-modularity.md)
 
 [ModuleInfoGroup Members](moduleinfogroup-members-mspp-modularity.md)
 

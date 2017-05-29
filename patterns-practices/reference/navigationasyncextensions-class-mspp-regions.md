@@ -4,9 +4,7 @@ Title: 'NavigationAsyncExtensions Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.NavigationAsyncExtensions'
 ms:mtpsurl: 'navigationasyncextensions-class-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # NavigationAsyncExtensions Class
 
 Provides additional methods to the [INavigateAsync](inavigateasync-interface-mspp-regions.md) interface.

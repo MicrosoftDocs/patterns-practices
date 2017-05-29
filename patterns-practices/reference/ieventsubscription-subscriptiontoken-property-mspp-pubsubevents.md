@@ -6,27 +6,18 @@ ms:mtpsurl: 'ieventsubscription-subscriptiontoken-property-mspp-pubsubevents.md'
 ---
 
 # IEventSubscription.SubscriptionToken Property
+Gets or sets a SubscriptionToken that identifies this [IEventSubscription](ieventsubscription-interface-mspp-pubsubevents.md).
 
-
-Gets or sets a SubscriptionToken that identifies this [IEventSubscription](ieventsubscription-interface-mspp-pubsubevents.md).
-=======
 IEventSubscription.SubscriptionToken Property
-=================================================
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
-=======
-
-
-SubscriptionToken SubscriptionToken { get; set; }Property SubscriptionToken As SubscriptionToken Get Set
+SubscriptionToken SubscriptionToken { get; set; }Property SubscriptionToken As SubscriptionToken Get Set
 ### Property Value
-
-
-```C#
+```C#
 SubscriptionToken SubscriptionToken { get; set; }
 ```
 ```VB
@@ -40,12 +31,9 @@ Property SubscriptionToken As SubscriptionToken
 Type: [SubscriptionToken](subscriptiontoken-class-mspp-pubsubevents.md)
 
 A token that identifies this [IEventSubscription](ieventsubscription-interface-mspp-pubsubevents.md).
-=======
 
 [IEventSubscription Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription)
-
-
-## See Also
+## See Also
 
 [IEventSubscription Interface](ieventsubscription-interface-mspp-pubsubevents.md)
 

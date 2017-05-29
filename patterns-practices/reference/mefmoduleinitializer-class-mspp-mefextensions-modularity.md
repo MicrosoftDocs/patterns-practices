@@ -4,9 +4,7 @@ Title: 'MefModuleInitializer Class (Microsoft.Practices.Prism.MefExtensions.Modu
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleInitializer'
 ms:mtpsurl: 'mefmoduleinitializer-class-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
+
 # MefModuleInitializer Class
 
 Exports the ModuleInitializer using the Managed Extensibility Framework (MEF).
@@ -43,8 +41,6 @@ Inheritance Hierarchy
     Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleInitializer
 
 ## See Also
-
-
-[MefModuleInitializer Members](mefmoduleinitializer-members-mspp-mefextensions-modularity.md)
+[MefModuleInitializer Members](mefmoduleinitializer-members-mspp-mefextensions-modularity.md)
 
 [Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)

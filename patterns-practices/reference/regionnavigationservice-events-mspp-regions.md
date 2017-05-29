@@ -4,16 +4,12 @@ Title: 'RegionNavigationService Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.RegionNavigationService'
 ms:mtpsurl: 'regionnavigationservice-events-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationService Events
-==============================
+
+# RegionNavigationService Events
 
 The [RegionNavigationService](regionnavigationservice-class-mspp-regions.md) type exposes the following members.
 
-Events
-------
+## Events
 
 <table>
 
@@ -49,10 +45,7 @@ Raised when a navigation request fails.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionNavigationService Class](regionnavigationservice-class-mspp-regions.md)
+## See Also
+[RegionNavigationService Class](regionnavigationservice-class-mspp-regions.md)
 
 [Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

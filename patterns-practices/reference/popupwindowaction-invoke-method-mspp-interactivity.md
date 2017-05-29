@@ -4,11 +4,8 @@ Title: 'PopupWindowAction.Invoke Method (Microsoft.Practices.Prism.Interactivity
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.Invoke(System.Object)'
 ms:mtpsurl: 'popupwindowaction-invoke-method-mspp-interactivity.md'
 ---
-
-Prism Class Library
-
-PopupWindowAction.Invoke Method
-===================================
+
+# PopupWindowAction.Invoke Method
 
 Displays the child window and collects results for [IInteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest).
 
@@ -18,9 +15,7 @@ Displays the child window and collects results for [IInteractionRequest](https:/
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected override void Invoke( Object parameter )Protected Overrides Sub Invoke ( parameter As Object )
+protected override void Invoke( Object parameter )Protected Overrides Sub Invoke ( parameter As Object )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ parameter
 Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The parameter to the action. If the action does not require a parameter, the parameter may be set to a null reference.
 
-See Also
---------
-
-
-[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
+## See Also
+[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
 
 [PopupWindowAction Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.popupwindowaction)
 

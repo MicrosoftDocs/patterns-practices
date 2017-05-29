@@ -15,26 +15,17 @@ Defines a contract for an event subscription to be used by [EventBase](eventbase
 
 ## Syntax
 
-~~~C#
+```C#
 public interface IEventSubscription
-~~~
-~~~VB
+```
+
+```VB
 'Declaration
 Public Interface IEventSubscription
-~~~
-=======
-
-
-public interface IEventSubscriptionPublic Interface IEventSubscription
-
-
-## See Also
-
-
-IEventSubscription Members
-=======
+```
+public interface IEventSubscriptionPublic Interface IEventSubscription
+## See Also
+IEventSubscription Members
 
 [IEventSubscription Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.ieventsubscription)
-
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)

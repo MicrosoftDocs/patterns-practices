@@ -4,9 +4,7 @@ Title: 'ExceptionExtensions Class (Microsoft.Practices.Prism)'
 ms:assetid: 'T:Microsoft.Practices.Prism.ExceptionExtensions'
 ms:mtpsurl: 'exceptionextensions-class-mspp.md'
 ---
-
-Prism Class Library
-
+
 # ExceptionExtensions Class
 
 Class that provides extension methods for the Exception class. These extension methods provide a mechanism for developers to get more easily to the root cause of an exception, especially in combination with DI-containers such as Unity.

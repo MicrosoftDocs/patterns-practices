@@ -4,16 +4,12 @@ Title: 'ModuleManager Events (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.ModuleManager'
 ms:mtpsurl: 'modulemanager-events-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleManager Events
-====================
+
+# ModuleManager Events
 
 The [ModuleManager](modulemanager-class-mspp-modularity.md) type exposes the following members.
 
-Events
-------
+## Events
 
 <table>
 
@@ -42,10 +38,7 @@ Raised repeatedly to provide progress as modules are loaded in the background.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleManager Class](modulemanager-class-mspp-modularity.md)
+## See Also
+[ModuleManager Class](modulemanager-class-mspp-modularity.md)
 
 [Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)

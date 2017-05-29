@@ -29,9 +29,7 @@ Public Overrides Sub Deactivate (
 	view As Object
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *view*
 

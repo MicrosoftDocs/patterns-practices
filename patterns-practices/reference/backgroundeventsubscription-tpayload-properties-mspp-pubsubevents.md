@@ -6,16 +6,12 @@ ms:mtpsurl: 'backgroundeventsubscription-tpayload-properties-mspp-pubsubevents.m
 ---
 
 # BackgroundEventSubscription(Of TPayload) Properties
-=======
-Prism Class Library
 
 BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
-=====================================================================
 
 The [BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.backgroundeventsubscription%601) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>

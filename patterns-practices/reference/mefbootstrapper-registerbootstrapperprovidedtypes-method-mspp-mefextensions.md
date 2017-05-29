@@ -4,9 +4,7 @@ Title: 'MefBootstrapper.RegisterBootstrapperProvidedTypes Method (Microsoft.Prac
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.RegisterBootstrapperProvidedTypes'
 ms:mtpsurl: 'mefbootstrapper-registerbootstrapperprovidedtypes-method-mspp-mefextensions.md'
 ---
-
-Prism Class Library
-
+
 # MefBootstrapper.RegisterBootstrapperProvidedTypes Method
 
 Helper method for configuring the [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553). Registers all the types direct instantiated by the bootstrapper with the container.

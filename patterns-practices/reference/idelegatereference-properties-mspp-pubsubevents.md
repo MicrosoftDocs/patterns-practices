@@ -4,19 +4,13 @@ Title: 'IDelegateReference Properties (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.IDelegateReference'
 ms:mtpsurl: 'idelegatereference-properties-mspp-pubsubevents.md'
 ---
-
-
-# IDelegateReference Properties
-
-
-The [IDelegateReference](idelegatereference-interface-mspp-pubsubevents.md) type exposes the following members.
+# IDelegateReference Properties
+The [IDelegateReference](idelegatereference-interface-mspp-pubsubevents.md) type exposes the following members.
 
 ## Properties
-=======
+
 The [IDelegateReference](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.idelegatereference) type exposes the following members.
-
-
-<table>
+<table>
 
 <thead>
 <tr class="header">
@@ -37,12 +31,7 @@ Gets the referenced <a href="http://msdn.microsoft.com/en-us/library/y22acf51">D
 </table>
 
 ## See Also
-
-
-[IDelegateReference Interface](idelegatereference-interface-mspp-pubsubevents.md)
-=======
+[IDelegateReference Interface](idelegatereference-interface-mspp-pubsubevents.md)
 
 [IDelegateReference Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.idelegatereference)
-
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)

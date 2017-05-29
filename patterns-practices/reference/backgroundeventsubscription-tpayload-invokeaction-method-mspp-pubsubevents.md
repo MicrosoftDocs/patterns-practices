@@ -4,21 +4,15 @@ Title: 'BackgroundEventSubscription(TPayload).InvokeAction Method (Microsoft.Pra
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscription\`1.InvokeAction(System.Action{\`0},\`0)'
 ms:mtpsurl: 'backgroundeventsubscription-tpayload-invokeaction-method-mspp-pubsubevents.md'
 ---
-
-Prism Class Library
-
+
 # BackgroundEventSubscription<(Of <(TPayload>)>).InvokeAction Method
-
-
-Invokes the specified [Action<(Of <(T>)>)](http://msdn.microsoft.com/en-us/library/018hxwa8) in an asynchronous thread by using a [ThreadPool](http://msdn.microsoft.com/en-us/library/y5htx827).
+Invokes the specified [Action<(Of <(T>)>)](http://msdn.microsoft.com/en-us/library/018hxwa8) in an asynchronous thread by using a [ThreadPool](http://msdn.microsoft.com/en-us/library/y5htx827).
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
-
-public override void InvokeAction( Action<TPayload> action, TPayload argument )Public Overrides Sub InvokeAction ( action As Action(Of TPayload), argument As TPayload )
+public override void InvokeAction( Action<TPayload> action, TPayload argument )Public Overrides Sub InvokeAction ( action As Action(Of TPayload), argument As TPayload )
 
 ### Parameters
 
@@ -31,9 +25,7 @@ Type: [TPayload](https://msdn.microsoft.com/library/microsoft.practices.prism.pu
 The payload to pass action while invoking it.
 
 ## See Also
-
-
-
+
 [BackgroundEventSubscription<(Of <(TPayload>)>) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.backgroundeventsubscription%601)
 
 [BackgroundEventSubscription<(Of <(TPayload>)>) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.backgroundeventsubscription%601)

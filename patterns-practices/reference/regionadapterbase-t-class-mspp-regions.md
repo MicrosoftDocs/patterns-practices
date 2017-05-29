@@ -4,9 +4,7 @@ Title: 'RegionAdapterBase(T) Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionAdapterBase\`1'
 ms:mtpsurl: 'regionadapterbase-t-class-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # RegionAdapterBase&lt;T&gt; Class
 
 Base class to facilitate the creation of [IRegionAdapter](iregionadapter-interface-mspp-regions.md) implementations.
@@ -48,8 +46,6 @@ Type of object to adapt.
 
 [Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
 
-Prism Class Library
-
 # RegionAdapterBase(Of T) Class
 
 Base class to facilitate the creation of [IRegionAdapter](iregionadapter-interface-mspp-regions.md) implementations.
@@ -60,11 +56,8 @@ Base class to facilitate the creation of [IRegionAdapter](iregionadapter-interfa
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
-## 
 ## Syntax
-
-
-```VB
+```VB
 'Declaration
 Public MustInherit Class RegionAdapterBase(Of T As Class)
 	Implements IRegionAdapter
@@ -90,9 +83,7 @@ itemscontrolregionadapter-class-mspp-regions.md)
     [Microsoft.Practices.Prism.Regions.SelectorRegionAdapter](selectorregionadapter-class-mspp-regions.md)
 
 ## See Also
-
-
-[RegionAdapterBase(Of T) Members](regionadapterbase-t-members-mspp-regions.md)
+[RegionAdapterBase(Of T) Members](regionadapterbase-t-members-mspp-regions.md)
 
 [Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
 

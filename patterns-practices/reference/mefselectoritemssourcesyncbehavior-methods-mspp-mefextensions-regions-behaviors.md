@@ -4,9 +4,7 @@ Title: 'MefSelectorItemsSourceSyncBehavior Methods (Microsoft.Practices.Prism.Me
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSelectorItemsSourceSyncBehavior'
 ms:mtpsurl: 'mefselectoritemssourcesyncbehavior-methods-mspp-mefextensions-regions-behaviors.md'
 ---
-
-Prism Class Library
-
+
 # MefSelectorItemsSourceSyncBehavior Methods
 
 The [MefSelectorItemsSourceSyncBehavior](mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors.md) type exposes the following members.

@@ -4,20 +4,14 @@ Title: 'UpdateRegionsException Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.UpdateRegionsException'
 ms:mtpsurl: 'updateregionsexception-events-mspp-regions.md'
 ---
-
-
-# UpdateRegionsException Events
-
-
-
+# UpdateRegionsException Events
+
 The [UpdateRegionsException](updateregionsexception-class-mspp-regions.md) type exposes the following members.
 
 ## Events
-=======
+
 The [UpdateRegionsException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception) type exposes the following members.
-
-
-
+
 <table>
 
 <thead>
@@ -40,12 +34,7 @@ Occurs when an exception is serialized to create an exception state object that 
 </table>
 
 ## See Also
-
-
-[UpdateRegionsException Class](updateregionsexception-class-mspp-regions.md)
-=======
+[UpdateRegionsException Class](updateregionsexception-class-mspp-regions.md)
 
 [UpdateRegionsException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception)
-
-
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

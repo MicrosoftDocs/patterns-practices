@@ -4,9 +4,7 @@ Title: 'DispatcherEventSubscription(TPayload).InvokeAction Method (Microsoft.Pra
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscription\`1.InvokeAction(System.Action{\`0},\`0)'
 ms:mtpsurl: 'dispatchereventsubscription-tpayload-invokeaction-method-mspp-pubsubevents.md'
 ---
-
-Prism Class Library
-
+
 # DispatcherEventSubscription&lt;TPayload&gt;.InvokeAction Method
 
 Invokes the specified [Action&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8) asynchronously in the specified [SynchronizationContext](http://msdn2.microsoft.com/en-us/library/wx31754f).
@@ -32,9 +30,7 @@ The action to execute.
 _argument_  
 Type: [TPayload](dispatchereventsubscription-tpayload-class-mspp-pubsubevents.md)
 The payload to pass action while invoking it.
-
-
-# DispatcherEventSubscription(Of TPayload).InvokeAction Method
+# DispatcherEventSubscription(Of TPayload).InvokeAction Method
 
 Invokes the specified [Action(Of T)](http://msdn2.microsoft.com/en-us/library/018hxwa8) asynchronously in the specified [SynchronizationContext](http://msdn2.microsoft.com/en-us/library/wx31754f).
 
@@ -60,9 +56,8 @@ The action to execute.
 
 _argument_  
 Type: [TPayload](dispatchereventsubscription-tpayload-class-mspp-pubsubevents.md)
-=======
+
 DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;).InvokeAction Method
-==================================================================================
 
 Invokes the specified [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) asynchronously in the specified [SynchronizationContext](http://msdn.microsoft.com/en-us/library/wx31754f).
 
@@ -70,7 +65,6 @@ Invokes the specified [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
 
 public override void InvokeAction( Action&lt;TPayload&gt; action, TPayload argument )Public Overrides Sub InvokeAction ( action As Action(Of TPayload), argument As TPayload )
 
@@ -84,17 +78,14 @@ argument
 Type: [TPayload](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dispatchereventsubscription%601)
 
 The payload to pass action while invoking it.
-
-
-## See Also
+## See Also
 
 [DispatcherEventSubscription&lt;TPayload&gt; Class](dispatchereventsubscription-tpayload-class-mspp-pubsubevents.md)
-=======
 
 [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dispatchereventsubscription%601)
 
 DispatcherEventSubscription&lt;TPayload&gt; Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
-=======
+
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)

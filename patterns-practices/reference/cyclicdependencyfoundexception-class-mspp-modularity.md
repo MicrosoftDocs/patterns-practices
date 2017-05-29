@@ -4,9 +4,7 @@ Title: 'CyclicDependencyFoundException Class (Microsoft.Practices.Prism.Modulari
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException'
 ms:mtpsurl: 'cyclicdependencyfoundexception-class-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # CyclicDependencyFoundException Class
 
 Represents the exception that is thrown when there is a circular dependency between modules during the module loading process.

@@ -4,9 +4,7 @@ Title: 'ModuleConfigurationElement Methods (Microsoft.Practices.Prism.Modularity
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement'
 ms:mtpsurl: 'moduleconfigurationelement-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleConfigurationElement Methods
 
 The [ModuleConfigurationElement](moduleconfigurationelement-class-mspp-modularity.md) type exposes the following members.

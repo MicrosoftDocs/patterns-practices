@@ -4,11 +4,8 @@ Title: 'IRegionManagerAccessor Interface (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.IRegionManagerAccessor'
 ms:mtpsurl: 'iregionmanageraccessor-interface-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionManagerAccessor Interface
-================================
+
+# IRegionManagerAccessor Interface
 
 Provides an abstraction on top of the RegionManager static members.
 
@@ -18,14 +15,9 @@ Provides an abstraction on top of the RegionManager static members.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public interface IRegionManagerAccessorPublic Interface IRegionManagerAccessor
 
-
-public interface IRegionManagerAccessorPublic Interface IRegionManagerAccessor
-
-See Also
---------
-
-
-[IRegionManagerAccessor Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionmanageraccessor)
+## See Also
+[IRegionManagerAccessor Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionmanageraccessor)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

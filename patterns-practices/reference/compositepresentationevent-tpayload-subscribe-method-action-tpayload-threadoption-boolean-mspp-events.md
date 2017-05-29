@@ -4,9 +4,7 @@ Title: 'CompositePresentationEvent(TPayload).Subscribe Method (Action(TPayload),
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Subscribe(System.Action{\`0},Microsoft.Practices.Prism.PubSubEvents.ThreadOption,System.Boolean)'
 ms:mtpsurl: 'compositepresentationevent-tpayload-subscribe-method-action-tpayload-threadoption-boolean-mspp-events.md'
 ---
-
-Prism Class Library
-
+
 # CompositePresentationEvent&lt;TPayload&gt;.Subscribe Method (Action&lt;TPayload&gt;, ThreadOption, Boolean)
 
 Subscribes a delegate to an event.
@@ -26,9 +24,7 @@ ThreadOption threadOption,
 bool keepSubscriberReferenceAlive
 ) 
 ```
-
-
-### Parameters
+### Parameters
 
 *action*
 
@@ -90,9 +86,7 @@ Public Function Subscribe (
 	keepSubscriberReferenceAlive As Boolean
 ) As SubscriptionToken
 ```
-
-
-### Parameters
+### Parameters
 
 *action*    
 

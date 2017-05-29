@@ -4,9 +4,7 @@ Title: 'IRegionManager Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionManager'
 ms:mtpsurl: 'iregionmanager-properties-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # IRegionManager Properties
 
 The [IRegionManager](iregionmanager-interface-mspp-regions.md) type exposes the following members.
@@ -34,8 +32,6 @@ Gets a collection of <a href="https://msdn.microsoft.com/library/microsoft.pract
 </table>
 
 ## See Also
-
-
-[IRegionManager Interface](iregionmanager-interface-mspp-regions.md)
+[IRegionManager Interface](iregionmanager-interface-mspp-regions.md)
 
 [Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)

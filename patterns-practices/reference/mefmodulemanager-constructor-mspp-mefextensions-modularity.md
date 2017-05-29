@@ -5,15 +5,12 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManag
 ms:mtpsurl: 'mefmodulemanager-constructor-mspp-mefextensions-modularity.md'
 ---
 
-Prism Class Library
-
 # MefModuleManager Constructor
 
 Initializes a new instance of the [MefModuleManager](mefmodulemanager-class-mspp-mefextensions-modularity.md) class.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace.md)
 
-=======
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
@@ -38,9 +35,7 @@ Public Sub New (
 	loggerFacade As ILoggerFacade
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *moduleInitializer*
 
