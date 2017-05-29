@@ -5,8 +5,6 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionMemberLifetim
 ms:mtpsurl: 'iregionmemberlifetime-members-mspp-regions.md'
 ---
 
-Prism Class Library
-
 # IRegionMemberLifetime Members
 
 The [IRegionMemberLifetime](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmemberlifetime(v=pandp.50)) type exposes the following members.
