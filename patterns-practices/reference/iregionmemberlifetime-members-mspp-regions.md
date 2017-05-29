@@ -7,15 +7,12 @@ ms:mtpsurl: 'iregionmemberlifetime-members-mspp-regions.md'
 
 Prism Class Library
 
-IRegionMemberLifetime Members
-=============================
+# IRegionMemberLifetime Members
 
-The [IRegionMemberLifetime](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmemberlifetime) type exposes the following members.
+The [IRegionMemberLifetime](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmemberlifetime(v=pandp.50)) type exposes the following members.
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
 <table>
 
 <thead>
@@ -36,10 +33,8 @@ Gets a value indicating whether this instance should be kept-alive upon deactiva
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
+[IRegionMemberLifetime Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmemberlifetime(v=pandp.50))
 
-[IRegionMemberLifetime Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmemberlifetime)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
