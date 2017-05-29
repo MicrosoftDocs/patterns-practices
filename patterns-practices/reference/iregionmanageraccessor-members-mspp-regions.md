@@ -7,15 +7,12 @@ ms:mtpsurl: 'iregionmanageraccessor-members-mspp-regions.md'
 
 Prism Class Library
 
-IRegionManagerAccessor Members
-==============================
+# IRegionManagerAccessor Members
 
-The [IRegionManagerAccessor](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor) type exposes the following members.
+The [IRegionManagerAccessor](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor(v=pandp.50)) type exposes the following members.
 
-Methods
--------
+## Methods
 
-<span id="methodTableToggle"></span>
 <table>
 
 <thead>
@@ -28,14 +25,14 @@ Methods
 <tbody>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor.getregionmanager(system.windows.dependencyobject)">GetRegionManager</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor.getregionmanager(v=pandp.50)">GetRegionManager</a></td>
 <td><div class="summary">
 Gets the value of the RegionName attached property.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor.getregionname(system.windows.dependencyobject)">GetRegionName</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor.getregionname(v=pandp.50)">GetRegionName</a></td>
 <td><div class="summary">
 Gets the value for the RegionName attached property.
 </div></td>
@@ -43,12 +40,9 @@ Gets the value for the RegionName attached property.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
-<span id="eventTableToggle"></span>
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -59,7 +53,7 @@ Events
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg405478.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor.updatingregions">UpdatingRegions</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor.updatingregions(v=pandp.50)">UpdatingRegions</a></td>
 <td><div class="summary">
 Notification used by attached behaviors to update the region managers appropriatelly if needed to.
 </div></td>
@@ -67,10 +61,8 @@ Notification used by attached behaviors to update the region managers appropriat
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
+[IRegionManagerAccessor Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor(v=pandp.50))
 
-[IRegionManagerAccessor Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
