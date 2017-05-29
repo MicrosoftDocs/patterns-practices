@@ -5,8 +5,6 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase\`1.Co
 ms:mtpsurl: 'commandbehaviorbase-t-commandparameter-property-mspp-interactivity.md'
 ---
 
-Prism Class Library
-
 # CommandBehaviorBase&lt;T&gt;.CommandParameter Property
 
 The parameter to supply the command during execution
@@ -32,6 +30,7 @@ Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 [CommandBehaviorBase&lt;T&gt; Members](commandbehaviorbase-t-members-mspp-interactivity.md)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace.md)
+
 
 # CommandBehaviorBase(Of T).CommandParameter Property
 
