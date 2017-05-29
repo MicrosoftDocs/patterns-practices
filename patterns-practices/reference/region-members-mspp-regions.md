@@ -77,7 +77,7 @@ Marks the specified view as inactive.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn2.microsoft.com/en-us/Gg405500.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg405500.static(en-us,PandP.50).gif" title="Static member" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.defaultsortcomparison(v=pandp.50)">DefaultSortComparison</a></td>
 <td><div class="summary">
 The default sort algorithm.
@@ -92,7 +92,7 @@ Determines whether the specified <a href="http://msdn2.microsoft.com/en-us/libra
 (Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn2.microsoft.com/en-us/Gg405500.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Gg405500.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn2.microsoft.com/en-us/library/4k87zsw7">Finalize</a></td>
 <td><div class="summary">
 Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
@@ -123,7 +123,7 @@ Returns the view instance that was added to the region using a specific name.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn2.microsoft.com/en-us/Gg405500.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Gg405500.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn2.microsoft.com/en-us/library/57ctke0a">MemberwiseClone</a></td>
 <td><div class="summary">
 Creates a shallow copy of the current <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b">Object</a>.
@@ -174,7 +174,7 @@ Returns a string that represents the current object.
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn2.microsoft.com/en-us/Gg405500.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Gg405500.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/gg405988(v=pandp.50)">RequestNavigate(String)</a></td>
 <td>Overloaded.
 <div class="summary">
@@ -183,7 +183,7 @@ Initiates navigation to the target specified by the target.
 (Defined by <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions(v=pandp.50)">NavigationAsyncExtensions</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn2.microsoft.com/en-us/Gg405500.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Gg405500.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/gg405989(v=pandp.50)">RequestNavigate(Uri)</a></td>
 <td>Overloaded.
 <div class="summary">
@@ -192,7 +192,7 @@ Initiates navigation to the target specified by the <a href="http://msdn2.micros
 (Defined by <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions(v=pandp.50)">NavigationAsyncExtensions</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn2.microsoft.com/en-us/Gg405500.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Gg405500.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/gg405990(v=pandp.50)">RequestNavigate(String, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))</a></td>
 <td>Overloaded.
 <div class="summary">
@@ -201,7 +201,7 @@ Initiates navigation to the target specified by the target.
 (Defined by <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions(v=pandp.50)">NavigationAsyncExtensions</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn2.microsoft.com/en-us/Gg405500.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Gg405500.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/dn736248(v=pandp.50)">RequestNavigate(Uri, NavigationParameters)</a></td>
 <td>Overloaded.
 <div class="summary">
@@ -210,7 +210,7 @@ Initiates navigation to the target specified by the target.
 (Defined by <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions(v=pandp.50)">NavigationAsyncExtensions</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn2.microsoft.com/en-us/Gg405500.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Gg405500.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/dn736211(v=pandp.50)">RequestNavigate(String, NavigationParameters)</a></td>
 <td>Overloaded.
 <div class="summary">
@@ -219,7 +219,7 @@ Initiates navigation to the target specified by the target.
 (Defined by <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationasyncextensions(v=pandp.50)">NavigationAsyncExtensions</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn2.microsoft.com/en-us/Gg405500.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Gg405500.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/dn736275(v=pandp.50)">RequestNavigate(String, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)</a></td>
 <td>Overloaded.
 <div class="summary">
@@ -242,63 +242,63 @@ Initiates navigation to the target specified by the target.
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn2.microsoft.com/en-us/Gg405500.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Gg405500.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.activeviews(v=pandp.50)">ActiveViews</a></td>
 <td><div class="summary">
 Gets a readonly view of the collection of all the active views in the region.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn2.microsoft.com/en-us/Gg405500.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Gg405500.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.behaviors(v=pandp.50)">Behaviors</a></td>
 <td><div class="summary">
 Gets the collection of <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior(v=pandp.50)">IRegionBehavior</a>s that can extend the behavior of regions.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn2.microsoft.com/en-us/Gg405500.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Gg405500.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.context(v=pandp.50)">Context</a></td>
 <td><div class="summary">
 Gets or sets a context for the region. This value can be used by the user to share context with the views.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn2.microsoft.com/en-us/Gg405500.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Gg405500.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.itemmetadatacollection(v=pandp.50)">ItemMetadataCollection</a></td>
 <td><div class="summary">
 Gets the collection with all the views along with their metadata.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn2.microsoft.com/en-us/Gg405500.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Gg405500.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.name(v=pandp.50)">Name</a></td>
 <td><div class="summary">
 Gets the name of the region that uniequely identifies the region within a <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanager(v=pandp.50)">IRegionManager</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn2.microsoft.com/en-us/Gg405500.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Gg405500.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.navigationservice(v=pandp.50)">NavigationService</a></td>
 <td><div class="summary">
 Gets the navigation service.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn2.microsoft.com/en-us/Gg405500.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Gg405500.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.regionmanager(v=pandp.50)">RegionManager</a></td>
 <td><div class="summary">
 Gets or sets the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanager(v=pandp.50)">IRegionManager</a> that will be passed to the views when adding them to the region, unless the view is added by specifying createRegionManagerScope as trueTruetruetrue (True in Visual Basic).
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn2.microsoft.com/en-us/Gg405500.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Gg405500.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.sortcomparison(v=pandp.50)">SortComparison</a></td>
 <td><div class="summary">
 Gets or sets the comparison used to sort the views.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn2.microsoft.com/en-us/Gg405500.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Gg405500.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.views(v=pandp.50)">Views</a></td>
 <td><div class="summary">
 Gets a readonly view of the collection of views in the region.
@@ -319,7 +319,7 @@ Gets a readonly view of the collection of views in the region.
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn2.microsoft.com/en-us/Gg405500.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Gg405500.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.propertychanged(v=pandp.50)">PropertyChanged</a></td>
 <td><div class="summary">
 Occurs when a property value changes.
