@@ -5,22 +5,19 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWi
 ms:mtpsurl: 'defaultnotificationwindow-members-mspp-interactivity-defaultpopupwindows.md'
 ---
 
-Prism Class Library
 
-DefaultNotificationWindow Members
-=================================
+
+# DefaultNotificationWindow Members
 
 The [DefaultNotificationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
-<span id="constructorTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -36,15 +33,13 @@ Creates a new instance of <a href="https://msdn.microsoft.com/library/microsoft.
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
-<span id="methodTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -70,7 +65,7 @@ Adds a specified object as the child of a <a href="http://msdn.microsoft.com/en-
 <td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598898">AddHandler(RoutedEvent, Delegate)</a></td>
 <td><div class="summary">
-Adds a routed event handler for a specified routed event, adding the handler to the handler collection on the current element.
+Adds a routed event handler for a specified routed event, adding the handler to the handler collection on the current element.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -78,7 +73,7 @@ Adds a routed event handler for a specified routed event, adding the handler to
 <td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598899">AddHandler(RoutedEvent, Delegate, Boolean)</a></td>
 <td><div class="summary">
-Adds a routed event handler for a specified routed event, adding the handler to the handler collection on the current element. Specify handledEventsToo as true to have the provided handler be invoked for routed event that had already been marked as handled by another element along the event route.
+Adds a routed event handler for a specified routed event, adding the handler to the handler collection on the current element. Specify handledEventsToo as true to have the provided handler be invoked for routed event that had already been marked as handled by another element along the event route.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -118,7 +113,7 @@ Defines the parent-child relationship between two visuals.
 <td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598901">ApplyAnimationClock(DependencyProperty, AnimationClock)</a></td>
 <td><div class="summary">
-Applies an animation to a specified dependency property on this element. Any existing animations are stopped and replaced with the new animation.
+Applies an animation to a specified dependency property on this element. Any existing animations are stopped and replaced with the new animation.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -126,7 +121,7 @@ Applies an animation to a specified dependency property on this element. Any ex
 <td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598902">ApplyAnimationClock(DependencyProperty, AnimationClock, HandoffBehavior)</a></td>
 <td><div class="summary">
-Applies an animation to a specified dependency property on this element, with the ability to specify what happens if the property already has a running animation.
+Applies an animation to a specified dependency property on this element, with the ability to specify what happens if the property already has a running animation.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -685,7 +680,7 @@ Raises the <a href="http://msdn.microsoft.com/en-us/library/ms596800">Deactivate
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598926">OnDragEnter</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596509">DragEnter</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596509">DragEnter</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -693,7 +688,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598927">OnDragLeave</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596511">DragLeave</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596511">DragLeave</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -701,7 +696,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598928">OnDragOver</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596513">DragOver</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596513">DragOver</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -709,7 +704,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598929">OnDrop</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596509">DragEnter</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596509">DragEnter</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -717,7 +712,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598930">OnGiveFeedback</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596516">GiveFeedback</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596516">GiveFeedback</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -733,7 +728,7 @@ Invoked whenever an unhandled <a href="http://msdn.microsoft.com/en-us/library/m
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598932">OnGotKeyboardFocus</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/aa345917">GotKeyboardFocus</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/aa345917">GotKeyboardFocus</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -741,7 +736,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/aa345
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598933">OnGotMouseCapture</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523136">GotMouseCapture</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523136">GotMouseCapture</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -749,7 +744,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598934">OnGotStylusCapture</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523179">GotStylusCapture</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523179">GotStylusCapture</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -837,7 +832,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599258">OnKeyDown</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523126">KeyDown</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523126">KeyDown</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -845,7 +840,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599259">OnKeyUp</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523129">KeyUp</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523129">KeyUp</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -861,7 +856,7 @@ Raises the <a href="http://msdn.microsoft.com/en-us/library/ms596801">LocationCh
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599260">OnLostFocus</a></td>
 <td><div class="summary">
-Raises the <a href="http://msdn.microsoft.com/en-us/library/ms596673">LostFocus</a> routed event by using the event data that is provided.
+Raises the <a href="http://msdn.microsoft.com/en-us/library/ms596673">LostFocus</a> routed event by using the event data that is provided.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -869,7 +864,7 @@ Raises the <a href="http://msdn.microsoft.com/en-us/library/ms596673">LostFocus<
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599261">OnLostKeyboardFocus</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/aa345918">LostKeyboardFocus</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/aa345918">LostKeyboardFocus</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -877,7 +872,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/aa345
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599262">OnLostMouseCapture</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523139">LostMouseCapture</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523139">LostMouseCapture</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -885,7 +880,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599263">OnLostStylusCapture</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523183">LostStylusCapture</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523183">LostStylusCapture</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -957,7 +952,7 @@ Raises the <a href="http://msdn.microsoft.com/en-us/library/ms597616">MouseDoubl
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599264">OnMouseDown</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523141">MouseDown</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523141">MouseDown</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -965,7 +960,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599265">OnMouseEnter</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523142">MouseEnter</a> attached event is raised on this element. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523142">MouseEnter</a> attached event is raised on this element. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -973,7 +968,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599266">OnMouseLeave</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523144">MouseLeave</a> attached event is raised on this element. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523144">MouseLeave</a> attached event is raised on this element. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -981,7 +976,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599267">OnMouseLeftButtonDown</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596680">MouseLeftButtonDown</a> routed event is raised on this element. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596680">MouseLeftButtonDown</a> routed event is raised on this element. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -989,7 +984,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599268">OnMouseLeftButtonUp</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596681">MouseLeftButtonUp</a> routed event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596681">MouseLeftButtonUp</a> routed event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -997,7 +992,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599269">OnMouseMove</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523146">MouseMove</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523146">MouseMove</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1005,7 +1000,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599270">OnMouseRightButtonDown</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596683">MouseRightButtonDown</a> routed event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596683">MouseRightButtonDown</a> routed event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1013,7 +1008,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599271">OnMouseRightButtonUp</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596684">MouseRightButtonUp</a> routed event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596684">MouseRightButtonUp</a> routed event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1021,7 +1016,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599272">OnMouseUp</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523148">MouseUp</a> routed event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523148">MouseUp</a> routed event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1029,7 +1024,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599273">OnMouseWheel</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523151">MouseWheel</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523151">MouseWheel</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1037,7 +1032,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599274">OnPreviewDragEnter</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596517">PreviewDragEnter</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596517">PreviewDragEnter</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1045,7 +1040,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599275">OnPreviewDragLeave</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596519">PreviewDragLeave</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596519">PreviewDragLeave</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1053,7 +1048,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599276">OnPreviewDragOver</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596521">PreviewDragOver</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596521">PreviewDragOver</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1061,7 +1056,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599277">OnPreviewDrop</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596523">PreviewDrop</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596523">PreviewDrop</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1069,7 +1064,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599278">OnPreviewGiveFeedback</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596525">PreviewGiveFeedback</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596525">PreviewGiveFeedback</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1077,7 +1072,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599279">OnPreviewGotKeyboardFocus</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/aa345919">PreviewGotKeyboardFocus</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/aa345919">PreviewGotKeyboardFocus</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1085,7 +1080,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/aa345
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599280">OnPreviewKeyDown</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523131">PreviewKeyDown</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523131">PreviewKeyDown</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1093,7 +1088,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599281">OnPreviewKeyUp</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523134">PreviewKeyUp</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523134">PreviewKeyUp</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1101,7 +1096,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599282">OnPreviewLostKeyboardFocus</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523131">PreviewKeyDown</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523131">PreviewKeyDown</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1117,7 +1112,7 @@ Raises the <a href="http://msdn.microsoft.com/en-us/library/ms597617">PreviewMou
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599283">OnPreviewMouseDown</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523154">PreviewMouseDown</a> attached routed event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523154">PreviewMouseDown</a> attached routed event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1125,7 +1120,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599284">OnPreviewMouseLeftButtonDown</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596697">PreviewMouseLeftButtonDown</a> routed event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596697">PreviewMouseLeftButtonDown</a> routed event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1133,7 +1128,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599285">OnPreviewMouseLeftButtonUp</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596698">PreviewMouseLeftButtonUp</a> routed event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596698">PreviewMouseLeftButtonUp</a> routed event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1141,7 +1136,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599286">OnPreviewMouseMove</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523159">PreviewMouseMove</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523159">PreviewMouseMove</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1149,7 +1144,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599287">OnPreviewMouseRightButtonDown</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596700">PreviewMouseRightButtonDown</a> routed event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596700">PreviewMouseRightButtonDown</a> routed event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1157,7 +1152,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599288">OnPreviewMouseRightButtonUp</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596701">PreviewMouseRightButtonUp</a> routed event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596701">PreviewMouseRightButtonUp</a> routed event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1165,7 +1160,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599289">OnPreviewMouseUp</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523163">PreviewMouseUp</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523163">PreviewMouseUp</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1173,7 +1168,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599290">OnPreviewMouseWheel</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523168">PreviewMouseWheel</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523168">PreviewMouseWheel</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1181,7 +1176,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599291">OnPreviewQueryContinueDrag</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596527">PreviewQueryContinueDrag</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596527">PreviewQueryContinueDrag</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1189,7 +1184,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599292">OnPreviewStylusButtonDown</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523186">PreviewStylusButtonDown</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523186">PreviewStylusButtonDown</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1197,7 +1192,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599293">OnPreviewStylusButtonUp</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523189">PreviewStylusButtonUp</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523189">PreviewStylusButtonUp</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1205,7 +1200,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599294">OnPreviewStylusDown</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523193">PreviewStylusDown</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523193">PreviewStylusDown</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1213,7 +1208,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599295">OnPreviewStylusInAirMove</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523196">PreviewStylusInAirMove</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523196">PreviewStylusInAirMove</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1221,7 +1216,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599296">OnPreviewStylusInRange</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523198">PreviewStylusInRange</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523198">PreviewStylusInRange</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1229,7 +1224,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599297">OnPreviewStylusMove</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588440">PreviewStylusMove</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588440">PreviewStylusMove</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1237,7 +1232,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599298">OnPreviewStylusOutOfRange</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588441">PreviewStylusOutOfRange</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588441">PreviewStylusOutOfRange</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1245,7 +1240,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599299">OnPreviewStylusSystemGesture</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588442">PreviewStylusSystemGesture</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588442">PreviewStylusSystemGesture</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1253,7 +1248,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599300">OnPreviewStylusUp</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588443">PreviewStylusUp</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588443">PreviewStylusUp</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1261,7 +1256,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599301">OnPreviewTextInput</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588471">PreviewTextInput</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588471">PreviewTextInput</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1301,7 +1296,7 @@ Invoked whenever the effective value of any dependency property on this <a href=
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599302">OnQueryContinueDrag</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596529">QueryContinueDrag</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596529">QueryContinueDrag</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1309,7 +1304,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms596
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599303">OnQueryCursor</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523171">QueryCursor</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms523171">QueryCursor</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1357,7 +1352,7 @@ Invoked when the style in use on this element changes, which will invalidate the
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599306">OnStylusButtonDown</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588445">StylusButtonDown</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588445">StylusButtonDown</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1365,7 +1360,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599307">OnStylusButtonUp</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588446">StylusButtonUp</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588446">StylusButtonUp</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1373,7 +1368,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599308">OnStylusDown</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588447">StylusDown</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588447">StylusDown</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1381,7 +1376,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599309">OnStylusEnter</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588448">StylusEnter</a> attached event is raised by this element. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588448">StylusEnter</a> attached event is raised by this element. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1389,7 +1384,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599310">OnStylusInAirMove</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588449">StylusInAirMove</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588449">StylusInAirMove</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1397,7 +1392,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599311">OnStylusInRange</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588450">StylusInRange</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588450">StylusInRange</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1405,7 +1400,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599312">OnStylusLeave</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588452">StylusLeave</a> attached event is raised by this element. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588452">StylusLeave</a> attached event is raised by this element. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1413,7 +1408,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599313">OnStylusMove</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588455">StylusMove</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588455">StylusMove</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1421,7 +1416,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599314">OnStylusOutOfRange</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588460">StylusOutOfRange</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588460">StylusOutOfRange</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1429,7 +1424,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599315">OnStylusSystemGesture</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588464">StylusSystemGesture</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588464">StylusSystemGesture</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1437,7 +1432,7 @@ Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599316">OnStylusUp</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588467">StylusUp</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms588467">StylusUp</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1453,7 +1448,7 @@ Called whenever the control's template changes.
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms599317">OnTextInput</a></td>
 <td><div class="summary">
-Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms601826">TextInput</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
+Invoked when an unhandled <a href="http://msdn.microsoft.com/en-us/library/ms601826">TextInput</a> attached event reaches an element in its route that is derived from this class. Implement this method to add class handling for this event.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -1852,15 +1847,13 @@ Enforces that the calling thread has access to this <a href="http://msdn.microso
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -2080,7 +2073,7 @@ Gets or sets the key to use to reference the style for this control, when theme 
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms600674">DependencyObjectType</a></td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/ms589310">DependencyObjectType</a> that wraps the CLR type of this instance. 
+Gets the <a href="http://msdn.microsoft.com/en-us/library/ms589310">DependencyObjectType</a> that wraps the CLR type of this instance. 
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
@@ -2408,7 +2401,7 @@ Gets a value that determines whether mouse capture is held by this element or by
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms588729">IsMouseDirectlyOver</a></td>
 <td><div class="summary">
-Gets a value that indicates whether the position of the mouse pointer corresponds to hit test results, which take element compositing into account. This is a dependency property.
+Gets a value that indicates whether the position of the mouse pointer corresponds to hit test results, which take element compositing into account. This is a dependency property.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -2448,7 +2441,7 @@ Gets a value that determines whether stylus capture is held by this element, or 
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms588735">IsStylusDirectlyOver</a></td>
 <td><div class="summary">
-Gets a value that indicates whether the stylus position corresponds to hit test results, which take element compositing into account. This is a dependency property.
+Gets a value that indicates whether the stylus position corresponds to hit test results, which take element compositing into account. This is a dependency property.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -2744,7 +2737,7 @@ Gets or sets an arbitrary object value that can be used to store custom informat
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/dd991699">TaskbarItemInfo</a></td>
 <td><div class="summary">
-Gets or sets the Windows 7 taskbar thumbnail for the <a href="http://msdn.microsoft.com/en-us/library/ms590112">Window</a>.
+Gets or sets the Windows 7 taskbar thumbnail for the <a href="http://msdn.microsoft.com/en-us/library/ms590112">Window</a>.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590112">Window</a>.)</td>
 </tr>
@@ -3065,15 +3058,13 @@ Gets or sets a window's border style.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
-<span id="eventTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -3715,7 +3706,7 @@ Occurs when the stylus button is released while the pointer is over this element
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms596773">PreviewStylusDown</a></td>
 <td><div class="summary">
-Occurs when the stylus touches the digitizer while it is over this element.
+Occurs when the stylus touches the digitizer while it is over this element.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -3723,7 +3714,7 @@ Occurs when the stylus touches the digitizer while it is over this element.
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms596774">PreviewStylusInAirMove</a></td>
 <td><div class="summary">
-Occurs when the stylus moves over an element without actually touching the digitizer.
+Occurs when the stylus moves over an element without actually touching the digitizer.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -3731,7 +3722,7 @@ Occurs when the stylus moves over an element without actually touching the digi
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms596775">PreviewStylusInRange</a></td>
 <td><div class="summary">
-Occurs when the stylus is close enough to the digitizer to be detected, while over this element.
+Occurs when the stylus is close enough to the digitizer to be detected, while over this element.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -3747,7 +3738,7 @@ Occurs when the stylus moves while over the element. The stylus must move while 
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms596778">PreviewStylusOutOfRange</a></td>
 <td><div class="summary">
-Occurs when the stylus is too far from the digitizer to be detected.
+Occurs when the stylus is too far from the digitizer to be detected.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -3763,7 +3754,7 @@ Occurs when a user performs one of several stylus gestures.
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms596780">PreviewStylusUp</a></td>
 <td><div class="summary">
-Occurs when the user raises the stylus off the digitizer while the stylus is over this element.
+Occurs when the user raises the stylus off the digitizer while the stylus is over this element.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -3875,7 +3866,7 @@ Occurs when the stylus button is released while the pointer is over this element
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms596786">StylusDown</a></td>
 <td><div class="summary">
-Occurs when the stylus touches the digitizer while the stylus is over this element.
+Occurs when the stylus touches the digitizer while the stylus is over this element.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -3891,7 +3882,7 @@ Occurs when the stylus enters the bounds of this element.
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms596788">StylusInAirMove</a></td>
 <td><div class="summary">
-Occurs when the stylus moves over an element without actually touching the digitizer.
+Occurs when the stylus moves over an element without actually touching the digitizer.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -3899,7 +3890,7 @@ Occurs when the stylus moves over an element without actually touching the digi
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms596789">StylusInRange</a></td>
 <td><div class="summary">
-Occurs when the stylus is close enough to the digitizer to be detected, while over this element.
+Occurs when the stylus is close enough to the digitizer to be detected, while over this element.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -3923,7 +3914,7 @@ Occurs when the stylus moves over this element. The stylus must move while on th
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms596792">StylusOutOfRange</a></td>
 <td><div class="summary">
-Occurs when the stylus is too far from the digitizer to be detected, while over this element.
+Occurs when the stylus is too far from the digitizer to be detected, while over this element.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -3939,7 +3930,7 @@ Occurs when a user performs one of several stylus gestures.
 <td><img src="https://msdn.microsoft.com/en-us/Dn741413.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms596794">StylusUp</a></td>
 <td><div class="summary">
-Occurs when the user raises the stylus off the digitizer while it is over this element.
+Occurs when the user raises the stylus off the digitizer while it is over this element.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -4026,10 +4017,7 @@ Occurs when the element is removed from within an element tree of loaded element
 </tbody>
 </table>
 
-See Also
---------
-
-
+## See Also
 [DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
 
 [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)

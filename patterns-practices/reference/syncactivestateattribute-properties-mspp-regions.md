@@ -5,22 +5,19 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.SyncActiveStateAttri
 ms:mtpsurl: 'syncactivestateattribute-properties-mspp-regions.md'
 ---
 
-Prism Class Library
 
-SyncActiveStateAttribute Properties
-===================================
+
+# SyncActiveStateAttribute Properties
 
 The [SyncActiveStateAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute) type exposes the following members.
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -37,10 +34,9 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 </tbody>
 </table>
 
-See Also
---------
-
-
+## See Also
 [SyncActiveStateAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+
+
