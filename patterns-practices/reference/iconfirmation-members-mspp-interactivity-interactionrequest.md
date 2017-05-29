@@ -5,22 +5,17 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InteractionReq
 ms:mtpsurl: 'iconfirmation-members-mspp-interactivity-interactionrequest.md'
 ---
 
-Prism Class Library
+# IConfirmation Members
 
-IConfirmation Members
-=====================
+The [IConfirmation](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation(v=pandp.50)) type exposes the following members.
 
-The [IConfirmation](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation) type exposes the following members.
+## Properties
 
-Properties
-----------
-
-<span id="propertyTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -28,34 +23,32 @@ Properties
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741418.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation.confirmed">Confirmed</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation.confirmed(v=pandp.50)">Confirmed</a></td>
 <td><div class="summary">
 Gets or sets a value indicating that the confirmation is confirmed.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741418.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification.content">Content</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.inotification.content(v=pandp.50)">Content</a></td>
 <td><div class="summary">
 Gets or sets the content of the notification.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification">INotification</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.inotification(v=pandp.50)">INotification</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741418.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification.title">Title</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.inotification.title(v=pandp.50)">Title</a></td>
 <td><div class="summary">
 Gets or sets the title to use for the notification.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification">INotification</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.inotification(v=pandp.50)">INotification</a>.)</td>
 </tr>
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
+[IConfirmation Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation(v=pandp.50))
 
-[IConfirmation Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation)
-
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
