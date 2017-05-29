@@ -7,9 +7,9 @@ ms:mtpsurl: 'modulenotfoundexception-constructor-mspp-modularity.md'
 
 # ModuleNotFoundException Constructor (SerializationInfo, StreamingContext)
 
-Initializes a new instance of the [ModuleNotFoundException](modulenotfoundexception-class-mspp-modularity.md) class with the serialization data.
+Initializes a new instance of the [ModuleNotFoundException](modulenotfoundexception-class-mspp-modularity) class with the serialization data.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -46,10 +46,10 @@ Protected Sub New (
    Contains contextual information about the source or destination.
 
 ## See Also
-[ModuleNotFoundException Class](modulenotfoundexception-class-mspp-modularity.md)
+[ModuleNotFoundException Class](modulenotfoundexception-class-mspp-modularity)
 
-[ModuleNotFoundException Members](modulenotfoundexception-members-mspp-modularity.md)
+[ModuleNotFoundException Members](modulenotfoundexception-members-mspp-modularity)
 
 ModuleNotFoundException Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefclearchildviewsregionbehavior-methods-mspp-mefextensions-regions
 
 # MefClearChildViewsRegionBehavior Methods
 
-The [MefClearChildViewsRegionBehavior](mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors.md) type exposes the following members.
+The [MefClearChildViewsRegionBehavior](mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
 
 ## Methods
  
@@ -89,6 +89,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[MefClearChildViewsRegionBehavior Class](mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors.md)
+[MefClearChildViewsRegionBehavior Class](mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace)

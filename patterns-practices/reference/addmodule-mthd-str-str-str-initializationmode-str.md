@@ -7,9 +7,9 @@ ms:mtpsurl: 'addmodule-mthd-str-str-initializationmode-str.md'
 
 # ModuleCatalog.AddModule Method (String, String, String, InitializationMode, String[])
 
-Adds a groupless [ModuleInfo](moduleinfo-class-mspp-modularity.md) to the catalog.
+Adds a groupless [ModuleInfo](moduleinfo-class-mspp-modularity) to the catalog.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -44,36 +44,36 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Reference to the location of the module to be added assembly.
 
 *initializationMode*  
-Type: [Microsoft.Practices.Prism.Modularity.InitializationMode](initializationmode-enumeration-mspp-modularity.md)
+Type: [Microsoft.Practices.Prism.Modularity.InitializationMode](initializationmode-enumeration-mspp-modularity)
 
 Stage on which the module to be added will be initialized.
 
 *dependsOn*  
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)[]
 
-Collection of module names ([ModuleName](moduleinfo-modulename-property-mspp-modularity.md)) of the modules on which the module to be added logically depends on.
+Collection of module names ([ModuleName](moduleinfo-modulename-property-mspp-modularity)) of the modules on which the module to be added logically depends on.
 
 ### Return Value
 
-Type: [ModuleCatalog](modulecatalog-class-mspp-modularity.md)
+Type: [ModuleCatalog](modulecatalog-class-mspp-modularity)
 
-The same [ModuleCatalog](modulecatalog-class-mspp-modularity.md) instance with the added module.
+The same [ModuleCatalog](modulecatalog-class-mspp-modularity) instance with the added module.
 
 ## See Also
 
-[ModuleCatalog Class](modulecatalog-class-mspp-modularity.md)
+[ModuleCatalog Class](modulecatalog-class-mspp-modularity)
 
-[ModuleCatalog Members](modulecatalog-members-mspp-modularity.md)
+[ModuleCatalog Members](modulecatalog-members-mspp-modularity)
 
-[AddModule Overload](addmodule-mthd-str-str-initializationmode-str.md)
+[AddModule Overload](addmodule-mthd-str-str-initializationmode-str)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
 
 # ModuleCatalog.AddModule Method (String, String, String, InitializationMode, String())
 
-Adds a groupless [ModuleInfo](moduleinfo-class-mspp-modularity.md) to the catalog.
+Adds a groupless [ModuleInfo](moduleinfo-class-mspp-modularity) to the catalog.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -109,27 +109,27 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Reference to the location of the module to be added assembly.
 
 *initializationMode*  
-Type: [Microsoft.Practices.Prism.Modularity.InitializationMode](initializationmode-enumeration-mspp-modularity.md)
+Type: [Microsoft.Practices.Prism.Modularity.InitializationMode](initializationmode-enumeration-mspp-modularity)
 
 Stage on which the module to be added will be initialized.
 
 *dependsOn*  
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)()
 
-Collection of module names ([ModuleName](moduleinfo-modulename-property-mspp-modularity.md)) of the modules on which the module to be added logically depends on.
+Collection of module names ([ModuleName](moduleinfo-modulename-property-mspp-modularity)) of the modules on which the module to be added logically depends on.
 
 ### Return Value
 
-Type: [ModuleCatalog](modulecatalog-class-mspp-modularity.md)
+Type: [ModuleCatalog](modulecatalog-class-mspp-modularity)
 
-The same [ModuleCatalog](modulecatalog-class-mspp-modularity.md) instance with the added module.
+The same [ModuleCatalog](modulecatalog-class-mspp-modularity) instance with the added module.
 
 ## See Also
 
-[ModuleCatalog Class](modulecatalog-class-mspp-modularity.md)
+[ModuleCatalog Class](modulecatalog-class-mspp-modularity)
 
-[ModuleCatalog Members](modulecatalog-members-mspp-modularity.md)
+[ModuleCatalog Members](modulecatalog-members-mspp-modularity)
 
-[AddModule Overload](addmodule-mthd-str-str-initializationmode-str.md)
+[AddModule Overload](addmodule-mthd-str-str-initializationmode-str)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

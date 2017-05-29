@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefbindregioncontexttodependencyobjectbehavior-methods-mspp-mefexte
 
 # MefBindRegionContextToDependencyObjectBehavior Methods
 
-The [MefBindRegionContextToDependencyObjectBehavior](mefbindregioncontexttodependencyobjectbehavior-class-mspp-mefextensions-regions-behaviors.md) type exposes the following members.
+The [MefBindRegionContextToDependencyObjectBehavior](mefbindregioncontexttodependencyobjectbehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
 
 ## Methods
 
@@ -81,7 +81,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[MefBindRegionContextToDependencyObjectBehavior Class](mefbindregioncontexttodependencyobjectbehavior-class-mspp-mefextensions-regions-behaviors.md)
+[MefBindRegionContextToDependencyObjectBehavior Class](mefbindregioncontexttodependencyobjectbehavior-class-mspp-mefextensions-regions-behaviors)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace)
 	

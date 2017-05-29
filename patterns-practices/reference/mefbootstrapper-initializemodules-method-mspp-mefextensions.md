@@ -9,7 +9,7 @@ ms:mtpsurl: 'mefbootstrapper-initializemodules-method-mspp-mefextensions.md'
 
 Initializes the modules. May be overwritten in a derived class to use a custom Modules Catalog
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](mspp-mefextensions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](mspp-mefextensions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -26,8 +26,8 @@ Protected Overrides Sub InitializeModules
 ```
 
 ## See Also
-[MefBootstrapper Class](mefbootstrapper-class-mspp-mefextensions.md)
+[MefBootstrapper Class](mefbootstrapper-class-mspp-mefextensions)
 
-[MefBootstrapper Members](mefbootstrapper-members-mspp-mefextensions.md)
+[MefBootstrapper Members](mefbootstrapper-members-mspp-mefextensions)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](mspp-mefextensions-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions Namespace](mspp-mefextensions-namespace)

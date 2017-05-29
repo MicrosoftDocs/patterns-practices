@@ -9,7 +9,7 @@ ms:mtpsurl: 'mefregionnavigationcontentloader-class-mspp-mefextensions-regions.m
 
 Exports the LocatorNavigationTargetHandler using the Managed Extensibility Framework (MEF).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](mspp-mefextensions-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](mspp-mefextensions-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -34,11 +34,11 @@ Public Class MefRegionNavigationContentLoader
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)</br>
-  [Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader](regionnavigationcontentloader-class-mspp-regions.md)<br/>
+  [Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader](regionnavigationcontentloader-class-mspp-regions)<br/>
     Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationContentLoader
 
 ## See Also
 
-[MefRegionNavigationContentLoader Members](mefregionnavigationcontentloader-members-mspp-mefextensions-regions.md)
+[MefRegionNavigationContentLoader Members](mefregionnavigationcontentloader-members-mspp-mefextensions-regions)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace)

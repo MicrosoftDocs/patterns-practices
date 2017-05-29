@@ -51,8 +51,8 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </table>
 
 ## See Also
-[UpdateRegionsException Class](updateregionsexception-class-mspp-regions.md)
+[UpdateRegionsException Class](updateregionsexception-class-mspp-regions)
 
-[UpdateRegionsException Members](updateregionsexception-members-mspp-regions.md)
+[UpdateRegionsException Members](updateregionsexception-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

@@ -7,9 +7,9 @@ ms:mtpsurl: 'moduleinfogroup-contains-method-mspp-modularity.md'
 
 # ModuleInfoGroup.Contains Method
 
-Determines whether the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md) contains a specific value.
+Determines whether the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity) contains a specific value.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -29,23 +29,23 @@ Public Function Contains (
 
 *item*  
 
-     Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity.md)
+     Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity)
 	 
-     The object to locate in the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md).
+     The object to locate in the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity).
 
 ### Return Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
-true if item is found in the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md); otherwise, false.
+true if item is found in the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity); otherwise, false.
 
 ### Implements
 
 [ICollection&lt;T&gt;.Contains(T)](http://msdn.microsoft.com/en-us/library/k5cf1d56)
 
 ## See Also
-[ModuleInfoGroup Class](moduleinfogroup-class-mspp-modularity.md)
+[ModuleInfoGroup Class](moduleinfogroup-class-mspp-modularity)
 
-[ModuleInfoGroup Members](moduleinfogroup-members-mspp-modularity.md)
+[ModuleInfoGroup Members](moduleinfogroup-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

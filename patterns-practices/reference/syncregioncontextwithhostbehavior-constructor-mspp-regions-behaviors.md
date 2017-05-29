@@ -7,9 +7,9 @@ ms:mtpsurl: 'syncregioncontextwithhostbehavior-constructor-mspp-regions-behavior
 
 # SyncRegionContextWithHostBehavior Constructor
 
-Initializes a new instance of the [SyncRegionContextWithHostBehavior](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors.md) class
+Initializes a new instance of the [SyncRegionContextWithHostBehavior](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors) class
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,8 +28,8 @@ Public Sub New
 
 ## See Also
 
-[SyncRegionContextWithHostBehavior Class](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors.md)
+[SyncRegionContextWithHostBehavior Class](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors)
 
-[SyncRegionContextWithHostBehavior Members](syncregioncontextwithhostbehavior-members-mspp-regions-behaviors.md)
+[SyncRegionContextWithHostBehavior Members](syncregioncontextwithhostbehavior-members-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)

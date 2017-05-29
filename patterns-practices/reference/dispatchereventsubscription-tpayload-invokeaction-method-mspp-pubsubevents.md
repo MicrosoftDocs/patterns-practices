@@ -28,7 +28,7 @@ Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;[TPa
 The action to execute.
 
 _argument_  
-Type: [TPayload](dispatchereventsubscription-tpayload-class-mspp-pubsubevents.md)
+Type: [TPayload](dispatchereventsubscription-tpayload-class-mspp-pubsubevents)
 The payload to pass action while invoking it.
 # DispatcherEventSubscription(Of TPayload).InvokeAction Method
 
@@ -51,11 +51,11 @@ Public Overrides Sub InvokeAction (
 ### Parameters
 
 _action_
-Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](dispatchereventsubscription-tpayload-class-mspp-pubsubevents.md))
+Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](dispatchereventsubscription-tpayload-class-mspp-pubsubevents))
 The action to execute.
 
 _argument_  
-Type: [TPayload](dispatchereventsubscription-tpayload-class-mspp-pubsubevents.md)
+Type: [TPayload](dispatchereventsubscription-tpayload-class-mspp-pubsubevents)
 
 DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;).InvokeAction Method
 
@@ -80,12 +80,12 @@ Type: [TPayload](https://msdn.microsoft.com/library/microsoft.practices.prism.pu
 The payload to pass action while invoking it.
 ## See Also
 
-[DispatcherEventSubscription&lt;TPayload&gt; Class](dispatchereventsubscription-tpayload-class-mspp-pubsubevents.md)
+[DispatcherEventSubscription&lt;TPayload&gt; Class](dispatchereventsubscription-tpayload-class-mspp-pubsubevents)
 
 [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dispatchereventsubscription%601)
 
 DispatcherEventSubscription&lt;TPayload&gt; Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)

@@ -7,7 +7,7 @@ ms:mtpsurl: 'invokecommandaction-fields-mspp-interactivity.md'
 
 # InvokeCommandAction Fields
 
-The [InvokeCommandAction](invokecommandaction-class-mspp-interactivity.md) type exposes the following members.
+The [InvokeCommandAction](invokecommandaction-class-mspp-interactivity) type exposes the following members.
 
 ## Fields
 
@@ -47,6 +47,6 @@ Dependency property identifying the TriggerParameterPath to be parsed to identif
 
 ## See Also
 
-[InvokeCommandAction Class](invokecommandaction-class-mspp-interactivity.md)
+[InvokeCommandAction Class](invokecommandaction-class-mspp-interactivity)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace.md)
+[Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace)

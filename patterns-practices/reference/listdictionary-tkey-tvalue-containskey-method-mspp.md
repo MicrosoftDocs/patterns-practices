@@ -9,7 +9,7 @@ ms:mtpsurl: 'listdictionary-tkey-tvalue-containskey-method-mspp.md'
 
 Determines whether the dictionary contains the given key.
 
-**Namespace:** [Microsoft.Practices.Prism](mspp-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism](mspp-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -25,7 +25,7 @@ Public Function ContainsKey ( key As TKey ) As Boolean
 ### Parameters
 
 *key*  
-Type: [TKey](listdictionary-tkey-tvalue-class-mspp.md)
+Type: [TKey](listdictionary-tkey-tvalue-class-mspp)
 
 The key to locate.
 
@@ -39,8 +39,8 @@ true if the dictionary contains the given key; otherwise, false.
 [IDictionary&lt;TKey, TValue&gt;.ContainsKey(TKey)](http://msdn.microsoft.com/en-us/library/htszx2dy)
 
 ## See Also
-[ListDictionary&lt;TKey, TValue&gt; Class](listdictionary-tkey-tvalue-class-mspp.md)
+[ListDictionary&lt;TKey, TValue&gt; Class](listdictionary-tkey-tvalue-class-mspp)
 
-[ListDictionary&lt;TKey, TValue&gt; Members](listdictionary-tkey-tvalue-members-mspp.md)
+[ListDictionary&lt;TKey, TValue&gt; Members](listdictionary-tkey-tvalue-members-mspp)
 
-[Microsoft.Practices.Prism Namespace](mspp-namespace.md)
+[Microsoft.Practices.Prism Namespace](mspp-namespace)

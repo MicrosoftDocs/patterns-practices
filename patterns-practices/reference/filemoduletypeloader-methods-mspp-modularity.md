@@ -7,7 +7,7 @@ ms:mtpsurl: 'filemoduletypeloader-methods-mspp-modularity.md'
 
 # FileModuleTypeLoader Methods
 
-The [FileModuleTypeLoader](filemoduletypeloader-class-mspp-modularity.md) type exposes the following members.
+The [FileModuleTypeLoader](filemoduletypeloader-class-mspp-modularity) type exposes the following members.
 
 ## Methods
  
@@ -102,6 +102,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[FileModuleTypeLoader Class](filemoduletypeloader-class-mspp-modularity.md)
+[FileModuleTypeLoader Class](filemoduletypeloader-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

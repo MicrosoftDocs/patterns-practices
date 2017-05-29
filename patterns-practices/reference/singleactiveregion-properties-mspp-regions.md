@@ -7,7 +7,7 @@ ms:mtpsurl: 'singleactiveregion-properties-mspp-regions.md'
 
 # SingleActiveRegion Properties
 
-The [SingleActiveRegion](singleactiveregion-class-mspp-regions.md) type exposes the following members.
+The [SingleActiveRegion](singleactiveregion-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
@@ -97,6 +97,6 @@ Gets a readonly view of the collection of views in the region.
 </table>
 
 ## See Also
-[SingleActiveRegion Class](singleactiveregion-class-mspp-regions.md)
+[SingleActiveRegion Class](singleactiveregion-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

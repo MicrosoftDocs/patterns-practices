@@ -7,9 +7,9 @@ ms:mtpsurl: 'regionnavigationcontentloader-getcontractfromnavigationcontext-meth
 
 # RegionNavigationContentLoader.GetContractFromNavigationContext Method
 
-Returns the candidate TargetContract based on the [NavigationContext](navigationcontext-class-mspp-regions.md).
+Returns the candidate TargetContract based on the [NavigationContext](navigationcontext-class-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -33,18 +33,18 @@ Protected Overridable Function GetContractFromNavigationContext (
 
 *navigationContext*
 
-    Type: [Microsoft.Practices.Prism.Regions.NavigationContext](navigationcontext-class-mspp-regions.md)
+    Type: [Microsoft.Practices.Prism.Regions.NavigationContext](navigationcontext-class-mspp-regions)
     The navigation contract.
 
 ### Return Value
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)<br/>
-The candidate contract to seek within the [IRegion](iregion-interface-mspp-regions.md) and to use, if not found, when resolving from the container.
+The candidate contract to seek within the [IRegion](iregion-interface-mspp-regions) and to use, if not found, when resolving from the container.
 
 ## See Also
 
-[RegionNavigationContentLoader Class](regionnavigationcontentloader-class-mspp-regions.md)
+[RegionNavigationContentLoader Class](regionnavigationcontentloader-class-mspp-regions)
 
-[RegionNavigationContentLoader Members](regionnavigationcontentloader-members-mspp-regions.md)
+[RegionNavigationContentLoader Members](regionnavigationcontentloader-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

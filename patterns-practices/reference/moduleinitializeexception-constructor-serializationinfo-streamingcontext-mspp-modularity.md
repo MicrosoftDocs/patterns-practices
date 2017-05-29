@@ -9,7 +9,7 @@ ms:mtpsurl: 'moduleinitializeexception-constructor-mspp-modularity.md'
 
 Initializes a new instance with serialized data.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -42,10 +42,10 @@ Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/
 The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that contains contextual information about the source or destination.
 
 ## See Also
-[ModuleInitializeException Class](moduleinitializeexception-class-mspp-modularity.md)
+[ModuleInitializeException Class](moduleinitializeexception-class-mspp-modularity)
 
-[ModuleInitializeException Members](moduleinitializeexception-members-mspp-modularity.md)
+[ModuleInitializeException Members](moduleinitializeexception-members-mspp-modularity)
 
 ModuleInitializeException Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

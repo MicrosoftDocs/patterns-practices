@@ -7,7 +7,7 @@ ms:mtpsurl: 'iregionmanager-properties-mspp-regions.md'
 
 # IRegionManager Properties
 
-The [IRegionManager](iregionmanager-interface-mspp-regions.md) type exposes the following members.
+The [IRegionManager](iregionmanager-interface-mspp-regions) type exposes the following members.
 
 ## Properties
  
@@ -32,6 +32,6 @@ Gets a collection of <a href="https://msdn.microsoft.com/library/microsoft.pract
 </table>
 
 ## See Also
-[IRegionManager Interface](iregionmanager-interface-mspp-regions.md)
+[IRegionManager Interface](iregionmanager-interface-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

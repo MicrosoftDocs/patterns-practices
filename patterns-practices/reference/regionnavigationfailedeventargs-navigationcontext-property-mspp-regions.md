@@ -9,7 +9,7 @@ ms:mtpsurl: 'regionnavigationfailedeventargs-navigationcontext-property-mspp-reg
 
 Gets the navigation context.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -23,7 +23,7 @@ public NavigationContext NavigationContext { get; }
 
 ### Property Value
 
-Type: [NavigationContext](navigationcontext-class-mspp-regions.md)
+Type: [NavigationContext](navigationcontext-class-mspp-regions)
 
 The navigation context.
 
@@ -35,13 +35,13 @@ Public ReadOnly Property NavigationContext As NavigationContext
 
 ### Property Value
 
-Type: [NavigationContext](navigationcontext-class-mspp-regions.md)
+Type: [NavigationContext](navigationcontext-class-mspp-regions)
 
 The navigation context.
 
 ## See Also
-[RegionNavigationFailedEventArgs Class](regionnavigationfailedeventargs-class-mspp-regions.md)
+[RegionNavigationFailedEventArgs Class](regionnavigationfailedeventargs-class-mspp-regions)
 
-[RegionNavigationFailedEventArgs Members](regionnavigationfailedeventargs-members-mspp-regions.md)
+[RegionNavigationFailedEventArgs Members](regionnavigationfailedeventargs-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

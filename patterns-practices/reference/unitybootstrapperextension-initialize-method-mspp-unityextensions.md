@@ -9,7 +9,7 @@ ms:mtpsurl: 'unitybootstrapperextension-initialize-method-mspp-unityextensions.m
 
 Initializes the container with this extension's functionality.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](mspp-unityextensions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](mspp-unityextensions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
@@ -27,8 +27,8 @@ Protected Overrides Sub Initialize
 
 ## See Also
 
-[UnityBootstrapperExtension Class](unitybootstrapperextension-class-mspp-unityextensions.md)
+[UnityBootstrapperExtension Class](unitybootstrapperextension-class-mspp-unityextensions)
 
-[UnityBootstrapperExtension Members](unitybootstrapperextension-members-mspp-unityextensions.md)
+[UnityBootstrapperExtension Members](unitybootstrapperextension-members-mspp-unityextensions)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](mspp-unityextensions-namespace.md)
+[Microsoft.Practices.Prism.UnityExtensions Namespace](mspp-unityextensions-namespace)

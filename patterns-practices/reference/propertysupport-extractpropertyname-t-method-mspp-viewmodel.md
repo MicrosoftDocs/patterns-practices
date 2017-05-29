@@ -9,7 +9,7 @@ ms:mtpsurl: 'propertysupport-extractpropertyname-t-method-mspp-viewmodel.md'
 
 Extracts the property name from a property expression.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -68,17 +68,17 @@ Or, the property is static.</td>
 
 ## See Also
 
-[PropertySupport Class](propertysupport-class-mspp-viewmodel.md)
+[PropertySupport Class](propertysupport-class-mspp-viewmodel)
 
-[PropertySupport Members](propertysupport-members-mspp-viewmodel.md)
+[PropertySupport Members](propertysupport-members-mspp-viewmodel)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace.md)
+[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace)
 
 # PropertySupport.ExtractPropertyName(Of T) Method
 
 Extracts the property name from a property expression.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -137,8 +137,8 @@ Or, the property is static.</td>
 
 ## See Also
 
-[PropertySupport Class](propertysupport-class-mspp-viewmodel.md)
+[PropertySupport Class](propertysupport-class-mspp-viewmodel)
 
-[PropertySupport Members](propertysupport-members-mspp-viewmodel.md)
+[PropertySupport Members](propertysupport-members-mspp-viewmodel)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace.md)
+[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace)

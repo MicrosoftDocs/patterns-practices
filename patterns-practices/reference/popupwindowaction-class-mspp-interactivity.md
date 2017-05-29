@@ -70,6 +70,6 @@ Public Class PopupWindowAction
 
 ## See Also
 
-[PopupWindowAction Members](popupwindowaction-members-mspp-interactivity.md)
+[PopupWindowAction Members](popupwindowaction-members-mspp-interactivity)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)

@@ -9,7 +9,7 @@ ms:mtpsurl: 'iregionnavigationservice-navigated-event-mspp-regions.md'
 
 Raised when the region is navigated to content.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -27,12 +27,12 @@ Event Navigated As EventHandler(Of RegionNavigationEventArgs)
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [RegionNavigationEventArgs](regionnavigationeventargs-class-mspp-regions.md))
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [RegionNavigationEventArgs](regionnavigationeventargs-class-mspp-regions))
 
 ## See Also
 
-[IRegionNavigationService Interface](iregionnavigationservice-interface-mspp-regions.md)
+[IRegionNavigationService Interface](iregionnavigationservice-interface-mspp-regions)
 
-[IRegionNavigationService Members](iregionnavigationservice-members-mspp-regions.md)
+[IRegionNavigationService Members](iregionnavigationservice-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

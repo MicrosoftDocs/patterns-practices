@@ -7,7 +7,7 @@ ms:mtpsurl: 'region-events-mspp-regions.md'
 
 # Region Events
 
-The [Region](region-class-mspp-regions.md) type exposes the following members.
+The [Region](region-class-mspp-regions) type exposes the following members.
 
 ## Events
 
@@ -32,6 +32,6 @@ Occurs when a property value changes.
 </table>
 
 ## See Also
-[Region Class](region-class-mspp-regions.md)
+[Region Class](region-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

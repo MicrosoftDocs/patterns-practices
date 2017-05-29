@@ -7,7 +7,7 @@ ms:mtpsurl: 'moduleinitializeexception-methods-mspp-modularity.md'
 
 # ModuleInitializeException Methods
 
-The [ModuleInitializeException](moduleinitializeexception-class-mspp-modularity.md) type exposes the following members.
+The [ModuleInitializeException](moduleinitializeexception-class-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -112,6 +112,6 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 </table>
 
 ## See Also
-[ModuleInitializeException Class](moduleinitializeexception-class-mspp-modularity.md)
+[ModuleInitializeException Class](moduleinitializeexception-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

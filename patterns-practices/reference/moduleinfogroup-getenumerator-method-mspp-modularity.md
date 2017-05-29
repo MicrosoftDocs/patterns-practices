@@ -9,7 +9,7 @@ ms:mtpsurl: 'moduleinfogroup-getenumerator-method-mspp-modularity.md'
 
 Returns an enumerator that iterates through the collection.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -23,7 +23,7 @@ public IEnumerator<ModuleInfo> GetEnumerator()
 
 ### Return Value
 
-Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)&lt;[ModuleInfo](moduleinfo-class-mspp-modularity.md)&gt;
+Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)&lt;[ModuleInfo](moduleinfo-class-mspp-modularity)&gt;
 
 A [IEnumerator&lt;T&gt;](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can be used to iterate through the collection.
 
@@ -38,7 +38,7 @@ Public Function GetEnumerator As IEnumerator(Of ModuleInfo)
 
 ### Return Value
 
-Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)(Of [ModuleInfo](moduleinfo-class-mspp-modularity.md))
+Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)(Of [ModuleInfo](moduleinfo-class-mspp-modularity))
 
 A [IEnumerator(Of T)](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can be used to iterate through the collection.
 
@@ -47,9 +47,9 @@ A [IEnumerator(Of T)](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can
 [IEnumerable(Of T).GetEnumerator](http://msdn.microsoft.com/en-us/library/s793z9y2)
 
 ## ## See Also
-[ModuleInfoGroup Class](moduleinfogroup-class-mspp-modularity.md)
+[ModuleInfoGroup Class](moduleinfogroup-class-mspp-modularity)
 
-[ModuleInfoGroup Members](moduleinfogroup-members-mspp-modularity.md)
+[ModuleInfoGroup Members](moduleinfogroup-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
 

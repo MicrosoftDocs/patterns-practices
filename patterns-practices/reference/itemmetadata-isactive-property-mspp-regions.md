@@ -9,7 +9,7 @@ ms:mtpsurl: 'itemmetadata-isactive-property-mspp-regions.md'
 
 Gets or sets a value indicating whether the wrapped item is considered active.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,8 +32,8 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 **truetrue** (**True** in Visual Basic) if the item should be considered active; otherwise **falsefalse** (**False** in Visual Basic).
 
 ## See Also
-[ItemMetadata Class](itemmetadata-class-mspp-regions.md)
+[ItemMetadata Class](itemmetadata-class-mspp-regions)
 
-[ItemMetadata Members](itemmetadata-members-mspp-regions.md)
+[ItemMetadata Members](itemmetadata-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

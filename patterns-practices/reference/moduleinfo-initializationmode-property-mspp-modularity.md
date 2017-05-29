@@ -9,7 +9,7 @@ ms:mtpsurl: 'moduleinfo-initializationmode-property-mspp-modularity.md'
 
 Specifies on which stage the Module will be initialized.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -30,12 +30,12 @@ Public Property InitializationMode As InitializationMode
 
 ### Property Value
 
-Type: [InitializationMode](initializationmode-enumeration-mspp-modularity.md)
+Type: [InitializationMode](initializationmode-enumeration-mspp-modularity)
 
 ## See Also
 
-[ModuleInfo Class](moduleinfo-class-mspp-modularity.md)
+[ModuleInfo Class](moduleinfo-class-mspp-modularity)
 
-[ModuleInfo Members](moduleinfo-members-mspp-modularity.md)
+[ModuleInfo Members](moduleinfo-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

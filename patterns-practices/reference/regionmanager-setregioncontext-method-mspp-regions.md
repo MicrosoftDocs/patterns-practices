@@ -7,9 +7,9 @@ ms:mtpsurl: 'regionmanager-setregioncontext-method-mspp-regions.md'
 
 # RegionManager.SetRegionContext Method
 
-Sets the [RegionContextProperty](regionmanager-regioncontextproperty-field-mspp-regions.md) attached property.
+Sets the [RegionContextProperty](regionmanager-regioncontextproperty-field-mspp-regions) attached property.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -41,8 +41,8 @@ Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The value.
 
 ## See Also
-[RegionManager Class](regionmanager-class-mspp-regions.md)
+[RegionManager Class](regionmanager-class-mspp-regions)
 
-[RegionManager Members](regionmanager-members-mspp-regions.md)
+[RegionManager Members](regionmanager-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

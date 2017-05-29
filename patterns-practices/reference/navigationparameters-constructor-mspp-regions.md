@@ -6,9 +6,9 @@ ms:mtpsurl: 'navigationparameters-constructor-mspp-regions.md'
 ---
 # NavigationParameters Constructor
 
-Initializes a new instance of the [NavigationParameters](navigationparameters-class-mspp-regions.md) class.
+Initializes a new instance of the [NavigationParameters](navigationparameters-class-mspp-regions) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -26,10 +26,10 @@ Public Sub New
 ```
 
 ## See Also
-[NavigationParameters Class](navigationparameters-class-mspp-regions.md)
+[NavigationParameters Class](navigationparameters-class-mspp-regions)
 
-[NavigationParameters Members](navigationparameters-members-mspp-regions.md)
+[NavigationParameters Members](navigationparameters-members-mspp-regions)
 
 NavigationParameters Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

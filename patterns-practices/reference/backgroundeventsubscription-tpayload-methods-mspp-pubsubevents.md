@@ -7,7 +7,7 @@ ms:mtpsurl: 'backgroundeventsubscription-tpayload-methods-mspp-pubsubevents.md'
 
 # BackgroundEventSubscription&lt;TPayload&gt; Methods
 
-The [BackgroundEventSubscription&lt;TPayload&gt;](backgroundeventsubscription-tpayload-class-mspp-pubsubevents.md) type exposes the following members.
+The [BackgroundEventSubscription&lt;TPayload&gt;](backgroundeventsubscription-tpayload-class-mspp-pubsubevents) type exposes the following members.
 
 ## Methods
 
@@ -89,6 +89,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[BackgroundEventSubscription&lt;TPayload&gt; Class](backgroundeventsubscription-tpayload-class-mspp-pubsubevents.md)
+[BackgroundEventSubscription&lt;TPayload&gt; Class](backgroundeventsubscription-tpayload-class-mspp-pubsubevents)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace)

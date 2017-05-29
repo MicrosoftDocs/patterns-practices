@@ -7,9 +7,9 @@ ms:mtpsurl: 'unityregionnavigationcontentloader-constructor-mspp-unityextensions
 
 # UnityRegionNavigationContentLoader Constructor
 
-Initializes a new instance of the [UnityRegionNavigationContentLoader](unityregionnavigationcontentloader-class-mspp-unityextensions-regions.md) class.
+Initializes a new instance of the [UnityRegionNavigationContentLoader](unityregionnavigationcontentloader-class-mspp-unityextensions-regions) class.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](mspp-unityextensions-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](mspp-unityextensions-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
@@ -47,8 +47,8 @@ Public Sub New (
 
 ## See Also
 
-[UnityRegionNavigationContentLoader Class](unityregionnavigationcontentloader-class-mspp-unityextensions-regions.md)
+[UnityRegionNavigationContentLoader Class](unityregionnavigationcontentloader-class-mspp-unityextensions-regions)
 
-[UnityRegionNavigationContentLoader Members](unityregionnavigationcontentloader-members-mspp-unityextensions-regions.md)
+[UnityRegionNavigationContentLoader Members](unityregionnavigationcontentloader-members-mspp-unityextensions-regions)
 
-[Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](mspp-unityextensions-regions-namespace.md)
+[Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](mspp-unityextensions-regions-namespace)

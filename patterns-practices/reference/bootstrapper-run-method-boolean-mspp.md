@@ -9,7 +9,7 @@ ms:mtpsurl: 'bootstrapper-run-method-boolean-mspp.md'
 
 Run the bootstrapper process.
 
-**Namespace:** [Microsoft.Practices.Prism](mspp-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism](mspp-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -45,10 +45,10 @@ Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 If Truetrue (True in Visual Basic), registers default Prism Library services in the container. This is the default behavior.
 
 ## See Also
-[Bootstrapper Class](bootstrapper-class-mspp.md)
+[Bootstrapper Class](bootstrapper-class-mspp)
 
-[Bootstrapper Members](bootstrapper-members-mspp.md)
+[Bootstrapper Members](bootstrapper-members-mspp)
 
-[Run Overload](bootstrapper-run-method-boolean-mspp.md)
+[Run Overload](bootstrapper-run-method-boolean-mspp)
 
-[Microsoft.Practices.Prism Namespace](mspp-namespace.md)
+[Microsoft.Practices.Prism Namespace](mspp-namespace)

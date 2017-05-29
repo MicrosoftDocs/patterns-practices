@@ -7,7 +7,7 @@ ms:mtpsurl: 'iregioncollection-properties-mspp-regions.md'
 
 # IRegionCollection Properties
 
-The [IRegionCollection](iregioncollection-interface-mspp-regions.md) type exposes the following members.
+The [IRegionCollection](iregioncollection-interface-mspp-regions) type exposes the following members.
 
 ## Properties
 
@@ -32,6 +32,6 @@ Gets the IRegion with the name received as index.
 </table>
 
 ## See Also
-[IRegionCollection Interface](iregioncollection-interface-mspp-regions.md)
+[IRegionCollection Interface](iregioncollection-interface-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

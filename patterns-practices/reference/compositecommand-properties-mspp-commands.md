@@ -7,7 +7,7 @@ ms:mtpsurl: 'compositecommand-properties-mspp-commands.md'
 
 # CompositeCommand Properties
 
-The [CompositeCommand](compositecommand-class-mspp-commands.md) type exposes the following members.
+The [CompositeCommand](compositecommand-class-mspp-commands) type exposes the following members.
 
 ## Properties
 
@@ -32,6 +32,6 @@ Gets the list of all the registered commands.
 </table>
 
 ## See Also
-[CompositeCommand Class](compositecommand-class-mspp-commands.md)
+[CompositeCommand Class](compositecommand-class-mspp-commands)
 
-[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)
+[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace)

@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefmoduleinitializer-methods-mspp-mefextensions-modularity.md'
 
 # MefModuleInitializer Methods
 
-The [MefModuleInitializer](mefmoduleinitializer-class-mspp-mefextensions-modularity.md) type exposes the following members.
+The [MefModuleInitializer](mefmoduleinitializer-class-mspp-mefextensions-modularity) type exposes the following members.
 
 ## Methods
 
@@ -105,6 +105,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[MefModuleInitializer Class](mefmoduleinitializer-class-mspp-mefextensions-modularity.md)
+[MefModuleInitializer Class](mefmoduleinitializer-class-mspp-mefextensions-modularity)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace)

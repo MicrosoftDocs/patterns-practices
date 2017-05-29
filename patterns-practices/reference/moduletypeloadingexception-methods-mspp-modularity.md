@@ -7,7 +7,7 @@ ms:mtpsurl: 'moduletypeloadingexception-methods-mspp-modularity.md'
 
 # ModuleTypeLoadingException Methods
 
-The [ModuleTypeLoadingException](moduletypeloadingexception-class-mspp-modularity.md) type exposes the following members.
+The [ModuleTypeLoadingException](moduletypeloadingexception-class-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -113,6 +113,6 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 
 ## See Also
 
-[ModuleTypeLoadingException Class](moduletypeloadingexception-class-mspp-modularity.md)
+[ModuleTypeLoadingException Class](moduletypeloadingexception-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

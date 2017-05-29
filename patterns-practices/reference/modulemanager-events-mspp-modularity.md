@@ -7,7 +7,7 @@ ms:mtpsurl: 'modulemanager-events-mspp-modularity.md'
 
 # ModuleManager Events
 
-The [ModuleManager](modulemanager-class-mspp-modularity.md) type exposes the following members.
+The [ModuleManager](modulemanager-class-mspp-modularity) type exposes the following members.
 
 ## Events
 
@@ -39,6 +39,6 @@ Raised repeatedly to provide progress as modules are loaded in the background.
 </table>
 
 ## See Also
-[ModuleManager Class](modulemanager-class-mspp-modularity.md)
+[ModuleManager Class](modulemanager-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

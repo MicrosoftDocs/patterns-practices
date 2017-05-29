@@ -9,7 +9,7 @@ ms:mtpsurl: 'downloadedpartcatalogcollection-remove-method-mspp-mefextensions-mo
 
 Removes the catalgo for the specified module info.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -33,14 +33,14 @@ Public Sub Remove (
 
 *moduleInfo*
 
-	Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity.md)
+	Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity)
 
 	The module info.
 
 ## See Also
 
-[DownloadedPartCatalogCollection Class](downloadedpartcatalogcollection-class-mspp-mefextensions-modularity.md)
+[DownloadedPartCatalogCollection Class](downloadedpartcatalogcollection-class-mspp-mefextensions-modularity)
 
-[DownloadedPartCatalogCollection Members](downloadedpartcatalogcollection-members-mspp-mefextensions-modularity.md)
+[DownloadedPartCatalogCollection Members](downloadedpartcatalogcollection-members-mspp-mefextensions-modularity)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace)

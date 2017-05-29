@@ -7,9 +7,9 @@ ms:mtpsurl: 'delayedregioncreationbehavior-onupdatingregions-method-mspp-regions
 
 # DelayedRegionCreationBehavior.OnUpdatingRegions Method
 
-Called when the [RegionManager](regionmanager-class-mspp-regions.md) is updating it's [Regions](regionmanager-regions-property-mspp-regions.md) collection.
+Called when the [RegionManager](regionmanager-class-mspp-regions) is updating it's [Regions](regionmanager-regions-property-mspp-regions) collection.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -35,7 +35,7 @@ Public Sub OnUpdatingRegions (
 
    Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-   The [RegionManager](regionmanager-class-mspp-regions.md).
+   The [RegionManager](regionmanager-class-mspp-regions).
 
 *e*  
 
@@ -48,8 +48,8 @@ Public Sub OnUpdatingRegions (
  This method has to be public, because it has to be callable using weak references in silverlight and other partial trust environments.
 
 ## See Also
-[DelayedRegionCreationBehavior Class](delayedregioncreationbehavior-class-mspp-regions-behaviors.md)
+[DelayedRegionCreationBehavior Class](delayedregioncreationbehavior-class-mspp-regions-behaviors)
 
-[DelayedRegionCreationBehavior Members](delayedregioncreationbehavior-members-mspp-regions-behaviors.md)
+[DelayedRegionCreationBehavior Members](delayedregioncreationbehavior-members-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)

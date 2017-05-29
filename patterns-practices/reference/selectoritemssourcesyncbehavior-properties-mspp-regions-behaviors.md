@@ -7,7 +7,7 @@ ms:mtpsurl: 'selectoritemssourcesyncbehavior-properties-mspp-regions-behaviors.m
 
 # SelectorItemsSourceSyncBehavior Properties
 
-The [SelectorItemsSourceSyncBehavior](selectoritemssourcesyncbehavior-class-mspp-regions-behaviors.md) type exposes the following members.
+The [SelectorItemsSourceSyncBehavior](selectoritemssourcesyncbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Properties
 
@@ -49,6 +49,6 @@ Behavior's attached region.
 
 ## See Also
 
-[SelectorItemsSourceSyncBehavior Class](selectoritemssourcesyncbehavior-class-mspp-regions-behaviors.md)
+[SelectorItemsSourceSyncBehavior Class](selectoritemssourcesyncbehavior-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)

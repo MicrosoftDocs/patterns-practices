@@ -7,7 +7,7 @@ ms:mtpsurl: 'delegatecommand-t-methods-mspp-commands.md'
 
 # DelegateCommand&lt;T&gt; Methods
 
-The [DelegateCommand&lt;T&gt;](delegatecommand-t-class-mspp-commands.md) type exposes the following members.
+The [DelegateCommand&lt;T&gt;](delegatecommand-t-class-mspp-commands) type exposes the following members.
 
 ## ## Methods
 
@@ -145,6 +145,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[DelegateCommand&lt;T&gt; Class](delegatecommand-t-class-mspp-commands.md)
+[DelegateCommand&lt;T&gt; Class](delegatecommand-t-class-mspp-commands)
 
-[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)
+[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace)

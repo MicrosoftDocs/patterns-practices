@@ -42,8 +42,8 @@ Creates a new instance of a <a href="https://msdn.microsoft.com/library/microsof
 
 ## See Also
 
-[DelegateCommandBase Class](delegatecommandbase-class-mspp-commands.md)
+[DelegateCommandBase Class](delegatecommandbase-class-mspp-commands)
 
-[DelegateCommandBase Members](delegatecommandbase-members-mspp-commands.md)
+[DelegateCommandBase Members](delegatecommandbase-members-mspp-commands)
 
-[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)
+[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace)

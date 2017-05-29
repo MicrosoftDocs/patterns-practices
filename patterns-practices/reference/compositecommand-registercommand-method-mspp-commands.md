@@ -9,7 +9,7 @@ ms:mtpsurl: 'compositecommand-registercommand-method-mspp-commands.md'
 
 Adds a command to the collection and signs up for the [CanExecuteChanged](http://msdn.microsoft.com/en-us/library/ms523106) event of it.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](mspp-commands-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Commands](mspp-commands-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 ## Syntax
@@ -37,8 +37,8 @@ The command to register.
  If this command is set to monitor command activity, and command implements the [!:IActiveAwareCommand] interface, this method will subscribe to its [!:IActiveAwareCommand.IsActiveChanged] event.
 
 ## See Also
-[CompositeCommand Class](compositecommand-class-mspp-commands.md)
+[CompositeCommand Class](compositecommand-class-mspp-commands)
 
-[CompositeCommand Members](compositecommand-members-mspp-commands.md)
+[CompositeCommand Members](compositecommand-members-mspp-commands)
 
-[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)
+[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace)

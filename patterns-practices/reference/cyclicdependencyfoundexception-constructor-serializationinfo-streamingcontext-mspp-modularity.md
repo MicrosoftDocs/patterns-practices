@@ -7,9 +7,9 @@ ms:mtpsurl: 'cyclicdependencyfoundexception-constructor-mspp-modularity.md'
 
 # CyclicDependencyFoundException Constructor (SerializationInfo, StreamingContext)
 
-Initializes a new instance of the [CyclicDependencyFoundException](cyclicdependencyfoundexception-class-mspp-modularity.md) class with the serialization data.
+Initializes a new instance of the [CyclicDependencyFoundException](cyclicdependencyfoundexception-class-mspp-modularity) class with the serialization data.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -45,10 +45,10 @@ Protected Sub New (
 
 ## See Also
 
-[CyclicDependencyFoundException Class](cyclicdependencyfoundexception-class-mspp-modularity.md)
+[CyclicDependencyFoundException Class](cyclicdependencyfoundexception-class-mspp-modularity)
 
-[CyclicDependencyFoundException Members](cyclicdependencyfoundexception-members-mspp-modularity.md)
+[CyclicDependencyFoundException Members](cyclicdependencyfoundexception-members-mspp-modularity)
 
 CyclicDependencyFoundException Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

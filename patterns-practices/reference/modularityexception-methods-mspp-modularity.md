@@ -7,7 +7,7 @@ ms:mtpsurl: 'modularityexception-methods-mspp-modularity.md'
 
 # ModularityException Methods
 
-The [ModularityException](modularityexception-class-mspp-modularity.md) type exposes the following members.
+The [ModularityException](modularityexception-class-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -112,6 +112,6 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 </table>
 
 ## See Also
-[ModularityException Class](modularityexception-class-mspp-modularity.md)
+[ModularityException Class](modularityexception-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

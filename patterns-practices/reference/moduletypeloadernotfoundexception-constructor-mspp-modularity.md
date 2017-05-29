@@ -7,9 +7,9 @@ ms:mtpsurl: 'moduletypeloadernotfoundexception-constructor-mspp-modularity.md'
 
 # ModuleTypeLoaderNotFoundException Constructor
 
-Initializes a new instance of the [ModuleTypeLoaderNotFoundException](moduletypeloadernotfoundexception-class-mspp-modularity.md) class.
+Initializes a new instance of the [ModuleTypeLoaderNotFoundException](moduletypeloadernotfoundexception-class-mspp-modularity) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,10 +28,10 @@ Public Sub New
 
 ## See Also
 
-[ModuleTypeLoaderNotFoundException Class](moduletypeloadernotfoundexception-class-mspp-modularity.md)
+[ModuleTypeLoaderNotFoundException Class](moduletypeloadernotfoundexception-class-mspp-modularity)
 
-[ModuleTypeLoaderNotFoundException Members](moduletypeloadernotfoundexception-members-mspp-modularity.md)
+[ModuleTypeLoaderNotFoundException Members](moduletypeloadernotfoundexception-members-mspp-modularity)
 
 ModuleTypeLoaderNotFoundException Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

@@ -6,9 +6,9 @@ ms:mtpsurl: 'pubsubevent-tpayload-constructor-mspp-pubsubevents.md'
 ---
 # PubSubEvent &lt;TPayload&gt; Constructor
 
-Initializes a new instance of the [PubSubEvent&lt;TPayload&gt;](pubsubevent-tpayload-class-mspp-pubsubevents.md) class
+Initializes a new instance of the [PubSubEvent&lt;TPayload&gt;](pubsubevent-tpayload-class-mspp-pubsubevents) class
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -19,18 +19,18 @@ public PubSubEvent()
 ```
 
 ## See Also
-[PubSubEvent&lt;TPayload&gt; Class](pubsubevent-tpayload-class-mspp-pubsubevents.md)
+[PubSubEvent&lt;TPayload&gt; Class](pubsubevent-tpayload-class-mspp-pubsubevents)
 
 PubSubEvent&lt;TPayload&gt; Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace)
 ## 
 
 # PubSubEvent(Of TPayload) Constructor
 
-Initializes a new instance of the [PubSubEvent(Of TPayload))](pubsubevent-tpayload-class-mspp-pubsubevents.md) class
+Initializes a new instance of the [PubSubEvent(Of TPayload))](pubsubevent-tpayload-class-mspp-pubsubevents) class
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -42,8 +42,8 @@ Public Sub New
 ```
 
 ## See Also
-[PubSubEvent(Of TPayload) Class](pubsubevent-tpayload-class-mspp-pubsubevents.md)
+[PubSubEvent(Of TPayload) Class](pubsubevent-tpayload-class-mspp-pubsubevents)
 
 PubSubEvent(Of TPayload) Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace)

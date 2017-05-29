@@ -9,7 +9,7 @@ ms:mtpsurl: 'moduledownloadprogresschangedeventargs-class-mspp-modularity.md'
 
 Provides progress information as a module downloads.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -35,6 +35,6 @@ Public Class ModuleDownloadProgressChangedEventArgs Inherits ProgressChangedEven
       Microsoft.Practices.Prism.Modularity.ModuleDownloadProgressChangedEventArgs
 
 ## See Also
-[ModuleDownloadProgressChangedEventArgs Members](moduledownloadprogresschangedeventargs-members-mspp-modularity.md)
+[ModuleDownloadProgressChangedEventArgs Members](moduledownloadprogresschangedeventargs-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

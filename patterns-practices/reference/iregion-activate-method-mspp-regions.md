@@ -9,7 +9,7 @@ ms:mtpsurl: 'iregion-activate-method-mspp-regions.md'
 
 Marks the specified view as active.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -39,8 +39,8 @@ Sub Activate (
 
 ## See Also
 
-[IRegion Interface](iregion-interface-mspp-regions.md)
+[IRegion Interface](iregion-interface-mspp-regions)
 
-[IRegion Members](iregion-members-mspp-regions.md)
+[IRegion Members](iregion-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

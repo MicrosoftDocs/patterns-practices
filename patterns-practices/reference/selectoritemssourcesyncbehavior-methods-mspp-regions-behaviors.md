@@ -7,7 +7,7 @@ ms:mtpsurl: 'selectoritemssourcesyncbehavior-methods-mspp-regions-behaviors.md'
 
 # SelectorItemsSourceSyncBehavior Methods
 
-The [SelectorItemsSourceSyncBehavior](selectoritemssourcesyncbehavior-class-mspp-regions-behaviors.md) type exposes the following members.
+The [SelectorItemsSourceSyncBehavior](selectoritemssourcesyncbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Methods
 
@@ -90,6 +90,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[SelectorItemsSourceSyncBehavior Class](selectoritemssourcesyncbehavior-class-mspp-regions-behaviors.md)
+[SelectorItemsSourceSyncBehavior Class](selectoritemssourcesyncbehavior-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)

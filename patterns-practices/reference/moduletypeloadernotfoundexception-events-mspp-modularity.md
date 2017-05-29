@@ -7,7 +7,7 @@ ms:mtpsurl: 'moduletypeloadernotfoundexception-events-mspp-modularity.md'
 
 # ModuleTypeLoaderNotFoundException Events
 
-The [ModuleTypeLoaderNotFoundException](moduletypeloadernotfoundexception-class-mspp-modularity.md) type exposes the following members.
+The [ModuleTypeLoaderNotFoundException](moduletypeloadernotfoundexception-class-mspp-modularity) type exposes the following members.
 
 ## Events
 
@@ -36,9 +36,9 @@ Occurs when an exception is serialized to create an exception state object that 
 
 ## See Also
 
-[ModuleTypeLoaderNotFoundException Class](moduletypeloadernotfoundexception-class-mspp-modularity.md)
+[ModuleTypeLoaderNotFoundException Class](moduletypeloadernotfoundexception-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
 
 [ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
 

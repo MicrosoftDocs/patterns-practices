@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefcontentcontrolregionadapter-properties-mspp-mefextensions-region
 
 # MefContentControlRegionAdapter Properties
 
-The [MefContentControlRegionAdapter](mefcontentcontrolregionadapter-class-mspp-mefextensions-regions.md) type exposes the following members.
+The [MefContentControlRegionAdapter](mefcontentcontrolregionadapter-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Properties
 
@@ -33,6 +33,6 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 </table>
 
 ## See Also
-[MefContentControlRegionAdapter Class](mefcontentcontrolregionadapter-class-mspp-mefextensions-regions.md)
+[MefContentControlRegionAdapter Class](mefcontentcontrolregionadapter-class-mspp-mefextensions-regions)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace)

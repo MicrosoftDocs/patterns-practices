@@ -7,7 +7,7 @@ ms:mtpsurl: 'allactiveregion-events-mspp-regions.md'
 
 # AllActiveRegion Events
 
-The [AllActiveRegion](allactiveregion-class-mspp-regions.md) type exposes the following members.
+The [AllActiveRegion](allactiveregion-class-mspp-regions) type exposes the following members.
 
 ## Events
 
@@ -33,6 +33,6 @@ Occurs when a property value changes.
 </table>
 
 ## See Also
-[AllActiveRegion Class](allactiveregion-class-mspp-regions.md)
+[AllActiveRegion Class](allactiveregion-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

@@ -9,7 +9,7 @@ ms:mtpsurl: 'regionnavigationjournalentry-class-mspp-regions.md'
 
 An entry in an IRegionNavigationJournal representing the URI navigated to.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -29,8 +29,8 @@ Public Class RegionNavigationJournalEntry
 ## Inheritance Hierarchy
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry
-    [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournalEntry](mefregionnavigationjournalentry-class-mspp-mefextensions-regions.md)
+    [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournalEntry](mefregionnavigationjournalentry-class-mspp-mefextensions-regions)
 
 ## See Also
-	[RegionNavigationJournalEntry Members](regionnavigationjournalentry-members-mspp-regions.md)
-	[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+	[RegionNavigationJournalEntry Members](regionnavigationjournalentry-members-mspp-regions)
+	[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

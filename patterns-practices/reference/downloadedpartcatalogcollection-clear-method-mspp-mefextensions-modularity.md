@@ -9,7 +9,7 @@ ms:mtpsurl: 'downloadedpartcatalogcollection-clear-method-mspp-mefextensions-mod
 
 Clears the collection of catalogs.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -26,8 +26,8 @@ Public Sub Clear
 ```
 
 ## See Also
-[DownloadedPartCatalogCollection Class](downloadedpartcatalogcollection-class-mspp-mefextensions-modularity.md)
+[DownloadedPartCatalogCollection Class](downloadedpartcatalogcollection-class-mspp-mefextensions-modularity)
 
-[DownloadedPartCatalogCollection Members](downloadedpartcatalogcollection-members-mspp-mefextensions-modularity.md)
+[DownloadedPartCatalogCollection Members](downloadedpartcatalogcollection-members-mspp-mefextensions-modularity)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace)

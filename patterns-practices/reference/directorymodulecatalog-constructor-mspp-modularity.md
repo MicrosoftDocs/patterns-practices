@@ -7,9 +7,9 @@ ms:mtpsurl: 'directorymodulecatalog-constructor-mspp-modularity.md'
 
 # DirectoryModuleCatalog Constructor
 
-Initializes a new instance of the [DirectoryModuleCatalog](directorymodulecatalog-class-mspp-modularity.md) class
+Initializes a new instance of the [DirectoryModuleCatalog](directorymodulecatalog-class-mspp-modularity) class
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -26,8 +26,8 @@ Public Sub New
 ```
 
 ## See Also
-[DirectoryModuleCatalog Class](directorymodulecatalog-class-mspp-modularity.md)
+[DirectoryModuleCatalog Class](directorymodulecatalog-class-mspp-modularity)
 
-[DirectoryModuleCatalog Members](directorymodulecatalog-members-mspp-modularity.md)
+[DirectoryModuleCatalog Members](directorymodulecatalog-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

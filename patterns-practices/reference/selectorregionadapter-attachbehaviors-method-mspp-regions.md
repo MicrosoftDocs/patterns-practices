@@ -9,7 +9,7 @@ ms:mtpsurl: 'selectorregionadapter-attachbehaviors-method-mspp-regions.md'
 
 Attach new behaviors.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -20,7 +20,7 @@ Attach new behaviors.
 ### Parameters
 
 region  
-Type: [Microsoft.Practices.Prism.Regions.IRegion](iregion-interface-mspp-regions.md)
+Type: [Microsoft.Practices.Prism.Regions.IRegion](iregion-interface-mspp-regions)
 The region being used.
 
 regionTarget  
@@ -32,8 +32,8 @@ The object to adapt.
  This class attaches the base behaviors and also listens for changes in the activity of the region or the control selection and keeps the in sync.
 
 ## See Also
-[SelectorRegionAdapter Class](selectorregionadapter-class-mspp-regions.md)
+[SelectorRegionAdapter Class](selectorregionadapter-class-mspp-regions)
 
-[SelectorRegionAdapter Members](selectorregionadapter-members-mspp-regions.md)
+[SelectorRegionAdapter Members](selectorregionadapter-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

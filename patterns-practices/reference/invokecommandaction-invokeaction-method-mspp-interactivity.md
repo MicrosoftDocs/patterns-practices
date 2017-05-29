@@ -9,7 +9,7 @@ ms:mtpsurl: 'invokecommandaction-invokeaction-method-mspp-interactivity.md'
 
 Public wrapper of the Invoke method.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](mspp-interactivity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](mspp-interactivity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -40,8 +40,8 @@ Public Sub InvokeAction (
 
 ## See Also
 
-[InvokeCommandAction Class](invokecommandaction-class-mspp-interactivity.md)
+[InvokeCommandAction Class](invokecommandaction-class-mspp-interactivity)
 
-[InvokeCommandAction Members](invokecommandaction-members-mspp-interactivity.md)
+[InvokeCommandAction Members](invokecommandaction-members-mspp-interactivity)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace.md)
+[Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace)

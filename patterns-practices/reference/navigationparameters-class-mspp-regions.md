@@ -8,7 +8,7 @@ ms:mtpsurl: 'navigationparameters-class-mspp-regions.md'
 # NavigationParameters Class
 
 Represents Navigation parameters.
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -44,7 +44,7 @@ Public Class NavigationParameters
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Regions.NavigationParameters
 ## See Also
-[NavigationParameters Members](navigationparameters-members-mspp-regions.md)
+[NavigationParameters Members](navigationparameters-members-mspp-regions)
 
 [NavigationParameters Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationparameters)
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

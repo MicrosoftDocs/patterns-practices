@@ -7,9 +7,9 @@ ms:mtpsurl: 'interactionrequestedeventargs-constructor-mspp-interactivity-intera
 
 # InteractionRequestedEventArgs Constructor
 
-Constructs a new instance of [InteractionRequestedEventArgs](interactionrequestedeventargs-class-mspp-interactivity-interactionrequest.md)
+Constructs a new instance of [InteractionRequestedEventArgs](interactionrequestedeventargs-class-mspp-interactivity-interactionrequest)
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](mspp-interactivity-interactionrequest-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](mspp-interactivity-interactionrequest-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -33,7 +33,7 @@ Public Sub New (
 
 *context*
 
-Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](inotification-interface-mspp-interactivity-interactionrequest.md)
+Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](inotification-interface-mspp-interactivity-interactionrequest)
 
 *callback*
 
@@ -41,8 +41,8 @@ Type: [System.Action](http://msdn.microsoft.com/en-us/library/bb534741)
 
 ## See Also
 
-[InteractionRequestedEventArgs Class](interactionrequestedeventargs-class-mspp-interactivity-interactionrequest.md)
+[InteractionRequestedEventArgs Class](interactionrequestedeventargs-class-mspp-interactivity-interactionrequest)
 
-[InteractionRequestedEventArgs Members](interactionrequestedeventargs-members-mspp-interactivity-interactionrequest.md)
+[InteractionRequestedEventArgs Members](interactionrequestedeventargs-members-mspp-interactivity-interactionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace)

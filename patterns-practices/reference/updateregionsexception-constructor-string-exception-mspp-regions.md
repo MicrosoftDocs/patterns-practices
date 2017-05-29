@@ -7,9 +7,9 @@ ms:mtpsurl: 'updateregionsexception-constructor-mspp-regions.md'
 
 # UpdateRegionsException Constructor (String, Exception)
 
-Initializes a new instance of the [UpdateRegionsException](updateregionsexception-class-mspp-regions.md) class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the [UpdateRegionsException](updateregionsexception-class-mspp-regions) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -41,10 +41,10 @@ Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified.
 
 ## See Also
-[UpdateRegionsException Class](updateregionsexception-class-mspp-regions.md)
+[UpdateRegionsException Class](updateregionsexception-class-mspp-regions)
 
-[UpdateRegionsException Members](updateregionsexception-members-mspp-regions.md)
+[UpdateRegionsException Members](updateregionsexception-members-mspp-regions)
 
 UpdateRegionsException Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

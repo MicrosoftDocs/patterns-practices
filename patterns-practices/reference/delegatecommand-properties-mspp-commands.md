@@ -7,7 +7,7 @@ ms:mtpsurl: 'delegatecommand-properties-mspp-commands.md'
 
 # DelegateCommand Properties
 
-The [DelegateCommand](delegatecommand-class-mspp-commands.md) type exposes the following members.
+The [DelegateCommand](delegatecommand-class-mspp-commands) type exposes the following members.
 
 ## Properties
 
@@ -33,6 +33,6 @@ Gets or sets a value indicating whether the object is active.
 </table>
 
 ## See Also
-[DelegateCommand Class](delegatecommand-class-mspp-commands.md)
+[DelegateCommand Class](delegatecommand-class-mspp-commands)
 
-[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)
+[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace)

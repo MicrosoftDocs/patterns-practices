@@ -7,9 +7,9 @@ ms:mtpsurl: 'moduleinfogroup-remove-method-mspp-modularity.md'
 
 # ModuleInfoGroup.Remove Method
 
-Removes the first occurrence of a specific object from the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md).
+Removes the first occurrence of a specific object from the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -25,21 +25,21 @@ Public Function Remove ( item As ModuleInfo ) As Boolean
 ### Parameters
 
 *item*  
-	Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity.md)
-	The object to remove from the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md).
+	Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity)
+	The object to remove from the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity).
 
 ### Return Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
-true if item was successfully removed from the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md); otherwise, false. This method also returns false if item is not found in the original [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity.md).
+true if item was successfully removed from the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity); otherwise, false. This method also returns false if item is not found in the original [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity).
 ### Implements
 
 [ICollection&lt;T&gt;.Remove(T)](http://msdn.microsoft.com/en-us/library/bye7h94w)
 
 ## See Also
-[ModuleInfoGroup Class](moduleinfogroup-class-mspp-modularity.md)
+[ModuleInfoGroup Class](moduleinfogroup-class-mspp-modularity)
 
-[ModuleInfoGroup Members](moduleinfogroup-members-mspp-modularity.md)
+[ModuleInfoGroup Members](moduleinfogroup-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

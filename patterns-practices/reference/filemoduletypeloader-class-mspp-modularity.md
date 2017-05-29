@@ -7,9 +7,9 @@ ms:mtpsurl: 'filemoduletypeloader-class-mspp-modularity.md'
 
 # FileModuleTypeLoader Class
 
-Loads modules from an arbitrary location on the filesystem. This typeloader is only called if [ModuleInfo](moduleinfo-class-mspp-modularity.md) classes have a Ref parameter that starts with "file://". This class is only used on the Desktop version of the Prism Library.
+Loads modules from an arbitrary location on the filesystem. This typeloader is only called if [ModuleInfo](moduleinfo-class-mspp-modularity) classes have a Ref parameter that starts with "file://". This class is only used on the Desktop version of the Prism Library.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -31,6 +31,6 @@ Public Class FileModuleTypeLoader
   Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader
 
 ## See Also
-[FileModuleTypeLoader Members](filemoduletypeloader-members-mspp-modularity.md)
+[FileModuleTypeLoader Members](filemoduletypeloader-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

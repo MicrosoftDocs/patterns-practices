@@ -9,7 +9,7 @@ ms:mtpsurl: 'regionviewregistry-class-mspp-regions.md'
 
 Defines a registry for the content of the regions used on View Discovery composition.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -31,9 +31,9 @@ Public Class RegionViewRegistry
 
   Microsoft.Practices.Prism.Regions.RegionViewRegistry
   
-    [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionViewRegistry](mefregionviewregistry-class-mspp-mefextensions-regions.md)
+    [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionViewRegistry](mefregionviewregistry-class-mspp-mefextensions-regions)
 
 ## See Also
-[RegionViewRegistry Members](regionviewregistry-members-mspp-regions.md)
+[RegionViewRegistry Members](regionviewregistry-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

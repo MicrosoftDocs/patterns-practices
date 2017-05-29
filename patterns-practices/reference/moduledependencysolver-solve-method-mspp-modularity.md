@@ -9,7 +9,7 @@ ms:mtpsurl: 'moduledependencysolver-solve-method-mspp-modularity.md'
 
 Calculates an ordered vector according to the defined dependencies. Non-dependant modules appears at the beginning of the resulting array.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -40,12 +40,12 @@ The resulting ordered list of modules.
 ## ## Exceptions
 
 |Exception | Condition |
-|[Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException](cyclicdependencyfoundexception-class-mspp-modularity.md) | This exception is thrown when a cycle is found in the defined depedency graph. |
+|[Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException](cyclicdependencyfoundexception-class-mspp-modularity) | This exception is thrown when a cycle is found in the defined depedency graph. |
 
 ## See Also
 
-[ModuleDependencySolver Class](moduledependencysolver-class-mspp-modularity.md)
+[ModuleDependencySolver Class](moduledependencysolver-class-mspp-modularity)
 
-[ModuleDependencySolver Members](moduledependencysolver-members-mspp-modularity.md)
+[ModuleDependencySolver Members](moduledependencysolver-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

@@ -6,8 +6,8 @@ ms:mtpsurl: 'modulecatalog-validatedependencies-method-mspp-modularity.md'
 ---
 
 # ModuleCatalog.ValidateDependencies Method
-Ensures that all the dependencies within modules refer to [ModuleInfo](moduleinfo-class-mspp-modularity.md)s within that list.
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+Ensures that all the dependencies within modules refer to [ModuleInfo](moduleinfo-class-mspp-modularity)s within that list.
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -26,7 +26,7 @@ Protected Shared Sub ValidateDependencies (
 
 modules 
 
-Type: [System.Collections.Generic.IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)(Of ([ModuleInfo](moduleinfo-class-mspp-modularity.md))
+Type: [System.Collections.Generic.IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)(Of ([ModuleInfo](moduleinfo-class-mspp-modularity))
 **Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -45,7 +45,7 @@ The modules to validate modules for.
 ## Exceptions
 | Exception | Condition |
 |--|--|
-| [Microsoft.Practices.Prism.Modularity.ModularityException](modularityexception-class-mspp-modularity.md) | Throws if a [ModuleInfo](moduleinfo-class-mspp-modularity.md) in modules depends on a module that's not in modules. |
+| [Microsoft.Practices.Prism.Modularity.ModularityException](modularityexception-class-mspp-modularity) | Throws if a [ModuleInfo](moduleinfo-class-mspp-modularity) in modules depends on a module that's not in modules. |
 | [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy)                                 | Throws if modules is nullNothingnullptra null reference (Nothing in Visual Basic).                                      |
 
 <span id="exceptionsToggle"></span>
@@ -54,9 +54,9 @@ The modules to validate modules for.
 | [Microsoft.Practices.Prism.Modularity.ModularityException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception) | Throws if a [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) in modules depends on a module that's not in modules. |
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)                                                                 | Throws if modules is nullNothingnullptra null reference (Nothing in Visual Basic).                                                                           |
 ## See Also
-[ModuleCatalog Class](modulecatalog-class-mspp-modularity.md)
+[ModuleCatalog Class](modulecatalog-class-mspp-modularity)
 
 [ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
-[ModuleCatalog Members](modulecatalog-members-mspp-modularity.md)
+[ModuleCatalog Members](modulecatalog-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

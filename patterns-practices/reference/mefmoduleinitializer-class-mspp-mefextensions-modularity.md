@@ -9,7 +9,7 @@ ms:mtpsurl: 'mefmoduleinitializer-class-mspp-mefextensions-modularity.md'
 
 Exports the ModuleInitializer using the Managed Extensibility Framework (MEF).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -36,11 +36,11 @@ Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-  [Microsoft.Practices.Prism.Modularity.ModuleInitializer](moduleinitializer-class-mspp-modularity.md)
+  [Microsoft.Practices.Prism.Modularity.ModuleInitializer](moduleinitializer-class-mspp-modularity)
 
     Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleInitializer
 
 ## See Also
-[MefModuleInitializer Members](mefmoduleinitializer-members-mspp-mefextensions-modularity.md)
+[MefModuleInitializer Members](mefmoduleinitializer-members-mspp-mefextensions-modularity)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace)

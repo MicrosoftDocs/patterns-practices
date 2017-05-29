@@ -7,7 +7,7 @@ ms:mtpsurl: 'iassemblyresolver-methods-mspp-modularity.md'
 
 # IAssemblyResolver Methods
 
-The [IAssemblyResolver](iassemblyresolver-interface-mspp-modularity.md) type exposes the following members.
+The [IAssemblyResolver](iassemblyresolver-interface-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -33,6 +33,6 @@ Load an assembly when it's required by the application.
 
 ## See Also
 
-[IAssemblyResolver Interface](iassemblyresolver-interface-mspp-modularity.md)
+[IAssemblyResolver Interface](iassemblyresolver-interface-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

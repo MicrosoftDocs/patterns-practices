@@ -9,7 +9,7 @@ ms:mtpsurl: 'navigationparameters-getenumerator-method-mspp-regions.md'
 
 Gets the enumerator.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -38,8 +38,8 @@ Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)(Of [KeyVal
 
 ## See Also
 
-[NavigationParameters Class](navigationparameters-class-mspp-regions.md)
+[NavigationParameters Class](navigationparameters-class-mspp-regions)
 
-[NavigationParameters Members](navigationparameters-members-mspp-regions.md)
+[NavigationParameters Members](navigationparameters-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

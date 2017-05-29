@@ -7,7 +7,7 @@ ms:mtpsurl: 'moduleconfigurationelement-methods-mspp-modularity.md'
 
 # ModuleConfigurationElement Methods
 
-The [ModuleConfigurationElement](moduleconfigurationelement-class-mspp-modularity.md) type exposes the following members.
+The [ModuleConfigurationElement](moduleconfigurationelement-class-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -234,6 +234,6 @@ Modifies the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">Configur
 
 ## See Also
 
-[ModuleConfigurationElement Class](moduleconfigurationelement-class-mspp-modularity.md)
+[ModuleConfigurationElement Class](moduleconfigurationelement-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

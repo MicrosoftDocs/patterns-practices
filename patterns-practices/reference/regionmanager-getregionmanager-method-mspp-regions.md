@@ -7,9 +7,9 @@ ms:mtpsurl: 'regionmanager-getregionmanager-method-mspp-regions.md'
 
 # RegionManager.GetRegionManager Method
 
-Gets the value of the [RegionNameProperty](regionmanager-regionnameproperty-field-mspp-regions.md) attached property.
+Gets the value of the [RegionNameProperty](regionmanager-regionnameproperty-field-mspp-regions) attached property.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -37,13 +37,13 @@ The target element.
 
 ### Return Value
 
-Type: [IRegionManager](iregionmanager-interface-mspp-regions.md)
+Type: [IRegionManager](iregionmanager-interface-mspp-regions)
 
-The [IRegionManager](iregionmanager-interface-mspp-regions.md) attached to the target element.
+The [IRegionManager](iregionmanager-interface-mspp-regions) attached to the target element.
 
 ## See Also
-[RegionManager Class](regionmanager-class-mspp-regions.md)
+[RegionManager Class](regionmanager-class-mspp-regions)
 
-[RegionManager Members](regionmanager-members-mspp-regions.md)
+[RegionManager Members](regionmanager-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

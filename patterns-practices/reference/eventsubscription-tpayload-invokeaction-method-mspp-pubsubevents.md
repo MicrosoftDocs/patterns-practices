@@ -9,7 +9,7 @@ ms:mtpsurl: 'eventsubscription-tpayload-invokeaction-method-mspp-pubsubevents.md
 
 Invokes the specified [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) synchronously when not overridden.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -24,12 +24,12 @@ public virtual void InvokeAction(
 ### Parameters
 
 *action*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](eventsubscription-tpayload-class-mspp-pubsubevents.md)&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](eventsubscription-tpayload-class-mspp-pubsubevents)&gt;
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The action to execute.
 
 *argument*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [TPayload](eventsubscription-tpayload-class-mspp-pubsubevents.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [TPayload](eventsubscription-tpayload-class-mspp-pubsubevents)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The payload to pass action while invoking it.
 
@@ -41,17 +41,17 @@ public virtual void InvokeAction(
 
 ## See Also
 
-[EventSubscription&lt;TPayload&gt; Class](eventsubscription-tpayload-class-mspp-pubsubevents.md)
+[EventSubscription&lt;TPayload&gt; Class](eventsubscription-tpayload-class-mspp-pubsubevents)
 
 EventSubscription&lt;TPayload&gt; 
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace)
 
 # EventSubscription(Of TPayload).InvokeAction Method 
 
 Invokes the specified [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) synchronously when not overridden.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -67,12 +67,12 @@ Public Overridable Sub InvokeAction (
 ### Parameters
 
 *action*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](eventsubscription-tpayload-class-mspp-pubsubevents.md))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](eventsubscription-tpayload-class-mspp-pubsubevents))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The action to execute.
 
 *argument*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [TPayload](eventsubscription-tpayload-class-mspp-pubsubevents.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [TPayload](eventsubscription-tpayload-class-mspp-pubsubevents)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The payload to pass action while invoking it.
 
@@ -84,8 +84,8 @@ Public Overridable Sub InvokeAction (
 
 ## See Also
 
-[EventSubscription(Of TPayload) Class](eventsubscription-tpayload-class-mspp-pubsubevents.md)
+[EventSubscription(Of TPayload) Class](eventsubscription-tpayload-class-mspp-pubsubevents)
 
 EventSubscription(Of TPayload) Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace)

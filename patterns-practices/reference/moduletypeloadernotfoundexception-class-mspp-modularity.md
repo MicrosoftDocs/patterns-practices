@@ -7,9 +7,9 @@ ms:mtpsurl: 'moduletypeloadernotfoundexception-class-mspp-modularity.md'
 
 # ModuleTypeLoaderNotFoundException Class
 
-Exception that's thrown when there is no [IModuleTypeLoader](imoduletypeloader-interface-mspp-modularity.md) registered in [ModuleTypeLoaders](modulemanager-moduletypeloaders-property-mspp-modularity.md) that can handle this particular type of module.
+Exception that's thrown when there is no [IModuleTypeLoader](imoduletypeloader-interface-mspp-modularity) registered in [ModuleTypeLoaders](modulemanager-moduletypeloaders-property-mspp-modularity) that can handle this particular type of module.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -35,12 +35,12 @@ Public Class ModuleTypeLoaderNotFoundException
 
   [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 
-    [Microsoft.Practices.Prism.Modularity.ModularityException](modularityexception-class-mspp-modularity.md)
+    [Microsoft.Practices.Prism.Modularity.ModularityException](modularityexception-class-mspp-modularity)
 
       Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException
 
 ## See Also
 
-[ModuleTypeLoaderNotFoundException Members](moduletypeloadernotfoundexception-members-mspp-modularity.md)
+[ModuleTypeLoaderNotFoundException Members](moduletypeloadernotfoundexception-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

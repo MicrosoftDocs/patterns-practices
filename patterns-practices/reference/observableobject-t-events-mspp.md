@@ -7,7 +7,7 @@ ms:mtpsurl: 'observableobject-t-events-mspp.md'
 
 # ObservableObject&lt;T&gt; Events
 
-The [ObservableObject&lt;T&gt;](observableobject-t-class-mspp.md) type exposes the following members.
+The [ObservableObject&lt;T&gt;](observableobject-t-class-mspp) type exposes the following members.
 
 ## Events
 
@@ -896,6 +896,6 @@ Occurs when the element is removed from within an element tree of loaded element
 </table>
 
 ## See Also
-[ObservableObject&lt;T&gt; Class](observableobject-t-class-mspp.md)
+[ObservableObject&lt;T&gt; Class](observableobject-t-class-mspp)
 
-[Microsoft.Practices.Prism Namespace](mspp-namespace.md)
+[Microsoft.Practices.Prism Namespace](mspp-namespace)

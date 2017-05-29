@@ -57,7 +57,7 @@ Handler to remove.
 ## See Also
 
 <<<<<<< HEAD
-[WeakEventHandlerManager Class](weakeventhandlermanager-class-mspp-commands.md)
+[WeakEventHandlerManager Class](weakeventhandlermanager-class-mspp-commands)
 
 [WeakEventHandlerManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager)
 =======
@@ -67,7 +67,7 @@ Handler to remove.
 [WeakEventHandlerManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager_members(v=pandp.50))
 
 <<<<<<< HEAD
-[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)
+[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace)
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
 =======

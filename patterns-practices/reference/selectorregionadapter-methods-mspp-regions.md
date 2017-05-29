@@ -7,7 +7,7 @@ ms:mtpsurl: 'selectorregionadapter-methods-mspp-regions.md'
 
 # SelectorRegionAdapter Methods
 
-The [SelectorRegionAdapter](selectorregionadapter-class-mspp-regions.md) type exposes the following members.
+The [SelectorRegionAdapter](selectorregionadapter-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -113,6 +113,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[SelectorRegionAdapter Class](selectorregionadapter-class-mspp-regions.md)
+[SelectorRegionAdapter Class](selectorregionadapter-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

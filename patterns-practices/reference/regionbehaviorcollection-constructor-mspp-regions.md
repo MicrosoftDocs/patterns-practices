@@ -7,9 +7,9 @@ ms:mtpsurl: 'regionbehaviorcollection-constructor-mspp-regions.md'
 
 # RegionBehaviorCollection Constructor
 
-Initializes a new instance of the [RegionBehaviorCollection](regionbehaviorcollection-class-mspp-regions.md) class and associates it with a region.
+Initializes a new instance of the [RegionBehaviorCollection](regionbehaviorcollection-class-mspp-regions) class and associates it with a region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -33,13 +33,13 @@ Public Sub New (
 
 *region*
 
-	Type: [Microsoft.Practices.Prism.Regions.IRegion](iregion-interface-mspp-regions.md)
+	Type: [Microsoft.Practices.Prism.Regions.IRegion](iregion-interface-mspp-regions)
 	The region to associate the behavior collection with.
 
 ## See Also
 
-[RegionBehaviorCollection Class](regionbehaviorcollection-class-mspp-regions.md)
+[RegionBehaviorCollection Class](regionbehaviorcollection-class-mspp-regions)
 
-[RegionBehaviorCollection Members](regionbehaviorcollection-members-mspp-regions.md)
+[RegionBehaviorCollection Members](regionbehaviorcollection-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

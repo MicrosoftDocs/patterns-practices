@@ -7,10 +7,10 @@ ms:mtpsurl: 'modulecatalog-constructor-ienumerable-moduleinfo-mspp-modularity.md
 
 # ModuleCatalog Constructor
 
-Initializes a new instance of the [ModuleCatalog](modulecatalog-class-mspp-modularity.md) class.
+Initializes a new instance of the [ModuleCatalog](modulecatalog-class-mspp-modularity) class.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](
-mspp-modularity-namespace.md)
+mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,10 +28,10 @@ Public Sub New
 ```
 
 ## See Also
-[ModuleCatalog Class](modulecatalog-class-mspp-modularity.md)
+[ModuleCatalog Class](modulecatalog-class-mspp-modularity)
 
-[ModuleCatalog Members](modulecatalog-members-mspp-modularity.md)
+[ModuleCatalog Members](modulecatalog-members-mspp-modularity)
 
 ModuleCatalog Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

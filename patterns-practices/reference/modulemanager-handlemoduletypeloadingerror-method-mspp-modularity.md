@@ -7,9 +7,9 @@ ms:mtpsurl: 'modulemanager-handlemoduletypeloadingerror-method-mspp-modularity.m
 
 # ModuleManager.HandleModuleTypeLoadingError Method 
 
-Handles any exception occurred in the module typeloading process, logs the error using the [ILoggerFacade](iloggerfacade-interface-mspp-logging.md) and throws a [ModuleTypeLoadingException](moduletypeloadingexception-class-mspp-modularity.md). This method can be overridden to provide a different behavior.
+Handles any exception occurred in the module typeloading process, logs the error using the [ILoggerFacade](iloggerfacade-interface-mspp-logging) and throws a [ModuleTypeLoadingException](moduletypeloadingexception-class-mspp-modularity). This method can be overridden to provide a different behavior.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -37,7 +37,7 @@ Protected Overridable Sub HandleModuleTypeLoadingError (
 
 *moduleInfo*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The module metadata where the error happenened.
 
@@ -52,12 +52,12 @@ Protected Overridable Sub HandleModuleTypeLoadingError (
 <span id="exceptionsToggle"></span>
 | Exception                                                                                                                                                           | Condition |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
-| [Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException](moduletypeloadingexception-class-mspp-modularity.md) |           |
+| [Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException](moduletypeloadingexception-class-mspp-modularity) |           |
 
 ## See Also
 
-[ModuleManager Class](modulemanager-class-mspp-modularity.md)
+[ModuleManager Class](modulemanager-class-mspp-modularity)
 
-[ModuleManager Members](modulemanager-members-mspp-modularity.md)
+[ModuleManager Members](modulemanager-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

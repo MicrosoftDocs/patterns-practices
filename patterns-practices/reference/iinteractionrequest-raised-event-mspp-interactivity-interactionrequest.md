@@ -9,7 +9,7 @@ ms:mtpsurl: 'iinteractionrequest-raised-event-mspp-interactivity-interactionrequ
 
 Fired when the interaction is needed.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](mspp-interactivity-interactionrequest-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](mspp-interactivity-interactionrequest-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -28,11 +28,11 @@ Event Raised As EventHandler(Of InteractionRequestedEventArgs)
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [InteractionRequestedEventArgs](interactionrequestedeventargs-class-mspp-interactivity-interactionrequest.md))
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [InteractionRequestedEventArgs](interactionrequestedeventargs-class-mspp-interactivity-interactionrequest))
 
 ## See Also
-[IInteractionRequest Interface](iinteractionrequest-interface-mspp-interactivity-interactionrequest.md)
+[IInteractionRequest Interface](iinteractionrequest-interface-mspp-interactivity-interactionrequest)
 
-[IInteractionRequest Members](iinteractionrequest-members-mspp-interactivity-interactionrequest.md)
+[IInteractionRequest Members](iinteractionrequest-members-mspp-interactivity-interactionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace)

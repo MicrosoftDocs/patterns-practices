@@ -7,9 +7,9 @@ ms:mtpsurl: 'moduletypeloadingexception-class-mspp-modularity.md'
 
 # ModuleTypeLoadingException Class
 
-Exception thrown by [IModuleManager](imodulemanager-interface-mspp-modularity.md) implementations whenever a module fails to retrieve.
+Exception thrown by [IModuleManager](imodulemanager-interface-mspp-modularity) implementations whenever a module fails to retrieve.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -33,11 +33,11 @@ Public Class ModuleTypeLoadingException
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
   [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)<br/>
-    [Microsoft.Practices.Prism.Modularity.ModularityException](modularityexception-class-mspp-modularity.md)<br/>
+    [Microsoft.Practices.Prism.Modularity.ModularityException](modularityexception-class-mspp-modularity)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException
 
 ## See Also
 
-[ModuleTypeLoadingException Members](moduletypeloadingexception-members-mspp-modularity.md)
+[ModuleTypeLoadingException Members](moduletypeloadingexception-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

@@ -37,8 +37,8 @@ Run the bootstrapper process.
 </table>
 
 ## See Also
-[Bootstrapper Class](bootstrapper-class-mspp.md)
+[Bootstrapper Class](bootstrapper-class-mspp)
 
-[Bootstrapper Members](bootstrapper-members-mspp.md)
+[Bootstrapper Members](bootstrapper-members-mspp)
 
-[Microsoft.Practices.Prism Namespace](mspp-namespace.md)
+[Microsoft.Practices.Prism Namespace](mspp-namespace)

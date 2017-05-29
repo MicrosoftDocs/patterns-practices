@@ -13,7 +13,7 @@ Reference to the location of the module assembly.
 
 <span id="exampleToggle"></span>The following are examples of valid Ref values: file://c:/MyProject/Modules/MyModule.dll for a loose DLL in WPF.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -33,8 +33,8 @@ Public Property Ref As String
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ## See Also
-[ModuleInfo Class](moduleinfo-class-mspp-modularity.md)
+[ModuleInfo Class](moduleinfo-class-mspp-modularity)
 
-[ModuleInfo Members](moduleinfo-members-mspp-modularity.md)
+[ModuleInfo Members](moduleinfo-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

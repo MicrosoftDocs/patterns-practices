@@ -9,7 +9,7 @@ ms:mtpsurl: 'commandbehaviorbase-t-updateenabledstate-method-mspp-interactivity.
 
 Updates the target object's IsEnabled property based on the commands ability to execute.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](mspp-interactivity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](mspp-interactivity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -22,7 +22,7 @@ protected virtual void UpdateEnabledState()
 
 Updates the target object's IsEnabled property based on the commands ability to execute.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](mspp-interactivity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](mspp-interactivity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -45,12 +45,12 @@ Updates the target object's IsEnabled property based on the commands ability to 
 protected virtual void UpdateEnabledState()Protected Overridable Sub UpdateEnabledState
 
 ## See Also
-[CommandBehaviorBase(Of T) Class](commandbehaviorbase-t-class-mspp-interactivity.md)
+[CommandBehaviorBase(Of T) Class](commandbehaviorbase-t-class-mspp-interactivity)
 
 [CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601)
 
-[CommandBehaviorBase(Of T) Members](commandbehaviorbase-t-members-mspp-interactivity.md)
-[Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace.md)
+[CommandBehaviorBase(Of T) Members](commandbehaviorbase-t-members-mspp-interactivity)
+[Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
 

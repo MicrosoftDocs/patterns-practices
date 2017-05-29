@@ -9,7 +9,7 @@ ms:mtpsurl: 'duplicatemoduleexception-class-mspp-modularity.md'
 
 Exception thrown when a module is declared twice in the same catalog.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -33,11 +33,11 @@ Public Class DuplicateModuleException
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
   [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)<br/>
-    [Microsoft.Practices.Prism.Modularity.ModularityException](modularityexception-class-mspp-modularity.md)<br/>
+    [Microsoft.Practices.Prism.Modularity.ModularityException](modularityexception-class-mspp-modularity)<br/>
       Microsoft.Practices.Prism.Modularity.DuplicateModuleException
 
 ## See Also
 
-[DuplicateModuleException Members](duplicatemoduleexception-members-mspp-modularity.md)
+[DuplicateModuleException Members](duplicatemoduleexception-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

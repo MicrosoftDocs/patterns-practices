@@ -4,7 +4,7 @@ Serves as a hash function for a particular type.
 
 # SubscriptionToken..::.GetHashCode Method
 
- **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
+ **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace)
  **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 SubscriptionToken.GetHashCode Method
@@ -44,7 +44,7 @@ A hash code for the current [Object](http://msdn2.microsoft.com/en-us/library/e5
 
 ## See Also
 
-[SubscriptionToken Class](subscriptiontoken-class-mspp-pubsubevents.md)
+[SubscriptionToken Class](subscriptiontoken-class-mspp-pubsubevents)
 
 ## Syntax
 
@@ -54,9 +54,9 @@ public override int GetHashCode()Public Overrides Function GetHashCode As Intege
 Type: [Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
 A hash code for the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 ## See Also
-[SubscriptionToken Class](subscriptiontoken-class-mspp-pubsubevents.md)
+[SubscriptionToken Class](subscriptiontoken-class-mspp-pubsubevents)
 
 [SubscriptionToken Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken)
 SubscriptionToken Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace)

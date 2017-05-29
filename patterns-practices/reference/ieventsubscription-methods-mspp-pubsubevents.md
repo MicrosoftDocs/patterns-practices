@@ -7,7 +7,7 @@ ms:mtpsurl: 'ieventsubscription-methods-mspp-pubsubevents.md'
 
 # IEventSubscription Methods
 
-The [IEventSubscription](ieventsubscription-interface-mspp-pubsubevents.md) type exposes the following members.
+The [IEventSubscription](ieventsubscription-interface-mspp-pubsubevents) type exposes the following members.
 
 ## Methods
 
@@ -35,9 +35,9 @@ Gets the execution strategy to publish this event.
 
 ## See Also
 
-[IEventSubscription Interface](ieventsubscription-interface-mspp-pubsubevents.md)
+[IEventSubscription Interface](ieventsubscription-interface-mspp-pubsubevents)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace)
 
 [IEventSubscription Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription)
 

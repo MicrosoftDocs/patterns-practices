@@ -9,7 +9,7 @@ ms:mtpsurl: 'iregionbehavior-interface-mspp-regions.md'
 
 Interface for allowing extensible behavior on regions.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -26,6 +26,6 @@ Public Interface IRegionBehavior
 ```
 
 ## See Also
-[IRegionBehavior Members](iregionbehavior-members-mspp-regions.md)
+[IRegionBehavior Members](iregionbehavior-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

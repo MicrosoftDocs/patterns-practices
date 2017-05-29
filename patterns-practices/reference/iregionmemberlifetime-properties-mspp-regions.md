@@ -7,7 +7,7 @@ ms:mtpsurl: 'iregionmemberlifetime-properties-mspp-regions.md'
 
 # IRegionMemberLifetime Properties
 
-The [IRegionMemberLifetime](iregionmemberlifetime-interface-mspp-regions.md) type exposes the following members.
+The [IRegionMemberLifetime](iregionmemberlifetime-interface-mspp-regions) type exposes the following members.
 
 ## Properties
 
@@ -32,6 +32,6 @@ Gets a value indicating whether this instance should be kept-alive upon deactiva
 </table>
 
 ## See Also
-[IRegionMemberLifetime Interface](iregionmemberlifetime-interface-mspp-regions.md)
+[IRegionMemberLifetime Interface](iregionmemberlifetime-interface-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

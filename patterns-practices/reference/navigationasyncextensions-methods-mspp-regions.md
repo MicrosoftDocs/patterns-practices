@@ -65,6 +65,6 @@ Initiates navigation to the target specified by the target.
 </table>
 
 ## See Also
-[NavigationAsyncExtensions Class](navigationasyncextensions-class-mspp-regions.md)
+[NavigationAsyncExtensions Class](navigationasyncextensions-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

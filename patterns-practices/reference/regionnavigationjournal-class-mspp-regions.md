@@ -9,7 +9,7 @@ ms:mtpsurl: 'regionnavigationjournal-class-mspp-regions.md'
 
 Provides journaling of current, back, and forward navigation within regions.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -31,9 +31,9 @@ Public Class RegionNavigationJournal
 
   Microsoft.Practices.Prism.Regions.RegionNavigationJournal
 
-    [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournal](mefregionnavigationjournal-class-mspp-mefextensions-regions.md)
+    [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournal](mefregionnavigationjournal-class-mspp-mefextensions-regions)
 
 ## See Also
-[RegionNavigationJournal Members](regionnavigationjournal-members-mspp-regions.md)
+[RegionNavigationJournal Members](regionnavigationjournal-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

@@ -9,7 +9,7 @@ ms:mtpsurl: 'autopopulateregionbehavior-onattach-method-mspp-regions-behaviors.m
 
 Attaches the AutoPopulateRegionBehavior to the Region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -23,8 +23,8 @@ protected override void OnAttach()
 Protected Overrides Sub OnAttach
 ```
 ## See Also
-[AutoPopulateRegionBehavior Class](autopopulateregionbehavior-class-mspp-regions-behaviors.md)
+[AutoPopulateRegionBehavior Class](autopopulateregionbehavior-class-mspp-regions-behaviors)
 
-[AutoPopulateRegionBehavior Members](autopopulateregionbehavior-members-mspp-regions-behaviors.md)
+[AutoPopulateRegionBehavior Members](autopopulateregionbehavior-members-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)

@@ -7,9 +7,9 @@ ms:mtpsurl: 'regionmanager-setregionmanager-method-mspp-regions.md'
 
 # RegionManager.SetRegionManager Method
 
-Sets the [RegionManagerProperty](regionmanager-regionmanagerproperty-field-mspp-regions.md) attached property.
+Sets the [RegionManagerProperty](regionmanager-regionmanagerproperty-field-mspp-regions) attached property.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -39,13 +39,13 @@ Public Shared Sub SetRegionManager (
 
 *value*
 
-  Type: [Microsoft.Practices.Prism.Regions.IRegionManager](iregionmanager-interface-mspp-regions.md)
+  Type: [Microsoft.Practices.Prism.Regions.IRegionManager](iregionmanager-interface-mspp-regions)
 
   The value.
 
 ## See Also
-[RegionManager Class](regionmanager-class-mspp-regions.md)
+[RegionManager Class](regionmanager-class-mspp-regions)
 
-[RegionManager Members](regionmanager-members-mspp-regions.md)
+[RegionManager Members](regionmanager-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

@@ -7,9 +7,9 @@ ms:mtpsurl: 'viewscollection-class-mspp-regions.md'
 
 # ViewsCollection Class
 
-Implementation of [IViewsCollection](iviewscollection-interface-mspp-regions.md) that takes an [ObservableCollection&lt;T&gt;](http://msdn.microsoft.com/en-us/library/ms668604) of [ItemMetadata](itemmetadata-class-mspp-regions.md) and filters it to display an [INotifyCollectionChanged](http://msdn.microsoft.com/en-us/library/ms668629) collection of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) elements (the items which the [ItemMetadata](itemmetadata-class-mspp-regions.md) wraps).
+Implementation of [IViewsCollection](iviewscollection-interface-mspp-regions) that takes an [ObservableCollection&lt;T&gt;](http://msdn.microsoft.com/en-us/library/ms668604) of [ItemMetadata](itemmetadata-class-mspp-regions) and filters it to display an [INotifyCollectionChanged](http://msdn.microsoft.com/en-us/library/ms668629) collection of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) elements (the items which the [ItemMetadata](itemmetadata-class-mspp-regions) wraps).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -29,7 +29,7 @@ Public Class ViewsCollection
 	IEnumerable, INotifyCollectionChanged
 ```	
 
-Implementation of IViewsCollection that takes an [ObservableCollection(Of T)](http://msdn.microsoft.com/en-us/library/ms668604) of [ItemMetadata](itemmetadata-class-mspp-regions.md) and filters it to display an [INotifyCollectionChanged](http://msdn.microsoft.com/en-us/library/ms668629) collection of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) elements (the items which the [ItemMetadata](itemmetadata-class-mspp-regions.md) wraps).
+Implementation of IViewsCollection that takes an [ObservableCollection(Of T)](http://msdn.microsoft.com/en-us/library/ms668604) of [ItemMetadata](itemmetadata-class-mspp-regions) and filters it to display an [INotifyCollectionChanged](http://msdn.microsoft.com/en-us/library/ms668629) collection of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) elements (the items which the [ItemMetadata](itemmetadata-class-mspp-regions) wraps).
 
 ## Inheritance Hierarchy
 
@@ -38,7 +38,7 @@ Implementation of IViewsCollection that takes an [ObservableCollection(Of T)](ht
 
 ## See Also
 
-[ViewsCollection Members](viewscollection-members-mspp-regions.md)
+[ViewsCollection Members](viewscollection-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
 

@@ -7,9 +7,9 @@ ms:mtpsurl: 'regionactiveawarebehavior-behaviorkey-field-mspp-regions-behaviors.
 
 # RegionActiveAwareBehavior.BehaviorKey Field
 
-Name that identifies the [RegionActiveAwareBehavior](regionactiveawarebehavior-class-mspp-regions-behaviors.md) behavior in a collection of [IRegionBehavior](iregionbehavior-interface-mspp-regions.md).
+Name that identifies the [RegionActiveAwareBehavior](regionactiveawarebehavior-class-mspp-regions-behaviors) behavior in a collection of [IRegionBehavior](iregionbehavior-interface-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,8 +32,8 @@ Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ## See Also
 
-[RegionActiveAwareBehavior Class](regionactiveawarebehavior-class-mspp-regions-behaviors.md)
+[RegionActiveAwareBehavior Class](regionactiveawarebehavior-class-mspp-regions-behaviors)
 
-[RegionActiveAwareBehavior Members](regionactiveawarebehavior-members-mspp-regions-behaviors.md)
+[RegionActiveAwareBehavior Members](regionactiveawarebehavior-members-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)
