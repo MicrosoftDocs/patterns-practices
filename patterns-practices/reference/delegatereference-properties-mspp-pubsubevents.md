@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.DelegateReferen
 ms:mtpsurl: 'delegatereference-properties-mspp-pubsubevents.md'
 ---
 
-Prism Class Library
 
-DelegateReference Properties
-============================
+# DelegateReference Properties
 
 The [DelegateReference](delegatereference-class-mspp-pubsubevents.md) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <table>
 
@@ -35,8 +32,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/y22acf51">Delegate</a>
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
 
 [DelegateReference Class](delegatereference-class-mspp-pubsubevents.md)

@@ -5,7 +5,6 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.SyncActiveStateAttribut
 ms:mtpsurl: 'syncactivestateattribute-methods-mspp-regions.md'
 ---
 
-Prism Class Library
 
 # SyncActiveStateAttribute Methods
 

@@ -5,10 +5,8 @@ ms:assetid: 'T:Microsoft.Practices.Prism.PubSubEvents.EventSubscription\`1'
 ms:mtpsurl: 'eventsubscription-tpayload-class-mspp-pubsubevents.md'
 ---
 
-Prism Class Library
 
-EventSubscription&lt;TPayload&gt; Class
-======================================================
+# EventSubscription&lt;TPayload&gt; Class
 
 Provides a way to retrieve a [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) to execute an action depending on the value of a second filter predicate that returns true if the action should execute.
 
@@ -31,29 +29,24 @@ Public Class EventSubscription(Of TPayload)
 	Implements IEventSubscription
 ```
 
-Type Parameters
----------------
+### Type Parameters
 
-<span id="templatesToggle"></span>
 
 *TPayload*  
 
 The type to use for the generic [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) and [Predicate&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz) types.
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-  Microsoft.Practices.Prism.PubSubEvents.EventSubscription&lt;TPayload&gt;
+Microsoft.Practices.Prism.PubSubEvents.EventSubscription&lt;TPayload&gt;
 
-    [Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscription&lt;TPayload&gt;](backgroundeventsubscription-tpayload-class-mspp-pubsubevents.md)
+[Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscription&lt;TPayload&gt;](backgroundeventsubscription-tpayload-class-mspp-pubsubevents.md)
 
-    [Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscription&lt;TPayload&gt;](dispatchereventsubscription-tpayload-class-mspp-pubsubevents.md)
+[Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscription&lt;TPayload&gt;](dispatchereventsubscription-tpayload-class-mspp-pubsubevents.md)
 
-See Also
---------
-
+## See Also
 
 EventSubscription&lt;TPayload&gt; Members
 

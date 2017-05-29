@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Subscribe(S
 ms:mtpsurl: 'pubsubevent-tpayload-subscribe-method-action-tpayload-boolean-mspp-pubsubevents.md'
 ---
 
-Prism Class Library
 
-PubSubEvent&lt;TPayload&gt;.Subscribe Method (Action&lt;TPayload&gt;, Boolean)
-================================================================================================================
+# PubSubEvent&lt;TPayload&gt;.Subscribe Method (Action&lt;TPayload&gt;, Boolean)
 
 Subscribes a delegate to an event that will be published on the [PublisherThread](threadoption-enumeration-mspp-pubsubevents.md).
 
@@ -53,16 +51,13 @@ Type: [SubscriptionToken](subscriptiontoken-class-mspp-pubsubevents.md)
 
 A [SubscriptionToken](subscriptiontoken-class-mspp-pubsubevents.md) that uniquely identifies the added subscription.
 
-Remarks
--------
+## Remarks
 
  If *keepSubscriberReferenceAlive* is set to **falsefalse** (**False** in Visual Basic), [PubSubEvent&lt;TPayload&gt;](pubsubevent-tpayload-class-mspp-pubsubevents.md) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied *action* delegate. If not using a WeakReference (*keepSubscriberReferenceAlive* is **truetrue** (**True** in Visual Basic)), the user must explicitly call Unsubscribe for the event when disposing the subscriber in order to avoid memory leaks or unexpected behavior.
 
 The PubSubEvent collection is thread-safe.
 
-See Also
---------
-
+## See Also
 
 [PubSubEvent&lt;TPayload&gt; Class](pubsubevent-tpayload-class-mspp-pubsubevents.md)
 

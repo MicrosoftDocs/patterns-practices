@@ -21,14 +21,14 @@ ms:mtpsurl: 'navigationparameters-constructor-mspp-regions.md'
 <tbody>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.">NavigationParameters()()()</a></td>
+<td>NavigationParameters()</td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters">NavigationParameters</a> class.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.">NavigationParameters(String)</a></td>
+<td>NavigationParameters(String)</td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters">NavigationParameters</a> class with a query string.
 </div></td>
