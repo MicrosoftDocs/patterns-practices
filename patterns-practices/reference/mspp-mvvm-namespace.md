@@ -9,9 +9,7 @@ ms:mtpsurl: 'mspp-mvvm-namespace.md'
 
 ## Classes
 
-<span id="classToggle"></span>
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -46,7 +44,19 @@ The ViewModelLocationProvider class locates the view model for the view that has
 
 ## Interfaces
 
-<span id="interfaceToggle"></span>
-|                                                                                                    | Interface                                                                  | Description |
-|----------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------|-------------|
-| ![](images/public-interface.gif "Public interface") | [IView](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.iview) |             |
+<table>
+<thead>
+<tr class="header">
+<th> </th>
+<th>Interface</th>
+<th>Description</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td><img src="images/public-interface.gif" title="Public interface" /></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.iview(v=pandp.50)">IView</a></td>
+<td></td>
+</tr>
+</tbody>
+</table>

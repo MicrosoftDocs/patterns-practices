@@ -8,14 +8,8 @@ ms:mtpsurl: 'inavigateasync-requestnavigate-method-mspp-regions.md'
 # INavigateAsync.RequestNavigate Method
 
 ## Overload List
-=======
-Prism Class Library
 
-INavigateAsync.RequestNavigate Method
-=========================================
 
-Overload List
--------------
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -29,22 +23,20 @@ Overload List
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736252.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="inavigateasync-requestnavigate-method-mspp-regions.md">RequestNavigate(Uri, Action(Of NavigationResult))	
-</a></td>
-=======
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/gg405952(v=pandp.50)">RequestNavigate(Uri, Action(Of NavigationResult))	
+</a></td>
+
+
 <td><div class="summary">
 Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a">Uri</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736252.pubmethod(en-us,PandP.50).gif" title="Public method" /></td>
-<td><a href="inavigateasync-requestnavigate-method-mspp-regions.md">RequestNavigate(Uri, Action(Of NavigationResult), NavigationParameters)</a></td>
-=======
+
+
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d%2cmicrosoft.practices.prism.regions.navigationparameters)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn736274(v=pandp.50)">RequestNavigate(Uri, Action(Of NavigationResult), NavigationParameters)</a></td>
 <td><div class="summary">
 Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a">Uri</a>.
 </div></td>
@@ -56,6 +48,6 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
 
 [INavigateAsync Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync)
 
-[INavigateAsync Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.inavigateasync)
+[INavigateAsync Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.inavigateasync_members(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

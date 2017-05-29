@@ -5,35 +5,73 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.IEventAggregator.GetEvent\
 ms:mtpsurl: 'ieventaggregator-getevent-teventtype-method-mspp-pubsubevents.md'
 ---
 
-
-# IEventAggregator.GetEvent&lt;(Of &lt;(TEventType&gt;)&gt;) Method
+# IEventAggregator.GetEvent&lt;TEventType&gt; Method
 
 Gets an instance of an event type.
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
+```C#  
+TEventType GetEvent<TEventType>()
+where TEventType : new(), EventBase
+```
 
-TEventType GetEvent&lt;TEventType&gt;() where TEventType : new(), EventBase Function GetEvent(Of TEventType As {New, EventBase}) As TEventType
-##Type Parameters
+## Type Parameters
 
-<span id="templatesToggle"></span>
-TEventType  
+*TEventType*  
+
 The type of event to get.
 
 ### Return Value
 
 Type: TEventType
+
 An instance of an event object of type TEventType.
 
 ## See Also
 
+[IEventAggregator Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventaggregator)
 
+IEventAggregator Members
+
+[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+
+
+# IEventAggregator.GetEvent(Of TEventType) Method
+
+Gets an instance of an event type.
+
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
+
+## Syntax
+
+```VB  
+'Declaration
+Function GetEvent(Of TEventType As {New, EventBase}) As TEventType
+```
+
+##Type Parameters
+
+*TEventType*  
+
+The type of event to get.
+
+### Return Value
+
+Type: TEventType
+
+An instance of an event object of type TEventType.
+
+## See Also
 
 [IEventAggregator Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventaggregator)
 
-[IEventAggregator Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.ieventaggregator)
+IEventAggregator Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)

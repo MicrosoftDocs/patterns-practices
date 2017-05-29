@@ -5,13 +5,11 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationParameters.\#ctor(Sys
 ms:mtpsurl: 'navigationparameters-constructor-mspp-regions.md'
 ---
 
-Prism Class Library
-
 # NavigationParameters Constructor (String)
 
-Initializes a new instance of the [NavigationParameters](navigationparameters-class-mspp-regions.md) class with a query string.
+Initializes a new instance of the [NavigationParameters](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters(v=pandp.50)) class with a query string.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/n:microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -32,39 +30,17 @@ Public Sub New (
 
 #### Parameters
 
-_query_
+*query*
 
 Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
-=======
-Initializes a new instance of the [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters) class with a query string.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
-**Version:** 5.0.0.0 (5.0.0.0)
-
-## Syntax
-
-
-public NavigationParameters( string query )Public Sub New ( query As String )
-
-### Parameters
-
-query  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The query string.
 
 ## See Also
+[NavigationParameters Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters(v=pandp.50))
 
-[NavigationParameters Class](navigationparameters-class-mspp-regions.md)
-=======
-
-[NavigationParameters Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
-
-[NavigationParameters Members](navigationparameters-members-mspp-regions.md)
+[NavigationParameters Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters_members(v=pandp.50))
 
 NavigationParameters Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
-=======
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))

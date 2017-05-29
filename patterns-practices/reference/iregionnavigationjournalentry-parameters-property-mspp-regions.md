@@ -6,33 +6,34 @@ ms:mtpsurl: 'iregionnavigationjournalentry-parameters-property-mspp-regions.md'
 ---
 
 # IRegionNavigationJournalEntry.Parameters Property
-=======
-Prism Class Library
-
-IRegionNavigationJournalEntry.Parameters Property
-=====================================================
 
 Gets or sets the NavigationParameters instance.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Version:** 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+```C#
+NavigationParameters Parameters { get; set; }
+```
 
-NavigationParameters Parameters { get; set; }Property Parameters As NavigationParameters Get Set
+```VB
+'Declaration
+Property Parameters As NavigationParameters
+	Get
+	Set
+```
+
 ### Property Value
 
 Type: [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
 
 See Also
---------
-
 
 [IRegionNavigationJournalEntry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry)
 
-[IRegionNavigationJournalEntry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionnavigationjournalentry)
+[IRegionNavigationJournalEntry Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournalentry_members(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

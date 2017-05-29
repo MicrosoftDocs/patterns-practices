@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.CreateD
 ms:mtpsurl: 'popupwindowaction-createdefaultwindow-method-mspp-interactivity.md'
 ---
 
-Prism Class Library
 
-PopupWindowAction.CreateDefaultWindow Method
-================================================
+# PopupWindowAction.CreateDefaultWindow Method
 
 When no WindowContent is sent this method is used to create a default basic window to show the corresponding [INotification](inotification-interface-mspp-interactivity-interactionrequest.md) or [IConfirmation](iconfirmation-interface-mspp-interactivity-interactionrequest.md).
 
@@ -47,9 +45,7 @@ The INotification or IConfirmation parameter to show.
 
 Type: [Window](http://msdn.microsoft.com/en-us/library/ms590112)
 
-See Also
---------
-
+## See Also
 
 [PopupWindowAction Class](popupwindowaction-class-mspp-interactivity.md)
 

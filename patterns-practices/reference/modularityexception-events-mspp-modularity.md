@@ -5,19 +5,18 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.ModularityException'
 ms:mtpsurl: 'modularityexception-events-mspp-modularity.md'
 ---
 
-Prism Class Library
-
-ModularityException Events
-==========================
+# ModularityException Events
 
 The [ModularityException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception) type exposes the following members.
 
-Events
-------
+## Events
 
-<span id="eventTableToggle"></span>
 <table>
-
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th> </th>
@@ -37,9 +36,7 @@ Occurs when an exception is serialized to create an exception state object that 
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ModularityException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception)
 

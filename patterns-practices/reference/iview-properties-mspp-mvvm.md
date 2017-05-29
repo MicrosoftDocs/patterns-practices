@@ -5,25 +5,17 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Mvvm.IView'
 ms:mtpsurl: 'iview-properties-mspp-mvvm.md'
 ---
 
-Prism Class Library
+# IView Properties
 
-IView Properties
-================
+The [IView](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.iview(v=pandp.50)) type exposes the following members.
 
-The [IView](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.iview) type exposes the following members.
+## Properties
+|    | Name  | Description 
+----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------|
+| ![](https://msdn.microsoft.com/en-us/Dn736146.pubproperty(en-us,PandP.50).gif "Public property") | [DataContext](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.iview.datacontext(v=pandp.50)) |             |
 
-Properties
-----------
+## See Also
 
-<span id="propertyTableToggle"></span>
-|                                                                                                  | Name                                                                                         | Description |
-|--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------|
-| ![](https://msdn.microsoft.com/en-us/Dn736146.pubproperty(en-us,PandP.50).gif "Public property") | [DataContext](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.iview.datacontext) |             |
+[IView Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.iview(v=pandp.50))
 
-See Also
---------
-
-
-[IView Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.iview)
-
-[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)
+[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm(v=pandp.50))
