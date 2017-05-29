@@ -5,29 +5,29 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.SyncActiveStateAttribute.\#ctor
 ms:mtpsurl: 'syncactivestateattribute-constructor-mspp-regions.md'
 ---
 
-Prism Class Library
+# SyncActiveStateAttribute Constructor
 
-SyncActiveStateAttribute Constructor
-====================================
+Initializes a new instance of the [SyncActiveStateAttribute](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.syncactivestateattribute(v=pandp.50)) class
 
-Initializes a new instance of the [SyncActiveStateAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute) class
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
-**Version:** 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+```C#
+public SyncActiveStateAttribute()
+```
 
-public SyncActiveStateAttribute()Public Sub New
+```VB
+'Declaration
+Public Sub New
+```
 
-See Also
---------
+## See Also
 
+[SyncActiveStateAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.syncactivestateattribute(v=pandp.50))
 
-[SyncActiveStateAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute)
+[SyncActiveStateAttribute Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.syncactivestateattribute_members(v=pandp.50))
 
-[SyncActiveStateAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.syncactivestateattribute)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
