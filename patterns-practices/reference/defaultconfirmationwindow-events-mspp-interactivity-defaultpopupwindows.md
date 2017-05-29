@@ -5,8 +5,6 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindow
 ms:mtpsurl: 'defaultconfirmationwindow-events-mspp-interactivity-defaultpopupwindows.md'
 ---
 
-Prism Class Library
-
 # DefaultConfirmationWindow Events
 
 The [DefaultConfirmationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow) type exposes the following members.
@@ -14,7 +12,11 @@ The [DefaultConfirmationWindow](https://msdn.microsoft.com/library/microsoft.pra
 ## Events
 
 <table>
-
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th> </th>
@@ -43,7 +45,7 @@ Occurs when the window is about to close.
 <td><img src="https://msdn.microsoft.com/en-us/Dn736125.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms596798">Closing</a></td>
 <td><div class="summary">
-Occurs directly after <a href="http://msdn.microsoft.com/en-us/library/ms599697">Close()()()</a> is called, and can be handled to cancel window closure.
+Occurs directly after <a href="http://msdn.microsoft.com/en-us/library/ms599697">Close</a> is called, and can be handled to cancel window closure.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590112">Window</a>.)</td>
 </tr>

@@ -11,15 +11,12 @@ The [DefaultConfirmationWindow](defaultconfirmationwindow-class-mspp-interactivi
 
 ## Properties
 
-=======
-The [DefaultConfirmationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow) type exposes the following members.
-
-Properties
-----------
-
-<span id="propertyTableToggle"></span>
 <table>
-
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th> </th>
@@ -1228,11 +1225,6 @@ Gets or sets a window's border style.
 </table>
 
 ## See Also
-
-[DefaultConfirmationWindow Class](defaultconfirmationwindow-class-mspp-interactivity-defaultpopupwindows.md)
-
-[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](mspp-interactivity-defaultpopupwindows-namespace.md)
-=======
 
 [DefaultConfirmationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
 

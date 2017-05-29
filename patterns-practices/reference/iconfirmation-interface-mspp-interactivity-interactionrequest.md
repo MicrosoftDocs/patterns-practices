@@ -5,13 +5,11 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.IConfi
 ms:mtpsurl: 'iconfirmation-interface-mspp-interactivity-interactionrequest.md'
 ---
 
-Prism Class Library
-
 # IConfirmation Interface
 
 Represents an interaction request used for confirmations.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.interactionrequest)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -25,24 +23,8 @@ public interface IConfirmation : INotification
 Public Interface IConfirmation
 	Inherits INotification
 ```
-=======
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
-
-**Version:** 5.0.0.0 (5.0.0.0)
-
-## Syntax
-
-
-public interface IConfirmation : INotificationPublic Interface IConfirmation Inherits INotification
-
 ## See Also
 
-[IConfirmation Members](iconfirmation-members-mspp-interactivity-interactionrequest.md)
+[IConfirmation Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation_members(v=pandp.50))
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)
-=======
-
-[IConfirmation Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.iconfirmation)
-
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
