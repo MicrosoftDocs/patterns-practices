@@ -5,17 +5,15 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionNavigationCon
 ms:mtpsurl: 'iregionnavigationcontentloader-members-mspp-regions.md'
 ---
 
-Prism Class Library
 
-IRegionNavigationContentLoader Members
-======================================
+# IRegionNavigationContentLoader Members
 
-The [IRegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader) type exposes the following members.
 
-Methods
--------
+The [IRegionNavigationContentLoader](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationcontentloader(v=pandp.50)) type exposes the following members.
 
-<span id="methodTableToggle"></span>
+## Methods
+
+
 <table>
 
 <thead>
@@ -28,7 +26,7 @@ Methods
 <tbody>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader.loadcontent(microsoft.practices.prism.regions.iregion%2cmicrosoft.practices.prism.regions.navigationcontext)">LoadContent</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationcontentloader.loadcontent(v=pandp.50)">LoadContent</a></td>
 <td><div class="summary">
 Gets the content to which the navigation request represented by navigationContext applies.
 </div></td>
@@ -36,10 +34,10 @@ Gets the content to which the navigation request represented by navigationContex
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
 
-[IRegionNavigationContentLoader Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[IRegionNavigationContentLoader Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationcontentloader(v=pandp.50))
+
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
