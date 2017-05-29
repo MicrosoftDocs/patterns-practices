@@ -26,7 +26,7 @@ The [ItemMetadata](https://msdn.microsoft.com/en-us/library/microsoft.practices.
 <tbody>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.">ItemMetadata</a></td>
+<td>ItemMetadata</td>
 <td><div class="summary">
 Initializes a new instance of <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.itemmetadata(v=pandp.50)">ItemMetadata</a>.
 </div></td>
