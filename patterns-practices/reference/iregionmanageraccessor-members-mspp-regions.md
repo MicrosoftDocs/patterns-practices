@@ -5,8 +5,6 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionManagerAccess
 ms:mtpsurl: 'iregionmanageraccessor-members-mspp-regions.md'
 ---
 
-Prism Class Library
-
 # IRegionManagerAccessor Members
 
 The [IRegionManagerAccessor](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor(v=pandp.50)) type exposes the following members.
