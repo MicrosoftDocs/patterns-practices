@@ -4,14 +4,10 @@ Title: 'ModuleConfigurationElementCollection Constructor (Microsoft.Practices.Pr
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection.\#ctor'
 ms:mtpsurl: 'moduleconfigurationelementcollection-constructor-mspp-modularity.md'
 ---
+
+# ModuleConfigurationElementCollection Constructor
 
-Prism Class Library
-
-ModuleConfigurationElementCollection Constructor
-================================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
  
@@ -42,12 +38,9 @@ Initializes a new <a href="https://msdn.microsoft.com/library/microsoft.practice
 </tbody>
 </table>
 
-See Also
---------
+## See Also
+[ModuleConfigurationElementCollection Class](moduleconfigurationelementcollection-class-mspp-modularity)
 
+[ModuleConfigurationElementCollection Members](moduleconfigurationelementcollection-members-mspp-modularity)
 
-[ModuleConfigurationElementCollection Class](moduleconfigurationelementcollection-class-mspp-modularity.md)
-
-[ModuleConfigurationElementCollection Members](moduleconfigurationelementcollection-members-mspp-modularity.md)
-
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

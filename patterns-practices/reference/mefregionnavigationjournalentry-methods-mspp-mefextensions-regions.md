@@ -4,16 +4,12 @@ Title: 'MefRegionNavigationJournalEntry Methods (Microsoft.Practices.Prism.MefEx
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournalEntry'
 ms:mtpsurl: 'mefregionnavigationjournalentry-methods-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
-MefRegionNavigationJournalEntry Methods
-=======================================
+
+# MefRegionNavigationJournalEntry Methods
 
 The [MefRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -77,10 +73,7 @@ Returns a <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> 
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefRegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry)
+## See Also
+[MefRegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)

@@ -4,14 +4,10 @@ Title: 'DuplicateModuleException Constructor (Microsoft.Practices.Prism.Modulari
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.DuplicateModuleException.\#ctor'
 ms:mtpsurl: 'duplicatemoduleexception-constructor-mspp-modularity.md'
 ---
+
+# DuplicateModuleException Constructor
 
-Prism Class Library
-
-DuplicateModuleException Constructor
-====================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -69,11 +65,8 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DuplicateModuleException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception)
+## See Also
+[DuplicateModuleException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception)
 
 [DuplicateModuleException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.duplicatemoduleexception)
 

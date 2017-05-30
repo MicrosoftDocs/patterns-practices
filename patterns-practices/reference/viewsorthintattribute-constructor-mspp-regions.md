@@ -4,11 +4,8 @@ Title: 'ViewSortHintAttribute Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewSortHintAttribute.\#ctor(System.String)'
 ms:mtpsurl: 'viewsorthintattribute-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ViewSortHintAttribute Constructor
-=================================
+
+# ViewSortHintAttribute Constructor
 
 Initializes a new instance of the [ViewSortHintAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewsorthintattribute) class.
 
@@ -18,9 +15,7 @@ Initializes a new instance of the [ViewSortHintAttribute](https://msdn.microsoft
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ViewSortHintAttribute( string hint )Public Sub New ( hint As String )
+public ViewSortHintAttribute( string hint )Public Sub New ( hint As String )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ hint
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The hint to use for sorting.
 
-See Also
---------
-
-
-[ViewSortHintAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewsorthintattribute)
+## See Also
+[ViewSortHintAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewsorthintattribute)
 
 [ViewSortHintAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewsorthintattribute)
 

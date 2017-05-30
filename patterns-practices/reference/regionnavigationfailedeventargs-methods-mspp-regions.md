@@ -4,16 +4,12 @@ Title: 'RegionNavigationFailedEventArgs Methods (Microsoft.Practices.Prism.Regio
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.RegionNavigationFailedEventArgs'
 ms:mtpsurl: 'regionnavigationfailedeventargs-methods-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationFailedEventArgs Methods
-=======================================
+
+# RegionNavigationFailedEventArgs Methods
 
 The [RegionNavigationFailedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -77,10 +73,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionNavigationFailedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs)
+## See Also
+[RegionNavigationFailedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

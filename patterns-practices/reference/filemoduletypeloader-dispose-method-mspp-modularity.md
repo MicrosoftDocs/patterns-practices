@@ -38,8 +38,8 @@ Disposes the associated <a href="https://msdn.microsoft.com/library/microsoft.pr
 
 ## See Also
 
-[FileModuleTypeLoader Class](filemoduletypeloader-class-mspp-modularity.md)
+[FileModuleTypeLoader Class](filemoduletypeloader-class-mspp-modularity)
 
-[FileModuleTypeLoader Members](filemoduletypeloader-members-mspp-modularity.md)
+[FileModuleTypeLoader Members](filemoduletypeloader-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

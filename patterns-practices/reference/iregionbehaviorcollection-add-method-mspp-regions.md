@@ -4,11 +4,8 @@ Title: 'IRegionBehaviorCollection.Add Method (Microsoft.Practices.Prism.Regions)
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionBehaviorCollection.Add(System.String,Microsoft.Practices.Prism.Regions.IRegionBehavior)'
 ms:mtpsurl: 'iregionbehaviorcollection-add-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionBehaviorCollection.Add Method
-========================================
+
+# IRegionBehaviorCollection.Add Method
 
 Adds a [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior) to the collection, using the specified key as an indexer.
 
@@ -18,9 +15,7 @@ Adds a [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-void Add( string key, IRegionBehavior regionBehavior )Sub Add ( key As String, regionBehavior As IRegionBehavior )
+void Add( string key, IRegionBehavior regionBehavior )Sub Add ( key As String, regionBehavior As IRegionBehavior )
 
 ### Parameters
 
@@ -32,11 +27,8 @@ regionBehavior
 Type: [Microsoft.Practices.Prism.Regions.IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior)
 The [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior) to add.
 
-See Also
---------
-
-
-[IRegionBehaviorCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection)
+## See Also
+[IRegionBehaviorCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection)
 
 [IRegionBehaviorCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionbehaviorcollection)
 

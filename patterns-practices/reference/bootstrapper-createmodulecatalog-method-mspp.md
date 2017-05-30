@@ -4,11 +4,8 @@ Title: 'Bootstrapper.CreateModuleCatalog Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.CreateModuleCatalog'
 ms:mtpsurl: 'bootstrapper-createmodulecatalog-method-mspp.md'
 ---
-
-Prism Class Library
-
-Bootstrapper.CreateModuleCatalog Method
-===========================================
+
+# Bootstrapper.CreateModuleCatalog Method
 
 Creates the [IModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog) used by Prism.
 
@@ -18,23 +15,17 @@ Creates the [IModuleCatalog](https://msdn.microsoft.com/library/microsoft.practi
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected virtual IModuleCatalog CreateModuleCatalog()Protected Overridable Function CreateModuleCatalog As IModuleCatalog
+protected virtual IModuleCatalog CreateModuleCatalog()Protected Overridable Function CreateModuleCatalog As IModuleCatalog
 ### Return Value
 
 Type: [IModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog)
 
-Remarks
--------
+## Remarks
 
  The base implementation returns a new ModuleCatalog.
 
-See Also
---------
-
-
-[Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
+## See Also
+[Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
 
 [Bootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.bootstrapper)
 

@@ -4,11 +4,8 @@ Title: 'DispatcherEventSubscription(TPayload).InvokeAction Method (Microsoft.Pra
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.DispatcherEventSubscription\`1.InvokeAction(System.Action{\`0},\`0)'
 ms:mtpsurl: 'dispatchereventsubscription-tpayload-invokeaction-method-mspp-events.md'
 ---
-
-Prism Class Library
-
-DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;).InvokeAction Method
-==================================================================================
+
+# DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;).InvokeAction Method
 
 Invokes the specified [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) asynchronously in the specified [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907).
 
@@ -18,9 +15,7 @@ Invokes the specified [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public override void InvokeAction( Action&lt;TPayload&gt; action, TPayload argument )Public Overrides Sub InvokeAction ( action As Action(Of TPayload), argument As TPayload )
+public override void InvokeAction( Action&lt;TPayload&gt; action, TPayload argument )Public Overrides Sub InvokeAction ( action As Action(Of TPayload), argument As TPayload )
 
 ### Parameters
 
@@ -32,11 +27,8 @@ argument
 Type: [TPayload](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)
 The payload to pass action while invoking it.
 
-See Also
---------
-
-
-[DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)
+## See Also
+[DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)
 
 [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.events.dispatchereventsubscription%601)
 

@@ -4,11 +4,8 @@ Title: 'IRegionNavigationJournal.GoForward Method (Microsoft.Practices.Prism.Reg
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal.GoForward'
 ms:mtpsurl: 'iregionnavigationjournal-goforward-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionNavigationJournal.GoForward Method
-=============================================
+
+# IRegionNavigationJournal.GoForward Method
 
 Navigates to the most recent entry in the forward navigation history, or does nothing if no entry exists in forward navigation.
 
@@ -18,15 +15,10 @@ Navigates to the most recent entry in the forward navigation history, or does no
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+void GoForward()Sub GoForward
 
-
-void GoForward()Sub GoForward
-
-See Also
---------
-
-
-[IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
+## See Also
+[IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
 
 [IRegionNavigationJournal Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionnavigationjournal)
 

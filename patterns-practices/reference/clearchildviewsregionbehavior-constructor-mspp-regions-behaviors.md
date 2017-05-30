@@ -4,9 +4,7 @@ Title: 'ClearChildViewsRegionBehavior Constructor (Microsoft.Practices.Prism.Reg
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior.\#ctor'
 ms:mtpsurl: 'clearchildviewsregionbehavior-constructor-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
+
 # ClearChildViewsRegionBehavior Constructor
 
 Initializes a new instance of the [ClearChildViewsRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior) class

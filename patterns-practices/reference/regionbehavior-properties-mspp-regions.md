@@ -4,16 +4,12 @@ Title: 'RegionBehavior Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionBehavior'
 ms:mtpsurl: 'regionbehavior-properties-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionBehavior Properties
-=========================
+
+# RegionBehavior Properties
 
 The [RegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -43,10 +39,7 @@ Behavior's attached region.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
+## See Also
+[RegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

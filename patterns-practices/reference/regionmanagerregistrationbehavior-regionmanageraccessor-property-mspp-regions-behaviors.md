@@ -9,7 +9,7 @@ ms:mtpsurl: 'regionmanagerregistrationbehavior-regionmanageraccessor-property-ms
 
 Provides an abstraction on top of the RegionManager static members.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -30,12 +30,12 @@ Public Property RegionManagerAccessor As IRegionManagerAccessor
 
 ### Property Value
 
-Type: [IRegionManagerAccessor](iregionmanageraccessor-interface-mspp-regions.md)
+Type: [IRegionManagerAccessor](iregionmanageraccessor-interface-mspp-regions)
 
 ## See Also
 
-[RegionManagerRegistrationBehavior Class](regionmanagerregistrationbehavior-class-mspp-regions-behaviors.md)
+[RegionManagerRegistrationBehavior Class](regionmanagerregistrationbehavior-class-mspp-regions-behaviors)
 
-[RegionManagerRegistrationBehavior Members](regionmanagerregistrationbehavior-members-mspp-regions-behaviors.md)
+[RegionManagerRegistrationBehavior Members](regionmanagerregistrationbehavior-members-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)

@@ -4,14 +4,12 @@ Title: 'ViewRegistrationException Constructor (SerializationInfo, StreamingConte
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewRegistrationException.\#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
 ms:mtpsurl: 'viewregistrationexception-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # ViewRegistrationException Constructor (SerializationInfo, StreamingContext)
 
-Initializes a new instance of the [ViewRegistrationException](viewregistrationexception-class-mspp-regions.md) class with serialized data.
+Initializes a new instance of the [ViewRegistrationException](viewregistrationexception-class-mspp-regions) class with serialized data.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,9 +30,7 @@ Protected Sub New (
 	context As StreamingContext
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *info*  
 Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)
@@ -48,10 +44,10 @@ The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that co
 
 ## See Also
 
-[ViewRegistrationException Class](viewregistrationexception-class-mspp-regions.md)
+[ViewRegistrationException Class](viewregistrationexception-class-mspp-regions)
 
-[ViewRegistrationException Members](viewregistrationexception-members-mspp-regions.md)
+[ViewRegistrationException Members](viewregistrationexception-members-mspp-regions)
 
 ViewRegistrationException Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

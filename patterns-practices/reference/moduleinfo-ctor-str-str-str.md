@@ -4,11 +4,8 @@ Title: 'ModuleInfo Constructor (String, String, String[]) (Microsoft.Practices.P
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfo.\#ctor(System.String,System.String,System.String[])'
 ms:mtpsurl: 'moduleinfo-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInfo Constructor (String, String, array&lt;String&gt;)
-======================================================================
+
+# ModuleInfo Constructor (String, String, array&lt;String&gt;)
 
 Initializes a new instance of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo).
 
@@ -18,9 +15,7 @@ Initializes a new instance of [ModuleInfo](https://msdn.microsoft.com/library/mi
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ModuleInfo( string name, string type, params string[] dependsOn )Public Sub New ( name As String, type As String, ParamArray dependsOn As String() )
+public ModuleInfo( string name, string type, params string[] dependsOn )Public Sub New ( name As String, type As String, ParamArray dependsOn As String() )
 
 ### Parameters
 
@@ -36,19 +31,15 @@ dependsOn
 Type: array&lt;[System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)&gt;
 The modules this instance depends on.
 
-Exceptions
-----------
+## Exceptions
 
 <span id="exceptionsToggle"></span>
 | Exception                                                                             | Condition                                                                                                                                                             |
 |---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if dependsOn is nullNothingnullptra null reference (Nothing in Visual Basic). |
 
-See Also
---------
-
-
-[ModuleInfo Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
+## See Also
+[ModuleInfo Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
 
 [ModuleInfo Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfo)
 

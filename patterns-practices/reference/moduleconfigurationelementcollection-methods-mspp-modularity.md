@@ -4,16 +4,12 @@ Title: 'ModuleConfigurationElementCollection Methods (Microsoft.Practices.Prism.
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection'
 ms:mtpsurl: 'moduleconfigurationelementcollection-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleConfigurationElementCollection Methods
-============================================
+
+# ModuleConfigurationElementCollection Methods
 
 The [ModuleConfigurationElementCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -410,10 +406,7 @@ Reverses the effect of merging configuration information from different levels o
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
+## See Also
+[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

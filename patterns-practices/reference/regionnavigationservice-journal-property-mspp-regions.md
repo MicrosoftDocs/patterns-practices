@@ -4,14 +4,12 @@ Title: 'RegionNavigationService.Journal Property (Microsoft.Practices.Prism.Regi
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationService.Journal'
 ms:mtpsurl: 'regionnavigationservice-journal-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # RegionNavigationService.Journal Property
 
 Gets the journal.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -31,18 +29,16 @@ Public ReadOnly Property Journal As IRegionNavigationJournal
 
 ### Property Value
 
-Type: [IRegionNavigationJournal](iregionnavigationjournal-interface-mspp-regions.md)
+Type: [IRegionNavigationJournal](iregionnavigationjournal-interface-mspp-regions)
 <br/>The journal.
 
 ### Implements
 
-[IRegionNavigationService.Journal](iregionnavigationservice-journal-property-mspp-regions.md)
+[IRegionNavigationService.Journal](iregionnavigationservice-journal-property-mspp-regions)
 
 ## See Also
+[RegionNavigationService Class](regionnavigationservice-class-mspp-regions)
 
+[RegionNavigationService Members](regionnavigationservice-members-mspp-regions)
 
-[RegionNavigationService Class](regionnavigationservice-class-mspp-regions.md)
-
-[RegionNavigationService Members](regionnavigationservice-members-mspp-regions.md)
-
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

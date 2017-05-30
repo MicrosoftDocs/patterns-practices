@@ -4,16 +4,12 @@ Title: 'Microsoft.Practices.Prism.MefExtensions.Events Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.MefExtensions.Events'
 ms:mtpsurl: 'mspp-mefextensions-events-namespace.md'
 ---
-
-Prism Class Library
-
-Microsoft.Practices.Prism.MefExtensions.Events Namespace
-========================================================
+
+# Microsoft.Practices.Prism.MefExtensions.Events Namespace
 
  
 
-Classes
--------
+## Classes
 
 <span id="classToggle"></span>
 <table>

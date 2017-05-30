@@ -4,16 +4,12 @@ Title: 'ModuleTypeLoadingException Properties (Microsoft.Practices.Prism.Modular
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException'
 ms:mtpsurl: 'moduletypeloadingexception-properties-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleTypeLoadingException Properties
-=====================================
+
+# ModuleTypeLoadingException Properties
 
 The [ModuleTypeLoadingException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -101,10 +97,7 @@ Gets the method that throws the current exception.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleTypeLoadingException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception)
+## See Also
+[ModuleTypeLoadingException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

@@ -4,11 +4,8 @@ Title: 'CompositeCommand.Execute Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.Execute(System.Object)'
 ms:mtpsurl: 'compositecommand-execute-method-mspp-commands.md'
 ---
-
-Prism Class Library
-
-CompositeCommand.Execute Method
-===================================
+
+# CompositeCommand.Execute Method
 
 Forwards [Execute(Object)](http://msdn.microsoft.com/en-us/library/ms604094) to the registered commands.
 
@@ -16,9 +13,7 @@ Forwards [Execute(Object)](http://msdn.microsoft.com/en-us/library/ms604094) to 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
-
-public virtual void Execute( Object parameter )Public Overridable Sub Execute ( parameter As Object )
+public virtual void Execute( Object parameter )Public Overridable Sub Execute ( parameter As Object )
 
 ### Parameters
 
@@ -30,11 +25,8 @@ Data used by the command. If the command does not require data to be passed, thi
 
 [ICommand.Execute(Object)](http://msdn.microsoft.com/en-us/library/ms604094)
 
-See Also
---------
-
-
-[CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
+## See Also
+[CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
 
 [CompositeCommand Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.compositecommand)
 

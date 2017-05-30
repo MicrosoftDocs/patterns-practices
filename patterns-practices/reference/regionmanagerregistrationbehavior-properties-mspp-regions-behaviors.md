@@ -4,16 +4,12 @@ Title: 'RegionManagerRegistrationBehavior Properties (Microsoft.Practices.Prism.
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior'
 ms:mtpsurl: 'regionmanagerregistrationbehavior-properties-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionManagerRegistrationBehavior Properties
-============================================
+
+# RegionManagerRegistrationBehavior Properties
 
 The [RegionManagerRegistrationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -59,10 +55,7 @@ Provides an abstraction on top of the RegionManager static members.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
+## See Also
+[RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

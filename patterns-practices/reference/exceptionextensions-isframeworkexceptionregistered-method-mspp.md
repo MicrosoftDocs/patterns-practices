@@ -4,11 +4,8 @@ Title: 'ExceptionExtensions.IsFrameworkExceptionRegistered Method (Microsoft.Pra
 ms:assetid: 'M:Microsoft.Practices.Prism.ExceptionExtensions.IsFrameworkExceptionRegistered(System.Type)'
 ms:mtpsurl: 'exceptionextensions-isframeworkexceptionregistered-method-mspp.md'
 ---
-
-Prism Class Library
-
-ExceptionExtensions.IsFrameworkExceptionRegistered Method
-=============================================================
+
+# ExceptionExtensions.IsFrameworkExceptionRegistered Method
 
 Determines whether the exception type is already registered using the [RegisterFrameworkExceptionType(Type)](https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions.registerframeworkexceptiontype(system.type)) method
 
@@ -18,9 +15,7 @@ Determines whether the exception type is already registered using the [RegisterF
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public static bool IsFrameworkExceptionRegistered( Type frameworkExceptionType )Public Shared Function IsFrameworkExceptionRegistered ( frameworkExceptionType As Type ) As Boolean
+public static bool IsFrameworkExceptionRegistered( Type frameworkExceptionType )Public Shared Function IsFrameworkExceptionRegistered ( frameworkExceptionType As Type ) As Boolean
 
 ### Parameters
 
@@ -33,11 +28,8 @@ The type of framework exception to find.
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 true if the exception type is already registered; otherwise, false.
 
-See Also
---------
-
-
-[ExceptionExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions)
+## See Also
+[ExceptionExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions)
 
 [ExceptionExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.exceptionextensions)
 

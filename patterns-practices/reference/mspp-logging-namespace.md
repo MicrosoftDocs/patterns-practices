@@ -4,16 +4,12 @@ Title: 'Microsoft.Practices.Prism.Logging Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.Logging'
 ms:mtpsurl: 'mspp-logging-namespace.md'
 ---
-
-Prism Class Library
-
-Microsoft.Practices.Prism.Logging Namespace
-===========================================
+
+# Microsoft.Practices.Prism.Logging Namespace
 
  
 
-Classes
--------
+## Classes
 
 <span id="classToggle"></span>
 <table>
@@ -50,8 +46,7 @@ Implementation of <a href="https://msdn.microsoft.com/library/microsoft.practice
 </tbody>
 </table>
 
-Interfaces
-----------
+## Interfaces
 
 <span id="interfaceToggle"></span>
 <table>
@@ -74,8 +69,7 @@ Defines a simple logger façade to be used by the Prism Library.
 </tbody>
 </table>
 
-Enumerations
-------------
+## Enumerations
 
 <span id="enumerationToggle"></span>
 <table>

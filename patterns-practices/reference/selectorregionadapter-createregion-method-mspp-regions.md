@@ -4,11 +4,8 @@ Title: 'SelectorRegionAdapter.CreateRegion Method (Microsoft.Practices.Prism.Reg
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.SelectorRegionAdapter.CreateRegion'
 ms:mtpsurl: 'selectorregionadapter-createregion-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-SelectorRegionAdapter.CreateRegion Method
-=============================================
+
+# SelectorRegionAdapter.CreateRegion Method
 
 Creates a new instance of [Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region).
 
@@ -18,19 +15,14 @@ Creates a new instance of [Region](https://msdn.microsoft.com/library/microsoft.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected override IRegion CreateRegion()Protected Overrides Function CreateRegion As IRegion
+protected override IRegion CreateRegion()Protected Overrides Function CreateRegion As IRegion
 ### Return Value
 
 Type: [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 A new instance of [Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region).
 
-See Also
---------
-
-
-[SelectorRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.selectorregionadapter)
+## See Also
+[SelectorRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.selectorregionadapter)
 
 [SelectorRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.selectorregionadapter)
 

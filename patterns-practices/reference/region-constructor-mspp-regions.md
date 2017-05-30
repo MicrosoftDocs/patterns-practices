@@ -4,11 +4,8 @@ Title: 'Region Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Region.\#ctor'
 ms:mtpsurl: 'region-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
-Region Constructor
-==================
+
+# Region Constructor
 
 Initializes a new instance of [Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region).
 
@@ -18,15 +15,10 @@ Initializes a new instance of [Region](https://msdn.microsoft.com/library/micros
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public Region()Public Sub New
 
-
-public Region()Public Sub New
-
-See Also
---------
-
-
-[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
+## See Also
+[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 
 [Region Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.region)
 

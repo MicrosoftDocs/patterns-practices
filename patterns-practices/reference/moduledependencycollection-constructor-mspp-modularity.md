@@ -4,11 +4,8 @@ Title: 'ModuleDependencyCollection Constructor (Microsoft.Practices.Prism.Modula
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection.\#ctor'
 ms:mtpsurl: 'moduledependencycollection-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDependencyCollection Constructor
-======================================
+
+# ModuleDependencyCollection Constructor
 
 Initializes a new instance of [ModuleDependencyCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection).
 
@@ -18,15 +15,10 @@ Initializes a new instance of [ModuleDependencyCollection](https://msdn.microsof
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public ModuleDependencyCollection()Public Sub New
 
-
-public ModuleDependencyCollection()Public Sub New
-
-See Also
---------
-
-
-[ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
+## See Also
+[ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
 
 [ModuleDependencyCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencycollection)
 

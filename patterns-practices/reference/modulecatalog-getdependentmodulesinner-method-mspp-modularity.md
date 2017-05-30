@@ -4,11 +4,8 @@ Title: 'ModuleCatalog.GetDependentModulesInner Method (Microsoft.Practices.Prism
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.GetDependentModulesInner(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'modulecatalog-getdependentmodulesinner-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleCatalog.GetDependentModulesInner Method
-=================================================
+
+# ModuleCatalog.GetDependentModulesInner Method
 
 Returns the [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) on which the received module dependens on.
 
@@ -18,9 +15,7 @@ Returns the [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected virtual IEnumerable&lt;ModuleInfo&gt; GetDependentModulesInner( ModuleInfo moduleInfo )Protected Overridable Function GetDependentModulesInner ( moduleInfo As ModuleInfo ) As IEnumerable(Of ModuleInfo)
+protected virtual IEnumerable&lt;ModuleInfo&gt; GetDependentModulesInner( ModuleInfo moduleInfo )Protected Overridable Function GetDependentModulesInner ( moduleInfo As ModuleInfo ) As IEnumerable(Of ModuleInfo)
 
 ### Parameters
 
@@ -33,11 +28,8 @@ Module whose dependant modules are requested.
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)&gt;)&gt;)
 Collection of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) dependants of moduleInfo.
 
-See Also
---------
-
-
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
+## See Also
+[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
 

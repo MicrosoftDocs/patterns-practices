@@ -4,16 +4,12 @@ Title: 'Confirmation Methods (Microsoft.Practices.Prism.Interactivity.Interactio
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confirmation'
 ms:mtpsurl: 'confirmation-methods-mspp-interactivity-interactionrequest.md'
 ---
+
+# Confirmation Methods
 
-Prism Class Library
+The [Confirmation](confirmation-class-mspp-interactivity-interactionrequest) type exposes the following members.
 
-Confirmation Methods
-====================
-
-The [Confirmation](confirmation-class-mspp-interactivity-interactionrequest.md) type exposes the following members.
-
-Methods
--------
+## Methods
 
 <table>
 
@@ -76,10 +72,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
+[Confirmation Class](confirmation-class-mspp-interactivity-interactionrequest)
 
-
-[Confirmation Class](confirmation-class-mspp-interactivity-interactionrequest.md)
-
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace)

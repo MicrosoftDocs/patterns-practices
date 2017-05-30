@@ -4,12 +4,10 @@ Title: 'ModuleInfo Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleInfo'
 ms:mtpsurl: 'moduleinfo-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleInfo Methods
 
-The [ModuleInfo](moduleinfo-class-mspp-modularity.md) type exposes the following members.
+The [ModuleInfo](moduleinfo-class-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -75,8 +73,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
+[ModuleInfo Class](moduleinfo-class-mspp-modularity)
 
-
-[ModuleInfo Class](moduleinfo-class-mspp-modularity.md)
-
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

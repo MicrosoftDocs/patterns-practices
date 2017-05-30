@@ -4,16 +4,12 @@ Title: 'ModuleInfoGroup Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup'
 ms:mtpsurl: 'moduleinfogroup-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInfoGroup Methods
-=======================
+
+# ModuleInfoGroup Methods
 
 The [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <table>
 
@@ -160,8 +156,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Extension Methods
------------------
+## Extension Methods
 
 <table>
 
@@ -194,10 +189,7 @@ Adds a new module that is statically referenced to the specified module info gro
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
+## See Also
+[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

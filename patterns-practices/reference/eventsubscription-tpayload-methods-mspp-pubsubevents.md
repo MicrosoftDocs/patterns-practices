@@ -4,16 +4,12 @@ Title: 'EventSubscription(TPayload) Methods (Microsoft.Practices.Prism.PubSubEve
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.EventSubscription\`1'
 ms:mtpsurl: 'eventsubscription-tpayload-methods-mspp-pubsubevents.md'
 ---
-
-Prism Class Library
-
-EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Methods
-========================================================
+
+# EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Methods
 
 The [EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -91,10 +87,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601)
+## See Also
+[EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)

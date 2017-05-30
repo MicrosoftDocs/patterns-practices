@@ -4,16 +4,12 @@ Title: 'ModuleAttribute Properties (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleAttribute'
 ms:mtpsurl: 'moduleattribute-properties-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleAttribute Properties
-==========================
+
+# ModuleAttribute Properties
 
 The [ModuleAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleattribute) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -59,10 +55,7 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleattribute)
+## See Also
+[ModuleAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleattribute)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

@@ -4,11 +4,8 @@ Title: 'DirectoryModuleCatalog.InnerLoad Method (Microsoft.Practices.Prism.Modul
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog.InnerLoad'
 ms:mtpsurl: 'directorymodulecatalog-innerload-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-DirectoryModuleCatalog.InnerLoad Method
-===========================================
+
+# DirectoryModuleCatalog.InnerLoad Method
 
 Drives the main logic of building the child domain and searching for the assemblies.
 
@@ -18,15 +15,10 @@ Drives the main logic of building the child domain and searching for the assembl
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+protected override void InnerLoad()Protected Overrides Sub InnerLoad
 
-
-protected override void InnerLoad()Protected Overrides Sub InnerLoad
-
-See Also
---------
-
-
-[DirectoryModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.directorymodulecatalog)
+## See Also
+[DirectoryModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.directorymodulecatalog)
 
 [DirectoryModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.directorymodulecatalog)
 

@@ -4,16 +4,12 @@ Title: 'MefRegionNavigationJournal Members (Microsoft.Practices.Prism.MefExtensi
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournal'
 ms:mtpsurl: 'mefregionnavigationjournal-members-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
-MefRegionNavigationJournal Members
-==================================
+
+# MefRegionNavigationJournal Members
 
 The [MefRegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -133,8 +128,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -182,10 +176,7 @@ Gets or sets the target that implements INavigate.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefRegionNavigationJournal Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal)
+## See Also
+[MefRegionNavigationJournal Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)

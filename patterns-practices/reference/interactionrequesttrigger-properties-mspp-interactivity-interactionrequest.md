@@ -7,7 +7,7 @@ ms:mtpsurl: 'interactionrequesttrigger-properties-mspp-interactivity-interaction
 
 # InteractionRequestTrigger Properties
 
-The [InteractionRequestTrigger](interactionrequesttrigger-class-mspp-interactivity-interactionrequest.md) type exposes the following members.
+The [InteractionRequestTrigger](interactionrequesttrigger-class-mspp-interactivity-interactionrequest) type exposes the following members.
 
 ## Properties
 
@@ -177,6 +177,6 @@ SourceTypeConstraint
 
 ## See Also
 
-[InteractionRequestTrigger Class](interactionrequesttrigger-class-mspp-interactivity-interactionrequest.md)
+[InteractionRequestTrigger Class](interactionrequesttrigger-class-mspp-interactivity-interactionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace)

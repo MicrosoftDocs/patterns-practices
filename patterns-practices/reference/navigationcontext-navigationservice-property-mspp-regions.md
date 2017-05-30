@@ -4,11 +4,8 @@ Title: 'NavigationContext.NavigationService Property (Microsoft.Practices.Prism.
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.NavigationContext.NavigationService'
 ms:mtpsurl: 'navigationcontext-navigationservice-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-NavigationContext.NavigationService Property
-================================================
+
+# NavigationContext.NavigationService Property
 
 Gets the region navigation service.
 
@@ -18,19 +15,14 @@ Gets the region navigation service.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public IRegionNavigationService NavigationService { get; }Public ReadOnly Property NavigationService As IRegionNavigationService Get
+public IRegionNavigationService NavigationService { get; }Public ReadOnly Property NavigationService As IRegionNavigationService Get
 ### Property Value
 
 Type: [IRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice)
 The navigation service.
 
-See Also
---------
-
-
-[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
+## See Also
+[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 
 [NavigationContext Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationcontext)
 

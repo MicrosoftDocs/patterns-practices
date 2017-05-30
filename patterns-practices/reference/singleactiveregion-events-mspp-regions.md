@@ -4,16 +4,12 @@ Title: 'SingleActiveRegion Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.SingleActiveRegion'
 ms:mtpsurl: 'singleactiveregion-events-mspp-regions.md'
 ---
-
-Prism Class Library
-
-SingleActiveRegion Events
-=========================
+
+# SingleActiveRegion Events
 
 The [SingleActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -37,10 +33,7 @@ Occurs when a property value changes.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[SingleActiveRegion Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion)
+## See Also
+[SingleActiveRegion Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

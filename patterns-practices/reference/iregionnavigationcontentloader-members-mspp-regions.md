@@ -4,16 +4,12 @@ Title: 'IRegionNavigationContentLoader Members (Microsoft.Practices.Prism.Region
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionNavigationContentLoader'
 ms:mtpsurl: 'iregionnavigationcontentloader-members-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionNavigationContentLoader Members
-======================================
+
+# IRegionNavigationContentLoader Members
 
 The [IRegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -36,10 +32,7 @@ Gets the content to which the navigation request represented by navigationContex
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegionNavigationContentLoader Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader)
+## See Also
+[IRegionNavigationContentLoader Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

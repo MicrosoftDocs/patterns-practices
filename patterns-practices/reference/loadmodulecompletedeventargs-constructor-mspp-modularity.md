@@ -4,11 +4,8 @@ Title: 'LoadModuleCompletedEventArgs Constructor (Microsoft.Practices.Prism.Modu
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.LoadModuleCompletedEventArgs.\#ctor(Microsoft.Practices.Prism.Modularity.ModuleInfo,System.Exception)'
 ms:mtpsurl: 'loadmodulecompletedeventargs-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-LoadModuleCompletedEventArgs Constructor
-========================================
+
+# LoadModuleCompletedEventArgs Constructor
 
 Initializes a new instance of the [LoadModuleCompletedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs) class.
 
@@ -18,9 +15,7 @@ Initializes a new instance of the [LoadModuleCompletedEventArgs](https://msdn.mi
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public LoadModuleCompletedEventArgs( ModuleInfo moduleInfo, Exception error )Public Sub New ( moduleInfo As ModuleInfo, error As Exception )
+public LoadModuleCompletedEventArgs( ModuleInfo moduleInfo, Exception error )Public Sub New ( moduleInfo As ModuleInfo, error As Exception )
 
 ### Parameters
 
@@ -32,11 +27,8 @@ error
 Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 Any error that occurred during the call.
 
-See Also
---------
-
-
-[LoadModuleCompletedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs)
+## See Also
+[LoadModuleCompletedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs)
 
 [LoadModuleCompletedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.loadmodulecompletedeventargs)
 

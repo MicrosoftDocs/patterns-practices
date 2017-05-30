@@ -4,14 +4,12 @@ Title: 'IRegionBehavior Interface (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.IRegionBehavior'
 ms:mtpsurl: 'iregionbehavior-interface-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # IRegionBehavior Interface
 
 Interface for allowing extensible behavior on regions.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,8 +26,6 @@ Public Interface IRegionBehavior
 ```
 
 ## See Also
+[IRegionBehavior Members](iregionbehavior-members-mspp-regions)
 
-
-[IRegionBehavior Members](iregionbehavior-members-mspp-regions.md)
-
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

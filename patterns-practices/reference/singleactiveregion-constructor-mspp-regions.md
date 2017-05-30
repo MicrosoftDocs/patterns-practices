@@ -4,11 +4,8 @@ Title: 'SingleActiveRegion Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.SingleActiveRegion.\#ctor'
 ms:mtpsurl: 'singleactiveregion-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
-SingleActiveRegion Constructor
-==============================
+
+# SingleActiveRegion Constructor
 
 Initializes a new instance of the [SingleActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [SingleActiveRegion](https://msdn.microsoft.co
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public SingleActiveRegion()Public Sub New
 
-
-public SingleActiveRegion()Public Sub New
-
-See Also
---------
-
-
-[SingleActiveRegion Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion)
+## See Also
+[SingleActiveRegion Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion)
 
 [SingleActiveRegion Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.singleactiveregion)
 

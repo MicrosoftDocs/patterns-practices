@@ -4,16 +4,12 @@ Title: 'IModuleCatalog Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.IModuleCatalog'
 ms:mtpsurl: 'imodulecatalog-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-IModuleCatalog Methods
-======================
+
+# IModuleCatalog Methods
 
 The [IModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -57,10 +53,7 @@ Initializes the catalog, which may load and validate the modules.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IModuleCatalog Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog)
+## See Also
+[IModuleCatalog Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

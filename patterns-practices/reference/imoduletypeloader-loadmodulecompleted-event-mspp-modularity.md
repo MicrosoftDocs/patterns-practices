@@ -4,16 +4,13 @@ Title: 'IModuleTypeLoader.LoadModuleCompleted Event (Microsoft.Practices.Prism.M
 ms:assetid: 'E:Microsoft.Practices.Prism.Modularity.IModuleTypeLoader.LoadModuleCompleted'
 ms:mtpsurl: 'imoduletypeloader-loadmodulecompleted-event-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-=======
+
 
 # IModuleTypeLoader.LoadModuleCompleted Event
 
 Raised when a module is loaded or fails to load.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -26,7 +23,7 @@ Raised when a module is loaded or fails to load.
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](loadmodulecompletedeventargs-class-mspp-modularity.md)&gt;
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](loadmodulecompletedeventargs-class-mspp-modularity)&gt;
 
 ## Syntax
 
@@ -34,10 +31,7 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt
     'Declaration
     Event LoadModuleCompleted As EventHandler(Of LoadModuleCompletedEventArgs)
 ```
-
-=======
-
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
@@ -49,7 +43,7 @@ event EventHandler<LoadModuleCompletedEventArgs> LoadModuleCompleted
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](loadmodulecompletedeventargs-class-mspp-modularity.md)&gt;
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](loadmodulecompletedeventargs-class-mspp-modularity)&gt;
 
 ## Syntax
 
@@ -60,16 +54,16 @@ Event LoadModuleCompleted As EventHandler(Of LoadModuleCompletedEventArgs)
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [LoadModuleCompletedEventArgs](loadmodulecompletedeventargs-class-mspp-modularity.md))
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [LoadModuleCompletedEventArgs](loadmodulecompletedeventargs-class-mspp-modularity))
 
 ## Remarks
 
-This event is raised once per ModuleInfo instance requested in [LoadModuleType(ModuleInfo)](imoduletypeloader-loadmoduletype-method-mspp-modularity.md).
+This event is raised once per ModuleInfo instance requested in [LoadModuleType(ModuleInfo)](imoduletypeloader-loadmoduletype-method-mspp-modularity).
 
 ## See Also
 
-[IModuleTypeLoader Interface](imoduletypeloader-interface-mspp-modularity.md)
+[IModuleTypeLoader Interface](imoduletypeloader-interface-mspp-modularity)
 
-[IModuleTypeLoader Members](imoduletypeloader-members-mspp-modularity.md)
+[IModuleTypeLoader Members](imoduletypeloader-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

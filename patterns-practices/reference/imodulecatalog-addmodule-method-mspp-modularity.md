@@ -4,11 +4,8 @@ Title: 'IModuleCatalog.AddModule Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.IModuleCatalog.AddModule(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'imodulecatalog-addmodule-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-IModuleCatalog.AddModule Method
-===================================
+
+# IModuleCatalog.AddModule Method
 
 Adds a [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) to the [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog).
 
@@ -18,9 +15,7 @@ Adds a [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-void AddModule( ModuleInfo moduleInfo )Sub AddModule ( moduleInfo As ModuleInfo )
+void AddModule( ModuleInfo moduleInfo )Sub AddModule ( moduleInfo As ModuleInfo )
 
 ### Parameters
 
@@ -33,11 +28,8 @@ The [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.mo
 Type:
 The [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) for easily adding multiple modules.
 
-See Also
---------
-
-
-[IModuleCatalog Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog)
+## See Also
+[IModuleCatalog Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog)
 
 [IModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.imodulecatalog)
 

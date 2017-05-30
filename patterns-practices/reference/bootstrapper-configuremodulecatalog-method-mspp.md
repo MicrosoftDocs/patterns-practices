@@ -4,11 +4,8 @@ Title: 'Bootstrapper.ConfigureModuleCatalog Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.ConfigureModuleCatalog'
 ms:mtpsurl: 'bootstrapper-configuremodulecatalog-method-mspp.md'
 ---
-
-Prism Class Library
-
-Bootstrapper.ConfigureModuleCatalog Method
-==============================================
+
+# Bootstrapper.ConfigureModuleCatalog Method
 
 Configures the [IModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog) used by Prism.
 
@@ -18,15 +15,10 @@ Configures the [IModuleCatalog](https://msdn.microsoft.com/library/microsoft.pra
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+protected virtual void ConfigureModuleCatalog()Protected Overridable Sub ConfigureModuleCatalog
 
-
-protected virtual void ConfigureModuleCatalog()Protected Overridable Sub ConfigureModuleCatalog
-
-See Also
---------
-
-
-[Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
+## See Also
+[Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
 
 [Bootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.bootstrapper)
 

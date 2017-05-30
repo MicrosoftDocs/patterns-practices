@@ -7,7 +7,7 @@ ms:mtpsurl: 'navigationresult-properties-mspp-regions.md'
 
 # NavigationResult Properties
 
-The [NavigationResult](navigationresult-class-mspp-regions.md) type exposes the following members.
+The [NavigationResult](navigationresult-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
@@ -47,6 +47,6 @@ Gets the result.
 
 ## See Also
 
-[NavigationResult Class](navigationresult-class-mspp-regions.md)
+[NavigationResult Class](navigationresult-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

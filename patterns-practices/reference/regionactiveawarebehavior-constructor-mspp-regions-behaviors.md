@@ -4,11 +4,8 @@ Title: 'RegionActiveAwareBehavior Constructor (Microsoft.Practices.Prism.Regions
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior.\#ctor'
 ms:mtpsurl: 'regionactiveawarebehavior-constructor-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionActiveAwareBehavior Constructor
-=====================================
+
+# RegionActiveAwareBehavior Constructor
 
 Initializes a new instance of the [RegionActiveAwareBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [RegionActiveAwareBehavior](https://msdn.micro
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public RegionActiveAwareBehavior()Public Sub New
 
-
-public RegionActiveAwareBehavior()Public Sub New
-
-See Also
---------
-
-
-[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
+## See Also
+[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
 
 [RegionActiveAwareBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
 

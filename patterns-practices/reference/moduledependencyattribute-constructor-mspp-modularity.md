@@ -4,11 +4,8 @@ Title: 'ModuleDependencyAttribute Constructor (Microsoft.Practices.Prism.Modular
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencyAttribute.\#ctor(System.String)'
 ms:mtpsurl: 'moduledependencyattribute-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDependencyAttribute Constructor
-=====================================
+
+# ModuleDependencyAttribute Constructor
 
 Initializes a new instance of [ModuleDependencyAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute).
 
@@ -18,9 +15,7 @@ Initializes a new instance of [ModuleDependencyAttribute](https://msdn.microsoft
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ModuleDependencyAttribute( string moduleName )Public Sub New ( moduleName As String )
+public ModuleDependencyAttribute( string moduleName )Public Sub New ( moduleName As String )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ moduleName
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the module that this module is dependant upon.
 
-See Also
---------
-
-
-[ModuleDependencyAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute)
+## See Also
+[ModuleDependencyAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute)
 
 [ModuleDependencyAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencyattribute)
 

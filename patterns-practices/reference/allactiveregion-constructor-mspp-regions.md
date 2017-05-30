@@ -4,11 +4,8 @@ Title: 'AllActiveRegion Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.AllActiveRegion.\#ctor'
 ms:mtpsurl: 'allactiveregion-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
-AllActiveRegion Constructor
-===========================
+
+# AllActiveRegion Constructor
 
 Initializes a new instance of the [AllActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.allactiveregion) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [AllActiveRegion](https://msdn.microsoft.com/l
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public AllActiveRegion()Public Sub New
 
-
-public AllActiveRegion()Public Sub New
-
-See Also
---------
-
-
-[AllActiveRegion Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.allactiveregion)
+## See Also
+[AllActiveRegion Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.allactiveregion)
 
 [AllActiveRegion Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.allactiveregion)
 

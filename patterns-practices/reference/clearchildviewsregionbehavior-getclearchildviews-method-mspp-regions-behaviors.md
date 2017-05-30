@@ -4,13 +4,11 @@ Title: 'ClearChildViewsRegionBehavior.GetClearChildViews Method (Microsoft.Pract
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior.GetClearChildViews(System.Windows.DependencyObject)'
 ms:mtpsurl: 'clearchildviewsregionbehavior-getclearchildviews-method-mspp-regions-behaviors.md'
 ---
-
-
-# ClearChildViewsRegionBehavior.GetClearChildViews Method
+# ClearChildViewsRegionBehavior.GetClearChildViews Method
 
 Gets the ClearChildViews attached property from a DependencyObject.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -35,11 +33,7 @@ Public Shared Function GetClearChildViews (
 
 Type: [System.Windows.DependencyObject](http://msdn2.microsoft.com/en-us/library/ms589309)
 
-=======
-Prism Class Library
-
 ClearChildViewsRegionBehavior.GetClearChildViews Method
-===========================================================
 
 Gets the ClearChildViews attached property from a DependencyObject.
 
@@ -49,7 +43,6 @@ Gets the ClearChildViews attached property from a DependencyObject.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 public static bool GetClearChildViews( DependencyObject target )Public Shared Function GetClearChildViews ( target As DependencyObject ) As Boolean
 
@@ -61,23 +54,18 @@ Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/
 The object from which to get the value.
 
 ### Return Value
+Type: [Boolean](	)
 
-
-Type: [Boolean](	)
-=======
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 The value of the ClearChildViews attached property in the target specified.
 
 ## See Also
 
-
-[ClearChildViewsRegionBehavior Class](clearchildviewsregionbehavior-class-mspp-regions-behaviors.md)
-=======
+[ClearChildViewsRegionBehavior Class](clearchildviewsregionbehavior-class-mspp-regions-behaviors)
 
 [ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
 
+[ClearChildViewsRegionBehavior Members](clearchildviewsregionbehavior-members-mspp-regions-behaviors)
 
-[ClearChildViewsRegionBehavior Members](clearchildviewsregionbehavior-members-mspp-regions-behaviors.md)
-
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)

@@ -4,11 +4,8 @@ Title: 'IModuleManager.LoadModuleCompleted Event (Microsoft.Practices.Prism.Modu
 ms:assetid: 'E:Microsoft.Practices.Prism.Modularity.IModuleManager.LoadModuleCompleted'
 ms:mtpsurl: 'imodulemanager-loadmodulecompleted-event-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-IModuleManager.LoadModuleCompleted Event
-============================================
+
+# IModuleManager.LoadModuleCompleted Event
 
 Raised when a module is loaded or fails to load.
 
@@ -18,18 +15,13 @@ Raised when a module is loaded or fails to load.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-event EventHandler&lt;LoadModuleCompletedEventArgs&gt; LoadModuleCompletedEvent LoadModuleCompleted As EventHandler(Of LoadModuleCompletedEventArgs)
+event EventHandler&lt;LoadModuleCompletedEventArgs&gt; LoadModuleCompletedEvent LoadModuleCompleted As EventHandler(Of LoadModuleCompletedEventArgs)
 ### Value
 
 Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([LoadModuleCompletedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs)&gt;)&gt;)
 
-See Also
---------
-
-
-[IModuleManager Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager)
+## See Also
+[IModuleManager Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager)
 
 [IModuleManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.imodulemanager)
 

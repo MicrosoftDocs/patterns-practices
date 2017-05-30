@@ -4,11 +4,8 @@ Title: 'ModularityException Constructor (String, Exception) (Microsoft.Practices
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModularityException.\#ctor(System.String,System.Exception)'
 ms:mtpsurl: 'modularityexception-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModularityException Constructor (String, Exception)
-===================================================
+
+# ModularityException Constructor (String, Exception)
 
 Initializes a new instance of the [ModularityException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception) class.
 
@@ -18,9 +15,7 @@ Initializes a new instance of the [ModularityException](https://msdn.microsoft.c
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ModularityException( string message, Exception innerException )Public Sub New ( message As String, innerException As Exception )
+public ModularityException( string message, Exception innerException )Public Sub New ( message As String, innerException As Exception )
 
 ### Parameters
 
@@ -32,11 +27,8 @@ innerException
 Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 The inner exception.
 
-See Also
---------
-
-
-[ModularityException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception)
+## See Also
+[ModularityException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception)
 
 [ModularityException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modularityexception)
 

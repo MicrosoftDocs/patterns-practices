@@ -9,7 +9,7 @@ ms:mtpsurl: 'filemoduletypeloader-moduledownloadprogresschanged-event-mspp-modul
 
 Raised repeatedly to provide progress as modules are loaded in the background.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -23,7 +23,7 @@ public event EventHandler<ModuleDownloadProgressChangedEventArgs> ModuleDownload
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[ModuleDownloadProgressChangedEventArgs](moduledownloadprogresschangedeventargs-class-mspp-modularity.md)&gt;
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[ModuleDownloadProgressChangedEventArgs](moduledownloadprogresschangedeventargs-class-mspp-modularity)&gt;
 
 ## Syntax
 
@@ -34,16 +34,16 @@ Public Event ModuleDownloadProgressChanged As EventHandler(Of ModuleDownloadProg
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [ModuleDownloadProgressChangedEventArgs](moduledownloadprogresschangedeventargs-class-mspp-modularity.md))
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [ModuleDownloadProgressChangedEventArgs](moduledownloadprogresschangedeventargs-class-mspp-modularity))
 
 ### Implements
 
-[IModuleTypeLoader.ModuleDownloadProgressChanged](imoduletypeloader-moduledownloadprogresschanged-event-mspp-modularity.md)
+[IModuleTypeLoader.ModuleDownloadProgressChanged](imoduletypeloader-moduledownloadprogresschanged-event-mspp-modularity)
 
 ## See Also
 
-[FileModuleTypeLoader Class](filemoduletypeloader-class-mspp-modularity.md)
+[FileModuleTypeLoader Class](filemoduletypeloader-class-mspp-modularity)
 
-[FileModuleTypeLoader Members](filemoduletypeloader-members-mspp-modularity.md)
+[FileModuleTypeLoader Members](filemoduletypeloader-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

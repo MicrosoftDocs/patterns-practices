@@ -4,11 +4,8 @@ Title: 'IRegionManager.CreateRegionManager Method (Microsoft.Practices.Prism.Reg
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionManager.CreateRegionManager'
 ms:mtpsurl: 'iregionmanager-createregionmanager-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionManager.CreateRegionManager Method
-=============================================
+
+# IRegionManager.CreateRegionManager Method
 
 Creates a new region manager.
 
@@ -18,19 +15,14 @@ Creates a new region manager.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-IRegionManager CreateRegionManager()Function CreateRegionManager As IRegionManager
+IRegionManager CreateRegionManager()Function CreateRegionManager As IRegionManager
 ### Return Value
 
 Type: [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager)
 A new region manager that can be used as a different scope from the current region manager.
 
-See Also
---------
-
-
-[IRegionManager Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager)
+## See Also
+[IRegionManager Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager)
 
 [IRegionManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionmanager)
 

@@ -4,11 +4,8 @@ Title: 'IConfirmNavigationRequest.ConfirmNavigationRequest Method (Microsoft.Pra
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IConfirmNavigationRequest.ConfirmNavigationRequest(Microsoft.Practices.Prism.Regions.NavigationContext,System.Action{System.Boolean})'
 ms:mtpsurl: 'iconfirmnavigationrequest-confirmnavigationrequest-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IConfirmNavigationRequest.ConfirmNavigationRequest Method
-=============================================================
+
+# IConfirmNavigationRequest.ConfirmNavigationRequest Method
 
 Determines whether this instance accepts being navigated away from.
 
@@ -18,9 +15,7 @@ Determines whether this instance accepts being navigated away from.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-void ConfirmNavigationRequest( NavigationContext navigationContext, Action&lt;bool&gt; continuationCallback )Sub ConfirmNavigationRequest ( navigationContext As NavigationContext, continuationCallback As Action(Of Boolean) )
+void ConfirmNavigationRequest( NavigationContext navigationContext, Action&lt;bool&gt; continuationCallback )Sub ConfirmNavigationRequest ( navigationContext As NavigationContext, continuationCallback As Action(Of Boolean) )
 
 ### Parameters
 
@@ -32,16 +27,12 @@ continuationCallback
 Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
 The callback to indicate when navigation can proceed.
 
-Remarks
--------
+## Remarks
 
  Implementors of this method do not need to invoke the callback before this method is completed, but they must ensure the callback is eventually invoked.
 
-See Also
---------
-
-
-[IConfirmNavigationRequest Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iconfirmnavigationrequest)
+## See Also
+[IConfirmNavigationRequest Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iconfirmnavigationrequest)
 
 [IConfirmNavigationRequest Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iconfirmnavigationrequest)
 

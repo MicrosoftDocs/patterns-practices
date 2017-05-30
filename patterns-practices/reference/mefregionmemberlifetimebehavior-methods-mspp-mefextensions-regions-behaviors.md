@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefregionmemberlifetimebehavior-methods-mspp-mefextensions-regions-
 
 # MefRegionMemberLifetimeBehavior Methods
 
-The [MefRegionMemberLifetimeBehavior](mefregionmemberlifetimebehavior-class-mspp-mefextensions-regions-behaviors.md) type exposes the following members.
+The [MefRegionMemberLifetimeBehavior](mefregionmemberlifetimebehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
 
 ## Methods
 
@@ -90,6 +90,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[MefRegionMemberLifetimeBehavior Class](mefregionmemberlifetimebehavior-class-mspp-mefextensions-regions-behaviors.md)
+[MefRegionMemberLifetimeBehavior Class](mefregionmemberlifetimebehavior-class-mspp-mefextensions-regions-behaviors)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace)

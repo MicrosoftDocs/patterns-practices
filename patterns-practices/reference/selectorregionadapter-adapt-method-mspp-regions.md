@@ -4,11 +4,8 @@ Title: 'SelectorRegionAdapter.Adapt Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.SelectorRegionAdapter.Adapt(Microsoft.Practices.Prism.Regions.IRegion,System.Windows.Controls.Primitives.Selector)'
 ms:mtpsurl: 'selectorregionadapter-adapt-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-SelectorRegionAdapter.Adapt Method
-======================================
+
+# SelectorRegionAdapter.Adapt Method
 
 Adapts an [Selector](http://msdn.microsoft.com/en-us/library/ms595227) to an [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion).
 
@@ -18,9 +15,7 @@ Adapts an [Selector](http://msdn.microsoft.com/en-us/library/ms595227) to an [IR
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected override void Adapt( IRegion region, Selector regionTarget )Protected Overrides Sub Adapt ( region As IRegion, regionTarget As Selector )
+protected override void Adapt( IRegion region, Selector regionTarget )Protected Overrides Sub Adapt ( region As IRegion, regionTarget As Selector )
 
 ### Parameters
 
@@ -32,11 +27,8 @@ regionTarget
 Type: [System.Windows.Controls.Primitives.Selector](http://msdn.microsoft.com/en-us/library/ms595227)
 The object to adapt.
 
-See Also
---------
-
-
-[SelectorRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.selectorregionadapter)
+## See Also
+[SelectorRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.selectorregionadapter)
 
 [SelectorRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.selectorregionadapter)
 

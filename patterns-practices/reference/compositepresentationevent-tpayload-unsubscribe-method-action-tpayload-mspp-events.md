@@ -4,11 +4,8 @@ Title: 'CompositePresentationEvent(TPayload).Unsubscribe Method (Action(TPayload
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Unsubscribe(System.Action{\`0})'
 ms:mtpsurl: 'compositepresentationevent-tpayload-unsubscribe-method-action-tpayload-mspp-events.md'
 ---
-
-Prism Class Library
-
-CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Unsubscribe Method (Action&lt;(Of &lt;(TPayload&gt;)&gt;))
-========================================================================================================================
+
+# CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Unsubscribe Method (Action&lt;(Of &lt;(TPayload&gt;)&gt;))
 
 Removes the first subscriber matching [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) from the subscribers' list.
 
@@ -18,9 +15,7 @@ Removes the first subscriber matching [Action&lt;(Of &lt;(T&gt;)&gt;)](http://ms
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public virtual void Unsubscribe( Action&lt;TPayload&gt; subscriber )Public Overridable Sub Unsubscribe ( subscriber As Action(Of TPayload) )
+public virtual void Unsubscribe( Action&lt;TPayload&gt; subscriber )Public Overridable Sub Unsubscribe ( subscriber As Action(Of TPayload) )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ subscriber
 Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)&gt;)&gt;)
 The [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) used when subscribing to the event.
 
-See Also
---------
-
-
-[CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)
+## See Also
+[CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)
 
 [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.events.compositepresentationevent%601)
 

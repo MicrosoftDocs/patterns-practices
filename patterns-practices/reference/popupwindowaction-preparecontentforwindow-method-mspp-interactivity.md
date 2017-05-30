@@ -7,15 +7,9 @@ ms:mtpsurl: 'popupwindowaction-preparecontentforwindow-method-mspp-interactivity
 
 # PopupWindowAction.PrepareContentForWindow Method
 
+Checks if the WindowContent or its DataContext implements [IInteractionRequestAware](iinteractionrequestaware-interface-mspp-interactivity-interactionrequest). If so, it sets the corresponding value. Also, if WindowContent does not have a RegionManager attached, it creates a new scoped RegionManager for it.
 
-Checks if the WindowContent or its DataContext implements [IInteractionRequestAware](iinteractionrequestaware-interface-mspp-interactivity-interactionrequest.md). If so, it sets the corresponding value. Also, if WindowContent does not have a RegionManager attached, it creates a new scoped RegionManager for it.
-=======
-PopupWindowAction.PrepareContentForWindow Method
-====================================================
-
-
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](mspp-interactivity-namespace.md)
-
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](mspp-interactivity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -39,7 +33,7 @@ Protected Overridable Sub PrepareContentForWindow (
 
 *notification*
 
-Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](popupwindowaction-class-mspp-interactivity.md)
+Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](popupwindowaction-class-mspp-interactivity)
 
 The notification to be set as a DataContext in the HostWindow.
 
@@ -47,14 +41,12 @@ The notification to be set as a DataContext in the HostWindow.
 
 Type: [System.Windows.Window](http://msdn2.microsoft.com/en-us/library/ms590112)
 
-=======
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 protected virtual void PrepareContentForWindow( INotification notification, Window wrapperWindow )Protected Overridable Sub PrepareContentForWindow ( notification As INotification, wrapperWindow As Window )
 
@@ -71,13 +63,10 @@ The HostWindow
 
 ## See Also
 
-
-[PopupWindowAction Class](popupwindowaction-class-mspp-interactivity.md)
-=======
+[PopupWindowAction Class](popupwindowaction-class-mspp-interactivity)
 
 [PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
 
+[PopupWindowAction Members](popupwindowaction-members-mspp-interactivity)
 
-[PopupWindowAction Members](popupwindowaction-members-mspp-interactivity.md)
-
-[Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace.md)
+[Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace)

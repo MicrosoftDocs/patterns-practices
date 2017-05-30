@@ -4,16 +4,12 @@ Title: 'ModuleNotFoundException Properties (Microsoft.Practices.Prism.Modularity
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleNotFoundException'
 ms:mtpsurl: 'modulenotfoundexception-properties-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleNotFoundException Properties
-==================================
+
+# ModuleNotFoundException Properties
 
 The [ModuleNotFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -101,10 +97,7 @@ Gets the method that throws the current exception.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception)
+## See Also
+[ModuleNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

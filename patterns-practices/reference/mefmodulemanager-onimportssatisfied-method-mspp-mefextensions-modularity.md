@@ -4,11 +4,8 @@ Title: 'MefModuleManager.OnImportsSatisfied Method (Microsoft.Practices.Prism.Me
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager.OnImportsSatisfied'
 ms:mtpsurl: 'mefmodulemanager-onimportssatisfied-method-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-MefModuleManager.OnImportsSatisfied Method
-==============================================
+
+# MefModuleManager.OnImportsSatisfied Method
 
 Called when a part's imports have been satisfied and it is safe to use.
 
@@ -18,23 +15,17 @@ Called when a part's imports have been satisfied and it is safe to use.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public virtual void OnImportsSatisfied()Public Overridable Sub OnImportsSatisfied
+public virtual void OnImportsSatisfied()Public Overridable Sub OnImportsSatisfied
 ### Implements
 
 [IPartImportsSatisfiedNotification.OnImportsSatisfied()()()](http://msdn.microsoft.com/en-us/library/dd833579)
 
-Remarks
--------
+## Remarks
 
  Whenever the MEF container loads new types that cause ImportedModules to be recomposed, this is called. This method ensures that as the MEF container discovered new modules, the ModuleCatalog is updated.
 
-See Also
---------
-
-
-[MefModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager)
+## See Also
+[MefModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager)
 
 [MefModuleManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.mefmodulemanager)
 

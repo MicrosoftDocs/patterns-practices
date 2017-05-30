@@ -7,9 +7,9 @@ ms:mtpsurl: 'regionmanager-getregionname-method-mspp-regions.md'
 
 # RegionManager.GetRegionName Method
 
-Gets the value for the [RegionNameProperty](regionmanager-regionnameproperty-field-mspp-regions.md) attached property.
+Gets the value for the [RegionNameProperty](regionmanager-regionnameproperty-field-mspp-regions) attached property.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -29,9 +29,7 @@ Public Shared Function GetRegionName (
 	regionTarget As DependencyObject
 ) As String
 ```
-
-
-### Parameters
+### Parameters
 
 *regionTarget*
 
@@ -41,12 +39,12 @@ Public Shared Function GetRegionName (
 ### Return Value
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)<br/>
-The name of the region that should be created when [RegionManagerProperty](regionmanager-regionmanagerproperty-field-mspp-regions.md) is also set in this element.
+The name of the region that should be created when [RegionManagerProperty](regionmanager-regionmanagerproperty-field-mspp-regions) is also set in this element.
 
 ## See Also
 
-[RegionManager Class](regionmanager-class-mspp-regions.md)
+[RegionManager Class](regionmanager-class-mspp-regions)
 
-[RegionManager Members](regionmanager-members-mspp-regions.md)
+[RegionManager Members](regionmanager-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

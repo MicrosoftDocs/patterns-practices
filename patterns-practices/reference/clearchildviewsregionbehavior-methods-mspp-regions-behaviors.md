@@ -7,7 +7,7 @@ ms:mtpsurl: 'clearchildviewsregionbehavior-methods-mspp-regions-behaviors.md'
 
 # ClearChildViewsRegionBehavior Methods
 
-The [ClearChildViewsRegionBehavior](clearchildviewsregionbehavior-class-mspp-regions-behaviors.md) type exposes the following members.
+The [ClearChildViewsRegionBehavior](clearchildviewsregionbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Methods
 
@@ -83,7 +83,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 Subscribes to the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>'s PropertyChanged method to monitor its RegionManager property.
 </div>
 (Overrides <a href="https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionbehavior.onattach">RegionBehavior.OnAttach()</a>.)</td>
-=======
+
 (Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.onattach">RegionBehavior..::.OnAttach()()()</a>.)</td>
 </tr>
 <tr class="odd">
@@ -106,6 +106,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[ClearChildViewsRegionBehavior Class](clearchildviewsregionbehavior-class-mspp-regions-behaviors.md)
+[ClearChildViewsRegionBehavior Class](clearchildviewsregionbehavior-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)

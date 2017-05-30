@@ -4,16 +4,12 @@ Title: 'ModularityException Properties (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModularityException'
 ms:mtpsurl: 'modularityexception-properties-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModularityException Properties
-==============================
+
+# ModularityException Properties
 
 The [ModularityException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -100,10 +96,7 @@ Gets the method that throws the current exception.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModularityException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception)
+## See Also
+[ModularityException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
