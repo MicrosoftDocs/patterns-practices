@@ -49,3 +49,4 @@ Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 EventBase Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+
