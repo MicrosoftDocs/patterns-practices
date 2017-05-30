@@ -4,19 +4,18 @@ Title: 'CommandBehaviorBase(T) Members (Microsoft.Practices.Prism.Interactivity)
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase\`1'
 ms:mtpsurl: 'commandbehaviorbase-t-members-mspp-interactivity.md'
 ---
-
-# CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Members
 
-The [CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601) type exposes the following members.
+# CommandBehaviorBase&lt;T&gt; Members
+
+The [CommandBehaviorBase&lt;T&gt;](https://msdn.microsoft.com/en-us/library/dn736144(v=pandp.50)) type exposes the following members.
 
 ## Constructors
 
-<span id="constructorTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -24,7 +23,7 @@ The [CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/lib
 <tbody>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601.">CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;)</a></td>
+<td>CommandBehaviorBase&lt;T&gt;</td>
 <td><div class="summary">
 Constructor specifying the target object.
 </div></td>
@@ -34,12 +33,10 @@ Constructor specifying the target object.
 
 ## Methods
 
-<span id="methodTableToggle"></span>
 <table>
-
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -55,9 +52,9 @@ Determines whether the specified <a href="http://msdn.microsoft.com/en-us/librar
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741423.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601.executecommand(system.object)">ExecuteCommand</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn736267(v=pandp.50)">ExecuteCommand</a></td>
 <td><div class="summary">
-Executes the command, if it's set, providing the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601.commandparameter">CommandParameter</a>
+Executes the command, if it's set, providing the <a href="https://msdn.microsoft.com/en-us/library/dn683970(v=pandp.50)">CommandParameter</a>
 </div></td>
 </tr>
 <tr class="odd">
@@ -102,7 +99,7 @@ Returns a string that represents the current object.
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741423.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601.updateenabledstate">UpdateEnabledState</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn736286(v=pandp.50)">UpdateEnabledState</a></td>
 <td><div class="summary">
 Updates the target object's IsEnabled property based on the commands ability to execute.
 </div></td>
@@ -112,12 +109,11 @@ Updates the target object's IsEnabled property based on the commands ability to 
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -125,21 +121,21 @@ Updates the target object's IsEnabled property based on the commands ability to 
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741423.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601.command">Command</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn736180(v=pandp.50)">Command</a></td>
 <td><div class="summary">
 Corresponding command to be execute and monitored for <a href="http://msdn.microsoft.com/en-us/library/ms523106">CanExecuteChanged</a>
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741423.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601.commandparameter">CommandParameter</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn683970(v=pandp.50)">CommandParameter</a></td>
 <td><div class="summary">
 The parameter to supply the command during execution
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741423.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601.targetobject">TargetObject</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/dn736268(v=pandp.50)">TargetObject</a></td>
 <td><div class="summary">
 Object to which this behavior is attached.
 </div></td>
@@ -148,6 +144,7 @@ Object to which this behavior is attached.
 </table>
 
 ## See Also
-[CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
+[CommandBehaviorBase&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/dn736144(v=pandp.50))
+
+[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
