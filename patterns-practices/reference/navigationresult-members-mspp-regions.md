@@ -4,7 +4,8 @@ Title: 'NavigationResult Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.NavigationResult'
 ms:mtpsurl: 'navigationresult-members-mspp-regions.md'
 ---
-
+
+
 # NavigationResult Members
 
 The [NavigationResult](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult) type exposes the following members.
@@ -141,6 +142,7 @@ Gets the result.
 </table>
 
 ## See Also
-[NavigationResult Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult)
+
+[NavigationResult Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

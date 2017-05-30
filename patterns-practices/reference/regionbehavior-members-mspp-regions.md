@@ -4,7 +4,8 @@ Title: 'RegionBehavior Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.RegionBehavior'
 ms:mtpsurl: 'regionbehavior-members-mspp-regions.md'
 ---
-
+
+
 # RegionBehavior Members
 
 The [RegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior) type exposes the following members.
@@ -141,6 +142,7 @@ Behavior's attached region.
 </table>
 
 ## See Also
-[RegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
+
+[RegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

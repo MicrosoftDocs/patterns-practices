@@ -4,7 +4,8 @@ Title: 'Region Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.Region'
 ms:mtpsurl: 'region-members-mspp-regions.md'
 ---
-
+
+
 # Region Members
 
 The [Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region) type exposes the following members.
@@ -339,6 +340,7 @@ Occurs when a property value changes.
 </table>
 
 ## See Also
-[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
+
+[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

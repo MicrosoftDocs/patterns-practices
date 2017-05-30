@@ -4,7 +4,8 @@ Title: 'RegionAdapterMappings Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.RegionAdapterMappings'
 ms:mtpsurl: 'regionadaptermappings-members-mspp-regions.md'
 ---
-
+
+
 # RegionAdapterMappings Members
 
 The [RegionAdapterMappings](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings) type exposes the following members.
@@ -111,6 +112,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[RegionAdapterMappings Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings)
+
+[RegionAdapterMappings Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

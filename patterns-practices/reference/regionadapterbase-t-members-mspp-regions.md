@@ -4,7 +4,8 @@ Title: 'RegionAdapterBase(T) Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.RegionAdapterBase\`1'
 ms:mtpsurl: 'regionadapterbase-t-members-mspp-regions.md'
 ---
-
+
+
 # RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Members
 
 The [RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601) type exposes the following members.
@@ -155,6 +156,7 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 </table>
 
 ## See Also
-[RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601)
+
+[RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
