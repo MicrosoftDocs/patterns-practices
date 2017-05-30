@@ -1,4 +1,4 @@
----
+--
 TOCTitle: 'BackgroundEventSubscription(TPayload) Class'
 Title: 'BackgroundEventSubscription(TPayload) Class (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'T:Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscription\`1'
@@ -11,11 +11,20 @@ Extends [EventSubscription(Of TPayload)](eventsubscription-tpayload-class-mspp-p
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
-## Syntax
-```C#
+Extends [EventSubscription(Of TPayload)](/eventsubscription-tpayload-class-mspp-pubsubevents) to invoke the [Action](/eventsubscription-tpayload-action-property-mspp-pubsubevents) delegate in a background thread.
+
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/mspp-pubsubevents-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) 
+
+**Version:** 1.0.0.0 (1.0.0.0)
+
+## Syntax
+
+```C#
     public class BackgroundEventSubscription<TPayload> : EventSubscription<TPayload>
 ```
+
 ```VB
     'Declaration
     Public Class BackgroundEventSubscription(Of TPayload)
@@ -24,13 +33,12 @@ Extends [EventSubscription(Of TPayload)](eventsubscription-tpayload-class-mspp-p
 
 ## Type Parameters
 
-<span id="templatesToggle"></span>
 *TPayload*  
     The type to use for the generic [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) and [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz) types.
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   
   [Microsoft.Practices.Prism.PubSubEvents.EventSubscription](eventsubscription-tpayload-class-mspp-pubsubevents)(Of TPayload)
     Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscription(Of TPayload)
