@@ -17,7 +17,7 @@ Implements [IEventAggregator](https://msdn.microsoft.com/library/microsoft.pract
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.PubSubEvents.EventAggregator
 
 ## See Also

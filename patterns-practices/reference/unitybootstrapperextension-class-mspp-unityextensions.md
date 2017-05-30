@@ -19,7 +19,7 @@ Implements a UnityContainerExtension that checks if a specific type was register
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   UnityContainerExtension
     Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtension
 

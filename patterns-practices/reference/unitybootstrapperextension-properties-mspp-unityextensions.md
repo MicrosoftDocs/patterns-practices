@@ -11,7 +11,7 @@ The [UnityBootstrapperExtension](https://msdn.microsoft.com/library/microsoft.pr
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 |                                                                                                      | Name      | Description                               |
 |------------------------------------------------------------------------------------------------------|-----------|-------------------------------------------|
 | ![](https://msdn.microsoft.com/en-us/Gg431228.pubproperty(en-us,PandP.50).gif "Public property")     | Container | (Inherited from UnityContainerExtension.) |

@@ -11,7 +11,7 @@ Reference to the location of the module assembly.
 
 ## Examples
 
-<span id="exampleToggle"></span>The following are examples of valid Ref values: file://c:/MyProject/Modules/MyModule.dll for a loose DLL in WPF.
+The following are examples of valid Ref values: file://c:/MyProject/Modules/MyModule.dll for a loose DLL in WPF.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 

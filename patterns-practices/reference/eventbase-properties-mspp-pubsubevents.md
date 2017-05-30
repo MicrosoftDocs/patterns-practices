@@ -12,7 +12,7 @@ The [EventBase](https://msdn.microsoft.com/library/microsoft.practices.prism.pub
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -24,14 +24,14 @@ The [EventBase](https://msdn.microsoft.com/library/microsoft.practices.prism.pub
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736300.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
+<td>![Protected property](/images/protproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase.subscriptions">Subscriptions</a></td>
 <td><div class="summary">
 Gets the list of current subscriptions.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736300.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase.synchronizationcontext">SynchronizationContext</a></td>
 <td><div class="summary">
 Allows the SynchronizationContext to be set by the EventAggregator for UI Thread Dispatching

@@ -18,13 +18,13 @@ Defines a class that manages publication and subscription to events.
 [ObsoleteAttribute("Please use Prism.PubSubEvents.PubSubEvent.")\] public class CompositePresentationEvent&lt;TPayload&gt; : EventBase &lt;ObsoleteAttribute("Please use Prism.PubSubEvents.PubSubEvent.")&gt; Public Class CompositePresentationEvent(Of TPayload) Inherits EventBase
 ## Type Parameters
 
-<span id="templatesToggle"></span>
+
 TPayload  
 The type of message that will be passed to the subscribers.
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   EventBase
     Microsoft.Practices.Prism.Events.CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)
 

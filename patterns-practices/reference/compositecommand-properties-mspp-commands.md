@@ -22,7 +22,7 @@ The [CompositeCommand](compositecommand-class-mspp-commands) type exposes the fo
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419157.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand.registeredcommands">RegisteredCommands</a></td>
 <td><div class="summary">
 Gets the list of all the registered commands.

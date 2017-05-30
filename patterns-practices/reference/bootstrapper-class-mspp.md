@@ -23,7 +23,7 @@ Base class that provides a basic bootstrapping sequence and hooks that specific 
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Bootstrapper
     [Microsoft.Practices.Prism.MefExtensions.MefBootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper)
     [Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)

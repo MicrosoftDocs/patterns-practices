@@ -29,7 +29,7 @@ The items to add to the collection.
 
 ## Type Parameters
 
-<span id="templatesToggle"></span>
+
 T  
 Type of objects within the collection.
 
@@ -43,7 +43,7 @@ In Visual Basic and C\#, you can call this method as an instance method on any o
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                             | Condition                                                                                                                                                                       |
 |---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if collection or items is nullNothingnullptra null reference (Nothing in Visual Basic). |

@@ -48,7 +48,7 @@ The modules to validate modules for.
 | [Microsoft.Practices.Prism.Modularity.ModularityException](modularityexception-class-mspp-modularity) | Throws if a [ModuleInfo](moduleinfo-class-mspp-modularity) in modules depends on a module that's not in modules. |
 | [System.ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy)                                 | Throws if modules is nullNothingnullptra null reference (Nothing in Visual Basic).                                      |
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                                                                                             | Condition                                                                                                                                                    |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Microsoft.Practices.Prism.Modularity.ModularityException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception) | Throws if a [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) in modules depends on a module that's not in modules. |

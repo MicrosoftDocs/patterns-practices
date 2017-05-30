@@ -11,7 +11,7 @@ The [LoadModuleCompletedEventArgs](https://msdn.microsoft.com/library/microsoft.
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,21 +23,21 @@ The [LoadModuleCompletedEventArgs](https://msdn.microsoft.com/library/microsoft.
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431163.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs.error">Error</a></td>
 <td><div class="summary">
 Gets any error that occurred
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431163.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs.iserrorhandled">IsErrorHandled</a></td>
 <td><div class="summary">
 Gets or sets a value indicating whether the error has been handled by the event subscriber.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431163.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs.moduleinfo">ModuleInfo</a></td>
 <td><div class="summary">
 Gets the module info.

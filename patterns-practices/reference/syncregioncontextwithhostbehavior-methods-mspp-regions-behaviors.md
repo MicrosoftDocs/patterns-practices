@@ -104,7 +104,7 @@ Attaches the behavior to the region.
 <td>
 <div>
 Override this method to perform the logic after the behavior has been attached.
-</div> (Overrides <a href="regionbehavior-onattach-method-mspp-regions.md">RegionBehavior<span>.</span>OnAttach<span></span></a>.)</td>
+</div> (Overrides <a href="regionbehavior-onattach-method-mspp-regions.md">RegionBehavior</a>.)</td>
 </tr>
 <tr>
 <td>

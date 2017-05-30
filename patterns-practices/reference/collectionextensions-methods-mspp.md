@@ -11,7 +11,7 @@ The [CollectionExtensions](https://msdn.microsoft.com/library/microsoft.practice
 
 ## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [CollectionExtensions](https://msdn.microsoft.com/library/microsoft.practice
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg430971.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.collectionextensions.addrange%60%601(system.collections.objectmodel.collection%7b%60%600%7d%2csystem.collections.generic.ienumerable%7b%60%600%7d)">AddRange&lt;(Of &lt;(T&gt;)&gt;)</a></td>
 <td><div class="summary">
 Add a range of items to a collection.

@@ -23,7 +23,7 @@ Exports the EventAggregator using the Managed Extensibility Framework (MEF).
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   EventAggregator
     Microsoft.Practices.Prism.MefExtensions.Events.MefEventAggregator
 

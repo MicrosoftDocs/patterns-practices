@@ -22,21 +22,21 @@ The [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430954.pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Gg430954.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Static member](/images/pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Gg430954.static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regioncontextproperty">RegionContextProperty</a></td>
 <td><div class="summary">
 Identifies the RegionContext attached property.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430954.pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Gg430954.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Static member](/images/pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Gg430954.static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionmanagerproperty">RegionManagerProperty</a></td>
 <td><div class="summary">
 Identifies the RegionManager attached property.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430954.pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Gg430954.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Static member](/images/pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Gg430954.static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionnameproperty">RegionNameProperty</a></td>
 <td><div class="summary">
 Identifies the RegionName attached property.

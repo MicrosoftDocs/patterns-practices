@@ -11,7 +11,7 @@ The [EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.co
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,21 +23,21 @@ The [EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.co
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736170.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601.action">Action</a></td>
 <td><div class="summary">
 Gets the target <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;(Of &lt;(T&gt;)&gt;)</a> that is referenced by the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.idelegatereference">IDelegateReference</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736170.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601.filter">Filter</a></td>
 <td><div class="summary">
 Gets the target <a href="http://msdn.microsoft.com/en-us/library/bfcke1bz">Predicate&lt;(Of &lt;(T&gt;)&gt;)</a> that is referenced by the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.idelegatereference">IDelegateReference</a>.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736170.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601.subscriptiontoken">SubscriptionToken</a></td>
 <td><div class="summary">
 Gets or sets a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601.subscriptiontoken">SubscriptionToken</a> that identifies this <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription">IEventSubscription</a>.

@@ -22,7 +22,7 @@ The [IViewsCollection](iviewscollection-interface-mspp-regions) type exposes the
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430905.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms653382">CollectionChanged</a></td>
 <td><div class="summary">
 Occurs when the collection changes.

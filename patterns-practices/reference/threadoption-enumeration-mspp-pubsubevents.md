@@ -17,7 +17,7 @@ Specifies on which thread a [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https:/
 
 ## Members
 
-<span id="membersToggle"></span>
+
 |     | Member name      | Value | Description                                                                                                                                                                                       |
 |-----|------------------|-------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     | PublisherThread  | 0     | The call is done on the same thread on which the [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601) was published. |

@@ -42,7 +42,7 @@ Public Class ModularityException
       [Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException](moduletypeloadernotfoundexception-class-mspp-modularity)
       [Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException](moduletypeloadingexception-class-mspp-modularity)
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
     Microsoft.Practices.Prism.Modularity.ModularityException
       [Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception)

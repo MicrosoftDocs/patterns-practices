@@ -27,7 +27,7 @@ If falseFalsefalsefalse (False in Visual Basic) the class will create a weak ref
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                             | Condition                                                                                                  |
 |---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | If the passed delegate is not assignable to [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51). |

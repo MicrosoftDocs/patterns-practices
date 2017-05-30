@@ -22,7 +22,7 @@ The [RegionActiveAwareBehavior](regionactiveawarebehavior-class-mspp-regions-beh
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431188.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior.region">Region</a></td>
 <td><div class="summary">
 The region that this behavior is extending

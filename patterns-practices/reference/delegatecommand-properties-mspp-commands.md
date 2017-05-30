@@ -22,7 +22,7 @@ The [DelegateCommand](delegatecommand-class-mspp-commands) type exposes the foll
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419158.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase.isactive">IsActive</a></td>
 <td><div class="summary">
 Gets or sets a value indicating whether the object is active.

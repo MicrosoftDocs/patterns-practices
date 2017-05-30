@@ -38,7 +38,7 @@ The item to be the target of the navigation request.
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                                 | Condition                                                     |
 |-------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | [System.InvalidOperationException](http://msdn.microsoft.com/en-us/library/2asft85a) | when a new item cannot be created for the navigation request. |

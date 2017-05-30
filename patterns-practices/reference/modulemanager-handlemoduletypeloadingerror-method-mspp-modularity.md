@@ -49,7 +49,7 @@ Protected Overridable Sub HandleModuleTypeLoadingError (
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                                                                                                           | Condition |
 |---------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
 | [Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException](moduletypeloadingexception-class-mspp-modularity) |           |

@@ -33,7 +33,7 @@ The exception thrown that is the cause of the current error.
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                                                                                                         | Condition |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
 | [Microsoft.Practices.Prism.Modularity.ModuleInitializeException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception) |           |

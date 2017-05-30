@@ -22,7 +22,7 @@ The [IRegionMemberLifetime](iregionmemberlifetime-interface-mspp-regions) type e
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431200.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmemberlifetime.keepalive">KeepAlive</a></td>
 <td><div class="summary">
 Gets a value indicating whether this instance should be kept-alive upon deactivation.

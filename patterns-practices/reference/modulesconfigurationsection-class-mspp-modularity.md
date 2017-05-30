@@ -19,7 +19,7 @@ A [ConfigurationSection](http://msdn.microsoft.com/en-us/library/x0kca287) for m
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [System.Configuration.ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3)
     [System.Configuration.ConfigurationSection](http://msdn.microsoft.com/en-us/library/x0kca287)
       Microsoft.Practices.Prism.Modularity.ModulesConfigurationSection

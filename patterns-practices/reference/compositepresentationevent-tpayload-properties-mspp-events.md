@@ -11,7 +11,7 @@ The [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.mic
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 |                                                                                                      | Name                   | Description                 |
 |------------------------------------------------------------------------------------------------------|------------------------|-----------------------------|
 | ![](https://msdn.microsoft.com/en-us/Gg419162.protproperty(en-us,PandP.50).gif "Protected property") | Subscriptions          | (Inherited from EventBase.) |

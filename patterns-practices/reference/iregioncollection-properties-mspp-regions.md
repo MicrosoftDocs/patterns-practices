@@ -22,7 +22,7 @@ The [IRegionCollection](iregioncollection-interface-mspp-regions) type exposes t
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431198.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection.item(system.string)">Item</a></td>
 <td><div class="summary">
 Gets the IRegion with the name received as index.

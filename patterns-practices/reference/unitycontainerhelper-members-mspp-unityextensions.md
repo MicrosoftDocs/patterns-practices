@@ -22,21 +22,21 @@ The [UnityContainerHelper](https://msdn.microsoft.com/library/microsoft.practice
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg405527.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitycontainerhelper.istyperegistered(v=pandp.50)">IsTypeRegistered</a></td>
 <td><div class="summary">
 Returns whether a specified type has a type mapping registered in the container.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg405527.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/en-us/library/gg419013(v=pandp.50)">TryResolve(IUnityContainer, Type)</a></td>
 <td><div class="summary">
 Utility method to try to resolve a service from the container avoiding an exception if the container cannot build the type.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg405527.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/en-us/library/gg419014(v=pandp.50)">TryResolve(Of T)(IUnityContainer)</a></td>
 <td><div class="summary">
 Utility method to try to resolve a service from the container avoiding an exception if the container cannot build the type.

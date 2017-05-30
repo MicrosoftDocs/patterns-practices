@@ -28,7 +28,7 @@ true if the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                              | Condition                  |
 |----------------------------------------------------------------------------------------|----------------------------|
 | [System.NullReferenceException](http://msdn.microsoft.com/en-us/library/8w0s4024) | The obj parameter is null. |

@@ -19,7 +19,7 @@ Handles AppDomain's AssemblyResolve event to be able to load assemblies dynamica
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Modularity.AssemblyResolver
 
 ## See Also

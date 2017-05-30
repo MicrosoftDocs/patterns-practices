@@ -38,7 +38,7 @@ Locator to use in resolving.
 
 ## Type Parameters
 
-<span id="templatesToggle"></span>
+
 T 
  
 Type to resolve.

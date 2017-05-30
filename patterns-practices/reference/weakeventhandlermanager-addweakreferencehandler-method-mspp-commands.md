@@ -36,7 +36,7 @@ Default list size.
 [WeakEventHandlerManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.weakeventhandlermanager)
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
-=======
+=
 ---
 TOCTitle: AddWeakReferenceHandler Method
 Title: 'WeakEventHandlerManager.AddWeakReferenceHandler Method (Microsoft.Practices.Prism.Commands)'

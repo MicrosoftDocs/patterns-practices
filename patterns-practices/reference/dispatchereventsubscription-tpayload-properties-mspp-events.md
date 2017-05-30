@@ -11,7 +11,7 @@ The [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.mi
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 |                                                                                                  | Name              | Description                                                                                                                                                         |
 |--------------------------------------------------------------------------------------------------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | ![](https://msdn.microsoft.com/en-us/Gg419165.pubproperty(en-us,PandP.50).gif "Public property") | Action            | (Inherited from EventSubscription&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)&gt;)&gt;).) |

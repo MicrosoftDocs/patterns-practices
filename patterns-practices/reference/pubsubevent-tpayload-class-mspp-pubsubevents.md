@@ -16,13 +16,13 @@ Defines a class that manages publication and subscription to events.
 public class PubSubEvent&lt;TPayload&gt; : EventBase Public Class PubSubEvent(Of TPayload) Inherits EventBase
 ## Type Parameters
 
-<span id="templatesToggle"></span>
+
 TPayload  
 The type of message that will be passed to the subscribers.
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.PubSubEvents.EventBase](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase)
     Microsoft.Practices.Prism.PubSubEvents.PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)
 

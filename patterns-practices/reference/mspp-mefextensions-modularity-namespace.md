@@ -9,7 +9,7 @@ ms:mtpsurl: 'mspp-mefextensions-modularity-namespace.md'
 
 Classes
 
-<span id="classToggle"></span>
+
 <table>
 
 <thead>
@@ -21,35 +21,35 @@ Classes
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-class.gif" title="Public class" /></td>
+<td>![Public class](/images/public-class.gif)</td>
 <td><a href="downloadedpartcatalogcollection-class-mspp-mefextensions-modularity.md">DownloadedPartCatalogCollection</a></td>
 <td><div class="summary">
 Holds a collection of composable part catalogs keyed by module info.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-class.gif" title="Public class" /></td>
+<td>![Public class](/images/public-class.gif)</td>
 <td><a href="meffilemoduletypeloader-class-mspp-mefextensions-modularity.md">MefFileModuleTypeLoader</a></td>
 <td><div class="summary">
 Loads modules from an arbitrary location on the filesystem. This typeloader is only called if <a href="mefmoduleinitializer-class-mspp-mefextensions-modularity.md">ModuleInfo</a> classes have a Ref parameter that starts with &quot;file://&quot;. This class is only used on the Desktop version of the Prism Library when used with Managed Extensibility Framework.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-class.gif" title="Public class" /></td>
+<td>![Public class](/images/public-class.gif)</td>
 <td><a href="mefmoduleinitializer-class-mspp-mefextensions-modularity.md">MefModuleInitializer</a></td>
 <td><div class="summary">
 Exports the ModuleInitializer using the Managed Extensibility Framework (MEF).
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-class.gif" title="Public class" /></td>
+<td>![Public class](/images/public-class.gif)</td>
 <td><a href="mefmodulemanager-class-mspp-mefextensions-modularity.md">MefModuleManager</a></td>
 <td><div class="summary">
 Component responsible for coordinating the modules' type loading and module initialization process.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-class.gif" title="Public class" /></td>
+<td>![Public class](/images/public-class.gif)</td>
 <td><a href="moduleexportattribute-class-mspp-mefextensions-modularity.md">ModuleExportAttribute</a></td>
 <td><div class="summary">
 An attribute that is applied to describe the Managed Extensibility Framework export of an IModule.
@@ -60,7 +60,7 @@ An attribute that is applied to describe the Managed Extensibility Framework exp
 
 ## Interfaces
 
-<span id="interfaceToggle"></span>
+
 <table>
 
 <thead>
@@ -72,7 +72,7 @@ An attribute that is applied to describe the Managed Extensibility Framework exp
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-interface.gif" title="Public interface" /></td>
+<td>![Public interface](/images/public-interface.gif)</td>
 <td><a href="imoduleexport-interface-mspp-mefextensions-modularity.md">IModuleExport</a></td>
 <td><div class="summary">
 Describe the Managed Extensibility Framework export of an IModule.

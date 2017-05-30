@@ -23,7 +23,7 @@ Base class that provides a basic bootstrapping sequence that registers most of t
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Bootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
     Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper
 

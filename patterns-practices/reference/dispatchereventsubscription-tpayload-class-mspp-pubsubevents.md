@@ -16,13 +16,13 @@ Extends [EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsof
 public class DispatcherEventSubscription&lt;TPayload&gt; : EventSubscription&lt;TPayload&gt; Public Class DispatcherEventSubscription(Of TPayload) Inherits EventSubscription(Of TPayload)
 ## Type Parameters
 
-<span id="templatesToggle"></span>
+
 TPayload  
 The type to use for the generic [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) and [Predicate&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/bfcke1bz) types.
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.PubSubEvents.EventSubscription](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601)&lt;(Of &lt;(TPayload&gt;)&gt;)
     Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)
 
