@@ -4,14 +4,10 @@ Title: 'CompositePresentationEvent(TPayload).Unsubscribe Method (Microsoft.Pract
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Unsubscribe'
 ms:mtpsurl: 'compositepresentationevent-tpayload-unsubscribe-method-mspp-events.md'
 ---
+
+# CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Unsubscribe Method
 
-Prism Class Library
-
-CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Unsubscribe Method
-================================================================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -39,11 +35,8 @@ Removes the first subscriber matching <a href="http://msdn.microsoft.com/en-us/l
 </tbody>
 </table>
 
-See Also
---------
-
-
-[CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)
+## See Also
+[CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)
 
 [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.events.compositepresentationevent%601)
 

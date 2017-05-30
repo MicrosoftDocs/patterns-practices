@@ -4,16 +4,12 @@ Title: 'MefBindRegionContextToDependencyObjectBehavior Members (Microsoft.Practi
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefBindRegionContextToDependencyObjectBehavior'
 ms:mtpsurl: 'mefbindregioncontexttodependencyobjectbehavior-members-mspp-mefextensions-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-MefBindRegionContextToDependencyObjectBehavior Members
-======================================================
+
+# MefBindRegionContextToDependencyObjectBehavior Members
 
 The [MefBindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefbindregioncontexttodependencyobjectbehavior) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -109,8 +104,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -134,10 +128,7 @@ Behavior's attached region.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefBindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefbindregioncontexttodependencyobjectbehavior)
+## See Also
+[MefBindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefbindregioncontexttodependencyobjectbehavior)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)

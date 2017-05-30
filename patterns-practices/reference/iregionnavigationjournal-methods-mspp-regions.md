@@ -4,16 +4,12 @@ Title: 'IRegionNavigationJournal Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal'
 ms:mtpsurl: 'iregionnavigationjournal-methods-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionNavigationJournal Methods
-================================
+
+# IRegionNavigationJournal Methods
 
 The [IRegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -57,10 +53,7 @@ Records the navigation to the entry..
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
+## See Also
+[IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

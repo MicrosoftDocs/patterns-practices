@@ -9,7 +9,7 @@ ms:mtpsurl: 'clearchildviewsregionbehavior-setclearchildviews-method-mspp-region
 
 Sets the ClearChildViews attached property in a DependencyObject.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -31,9 +31,7 @@ Public Shared Sub SetClearChildViews (
 	value As Boolean
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *target*
 
@@ -47,8 +45,8 @@ Public Shared Sub SetClearChildViews (
 
 ## See Also
 
-[ClearChildViewsRegionBehavior Class](clearchildviewsregionbehavior-class-mspp-regions-behaviors.md)
+[ClearChildViewsRegionBehavior Class](clearchildviewsregionbehavior-class-mspp-regions-behaviors)
 
-[ClearChildViewsRegionBehavior Members](clearchildviewsregionbehavior-members-mspp-regions-behaviors.md)
+[ClearChildViewsRegionBehavior Members](clearchildviewsregionbehavior-members-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)

@@ -4,11 +4,8 @@ Title: 'RegionNavigationJournalEntry Constructor (Microsoft.Practices.Prism.Regi
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry.\#ctor'
 ms:mtpsurl: 'regionnavigationjournalentry-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationJournalEntry Constructor
-========================================
+
+# RegionNavigationJournalEntry Constructor
 
 Initializes a new instance of the [RegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [RegionNavigationJournalEntry](https://msdn.mi
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public RegionNavigationJournalEntry()Public Sub New
 
-
-public RegionNavigationJournalEntry()Public Sub New
-
-See Also
---------
-
-
-[RegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry)
+## See Also
+[RegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry)
 
 [RegionNavigationJournalEntry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationjournalentry)
 

@@ -4,16 +4,12 @@ Title: 'IRegionNavigationJournalEntry Members (Microsoft.Practices.Prism.Regions
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry'
 ms:mtpsurl: 'iregionnavigationjournalentry-members-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionNavigationJournalEntry Members
-=====================================
+
+# IRegionNavigationJournalEntry Members
 
 The [IRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -43,10 +39,7 @@ Gets or sets the URI.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegionNavigationJournalEntry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry)
+## See Also
+[IRegionNavigationJournalEntry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

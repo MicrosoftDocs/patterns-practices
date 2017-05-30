@@ -4,16 +4,12 @@ Title: 'RegionBehaviorCollection Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionBehaviorCollection'
 ms:mtpsurl: 'regionbehaviorcollection-properties-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionBehaviorCollection Properties
-===================================
+
+# RegionBehaviorCollection Properties
 
 The [RegionBehaviorCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -36,10 +32,7 @@ Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.r
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionBehaviorCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection)
+## See Also
+[RegionBehaviorCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

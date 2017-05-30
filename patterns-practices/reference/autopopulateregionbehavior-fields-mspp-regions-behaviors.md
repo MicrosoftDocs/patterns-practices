@@ -4,16 +4,12 @@ Title: 'AutoPopulateRegionBehavior Fields (Microsoft.Practices.Prism.Regions.Beh
 ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior'
 ms:mtpsurl: 'autopopulateregionbehavior-fields-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-AutoPopulateRegionBehavior Fields
-=================================
+
+# AutoPopulateRegionBehavior Fields
 
 The [AutoPopulateRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior) type exposes the following members.
 
-Fields
-------
+## Fields
 
 <span id="fieldTableToggle"></span>
 <table>
@@ -36,10 +32,7 @@ The key of this behavior.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[AutoPopulateRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior)
+## See Also
+[AutoPopulateRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

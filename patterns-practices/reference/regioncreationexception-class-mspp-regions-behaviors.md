@@ -4,11 +4,8 @@ Title: 'RegionCreationException Class (Microsoft.Practices.Prism.Regions.Behavio
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.Behaviors.RegionCreationException'
 ms:mtpsurl: 'regioncreationexception-class-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionCreationException Class
-=============================
+
+# RegionCreationException Class
 
 Represents errors that occured during region creation.
 
@@ -18,21 +15,15 @@ Represents errors that occured during region creation.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+[SerializableAttribute\] public class RegionCreationException : Exception&lt;SerializableAttribute&gt; Public Class RegionCreationException Inherits Exception
 
-
-[SerializableAttribute\] public class RegionCreationException : Exception&lt;SerializableAttribute&gt; Public Class RegionCreationException Inherits Exception
-
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
     Microsoft.Practices.Prism.Regions.Behaviors.RegionCreationException
 
-See Also
---------
-
-
-[RegionCreationException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regioncreationexception)
+## See Also
+[RegionCreationException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regioncreationexception)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

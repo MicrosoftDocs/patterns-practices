@@ -4,14 +4,10 @@ Title: 'UnityContainerHelper.TryResolve Method (Microsoft.Practices.Prism.UnityE
 ms:assetid: 'Overload:Microsoft.Practices.Prism.UnityExtensions.UnityContainerHelper.TryResolve'
 ms:mtpsurl: 'unitycontainerhelper-tryresolve-method-iunitycontainer-type-mspp-unityextensions.md'
 ---
+
+# UnityContainerHelper.TryResolve Method
 
-Prism Class Library
-
-UnityContainerHelper.TryResolve Method
-==========================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,11 +37,8 @@ Utility method to try to resolve a service from the container avoiding an except
 </tbody>
 </table>
 
-See Also
---------
-
-
-[UnityContainerHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper)
+## See Also
+[UnityContainerHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper)
 
 [UnityContainerHelper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitycontainerhelper)
 

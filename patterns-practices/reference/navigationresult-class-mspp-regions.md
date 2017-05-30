@@ -4,11 +4,8 @@ Title: 'NavigationResult Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.NavigationResult'
 ms:mtpsurl: 'navigationresult-class-mspp-regions.md'
 ---
-
-Prism Class Library
-
-NavigationResult Class
-======================
+
+# NavigationResult Class
 
 Represents the result of navigating to a URI.
 
@@ -18,20 +15,14 @@ Represents the result of navigating to a URI.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public class NavigationResultPublic Class NavigationResult
 
-
-public class NavigationResultPublic Class NavigationResult
-
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Regions.NavigationResult
 
-See Also
---------
-
-
-[NavigationResult Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationresult)
+## See Also
+[NavigationResult Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationresult)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

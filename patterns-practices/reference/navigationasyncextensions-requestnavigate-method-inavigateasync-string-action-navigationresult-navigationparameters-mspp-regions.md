@@ -4,11 +4,8 @@ Title: 'NavigationAsyncExtensions.RequestNavigate Method (INavigateAsync, String
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationAsyncExtensions.RequestNavigate(Microsoft.Practices.Prism.Regions.INavigateAsync,System.String,System.Action{Microsoft.Practices.Prism.Regions.NavigationResult},Microsoft.Practices.Prism.Regions.NavigationParameters)'
 ms:mtpsurl: 'navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions.md'
 ---
-
-Prism Class Library
-
-NavigationAsyncExtensions.RequestNavigate Method (INavigateAsync, String, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)
-==================================================================================================================================================
+
+# NavigationAsyncExtensions.RequestNavigate Method (INavigateAsync, String, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)
 
 Initiates navigation to the target specified by the target.
 
@@ -18,9 +15,7 @@ Initiates navigation to the target specified by the target.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public static void RequestNavigate( this INavigateAsync navigation, string target, Action&lt;NavigationResult&gt; navigationCallback, NavigationParameters navigationParameters )&lt;ExtensionAttribute&gt; Public Shared Sub RequestNavigate ( navigation As INavigateAsync, target As String, navigationCallback As Action(Of NavigationResult), navigationParameters As NavigationParameters )
+public static void RequestNavigate( this INavigateAsync navigation, string target, Action&lt;NavigationResult&gt; navigationCallback, NavigationParameters navigationParameters )&lt;ExtensionAttribute&gt; Public Shared Sub RequestNavigate ( navigation As INavigateAsync, target As String, navigationCallback As Action(Of NavigationResult), navigationParameters As NavigationParameters )
 
 ### Parameters
 
@@ -44,11 +39,8 @@ An instance of NavigationParameters, which holds a collection of object paramete
 
 In Visual Basic and C\#, you can call this method as an instance method on any object of type [INavigateAsync](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 
-See Also
---------
-
-
-[NavigationAsyncExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions)
+## See Also
+[NavigationAsyncExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions)
 
 [NavigationAsyncExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationasyncextensions)
 

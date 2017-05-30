@@ -4,16 +4,12 @@ Title: 'SingleActiveRegion Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.SingleActiveRegion'
 ms:mtpsurl: 'singleactiveregion-properties-mspp-regions.md'
 ---
+
+# SingleActiveRegion Properties
 
-Prism Class Library
+The [SingleActiveRegion](singleactiveregion-class-mspp-regions) type exposes the following members.
 
-SingleActiveRegion Properties
-=============================
-
-The [SingleActiveRegion](singleactiveregion-class-mspp-regions.md) type exposes the following members.
-
-Properties
-----------
+## Properties
 
 <table>
 
@@ -100,10 +96,7 @@ Gets a readonly view of the collection of views in the region.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
+[SingleActiveRegion Class](singleactiveregion-class-mspp-regions)
 
-
-[SingleActiveRegion Class](singleactiveregion-class-mspp-regions.md)
-
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

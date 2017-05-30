@@ -4,11 +4,8 @@ Title: 'ObservableObject(T).Value Property (Microsoft.Practices.Prism)'
 ms:assetid: 'P:Microsoft.Practices.Prism.ObservableObject\`1.Value'
 ms:mtpsurl: 'observableobject-t-value-property-mspp.md'
 ---
-
-Prism Class Library
-
-ObservableObject&lt;(Of &lt;(T&gt;)&gt;).Value Property
-===========================================================
+
+# ObservableObject&lt;(Of &lt;(T&gt;)&gt;).Value Property
 
 The value that's wrapped inside the ObservableObject.
 
@@ -18,18 +15,13 @@ The value that's wrapped inside the ObservableObject.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public T Value { get; set; }Public Property Value As T Get Set
+public T Value { get; set; }Public Property Value As T Get Set
 ### Property Value
 
 Type: [T](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601)
 
-See Also
---------
-
-
-[ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601)
+## See Also
+[ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601)
 
 [ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.observableobject%601)
 

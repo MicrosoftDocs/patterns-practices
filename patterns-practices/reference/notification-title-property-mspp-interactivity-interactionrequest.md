@@ -4,11 +4,8 @@ Title: 'Notification.Title Property (Microsoft.Practices.Prism.Interactivity.Int
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification.Title'
 ms:mtpsurl: 'notification-title-property-mspp-interactivity-interactionrequest.md'
 ---
-
-Prism Class Library
-
-Notification.Title Property
-===============================
+
+# Notification.Title Property
 
 Gets or sets the title to use for the notification.
 
@@ -18,9 +15,7 @@ Gets or sets the title to use for the notification.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public string Title { get; set; }Public Property Title As String Get Set
+public string Title { get; set; }Public Property Title As String Get Set
 ### Property Value
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
@@ -28,11 +23,8 @@ Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 [INotification.Title](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification.title)
 
-See Also
---------
-
-
-[Notification Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.notification)
+## See Also
+[Notification Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.notification)
 
 [Notification Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.notification)
 

@@ -4,11 +4,8 @@ Title: 'IHostAwareRegionBehavior.HostControl Property (Microsoft.Practices.Prism
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Behaviors.IHostAwareRegionBehavior.HostControl'
 ms:mtpsurl: 'ihostawareregionbehavior-hostcontrol-property-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-IHostAwareRegionBehavior.HostControl Property
-=================================================
+
+# IHostAwareRegionBehavior.HostControl Property
 
 Gets or sets the [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309) that the [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) is attached to.
 
@@ -18,19 +15,14 @@ Gets or sets the [DependencyObject](http://msdn.microsoft.com/en-us/library/ms58
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-DependencyObject HostControl { get; set; }Property HostControl As DependencyObject Get Set
+DependencyObject HostControl { get; set; }Property HostControl As DependencyObject Get Set
 ### Property Value
 
 Type: [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
 A [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309) that the [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) is attached to. This is usually a [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714) that is part of the tree.
 
-See Also
---------
-
-
-[IHostAwareRegionBehavior Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior)
+## See Also
+[IHostAwareRegionBehavior Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior)
 
 [IHostAwareRegionBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior)
 

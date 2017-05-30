@@ -4,11 +4,8 @@ Title: 'RegionBehaviorCollection.ContainsKey Method (Microsoft.Practices.Prism.R
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionBehaviorCollection.ContainsKey(System.String)'
 ms:mtpsurl: 'regionbehaviorcollection-containskey-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionBehaviorCollection.ContainsKey Method
-===============================================
+
+# RegionBehaviorCollection.ContainsKey Method
 
 Checks if a [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior) with the specified key is already present.
 
@@ -18,9 +15,7 @@ Checks if a [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.pract
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public bool ContainsKey( string key )Public Function ContainsKey ( key As String ) As Boolean
+public bool ContainsKey( string key )Public Function ContainsKey ( key As String ) As Boolean
 
 ### Parameters
 
@@ -35,11 +30,8 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 [IRegionBehaviorCollection.ContainsKey(String)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection.containskey(system.string))
 
-See Also
---------
-
-
-[RegionBehaviorCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection)
+## See Also
+[RegionBehaviorCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection)
 
 [RegionBehaviorCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehaviorcollection)
 

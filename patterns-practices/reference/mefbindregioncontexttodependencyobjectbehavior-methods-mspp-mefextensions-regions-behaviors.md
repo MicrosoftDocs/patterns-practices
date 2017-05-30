@@ -4,16 +4,12 @@ Title: 'MefBindRegionContextToDependencyObjectBehavior Methods (Microsoft.Practi
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefBindRegionContextToDependencyObjectBehavior'
 ms:mtpsurl: 'mefbindregioncontexttodependencyobjectbehavior-methods-mspp-mefextensions-regions-behaviors.md'
 ---
+
+# MefBindRegionContextToDependencyObjectBehavior Methods
 
-Prism Class Library
+The [MefBindRegionContextToDependencyObjectBehavior](mefbindregioncontexttodependencyobjectbehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
 
-MefBindRegionContextToDependencyObjectBehavior Methods
-======================================================
-
-The [MefBindRegionContextToDependencyObjectBehavior](mefbindregioncontexttodependencyobjectbehavior-class-mspp-mefextensions-regions-behaviors.md) type exposes the following members.
-
-Methods
--------
+## Methods
 
 <table>
 
@@ -84,11 +80,8 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
+[MefBindRegionContextToDependencyObjectBehavior Class](mefbindregioncontexttodependencyobjectbehavior-class-mspp-mefextensions-regions-behaviors)
 
-
-[MefBindRegionContextToDependencyObjectBehavior Class](mefbindregioncontexttodependencyobjectbehavior-class-mspp-mefextensions-regions-behaviors.md)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace)
 	

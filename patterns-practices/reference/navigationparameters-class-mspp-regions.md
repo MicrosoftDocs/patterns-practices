@@ -9,11 +9,9 @@ ms:mtpsurl: 'navigationparameters-class-mspp-regions.md'
 
 Represents Navigation parameters.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://review.docs.microsoft.com/en-us/patterns-practices/reference/mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) 
-
-**Version:** 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -21,15 +19,23 @@ Represents Navigation parameters.
 public class NavigationParameters : IEnumerable<KeyValuePair<string, Object>>, 
 	IEnumerable
 ```
-
 ```VB
 'Declaration
 Public Class NavigationParameters
 	Implements IEnumerable(Of KeyValuePair(Of String, Object)), 
 	IEnumerable
 ```
-
 ## Remarks
+
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+public class NavigationParameters : IEnumerable&lt;KeyValuePair&lt;string, Object&gt;&gt;, IEnumerablePublic Class NavigationParameters Implements IEnumerable(Of KeyValuePair(Of String, Object)), IEnumerable
 
 This class can be used to to pass object parameters during Navigation.
 
@@ -39,8 +45,13 @@ This class can be used to to pass object parameters during Navigation.
 
 Microsoft.Practices.Prism.Regions.NavigationParameters
 
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  Microsoft.Practices.Prism.Regions.NavigationParameters
+
 ## See Also
 
-[NavigationParameters Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters_members)
+[NavigationParameters Members](navigationparameters-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://review.docs.microsoft.com/en-us/patterns-practices/reference/mspp-regions-namespace)
+[NavigationParameters Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationparameters)
+
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

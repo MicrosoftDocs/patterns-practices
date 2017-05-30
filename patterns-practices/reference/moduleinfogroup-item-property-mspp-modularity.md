@@ -4,11 +4,8 @@ Title: 'ModuleInfoGroup.Item Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Item(System.Int32)'
 ms:mtpsurl: 'moduleinfogroup-item-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInfoGroup.Item Property
-=================================
+
+# ModuleInfoGroup.Item Property
 
 Gets or sets the [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) at the specified index.
 
@@ -18,9 +15,7 @@ Gets or sets the [ModuleInfo](https://msdn.microsoft.com/library/microsoft.pract
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ModuleInfo this[ int index \] { get; set; }Public Default Property Item ( index As Integer ) As ModuleInfo Get Set
+public ModuleInfo this[ int index \] { get; set; }Public Default Property Item ( index As Integer ) As ModuleInfo Get Set
 
 ### Parameters
 
@@ -35,11 +30,8 @@ The [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.mo
 
 [IList&lt;(Of &lt;(T&gt;)&gt;).Item[([(Int32\])\])](http://msdn.microsoft.com/en-us/library/ewthkb10)
 
-See Also
---------
-
-
-[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
+## See Also
+[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 
 [ModuleInfoGroup Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroup)
 

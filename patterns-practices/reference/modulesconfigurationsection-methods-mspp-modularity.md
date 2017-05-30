@@ -4,16 +4,12 @@ Title: 'ModulesConfigurationSection Methods (Microsoft.Practices.Prism.Modularit
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModulesConfigurationSection'
 ms:mtpsurl: 'modulesconfigurationsection-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModulesConfigurationSection Methods
-===================================
+
+# ModulesConfigurationSection Methods
 
 The [ModulesConfigurationSection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -285,10 +281,7 @@ Modifies the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">Configur
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModulesConfigurationSection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection)
+## See Also
+[ModulesConfigurationSection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

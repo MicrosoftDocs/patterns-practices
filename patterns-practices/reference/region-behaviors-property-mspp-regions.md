@@ -4,11 +4,8 @@ Title: 'Region.Behaviors Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.Behaviors'
 ms:mtpsurl: 'region-behaviors-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-Region.Behaviors Property
-=============================
+
+# Region.Behaviors Property
 
 Gets the collection of [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior)s that can extend the behavior of regions.
 
@@ -18,9 +15,7 @@ Gets the collection of [IRegionBehavior](https://msdn.microsoft.com/library/micr
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public IRegionBehaviorCollection Behaviors { get; }Public ReadOnly Property Behaviors As IRegionBehaviorCollection Get
+public IRegionBehaviorCollection Behaviors { get; }Public ReadOnly Property Behaviors As IRegionBehaviorCollection Get
 ### Property Value
 
 Type: [IRegionBehaviorCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection)
@@ -28,11 +23,8 @@ Type: [IRegionBehaviorCollection](https://msdn.microsoft.com/library/microsoft.p
 
 [IRegion.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.behaviors)
 
-See Also
---------
-
-
-[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
+## See Also
+[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 
 [Region Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.region)
 

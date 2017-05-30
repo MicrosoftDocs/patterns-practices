@@ -4,11 +4,8 @@ Title: 'ModuleDependencySolver.AddDependency Method (Microsoft.Practices.Prism.M
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencySolver.AddDependency(System.String,System.String)'
 ms:mtpsurl: 'moduledependencysolver-adddependency-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDependencySolver.AddDependency Method
-===============================================
+
+# ModuleDependencySolver.AddDependency Method
 
 Adds a module dependency between the modules specified by dependingModule and dependentModule.
 
@@ -18,9 +15,7 @@ Adds a module dependency between the modules specified by dependingModule and de
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public void AddDependency( string dependingModule, string dependentModule )Public Sub AddDependency ( dependingModule As String, dependentModule As String )
+public void AddDependency( string dependingModule, string dependentModule )Public Sub AddDependency ( dependingModule As String, dependentModule As String )
 
 ### Parameters
 
@@ -32,11 +27,8 @@ dependentModule
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the module dependingModule depends on.
 
-See Also
---------
-
-
-[ModuleDependencySolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver)
+## See Also
+[ModuleDependencySolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver)
 
 [ModuleDependencySolver Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencysolver)
 

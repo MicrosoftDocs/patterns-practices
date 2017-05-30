@@ -4,16 +4,12 @@ Title: 'NavigationContext Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.NavigationContext'
 ms:mtpsurl: 'navigationcontext-methods-mspp-regions.md'
 ---
-
-Prism Class Library
-
-NavigationContext Methods
-=========================
+
+# NavigationContext Methods
 
 The [NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -77,10 +73,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
+## See Also
+[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

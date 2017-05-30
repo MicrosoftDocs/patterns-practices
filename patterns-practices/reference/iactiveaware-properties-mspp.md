@@ -4,16 +4,12 @@ Title: 'IActiveAware Properties (Microsoft.Practices.Prism)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.IActiveAware'
 ms:mtpsurl: 'iactiveaware-properties-mspp.md'
 ---
-
-Prism Class Library
-
-IActiveAware Properties
-=======================
+
+# IActiveAware Properties
 
 The [IActiveAware](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -36,10 +32,7 @@ Gets or sets a value indicating whether the object is active.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IActiveAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware)
+## See Also
+[IActiveAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware)
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

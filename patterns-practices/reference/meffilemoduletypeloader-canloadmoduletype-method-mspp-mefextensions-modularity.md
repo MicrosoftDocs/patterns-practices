@@ -4,11 +4,8 @@ Title: 'MefFileModuleTypeLoader.CanLoadModuleType Method (Microsoft.Practices.Pr
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefFileModuleTypeLoader.CanLoadModuleType(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'meffilemoduletypeloader-canloadmoduletype-method-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-MefFileModuleTypeLoader.CanLoadModuleType Method
-====================================================
+
+# MefFileModuleTypeLoader.CanLoadModuleType Method
 
 Evaluates the [Ref](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.ref) property to see if the current typeloader will be able to retrieve the moduleInfo. Returns true if the [Ref](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.ref) property starts with "file://", because this indicates that the file is a local file.
 
@@ -18,9 +15,7 @@ Evaluates the [Ref](https://msdn.microsoft.com/library/microsoft.practices.prism
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public virtual bool CanLoadModuleType( ModuleInfo moduleInfo )Public Overridable Function CanLoadModuleType ( moduleInfo As ModuleInfo ) As Boolean
+public virtual bool CanLoadModuleType( ModuleInfo moduleInfo )Public Overridable Function CanLoadModuleType ( moduleInfo As ModuleInfo ) As Boolean
 
 ### Parameters
 
@@ -36,11 +31,8 @@ trueTruetruetrue (True in Visual Basic) if the current typeloader is able to ret
 
 [IModuleTypeLoader.CanLoadModuleType(ModuleInfo)](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader.canloadmoduletype(microsoft.practices.prism.modularity.moduleinfo))
 
-See Also
---------
-
-
-[MefFileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader)
+## See Also
+[MefFileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader)
 
 [MefFileModuleTypeLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader)
 

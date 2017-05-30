@@ -4,9 +4,7 @@ Title: 'ModuleInfoGroupExtensions.AddModule Method (ModuleInfoGroup, Type, Strin
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroupExtensions.AddModule(Microsoft.Practices.Prism.Modularity.ModuleInfoGroup,System.Type,System.String[])'
 ms:mtpsurl: 'addmodule-mthd-moduleinfogroup-str-type-str.md'
 ---
-
-Prism Class Library
-
+
 # ModuleInfoGroupExtensions.AddModule Method (ModuleInfoGroup, Type, array&lt;String&gt;)
 
 Adds a new module that is statically referenced to the specified module info group.

@@ -4,16 +4,12 @@ Title: 'MefRegionNavigationService Members (Microsoft.Practices.Prism.MefExtensi
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationService'
 ms:mtpsurl: 'mefregionnavigationservice-members-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
-MefRegionNavigationService Members
-==================================
+
+# MefRegionNavigationService Members
 
 The [MefRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -117,8 +112,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -150,8 +144,7 @@ Gets or sets the region.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -191,10 +184,7 @@ Raised when a navigation request fails.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefRegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice)
+## See Also
+[MefRegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)

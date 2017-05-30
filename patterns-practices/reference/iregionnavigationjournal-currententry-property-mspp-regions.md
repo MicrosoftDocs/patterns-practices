@@ -4,11 +4,8 @@ Title: 'IRegionNavigationJournal.CurrentEntry Property (Microsoft.Practices.Pris
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal.CurrentEntry'
 ms:mtpsurl: 'iregionnavigationjournal-currententry-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionNavigationJournal.CurrentEntry Property
-==================================================
+
+# IRegionNavigationJournal.CurrentEntry Property
 
 Gets the current navigation entry of the content that is currently displayed.
 
@@ -18,19 +15,14 @@ Gets the current navigation entry of the content that is currently displayed.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-IRegionNavigationJournalEntry CurrentEntry { get; }ReadOnly Property CurrentEntry As IRegionNavigationJournalEntry Get
+IRegionNavigationJournalEntry CurrentEntry { get; }ReadOnly Property CurrentEntry As IRegionNavigationJournalEntry Get
 ### Property Value
 
 Type: [IRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry)
 The current entry.
 
-See Also
---------
-
-
-[IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
+## See Also
+[IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
 
 [IRegionNavigationJournal Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionnavigationjournal)
 

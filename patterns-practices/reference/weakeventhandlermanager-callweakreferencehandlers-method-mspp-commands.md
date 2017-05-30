@@ -4,11 +4,8 @@ Title: 'WeakEventHandlerManager.CallWeakReferenceHandlers Method (Microsoft.Prac
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.WeakEventHandlerManager.CallWeakReferenceHandlers(System.Object,System.Collections.Generic.List{System.WeakReference})'
 ms:mtpsurl: 'weakeventhandlermanager-callweakreferencehandlers-method-mspp-commands.md'
 ---
-
-Prism Class Library
-
-WeakEventHandlerManager.CallWeakReferenceHandlers Method
-============================================================
+
+# WeakEventHandlerManager.CallWeakReferenceHandlers Method
 
 Invokes the handlers
 
@@ -16,9 +13,7 @@ Invokes the handlers
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
-
-public static void CallWeakReferenceHandlers( Object sender, List&lt;WeakReference&gt; handlers )Public Shared Sub CallWeakReferenceHandlers ( sender As Object, handlers As List(Of WeakReference) )
+public static void CallWeakReferenceHandlers( Object sender, List&lt;WeakReference&gt; handlers )Public Shared Sub CallWeakReferenceHandlers ( sender As Object, handlers As List(Of WeakReference) )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 handlers  
 Type: [System.Collections.Generic.List](http://msdn.microsoft.com/en-us/library/6sh2ey19)&lt;(Of &lt;([WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd)&gt;)&gt;)
 
-See Also
---------
-
-
-[WeakEventHandlerManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager)
+## See Also
+[WeakEventHandlerManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager)
 
 [WeakEventHandlerManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.weakeventhandlermanager)
 

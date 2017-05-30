@@ -4,16 +4,12 @@ Title: 'ModuleCatalog Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleCatalog'
 ms:mtpsurl: 'modulecatalog-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleCatalog Methods
-=====================
+
+# ModuleCatalog Methods
 
 The [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -245,10 +241,7 @@ Makes sure all modules have an Unique name.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
+## See Also
+[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

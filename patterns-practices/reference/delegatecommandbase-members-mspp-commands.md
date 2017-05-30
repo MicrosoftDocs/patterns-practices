@@ -4,16 +4,12 @@ Title: 'DelegateCommandBase Members (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Commands.DelegateCommandBase'
 ms:mtpsurl: 'delegatecommandbase-members-mspp-commands.md'
 ---
-
-Prism Class Library
-
-DelegateCommandBase Members
-===========================
+
+# DelegateCommandBase Members
 
 The [DelegateCommandBase](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -43,8 +39,7 @@ Creates a new instance of a <a href="https://msdn.microsoft.com/library/microsof
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -147,8 +142,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Fields
-------
+## Fields
 
 <span id="fieldTableToggle"></span>
 |                                                                                                | Name                                                                                                                        | Description |
@@ -156,8 +150,7 @@ Fields
 | ![](https://msdn.microsoft.com/en-us/Gg430762.protfield(en-us,PandP.50).gif "Protected field") | [\_canExecuteMethod](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase._canexecutemethod) |             |
 | ![](https://msdn.microsoft.com/en-us/Gg430762.protfield(en-us,PandP.50).gif "Protected field") | [\_executeMethod](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase._executemethod)       |             |
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -180,8 +173,7 @@ Gets or sets a value indicating whether the object is active.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -211,10 +203,7 @@ Fired if the <a href="https://msdn.microsoft.com/library/microsoft.practices.pri
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DelegateCommandBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)
+## See Also
+[DelegateCommandBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)

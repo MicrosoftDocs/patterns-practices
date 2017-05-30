@@ -4,11 +4,8 @@ Title: 'IInteractionRequestAware.Notification Property (Microsoft.Practices.Pris
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.InteractionRequest.IInteractionRequestAware.Notification'
 ms:mtpsurl: 'iinteractionrequestaware-notification-property-mspp-interactivity-interactionrequest.md'
 ---
-
-Prism Class Library
-
-IInteractionRequestAware.Notification Property
-==================================================
+
+# IInteractionRequestAware.Notification Property
 
 The [INotification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification) passed when the interaction request was raised.
 
@@ -18,18 +15,13 @@ The [INotification](https://msdn.microsoft.com/library/microsoft.practices.prism
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-INotification Notification { get; set; }Property Notification As INotification Get Set
+INotification Notification { get; set; }Property Notification As INotification Get Set
 ### Property Value
 
 Type: [INotification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification)
 
-See Also
---------
-
-
-[IInteractionRequestAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware)
+## See Also
+[IInteractionRequestAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware)
 
 [IInteractionRequestAware Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware)
 

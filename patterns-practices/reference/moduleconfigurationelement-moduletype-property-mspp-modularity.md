@@ -4,11 +4,8 @@ Title: 'ModuleConfigurationElement.ModuleType Property (Microsoft.Practices.Pris
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement.ModuleType'
 ms:mtpsurl: 'moduleconfigurationelement-moduletype-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleConfigurationElement.ModuleType Property
-==================================================
+
+# ModuleConfigurationElement.ModuleType Property
 
 Gets or sets the module type.
 
@@ -18,19 +15,14 @@ Gets or sets the module type.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public string ModuleType { get; set; }Public Property ModuleType As String Get Set
+public string ModuleType { get; set; }Public Property ModuleType As String Get Set
 ### Property Value
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The module's type.
 
-See Also
---------
-
-
-[ModuleConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
+## See Also
+[ModuleConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
 
 [ModuleConfigurationElement Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleconfigurationelement)
 

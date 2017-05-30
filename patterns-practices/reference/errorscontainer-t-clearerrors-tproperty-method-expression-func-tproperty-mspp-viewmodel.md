@@ -4,14 +4,12 @@ Title: 'ErrorsContainer(T).ClearErrors(TProperty) Method (Expression(Func(TPrope
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.ClearErrors\`\`1(System.Linq.Expressions.Expression{System.Func{\`\`0}})'
 ms:mtpsurl: 'errorscontainer-t-clearerrors-tproperty-method-expression-func-tproperty-mspp-viewmodel.md'
 ---
-
-Prism Class Library
-
+
 # ErrorsContainer&lt;T&gt;.ClearErrors&lt;TProperty&gt; Method (Expression&lt;Func&lt;TProperty&gt;&gt;)
 
 Clears the errors for the property indicated by the property expression.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -22,9 +20,7 @@ public void ClearErrors<TProperty>(
 	Expression<Func<TProperty>> propertyExpression
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *propertyExpression*
 
@@ -41,16 +37,16 @@ container.ClearErrors(()=>SomeProperty);
 
 ## See Also
 
-[ErrorsContainer&lt;T&gt; Class](errorscontainer-t-class-mspp-viewmodel.md)<br/>
-[ErrorsContainer&lt;T&gt; Members](errorscontainer-t-members-mspp-viewmodel.md)<br/>
-[ClearErrors Overload](errorscontainer-t-clearerrors-method-mspp-viewmodel.md)<br/>
-[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace.md)
+[ErrorsContainer&lt;T&gt; Class](errorscontainer-t-class-mspp-viewmodel)<br/>
+[ErrorsContainer&lt;T&gt; Members](errorscontainer-t-members-mspp-viewmodel)<br/>
+[ClearErrors Overload](errorscontainer-t-clearerrors-method-mspp-viewmodel)<br/>
+[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace)
 
 # ErrorsContainer(Of T).ClearErrors(Of TProperty) Method (Expression(Of Func(Of TProperty)))
 
 Clears the errors for the property indicated by the property expression.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -62,9 +58,7 @@ Public Sub ClearErrors(Of TProperty) (
 	propertyExpression As Expression(Of Func(Of TProperty))
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *propertyExpression*  
 
@@ -83,12 +77,10 @@ Public Sub ClearErrors(Of TProperty) (
 container.ClearErrors(()=&gt;SomeProperty);
 
 ## See Also
+[ErrorsContainer(Of T) Class](errorscontainer-t-class-mspp-viewmodel)
 
+[ErrorsContainer(Of T) Members](errorscontainer-t-members-mspp-viewmodel)
 
-[ErrorsContainer(Of T) Class](errorscontainer-t-class-mspp-viewmodel.md)
+[ClearErrors Overload](errorscontainer-t-clearerrors-method-mspp-viewmodel)
 
-[ErrorsContainer(Of T) Members](errorscontainer-t-members-mspp-viewmodel.md)
-
-[ClearErrors Overload](errorscontainer-t-clearerrors-method-mspp-viewmodel.md)
-
-[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace.md)
+[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace)

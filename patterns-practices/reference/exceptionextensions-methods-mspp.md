@@ -4,16 +4,12 @@ Title: 'ExceptionExtensions Methods (Microsoft.Practices.Prism)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ExceptionExtensions'
 ms:mtpsurl: 'exceptionextensions-methods-mspp.md'
 ---
+
+# ExceptionExtensions Methods
 
-Prism Class Library
+The [ExceptionExtensions](exceptionextensions-class-mspp) type exposes the following members.
 
-ExceptionExtensions Methods
-===========================
-
-The [ExceptionExtensions](exceptionextensions-class-mspp.md) type exposes the following members.
-
-Methods
--------
+## Methods
 
 <table>
 
@@ -49,10 +45,7 @@ Register the type of an Exception that is thrown by the framework. The <a href="
 </tbody>
 </table>
 
-See Also
---------
+## See Also
+[ExceptionExtensions Class](exceptionextensions-class-mspp)
 
-
-[ExceptionExtensions Class](exceptionextensions-class-mspp.md)
-
-[Microsoft.Practices.Prism Namespace](mspp-namespace.md)
+[Microsoft.Practices.Prism Namespace](mspp-namespace)

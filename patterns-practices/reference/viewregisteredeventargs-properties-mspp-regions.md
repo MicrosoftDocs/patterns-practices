@@ -4,16 +4,12 @@ Title: 'ViewRegisteredEventArgs Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs'
 ms:mtpsurl: 'viewregisteredeventargs-properties-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ViewRegisteredEventArgs Properties
-==================================
+
+# ViewRegisteredEventArgs Properties
 
 The [ViewRegisteredEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -43,10 +39,7 @@ Gets the region name to which the content was registered.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ViewRegisteredEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs)
+## See Also
+[ViewRegisteredEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -4,16 +4,12 @@ Title: 'IRegionBehavior Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionBehavior'
 ms:mtpsurl: 'iregionbehavior-members-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionBehavior Members
-=======================
+
+# IRegionBehavior Members
 
 The [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Attaches the behavior to the specified region.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -60,10 +55,7 @@ The region that this behavior is extending.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegionBehavior Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior)
+## See Also
+[IRegionBehavior Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

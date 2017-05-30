@@ -4,11 +4,8 @@ Title: 'NavigationResult.Result Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.NavigationResult.Result'
 ms:mtpsurl: 'navigationresult-result-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-NavigationResult.Result Property
-====================================
+
+# NavigationResult.Result Property
 
 Gets the result.
 
@@ -18,19 +15,14 @@ Gets the result.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public Nullable&lt;bool&gt; Result { get; }Public ReadOnly Property Result As Nullable(Of Boolean) Get
+public Nullable&lt;bool&gt; Result { get; }Public ReadOnly Property Result As Nullable(Of Boolean) Get
 ### Property Value
 
 Type: [Nullable](http://msdn.microsoft.com/en-us/library/b3h38hb0)&lt;(Of &lt;([Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
 The result.
 
-See Also
---------
-
-
-[NavigationResult Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult)
+## See Also
+[NavigationResult Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult)
 
 [NavigationResult Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationresult)
 

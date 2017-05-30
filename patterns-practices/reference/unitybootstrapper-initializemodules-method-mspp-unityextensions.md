@@ -4,11 +4,8 @@ Title: 'UnityBootstrapper.InitializeModules Method (Microsoft.Practices.Prism.Un
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.InitializeModules'
 ms:mtpsurl: 'unitybootstrapper-initializemodules-method-mspp-unityextensions.md'
 ---
-
-Prism Class Library
-
-UnityBootstrapper.InitializeModules Method
-==============================================
+
+# UnityBootstrapper.InitializeModules Method
 
 Initializes the modules. May be overwritten in a derived class to use a custom Modules Catalog
 
@@ -18,15 +15,10 @@ Initializes the modules. May be overwritten in a derived class to use a custom M
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+protected override void InitializeModules()Protected Overrides Sub InitializeModules
 
-
-protected override void InitializeModules()Protected Overrides Sub InitializeModules
-
-See Also
---------
-
-
-[UnityBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
+## See Also
+[UnityBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
 
 [UnityBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitybootstrapper)
 

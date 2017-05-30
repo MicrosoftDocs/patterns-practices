@@ -9,7 +9,7 @@ ms:mtpsurl: 'subscriptiontoken-equals-method-mspp-pubsubevents.md'
 
 Indicates whether the current object is equal to another object of the same type.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -25,7 +25,7 @@ public bool Equals(
 
 *other*
 
-Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](subscriptiontoken-class-mspp-pubsubevents.md)
+Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](subscriptiontoken-class-mspp-pubsubevents)
 	An object to compare with this object.
 
 ### Return Value
@@ -35,9 +35,7 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
 ### Implements
 
 [IEquatable&lt;T&gt;.Equals(T)](http://msdn2.microsoft.com/en-us/library/ms131190)
-
-
-```VB
+```VB
 'Declaration
 Public Function Equals ( 
 	other As SubscriptionToken
@@ -48,7 +46,7 @@ Public Function Equals (
 
 *other*
 
-Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](subscriptiontoken-class-mspp-pubsubevents.md)
+Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](subscriptiontoken-class-mspp-pubsubevents)
 	An object to compare with this object.
 
 ### Return Value
@@ -61,10 +59,10 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
 
 ## See Also
 
-[SubscriptionToken Class](subscriptiontoken-class-mspp-pubsubevents.md)
+[SubscriptionToken Class](subscriptiontoken-class-mspp-pubsubevents)
 
 SubscriptionToken Members
 
-[Equals Overload](subscriptiontoken-equals-method-mspp-pubsubevents.md)
+[Equals Overload](subscriptiontoken-equals-method-mspp-pubsubevents)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace)

@@ -40,8 +40,8 @@ Creates a new <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">Configu
 
 ## See Also
 
-[ModuleDependencyCollection Class](moduledependencycollection-class-mspp-modularity.md)
+[ModuleDependencyCollection Class](moduledependencycollection-class-mspp-modularity)
 
-[ModuleDependencyCollection Members](moduledependencycollection-members-mspp-modularity.md)
+[ModuleDependencyCollection Members](moduledependencycollection-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

@@ -4,11 +4,8 @@ Title: 'FileModuleTypeLoader Constructor (IAssemblyResolver) (Microsoft.Practice
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader.\#ctor(Microsoft.Practices.Prism.Modularity.IAssemblyResolver)'
 ms:mtpsurl: 'filemoduletypeloader-constructor-iassemblyresolver-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-FileModuleTypeLoader Constructor (IAssemblyResolver)
-====================================================
+
+# FileModuleTypeLoader Constructor (IAssemblyResolver)
 
 Initializes a new instance of the [FileModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader) class.
 
@@ -18,9 +15,7 @@ Initializes a new instance of the [FileModuleTypeLoader](https://msdn.microsoft.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public FileModuleTypeLoader( IAssemblyResolver assemblyResolver )Public Sub New ( assemblyResolver As IAssemblyResolver )
+public FileModuleTypeLoader( IAssemblyResolver assemblyResolver )Public Sub New ( assemblyResolver As IAssemblyResolver )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ assemblyResolver
 Type: [Microsoft.Practices.Prism.Modularity.IAssemblyResolver](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iassemblyresolver)
 The assembly resolver.
 
-See Also
---------
-
-
-[FileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader)
+## See Also
+[FileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader)
 
 [FileModuleTypeLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.filemoduletypeloader)
 

@@ -4,16 +4,12 @@ Title: 'DuplicateModuleException Properties (Microsoft.Practices.Prism.Modularit
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.DuplicateModuleException'
 ms:mtpsurl: 'duplicatemoduleexception-properties-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-DuplicateModuleException Properties
-===================================
+
+# DuplicateModuleException Properties
 
 The [DuplicateModuleException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -101,10 +97,7 @@ Gets the method that throws the current exception.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DuplicateModuleException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception)
+## See Also
+[DuplicateModuleException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

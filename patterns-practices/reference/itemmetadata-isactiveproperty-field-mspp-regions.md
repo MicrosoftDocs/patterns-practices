@@ -4,11 +4,8 @@ Title: 'ItemMetadata.IsActiveProperty Field (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'F:Microsoft.Practices.Prism.Regions.ItemMetadata.IsActiveProperty'
 ms:mtpsurl: 'itemmetadata-isactiveproperty-field-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ItemMetadata.IsActiveProperty Field
-=======================================
+
+# ItemMetadata.IsActiveProperty Field
 
 Value indicating whether the wrapped item is considered active.
 
@@ -18,18 +15,13 @@ Value indicating whether the wrapped item is considered active.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public static readonly DependencyProperty IsActivePropertyPublic Shared ReadOnly IsActiveProperty As DependencyProperty
+public static readonly DependencyProperty IsActivePropertyPublic Shared ReadOnly IsActiveProperty As DependencyProperty
 ### Field Value
 
 Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 
-See Also
---------
-
-
-[ItemMetadata Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)
+## See Also
+[ItemMetadata Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)
 
 [ItemMetadata Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.itemmetadata)
 

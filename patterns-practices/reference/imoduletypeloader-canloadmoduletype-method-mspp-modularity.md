@@ -7,9 +7,9 @@ ms:mtpsurl: 'imoduletypeloader-canloadmoduletype-method-mspp-modularity.md'
 
 # IModuleTypeLoader.CanLoadModuleType Method
 
-Evaluates the [Ref](moduleinfo-ref-property-mspp-modularity.md) property to see if the current typeloader will be able to retrieve the *moduleInfo*.
+Evaluates the [Ref](moduleinfo-ref-property-mspp-modularity) property to see if the current typeloader will be able to retrieve the *moduleInfo*.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -21,13 +21,11 @@ bool CanLoadModuleType(
 	ModuleInfo moduleInfo
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *moduleInfo*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Module that should have it's type loaded.
 
@@ -45,13 +43,11 @@ Function CanLoadModuleType (
 ) As Boolean
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *moduleInfo*
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity.md)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Module that should have it's type loaded.
 
@@ -63,8 +59,8 @@ Function CanLoadModuleType (
 
 ## See Also
 
-[IModuleTypeLoader Interface](imoduletypeloader-interface-mspp-modularity.md)
+[IModuleTypeLoader Interface](imoduletypeloader-interface-mspp-modularity)
 
-[IModuleTypeLoader Members](imoduletypeloader-members-mspp-modularity.md)
+[IModuleTypeLoader Members](imoduletypeloader-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

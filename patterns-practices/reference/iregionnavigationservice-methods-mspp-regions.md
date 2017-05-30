@@ -4,16 +4,12 @@ Title: 'IRegionNavigationService Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegionNavigationService'
 ms:mtpsurl: 'iregionnavigationservice-methods-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionNavigationService Methods
-================================
+
+# IRegionNavigationService Methods
 
 The [IRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -45,8 +41,7 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
 </tbody>
 </table>
 
-Extension Methods
------------------
+## Extension Methods
 
 <span id="extensionMethodTableToggle"></span>
 <table>
@@ -116,10 +111,7 @@ Initiates navigation to the target specified by the target.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegionNavigationService Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice)
+## See Also
+[IRegionNavigationService Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -4,11 +4,8 @@ Title: 'ModuleCatalog.AddModule Method (String, String, InitializationMode, Stri
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddModule(System.String,System.String,Microsoft.Practices.Prism.Modularity.InitializationMode,System.String[])'
 ms:mtpsurl: 'addmodule-mthd-str-str-initializationmode-str.md'
 ---
-
-Prism Class Library
-
-ModuleCatalog.AddModule Method (String, String, InitializationMode, array&lt;String&gt;)
-======================================================================================================
+
+# ModuleCatalog.AddModule Method (String, String, InitializationMode, array&lt;String&gt;)
 
 Adds a groupless [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) to the catalog.
 
@@ -60,11 +57,8 @@ Collection of module names ([ModuleName](https://msdn.microsoft.com/library/micr
 **Type:** [ModuleCatalog](https://msdn.microsoft.com/microsoft.practices.prism.modularity.modulecatalog)
 The same [ModuleCatalog](https://msdn.microsoft.com/microsoft.practices.prism.modularity.modulecatalog) instance with the added module.
 
-See Also
---------
-
-
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
+## See Also
+[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
 

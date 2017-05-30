@@ -4,11 +4,8 @@ Title: 'SyncActiveStateAttribute Constructor (Microsoft.Practices.Prism.Regions)
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.SyncActiveStateAttribute.\#ctor'
 ms:mtpsurl: 'syncactivestateattribute-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
-SyncActiveStateAttribute Constructor
-====================================
+
+# SyncActiveStateAttribute Constructor
 
 Initializes a new instance of the [SyncActiveStateAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [SyncActiveStateAttribute](https://msdn.micros
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public SyncActiveStateAttribute()Public Sub New
 
-
-public SyncActiveStateAttribute()Public Sub New
-
-See Also
---------
-
-
-[SyncActiveStateAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute)
+## See Also
+[SyncActiveStateAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute)
 
 [SyncActiveStateAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.syncactivestateattribute)
 

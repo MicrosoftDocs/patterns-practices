@@ -4,11 +4,8 @@ Title: 'ModuleInfoGroup.InitializationMode Property (Microsoft.Practices.Prism.M
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.InitializationMode'
 ms:mtpsurl: 'moduleinfogroup-initializationmode-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInfoGroup.InitializationMode Property
-===============================================
+
+# ModuleInfoGroup.InitializationMode Property
 
 Gets or sets the [InitializationMode](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.initializationmode) for the whole group. Any [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) classes that are added after setting this value will also get this InitializationMode.
 
@@ -18,19 +15,14 @@ Gets or sets the [InitializationMode](https://msdn.microsoft.com/library/microso
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public InitializationMode InitializationMode { get; set; }Public Property InitializationMode As InitializationMode Get Set
+public InitializationMode InitializationMode { get; set; }Public Property InitializationMode As InitializationMode Get Set
 ### Property Value
 
 Type: [InitializationMode](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.initializationmode)
 The initialization mode.
 
-See Also
---------
-
-
-[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
+## See Also
+[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 
 [ModuleInfoGroup Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroup)
 

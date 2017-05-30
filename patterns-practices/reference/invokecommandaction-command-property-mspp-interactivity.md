@@ -4,11 +4,8 @@ Title: 'InvokeCommandAction.Command Property (Microsoft.Practices.Prism.Interact
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.Command'
 ms:mtpsurl: 'invokecommandaction-command-property-mspp-interactivity.md'
 ---
-
-Prism Class Library
-
-InvokeCommandAction.Command Property
-========================================
+
+# InvokeCommandAction.Command Property
 
 Gets or sets the command to execute when invoked.
 
@@ -18,18 +15,13 @@ Gets or sets the command to execute when invoked.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ICommand Command { get; set; }Public Property Command As ICommand Get Set
+public ICommand Command { get; set; }Public Property Command As ICommand Get Set
 ### Property Value
 
 Type: [ICommand](http://msdn.microsoft.com/en-us/library/ms616869)
 
-See Also
---------
-
-
-[InvokeCommandAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction)
+## See Also
+[InvokeCommandAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction)
 
 [InvokeCommandAction Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.invokecommandaction)
 

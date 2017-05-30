@@ -4,11 +4,8 @@ Title: 'RegionAdapterBase(T).RegionBehaviorFactory Property (Microsoft.Practices
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionAdapterBase\`1.RegionBehaviorFactory'
 ms:mtpsurl: 'regionadapterbase-t-regionbehaviorfactory-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;).RegionBehaviorFactory Property
-============================================================================
+
+# RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;).RegionBehaviorFactory Property
 
 Gets or sets the factory used to create the region behaviors to attach to the created regions.
 
@@ -18,18 +15,13 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected IRegionBehaviorFactory RegionBehaviorFactory { get; set; }Protected Property RegionBehaviorFactory As IRegionBehaviorFactory Get Set
+protected IRegionBehaviorFactory RegionBehaviorFactory { get; set; }Protected Property RegionBehaviorFactory As IRegionBehaviorFactory Get Set
 ### Property Value
 
 Type: [IRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory)
 
-See Also
---------
-
-
-[RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601)
+## See Also
+[RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601)
 
 [RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionadapterbase%601)
 

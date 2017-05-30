@@ -4,11 +4,8 @@ Title: 'IRegionNavigationJournal.RecordNavigation Method (Microsoft.Practices.Pr
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal.RecordNavigation(Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry)'
 ms:mtpsurl: 'iregionnavigationjournal-recordnavigation-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionNavigationJournal.RecordNavigation Method
-====================================================
+
+# IRegionNavigationJournal.RecordNavigation Method
 
 Records the navigation to the entry..
 
@@ -18,9 +15,7 @@ Records the navigation to the entry..
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-void RecordNavigation( IRegionNavigationJournalEntry entry )Sub RecordNavigation ( entry As IRegionNavigationJournalEntry )
+void RecordNavigation( IRegionNavigationJournalEntry entry )Sub RecordNavigation ( entry As IRegionNavigationJournalEntry )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ entry
 Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry)
 The entry to record.
 
-See Also
---------
-
-
-[IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
+## See Also
+[IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
 
 [IRegionNavigationJournal Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionnavigationjournal)
 

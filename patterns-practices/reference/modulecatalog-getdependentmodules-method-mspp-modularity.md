@@ -4,11 +4,8 @@ Title: 'ModuleCatalog.GetDependentModules Method (Microsoft.Practices.Prism.Modu
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.GetDependentModules(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'modulecatalog-getdependentmodules-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleCatalog.GetDependentModules Method
-============================================
+
+# ModuleCatalog.GetDependentModules Method
 
 Return the list of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)s that moduleInfo depends on.
 
@@ -18,9 +15,7 @@ Return the list of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.pra
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public virtual IEnumerable&lt;ModuleInfo&gt; GetDependentModules( ModuleInfo moduleInfo )Public Overridable Function GetDependentModules ( moduleInfo As ModuleInfo ) As IEnumerable(Of ModuleInfo)
+public virtual IEnumerable&lt;ModuleInfo&gt; GetDependentModules( ModuleInfo moduleInfo )Public Overridable Function GetDependentModules ( moduleInfo As ModuleInfo ) As IEnumerable(Of ModuleInfo)
 
 ### Parameters
 
@@ -36,16 +31,12 @@ An enumeration of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.prac
 
 [IModuleCatalog.GetDependentModules(ModuleInfo)](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog.getdependentmodules(microsoft.practices.prism.modularity.moduleinfo))
 
-Remarks
--------
+## Remarks
 
  If the [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) was not yet validated, this method will call [Validate()()()](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog.validate).
 
-See Also
---------
-
-
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
+## See Also
+[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
 

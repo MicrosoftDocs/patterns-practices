@@ -4,11 +4,8 @@ Title: 'ModuleInfoGroup Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.\#ctor'
 ms:mtpsurl: 'moduleinfogroup-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInfoGroup Constructor
-===========================
+
+# ModuleInfoGroup Constructor
 
 Initializes a new instance of the [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [ModuleInfoGroup](https://msdn.microsoft.com/l
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public ModuleInfoGroup()Public Sub New
 
-
-public ModuleInfoGroup()Public Sub New
-
-See Also
---------
-
-
-[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
+## See Also
+[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 
 [ModuleInfoGroup Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroup)
 

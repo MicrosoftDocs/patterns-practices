@@ -4,11 +4,8 @@ Title: 'EmptyLogger.Log Method (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Logging.EmptyLogger.Log(System.String,Microsoft.Practices.Prism.Logging.Category,Microsoft.Practices.Prism.Logging.Priority)'
 ms:mtpsurl: 'emptylogger-log-method-mspp-logging.md'
 ---
-
-Prism Class Library
-
-EmptyLogger.Log Method
-==========================
+
+# EmptyLogger.Log Method
 
 This method does nothing.
 
@@ -18,9 +15,7 @@ This method does nothing.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public void Log( string message, Category category, Priority priority )Public Sub Log ( message As String, category As Category, priority As Priority )
+public void Log( string message, Category category, Priority priority )Public Sub Log ( message As String, category As Category, priority As Priority )
 
 ### Parameters
 
@@ -40,11 +35,8 @@ The priority of the entry.
 
 [ILoggerFacade.Log(String, Category, Priority)](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade.log(system.string%2cmicrosoft.practices.prism.logging.category%2cmicrosoft.practices.prism.logging.priority))
 
-See Also
---------
-
-
-[EmptyLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.emptylogger)
+## See Also
+[EmptyLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.emptylogger)
 
 [EmptyLogger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.logging.emptylogger)
 

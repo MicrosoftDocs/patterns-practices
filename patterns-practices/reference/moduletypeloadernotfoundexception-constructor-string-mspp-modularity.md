@@ -4,11 +4,8 @@ Title: 'ModuleTypeLoaderNotFoundException Constructor (String) (Microsoft.Practi
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException.\#ctor(System.String)'
 ms:mtpsurl: 'moduletypeloadernotfoundexception-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleTypeLoaderNotFoundException Constructor (String)
-======================================================
+
+# ModuleTypeLoaderNotFoundException Constructor (String)
 
 Initializes a new instance of the [ModuleTypeLoaderNotFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception) class with a specified error message.
 
@@ -18,9 +15,7 @@ Initializes a new instance of the [ModuleTypeLoaderNotFoundException](https://ms
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ModuleTypeLoaderNotFoundException( string message )Public Sub New ( message As String )
+public ModuleTypeLoaderNotFoundException( string message )Public Sub New ( message As String )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ message
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The message that describes the error.
 
-See Also
---------
-
-
-[ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
+## See Also
+[ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
 
 [ModuleTypeLoaderNotFoundException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
 

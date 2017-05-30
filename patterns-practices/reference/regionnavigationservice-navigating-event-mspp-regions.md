@@ -4,11 +4,8 @@ Title: 'RegionNavigationService.Navigating Event (Microsoft.Practices.Prism.Regi
 ms:assetid: 'E:Microsoft.Practices.Prism.Regions.RegionNavigationService.Navigating'
 ms:mtpsurl: 'regionnavigationservice-navigating-event-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationService.Navigating Event
-============================================
+
+# RegionNavigationService.Navigating Event
 
 Raised when the region is about to be navigated to content.
 
@@ -18,9 +15,7 @@ Raised when the region is about to be navigated to content.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public event EventHandler&lt;RegionNavigationEventArgs&gt; NavigatingPublic Event Navigating As EventHandler(Of RegionNavigationEventArgs)
+public event EventHandler&lt;RegionNavigationEventArgs&gt; NavigatingPublic Event Navigating As EventHandler(Of RegionNavigationEventArgs)
 ### Value
 
 Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([RegionNavigationEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs)&gt;)&gt;)
@@ -28,11 +23,8 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt
 
 [IRegionNavigationService.Navigating](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice.navigating)
 
-See Also
---------
-
-
-[RegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice)
+## See Also
+[RegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice)
 
 [RegionNavigationService Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationservice)
 

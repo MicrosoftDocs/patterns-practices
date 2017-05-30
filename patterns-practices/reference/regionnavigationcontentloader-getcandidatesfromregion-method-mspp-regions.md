@@ -4,11 +4,8 @@ Title: 'RegionNavigationContentLoader.GetCandidatesFromRegion Method (Microsoft.
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader.GetCandidatesFromRegion(Microsoft.Practices.Prism.Regions.IRegion,System.String)'
 ms:mtpsurl: 'regionnavigationcontentloader-getcandidatesfromregion-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationContentLoader.GetCandidatesFromRegion Method
-================================================================
+
+# RegionNavigationContentLoader.GetCandidatesFromRegion Method
 
 Returns the set of candidates that may satisfiy this navigation request.
 
@@ -18,9 +15,7 @@ Returns the set of candidates that may satisfiy this navigation request.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected virtual IEnumerable&lt;Object&gt; GetCandidatesFromRegion( IRegion region, string candidateNavigationContract )Protected Overridable Function GetCandidatesFromRegion ( region As IRegion, candidateNavigationContract As String ) As IEnumerable(Of Object)
+protected virtual IEnumerable&lt;Object&gt; GetCandidatesFromRegion( IRegion region, string candidateNavigationContract )Protected Overridable Function GetCandidatesFromRegion ( region As IRegion, candidateNavigationContract As String ) As IEnumerable(Of Object)
 
 ### Parameters
 
@@ -37,11 +32,8 @@ The candidate navigation target as determined by [GetContractFromNavigationConte
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 An enumerable of candidate objects from the [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 
-See Also
---------
-
-
-[RegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader)
+## See Also
+[RegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader)
 
 [RegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationcontentloader)
 

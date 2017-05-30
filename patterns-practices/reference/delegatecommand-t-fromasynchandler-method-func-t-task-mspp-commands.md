@@ -4,11 +4,8 @@ Title: 'DelegateCommand(T).FromAsyncHandler Method (Func(T, Task)) (Microsoft.Pr
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand\`1.FromAsyncHandler(System.Func{\`0,System.Threading.Tasks.Task})'
 ms:mtpsurl: 'delegatecommand-t-fromasynchandler-method-func-t-task-mspp-commands.md'
 ---
-
-Prism Class Library
-
-DelegateCommand&lt;(Of &lt;(T&gt;)&gt;).FromAsyncHandler Method (Func&lt;(Of &lt;(T, Task&gt;)&gt;))
-========================================================================================================
+
+# DelegateCommand&lt;(Of &lt;(T&gt;)&gt;).FromAsyncHandler Method (Func&lt;(Of &lt;(T, Task&gt;)&gt;))
 
 Factory method to create a new instance of [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601) from an awaitable handler method.
 
@@ -16,9 +13,7 @@ Factory method to create a new instance of [DelegateCommand&lt;(Of &lt;(T&gt;)&g
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
-
-public static DelegateCommand&lt;T&gt; FromAsyncHandler( Func&lt;T, Task&gt; executeMethod )Public Shared Function FromAsyncHandler ( executeMethod As Func(Of T, Task) ) As DelegateCommand(Of T)
+public static DelegateCommand&lt;T&gt; FromAsyncHandler( Func&lt;T, Task&gt; executeMethod )Public Shared Function FromAsyncHandler ( executeMethod As Func(Of T, Task) ) As DelegateCommand(Of T)
 
 ### Parameters
 
@@ -31,11 +26,8 @@ Delegate to execute when Execute is called on the command.
 Type: [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)&lt;(Of &lt;([T](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)&gt;)&gt;)
 Constructed instance of [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)
 
-See Also
---------
-
-
-[DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)
+## See Also
+[DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)
 
 [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand%601)
 

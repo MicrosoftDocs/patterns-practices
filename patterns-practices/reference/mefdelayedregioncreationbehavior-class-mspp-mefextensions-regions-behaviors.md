@@ -9,7 +9,7 @@ ms:mtpsurl: 'mefdelayedregioncreationbehavior-class-mspp-mefextensions-regions-b
 
 Exports the DelayedRegionCreationBehavior using the Managed Extensibility Framework (MEF).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](mspp-mefextensions-regions-behaviors-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](mspp-mefextensions-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -34,11 +34,11 @@ Public Class MefDelayedRegionCreationBehavior
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)</br>
-  [Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior](delayedregioncreationbehavior-class-mspp-regions-behaviors.md)</br>
+  [Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior](delayedregioncreationbehavior-class-mspp-regions-behaviors)</br>
     Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefDelayedRegionCreationBehavior
 
 ## See Also
 
-[MefDelayedRegionCreationBehavior Members](mefdelayedregioncreationbehavior-members-mspp-mefextensions-regions-behaviors.md)
+[MefDelayedRegionCreationBehavior Members](mefdelayedregioncreationbehavior-members-mspp-mefextensions-regions-behaviors)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace)

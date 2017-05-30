@@ -4,45 +4,36 @@ Title: 'SelectorRegionAdapter.AttachBehaviors Method (Microsoft.Practices.Prism.
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.SelectorRegionAdapter.AttachBehaviors(Microsoft.Practices.Prism.Regions.IRegion,System.Windows.Controls.Primitives.Selector)'
 ms:mtpsurl: 'selectorregionadapter-attachbehaviors-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-SelectorRegionAdapter.AttachBehaviors Method
-================================================
+
+# SelectorRegionAdapter.AttachBehaviors Method
 
 Attach new behaviors.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected override void AttachBehaviors( IRegion region, Selector regionTarget )Protected Overrides Sub AttachBehaviors ( region As IRegion, regionTarget As Selector )
+protected override void AttachBehaviors( IRegion region, Selector regionTarget )Protected Overrides Sub AttachBehaviors ( region As IRegion, regionTarget As Selector )
 
 ### Parameters
 
 region  
-Type: [Microsoft.Practices.Prism.Regions.IRegion](iregion-interface-mspp-regions.md)
+Type: [Microsoft.Practices.Prism.Regions.IRegion](iregion-interface-mspp-regions)
 The region being used.
 
 regionTarget  
 Type: [System.Windows.Controls.Primitives.Selector](http://msdn.microsoft.com/en-us/library/ms595227)
 The object to adapt.
 
-Remarks
--------
+## Remarks
 
  This class attaches the base behaviors and also listens for changes in the activity of the region or the control selection and keeps the in sync.
 
-See Also
---------
+## See Also
+[SelectorRegionAdapter Class](selectorregionadapter-class-mspp-regions)
 
+[SelectorRegionAdapter Members](selectorregionadapter-members-mspp-regions)
 
-[SelectorRegionAdapter Class](selectorregionadapter-class-mspp-regions.md)
-
-[SelectorRegionAdapter Members](selectorregionadapter-members-mspp-regions.md)
-
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
