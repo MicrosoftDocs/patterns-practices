@@ -1,4 +1,4 @@
----
+/patterns-practices/reference/---
 TOCTitle: AllActiveRegion Class
 Title: 'AllActiveRegion Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.AllActiveRegion'
@@ -37,6 +37,6 @@ Public Class AllActiveRegion
 
 ## See Also
 
-[AllActiveRegion Members](allactiveregion-members-mspp-regions)
+[AllActiveRegion Members](/patterns-practices/reference/allactiveregion-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
