@@ -52,8 +52,8 @@ Public Sub New
 ```
 ## See Also
 
-[InteractionRequest&lt;(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50))
+[InteractionRequest(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50))
 
-[InteractionRequest&lt;(Of T) Members](https://msdn.microsoft.com/en-us/library/gg430785(v=pandp.50))
+[InteractionRequest(Of T) Members](https://msdn.microsoft.com/en-us/library/gg430785(v=pandp.50))
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
