@@ -4,7 +4,8 @@ Title: 'InvokeCommandAction Events (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction'
 ms:mtpsurl: 'invokecommandaction-events-mspp-interactivity.md'
 ---
-
+
+
 # InvokeCommandAction Events
 
 The [InvokeCommandAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction) type exposes the following members.
@@ -34,6 +35,7 @@ Occurs when the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freez
 </table>
 
 ## See Also
-[InvokeCommandAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction)
+
+[InvokeCommandAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)

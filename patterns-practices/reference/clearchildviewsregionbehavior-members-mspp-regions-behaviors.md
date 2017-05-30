@@ -4,7 +4,8 @@ Title: 'ClearChildViewsRegionBehavior Members (Microsoft.Practices.Prism.Regions
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior'
 ms:mtpsurl: 'clearchildviewsregionbehavior-members-mspp-regions-behaviors.md'
 ---
-
+
+
 # ClearChildViewsRegionBehavior Members
 
 The [ClearChildViewsRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior) type exposes the following members.
@@ -196,6 +197,7 @@ Behavior's attached region.
 | ![](https://msdn.microsoft.com/en-us/Dn741421.pubproperty(en-us,PandP.50).gif "Public attached property") | [ClearChildViews](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.clearchildviews) |             |
 
 ## See Also
-[ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
+
+[ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

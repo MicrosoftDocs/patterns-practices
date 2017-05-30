@@ -4,7 +4,8 @@ Title: 'InvokeCommandAction Members (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction'
 ms:mtpsurl: 'invokecommandaction-members-mspp-interactivity.md'
 ---
-
+
+
 # InvokeCommandAction Members
 
 The [InvokeCommandAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction) type exposes the following members.
@@ -592,6 +593,7 @@ Occurs when the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freez
 </table>
 
 ## See Also
-[InvokeCommandAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction)
+
+[InvokeCommandAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)

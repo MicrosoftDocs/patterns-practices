@@ -4,7 +4,8 @@ Title: 'WeakEventHandlerManager Members (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Commands.WeakEventHandlerManager'
 ms:mtpsurl: 'weakeventhandlermanager-members-mspp-commands.md'
 ---
-
+
+
 # WeakEventHandlerManager Members
 
 The [WeakEventHandlerManager](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager) type exposes the following members.
@@ -47,6 +48,7 @@ Removes an event handler from the reference list.
 </table>
 
 ## See Also
-[WeakEventHandlerManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager)
+
+[WeakEventHandlerManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager)
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)

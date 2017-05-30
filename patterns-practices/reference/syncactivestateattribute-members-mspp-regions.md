@@ -4,7 +4,8 @@ Title: 'SyncActiveStateAttribute Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.SyncActiveStateAttribute'
 ms:mtpsurl: 'syncactivestateattribute-members-mspp-regions.md'
 ---
-
+
+
 # SyncActiveStateAttribute Members
 
 The [SyncActiveStateAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute) type exposes the following members.
@@ -121,6 +122,7 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 </table>
 
 ## See Also
-[SyncActiveStateAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute)
+
+[SyncActiveStateAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

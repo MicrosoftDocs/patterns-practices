@@ -4,7 +4,8 @@ Title: 'IConfirmation Members (Microsoft.Practices.Prism.Interactivity.Interacti
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.IConfirmation'
 ms:mtpsurl: 'iconfirmation-members-mspp-interactivity-interactionrequest.md'
 ---
-
+
+
 # IConfirmation Members
 
 The [IConfirmation](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation) type exposes the following members.
@@ -49,6 +50,7 @@ Gets or sets the title to use for the notification.
 </table>
 
 ## See Also
-[IConfirmation Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation)
+
+[IConfirmation Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation)
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)

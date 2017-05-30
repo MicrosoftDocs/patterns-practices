@@ -4,7 +4,8 @@ Title: 'ViewModelLocationProvider Members (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Mvvm.ViewModelLocationProvider'
 ms:mtpsurl: 'viewmodellocationprovider-members-mspp-mvvm.md'
 ---
-
+
+
 # ViewModelLocationProvider Members
 
 The [ViewModelLocationProvider](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.viewmodellocationprovider) type exposes the following members.
@@ -54,6 +55,7 @@ Sets the default view type to view model type resolver.
 </table>
 
 ## See Also
-[ViewModelLocationProvider Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.viewmodellocationprovider)
+
+[ViewModelLocationProvider Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.viewmodellocationprovider)
 
 [Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)
