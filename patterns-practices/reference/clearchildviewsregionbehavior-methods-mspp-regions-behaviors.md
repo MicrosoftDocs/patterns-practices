@@ -7,7 +7,7 @@ ms:mtpsurl: 'clearchildviewsregionbehavior-methods-mspp-regions-behaviors.md'
 
 # ClearChildViewsRegionBehavior Methods
 
-The [ClearChildViewsRegionBehavior](clearchildviewsregionbehavior-class-mspp-regions-behaviors) type exposes the following members.
+The [ClearChildViewsRegionBehavior](/patterns-practices/reference/clearchildviewsregionbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Methods
 
@@ -106,6 +106,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[ClearChildViewsRegionBehavior Class](clearchildviewsregionbehavior-class-mspp-regions-behaviors)
+[ClearChildViewsRegionBehavior Class](/patterns-practices/reference/clearchildviewsregionbehavior-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
