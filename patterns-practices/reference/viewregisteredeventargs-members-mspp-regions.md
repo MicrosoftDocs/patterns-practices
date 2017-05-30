@@ -4,19 +4,18 @@ Title: 'ViewRegisteredEventArgs Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs'
 ms:mtpsurl: 'viewregisteredeventargs-members-mspp-regions.md'
 ---
-
+
 # ViewRegisteredEventArgs Members
 
 The [ViewRegisteredEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs) type exposes the following members.
 
 ## Constructors
 
-<span id="constructorTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -34,12 +33,11 @@ Initializes the ViewRegisteredEventArgs class.
 
 ## Methods
 
-<span id="methodTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -98,12 +96,11 @@ Returns a string that represents the current object.
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -127,6 +124,6 @@ Gets the region name to which the content was registered.
 </table>
 
 ## See Also
-[ViewRegisteredEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs)
+[ViewRegisteredEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

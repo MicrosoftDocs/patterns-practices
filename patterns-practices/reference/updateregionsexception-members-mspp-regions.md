@@ -4,19 +4,18 @@ Title: 'UpdateRegionsException Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.UpdateRegionsException'
 ms:mtpsurl: 'updateregionsexception-members-mspp-regions.md'
 ---
-
+
 # UpdateRegionsException Members
 
 The [UpdateRegionsException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception) type exposes the following members.
 
 ## Constructors
 
-<span id="constructorTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -24,7 +23,7 @@ The [UpdateRegionsException](https://msdn.microsoft.com/library/microsoft.practi
 <tbody>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception.">UpdateRegionsException()()()</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception.">UpdateRegionsException</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception">UpdateRegionsException</a>
 </div></td>
@@ -55,12 +54,11 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## Methods
 
-<span id="methodTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -133,14 +131,13 @@ Creates and returns a string representation of the current exception.
 </tbody>
 </table>
 
-## Extension Methods
+## Extension Methods
 
-<span id="extensionMethodTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -159,12 +156,11 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -239,12 +235,11 @@ Gets the method that throws the current exception.
 
 ## Events
 
-<span id="eventTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -262,6 +257,6 @@ Occurs when an exception is serialized to create an exception state object that 
 </table>
 
 ## See Also
-[UpdateRegionsException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception)
+[UpdateRegionsException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

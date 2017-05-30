@@ -4,19 +4,18 @@ Title: 'ViewSortHintAttribute Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.ViewSortHintAttribute'
 ms:mtpsurl: 'viewsorthintattribute-members-mspp-regions.md'
 ---
-
+
 # ViewSortHintAttribute Members
 
 The [ViewSortHintAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewsorthintattribute) type exposes the following members.
 
 ## Constructors
 
-<span id="constructorTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -34,12 +33,11 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## Methods
 
-<span id="methodTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -98,12 +96,11 @@ Returns a string that represents the current object.
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -128,6 +125,6 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 </table>
 
 ## See Also
-[ViewSortHintAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewsorthintattribute)
+[ViewSortHintAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewsorthintattribute)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

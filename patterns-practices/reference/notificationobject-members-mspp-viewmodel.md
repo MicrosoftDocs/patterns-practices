@@ -4,19 +4,18 @@ Title: 'NotificationObject Members (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.ViewModel.NotificationObject'
 ms:mtpsurl: 'notificationobject-members-mspp-viewmodel.md'
 ---
-
+
 # NotificationObject Members
 
 The [NotificationObject](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject) type exposes the following members.
 
 ## Constructors
 
-<span id="constructorTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -24,7 +23,7 @@ The [NotificationObject](https://msdn.microsoft.com/library/microsoft.practices.
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg405532.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject.">NotificationObject</a></td>
+<td>NotificationObject</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject">NotificationObject</a> class
 </div></td>
@@ -34,12 +33,11 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## Methods
 
-<span id="methodTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -94,14 +92,14 @@ Raises this object's PropertyChanged event.
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg405532.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged(system.string%5b%5d)">RaisePropertyChanged(array&lt;String&gt;)</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/gg419030(v=pandp.50)">RaisePropertyChanged(String[])</a></td>
 <td><div class="summary">
 Raises this object's PropertyChanged event for each of the properties.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg405532.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged%60%601(system.linq.expressions.expression%7bsystem.func%7b%60%600%7d%7d)">RaisePropertyChanged&lt;(Of &lt;(T&gt;)&gt;)(Expression&lt;(Of &lt;(Func&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;))</a></td>
+<td><a href="https://msdn.microsoft.com/en-us/library/gg406218(v=pandp.50)">RaisePropertyChanged&lt;T&gt;(Expression&lt;Func&lt;T&gt;&gt;&gt;</a></td>
 <td><div class="summary">
 Raises this object's PropertyChanged event.
 </div></td>
@@ -119,12 +117,11 @@ Returns a string that represents the current object.
 
 ## Events
 
-<span id="eventTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -141,6 +138,6 @@ Raised when a property on this object has a new value.
 </table>
 
 ## See Also
-[NotificationObject Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject)
+[NotificationObject Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject)
 
 [Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)

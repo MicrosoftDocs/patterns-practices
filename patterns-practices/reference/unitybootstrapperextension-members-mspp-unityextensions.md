@@ -4,19 +4,18 @@ Title: 'UnityBootstrapperExtension Members (Microsoft.Practices.Prism.UnityExten
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtension'
 ms:mtpsurl: 'unitybootstrapperextension-members-mspp-unityextensions.md'
 ---
-
+
 # UnityBootstrapperExtension Members
 
 The [UnityBootstrapperExtension](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension) type exposes the following members.
 
 ## Constructors
 
-<span id="constructorTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -34,12 +33,11 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## Methods
 
-<span id="methodTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -123,13 +121,12 @@ Returns a string that represents the current object.
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
-|                                                                                                      | Name      | Description                               |
-|------------------------------------------------------------------------------------------------------|-----------|-------------------------------------------|
-| ![](https://msdn.microsoft.com/en-us/Gg405526.pubproperty(en-us,PandP.50).gif "Public property")     | Container | (Inherited from UnityContainerExtension.) |
+||Name|Description|
+|----|----|----|
+|![](https://msdn.microsoft.com/en-us/Gg405526.pubproperty(en-us,PandP.50).gif "Public property")     | Container | (Inherited from UnityContainerExtension.) |
 | ![](https://msdn.microsoft.com/en-us/Gg405526.protproperty(en-us,PandP.50).gif "Protected property") | Context   | (Inherited from UnityContainerExtension.) |
 
 ## See Also
-[UnityBootstrapperExtension Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension)
+[UnityBootstrapperExtension Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension)
 
 [Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
