@@ -1,4 +1,4 @@
---
+---
 TOCTitle: SubscriptionToken Property
 Title: 'IEventSubscription.SubscriptionToken Property (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'P:Microsoft.Practices.Prism.PubSubEvents.IEventSubscription.SubscriptionToken'
@@ -7,48 +7,39 @@ ms:mtpsurl: 'ieventsubscription-subscriptiontoken-property-mspp-pubsubevents.md'
 
 # IEventSubscription.SubscriptionToken Property
 
+Gets or sets a SubscriptionToken that identifies this [IEventSubscription](https://review.docs.microsoft.com/en-us/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).
 
-Gets or sets a SubscriptionToken that identifies this [IEventSubscription](ieventsubscription-interface-mspp-pubsubevents.md).
-=======
-IEventSubscription.SubscriptionToken Property
-=================================================
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://review.docs.microsoft.com/en-us/patterns-practices/reference/mspp-pubsubevents-namespace)
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) 
 
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
-=======
-
-
-SubscriptionToken SubscriptionToken { get; set; }Property SubscriptionToken As SubscriptionToken Get Set
-### Property Value
-
-
-```C#
+```C#  
 SubscriptionToken SubscriptionToken { get; set; }
 ```
-```VB
+
+```VB  
 'Declaration
 Property SubscriptionToken As SubscriptionToken
 	Get
 	Set
 ```
+
 ### Property Value
 
-Type: [SubscriptionToken](subscriptiontoken-class-mspp-pubsubevents.md)
-
-A token that identifies this [IEventSubscription](ieventsubscription-interface-mspp-pubsubevents.md).
-=======
+Type: [SubscriptionToken](https://review.docs.microsoft.com/en-us/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)
 
 [IEventSubscription Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription)
 
-
 ## See Also
 
-[IEventSubscription Interface](ieventsubscription-interface-mspp-pubsubevents.md)
+[IEventSubscription Interface](https://review.docs.microsoft.com/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents
+)
 
 IEventSubscription Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](ieventsubscription-interface-mspp-pubsubevents.md)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](https://review.docs.microsoft.com/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents
+)
