@@ -4,7 +4,8 @@ Title: 'Bootstrapper.Run Method (Microsoft.Practices.Prism)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Bootstrapper.Run'
 ms:mtpsurl: 'bootstrapper-run-method-boolean-mspp.md'
 ---
-
+
+
 # Bootstrapper.Run Method
 
 ## Overload List
@@ -37,8 +38,9 @@ Run the bootstrapper process.
 </table>
 
 ## See Also
-[Bootstrapper Class](bootstrapper-class-mspp)
 
-[Bootstrapper Members](bootstrapper-members-mspp)
+[Bootstrapper Class](/patterns-practices/reference/bootstrapper-class-mspp)
 
-[Microsoft.Practices.Prism Namespace](mspp-namespace)
+[Bootstrapper Members](/patterns-practices/reference/bootstrapper-members-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
