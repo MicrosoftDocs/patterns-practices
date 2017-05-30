@@ -4,14 +4,12 @@ Title: 'ModuleCatalog.Sort Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.Sort(System.Collections.Generic.IEnumerable{Microsoft.Practices.Prism.Modularity.ModuleInfo})'
 ms:mtpsurl: 'modulecatalog-sort-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleCatalog.Sort Method
 
-Sorts a list of [ModuleInfo](moduleinfo-class-mspp-modularity.md)s. This method is called by [CompleteListWithDependencies(IEnumerable&lt;ModuleInfo&gt;)](modulecatalog-completelistwithdependencies-method-mspp-modularity.md) to return a sorted list.
+Sorts a list of [ModuleInfo](moduleinfo-class-mspp-modularity)s. This method is called by [CompleteListWithDependencies(IEnumerable&lt;ModuleInfo&gt;)](modulecatalog-completelistwithdependencies-method-mspp-modularity) to return a sorted list.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -31,23 +29,21 @@ Protected Overridable Function Sort (
 	modules As IEnumerable(Of ModuleInfo)
 ) As IEnumerable(Of ModuleInfo)
 ```
-
-
-### Parameters
+### Parameters
 
 *modules*
 
-	Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)<[ModuleInfo](moduleinfo-class-mspp-modularity.md)>
-	The [ModuleInfo](moduleinfo-class-mspp-modularity.md)s to sort.
+	Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)<[ModuleInfo](moduleinfo-class-mspp-modularity)>
+	The [ModuleInfo](moduleinfo-class-mspp-modularity)s to sort.
 
 ### Return Value
-Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfo](moduleinfo-class-mspp-modularity.md)&gt;<br/>
-Sorted list of [ModuleInfo](moduleinfo-class-mspp-modularity.md)s
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfo](moduleinfo-class-mspp-modularity)&gt;<br/>
+Sorted list of [ModuleInfo](moduleinfo-class-mspp-modularity)s
 
 ## See Also
 
-[ModuleCatalog Class](modulecatalog-class-mspp-modularity.md)
+[ModuleCatalog Class](modulecatalog-class-mspp-modularity)
 
-[ModuleCatalog Members](modulecatalog-members-mspp-modularity.md)
+[ModuleCatalog Members](modulecatalog-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

@@ -4,14 +4,10 @@ Title: 'DelegateCommand.Execute Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Commands.DelegateCommand.Execute'
 ms:mtpsurl: 'delegatecommand-execute-method-mspp-commands.md'
 ---
+
+# DelegateCommand.Execute Method
 
-Prism Class Library
-
-DelegateCommand.Execute Method
-==================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -42,11 +38,8 @@ Executes the command with the provided parameter by invoking the <a href="http:/
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
+## See Also
+[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
 
 [DelegateCommand Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand)
 

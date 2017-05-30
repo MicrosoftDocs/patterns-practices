@@ -4,11 +4,8 @@ Title: 'DelegateCommandBase.IsActiveChanged Event (Microsoft.Practices.Prism.Com
 ms:assetid: 'E:Microsoft.Practices.Prism.Commands.DelegateCommandBase.IsActiveChanged'
 ms:mtpsurl: 'delegatecommandbase-isactivechanged-event-mspp-commands.md'
 ---
-
-Prism Class Library
-
-DelegateCommandBase.IsActiveChanged Event
-=============================================
+
+# DelegateCommandBase.IsActiveChanged Event
 
 Fired if the [IsActive](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase.isactive) property changes.
 
@@ -16,9 +13,7 @@ Fired if the [IsActive](https://msdn.microsoft.com/library/microsoft.practices.p
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
-
-public virtual event EventHandler IsActiveChangedPublic Overridable Event IsActiveChanged As EventHandler
+public virtual event EventHandler IsActiveChangedPublic Overridable Event IsActiveChanged As EventHandler
 ### Value
 
 Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
@@ -26,11 +21,8 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
 
 [IActiveAware.IsActiveChanged](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware.isactivechanged)
 
-See Also
---------
-
-
-[DelegateCommandBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)
+## See Also
+[DelegateCommandBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)
 
 [DelegateCommandBase Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommandbase)
 

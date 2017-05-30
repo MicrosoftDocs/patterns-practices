@@ -4,16 +4,12 @@ Title: 'INavigateAsync Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.INavigateAsync'
 ms:mtpsurl: 'inavigateasync-members-mspp-regions.md'
 ---
-
-Prism Class Library
-
-INavigateAsync Members
-======================
+
+# INavigateAsync Members
 
 The [INavigateAsync](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -43,8 +39,7 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
 </tbody>
 </table>
 
-Extension Methods
------------------
+## Extension Methods
 
 <span id="extensionMethodTableToggle"></span>
 <table>
@@ -114,10 +109,7 @@ Initiates navigation to the target specified by the target.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[INavigateAsync Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync)
+## See Also
+[INavigateAsync Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

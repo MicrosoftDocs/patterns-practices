@@ -4,16 +4,12 @@ Title: 'RegionManager Fields (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Regions.RegionManager'
 ms:mtpsurl: 'regionmanager-fields-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionManager Fields
-====================
+
+# RegionManager Fields
 
 The [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager) type exposes the following members.
 
-Fields
-------
+## Fields
 
 <table>
 
@@ -49,10 +45,7 @@ Identifies the RegionName attached property.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)
+## See Also
+[RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

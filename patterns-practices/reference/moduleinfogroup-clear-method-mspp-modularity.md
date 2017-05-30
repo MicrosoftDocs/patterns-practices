@@ -4,11 +4,8 @@ Title: 'ModuleInfoGroup.Clear Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Clear'
 ms:mtpsurl: 'moduleinfogroup-clear-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInfoGroup.Clear Method
-================================
+
+# ModuleInfoGroup.Clear Method
 
 Removes all [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)s from the [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup).
 
@@ -18,19 +15,14 @@ Removes all [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public void Clear()Public Sub Clear
+public void Clear()Public Sub Clear
 ### Implements
 
 [ICollection&lt;(Of &lt;(T&gt;)&gt;).Clear()()()](http://msdn.microsoft.com/en-us/library/5axy4fbh)
 [IList.Clear()()()](http://msdn.microsoft.com/en-us/library/5h6ak0yz)
 
-See Also
---------
-
-
-[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
+## See Also
+[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 
 [ModuleInfoGroup Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroup)
 

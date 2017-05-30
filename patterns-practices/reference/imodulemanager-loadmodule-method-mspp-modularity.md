@@ -4,11 +4,8 @@ Title: 'IModuleManager.LoadModule Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.IModuleManager.LoadModule(System.String)'
 ms:mtpsurl: 'imodulemanager-loadmodule-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-IModuleManager.LoadModule Method
-====================================
+
+# IModuleManager.LoadModule Method
 
 Loads and initializes the module on the [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) with the name moduleName.
 
@@ -18,9 +15,7 @@ Loads and initializes the module on the [ModuleCatalog](https://msdn.microsoft.c
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-void LoadModule( string moduleName )Sub LoadModule ( moduleName As String )
+void LoadModule( string moduleName )Sub LoadModule ( moduleName As String )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ moduleName
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Name of the module requested for initialization.
 
-See Also
---------
-
-
-[IModuleManager Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager)
+## See Also
+[IModuleManager Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager)
 
 [IModuleManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.imodulemanager)
 

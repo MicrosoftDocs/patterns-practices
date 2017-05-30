@@ -4,16 +4,12 @@ Title: 'IRegion Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegion'
 ms:mtpsurl: 'iregion-properties-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegion Properties
-==================
+
+# IRegion Properties
 
 The [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -85,10 +81,7 @@ Gets a readonly view of the collection of views in the region.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
+## See Also
+[IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

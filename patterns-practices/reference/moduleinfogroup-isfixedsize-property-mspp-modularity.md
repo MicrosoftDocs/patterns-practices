@@ -4,11 +4,8 @@ Title: 'ModuleInfoGroup.IsFixedSize Property (Microsoft.Practices.Prism.Modulari
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.IsFixedSize'
 ms:mtpsurl: 'moduleinfogroup-isfixedsize-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInfoGroup.IsFixedSize Property
-========================================
+
+# ModuleInfoGroup.IsFixedSize Property
 
 Gets a value indicating whether the [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup) has a fixed size.
 
@@ -18,9 +15,7 @@ Gets a value indicating whether the [ModuleInfoGroup](https://msdn.microsoft.com
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public bool IsFixedSize { get; }Public ReadOnly Property IsFixedSize As Boolean Get
+public bool IsFixedSize { get; }Public ReadOnly Property IsFixedSize As Boolean Get
 ### Return Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
@@ -29,11 +24,8 @@ false, because the [ModuleInfoGroup](https://msdn.microsoft.com/library/microsof
 
 [IList.IsFixedSize](http://msdn.microsoft.com/en-us/library/kbtbe6k2)
 
-See Also
---------
-
-
-[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
+## See Also
+[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 
 [ModuleInfoGroup Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroup)
 

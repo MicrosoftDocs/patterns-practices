@@ -4,16 +4,12 @@ Title: 'RegionNavigationContentLoader Methods (Microsoft.Practices.Prism.Regions
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader'
 ms:mtpsurl: 'regionnavigationcontentloader-methods-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationContentLoader Methods
-=====================================
+
+# RegionNavigationContentLoader Methods
 
 The [RegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -105,10 +101,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader)
+## See Also
+[RegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

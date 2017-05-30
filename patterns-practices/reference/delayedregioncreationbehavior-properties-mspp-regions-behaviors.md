@@ -4,16 +4,12 @@ Title: 'DelayedRegionCreationBehavior Properties (Microsoft.Practices.Prism.Regi
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior'
 ms:mtpsurl: 'delayedregioncreationbehavior-properties-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-DelayedRegionCreationBehavior Properties
-========================================
+
+# DelayedRegionCreationBehavior Properties
 
 The [DelayedRegionCreationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -43,10 +39,7 @@ The element that will host the Region.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
+## See Also
+[DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

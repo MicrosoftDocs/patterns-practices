@@ -4,11 +4,8 @@ Title: 'ModuleCatalog.AddGroup Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddGroup(Microsoft.Practices.Prism.Modularity.InitializationMode,System.String,Microsoft.Practices.Prism.Modularity.ModuleInfo[])'
 ms:mtpsurl: 'modulecatalog-addgroup-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleCatalog.AddGroup Method
-=================================
+
+# ModuleCatalog.AddGroup Method
 
 Creates and adds a [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup) to the catalog.
 
@@ -18,9 +15,7 @@ Creates and adds a [ModuleInfoGroup](https://msdn.microsoft.com/library/microsof
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public virtual ModuleCatalog AddGroup( InitializationMode initializationMode, string refValue, params ModuleInfo[] moduleInfos )Public Overridable Function AddGroup ( initializationMode As InitializationMode, refValue As String, ParamArray moduleInfos As ModuleInfo() ) As ModuleCatalog
+public virtual ModuleCatalog AddGroup( InitializationMode initializationMode, string refValue, params ModuleInfo[] moduleInfos )Public Overridable Function AddGroup ( initializationMode As InitializationMode, refValue As String, ParamArray moduleInfos As ModuleInfo() ) As ModuleCatalog
 
 ### Parameters
 
@@ -41,11 +36,8 @@ Collection of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practice
 Type: [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) with the added module group.
 
-See Also
---------
-
-
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
+## See Also
+[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
 

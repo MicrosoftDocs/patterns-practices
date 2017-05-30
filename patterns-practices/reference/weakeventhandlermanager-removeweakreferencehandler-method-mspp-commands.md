@@ -9,10 +9,12 @@ ms:mtpsurl: 'weakeventhandlermanager-removeweakreferencehandler-method-mspp-comm
 
 Removes an event handler from the reference list.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](mspp-commands-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
 
-=======
+<<<<<<< HEAD
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+=======
+>>>>>>> origin/master
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -26,17 +28,13 @@ public static void RemoveWeakReferenceHandler(
 
 ### Parameters
 
-*handlers*
+*handlers*<br/>
+Type: [System.Collections.Generic.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)&lt;[WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd)&gt;<br/>
+Handler list to remove reference from.
 
-	Type: [System.Collections.Generic.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)&lt;[WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd)&gt;
-
-	Handler list to remove reference from.
-
-*handler*  
-		
-	Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
-	
-	Handler to remove.
+*handler*<br/>
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)<br/>
+Handler to remove.
 
 ```VB
 'Declaration
@@ -48,24 +46,30 @@ Public Shared Sub RemoveWeakReferenceHandler (
 
 ### Parameters
 
-*handlers*  
-		
-	Type: [System.Collections.Generic.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)(Of [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd))
-	Handler list to remove reference from.
+*handlers*<br/>
+Type: [System.Collections.Generic.List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)(Of [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd))<br/>
+Handler list to remove reference from.
 
-*handler*  
-
-	Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
-	Handler to remove.
+*handler*<br/>
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)<br/>
+Handler to remove.
 
 ## See Also
 
-[WeakEventHandlerManager Class](weakeventhandlermanager-class-mspp-commands.md)
-=======
+<<<<<<< HEAD
+[WeakEventHandlerManager Class](weakeventhandlermanager-class-mspp-commands)
+
 [WeakEventHandlerManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager)
-
-[WeakEventHandlerManager Members](weakeventhandlermanager-members-mspp-commands.md)
-
-[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)
 =======
+[WeakEventHandlerManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager(v=pandp.50))
+>>>>>>> origin/master
+
+[WeakEventHandlerManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager_members(v=pandp.50))
+
+<<<<<<< HEAD
+[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace)
+
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+=======
+[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
+>>>>>>> origin/master

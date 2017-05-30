@@ -4,16 +4,12 @@ Title: 'MefRegionBehaviorFactory Methods (Microsoft.Practices.Prism.MefExtension
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionBehaviorFactory'
 ms:mtpsurl: 'mefregionbehaviorfactory-methods-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
-MefRegionBehaviorFactory Methods
-================================
+
+# MefRegionBehaviorFactory Methods
 
 The [MefRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -109,10 +105,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefRegionBehaviorFactory Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory)
+## See Also
+[MefRegionBehaviorFactory Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)

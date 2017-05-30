@@ -4,16 +4,12 @@ Title: 'MefSelectorItemsSourceSyncBehavior Properties (Microsoft.Practices.Prism
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSelectorItemsSourceSyncBehavior'
 ms:mtpsurl: 'mefselectoritemssourcesyncbehavior-properties-mspp-mefextensions-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-MefSelectorItemsSourceSyncBehavior Properties
-=============================================
+
+# MefSelectorItemsSourceSyncBehavior Properties
 
 The [MefSelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefselectoritemssourcesyncbehavior) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -53,10 +49,7 @@ Behavior's attached region.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefSelectorItemsSourceSyncBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefselectoritemssourcesyncbehavior)
+## See Also
+[MefSelectorItemsSourceSyncBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefselectoritemssourcesyncbehavior)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)

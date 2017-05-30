@@ -4,11 +4,8 @@ Title: 'ModuleInfo.State Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfo.State'
 ms:mtpsurl: 'moduleinfo-state-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInfo.State Property
-=============================
+
+# ModuleInfo.State Property
 
 Gets or sets the state of the [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) with regards to the module loading and initialization process.
 
@@ -18,18 +15,13 @@ Gets or sets the state of the [ModuleInfo](https://msdn.microsoft.com/library/mi
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ModuleState State { get; set; }Public Property State As ModuleState Get Set
+public ModuleState State { get; set; }Public Property State As ModuleState Get Set
 ### Property Value
 
 Type: [ModuleState](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulestate)
 
-See Also
---------
-
-
-[ModuleInfo Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
+## See Also
+[ModuleInfo Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
 
 [ModuleInfo Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfo)
 

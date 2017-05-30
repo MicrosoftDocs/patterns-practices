@@ -4,11 +4,8 @@ Title: 'RegionManagerRegistrationBehavior Constructor (Microsoft.Practices.Prism
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior.\#ctor'
 ms:mtpsurl: 'regionmanagerregistrationbehavior-constructor-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionManagerRegistrationBehavior Constructor
-=============================================
+
+# RegionManagerRegistrationBehavior Constructor
 
 Initializes a new instance of [RegionManagerRegistrationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior).
 
@@ -18,15 +15,10 @@ Initializes a new instance of [RegionManagerRegistrationBehavior](https://msdn.m
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public RegionManagerRegistrationBehavior()Public Sub New
 
-
-public RegionManagerRegistrationBehavior()Public Sub New
-
-See Also
---------
-
-
-[RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
+## See Also
+[RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
 
 [RegionManagerRegistrationBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
 

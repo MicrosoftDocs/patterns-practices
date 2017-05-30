@@ -4,11 +4,8 @@ Title: 'ConfigurationModuleCatalog Constructor (Microsoft.Practices.Prism.Modula
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ConfigurationModuleCatalog.\#ctor'
 ms:mtpsurl: 'configurationmodulecatalog-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ConfigurationModuleCatalog Constructor
-======================================
+
+# ConfigurationModuleCatalog Constructor
 
 Builds an instance of ConfigurationModuleCatalog with a [ConfigurationStore](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationstore) as the default store.
 
@@ -18,15 +15,10 @@ Builds an instance of ConfigurationModuleCatalog with a [ConfigurationStore](htt
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public ConfigurationModuleCatalog()Public Sub New
 
-
-public ConfigurationModuleCatalog()Public Sub New
-
-See Also
---------
-
-
-[ConfigurationModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationmodulecatalog)
+## See Also
+[ConfigurationModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationmodulecatalog)
 
 [ConfigurationModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.configurationmodulecatalog)
 

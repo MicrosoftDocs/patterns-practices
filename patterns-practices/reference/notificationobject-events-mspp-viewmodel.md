@@ -4,16 +4,12 @@ Title: 'NotificationObject Events (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.ViewModel.NotificationObject'
 ms:mtpsurl: 'notificationobject-events-mspp-viewmodel.md'
 ---
-
-Prism Class Library
-
-NotificationObject Events
-=========================
+
+# NotificationObject Events
 
 The [NotificationObject](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -36,10 +32,7 @@ Raised when a property on this object has a new value.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[NotificationObject Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject)
+## See Also
+[NotificationObject Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject)
 
 [Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)

@@ -4,11 +4,8 @@ Title: 'ViewRegistrationException Constructor (String) (Microsoft.Practices.Pris
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewRegistrationException.\#ctor(System.String)'
 ms:mtpsurl: 'viewregistrationexception-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ViewRegistrationException Constructor (String)
-==============================================
+
+# ViewRegistrationException Constructor (String)
 
 Initializes a new instance of the [ViewRegistrationException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception) class.
 
@@ -18,9 +15,7 @@ Initializes a new instance of the [ViewRegistrationException](https://msdn.micro
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ViewRegistrationException( string message )Public Sub New ( message As String )
+public ViewRegistrationException( string message )Public Sub New ( message As String )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ message
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The exception message.
 
-See Also
---------
-
-
-[ViewRegistrationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception)
+## See Also
+[ViewRegistrationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception)
 
 [ViewRegistrationException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewregistrationexception)
 

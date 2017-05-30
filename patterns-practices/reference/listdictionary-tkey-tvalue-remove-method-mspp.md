@@ -4,14 +4,10 @@ Title: 'ListDictionary(TKey, TValue).Remove Method (Microsoft.Practices.Prism)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.ListDictionary\`2.Remove'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-remove-method-mspp.md'
 ---
+
+# ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Remove Method
 
-Prism Class Library
-
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Remove Method
-===================================================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -48,11 +44,8 @@ Removes a value from the list with the given key.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
+## See Also
+[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 
 [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.listdictionary%602)
 

@@ -4,11 +4,8 @@ Title: 'UnityRegionNavigationContentLoader.GetCandidatesFromRegion Method (Micro
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLoader.GetCandidatesFromRegion(Microsoft.Practices.Prism.Regions.IRegion,System.String)'
 ms:mtpsurl: 'unityregionnavigationcontentloader-getcandidatesfromregion-method-mspp-unityextensions-regions.md'
 ---
-
-Prism Class Library
-
-UnityRegionNavigationContentLoader.GetCandidatesFromRegion Method
-=====================================================================
+
+# UnityRegionNavigationContentLoader.GetCandidatesFromRegion Method
 
 Returns the set of candidates that may satisfiy this navigation request.
 
@@ -18,9 +15,7 @@ Returns the set of candidates that may satisfiy this navigation request.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected override IEnumerable&lt;Object&gt; GetCandidatesFromRegion( IRegion region, string candidateNavigationContract )Protected Overrides Function GetCandidatesFromRegion ( region As IRegion, candidateNavigationContract As String ) As IEnumerable(Of Object)
+protected override IEnumerable&lt;Object&gt; GetCandidatesFromRegion( IRegion region, string candidateNavigationContract )Protected Overrides Function GetCandidatesFromRegion ( region As IRegion, candidateNavigationContract As String ) As IEnumerable(Of Object)
 
 ### Parameters
 
@@ -37,11 +32,8 @@ The candidate navigation target.
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 An enumerable of candidate objects from the [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 
-See Also
---------
-
-
-[UnityRegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader)
+## See Also
+[UnityRegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader)
 
 [UnityRegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader)
 

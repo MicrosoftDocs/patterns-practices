@@ -4,14 +4,10 @@ Title: 'ModuleCatalog.CreateFromXaml Method (Microsoft.Practices.Prism.Modularit
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleCatalog.CreateFromXaml'
 ms:mtpsurl: 'modulecatalog-createfromxaml-method-mspp-modularity.md'
 ---
+
+# ModuleCatalog.CreateFromXaml Method
 
-Prism Class Library
-
-ModuleCatalog.CreateFromXaml Method
-=======================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,11 +37,8 @@ Creates a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
+## See Also
+[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
 

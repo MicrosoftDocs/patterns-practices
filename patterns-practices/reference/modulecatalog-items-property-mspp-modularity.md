@@ -4,11 +4,8 @@ Title: 'ModuleCatalog.Items Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleCatalog.Items'
 ms:mtpsurl: 'modulecatalog-items-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleCatalog.Items Property
-================================
+
+# ModuleCatalog.Items Property
 
 Gets the items in the [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog). This property is mainly used to add [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)s or [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)s through XAML.
 
@@ -18,19 +15,14 @@ Gets the items in the [ModuleCatalog](https://msdn.microsoft.com/library/microso
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public Collection&lt;IModuleCatalogItem&gt; Items { get; }Public ReadOnly Property Items As Collection(Of IModuleCatalogItem) Get
+public Collection&lt;IModuleCatalogItem&gt; Items { get; }Public ReadOnly Property Items As Collection(Of IModuleCatalogItem) Get
 ### Property Value
 
 Type: [Collection](http://msdn.microsoft.com/en-us/library/ms132397)&lt;(Of &lt;([IModuleCatalogItem](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalogitem)&gt;)&gt;)
 The items in the catalog.
 
-See Also
---------
-
-
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
+## See Also
+[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
 

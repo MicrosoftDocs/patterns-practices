@@ -4,11 +4,9 @@ Title: 'SubscriptionToken Methods (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken'
 ms:mtpsurl: 'subscriptiontoken-methods-mspp-pubsubevents.md'
 ---
+# SubscriptionToken Methods
 
-
-# SubscriptionToken Methods
-
-The [SubscriptionToken](subscriptiontoken-class-mspp-pubsubevents.md) type exposes the following members.
+The [SubscriptionToken](subscriptiontoken-class-mspp-pubsubevents) type exposes the following members.
 
 ## Methods
 
@@ -89,6 +87,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[SubscriptionToken Class](subscriptiontoken-class-mspp-pubsubevents.md)
+[SubscriptionToken Class](subscriptiontoken-class-mspp-pubsubevents)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace)

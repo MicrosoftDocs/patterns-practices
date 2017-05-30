@@ -4,11 +4,8 @@ Title: 'SyncRegionContextWithHostBehavior.OnAttach Method (Microsoft.Practices.P
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior.OnAttach'
 ms:mtpsurl: 'syncregioncontextwithhostbehavior-onattach-method-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-SyncRegionContextWithHostBehavior.OnAttach Method
-=====================================================
+
+# SyncRegionContextWithHostBehavior.OnAttach Method
 
 Override this method to perform the logic after the behavior has been attached.
 
@@ -18,15 +15,10 @@ Override this method to perform the logic after the behavior has been attached.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+protected override void OnAttach()Protected Overrides Sub OnAttach
 
-
-protected override void OnAttach()Protected Overrides Sub OnAttach
-
-See Also
---------
-
-
-[SyncRegionContextWithHostBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior)
+## See Also
+[SyncRegionContextWithHostBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior)
 
 [SyncRegionContextWithHostBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior)
 

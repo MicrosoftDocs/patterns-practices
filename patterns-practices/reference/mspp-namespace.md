@@ -4,16 +4,12 @@ Title: 'Microsoft.Practices.Prism Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism'
 ms:mtpsurl: 'mspp-namespace.md'
 ---
-
-Prism Class Library
-
-Microsoft.Practices.Prism Namespace
-===================================
+
+# Microsoft.Practices.Prism Namespace
 
  
 
-Classes
--------
+## Classes
 
 <span id="classToggle"></span>
 <table>
@@ -78,8 +74,7 @@ Helper class for parsing <a href="http://msdn.microsoft.com/en-us/library/txt770
 </tbody>
 </table>
 
-Interfaces
-----------
+## Interfaces
 
 <span id="interfaceToggle"></span>
 <table>

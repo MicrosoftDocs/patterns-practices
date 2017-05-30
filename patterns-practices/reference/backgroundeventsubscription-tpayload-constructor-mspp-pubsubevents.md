@@ -4,9 +4,7 @@ Title: 'BackgroundEventSubscription(TPayload) Constructor (Microsoft.Practices.P
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscription\`1.\#ctor(Microsoft.Practices.Prism.PubSubEvents.IDelegateReference,Microsoft.Practices.Prism.PubSubEvents.IDelegateReference)'
 ms:mtpsurl: 'backgroundeventsubscription-tpayload-constructor-mspp-pubsubevents.md'
 ---
-
-Prism Class Library
-
+
 BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Constructor
 ======================================================================
 
@@ -16,9 +14,7 @@ Creates a new instance of [BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
-
-public BackgroundEventSubscription( IDelegateReference actionReference, IDelegateReference filterReference )Public Sub New ( actionReference As IDelegateReference, filterReference As IDelegateReference )
+public BackgroundEventSubscription( IDelegateReference actionReference, IDelegateReference filterReference )Public Sub New ( actionReference As IDelegateReference, filterReference As IDelegateReference )
 
 ### Parameters
 
@@ -41,9 +37,7 @@ Exceptions
 
 See Also
 --------
-
-
-[BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.backgroundeventsubscription%601)
+[BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.backgroundeventsubscription%601)
 
 [BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.backgroundeventsubscription%601)
 

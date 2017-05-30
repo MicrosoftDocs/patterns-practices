@@ -4,11 +4,8 @@ Title: 'ModuleDependencySolver.ModuleCount Property (Microsoft.Practices.Prism.M
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleDependencySolver.ModuleCount'
 ms:mtpsurl: 'moduledependencysolver-modulecount-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDependencySolver.ModuleCount Property
-===============================================
+
+# ModuleDependencySolver.ModuleCount Property
 
 Gets the number of modules added to the solver.
 
@@ -18,19 +15,14 @@ Gets the number of modules added to the solver.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public int ModuleCount { get; }Public ReadOnly Property ModuleCount As Integer Get
+public int ModuleCount { get; }Public ReadOnly Property ModuleCount As Integer Get
 ### Property Value
 
 Type: [Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
 The number of modules.
 
-See Also
---------
-
-
-[ModuleDependencySolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver)
+## See Also
+[ModuleDependencySolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver)
 
 [ModuleDependencySolver Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencysolver)
 

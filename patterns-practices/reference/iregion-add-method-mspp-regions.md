@@ -4,16 +4,12 @@ Title: 'IRegion.Add Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.IRegion.Add'
 ms:mtpsurl: 'iregion-add-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegion.Add Method
-======================
+
+# IRegion.Add Method
 
 Adds a new view to the region.
 
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -50,11 +46,8 @@ Adds a new view to the region.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
+## See Also
+[IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 
 [IRegion Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregion)
 

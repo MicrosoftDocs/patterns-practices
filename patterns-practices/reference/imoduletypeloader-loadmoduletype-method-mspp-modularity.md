@@ -4,11 +4,8 @@ Title: 'IModuleTypeLoader.LoadModuleType Method (Microsoft.Practices.Prism.Modul
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.IModuleTypeLoader.LoadModuleType(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'imoduletypeloader-loadmoduletype-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-IModuleTypeLoader.LoadModuleType Method
-===========================================
+
+# IModuleTypeLoader.LoadModuleType Method
 
 Retrieves the moduleInfo.
 
@@ -18,9 +15,7 @@ Retrieves the moduleInfo.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-void LoadModuleType( ModuleInfo moduleInfo )Sub LoadModuleType ( moduleInfo As ModuleInfo )
+void LoadModuleType( ModuleInfo moduleInfo )Sub LoadModuleType ( moduleInfo As ModuleInfo )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ moduleInfo
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
 Module that should have it's type loaded.
 
-See Also
---------
-
-
-[IModuleTypeLoader Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader)
+## See Also
+[IModuleTypeLoader Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader)
 
 [IModuleTypeLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.imoduletypeloader)
 

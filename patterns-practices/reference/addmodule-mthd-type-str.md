@@ -4,11 +4,8 @@ Title: 'ModuleCatalog.AddModule Method (Type, String[]) (Microsoft.Practices.Pri
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddModule(System.Type,System.String[])'
 ms:mtpsurl: 'addmodule-mthd-str-str-initializationmode-str.md'
 ---
-
-Prism Class Library
-
-ModuleCatalog.AddModule Method (Type, array&lt;String&gt;)
-========================================================================
+
+# ModuleCatalog.AddModule Method (Type, array&lt;String&gt;)
 
 Adds a groupless [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) to the catalog.
 
@@ -18,9 +15,7 @@ Adds a groupless [ModuleInfo](https://msdn.microsoft.com/library/microsoft.pract
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ModuleCatalog AddModule( Type moduleType, params string[] dependsOn )Public Function AddModule ( moduleType As Type, ParamArray dependsOn As String() ) As ModuleCatalog
+public ModuleCatalog AddModule( Type moduleType, params string[] dependsOn )Public Function AddModule ( moduleType As Type, ParamArray dependsOn As String() ) As ModuleCatalog
 
 ### Parameters
 
@@ -37,11 +32,8 @@ Collection of module names ([ModuleName](https://msdn.microsoft.com/library/micr
 Type: [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 The same [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) instance with the added module.
 
-See Also
---------
-
-
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
+## See Also
+[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
 

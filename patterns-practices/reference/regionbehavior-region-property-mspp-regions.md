@@ -4,11 +4,8 @@ Title: 'RegionBehavior.Region Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionBehavior.Region'
 ms:mtpsurl: 'regionbehavior-region-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionBehavior.Region Property
-==================================
+
+# RegionBehavior.Region Property
 
 Behavior's attached region.
 
@@ -18,9 +15,7 @@ Behavior's attached region.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public IRegion Region { get; set; }Public Property Region As IRegion Get Set
+public IRegion Region { get; set; }Public Property Region As IRegion Get Set
 ### Property Value
 
 Type: [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
@@ -28,11 +23,8 @@ Type: [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.reg
 
 [IRegionBehavior.Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior.region)
 
-See Also
---------
-
-
-[RegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
+## See Also
+[RegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
 
 [RegionBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehavior)
 

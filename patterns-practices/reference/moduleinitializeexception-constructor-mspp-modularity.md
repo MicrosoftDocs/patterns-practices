@@ -4,9 +4,7 @@ Title: 'ModuleInitializeException Constructor (Microsoft.Practices.Prism.Modular
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleInitializeException.\#ctor'
 ms:mtpsurl: 'moduleinitializeexception-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleInitializeException Constructor
 
 ## Overload List
@@ -75,8 +73,8 @@ Initializes the exception with a particular module, error message and inner exce
 
 ## See Also
 
-[ModuleInitializeException Class](moduleinitializeexception-class-mspp-modularity.md)
+[ModuleInitializeException Class](moduleinitializeexception-class-mspp-modularity)
 
-[ModuleInitializeException Members](moduleinitializeexception-members-mspp-modularity.md)
+[ModuleInitializeException Members](moduleinitializeexception-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

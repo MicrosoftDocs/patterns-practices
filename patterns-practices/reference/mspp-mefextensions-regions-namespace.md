@@ -4,16 +4,12 @@ Title: 'Microsoft.Practices.Prism.MefExtensions.Regions Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.MefExtensions.Regions'
 ms:mtpsurl: 'mspp-mefextensions-regions-namespace.md'
 ---
-
-Prism Class Library
-
-Microsoft.Practices.Prism.MefExtensions.Regions Namespace
-=========================================================
+
+# Microsoft.Practices.Prism.MefExtensions.Regions Namespace
 
  
 
-Classes
--------
+## Classes
 
 <span id="classToggle"></span>
 <table>

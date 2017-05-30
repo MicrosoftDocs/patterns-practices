@@ -4,12 +4,10 @@ Title: 'RegionBehaviorFactory Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.RegionBehaviorFactory'
 ms:mtpsurl: 'regionbehaviorfactory-methods-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # RegionBehaviorFactory Methods
 
-The [RegionBehaviorFactory](regionbehaviorfactory-class-mspp-regions.md) type exposes the following members.
+The [RegionBehaviorFactory](regionbehaviorfactory-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -103,8 +101,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
+[RegionBehaviorFactory Class](regionbehaviorfactory-class-mspp-regions)
 
-
-[RegionBehaviorFactory Class](regionbehaviorfactory-class-mspp-regions.md)
-
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

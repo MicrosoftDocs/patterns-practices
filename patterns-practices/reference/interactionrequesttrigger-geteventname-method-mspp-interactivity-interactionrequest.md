@@ -4,11 +4,8 @@ Title: 'InteractionRequestTrigger.GetEventName Method (Microsoft.Practices.Prism
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestTrigger.GetEventName'
 ms:mtpsurl: 'interactionrequesttrigger-geteventname-method-mspp-interactivity-interactionrequest.md'
 ---
-
-Prism Class Library
-
-InteractionRequestTrigger.GetEventName Method
-=================================================
+
+# InteractionRequestTrigger.GetEventName Method
 
 Specifies the name of the Event this EventTriggerBase is listening for.
 
@@ -18,19 +15,14 @@ Specifies the name of the Event this EventTriggerBase is listening for.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected override string GetEventName()Protected Overrides Function GetEventName As String
+protected override string GetEventName()Protected Overrides Function GetEventName As String
 ### Return Value
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 This implementation always returns the Raised event name for ease of connection with [IInteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest).
 
-See Also
---------
-
-
-[InteractionRequestTrigger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger)
+## See Also
+[InteractionRequestTrigger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger)
 
 [InteractionRequestTrigger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger)
 

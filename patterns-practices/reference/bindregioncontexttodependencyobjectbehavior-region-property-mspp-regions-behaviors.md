@@ -4,11 +4,8 @@ Title: 'BindRegionContextToDependencyObjectBehavior.Region Property (Microsoft.P
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior.Region'
 ms:mtpsurl: 'bindregioncontexttodependencyobjectbehavior-region-property-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-BindRegionContextToDependencyObjectBehavior.Region Property
-===============================================================
+
+# BindRegionContextToDependencyObjectBehavior.Region Property
 
 Behavior's attached region.
 
@@ -18,9 +15,7 @@ Behavior's attached region.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public IRegion Region { get; set; }Public Property Region As IRegion Get Set
+public IRegion Region { get; set; }Public Property Region As IRegion Get Set
 ### Property Value
 
 Type: [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
@@ -28,11 +23,8 @@ Type: [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.reg
 
 [IRegionBehavior.Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior.region)
 
-See Also
---------
-
-
-[BindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior)
+## See Also
+[BindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior)
 
 [BindRegionContextToDependencyObjectBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior)
 

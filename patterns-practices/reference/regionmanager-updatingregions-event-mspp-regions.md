@@ -4,11 +4,8 @@ Title: 'RegionManager.UpdatingRegions Event (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Regions.RegionManager.UpdatingRegions'
 ms:mtpsurl: 'regionmanager-updatingregions-event-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionManager.UpdatingRegions Event
-=======================================
+
+# RegionManager.UpdatingRegions Event
 
 Notification used by attached behaviors to update the region managers appropriatelly if needed to.
 
@@ -18,23 +15,17 @@ Notification used by attached behaviors to update the region managers appropriat
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public static event EventHandler UpdatingRegionsPublic Shared Event UpdatingRegions As EventHandler
+public static event EventHandler UpdatingRegionsPublic Shared Event UpdatingRegions As EventHandler
 ### Value
 
 Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
 
-Remarks
--------
+## Remarks
 
 This event uses weak references to the event handler to prevent this static event of keeping the target element longer than expected.
 
-See Also
---------
-
-
-[RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)
+## See Also
+[RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)
 
 [RegionManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionmanager)
 

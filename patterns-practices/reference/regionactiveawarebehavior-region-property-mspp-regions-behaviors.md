@@ -4,11 +4,8 @@ Title: 'RegionActiveAwareBehavior.Region Property (Microsoft.Practices.Prism.Reg
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior.Region'
 ms:mtpsurl: 'regionactiveawarebehavior-region-property-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionActiveAwareBehavior.Region Property
-=============================================
+
+# RegionActiveAwareBehavior.Region Property
 
 The region that this behavior is extending
 
@@ -18,9 +15,7 @@ The region that this behavior is extending
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public IRegion Region { get; set; }Public Property Region As IRegion Get Set
+public IRegion Region { get; set; }Public Property Region As IRegion Get Set
 ### Property Value
 
 Type: [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
@@ -28,11 +23,8 @@ Type: [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.reg
 
 [IRegionBehavior.Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior.region)
 
-See Also
---------
-
-
-[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
+## See Also
+[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
 
 [RegionActiveAwareBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
 

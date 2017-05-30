@@ -7,7 +7,7 @@ ms:mtpsurl: 'regionnavigationjournalentry-properties-mspp-regions.md'
 
 # RegionNavigationJournalEntry Properties
 
-The [RegionNavigationJournalEntry](regionnavigationjournalentry-class-mspp-regions.md) type exposes the following members.
+The [RegionNavigationJournalEntry](regionnavigationjournalentry-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
@@ -40,6 +40,6 @@ Gets or sets the URI.
 
 ## See Also
 
-[RegionNavigationJournalEntry Class](regionnavigationjournalentry-class-mspp-regions.md)
+[RegionNavigationJournalEntry Class](regionnavigationjournalentry-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

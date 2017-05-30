@@ -4,16 +4,12 @@ Title: 'IRegionViewRegistry Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionViewRegistry'
 ms:mtpsurl: 'iregionviewregistry-members-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionViewRegistry Members
-===========================
+
+# IRegionViewRegistry Members
 
 The [IRegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -50,8 +46,7 @@ Registers a content type with a region name.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -74,10 +69,7 @@ Event triggered when a content is registered to a region name.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegionViewRegistry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry)
+## See Also
+[IRegionViewRegistry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

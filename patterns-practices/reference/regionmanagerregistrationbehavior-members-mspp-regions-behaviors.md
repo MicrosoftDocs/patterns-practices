@@ -4,16 +4,12 @@ Title: 'RegionManagerRegistrationBehavior Members (Microsoft.Practices.Prism.Reg
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior'
 ms:mtpsurl: 'regionmanagerregistrationbehavior-members-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionManagerRegistrationBehavior Members
-=========================================
+
+# RegionManagerRegistrationBehavior Members
 
 The [RegionManagerRegistrationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -128,8 +123,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Fields
-------
+## Fields
 
 <span id="fieldTableToggle"></span>
 <table>
@@ -152,8 +146,7 @@ The key of this behavior.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -199,10 +192,7 @@ Provides an abstraction on top of the RegionManager static members.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
+## See Also
+[RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

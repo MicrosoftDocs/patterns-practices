@@ -7,7 +7,7 @@ ms:mtpsurl: 'iregionmanageraccessor-methods-mspp-regions.md'
 
 # IRegionManagerAccessor Methods
 
-The [IRegionManagerAccessor](iregionmanageraccessor-interface-mspp-regions.md) type exposes the following members.
+The [IRegionManagerAccessor](iregionmanageraccessor-interface-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -40,6 +40,6 @@ Gets the value for the RegionName attached property.
 
 ## See Also
 
-[IRegionManagerAccessor Interface](iregionmanageraccessor-interface-mspp-regions.md)
+[IRegionManagerAccessor Interface](iregionmanageraccessor-interface-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

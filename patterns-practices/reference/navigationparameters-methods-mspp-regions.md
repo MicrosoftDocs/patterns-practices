@@ -7,7 +7,7 @@ ms:mtpsurl: 'navigationparameters-methods-mspp-regions.md'
 
 # NavigationParameters Methods
 
-The [NavigationParameters](navigationparameters-class-mspp-regions.md) type exposes the following members.
+The [NavigationParameters](navigationparameters-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -88,6 +88,6 @@ Converts the list of key value pairs to a query string.
 
 ## See Also
 
-[NavigationParameters Class](navigationparameters-class-mspp-regions.md)
+[NavigationParameters Class](navigationparameters-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

@@ -4,11 +4,8 @@ Title: 'SelectorItemsSourceSyncBehavior Constructor (Microsoft.Practices.Prism.R
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior.\#ctor'
 ms:mtpsurl: 'selectoritemssourcesyncbehavior-constructor-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-SelectorItemsSourceSyncBehavior Constructor
-===========================================
+
+# SelectorItemsSourceSyncBehavior Constructor
 
 Initializes a new instance of the [SelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [SelectorItemsSourceSyncBehavior](https://msdn
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public SelectorItemsSourceSyncBehavior()Public Sub New
 
-
-public SelectorItemsSourceSyncBehavior()Public Sub New
-
-See Also
---------
-
-
-[SelectorItemsSourceSyncBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior)
+## See Also
+[SelectorItemsSourceSyncBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior)
 
 [SelectorItemsSourceSyncBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior)
 

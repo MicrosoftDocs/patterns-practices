@@ -4,16 +4,12 @@ Title: 'EventSubscription(TPayload) Properties (Microsoft.Practices.Prism.PubSub
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.PubSubEvents.EventSubscription\`1'
 ms:mtpsurl: 'eventsubscription-tpayload-properties-mspp-pubsubevents.md'
 ---
-
-Prism Class Library
-
-EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
-===========================================================
+
+# EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
 
 The [EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -50,10 +46,7 @@ Gets or sets a <a href="https://msdn.microsoft.com/library/microsoft.practices.p
 </tbody>
 </table>
 
-See Also
---------
-
-
-[EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601)
+## See Also
+[EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)

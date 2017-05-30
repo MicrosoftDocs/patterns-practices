@@ -4,11 +4,8 @@ Title: 'IRegionCollection.Item Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionCollection.Item(System.String)'
 ms:mtpsurl: 'iregioncollection-item-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionCollection.Item Property
-===================================
+
+# IRegionCollection.Item Property
 
 Gets the IRegion with the name received as index.
 
@@ -18,9 +15,7 @@ Gets the IRegion with the name received as index.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-IRegion this[ string regionName \] { get; }ReadOnly Default Property Item ( regionName As String ) As IRegion Get
+IRegion this[ string regionName \] { get; }ReadOnly Default Property Item ( regionName As String ) As IRegion Get
 
 ### Parameters
 
@@ -33,11 +28,8 @@ Name of the region to be retrieved.
 Type: [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 The [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) identified with the requested name.
 
-See Also
---------
-
-
-[IRegionCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection)
+## See Also
+[IRegionCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection)
 
 [IRegionCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregioncollection)
 

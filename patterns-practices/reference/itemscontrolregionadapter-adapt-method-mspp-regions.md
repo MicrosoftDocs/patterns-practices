@@ -4,11 +4,8 @@ Title: 'ItemsControlRegionAdapter.Adapt Method (Microsoft.Practices.Prism.Region
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ItemsControlRegionAdapter.Adapt(Microsoft.Practices.Prism.Regions.IRegion,System.Windows.Controls.ItemsControl)'
 ms:mtpsurl: 'itemscontrolregionadapter-adapt-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ItemsControlRegionAdapter.Adapt Method
-==========================================
+
+# ItemsControlRegionAdapter.Adapt Method
 
 Adapts an [ItemsControl](http://msdn.microsoft.com/en-us/library/ms611045) to an [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion).
 
@@ -18,9 +15,7 @@ Adapts an [ItemsControl](http://msdn.microsoft.com/en-us/library/ms611045) to an
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected override void Adapt( IRegion region, ItemsControl regionTarget )Protected Overrides Sub Adapt ( region As IRegion, regionTarget As ItemsControl )
+protected override void Adapt( IRegion region, ItemsControl regionTarget )Protected Overrides Sub Adapt ( region As IRegion, regionTarget As ItemsControl )
 
 ### Parameters
 
@@ -32,11 +27,8 @@ regionTarget
 Type: [System.Windows.Controls.ItemsControl](http://msdn.microsoft.com/en-us/library/ms611045)
 The object to adapt.
 
-See Also
---------
-
-
-[ItemsControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter)
+## See Also
+[ItemsControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter)
 
 [ItemsControlRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.itemscontrolregionadapter)
 

@@ -7,7 +7,7 @@ ms:mtpsurl: 'moduledependencycollection-methods-mspp-modularity.md'
 
 # ModuleDependencyCollection Methods
 
-The [ModuleDependencyCollection](moduledependencycollection-class-mspp-modularity.md) type exposes the following members.
+The [ModuleDependencyCollection](moduledependencycollection-class-mspp-modularity) type exposes the following members.
 
 ## Methods
  
@@ -529,6 +529,6 @@ Gets the element key for a specified configuration element when overridden in a 
 
 ## See Also
 
-[ModuleDependencyCollection Class](moduledependencycollection-class-mspp-modularity.md)
+[ModuleDependencyCollection Class](moduledependencycollection-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

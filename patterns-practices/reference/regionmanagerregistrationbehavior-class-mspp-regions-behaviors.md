@@ -7,11 +7,11 @@ ms:mtpsurl: 'regionmanagerregistrationbehavior-class-mspp-regions-behaviors.md'
 
 # RegionManagerRegistrationBehavior Class
 
-Subscribes to a static event from the [RegionManager](regionmanager-class-mspp-regions.md) in order to register the target [IRegion](iregion-interface-mspp-regions.md) in a [IRegionManager](iregionmanager-interface-mspp-regions.md) when one is available on the host control by walking up the tree and finding a control whose [RegionManagerProperty](regionmanager-regionmanagerproperty-field-mspp-regions.md) property is not **null**a null reference (**Nothing** in Visual Basic).
+Subscribes to a static event from the [RegionManager](regionmanager-class-mspp-regions) in order to register the target [IRegion](iregion-interface-mspp-regions) in a [IRegionManager](iregionmanager-interface-mspp-regions) when one is available on the host control by walking up the tree and finding a control whose [RegionManagerProperty](regionmanager-regionmanagerproperty-field-mspp-regions) property is not **null**a null reference (**Nothing** in Visual Basic).
 
-Subscribes to a static event from the [RegionManager](regionmanager-class-mspp-regions.md) in order to register the target [IRegion](iregion-interface-mspp-regions.md) in a [IRegionManager](iregionmanager-interface-mspp-regions.md) when one is available on the host control by walking up the tree and finding a control whose [RegionManagerProperty](regionmanager-regionmanagerproperty-field-mspp-regions.md) property is not **Nothing**a null reference (**Nothing** in Visual Basic).
+Subscribes to a static event from the [RegionManager](regionmanager-class-mspp-regions) in order to register the target [IRegion](iregion-interface-mspp-regions) in a [IRegionManager](iregionmanager-interface-mspp-regions) when one is available on the host control by walking up the tree and finding a control whose [RegionManagerProperty](regionmanager-regionmanagerproperty-field-mspp-regions) property is not **Nothing**a null reference (**Nothing** in Visual Basic).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -34,12 +34,12 @@ Public Class RegionManagerRegistrationBehavior
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-  [Microsoft.Practices.Prism.Regions.RegionBehavior](regionbehavior-class-mspp-regions.md)<br/>
+  [Microsoft.Practices.Prism.Regions.RegionBehavior](regionbehavior-class-mspp-regions)<br/>
     Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior<br/>
-      [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionManagerRegistrationBehavior](mefregionmanagerregistrationbehavior-class-mspp-mefextensions-regions-behaviors.md)
+      [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionManagerRegistrationBehavior](mefregionmanagerregistrationbehavior-class-mspp-mefextensions-regions-behaviors)
 
 ## See Also
 
-[RegionManagerRegistrationBehavior Members](regionmanagerregistrationbehavior-members-mspp-regions-behaviors.md)
+[RegionManagerRegistrationBehavior Members](regionmanagerregistrationbehavior-members-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)

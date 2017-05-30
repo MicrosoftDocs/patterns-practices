@@ -4,16 +4,12 @@ Title: 'IViewsCollection Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IViewsCollection'
 ms:mtpsurl: 'iviewscollection-methods-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IViewsCollection Methods
-========================
+
+# IViewsCollection Methods
 
 The [IViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -52,10 +48,7 @@ Returns an enumerator that iterates through a collection.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IViewsCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection)
+## See Also
+[IViewsCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

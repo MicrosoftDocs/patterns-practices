@@ -4,11 +4,8 @@ Title: 'RegionManager.RegionContextProperty Field (Microsoft.Practices.Prism.Reg
 ms:assetid: 'F:Microsoft.Practices.Prism.Regions.RegionManager.RegionContextProperty'
 ms:mtpsurl: 'regionmanager-regioncontextproperty-field-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionManager.RegionContextProperty Field
-=============================================
+
+# RegionManager.RegionContextProperty Field
 
 Identifies the RegionContext attached property.
 
@@ -18,18 +15,13 @@ Identifies the RegionContext attached property.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public static readonly DependencyProperty RegionContextPropertyPublic Shared ReadOnly RegionContextProperty As DependencyProperty
+public static readonly DependencyProperty RegionContextPropertyPublic Shared ReadOnly RegionContextProperty As DependencyProperty
 ### Field Value
 
 Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 
-See Also
---------
-
-
-[RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)
+## See Also
+[RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)
 
 [RegionManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionmanager)
 

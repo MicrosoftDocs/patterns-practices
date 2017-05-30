@@ -9,7 +9,7 @@ ms:mtpsurl: 'dispatchereventsubscription-tpayload-constructor-mspp-events.md'
 
 Creates a new instance of BackgroundEventSubscription.
 
-**Namespace:** [Microsoft.Practices.Prism.Events](mspp-events-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Events](mspp-events-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -22,9 +22,7 @@ public DispatcherEventSubscription(
 	IDispatcherFacade dispatcher
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *actionReference*
 
@@ -38,7 +36,7 @@ public DispatcherEventSubscription(
 
 *dispatcher*
 
-   Type: [Microsoft.Practices.Prism.Events.IDispatcherFacade](idispatcherfacade-interface-mspp-events.md)
+   Type: [Microsoft.Practices.Prism.Events.IDispatcherFacade](idispatcherfacade-interface-mspp-events)
    The dispatcher to use when executing the *actionReference* delegate.
 
 ## Exceptions
@@ -65,17 +63,17 @@ public DispatcherEventSubscription(
 
 ## See Also
 
-[DispatcherEventSubscription&lt;TPayload&gt; Class](dispatchereventsubscription-tpayload-class-mspp-events.md)
+[DispatcherEventSubscription&lt;TPayload&gt; Class](dispatchereventsubscription-tpayload-class-mspp-events)
 
-[DispatcherEventSubscription&lt;TPayload&gt; Members](dispatchereventsubscription-tpayload-members-mspp-events.md)
+[DispatcherEventSubscription&lt;TPayload&gt; Members](dispatchereventsubscription-tpayload-members-mspp-events)
 
-[Microsoft.Practices.Prism.Events Namespace](mspp-events-namespace.md)
+[Microsoft.Practices.Prism.Events Namespace](mspp-events-namespace)
 
 # DispatcherEventSubscription(Of TPayload) Constructor
 
 Creates a new instance of BackgroundEventSubscription.
 
-**Namespace:** [Microsoft.Practices.Prism.Events](mspp-events-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Events](mspp-events-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -89,9 +87,7 @@ Public Sub New (
 	dispatcher As IDispatcherFacade
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *actionReference*
 
@@ -105,7 +101,7 @@ Public Sub New (
 
 *dispatcher*
 
-   Type: [Microsoft.Practices.Prism.Events.IDispatcherFacade](idispatcherfacade-interface-mspp-events.md)
+   Type: [Microsoft.Practices.Prism.Events.IDispatcherFacade](idispatcherfacade-interface-mspp-events)
    The dispatcher to use when executing the *actionReference* delegate.
 
 ## Exceptions
@@ -132,8 +128,8 @@ Public Sub New (
 
 ## See Also
 
-[DispatcherEventSubscription(Of TPayload) Class](dispatchereventsubscription-tpayload-class-mspp-events.md)
+[DispatcherEventSubscription(Of TPayload) Class](dispatchereventsubscription-tpayload-class-mspp-events)
 
-[DispatcherEventSubscription(Of TPayload) Members](dispatchereventsubscription-tpayload-members-mspp-events.md)
+[DispatcherEventSubscription(Of TPayload) Members](dispatchereventsubscription-tpayload-members-mspp-events)
 
-[Microsoft.Practices.Prism.Events Namespace](mspp-events-namespace.md)
+[Microsoft.Practices.Prism.Events Namespace](mspp-events-namespace)

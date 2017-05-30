@@ -4,11 +4,8 @@ Title: 'InvokeCommandAction.TriggerParameterPath Property (Microsoft.Practices.P
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.TriggerParameterPath'
 ms:mtpsurl: 'invokecommandaction-triggerparameterpath-property-mspp-interactivity.md'
 ---
-
-Prism Class Library
-
-InvokeCommandAction.TriggerParameterPath Property
-=====================================================
+
+# InvokeCommandAction.TriggerParameterPath Property
 
 Gets or sets the TriggerParameterPath value.
 
@@ -18,18 +15,13 @@ Gets or sets the TriggerParameterPath value.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public string TriggerParameterPath { get; set; }Public Property TriggerParameterPath As String Get Set
+public string TriggerParameterPath { get; set; }Public Property TriggerParameterPath As String Get Set
 ### Property Value
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-See Also
---------
-
-
-[InvokeCommandAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction)
+## See Also
+[InvokeCommandAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction)
 
 [InvokeCommandAction Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.invokecommandaction)
 

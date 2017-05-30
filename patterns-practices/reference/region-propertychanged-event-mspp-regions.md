@@ -4,11 +4,8 @@ Title: 'Region.PropertyChanged Event (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'E:Microsoft.Practices.Prism.Regions.Region.PropertyChanged'
 ms:mtpsurl: 'region-propertychanged-event-mspp-regions.md'
 ---
-
-Prism Class Library
-
-Region.PropertyChanged Event
-================================
+
+# Region.PropertyChanged Event
 
 Occurs when a property value changes.
 
@@ -18,9 +15,7 @@ Occurs when a property value changes.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public event PropertyChangedEventHandler PropertyChangedPublic Event PropertyChanged As PropertyChangedEventHandler
+public event PropertyChangedEventHandler PropertyChangedPublic Event PropertyChanged As PropertyChangedEventHandler
 ### Value
 
 Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn.microsoft.com/en-us/library/hyza7z75)
@@ -28,11 +23,8 @@ Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn.microsoft.
 
 [INotifyPropertyChanged.PropertyChanged](http://msdn.microsoft.com/en-us/library/ms133023)
 
-See Also
---------
-
-
-[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
+## See Also
+[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 
 [Region Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.region)
 

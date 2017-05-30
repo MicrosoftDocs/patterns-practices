@@ -4,16 +4,12 @@ Title: 'UnityServiceLocatorAdapter Methods (Microsoft.Practices.Prism.UnityExten
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.UnityExtensions.UnityServiceLocatorAdapter'
 ms:mtpsurl: 'unityservicelocatoradapter-methods-mspp-unityextensions.md'
 ---
-
-Prism Class Library
-
-UnityServiceLocatorAdapter Methods
-==================================
+
+# UnityServiceLocatorAdapter Methods
 
 The [UnityServiceLocatorAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -138,10 +134,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[UnityServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
+## See Also
+[UnityServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
 
 [Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)

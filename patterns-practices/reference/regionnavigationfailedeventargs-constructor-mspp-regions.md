@@ -4,14 +4,10 @@ Title: 'RegionNavigationFailedEventArgs Constructor (Microsoft.Practices.Prism.R
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.RegionNavigationFailedEventArgs.\#ctor'
 ms:mtpsurl: 'regionnavigationfailedeventargs-constructor-mspp-regions.md'
 ---
+
+# RegionNavigationFailedEventArgs Constructor
 
-Prism Class Library
-
-RegionNavigationFailedEventArgs Constructor
-===========================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,11 +37,8 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionNavigationFailedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs)
+## See Also
+[RegionNavigationFailedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs)
 
 [RegionNavigationFailedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationfailedeventargs)
 

@@ -4,11 +4,8 @@ Title: 'DuplicateModuleException Constructor (SerializationInfo, StreamingContex
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.DuplicateModuleException.\#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
 ms:mtpsurl: 'duplicatemoduleexception-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-DuplicateModuleException Constructor (SerializationInfo, StreamingContext)
-==========================================================================
+
+# DuplicateModuleException Constructor (SerializationInfo, StreamingContext)
 
 Initializes a new instance of the [DuplicateModuleException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception) class with the serialization data.
 
@@ -18,9 +15,7 @@ Initializes a new instance of the [DuplicateModuleException](https://msdn.micros
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected DuplicateModuleException( SerializationInfo info, StreamingContext context )Protected Sub New ( info As SerializationInfo, context As StreamingContext )
+protected DuplicateModuleException( SerializationInfo info, StreamingContext context )Protected Sub New ( info As SerializationInfo, context As StreamingContext )
 
 ### Parameters
 
@@ -32,11 +27,8 @@ context
 Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5)
 Contains contextual information about the source or destination.
 
-See Also
---------
-
-
-[DuplicateModuleException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception)
+## See Also
+[DuplicateModuleException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception)
 
 [DuplicateModuleException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.duplicatemoduleexception)
 
