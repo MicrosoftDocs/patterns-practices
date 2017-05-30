@@ -4,7 +4,8 @@ Title: 'MefClearChildViewsRegionBehavior Members (Microsoft.Practices.Prism.MefE
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefClearChildViewsRegionBehavior'
 ms:mtpsurl: 'mefclearchildviewsregionbehavior-members-mspp-mefextensions-regions-behaviors.md'
 ---
-
+
+
 # MefClearChildViewsRegionBehavior Members
 
 The [MefClearChildViewsRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior) type exposes the following members.
@@ -145,6 +146,7 @@ Behavior's attached region.
 </table>
 
 ## See Also
-[MefClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior)
+
+[MefClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)

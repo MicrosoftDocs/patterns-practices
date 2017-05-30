@@ -4,7 +4,8 @@ Title: 'DefaultNotificationWindow Members (Microsoft.Practices.Prism.Interactivi
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultNotificationWindow'
 ms:mtpsurl: 'defaultnotificationwindow-members-mspp-interactivity-defaultpopupwindows.md'
 ---
-
+
+
 # DefaultNotificationWindow Members
 
 The [DefaultNotificationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow) type exposes the following members.
@@ -4020,6 +4021,7 @@ Occurs when the element is removed from within an element tree of loaded element
 </table>
 
 ## See Also
-[DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
+
+[DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
 
 [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)

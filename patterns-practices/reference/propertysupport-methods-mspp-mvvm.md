@@ -4,7 +4,8 @@ Title: 'PropertySupport Methods (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Mvvm.PropertySupport'
 ms:mtpsurl: 'propertysupport-methods-mspp-mvvm.md'
 ---
-
+
+
 # PropertySupport Methods
 
 The [PropertySupport](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.propertysupport) type exposes the following members.
@@ -33,6 +34,7 @@ Extracts the property name from a property expression.
 </table>
 
 ## See Also
-[PropertySupport Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.propertysupport)
+
+[PropertySupport Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.propertysupport)
 
 [Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)

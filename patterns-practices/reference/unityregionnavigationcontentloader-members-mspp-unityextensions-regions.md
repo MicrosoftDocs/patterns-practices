@@ -4,7 +4,8 @@ Title: 'UnityRegionNavigationContentLoader Members (Microsoft.Practices.Prism.Un
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLoader'
 ms:mtpsurl: 'unityregionnavigationcontentloader-members-mspp-unityextensions-regions.md'
 ---
-
+
+
 # UnityRegionNavigationContentLoader Members
 
 The [UnityRegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader) type exposes the following members.
@@ -129,6 +130,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[UnityRegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader)
+
+[UnityRegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader)
 
 [Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions)
