@@ -40,4 +40,4 @@ Extends [EventSubscription(Of TPayload)](eventsubscription-tpayload-class-mspp-p
 
 BackgroundEventSubscription(Of TPayload) Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace)
