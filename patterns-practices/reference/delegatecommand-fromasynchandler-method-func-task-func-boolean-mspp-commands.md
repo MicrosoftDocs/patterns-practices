@@ -12,7 +12,9 @@ Factory method to create a new instance of [DelegateCommand](https://msdn.micros
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
 
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
@@ -60,7 +62,9 @@ Factory method to create a new instance of [DelegateCommand](https://msdn.micros
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
 
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 ```C#
