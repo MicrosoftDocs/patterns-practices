@@ -4,7 +4,8 @@ Title: 'IViewsCollection Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IViewsCollection'
 ms:mtpsurl: 'iviewscollection-members-mspp-regions.md'
 ---
-
+
+
 # IViewsCollection Members
 
 The [IViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection) type exposes the following members.
@@ -73,6 +74,7 @@ Occurs when the collection changes.
 </table>
 
 ## See Also
-[IViewsCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection)
+
+[IViewsCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

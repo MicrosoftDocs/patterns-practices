@@ -4,7 +4,8 @@ Title: 'IRegionNavigationJournalEntry Members (Microsoft.Practices.Prism.Regions
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry'
 ms:mtpsurl: 'iregionnavigationjournalentry-members-mspp-regions.md'
 ---
-
+
+
 # IRegionNavigationJournalEntry Members
 
 The [IRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry) type exposes the following members.
@@ -40,6 +41,7 @@ Gets or sets the URI.
 </table>
 
 ## See Also
-[IRegionNavigationJournalEntry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry)
+
+[IRegionNavigationJournalEntry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

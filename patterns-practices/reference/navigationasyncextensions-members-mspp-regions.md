@@ -4,7 +4,8 @@ Title: 'NavigationAsyncExtensions Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.NavigationAsyncExtensions'
 ms:mtpsurl: 'navigationasyncextensions-members-mspp-regions.md'
 ---
-
+
+
 # NavigationAsyncExtensions Members
 
 ## Methods
@@ -66,6 +67,7 @@ Initiates navigation to the target specified by the target.
 </table>
 
 ## See Also
-[NavigationAsyncExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions)
+
+[NavigationAsyncExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -4,7 +4,8 @@ Title: 'IRegionNavigationJournal Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal'
 ms:mtpsurl: 'iregionnavigationjournal-members-mspp-regions.md'
 ---
-
+
+
 # IRegionNavigationJournal Members
 
 The [IRegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal) type exposes the following members.
@@ -98,6 +99,7 @@ Gets or sets the target that implements INavigateAsync.
 </table>
 
 ## See Also
-[IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
+
+[IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

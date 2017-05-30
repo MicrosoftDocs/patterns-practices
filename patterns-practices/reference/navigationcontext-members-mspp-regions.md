@@ -4,7 +4,8 @@ Title: 'NavigationContext Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.NavigationContext'
 ms:mtpsurl: 'navigationcontext-members-mspp-regions.md'
 ---
-
+
+
 # NavigationContext Members
 
 The [NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext) type exposes the following members.
@@ -141,6 +142,7 @@ Gets the navigation URI.
 </table>
 
 ## See Also
-[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
+
+[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
