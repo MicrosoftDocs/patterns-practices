@@ -4,16 +4,12 @@ Title: 'DirectoryModuleCatalog Properties (Microsoft.Practices.Prism.Modularity)
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog'
 ms:mtpsurl: 'directorymodulecatalog-properties-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-DirectoryModuleCatalog Properties
-=================================
+
+# DirectoryModuleCatalog Properties
 
 The [DirectoryModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.directorymodulecatalog) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -76,10 +72,7 @@ Gets or sets a value that remembers whether the <a href="https://msdn.microsoft.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DirectoryModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.directorymodulecatalog)
+## See Also
+[DirectoryModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.directorymodulecatalog)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

@@ -4,11 +4,8 @@ Title: 'RegionManager.SetRegionName Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManager.SetRegionName(System.Windows.DependencyObject,System.String)'
 ms:mtpsurl: 'regionmanager-setregionname-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionManager.SetRegionName Method
-======================================
+
+# RegionManager.SetRegionName Method
 
 Sets the [RegionNameProperty](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionnameproperty) attached property.
 
@@ -18,9 +15,7 @@ Sets the [RegionNameProperty](https://msdn.microsoft.com/library/microsoft.pract
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public static void SetRegionName( DependencyObject regionTarget, string regionName )Public Shared Sub SetRegionName ( regionTarget As DependencyObject, regionName As String )
+public static void SetRegionName( DependencyObject regionTarget, string regionName )Public Shared Sub SetRegionName ( regionTarget As DependencyObject, regionName As String )
 
 ### Parameters
 
@@ -32,11 +27,8 @@ regionName
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the region to register.
 
-See Also
---------
-
-
-[RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)
+## See Also
+[RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)
 
 [RegionManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionmanager)
 

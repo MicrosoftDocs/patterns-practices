@@ -4,14 +4,12 @@ Title: 'DefaultPrismServiceRegistrar.RegisterRequiredPrismServicesIfMissing Meth
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.DefaultPrismServiceRegistrar.RegisterRequiredPrismServicesIfMissing(System.ComponentModel.Composition.Hosting.AggregateCatalog)'
 ms:mtpsurl: 'defaultprismserviceregistrar-registerrequiredprismservicesifmissing-method-mspp-mefextensions.md'
 ---
-
-Prism Class Library
-
+
 # DefaultPrismServiceRegistrar.RegisterRequiredPrismServicesIfMissing Method
 
 Registers the required Prism types that are not already registered in the [AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](mspp-mefextensions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](mspp-mefextensions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -30,9 +28,7 @@ Public Shared Function RegisterRequiredPrismServicesIfMissing (
 	aggregateCatalog As AggregateCatalog
 ) As AggregateCatalog
 ```
-
-
-### Parameters
+### Parameters
 
 *aggregateCatalog*  
    Type: [System.ComponentModel.Composition.Hosting.AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165)
@@ -44,10 +40,8 @@ Public Shared Function RegisterRequiredPrismServicesIfMissing (
 Type: [AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165)
 
 ## See Also
+[DefaultPrismServiceRegistrar Class](defaultprismserviceregistrar-class-mspp-mefextensions)
 
+[DefaultPrismServiceRegistrar Members](defaultprismserviceregistrar-members-mspp-mefextensions)
 
-[DefaultPrismServiceRegistrar Class](defaultprismserviceregistrar-class-mspp-mefextensions.md)
-
-[DefaultPrismServiceRegistrar Members](defaultprismserviceregistrar-members-mspp-mefextensions.md)
-
-[Microsoft.Practices.Prism.MefExtensions Namespace](mspp-mefextensions-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions Namespace](mspp-mefextensions-namespace)

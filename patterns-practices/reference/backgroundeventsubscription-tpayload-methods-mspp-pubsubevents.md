@@ -4,11 +4,10 @@ Title: 'BackgroundEventSubscription(TPayload) Methods (Microsoft.Practices.Prism
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscription\`1'
 ms:mtpsurl: 'backgroundeventsubscription-tpayload-methods-mspp-pubsubevents.md'
 ---
-
-
+
 # BackgroundEventSubscription&lt;TPayload&gt; Methods
 
-The [BackgroundEventSubscription&lt;TPayload&gt;](backgroundeventsubscription-tpayload-class-mspp-pubsubevents.md) type exposes the following members.
+The [BackgroundEventSubscription&lt;TPayload&gt;](backgroundeventsubscription-tpayload-class-mspp-pubsubevents) type exposes the following members.
 
 ## Methods
 
@@ -40,11 +39,11 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/dn736174(v=pandp.50)">GetExecutionStrategy</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601.getexecutionstrategy">GetExecutionStrategy</a></td>
 <td><div class="summary">
 Gets the execution strategy to publish this event.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50)">EventSubscription&lt;(Of &lt;(TPayload&gt;)</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601">EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/public-method.gif" title="Public method" /></td>
@@ -64,11 +63,11 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="even">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/dn736193(v=pandp.50)">InvokeAction</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.backgroundeventsubscription%601.invokeaction(system.action%7b%600%7d%2c%600)">InvokeAction</a></td>
 <td><div class="summary">
-Invokes the specified <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;T&gt;</a> in an asynchronous thread by using a <a href="http://msdn.microsoft.com/en-us/library/y5htx827">ThreadPool</a>.
+Invokes the specified <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;(Of &lt;(T&gt;)&gt;)</a> in an asynchronous thread by using a <a href="http://msdn.microsoft.com/en-us/library/y5htx827">ThreadPool</a>.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/en-us/library/dn683965(v=pandp.50)">EventSubscription&lt;TPayload&gt;.InvokeAction(Action&lt;TPayload&gt;, TPayload)</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601.invokeaction(system.action%7b%600%7d%2c%600)">EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)..::.InvokeAction(Action&lt;(Of &lt;(TPayload&gt;)&gt;), TPayload)</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn683952.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
@@ -90,8 +89,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
+[BackgroundEventSubscription&lt;TPayload&gt; Class](backgroundeventsubscription-tpayload-class-mspp-pubsubevents)
 
-
-[BackgroundEventSubscription&lt;TPayload&gt; Class](backgroundeventsubscription-tpayload-class-mspp-pubsubevents.md)
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace)

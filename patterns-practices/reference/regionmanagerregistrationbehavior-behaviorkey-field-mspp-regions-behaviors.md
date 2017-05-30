@@ -4,11 +4,8 @@ Title: 'RegionManagerRegistrationBehavior.BehaviorKey Field (Microsoft.Practices
 ms:assetid: 'F:Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior.BehaviorKey'
 ms:mtpsurl: 'regionmanagerregistrationbehavior-behaviorkey-field-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionManagerRegistrationBehavior.BehaviorKey Field
-=======================================================
+
+# RegionManagerRegistrationBehavior.BehaviorKey Field
 
 The key of this behavior.
 
@@ -18,18 +15,13 @@ The key of this behavior.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public static readonly string BehaviorKeyPublic Shared ReadOnly BehaviorKey As String
+public static readonly string BehaviorKeyPublic Shared ReadOnly BehaviorKey As String
 ### Field Value
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-See Also
---------
-
-
-[RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
+## See Also
+[RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
 
 [RegionManagerRegistrationBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
 

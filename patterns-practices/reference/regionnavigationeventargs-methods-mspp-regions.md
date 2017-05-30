@@ -7,7 +7,7 @@ ms:mtpsurl: 'regionnavigationeventargs-methods-mspp-regions.md'
 
 # RegionNavigationEventArgs Methods
 
-The [RegionNavigationEventArgs](regionnavigationeventargs-class-mspp-regions.md) type exposes the following members.
+The [RegionNavigationEventArgs](regionnavigationeventargs-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -94,6 +94,6 @@ The [RegionNavigationEventArgs](regionnavigationeventargs-class-mspp-regions.md)
 
 ## See Also
 
-[RegionNavigationEventArgs Class](regionnavigationeventargs-class-mspp-regions.md)
+[RegionNavigationEventArgs Class](regionnavigationeventargs-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

@@ -4,11 +4,8 @@ Title: 'CompositeCommand Constructor (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.\#ctor'
 ms:mtpsurl: 'compositecommand-constructor-boolean-mspp-commands.md'
 ---
-
-Prism Class Library
-
-CompositeCommand Constructor
-============================
+
+# CompositeCommand Constructor
 
 Initializes a new instance of [CompositeCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand).
 
@@ -16,15 +13,10 @@ Initializes a new instance of [CompositeCommand](https://msdn.microsoft.com/libr
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
+public CompositeCommand()Public Sub New
 
-
-public CompositeCommand()Public Sub New
-
-See Also
---------
-
-
-[CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
+## See Also
+[CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
 
 [CompositeCommand Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.compositecommand)
 

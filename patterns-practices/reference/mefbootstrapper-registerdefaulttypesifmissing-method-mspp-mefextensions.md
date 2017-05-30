@@ -4,11 +4,8 @@ Title: 'MefBootstrapper.RegisterDefaultTypesIfMissing Method (Microsoft.Practice
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.RegisterDefaultTypesIfMissing'
 ms:mtpsurl: 'mefbootstrapper-registerdefaulttypesifmissing-method-mspp-mefextensions.md'
 ---
-
-Prism Class Library
-
-MefBootstrapper.RegisterDefaultTypesIfMissing Method
-========================================================
+
+# MefBootstrapper.RegisterDefaultTypesIfMissing Method
 
 Helper method for configuring the [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553). Registers defaults for all the types necessary for Prism to work, if they are not already registered.
 
@@ -18,15 +15,10 @@ Helper method for configuring the [CompositionContainer](http://msdn.microsoft.c
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public virtual void RegisterDefaultTypesIfMissing()Public Overridable Sub RegisterDefaultTypesIfMissing
 
-
-public virtual void RegisterDefaultTypesIfMissing()Public Overridable Sub RegisterDefaultTypesIfMissing
-
-See Also
---------
-
-
-[MefBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper)
+## See Also
+[MefBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper)
 
 [MefBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.mefbootstrapper)
 

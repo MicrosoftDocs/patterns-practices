@@ -4,16 +4,12 @@ Title: 'InteractionRequest(T) Members (Microsoft.Practices.Prism.Interactivity.I
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequest\`1'
 ms:mtpsurl: 'interactionrequest-t-members-mspp-interactivity-interactionrequest.md'
 ---
-
-Prism Class Library
-
-InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Members
-==================================================
+
+# InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Members
 
 The [InteractionRequest&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -115,8 +110,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -139,10 +133,7 @@ Fired when interaction is needed.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)
+## See Also
+[InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)

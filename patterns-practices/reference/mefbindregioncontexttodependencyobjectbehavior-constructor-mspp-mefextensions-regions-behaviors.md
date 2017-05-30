@@ -4,11 +4,8 @@ Title: 'MefBindRegionContextToDependencyObjectBehavior Constructor (Microsoft.Pr
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefBindRegionContextToDependencyObjectBehavior.\#ctor'
 ms:mtpsurl: 'mefbindregioncontexttodependencyobjectbehavior-constructor-mspp-mefextensions-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-MefBindRegionContextToDependencyObjectBehavior Constructor
-==========================================================
+
+# MefBindRegionContextToDependencyObjectBehavior Constructor
 
 Initializes a new instance of the [MefBindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefbindregioncontexttodependencyobjectbehavior) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [MefBindRegionContextToDependencyObjectBehavio
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public MefBindRegionContextToDependencyObjectBehavior()Public Sub New
 
-
-public MefBindRegionContextToDependencyObjectBehavior()Public Sub New
-
-See Also
---------
-
-
-[MefBindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefbindregioncontexttodependencyobjectbehavior)
+## See Also
+[MefBindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefbindregioncontexttodependencyobjectbehavior)
 
 [MefBindRegionContextToDependencyObjectBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.behaviors.mefbindregioncontexttodependencyobjectbehavior)
 

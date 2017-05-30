@@ -4,11 +4,8 @@ Title: 'IRegion.ActiveViews Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegion.ActiveViews'
 ms:mtpsurl: 'iregion-activeviews-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegion.ActiveViews Property
-================================
+
+# IRegion.ActiveViews Property
 
 Gets a readonly view of the collection of all the active views in the region.
 
@@ -18,19 +15,14 @@ Gets a readonly view of the collection of all the active views in the region.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-IViewsCollection ActiveViews { get; }ReadOnly Property ActiveViews As IViewsCollection Get
+IViewsCollection ActiveViews { get; }ReadOnly Property ActiveViews As IViewsCollection Get
 ### Property Value
 
 Type: [IViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection)
 An [IViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection) of all the active views.
 
-See Also
---------
-
-
-[IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
+## See Also
+[IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 
 [IRegion Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregion)
 

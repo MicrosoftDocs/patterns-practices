@@ -4,25 +4,18 @@ Title: 'MefFileModuleTypeLoader.LoadModuleType Method (Microsoft.Practices.Prism
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefFileModuleTypeLoader.LoadModuleType(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'meffilemoduletypeloader-loadmoduletype-method-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-MefFileModuleTypeLoader.LoadModuleType Method
-=================================================
+
+# MefFileModuleTypeLoader.LoadModuleType Method
 
 Retrieves the moduleInfo.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 public virtual void LoadModuleType(
 	ModuleInfo moduleInfo
   )
@@ -34,26 +27,21 @@ Public Overridable Sub LoadModuleType (
 	moduleInfo As ModuleInfo
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *moduleInfo*  
 
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity.md)
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity)
 
 Module that should have it's type loaded.
 
 ### Implements
 
-[IModuleTypeLoader.LoadModuleType(ModuleInfo)](imoduletypeloader-loadmoduletype-method-mspp-modularity.md)
+[IModuleTypeLoader.LoadModuleType(ModuleInfo)](imoduletypeloader-loadmoduletype-method-mspp-modularity)
 
-See Also
---------
+## See Also
+[MefFileModuleTypeLoader Class](meffilemoduletypeloader-class-mspp-mefextensions-modularity)
 
+[MefFileModuleTypeLoader Members](meffilemoduletypeloader-members-mspp-mefextensions-modularity)
 
-[MefFileModuleTypeLoader Class](meffilemoduletypeloader-class-mspp-mefextensions-modularity.md)
-
-[MefFileModuleTypeLoader Members](meffilemoduletypeloader-members-mspp-mefextensions-modularity.md)
-
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace)

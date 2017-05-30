@@ -4,16 +4,12 @@ Title: 'DelegateCommand(T) Events (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Commands.DelegateCommand\`1'
 ms:mtpsurl: 'delegatecommand-t-events-mspp-commands.md'
 ---
-
-Prism Class Library
-
-DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Events
-==============================================
+
+# DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Events
 
 The [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -45,10 +41,7 @@ Fired if the <a href="https://msdn.microsoft.com/library/microsoft.practices.pri
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)
+## See Also
+[DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)

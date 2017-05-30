@@ -4,11 +4,8 @@ Title: 'ModuleInitializer.Initialize Method (Microsoft.Practices.Prism.Modularit
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializer.Initialize(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'moduleinitializer-initialize-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInitializer.Initialize Method
-=======================================
+
+# ModuleInitializer.Initialize Method
 
 Initializes the specified module.
 
@@ -18,9 +15,7 @@ Initializes the specified module.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public void Initialize( ModuleInfo moduleInfo )Public Sub Initialize ( moduleInfo As ModuleInfo )
+public void Initialize( ModuleInfo moduleInfo )Public Sub Initialize ( moduleInfo As ModuleInfo )
 
 ### Parameters
 
@@ -32,11 +27,8 @@ The module to initialize
 
 [IModuleInitializer.Initialize(ModuleInfo)](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduleinitializer.initialize(microsoft.practices.prism.modularity.moduleinfo))
 
-See Also
---------
-
-
-[ModuleInitializer Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer)
+## See Also
+[ModuleInitializer Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer)
 
 [ModuleInitializer Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinitializer)
 

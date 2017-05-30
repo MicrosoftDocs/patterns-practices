@@ -4,16 +4,12 @@ Title: 'DelegateCommand Methods (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Commands.DelegateCommand'
 ms:mtpsurl: 'delegatecommand-methods-mspp-commands.md'
 ---
-
-Prism Class Library
-
-DelegateCommand Methods
-=======================
+
+# DelegateCommand Methods
 
 The [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -149,10 +145,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
+## See Also
+[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)

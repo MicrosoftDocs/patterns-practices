@@ -4,14 +4,12 @@ Title: 'DelegateCommand Constructor (Action, Func(Boolean)) (Microsoft.Practices
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand.\#ctor(System.Action,System.Func{System.Boolean})'
 ms:mtpsurl: 'delegatecommand-constructor-action-func-boolean-mspp-commands.md'
 ---
-
-Prism Class Library
-
+
 # DelegateCommand Constructor (Action, Func(Of Boolean))
 
-Creates a new instance of [DelegateCommand](delegatecommand-class-mspp-commands.md) with the [Action](http://msdn.microsoft.com/en-us/library/bb534741) to invoke on execution and a Func to query for determining if the command can execute.
+Creates a new instance of [DelegateCommand](delegatecommand-class-mspp-commands) with the [Action](http://msdn.microsoft.com/en-us/library/bb534741) to invoke on execution and a Func to query for determining if the command can execute.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](mspp-commands-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Commands](mspp-commands-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -31,9 +29,7 @@ Public Sub New (
 	canExecuteMethod As Func(Of Boolean)
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *executeMethod*
 
@@ -47,10 +43,10 @@ Public Sub New (
 
 ## See Also
 
-[DelegateCommand Class](delegatecommand-class-mspp-commands.md)
+[DelegateCommand Class](delegatecommand-class-mspp-commands)
 
-[DelegateCommand Members](delegatecommand-members-mspp-commands.md)
+[DelegateCommand Members](delegatecommand-members-mspp-commands)
 
 DelegateCommand Overload
 
-[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)
+[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace)

@@ -4,11 +4,8 @@ Title: 'ItemsControlRegionAdapter.CreateRegion Method (Microsoft.Practices.Prism
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ItemsControlRegionAdapter.CreateRegion'
 ms:mtpsurl: 'itemscontrolregionadapter-createregion-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ItemsControlRegionAdapter.CreateRegion Method
-=================================================
+
+# ItemsControlRegionAdapter.CreateRegion Method
 
 Creates a new instance of [AllActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.allactiveregion).
 
@@ -18,19 +15,14 @@ Creates a new instance of [AllActiveRegion](https://msdn.microsoft.com/library/m
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected override IRegion CreateRegion()Protected Overrides Function CreateRegion As IRegion
+protected override IRegion CreateRegion()Protected Overrides Function CreateRegion As IRegion
 ### Return Value
 
 Type: [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 A new instance of [AllActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.allactiveregion).
 
-See Also
---------
-
-
-[ItemsControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter)
+## See Also
+[ItemsControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter)
 
 [ItemsControlRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.itemscontrolregionadapter)
 

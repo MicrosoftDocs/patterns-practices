@@ -4,11 +4,8 @@ Title: 'ListDictionary(TKey, TValue).Add Method (TKey) (Microsoft.Practices.Pris
 ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.Add(\`0)'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-add-method-tkey-mspp.md'
 ---
-
-Prism Class Library
-
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Add Method (TKey)
-=======================================================================
+
+# ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Add Method (TKey)
 
 If a list does not already exist, it will be created automatically.
 
@@ -18,9 +15,7 @@ If a list does not already exist, it will be created automatically.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public void Add( TKey key )Public Sub Add ( key As TKey )
+public void Add( TKey key )Public Sub Add ( key As TKey )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ key
 Type: [TKey](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 The key of the list that will hold the value.
 
-See Also
---------
-
-
-[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
+## See Also
+[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 
 [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.listdictionary%602)
 

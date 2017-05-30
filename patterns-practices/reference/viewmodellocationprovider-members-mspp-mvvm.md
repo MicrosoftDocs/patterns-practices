@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Mvvm.ViewModelLocationProvid
 ms:mtpsurl: 'viewmodellocationprovider-members-mspp-mvvm.md'
 ---
 
-Prism Class Library
 
-ViewModelLocationProvider Members
-=================================
+# ViewModelLocationProvider Members
 
 The [ViewModelLocationProvider](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.viewmodellocationprovider) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -57,9 +54,7 @@ Sets the default view type to view model type resolver.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [ViewModelLocationProvider Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.viewmodellocationprovider)
 

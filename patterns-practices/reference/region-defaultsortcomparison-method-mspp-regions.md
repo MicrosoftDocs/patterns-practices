@@ -4,11 +4,8 @@ Title: 'Region.DefaultSortComparison Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Region.DefaultSortComparison(System.Object,System.Object)'
 ms:mtpsurl: 'region-defaultsortcomparison-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-Region.DefaultSortComparison Method
-=======================================
+
+# Region.DefaultSortComparison Method
 
 The default sort algorithm.
 
@@ -18,9 +15,7 @@ The default sort algorithm.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public static int DefaultSortComparison( Object x, Object y )Public Shared Function DefaultSortComparison ( x As Object, y As Object ) As Integer
+public static int DefaultSortComparison( Object x, Object y )Public Shared Function DefaultSortComparison ( x As Object, y As Object ) As Integer
 
 ### Parameters
 
@@ -36,11 +31,8 @@ The second view to compare.
 
 Type: [Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
 
-See Also
---------
-
-
-[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
+## See Also
+[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 
 [Region Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.region)
 

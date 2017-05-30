@@ -4,12 +4,10 @@ Title: 'MefModuleManager Methods (Microsoft.Practices.Prism.MefExtensions.Modula
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager'
 ms:mtpsurl: 'mefmodulemanager-methods-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
+
 # MefModuleManager Methods
 
-The [MefModuleManager](mefmodulemanager-class-mspp-mefextensions-modularity.md) type exposes the following members.
+The [MefModuleManager](mefmodulemanager-class-mspp-mefextensions-modularity) type exposes the following members.
 
 ## Methods
 
@@ -138,8 +136,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
+[MefModuleManager Class](mefmodulemanager-class-mspp-mefextensions-modularity)
 
-
-[MefModuleManager Class](mefmodulemanager-class-mspp-mefextensions-modularity.md)
-
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace)

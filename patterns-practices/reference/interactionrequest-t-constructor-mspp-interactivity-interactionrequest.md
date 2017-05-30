@@ -4,11 +4,8 @@ Title: 'InteractionRequest(T) Constructor (Microsoft.Practices.Prism.Interactivi
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequest\`1.\#ctor'
 ms:mtpsurl: 'interactionrequest-t-constructor-mspp-interactivity-interactionrequest.md'
 ---
-
-Prism Class Library
-
-InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Constructor
-======================================================
+
+# InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Constructor
 
 Initializes a new instance of the [InteractionRequest&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [InteractionRequest&lt;(Of &lt;(T&gt;)&gt;)](h
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public InteractionRequest()Public Sub New
 
-
-public InteractionRequest()Public Sub New
-
-See Also
---------
-
-
-[InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)
+## See Also
+[InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)
 
 [InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)
 

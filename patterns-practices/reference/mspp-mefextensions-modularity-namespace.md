@@ -4,9 +4,7 @@ Title: 'Microsoft.Practices.Prism.MefExtensions.Modularity Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.MefExtensions.Modularity'
 ms:mtpsurl: 'mspp-mefextensions-modularity-namespace.md'
 ---
-
-Prism Class Library
-
+
 # Microsoft.Practices.Prism.MefExtensions.Modularity Namespace
 
 Classes
@@ -60,8 +58,7 @@ An attribute that is applied to describe the Managed Extensibility Framework exp
 </tbody>
 </table>
 
-Interfaces
-----------
+## Interfaces
 
 <span id="interfaceToggle"></span>
 <table>

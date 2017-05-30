@@ -4,16 +4,12 @@ Title: 'ModuleExportAttribute Properties (Microsoft.Practices.Prism.MefExtension
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAttribute'
 ms:mtpsurl: 'moduleexportattribute-properties-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleExportAttribute Properties
-================================
+
+# ModuleExportAttribute Properties
 
 The [ModuleExportAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -81,10 +77,7 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleExportAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute)
+## See Also
+[ModuleExportAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute)
 
 [Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)

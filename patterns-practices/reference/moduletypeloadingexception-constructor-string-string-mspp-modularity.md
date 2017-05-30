@@ -4,11 +4,8 @@ Title: 'ModuleTypeLoadingException Constructor (String, String) (Microsoft.Pract
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException.\#ctor(System.String,System.String)'
 ms:mtpsurl: 'moduletypeloadingexception-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleTypeLoadingException Constructor (String, String)
-=======================================================
+
+# ModuleTypeLoadingException Constructor (String, String)
 
 Initializes the exception with a particular module and error message.
 
@@ -18,9 +15,7 @@ Initializes the exception with a particular module and error message.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ModuleTypeLoadingException( string moduleName, string message )Public Sub New ( moduleName As String, message As String )
+public ModuleTypeLoadingException( string moduleName, string message )Public Sub New ( moduleName As String, message As String )
 
 ### Parameters
 
@@ -32,11 +27,8 @@ message
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The error message that explains the reason for the exception.
 
-See Also
---------
-
-
-[ModuleTypeLoadingException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception)
+## See Also
+[ModuleTypeLoadingException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception)
 
 [ModuleTypeLoadingException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduletypeloadingexception)
 

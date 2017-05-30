@@ -4,11 +4,8 @@ Title: 'ListDictionary(TKey, TValue).FindAllValuesByKey Method (Microsoft.Practi
 ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.FindAllValuesByKey(System.Predicate{\`0})'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-findallvaluesbykey-method-mspp.md'
 ---
-
-Prism Class Library
-
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).FindAllValuesByKey Method
-===============================================================================
+
+# ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).FindAllValuesByKey Method
 
 Retrieves the all the elements from the list which have a key that matches the condition defined by the specified predicate.
 
@@ -18,9 +15,7 @@ Retrieves the all the elements from the list which have a key that matches the c
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public IEnumerable&lt;TValue&gt; FindAllValuesByKey( Predicate&lt;TKey&gt; keyFilter )Public Function FindAllValuesByKey ( keyFilter As Predicate(Of TKey) ) As IEnumerable(Of TValue)
+public IEnumerable&lt;TValue&gt; FindAllValuesByKey( Predicate&lt;TKey&gt; keyFilter )Public Function FindAllValuesByKey ( keyFilter As Predicate(Of TKey) ) As IEnumerable(Of TValue)
 
 ### Parameters
 
@@ -33,11 +28,8 @@ The filter with the condition to use to filter lists by their key.
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([TValue](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
 The elements that have a key that matches the condition defined by the specified predicate.
 
-See Also
---------
-
-
-[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
+## See Also
+[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 
 [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.listdictionary%602)
 

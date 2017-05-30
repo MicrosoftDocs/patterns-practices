@@ -4,14 +4,12 @@ Title: 'MefBootstrapper.RegisterBootstrapperProvidedTypes Method (Microsoft.Prac
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.RegisterBootstrapperProvidedTypes'
 ms:mtpsurl: 'mefbootstrapper-registerbootstrapperprovidedtypes-method-mspp-mefextensions.md'
 ---
-
-Prism Class Library
-
+
 # MefBootstrapper.RegisterBootstrapperProvidedTypes Method
 
 Helper method for configuring the [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553). Registers all the types direct instantiated by the bootstrapper with the container.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](mspp-mefextensions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](mspp-mefextensions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -30,8 +28,8 @@ Protected Overridable Sub RegisterBootstrapperProvidedTypes
 
 ## See Also
 
-[MefBootstrapper Class](mefbootstrapper-class-mspp-mefextensions.md)
+[MefBootstrapper Class](mefbootstrapper-class-mspp-mefextensions)
 
-[MefBootstrapper Members](mefbootstrapper-members-mspp-mefextensions.md)
+[MefBootstrapper Members](mefbootstrapper-members-mspp-mefextensions)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](mspp-mefextensions-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions Namespace](mspp-mefextensions-namespace)

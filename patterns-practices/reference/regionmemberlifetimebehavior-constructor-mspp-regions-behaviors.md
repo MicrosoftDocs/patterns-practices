@@ -4,11 +4,8 @@ Title: 'RegionMemberLifetimeBehavior Constructor (Microsoft.Practices.Prism.Regi
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior.\#ctor'
 ms:mtpsurl: 'regionmemberlifetimebehavior-constructor-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionMemberLifetimeBehavior Constructor
-========================================
+
+# RegionMemberLifetimeBehavior Constructor
 
 Initializes a new instance of the [RegionMemberLifetimeBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [RegionMemberLifetimeBehavior](https://msdn.mi
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public RegionMemberLifetimeBehavior()Public Sub New
 
-
-public RegionMemberLifetimeBehavior()Public Sub New
-
-See Also
---------
-
-
-[RegionMemberLifetimeBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior)
+## See Also
+[RegionMemberLifetimeBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior)
 
 [RegionMemberLifetimeBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior)
 

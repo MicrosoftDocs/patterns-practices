@@ -4,11 +4,8 @@ Title: 'RegionBehaviorFactory.GetEnumerator Method (Microsoft.Practices.Prism.Re
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionBehaviorFactory.GetEnumerator'
 ms:mtpsurl: 'regionbehaviorfactory-getenumerator-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionBehaviorFactory.GetEnumerator Method
-==============================================
+
+# RegionBehaviorFactory.GetEnumerator Method
 
 Returns an enumerator that iterates through the collection.
 
@@ -18,9 +15,7 @@ Returns an enumerator that iterates through the collection.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public IEnumerator&lt;string&gt; GetEnumerator()Public Function GetEnumerator As IEnumerator(Of String)
+public IEnumerator&lt;string&gt; GetEnumerator()Public Function GetEnumerator As IEnumerator(Of String)
 ### Return Value
 
 Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)&lt;(Of &lt;([String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)&gt;)&gt;)
@@ -29,11 +24,8 @@ A [IEnumerator&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/
 
 [IEnumerable&lt;(Of &lt;(T&gt;)&gt;).GetEnumerator()()()](http://msdn.microsoft.com/en-us/library/s793z9y2)
 
-See Also
---------
-
-
-[RegionBehaviorFactory Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory)
+## See Also
+[RegionBehaviorFactory Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory)
 
 [RegionBehaviorFactory Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehaviorfactory)
 

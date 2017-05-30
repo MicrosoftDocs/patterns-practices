@@ -7,7 +7,7 @@ ms:mtpsurl: 'moduletypeloadernotfoundexception-properties-mspp-modularity.md'
 
 # ModuleTypeLoaderNotFoundException Properties
 
-The [ModuleTypeLoaderNotFoundException](moduletypeloadernotfoundexception-class-mspp-modularity.md) type exposes the following members.
+The [ModuleTypeLoaderNotFoundException](moduletypeloadernotfoundexception-class-mspp-modularity) type exposes the following members.
 
 ## Properties
 
@@ -98,6 +98,6 @@ Gets the method that throws the current exception.
 
 ## See Also
 
-[ModuleTypeLoaderNotFoundException Class](moduletypeloadernotfoundexception-class-mspp-modularity.md)
+[ModuleTypeLoaderNotFoundException Class](moduletypeloadernotfoundexception-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

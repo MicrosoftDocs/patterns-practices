@@ -4,16 +4,12 @@ Title: 'IRegion Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegion'
 ms:mtpsurl: 'iregion-methods-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegion Methods
-===============
+
+# IRegion Methods
 
 The [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -94,8 +90,7 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
 </tbody>
 </table>
 
-Extension Methods
------------------
+## Extension Methods
 
 <span id="extensionMethodTableToggle"></span>
 <table>
@@ -165,10 +160,7 @@ Initiates navigation to the target specified by the target.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
+## See Also
+[IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

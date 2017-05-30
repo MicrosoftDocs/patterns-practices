@@ -4,11 +4,8 @@ Title: 'ConfigurationStore Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ConfigurationStore.\#ctor'
 ms:mtpsurl: 'configurationstore-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ConfigurationStore Constructor
-==============================
+
+# ConfigurationStore Constructor
 
 Initializes a new instance of the [ConfigurationStore](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationstore) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [ConfigurationStore](https://msdn.microsoft.co
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public ConfigurationStore()Public Sub New
 
-
-public ConfigurationStore()Public Sub New
-
-See Also
---------
-
-
-[ConfigurationStore Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationstore)
+## See Also
+[ConfigurationStore Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationstore)
 
 [ConfigurationStore Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.configurationstore)
 

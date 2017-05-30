@@ -4,16 +4,12 @@ Title: 'ModuleInfo Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleInfo'
 ms:mtpsurl: 'moduleinfo-members-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInfo Members
-==================
+
+# ModuleInfo Members
 
 The [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -50,8 +46,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -115,8 +110,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -178,10 +172,7 @@ Gets or sets the state of the <a href="https://msdn.microsoft.com/library/micros
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleInfo Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
+## See Also
+[ModuleInfo Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

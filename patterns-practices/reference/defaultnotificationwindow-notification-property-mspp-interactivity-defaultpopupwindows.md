@@ -5,10 +5,8 @@ ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.Defau
 ms:mtpsurl: 'defaultnotificationwindow-notification-property-mspp-interactivity-defaultpopupwindows.md'
 ---
 
-Prism Class Library
 
-DefaultNotificationWindow.Notification Property
-===================================================
+# DefaultNotificationWindow.Notification Property
 
 Sets or gets the [INotification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification) shown by this window./&gt;
 
@@ -19,15 +17,12 @@ Sets or gets the [INotification](https://msdn.microsoft.com/library/microsoft.pr
 
 ## Syntax
 
-
 public INotification Notification { get; set; }Public Property Notification As INotification Get Set
 ### Property Value
 
 Type: [INotification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification)
 
-See Also
---------
-
+## See Also
 
 [DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
 

@@ -4,11 +4,8 @@ Title: 'DelegateCommand.Execute Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand.Execute'
 ms:mtpsurl: 'delegatecommand-execute-method-mspp-commands.md'
 ---
-
-Prism Class Library
-
-DelegateCommand.Execute Method
-==================================
+
+# DelegateCommand.Execute Method
 
 Executes the command.
 
@@ -16,18 +13,13 @@ Executes the command.
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
-
-public virtual Task Execute()Public Overridable Function Execute As Task
+public virtual Task Execute()Public Overridable Function Execute As Task
 ### Return Value
 
 Type: [Task](http://msdn.microsoft.com/en-us/library/dd235678)
 
-See Also
---------
-
-
-[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
+## See Also
+[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
 
 [DelegateCommand Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand)
 

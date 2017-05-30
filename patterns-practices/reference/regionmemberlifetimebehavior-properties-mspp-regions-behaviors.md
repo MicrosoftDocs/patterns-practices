@@ -4,16 +4,12 @@ Title: 'RegionMemberLifetimeBehavior Properties (Microsoft.Practices.Prism.Regio
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior'
 ms:mtpsurl: 'regionmemberlifetimebehavior-properties-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionMemberLifetimeBehavior Properties
-=======================================
+
+# RegionMemberLifetimeBehavior Properties
 
 The [RegionMemberLifetimeBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -45,10 +41,7 @@ Behavior's attached region.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionMemberLifetimeBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior)
+## See Also
+[RegionMemberLifetimeBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

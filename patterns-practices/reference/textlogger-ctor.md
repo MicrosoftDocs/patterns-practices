@@ -4,14 +4,10 @@ Title: 'TextLogger Constructor (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Logging.TextLogger.\#ctor'
 ms:mtpsurl: 'textlogger-constructor-mspp-logging.md'
 ---
+
+# TextLogger Constructor
 
-Prism Class Library
-
-TextLogger Constructor
-======================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,11 +37,8 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 </tbody>
 </table>
 
-See Also
---------
-
-
-[TextLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger)
+## See Also
+[TextLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger)
 
 [TextLogger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.logging.textlogger)
 

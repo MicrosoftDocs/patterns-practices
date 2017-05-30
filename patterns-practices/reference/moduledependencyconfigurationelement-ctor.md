@@ -4,11 +4,8 @@ Title: 'ModuleDependencyConfigurationElement Constructor (Microsoft.Practices.Pr
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement.\#ctor'
 ms:mtpsurl: 'moduledependencyconfigurationelement-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDependencyConfigurationElement Constructor
-================================================
+
+# ModuleDependencyConfigurationElement Constructor
 
 Initializes a new instance of [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement).
 
@@ -18,15 +15,10 @@ Initializes a new instance of [ModuleDependencyConfigurationElement](https://msd
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public ModuleDependencyConfigurationElement()Public Sub New
 
-
-public ModuleDependencyConfigurationElement()Public Sub New
-
-See Also
---------
-
-
-[ModuleDependencyConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement)
+## See Also
+[ModuleDependencyConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement)
 
 [ModuleDependencyConfigurationElement Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencyconfigurationelement)
 

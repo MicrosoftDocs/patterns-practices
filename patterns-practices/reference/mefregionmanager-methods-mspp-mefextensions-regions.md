@@ -4,16 +4,12 @@ Title: 'MefRegionManager Methods (Microsoft.Practices.Prism.MefExtensions.Region
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionManager'
 ms:mtpsurl: 'mefregionmanager-methods-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
-MefRegionManager Methods
-========================
+
+# MefRegionManager Methods
 
 The [MefRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -85,10 +81,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefRegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager)
+## See Also
+[MefRegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)

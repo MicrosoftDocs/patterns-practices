@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionNavigationSer
 ms:mtpsurl: 'iregionnavigationservice-members-mspp-regions.md'
 ---
 
-Prism Class Library
 
-IRegionNavigationService Members
-================================
+# IRegionNavigationService Members
 
 The [IRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -45,8 +42,7 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
 </tbody>
 </table>
 
-Extension Methods
------------------
+## Extension Methods
 
 <span id="extensionMethodTableToggle"></span>
 <table>
@@ -116,8 +112,7 @@ Initiates navigation to the target specified by the target.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -147,8 +142,7 @@ Gets or sets the region owning this service.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -185,9 +179,7 @@ Raised when a navigation request fails.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IRegionNavigationService Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice)
 

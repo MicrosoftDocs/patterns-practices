@@ -9,7 +9,7 @@ ms:mtpsurl: 'bindablebase-propertychanged-event-mspp-mvvm.md'
 
 Occurs when a property value changes.
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](mspp-mvvm-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](mspp-mvvm-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -32,8 +32,8 @@ Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn.microsoft.
 
 # See Also
 
-[BindableBase Class](bindablebase-class-mspp-mvvm.md)
+[BindableBase Class](bindablebase-class-mspp-mvvm)
 
-[BindableBase Members](bindablebase-members-mspp-mvvm.md)
+[BindableBase Members](bindablebase-members-mspp-mvvm)
 
-[Microsoft.Practices.Prism.Mvvm Namespace](mspp-mvvm-namespace.md)
+[Microsoft.Practices.Prism.Mvvm Namespace](mspp-mvvm-namespace)

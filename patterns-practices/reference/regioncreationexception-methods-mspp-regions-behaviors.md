@@ -4,16 +4,12 @@ Title: 'RegionCreationException Methods (Microsoft.Practices.Prism.Regions.Behav
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionCreationException'
 ms:mtpsurl: 'regioncreationexception-methods-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionCreationException Methods
-===============================
+
+# RegionCreationException Methods
 
 The [RegionCreationException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -93,8 +89,7 @@ Creates and returns a string representation of the current exception.
 </tbody>
 </table>
 
-Extension Methods
------------------
+## Extension Methods
 
 <span id="extensionMethodTableToggle"></span>
 <table>
@@ -118,10 +113,7 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionCreationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception)
+## See Also
+[RegionCreationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

@@ -4,16 +4,12 @@ Title: 'ViewsCollection Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.ViewsCollection'
 ms:mtpsurl: 'viewscollection-events-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ViewsCollection Events
-======================
+
+# ViewsCollection Events
 
 The [ViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -36,10 +32,7 @@ Occurs when the collection changes.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ViewsCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection)
+## See Also
+[ViewsCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

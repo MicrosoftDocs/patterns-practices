@@ -4,11 +4,8 @@ Title: 'TextLogger.Dispose Method (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Logging.TextLogger.Dispose'
 ms:mtpsurl: 'textlogger-dispose-method-boolean-mspp-logging.md'
 ---
-
-Prism Class Library
-
-TextLogger.Dispose Method
-=============================
+
+# TextLogger.Dispose Method
 
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 
@@ -18,23 +15,17 @@ Performs application-defined tasks associated with freeing, releasing, or resett
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public void Dispose()Public Sub Dispose
+public void Dispose()Public Sub Dispose
 ### Implements
 
 [IDisposable.Dispose()()()](http://msdn.microsoft.com/en-us/library/es4s3w1d)
 
-Remarks
--------
+## Remarks
 
 Calls [Dispose(Boolean)](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger.dispose(system.boolean))
 
-See Also
---------
-
-
-[TextLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger)
+## See Also
+[TextLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger)
 
 [TextLogger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.logging.textlogger)
 

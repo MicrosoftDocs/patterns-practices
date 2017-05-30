@@ -4,16 +4,12 @@ Title: 'IRegionCollection Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegionCollection'
 ms:mtpsurl: 'iregioncollection-methods-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionCollection Methods
-=========================
+
+# IRegionCollection Methods
 
 The [IRegionCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -66,8 +62,7 @@ Removes a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.
 </tbody>
 </table>
 
-Extension Methods
------------------
+## Extension Methods
 
 <span id="extensionMethodTableToggle"></span>
 <table>
@@ -91,10 +86,7 @@ Adds a region to the regionmanager with the name received as argument.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegionCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection)
+## See Also
+[IRegionCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

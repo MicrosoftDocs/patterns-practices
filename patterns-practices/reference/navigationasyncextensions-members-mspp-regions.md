@@ -5,13 +5,10 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.NavigationAsyncExten
 ms:mtpsurl: 'navigationasyncextensions-members-mspp-regions.md'
 ---
 
-Prism Class Library
 
-NavigationAsyncExtensions Members
-=================================
+# NavigationAsyncExtensions Members
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -69,9 +66,7 @@ Initiates navigation to the target specified by the target.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [NavigationAsyncExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions)
 

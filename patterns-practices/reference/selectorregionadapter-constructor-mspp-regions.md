@@ -4,11 +4,8 @@ Title: 'SelectorRegionAdapter Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.SelectorRegionAdapter.\#ctor(Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory)'
 ms:mtpsurl: 'selectorregionadapter-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
-SelectorRegionAdapter Constructor
-=================================
+
+# SelectorRegionAdapter Constructor
 
 Initializes a new instance of [SelectorRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.selectorregionadapter).
 
@@ -18,9 +15,7 @@ Initializes a new instance of [SelectorRegionAdapter](https://msdn.microsoft.com
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public SelectorRegionAdapter( IRegionBehaviorFactory regionBehaviorFactory )Public Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
+public SelectorRegionAdapter( IRegionBehaviorFactory regionBehaviorFactory )Public Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ regionBehaviorFactory
 Type: [Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory)
 The factory used to create the region behaviors to attach to the created regions.
 
-See Also
---------
-
-
-[SelectorRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.selectorregionadapter)
+## See Also
+[SelectorRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.selectorregionadapter)
 
 [SelectorRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.selectorregionadapter)
 

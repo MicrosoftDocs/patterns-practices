@@ -7,7 +7,7 @@ ms:mtpsurl: 'viewsorthintattribute-methods-mspp-regions.md'
 
 # ViewSortHintAttribute Methods
 
-The [ViewSortHintAttribute](viewsorthintattribute-class-mspp-regions.md) type exposes the following members.
+The [ViewSortHintAttribute](viewsorthintattribute-class-mspp-regions) type exposes the following members.
 
 ## Methods
  
@@ -94,7 +94,7 @@ The [ViewSortHintAttribute](viewsorthintattribute-class-mspp-regions.md) type ex
 
 ## See Also
 
-[ViewSortHintAttribute Class](viewsorthintattribute-class-mspp-regions.md)
+[ViewSortHintAttribute Class](viewsorthintattribute-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
 

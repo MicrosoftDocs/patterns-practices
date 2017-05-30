@@ -8,7 +8,6 @@ ms:mtpsurl: 'mspp-viewmodel-namespace.md'
 # Microsoft.Practices.Prism.ViewModel Namespace
 
 ## Classes
-=======
 
 <span id="classToggle"></span>
 <table>

@@ -4,16 +4,12 @@ Title: 'ModuleTypeLoadingException Events (Microsoft.Practices.Prism.Modularity)
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException'
 ms:mtpsurl: 'moduletypeloadingexception-events-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleTypeLoadingException Events
-=================================
+
+# ModuleTypeLoadingException Events
 
 The [ModuleTypeLoadingException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -37,10 +33,7 @@ Occurs when an exception is serialized to create an exception state object that 
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleTypeLoadingException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception)
+## See Also
+[ModuleTypeLoadingException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

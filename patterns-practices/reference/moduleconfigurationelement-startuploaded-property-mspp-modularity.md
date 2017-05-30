@@ -4,11 +4,8 @@ Title: 'ModuleConfigurationElement.StartupLoaded Property (Microsoft.Practices.P
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement.StartupLoaded'
 ms:mtpsurl: 'moduleconfigurationelement-startuploaded-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleConfigurationElement.StartupLoaded Property
-=====================================================
+
+# ModuleConfigurationElement.StartupLoaded Property
 
 Gets or sets a value indicating whether the module should be loaded at startup.
 
@@ -18,19 +15,14 @@ Gets or sets a value indicating whether the module should be loaded at startup.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public bool StartupLoaded { get; set; }Public Property StartupLoaded As Boolean Get Set
+public bool StartupLoaded { get; set; }Public Property StartupLoaded As Boolean Get Set
 ### Property Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 A value indicating whether the module should be loaded at startup.
 
-See Also
---------
-
-
-[ModuleConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
+## See Also
+[ModuleConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
 
 [ModuleConfigurationElement Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleconfigurationelement)
 

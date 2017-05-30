@@ -4,12 +4,10 @@ Title: 'SelectorItemsSourceSyncBehavior Properties (Microsoft.Practices.Prism.Re
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior'
 ms:mtpsurl: 'selectoritemssourcesyncbehavior-properties-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
+
 # SelectorItemsSourceSyncBehavior Properties
 
-The [SelectorItemsSourceSyncBehavior](selectoritemssourcesyncbehavior-class-mspp-regions-behaviors.md) type exposes the following members.
+The [SelectorItemsSourceSyncBehavior](selectoritemssourcesyncbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Properties
 
@@ -51,6 +49,6 @@ Behavior's attached region.
 
 ## See Also
 
-[SelectorItemsSourceSyncBehavior Class](selectoritemssourcesyncbehavior-class-mspp-regions-behaviors.md)
+[SelectorItemsSourceSyncBehavior Class](selectoritemssourcesyncbehavior-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)

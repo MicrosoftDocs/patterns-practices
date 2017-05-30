@@ -4,11 +4,8 @@ Title: 'ListDictionary(TKey, TValue).FindAllValues Method (Microsoft.Practices.P
 ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.FindAllValues(System.Predicate{\`1})'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-findallvalues-method-mspp.md'
 ---
-
-Prism Class Library
-
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).FindAllValues Method
-==========================================================================
+
+# ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).FindAllValues Method
 
 Retrieves all the elements that match the condition defined by the specified predicate.
 
@@ -18,9 +15,7 @@ Retrieves all the elements that match the condition defined by the specified pre
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public IEnumerable&lt;TValue&gt; FindAllValues( Predicate&lt;TValue&gt; valueFilter )Public Function FindAllValues ( valueFilter As Predicate(Of TValue) ) As IEnumerable(Of TValue)
+public IEnumerable&lt;TValue&gt; FindAllValues( Predicate&lt;TValue&gt; valueFilter )Public Function FindAllValues ( valueFilter As Predicate(Of TValue) ) As IEnumerable(Of TValue)
 
 ### Parameters
 
@@ -33,11 +28,8 @@ The filter with the condition to use to filter values.
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([TValue](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
 The elements that match the condition defined by the specified predicate.
 
-See Also
---------
-
-
-[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
+## See Also
+[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 
 [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.listdictionary%602)
 

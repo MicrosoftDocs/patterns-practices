@@ -4,11 +4,8 @@ Title: 'Region.Activate Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Region.Activate(System.Object)'
 ms:mtpsurl: 'region-activate-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-Region.Activate Method
-==========================
+
+# Region.Activate Method
 
 Marks the specified view as active.
 
@@ -18,9 +15,7 @@ Marks the specified view as active.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public virtual void Activate( Object view )Public Overridable Sub Activate ( view As Object )
+public virtual void Activate( Object view )Public Overridable Sub Activate ( view As Object )
 
 ### Parameters
 
@@ -32,11 +27,8 @@ The view to activate.
 
 [IRegion.Activate(Object)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.activate(system.object))
 
-See Also
---------
-
-
-[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
+## See Also
+[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 
 [Region Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.region)
 

@@ -4,12 +4,10 @@ Title: 'CyclicDependencyFoundException Methods (Microsoft.Practices.Prism.Modula
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException'
 ms:mtpsurl: 'cyclicdependencyfoundexception-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # CyclicDependencyFoundException Methods
 
-The [CyclicDependencyFoundException](cyclicdependencyfoundexception-class-mspp-modularity.md) type exposes the following members.
+The [CyclicDependencyFoundException](cyclicdependencyfoundexception-class-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -114,8 +112,6 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 </table>
 
 ## See Also
+[CyclicDependencyFoundException Class](cyclicdependencyfoundexception-class-mspp-modularity)
 
-
-[CyclicDependencyFoundException Class](cyclicdependencyfoundexception-class-mspp-modularity.md)
-
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

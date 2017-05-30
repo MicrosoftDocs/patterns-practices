@@ -4,16 +4,12 @@ Title: 'IHostAwareRegionBehavior Methods (Microsoft.Practices.Prism.Regions.Beha
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.IHostAwareRegionBehavior'
 ms:mtpsurl: 'ihostawareregionbehavior-methods-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-IHostAwareRegionBehavior Methods
-================================
+
+# IHostAwareRegionBehavior Methods
 
 The [IHostAwareRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -37,10 +33,7 @@ Attaches the behavior to the specified region.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IHostAwareRegionBehavior Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior)
+## See Also
+[IHostAwareRegionBehavior Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

@@ -4,11 +4,8 @@ Title: 'IModuleExport.InitializationMode Property (Microsoft.Practices.Prism.Mef
 ms:assetid: 'P:Microsoft.Practices.Prism.MefExtensions.Modularity.IModuleExport.InitializationMode'
 ms:mtpsurl: 'imoduleexport-initializationmode-property-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-IModuleExport.InitializationMode Property
-=============================================
+
+# IModuleExport.InitializationMode Property
 
 Gets when the module should have Initialize() called.
 
@@ -18,19 +15,14 @@ Gets when the module should have Initialize() called.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-InitializationMode InitializationMode { get; }ReadOnly Property InitializationMode As InitializationMode Get
+InitializationMode InitializationMode { get; }ReadOnly Property InitializationMode As InitializationMode Get
 ### Property Value
 
 Type: [InitializationMode](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.initializationmode)
 The initialization mode.
 
-See Also
---------
-
-
-[IModuleExport Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport)
+## See Also
+[IModuleExport Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport)
 
 [IModuleExport Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.imoduleexport)
 

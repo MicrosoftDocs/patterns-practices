@@ -4,11 +4,8 @@ Title: 'ModuleDownloadProgressChangedEventArgs.ModuleInfo Property (Microsoft.Pr
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleDownloadProgressChangedEventArgs.ModuleInfo'
 ms:mtpsurl: 'moduledownloadprogresschangedeventargs-moduleinfo-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDownloadProgressChangedEventArgs.ModuleInfo Property
-==============================================================
+
+# ModuleDownloadProgressChangedEventArgs.ModuleInfo Property
 
 Getsthe module info.
 
@@ -18,19 +15,14 @@ Getsthe module info.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ModuleInfo ModuleInfo { get; }Public ReadOnly Property ModuleInfo As ModuleInfo Get
+public ModuleInfo ModuleInfo { get; }Public ReadOnly Property ModuleInfo As ModuleInfo Get
 ### Property Value
 
 Type: [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
 The module info.
 
-See Also
---------
-
-
-[ModuleDownloadProgressChangedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
+## See Also
+[ModuleDownloadProgressChangedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
 
 [ModuleDownloadProgressChangedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
 

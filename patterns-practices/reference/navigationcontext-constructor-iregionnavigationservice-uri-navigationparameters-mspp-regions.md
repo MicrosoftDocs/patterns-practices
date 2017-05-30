@@ -4,11 +4,8 @@ Title: 'NavigationContext Constructor (IRegionNavigationService, Uri, Navigation
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationContext.\#ctor(Microsoft.Practices.Prism.Regions.IRegionNavigationService,System.Uri,Microsoft.Practices.Prism.Regions.NavigationParameters)'
 ms:mtpsurl: 'navigationcontext-constructor-iregionnavigationservice-uri-mspp-regions.md'
 ---
-
-Prism Class Library
-
-NavigationContext Constructor (IRegionNavigationService, Uri, NavigationParameters)
-===================================================================================
+
+# NavigationContext Constructor (IRegionNavigationService, Uri, NavigationParameters)
 
 Initializes a new instance of the [NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext) class for a region name and a [Uri](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.uri).
 
@@ -18,9 +15,7 @@ Initializes a new instance of the [NavigationContext](https://msdn.microsoft.com
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public NavigationContext( IRegionNavigationService navigationService, Uri uri, NavigationParameters navigationParameters )Public Sub New ( navigationService As IRegionNavigationService, uri As Uri, navigationParameters As NavigationParameters )
+public NavigationContext( IRegionNavigationService navigationService, Uri uri, NavigationParameters navigationParameters )Public Sub New ( navigationService As IRegionNavigationService, uri As Uri, navigationParameters As NavigationParameters )
 
 ### Parameters
 
@@ -36,11 +31,8 @@ navigationParameters
 Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
 The navigation parameters.
 
-See Also
---------
-
-
-[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
+## See Also
+[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 
 [NavigationContext Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationcontext)
 

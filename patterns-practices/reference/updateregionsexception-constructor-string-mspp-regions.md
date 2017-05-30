@@ -4,11 +4,8 @@ Title: 'UpdateRegionsException Constructor (String) (Microsoft.Practices.Prism.R
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.UpdateRegionsException.\#ctor(System.String)'
 ms:mtpsurl: 'updateregionsexception-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
-UpdateRegionsException Constructor (String)
-===========================================
+
+# UpdateRegionsException Constructor (String)
 
 Initializes a new instance of the [UpdateRegionsException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception) class with a specified error message.
 
@@ -18,9 +15,7 @@ Initializes a new instance of the [UpdateRegionsException](https://msdn.microsof
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public UpdateRegionsException( string message )Public Sub New ( message As String )
+public UpdateRegionsException( string message )Public Sub New ( message As String )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ message
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The message that describes the error.
 
-See Also
---------
-
-
-[UpdateRegionsException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception)
+## See Also
+[UpdateRegionsException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception)
 
 [UpdateRegionsException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.updateregionsexception)
 

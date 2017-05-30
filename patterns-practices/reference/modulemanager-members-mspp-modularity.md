@@ -4,16 +4,12 @@ Title: 'ModuleManager Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleManager'
 ms:mtpsurl: 'modulemanager-members-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleManager Members
-=====================
+
+# ModuleManager Members
 
 The [ModuleManager](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes an instance of the <a href="https://msdn.microsoft.com/library/micro
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -150,8 +145,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -181,8 +175,7 @@ Returns the list of registered <a href="https://msdn.microsoft.com/library/micro
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -212,10 +205,7 @@ Raised repeatedly to provide progress as modules are loaded in the background.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
+## See Also
+[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

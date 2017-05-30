@@ -4,12 +4,10 @@ Title: 'IModuleManager Events (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.IModuleManager'
 ms:mtpsurl: 'imodulemanager-events-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # IModuleManager Events
 
-The [IModuleManager](imodulemanager-interface-mspp-modularity.md) type exposes the following members.
+The [IModuleManager](imodulemanager-interface-mspp-modularity) type exposes the following members.
 
 ## Events
 
@@ -41,8 +39,6 @@ Raised repeatedly to provide progress as modules are downloaded.
 </table>
 
 ## See Also
+[IModuleManager Interface](imodulemanager-interface-mspp-modularity)
 
-
-[IModuleManager Interface](imodulemanager-interface-mspp-modularity.md)
-
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

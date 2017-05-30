@@ -5,20 +5,23 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Subscribe(S
 ms:mtpsurl: 'pubsubevent-tpayload-subscribe-method-action-tpayload-threadoption-boolean-predicate-tpayload-mspp-pubsubevents.md'
 ---
 
-Prism Class Library
-
-PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Subscribe Method (Action&lt;(Of &lt;(TPayload&gt;)&gt;), ThreadOption, Boolean, Predicate&lt;(Of &lt;(TPayload&gt;)&gt;))
-========================================================================================================================================================================
+# PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Subscribe Method (Action&lt;(Of &lt;(TPayload&gt;)&gt;), ThreadOption, Boolean, Predicate&lt;(Of &lt;(TPayload&gt;)&gt;))
 
 Subscribes a delegate to an event.
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
-
-public virtual SubscriptionToken Subscribe( Action&lt;TPayload&gt; action, ThreadOption threadOption, bool keepSubscriberReferenceAlive, Predicate&lt;TPayload&gt; filter )Public Overridable Function Subscribe ( action As Action(Of TPayload), threadOption As ThreadOption, keepSubscriberReferenceAlive As Boolean, filter As Predicate(Of TPayload) ) As SubscriptionToken
+```C#
+public virtual SubscriptionToken Subscribe(
+	Action<TPayload> action,
+	ThreadOption threadOption,
+	bool keepSubscriberReferenceAlive,
+	Predicate<TPayload> filter
+)
+```
 
 ### Parameters
 
@@ -43,16 +46,12 @@ Filter to evaluate if the subscriber should receive the event.
 Type: [SubscriptionToken](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken)
 A [SubscriptionToken](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken) that uniquely identifies the added subscription.
 
-Remarks
--------
+## Remarks
 
  If keepSubscriberReferenceAlive is set to falseFalsefalsefalse (False in Visual Basic), [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate. If not using a WeakReference (keepSubscriberReferenceAlive is trueTruetruetrue (True in Visual Basic)), the user must explicitly call Unsubscribe for the event when disposing the subscriber in order to avoid memory leaks or unexpected behavior. The PubSubEvent collection is thread-safe.
 
-See Also
---------
-
-
-[PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601)
+## See Also
+[PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.pubsubevent%601)
 
 [PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.pubsubevent%601)
 

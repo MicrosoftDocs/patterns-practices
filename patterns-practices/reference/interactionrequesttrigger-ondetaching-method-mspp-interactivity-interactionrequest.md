@@ -4,11 +4,8 @@ Title: 'InteractionRequestTrigger.OnDetaching Method (Microsoft.Practices.Prism.
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestTrigger.OnDetaching'
 ms:mtpsurl: 'interactionrequesttrigger-ondetaching-method-mspp-interactivity-interactionrequest.md'
 ---
-
-Prism Class Library
-
-InteractionRequestTrigger.OnDetaching Method
-================================================
+
+# InteractionRequestTrigger.OnDetaching Method
 
 Called when the trigger is being dettached from its AssociatedObject, but before it has actually occurred.
 
@@ -18,15 +15,10 @@ Called when the trigger is being dettached from its AssociatedObject, but before
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+protected override void OnDetaching()Protected Overrides Sub OnDetaching
 
-
-protected override void OnDetaching()Protected Overrides Sub OnDetaching
-
-See Also
---------
-
-
-[InteractionRequestTrigger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger)
+## See Also
+[InteractionRequestTrigger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger)
 
 [InteractionRequestTrigger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger)
 

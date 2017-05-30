@@ -4,11 +4,8 @@ Title: 'PopupWindowAction.WindowContentProperty Field (Microsoft.Practices.Prism
 ms:assetid: 'F:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.WindowContentProperty'
 ms:mtpsurl: 'popupwindowaction-windowcontentproperty-field-mspp-interactivity.md'
 ---
-
-Prism Class Library
-
-PopupWindowAction.WindowContentProperty Field
-=================================================
+
+# PopupWindowAction.WindowContentProperty Field
 
 The content of the child window to display as part of the popup.
 
@@ -18,18 +15,13 @@ The content of the child window to display as part of the popup.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public static readonly DependencyProperty WindowContentPropertyPublic Shared ReadOnly WindowContentProperty As DependencyProperty
+public static readonly DependencyProperty WindowContentPropertyPublic Shared ReadOnly WindowContentProperty As DependencyProperty
 ### Field Value
 
 Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 
-See Also
---------
-
-
-[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
+## See Also
+[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
 
 [PopupWindowAction Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.popupwindowaction)
 

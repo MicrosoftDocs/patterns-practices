@@ -4,11 +4,8 @@ Title: 'ObservableObject(T) Constructor (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ObservableObject\`1.\#ctor'
 ms:mtpsurl: 'observableobject-t-constructor-mspp.md'
 ---
-
-Prism Class Library
-
-ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Constructor
-====================================================
+
+# ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Constructor
 
 Initializes a new instance of the [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](htt
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public ObservableObject()Public Sub New
 
-
-public ObservableObject()Public Sub New
-
-See Also
---------
-
-
-[ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601)
+## See Also
+[ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601)
 
 [ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.observableobject%601)
 

@@ -4,14 +4,12 @@ Title: 'MefBootstrapper.InitializeShell Method (Microsoft.Practices.Prism.MefExt
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.InitializeShell'
 ms:mtpsurl: 'mefbootstrapper-initializeshell-method-mspp-mefextensions.md'
 ---
-
-Prism Class Library
-
+
 # MefBootstrapper.InitializeShell Method
 
 Initializes the shell.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](mspp-mefextensions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](mspp-mefextensions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -34,8 +32,8 @@ Protected Overrides Sub InitializeShell
 
 ## See Also
 
-[MefBootstrapper Class](mefbootstrapper-class-mspp-mefextensions.md)
+[MefBootstrapper Class](mefbootstrapper-class-mspp-mefextensions)
 
-[MefBootstrapper Members](mefbootstrapper-members-mspp-mefextensions.md)
+[MefBootstrapper Members](mefbootstrapper-members-mspp-mefextensions)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](mspp-mefextensions-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions Namespace](mspp-mefextensions-namespace)

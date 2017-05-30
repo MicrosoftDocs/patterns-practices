@@ -4,11 +4,8 @@ Title: 'ItemMetadata.InvokeMetadataChanged Method (Microsoft.Practices.Prism.Reg
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ItemMetadata.InvokeMetadataChanged'
 ms:mtpsurl: 'itemmetadata-invokemetadatachanged-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ItemMetadata.InvokeMetadataChanged Method
-=============================================
+
+# ItemMetadata.InvokeMetadataChanged Method
 
 Explicitly invokes [MetadataChanged](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.metadatachanged) to notify listeners.
 
@@ -18,15 +15,10 @@ Explicitly invokes [MetadataChanged](https://msdn.microsoft.com/library/microsof
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public void InvokeMetadataChanged()Public Sub InvokeMetadataChanged
 
-
-public void InvokeMetadataChanged()Public Sub InvokeMetadataChanged
-
-See Also
---------
-
-
-[ItemMetadata Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)
+## See Also
+[ItemMetadata Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)
 
 [ItemMetadata Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.itemmetadata)
 

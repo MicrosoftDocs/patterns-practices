@@ -4,11 +4,8 @@ Title: 'ViewsCollection.Contains Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewsCollection.Contains(System.Object)'
 ms:mtpsurl: 'viewscollection-contains-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ViewsCollection.Contains Method
-===================================
+
+# ViewsCollection.Contains Method
 
 Determines whether the collection contains a specific value.
 
@@ -18,9 +15,7 @@ Determines whether the collection contains a specific value.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public bool Contains( Object value )Public Function Contains ( value As Object ) As Boolean
+public bool Contains( Object value )Public Function Contains ( value As Object ) As Boolean
 
 ### Parameters
 
@@ -36,11 +31,8 @@ trueTruetruetrue (True in Visual Basic) if value is found in the collection; oth
 
 [IViewsCollection.Contains(Object)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection.contains(system.object))
 
-See Also
---------
-
-
-[ViewsCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection)
+## See Also
+[ViewsCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection)
 
 [ViewsCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewscollection)
 

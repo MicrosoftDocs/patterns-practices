@@ -4,16 +4,12 @@ Title: 'ObservableObject(T) Methods (Microsoft.Practices.Prism)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ObservableObject\`1'
 ms:mtpsurl: 'observableobject-t-methods-mspp.md'
 ---
-
-Prism Class Library
-
-ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Methods
-================================================
+
+# ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Methods
 
 The [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -1629,10 +1625,7 @@ Enforces that the calling thread has access to this <a href="http://msdn.microso
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601)
+## See Also
+[ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601)
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

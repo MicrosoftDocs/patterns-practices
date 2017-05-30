@@ -7,7 +7,7 @@ ms:mtpsurl: 'viewregistrationexception-properties-mspp-regions.md'
 
 # ViewRegistrationException Properties
 
-The [ViewRegistrationException](viewregistrationexception-class-mspp-regions.md) type exposes the following members.
+The [ViewRegistrationException](viewregistrationexception-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
@@ -90,6 +90,6 @@ Gets the method that throws the current exception.
 
 ## See Also
 
-[ViewRegistrationException Class](viewregistrationexception-class-mspp-regions.md)
+[ViewRegistrationException Class](viewregistrationexception-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

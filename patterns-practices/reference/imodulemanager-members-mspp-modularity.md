@@ -4,16 +4,12 @@ Title: 'IModuleManager Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.IModuleManager'
 ms:mtpsurl: 'imodulemanager-members-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-IModuleManager Members
-======================
+
+# IModuleManager Members
 
 The [IModuleManager](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -43,8 +39,7 @@ Initializes the modules marked as <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -74,10 +69,7 @@ Raised repeatedly to provide progress as modules are downloaded.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IModuleManager Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager)
+## See Also
+[IModuleManager Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

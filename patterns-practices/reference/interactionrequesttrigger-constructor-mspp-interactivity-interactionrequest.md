@@ -7,9 +7,9 @@ ms:mtpsurl: 'interactionrequesttrigger-constructor-mspp-interactivity-interactio
 
 # InteractionRequestTrigger Constructor
 
-Initializes a new instance of the [InteractionRequestTrigger](interactionrequesttrigger-class-mspp-interactivity-interactionrequest.md) class
+Initializes a new instance of the [InteractionRequestTrigger](interactionrequesttrigger-class-mspp-interactivity-interactionrequest) class
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](mspp-interactivity-interactionrequest-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](mspp-interactivity-interactionrequest-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -30,8 +30,8 @@ Public Sub New
 
 ## See Also
 
-[InteractionRequestTrigger Class](interactionrequesttrigger-class-mspp-interactivity-interactionrequest.md)
+[InteractionRequestTrigger Class](interactionrequesttrigger-class-mspp-interactivity-interactionrequest)
 
-[InteractionRequestTrigger Members](interactionrequesttrigger-members-mspp-interactivity-interactionrequest.md)
+[InteractionRequestTrigger Members](interactionrequesttrigger-members-mspp-interactivity-interactionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace)

@@ -4,16 +4,12 @@ Title: 'ItemMetadata Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.ItemMetadata'
 ms:mtpsurl: 'itemmetadata-properties-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ItemMetadata Properties
-=======================
+
+# ItemMetadata Properties
 
 The [ItemMetadata](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -74,10 +70,7 @@ Gets or sets a name for the wrapped item.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ItemMetadata Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)
+## See Also
+[ItemMetadata Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

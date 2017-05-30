@@ -4,11 +4,8 @@ Title: 'ModuleInfoGroup.IndexOf Method (Object) (Microsoft.Practices.Prism.Modul
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.IndexOf(System.Object)'
 ms:mtpsurl: 'moduleinfogroup-indexof-method-moduleinfo-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInfoGroup.IndexOf Method (Object)
-===========================================
+
+# ModuleInfoGroup.IndexOf Method (Object)
 
 Determines the index of a specific item in the [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup).
 
@@ -18,9 +15,7 @@ Determines the index of a specific item in the [ModuleInfoGroup](https://msdn.mi
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public int IndexOf( Object value )Public Function IndexOf ( value As Object ) As Integer
+public int IndexOf( Object value )Public Function IndexOf ( value As Object ) As Integer
 
 ### Parameters
 
@@ -36,11 +31,8 @@ The index of value if found in the list; otherwise, -1.
 
 [IList.IndexOf(Object)](http://msdn.microsoft.com/en-us/library/2zt6cw37)
 
-See Also
---------
-
-
-[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
+## See Also
+[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 
 [ModuleInfoGroup Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroup)
 

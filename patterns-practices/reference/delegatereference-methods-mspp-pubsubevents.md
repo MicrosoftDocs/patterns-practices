@@ -4,16 +4,12 @@ Title: 'DelegateReference Methods (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.DelegateReference'
 ms:mtpsurl: 'delegatereference-methods-mspp-pubsubevents.md'
 ---
-
-Prism Class Library
-
-DelegateReference Methods
-=========================
+
+# DelegateReference Methods
 
 The [DelegateReference](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.delegatereference) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -77,10 +73,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DelegateReference Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.delegatereference)
+## See Also
+[DelegateReference Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.delegatereference)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)

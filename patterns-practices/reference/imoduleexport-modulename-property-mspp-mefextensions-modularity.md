@@ -4,11 +4,8 @@ Title: 'IModuleExport.ModuleName Property (Microsoft.Practices.Prism.MefExtensio
 ms:assetid: 'P:Microsoft.Practices.Prism.MefExtensions.Modularity.IModuleExport.ModuleName'
 ms:mtpsurl: 'imoduleexport-modulename-property-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-IModuleExport.ModuleName Property
-=====================================
+
+# IModuleExport.ModuleName Property
 
 Gets the name of the module.
 
@@ -18,19 +15,14 @@ Gets the name of the module.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-string ModuleName { get; }ReadOnly Property ModuleName As String Get
+string ModuleName { get; }ReadOnly Property ModuleName As String Get
 ### Property Value
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the module.
 
-See Also
---------
-
-
-[IModuleExport Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport)
+## See Also
+[IModuleExport Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport)
 
 [IModuleExport Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.imoduleexport)
 

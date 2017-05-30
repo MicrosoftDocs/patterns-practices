@@ -4,11 +4,8 @@ Title: 'UnityServiceLocatorAdapter Constructor (Microsoft.Practices.Prism.UnityE
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityServiceLocatorAdapter.\#ctor(Microsoft.Practices.Unity.IUnityContainer)'
 ms:mtpsurl: 'unityservicelocatoradapter-constructor-mspp-unityextensions.md'
 ---
-
-Prism Class Library
-
-UnityServiceLocatorAdapter Constructor
-======================================
+
+# UnityServiceLocatorAdapter Constructor
 
 Initializes a new instance of [UnityServiceLocatorAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter).
 
@@ -18,9 +15,7 @@ Initializes a new instance of [UnityServiceLocatorAdapter](https://msdn.microsof
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public UnityServiceLocatorAdapter( IUnityContainer unityContainer )Public Sub New ( unityContainer As IUnityContainer )
+public UnityServiceLocatorAdapter( IUnityContainer unityContainer )Public Sub New ( unityContainer As IUnityContainer )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ unityContainer
 Type: IUnityContainer
 The IUnityContainer that will be used by the [DoGetInstance(Type, String)](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter.dogetinstance(system.type%2csystem.string)) and [DoGetAllInstances(Type)](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter.dogetallinstances(system.type)) methods.
 
-See Also
---------
-
-
-[UnityServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
+## See Also
+[UnityServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
 
 [UnityServiceLocatorAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
 

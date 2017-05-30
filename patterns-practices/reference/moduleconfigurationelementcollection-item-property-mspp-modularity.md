@@ -4,14 +4,10 @@ Title: 'ModuleConfigurationElementCollection.Item Property (Microsoft.Practices.
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection.Item'
 ms:mtpsurl: 'moduleconfigurationelementcollection-item-property-int32-mspp-modularity.md'
 ---
+
+# ModuleConfigurationElementCollection.Item Property
 
-Prism Class Library
-
-ModuleConfigurationElementCollection.Item Property
-======================================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -50,11 +46,8 @@ Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.m
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
+## See Also
+[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 
 [ModuleConfigurationElementCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 

@@ -4,16 +4,12 @@ Title: 'WeakEventHandlerManager Methods (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Commands.WeakEventHandlerManager'
 ms:mtpsurl: 'weakeventhandlermanager-methods-mspp-commands.md'
 ---
-
-Prism Class Library
-
-WeakEventHandlerManager Methods
-===============================
+
+# WeakEventHandlerManager Methods
 
 The [WeakEventHandlerManager](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -50,10 +46,7 @@ Removes an event handler from the reference list.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[WeakEventHandlerManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager)
+## See Also
+[WeakEventHandlerManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager)
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)

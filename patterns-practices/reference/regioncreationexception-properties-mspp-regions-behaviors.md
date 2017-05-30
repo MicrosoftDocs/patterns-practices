@@ -4,16 +4,12 @@ Title: 'RegionCreationException Properties (Microsoft.Practices.Prism.Regions.Be
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionCreationException'
 ms:mtpsurl: 'regioncreationexception-properties-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionCreationException Properties
-==================================
+
+# RegionCreationException Properties
 
 The [RegionCreationException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -93,10 +89,7 @@ Gets the method that throws the current exception.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionCreationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception)
+## See Also
+[RegionCreationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

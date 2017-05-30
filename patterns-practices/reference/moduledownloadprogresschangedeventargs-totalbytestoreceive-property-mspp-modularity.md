@@ -4,11 +4,8 @@ Title: 'ModuleDownloadProgressChangedEventArgs.TotalBytesToReceive Property (Mic
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleDownloadProgressChangedEventArgs.TotalBytesToReceive'
 ms:mtpsurl: 'moduledownloadprogresschangedeventargs-totalbytestoreceive-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDownloadProgressChangedEventArgs.TotalBytesToReceive Property
-=======================================================================
+
+# ModuleDownloadProgressChangedEventArgs.TotalBytesToReceive Property
 
 Gets the total bytes to receive.
 
@@ -18,19 +15,14 @@ Gets the total bytes to receive.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public long TotalBytesToReceive { get; }Public ReadOnly Property TotalBytesToReceive As Long Get
+public long TotalBytesToReceive { get; }Public ReadOnly Property TotalBytesToReceive As Long Get
 ### Property Value
 
 Type: [Int64](http://msdn.microsoft.com/en-us/library/6yy583ek)
 The total bytes to receive.
 
-See Also
---------
-
-
-[ModuleDownloadProgressChangedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
+## See Also
+[ModuleDownloadProgressChangedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
 
 [ModuleDownloadProgressChangedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
 

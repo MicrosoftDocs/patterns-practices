@@ -4,16 +4,12 @@ Title: 'SelectorItemsSourceSyncBehavior Members (Microsoft.Practices.Prism.Regio
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior'
 ms:mtpsurl: 'selectoritemssourcesyncbehavior-members-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-SelectorItemsSourceSyncBehavior Members
-=======================================
+
+# SelectorItemsSourceSyncBehavior Members
 
 The [SelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -117,8 +112,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Fields
-------
+## Fields
 
 <span id="fieldTableToggle"></span>
 <table>
@@ -141,8 +135,7 @@ Name that identifies the SelectorItemsSourceSyncBehavior behavior in a collectio
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -181,10 +174,7 @@ Behavior's attached region.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[SelectorItemsSourceSyncBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior)
+## See Also
+[SelectorItemsSourceSyncBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

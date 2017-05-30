@@ -4,11 +4,8 @@ Title: 'ModuleCatalog.ValidateDependencyGraph Method (Microsoft.Practices.Prism.
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.ValidateDependencyGraph'
 ms:mtpsurl: 'modulecatalog-validatedependencygraph-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleCatalog.ValidateDependencyGraph Method
-================================================
+
+# ModuleCatalog.ValidateDependencyGraph Method
 
 Ensures that there are no cyclic dependencies.
 
@@ -18,15 +15,10 @@ Ensures that there are no cyclic dependencies.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+protected virtual void ValidateDependencyGraph()Protected Overridable Sub ValidateDependencyGraph
 
-
-protected virtual void ValidateDependencyGraph()Protected Overridable Sub ValidateDependencyGraph
-
-See Also
---------
-
-
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
+## See Also
+[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
 
