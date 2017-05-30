@@ -4,14 +4,10 @@ Title: 'AssemblyResolver.Dispose Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.AssemblyResolver.Dispose'
 ms:mtpsurl: 'assemblyresolver-dispose-method-boolean-mspp-modularity.md'
 ---
+
+# AssemblyResolver.Dispose Method
 
-Prism Class Library
-
-AssemblyResolver.Dispose Method
-===================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,11 +37,8 @@ Disposes the associated <a href="https://msdn.microsoft.com/library/microsoft.pr
 </tbody>
 </table>
 
-See Also
---------
-
-
-[AssemblyResolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver)
+## See Also
+[AssemblyResolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver)
 
 [AssemblyResolver Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.assemblyresolver)
 

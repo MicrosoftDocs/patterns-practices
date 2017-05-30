@@ -4,11 +4,8 @@ Title: 'ModuleCatalog.CompleteListWithDependencies Method (Microsoft.Practices.P
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.CompleteListWithDependencies(System.Collections.Generic.IEnumerable{Microsoft.Practices.Prism.Modularity.ModuleInfo})'
 ms:mtpsurl: 'modulecatalog-completelistwithdependencies-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleCatalog.CompleteListWithDependencies Method
-=====================================================
+
+# ModuleCatalog.CompleteListWithDependencies Method
 
 Returns a list of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)s that contain both the [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)s in modules, but also all the modules they depend on.
 
@@ -18,9 +15,7 @@ Returns a list of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.prac
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public virtual IEnumerable&lt;ModuleInfo&gt; CompleteListWithDependencies( IEnumerable&lt;ModuleInfo&gt; modules )Public Overridable Function CompleteListWithDependencies ( modules As IEnumerable(Of ModuleInfo) ) As IEnumerable(Of ModuleInfo)
+public virtual IEnumerable&lt;ModuleInfo&gt; CompleteListWithDependencies( IEnumerable&lt;ModuleInfo&gt; modules )Public Overridable Function CompleteListWithDependencies ( modules As IEnumerable(Of ModuleInfo) ) As IEnumerable(Of ModuleInfo)
 
 ### Parameters
 
@@ -36,11 +31,8 @@ A list of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.pr
 
 [IModuleCatalog.CompleteListWithDependencies(IEnumerable&lt;(Of &lt;(ModuleInfo&gt;)&gt;))](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog.completelistwithdependencies(system.collections.generic.ienumerable%7bmicrosoft.practices.prism.modularity.moduleinfo%7d))
 
-See Also
---------
-
-
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
+## See Also
+[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
 

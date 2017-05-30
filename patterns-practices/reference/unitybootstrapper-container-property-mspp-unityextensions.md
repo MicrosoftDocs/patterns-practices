@@ -4,11 +4,8 @@ Title: 'UnityBootstrapper.Container Property (Microsoft.Practices.Prism.UnityExt
 ms:assetid: 'P:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.Container'
 ms:mtpsurl: 'unitybootstrapper-container-property-mspp-unityextensions.md'
 ---
-
-Prism Class Library
-
-UnityBootstrapper.Container Property
-========================================
+
+# UnityBootstrapper.Container Property
 
 Gets the default IUnityContainer for the application.
 
@@ -18,19 +15,14 @@ Gets the default IUnityContainer for the application.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public IUnityContainer Container { get; protected set; }Public Property Container As IUnityContainer Get Protected Set
+public IUnityContainer Container { get; protected set; }Public Property Container As IUnityContainer Get Protected Set
 ### Property Value
 
 Type: IUnityContainer
 The default IUnityContainer instance.
 
-See Also
---------
-
-
-[UnityBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
+## See Also
+[UnityBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
 
 [UnityBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitybootstrapper)
 

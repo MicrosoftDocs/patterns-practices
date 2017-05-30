@@ -4,11 +4,8 @@ Title: 'DefaultConfirmationWindow.InitializeComponent Method (Microsoft.Practice
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultConfirmationWindow.InitializeComponent'
 ms:mtpsurl: 'defaultconfirmationwindow-initializecomponent-method-mspp-interactivity-defaultpopupwindows.md'
 ---
-
-Prism Class Library
-
-DefaultConfirmationWindow.InitializeComponent Method
-========================================================
+
+# DefaultConfirmationWindow.InitializeComponent Method
 
 InitializeComponent
 
@@ -18,18 +15,13 @@ InitializeComponent
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public void InitializeComponent()Public Sub InitializeComponent
+public void InitializeComponent()Public Sub InitializeComponent
 ### Implements
 
 [IComponentConnector.InitializeComponent()()()](http://msdn.microsoft.com/en-us/library/ms603526)
 
-See Also
---------
-
-
-[DefaultConfirmationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
+## See Also
+[DefaultConfirmationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
 
 [DefaultConfirmationWindow Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
 

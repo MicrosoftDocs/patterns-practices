@@ -4,11 +4,8 @@ Title: 'Notification Constructor (Microsoft.Practices.Prism.Interactivity.Intera
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification.\#ctor'
 ms:mtpsurl: 'notification-constructor-mspp-interactivity-interactionrequest.md'
 ---
-
-Prism Class Library
-
-Notification Constructor
-========================
+
+# Notification Constructor
 
 Initializes a new instance of the [Notification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.notification) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [Notification](https://msdn.microsoft.com/libr
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public Notification()Public Sub New
 
-
-public Notification()Public Sub New
-
-See Also
---------
-
-
-[Notification Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.notification)
+## See Also
+[Notification Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.notification)
 
 [Notification Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.notification)
 

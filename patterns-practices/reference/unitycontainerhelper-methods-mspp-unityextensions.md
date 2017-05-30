@@ -4,16 +4,12 @@ Title: 'UnityContainerHelper Methods (Microsoft.Practices.Prism.UnityExtensions)
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.UnityExtensions.UnityContainerHelper'
 ms:mtpsurl: 'unitycontainerhelper-methods-mspp-unityextensions.md'
 ---
-
-Prism Class Library
-
-UnityContainerHelper Methods
-============================
+
+# UnityContainerHelper Methods
 
 The [UnityContainerHelper](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -50,10 +46,7 @@ Utility method to try to resolve a service from the container avoiding an except
 </tbody>
 </table>
 
-See Also
---------
-
-
-[UnityContainerHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper)
+## See Also
+[UnityContainerHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper)
 
 [Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)

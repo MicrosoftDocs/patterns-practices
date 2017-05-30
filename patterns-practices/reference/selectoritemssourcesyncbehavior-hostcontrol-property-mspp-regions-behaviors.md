@@ -4,11 +4,8 @@ Title: 'SelectorItemsSourceSyncBehavior.HostControl Property (Microsoft.Practice
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior.HostControl'
 ms:mtpsurl: 'selectoritemssourcesyncbehavior-hostcontrol-property-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-SelectorItemsSourceSyncBehavior.HostControl Property
-========================================================
+
+# SelectorItemsSourceSyncBehavior.HostControl Property
 
 Gets or sets the [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309) that the [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) is attached to.
 
@@ -18,9 +15,7 @@ Gets or sets the [DependencyObject](http://msdn.microsoft.com/en-us/library/ms58
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public DependencyObject HostControl { get; set; }Public Property HostControl As DependencyObject Get Set
+public DependencyObject HostControl { get; set; }Public Property HostControl As DependencyObject Get Set
 ### Property Value
 
 Type: [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
@@ -29,16 +24,12 @@ A [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309) that the 
 
 [IHostAwareRegionBehavior.HostControl](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior.hostcontrol)
 
-Remarks
--------
+## Remarks
 
 For this behavior, the host control must always be a [Selector](http://msdn.microsoft.com/en-us/library/ms595227) or an inherited class.
 
-See Also
---------
-
-
-[SelectorItemsSourceSyncBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior)
+## See Also
+[SelectorItemsSourceSyncBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior)
 
 [SelectorItemsSourceSyncBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior)
 

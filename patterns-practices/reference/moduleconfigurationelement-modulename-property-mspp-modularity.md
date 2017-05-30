@@ -4,11 +4,8 @@ Title: 'ModuleConfigurationElement.ModuleName Property (Microsoft.Practices.Pris
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement.ModuleName'
 ms:mtpsurl: 'moduleconfigurationelement-modulename-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleConfigurationElement.ModuleName Property
-==================================================
+
+# ModuleConfigurationElement.ModuleName Property
 
 Gets or sets the module name.
 
@@ -18,19 +15,14 @@ Gets or sets the module name.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public string ModuleName { get; set; }Public Property ModuleName As String Get Set
+public string ModuleName { get; set; }Public Property ModuleName As String Get Set
 ### Property Value
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The module's name.
 
-See Also
---------
-
-
-[ModuleConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
+## See Also
+[ModuleConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
 
 [ModuleConfigurationElement Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleconfigurationelement)
 

@@ -7,9 +7,9 @@ ms:mtpsurl: 'bootstrapper-modulecatalog-property-mspp.md'
 
 # Bootstrapper.ModuleCatalog Property
 
-Gets the default [IModuleCatalog](imodulecatalog-interface-mspp-modularity.md) for the application.
+Gets the default [IModuleCatalog](imodulecatalog-interface-mspp-modularity) for the application.
 
-**Namespace:** [Microsoft.Practices.Prism](mspp-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism](mspp-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -30,14 +30,14 @@ Protected Property ModuleCatalog As IModuleCatalog
 
 ### Property Value
 
-Type: [IModuleCatalog](imodulecatalog-interface-mspp-modularity.md)
+Type: [IModuleCatalog](imodulecatalog-interface-mspp-modularity)
 
-The default [IModuleCatalog](imodulecatalog-interface-mspp-modularity.md) instance.
+The default [IModuleCatalog](imodulecatalog-interface-mspp-modularity) instance.
 
 ## See Also
 
-[Bootstrapper Class](bootstrapper-class-mspp.md)
+[Bootstrapper Class](bootstrapper-class-mspp)
 
-[Bootstrapper Members](bootstrapper-members-mspp.md)
+[Bootstrapper Members](bootstrapper-members-mspp)
 
-[Microsoft.Practices.Prism Namespace](mspp-namespace.md)
+[Microsoft.Practices.Prism Namespace](mspp-namespace)

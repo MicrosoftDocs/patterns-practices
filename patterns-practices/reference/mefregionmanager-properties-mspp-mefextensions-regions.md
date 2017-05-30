@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefregionmanager-properties-mspp-mefextensions-regions.md'
 
 # MefRegionManager Properties
 
-The [MefRegionManager](mefregionmanager-class-mspp-mefextensions-regions.md) type exposes the following members.
+The [MefRegionManager](mefregionmanager-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Properties
 
@@ -44,6 +44,6 @@ Gets a collection of <a href="iregion-interface-mspp-regions.md">IRegion</a> tha
 
 ## See Also
 
-[MefRegionManager Class](mefregionmanager-class-mspp-mefextensions-regions.md)
+[MefRegionManager Class](mefregionmanager-class-mspp-mefextensions-regions)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace)

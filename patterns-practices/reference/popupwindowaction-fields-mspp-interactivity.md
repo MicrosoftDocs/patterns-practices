@@ -4,9 +4,7 @@ Title: 'PopupWindowAction Fields (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Interactivity.PopupWindowAction'
 ms:mtpsurl: 'popupwindowaction-fields-mspp-interactivity.md'
 ---
-
-Prism Class Library
-
+
 # PopupWindowAction Fields
 
 The [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction) type exposes the following members.
@@ -48,8 +46,6 @@ The content of the child window to display as part of the popup.
 </table>
 
 ## See Also
-
-
-[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
+[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)

@@ -4,11 +4,8 @@ Title: 'ConfigurationModuleCatalog.InnerLoad Method (Microsoft.Practices.Prism.M
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ConfigurationModuleCatalog.InnerLoad'
 ms:mtpsurl: 'configurationmodulecatalog-innerload-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ConfigurationModuleCatalog.InnerLoad Method
-===============================================
+
+# ConfigurationModuleCatalog.InnerLoad Method
 
 Loads the catalog from the configuration.
 
@@ -18,15 +15,10 @@ Loads the catalog from the configuration.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+protected override void InnerLoad()Protected Overrides Sub InnerLoad
 
-
-protected override void InnerLoad()Protected Overrides Sub InnerLoad
-
-See Also
---------
-
-
-[ConfigurationModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationmodulecatalog)
+## See Also
+[ConfigurationModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationmodulecatalog)
 
 [ConfigurationModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.configurationmodulecatalog)
 

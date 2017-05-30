@@ -4,16 +4,12 @@ Title: 'NavigationParameters Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.NavigationParameters'
 ms:mtpsurl: 'navigationparameters-properties-mspp-regions.md'
 ---
-
-Prism Class Library
-
-NavigationParameters Properties
-===============================
+
+# NavigationParameters Properties
 
 The [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -36,10 +32,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> w
 </tbody>
 </table>
 
-See Also
---------
-
-
-[NavigationParameters Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
+## See Also
+[NavigationParameters Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -4,16 +4,12 @@ Title: 'ModuleDependencySolver Properties (Microsoft.Practices.Prism.Modularity)
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleDependencySolver'
 ms:mtpsurl: 'moduledependencysolver-properties-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDependencySolver Properties
-=================================
+
+# ModuleDependencySolver Properties
 
 The [ModuleDependencySolver](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -36,10 +32,7 @@ Gets the number of modules added to the solver.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleDependencySolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver)
+## See Also
+[ModuleDependencySolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

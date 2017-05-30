@@ -4,14 +4,10 @@ Title: 'ModuleExportAttribute Constructor (Microsoft.Practices.Prism.MefExtensio
 ms:assetid: 'Overload:Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAttribute.\#ctor'
 ms:mtpsurl: 'moduleexportattribute-constructor-mspp-mefextensions-modularity.md'
 ---
+
+# ModuleExportAttribute Constructor
 
-Prism Class Library
-
-ModuleExportAttribute Constructor
-=================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,11 +37,8 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleExportAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute)
+## See Also
+[ModuleExportAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute)
 
 [ModuleExportAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.moduleexportattribute)
 

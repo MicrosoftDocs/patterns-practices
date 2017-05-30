@@ -4,11 +4,8 @@ Title: 'Bootstrapper.RegisterFrameworkExceptionTypes Method (Microsoft.Practices
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.RegisterFrameworkExceptionTypes'
 ms:mtpsurl: 'bootstrapper-registerframeworkexceptiontypes-method-mspp.md'
 ---
-
-Prism Class Library
-
-Bootstrapper.RegisterFrameworkExceptionTypes Method
-=======================================================
+
+# Bootstrapper.RegisterFrameworkExceptionTypes Method
 
 Registers the [Type](http://msdn.microsoft.com/en-us/library/42892f65)s of the Exceptions that are not considered root exceptions by the [ExceptionExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions).
 
@@ -18,15 +15,10 @@ Registers the [Type](http://msdn.microsoft.com/en-us/library/42892f65)s of the E
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+protected virtual void RegisterFrameworkExceptionTypes()Protected Overridable Sub RegisterFrameworkExceptionTypes
 
-
-protected virtual void RegisterFrameworkExceptionTypes()Protected Overridable Sub RegisterFrameworkExceptionTypes
-
-See Also
---------
-
-
-[Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
+## See Also
+[Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
 
 [Bootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.bootstrapper)
 

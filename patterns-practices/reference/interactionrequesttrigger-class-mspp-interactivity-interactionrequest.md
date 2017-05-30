@@ -7,9 +7,9 @@ ms:mtpsurl: 'interactionrequesttrigger-class-mspp-interactivity-interactionreque
 
 # InteractionRequestTrigger Class
 
-Custom event trigger for using with [IInteractionRequest](iinteractionrequest-interface-mspp-interactivity-interactionrequest.md) objects.
+Custom event trigger for using with [IInteractionRequest](iinteractionrequest-interface-mspp-interactivity-interactionrequest) objects.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](mspp-interactivity-interactionrequest-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](mspp-interactivity-interactionrequest-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -61,6 +61,6 @@ Public Class InteractionRequestTrigger
 
 ## See Also
 
-[InteractionRequestTrigger Members](interactionrequesttrigger-members-mspp-interactivity-interactionrequest.md)
+[InteractionRequestTrigger Members](interactionrequesttrigger-members-mspp-interactivity-interactionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace)

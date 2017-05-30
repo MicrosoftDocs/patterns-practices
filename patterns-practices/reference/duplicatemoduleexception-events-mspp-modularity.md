@@ -4,9 +4,7 @@ Title: 'DuplicateModuleException Events (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.DuplicateModuleException'
 ms:mtpsurl: 'duplicatemoduleexception-events-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # DuplicateModuleException Events
 
 The [DuplicateModuleException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception) type exposes the following members.

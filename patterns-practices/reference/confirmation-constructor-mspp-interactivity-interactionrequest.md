@@ -4,11 +4,8 @@ Title: 'Confirmation Constructor (Microsoft.Practices.Prism.Interactivity.Intera
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confirmation.\#ctor'
 ms:mtpsurl: 'confirmation-constructor-mspp-interactivity-interactionrequest.md'
 ---
-
-Prism Class Library
-
-Confirmation Constructor
-========================
+
+# Confirmation Constructor
 
 Initializes a new instance of the [Confirmation](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [Confirmation](https://msdn.microsoft.com/libr
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public Confirmation()Public Sub New
 
-
-public Confirmation()Public Sub New
-
-See Also
---------
-
-
-[Confirmation Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation)
+## See Also
+[Confirmation Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation)
 
 [Confirmation Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.confirmation)
 

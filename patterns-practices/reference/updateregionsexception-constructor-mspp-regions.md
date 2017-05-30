@@ -4,14 +4,10 @@ Title: 'UpdateRegionsException Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.UpdateRegionsException.\#ctor'
 ms:mtpsurl: 'updateregionsexception-constructor-mspp-regions.md'
 ---
+
+# UpdateRegionsException Constructor
 
-Prism Class Library
-
-UpdateRegionsException Constructor
-==================================
-
-Overload List
--------------
+## Overload List
 
 <table>
 
@@ -54,12 +50,9 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-See Also
---------
+## See Also
+[UpdateRegionsException Class](updateregionsexception-class-mspp-regions)
 
+[UpdateRegionsException Members](updateregionsexception-members-mspp-regions)
 
-[UpdateRegionsException Class](updateregionsexception-class-mspp-regions.md)
-
-[UpdateRegionsException Members](updateregionsexception-members-mspp-regions.md)
-
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

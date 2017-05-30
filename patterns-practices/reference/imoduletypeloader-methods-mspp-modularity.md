@@ -7,7 +7,7 @@ ms:mtpsurl: 'imoduletypeloader-methods-mspp-modularity.md'
 
 # IModuleTypeLoader Methods
 
-The [IModuleTypeLoader](imoduletypeloader-interface-mspp-modularity.md) type exposes the following members.
+The [IModuleTypeLoader](imoduletypeloader-interface-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -58,6 +58,6 @@ Retrieves the <em>moduleInfo</em>.
 
 ## See Also
 
-[IModuleTypeLoader Interface](imoduletypeloader-interface-mspp-modularity.md)
+[IModuleTypeLoader Interface](imoduletypeloader-interface-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

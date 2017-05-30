@@ -4,11 +4,8 @@ Title: 'IRegionViewRegistry.ContentRegistered Event (Microsoft.Practices.Prism.R
 ms:assetid: 'E:Microsoft.Practices.Prism.Regions.IRegionViewRegistry.ContentRegistered'
 ms:mtpsurl: 'iregionviewregistry-contentregistered-event-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionViewRegistry.ContentRegistered Event
-===============================================
+
+# IRegionViewRegistry.ContentRegistered Event
 
 Event triggered when a content is registered to a region name.
 
@@ -18,23 +15,17 @@ Event triggered when a content is registered to a region name.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-event EventHandler&lt;ViewRegisteredEventArgs&gt; ContentRegisteredEvent ContentRegistered As EventHandler(Of ViewRegisteredEventArgs)
+event EventHandler&lt;ViewRegisteredEventArgs&gt; ContentRegisteredEvent ContentRegistered As EventHandler(Of ViewRegisteredEventArgs)
 ### Value
 
 Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([ViewRegisteredEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs)&gt;)&gt;)
 
-Remarks
--------
+## Remarks
 
  This event uses weak references to the event handler to prevent this service (typically a singleton) of keeping the target element longer than expected.
 
-See Also
---------
-
-
-[IRegionViewRegistry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry)
+## See Also
+[IRegionViewRegistry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry)
 
 [IRegionViewRegistry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionviewregistry)
 

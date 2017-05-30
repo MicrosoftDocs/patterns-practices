@@ -4,11 +4,8 @@ Title: 'IRegionNavigationJournal.Clear Method (Microsoft.Practices.Prism.Regions
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal.Clear'
 ms:mtpsurl: 'iregionnavigationjournal-clear-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionNavigationJournal.Clear Method
-=========================================
+
+# IRegionNavigationJournal.Clear Method
 
 Clears the journal of current, back, and forward navigation histories.
 
@@ -18,15 +15,10 @@ Clears the journal of current, back, and forward navigation histories.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+void Clear()Sub Clear
 
-
-void Clear()Sub Clear
-
-See Also
---------
-
-
-[IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
+## See Also
+[IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
 
 [IRegionNavigationJournal Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionnavigationjournal)
 

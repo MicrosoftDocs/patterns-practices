@@ -4,11 +4,8 @@ Title: 'DefaultDispatcher.BeginInvoke Method (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.DefaultDispatcher.BeginInvoke(System.Delegate,System.Object)'
 ms:mtpsurl: 'defaultdispatcher-begininvoke-method-mspp-events.md'
 ---
-
-Prism Class Library
-
-DefaultDispatcher.BeginInvoke Method
-========================================
+
+# DefaultDispatcher.BeginInvoke Method
 
 Forwards the BeginInvoke to the current application's [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907).
 
@@ -18,9 +15,7 @@ Forwards the BeginInvoke to the current application's [Dispatcher](http://msdn.m
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public void BeginInvoke( Delegate method, Object arg )Public Sub BeginInvoke ( method As Delegate, arg As Object )
+public void BeginInvoke( Delegate method, Object arg )Public Sub BeginInvoke ( method As Delegate, arg As Object )
 
 ### Parameters
 
@@ -36,11 +31,8 @@ Arguments to pass to the invoked method.
 
 [IDispatcherFacade.BeginInvoke(Delegate, Object)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.idispatcherfacade.begininvoke(system.delegate%2csystem.object))
 
-See Also
---------
-
-
-[DefaultDispatcher Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.defaultdispatcher)
+## See Also
+[DefaultDispatcher Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.defaultdispatcher)
 
 [DefaultDispatcher Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.events.defaultdispatcher)
 

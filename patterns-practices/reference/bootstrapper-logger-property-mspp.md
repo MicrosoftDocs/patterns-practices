@@ -4,11 +4,8 @@ Title: 'Bootstrapper.Logger Property (Microsoft.Practices.Prism)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Bootstrapper.Logger'
 ms:mtpsurl: 'bootstrapper-logger-property-mspp.md'
 ---
-
-Prism Class Library
-
-Bootstrapper.Logger Property
-================================
+
+# Bootstrapper.Logger Property
 
 Gets the [ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade) for the application.
 
@@ -18,19 +15,14 @@ Gets the [ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected ILoggerFacade Logger { get; set; }Protected Property Logger As ILoggerFacade Get Set
+protected ILoggerFacade Logger { get; set; }Protected Property Logger As ILoggerFacade Get Set
 ### Property Value
 
 Type: [ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade)
 A [ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade) instance.
 
-See Also
---------
-
-
-[Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
+## See Also
+[Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
 
 [Bootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.bootstrapper)
 

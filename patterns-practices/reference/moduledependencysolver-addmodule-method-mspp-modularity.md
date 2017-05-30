@@ -4,11 +4,8 @@ Title: 'ModuleDependencySolver.AddModule Method (Microsoft.Practices.Prism.Modul
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencySolver.AddModule(System.String)'
 ms:mtpsurl: 'moduledependencysolver-addmodule-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDependencySolver.AddModule Method
-===========================================
+
+# ModuleDependencySolver.AddModule Method
 
 Adds a module to the solver.
 
@@ -18,9 +15,7 @@ Adds a module to the solver.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public void AddModule( string name )Public Sub AddModule ( name As String )
+public void AddModule( string name )Public Sub AddModule ( name As String )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ name
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name that uniquely identifies the module.
 
-See Also
---------
-
-
-[ModuleDependencySolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver)
+## See Also
+[ModuleDependencySolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver)
 
 [ModuleDependencySolver Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencysolver)
 

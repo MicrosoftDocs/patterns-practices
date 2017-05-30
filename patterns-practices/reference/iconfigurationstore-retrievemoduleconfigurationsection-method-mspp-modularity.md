@@ -4,11 +4,8 @@ Title: 'IConfigurationStore.RetrieveModuleConfigurationSection Method (Microsoft
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.IConfigurationStore.RetrieveModuleConfigurationSection'
 ms:mtpsurl: 'iconfigurationstore-retrievemoduleconfigurationsection-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-IConfigurationStore.RetrieveModuleConfigurationSection Method
-=================================================================
+
+# IConfigurationStore.RetrieveModuleConfigurationSection Method
 
 Gets the module configuration data.
 
@@ -18,19 +15,14 @@ Gets the module configuration data.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-ModulesConfigurationSection RetrieveModuleConfigurationSection()Function RetrieveModuleConfigurationSection As ModulesConfigurationSection
+ModulesConfigurationSection RetrieveModuleConfigurationSection()Function RetrieveModuleConfigurationSection As ModulesConfigurationSection
 ### Return Value
 
 Type: [ModulesConfigurationSection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection)
 A [ModulesConfigurationSection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection) instance.
 
-See Also
---------
-
-
-[IConfigurationStore Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iconfigurationstore)
+## See Also
+[IConfigurationStore Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iconfigurationstore)
 
 [IConfigurationStore Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.iconfigurationstore)
 

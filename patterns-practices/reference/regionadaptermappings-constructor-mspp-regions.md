@@ -4,11 +4,8 @@ Title: 'RegionAdapterMappings Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionAdapterMappings.\#ctor'
 ms:mtpsurl: 'regionadaptermappings-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionAdapterMappings Constructor
-=================================
+
+# RegionAdapterMappings Constructor
 
 Initializes a new instance of the [RegionAdapterMappings](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [RegionAdapterMappings](https://msdn.microsoft
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public RegionAdapterMappings()Public Sub New
 
-
-public RegionAdapterMappings()Public Sub New
-
-See Also
---------
-
-
-[RegionAdapterMappings Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings)
+## See Also
+[RegionAdapterMappings Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings)
 
 [RegionAdapterMappings Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionadaptermappings)
 

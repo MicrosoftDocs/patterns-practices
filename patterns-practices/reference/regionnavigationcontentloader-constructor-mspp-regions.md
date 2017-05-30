@@ -4,11 +4,8 @@ Title: 'RegionNavigationContentLoader Constructor (Microsoft.Practices.Prism.Reg
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader.\#ctor(Microsoft.Practices.ServiceLocation.IServiceLocator)'
 ms:mtpsurl: 'regionnavigationcontentloader-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationContentLoader Constructor
-=========================================
+
+# RegionNavigationContentLoader Constructor
 
 Initializes a new instance of the [RegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader) class with a service locator.
 
@@ -18,9 +15,7 @@ Initializes a new instance of the [RegionNavigationContentLoader](https://msdn.m
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public RegionNavigationContentLoader( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
+public RegionNavigationContentLoader( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ serviceLocator
 Type: IServiceLocator
 The service locator.
 
-See Also
---------
-
-
-[RegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader)
+## See Also
+[RegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader)
 
 [RegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationcontentloader)
 

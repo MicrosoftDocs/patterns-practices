@@ -4,11 +4,8 @@ Title: 'CommandBehaviorBase(T).TargetObject Property (Microsoft.Practices.Prism.
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase\`1.TargetObject'
 ms:mtpsurl: 'commandbehaviorbase-t-targetobject-property-mspp-interactivity.md'
 ---
-
-Prism Class Library
-
-CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;).TargetObject Property
-=====================================================================
+
+# CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;).TargetObject Property
 
 Object to which this behavior is attached.
 
@@ -18,18 +15,13 @@ Object to which this behavior is attached.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected T TargetObject { get; }Protected ReadOnly Property TargetObject As T Get
+protected T TargetObject { get; }Protected ReadOnly Property TargetObject As T Get
 ### Property Value
 
 Type: [T](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601)
 
-See Also
---------
-
-
-[CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601)
+## See Also
+[CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601)
 
 [CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.commandbehaviorbase%601)
 

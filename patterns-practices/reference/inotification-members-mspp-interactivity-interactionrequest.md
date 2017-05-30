@@ -5,17 +5,19 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InteractionReq
 ms:mtpsurl: 'inotification-members-mspp-interactivity-interactionrequest.md'
 ---
 
+
 # INotification Members
 
 The [INotification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification) type exposes the following members.
 
 ## Properties
 
+<span id="propertyTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -39,8 +41,7 @@ Gets or sets the title to use for the notification.
 </table>
 
 ## See Also
+
 [INotification Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification)
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
-
-

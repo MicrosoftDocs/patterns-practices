@@ -4,11 +4,8 @@ Title: 'BindRegionContextToDependencyObjectBehavior.Attach Method (Microsoft.Pra
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior.Attach'
 ms:mtpsurl: 'bindregioncontexttodependencyobjectbehavior-attach-method-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-BindRegionContextToDependencyObjectBehavior.Attach Method
-=============================================================
+
+# BindRegionContextToDependencyObjectBehavior.Attach Method
 
 Attaches the behavior to the specified region.
 
@@ -18,18 +15,13 @@ Attaches the behavior to the specified region.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public void Attach()Public Sub Attach
+public void Attach()Public Sub Attach
 ### Implements
 
 [IRegionBehavior.Attach()()()](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior.attach)
 
-See Also
---------
-
-
-[BindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior)
+## See Also
+[BindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior)
 
 [BindRegionContextToDependencyObjectBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior)
 

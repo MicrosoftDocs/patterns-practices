@@ -4,16 +4,12 @@ Title: 'LoadModuleCompletedEventArgs Methods (Microsoft.Practices.Prism.Modulari
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.LoadModuleCompletedEventArgs'
 ms:mtpsurl: 'loadmodulecompletedeventargs-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-LoadModuleCompletedEventArgs Methods
-====================================
+
+# LoadModuleCompletedEventArgs Methods
 
 The [LoadModuleCompletedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -77,10 +73,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[LoadModuleCompletedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs)
+## See Also
+[LoadModuleCompletedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

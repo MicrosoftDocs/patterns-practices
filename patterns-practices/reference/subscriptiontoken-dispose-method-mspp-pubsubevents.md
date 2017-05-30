@@ -7,9 +7,9 @@ ms:mtpsurl: 'subscriptiontoken-dispose-method-mspp-pubsubevents.md'
 
 # SubscriptionToken.Dispose Method
 
-Disposes the SubscriptionToken, removing the subscription from the corresponding [EventBase](eventbase-class-mspp-pubsubevents.md).
+Disposes the SubscriptionToken, removing the subscription from the corresponding [EventBase](eventbase-class-mspp-pubsubevents).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -21,9 +21,7 @@ public virtual void Dispose()
 ### Implements
 
 [IDisposable.Dispose()](http://msdn.microsoft.com/en-us/library/es4s3w1d)
-
-
-```VB
+```VB
 'Declaration
 Public Overridable Sub Dispose
 ```
@@ -34,8 +32,8 @@ Public Overridable Sub Dispose
 
 ## See Also
 
-[SubscriptionToken Class](subscriptiontoken-class-mspp-pubsubevents.md)
+[SubscriptionToken Class](subscriptiontoken-class-mspp-pubsubevents)
 
 SubscriptionToken Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace.md)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace)

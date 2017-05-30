@@ -5,17 +5,19 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.UnityExtensions.Regions.Unit
 ms:mtpsurl: 'unityregionnavigationcontentloader-members-mspp-unityextensions-regions.md'
 ---
 
+
 # UnityRegionNavigationContentLoader Members
 
 The [UnityRegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader) type exposes the following members.
 
 ## Constructors
 
+<span id="constructorTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -33,18 +35,19 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## Methods
 
+<span id="methodTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/protmethod.gif" title="Protected method" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Dn741411.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader.createnewregionitem(system.string)">CreateNewRegionItem</a></td>
 <td><div class="summary">
 Provides a new item for the region based on the supplied candidate target contract name.
@@ -60,7 +63,7 @@ Determines whether the specified <a href="http://msdn.microsoft.com/en-us/librar
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/protmethod.gif" title="Protected method" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Dn741411.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/4k87zsw7">Finalize</a></td>
 <td><div class="summary">
 Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
@@ -68,7 +71,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/protmethod.gif" title="Protected method" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Dn741411.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader.getcandidatesfromregion(microsoft.practices.prism.regions.iregion%2csystem.string)">GetCandidatesFromRegion</a></td>
 <td><div class="summary">
 Returns the set of candidates that may satisfiy this navigation request.
@@ -76,7 +79,7 @@ Returns the set of candidates that may satisfiy this navigation request.
 (Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader.getcandidatesfromregion(microsoft.practices.prism.regions.iregion%2csystem.string)">RegionNavigationContentLoader.GetCandidatesFromRegion(IRegion, String)</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/protmethod.gif" title="Protected method" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Dn741411.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader.getcontractfromnavigationcontext(microsoft.practices.prism.regions.navigationcontext)">GetContractFromNavigationContext</a></td>
 <td><div class="summary">
 Returns the candidate TargetContract based on the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext">NavigationContext</a>.
@@ -108,7 +111,7 @@ Gets the view to which the navigation request represented by navigationContext a
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader">RegionNavigationContentLoader</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/protmethod.gif" title="Protected method" /></td>
+<td><img src="https://msdn.microsoft.com/en-us/Dn741411.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/57ctke0a">MemberwiseClone</a></td>
 <td><div class="summary">
 Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
@@ -127,10 +130,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
+
 [UnityRegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader)
 
 [Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions)
-
-
-
-

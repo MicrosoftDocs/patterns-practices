@@ -4,11 +4,8 @@ Title: 'ModuleDependencyCollection Constructor (ModuleDependencyConfigurationEle
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection.\#ctor(Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement[])'
 ms:mtpsurl: 'moduledependencycollection-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDependencyCollection Constructor (array&lt;ModuleDependencyConfigurationElement&gt;)
-====================================================================================================
+
+# ModuleDependencyCollection Constructor (array&lt;ModuleDependencyConfigurationElement&gt;)
 
 Initializes a new instance of [ModuleDependencyCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection).
 
@@ -18,9 +15,7 @@ Initializes a new instance of [ModuleDependencyCollection](https://msdn.microsof
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ModuleDependencyCollection( ModuleDependencyConfigurationElement[] dependencies )Public Sub New ( dependencies As ModuleDependencyConfigurationElement() )
+public ModuleDependencyCollection( ModuleDependencyConfigurationElement[] dependencies )Public Sub New ( dependencies As ModuleDependencyConfigurationElement() )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ dependencies
 Type: array&lt;[Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement)&gt;
 An array of [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement) with initial list of dependencies.
 
-See Also
---------
-
-
-[ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
+## See Also
+[ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
 
 [ModuleDependencyCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencycollection)
 

@@ -4,11 +4,8 @@ Title: 'ModuleInfoGroup.Count Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Count'
 ms:mtpsurl: 'moduleinfogroup-count-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInfoGroup.Count Property
-==================================
+
+# ModuleInfoGroup.Count Property
 
 Gets the number of elements contained in the [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup).
 
@@ -18,9 +15,7 @@ Gets the number of elements contained in the [ModuleInfoGroup](https://msdn.micr
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public int Count { get; }Public ReadOnly Property Count As Integer Get
+public int Count { get; }Public ReadOnly Property Count As Integer Get
 ### Property Value
 
 Type: [Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
@@ -33,11 +28,8 @@ The number of elements contained in the [ModuleInfoGroup](https://msdn.microsoft
 [ICollection&lt;(Of &lt;(T&gt;)&gt;).Count](http://msdn.microsoft.com/en-us/library/5s3kzhec)
 [ICollection.Count](http://msdn.microsoft.com/en-us/library/2yz8a4x3)
 
-See Also
---------
-
-
-[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
+## See Also
+[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 
 [ModuleInfoGroup Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroup)
 

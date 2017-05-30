@@ -4,11 +4,8 @@ Title: 'LoadModuleCompletedEventArgs.ModuleInfo Property (Microsoft.Practices.Pr
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.LoadModuleCompletedEventArgs.ModuleInfo'
 ms:mtpsurl: 'loadmodulecompletedeventargs-moduleinfo-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-LoadModuleCompletedEventArgs.ModuleInfo Property
-====================================================
+
+# LoadModuleCompletedEventArgs.ModuleInfo Property
 
 Gets the module info.
 
@@ -18,19 +15,14 @@ Gets the module info.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ModuleInfo ModuleInfo { get; }Public ReadOnly Property ModuleInfo As ModuleInfo Get
+public ModuleInfo ModuleInfo { get; }Public ReadOnly Property ModuleInfo As ModuleInfo Get
 ### Property Value
 
 Type: [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
 The module info.
 
-See Also
---------
-
-
-[LoadModuleCompletedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs)
+## See Also
+[LoadModuleCompletedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs)
 
 [LoadModuleCompletedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.loadmodulecompletedeventargs)
 

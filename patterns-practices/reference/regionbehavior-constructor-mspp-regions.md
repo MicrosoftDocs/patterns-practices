@@ -4,11 +4,8 @@ Title: 'RegionBehavior Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionBehavior.\#ctor'
 ms:mtpsurl: 'regionbehavior-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionBehavior Constructor
-==========================
+
+# RegionBehavior Constructor
 
 Initializes a new instance of the [RegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [RegionBehavior](https://msdn.microsoft.com/li
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+protected RegionBehavior()Protected Sub New
 
-
-protected RegionBehavior()Protected Sub New
-
-See Also
---------
-
-
-[RegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
+## See Also
+[RegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
 
 [RegionBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehavior)
 

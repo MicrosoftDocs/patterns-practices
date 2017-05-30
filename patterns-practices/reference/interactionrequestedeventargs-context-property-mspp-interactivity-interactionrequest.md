@@ -4,11 +4,8 @@ Title: 'InteractionRequestedEventArgs.Context Property (Microsoft.Practices.Pris
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestedEventArgs.Context'
 ms:mtpsurl: 'interactionrequestedeventargs-context-property-mspp-interactivity-interactionrequest.md'
 ---
-
-Prism Class Library
-
-InteractionRequestedEventArgs.Context Property
-==================================================
+
+# InteractionRequestedEventArgs.Context Property
 
 Gets the context for a requested interaction.
 
@@ -18,18 +15,13 @@ Gets the context for a requested interaction.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public INotification Context { get; }Public ReadOnly Property Context As INotification Get
+public INotification Context { get; }Public ReadOnly Property Context As INotification Get
 ### Property Value
 
 Type: [INotification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification)
 
-See Also
---------
-
-
-[InteractionRequestedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)
+## See Also
+[InteractionRequestedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)
 
 [InteractionRequestedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)
 

@@ -4,11 +4,8 @@ Title: 'DefaultNotificationWindow Constructor (Microsoft.Practices.Prism.Interac
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultNotificationWindow.\#ctor'
 ms:mtpsurl: 'defaultnotificationwindow-constructor-mspp-interactivity-defaultpopupwindows.md'
 ---
-
-Prism Class Library
-
-DefaultNotificationWindow Constructor
-=====================================
+
+# DefaultNotificationWindow Constructor
 
 Creates a new instance of [DefaultNotificationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
 
@@ -18,15 +15,10 @@ Creates a new instance of [DefaultNotificationWindow](https://msdn.microsoft.com
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public DefaultNotificationWindow()Public Sub New
 
-
-public DefaultNotificationWindow()Public Sub New
-
-See Also
---------
-
-
-[DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
+## See Also
+[DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
 
 [DefaultNotificationWindow Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
 

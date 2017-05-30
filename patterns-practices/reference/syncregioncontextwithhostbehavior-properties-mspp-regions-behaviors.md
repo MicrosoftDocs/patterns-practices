@@ -4,12 +4,10 @@ Title: 'SyncRegionContextWithHostBehavior Properties (Microsoft.Practices.Prism.
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior'
 ms:mtpsurl: 'syncregioncontextwithhostbehavior-properties-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
+
 # SyncRegionContextWithHostBehavior Properties
 
-The [SyncRegionContextWithHostBehavior](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors.md) type exposes the following members.
+The [SyncRegionContextWithHostBehavior](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Properties
  
@@ -51,6 +49,6 @@ Behavior's attached region.
 
 ## See Also
 
-[SyncRegionContextWithHostBehavior Class](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors.md)
+[SyncRegionContextWithHostBehavior Class](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)

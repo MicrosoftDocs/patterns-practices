@@ -4,16 +4,12 @@ Title: 'TraceLogger Members (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Logging.TraceLogger'
 ms:mtpsurl: 'tracelogger-members-mspp-logging.md'
 ---
-
-Prism Class Library
-
-TraceLogger Members
-===================
+
+# TraceLogger Members
 
 The [TraceLogger](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.tracelogger) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -108,10 +103,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[TraceLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.tracelogger)
+## See Also
+[TraceLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.tracelogger)
 
 [Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)

@@ -4,11 +4,8 @@ Title: 'ModuleDownloadProgressChangedEventArgs Constructor (Microsoft.Practices.
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDownloadProgressChangedEventArgs.\#ctor(Microsoft.Practices.Prism.Modularity.ModuleInfo,System.Int64,System.Int64)'
 ms:mtpsurl: 'moduledownloadprogresschangedeventargs-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDownloadProgressChangedEventArgs Constructor
-==================================================
+
+# ModuleDownloadProgressChangedEventArgs Constructor
 
 Initializes a new instance of the [ModuleDownloadProgressChangedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs) class.
 
@@ -18,9 +15,7 @@ Initializes a new instance of the [ModuleDownloadProgressChangedEventArgs](https
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ModuleDownloadProgressChangedEventArgs( ModuleInfo moduleInfo, long bytesReceived, long totalBytesToReceive )Public Sub New ( moduleInfo As ModuleInfo, bytesReceived As Long, totalBytesToReceive As Long )
+public ModuleDownloadProgressChangedEventArgs( ModuleInfo moduleInfo, long bytesReceived, long totalBytesToReceive )Public Sub New ( moduleInfo As ModuleInfo, bytesReceived As Long, totalBytesToReceive As Long )
 
 ### Parameters
 
@@ -36,11 +31,8 @@ totalBytesToReceive
 Type: [System.Int64](http://msdn.microsoft.com/en-us/library/6yy583ek)
 The total bytes to receive.
 
-See Also
---------
-
-
-[ModuleDownloadProgressChangedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
+## See Also
+[ModuleDownloadProgressChangedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
 
 [ModuleDownloadProgressChangedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
 

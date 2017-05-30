@@ -4,16 +4,12 @@ Title: 'ILoggerFacade Methods (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Logging.ILoggerFacade'
 ms:mtpsurl: 'iloggerfacade-methods-mspp-logging.md'
 ---
-
-Prism Class Library
-
-ILoggerFacade Methods
-=====================
+
+# ILoggerFacade Methods
 
 The [ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -36,10 +32,7 @@ Write a new log entry with the specified category and priority.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ILoggerFacade Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade)
+## See Also
+[ILoggerFacade Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade)
 
 [Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)

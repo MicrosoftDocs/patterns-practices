@@ -4,11 +4,8 @@ Title: 'TextLogger Constructor (TextWriter) (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Logging.TextLogger.\#ctor(System.IO.TextWriter)'
 ms:mtpsurl: 'textlogger-constructor-mspp-logging.md'
 ---
-
-Prism Class Library
-
-TextLogger Constructor (TextWriter)
-===================================
+
+# TextLogger Constructor (TextWriter)
 
 Initializes a new instance of [TextLogger](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger).
 
@@ -18,9 +15,7 @@ Initializes a new instance of [TextLogger](https://msdn.microsoft.com/library/mi
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public TextLogger( TextWriter writer )Public Sub New ( writer As TextWriter )
+public TextLogger( TextWriter writer )Public Sub New ( writer As TextWriter )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ writer
 Type: [System.IO.TextWriter](http://msdn.microsoft.com/en-us/library/ywxh2328)
 The writer to use for writing log entries.
 
-See Also
---------
-
-
-[TextLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger)
+## See Also
+[TextLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger)
 
 [TextLogger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.logging.textlogger)
 

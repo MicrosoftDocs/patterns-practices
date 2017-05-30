@@ -4,11 +4,8 @@ Title: 'NavigationContext.Uri Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.NavigationContext.Uri'
 ms:mtpsurl: 'navigationcontext-uri-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-NavigationContext.Uri Property
-==================================
+
+# NavigationContext.Uri Property
 
 Gets the navigation URI.
 
@@ -18,19 +15,14 @@ Gets the navigation URI.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public Uri Uri { get; }Public ReadOnly Property Uri As Uri Get
+public Uri Uri { get; }Public ReadOnly Property Uri As Uri Get
 ### Property Value
 
 Type: [Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 The navigation URI.
 
-See Also
---------
-
-
-[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
+## See Also
+[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 
 [NavigationContext Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationcontext)
 

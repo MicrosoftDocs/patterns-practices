@@ -4,14 +4,10 @@ Title: 'NotificationObject.RaisePropertyChanged Method (Microsoft.Practices.Pris
 ms:assetid: 'Overload:Microsoft.Practices.Prism.ViewModel.NotificationObject.RaisePropertyChanged'
 ms:mtpsurl: 'notificationobject-raisepropertychanged-method-mspp-viewmodel.md'
 ---
+
+# NotificationObject.RaisePropertyChanged Method
 
-Prism Class Library
-
-NotificationObject.RaisePropertyChanged Method
-==================================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -48,11 +44,8 @@ Raises this object's PropertyChanged event for each of the properties.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[NotificationObject Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject)
+## See Also
+[NotificationObject Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject)
 
 [NotificationObject Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.viewmodel.notificationobject)
 

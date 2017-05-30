@@ -4,11 +4,8 @@ Title: 'UpdateRegionsException Constructor (SerializationInfo, StreamingContext)
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.UpdateRegionsException.\#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
 ms:mtpsurl: 'updateregionsexception-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
-UpdateRegionsException Constructor (SerializationInfo, StreamingContext)
-========================================================================
+
+# UpdateRegionsException Constructor (SerializationInfo, StreamingContext)
 
 Initializes a new instance of the [UpdateRegionsException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception) class with serialized data.
 
@@ -18,9 +15,7 @@ Initializes a new instance of the [UpdateRegionsException](https://msdn.microsof
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected UpdateRegionsException( SerializationInfo info, StreamingContext context )Protected Sub New ( info As SerializationInfo, context As StreamingContext )
+protected UpdateRegionsException( SerializationInfo info, StreamingContext context )Protected Sub New ( info As SerializationInfo, context As StreamingContext )
 
 ### Parameters
 
@@ -32,11 +27,8 @@ context
 Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5)
 The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that contains contextual information about the source or destination.
 
-See Also
---------
-
-
-[UpdateRegionsException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception)
+## See Also
+[UpdateRegionsException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception)
 
 [UpdateRegionsException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.updateregionsexception)
 

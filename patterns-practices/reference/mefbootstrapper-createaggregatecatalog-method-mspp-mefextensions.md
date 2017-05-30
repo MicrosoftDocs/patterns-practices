@@ -4,11 +4,8 @@ Title: 'MefBootstrapper.CreateAggregateCatalog Method (Microsoft.Practices.Prism
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.CreateAggregateCatalog'
 ms:mtpsurl: 'mefbootstrapper-createaggregatecatalog-method-mspp-mefextensions.md'
 ---
-
-Prism Class Library
-
-MefBootstrapper.CreateAggregateCatalog Method
-=================================================
+
+# MefBootstrapper.CreateAggregateCatalog Method
 
 Configures the [AggregateCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper.aggregatecatalog) used by MEF.
 
@@ -18,24 +15,18 @@ Configures the [AggregateCatalog](https://msdn.microsoft.com/library/microsoft.p
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected virtual AggregateCatalog CreateAggregateCatalog()Protected Overridable Function CreateAggregateCatalog As AggregateCatalog
+protected virtual AggregateCatalog CreateAggregateCatalog()Protected Overridable Function CreateAggregateCatalog As AggregateCatalog
 ### Return Value
 
 Type: [AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165)
 An [AggregateCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper.aggregatecatalog) to be used by the bootstrapper.
 
-Remarks
--------
+## Remarks
 
  The base implementation returns a new AggregateCatalog.
 
-See Also
---------
-
-
-[MefBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper)
+## See Also
+[MefBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper)
 
 [MefBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.mefbootstrapper)
 

@@ -4,16 +4,12 @@ Title: 'IRegionBehaviorCollection Properties (Microsoft.Practices.Prism.Regions)
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionBehaviorCollection'
 ms:mtpsurl: 'iregionbehaviorcollection-properties-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionBehaviorCollection Properties
-====================================
+
+# IRegionBehaviorCollection Properties
 
 The [IRegionBehaviorCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -36,10 +32,7 @@ Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.r
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegionBehaviorCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection)
+## See Also
+[IRegionBehaviorCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

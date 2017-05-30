@@ -4,11 +4,8 @@ Title: 'ModuleDependencyCollection.Item Property (Int32) (Microsoft.Practices.Pr
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection.Item(System.Int32)'
 ms:mtpsurl: 'moduledependencycollection-item-property-int32-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDependencyCollection.Item Property (Int32)
-====================================================
+
+# ModuleDependencyCollection.Item Property (Int32)
 
 Gets the [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement) located at the specified index in the collection.
 
@@ -18,9 +15,7 @@ Gets the [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/libra
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ModuleDependencyConfigurationElement this[ int index \] { get; }Public ReadOnly Default Property Item ( index As Integer ) As ModuleDependencyConfigurationElement Get
+public ModuleDependencyConfigurationElement this[ int index \] { get; }Public ReadOnly Default Property Item ( index As Integer ) As ModuleDependencyConfigurationElement Get
 
 ### Parameters
 
@@ -33,11 +28,8 @@ The index of the element in the collection.
 Type: [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement)
 A [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement).
 
-See Also
---------
-
-
-[ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
+## See Also
+[ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
 
 [ModuleDependencyCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencycollection)
 

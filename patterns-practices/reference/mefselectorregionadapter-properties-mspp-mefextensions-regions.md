@@ -4,16 +4,12 @@ Title: 'MefSelectorRegionAdapter Properties (Microsoft.Practices.Prism.MefExtens
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefSelectorRegionAdapter'
 ms:mtpsurl: 'mefselectorregionadapter-properties-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
-MefSelectorRegionAdapter Properties
-===================================
+
+# MefSelectorRegionAdapter Properties
 
 The [MefSelectorRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefselectorregionadapter) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -37,10 +33,7 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefSelectorRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefselectorregionadapter)
+## See Also
+[MefSelectorRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefselectorregionadapter)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)

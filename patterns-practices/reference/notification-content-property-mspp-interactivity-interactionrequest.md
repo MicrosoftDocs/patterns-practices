@@ -4,11 +4,8 @@ Title: 'Notification.Content Property (Microsoft.Practices.Prism.Interactivity.I
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification.Content'
 ms:mtpsurl: 'notification-content-property-mspp-interactivity-interactionrequest.md'
 ---
-
-Prism Class Library
-
-Notification.Content Property
-=================================
+
+# Notification.Content Property
 
 Gets or sets the content of the notification.
 
@@ -18,9 +15,7 @@ Gets or sets the content of the notification.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public Object Content { get; set; }Public Property Content As Object Get Set
+public Object Content { get; set; }Public Property Content As Object Get Set
 ### Property Value
 
 Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
@@ -28,11 +23,8 @@ Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 [INotification.Content](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification.content)
 
-See Also
---------
-
-
-[Notification Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.notification)
+## See Also
+[Notification Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.notification)
 
 [Notification Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.notification)
 

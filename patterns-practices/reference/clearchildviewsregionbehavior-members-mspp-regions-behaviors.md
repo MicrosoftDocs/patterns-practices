@@ -5,15 +5,12 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.Behaviors.ClearChild
 ms:mtpsurl: 'clearchildviewsregionbehavior-members-mspp-regions-behaviors.md'
 ---
 
-Prism Class Library
 
-ClearChildViewsRegionBehavior Members
-=====================================
+# ClearChildViewsRegionBehavior Members
 
 The [ClearChildViewsRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +33,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -131,8 +127,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Fields
-------
+## Fields
 
 <span id="fieldTableToggle"></span>
 <table>
@@ -162,8 +157,7 @@ This attached property can be defined on a view to indicate that regions defined
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -195,17 +189,14 @@ Behavior's attached region.
 </tbody>
 </table>
 
-Attached Properties
--------------------
+## Attached Properties
 
 <span id="attachedPropertyTableToggle"></span>
 |                                                                                                           | Name                                                                                                                                      | Description |
 |-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-------------|
 | ![](https://msdn.microsoft.com/en-us/Dn741421.pubproperty(en-us,PandP.50).gif "Public attached property") | [ClearChildViews](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.clearchildviews) |             |
 
-See Also
---------
-
+## See Also
 
 [ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
 

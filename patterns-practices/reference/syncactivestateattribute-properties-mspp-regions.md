@@ -6,18 +6,18 @@ ms:mtpsurl: 'syncactivestateattribute-properties-mspp-regions.md'
 ---
 
 
-
 # SyncActiveStateAttribute Properties
 
 The [SyncActiveStateAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute) type exposes the following members.
 
 ## Properties
 
+<span id="propertyTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -35,8 +35,7 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 </table>
 
 ## See Also
+
 [SyncActiveStateAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
-
-

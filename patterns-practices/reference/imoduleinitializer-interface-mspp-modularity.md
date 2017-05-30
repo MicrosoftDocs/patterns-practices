@@ -4,11 +4,8 @@ Title: 'IModuleInitializer Interface (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.IModuleInitializer'
 ms:mtpsurl: 'imoduleinitializer-interface-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-IModuleInitializer Interface
-============================
+
+# IModuleInitializer Interface
 
 Declares a service which initializes the modules into the application.
 
@@ -18,14 +15,9 @@ Declares a service which initializes the modules into the application.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public interface IModuleInitializerPublic Interface IModuleInitializer
 
-
-public interface IModuleInitializerPublic Interface IModuleInitializer
-
-See Also
---------
-
-
-[IModuleInitializer Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.imoduleinitializer)
+## See Also
+[IModuleInitializer Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.imoduleinitializer)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

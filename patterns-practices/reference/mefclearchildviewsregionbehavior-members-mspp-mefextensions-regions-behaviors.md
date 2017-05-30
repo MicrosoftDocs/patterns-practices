@@ -6,18 +6,18 @@ ms:mtpsurl: 'mefclearchildviewsregionbehavior-members-mspp-mefextensions-regions
 ---
 
 
-
 # MefClearChildViewsRegionBehavior Members
 
 The [MefClearChildViewsRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior) type exposes the following members.
 
 ## Constructors
 
+<span id="constructorTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -35,11 +35,12 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## Methods
 
+<span id="methodTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -114,11 +115,12 @@ Returns a string that represents the current object.
 
 ## Properties
 
+<span id="propertyTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -144,8 +146,7 @@ Behavior's attached region.
 </table>
 
 ## See Also
+
 [MefClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)
-
-

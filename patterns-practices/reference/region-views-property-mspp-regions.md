@@ -4,11 +4,8 @@ Title: 'Region.Views Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.Views'
 ms:mtpsurl: 'region-views-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-Region.Views Property
-=========================
+
+# Region.Views Property
 
 Gets a readonly view of the collection of views in the region.
 
@@ -18,9 +15,7 @@ Gets a readonly view of the collection of views in the region.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public virtual IViewsCollection Views { get; }Public Overridable ReadOnly Property Views As IViewsCollection Get
+public virtual IViewsCollection Views { get; }Public Overridable ReadOnly Property Views As IViewsCollection Get
 ### Property Value
 
 Type: [IViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection)
@@ -29,11 +24,8 @@ An [IViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.pri
 
 [IRegion.Views](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.views)
 
-See Also
---------
-
-
-[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
+## See Also
+[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 
 [Region Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.region)
 

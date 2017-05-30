@@ -7,9 +7,9 @@ ms:mtpsurl: 'notificationobject-constructor-mspp-viewmodel.md'
 
 # NotificationObject Constructor
 
-Initializes a new instance of the [NotificationObject](notificationobject-class-mspp-viewmodel.md) class
+Initializes a new instance of the [NotificationObject](notificationobject-class-mspp-viewmodel) class
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,8 +28,8 @@ Protected Sub New
 
 ## See Also
 
-[NotificationObject Class](notificationobject-class-mspp-viewmodel.md)
+[NotificationObject Class](notificationobject-class-mspp-viewmodel)
 
-[NotificationObject Members](notificationobject-members-mspp-viewmodel.md)
+[NotificationObject Members](notificationobject-members-mspp-viewmodel)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace.md)
+[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace)

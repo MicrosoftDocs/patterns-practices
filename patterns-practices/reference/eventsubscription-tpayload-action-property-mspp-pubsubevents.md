@@ -5,10 +5,8 @@ ms:assetid: 'P:Microsoft.Practices.Prism.PubSubEvents.EventSubscription\`1.Actio
 ms:mtpsurl: 'eventsubscription-tpayload-action-property-mspp-pubsubevents.md'
 ---
 
-Prism Class Library
 
-EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;).Action Property
-====================================================================
+# EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;).Action Property
 
 Gets the target [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) that is referenced by the [IDelegateReference](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.idelegatereference).
 
@@ -17,16 +15,13 @@ Gets the target [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us
 
 ## Syntax
 
-
 public Action&lt;TPayload&gt; Action { get; }Public ReadOnly Property Action As Action(Of TPayload) Get
 ### Property Value
 
 Type: [Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601)&gt;)&gt;)
 An [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) or nullNothingnullptra null reference (Nothing in Visual Basic) if the referenced target is not alive.
 
-See Also
---------
-
+## See Also
 
 [EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601)
 
