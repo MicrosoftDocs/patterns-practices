@@ -4,14 +4,12 @@ Title: 'IModuleManager.Run Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.IModuleManager.Run'
 ms:mtpsurl: 'imodulemanager-run-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # IModuleManager.Run Method
 
-Initializes the modules marked as [WhenAvailable](initializationmode-enumeration-mspp-modularity.md) on the [ModuleCatalog](modulecatalog-class-mspp-modularity.md).
+Initializes the modules marked as [WhenAvailable](initializationmode-enumeration-mspp-modularity) on the [ModuleCatalog](modulecatalog-class-mspp-modularity).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -29,10 +27,8 @@ Sub Run
 ```
 
 ## See Also
+[IModuleManager Interface](imodulemanager-interface-mspp-modularity)
 
+[IModuleManager Members](imodulemanager-members-mspp-modularity)
 
-[IModuleManager Interface](imodulemanager-interface-mspp-modularity.md)
-
-[IModuleManager Members](imodulemanager-members-mspp-modularity.md)
-
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

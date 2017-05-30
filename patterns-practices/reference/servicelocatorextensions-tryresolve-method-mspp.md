@@ -4,14 +4,10 @@ Title: 'ServiceLocatorExtensions.TryResolve Method (Microsoft.Practices.Prism)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.ServiceLocatorExtensions.TryResolve'
 ms:mtpsurl: 'servicelocatorextensions-tryresolve-method-iservicelocator-type-mspp.md'
 ---
+
+# ServiceLocatorExtensions.TryResolve Method
 
-Prism Class Library
-
-ServiceLocatorExtensions.TryResolve Method
-==============================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,11 +37,8 @@ Attempts to resolve specified type from the underlying IServiceLocator.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ServiceLocatorExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.servicelocatorextensions)
+## See Also
+[ServiceLocatorExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.servicelocatorextensions)
 
 [ServiceLocatorExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.servicelocatorextensions)
 

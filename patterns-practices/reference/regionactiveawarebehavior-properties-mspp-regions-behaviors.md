@@ -7,7 +7,7 @@ ms:mtpsurl: 'regionactiveawarebehavior-properties-mspp-regions-behaviors.md'
 
 # RegionActiveAwareBehavior Properties
 
-The [RegionActiveAwareBehavior](regionactiveawarebehavior-class-mspp-regions-behaviors.md) type exposes the following members.
+The [RegionActiveAwareBehavior](regionactiveawarebehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Properties
 
@@ -33,6 +33,6 @@ The region that this behavior is extending
 
 ## See Also
 
-[RegionActiveAwareBehavior Class](regionactiveawarebehavior-class-mspp-regions-behaviors.md)
+[RegionActiveAwareBehavior Class](regionactiveawarebehavior-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)

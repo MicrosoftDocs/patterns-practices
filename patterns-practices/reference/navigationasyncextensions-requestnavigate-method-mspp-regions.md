@@ -4,14 +4,10 @@ Title: 'NavigationAsyncExtensions.RequestNavigate Method (Microsoft.Practices.Pr
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.NavigationAsyncExtensions.RequestNavigate'
 ms:mtpsurl: 'navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions.md'
 ---
+
+# NavigationAsyncExtensions.RequestNavigate Method
 
-Prism Class Library
-
-NavigationAsyncExtensions.RequestNavigate Method
-====================================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -69,11 +65,8 @@ Initiates navigation to the target specified by the target.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[NavigationAsyncExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions)
+## See Also
+[NavigationAsyncExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions)
 
 [NavigationAsyncExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationasyncextensions)
 

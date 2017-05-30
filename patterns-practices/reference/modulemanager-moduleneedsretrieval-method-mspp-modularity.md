@@ -4,11 +4,8 @@ Title: 'ModuleManager.ModuleNeedsRetrieval Method (Microsoft.Practices.Prism.Mod
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleManager.ModuleNeedsRetrieval(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'modulemanager-moduleneedsretrieval-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleManager.ModuleNeedsRetrieval Method
-=============================================
+
+# ModuleManager.ModuleNeedsRetrieval Method
 
 Checks if the module needs to be retrieved before it's initialized.
 
@@ -18,9 +15,7 @@ Checks if the module needs to be retrieved before it's initialized.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected virtual bool ModuleNeedsRetrieval( ModuleInfo moduleInfo )Protected Overridable Function ModuleNeedsRetrieval ( moduleInfo As ModuleInfo ) As Boolean
+protected virtual bool ModuleNeedsRetrieval( ModuleInfo moduleInfo )Protected Overridable Function ModuleNeedsRetrieval ( moduleInfo As ModuleInfo ) As Boolean
 
 ### Parameters
 
@@ -32,11 +27,8 @@ Module that is being checked if needs retrieval.
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
-See Also
---------
-
-
-[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
+## See Also
+[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
 
 [ModuleManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulemanager)
 

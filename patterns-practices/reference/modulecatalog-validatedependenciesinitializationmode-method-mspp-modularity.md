@@ -4,11 +4,8 @@ Title: 'ModuleCatalog.ValidateDependenciesInitializationMode Method (Microsoft.P
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.ValidateDependenciesInitializationMode'
 ms:mtpsurl: 'modulecatalog-validatedependenciesinitializationmode-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleCatalog.ValidateDependenciesInitializationMode Method
-===============================================================
+
+# ModuleCatalog.ValidateDependenciesInitializationMode Method
 
 Ensures that there are no modules marked to be loaded [WhenAvailable](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.initializationmode) depending on modules loaded [OnDemand](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.initializationmode)
 
@@ -18,15 +15,10 @@ Ensures that there are no modules marked to be loaded [WhenAvailable](https://ms
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+protected virtual void ValidateDependenciesInitializationMode()Protected Overridable Sub ValidateDependenciesInitializationMode
 
-
-protected virtual void ValidateDependenciesInitializationMode()Protected Overridable Sub ValidateDependenciesInitializationMode
-
-See Also
---------
-
-
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
+## See Also
+[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
 

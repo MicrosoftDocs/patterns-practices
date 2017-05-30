@@ -4,11 +4,8 @@ Title: 'RegionBehavior.OnAttach Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionBehavior.OnAttach'
 ms:mtpsurl: 'regionbehavior-onattach-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionBehavior.OnAttach Method
-==================================
+
+# RegionBehavior.OnAttach Method
 
 Override this method to perform the logic after the behavior has been attached.
 
@@ -18,15 +15,10 @@ Override this method to perform the logic after the behavior has been attached.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+protected abstract void OnAttach()Protected MustOverride Sub OnAttach
 
-
-protected abstract void OnAttach()Protected MustOverride Sub OnAttach
-
-See Also
---------
-
-
-[RegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
+## See Also
+[RegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
 
 [RegionBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehavior)
 

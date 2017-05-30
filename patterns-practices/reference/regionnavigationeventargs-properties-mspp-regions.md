@@ -4,16 +4,12 @@ Title: 'RegionNavigationEventArgs Properties (Microsoft.Practices.Prism.Regions)
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionNavigationEventArgs'
 ms:mtpsurl: 'regionnavigationeventargs-properties-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationEventArgs Properties
-====================================
+
+# RegionNavigationEventArgs Properties
 
 The [RegionNavigationEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -43,10 +39,7 @@ Gets the navigation URI
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionNavigationEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs)
+## See Also
+[RegionNavigationEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

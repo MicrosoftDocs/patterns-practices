@@ -9,7 +9,7 @@ ms:mtpsurl: 'invokecommandaction-class-mspp-interactivity.md'
 
 Trigger action that executes a command when invoked. It also maintains the Enabled state of the target control based on the CanExecute method of the command.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](mspp-interactivity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](mspp-interactivity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -53,6 +53,6 @@ Public Class InvokeCommandAction
 
 ## See Also
 
-[InvokeCommandAction Members](invokecommandaction-members-mspp-interactivity.md)
+[InvokeCommandAction Members](invokecommandaction-members-mspp-interactivity)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace.md)
+[Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace)

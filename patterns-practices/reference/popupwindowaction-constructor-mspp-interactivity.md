@@ -4,11 +4,8 @@ Title: 'PopupWindowAction Constructor (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.\#ctor'
 ms:mtpsurl: 'popupwindowaction-constructor-mspp-interactivity.md'
 ---
-
-Prism Class Library
-
-PopupWindowAction Constructor
-=============================
+
+# PopupWindowAction Constructor
 
 Initializes a new instance of the [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [PopupWindowAction](https://msdn.microsoft.com
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public PopupWindowAction()Public Sub New
 
-
-public PopupWindowAction()Public Sub New
-
-See Also
---------
-
-
-[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
+## See Also
+[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
 
 [PopupWindowAction Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.popupwindowaction)
 

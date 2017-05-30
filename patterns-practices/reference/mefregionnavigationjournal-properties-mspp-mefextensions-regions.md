@@ -4,12 +4,10 @@ Title: 'MefRegionNavigationJournal Properties (Microsoft.Practices.Prism.MefExte
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournal'
 ms:mtpsurl: 'mefregionnavigationjournal-properties-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
+
 # MefRegionNavigationJournal Properties
 
-The [MefRegionNavigationJournal](mefregionnavigationjournal-class-mspp-mefextensions-regions.md) type exposes the following members.
+The [MefRegionNavigationJournal](mefregionnavigationjournal-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Properties
  
@@ -60,6 +58,6 @@ Gets or sets the target that implements INavigate.
 
 ## See Also
 
-[MefRegionNavigationJournal Class](mefregionnavigationjournal-class-mspp-mefextensions-regions.md)
+[MefRegionNavigationJournal Class](mefregionnavigationjournal-class-mspp-mefextensions-regions)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace)

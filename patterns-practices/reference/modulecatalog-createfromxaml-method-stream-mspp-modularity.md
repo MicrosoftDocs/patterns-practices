@@ -4,11 +4,8 @@ Title: 'ModuleCatalog.CreateFromXaml Method (Stream) (Microsoft.Practices.Prism.
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.CreateFromXaml(System.IO.Stream)'
 ms:mtpsurl: 'modulecatalog-createfromxaml-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleCatalog.CreateFromXaml Method (Stream)
-================================================
+
+# ModuleCatalog.CreateFromXaml Method (Stream)
 
 Creates a [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) from XAML.
 
@@ -18,9 +15,7 @@ Creates a [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public static ModuleCatalog CreateFromXaml( Stream xamlStream )Public Shared Function CreateFromXaml ( xamlStream As Stream ) As ModuleCatalog
+public static ModuleCatalog CreateFromXaml( Stream xamlStream )Public Shared Function CreateFromXaml ( xamlStream As Stream ) As ModuleCatalog
 
 ### Parameters
 
@@ -33,11 +28,8 @@ Type: [System.IO.Stream](http://msdn.microsoft.com/en-us/library/8f86tw9e)
 Type: [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 An instance of [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) built from the XAML.
 
-See Also
---------
-
-
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
+## See Also
+[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
 

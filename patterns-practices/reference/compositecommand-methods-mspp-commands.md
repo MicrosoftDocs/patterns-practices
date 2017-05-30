@@ -4,12 +4,10 @@ Title: 'CompositeCommand Methods (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Commands.CompositeCommand'
 ms:mtpsurl: 'compositecommand-methods-mspp-commands.md'
 ---
-
-Prism Class Library
-
+
 # CompositeCommand Methods
 
-The [CompositeCommand](compositecommand-class-mspp-commands.md) type exposes the following members.
+The [CompositeCommand](compositecommand-class-mspp-commands) type exposes the following members.
 
 ## Methods
  
@@ -118,6 +116,6 @@ Removes a command from the collection and removes itself from the <a href="http:
 
 ## See Also
 
-[CompositeCommand Class](compositecommand-class-mspp-commands.md)
+[CompositeCommand Class](compositecommand-class-mspp-commands)
 
-[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)
+[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace)

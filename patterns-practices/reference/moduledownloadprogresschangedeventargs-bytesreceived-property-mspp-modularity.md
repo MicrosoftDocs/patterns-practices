@@ -4,11 +4,8 @@ Title: 'ModuleDownloadProgressChangedEventArgs.BytesReceived Property (Microsoft
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleDownloadProgressChangedEventArgs.BytesReceived'
 ms:mtpsurl: 'moduledownloadprogresschangedeventargs-bytesreceived-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDownloadProgressChangedEventArgs.BytesReceived Property
-=================================================================
+
+# ModuleDownloadProgressChangedEventArgs.BytesReceived Property
 
 Gets the bytes received.
 
@@ -18,19 +15,14 @@ Gets the bytes received.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public long BytesReceived { get; }Public ReadOnly Property BytesReceived As Long Get
+public long BytesReceived { get; }Public ReadOnly Property BytesReceived As Long Get
 ### Property Value
 
 Type: [Int64](http://msdn.microsoft.com/en-us/library/6yy583ek)
 The bytes received.
 
-See Also
---------
-
-
-[ModuleDownloadProgressChangedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
+## See Also
+[ModuleDownloadProgressChangedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
 
 [ModuleDownloadProgressChangedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
 

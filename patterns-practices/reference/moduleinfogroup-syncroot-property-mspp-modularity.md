@@ -4,11 +4,8 @@ Title: 'ModuleInfoGroup.SyncRoot Property (Microsoft.Practices.Prism.Modularity)
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.SyncRoot'
 ms:mtpsurl: 'moduleinfogroup-syncroot-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInfoGroup.SyncRoot Property
-=====================================
+
+# ModuleInfoGroup.SyncRoot Property
 
 Gets an object that can be used to synchronize access to the [ICollection](http://msdn.microsoft.com/en-us/library/b1ht6113).
 
@@ -18,9 +15,7 @@ Gets an object that can be used to synchronize access to the [ICollection](http:
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public Object SyncRoot { get; }Public ReadOnly Property SyncRoot As Object Get
+public Object SyncRoot { get; }Public ReadOnly Property SyncRoot As Object Get
 ### Property Value
 
 Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
@@ -32,11 +27,8 @@ An object that can be used to synchronize access to the [ICollection](http://msd
 
 [ICollection.SyncRoot](http://msdn.microsoft.com/en-us/library/ccad5w5z)
 
-See Also
---------
-
-
-[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
+## See Also
+[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 
 [ModuleInfoGroup Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroup)
 

@@ -4,12 +4,10 @@ Title: 'CompositeCommand Properties (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Commands.CompositeCommand'
 ms:mtpsurl: 'compositecommand-properties-mspp-commands.md'
 ---
-
-Prism Class Library
-
+
 # CompositeCommand Properties
 
-The [CompositeCommand](compositecommand-class-mspp-commands.md) type exposes the following members.
+The [CompositeCommand](compositecommand-class-mspp-commands) type exposes the following members.
 
 ## Properties
 
@@ -34,8 +32,6 @@ Gets the list of all the registered commands.
 </table>
 
 ## See Also
+[CompositeCommand Class](compositecommand-class-mspp-commands)
 
-
-[CompositeCommand Class](compositecommand-class-mspp-commands.md)
-
-[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)
+[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace)

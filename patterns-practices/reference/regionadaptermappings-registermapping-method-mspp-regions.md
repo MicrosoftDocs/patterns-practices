@@ -4,11 +4,8 @@ Title: 'RegionAdapterMappings.RegisterMapping Method (Microsoft.Practices.Prism.
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionAdapterMappings.RegisterMapping(System.Type,Microsoft.Practices.Prism.Regions.IRegionAdapter)'
 ms:mtpsurl: 'regionadaptermappings-registermapping-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionAdapterMappings.RegisterMapping Method
-================================================
+
+# RegionAdapterMappings.RegisterMapping Method
 
 Registers the mapping between a type and an adapter.
 
@@ -18,9 +15,7 @@ Registers the mapping between a type and an adapter.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public void RegisterMapping( Type controlType, IRegionAdapter adapter )Public Sub RegisterMapping ( controlType As Type, adapter As IRegionAdapter )
+public void RegisterMapping( Type controlType, IRegionAdapter adapter )Public Sub RegisterMapping ( controlType As Type, adapter As IRegionAdapter )
 
 ### Parameters
 
@@ -32,8 +27,7 @@ adapter
 Type: [Microsoft.Practices.Prism.Regions.IRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter)
 The adapter to use with the controlType type.
 
-Exceptions
-----------
+## Exceptions
 
 <span id="exceptionsToggle"></span>
 | Exception                                                                                 | Condition                                                                                            |
@@ -41,11 +35,8 @@ Exceptions
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)     | When any of controlType or adapter are nullNothingnullptra null reference (Nothing in Visual Basic). |
 | [System.InvalidOperationException](http://msdn.microsoft.com/en-us/library/2asft85a) | If a mapping for controlType already exists.                                                         |
 
-See Also
---------
-
-
-[RegionAdapterMappings Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings)
+## See Also
+[RegionAdapterMappings Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings)
 
 [RegionAdapterMappings Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionadaptermappings)
 

@@ -4,16 +4,12 @@ Title: 'SelectorRegionAdapter Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.SelectorRegionAdapter'
 ms:mtpsurl: 'selectorregionadapter-methods-mspp-regions.md'
 ---
+
+# SelectorRegionAdapter Methods
 
-Prism Class Library
+The [SelectorRegionAdapter](selectorregionadapter-class-mspp-regions) type exposes the following members.
 
-SelectorRegionAdapter Methods
-=============================
-
-The [SelectorRegionAdapter](selectorregionadapter-class-mspp-regions.md) type exposes the following members.
-
-Methods
--------
+## Methods
 
 <table>
 
@@ -116,10 +112,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
+[SelectorRegionAdapter Class](selectorregionadapter-class-mspp-regions)
 
-
-[SelectorRegionAdapter Class](selectorregionadapter-class-mspp-regions.md)
-
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

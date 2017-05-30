@@ -8,12 +8,11 @@ ms:mtpsurl: 'iregionnavigationcontentloader-members-mspp-regions.md'
 
 # IRegionNavigationContentLoader Members
 
-
-The [IRegionNavigationContentLoader](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationcontentloader(v=pandp.50)) type exposes the following members.
+The [IRegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader) type exposes the following members.
 
 ## Methods
 
-
+<span id="methodTableToggle"></span>
 <table>
 
 <thead>
@@ -26,7 +25,7 @@ The [IRegionNavigationContentLoader](https://msdn.microsoft.com/en-us/library/mi
 <tbody>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationcontentloader.loadcontent(v=pandp.50)">LoadContent</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader.loadcontent(microsoft.practices.prism.regions.iregion%2cmicrosoft.practices.prism.regions.navigationcontext)">LoadContent</a></td>
 <td><div class="summary">
 Gets the content to which the navigation request represented by navigationContext applies.
 </div></td>
@@ -36,8 +35,6 @@ Gets the content to which the navigation request represented by navigationContex
 
 ## See Also
 
+[IRegionNavigationContentLoader Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader)
 
-
-[IRegionNavigationContentLoader Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationcontentloader(v=pandp.50))
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

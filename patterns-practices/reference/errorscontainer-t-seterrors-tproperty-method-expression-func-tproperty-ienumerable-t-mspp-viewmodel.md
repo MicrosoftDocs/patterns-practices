@@ -4,11 +4,8 @@ Title: 'ErrorsContainer(T).SetErrors(TProperty) Method (Expression(Func(TPropert
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.SetErrors\`\`1(System.Linq.Expressions.Expression{System.Func{\`\`0}},System.Collections.Generic.IEnumerable{\`0})'
 ms:mtpsurl: 'errorscontainer-t-seterrors-tproperty-method-expression-func-tproperty-ienumerable-t-mspp-viewmodel.md'
 ---
-
-Prism Class Library
-
-ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).SetErrors&lt;(Of &lt;(TProperty&gt;)&gt;) Method (Expression&lt;(Of &lt;(Func&lt;(Of &lt;(TProperty&gt;)&gt;)&gt;)&gt;), IEnumerable&lt;(Of &lt;(T&gt;)&gt;))
-=========================================================================================================================================================================================================
+
+# ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;).SetErrors&lt;(Of &lt;(TProperty&gt;)&gt;) Method (Expression&lt;(Of &lt;(Func&lt;(Of &lt;(TProperty&gt;)&gt;)&gt;)&gt;), IEnumerable&lt;(Of &lt;(T&gt;)&gt;))
 
 Sets the validation errors for the specified property.
 
@@ -16,9 +13,7 @@ Sets the validation errors for the specified property.
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
-
-public void SetErrors&lt;TProperty&gt;( Expression&lt;Func&lt;TProperty&gt;&gt; propertyExpression, IEnumerable&lt;T&gt; propertyErrors ) Public Sub SetErrors(Of TProperty) ( propertyExpression As Expression(Of Func(Of TProperty)), propertyErrors As IEnumerable(Of T) )
+public void SetErrors&lt;TProperty&gt;( Expression&lt;Func&lt;TProperty&gt;&gt; propertyExpression, IEnumerable&lt;T&gt; propertyErrors ) Public Sub SetErrors(Of TProperty) ( propertyExpression As Expression(Of Func(Of TProperty)), propertyErrors As IEnumerable(Of T) )
 
 ### Parameters
 
@@ -30,18 +25,14 @@ propertyErrors
 Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([T](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601)&gt;)&gt;)
 The list of errors to set for the property.
 
-Type Parameters
----------------
+## Type Parameters
 
 <span id="templatesToggle"></span>
 TProperty  
 The property type for which to set errors.
 
-See Also
---------
-
-
-[ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601)
+## See Also
+[ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601)
 
 [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.viewmodel.errorscontainer%601)
 

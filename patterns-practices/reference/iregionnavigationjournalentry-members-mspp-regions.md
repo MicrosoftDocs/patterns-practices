@@ -8,12 +8,11 @@ ms:mtpsurl: 'iregionnavigationjournalentry-members-mspp-regions.md'
 
 # IRegionNavigationJournalEntry Members
 
-
-The [IRegionNavigationJournalEntry](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournalentry(v=pandp.50)) type exposes the following members.
+The [IRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry) type exposes the following members.
 
 ## Properties
 
-
+<span id="propertyTableToggle"></span>
 <table>
 
 <thead>
@@ -26,14 +25,14 @@ The [IRegionNavigationJournalEntry](https://msdn.microsoft.com/en-us/library/mic
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Gg405485.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournalentry.parameters(v=pandp.50)">Parameters</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry.parameters">Parameters</a></td>
 <td><div class="summary">
 Gets or sets the NavigationParameters instance.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Gg405485.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournalentry.uri(v=pandp.50)">Uri</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry.uri">Uri</a></td>
 <td><div class="summary">
 Gets or sets the URI.
 </div></td>
@@ -43,8 +42,6 @@ Gets or sets the URI.
 
 ## See Also
 
+[IRegionNavigationJournalEntry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry)
 
-
-[IRegionNavigationJournalEntry Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournalentry(v=pandp.50))
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

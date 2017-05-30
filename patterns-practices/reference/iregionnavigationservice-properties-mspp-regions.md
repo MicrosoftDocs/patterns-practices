@@ -7,7 +7,7 @@ ms:mtpsurl: 'iregionnavigationservice-properties-mspp-regions.md'
 
 # IRegionNavigationService Properties
 
-The [IRegionNavigationService](iregionnavigationservice-interface-mspp-regions.md) type exposes the following members.
+The [IRegionNavigationService](iregionnavigationservice-interface-mspp-regions) type exposes the following members.
 
 ## Properties
 
@@ -60,6 +60,6 @@ Gets or sets the region owning this service.
 
 ## See Also
 
-[IRegionNavigationService Interface](iregionnavigationservice-interface-mspp-regions.md)
+[IRegionNavigationService Interface](iregionnavigationservice-interface-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

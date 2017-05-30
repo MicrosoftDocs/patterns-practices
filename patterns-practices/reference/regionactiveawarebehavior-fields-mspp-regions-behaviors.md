@@ -4,16 +4,12 @@ Title: 'RegionActiveAwareBehavior Fields (Microsoft.Practices.Prism.Regions.Beha
 ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior'
 ms:mtpsurl: 'regionactiveawarebehavior-fields-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionActiveAwareBehavior Fields
-================================
+
+# RegionActiveAwareBehavior Fields
 
 The [RegionActiveAwareBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior) type exposes the following members.
 
-Fields
-------
+## Fields
 
 <span id="fieldTableToggle"></span>
 <table>
@@ -36,10 +32,7 @@ Name that identifies the <a href="https://msdn.microsoft.com/library/microsoft.p
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
+## See Also
+[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

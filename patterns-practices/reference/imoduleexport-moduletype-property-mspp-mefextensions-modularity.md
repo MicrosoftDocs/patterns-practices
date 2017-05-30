@@ -4,11 +4,8 @@ Title: 'IModuleExport.ModuleType Property (Microsoft.Practices.Prism.MefExtensio
 ms:assetid: 'P:Microsoft.Practices.Prism.MefExtensions.Modularity.IModuleExport.ModuleType'
 ms:mtpsurl: 'imoduleexport-moduletype-property-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-IModuleExport.ModuleType Property
-=====================================
+
+# IModuleExport.ModuleType Property
 
 Gets the type of the module.
 
@@ -18,19 +15,14 @@ Gets the type of the module.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-Type ModuleType { get; }ReadOnly Property ModuleType As Type Get
+Type ModuleType { get; }ReadOnly Property ModuleType As Type Get
 ### Property Value
 
 Type: [Type](http://msdn.microsoft.com/en-us/library/42892f65)
 The type of the module.
 
-See Also
---------
-
-
-[IModuleExport Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport)
+## See Also
+[IModuleExport Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport)
 
 [IModuleExport Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.imoduleexport)
 

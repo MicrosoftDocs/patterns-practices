@@ -4,11 +4,8 @@ Title: 'IRegion Interface (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.IRegion'
 ms:mtpsurl: 'iregion-interface-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegion Interface
-=================
+
+# IRegion Interface
 
 Defines a model that can be used to compose views.
 
@@ -18,14 +15,9 @@ Defines a model that can be used to compose views.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public interface IRegion : INavigateAsync, INotifyPropertyChangedPublic Interface IRegion Inherits INavigateAsync, INotifyPropertyChanged
 
-
-public interface IRegion : INavigateAsync, INotifyPropertyChangedPublic Interface IRegion Inherits INavigateAsync, INotifyPropertyChanged
-
-See Also
---------
-
-
-[IRegion Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregion)
+## See Also
+[IRegion Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregion)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

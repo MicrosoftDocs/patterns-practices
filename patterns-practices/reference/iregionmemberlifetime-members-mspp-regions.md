@@ -4,16 +4,12 @@ Title: 'IRegionMemberLifetime Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionMemberLifetime'
 ms:mtpsurl: 'iregionmemberlifetime-members-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionMemberLifetime Members
-=============================
+
+# IRegionMemberLifetime Members
 
 The [IRegionMemberLifetime](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmemberlifetime) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -36,10 +32,7 @@ Gets a value indicating whether this instance should be kept-alive upon deactiva
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegionMemberLifetime Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmemberlifetime)
+## See Also
+[IRegionMemberLifetime Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmemberlifetime)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

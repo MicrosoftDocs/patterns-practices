@@ -4,25 +4,18 @@ Title: 'ModuleExportAttribute.DependsOnModuleNames Property (Microsoft.Practices
 ms:assetid: 'P:Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAttribute.DependsOnModuleNames'
 ms:mtpsurl: 'moduleexportattribute-dependsonmodulenames-property-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleExportAttribute.DependsOnModuleNames Property
-=======================================================
+
+# ModuleExportAttribute.DependsOnModuleNames Property
 
 Gets or sets the contract names of modules this module depends upon.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 public string[] DependsOnModuleNames { get; set; }
 ```
 ```VB
@@ -37,14 +30,11 @@ Public Property DependsOnModuleNames As String()
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)[]
 ### Implements
 
-[IModuleExport.DependsOnModuleNames](imoduleexport-dependsonmodulenames-property-mspp-mefextensions-modularity.md)
+[IModuleExport.DependsOnModuleNames](imoduleexport-dependsonmodulenames-property-mspp-mefextensions-modularity)
 
-See Also
---------
+## See Also
+[ModuleExportAttribute Class](moduleexportattribute-class-mspp-mefextensions-modularity)
 
+[ModuleExportAttribute Members](moduleexportattribute-members-mspp-mefextensions-modularity)
 
-[ModuleExportAttribute Class](moduleexportattribute-class-mspp-mefextensions-modularity.md)
-
-[ModuleExportAttribute Members](moduleexportattribute-members-mspp-mefextensions-modularity.md)
-
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace)

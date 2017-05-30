@@ -4,16 +4,12 @@ Title: 'DownloadedPartCatalogCollection Members (Microsoft.Practices.Prism.MefEx
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection'
 ms:mtpsurl: 'downloadedpartcatalogcollection-members-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-DownloadedPartCatalogCollection Members
-=======================================
+
+# DownloadedPartCatalogCollection Members
 
 The [DownloadedPartCatalogCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -136,10 +131,7 @@ Tries to ge the catalog for the specified module info.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DownloadedPartCatalogCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection)
+## See Also
+[DownloadedPartCatalogCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection)
 
 [Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)

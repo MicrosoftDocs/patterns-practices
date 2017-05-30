@@ -4,16 +4,12 @@ Title: 'RegionMemberLifetimeAttribute Properties (Microsoft.Practices.Prism.Regi
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionMemberLifetimeAttribute'
 ms:mtpsurl: 'regionmemberlifetimeattribute-properties-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionMemberLifetimeAttribute Properties
-========================================
+
+# RegionMemberLifetimeAttribute Properties
 
 The [RegionMemberLifetimeAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -44,10 +40,7 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionMemberLifetimeAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute)
+## See Also
+[RegionMemberLifetimeAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -4,12 +4,10 @@ Title: 'DelegateCommand Properties (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Commands.DelegateCommand'
 ms:mtpsurl: 'delegatecommand-properties-mspp-commands.md'
 ---
-
-Prism Class Library
-
+
 # DelegateCommand Properties
 
-The [DelegateCommand](delegatecommand-class-mspp-commands.md) type exposes the following members.
+The [DelegateCommand](delegatecommand-class-mspp-commands) type exposes the following members.
 
 ## Properties
 
@@ -35,8 +33,6 @@ Gets or sets a value indicating whether the object is active.
 </table>
 
 ## See Also
+[DelegateCommand Class](delegatecommand-class-mspp-commands)
 
-
-[DelegateCommand Class](delegatecommand-class-mspp-commands.md)
-
-[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace.md)
+[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace)

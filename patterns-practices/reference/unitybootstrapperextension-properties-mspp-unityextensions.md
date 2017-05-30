@@ -4,16 +4,12 @@ Title: 'UnityBootstrapperExtension Properties (Microsoft.Practices.Prism.UnityEx
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtension'
 ms:mtpsurl: 'unitybootstrapperextension-properties-mspp-unityextensions.md'
 ---
-
-Prism Class Library
-
-UnityBootstrapperExtension Properties
-=====================================
+
+# UnityBootstrapperExtension Properties
 
 The [UnityBootstrapperExtension](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 |                                                                                                      | Name      | Description                               |
@@ -21,10 +17,7 @@ Properties
 | ![](https://msdn.microsoft.com/en-us/Gg431228.pubproperty(en-us,PandP.50).gif "Public property")     | Container | (Inherited from UnityContainerExtension.) |
 | ![](https://msdn.microsoft.com/en-us/Gg431228.protproperty(en-us,PandP.50).gif "Protected property") | Context   | (Inherited from UnityContainerExtension.) |
 
-See Also
---------
-
-
-[UnityBootstrapperExtension Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension)
+## See Also
+[UnityBootstrapperExtension Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension)
 
 [Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)

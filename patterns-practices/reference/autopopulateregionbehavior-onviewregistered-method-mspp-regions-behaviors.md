@@ -9,7 +9,7 @@ ms:mtpsurl: 'autopopulateregionbehavior-onviewregistered-method-mspp-regions-beh
 
 Handler of the event that fires when a new viewtype is registered to the registry.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -31,9 +31,7 @@ Public Overridable Sub OnViewRegistered (
 	e As ViewRegisteredEventArgs
 )
 ```
-
-
-### Parameters
+### Parameters
 
 sender
 
@@ -41,7 +39,7 @@ sender
 
 *e*
 
-    Type: [Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs](viewregisteredeventargs-class-mspp-regions.md)
+    Type: [Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs](viewregisteredeventargs-class-mspp-regions)
 
 ## Remarks
 
@@ -49,8 +47,8 @@ Although this is a public method to support Weak Delegates in Silverlight, it sh
 
 ## See Also
 
-[AutoPopulateRegionBehavior Class](autopopulateregionbehavior-class-mspp-regions-behaviors.md)
+[AutoPopulateRegionBehavior Class](autopopulateregionbehavior-class-mspp-regions-behaviors)
 
-[AutoPopulateRegionBehavior Members](autopopulateregionbehavior-members-mspp-regions-behaviors.md)
+[AutoPopulateRegionBehavior Members](autopopulateregionbehavior-members-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)

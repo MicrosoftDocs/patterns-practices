@@ -9,7 +9,7 @@ ms:mtpsurl: 'modularityexception-getobjectdata-method-mspp-modularity.md'
 
 Sets the [SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e) with information about the exception.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -33,9 +33,7 @@ Public Overrides Sub GetObjectData (
 	context As StreamingContext
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *info*  
 Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)
@@ -55,8 +53,8 @@ The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that co
 
 ## See Also
 
-[ModularityException Class](modularityexception-class-mspp-modularity.md)
+[ModularityException Class](modularityexception-class-mspp-modularity)
 
-[ModularityException Members](modularityexception-members-mspp-modularity.md)
+[ModularityException Members](modularityexception-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

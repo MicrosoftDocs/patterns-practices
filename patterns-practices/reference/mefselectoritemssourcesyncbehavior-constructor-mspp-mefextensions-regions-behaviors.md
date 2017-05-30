@@ -4,11 +4,8 @@ Title: 'MefSelectorItemsSourceSyncBehavior Constructor (Microsoft.Practices.Pris
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSelectorItemsSourceSyncBehavior.\#ctor'
 ms:mtpsurl: 'mefselectoritemssourcesyncbehavior-constructor-mspp-mefextensions-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-MefSelectorItemsSourceSyncBehavior Constructor
-==============================================
+
+# MefSelectorItemsSourceSyncBehavior Constructor
 
 Initializes a new instance of the [MefSelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefselectoritemssourcesyncbehavior) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [MefSelectorItemsSourceSyncBehavior](https://m
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public MefSelectorItemsSourceSyncBehavior()Public Sub New
 
-
-public MefSelectorItemsSourceSyncBehavior()Public Sub New
-
-See Also
---------
-
-
-[MefSelectorItemsSourceSyncBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefselectoritemssourcesyncbehavior)
+## See Also
+[MefSelectorItemsSourceSyncBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefselectoritemssourcesyncbehavior)
 
 [MefSelectorItemsSourceSyncBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.behaviors.mefselectoritemssourcesyncbehavior)
 

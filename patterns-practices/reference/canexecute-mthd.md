@@ -4,14 +4,10 @@ Title: 'DelegateCommand.CanExecute Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Commands.DelegateCommand.CanExecute'
 ms:mtpsurl: 'canexecute-mthd.md'
 ---
+
+# DelegateCommand.CanExecute Method
 
-Prism Class Library
-
-DelegateCommand.CanExecute Method
-=====================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -42,11 +38,8 @@ Determines if the command can execute with the provided parameter by invoking th
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
+## See Also
+[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
 
 [DelegateCommand Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand)
 

@@ -4,11 +4,8 @@ Title: 'ModuleAttribute.StartupLoaded Property (Microsoft.Practices.Prism.Modula
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleAttribute.StartupLoaded'
 ms:mtpsurl: 'moduleattribute-startuploaded-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleAttribute.StartupLoaded Property
-==========================================
+
+# ModuleAttribute.StartupLoaded Property
 
 Gets or sets a value indicating whether the module should be loaded at startup.
 
@@ -18,19 +15,14 @@ Gets or sets a value indicating whether the module should be loaded at startup.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-[ObsoleteAttribute("StartupLoaded has been replaced by the OnDemand property.")\] public bool StartupLoaded { get; set; }&lt;ObsoleteAttribute("StartupLoaded has been replaced by the OnDemand property.")&gt; Public Property StartupLoaded As Boolean Get Set
+[ObsoleteAttribute("StartupLoaded has been replaced by the OnDemand property.")\] public bool StartupLoaded { get; set; }&lt;ObsoleteAttribute("StartupLoaded has been replaced by the OnDemand property.")&gt; Public Property StartupLoaded As Boolean Get Set
 ### Property Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 A [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50) value.
 
-See Also
---------
-
-
-[ModuleAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleattribute)
+## See Also
+[ModuleAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleattribute)
 
 [ModuleAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleattribute)
 

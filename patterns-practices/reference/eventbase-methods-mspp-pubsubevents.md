@@ -10,11 +10,10 @@ ms:mtpsurl: 'eventbase-methods-mspp-pubsubevents.md'
 The [EventBase](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase) type exposes the following members.
 
 ## Methods
-=======
+
 The [EventBase](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -32,7 +31,7 @@ Methods
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase.contains(microsoft.practices.prism.pubsubevents.subscriptiontoken)">Contains</a></td>
 <td><div class="summary">
 Returns <b>Truetrue</b> (<b>True</b> in Visual Basic) if there is a subscriber matching <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken">SubscriptionToken</a>.
-=======
+
 <td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase.contains(microsoft.practices.prism.pubsubevents.subscriptiontoken)">Contains</a></td>
 <td><div class="summary">
@@ -76,7 +75,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase.internalpublish(system.object%5b%5d)">InternalPublish</a></td>
 <td><div class="summary">
 Calls all the execution strategies exposed by the list of <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription">IEventSubscription</a>.
-=======
+
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase.internalpublish(system.object%5b%5d)">InternalPublish</a></td>
 <td><div class="summary">
 Calls all the execution strategies exposed by the list of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription">IEventSubscription</a>.
@@ -87,7 +86,7 @@ Calls all the execution strategies exposed by the list of <a href="https://msdn.
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase.internalsubscribe(microsoft.practices.prism.pubsubevents.ieventsubscription)">InternalSubscribe</a></td>
 <td><div class="summary">
 Adds the specified <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription">IEventSubscription</a> to the subscribers' collection.
-=======
+
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase.internalsubscribe(microsoft.practices.prism.pubsubevents.ieventsubscription)">InternalSubscribe</a></td>
 <td><div class="summary">
 Adds the specified <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription">IEventSubscription</a> to the subscribers' collection.
@@ -114,7 +113,7 @@ Returns a string that represents the current object.
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase.unsubscribe(microsoft.practices.prism.pubsubevents.subscriptiontoken)">Unsubscribe</a></td>
 <td><div class="summary">
 Removes the subscriber matching the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken">SubscriptionToken</a>.
-=======
+
 <td><img src="images/public-method.gif" title="Public method" /></td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase.unsubscribe(microsoft.practices.prism.pubsubevents.subscriptiontoken)">Unsubscribe</a></td>
 <td><div class="summary">
@@ -129,7 +128,7 @@ Removes the subscriber matching the <a href="https://msdn.microsoft.com/library/
 [EventBase Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents)
-=======
+
 [EventBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)

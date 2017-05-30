@@ -4,11 +4,8 @@ Title: 'ContentControlRegionAdapter.CreateRegion Method (Microsoft.Practices.Pri
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter.CreateRegion'
 ms:mtpsurl: 'contentcontrolregionadapter-createregion-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ContentControlRegionAdapter.CreateRegion Method
-===================================================
+
+# ContentControlRegionAdapter.CreateRegion Method
 
 Creates a new instance of [SingleActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion).
 
@@ -18,19 +15,14 @@ Creates a new instance of [SingleActiveRegion](https://msdn.microsoft.com/librar
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected override IRegion CreateRegion()Protected Overrides Function CreateRegion As IRegion
+protected override IRegion CreateRegion()Protected Overrides Function CreateRegion As IRegion
 ### Return Value
 
 Type: [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 A new instance of [SingleActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion).
 
-See Also
---------
-
-
-[ContentControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.contentcontrolregionadapter)
+## See Also
+[ContentControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.contentcontrolregionadapter)
 
 [ContentControlRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.contentcontrolregionadapter)
 

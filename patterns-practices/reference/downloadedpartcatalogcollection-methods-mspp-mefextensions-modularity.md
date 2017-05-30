@@ -4,16 +4,12 @@ Title: 'DownloadedPartCatalogCollection Methods (Microsoft.Practices.Prism.MefEx
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection'
 ms:mtpsurl: 'downloadedpartcatalogcollection-methods-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-DownloadedPartCatalogCollection Methods
-=======================================
+
+# DownloadedPartCatalogCollection Methods
 
 The [DownloadedPartCatalogCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -112,10 +108,7 @@ Tries to ge the catalog for the specified module info.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DownloadedPartCatalogCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection)
+## See Also
+[DownloadedPartCatalogCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection)
 
 [Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)

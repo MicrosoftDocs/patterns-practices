@@ -5,15 +5,12 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.InteractionReq
 ms:mtpsurl: 'iconfirmation-properties-mspp-interactivity-interactionrequest.md'
 ---
 
-Prism Class Library
 
-IConfirmation Properties
-========================
+# IConfirmation Properties
 
 The [IConfirmation](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -52,9 +49,7 @@ Gets or sets the title to use for the notification.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IConfirmation Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation)
 

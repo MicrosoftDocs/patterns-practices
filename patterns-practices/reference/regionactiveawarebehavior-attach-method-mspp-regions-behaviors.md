@@ -4,11 +4,8 @@ Title: 'RegionActiveAwareBehavior.Attach Method (Microsoft.Practices.Prism.Regio
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior.Attach'
 ms:mtpsurl: 'regionactiveawarebehavior-attach-method-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionActiveAwareBehavior.Attach Method
-===========================================
+
+# RegionActiveAwareBehavior.Attach Method
 
 Attaches the behavior to the specified region
 
@@ -18,18 +15,13 @@ Attaches the behavior to the specified region
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public void Attach()Public Sub Attach
+public void Attach()Public Sub Attach
 ### Implements
 
 [IRegionBehavior.Attach()()()](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior.attach)
 
-See Also
---------
-
-
-[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
+## See Also
+[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
 
 [RegionActiveAwareBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
 

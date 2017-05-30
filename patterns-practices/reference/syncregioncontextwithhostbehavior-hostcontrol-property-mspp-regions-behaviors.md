@@ -4,11 +4,8 @@ Title: 'SyncRegionContextWithHostBehavior.HostControl Property (Microsoft.Practi
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior.HostControl'
 ms:mtpsurl: 'syncregioncontextwithhostbehavior-hostcontrol-property-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-SyncRegionContextWithHostBehavior.HostControl Property
-==========================================================
+
+# SyncRegionContextWithHostBehavior.HostControl Property
 
 Gets or sets the [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309) that the [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) is attached to.
 
@@ -18,9 +15,7 @@ Gets or sets the [DependencyObject](http://msdn.microsoft.com/en-us/library/ms58
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public DependencyObject HostControl { get; set; }Public Property HostControl As DependencyObject Get Set
+public DependencyObject HostControl { get; set; }Public Property HostControl As DependencyObject Get Set
 ### Property Value
 
 Type: [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
@@ -29,11 +24,8 @@ A [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309) that the 
 
 [IHostAwareRegionBehavior.HostControl](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior.hostcontrol)
 
-See Also
---------
-
-
-[SyncRegionContextWithHostBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior)
+## See Also
+[SyncRegionContextWithHostBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior)
 
 [SyncRegionContextWithHostBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior)
 

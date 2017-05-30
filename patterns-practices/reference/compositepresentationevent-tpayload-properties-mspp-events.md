@@ -4,16 +4,12 @@ Title: 'CompositePresentationEvent(TPayload) Properties (Microsoft.Practices.Pri
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1'
 ms:mtpsurl: 'compositepresentationevent-tpayload-properties-mspp-events.md'
 ---
-
-Prism Class Library
-
-CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
-====================================================================
+
+# CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
 
 The [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 |                                                                                                      | Name                   | Description                 |
@@ -21,10 +17,7 @@ Properties
 | ![](https://msdn.microsoft.com/en-us/Gg419162.protproperty(en-us,PandP.50).gif "Protected property") | Subscriptions          | (Inherited from EventBase.) |
 | ![](https://msdn.microsoft.com/en-us/Gg419162.pubproperty(en-us,PandP.50).gif "Public property")     | SynchronizationContext | (Inherited from EventBase.) |
 
-See Also
---------
-
-
-[CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)
+## See Also
+[CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)
 
 [Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.events)

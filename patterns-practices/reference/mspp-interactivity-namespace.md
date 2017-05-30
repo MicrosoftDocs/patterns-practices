@@ -4,16 +4,12 @@ Title: 'Microsoft.Practices.Prism.Interactivity Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.Interactivity'
 ms:mtpsurl: 'mspp-interactivity-namespace.md'
 ---
-
-Prism Class Library
-
-Microsoft.Practices.Prism.Interactivity Namespace
-=================================================
+
+# Microsoft.Practices.Prism.Interactivity Namespace
 
  
 
-Classes
--------
+## Classes
 
 <span id="classToggle"></span>
 <table>

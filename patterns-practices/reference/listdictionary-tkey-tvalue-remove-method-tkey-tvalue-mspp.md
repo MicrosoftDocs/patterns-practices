@@ -4,11 +4,8 @@ Title: 'ListDictionary(TKey, TValue).Remove Method (TKey, TValue) (Microsoft.Pra
 ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.Remove(\`0,\`1)'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-remove-method-tkey-tvalue-mspp.md'
 ---
-
-Prism Class Library
-
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Remove Method (TKey, TValue)
-==================================================================================
+
+# ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Remove Method (TKey, TValue)
 
 Removes a value from the list with the given key.
 
@@ -18,9 +15,7 @@ Removes a value from the list with the given key.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public void Remove( TKey key, TValue value )Public Sub Remove ( key As TKey, value As TValue )
+public void Remove( TKey key, TValue value )Public Sub Remove ( key As TKey, value As TValue )
 
 ### Parameters
 
@@ -32,11 +27,8 @@ value
 Type: [TValue](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 The value to remove.
 
-See Also
---------
-
-
-[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
+## See Also
+[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 
 [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.listdictionary%602)
 

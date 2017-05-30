@@ -4,11 +4,8 @@ Title: 'INavigationAware Interface (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.INavigationAware'
 ms:mtpsurl: 'inavigationaware-interface-mspp-regions.md'
 ---
-
-Prism Class Library
-
-INavigationAware Interface
-==========================
+
+# INavigationAware Interface
 
 Provides a way for objects involved in navigation to be notified of navigation activities.
 
@@ -18,14 +15,9 @@ Provides a way for objects involved in navigation to be notified of navigation a
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public interface INavigationAwarePublic Interface INavigationAware
 
-
-public interface INavigationAwarePublic Interface INavigationAware
-
-See Also
---------
-
-
-[INavigationAware Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.inavigationaware)
+## See Also
+[INavigationAware Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.inavigationaware)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

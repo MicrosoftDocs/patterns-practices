@@ -4,11 +4,8 @@ Title: 'DelegateCommand.CanExecute Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand.CanExecute'
 ms:mtpsurl: 'canexecute-mthd.md'
 ---
-
-Prism Class Library
-
-DelegateCommand.CanExecute Method
-=====================================
+
+# DelegateCommand.CanExecute Method
 
 Determines if the command can be executed.
 
@@ -16,19 +13,14 @@ Determines if the command can be executed.
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
-
-public virtual bool CanExecute()Public Overridable Function CanExecute As Boolean
+public virtual bool CanExecute()Public Overridable Function CanExecute As Boolean
 ### Return Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 Returns trueTruetruetrue (True in Visual Basic) if the command can execute, otherwise returns falseFalsefalsefalse (False in Visual Basic).
 
-See Also
---------
-
-
-[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
+## See Also
+[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
 
 [DelegateCommand Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand)
 

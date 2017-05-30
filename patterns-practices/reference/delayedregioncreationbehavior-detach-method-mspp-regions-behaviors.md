@@ -4,11 +4,8 @@ Title: 'DelayedRegionCreationBehavior.Detach Method (Microsoft.Practices.Prism.R
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior.Detach'
 ms:mtpsurl: 'delayedregioncreationbehavior-detach-method-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-DelayedRegionCreationBehavior.Detach Method
-===============================================
+
+# DelayedRegionCreationBehavior.Detach Method
 
 Stop monitoring the [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager) and the [TargetElement](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.targetelement), so that this behavior can be garbage collected.
 
@@ -18,15 +15,10 @@ Stop monitoring the [RegionManager](https://msdn.microsoft.com/library/microsoft
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public void Detach()Public Sub Detach
 
-
-public void Detach()Public Sub Detach
-
-See Also
---------
-
-
-[DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
+## See Also
+[DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
 
 [DelayedRegionCreationBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
 

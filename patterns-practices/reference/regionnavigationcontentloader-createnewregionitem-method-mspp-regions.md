@@ -4,11 +4,8 @@ Title: 'RegionNavigationContentLoader.CreateNewRegionItem Method (Microsoft.Prac
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader.CreateNewRegionItem(System.String)'
 ms:mtpsurl: 'regionnavigationcontentloader-createnewregionitem-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationContentLoader.CreateNewRegionItem Method
-============================================================
+
+# RegionNavigationContentLoader.CreateNewRegionItem Method
 
 Provides a new item for the region based on the supplied candidate target contract name.
 
@@ -18,9 +15,7 @@ Provides a new item for the region based on the supplied candidate target contra
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected virtual Object CreateNewRegionItem( string candidateTargetContract )Protected Overridable Function CreateNewRegionItem ( candidateTargetContract As String ) As Object
+protected virtual Object CreateNewRegionItem( string candidateTargetContract )Protected Overridable Function CreateNewRegionItem ( candidateTargetContract As String ) As Object
 
 ### Parameters
 
@@ -33,11 +28,8 @@ The target contract to build.
 Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 An instance of an item to put into the [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion).
 
-See Also
---------
-
-
-[RegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader)
+## See Also
+[RegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader)
 
 [RegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationcontentloader)
 

@@ -5,10 +5,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.OnDet
 ms:mtpsurl: 'invokecommandaction-ondetaching-method-mspp-interactivity.md'
 ---
 
-Prism Class Library
 
-InvokeCommandAction.OnDetaching Method
-==========================================
+# InvokeCommandAction.OnDetaching Method
 
 Sets the Command and CommandParameter properties to null.
 
@@ -19,12 +17,9 @@ Sets the Command and CommandParameter properties to null.
 
 ## Syntax
 
-
 protected override void OnDetaching()Protected Overrides Sub OnDetaching
 
-See Also
---------
-
+## See Also
 
 [InvokeCommandAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction)
 

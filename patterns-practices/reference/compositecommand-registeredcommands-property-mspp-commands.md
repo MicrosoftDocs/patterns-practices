@@ -4,11 +4,8 @@ Title: 'CompositeCommand.RegisteredCommands Property (Microsoft.Practices.Prism.
 ms:assetid: 'P:Microsoft.Practices.Prism.Commands.CompositeCommand.RegisteredCommands'
 ms:mtpsurl: 'compositecommand-registeredcommands-property-mspp-commands.md'
 ---
-
-Prism Class Library
-
-CompositeCommand.RegisteredCommands Property
-================================================
+
+# CompositeCommand.RegisteredCommands Property
 
 Gets the list of all the registered commands.
 
@@ -16,24 +13,18 @@ Gets the list of all the registered commands.
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
-
-public IList&lt;ICommand&gt; RegisteredCommands { get; }Public ReadOnly Property RegisteredCommands As IList(Of ICommand) Get
+public IList&lt;ICommand&gt; RegisteredCommands { get; }Public ReadOnly Property RegisteredCommands As IList(Of ICommand) Get
 ### Property Value
 
 Type: [IList](http://msdn.microsoft.com/en-us/library/5y536ey6)&lt;(Of &lt;([ICommand](http://msdn.microsoft.com/en-us/library/ms616869)&gt;)&gt;)
 A list of registered commands.
 
-Remarks
--------
+## Remarks
 
 This returns a copy of the commands subscribed to the CompositeCommand.
 
-See Also
---------
-
-
-[CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
+## See Also
+[CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
 
 [CompositeCommand Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.compositecommand)
 

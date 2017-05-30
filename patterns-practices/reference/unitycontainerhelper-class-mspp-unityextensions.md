@@ -4,11 +4,8 @@ Title: 'UnityContainerHelper Class (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.UnityExtensions.UnityContainerHelper'
 ms:mtpsurl: 'unitycontainerhelper-class-mspp-unityextensions.md'
 ---
-
-Prism Class Library
-
-UnityContainerHelper Class
-==========================
+
+# UnityContainerHelper Class
 
 Extensions methods to extend and facilitate the usage of IUnityContainer.
 
@@ -18,20 +15,14 @@ Extensions methods to extend and facilitate the usage of IUnityContainer.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public static class UnityContainerHelper&lt;ExtensionAttribute&gt; Public NotInheritable Class UnityContainerHelper
 
-
-public static class UnityContainerHelper&lt;ExtensionAttribute&gt; Public NotInheritable Class UnityContainerHelper
-
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.UnityExtensions.UnityContainerHelper
 
-See Also
---------
-
-
-[UnityContainerHelper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitycontainerhelper)
+## See Also
+[UnityContainerHelper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitycontainerhelper)
 
 [Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)

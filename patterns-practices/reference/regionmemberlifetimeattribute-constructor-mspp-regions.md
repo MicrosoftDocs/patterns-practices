@@ -4,37 +4,27 @@ Title: 'RegionMemberLifetimeAttribute Constructor (Microsoft.Practices.Prism.Reg
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionMemberLifetimeAttribute.\#ctor'
 ms:mtpsurl: 'regionmemberlifetimeattribute-constructor-mspp-regions.md'
 ---
+
+# RegionMemberLifetimeAttribute Constructor
 
-Prism Class Library
+Instantiates an instance of [RegionMemberLifetimeAttribute](regionmemberlifetimeattribute-class-mspp-regions)
 
-RegionMemberLifetimeAttribute Constructor
-=========================================
-
-Instantiates an instance of [RegionMemberLifetimeAttribute](regionmemberlifetimeattribute-class-mspp-regions.md)
-
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 public RegionMemberLifetimeAttribute()
 ```
 ```VB
 'Declaration
 Public Sub New
 ```
-See Also
---------
+## See Also
+[RegionMemberLifetimeAttribute Class](regionmemberlifetimeattribute-class-mspp-regions)
 
+[RegionMemberLifetimeAttribute Members](regionmemberlifetimeattribute-members-mspp-regions)
 
-[RegionMemberLifetimeAttribute Class](regionmemberlifetimeattribute-class-mspp-regions.md)
-
-[RegionMemberLifetimeAttribute Members](regionmemberlifetimeattribute-members-mspp-regions.md)
-
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

@@ -4,11 +4,8 @@ Title: 'IRegionCollection.Remove Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionCollection.Remove(System.String)'
 ms:mtpsurl: 'iregioncollection-remove-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionCollection.Remove Method
-===================================
+
+# IRegionCollection.Remove Method
 
 Removes a [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) from the collection.
 
@@ -18,9 +15,7 @@ Removes a [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-bool Remove( string regionName )Function Remove ( regionName As String ) As Boolean
+bool Remove( string regionName )Function Remove ( regionName As String ) As Boolean
 
 ### Parameters
 
@@ -33,11 +28,8 @@ Name of the region to be removed.
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 trueTruetruetrue (True in Visual Basic) if the region was removed from the collection, otherwise falseFalsefalsefalse (False in Visual Basic).
 
-See Also
---------
-
-
-[IRegionCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection)
+## See Also
+[IRegionCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection)
 
 [IRegionCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregioncollection)
 

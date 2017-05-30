@@ -4,16 +4,12 @@ Title: 'MefRegionBehaviorFactory Members (Microsoft.Practices.Prism.MefExtension
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionBehaviorFactory'
 ms:mtpsurl: 'mefregionbehaviorfactory-members-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
-MefRegionBehaviorFactory Members
-================================
+
+# MefRegionBehaviorFactory Members
 
 The [MefRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -133,10 +128,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefRegionBehaviorFactory Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory)
+## See Also
+[MefRegionBehaviorFactory Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)

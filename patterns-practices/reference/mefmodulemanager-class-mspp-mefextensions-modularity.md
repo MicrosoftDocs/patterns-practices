@@ -4,16 +4,14 @@ Title: 'MefModuleManager Class (Microsoft.Practices.Prism.MefExtensions.Modulari
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager'
 ms:mtpsurl: 'mefmodulemanager-class-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
+
 # MefModuleManager Class
 
 Component responsible for coordinating the modules' type loading and module initialization process.
 
 Component responsible for coordinating the modules' type loading and module initialization process.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -45,12 +43,12 @@ Public Class MefModuleManager
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-  [Microsoft.Practices.Prism.Modularity.ModuleManager](modulemanager-class-mspp-modularity.md)
+  [Microsoft.Practices.Prism.Modularity.ModuleManager](modulemanager-class-mspp-modularity)
   
     Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager
 
 ## See Also
 
-[MefModuleManager Members](mefmodulemanager-members-mspp-mefextensions-modularity.md)
+[MefModuleManager Members](mefmodulemanager-members-mspp-mefextensions-modularity)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace)

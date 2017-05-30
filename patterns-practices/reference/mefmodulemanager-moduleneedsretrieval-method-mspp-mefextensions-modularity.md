@@ -4,11 +4,8 @@ Title: 'MefModuleManager.ModuleNeedsRetrieval Method (Microsoft.Practices.Prism.
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager.ModuleNeedsRetrieval(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'mefmodulemanager-moduleneedsretrieval-method-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-MefModuleManager.ModuleNeedsRetrieval Method
-================================================
+
+# MefModuleManager.ModuleNeedsRetrieval Method
 
 Checks if the module needs to be retrieved before it's initialized.
 
@@ -18,9 +15,7 @@ Checks if the module needs to be retrieved before it's initialized.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected override bool ModuleNeedsRetrieval( ModuleInfo moduleInfo )Protected Overrides Function ModuleNeedsRetrieval ( moduleInfo As ModuleInfo ) As Boolean
+protected override bool ModuleNeedsRetrieval( ModuleInfo moduleInfo )Protected Overrides Function ModuleNeedsRetrieval ( moduleInfo As ModuleInfo ) As Boolean
 
 ### Parameters
 
@@ -33,11 +28,8 @@ Module that is being checked if needs retrieval.
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 True if the module needs to be retrieved. Otherwise, false.
 
-See Also
---------
-
-
-[MefModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager)
+## See Also
+[MefModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager)
 
 [MefModuleManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.mefmodulemanager)
 

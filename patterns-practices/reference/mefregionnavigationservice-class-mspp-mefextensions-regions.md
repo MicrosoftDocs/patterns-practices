@@ -9,7 +9,7 @@ ms:mtpsurl: 'mefregionnavigationservice-class-mspp-mefextensions-regions.md'
 
 Exports the MefRegionNavigationService using the Managed Extensibility Framework (MEF).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](mspp-mefextensions-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](mspp-mefextensions-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -34,11 +34,11 @@ Public Class MefRegionNavigationService
 ## Inheritance Hierarchy
 
 &nbsp;&nbsp;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionNavigationService](regionnavigationservice-class-mspp-regions.md)<br/>
+&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionNavigationService](regionnavigationservice-class-mspp-regions)<br/>
 &nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationService
 
 ## See Also
 
-[MefRegionNavigationService Members](mefregionnavigationservice-members-mspp-mefextensions-regions.md)
+[MefRegionNavigationService Members](mefregionnavigationservice-members-mspp-mefextensions-regions)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace)

@@ -4,11 +4,8 @@ Title: 'ModuleDependencyCollection.CreateNewElement Method (Microsoft.Practices.
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection.CreateNewElement'
 ms:mtpsurl: 'moduledependencycoll-createnew-method.md'
 ---
-
-Prism Class Library
-
-ModuleDependencyCollection.CreateNewElement Method
-======================================================
+
+# ModuleDependencyCollection.CreateNewElement Method
 
 Creates a new [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement).
 
@@ -18,19 +15,14 @@ Creates a new [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected override ConfigurationElement CreateNewElement()Protected Overrides Function CreateNewElement As ConfigurationElement
+protected override ConfigurationElement CreateNewElement()Protected Overrides Function CreateNewElement As ConfigurationElement
 ### Return Value
 
 Type: [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3)
 A [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement).
 
-See Also
---------
-
-
-[ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
+## See Also
+[ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
 
 [ModuleDependencyCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencycollection)
 
