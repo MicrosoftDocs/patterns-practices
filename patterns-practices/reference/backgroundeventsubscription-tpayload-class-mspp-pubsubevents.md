@@ -7,17 +7,20 @@ ms:mtpsurl: 'backgroundeventsubscription-tpayload-class-mspp-pubsubevents.md'
 
 # BackgroundEventSubscription(Of TPayload) Class
 
-Extends [EventSubscription(Of TPayload)](eventsubscription-tpayload-class-mspp-pubsubevents) to invoke the [Action](eventsubscription-tpayload-action-property-mspp-pubsubevents) delegate in a background thread.
+Extends [EventSubscription(Of TPayload)](/eventsubscription-tpayload-class-mspp-pubsubevents) to invoke the [Action](/eventsubscription-tpayload-action-property-mspp-pubsubevents) delegate in a background thread.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/mspp-pubsubevents-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) 
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
 ```C#
     public class BackgroundEventSubscription<TPayload> : EventSubscription<TPayload>
 ```
+
 ```VB
     'Declaration
     Public Class BackgroundEventSubscription(Of TPayload)
