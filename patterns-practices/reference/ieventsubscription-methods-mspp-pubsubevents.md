@@ -4,10 +4,11 @@ Title: 'IEventSubscription Methods (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.IEventSubscription'
 ms:mtpsurl: 'ieventsubscription-methods-mspp-pubsubevents.md'
 ---
-
+
+
 # IEventSubscription Methods
 
-The [IEventSubscription](ieventsubscription-interface-mspp-pubsubevents) type exposes the following members.
+The [IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents) type exposes the following members.
 
 ## Methods
 
@@ -35,9 +36,9 @@ Gets the execution strategy to publish this event.
 
 ## See Also
 
-[IEventSubscription Interface](ieventsubscription-interface-mspp-pubsubevents)
+[IEventSubscription Interface](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
 
 [IEventSubscription Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription)
 
