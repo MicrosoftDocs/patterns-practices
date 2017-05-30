@@ -4,19 +4,18 @@ Title: 'UnityServiceLocatorAdapter Members (Microsoft.Practices.Prism.UnityExten
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.UnityExtensions.UnityServiceLocatorAdapter'
 ms:mtpsurl: 'unityservicelocatoradapter-members-mspp-unityextensions.md'
 ---
-
+
 # UnityServiceLocatorAdapter Members
 
 The [UnityServiceLocatorAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter) type exposes the following members.
 
 ## Constructors
 
-<span id="constructorTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -34,12 +33,11 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 
 ## Methods
 
-<span id="methodTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -94,7 +92,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="even">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td>GetAllInstances``1()()()</td>
+<td>GetAllInstances``1</td>
 <td>(Inherited from ServiceLocatorImplBase.)</td>
 </tr>
 <tr class="odd">
@@ -117,7 +115,7 @@ Serves as a hash function for a particular type.
 </tr>
 <tr class="even">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td>GetInstance``1()()()</td>
+<td>GetInstance``1</td>
 <td>(Inherited from ServiceLocatorImplBase.)</td>
 </tr>
 <tr class="odd">
@@ -158,6 +156,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[UnityServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
+[UnityServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
 
 [Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
