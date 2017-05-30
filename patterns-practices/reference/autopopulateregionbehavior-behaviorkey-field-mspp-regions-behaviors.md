@@ -9,7 +9,7 @@ ms:mtpsurl: 'autopopulateregionbehavior-behaviorkey-field-mspp-regions-behaviors
 
 The key of this behavior.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -34,8 +34,8 @@ Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ## See Also
 
-[AutoPopulateRegionBehavior Class](autopopulateregionbehavior-class-mspp-regions-behaviors.md)
+[AutoPopulateRegionBehavior Class](autopopulateregionbehavior-class-mspp-regions-behaviors)
 
-[AutoPopulateRegionBehavior Members](autopopulateregionbehavior-members-mspp-regions-behaviors.md)
+[AutoPopulateRegionBehavior Members](autopopulateregionbehavior-members-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)

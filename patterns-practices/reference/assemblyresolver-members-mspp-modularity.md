@@ -4,16 +4,12 @@ Title: 'AssemblyResolver Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.AssemblyResolver'
 ms:mtpsurl: 'assemblyresolver-members-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-AssemblyResolver Members
-========================
+
+# AssemblyResolver Members
 
 The [AssemblyResolver](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -122,10 +117,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[AssemblyResolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver)
+## See Also
+[AssemblyResolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

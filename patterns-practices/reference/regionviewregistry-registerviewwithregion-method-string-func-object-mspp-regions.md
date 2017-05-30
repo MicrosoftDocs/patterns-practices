@@ -4,11 +4,8 @@ Title: 'RegionViewRegistry.RegisterViewWithRegion Method (String, Func(Object)) 
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionViewRegistry.RegisterViewWithRegion(System.String,System.Func{System.Object})'
 ms:mtpsurl: 'regionviewregistry-registerviewwithregion-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionViewRegistry.RegisterViewWithRegion Method (String, Func&lt;(Of &lt;(Object&gt;)&gt;))
-================================================================================================
+
+# RegionViewRegistry.RegisterViewWithRegion Method (String, Func&lt;(Of &lt;(Object&gt;)&gt;))
 
 Registers a delegate that can be used to retrieve the content associated with a region name.
 
@@ -18,9 +15,7 @@ Registers a delegate that can be used to retrieve the content associated with a 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public void RegisterViewWithRegion( string regionName, Func&lt;Object&gt; getContentDelegate )Public Sub RegisterViewWithRegion ( regionName As String, getContentDelegate As Func(Of Object) )
+public void RegisterViewWithRegion( string regionName, Func&lt;Object&gt; getContentDelegate )Public Sub RegisterViewWithRegion ( regionName As String, getContentDelegate As Func(Of Object) )
 
 ### Parameters
 
@@ -36,11 +31,8 @@ Delegate used to retrieve the content associated with the regionName.
 
 [IRegionViewRegistry.RegisterViewWithRegion(String, Func&lt;(Of &lt;(Object&gt;)&gt;))](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry.registerviewwithregion(system.string%2csystem.func%7bsystem.object%7d))
 
-See Also
---------
-
-
-[RegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry)
+## See Also
+[RegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry)
 
 [RegionViewRegistry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionviewregistry)
 

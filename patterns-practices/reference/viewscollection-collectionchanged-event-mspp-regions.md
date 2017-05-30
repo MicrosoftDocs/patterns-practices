@@ -4,11 +4,8 @@ Title: 'ViewsCollection.CollectionChanged Event (Microsoft.Practices.Prism.Regio
 ms:assetid: 'E:Microsoft.Practices.Prism.Regions.ViewsCollection.CollectionChanged'
 ms:mtpsurl: 'viewscollection-collectionchanged-event-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ViewsCollection.CollectionChanged Event
-===========================================
+
+# ViewsCollection.CollectionChanged Event
 
 Occurs when the collection changes.
 
@@ -18,9 +15,7 @@ Occurs when the collection changes.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public event NotifyCollectionChangedEventHandler CollectionChangedPublic Event CollectionChanged As NotifyCollectionChangedEventHandler
+public event NotifyCollectionChangedEventHandler CollectionChangedPublic Event CollectionChanged As NotifyCollectionChangedEventHandler
 ### Value
 
 Type: [System.Collections.Specialized.NotifyCollectionChangedEventHandler](http://msdn.microsoft.com/en-us/library/ms628284)
@@ -28,11 +23,8 @@ Type: [System.Collections.Specialized.NotifyCollectionChangedEventHandler](http:
 
 [INotifyCollectionChanged.CollectionChanged](http://msdn.microsoft.com/en-us/library/ms653382)
 
-See Also
---------
-
-
-[ViewsCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection)
+## See Also
+[ViewsCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection)
 
 [ViewsCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewscollection)
 

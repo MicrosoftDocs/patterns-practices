@@ -4,14 +4,10 @@ Title: 'RegionCreationException Constructor (Microsoft.Practices.Prism.Regions.B
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.Behaviors.RegionCreationException.\#ctor'
 ms:mtpsurl: 'regioncreationexception-constructor-mspp-regions-behaviors.md'
 ---
+
+# RegionCreationException Constructor
 
-Prism Class Library
-
-RegionCreationException Constructor
-===================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -55,11 +51,8 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionCreationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception)
+## See Also
+[RegionCreationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception)
 
 [RegionCreationException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regioncreationexception)
 

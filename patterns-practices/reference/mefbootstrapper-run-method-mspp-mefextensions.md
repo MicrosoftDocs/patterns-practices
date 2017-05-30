@@ -40,8 +40,8 @@ Run the bootstrapper process.
 
 ## See Also
 
-[MefBootstrapper Class](mefbootstrapper-class-mspp-mefextensions.md)
+[MefBootstrapper Class](mefbootstrapper-class-mspp-mefextensions)
 
-[MefBootstrapper Members](mspp-mefextensions-namespace.md)
+[MefBootstrapper Members](mspp-mefextensions-namespace)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](mspp-mefextensions-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions Namespace](mspp-mefextensions-namespace)

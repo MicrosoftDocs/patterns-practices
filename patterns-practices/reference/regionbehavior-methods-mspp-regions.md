@@ -4,16 +4,12 @@ Title: 'RegionBehavior Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.RegionBehavior'
 ms:mtpsurl: 'regionbehavior-methods-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionBehavior Methods
-======================
+
+# RegionBehavior Methods
 
 The [RegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -91,10 +87,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
+## See Also
+[RegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

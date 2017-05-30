@@ -4,16 +4,12 @@ Title: 'Notification Members (Microsoft.Practices.Prism.Interactivity.Interactio
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification'
 ms:mtpsurl: 'notification-members-mspp-interactivity-interactionrequest.md'
 ---
-
-Prism Class Library
-
-Notification Members
-====================
+
+# Notification Members
 
 The [Notification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.notification) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -101,8 +96,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -132,10 +126,7 @@ Gets or sets the title to use for the notification.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[Notification Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.notification)
+## See Also
+[Notification Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.notification)
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)

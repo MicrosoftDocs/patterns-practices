@@ -4,11 +4,8 @@ Title: 'ModuleTypeLoadingException Constructor (Microsoft.Practices.Prism.Modula
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException.\#ctor'
 ms:mtpsurl: 'moduletypeloadingexception-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleTypeLoadingException Constructor
-======================================
+
+# ModuleTypeLoadingException Constructor
 
 Initializes a new instance.
 
@@ -18,15 +15,10 @@ Initializes a new instance.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public ModuleTypeLoadingException()Public Sub New
 
-
-public ModuleTypeLoadingException()Public Sub New
-
-See Also
---------
-
-
-[ModuleTypeLoadingException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception)
+## See Also
+[ModuleTypeLoadingException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception)
 
 [ModuleTypeLoadingException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduletypeloadingexception)
 

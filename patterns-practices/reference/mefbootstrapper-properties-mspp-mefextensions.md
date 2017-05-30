@@ -4,16 +4,12 @@ Title: 'MefBootstrapper Properties (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper'
 ms:mtpsurl: 'mefbootstrapper-properties-mspp-mefextensions.md'
 ---
-
-Prism Class Library
-
-MefBootstrapper Properties
-==========================
+
+# MefBootstrapper Properties
 
 The [MefBootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -67,10 +63,7 @@ Gets the shell user interface
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper)
+## See Also
+[MefBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper)
 
 [Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)

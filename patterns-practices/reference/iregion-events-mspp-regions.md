@@ -4,16 +4,12 @@ Title: 'IRegion Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.IRegion'
 ms:mtpsurl: 'iregion-events-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegion Events
-==============
+
+# IRegion Events
 
 The [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -37,10 +33,7 @@ Occurs when a property value changes.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
+## See Also
+[IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -4,11 +4,8 @@ Title: 'DuplicateModuleException Constructor (String) (Microsoft.Practices.Prism
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.DuplicateModuleException.\#ctor(System.String)'
 ms:mtpsurl: 'duplicatemoduleexception-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-DuplicateModuleException Constructor (String)
-=============================================
+
+# DuplicateModuleException Constructor (String)
 
 Initializes a new instance of the [DuplicateModuleException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception) class.
 
@@ -18,9 +15,7 @@ Initializes a new instance of the [DuplicateModuleException](https://msdn.micros
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public DuplicateModuleException( string message )Public Sub New ( message As String )
+public DuplicateModuleException( string message )Public Sub New ( message As String )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ message
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The exception message.
 
-See Also
---------
-
-
-[DuplicateModuleException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception)
+## See Also
+[DuplicateModuleException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception)
 
 [DuplicateModuleException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.duplicatemoduleexception)
 

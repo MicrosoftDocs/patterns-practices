@@ -4,12 +4,10 @@ Title: 'ModuleInitializer Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleInitializer'
 ms:mtpsurl: 'moduleinitializer-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleInitializer Methods
 
-The [ModuleInitializer](moduleinitializer-class-mspp-modularity.md) type exposes the following members.
+The [ModuleInitializer](moduleinitializer-class-mspp-modularity) type exposes the following members.
 
 ## Methods
  
@@ -103,8 +101,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
+[ModuleInitializer Class](moduleinitializer-class-mspp-modularity)
 
-
-[ModuleInitializer Class](moduleinitializer-class-mspp-modularity.md)
-
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

@@ -4,14 +4,12 @@ Title: 'ViewRegistrationException Constructor (String, Exception) (Microsoft.Pra
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewRegistrationException.\#ctor(System.String,System.Exception)'
 ms:mtpsurl: 'viewregistrationexception-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # ViewRegistrationException Constructor (String, Exception)
 
-Initializes a new instance of the [ViewRegistrationException](viewregistrationexception-class-mspp-regions.md) class.
+Initializes a new instance of the [ViewRegistrationException](viewregistrationexception-class-mspp-regions) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -33,9 +31,7 @@ Public Sub New (
 	inner As Exception
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *message*  
 
@@ -49,10 +45,10 @@ Public Sub New (
 
 ## See Also
 
-[ViewRegistrationException Class](viewregistrationexception-class-mspp-regions.md)
+[ViewRegistrationException Class](viewregistrationexception-class-mspp-regions)
 
-[ViewRegistrationException Members](viewregistrationexception-members-mspp-regions.md)
+[ViewRegistrationException Members](viewregistrationexception-members-mspp-regions)
 
 ViewRegistrationException Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

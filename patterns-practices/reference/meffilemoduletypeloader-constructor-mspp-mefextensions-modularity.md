@@ -9,7 +9,7 @@ ms:mtpsurl: 'meffilemoduletypeloader-constructor-mspp-mefextensions-modularity.m
 
 Initializes a new instance of the MefFileModuleTypeLoader class. This instance is used to load requested module types.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -28,8 +28,8 @@ Public Sub New
 
 ## See Also
 
-[MefFileModuleTypeLoader Class](meffilemoduletypeloader-class-mspp-mefextensions-modularity.md)
+[MefFileModuleTypeLoader Class](meffilemoduletypeloader-class-mspp-mefextensions-modularity)
 
-[MefFileModuleTypeLoader Members](meffilemoduletypeloader-members-mspp-mefextensions-modularity.md)
+[MefFileModuleTypeLoader Members](meffilemoduletypeloader-members-mspp-mefextensions-modularity)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace)

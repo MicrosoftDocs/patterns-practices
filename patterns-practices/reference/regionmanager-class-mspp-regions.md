@@ -4,11 +4,8 @@ Title: 'RegionManager Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionManager'
 ms:mtpsurl: 'regionmanager-class-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionManager Class
-===================
+
+# RegionManager Class
 
 This class is responsible for maintaining a collection of regions and attaching regions to controls.
 
@@ -18,26 +15,19 @@ This class is responsible for maintaining a collection of regions and attaching 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public class RegionManager : IRegionManagerPublic Class RegionManager Implements IRegionManager
 
-
-public class RegionManager : IRegionManagerPublic Class RegionManager Implements IRegionManager
-
-Remarks
--------
+## Remarks
 
  This class supplies the attached properties that can be used for simple region creation from XAML.
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Regions.RegionManager
     [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager)
 
-See Also
---------
-
-
-[RegionManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionmanager)
+## See Also
+[RegionManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionmanager)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

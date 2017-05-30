@@ -4,11 +4,8 @@ Title: 'NavigationResult.Context Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.NavigationResult.Context'
 ms:mtpsurl: 'navigationresult-context-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-NavigationResult.Context Property
-=====================================
+
+# NavigationResult.Context Property
 
 Gets the navigation context.
 
@@ -18,19 +15,14 @@ Gets the navigation context.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public NavigationContext Context { get; }Public ReadOnly Property Context As NavigationContext Get
+public NavigationContext Context { get; }Public ReadOnly Property Context As NavigationContext Get
 ### Property Value
 
 Type: [NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 The navigation context.
 
-See Also
---------
-
-
-[NavigationResult Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult)
+## See Also
+[NavigationResult Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult)
 
 [NavigationResult Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationresult)
 

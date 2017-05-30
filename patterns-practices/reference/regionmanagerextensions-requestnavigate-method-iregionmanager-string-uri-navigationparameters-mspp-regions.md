@@ -4,11 +4,8 @@ Title: 'RegionManagerExtensions.RequestNavigate Method (IRegionManager, String, 
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManagerExtensions.RequestNavigate(Microsoft.Practices.Prism.Regions.IRegionManager,System.String,System.Uri,Microsoft.Practices.Prism.Regions.NavigationParameters)'
 ms:mtpsurl: 'regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-action-navigationresult-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionManagerExtensions.RequestNavigate Method (IRegionManager, String, Uri, NavigationParameters)
-======================================================================================================
+
+# RegionManagerExtensions.RequestNavigate Method (IRegionManager, String, Uri, NavigationParameters)
 
 This method allows an IRegionManager to locate a specified region and navigate in it to the specified target Uri, passing an instance of NavigationParameters, which holds a collection of object parameters.
 
@@ -18,9 +15,7 @@ This method allows an IRegionManager to locate a specified region and navigate i
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public static void RequestNavigate( this IRegionManager regionManager, string regionName, Uri target, NavigationParameters navigationParameters )&lt;ExtensionAttribute&gt; Public Shared Sub RequestNavigate ( regionManager As IRegionManager, regionName As String, target As Uri, navigationParameters As NavigationParameters )
+public static void RequestNavigate( this IRegionManager regionManager, string regionName, Uri target, NavigationParameters navigationParameters )&lt;ExtensionAttribute&gt; Public Shared Sub RequestNavigate ( regionManager As IRegionManager, regionName As String, target As Uri, navigationParameters As NavigationParameters )
 
 ### Parameters
 
@@ -44,11 +39,8 @@ An instance of NavigationParameters, which holds a collection of object paramete
 
 In Visual Basic and C\#, you can call this method as an instance method on any object of type [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 
-See Also
---------
-
-
-[RegionManagerExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions)
+## See Also
+[RegionManagerExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions)
 
 [RegionManagerExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionmanagerextensions)
 

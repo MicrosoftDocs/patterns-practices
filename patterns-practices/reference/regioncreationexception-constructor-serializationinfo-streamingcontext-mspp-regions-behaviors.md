@@ -7,9 +7,9 @@ ms:mtpsurl: 'regioncreationexception-constructor-mspp-regions-behaviors.md'
 
 # RegionCreationException Constructor (SerializationInfo, StreamingContext)
 
-Initializes a new instance of the [RegionCreationException](regioncreationexception-class-mspp-regions-behaviors.md) class with serialized data.
+Initializes a new instance of the [RegionCreationException](regioncreationexception-class-mspp-regions-behaviors) class with serialized data.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -31,9 +31,7 @@ Protected Sub New (
 	context As StreamingContext
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *info*
 
@@ -47,10 +45,10 @@ Protected Sub New (
 
 ## See Also
 
-[RegionCreationException Class](regioncreationexception-class-mspp-regions-behaviors.md)
+[RegionCreationException Class](regioncreationexception-class-mspp-regions-behaviors)
 
-[RegionCreationException Members](regioncreationexception-members-mspp-regions-behaviors.md)
+[RegionCreationException Members](regioncreationexception-members-mspp-regions-behaviors)
 
 RegionCreationException Overload
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)

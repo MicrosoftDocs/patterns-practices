@@ -4,16 +4,12 @@ Title: 'Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors'
 ms:mtpsurl: 'mspp-mefextensions-regions-behaviors-namespace.md'
 ---
-
-Prism Class Library
-
-Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace
-===================================================================
+
+# Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace
 
  
 
-Classes
--------
+## Classes
 
 <span id="classToggle"></span>
 <table>

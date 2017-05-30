@@ -4,14 +4,10 @@ Title: 'ModuleCatalog.AddModule Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddModule'
 ms:mtpsurl: 'addmodule-mthd-str-str-initializationmode-str.md'
 ---
+
+# ModuleCatalog.AddModule Method
 
-Prism Class Library
-
-ModuleCatalog.AddModule Method
-==================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -69,11 +65,8 @@ Adds a groupless <a href="https://msdn.microsoft.com/library/microsoft.practices
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
+## See Also
+[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
 

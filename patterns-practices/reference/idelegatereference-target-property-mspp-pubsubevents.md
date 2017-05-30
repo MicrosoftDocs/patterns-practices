@@ -4,11 +4,8 @@ Title: 'IDelegateReference.Target Property (Microsoft.Practices.Prism.PubSubEven
 ms:assetid: 'P:Microsoft.Practices.Prism.PubSubEvents.IDelegateReference.Target'
 ms:mtpsurl: 'idelegatereference-target-property-mspp-pubsubevents.md'
 ---
-
-Prism Class Library
-
-IDelegateReference.Target Property
-======================================
+
+# IDelegateReference.Target Property
 
 Gets the referenced [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) object.
 
@@ -16,19 +13,14 @@ Gets the referenced [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
-
-Delegate Target { get; }ReadOnly Property Target As Delegate Get
+Delegate Target { get; }ReadOnly Property Target As Delegate Get
 ### Property Value
 
 Type: [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)
 A [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) instance if the target is valid; otherwise nullNothingnullptra null reference (Nothing in Visual Basic).
 
-See Also
---------
-
-
-[IDelegateReference Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.idelegatereference)
+## See Also
+[IDelegateReference Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.idelegatereference)
 
 [IDelegateReference Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.idelegatereference)
 

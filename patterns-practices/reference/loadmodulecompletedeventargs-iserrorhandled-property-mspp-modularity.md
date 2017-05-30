@@ -4,11 +4,8 @@ Title: 'LoadModuleCompletedEventArgs.IsErrorHandled Property (Microsoft.Practice
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.LoadModuleCompletedEventArgs.IsErrorHandled'
 ms:mtpsurl: 'loadmodulecompletedeventargs-iserrorhandled-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-LoadModuleCompletedEventArgs.IsErrorHandled Property
-========================================================
+
+# LoadModuleCompletedEventArgs.IsErrorHandled Property
 
 Gets or sets a value indicating whether the error has been handled by the event subscriber.
 
@@ -18,24 +15,18 @@ Gets or sets a value indicating whether the error has been handled by the event 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public bool IsErrorHandled { get; set; }Public Property IsErrorHandled As Boolean Get Set
+public bool IsErrorHandled { get; set; }Public Property IsErrorHandled As Boolean Get Set
 ### Property Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 trueif the error is handled; otherwise, false.
 
-Remarks
--------
+## Remarks
 
  If there is an error on this event and no event subscriber sets this to true, an exception will be thrown by the event publisher.
 
-See Also
---------
-
-
-[LoadModuleCompletedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs)
+## See Also
+[LoadModuleCompletedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs)
 
 [LoadModuleCompletedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.loadmodulecompletedeventargs)
 

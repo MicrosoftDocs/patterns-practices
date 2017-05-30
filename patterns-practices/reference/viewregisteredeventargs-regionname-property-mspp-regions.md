@@ -9,7 +9,7 @@ ms:mtpsurl: 'viewregisteredeventargs-regionname-property-mspp-regions.md'
 
 Gets the region name to which the content was registered.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,8 +32,8 @@ Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ## See Also
 
-[ViewRegisteredEventArgs Class](viewregisteredeventargs-class-mspp-regions.md)
+[ViewRegisteredEventArgs Class](viewregisteredeventargs-class-mspp-regions)
 
-[ViewRegisteredEventArgs Members](viewregisteredeventargs-members-mspp-regions.md)
+[ViewRegisteredEventArgs Members](viewregisteredeventargs-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

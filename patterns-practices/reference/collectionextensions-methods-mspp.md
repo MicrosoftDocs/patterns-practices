@@ -4,16 +4,12 @@ Title: 'CollectionExtensions Methods (Microsoft.Practices.Prism)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.CollectionExtensions'
 ms:mtpsurl: 'collectionextensions-methods-mspp.md'
 ---
-
-Prism Class Library
-
-CollectionExtensions Methods
-============================
+
+# CollectionExtensions Methods
 
 The [CollectionExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.collectionextensions) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -36,10 +32,7 @@ Add a range of items to a collection.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[CollectionExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.collectionextensions)
+## See Also
+[CollectionExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.collectionextensions)
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

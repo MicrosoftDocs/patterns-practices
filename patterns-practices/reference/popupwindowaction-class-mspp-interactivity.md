@@ -12,7 +12,7 @@ Shows a popup window in response to an [Microsoft.Practices.Prism.Interactivity.
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
-=======
+
 Shows a popup window in response to an [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest) being raised.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
@@ -70,6 +70,6 @@ Public Class PopupWindowAction
 
 ## See Also
 
-[PopupWindowAction Members](popupwindowaction-members-mspp-interactivity.md)
+[PopupWindowAction Members](popupwindowaction-members-mspp-interactivity)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)

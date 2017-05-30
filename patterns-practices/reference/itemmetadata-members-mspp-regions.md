@@ -4,16 +4,12 @@ Title: 'ItemMetadata Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.ItemMetadata'
 ms:mtpsurl: 'itemmetadata-members-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ItemMetadata Members
-====================
+
+# ItemMetadata Members
 
 The [ItemMetadata](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -220,8 +215,7 @@ Enforces that the calling thread has access to this <a href="http://msdn.microso
 </tbody>
 </table>
 
-Fields
-------
+## Fields
 
 <span id="fieldTableToggle"></span>
 <table>
@@ -251,8 +245,7 @@ The name of the wrapped item.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -313,8 +306,7 @@ Gets or sets a name for the wrapped item.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -337,10 +329,7 @@ Occurs when metadata on the item changes.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ItemMetadata Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)
+## See Also
+[ItemMetadata Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

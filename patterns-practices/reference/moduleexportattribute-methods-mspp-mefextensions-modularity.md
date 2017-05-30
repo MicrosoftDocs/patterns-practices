@@ -4,16 +4,12 @@ Title: 'ModuleExportAttribute Methods (Microsoft.Practices.Prism.MefExtensions.M
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAttribute'
 ms:mtpsurl: 'moduleexportattribute-methods-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleExportAttribute Methods
-=============================
+
+# ModuleExportAttribute Methods
 
 The [ModuleExportAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -93,10 +89,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleExportAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute)
+## See Also
+[ModuleExportAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute)
 
 [Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)

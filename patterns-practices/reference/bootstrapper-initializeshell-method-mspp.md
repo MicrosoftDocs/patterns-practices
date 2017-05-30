@@ -4,11 +4,8 @@ Title: 'Bootstrapper.InitializeShell Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.InitializeShell'
 ms:mtpsurl: 'bootstrapper-initializeshell-method-mspp.md'
 ---
-
-Prism Class Library
-
-Bootstrapper.InitializeShell Method
-=======================================
+
+# Bootstrapper.InitializeShell Method
 
 Initializes the shell.
 
@@ -18,15 +15,10 @@ Initializes the shell.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+protected virtual void InitializeShell()Protected Overridable Sub InitializeShell
 
-
-protected virtual void InitializeShell()Protected Overridable Sub InitializeShell
-
-See Also
---------
-
-
-[Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
+## See Also
+[Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
 
 [Bootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.bootstrapper)
 

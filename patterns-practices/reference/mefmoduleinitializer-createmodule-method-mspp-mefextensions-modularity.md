@@ -4,14 +4,10 @@ Title: 'MefModuleInitializer.CreateModule Method (Microsoft.Practices.Prism.MefE
 ms:assetid: 'Overload:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleInitializer.CreateModule'
 ms:mtpsurl: 'mefmoduleinitializer-createmodule-method-moduleinfo-mspp-mefextensions-modularity.md'
 ---
+
+# MefModuleInitializer.CreateModule Method
 
-Prism Class Library
-
-MefModuleInitializer.CreateModule Method
-============================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -43,11 +39,8 @@ Uses the container to resolve a new <a href="https://msdn.microsoft.com/library/
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefModuleInitializer Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer)
+## See Also
+[MefModuleInitializer Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer)
 
 [MefModuleInitializer Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer)
 

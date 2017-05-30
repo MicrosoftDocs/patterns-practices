@@ -1,56 +1,48 @@
-# RegionNavigationService.RequestNavigate Method (Uri, Action&lt;NavigationResult&gt;, NavigationParameters)
+---
+TOCTitle: 'RequestNavigate Method (Uri, Action(NavigationResult), NavigationParameters)'
+Title: 'RegionNavigationService.RequestNavigate Method (Uri, Action(NavigationResult), NavigationParameters) (Microsoft.Practices.Prism.Regions)'
+ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationService.RequestNavigate(System.Uri,System.Action{Microsoft.Practices.Prism.Regions.NavigationResult},Microsoft.Practices.Prism.Regions.NavigationParameters)'
+ms:mtpsurl: 'regionnavigationservice-requestnavigate-method-mspp-regions.md'
+---
+
+
+# RegionNavigationService.RequestNavigate Method (Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)
 
 Initiates navigation to the specified target.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Version:** 5.0.0.0 (5.0.0.0)
+
 ## Syntax
-```C#
-public void RequestNavigate(
-	Uri target,
-	Action<NavigationResult> navigationCallback,
-	NavigationParameters navigationParameters
-)
-```
 
-```VB
-'Declaration
-Public Sub RequestNavigate ( 
-	target As Uri,
-	navigationCallback As Action(Of NavigationResult),
-	navigationParameters As NavigationParameters
-)
-```
+public void RequestNavigate( Uri target, Action&lt;NavigationResult&gt; navigationCallback, NavigationParameters navigationParameters )Public Sub RequestNavigate ( target As Uri, navigationCallback As Action(Of NavigationResult), navigationParameters As NavigationParameters )
 
 ### Parameters
 
-*target*
-
-Type: [System.Uri](http://msdn2.microsoft.com/en-us/library/txt7706a)
-
+target  
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 The target.
 
-*navigationCallback* 
-
-Type: [System.Action](http://msdn2.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationresult(v=pandp.50))&gt;
-
+navigationCallback  
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([NavigationResult](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult)&gt;)&gt;)
 A callback to execute when the navigation request is completed.
 
-*navigationParameters*
-
-Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters(v=pandp.50))
-
+navigationParameters  
+Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
 The navigation parameters specific to the navigation request.
 
 ### Implements
-[INavigateAsync.RequestNavigate(Uri, Action&lt;NavigationResult&gt;, NavigationParameters)](https://msdn.microsoft.com/en-us/library/dn736274(v=pandp.50))
+
+[INavigateAsync.RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d%2cmicrosoft.practices.prism.regions.navigationparameters))
 
 ## See Also
-[RegionNavigationService Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice(v=pandp.50))
 
-[RegionNavigationService Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice_members(v=pandp.50))
+[RegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice)
 
-[RequestNavigate Overload](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationservice.requestnavigate(v=pandp.50))
+[RegionNavigationService Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationservice)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[RequestNavigate Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.regions.regionnavigationservice.requestnavigate)
+
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

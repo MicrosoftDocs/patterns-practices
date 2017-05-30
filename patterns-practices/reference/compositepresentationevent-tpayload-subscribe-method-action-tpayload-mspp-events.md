@@ -4,11 +4,8 @@ Title: 'CompositePresentationEvent(TPayload).Subscribe Method (Action(TPayload))
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Subscribe(System.Action{\`0})'
 ms:mtpsurl: 'compositepresentationevent-tpayload-subscribe-method-action-tpayload-mspp-events.md'
 ---
-
-Prism Class Library
-
-CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Subscribe Method (Action&lt;(Of &lt;(TPayload&gt;)&gt;))
-======================================================================================================================
+
+# CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Subscribe Method (Action&lt;(Of &lt;(TPayload&gt;)&gt;))
 
 Subscribes a delegate to an event that will be published on the PublisherThread. [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the target of the supplied action delegate.
 
@@ -18,9 +15,7 @@ Subscribes a delegate to an event that will be published on the PublisherThread.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public SubscriptionToken Subscribe( Action&lt;TPayload&gt; action )Public Function Subscribe ( action As Action(Of TPayload) ) As SubscriptionToken
+public SubscriptionToken Subscribe( Action&lt;TPayload&gt; action )Public Function Subscribe ( action As Action(Of TPayload) ) As SubscriptionToken
 
 ### Parameters
 
@@ -33,16 +28,12 @@ The delegate that gets executed when the event is published.
 Type: SubscriptionToken
 A SubscriptionToken that uniquely identifies the added subscription.
 
-Remarks
--------
+## Remarks
 
  The CompositePresentationEvent collection is thread-safe.
 
-See Also
---------
-
-
-[CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)
+## See Also
+[CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)
 
 [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.events.compositepresentationevent%601)
 

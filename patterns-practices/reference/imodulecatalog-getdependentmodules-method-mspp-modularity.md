@@ -4,11 +4,8 @@ Title: 'IModuleCatalog.GetDependentModules Method (Microsoft.Practices.Prism.Mod
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.IModuleCatalog.GetDependentModules(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'imodulecatalog-getdependentmodules-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-IModuleCatalog.GetDependentModules Method
-=============================================
+
+# IModuleCatalog.GetDependentModules Method
 
 Return the list of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)s that moduleInfo depends on.
 
@@ -18,9 +15,7 @@ Return the list of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.pra
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-IEnumerable&lt;ModuleInfo&gt; GetDependentModules( ModuleInfo moduleInfo )Function GetDependentModules ( moduleInfo As ModuleInfo ) As IEnumerable(Of ModuleInfo)
+IEnumerable&lt;ModuleInfo&gt; GetDependentModules( ModuleInfo moduleInfo )Function GetDependentModules ( moduleInfo As ModuleInfo ) As IEnumerable(Of ModuleInfo)
 
 ### Parameters
 
@@ -33,11 +28,8 @@ The [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.mo
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)&gt;)&gt;)
 An enumeration of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) that moduleInfo depends on.
 
-See Also
---------
-
-
-[IModuleCatalog Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog)
+## See Also
+[IModuleCatalog Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog)
 
 [IModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.imodulecatalog)
 

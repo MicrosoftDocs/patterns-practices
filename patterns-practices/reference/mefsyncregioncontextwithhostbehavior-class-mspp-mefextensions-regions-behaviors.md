@@ -4,11 +4,8 @@ Title: 'MefSyncRegionContextWithHostBehavior Class (Microsoft.Practices.Prism.Me
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSyncRegionContextWithHostBehavior'
 ms:mtpsurl: 'mefsyncregioncontextwithhostbehavior-class-mspp-mefextensions-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-MefSyncRegionContextWithHostBehavior Class
-==========================================
+
+# MefSyncRegionContextWithHostBehavior Class
 
 Exports the SyncRegionContextWithHostBehavior using the Managed Extensibility Framework (MEF).
 
@@ -18,27 +15,20 @@ Exports the SyncRegionContextWithHostBehavior using the Managed Extensibility Fr
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public class MefSyncRegionContextWithHostBehavior : SyncRegionContextWithHostBehaviorPublic Class MefSyncRegionContextWithHostBehavior Inherits SyncRegionContextWithHostBehavior
 
-
-public class MefSyncRegionContextWithHostBehavior : SyncRegionContextWithHostBehaviorPublic Class MefSyncRegionContextWithHostBehavior Inherits SyncRegionContextWithHostBehavior
-
-Remarks
--------
+## Remarks
 
  This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used.
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Regions.RegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
     [Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior)
       Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSyncRegionContextWithHostBehavior
 
-See Also
---------
-
-
-[MefSyncRegionContextWithHostBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.behaviors.mefsyncregioncontextwithhostbehavior)
+## See Also
+[MefSyncRegionContextWithHostBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.behaviors.mefsyncregioncontextwithhostbehavior)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)

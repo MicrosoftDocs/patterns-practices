@@ -4,12 +4,10 @@ Title: 'ConfigurationModuleCatalog Methods (Microsoft.Practices.Prism.Modularity
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ConfigurationModuleCatalog'
 ms:mtpsurl: 'configurationmodulecatalog-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ConfigurationModuleCatalog Methods
 
-The [ConfigurationModuleCatalog](configurationmodulecatalog-class-mspp-modularity.md) type exposes the following members.
+The [ConfigurationModuleCatalog](configurationmodulecatalog-class-mspp-modularity) type exposes the following members.
 
 ## Methods
  
@@ -235,8 +233,6 @@ Makes sure all modules have an Unique name.
 </table>
 
 ## See Also
+[ConfigurationModuleCatalog Class](configurationmodulecatalog-class-mspp-modularity)
 
-
-[ConfigurationModuleCatalog Class](configurationmodulecatalog-class-mspp-modularity.md)
-
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

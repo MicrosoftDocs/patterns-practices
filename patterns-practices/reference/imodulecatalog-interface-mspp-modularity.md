@@ -4,11 +4,8 @@ Title: 'IModuleCatalog Interface (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.IModuleCatalog'
 ms:mtpsurl: 'imodulecatalog-interface-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-IModuleCatalog Interface
-========================
+
+# IModuleCatalog Interface
 
 This is the expected catalog definition for the ModuleManager. The ModuleCatalog holds information about the modules that can be used by the application. Each module is described in a ModuleInfo class, that records the name, type and location of the module.
 
@@ -18,14 +15,9 @@ This is the expected catalog definition for the ModuleManager. The ModuleCatalog
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public interface IModuleCatalogPublic Interface IModuleCatalog
 
-
-public interface IModuleCatalogPublic Interface IModuleCatalog
-
-See Also
---------
-
-
-[IModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.imodulecatalog)
+## See Also
+[IModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.imodulecatalog)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

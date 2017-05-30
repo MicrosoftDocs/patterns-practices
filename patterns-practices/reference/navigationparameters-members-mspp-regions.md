@@ -5,17 +5,19 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.NavigationParameters
 ms:mtpsurl: 'navigationparameters-members-mspp-regions.md'
 ---
 
+
 # NavigationParameters Members
 
-The [NavigationParameters](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters(v=pandp.50)) type exposes the following members.
+The [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters) type exposes the following members.
 
 ## Constructors
 
+<span id="constructorTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -23,16 +25,16 @@ The [NavigationParameters](https://msdn.microsoft.com/en-us/library/microsoft.pr
 <tbody>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td>NavigationParameters()</td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.">NavigationParameters()()()</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters(v=pandp.50)">NavigationParameters</a> class.
+Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters">NavigationParameters</a> class.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td>NavigationParameters(String)</td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.">NavigationParameters(String)</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters(v=pandp.50)">NavigationParameters</a> class with a query string.
+Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters">NavigationParameters</a> class with a query string.
 </div></td>
 </tr>
 </tbody>
@@ -40,10 +42,12 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/en-us/libr
 
 ## Methods
 
+<span id="methodTableToggle"></span>
 <table>
+
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -51,7 +55,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/en-us/libr
 <tbody>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters.add(v=pandp.50)">Add</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.add(system.string%2csystem.object)">Add</a></td>
 <td><div class="summary">
 Adds the specified key and value.
 </div></td>
@@ -74,7 +78,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="even">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters.getenumerator(v=pandp.50)">GetEnumerator</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.getenumerator">GetEnumerator</a></td>
 <td><div class="summary">
 Gets the enumerator.
 </div></td>
@@ -105,7 +109,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters.tostring(v=pandp.50)">ToString</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.tostring">ToString</a></td>
 <td><div class="summary">
 Converts the list of key value pairs to a query string.
 </div>
@@ -116,11 +120,12 @@ Converts the list of key value pairs to a query string.
 
 ## Properties
 
+<span id="propertyTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -128,7 +133,7 @@ Converts the list of key value pairs to a query string.
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741422.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters.item(v=pandp.50)">Item</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.item(system.string)">Item</a></td>
 <td><div class="summary">
 Gets the <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> with the specified key.
 </div></td>
@@ -138,6 +143,6 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> w
 
 ## See Also
 
-[NavigationParameters Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters(v=pandp.50))
+[NavigationParameters Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

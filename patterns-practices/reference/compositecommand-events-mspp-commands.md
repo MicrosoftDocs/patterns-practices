@@ -4,16 +4,12 @@ Title: 'CompositeCommand Events (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Commands.CompositeCommand'
 ms:mtpsurl: 'compositecommand-events-mspp-commands.md'
 ---
-
-Prism Class Library
-
-CompositeCommand Events
-=======================
+
+# CompositeCommand Events
 
 The [CompositeCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -36,10 +32,7 @@ Occurs when any of the registered commands raise <a href="http://msdn.microsoft.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
+## See Also
+[CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)

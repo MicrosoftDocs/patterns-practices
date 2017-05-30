@@ -4,16 +4,12 @@ Title: 'MefRegionViewRegistry Methods (Microsoft.Practices.Prism.MefExtensions.R
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionViewRegistry'
 ms:mtpsurl: 'mefregionviewregistry-methods-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
-MefRegionViewRegistry Methods
-=============================
+
+# MefRegionViewRegistry Methods
 
 The [MefRegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionviewregistry) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -109,10 +105,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefRegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionviewregistry)
+## See Also
+[MefRegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionviewregistry)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)

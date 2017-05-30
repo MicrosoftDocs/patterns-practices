@@ -4,16 +4,12 @@ Title: 'SelectorRegionAdapter Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.SelectorRegionAdapter'
 ms:mtpsurl: 'selectorregionadapter-members-mspp-regions.md'
 ---
-
-Prism Class Library
-
-SelectorRegionAdapter Members
-=============================
+
+# SelectorRegionAdapter Members
 
 The [SelectorRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.selectorregionadapter) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -141,8 +136,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -166,10 +160,7 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 </tbody>
 </table>
 
-See Also
---------
-
-
-[SelectorRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.selectorregionadapter)
+## See Also
+[SelectorRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.selectorregionadapter)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

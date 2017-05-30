@@ -4,14 +4,12 @@ Title: 'MefRegionActiveAwareBehavior Class (Microsoft.Practices.Prism.MefExtensi
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionActiveAwareBehavior'
 ms:mtpsurl: 'mefregionactiveawarebehavior-class-mspp-mefextensions-regions-behaviors.md'
 ---
-
-Prism Class Library
-
+
 # MefRegionActiveAwareBehavior Class
 
 Exports the RegionActiveAwareBehavior using the Managed Extensibility Framework (MEF).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](mspp-mefextensions-regions-behaviors-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](mspp-mefextensions-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -36,11 +34,11 @@ This allows the MefBootstrapper to provide this class as a default implementatio
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-  [Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior](regionactiveawarebehavior-class-mspp-regions-behaviors.md)
+  [Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior](regionactiveawarebehavior-class-mspp-regions-behaviors)
     Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionActiveAwareBehavior
 
 ## See Also
 
-[MefRegionActiveAwareBehavior Members](mefregionactiveawarebehavior-members-mspp-mefextensions-regions-behaviors.md)
+[MefRegionActiveAwareBehavior Members](mefregionactiveawarebehavior-members-mspp-mefextensions-regions-behaviors)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace)

@@ -4,11 +4,8 @@ Title: 'MefServiceLocatorAdapter.DoGetAllInstances Method (Microsoft.Practices.P
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefServiceLocatorAdapter.DoGetAllInstances(System.Type)'
 ms:mtpsurl: 'mefservicelocatoradapter-dogetallinstances-method-mspp-mefextensions.md'
 ---
-
-Prism Class Library
-
-MefServiceLocatorAdapter.DoGetAllInstances Method
-=====================================================
+
+# MefServiceLocatorAdapter.DoGetAllInstances Method
 
 Resolves the instance of the requested service.
 
@@ -18,9 +15,7 @@ Resolves the instance of the requested service.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected override IEnumerable&lt;Object&gt; DoGetAllInstances( Type serviceType )Protected Overrides Function DoGetAllInstances ( serviceType As Type ) As IEnumerable(Of Object)
+protected override IEnumerable&lt;Object&gt; DoGetAllInstances( Type serviceType )Protected Overrides Function DoGetAllInstances ( serviceType As Type ) As IEnumerable(Of Object)
 
 ### Parameters
 
@@ -33,11 +28,8 @@ Type of instance requested.
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 The requested service instance.
 
-See Also
---------
-
-
-[MefServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter)
+## See Also
+[MefServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter)
 
 [MefServiceLocatorAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.mefservicelocatoradapter)
 

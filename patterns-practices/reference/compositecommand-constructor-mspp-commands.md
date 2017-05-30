@@ -4,14 +4,10 @@ Title: 'CompositeCommand Constructor (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Commands.CompositeCommand.\#ctor'
 ms:mtpsurl: 'compositecommand-constructor-boolean-mspp-commands.md'
 ---
+
+# CompositeCommand Constructor
 
-Prism Class Library
-
-CompositeCommand Constructor
-============================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,11 +37,8 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 </tbody>
 </table>
 
-See Also
---------
-
-
-[CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
+## See Also
+[CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
 
 [CompositeCommand Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.compositecommand)
 

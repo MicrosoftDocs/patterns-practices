@@ -4,16 +4,12 @@ Title: 'ModuleDependencyConfigurationElement Members (Microsoft.Practices.Prism.
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement'
 ms:mtpsurl: 'moduledependencyconfigurationelement-members-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDependencyConfigurationElement Members
-============================================
+
+# ModuleDependencyConfigurationElement Members
 
 The [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -43,8 +39,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -268,8 +263,7 @@ Modifies the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">Configur
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -396,10 +390,7 @@ Gets the collection of properties.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleDependencyConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement)
+## See Also
+[ModuleDependencyConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

@@ -5,10 +5,7 @@ ms:assetid: 'da755a31-b302-4bd0-8cf7-04e9307c11b1'
 ms:mtpsurl: 'prism-class-library-5-0-for-wpf.md'
 ---
 
-Prism Class Library
-
-Prism Class Library 5.0 for WPF
-===============================
+# Prism Class Library 5.0 for WPF
 
 The Prism Class Library 5.0 for WPF namespaces are:
 

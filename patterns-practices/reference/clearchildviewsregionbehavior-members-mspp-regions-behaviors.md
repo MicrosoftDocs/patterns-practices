@@ -5,17 +5,19 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.Behaviors.ClearChild
 ms:mtpsurl: 'clearchildviewsregionbehavior-members-mspp-regions-behaviors.md'
 ---
 
+
 # ClearChildViewsRegionBehavior Members
 
-The [ClearChildViewsRegionBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior(v=pandp.50)) type exposes the following members.
+The [ClearChildViewsRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior) type exposes the following members.
 
 ## Constructors
 
+<span id="constructorTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -23,9 +25,9 @@ The [ClearChildViewsRegionBehavior](https://msdn.microsoft.com/en-us/library/mic
 <tbody>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td>ClearChildViewsRegionBehavior</td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.">ClearChildViewsRegionBehavior</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior(v=pandp.50)">ClearChildViewsRegionBehavior</a> class
+Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior">ClearChildViewsRegionBehavior</a> class
 </div></td>
 </tr>
 </tbody>
@@ -33,11 +35,12 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/en-us/libr
 
 ## Methods
 
+<span id="methodTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -45,11 +48,11 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/en-us/libr
 <tbody>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior.attach(v=pandp.50)">Attach</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.attach">Attach</a></td>
 <td><div class="summary">
 Attaches the behavior to the region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior(v=pandp.50)">RegionBehavior</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="images/public-method.gif" title="Public method" /></td>
@@ -69,7 +72,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="even">
 <td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Dn741421.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.getclearchildviews(v=pandp.50)">GetClearChildViews</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.getclearchildviews(system.windows.dependencyobject)">GetClearChildViews</a></td>
 <td><div class="summary">
 Gets the ClearChildViews attached property from a DependencyObject.
 </div></td>
@@ -100,15 +103,15 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741421.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.onattach(v=pandp.50)">OnAttach</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.onattach">OnAttach</a></td>
 <td><div class="summary">
-Subscribes to the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region(v=pandp.50)">Region</a>'s PropertyChanged method to monitor its RegionManager property.
+Subscribes to the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>'s PropertyChanged method to monitor its RegionManager property.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior.onattach(v=pandp.50)">RegionBehavior.OnAttach()</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.onattach">RegionBehavior.OnAttach()()()</a>.)</td>
 </tr>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Dn741421.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.setclearchildviews(v=pandp.50)">SetClearChildViews</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.setclearchildviews(system.windows.dependencyobject%2csystem.boolean)">SetClearChildViews</a></td>
 <td><div class="summary">
 Sets the ClearChildViews attached property in a DependencyObject.
 </div></td>
@@ -126,11 +129,12 @@ Returns a string that represents the current object.
 
 ## Fields
 
+<span id="fieldTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -138,14 +142,14 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741421.pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Dn741421.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.behaviorkey(v=pandp.50)">BehaviorKey</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.behaviorkey">BehaviorKey</a></td>
 <td><div class="summary">
 The behavior key.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741421.pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Dn741421.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.clearchildviewsproperty(v=pandp.50)">ClearChildViewsProperty</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.clearchildviewsproperty">ClearChildViewsProperty</a></td>
 <td><div class="summary">
 This attached property can be defined on a view to indicate that regions defined in it must be removed from the region manager when the parent view gets removed from a region.
 </div></td>
@@ -155,11 +159,12 @@ This attached property can be defined on a view to indicate that regions defined
 
 ## Properties
 
+<span id="propertyTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -167,46 +172,32 @@ This attached property can be defined on a view to indicate that regions defined
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741421.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior.isattached(v=pandp.50)">IsAttached</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.isattached">IsAttached</a></td>
 <td><div class="summary">
 Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior(v=pandp.50)">RegionBehavior</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741421.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior.region(v=pandp.50)">Region</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.region">Region</a></td>
 <td><div class="summary">
 Behavior's attached region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior(v=pandp.50)">RegionBehavior</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## Attached Properties
 
-<table id="memberList4" class="members" responsive="true" summary="table">
-            <tbody><tr responsive="true">
-              <th class="iconColumn" scope="col">
-							&nbsp;
-						</th>
-              <th class="nameColumn" scope="col">Name</th>
-              <th class="descriptionColumn" scope="col">Description</th>
-            </tr>
-            <tr data="public;declared;notNetfw;" xmlns="http://www.w3.org/1999/xhtml">
-  <td>
-    <img src="https://msdn.microsoft.com/en-us/Dn741421.pubproperty(en-us,PandP.50).gif" />
-    </td>
-  <td>
-    <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.clearchildviews(v=pandp.50)">ClearChildViews</a>
-  </td>
-  <td>
-</td></tr>
-          </tbody></table>
-                                                                                                   
+<span id="attachedPropertyTableToggle"></span>
+|                                                                                                           | Name                                                                                                                                      | Description |
+|-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-------------|
+| ![](https://msdn.microsoft.com/en-us/Dn741421.pubproperty(en-us,PandP.50).gif "Public attached property") | [ClearChildViews](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.clearchildviews) |             |
+
 ## See Also
 
-[ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior(v=pandp.50))
+[ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

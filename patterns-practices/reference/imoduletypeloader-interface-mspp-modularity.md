@@ -4,25 +4,18 @@ Title: 'IModuleTypeLoader Interface (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.IModuleTypeLoader'
 ms:mtpsurl: 'imoduletypeloader-interface-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-IModuleTypeLoader Interface
-===========================
+
+# IModuleTypeLoader Interface
 
 Defines the interface for moduleTypeLoaders
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 public interface IModuleTypeLoader
 ```
 ```VB
@@ -30,10 +23,7 @@ public interface IModuleTypeLoader
 Public Interface IModuleTypeLoader
 ```
 
-See Also
---------
+## See Also
+[IModuleTypeLoader Members](imoduletypeloader-members-mspp-modularity)
 
-
-[IModuleTypeLoader Members](imoduletypeloader-members-mspp-modularity.md)
-
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

@@ -38,8 +38,8 @@ Uses the container to resolve a new <a href="https://msdn.microsoft.com/library/
 
 ## See Also
 
-[ModuleInitializer Class](moduleinitializer-class-mspp-modularity.md)
+[ModuleInitializer Class](moduleinitializer-class-mspp-modularity)
 
-[ModuleInitializer Members](moduleinitializer-members-mspp-modularity.md)
+[ModuleInitializer Members](moduleinitializer-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

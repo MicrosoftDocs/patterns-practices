@@ -4,14 +4,10 @@ Title: 'ModuleNotFoundException Constructor (Microsoft.Practices.Prism.Modularit
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleNotFoundException.\#ctor'
 ms:mtpsurl: 'modulenotfoundexception-constructor-mspp-modularity.md'
 ---
+
+# ModuleNotFoundException Constructor
 
-Prism Class Library
-
-ModuleNotFoundException Constructor
-===================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -69,11 +65,8 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception)
+## See Also
+[ModuleNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception)
 
 [ModuleNotFoundException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulenotfoundexception)
 

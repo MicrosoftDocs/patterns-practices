@@ -4,16 +4,12 @@ Title: 'DefaultConfirmationWindow Members (Microsoft.Practices.Prism.Interactivi
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultConfirmationWindow'
 ms:mtpsurl: 'defaultconfirmationwindow-members-mspp-interactivity-defaultpopupwindows.md'
 ---
-
-Prism Class Library
-
-DefaultConfirmationWindow Members
-=================================
+
+# DefaultConfirmationWindow Members
 
 The [DefaultConfirmationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Creates a new instance of ConfirmationChildWindow.
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -1852,8 +1847,7 @@ Enforces that the calling thread has access to this <a href="http://msdn.microso
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -3065,8 +3059,7 @@ Gets or sets a window's border style.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -4026,10 +4019,7 @@ Occurs when the element is removed from within an element tree of loaded element
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DefaultConfirmationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
+## See Also
+[DefaultConfirmationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
 
 [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)

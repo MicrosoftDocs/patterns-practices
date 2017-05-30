@@ -4,11 +4,8 @@ Title: 'AutoPopulateRegionBehavior.AddViewIntoRegion Method (Microsoft.Practices
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior.AddViewIntoRegion(System.Object)'
 ms:mtpsurl: 'autopopulateregionbehavior-addviewintoregion-method-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-AutoPopulateRegionBehavior.AddViewIntoRegion Method
-=======================================================
+
+# AutoPopulateRegionBehavior.AddViewIntoRegion Method
 
 Adds a view into the views collection of this region.
 
@@ -18,20 +15,15 @@ Adds a view into the views collection of this region.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected virtual void AddViewIntoRegion( Object viewToAdd )Protected Overridable Sub AddViewIntoRegion ( viewToAdd As Object )
+protected virtual void AddViewIntoRegion( Object viewToAdd )Protected Overridable Sub AddViewIntoRegion ( viewToAdd As Object )
 
 ### Parameters
 
 viewToAdd  
 Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-See Also
---------
-
-
-[AutoPopulateRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior)
+## See Also
+[AutoPopulateRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior)
 
 [AutoPopulateRegionBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior)
 

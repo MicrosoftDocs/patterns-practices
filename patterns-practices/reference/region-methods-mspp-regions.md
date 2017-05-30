@@ -4,16 +4,12 @@ Title: 'Region Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Region'
 ms:mtpsurl: 'region-methods-mspp-regions.md'
 ---
-
-Prism Class Library
-
-Region Methods
-==============
+
+# Region Methods
 
 The [Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -147,8 +143,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Extension Methods
------------------
+## Extension Methods
 
 <span id="extensionMethodTableToggle"></span>
 <table>
@@ -218,10 +213,7 @@ Initiates navigation to the target specified by the target.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
+## See Also
+[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

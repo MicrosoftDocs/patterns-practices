@@ -4,11 +4,8 @@ Title: 'MefRegionActiveAwareBehavior Constructor (Microsoft.Practices.Prism.MefE
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionActiveAwareBehavior.\#ctor'
 ms:mtpsurl: 'mefregionactiveawarebehavior-constructor-mspp-mefextensions-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-MefRegionActiveAwareBehavior Constructor
-========================================
+
+# MefRegionActiveAwareBehavior Constructor
 
 Initializes a new instance of the [MefRegionActiveAwareBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionactiveawarebehavior) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [MefRegionActiveAwareBehavior](https://msdn.mi
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public MefRegionActiveAwareBehavior()Public Sub New
 
-
-public MefRegionActiveAwareBehavior()Public Sub New
-
-See Also
---------
-
-
-[MefRegionActiveAwareBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionactiveawarebehavior)
+## See Also
+[MefRegionActiveAwareBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionactiveawarebehavior)
 
 [MefRegionActiveAwareBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.behaviors.mefregionactiveawarebehavior)
 

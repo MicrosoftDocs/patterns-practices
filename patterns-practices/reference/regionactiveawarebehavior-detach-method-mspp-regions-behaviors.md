@@ -4,11 +4,8 @@ Title: 'RegionActiveAwareBehavior.Detach Method (Microsoft.Practices.Prism.Regio
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior.Detach'
 ms:mtpsurl: 'regionactiveawarebehavior-detach-method-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionActiveAwareBehavior.Detach Method
-===========================================
+
+# RegionActiveAwareBehavior.Detach Method
 
 Detaches the behavior from the [INotifyCollectionChanged](http://msdn.microsoft.com/en-us/library/ms668629).
 
@@ -18,15 +15,10 @@ Detaches the behavior from the [INotifyCollectionChanged](http://msdn.microsoft.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public void Detach()Public Sub Detach
 
-
-public void Detach()Public Sub Detach
-
-See Also
---------
-
-
-[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
+## See Also
+[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
 
 [RegionActiveAwareBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
 

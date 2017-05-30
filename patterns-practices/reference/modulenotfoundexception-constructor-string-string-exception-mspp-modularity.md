@@ -4,11 +4,8 @@ Title: 'ModuleNotFoundException Constructor (String, String, Exception) (Microso
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleNotFoundException.\#ctor(System.String,System.String,System.Exception)'
 ms:mtpsurl: 'modulenotfoundexception-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleNotFoundException Constructor (String, String, Exception)
-===============================================================
+
+# ModuleNotFoundException Constructor (String, String, Exception)
 
 Initializes a new instance of the [ModuleNotFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception) class with a specified error message and a reference to the inner exception that is the cause of this exception.
 
@@ -18,9 +15,7 @@ Initializes a new instance of the [ModuleNotFoundException](https://msdn.microso
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ModuleNotFoundException( string moduleName, string message, Exception innerException )Public Sub New ( moduleName As String, message As String, innerException As Exception )
+public ModuleNotFoundException( string moduleName, string message, Exception innerException )Public Sub New ( moduleName As String, message As String, innerException As Exception )
 
 ### Parameters
 
@@ -36,11 +31,8 @@ innerException
 Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 The exception that is the cause of the current exception, or a null reference if no inner exception is specified.
 
-See Also
---------
-
-
-[ModuleNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception)
+## See Also
+[ModuleNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception)
 
 [ModuleNotFoundException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulenotfoundexception)
 

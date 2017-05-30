@@ -4,14 +4,10 @@ Title: 'RegionManagerExtensions.RequestNavigate Method (Microsoft.Practices.Pris
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.RegionManagerExtensions.RequestNavigate'
 ms:mtpsurl: 'regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-action-navigationresult-mspp-regions.md'
 ---
+
+# RegionManagerExtensions.RequestNavigate Method
 
-Prism Class Library
-
-RegionManagerExtensions.RequestNavigate Method
-==================================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -83,11 +79,8 @@ This method allows an IRegionManager to locate a specified region and navigate i
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionManagerExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions)
+## See Also
+[RegionManagerExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions)
 
 [RegionManagerExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionmanagerextensions)
 

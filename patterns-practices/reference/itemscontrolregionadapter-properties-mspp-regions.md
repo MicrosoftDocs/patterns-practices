@@ -4,16 +4,12 @@ Title: 'ItemsControlRegionAdapter Properties (Microsoft.Practices.Prism.Regions)
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.ItemsControlRegionAdapter'
 ms:mtpsurl: 'itemscontrolregionadapter-properties-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ItemsControlRegionAdapter Properties
-====================================
+
+# ItemsControlRegionAdapter Properties
 
 The [ItemsControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -37,10 +33,7 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ItemsControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter)
+## See Also
+[ItemsControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

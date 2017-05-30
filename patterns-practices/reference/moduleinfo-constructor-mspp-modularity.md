@@ -4,14 +4,10 @@ Title: 'ModuleInfo Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleInfo.\#ctor'
 ms:mtpsurl: 'moduleinfo-constructor-mspp-modularity.md'
 ---
+
+# ModuleInfo Constructor
 
-Prism Class Library
-
-ModuleInfo Constructor
-======================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -48,11 +44,8 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleInfo Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
+## See Also
+[ModuleInfo Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
 
 [ModuleInfo Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfo)
 

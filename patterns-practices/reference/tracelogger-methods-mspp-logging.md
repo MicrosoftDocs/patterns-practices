@@ -4,16 +4,12 @@ Title: 'TraceLogger Methods (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Logging.TraceLogger'
 ms:mtpsurl: 'tracelogger-methods-mspp-logging.md'
 ---
-
-Prism Class Library
-
-TraceLogger Methods
-===================
+
+# TraceLogger Methods
 
 The [TraceLogger](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.tracelogger) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -84,10 +80,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[TraceLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.tracelogger)
+## See Also
+[TraceLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.tracelogger)
 
 [Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)

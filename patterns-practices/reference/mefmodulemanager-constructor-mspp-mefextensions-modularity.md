@@ -5,15 +5,12 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManag
 ms:mtpsurl: 'mefmodulemanager-constructor-mspp-mefextensions-modularity.md'
 ---
 
-Prism Class Library
-
 # MefModuleManager Constructor
 
-Initializes a new instance of the [MefModuleManager](mefmodulemanager-class-mspp-mefextensions-modularity.md) class.
+Initializes a new instance of the [MefModuleManager](mefmodulemanager-class-mspp-mefextensions-modularity) class.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace)
 
-=======
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
@@ -38,29 +35,27 @@ Public Sub New (
 	loggerFacade As ILoggerFacade
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *moduleInitializer*
 
-    Type: [Microsoft.Practices.Prism.Modularity.IModuleInitializer](imoduleinitializer-interface-mspp-modularity.md)
+    Type: [Microsoft.Practices.Prism.Modularity.IModuleInitializer](imoduleinitializer-interface-mspp-modularity)
     Service used for initialization of modules.
 
 *moduleCatalog*
 
-    Type: [Microsoft.Practices.Prism.Modularity.IModuleCatalog](imodulecatalog-interface-mspp-modularity.md)
+    Type: [Microsoft.Practices.Prism.Modularity.IModuleCatalog](imodulecatalog-interface-mspp-modularity)
     Catalog that enumerates the modules to be loaded and initialized.
 
 *loggerFacade*
 
-    Type: [Microsoft.Practices.Prism.Logging.ILoggerFacade](iloggerfacade-interface-mspp-logging.md)
+    Type: [Microsoft.Practices.Prism.Logging.ILoggerFacade](iloggerfacade-interface-mspp-logging)
     Logger used during the load and initialization of modules.
 
 ## See Also
 
-[MefModuleManager Class](mefmodulemanager-class-mspp-mefextensions-modularity.md)
+[MefModuleManager Class](mefmodulemanager-class-mspp-mefextensions-modularity)
 
-[MefModuleManager Members](mefmodulemanager-members-mspp-mefextensions-modularity.md)
+[MefModuleManager Members](mefmodulemanager-members-mspp-mefextensions-modularity)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace)

@@ -4,16 +4,12 @@ Title: 'IRegionCollection Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionCollection'
 ms:mtpsurl: 'iregioncollection-properties-mspp-regions.md'
 ---
+
+# IRegionCollection Properties
 
-Prism Class Library
+The [IRegionCollection](iregioncollection-interface-mspp-regions) type exposes the following members.
 
-IRegionCollection Properties
-============================
-
-The [IRegionCollection](iregioncollection-interface-mspp-regions.md) type exposes the following members.
-
-Properties
-----------
+## Properties
 
 <table>
 
@@ -35,10 +31,7 @@ Gets the IRegion with the name received as index.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
+[IRegionCollection Interface](iregioncollection-interface-mspp-regions)
 
-
-[IRegionCollection Interface](iregioncollection-interface-mspp-regions.md)
-
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

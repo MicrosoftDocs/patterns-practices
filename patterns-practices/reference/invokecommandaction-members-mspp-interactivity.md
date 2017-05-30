@@ -5,17 +5,19 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InvokeCommandA
 ms:mtpsurl: 'invokecommandaction-members-mspp-interactivity.md'
 ---
 
+
 # InvokeCommandAction Members
 
-The [InvokeCommandAction](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50)) type exposes the following members.
+The [InvokeCommandAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction) type exposes the following members.
 
 ## Constructors
 
+<span id="constructorTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -23,9 +25,9 @@ The [InvokeCommandAction](https://msdn.microsoft.com/en-us/library/microsoft.pra
 <tbody>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td>InvokeCommandAction</td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.">InvokeCommandAction</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50)">InvokeCommandAction</a> class
+Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction">InvokeCommandAction</a> class
 </div></td>
 </tr>
 </tbody>
@@ -33,11 +35,12 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/en-us/libr
 
 ## Methods
 
+<span id="methodTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -276,7 +279,7 @@ Re-evaluates the effective value for the specified dependency property
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741417.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.invoke(v=pandp.50)">Invoke</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.invoke(system.object)">Invoke</a></td>
 <td><div class="summary">
 Executes the command
 </div>
@@ -284,7 +287,7 @@ Executes the command
 </tr>
 <tr class="even">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.invokeaction(v=pandp.50)">InvokeAction</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.invokeaction(system.object)">InvokeAction</a></td>
 <td><div class="summary">
 Public wrapper of the Invoke method.
 </div></td>
@@ -299,7 +302,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741417.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.onattached(v=pandp.50)">OnAttached</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.onattached">OnAttached</a></td>
 <td><div class="summary">
 This method is called after the behavior is attached. It updates the command behavior's Command and CommandParameter properties if necessary.
 </div>
@@ -315,11 +318,11 @@ Called when the current <a href="http://msdn.microsoft.com/en-us/library/ms60273
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741417.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.ondetaching(v=pandp.50)">OnDetaching</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.ondetaching">OnDetaching</a></td>
 <td><div class="summary">
 Sets the Command and CommandParameter properties to null.
 </div>
-(Overrides TriggerActionOnDetaching().)</td>
+(Overrides TriggerActionOnDetaching()()().)</td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741417.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
@@ -430,11 +433,12 @@ Verifies that the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Fre
 
 ## Fields
 
+<span id="fieldTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -442,21 +446,21 @@ Verifies that the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Fre
 <tbody>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741417.pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Dn741417.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.commandparameterproperty(v=pandp.50)">CommandParameterProperty</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.commandparameterproperty">CommandParameterProperty</a></td>
 <td><div class="summary">
 Dependency property identifying the command parameter to supply on command execution.
 </div></td>
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741417.pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Dn741417.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.commandproperty(v=pandp.50)">CommandProperty</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.commandproperty">CommandProperty</a></td>
 <td><div class="summary">
 Dependency property identifying the command to execute when invoked.
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741417.pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Dn741417.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.triggerparameterpathproperty(v=pandp.50">TriggerParameterPathProperty</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.triggerparameterpathproperty">TriggerParameterPathProperty</a></td>
 <td><div class="summary">
 Dependency property identifying the TriggerParameterPath to be parsed to identify the child property of the trigger parameter to be used as the command parameter.
 </div></td>
@@ -466,11 +470,12 @@ Dependency property identifying the TriggerParameterPath to be parsed to identif
 
 ## Properties
 
+<span id="propertyTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -496,14 +501,14 @@ Gets a value that indicates whether the object can be made unmodifiable.
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741417.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.command(v=pandp.50)">Command</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.command">Command</a></td>
 <td><div class="summary">
 Gets or sets the command to execute when invoked.
 </div></td>
 </tr>
 <tr class="odd">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741417.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.commandparameter(v=pandp.50)">CommandParameter</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.commandparameter">CommandParameter</a></td>
 <td><div class="summary">
 Gets or sets the command parameter to supply on command execution.
 </div></td>
@@ -512,7 +517,7 @@ Gets or sets the command parameter to supply on command execution.
 <td><img src="https://msdn.microsoft.com/en-us/Dn741417.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms600674">DependencyObjectType</a></td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/ms589310">DependencyObjectType</a> that wraps the CLR type of this instance. 
+Gets the <a href="http://msdn.microsoft.com/en-us/library/ms589310">DependencyObjectType</a> that wraps the CLR type of this instance. 
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
@@ -555,7 +560,7 @@ Gets a value that indicates whether this instance is currently sealed (read-only
 </tr>
 <tr class="even">
 <td><img src="https://msdn.microsoft.com/en-us/Dn741417.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction.triggerparameterpath(v=pandp.50)">TriggerParameterPath</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.triggerparameterpath">TriggerParameterPath</a></td>
 <td><div class="summary">
 Gets or sets the TriggerParameterPath value.
 </div></td>
@@ -565,11 +570,12 @@ Gets or sets the TriggerParameterPath value.
 
 ## Events
 
+<span id="eventTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -588,6 +594,6 @@ Occurs when the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freez
 
 ## See Also
 
-[InvokeCommandAction Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50))
+[InvokeCommandAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)

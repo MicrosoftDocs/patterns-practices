@@ -4,16 +4,12 @@ Title: 'RegionAdapterBase(T) Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionAdapterBase\`1'
 ms:mtpsurl: 'regionadapterbase-t-properties-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Properties
-====================================================
+
+# RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Properties
 
 The [RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -36,10 +32,7 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601)
+## See Also
+[RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

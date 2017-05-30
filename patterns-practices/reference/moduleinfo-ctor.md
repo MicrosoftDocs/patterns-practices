@@ -4,11 +4,8 @@ Title: 'ModuleInfo Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfo.\#ctor'
 ms:mtpsurl: 'moduleinfo-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInfo Constructor
-======================
+
+# ModuleInfo Constructor
 
 Initializes a new empty instance of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo).
 
@@ -18,15 +15,10 @@ Initializes a new empty instance of [ModuleInfo](https://msdn.microsoft.com/libr
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public ModuleInfo()Public Sub New
 
-
-public ModuleInfo()Public Sub New
-
-See Also
---------
-
-
-[ModuleInfo Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
+## See Also
+[ModuleInfo Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
 
 [ModuleInfo Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfo)
 

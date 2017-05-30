@@ -4,11 +4,8 @@ Title: 'ModuleCatalog.SolveDependencies Method (Microsoft.Practices.Prism.Modula
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.SolveDependencies(System.Collections.Generic.IEnumerable{Microsoft.Practices.Prism.Modularity.ModuleInfo})'
 ms:mtpsurl: 'modulecatalog-solvedependencies-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleCatalog.SolveDependencies Method
-==========================================
+
+# ModuleCatalog.SolveDependencies Method
 
 Checks for cyclic dependencies, by calling the dependencysolver.
 
@@ -18,9 +15,7 @@ Checks for cyclic dependencies, by calling the dependencysolver.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected static string[] SolveDependencies( IEnumerable&lt;ModuleInfo&gt; modules )Protected Shared Function SolveDependencies ( modules As IEnumerable(Of ModuleInfo) ) As String()
+protected static string[] SolveDependencies( IEnumerable&lt;ModuleInfo&gt; modules )Protected Shared Function SolveDependencies ( modules As IEnumerable(Of ModuleInfo) ) As String()
 
 ### Parameters
 
@@ -32,11 +27,8 @@ the.
 
 Type: array&lt;[String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)&gt;
 
-See Also
---------
-
-
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
+## See Also
+[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
 

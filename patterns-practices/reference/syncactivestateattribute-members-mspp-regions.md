@@ -5,16 +5,19 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.SyncActiveStateAttri
 ms:mtpsurl: 'syncactivestateattribute-members-mspp-regions.md'
 ---
 
+
 # SyncActiveStateAttribute Members
 
-The [SyncActiveStateAttribute](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.syncactivestateattribute(v=pandp.50)) type exposes the following members.
+The [SyncActiveStateAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute) type exposes the following members.
 
 ## Constructors
 
+<span id="constructorTableToggle"></span>
 <table>
+
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -22,9 +25,9 @@ The [SyncActiveStateAttribute](https://msdn.microsoft.com/en-us/library/microsof
 <tbody>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td>SyncActiveStateAttribute</td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute.">SyncActiveStateAttribute</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.syncactivestateattribute(v=pandp.50)">SyncActiveStateAttribute</a> class
+Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute">SyncActiveStateAttribute</a> class
 </div></td>
 </tr>
 </tbody>
@@ -32,11 +35,12 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/en-us/libr
 
 ## Methods
 
+<span id="methodTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -95,11 +99,12 @@ Returns a string that represents the current object.
 
 ## Properties
 
+<span id="propertyTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -118,6 +123,6 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 
 ## See Also
 
-[SyncActiveStateAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.syncactivestateattribute(v=pandp.50))
+[SyncActiveStateAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

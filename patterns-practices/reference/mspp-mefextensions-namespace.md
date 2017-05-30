@@ -4,16 +4,12 @@ Title: 'Microsoft.Practices.Prism.MefExtensions Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.MefExtensions'
 ms:mtpsurl: 'mspp-mefextensions-namespace.md'
 ---
-
-Prism Class Library
-
-Microsoft.Practices.Prism.MefExtensions Namespace
-=================================================
+
+# Microsoft.Practices.Prism.MefExtensions Namespace
 
  
 
-Classes
--------
+## Classes
 
 <span id="classToggle"></span>
 <table>

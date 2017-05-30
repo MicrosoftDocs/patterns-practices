@@ -4,11 +4,8 @@ Title: 'ConfigurationModuleCatalog Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ConfigurationModuleCatalog'
 ms:mtpsurl: 'configurationmodulecatalog-class-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ConfigurationModuleCatalog Class
-================================
+
+# ConfigurationModuleCatalog Class
 
 A catalog built from a configuration file.
 
@@ -18,21 +15,15 @@ A catalog built from a configuration file.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public class ConfigurationModuleCatalog : ModuleCatalogPublic Class ConfigurationModuleCatalog Inherits ModuleCatalog
 
-
-public class ConfigurationModuleCatalog : ModuleCatalogPublic Class ConfigurationModuleCatalog Inherits ModuleCatalog
-
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Modularity.ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
     Microsoft.Practices.Prism.Modularity.ConfigurationModuleCatalog
 
-See Also
---------
-
-
-[ConfigurationModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.configurationmodulecatalog)
+## See Also
+[ConfigurationModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.configurationmodulecatalog)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

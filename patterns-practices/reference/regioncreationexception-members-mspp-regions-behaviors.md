@@ -4,16 +4,12 @@ Title: 'RegionCreationException Members (Microsoft.Practices.Prism.Regions.Behav
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionCreationException'
 ms:mtpsurl: 'regioncreationexception-members-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionCreationException Members
-===============================
+
+# RegionCreationException Members
 
 The [RegionCreationException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -57,8 +53,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -138,8 +133,7 @@ Creates and returns a string representation of the current exception.
 </tbody>
 </table>
 
-Extension Methods
------------------
+## Extension Methods
 
 <span id="extensionMethodTableToggle"></span>
 <table>
@@ -163,8 +157,7 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -244,8 +237,7 @@ Gets the method that throws the current exception.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -269,10 +261,7 @@ Occurs when an exception is serialized to create an exception state object that 
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionCreationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception)
+## See Also
+[RegionCreationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

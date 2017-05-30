@@ -4,11 +4,8 @@ Title: 'ConfigurationModuleCatalog.Store Property (Microsoft.Practices.Prism.Mod
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ConfigurationModuleCatalog.Store'
 ms:mtpsurl: 'configurationmodulecatalog-store-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ConfigurationModuleCatalog.Store Property
-=============================================
+
+# ConfigurationModuleCatalog.Store Property
 
 Gets or sets the store where the configuration is kept.
 
@@ -18,18 +15,13 @@ Gets or sets the store where the configuration is kept.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public IConfigurationStore Store { get; set; }Public Property Store As IConfigurationStore Get Set
+public IConfigurationStore Store { get; set; }Public Property Store As IConfigurationStore Get Set
 ### Property Value
 
 Type: [IConfigurationStore](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iconfigurationstore)
 
-See Also
---------
-
-
-[ConfigurationModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationmodulecatalog)
+## See Also
+[ConfigurationModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationmodulecatalog)
 
 [ConfigurationModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.configurationmodulecatalog)
 

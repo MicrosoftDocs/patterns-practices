@@ -4,16 +4,12 @@ Title: 'AutoPopulateRegionBehavior Properties (Microsoft.Practices.Prism.Regions
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior'
 ms:mtpsurl: 'autopopulateregionbehavior-properties-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-AutoPopulateRegionBehavior Properties
-=====================================
+
+# AutoPopulateRegionBehavior Properties
 
 The [AutoPopulateRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -45,10 +41,7 @@ Behavior's attached region.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[AutoPopulateRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior)
+## See Also
+[AutoPopulateRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

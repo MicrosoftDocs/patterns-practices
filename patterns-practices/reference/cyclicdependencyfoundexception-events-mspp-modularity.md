@@ -7,16 +7,10 @@ ms:mtpsurl: 'cyclicdependencyfoundexception-events-mspp-modularity.md'
 
 # CyclicDependencyFoundException Events
 
-The [CyclicDependencyFoundException](cyclicdependencyfoundexception-class-mspp-modularity.md) type exposes the following members.
+The [CyclicDependencyFoundException](cyclicdependencyfoundexception-class-mspp-modularity) type exposes the following members.
+## Events
 
-
-## Events
-
-=======
 The [CyclicDependencyFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception) type exposes the following members.
-
-Events
-------
 
 <span id="eventTableToggle"></span>
 
@@ -40,16 +34,12 @@ Occurs when an exception is serialized to create an exception state object that 
 </tr>
 </tbody>
 </table>
+## See Also
+[CyclicDependencyFoundException Class](cyclicdependencyfoundexception-class-mspp-modularity)
 
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
 
 ## See Also
-[CyclicDependencyFoundException Class](cyclicdependencyfoundexception-class-mspp-modularity.md)
-
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
-=======
-See Also
---------
-
 
 [CyclicDependencyFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
 

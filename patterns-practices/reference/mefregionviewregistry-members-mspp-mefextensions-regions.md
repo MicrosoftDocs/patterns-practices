@@ -4,16 +4,12 @@ Title: 'MefRegionViewRegistry Members (Microsoft.Practices.Prism.MefExtensions.R
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionViewRegistry'
 ms:mtpsurl: 'mefregionviewregistry-members-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
-MefRegionViewRegistry Members
-=============================
+
+# MefRegionViewRegistry Members
 
 The [MefRegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionviewregistry) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -133,8 +128,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -158,10 +152,7 @@ Occurs whenever a new view is registered.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefRegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionviewregistry)
+## See Also
+[MefRegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionviewregistry)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)

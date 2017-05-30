@@ -4,16 +4,12 @@ Title: 'IConfigurationStore Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.IConfigurationStore'
 ms:mtpsurl: 'iconfigurationstore-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-IConfigurationStore Methods
-===========================
+
+# IConfigurationStore Methods
 
 The [IConfigurationStore](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iconfigurationstore) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -36,10 +32,7 @@ Gets the module configuration data.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IConfigurationStore Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iconfigurationstore)
+## See Also
+[IConfigurationStore Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iconfigurationstore)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
