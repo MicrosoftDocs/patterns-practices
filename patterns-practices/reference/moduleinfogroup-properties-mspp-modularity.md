@@ -4,16 +4,12 @@ Title: 'ModuleInfoGroup Properties (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup'
 ms:mtpsurl: 'moduleinfogroup-properties-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInfoGroup Properties
-==========================
+
+# ModuleInfoGroup Properties
 
 The [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -85,10 +81,7 @@ Gets an object that can be used to synchronize access to the <a href="http://msd
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
+## See Also
+[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

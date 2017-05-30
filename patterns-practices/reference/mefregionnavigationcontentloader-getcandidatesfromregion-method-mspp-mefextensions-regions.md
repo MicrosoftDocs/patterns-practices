@@ -1,3 +1,4 @@
+
 ---
 TOCTitle: GetCandidatesFromRegion Method
 Title: 'MefRegionNavigationContentLoader.GetCandidatesFromRegion Method (Microsoft.Practices.Prism.MefExtensions.Regions)'
@@ -5,10 +6,8 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigati
 ms:mtpsurl: 'mefregionnavigationcontentloader-getcandidatesfromregion-method-mspp-mefextensions-regions.md'
 ---
 
-Prism Class Library
 
-MefRegionNavigationContentLoader.GetCandidatesFromRegion Method
-===================================================================
+# MefRegionNavigationContentLoader.GetCandidatesFromRegion Method
 
 Returns the set of candidates that may satisfiy this navigation request.
 
@@ -18,7 +17,6 @@ Returns the set of candidates that may satisfiy this navigation request.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
 
 protected override IEnumerable&lt;Object&gt; GetCandidatesFromRegion( IRegion region, string candidateNavigationContract )Protected Overrides Function GetCandidatesFromRegion ( region As IRegion, candidateNavigationContract As String ) As IEnumerable(Of Object)
 
@@ -37,12 +35,11 @@ The candidate navigation target.
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 An enumerable of candidate objects from the [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 
-See Also
---------
-
+## See Also
 
 [MefRegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader)
 
 [MefRegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+

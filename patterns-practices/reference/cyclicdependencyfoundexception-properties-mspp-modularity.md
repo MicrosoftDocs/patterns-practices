@@ -7,7 +7,7 @@ ms:mtpsurl: 'cyclicdependencyfoundexception-properties-mspp-modularity.md'
 
 # CyclicDependencyFoundException Properties
 
-The [CyclicDependencyFoundException](cyclicdependencyfoundexception-class-mspp-modularity.md) type exposes the following members.
+The [CyclicDependencyFoundException](cyclicdependencyfoundexception-class-mspp-modularity) type exposes the following members.
 
 ## Properties
 
@@ -98,6 +98,6 @@ Gets the method that throws the current exception.
 
 ## See Also
 
-[CyclicDependencyFoundException Class](cyclicdependencyfoundexception-class-mspp-modularity.md)
+[CyclicDependencyFoundException Class](cyclicdependencyfoundexception-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

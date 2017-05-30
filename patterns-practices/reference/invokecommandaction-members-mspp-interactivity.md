@@ -4,16 +4,12 @@ Title: 'InvokeCommandAction Members (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction'
 ms:mtpsurl: 'invokecommandaction-members-mspp-interactivity.md'
 ---
-
-Prism Class Library
-
-InvokeCommandAction Members
-===========================
+
+# InvokeCommandAction Members
 
 The [InvokeCommandAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -435,8 +430,7 @@ Verifies that the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Fre
 </tbody>
 </table>
 
-Fields
-------
+## Fields
 
 <span id="fieldTableToggle"></span>
 <table>
@@ -473,8 +467,7 @@ Dependency property identifying the TriggerParameterPath to be parsed to identif
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -574,8 +567,7 @@ Gets or sets the TriggerParameterPath value.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -599,10 +591,7 @@ Occurs when the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freez
 </tbody>
 </table>
 
-See Also
---------
-
-
-[InvokeCommandAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction)
+## See Also
+[InvokeCommandAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)

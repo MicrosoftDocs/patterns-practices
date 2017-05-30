@@ -4,11 +4,8 @@ Title: 'IRegionManagerAccessor.GetRegionManager Method (Microsoft.Practices.Pris
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionManagerAccessor.GetRegionManager(System.Windows.DependencyObject)'
 ms:mtpsurl: 'iregionmanageraccessor-getregionmanager-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionManagerAccessor.GetRegionManager Method
-==================================================
+
+# IRegionManagerAccessor.GetRegionManager Method
 
 Gets the value of the RegionName attached property.
 
@@ -18,9 +15,7 @@ Gets the value of the RegionName attached property.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-IRegionManager GetRegionManager( DependencyObject element )Function GetRegionManager ( element As DependencyObject ) As IRegionManager
+IRegionManager GetRegionManager( DependencyObject element )Function GetRegionManager ( element As DependencyObject ) As IRegionManager
 
 ### Parameters
 
@@ -33,11 +28,8 @@ The target element.
 Type: [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager)
 The [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager) attached to the element element.
 
-See Also
---------
-
-
-[IRegionManagerAccessor Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor)
+## See Also
+[IRegionManagerAccessor Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor)
 
 [IRegionManagerAccessor Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionmanageraccessor)
 

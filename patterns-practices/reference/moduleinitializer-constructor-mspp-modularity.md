@@ -4,11 +4,8 @@ Title: 'ModuleInitializer Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializer.\#ctor(Microsoft.Practices.ServiceLocation.IServiceLocator,Microsoft.Practices.Prism.Logging.ILoggerFacade)'
 ms:mtpsurl: 'moduleinitializer-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInitializer Constructor
-=============================
+
+# ModuleInitializer Constructor
 
 Initializes a new instance of [ModuleInitializer](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer).
 
@@ -18,9 +15,7 @@ Initializes a new instance of [ModuleInitializer](https://msdn.microsoft.com/lib
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ModuleInitializer( IServiceLocator serviceLocator, ILoggerFacade loggerFacade )Public Sub New ( serviceLocator As IServiceLocator, loggerFacade As ILoggerFacade )
+public ModuleInitializer( IServiceLocator serviceLocator, ILoggerFacade loggerFacade )Public Sub New ( serviceLocator As IServiceLocator, loggerFacade As ILoggerFacade )
 
 ### Parameters
 
@@ -32,11 +27,8 @@ loggerFacade
 Type: [Microsoft.Practices.Prism.Logging.ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade)
 The logger to use.
 
-See Also
---------
-
-
-[ModuleInitializer Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer)
+## See Also
+[ModuleInitializer Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer)
 
 [ModuleInitializer Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinitializer)
 

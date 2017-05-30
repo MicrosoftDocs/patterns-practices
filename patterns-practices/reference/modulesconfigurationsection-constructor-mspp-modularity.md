@@ -4,11 +4,8 @@ Title: 'ModulesConfigurationSection Constructor (Microsoft.Practices.Prism.Modul
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModulesConfigurationSection.\#ctor'
 ms:mtpsurl: 'modulesconfigurationsection-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModulesConfigurationSection Constructor
-=======================================
+
+# ModulesConfigurationSection Constructor
 
 Initializes a new instance of the [ModulesConfigurationSection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [ModulesConfigurationSection](https://msdn.mic
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public ModulesConfigurationSection()Public Sub New
 
-
-public ModulesConfigurationSection()Public Sub New
-
-See Also
---------
-
-
-[ModulesConfigurationSection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection)
+## See Also
+[ModulesConfigurationSection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection)
 
 [ModulesConfigurationSection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulesconfigurationsection)
 

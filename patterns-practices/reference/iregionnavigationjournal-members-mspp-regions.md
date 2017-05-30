@@ -4,16 +4,12 @@ Title: 'IRegionNavigationJournal Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal'
 ms:mtpsurl: 'iregionnavigationjournal-members-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionNavigationJournal Members
-================================
+
+# IRegionNavigationJournal Members
 
 The [IRegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -57,8 +53,7 @@ Records the navigation to the entry..
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -102,10 +97,7 @@ Gets or sets the target that implements INavigateAsync.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
+## See Also
+[IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

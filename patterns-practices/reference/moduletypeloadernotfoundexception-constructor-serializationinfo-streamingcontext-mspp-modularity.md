@@ -4,11 +4,8 @@ Title: 'ModuleTypeLoaderNotFoundException Constructor (SerializationInfo, Stream
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException.\#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
 ms:mtpsurl: 'moduletypeloadernotfoundexception-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleTypeLoaderNotFoundException Constructor (SerializationInfo, StreamingContext)
-===================================================================================
+
+# ModuleTypeLoaderNotFoundException Constructor (SerializationInfo, StreamingContext)
 
 Initializes a new instance with serialized data.
 
@@ -18,9 +15,7 @@ Initializes a new instance with serialized data.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected ModuleTypeLoaderNotFoundException( SerializationInfo info, StreamingContext context )Protected Sub New ( info As SerializationInfo, context As StreamingContext )
+protected ModuleTypeLoaderNotFoundException( SerializationInfo info, StreamingContext context )Protected Sub New ( info As SerializationInfo, context As StreamingContext )
 
 ### Parameters
 
@@ -32,11 +27,8 @@ context
 Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5)
 The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that contains contextual information about the source or destination.
 
-See Also
---------
-
-
-[ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
+## See Also
+[ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
 
 [ModuleTypeLoaderNotFoundException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
 

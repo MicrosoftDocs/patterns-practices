@@ -4,11 +4,8 @@ Title: 'MefSyncRegionContextWithHostBehavior Constructor (Microsoft.Practices.Pr
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSyncRegionContextWithHostBehavior.\#ctor'
 ms:mtpsurl: 'mefsyncregioncontextwithhostbehavior-constructor-mspp-mefextensions-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-MefSyncRegionContextWithHostBehavior Constructor
-================================================
+
+# MefSyncRegionContextWithHostBehavior Constructor
 
 Initializes a new instance of the [MefSyncRegionContextWithHostBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefsyncregioncontextwithhostbehavior) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [MefSyncRegionContextWithHostBehavior](https:/
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public MefSyncRegionContextWithHostBehavior()Public Sub New
 
-
-public MefSyncRegionContextWithHostBehavior()Public Sub New
-
-See Also
---------
-
-
-[MefSyncRegionContextWithHostBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefsyncregioncontextwithhostbehavior)
+## See Also
+[MefSyncRegionContextWithHostBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefsyncregioncontextwithhostbehavior)
 
 [MefSyncRegionContextWithHostBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.behaviors.mefsyncregioncontextwithhostbehavior)
 

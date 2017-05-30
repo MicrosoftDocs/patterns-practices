@@ -4,16 +4,12 @@ Title: 'DispatcherEventSubscription(TPayload) Methods (Microsoft.Practices.Prism
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Events.DispatcherEventSubscription\`1'
 ms:mtpsurl: 'dispatchereventsubscription-tpayload-methods-mspp-events.md'
 ---
-
-Prism Class Library
-
-DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Methods
-==================================================================
+
+# DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Methods
 
 The [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -90,10 +86,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)
+## See Also
+[DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)
 
 [Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.events)

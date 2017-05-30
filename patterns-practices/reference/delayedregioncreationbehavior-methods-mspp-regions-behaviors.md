@@ -4,16 +4,12 @@ Title: 'DelayedRegionCreationBehavior Methods (Microsoft.Practices.Prism.Regions
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior'
 ms:mtpsurl: 'delayedregioncreationbehavior-methods-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-DelayedRegionCreationBehavior Methods
-=====================================
+
+# DelayedRegionCreationBehavior Methods
 
 The [DelayedRegionCreationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -105,10 +101,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
+## See Also
+[DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

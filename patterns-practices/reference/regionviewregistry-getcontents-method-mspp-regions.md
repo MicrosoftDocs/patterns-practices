@@ -4,11 +4,8 @@ Title: 'RegionViewRegistry.GetContents Method (Microsoft.Practices.Prism.Regions
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionViewRegistry.GetContents(System.String)'
 ms:mtpsurl: 'regionviewregistry-getcontents-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionViewRegistry.GetContents Method
-=========================================
+
+# RegionViewRegistry.GetContents Method
 
 Returns the contents registered for a region.
 
@@ -18,9 +15,7 @@ Returns the contents registered for a region.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public IEnumerable&lt;Object&gt; GetContents( string regionName )Public Function GetContents ( regionName As String ) As IEnumerable(Of Object)
+public IEnumerable&lt;Object&gt; GetContents( string regionName )Public Function GetContents ( regionName As String ) As IEnumerable(Of Object)
 
 ### Parameters
 
@@ -36,11 +31,8 @@ Collection of contents registered for the region.
 
 [IRegionViewRegistry.GetContents(String)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry.getcontents(system.string))
 
-See Also
---------
-
-
-[RegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry)
+## See Also
+[RegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry)
 
 [RegionViewRegistry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionviewregistry)
 

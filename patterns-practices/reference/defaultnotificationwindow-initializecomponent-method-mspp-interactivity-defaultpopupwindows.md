@@ -4,11 +4,8 @@ Title: 'DefaultNotificationWindow.InitializeComponent Method (Microsoft.Practice
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultNotificationWindow.InitializeComponent'
 ms:mtpsurl: 'defaultnotificationwindow-initializecomponent-method-mspp-interactivity-defaultpopupwindows.md'
 ---
-
-Prism Class Library
-
-DefaultNotificationWindow.InitializeComponent Method
-========================================================
+
+# DefaultNotificationWindow.InitializeComponent Method
 
 InitializeComponent
 
@@ -18,18 +15,13 @@ InitializeComponent
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public void InitializeComponent()Public Sub InitializeComponent
+public void InitializeComponent()Public Sub InitializeComponent
 ### Implements
 
 [IComponentConnector.InitializeComponent()()()](http://msdn.microsoft.com/en-us/library/ms603526)
 
-See Also
---------
-
-
-[DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
+## See Also
+[DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
 
 [DefaultNotificationWindow Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
 

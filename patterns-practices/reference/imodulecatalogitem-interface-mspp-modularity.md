@@ -4,11 +4,8 @@ Title: 'IModuleCatalogItem Interface (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.IModuleCatalogItem'
 ms:mtpsurl: 'imodulecatalogitem-interface-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-IModuleCatalogItem Interface
-============================
+
+# IModuleCatalogItem Interface
 
 Marker interface that allows both [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)s and [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)s to be added to the [IModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog) from code and XAML.
 
@@ -18,12 +15,7 @@ Marker interface that allows both [ModuleInfoGroup](https://msdn.microsoft.com/l
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public interface IModuleCatalogItemPublic Interface IModuleCatalogItem
 
-
-public interface IModuleCatalogItemPublic Interface IModuleCatalogItem
-
-See Also
---------
-
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+## See Also
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

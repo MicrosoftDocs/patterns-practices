@@ -4,11 +4,8 @@ Title: 'MefBootstrapper Constructor (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.\#ctor'
 ms:mtpsurl: 'mefbootstrapper-constructor-mspp-mefextensions.md'
 ---
-
-Prism Class Library
-
-MefBootstrapper Constructor
-===========================
+
+# MefBootstrapper Constructor
 
 Initializes a new instance of the [MefBootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [MefBootstrapper](https://msdn.microsoft.com/l
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+protected MefBootstrapper()Protected Sub New
 
-
-protected MefBootstrapper()Protected Sub New
-
-See Also
---------
-
-
-[MefBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper)
+## See Also
+[MefBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper)
 
 [MefBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.mefbootstrapper)
 

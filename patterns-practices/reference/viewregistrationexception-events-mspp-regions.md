@@ -4,16 +4,12 @@ Title: 'ViewRegistrationException Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.ViewRegistrationException'
 ms:mtpsurl: 'viewregistrationexception-events-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ViewRegistrationException Events
-================================
+
+# ViewRegistrationException Events
 
 The [ViewRegistrationException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -37,10 +33,7 @@ Occurs when an exception is serialized to create an exception state object that 
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ViewRegistrationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception)
+## See Also
+[ViewRegistrationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

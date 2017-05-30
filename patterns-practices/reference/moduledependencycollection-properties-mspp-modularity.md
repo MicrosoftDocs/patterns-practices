@@ -4,16 +4,12 @@ Title: 'ModuleDependencyCollection Properties (Microsoft.Practices.Prism.Modular
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection'
 ms:mtpsurl: 'moduledependencycollection-properties-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDependencyCollection Properties
-=====================================
+
+# ModuleDependencyCollection Properties
 
 The [ModuleDependencyCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <table>
 
@@ -219,10 +215,7 @@ Gets a value indicating whether an attempt to add a duplicate <a href="http://ms
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
+## See Also
+[ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

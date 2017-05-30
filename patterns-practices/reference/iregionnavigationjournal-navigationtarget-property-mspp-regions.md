@@ -4,25 +4,18 @@ Title: 'IRegionNavigationJournal.NavigationTarget Property (Microsoft.Practices.
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal.NavigationTarget'
 ms:mtpsurl: 'iregionnavigationjournal-navigationtarget-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionNavigationJournal.NavigationTarget Property
-======================================================
+
+# IRegionNavigationJournal.NavigationTarget Property
 
 Gets or sets the target that implements INavigateAsync.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 INavigateAsync NavigationTarget { get; set; }
 ```
 ```VB
@@ -34,20 +27,16 @@ Property NavigationTarget As INavigateAsync
 
 ### Property Value
 
-Type: [INavigateAsync](inavigateasync-interface-mspp-regions.md)
+Type: [INavigateAsync](inavigateasync-interface-mspp-regions)
 The INavigate implementation.
 
-Remarks
--------
+## Remarks
 
  This is set by the owner of this journal.
 
-See Also
---------
+## See Also
+[IRegionNavigationJournal Interface](iregionnavigationjournal-interface-mspp-regions)
 
+[IRegionNavigationJournal Members](iregionnavigationjournal-members-mspp-regions)
 
-[IRegionNavigationJournal Interface](iregionnavigationjournal-interface-mspp-regions.md)
-
-[IRegionNavigationJournal Members](iregionnavigationjournal-members-mspp-regions.md)
-
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

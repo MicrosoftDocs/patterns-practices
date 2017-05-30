@@ -4,11 +4,8 @@ Title: 'UnityContainerHelper.TryResolve Method (IUnityContainer, Type) (Microsof
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityContainerHelper.TryResolve(Microsoft.Practices.Unity.IUnityContainer,System.Type)'
 ms:mtpsurl: 'unitycontainerhelper-tryresolve-method-iunitycontainer-type-mspp-unityextensions.md'
 ---
-
-Prism Class Library
-
-UnityContainerHelper.TryResolve Method (IUnityContainer, Type)
-==================================================================
+
+# UnityContainerHelper.TryResolve Method (IUnityContainer, Type)
 
 Utility method to try to resolve a service from the container avoiding an exception if the container cannot build the type.
 
@@ -18,9 +15,7 @@ Utility method to try to resolve a service from the container avoiding an except
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public static Object TryResolve( this IUnityContainer container, Type typeToResolve )&lt;ExtensionAttribute&gt; Public Shared Function TryResolve ( container As IUnityContainer, typeToResolve As Type ) As Object
+public static Object TryResolve( this IUnityContainer container, Type typeToResolve )&lt;ExtensionAttribute&gt; Public Shared Function TryResolve ( container As IUnityContainer, typeToResolve As Type ) As Object
 
 ### Parameters
 
@@ -40,11 +35,8 @@ The instance of typeToResolve built up by the container.
 
 In Visual Basic and C\#, you can call this method as an instance method on any object of type IUnityContainer. When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 
-See Also
---------
-
-
-[UnityContainerHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper)
+## See Also
+[UnityContainerHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper)
 
 [UnityContainerHelper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitycontainerhelper)
 

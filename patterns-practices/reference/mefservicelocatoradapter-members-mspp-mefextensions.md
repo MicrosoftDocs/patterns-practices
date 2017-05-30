@@ -4,16 +4,12 @@ Title: 'MefServiceLocatorAdapter Members (Microsoft.Practices.Prism.MefExtension
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.MefServiceLocatorAdapter'
 ms:mtpsurl: 'mefservicelocatoradapter-members-mspp-mefextensions.md'
 ---
-
-Prism Class Library
-
-MefServiceLocatorAdapter Members
-================================
+
+# MefServiceLocatorAdapter Members
 
 The [MefServiceLocatorAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -162,10 +157,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter)
+## See Also
+[MefServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter)
 
 [Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)

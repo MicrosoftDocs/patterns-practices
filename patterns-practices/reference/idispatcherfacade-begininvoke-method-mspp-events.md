@@ -4,11 +4,8 @@ Title: 'IDispatcherFacade.BeginInvoke Method (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.IDispatcherFacade.BeginInvoke(System.Delegate,System.Object)'
 ms:mtpsurl: 'idispatcherfacade-begininvoke-method-mspp-events.md'
 ---
-
-Prism Class Library
-
-IDispatcherFacade.BeginInvoke Method
-========================================
+
+# IDispatcherFacade.BeginInvoke Method
 
 Dispatches an invocation to the method received as parameter.
 
@@ -18,9 +15,7 @@ Dispatches an invocation to the method received as parameter.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-void BeginInvoke( Delegate method, Object arg )Sub BeginInvoke ( method As Delegate, arg As Object )
+void BeginInvoke( Delegate method, Object arg )Sub BeginInvoke ( method As Delegate, arg As Object )
 
 ### Parameters
 
@@ -32,11 +27,8 @@ arg
 Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 Arguments to pass to the invoked method.
 
-See Also
---------
-
-
-[IDispatcherFacade Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.events.idispatcherfacade)
+## See Also
+[IDispatcherFacade Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.events.idispatcherfacade)
 
 [IDispatcherFacade Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.events.idispatcherfacade)
 

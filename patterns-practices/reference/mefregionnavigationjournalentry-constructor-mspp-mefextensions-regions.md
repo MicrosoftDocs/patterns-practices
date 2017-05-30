@@ -4,11 +4,8 @@ Title: 'MefRegionNavigationJournalEntry Constructor (Microsoft.Practices.Prism.M
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournalEntry.\#ctor'
 ms:mtpsurl: 'mefregionnavigationjournalentry-constructor-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
-MefRegionNavigationJournalEntry Constructor
-===========================================
+
+# MefRegionNavigationJournalEntry Constructor
 
 Initializes a new instance of the [MefRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [MefRegionNavigationJournalEntry](https://msdn
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public MefRegionNavigationJournalEntry()Public Sub New
 
-
-public MefRegionNavigationJournalEntry()Public Sub New
-
-See Also
---------
-
-
-[MefRegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry)
+## See Also
+[MefRegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry)
 
 [MefRegionNavigationJournalEntry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry)
 

@@ -4,16 +4,12 @@ Title: 'IRegionNavigationService Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.IRegionNavigationService'
 ms:mtpsurl: 'iregionnavigationservice-events-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionNavigationService Events
-===============================
+
+# IRegionNavigationService Events
 
 The [IRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -50,10 +46,7 @@ Raised when a navigation request fails.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegionNavigationService Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice)
+## See Also
+[IRegionNavigationService Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

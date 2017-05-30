@@ -4,11 +4,8 @@ Title: 'RegionCreationException Constructor (Microsoft.Practices.Prism.Regions.B
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.RegionCreationException.\#ctor'
 ms:mtpsurl: 'regioncreationexception-constructor-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionCreationException Constructor
-===================================
+
+# RegionCreationException Constructor
 
 Initializes a new instance of the [RegionCreationException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception)
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [RegionCreationException](https://msdn.microso
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public RegionCreationException()Public Sub New
 
-
-public RegionCreationException()Public Sub New
-
-See Also
---------
-
-
-[RegionCreationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception)
+## See Also
+[RegionCreationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception)
 
 [RegionCreationException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regioncreationexception)
 

@@ -4,11 +4,8 @@ Title: 'Region.SortComparison Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.SortComparison'
 ms:mtpsurl: 'region-sortcomparison-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-Region.SortComparison Property
-==================================
+
+# Region.SortComparison Property
 
 Gets or sets the comparison used to sort the views.
 
@@ -18,9 +15,7 @@ Gets or sets the comparison used to sort the views.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public Comparison&lt;Object&gt; SortComparison { get; set; }Public Property SortComparison As Comparison(Of Object) Get Set
+public Comparison&lt;Object&gt; SortComparison { get; set; }Public Property SortComparison As Comparison(Of Object) Get Set
 ### Property Value
 
 Type: [Comparison](http://msdn.microsoft.com/en-us/library/tfakywbh)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
@@ -29,11 +24,8 @@ The comparison to use.
 
 [IRegion.SortComparison](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.sortcomparison)
 
-See Also
---------
-
-
-[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
+## See Also
+[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 
 [Region Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.region)
 

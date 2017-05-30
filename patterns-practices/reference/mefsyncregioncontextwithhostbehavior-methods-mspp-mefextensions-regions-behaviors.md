@@ -4,16 +4,12 @@ Title: 'MefSyncRegionContextWithHostBehavior Methods (Microsoft.Practices.Prism.
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSyncRegionContextWithHostBehavior'
 ms:mtpsurl: 'mefsyncregioncontextwithhostbehavior-methods-mspp-mefextensions-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-MefSyncRegionContextWithHostBehavior Methods
-============================================
+
+# MefSyncRegionContextWithHostBehavior Methods
 
 The [MefSyncRegionContextWithHostBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefsyncregioncontextwithhostbehavior) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -93,10 +89,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefSyncRegionContextWithHostBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefsyncregioncontextwithhostbehavior)
+## See Also
+[MefSyncRegionContextWithHostBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefsyncregioncontextwithhostbehavior)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)

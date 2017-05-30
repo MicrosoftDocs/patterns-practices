@@ -4,11 +4,8 @@ Title: 'UnityBootstrapper.RegisterTypeIfMissing Method (Microsoft.Practices.Pris
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.RegisterTypeIfMissing(System.Type,System.Type,System.Boolean)'
 ms:mtpsurl: 'unitybootstrapper-registertypeifmissing-method-mspp-unityextensions.md'
 ---
-
-Prism Class Library
-
-UnityBootstrapper.RegisterTypeIfMissing Method
-==================================================
+
+# UnityBootstrapper.RegisterTypeIfMissing Method
 
 Registers a type in the container only if that type was not already registered.
 
@@ -18,9 +15,7 @@ Registers a type in the container only if that type was not already registered.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected void RegisterTypeIfMissing( Type fromType, Type toType, bool registerAsSingleton )Protected Sub RegisterTypeIfMissing ( fromType As Type, toType As Type, registerAsSingleton As Boolean )
+protected void RegisterTypeIfMissing( Type fromType, Type toType, bool registerAsSingleton )Protected Sub RegisterTypeIfMissing ( fromType As Type, toType As Type, registerAsSingleton As Boolean )
 
 ### Parameters
 
@@ -36,11 +31,8 @@ registerAsSingleton
 Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 Registers the type as a singleton.
 
-See Also
---------
-
-
-[UnityBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
+## See Also
+[UnityBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
 
 [UnityBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitybootstrapper)
 

@@ -4,11 +4,8 @@ Title: 'AssemblyResolver Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.AssemblyResolver'
 ms:mtpsurl: 'assemblyresolver-class-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-AssemblyResolver Class
-======================
+
+# AssemblyResolver Class
 
 Handles AppDomain's AssemblyResolve event to be able to load assemblies dynamically in the LoadFrom context, but be able to reference the type from assemblies loaded in the Load context.
 
@@ -18,20 +15,14 @@ Handles AppDomain's AssemblyResolve event to be able to load assemblies dynamica
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public class AssemblyResolver : IAssemblyResolver, IDisposablePublic Class AssemblyResolver Implements IAssemblyResolver, IDisposable
 
-
-public class AssemblyResolver : IAssemblyResolver, IDisposablePublic Class AssemblyResolver Implements IAssemblyResolver, IDisposable
-
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Modularity.AssemblyResolver
 
-See Also
---------
-
-
-[AssemblyResolver Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.assemblyresolver)
+## See Also
+[AssemblyResolver Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.assemblyresolver)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

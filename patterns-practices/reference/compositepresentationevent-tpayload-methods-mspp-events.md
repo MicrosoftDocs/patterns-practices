@@ -4,16 +4,12 @@ Title: 'CompositePresentationEvent(TPayload) Methods (Microsoft.Practices.Prism.
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1'
 ms:mtpsurl: 'compositepresentationevent-tpayload-methods-mspp-events.md'
 ---
-
-Prism Class Library
-
-CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Methods
-=================================================================
+
+# CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Methods
 
 The [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -153,10 +149,7 @@ Removes the first subscriber matching <a href="http://msdn.microsoft.com/en-us/l
 </tbody>
 </table>
 
-See Also
---------
-
-
-[CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)
+## See Also
+[CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)
 
 [Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.events)

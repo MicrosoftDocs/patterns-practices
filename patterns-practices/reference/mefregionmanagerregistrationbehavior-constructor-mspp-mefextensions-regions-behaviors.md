@@ -4,11 +4,8 @@ Title: 'MefRegionManagerRegistrationBehavior Constructor (Microsoft.Practices.Pr
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionManagerRegistrationBehavior.\#ctor'
 ms:mtpsurl: 'mefregionmanagerregistrationbehavior-constructor-mspp-mefextensions-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-MefRegionManagerRegistrationBehavior Constructor
-================================================
+
+# MefRegionManagerRegistrationBehavior Constructor
 
 Initializes a new instance of the [MefRegionManagerRegistrationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmanagerregistrationbehavior) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [MefRegionManagerRegistrationBehavior](https:/
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public MefRegionManagerRegistrationBehavior()Public Sub New
 
-
-public MefRegionManagerRegistrationBehavior()Public Sub New
-
-See Also
---------
-
-
-[MefRegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmanagerregistrationbehavior)
+## See Also
+[MefRegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmanagerregistrationbehavior)
 
 [MefRegionManagerRegistrationBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmanagerregistrationbehavior)
 

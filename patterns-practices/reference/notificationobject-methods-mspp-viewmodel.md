@@ -4,16 +4,12 @@ Title: 'NotificationObject Methods (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ViewModel.NotificationObject'
 ms:mtpsurl: 'notificationobject-methods-mspp-viewmodel.md'
 ---
-
-Prism Class Library
-
-NotificationObject Methods
-==========================
+
+# NotificationObject Methods
 
 The [NotificationObject](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -98,10 +94,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[NotificationObject Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject)
+## See Also
+[NotificationObject Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject)
 
 [Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)

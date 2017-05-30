@@ -4,16 +4,12 @@ Title: 'ItemMetadata Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.ItemMetadata'
 ms:mtpsurl: 'itemmetadata-events-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ItemMetadata Events
-===================
+
+# ItemMetadata Events
 
 The [ItemMetadata](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata) type exposes the following members.
 
-Events
-------
+## Events
 
 <table>
 
@@ -35,10 +31,7 @@ Occurs when metadata on the item changes.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ItemMetadata Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)
+## See Also
+[ItemMetadata Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

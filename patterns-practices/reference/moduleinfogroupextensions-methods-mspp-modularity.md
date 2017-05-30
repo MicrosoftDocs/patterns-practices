@@ -4,9 +4,7 @@ Title: 'ModuleInfoGroupExtensions Methods (Microsoft.Practices.Prism.Modularity)
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleInfoGroupExtensions'
 ms:mtpsurl: 'moduleinfogroupextensions-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleInfoGroupExtensions Methods
 
 ## Methods
@@ -40,6 +38,6 @@ Adds a new module that is statically referenced to the specified module info gro
 
 ## See Also
 
-[ModuleInfoGroupExtensions Class](moduleinfogroupextensions-class-mspp-modularity.md)
+[ModuleInfoGroupExtensions Class](moduleinfogroupextensions-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

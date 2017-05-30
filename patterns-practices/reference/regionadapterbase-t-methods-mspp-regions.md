@@ -4,16 +4,12 @@ Title: 'RegionAdapterBase(T) Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.RegionAdapterBase\`1'
 ms:mtpsurl: 'regionadapterbase-t-methods-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Methods
-=================================================
+
+# RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Methods
 
 The [RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -112,10 +108,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601)
+## See Also
+[RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -4,12 +4,10 @@ Title: 'ModuleInitializeException Properties (Microsoft.Practices.Prism.Modulari
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleInitializeException'
 ms:mtpsurl: 'moduleinitializeexception-properties-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleInitializeException Properties
 
-The [ModuleInitializeException](moduleinitializeexception-class-mspp-modularity.md) type exposes the following members.
+The [ModuleInitializeException](moduleinitializeexception-class-mspp-modularity) type exposes the following members.
 
 ## Properties
 
@@ -100,6 +98,6 @@ Gets the method that throws the current exception.
 
 ## See Also
 
-[ModuleInitializeException Class](moduleinitializeexception-class-mspp-modularity.md)
+[ModuleInitializeException Class](moduleinitializeexception-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

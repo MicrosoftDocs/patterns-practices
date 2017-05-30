@@ -4,15 +4,13 @@ Title: 'ModuleTypeLoaderNotFoundException Events (Microsoft.Practices.Prism.Modu
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException'
 ms:mtpsurl: 'moduletypeloadernotfoundexception-events-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleTypeLoaderNotFoundException Events
 
-The [ModuleTypeLoaderNotFoundException](moduletypeloadernotfoundexception-class-mspp-modularity.md) type exposes the following members.
+The [ModuleTypeLoaderNotFoundException](moduletypeloadernotfoundexception-class-mspp-modularity) type exposes the following members.
 
 ## Events
-=======
+
 The [ModuleTypeLoaderNotFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception) type exposes the following members.
 
 <table>
@@ -38,10 +36,9 @@ Occurs when an exception is serialized to create an exception state object that 
 
 ## See Also
 
-[ModuleTypeLoaderNotFoundException Class](moduletypeloadernotfoundexception-class-mspp-modularity.md)
+[ModuleTypeLoaderNotFoundException Class](moduletypeloadernotfoundexception-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
-=======
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
 
 [ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
 

@@ -4,16 +4,12 @@ Title: 'InteractionRequestTrigger Methods (Microsoft.Practices.Prism.Interactivi
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestTrigger'
 ms:mtpsurl: 'interactionrequesttrigger-methods-mspp-interactivity-interactionrequest.md'
 ---
-
-Prism Class Library
-
-InteractionRequestTrigger Methods
-=================================
+
+# InteractionRequestTrigger Methods
 
 The [InteractionRequestTrigger](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -419,10 +415,7 @@ Verifies that the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Fre
 </tbody>
 </table>
 
-See Also
---------
-
-
-[InteractionRequestTrigger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger)
+## See Also
+[InteractionRequestTrigger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger)
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)

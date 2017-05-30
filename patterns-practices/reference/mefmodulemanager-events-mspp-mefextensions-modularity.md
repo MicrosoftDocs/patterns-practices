@@ -4,16 +4,12 @@ Title: 'MefModuleManager Events (Microsoft.Practices.Prism.MefExtensions.Modular
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager'
 ms:mtpsurl: 'mefmodulemanager-events-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-MefModuleManager Events
-=======================
+
+# MefModuleManager Events
 
 The [MefModuleManager](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager) type exposes the following members.
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -45,10 +41,7 @@ Raised repeatedly to provide progress as modules are loaded in the background.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager)
+## See Also
+[MefModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager)
 
 [Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)

@@ -4,16 +4,12 @@ Title: 'UnityBootstrapper Methods (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper'
 ms:mtpsurl: 'unitybootstrapper-methods-mspp-unityextensions.md'
 ---
-
-Prism Class Library
-
-UnityBootstrapper Methods
-=========================
+
+# UnityBootstrapper Methods
 
 The [UnityBootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <table>
 
@@ -193,10 +189,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[UnityBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
+## See Also
+[UnityBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
 
 [Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)

@@ -151,6 +151,6 @@ Initiates navigation to the target specified by the target.
 
 ## See Also
 
-[INavigateAsync Interface](inavigateasync-interface-mspp-regions.md)
+[INavigateAsync Interface](inavigateasync-interface-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

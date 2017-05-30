@@ -4,14 +4,10 @@ Title: 'ModuleDependencyConfigurationElement Constructor (Microsoft.Practices.Pr
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement.\#ctor'
 ms:mtpsurl: 'moduledependencyconfigurationelement-constructor-mspp-modularity.md'
 ---
+
+# ModuleDependencyConfigurationElement Constructor
 
-Prism Class Library
-
-ModuleDependencyConfigurationElement Constructor
-================================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,11 +37,8 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleDependencyConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement)
+## See Also
+[ModuleDependencyConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement)
 
 [ModuleDependencyConfigurationElement Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencyconfigurationelement)
 

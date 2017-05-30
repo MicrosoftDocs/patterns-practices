@@ -4,11 +4,8 @@ Title: 'MefFileModuleTypeLoader.LoadModuleCompleted Event (Microsoft.Practices.P
 ms:assetid: 'E:Microsoft.Practices.Prism.MefExtensions.Modularity.MefFileModuleTypeLoader.LoadModuleCompleted'
 ms:mtpsurl: 'meffilemoduletypeloader-loadmodulecompleted-event-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-MefFileModuleTypeLoader.LoadModuleCompleted Event
-=====================================================
+
+# MefFileModuleTypeLoader.LoadModuleCompleted Event
 
 Raised when a module is loaded or fails to load.
 
@@ -18,9 +15,7 @@ Raised when a module is loaded or fails to load.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public virtual event EventHandler&lt;LoadModuleCompletedEventArgs&gt; LoadModuleCompletedPublic Overridable Event LoadModuleCompleted As EventHandler(Of LoadModuleCompletedEventArgs)
+public virtual event EventHandler&lt;LoadModuleCompletedEventArgs&gt; LoadModuleCompletedPublic Overridable Event LoadModuleCompleted As EventHandler(Of LoadModuleCompletedEventArgs)
 ### Value
 
 Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([LoadModuleCompletedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs)&gt;)&gt;)
@@ -28,11 +23,8 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt
 
 [IModuleTypeLoader.LoadModuleCompleted](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader.loadmodulecompleted)
 
-See Also
---------
-
-
-[MefFileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader)
+## See Also
+[MefFileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader)
 
 [MefFileModuleTypeLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader)
 

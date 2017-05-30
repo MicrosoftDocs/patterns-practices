@@ -4,11 +4,8 @@ Title: 'AssemblyResolver.LoadAssemblyFrom Method (Microsoft.Practices.Prism.Modu
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.AssemblyResolver.LoadAssemblyFrom(System.String)'
 ms:mtpsurl: 'assemblyresolver-loadassemblyfrom-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-AssemblyResolver.LoadAssemblyFrom Method
-============================================
+
+# AssemblyResolver.LoadAssemblyFrom Method
 
 Registers the specified assembly and resolves the types in it when the AppDomain requests for it.
 
@@ -18,9 +15,7 @@ Registers the specified assembly and resolves the types in it when the AppDomain
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public void LoadAssemblyFrom( string assemblyFilePath )Public Sub LoadAssemblyFrom ( assemblyFilePath As String )
+public void LoadAssemblyFrom( string assemblyFilePath )Public Sub LoadAssemblyFrom ( assemblyFilePath As String )
 
 ### Parameters
 
@@ -32,16 +27,12 @@ The path to the assemly to load in the LoadFrom context.
 
 [IAssemblyResolver.LoadAssemblyFrom(String)](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iassemblyresolver.loadassemblyfrom(system.string))
 
-Remarks
--------
+## Remarks
 
 This method does not load the assembly immediately, but lazily until someone requests a [Type](http://msdn.microsoft.com/en-us/library/42892f65) declared in the assembly.
 
-See Also
---------
-
-
-[AssemblyResolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver)
+## See Also
+[AssemblyResolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver)
 
 [AssemblyResolver Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.assemblyresolver)
 

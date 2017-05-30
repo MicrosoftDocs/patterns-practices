@@ -4,11 +4,8 @@ Title: 'ModuleTypeLoadingException Constructor (String, String, Exception) (Micr
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException.\#ctor(System.String,System.String,System.Exception)'
 ms:mtpsurl: 'moduletypeloadingexception-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleTypeLoadingException Constructor (String, String, Exception)
-==================================================================
+
+# ModuleTypeLoadingException Constructor (String, String, Exception)
 
 Initializes the exception with a particular module, error message and inner exception that happened.
 
@@ -18,9 +15,7 @@ Initializes the exception with a particular module, error message and inner exce
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ModuleTypeLoadingException( string moduleName, string message, Exception innerException )Public Sub New ( moduleName As String, message As String, innerException As Exception )
+public ModuleTypeLoadingException( string moduleName, string message, Exception innerException )Public Sub New ( moduleName As String, message As String, innerException As Exception )
 
 ### Parameters
 
@@ -36,11 +31,8 @@ innerException
 Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 The exception that is the cause of the current exception, or a nullNothingnullptra null reference (Nothing in Visual Basic) reference if no inner exception is specified.
 
-See Also
---------
-
-
-[ModuleTypeLoadingException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception)
+## See Also
+[ModuleTypeLoadingException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception)
 
 [ModuleTypeLoadingException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduletypeloadingexception)
 

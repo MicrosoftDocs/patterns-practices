@@ -4,11 +4,8 @@ Title: 'RegionNavigationService Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationService.\#ctor(Microsoft.Practices.ServiceLocation.IServiceLocator,Microsoft.Practices.Prism.Regions.IRegionNavigationContentLoader,Microsoft.Practices.Prism.Regions.IRegionNavigationJournal)'
 ms:mtpsurl: 'regionnavigationservice-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationService Constructor
-===================================
+
+# RegionNavigationService Constructor
 
 Initializes a new instance of the [RegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice) class.
 
@@ -18,9 +15,7 @@ Initializes a new instance of the [RegionNavigationService](https://msdn.microso
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public RegionNavigationService( IServiceLocator serviceLocator, IRegionNavigationContentLoader regionNavigationContentLoader, IRegionNavigationJournal journal )Public Sub New ( serviceLocator As IServiceLocator, regionNavigationContentLoader As IRegionNavigationContentLoader, journal As IRegionNavigationJournal )
+public RegionNavigationService( IServiceLocator serviceLocator, IRegionNavigationContentLoader regionNavigationContentLoader, IRegionNavigationJournal journal )Public Sub New ( serviceLocator As IServiceLocator, regionNavigationContentLoader As IRegionNavigationContentLoader, journal As IRegionNavigationJournal )
 
 ### Parameters
 
@@ -36,11 +31,8 @@ journal
 Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
 The journal.
 
-See Also
---------
-
-
-[RegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice)
+## See Also
+[RegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice)
 
 [RegionNavigationService Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationservice)
 

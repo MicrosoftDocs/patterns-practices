@@ -4,16 +4,12 @@ Title: 'DuplicateModuleException Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.DuplicateModuleException'
 ms:mtpsurl: 'duplicatemoduleexception-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-DuplicateModuleException Methods
-================================
+
+# DuplicateModuleException Methods
 
 The [DuplicateModuleException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -93,8 +89,7 @@ Creates and returns a string representation of the current exception.
 </tbody>
 </table>
 
-Extension Methods
------------------
+## Extension Methods
 
 <span id="extensionMethodTableToggle"></span>
 <table>
@@ -118,10 +113,7 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DuplicateModuleException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception)
+## See Also
+[DuplicateModuleException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

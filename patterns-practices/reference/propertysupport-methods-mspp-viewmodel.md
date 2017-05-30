@@ -4,16 +4,12 @@ Title: 'PropertySupport Methods (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ViewModel.PropertySupport'
 ms:mtpsurl: 'propertysupport-methods-mspp-viewmodel.md'
 ---
-
-Prism Class Library
-
-PropertySupport Methods
-=======================
+
+# PropertySupport Methods
 
 The [PropertySupport](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.propertysupport) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -36,10 +32,7 @@ Extracts the property name from a property expression.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[PropertySupport Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.propertysupport)
+## See Also
+[PropertySupport Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.propertysupport)
 
 [Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)

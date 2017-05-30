@@ -4,16 +4,12 @@ Title: 'MefClearChildViewsRegionBehavior Properties (Microsoft.Practices.Prism.M
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefClearChildViewsRegionBehavior'
 ms:mtpsurl: 'mefclearchildviewsregionbehavior-properties-mspp-mefextensions-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-MefClearChildViewsRegionBehavior Properties
-===========================================
+
+# MefClearChildViewsRegionBehavior Properties
 
 The [MefClearChildViewsRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -45,10 +41,7 @@ Behavior's attached region.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior)
+## See Also
+[MefClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)

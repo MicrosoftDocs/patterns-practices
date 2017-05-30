@@ -4,11 +4,8 @@ Title: 'ViewSortHintAttribute.Hint Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.ViewSortHintAttribute.Hint'
 ms:mtpsurl: 'viewsorthintattribute-hint-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ViewSortHintAttribute.Hint Property
-=======================================
+
+# ViewSortHintAttribute.Hint Property
 
 Gets the hint.
 
@@ -18,19 +15,14 @@ Gets the hint.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public string Hint { get; }Public ReadOnly Property Hint As String Get
+public string Hint { get; }Public ReadOnly Property Hint As String Get
 ### Property Value
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The hint to use for sorting.
 
-See Also
---------
-
-
-[ViewSortHintAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewsorthintattribute)
+## See Also
+[ViewSortHintAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewsorthintattribute)
 
 [ViewSortHintAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewsorthintattribute)
 

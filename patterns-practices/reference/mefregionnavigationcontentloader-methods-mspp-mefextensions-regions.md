@@ -4,16 +4,12 @@ Title: 'MefRegionNavigationContentLoader Methods (Microsoft.Practices.Prism.MefE
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationContentLoader'
 ms:mtpsurl: 'mefregionnavigationcontentloader-methods-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
-MefRegionNavigationContentLoader Methods
-========================================
+
+# MefRegionNavigationContentLoader Methods
 
 The [MefRegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -109,10 +105,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefRegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader)
+## See Also
+[MefRegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)

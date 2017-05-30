@@ -4,16 +4,12 @@ Title: 'IRegionBehavior Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionBehavior'
 ms:mtpsurl: 'iregionbehavior-properties-mspp-regions.md'
 ---
+
+# IRegionBehavior Properties
 
-Prism Class Library
+The [IRegionBehavior](iregionbehavior-interface-mspp-regions) type exposes the following members.
 
-IRegionBehavior Properties
-==========================
-
-The [IRegionBehavior](iregionbehavior-interface-mspp-regions.md) type exposes the following members.
-
-Properties
-----------
+## Properties
 
 <table>
 
@@ -35,10 +31,7 @@ The region that this behavior is extending.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
+[IRegionBehavior Interface](iregionbehavior-interface-mspp-regions)
 
-
-[IRegionBehavior Interface](iregionbehavior-interface-mspp-regions.md)
-
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

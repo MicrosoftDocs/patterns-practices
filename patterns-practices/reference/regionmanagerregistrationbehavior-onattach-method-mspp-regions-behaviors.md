@@ -4,11 +4,8 @@ Title: 'RegionManagerRegistrationBehavior.OnAttach Method (Microsoft.Practices.P
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior.OnAttach'
 ms:mtpsurl: 'regionmanagerregistrationbehavior-onattach-method-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionManagerRegistrationBehavior.OnAttach Method
-=====================================================
+
+# RegionManagerRegistrationBehavior.OnAttach Method
 
 When the [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) has a name assigned, the behavior will start monitoring the ancestor controls in the element tree to look for an [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager) where to register the region in.
 
@@ -18,15 +15,10 @@ When the [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+protected override void OnAttach()Protected Overrides Sub OnAttach
 
-
-protected override void OnAttach()Protected Overrides Sub OnAttach
-
-See Also
---------
-
-
-[RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
+## See Also
+[RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
 
 [RegionManagerRegistrationBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
 

@@ -4,16 +4,12 @@ Title: 'IRegionBehaviorCollection Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegionBehaviorCollection'
 ms:mtpsurl: 'iregionbehaviorcollection-methods-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionBehaviorCollection Methods
-=================================
+
+# IRegionBehaviorCollection Methods
 
 The [IRegionBehaviorCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -59,10 +55,7 @@ Returns an enumerator that iterates through a collection.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegionBehaviorCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection)
+## See Also
+[IRegionBehaviorCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

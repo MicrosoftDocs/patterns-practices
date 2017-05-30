@@ -4,11 +4,8 @@ Title: 'IRegionBehaviorCollection.Item Property (Microsoft.Practices.Prism.Regio
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionBehaviorCollection.Item(System.String)'
 ms:mtpsurl: 'iregionbehaviorcollection-item-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionBehaviorCollection.Item Property
-===========================================
+
+# IRegionBehaviorCollection.Item Property
 
 Gets the [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior) with the specified key.
 
@@ -18,9 +15,7 @@ Gets the [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practice
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-IRegionBehavior this[ string key \] { get; }ReadOnly Default Property Item ( key As String ) As IRegionBehavior Get
+IRegionBehavior this[ string key \] { get; }ReadOnly Default Property Item ( key As String ) As IRegionBehavior Get
 
 ### Parameters
 
@@ -32,11 +27,8 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 Type: [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior)
 The registered [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior)
 
-See Also
---------
-
-
-[IRegionBehaviorCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection)
+## See Also
+[IRegionBehaviorCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection)
 
 [IRegionBehaviorCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionbehaviorcollection)
 

@@ -4,16 +4,12 @@ Title: 'DefaultNotificationWindow Methods (Microsoft.Practices.Prism.Interactivi
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultNotificationWindow'
 ms:mtpsurl: 'defaultnotificationwindow-methods-mspp-interactivity-defaultpopupwindows.md'
 ---
-
-Prism Class Library
-
-DefaultNotificationWindow Methods
-=================================
+
+# DefaultNotificationWindow Methods
 
 The [DefaultNotificationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -1828,10 +1824,7 @@ Enforces that the calling thread has access to this <a href="http://msdn.microso
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
+## See Also
+[DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
 
 [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)

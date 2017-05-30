@@ -4,16 +4,12 @@ Title: 'IRegionManager Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.IRegionManager'
 ms:mtpsurl: 'iregionmanager-methods-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionManager Methods
-======================
+
+# IRegionManager Methods
 
 The [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager) type exposes the following members.
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Creates a new region manager.
 </tbody>
 </table>
 
-Extension Methods
------------------
+## Extension Methods
 
 <span id="extensionMethodTableToggle"></span>
 <table>
@@ -151,10 +146,7 @@ This method allows an IRegionManager to locate a specified region and navigate i
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegionManager Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager)
+## See Also
+[IRegionManager Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -4,11 +4,8 @@ Title: 'UnityServiceLocatorAdapter.DoGetInstance Method (Microsoft.Practices.Pri
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityServiceLocatorAdapter.DoGetInstance(System.Type,System.String)'
 ms:mtpsurl: 'unityservicelocatoradapter-dogetinstance-method-mspp-unityextensions.md'
 ---
-
-Prism Class Library
-
-UnityServiceLocatorAdapter.DoGetInstance Method
-===================================================
+
+# UnityServiceLocatorAdapter.DoGetInstance Method
 
 Resolves the instance of the requested service.
 
@@ -18,9 +15,7 @@ Resolves the instance of the requested service.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected override Object DoGetInstance( Type serviceType, string key )Protected Overrides Function DoGetInstance ( serviceType As Type, key As String ) As Object
+protected override Object DoGetInstance( Type serviceType, string key )Protected Overrides Function DoGetInstance ( serviceType As Type, key As String ) As Object
 
 ### Parameters
 
@@ -37,11 +32,8 @@ Name of registered service you want. May be null.
 Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The requested service instance.
 
-See Also
---------
-
-
-[UnityServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
+## See Also
+[UnityServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
 
 [UnityServiceLocatorAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
 

@@ -4,11 +4,8 @@ Title: 'RegionManager.RegionManager Attached Property (Microsoft.Practices.Prism
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionManager.RegionManager'
 ms:mtpsurl: 'regionmanager-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionManager.RegionManager Attached Property
-=================================================
+
+# RegionManager.RegionManager Attached Property
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -16,18 +13,13 @@ RegionManager.RegionManager Attached Property
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-See GetRegionManager, SetRegionManagerSee GetRegionManager, SetRegionManager
+See GetRegionManager, SetRegionManagerSee GetRegionManager, SetRegionManager
 ### Property Value
 
 Type: [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager)
 
-See Also
---------
-
-
-[RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)
+## See Also
+[RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)
 
 [RegionManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionmanager)
 

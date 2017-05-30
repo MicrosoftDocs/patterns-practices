@@ -4,16 +4,12 @@ Title: 'ModuleDownloadProgressChangedEventArgs Members (Microsoft.Practices.Pris
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleDownloadProgressChangedEventArgs'
 ms:mtpsurl: 'moduledownloadprogresschangedeventargs-members-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDownloadProgressChangedEventArgs Members
-==============================================
+
+# ModuleDownloadProgressChangedEventArgs Members
 
 The [ModuleDownloadProgressChangedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -101,8 +96,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -155,10 +149,7 @@ Gets a unique user state.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleDownloadProgressChangedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
+## See Also
+[ModuleDownloadProgressChangedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

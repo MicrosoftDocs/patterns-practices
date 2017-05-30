@@ -4,11 +4,8 @@ Title: 'EventBase.Subscriptions Property (Microsoft.Practices.Prism.PubSubEvents
 ms:assetid: 'P:Microsoft.Practices.Prism.PubSubEvents.EventBase.Subscriptions'
 ms:mtpsurl: 'eventbase-subscriptions-property-mspp-pubsubevents.md'
 ---
-
-Prism Class Library
-
-EventBase.Subscriptions Property
-====================================
+
+# EventBase.Subscriptions Property
 
 Gets the list of current subscriptions.
 
@@ -16,19 +13,14 @@ Gets the list of current subscriptions.
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
-
-protected ICollection&lt;IEventSubscription&gt; Subscriptions { get; }Protected ReadOnly Property Subscriptions As ICollection(Of IEventSubscription) Get
+protected ICollection&lt;IEventSubscription&gt; Subscriptions { get; }Protected ReadOnly Property Subscriptions As ICollection(Of IEventSubscription) Get
 ### Property Value
 
 Type: [ICollection](http://msdn.microsoft.com/en-us/library/92t2ye13)&lt;(Of &lt;([IEventSubscription](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription)&gt;)&gt;)
 The current subscribers.
 
-See Also
---------
-
-
-[EventBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase)
+## See Also
+[EventBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase)
 
 [EventBase Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.eventbase)
 

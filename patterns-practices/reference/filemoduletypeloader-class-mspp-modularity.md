@@ -4,25 +4,18 @@ Title: 'FileModuleTypeLoader Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader'
 ms:mtpsurl: 'filemoduletypeloader-class-mspp-modularity.md'
 ---
+
+# FileModuleTypeLoader Class
 
-Prism Class Library
+Loads modules from an arbitrary location on the filesystem. This typeloader is only called if [ModuleInfo](moduleinfo-class-mspp-modularity) classes have a Ref parameter that starts with "file://". This class is only used on the Desktop version of the Prism Library.
 
-FileModuleTypeLoader Class
-==========================
-
-Loads modules from an arbitrary location on the filesystem. This typeloader is only called if [ModuleInfo](moduleinfo-class-mspp-modularity.md) classes have a Ref parameter that starts with "file://". This class is only used on the Desktop version of the Prism Library.
-
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 public class FileModuleTypeLoader : IModuleTypeLoader, 
 	IDisposable
 ```
@@ -32,16 +25,12 @@ Public Class FileModuleTypeLoader
 	Implements IModuleTypeLoader, IDisposable
 ```
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader
 
-See Also
---------
+## See Also
+[FileModuleTypeLoader Members](filemoduletypeloader-members-mspp-modularity)
 
-
-[FileModuleTypeLoader Members](filemoduletypeloader-members-mspp-modularity.md)
-
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

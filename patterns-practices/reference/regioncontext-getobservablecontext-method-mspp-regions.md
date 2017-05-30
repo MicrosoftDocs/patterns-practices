@@ -4,11 +4,8 @@ Title: 'RegionContext.GetObservableContext Method (Microsoft.Practices.Prism.Reg
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionContext.GetObservableContext(System.Windows.DependencyObject)'
 ms:mtpsurl: 'regioncontext-getobservablecontext-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionContext.GetObservableContext Method
-=============================================
+
+# RegionContext.GetObservableContext Method
 
 Returns an [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601) wrapper around the RegionContext value. The RegionContext will be set on any views (dependency objects) that are inside the [Views](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.views) collection by the [BindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior) Behavior. The RegionContext will also be set to the control that hosts the Region, by the [SyncRegionContextWithHostBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior) Behavior. If the [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601) wrapper does not already exist, an empty one will be created. This way, an observer can notify when the value is set for the first time.
 
@@ -18,9 +15,7 @@ Returns an [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public static ObservableObject&lt;Object&gt; GetObservableContext( DependencyObject view )Public Shared Function GetObservableContext ( view As DependencyObject ) As ObservableObject(Of Object)
+public static ObservableObject&lt;Object&gt; GetObservableContext( DependencyObject view )Public Shared Function GetObservableContext ( view As DependencyObject ) As ObservableObject(Of Object)
 
 ### Parameters
 
@@ -33,11 +28,8 @@ Any view that hold the RegionContext value.
 Type: [ObservableObject](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
 Wrapper around the Regioncontext value.
 
-See Also
---------
-
-
-[RegionContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regioncontext)
+## See Also
+[RegionContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regioncontext)
 
 [RegionContext Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regioncontext)
 

@@ -4,14 +4,10 @@ Title: 'FileModuleTypeLoader Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader.\#ctor'
 ms:mtpsurl: 'filemoduletypeloader-constructor-iassemblyresolver-mspp-modularity.md'
 ---
+
+# FileModuleTypeLoader Constructor
 
-Prism Class Library
-
-FileModuleTypeLoader Constructor
-================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,11 +37,8 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-See Also
---------
-
-
-[FileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader)
+## See Also
+[FileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader)
 
 [FileModuleTypeLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.filemoduletypeloader)
 

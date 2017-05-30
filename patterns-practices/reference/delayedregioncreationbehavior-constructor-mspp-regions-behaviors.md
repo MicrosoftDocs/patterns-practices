@@ -4,11 +4,8 @@ Title: 'DelayedRegionCreationBehavior Constructor (Microsoft.Practices.Prism.Reg
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior.\#ctor(Microsoft.Practices.Prism.Regions.RegionAdapterMappings)'
 ms:mtpsurl: 'delayedregioncreationbehavior-constructor-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-DelayedRegionCreationBehavior Constructor
-=========================================
+
+# DelayedRegionCreationBehavior Constructor
 
 Initializes a new instance of the [DelayedRegionCreationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior) class.
 
@@ -18,9 +15,7 @@ Initializes a new instance of the [DelayedRegionCreationBehavior](https://msdn.m
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public DelayedRegionCreationBehavior( RegionAdapterMappings regionAdapterMappings )Public Sub New ( regionAdapterMappings As RegionAdapterMappings )
+public DelayedRegionCreationBehavior( RegionAdapterMappings regionAdapterMappings )Public Sub New ( regionAdapterMappings As RegionAdapterMappings )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ regionAdapterMappings
 Type: [Microsoft.Practices.Prism.Regions.RegionAdapterMappings](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings)
 The region adapter mappings, that are used to find the correct adapter for a given controltype. The controltype is determined by the value.
 
-See Also
---------
-
-
-[DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
+## See Also
+[DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
 
 [DelayedRegionCreationBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
 

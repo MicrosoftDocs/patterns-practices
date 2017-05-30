@@ -4,9 +4,7 @@ Title: 'Microsoft.Practices.Prism.PubSubEvents Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.PubSubEvents'
 ms:mtpsurl: 'mspp-pubsubevents-namespace.md'
 ---
-
-Prism Class Library
-
+
 # Microsoft.Practices.Prism.PubSubEvents Namespace
 
  

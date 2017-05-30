@@ -4,16 +4,12 @@ Title: 'NavigationParameters Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.NavigationParameters'
 ms:mtpsurl: 'navigationparameters-members-mspp-regions.md'
 ---
-
-Prism Class Library
-
-NavigationParameters Members
-============================
+
+# NavigationParameters Members
 
 The [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -43,8 +39,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -122,8 +117,7 @@ Converts the list of key value pairs to a query string.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -146,10 +140,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> w
 </tbody>
 </table>
 
-See Also
---------
-
-
-[NavigationParameters Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
+## See Also
+[NavigationParameters Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

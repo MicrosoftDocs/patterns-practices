@@ -4,16 +4,12 @@ Title: 'ModulesConfigurationSection Properties (Microsoft.Practices.Prism.Modula
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModulesConfigurationSection'
 ms:mtpsurl: 'modulesconfigurationsection-properties-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModulesConfigurationSection Properties
-======================================
+
+# ModulesConfigurationSection Properties
 
 The [ModulesConfigurationSection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -148,10 +144,7 @@ Gets a <a href="http://msdn.microsoft.com/en-us/library/ms134738">SectionInforma
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModulesConfigurationSection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection)
+## See Also
+[ModulesConfigurationSection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

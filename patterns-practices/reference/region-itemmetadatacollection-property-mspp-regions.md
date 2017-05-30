@@ -4,25 +4,18 @@ Title: 'Region.ItemMetadataCollection Property (Microsoft.Practices.Prism.Region
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.ItemMetadataCollection'
 ms:mtpsurl: 'region-itemmetadatacollection-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-Region.ItemMetadataCollection Property
-==========================================
+
+# Region.ItemMetadataCollection Property
 
 Gets the collection with all the views along with their metadata.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 protected virtual ObservableCollection<ItemMetadata> ItemMetadataCollection { get; }
 ```
 
@@ -34,16 +27,13 @@ Protected Overridable ReadOnly Property ItemMetadataCollection As ObservableColl
 
 ### Property Value
 
-Type: [ObservableCollection](http://msdn.microsoft.com/en-us/library/ms668604)&lt;[ItemMetadata](itemmetadata-class-mspp-regions.md)&gt;
+Type: [ObservableCollection](http://msdn.microsoft.com/en-us/library/ms668604)&lt;[ItemMetadata](itemmetadata-class-mspp-regions)&gt;
 
-An [ObservableCollection&lt;T&gt;](http://msdn.microsoft.com/en-us/library/ms668604) of [ItemMetadata](itemmetadata-class-mspp-regions.md) with all the added views.
+An [ObservableCollection&lt;T&gt;](http://msdn.microsoft.com/en-us/library/ms668604) of [ItemMetadata](itemmetadata-class-mspp-regions) with all the added views.
 
-See Also
---------
+## See Also
+[Region Class](region-class-mspp-regions)
 
+[Region Members](region-members-mspp-regions)
 
-[Region Class](region-class-mspp-regions.md)
-
-[Region Members](region-members-mspp-regions.md)
-
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)

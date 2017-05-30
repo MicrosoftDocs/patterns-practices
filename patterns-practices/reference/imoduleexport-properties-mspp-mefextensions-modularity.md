@@ -4,16 +4,12 @@ Title: 'IModuleExport Properties (Microsoft.Practices.Prism.MefExtensions.Modula
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Modularity.IModuleExport'
 ms:mtpsurl: 'imoduleexport-properties-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-IModuleExport Properties
-========================
+
+# IModuleExport Properties
 
 The [IModuleExport](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -57,10 +53,7 @@ Gets the type of the module.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IModuleExport Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport)
+## See Also
+[IModuleExport Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport)
 
 [Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)

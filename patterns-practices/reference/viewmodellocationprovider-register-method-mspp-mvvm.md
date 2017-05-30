@@ -9,7 +9,7 @@ ms:mtpsurl: 'viewmodellocationprovider-register-method-mspp-mvvm.md'
 
 Registers the view model factory for the specified view type name.
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](mspp-mvvm-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](mspp-mvvm-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -61,8 +61,8 @@ Public Shared Sub Register (
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The viewmodel factory.
 
 ## See Also
-[ViewModelLocationProvider Class](viewmodellocationprovider-class-mspp-mvvm.md)
+[ViewModelLocationProvider Class](viewmodellocationprovider-class-mspp-mvvm)
 
-[ViewModelLocationProvider Members](viewmodellocationprovider-members-mspp-mvvm.md)
+[ViewModelLocationProvider Members](viewmodellocationprovider-members-mspp-mvvm)
 
-[Microsoft.Practices.Prism.Mvvm Namespace](mspp-mvvm-namespace.md)
+[Microsoft.Practices.Prism.Mvvm Namespace](mspp-mvvm-namespace)

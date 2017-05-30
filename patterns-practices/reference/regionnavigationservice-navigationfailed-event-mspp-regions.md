@@ -4,11 +4,8 @@ Title: 'RegionNavigationService.NavigationFailed Event (Microsoft.Practices.Pris
 ms:assetid: 'E:Microsoft.Practices.Prism.Regions.RegionNavigationService.NavigationFailed'
 ms:mtpsurl: 'regionnavigationservice-navigationfailed-event-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationService.NavigationFailed Event
-==================================================
+
+# RegionNavigationService.NavigationFailed Event
 
 Raised when a navigation request fails.
 
@@ -18,9 +15,7 @@ Raised when a navigation request fails.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public event EventHandler&lt;RegionNavigationFailedEventArgs&gt; NavigationFailedPublic Event NavigationFailed As EventHandler(Of RegionNavigationFailedEventArgs)
+public event EventHandler&lt;RegionNavigationFailedEventArgs&gt; NavigationFailedPublic Event NavigationFailed As EventHandler(Of RegionNavigationFailedEventArgs)
 ### Value
 
 Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;(Of &lt;([RegionNavigationFailedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs)&gt;)&gt;)
@@ -28,11 +23,8 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt
 
 [IRegionNavigationService.NavigationFailed](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice.navigationfailed)
 
-See Also
---------
-
-
-[RegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice)
+## See Also
+[RegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice)
 
 [RegionNavigationService Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationservice)
 

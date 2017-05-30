@@ -4,25 +4,18 @@ Title: 'ModuleInitializeException Constructor (SerializationInfo, StreamingConte
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializeException.\#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
 ms:mtpsurl: 'moduleinitializeexception-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInitializeException Constructor (SerializationInfo, StreamingContext)
-===========================================================================
+
+# ModuleInitializeException Constructor (SerializationInfo, StreamingContext)
 
 Initializes a new instance with serialized data.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 protected ModuleInitializeException(
 	SerializationInfo info,
 	StreamingContext context
@@ -48,14 +41,11 @@ Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/
 
 The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that contains contextual information about the source or destination.
 
-See Also
---------
+## See Also
+[ModuleInitializeException Class](moduleinitializeexception-class-mspp-modularity)
 
-
-[ModuleInitializeException Class](moduleinitializeexception-class-mspp-modularity.md)
-
-[ModuleInitializeException Members](moduleinitializeexception-members-mspp-modularity.md)
+[ModuleInitializeException Members](moduleinitializeexception-members-mspp-modularity)
 
 ModuleInitializeException Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)

@@ -4,11 +4,8 @@ Title: 'NavigationAsyncExtensions.RequestNavigate Method (INavigateAsync, Uri) (
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationAsyncExtensions.RequestNavigate(Microsoft.Practices.Prism.Regions.INavigateAsync,System.Uri)'
 ms:mtpsurl: 'navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions.md'
 ---
-
-Prism Class Library
-
-NavigationAsyncExtensions.RequestNavigate Method (INavigateAsync, Uri)
-==========================================================================
+
+# NavigationAsyncExtensions.RequestNavigate Method (INavigateAsync, Uri)
 
 Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
 
@@ -18,9 +15,7 @@ Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public static void RequestNavigate( this INavigateAsync navigation, Uri target )&lt;ExtensionAttribute&gt; Public Shared Sub RequestNavigate ( navigation As INavigateAsync, target As Uri )
+public static void RequestNavigate( this INavigateAsync navigation, Uri target )&lt;ExtensionAttribute&gt; Public Shared Sub RequestNavigate ( navigation As INavigateAsync, target As Uri )
 
 ### Parameters
 
@@ -36,11 +31,8 @@ The navigation target
 
 In Visual Basic and C\#, you can call this method as an instance method on any object of type [INavigateAsync](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 
-See Also
---------
-
-
-[NavigationAsyncExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions)
+## See Also
+[NavigationAsyncExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions)
 
 [NavigationAsyncExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationasyncextensions)
 

@@ -51,9 +51,9 @@ Returns <strong>Truetrue</strong> (<strong>True</strong> in Visual Basic) if the
 
 ## See Also
 
- [CompositePresentationEvent(Of TPayload) Class](compositepresentationevent-tpayload-class-mspp-events.md)
+ [CompositePresentationEvent(Of TPayload) Class](compositepresentationevent-tpayload-class-mspp-events)
  
-[CompositePresentationEvent(Of TPayload) Members](compositepresentationevent-tpayload-members-mspp-events.md)
+[CompositePresentationEvent(Of TPayload) Members](compositepresentationevent-tpayload-members-mspp-events)
 
-[Microsoft.Practices.Prism.Events Namespace](mspp-events-namespace.md)
+[Microsoft.Practices.Prism.Events Namespace](mspp-events-namespace)
 

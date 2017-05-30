@@ -4,11 +4,8 @@ Title: 'TraceLogger Constructor (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Logging.TraceLogger.\#ctor'
 ms:mtpsurl: 'tracelogger-constructor-mspp-logging.md'
 ---
-
-Prism Class Library
-
-TraceLogger Constructor
-=======================
+
+# TraceLogger Constructor
 
 Initializes a new instance of the [TraceLogger](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.tracelogger) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [TraceLogger](https://msdn.microsoft.com/libra
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public TraceLogger()Public Sub New
 
-
-public TraceLogger()Public Sub New
-
-See Also
---------
-
-
-[TraceLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.tracelogger)
+## See Also
+[TraceLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.tracelogger)
 
 [TraceLogger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.logging.tracelogger)
 

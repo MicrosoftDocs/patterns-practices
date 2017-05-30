@@ -4,14 +4,10 @@ Title: 'RegionNavigationService.RequestNavigate Method (Microsoft.Practices.Pris
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.RegionNavigationService.RequestNavigate'
 ms:mtpsurl: 'regionnavigationservice-requestnavigate-method-mspp-regions.md'
 ---
+
+# RegionNavigationService.RequestNavigate Method
 
-Prism Class Library
-
-RegionNavigationService.RequestNavigate Method
-==================================================
-
-Overload List
--------------
+## Overload List
 
 <span id="overloadMembersTableToggle"></span>
 <table>
@@ -41,11 +37,8 @@ Initiates navigation to the specified target.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice)
+## See Also
+[RegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice)
 
 [RegionNavigationService Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationservice)
 

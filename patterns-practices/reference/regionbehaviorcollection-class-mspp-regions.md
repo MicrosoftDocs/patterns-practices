@@ -4,11 +4,8 @@ Title: 'RegionBehaviorCollection Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionBehaviorCollection'
 ms:mtpsurl: 'regionbehaviorcollection-class-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionBehaviorCollection Class
-==============================
+
+# RegionBehaviorCollection Class
 
 A collection of [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior) instances, that are stored and retrieved by Key.
 
@@ -18,20 +15,14 @@ A collection of [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.p
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public class RegionBehaviorCollection : IRegionBehaviorCollection, IEnumerable&lt;KeyValuePair&lt;string, IRegionBehavior&gt;&gt;, IEnumerablePublic Class RegionBehaviorCollection Implements IRegionBehaviorCollection, IEnumerable(Of KeyValuePair(Of String, IRegionBehavior)), IEnumerable
 
-
-public class RegionBehaviorCollection : IRegionBehaviorCollection, IEnumerable&lt;KeyValuePair&lt;string, IRegionBehavior&gt;&gt;, IEnumerablePublic Class RegionBehaviorCollection Implements IRegionBehaviorCollection, IEnumerable(Of KeyValuePair(Of String, IRegionBehavior)), IEnumerable
-
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
 <span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Regions.RegionBehaviorCollection
 
-See Also
---------
-
-
-[RegionBehaviorCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehaviorcollection)
+## See Also
+[RegionBehaviorCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehaviorcollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

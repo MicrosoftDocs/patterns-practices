@@ -4,16 +4,12 @@ Title: 'RegionManager Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.RegionManager'
 ms:mtpsurl: 'regionmanager-members-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionManager Members
-=====================
+
+# RegionManager Members
 
 The [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
 <span id="constructorTableToggle"></span>
 <table>
@@ -36,8 +32,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
 <span id="methodTableToggle"></span>
 <table>
@@ -164,8 +159,7 @@ Notifies attached behaviors to update the region managers appropriatelly if need
 </tbody>
 </table>
 
-Extension Methods
------------------
+## Extension Methods
 
 <span id="extensionMethodTableToggle"></span>
 <table>
@@ -279,8 +273,7 @@ This method allows an IRegionManager to locate a specified region and navigate i
 </tbody>
 </table>
 
-Fields
-------
+## Fields
 
 <span id="fieldTableToggle"></span>
 <table>
@@ -317,8 +310,7 @@ Identifies the RegionName attached property.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
 <span id="propertyTableToggle"></span>
 <table>
@@ -341,8 +333,7 @@ Gets a collection of <a href="https://msdn.microsoft.com/library/microsoft.pract
 </tbody>
 </table>
 
-Attached Properties
--------------------
+## Attached Properties
 
 <span id="attachedPropertyTableToggle"></span>
 |                                                                                                           | Name                                                                                                        | Description |
@@ -351,8 +342,7 @@ Attached Properties
 | ![](https://msdn.microsoft.com/en-us/Gg405507.pubproperty(en-us,PandP.50).gif "Public attached property") | [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionmanager) |             |
 | ![](https://msdn.microsoft.com/en-us/Gg405507.pubproperty(en-us,PandP.50).gif "Public attached property") | [RegionName](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionname)       |             |
 
-Events
-------
+## Events
 
 <span id="eventTableToggle"></span>
 <table>
@@ -375,10 +365,7 @@ Notification used by attached behaviors to update the region managers appropriat
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)
+## See Also
+[RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

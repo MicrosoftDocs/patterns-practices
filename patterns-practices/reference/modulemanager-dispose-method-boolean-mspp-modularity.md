@@ -4,11 +4,8 @@ Title: 'ModuleManager.Dispose Method (Boolean) (Microsoft.Practices.Prism.Modula
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleManager.Dispose(System.Boolean)'
 ms:mtpsurl: 'modulemanager-dispose-method-boolean-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleManager.Dispose Method (Boolean)
-==========================================
+
+# ModuleManager.Dispose Method (Boolean)
 
 Disposes the associated [IModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader)s.
 
@@ -18,9 +15,7 @@ Disposes the associated [IModuleTypeLoader](https://msdn.microsoft.com/library/m
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected virtual void Dispose( bool disposing )Protected Overridable Sub Dispose ( disposing As Boolean )
+protected virtual void Dispose( bool disposing )Protected Overridable Sub Dispose ( disposing As Boolean )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ disposing
 Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 When trueTruetruetrue (True in Visual Basic), it is being called from the Dispose method.
 
-See Also
---------
-
-
-[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
+## See Also
+[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
 
 [ModuleManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulemanager)
 

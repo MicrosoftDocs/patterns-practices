@@ -7,7 +7,7 @@ ms:mtpsurl: 'regioncreationexception-events-mspp-regions-behaviors.md'
 
 # RegionCreationException Events
 
-The [RegionCreationException](regioncreationexception-class-mspp-regions-behaviors.md) type exposes the following members.
+The [RegionCreationException](regioncreationexception-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Events
 
@@ -34,6 +34,6 @@ Occurs when an exception is serialized to create an exception state object that 
 
 ## See Also
 
-[RegionCreationException Class](regioncreationexception-class-mspp-regions-behaviors.md)
+[RegionCreationException Class](regioncreationexception-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)

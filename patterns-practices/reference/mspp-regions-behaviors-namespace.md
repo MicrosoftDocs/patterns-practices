@@ -4,16 +4,12 @@ Title: 'Microsoft.Practices.Prism.Regions.Behaviors Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.Regions.Behaviors'
 ms:mtpsurl: 'mspp-regions-behaviors-namespace.md'
 ---
-
-Prism Class Library
-
-Microsoft.Practices.Prism.Regions.Behaviors Namespace
-=====================================================
+
+# Microsoft.Practices.Prism.Regions.Behaviors Namespace
 
  
 
-Classes
--------
+## Classes
 
 <span id="classToggle"></span>
 <table>
@@ -107,8 +103,7 @@ Behavior that synchronizes the <a href="https://msdn.microsoft.com/library/micro
 </tbody>
 </table>
 
-Interfaces
-----------
+## Interfaces
 
 <span id="interfaceToggle"></span>
 <table>
