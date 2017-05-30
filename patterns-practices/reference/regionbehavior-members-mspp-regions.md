@@ -121,7 +121,7 @@ Returns a string that represents the current object.
 <td><img src="https://msdn.microsoft.com/en-us/Gg405503.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehavior.isattached(v=pandp.50)">IsAttached</a></td>
 <td><div class="summary">
-Returns **truetrue** (**True** in Visual Basic) if the behavior is attached to a region, **falsefalse** (**False** in Visual Basic) otherwise.
+Returns <strong>truetrue</strong> (<strong>True</strong> in Visual Basic) if the behavior is attached to a region, <strong>falsefalse</strong> (<strong>False</strong> in Visual Basic) otherwise.
 </div></td>
 </tr>
 <tr class="even">
