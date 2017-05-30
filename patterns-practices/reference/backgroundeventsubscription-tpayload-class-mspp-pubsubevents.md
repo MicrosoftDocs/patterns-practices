@@ -7,7 +7,7 @@ ms:mtpsurl: 'backgroundeventsubscription-tpayload-class-mspp-pubsubevents.md'
 
 # BackgroundEventSubscription(Of TPayload) Class
 
-Extends [EventSubscription(Of TPayload)](eventsubscription-tpayload-class-mspp-pubsubevents) to invoke the [Action](eventsubscription-tpayload-action-property-mspp-pubsubevents) delegate in a background thread.
+Extends [EventSubscription(Of TPayload)](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents) to invoke the [Action](/patterns-practices/reference/eventsubscription-tpayload-action-property-mspp-pubsubevents) delegate in a background thread.
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace)
 
