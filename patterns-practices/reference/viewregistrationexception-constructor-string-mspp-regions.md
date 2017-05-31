@@ -5,37 +5,43 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewRegistrationException.\#cto
 ms:mtpsurl: 'viewregistrationexception-constructor-mspp-regions.md'
 ---
 
-Prism Class Library
+# ViewRegistrationException Constructor (String)
 
-ViewRegistrationException Constructor (String)
-==============================================
+Initializes a new instance of the [ViewRegistrationException](/patterns-practices/reference/viewregistrationexception-class-mspp-regions) class.
 
-Initializes a new instance of the [ViewRegistrationException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception) class.
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
-public ViewRegistrationException( string message )Public Sub New ( message As String )
+```C#
+public ViewRegistrationException(
+	string message
+)
+```
+```VB
+'Declaration
+Public Sub New ( 
+	message As String
+)
+```
 
 ### Parameters
 
-message  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+_message_  
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+
 The exception message.
 
-See Also
---------
+## See Also
 
+[ViewRegistrationException Class](/patterns-practices/reference/viewregistrationexception-class-mspp-regions)
 
-[ViewRegistrationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception)
+[ViewRegistrationException Members](/patterns-practices/reference/viewregistrationexception-members-mspp-regions)
 
-[ViewRegistrationException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewregistrationexception)
+ViewRegistrationException Overload
 
-[ViewRegistrationException Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.regions.viewregistrationexception.)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
