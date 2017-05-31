@@ -52,7 +52,7 @@ Handler to remove.
 
 ## See Also
 
-[WeakEventHandlerManager Class](/patterns-practices/reference/weakeventhandlermanager-class-mspp-commands)
+[WeakEventHandlerManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager(v=pandp.50))
 
 [WeakEventHandlerManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager_members(v=pandp.50))
 

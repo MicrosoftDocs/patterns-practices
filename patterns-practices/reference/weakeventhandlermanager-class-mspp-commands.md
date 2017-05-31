@@ -32,12 +32,12 @@ public static class WeakEventHandlerManagerPublic NotInheritable Class WeakEvent
 
 Microsoft.Practices.Prism.Commands.WeakEventHandlerManager
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Commands.WeakEventHandlerManager
 
 ## See Also
 
-[WeakEventHandlerManager Members](/weakeventhandlermanager-members-mspp-commands)
+[WeakEventHandlerManager Members](/patterns-practices/reference/weakeventhandlermanager-members-mspp-commands)
 
 [WeakEventHandlerManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.weakeventhandlermanager)
 

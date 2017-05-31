@@ -4,7 +4,8 @@ Title: 'InvokeCommandAction Properties (Microsoft.Practices.Prism.Interactivity)
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction'
 ms:mtpsurl: 'invokecommandaction-properties-mspp-interactivity.md'
 ---
-
+
+
 # InvokeCommandAction Properties
 
 The [InvokeCommandAction](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity) type exposes the following members.
@@ -24,12 +25,12 @@ The [InvokeCommandAction](/patterns-practices/reference/invokecommandaction-clas
 <tr class="odd">
 <td>![Protected property](/images/protproperty.gif)</td>
 <td>AssociatedObject</td>
-<td>(Inherited from TriggerAction&lt;(Of &lt;(<a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>&gt;)&gt;).)</td>
+<td>(Inherited from TriggerAction(Of <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Protected property](/images/protproperty.gif)</td>
 <td>AssociatedObjectTypeConstraint</td>
-<td>(Inherited from TriggerAction&lt;(Of &lt;(<a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>&gt;)&gt;).)</td>
+<td>(Inherited from TriggerAction(Of <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/images/pubproperty.gif)</td>
@@ -109,6 +110,8 @@ Gets or sets the TriggerParameterPath value.
 </table>
 
 ## See Also
-[InvokeCommandAction Class](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity)
+
+
+[InvokeCommandAction Class](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)

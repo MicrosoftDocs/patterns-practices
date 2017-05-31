@@ -11,7 +11,9 @@ Creates a new instance of BackgroundEventSubscription.
 
 **Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) 
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -22,7 +24,9 @@ public DispatcherEventSubscription(
 	IDispatcherFacade dispatcher
 )
 ```
-### Parameters
+
+
+### Parameters
 
 *actionReference*
 
@@ -75,7 +79,9 @@ Creates a new instance of BackgroundEventSubscription.
 
 **Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -87,7 +93,9 @@ Public Sub New (
 	dispatcher As IDispatcherFacade
 )
 ```
-### Parameters
+
+
+### Parameters
 
 *actionReference*
 

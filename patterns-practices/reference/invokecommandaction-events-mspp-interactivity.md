@@ -5,16 +5,18 @@ ms:assetid: 'Events.T:Microsoft.Practices.Prism.Interactivity.InvokeCommandActio
 ms:mtpsurl: 'invokecommandaction-events-mspp-interactivity.md'
 ---
 
-
 # InvokeCommandAction Events
 
-The [InvokeCommandAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction) type exposes the following members.
+The [InvokeCommandAction](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50)) type exposes the following members.
 
 ## Events
 
-
 <table>
-
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th> </th>
@@ -36,6 +38,6 @@ Occurs when the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freez
 
 ## See Also
 
-[InvokeCommandAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction)
+[InvokeCommandAction Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50))
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
+[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))

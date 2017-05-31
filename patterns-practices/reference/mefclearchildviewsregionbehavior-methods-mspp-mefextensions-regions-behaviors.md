@@ -4,7 +4,8 @@ Title: 'MefClearChildViewsRegionBehavior Methods (Microsoft.Practices.Prism.MefE
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefClearChildViewsRegionBehavior'
 ms:mtpsurl: 'mefclearchildviewsregionbehavior-methods-mspp-mefextensions-regions-behaviors.md'
 ---
-
+
+
 # MefClearChildViewsRegionBehavior Methods
 
 The [MefClearChildViewsRegionBehavior](/patterns-practices/reference/mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
@@ -23,11 +24,11 @@ The [MefClearChildViewsRegionBehavior](/patterns-practices/reference/mefclearchi
 <tbody>
 <tr class="odd">
 <td>![Public method](/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.attach">Attach</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionbehavior.attach">Attach</a></td>
 <td><div class="summary">
 Attaches the behavior to the region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/mspp-regions-namespace.regionbehavior">RegionBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/images/public-method.gif)</td>
@@ -71,11 +72,11 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Protected method](/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.onattach">OnAttach</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.behaviors.clearchildviewsregionbehavior.onattach">OnAttach</a></td>
 <td><div class="summary">
-Subscribes to the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>'s PropertyChanged method to monitor its RegionManager property.
+Subscribes to the <a href="/patterns-practices/reference/mspp-regions-namespace.region">Region</a>'s PropertyChanged method to monitor its RegionManager property.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior">ClearChildViewsRegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/mspp-regions-namespace.behaviors.clearchildviewsregionbehavior">ClearChildViewsRegionBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/images/public-method.gif)</td>
@@ -89,6 +90,8 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[MefClearChildViewsRegionBehavior Class](/patterns-practices/reference/mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors)
+
+
+[MefClearChildViewsRegionBehavior Class](/patterns-practices/reference/mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
