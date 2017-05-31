@@ -21,14 +21,14 @@ ms:mtpsurl: 'addmodule-mthd-moduleinfogroup-str-type-str.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroupextensions.addmodule(microsoft.practices.prism.modularity.moduleinfogroup%2csystem.type%2csystem.string%5b%5d)">AddModule(ModuleInfoGroup, Type, array&lt;String&gt;)</a></td>
 <td><div class="summary">
 Adds a new module that is statically referenced to the specified module info group.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroupextensions.addmodule(microsoft.practices.prism.modularity.moduleinfogroup%2csystem.string%2csystem.type%2csystem.string%5b%5d)">AddModule(ModuleInfoGroup, String, Type, array&lt;String&gt;)</a></td>
 <td><div class="summary">
 Adds a new module that is statically referenced to the specified module info group.

@@ -29,15 +29,15 @@ The [MefRegionManager](/patterns-practices/reference/mefregionmanager-class-mspp
 <tr>
 <td>
 
-![Public property](/images/pubproperty.gif)
+![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
 <td>
-[Regions](/patterns-practices/reference/regionmanager-regions-property-mspp-regions)
+<a href="regionmanager-regions-property-mspp-regions">Regions</a>
 </td>
 <td>
 <div>
-Gets a collection of [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) that identify each region by name. You can use this collection to add or remove regions to the current region manager.
-</div> (Inherited from [RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions).)</td>
+Gets a collection of <a href="iregion-interface-mspp-regions">IRegion</a> that identify each region by name. You can use this collection to add or remove regions to the current region manager.
+</div> (Inherited from <a href="regionmanager-class-mspp-regions">RegionManager</a>.)</td>
 </tr>
 </tbody>
 </table>

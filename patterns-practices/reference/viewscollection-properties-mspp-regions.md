@@ -23,7 +23,7 @@ The [ViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.pri
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection.sortcomparison">SortComparison</a></td>
 <td><div class="summary">
 Gets or sets the comparison used to sort the views.

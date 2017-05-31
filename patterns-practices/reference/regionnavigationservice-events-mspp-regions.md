@@ -22,21 +22,21 @@ The [RegionNavigationService](/patterns-practices/reference/regionnavigationserv
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/images/pubevent.gif)</td>
+<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigated">Navigated</a></td>
 <td><div class="summary">
 Raised when the region is navigated to content.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public event](/images/pubevent.gif)</td>
+<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigating">Navigating</a></td>
 <td><div class="summary">
 Raised when the region is about to be navigated to content.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public event](/images/pubevent.gif)</td>
+<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigationfailed">NavigationFailed</a></td>
 <td><div class="summary">
 Raised when a navigation request fails.

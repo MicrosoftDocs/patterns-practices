@@ -26,7 +26,7 @@ The [InvokeCommandAction](https://msdn.microsoft.com/en-us/library/microsoft.pra
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/images/pubevent.gif)</td>
+<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms596566">Changed</a></td>
 <td><div class="summary">
 Occurs when the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> or an object it contains is modified.

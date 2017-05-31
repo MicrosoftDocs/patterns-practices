@@ -21,12 +21,12 @@ ms:mtpsurl: 'compositepresentationevent-tpayload-unsubscribe-method-mspp-events.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>Unsubscribe(SubscriptionToken)</td>
 <td>(Inherited from EventBase.)</td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601.unsubscribe(system.action%7b%600%7d)">Unsubscribe(Action&lt;(Of &lt;(TPayload&gt;)&gt;))</a></td>
 <td><div class="summary">
 Removes the first subscriber matching <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;(Of &lt;(T&gt;)&gt;)</a> from the subscribers' list.

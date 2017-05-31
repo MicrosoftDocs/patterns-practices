@@ -21,35 +21,35 @@ ms:mtpsurl: 'moduletypeloadernotfoundexception-constructor-mspp-modularity.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception.">ModuleTypeLoaderNotFoundException()()()</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception">ModuleTypeLoaderNotFoundException</a> class.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception.">ModuleTypeLoaderNotFoundException(String)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception">ModuleTypeLoaderNotFoundException</a> class with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Protected method](/images/protmethod.gif)</td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception.">ModuleTypeLoaderNotFoundException(SerializationInfo, StreamingContext)</a></td>
 <td><div class="summary">
 Initializes a new instance with serialized data.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception.">ModuleTypeLoaderNotFoundException(String, Exception)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception">ModuleTypeLoaderNotFoundException</a> class with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception.">ModuleTypeLoaderNotFoundException(String, String, Exception)</a></td>
 <td><div class="summary">
 Initializes the exception with a particular module, error message and inner exception that happened.

@@ -23,21 +23,21 @@ The [IRegionNavigationService](https://msdn.microsoft.com/library/microsoft.prac
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/images/pubevent.gif)</td>
+<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice.navigated">Navigated</a></td>
 <td><div class="summary">
 Raised when the region is navigated to content.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public event](/images/pubevent.gif)</td>
+<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice.navigating">Navigating</a></td>
 <td><div class="summary">
 Raised when the region is about to be navigated to content.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public event](/images/pubevent.gif)</td>
+<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice.navigationfailed">NavigationFailed</a></td>
 <td><div class="summary">
 Raised when a navigation request fails.

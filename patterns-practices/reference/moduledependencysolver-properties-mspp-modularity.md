@@ -23,7 +23,7 @@ The [ModuleDependencySolver](https://msdn.microsoft.com/library/microsoft.practi
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver.modulecount">ModuleCount</a></td>
 <td><div class="summary">
 Gets the number of modules added to the solver.

@@ -21,21 +21,21 @@ ms:mtpsurl: 'listdictionary-tkey-tvalue-remove-method-mspp.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602.remove(%600)">Remove(TKey)</a></td>
 <td><div class="summary">
 Removes a list by key.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602.remove(%601)">Remove(TValue)</a></td>
 <td><div class="summary">
 Removes a value from all lists where it may be found.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602.remove(%600%2c%601)">Remove(TKey, TValue)</a></td>
 <td><div class="summary">
 Removes a value from the list with the given key.

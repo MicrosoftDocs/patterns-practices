@@ -23,14 +23,14 @@ The [InteractionRequestedEventArgs](https://msdn.microsoft.com/library/microsoft
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs.callback">Callback</a></td>
 <td><div class="summary">
 Gets the callback to execute when an interaction is completed.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs.context">Context</a></td>
 <td><div class="summary">
 Gets the context for a requested interaction.

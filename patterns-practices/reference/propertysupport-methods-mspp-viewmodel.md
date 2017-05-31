@@ -23,7 +23,7 @@ The [PropertySupport](https://msdn.microsoft.com/library/microsoft.practices.pri
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.propertysupport.extractpropertyname%60%601(system.linq.expressions.expression%7bsystem.func%7b%60%600%7d%7d)">ExtractPropertyName&lt;(Of &lt;(T&gt;)&gt;)</a></td>
 <td><div class="summary">
 Extracts the property name from a property expression.

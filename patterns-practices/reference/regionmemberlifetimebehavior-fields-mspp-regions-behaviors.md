@@ -23,7 +23,7 @@ The [RegionMemberLifetimeBehavior](https://msdn.microsoft.com/library/microsoft.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/images/pubfield.gif)![Static member](/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior.behaviorkey">BehaviorKey</a></td>
 <td><div class="summary">
 The key for this behavior.

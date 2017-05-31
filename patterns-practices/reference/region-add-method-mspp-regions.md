@@ -23,21 +23,21 @@ Adds a new view to the region.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.add(system.object)">Add(Object)</a></td>
 <td><div class="summary">
 Adds a new view to the region.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.add(system.object%2csystem.string)">Add(Object, String)</a></td>
 <td><div class="summary">
 Adds a new view to the region.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.add(system.object%2csystem.string%2csystem.boolean)">Add(Object, String, Boolean)</a></td>
 <td><div class="summary">
 Adds a new view to the region.

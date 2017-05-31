@@ -23,7 +23,7 @@ The [ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade.log(system.string%2cmicrosoft.practices.prism.logging.category%2cmicrosoft.practices.prism.logging.priority)">Log</a></td>
 <td><div class="summary">
 Write a new log entry with the specified category and priority.

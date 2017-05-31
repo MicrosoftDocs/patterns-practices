@@ -26,21 +26,21 @@ The [CommandBehaviorBase&lt;T&gt;](https://msdn.microsoft.com/en-us/library/dn73
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/en-us/library/dn736180(v=pandp.50)">Command</a></td>
 <td><div class="summary">
 Corresponding command to be execute and monitored for <a href="http://msdn.microsoft.com/en-us/library/ms523106">CanExecuteChanged</a>
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/en-us/library/dn683970(v=pandp.50)">CommandParameter</a></td>
 <td><div class="summary">
 The parameter to supply the command during execution
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Protected property](/images/protproperty.gif)</td>
+<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/en-us/library/dn736268(v=pandp.50)">TargetObject</a></td>
 <td><div class="summary">
 Object to which this behavior is attached.

@@ -23,7 +23,7 @@ The [IModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.pris
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog.modules">Modules</a></td>
 <td><div class="summary">
 Gets all the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a> classes that are in the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog">ModuleCatalog</a>.

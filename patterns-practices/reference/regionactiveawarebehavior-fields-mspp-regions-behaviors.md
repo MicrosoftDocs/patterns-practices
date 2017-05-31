@@ -23,7 +23,7 @@ The [RegionActiveAwareBehavior](https://msdn.microsoft.com/library/microsoft.pra
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/images/pubfield.gif)![Static member](/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior.behaviorkey">BehaviorKey</a></td>
 <td><div class="summary">
 Name that identifies the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior">RegionActiveAwareBehavior</a> behavior in a collection of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a>.

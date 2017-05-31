@@ -23,7 +23,7 @@ The [IConfigurationStore](https://msdn.microsoft.com/library/microsoft.practices
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iconfigurationstore.retrievemoduleconfigurationsection">RetrieveModuleConfigurationSection</a></td>
 <td><div class="summary">
 Gets the module configuration data.

@@ -23,7 +23,7 @@ The [NotificationObject](https://msdn.microsoft.com/library/microsoft.practices.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/images/pubevent.gif)</td>
+<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject.propertychanged">PropertyChanged</a></td>
 <td><div class="summary">
 Raised when a property on this object has a new value.

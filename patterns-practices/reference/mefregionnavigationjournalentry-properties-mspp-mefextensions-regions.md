@@ -22,7 +22,7 @@ The [MefRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microso
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.parameters">Parameters</a></td>
 <td><div class="summary">
 Gets or sets the NavigationParameters instance.
@@ -30,7 +30,7 @@ Gets or sets the NavigationParameters instance.
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry">RegionNavigationJournalEntry</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.uri">Uri</a></td>
 <td><div class="summary">
 Gets or sets the URI.

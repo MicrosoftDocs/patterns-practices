@@ -23,28 +23,28 @@ The [IRegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.prac
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal.clear">Clear</a></td>
 <td><div class="summary">
 Clears the journal of current, back, and forward navigation histories.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal.goback">GoBack</a></td>
 <td><div class="summary">
 Navigates to the most recent entry in the back navigation history, or does nothing if no entry exists in back navigation.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal.goforward">GoForward</a></td>
 <td><div class="summary">
 Navigates to the most recent entry in the forward navigation history, or does nothing if no entry exists in forward navigation.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal.recordnavigation(microsoft.practices.prism.regions.iregionnavigationjournalentry)">RecordNavigation</a></td>
 <td><div class="summary">
 Records the navigation to the entry..

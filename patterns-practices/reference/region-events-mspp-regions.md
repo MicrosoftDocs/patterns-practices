@@ -22,7 +22,7 @@ The [Region](/patterns-practices/reference/region-class-mspp-regions) type expos
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/images/pubevent.gif)</td>
+<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.propertychanged">PropertyChanged</a></td>
 <td><div class="summary">
 Occurs when a property value changes.

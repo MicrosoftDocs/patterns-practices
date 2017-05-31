@@ -22,14 +22,14 @@ The [MefModuleManager](/patterns-practices/reference/mefmodulemanager-class-mspp
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected property](/images/protproperty.gif)</td>
+<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager.importedmodules">ImportedModules</a></td>
 <td><div class="summary">
 Gets or sets the modules to be imported.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Protected property](/images/protproperty.gif)</td>
+<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.modulecatalog">ModuleCatalog</a></td>
 <td><div class="summary">
 The module catalog specified in the constructor.
@@ -37,7 +37,7 @@ The module catalog specified in the constructor.
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager">ModuleManager</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager.moduletypeloaders">ModuleTypeLoaders</a></td>
 <td><div class="summary">
 Gets or sets the type loaders used by the module manager.

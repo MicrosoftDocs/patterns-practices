@@ -22,14 +22,14 @@ The [IRegionManagerAccessor](/patterns-practices/reference/iregionmanageraccesso
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor.getregionmanager(system.windows.dependencyobject)">GetRegionManager</a></td>
 <td><div class="summary">
 Gets the value of the RegionName attached property.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor.getregionname(system.windows.dependencyobject)">GetRegionName</a></td>
 <td><div class="summary">
 Gets the value for the RegionName attached property.

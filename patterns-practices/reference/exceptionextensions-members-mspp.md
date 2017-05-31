@@ -23,21 +23,21 @@ The [ExceptionExtensions](https://msdn.microsoft.com/library/microsoft.practices
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions.getrootexception(system.exception)">GetRootException</a></td>
 <td><div class="summary">
 Looks at all the inner exceptions of the exception parameter to find the most likely root cause of the exception. This works by skipping all registered exception types.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions.isframeworkexceptionregistered(system.type)">IsFrameworkExceptionRegistered</a></td>
 <td><div class="summary">
 Determines whether the exception type is already registered using the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions.registerframeworkexceptiontype(system.type)">RegisterFrameworkExceptionType(Type)</a> method
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions.registerframeworkexceptiontype(system.type)">RegisterFrameworkExceptionType</a></td>
 <td><div class="summary">
 Register the type of an Exception that is thrown by the framework. The <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions.getrootexception(system.exception)">GetRootException(Exception)</a> method uses this list of Exception types to find out if something has gone wrong.

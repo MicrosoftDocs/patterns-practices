@@ -23,7 +23,7 @@ The [IAssemblyResolver](https://msdn.microsoft.com/library/microsoft.practices.p
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iassemblyresolver.loadassemblyfrom(system.string)">LoadAssemblyFrom</a></td>
 <td><div class="summary">
 Load an assembly when it's required by the application.
