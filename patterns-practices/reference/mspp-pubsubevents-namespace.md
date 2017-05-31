@@ -25,9 +25,9 @@ ms:mtpsurl: 'mspp-pubsubevents-namespace.md'
 <tr class="odd">
 <td>![Public class](/images/public-class.gif)</td>
 
-<td><a href="backgroundeventsubscription-tpayload-class-mspp-pubsubevents.md">BackgroundEventSubscription&lt;TPayload&gt;</a></td>
+<td><a href="/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents">BackgroundEventSubscription&lt;TPayload&gt;</a></td>
 <td><div class="summary">
-Extends <a href="eventsubscription-tpayload-class-mspp-pubsubevents.md">EventSubscription&lt;TPayload&gt;</a> to invoke the <a href="eventsubscription-tpayload-action-property-mspp-pubsubevents.md">Action</a> delegate in a background thread.
+Extends <a href="/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents">EventSubscription&lt;TPayload&gt;</a> to invoke the <a href="/patterns-practices/reference/eventsubscription-tpayload-action-property-mspp-pubsubevents">Action</a> delegate in a background thread.
 
 <td>[BackgroundEventSubscription&lt;TPayload&gt;](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)</td>
 <td><div class="summary">
@@ -38,7 +38,7 @@ Extends [EventSubscription&lt;TPayload&gt;](/patterns-practices/reference/events
 <tr class="even">
 <td>![Public class](/images/public-class.gif)</td>
 
-<td><a href="dataeventargs-tdata-class-mspp-pubsubevents.md">DataEventArgs&lt;TData&gt;</a></td>
+<td><a href="/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents">DataEventArgs&lt;TData&gt;</a></td>
 
 <td>[DataEventArgs&lt;TData&gt;](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents)</td>
 
@@ -49,7 +49,7 @@ Generic arguments class to pass to event handlers that need to receive data.
 <tr class="odd">
 <td>![Public class](/images/public-class.gif)</td>
 
-<td><a href="delegatereference-class-mspp-pubsubevents.md">DelegateReference</a></td>
+<td><a href="/patterns-practices/reference/delegatereference-class-mspp-pubsubevents">DelegateReference</a></td>
 
 <td>[DelegateReference](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents)</td>
 
@@ -60,9 +60,9 @@ Represents a reference to a [Delegate](/patterns-practices/reference/http://msdn
 <tr class="even">
 <td>![Public class](/images/public-class.gif)</td>
 
-<td><a href="dispatchereventsubscription-tpayload-class-mspp-pubsubevents.md">DispatcherEventSubscription&lt;TPayload&gt;</a></td>
+<td><a href="/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-pubsubevents">DispatcherEventSubscription&lt;TPayload&gt;</a></td>
 <td><div class="summary">
-Extends <a href="eventsubscription-tpayload-class-mspp-pubsubevents.md">EventSubscription&lt;TPayload&gt;</a> to invoke the <a href="eventsubscription-tpayload-action-property-mspp-pubsubevents.md">Action</a> delegate in a specific <a href="http://msdn.microsoft.com/en-us/library/wx31754f">SynchronizationContext</a>.
+Extends <a href="/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents">EventSubscription&lt;TPayload&gt;</a> to invoke the <a href="/patterns-practices/reference/eventsubscription-tpayload-action-property-mspp-pubsubevents">Action</a> delegate in a specific <a href="http://msdn.microsoft.com/en-us/library/wx31754f">SynchronizationContext</a>.
 
 <td>[DispatcherEventSubscription&lt;TPayload&gt;](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-pubsubevents)</td>
 <td><div class="summary">
@@ -73,9 +73,9 @@ Extends [EventSubscription&lt;TPayload&gt;](/patterns-practices/reference/events
 <tr class="odd">
 <td>![Public class](/images/public-class.gif)</td>
 
-<td><a href="eventaggregator-class-mspp-pubsubevents.md">EventAggregator</a></td>
+<td><a href="/patterns-practices/reference/eventaggregator-class-mspp-pubsubevents">EventAggregator</a></td>
 <td><div class="summary">
-Implements <a href="ieventaggregator-interface-mspp-pubsubevents.md">IEventAggregator</a>.
+Implements <a href="/patterns-practices/reference/ieventaggregator-interface-mspp-pubsubevents">IEventAggregator</a>.
 
 <td>[EventAggregator](/patterns-practices/reference/eventaggregator-class-mspp-pubsubevents)</td>
 <td><div class="summary">
@@ -86,7 +86,7 @@ Implements [IEventAggregator](/patterns-practices/reference/ieventaggregator-int
 <tr class="even">
 <td>![Public class](/images/public-class.gif)</td>
 
-<td><a href="eventbase-class-mspp-pubsubevents.md">EventBase</a></td>
+<td><a href="/patterns-practices/reference/eventbase-class-mspp-pubsubevents">EventBase</a></td>
 
 <td>[EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)</td>
 
@@ -97,7 +97,7 @@ Defines a base class to publish and subscribe to events.
 <tr class="odd">
 <td>![Public class](/images/public-class.gif)</td>
 
-<td><a href="eventsubscription-tpayload-class-mspp-pubsubevents.md">EventSubscription&lt;TPayload&gt;</a></td>
+<td><a href="/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents">EventSubscription&lt;TPayload&gt;</a></td>
 
 <td>[EventSubscription&lt;TPayload&gt;](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)</td>
 
@@ -108,7 +108,7 @@ Provides a way to retrieve a [Delegate](/patterns-practices/reference/http://msd
 <tr class="even">
 <td>![Public class](/images/public-class.gif)</td>
 
-<td><a href="pubsubevent-tpayload-class-mspp-pubsubevents.md">PubSubEvent&lt;TPayload&gt;</a></td>
+<td><a href="/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents">PubSubEvent&lt;TPayload&gt;</a></td>
 
 <td>[PubSubEvent&lt;TPayload&gt;](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)</td>
 
@@ -119,9 +119,9 @@ Defines a class that manages publication and subscription to events.
 <tr class="odd">
 <td>![Public class](/images/public-class.gif)</td>
 
-<td><a href="subscriptiontoken-class-mspp-pubsubevents.md">SubscriptionToken</a></td>
+<td><a href="/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents">SubscriptionToken</a></td>
 <td><div class="summary">
-Subscription token returned from <a href="eventbase-class-mspp-pubsubevents.md">EventBase</a> on subscribe.
+Subscription token returned from <a href="/patterns-practices/reference/eventbase-class-mspp-pubsubevents">EventBase</a> on subscribe.
 
 <td>[SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)</td>
 <td><div class="summary">
@@ -148,7 +148,7 @@ Subscription token returned from [EventBase](/patterns-practices/reference/event
 <tr class="odd">
 <td>![Public interface](/images/public-interface.gif)</td>
 
-<td><a href="idelegatereference-interface-mspp-pubsubevents.md">IDelegateReference</a></td>
+<td><a href="/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents">IDelegateReference</a></td>
 
 <td>[IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)</td>
 
@@ -159,7 +159,7 @@ Represents a reference to a [Delegate](/patterns-practices/reference/http://msdn
 <tr class="even">
 <td>![Public interface](/images/public-interface.gif)</td>
 
-<td><a href="ieventaggregator-interface-mspp-pubsubevents.md">IEventAggregator</a></td>
+<td><a href="/patterns-practices/reference/ieventaggregator-interface-mspp-pubsubevents">IEventAggregator</a></td>
 
 <td>[IEventAggregator](/patterns-practices/reference/ieventaggregator-interface-mspp-pubsubevents)</td>
 
@@ -199,9 +199,9 @@ Defines a contract for an event subscription to be used by [EventBase](/patterns
 <tr class="odd">
 <td>![Public enumeration](/images/pubenumeration.gif)</td>
 
-<td><a href="threadoption-enumeration-mspp-pubsubevents.md">ThreadOption</a></td>
+<td><a href="/patterns-practices/reference/threadoption-enumeration-mspp-pubsubevents">ThreadOption</a></td>
 <td><div class="summary">
-Specifies on which thread a <a href="pubsubevent-tpayload-class-mspp-pubsubevents.md">PubSubEvent&lt;TPayload&gt;</a> subscriber will be called.
+Specifies on which thread a <a href="/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents">PubSubEvent&lt;TPayload&gt;</a> subscriber will be called.
 
 <td>[ThreadOption](/patterns-practices/reference/threadoption-enumeration-mspp-pubsubevents)</td>
 <td><div class="summary">
