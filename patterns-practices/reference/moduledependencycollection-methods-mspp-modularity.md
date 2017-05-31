@@ -174,11 +174,11 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 ![Protected method](/images/protmethod.gif)
 </td>
 <td>
-<a href="moduledependencycoll-createnew-method">CreateNewElement<div></a>
+<a href="/patterns-practices/reference/moduledependencycoll-createnew-method">CreateNewElement<div></a>
 </td>
 <td>
 <div>
-Creates a new <a href="moduledependencyconfigurationelement-class-mspp-modularity">ModuleDependencyConfigurationElement</a>.
+Creates a new <a href="/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity">ModuleDependencyConfigurationElement</a>.
 </div> (Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8" target="_blank">ConfigurationElementCollection<div>.CreateNewElement<div></a>.)</td>
 </tr>
 <tr>
@@ -231,7 +231,7 @@ Creates a new <a href="moduledependencyconfigurationelement-class-mspp-modularit
 ![Protected method](/images/protmethod.gif)
 </td>
 <td>
-<a href="moduledependencycollection-getelementkey-method-mspp-modularity">GetElementKey</a>
+<a href="/patterns-practices/reference/moduledependencycollection-getelementkey-method-mspp-modularity">GetElementKey</a>
 </td>
 <td>
 <div>

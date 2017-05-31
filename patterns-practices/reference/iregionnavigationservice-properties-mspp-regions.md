@@ -33,7 +33,7 @@ The [IRegionNavigationService](/patterns-practices/reference/iregionnavigationse
 
  </td>
  <td>
-<a href="iregionnavigationservice-journal-property-mspp-regions">Journal</a>
+<a href="/patterns-practices/reference/iregionnavigationservice-journal-property-mspp-regions">Journal</a>
  </td>
  <td>
 <div>
@@ -47,7 +47,7 @@ Gets the journal.
 ![Public property](/images/pubproperty.gif)
  </td>
  <td>
-<a href="iregionnavigationservice-region-property-mspp-regions">Region</a>
+<a href="/patterns-practices/reference/iregionnavigationservice-region-property-mspp-regions">Region</a>
  </td>
  <td>
 <div>
