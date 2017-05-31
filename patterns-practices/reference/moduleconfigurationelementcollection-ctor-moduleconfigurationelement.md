@@ -1,40 +1,80 @@
----
+--
 TOCTitle: 'ModuleConfigurationElementCollection Constructor (ModuleConfigurationElement[])'
 Title: 'ModuleConfigurationElementCollection Constructor (ModuleConfigurationElement[]) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection.\#ctor(Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement[])'
 ms:mtpsurl: 'moduleconfigurationelementcollection-constructor-mspp-modularity.md'
 ---
-
-# ModuleConfigurationElementCollection Constructor (array&lt;ModuleConfigurationElement&gt;)
 
-Initializes a new [ModuleConfigurationElementCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+# ModuleConfigurationElementCollection Constructor (ModuleConfigurationElement[])
+
+Initializes a new [ModuleConfigurationElementCollection](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity).
+
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public ModuleConfigurationElementCollection( ModuleConfigurationElement[] modules )Public Sub New ( modules As ModuleConfigurationElement() )
+```C#
+public ModuleConfigurationElementCollection( ModuleConfigurationElement[] modules )
+```
 
 ### Parameters
 
-modules  
-Type: array&lt;[Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)&gt;
-The initial set of [ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement).
+*modules*
+
+Type: [Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity)[]
+
+The initial set of [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity).
 
 ## Exceptions
 
+
+<table><tbody><tr responsive="true"><th class="exceptionNameColumn" scope="col">Exception</th><th class="exceptionConditionColumn" scope="col">Condition</th></tr><tr><td data-th="Exception"><a href="http://msdn2.microsoft.com/en-us/library/27426hcy" target="_blank">System<span xmlns="">.</span>ArgumentNullException</a></td><td data-th="Condition">An <a href="http://msdn2.microsoft.com/en-us/library/27426hcy" target="_blank">ArgumentNullException</a> is thrown if <span class="parameter"><i>modules</i></span> is <span class="input"><span xmlns=""><strong>null</strong></span></span><span class="nu">a null reference (<span class="input"><strong>Nothing</strong></span> in Visual Basic)</span>.</td></tr></tbody></table>
+
+
+
+# ModuleConfigurationElementCollection Constructor (ModuleConfigurationElement())
+
+Initializes a new [ModuleConfigurationElementCollection](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity).
+
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+```VB
+'Declaration
+Public Sub New ( modules As ModuleConfigurationElement() )
+```
+
+### Parameters
+
+*modules*
+
+Type: [Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity)()
+
+The initial set of [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity).
+
+## Exceptions
+
+<table><tbody><tr responsive="true"><th class="exceptionNameColumn" scope="col">Exception</th><th class="exceptionConditionColumn" scope="col">Condition</th></tr><tr><td data-th="Exception"><a href="http://msdn2.microsoft.com/en-us/library/27426hcy" target="_blank">System<span xmlns="">.</span>ArgumentNullException</a></td><td data-th="Condition">An <a href="http://msdn2.microsoft.com/en-us/library/27426hcy" target="_blank">ArgumentNullException</a> is thrown if <span class="parameter"><i>modules</i></span> is <span class="input"><span xmlns=""><strong>Nothing</strong></span></span><span class="nu">a null reference (<span class="input"><strong>Nothing</strong></span> in Visual Basic)</span>.</td></tr></tbody></table>
 
 | Exception                                                                             | Condition                                                                                                                                                           |
 |---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if modules is nullNothingnullptra null reference (Nothing in Visual Basic). |
 
+
 ## See Also
-[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 
-[ModuleConfigurationElementCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
+[ModuleConfigurationElementCollection Class](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity)
 
-[ModuleConfigurationElementCollection Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.moduleconfigurationelementcollection.)
+[ModuleConfigurationElementCollection Members](/patterns-practices/reference/moduleconfigurationelementcollection-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+ModuleConfigurationElementCollection Overload
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/moduleconfigurationelementcollection-members-mspp-modularity)
