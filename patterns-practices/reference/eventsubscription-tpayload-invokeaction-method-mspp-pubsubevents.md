@@ -11,7 +11,9 @@ Invokes the specified [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
@@ -21,7 +23,9 @@ public virtual void InvokeAction(
 	TPayload argument
 )
 ```
-### Parameters
+
+
+### Parameters
 
 *action*  
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)&gt;
@@ -64,10 +68,12 @@ Public Overridable Sub InvokeAction (
 	argument As TPayload
 )
 ```
-### Parameters
+
+
+### Parameters
 
 *action*  
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](/patterns-practices/reference/eventaggregator-class-mspp-pubsubevents/eventsubscription-tpayload-class-mspp-pubsubevents))
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The action to execute.
 

@@ -10,7 +10,9 @@ Initializes a new instance of the [PubSubEvent&lt;TPayload&gt;](/patterns-practi
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)
+
+ **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
@@ -19,12 +21,15 @@ public PubSubEvent()
 ```
 
 ## See Also
-[PubSubEvent&lt;TPayload&gt; Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)
+
+
+[PubSubEvent&lt;TPayload&gt; Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)
 
 PubSubEvent&lt;TPayload&gt; Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
-## 
+
+---------------------------------------------------------------------------------
 
 # PubSubEvent(Of TPayload) Constructor
 
@@ -42,7 +47,9 @@ Public Sub New
 ```
 
 ## See Also
-[PubSubEvent(Of TPayload) Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)
+
+
+[PubSubEvent(Of TPayload) Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)
 
 PubSubEvent(Of TPayload) Members
 

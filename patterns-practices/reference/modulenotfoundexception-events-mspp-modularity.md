@@ -7,17 +7,16 @@ ms:mtpsurl: 'modulenotfoundexception-events-mspp-modularity.md'
 
 # ModuleNotFoundException Events
 
-The [ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity) type exposes the following members.
-## Events
-
-The [ModuleNotFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception) type exposes the following members.
+The [ModuleNotFoundException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception(v=pandp.50)) type exposes the following members.
 
 ## Events
 
-
-
 <table>
-
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th> </th>
@@ -38,7 +37,7 @@ Occurs when an exception is serialized to create an exception state object that 
 </table>
 
 ## See Also
-[ModuleNotFoundException Class](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity)
 
-[ModuleNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception)
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleNotFoundException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.modulenotfoundexception(v=pandp.50))
+
+[Microsoft.Practices.Prism.Modularity Namespace ](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))

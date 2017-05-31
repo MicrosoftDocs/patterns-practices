@@ -27,7 +27,7 @@ Public Class NavigationParameters
 ```
 ## Remarks
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -45,7 +45,7 @@ This class can be used to to pass object parameters during Navigation.
 
 Microsoft.Practices.Prism.Regions.NavigationParameters
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Regions.NavigationParameters
 
 ## See Also

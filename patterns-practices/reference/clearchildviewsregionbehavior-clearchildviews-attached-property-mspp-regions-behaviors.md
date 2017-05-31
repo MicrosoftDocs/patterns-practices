@@ -4,23 +4,33 @@ Title: 'ClearChildViewsRegionBehavior.ClearChildViews Attached Property (Microso
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior.ClearChildViews'
 ms:mtpsurl: 'clearchildviewsregionbehavior-clearchildviews-attached-property-mspp-regions-behaviors.md'
 ---
-
+
 # ClearChildViewsRegionBehavior.ClearChildViews Attached Property
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-See GetClearChildViews, SetClearChildViewsSee GetClearChildViews, SetClearChildViews
+
+```C#
+See GetClearChildViews, SetClearChildViews
+```
+```VB
+'Declaration
+See GetClearChildViews, SetClearChildViews
+```
+
 ### Property Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 ## See Also
-[ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
 
-[ClearChildViewsRegionBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
+[ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior(v=pandp.50))
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+[ClearChildViewsRegionBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior_members(v=pandp.50))
+
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors(v=pandp.50))

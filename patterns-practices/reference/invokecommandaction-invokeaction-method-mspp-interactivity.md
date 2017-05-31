@@ -4,14 +4,17 @@ Title: 'InvokeCommandAction.InvokeAction Method (Microsoft.Practices.Prism.Inter
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.InvokeAction(System.Object)'
 ms:mtpsurl: 'invokecommandaction-invokeaction-method-mspp-interactivity.md'
 ---
-
+
+
 # InvokeCommandAction.InvokeAction Method
 
 Public wrapper of the Invoke method.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -20,7 +23,9 @@ public void InvokeAction(
 	Object parameter
 )
 ```
-### Parameters
+
+
+### Parameters
 
 *parameter*
 
@@ -32,7 +37,9 @@ Public Sub InvokeAction (
 	parameter As Object
 )
 ```
-### Parameters
+
+
+### Parameters
 
 *parameter*
 

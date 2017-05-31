@@ -4,14 +4,17 @@ Title: 'InvokeCommandAction.CommandParameterProperty Field (Microsoft.Practices.
 ms:assetid: 'F:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.CommandParameterProperty'
 ms:mtpsurl: 'invokecommandaction-commandparameterproperty-field-mspp-interactivity.md'
 ---
-
+
+
 # InvokeCommandAction.CommandParameterProperty Field
 
 Dependency property identifying the command parameter to supply on command execution.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 

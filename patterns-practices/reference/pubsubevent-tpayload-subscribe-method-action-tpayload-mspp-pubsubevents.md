@@ -4,14 +4,17 @@ Title: 'PubSubEvent(TPayload).Subscribe Method (Action(TPayload)) (Microsoft.Pra
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Subscribe(System.Action{\`0})'
 ms:mtpsurl: 'pubsubevent-tpayload-subscribe-method-action-tpayload-mspp-pubsubevents.md'
 ---
-
+
+
 # PubSubEvent&lt;TPayload&gt;.Subscribe Method (Action&lt;TPayload&gt;)
 
 Subscribes a delegate to an event that will be published on the [PublisherThread](/patterns-practices/reference/threadoption-enumeration-mspp-pubsubevents). [PubSubEvent&lt;TPayload&gt;](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the target of the supplied action delegate.
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
@@ -20,10 +23,12 @@ public SubscriptionToken Subscribe(
 	Action<TPayload> action
 )
 ```
-### Parameters
+
+
+### Parameters
 
 *action*  
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)&gt;
+Type: [System.Action](/patterns-practices/reference/http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)&gt;
 
 The delegate that gets executed when the event is published.
 
@@ -38,7 +43,9 @@ A [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp
  The PubSubEvent collection is thread-safe.
 
 ## See Also
-[PubSubEvent&lt;TPayload&gt; Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)
+
+
+[PubSubEvent&lt;TPayload&gt; Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)
 
 PubSubEvent&lt;TPayload&gt; Members
 
@@ -62,7 +69,9 @@ Public Function Subscribe (
 	action As Action(Of TPayload)
 ) As SubscriptionToken
 ```
-### Parameters
+
+
+### Parameters
 
 *action*  
 Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents))
@@ -80,7 +89,9 @@ A [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp
  The PubSubEvent collection is thread-safe.
 
 ## See Also
-[PubSubEvent(Of TPayload) Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)
+
+
+[PubSubEvent(Of TPayload) Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)
 
 PubSubEvent(Of TPayload) Members
 
