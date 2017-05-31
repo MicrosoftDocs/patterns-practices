@@ -5,39 +5,44 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Logging.TextLogger.Dispose'
 ms:mtpsurl: 'textlogger-dispose-method-boolean-mspp-logging.md'
 ---
 
-Prism Class Library
-
-TextLogger.Dispose Method
-=============================
+# TextLogger.Dispose Method
 
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 
-**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
+**Namespace:** [Microsoft.Practices.Prism.Logging](/patterns-practices/reference/mspp-logging-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
-public void Dispose()Public Sub Dispose
+```C#
+public void Dispose()
+```
 ### Implements
 
-[IDisposable.Dispose()()()](http://msdn.microsoft.com/en-us/library/es4s3w1d)
+[IDisposable.Dispose()](http://msdn.microsoft.com/en-us/library/es4s3w1d)
 
-Remarks
--------
+```VB
+'Declaration
+Public Sub Dispose
+```
 
-Calls [Dispose(Boolean)](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger.dispose(system.boolean))
+### Implements
 
-See Also
---------
+[IDisposable.Dispose](http://msdn.microsoft.com/en-us/library/es4s3w1d)
 
+## Remarks
 
-[TextLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger)
+Calls [Dispose(Boolean)](/patterns-practices/reference/textlogger-dispose-method-boolean-mspp-logging)
 
-[TextLogger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.logging.textlogger)
+## See Also
 
-[Dispose Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.logging.textlogger.dispose)
+[TextLogger Class](/patterns-practices/reference/textlogger-class-mspp-logging)
 
-[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
+[TextLogger Members](/patterns-practices/reference/textlogger-members-mspp-logging)
+
+[Dispose Overload](/patterns-practices/reference/textlogger-dispose-method-mspp-logging)
+
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)
