@@ -1,10 +1,11 @@
----
+/patterns-practices/reference/---
 TOCTitle: AllActiveRegion Class
 Title: 'AllActiveRegion Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.AllActiveRegion'
 ms:mtpsurl: 'allactiveregion-class-mspp-regions.md'
 ---
-
+
+
 # AllActiveRegion Class
 
 Region that keeps all the views in it as active. Deactivation of views is not allowed.

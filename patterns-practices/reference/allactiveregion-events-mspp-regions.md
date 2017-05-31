@@ -4,7 +4,8 @@ Title: 'AllActiveRegion Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.AllActiveRegion'
 ms:mtpsurl: 'allactiveregion-events-mspp-regions.md'
 ---
-
+
+
 # AllActiveRegion Events
 
 The [AllActiveRegion](/patterns-practices/reference/allactiveregion-class-mspp-regions) type exposes the following members.
@@ -33,6 +34,7 @@ Occurs when a property value changes.
 </table>
 
 ## See Also
-[AllActiveRegion Class](/patterns-practices/reference/allactiveregion-class-mspp-regions)
+
+[AllActiveRegion Class](/patterns-practices/reference/allactiveregion-class-mspp-regions)
 
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

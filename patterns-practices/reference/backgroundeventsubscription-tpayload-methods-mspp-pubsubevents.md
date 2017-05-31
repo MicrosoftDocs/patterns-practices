@@ -4,7 +4,8 @@ Title: 'BackgroundEventSubscription(TPayload) Methods (Microsoft.Practices.Prism
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscription\`1'
 ms:mtpsurl: 'backgroundeventsubscription-tpayload-methods-mspp-pubsubevents.md'
 ---
-
+
+
 # BackgroundEventSubscription&lt;TPayload&gt; Methods
 
 The [BackgroundEventSubscription&lt;TPayload&gt;](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents) type exposes the following members.
