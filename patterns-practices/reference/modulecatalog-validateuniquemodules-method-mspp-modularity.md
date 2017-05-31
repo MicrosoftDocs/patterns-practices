@@ -19,7 +19,7 @@ Makes sure all modules have an Unique name.
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                                                                                                       | Condition                                                  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
 | [Microsoft.Practices.Prism.Modularity.DuplicateModuleException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception) | Thrown if the names of one or more modules are not unique. |

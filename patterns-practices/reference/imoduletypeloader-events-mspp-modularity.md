@@ -11,7 +11,7 @@ The [IModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practices.p
 
 ## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,14 +23,14 @@ The [IModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practices.p
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430895.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader.loadmodulecompleted">LoadModuleCompleted</a></td>
 <td><div class="summary">
 Raised when a module is loaded or fails to load.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430895.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader.moduledownloadprogresschanged">ModuleDownloadProgressChanged</a></td>
 <td><div class="summary">
 Raised repeatedly to provide progress as modules are downloaded in the background.

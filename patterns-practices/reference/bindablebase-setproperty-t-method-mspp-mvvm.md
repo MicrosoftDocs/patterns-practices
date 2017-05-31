@@ -31,7 +31,7 @@ Name of the property used to notify listeners. This value is optional and can be
 
 ## Type Parameters
 
-<span id="templatesToggle"></span>
+
 T  
 Type of the property.
 

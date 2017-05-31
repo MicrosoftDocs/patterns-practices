@@ -1,4 +1,4 @@
----
+--
 TOCTitle: 'ModularityException Constructor (String, Exception)'
 Title: 'ModularityException Constructor (String, Exception) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModularityException.\#ctor(System.String,System.Exception)'
@@ -33,9 +33,13 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 The exception message.
 
+
 *innerException*  
 
 Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
+
+innerException  
+Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
 
 The inner exception.
 

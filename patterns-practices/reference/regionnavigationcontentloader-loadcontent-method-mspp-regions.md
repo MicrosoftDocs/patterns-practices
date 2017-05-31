@@ -41,7 +41,7 @@ The view to be the target of the navigation request.
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                         | Condition                                                     |
 |-----------------------------------------------------------------------------------|---------------------------------------------------------------|
 | [System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114) | when a new view cannot be created for the navigation request. |

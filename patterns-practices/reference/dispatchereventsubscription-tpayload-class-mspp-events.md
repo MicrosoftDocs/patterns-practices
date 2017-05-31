@@ -18,13 +18,13 @@ Extends EventSubscription to invoke the Action delegate in a specific [Dispatche
 [ObsoleteAttribute\] public class DispatcherEventSubscription&lt;TPayload&gt; : EventSubscription&lt;TPayload&gt; &lt;ObsoleteAttribute&gt; Public Class DispatcherEventSubscription(Of TPayload) Inherits EventSubscription(Of TPayload)
 ## Type Parameters
 
-<span id="templatesToggle"></span>
+
 TPayload  
 The type to use for the generic [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) and [Predicate&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/bfcke1bz) types.
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)
     Microsoft.Practices.Prism.Events.DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)
 

@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefregionmanager-properties-mspp-mefextensions-regions.md'
 
 # MefRegionManager Properties
 
-The [MefRegionManager](mefregionmanager-class-mspp-mefextensions-regions) type exposes the following members.
+The [MefRegionManager](/patterns-practices/reference/mefregionmanager-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Properties
 
@@ -29,21 +29,21 @@ The [MefRegionManager](mefregionmanager-class-mspp-mefextensions-regions) type e
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431153.pubproperty(en-us,PandP.50).gif "Public property")
+![Public property](/images/pubproperty.gif)
 </td>
 <td>
-<a href="regionmanager-regions-property-mspp-regions.md">Regions</a>
+<a href="regionmanager-regions-property-mspp-regions">Regions</a>
 </td>
 <td>
 <div>
-Gets a collection of <a href="iregion-interface-mspp-regions.md">IRegion</a> that identify each region by name. You can use this collection to add or remove regions to the current region manager.
-</div> (Inherited from <a href="regionmanager-class-mspp-regions.md">RegionManager</a>.)</td>
+Gets a collection of <a href="iregion-interface-mspp-regions">IRegion</a> that identify each region by name. You can use this collection to add or remove regions to the current region manager.
+</div> (Inherited from <a href="regionmanager-class-mspp-regions">RegionManager</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[MefRegionManager Class](mefregionmanager-class-mspp-mefextensions-regions)
+[MefRegionManager Class](/patterns-practices/reference/mefregionmanager-class-mspp-mefextensions-regions)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

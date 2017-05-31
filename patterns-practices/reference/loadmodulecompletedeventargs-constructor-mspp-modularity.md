@@ -1,4 +1,4 @@
----
+--
 TOCTitle: LoadModuleCompletedEventArgs Constructor
 Title: 'LoadModuleCompletedEventArgs Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.LoadModuleCompletedEventArgs.\#ctor(Microsoft.Practices.Prism.Modularity.ModuleInfo,System.Exception)'
@@ -35,9 +35,13 @@ Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/refe
 
 The module info.
 
+
 *error*
 
 Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
+
+error  
+Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
 
 Any error that occurred during the call.
 

@@ -11,7 +11,7 @@ The [IActiveAware](https://msdn.microsoft.com/library/microsoft.practices.prism.
 
 ## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [IActiveAware](https://msdn.microsoft.com/library/microsoft.practices.prism.
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405734.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware.isactivechanged">IsActiveChanged</a></td>
 <td><div class="summary">
 Notifies that the value for <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware.isactive">IsActive</a> property has changed.

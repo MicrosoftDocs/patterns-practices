@@ -9,7 +9,7 @@ ms:mtpsurl: 'servicelocatorextensions-tryresolve-t-method-iservicelocator-mspp.m
 
 Attempts to resolve specified type from the underlying IServiceLocator.
 
-**Namespace:** [Microsoft.Practices.Prism](mspp-namespace)
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -38,7 +38,7 @@ Locator to use in resolving.
 
 ## Type Parameters
 
-<span id="templatesToggle"></span>
+
 T 
  
 Type to resolve.
@@ -58,10 +58,10 @@ In Visual Basic and C\#, you can call this method as an instance method on any o
  This will return null on any ActivationException.
 
 ## See Also
-[ServiceLocatorExtensions Class](servicelocatorextensions-class-mspp)
+[ServiceLocatorExtensions Class](/patterns-practices/reference/servicelocatorextensions-class-mspp)
 
-[ServiceLocatorExtensions Members](servicelocatorextensions-members-mspp)
+[ServiceLocatorExtensions Members](/patterns-practices/reference/servicelocatorextensions-members-mspp)
 
-[TryResolve Overload](servicelocatorextensions-tryresolve-method-iservicelocator-type-mspp)
+[TryResolve Overload](/patterns-practices/reference/servicelocatorextensions-tryresolve-method-iservicelocator-type-mspp)
 
-[Microsoft.Practices.Prism Namespace](mspp-namespace)
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

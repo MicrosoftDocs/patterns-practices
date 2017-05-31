@@ -33,7 +33,7 @@ The [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) to insert into th
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                                   | Condition                                                                                                                               |
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
 | [System.ArgumentOutOfRangeException](http://msdn.microsoft.com/en-us/library/8xt94y6e) | index is not a valid index in the [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup). |

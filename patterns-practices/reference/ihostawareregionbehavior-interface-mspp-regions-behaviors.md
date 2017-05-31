@@ -7,9 +7,9 @@ ms:mtpsurl: 'ihostawareregionbehavior-interface-mspp-regions-behaviors.md'
 
 # IHostAwareRegionBehavior Interface
 
-Defines a [IRegionBehavior](iregionbehavior-interface-mspp-regions) that not allows extensible behaviors on regions which also interact with the target element that the [IRegion](iregion-interface-mspp-regions) is attached to.
+Defines a [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions) that not allows extensible behaviors on regions which also interact with the target element that the [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) is attached to.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -31,6 +31,6 @@ Public Interface IHostAwareRegionBehavior
 
 ## See Also
 
-[IHostAwareRegionBehavior Members](ihostawareregionbehavior-members-mspp-regions-behaviors)
+[IHostAwareRegionBehavior Members](/patterns-practices/reference/ihostawareregionbehavior-members-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

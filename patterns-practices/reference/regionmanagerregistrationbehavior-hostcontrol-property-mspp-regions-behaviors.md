@@ -26,7 +26,7 @@ A [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309) that the 
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                                 | Condition                                                                                                                                                        |
 |-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [System.InvalidOperationException](http://msdn.microsoft.com/en-us/library/2asft85a) | When this member is set after the [Attach()()()](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior.attach) method has being called. |

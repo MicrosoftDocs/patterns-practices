@@ -23,7 +23,7 @@ Exports the SyncRegionContextWithHostBehavior using the Managed Extensibility Fr
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Regions.RegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
     [Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior)
       Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSyncRegionContextWithHostBehavior

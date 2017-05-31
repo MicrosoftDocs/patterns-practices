@@ -9,7 +9,7 @@ ms:mtpsurl: 'viewmodellocationprovider-setdefaultviewmodelfactory-method-mspp-mv
 
 Sets the default view model factory.
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](mspp-mvvm-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](/patterns-practices/reference/mspp-mvvm-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -43,8 +43,8 @@ Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of([Type](
 The view model factory.
 
 ## See Also
-[ViewModelLocationProvider Class](viewmodellocationprovider-class-mspp-mvvm)
+[ViewModelLocationProvider Class](/patterns-practices/reference/viewmodellocationprovider-class-mspp-mvvm)
 
-[ViewModelLocationProvider Members](viewmodellocationprovider-members-mspp-mvvm)
+[ViewModelLocationProvider Members](/patterns-practices/reference/viewmodellocationprovider-members-mspp-mvvm)
 
-[Microsoft.Practices.Prism.Mvvm Namespace](mspp-mvvm-namespace)
+[Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

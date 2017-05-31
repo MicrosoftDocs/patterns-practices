@@ -4,10 +4,13 @@ Title: 'UnityRegionNavigationContentLoader Class (Microsoft.Practices.Prism.Unit
 ms:assetid: 'T:Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLoader'
 ms:mtpsurl: 'unityregionnavigationcontentloader-class-mspp-unityextensions-regions.md'
 ---
-# UnityRegionNavigationContentLoader Class
 
-Specialization of the default RegionNavigationContentLoader that queries the corresponding IUnityContainer to obtain the name of the view's type registered for the contract name.
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](mspp-unityextensions-regions-namespace)
+# UnityRegionNavigationContentLoader Class
+
+Specialization of the default RegionNavigationContentLoader that queries the corresponding IUnityContainer to obtain the name of the view's type registered for the contract name. 
+
+
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents)
 
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -26,23 +29,12 @@ Public Class UnityRegionNavigationContentLoader
 
 [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 
-  [Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader](regionnavigationcontentloader-class-mspp-regions)
+[Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationcontentloader(v=pandp.50))
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions)
-**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
+Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLoader
 
-**Version:** 5.0.0.0 (5.0.0.0)
+## See Also
 
-## Syntax
-public class UnityRegionNavigationContentLoader : RegionNavigationContentLoaderPublic Class UnityRegionNavigationContentLoader Inherits RegionNavigationContentLoader
-    Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLoader
-## See Also
+[UnityRegionNavigationContentLoader Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader_members(v=pandp.50))
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader)
-    Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLoader
-
-[UnityRegionNavigationContentLoader Members](unityregionnavigationcontentloader-members-mspp-unityextensions-regions)
-
-[UnityRegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader)
-[Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](mspp-unityextensions-regions-namespace)
+[Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents)

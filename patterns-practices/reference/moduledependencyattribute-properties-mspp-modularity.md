@@ -11,7 +11,7 @@ The [ModuleDependencyAttribute](https://msdn.microsoft.com/library/microsoft.pra
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,14 +23,14 @@ The [ModuleDependencyAttribute](https://msdn.microsoft.com/library/microsoft.pra
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431169.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute.modulename">ModuleName</a></td>
 <td><div class="summary">
 Gets the name of the module that this module is dependant upon.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431169.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/sa1bf03e">TypeId</a></td>
 <td><div class="summary">
 When implemented in a derived class, gets a unique identifier for this <a href="http://msdn.microsoft.com/en-us/library/e8kc3626">Attribute</a>.

@@ -11,7 +11,7 @@ ms:mtpsurl: 'mspp-logging-namespace.md'
 
 ## Classes
 
-<span id="classToggle"></span>
+
 <table>
 
 <thead>
@@ -23,21 +23,21 @@ ms:mtpsurl: 'mspp-logging-namespace.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-class.gif" title="Public class" /></td>
+<td>![Public class](/images/public-class.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.emptylogger">EmptyLogger</a></td>
 <td><div class="summary">
 Implementation of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a> that does nothing. This implementation is useful when the application does not need logging but there are infrastructure pieces that assume there is a logger.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-class.gif" title="Public class" /></td>
+<td>![Public class](/images/public-class.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger">TextLogger</a></td>
 <td><div class="summary">
 Implementation of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a> that logs into a <a href="http://msdn.microsoft.com/en-us/library/ywxh2328">TextWriter</a>.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-class.gif" title="Public class" /></td>
+<td>![Public class](/images/public-class.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.tracelogger">TraceLogger</a></td>
 <td><div class="summary">
 Implementation of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a> that logs to .NET <a href="http://msdn.microsoft.com/en-us/library/36hhw2t6">Trace</a> class.
@@ -48,7 +48,7 @@ Implementation of <a href="https://msdn.microsoft.com/library/microsoft.practice
 
 ## Interfaces
 
-<span id="interfaceToggle"></span>
+
 <table>
 
 <thead>
@@ -60,7 +60,7 @@ Implementation of <a href="https://msdn.microsoft.com/library/microsoft.practice
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-interface.gif" title="Public interface" /></td>
+<td>![Public interface](/images/public-interface.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a></td>
 <td><div class="summary">
 Defines a simple logger façade to be used by the Prism Library.
@@ -71,7 +71,7 @@ Defines a simple logger façade to be used by the Prism Library.
 
 ## Enumerations
 
-<span id="enumerationToggle"></span>
+
 <table>
 
 <thead>
@@ -83,14 +83,14 @@ Defines a simple logger façade to be used by the Prism Library.
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419037.pubenumeration(en-us,PandP.50).gif" title="Public enumeration" /></td>
+<td>![Public enumeration](/images/pubenumeration.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.category">Category</a></td>
 <td><div class="summary">
 Defines values for the categories used by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419037.pubenumeration(en-us,PandP.50).gif" title="Public enumeration" /></td>
+<td>![Public enumeration](/images/pubenumeration.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.priority">Priority</a></td>
 <td><div class="summary">
 Defines values for the priorities used by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a>.

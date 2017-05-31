@@ -19,7 +19,7 @@ Because Prism offers largely the same capabilities for both WPF and Silverlight,
 
 ## Out of Scope
 
-If you can structure your assemblies to take advantage of the binary compatibility support between Silverlight and WPF, you should do so. For more information about this, see the CLR Team Blog post, "[Sharing Silverlight Assemblies with .NET Apps](http://blogs.msdn.com/b/clrteam/archive/2009/12/01/sharing-silverlight-assemblies-with-net-apps.aspx)."
+If you can structure your assemblies to take advantage of the binary compatibility support between Silverlight and WPF, you should do so. For more information about this, see the CLR Team Blog post, "[Sharing Silverlight Assemblies with .NET Apps](https://blogs.msdn.microsoft.com/dotnet/2009/12/01/sharing-silverlight-assemblies-with-net-apps/)."
 
 This topic is not intended to describe this scenario; instead, it describes the challenges and solutions for building multi-targeted applications by sharing source code.
 
@@ -395,7 +395,7 @@ The following are some miscellaneous differences between Silverlight and WPF:
 
 You can download [Project Linker](http://visualstudiogallery.msdn.microsoft.com/en-us/5e730577-d11c-4f2e-8e2b-cbb87f76c044) from Visual Studio Gallery or open Visual Studio, click on **Tools**, point to **Extension Manager**, click on **Online Gallery**, and search for "Project Linker."
 
-For more information about structuring your assemblies to take advantage of the binary compatibility support between Silverlight and WPF, see the CLR Team Blog post, [Sharing Silverlight Assemblies with .NET Apps](http://blogs.msdn.com/b/clrteam/archive/2009/12/01/sharing-silverlight-assemblies-with-net-apps.aspx).
+For more information about structuring your assemblies to take advantage of the binary compatibility support between Silverlight and WPF, see the CLR Team Blog post, [Sharing Silverlight Assemblies with .NET Apps](https://blogs.msdn.microsoft.com/dotnet/2009/12/01/sharing-silverlight-assemblies-with-net-apps/).
 
 For more information about WPF architecture, see [WPF Architecture](http://msdn.microsoft.com/en-us/library/ms750441.aspx) on MSDN.
 

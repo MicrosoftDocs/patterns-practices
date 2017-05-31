@@ -7,7 +7,7 @@ ms:mtpsurl: 'iregionmanageraccessor-events-mspp-regions.md'
 
 # IRegionManagerAccessor Events
 
-The [IRegionManagerAccessor](iregionmanageraccessor-interface-mspp-regions) type exposes the following members.
+The [IRegionManagerAccessor](/patterns-practices/reference/iregionmanageraccessor-interface-mspp-regions) type exposes the following members.
 
 ## Events
 
@@ -28,10 +28,10 @@ The [IRegionManagerAccessor](iregionmanageraccessor-interface-mspp-regions) type
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg430901.pubevent(en-us,PandP.50).gif "Public event")
+![Public event](/images/pubevent.gif)
 </td>
 <td>
-<a href="iregionmanageraccessor-updatingregions-event-mspp-regions.md">UpdatingRegions</a>
+<a href="iregionmanageraccessor-updatingregions-event-mspp-regions">UpdatingRegions</a>
 </td>
 <td>
 <div>
@@ -44,6 +44,6 @@ Notification used by attached behaviors to update the region managers appropriat
 
 ## See Also
 
-[IRegionManagerAccessor Interface](iregionmanageraccessor-interface-mspp-regions)
+[IRegionManagerAccessor Interface](/patterns-practices/reference/iregionmanageraccessor-interface-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

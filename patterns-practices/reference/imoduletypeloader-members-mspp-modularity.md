@@ -11,7 +11,7 @@ The [IModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practices.p
 
 ## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,14 +23,14 @@ The [IModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practices.p
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader.canloadmoduletype(microsoft.practices.prism.modularity.moduleinfo)">CanLoadModuleType</a></td>
 <td><div class="summary">
 Evaluates the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.ref">Ref</a> property to see if the current typeloader will be able to retrieve the moduleInfo.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader.loadmoduletype(microsoft.practices.prism.modularity.moduleinfo)">LoadModuleType</a></td>
 <td><div class="summary">
 Retrieves the moduleInfo.
@@ -41,7 +41,7 @@ Retrieves the moduleInfo.
 
 ## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -53,14 +53,14 @@ Retrieves the moduleInfo.
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430834.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader.loadmodulecompleted">LoadModuleCompleted</a></td>
 <td><div class="summary">
 Raised when a module is loaded or fails to load.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430834.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader.moduledownloadprogresschanged">ModuleDownloadProgressChanged</a></td>
 <td><div class="summary">
 Raised repeatedly to provide progress as modules are downloaded in the background.

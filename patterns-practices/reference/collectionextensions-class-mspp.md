@@ -19,7 +19,7 @@ Class that provides extension methods to Collection
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.CollectionExtensions
 
 ## See Also

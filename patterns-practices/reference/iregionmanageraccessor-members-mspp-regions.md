@@ -11,7 +11,7 @@ The [IRegionManagerAccessor](https://msdn.microsoft.com/library/microsoft.practi
 
 ## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,14 +23,14 @@ The [IRegionManagerAccessor](https://msdn.microsoft.com/library/microsoft.practi
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor.getregionmanager(system.windows.dependencyobject)">GetRegionManager</a></td>
 <td><div class="summary">
 Gets the value of the RegionName attached property.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor.getregionname(system.windows.dependencyobject)">GetRegionName</a></td>
 <td><div class="summary">
 Gets the value for the RegionName attached property.
@@ -41,7 +41,7 @@ Gets the value for the RegionName attached property.
 
 ## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -53,7 +53,7 @@ Gets the value for the RegionName attached property.
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405478.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor.updatingregions">UpdatingRegions</a></td>
 <td><div class="summary">
 Notification used by attached behaviors to update the region managers appropriatelly if needed to.

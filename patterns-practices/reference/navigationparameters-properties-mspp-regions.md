@@ -11,7 +11,7 @@ The [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practice
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practice
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736200.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.item(system.string)">Item</a></td>
 <td><div class="summary">
 Gets the <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> with the specified key.

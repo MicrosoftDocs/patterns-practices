@@ -19,7 +19,7 @@ Basic implementation of [INotification](https://msdn.microsoft.com/library/micro
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification
     [Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confirmation](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation)
 

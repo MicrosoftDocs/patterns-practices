@@ -9,7 +9,7 @@ ms:mtpsurl: 'iregionnavigationservice-journal-property-mspp-regions.md'
 
 Gets the journal.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -18,12 +18,12 @@ Gets the journal.
 IRegionNavigationJournal Journal { get; }ReadOnly Property Journal As IRegionNavigationJournal Get
 ### Property Value
 
-Type: [IRegionNavigationJournal](iregionnavigationjournal-interface-mspp-regions)
+Type: [IRegionNavigationJournal](/patterns-practices/reference/iregionnavigationjournal-interface-mspp-regions)
 The journal.
 
 ## See Also
-[IRegionNavigationService Interface](iregionnavigationservice-interface-mspp-regions)
+[IRegionNavigationService Interface](/patterns-practices/reference/iregionnavigationservice-interface-mspp-regions)
 
-[IRegionNavigationService Members](iregionnavigationservice-members-mspp-regions)
+[IRegionNavigationService Members](/patterns-practices/reference/iregionnavigationservice-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

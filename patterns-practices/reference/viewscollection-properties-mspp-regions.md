@@ -11,7 +11,7 @@ The [ViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.pri
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [ViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.pri
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431225.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection.sortcomparison">SortComparison</a></td>
 <td><div class="summary">
 Gets or sets the comparison used to sort the views.

@@ -7,9 +7,9 @@ ms:mtpsurl: 'mefregionadaptermappings-constructor-mspp-mefextensions-regions.md'
 
 # MefRegionAdapterMappings Constructor
 
-Initializes a new instance of the [MefRegionAdapterMappings](mefregionadaptermappings-class-mspp-mefextensions-regions) class
+Initializes a new instance of the [MefRegionAdapterMappings](/patterns-practices/reference/mefregionadaptermappings-class-mspp-mefextensions-regions) class
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](mspp-mefextensions-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -19,16 +19,14 @@ Initializes a new instance of the [MefRegionAdapterMappings](mefregionadaptermap
 ```c#
 public MefRegionAdapterMappings()
 ```
-
-## Syntax
 ```VB
 'Declaration
 Public Sub New
 ```
 ## See Also
 
-[MefRegionAdapterMappings Class](mefregionadaptermappings-class-mspp-mefextensions-regions)
+[MefRegionAdapterMappings Class](/patterns-practices/reference/mefregionadaptermappings-class-mspp-mefextensions-regions)
 
-[MefRegionAdapterMappings Members](mefregionadaptermappings-members-mspp-mefextensions-regions)
+[MefRegionAdapterMappings Members](/patterns-practices/reference/mefregionadaptermappings-members-mspp-mefextensions-regions)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

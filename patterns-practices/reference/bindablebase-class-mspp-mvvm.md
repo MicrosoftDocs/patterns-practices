@@ -4,14 +4,17 @@ Title: 'BindableBase Class (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Mvvm.BindableBase'
 ms:mtpsurl: 'bindablebase-class-mspp-mvvm.md'
 ---
-
+
+
 # BindableBase Class
 
 Implementation of [INotifyPropertyChanged](http://msdn.microsoft.com/en-us/library/ms133020) to simplify models.
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](mspp-mvvm-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](/patterns-practices/reference/mspp-mvvm-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
@@ -33,6 +36,6 @@ Public MustInherit Class BindableBase
 
 ## See Also
 
-[BindableBase Members](bindablebase-members-mspp-mvvm)
+[BindableBase Members](/patterns-practices/reference/bindablebase-members-mspp-mvvm)
 
-[Microsoft.Practices.Prism.Mvvm Namespace](mspp-mvvm-namespace)
+[Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

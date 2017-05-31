@@ -17,7 +17,7 @@ An [ICommand](http://msdn.microsoft.com/en-us/library/ms616869) whose delegates 
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Commands.DelegateCommandBase
     [Microsoft.Practices.Prism.Commands.DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
     [Microsoft.Practices.Prism.Commands.DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)

@@ -20,7 +20,7 @@ ms:mtpsurl: 'mspp-unityextensions-regions-namespace.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-class.gif" title="Public class" /></td>
+<td>![Public class](/images/public-class.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader">UnityRegionNavigationContentLoader</a></td>
 <td><div class="summary">
 Specialization of the default RegionNavigationContentLoader that queries the corresponding IUnityContainer to obtain the name of the view's type registered for the contract name.

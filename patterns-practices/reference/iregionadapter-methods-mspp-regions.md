@@ -11,7 +11,7 @@ The [IRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.pris
 
 ## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [IRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.pris
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter.initialize(system.object%2csystem.string)">Initialize</a></td>
 <td><div class="summary">
 Adapts an object and binds it to a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion">IRegion</a>.
