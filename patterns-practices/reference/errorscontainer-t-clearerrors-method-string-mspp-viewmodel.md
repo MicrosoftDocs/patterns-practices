@@ -23,7 +23,7 @@ The name of th property for which to clear errors.
 
 ## Examples
 
-<span id="exampleToggle"></span> container.ClearErrors("SomeProperty");
+ container.ClearErrors("SomeProperty");
 
 ## See Also
 [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601)

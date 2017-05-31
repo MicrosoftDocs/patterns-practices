@@ -19,7 +19,7 @@ Validates the [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.pract
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                                                                                             | Condition                                                                                                                      |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------|
 | [Microsoft.Practices.Prism.Modularity.ModularityException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception) | When validation of the [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) fails. |

@@ -76,8 +76,8 @@ In Visual Basic and C\#, you can call this method as an instance method on any o
 
 [RegionManagerExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions)
 
-[RegionManagerExtensions Members](regionmanagerextensions-members-mspp-regions)
+[RegionManagerExtensions Members](/patterns-practices/reference/regionmanagerextensions-members-mspp-regions)
 
-[RequestNavigate Overload](regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-action-navigationresult-mspp-regions)
+[RequestNavigate Overload](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-action-navigationresult-mspp-regions)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

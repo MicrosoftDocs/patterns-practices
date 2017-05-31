@@ -7,9 +7,9 @@ ms:mtpsurl: 'regionmemberlifetimeattribute-constructor-mspp-regions.md'
 
 # RegionMemberLifetimeAttribute Constructor
 
-Instantiates an instance of [RegionMemberLifetimeAttribute](regionmemberlifetimeattribute-class-mspp-regions)
+Instantiates an instance of [RegionMemberLifetimeAttribute](/patterns-practices/reference/regionmemberlifetimeattribute-class-mspp-regions)
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -23,8 +23,8 @@ public RegionMemberLifetimeAttribute()
 Public Sub New
 ```
 ## See Also
-[RegionMemberLifetimeAttribute Class](regionmemberlifetimeattribute-class-mspp-regions)
+[RegionMemberLifetimeAttribute Class](/patterns-practices/reference/regionmemberlifetimeattribute-class-mspp-regions)
 
-[RegionMemberLifetimeAttribute Members](regionmemberlifetimeattribute-members-mspp-regions)
+[RegionMemberLifetimeAttribute Members](/patterns-practices/reference/regionmemberlifetimeattribute-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

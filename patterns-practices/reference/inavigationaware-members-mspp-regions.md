@@ -11,7 +11,7 @@ The [INavigationAware](https://msdn.microsoft.com/library/microsoft.practices.pr
 
 ## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,21 +23,21 @@ The [INavigationAware](https://msdn.microsoft.com/library/microsoft.practices.pr
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware.isnavigationtarget(microsoft.practices.prism.regions.navigationcontext)">IsNavigationTarget</a></td>
 <td><div class="summary">
 Called to determine if this instance can handle the navigation request.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware.onnavigatedfrom(microsoft.practices.prism.regions.navigationcontext)">OnNavigatedFrom</a></td>
 <td><div class="summary">
 Called when the implementer is being navigated away from.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware.onnavigatedto(microsoft.practices.prism.regions.navigationcontext)">OnNavigatedTo</a></td>
 <td><div class="summary">
 Called when the implementer has been navigated to.

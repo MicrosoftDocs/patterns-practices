@@ -7,9 +7,9 @@ ms:mtpsurl: 'moduleinitializer-createmodule-method-moduleinfo-mspp-modularity.md
 
 # ModuleInitializer.CreateModule Method (ModuleInfo)
 
-Uses the container to resolve a new [IModule](imodule-interface-mspp-modularity) by specifying its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
+Uses the container to resolve a new [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity) by specifying its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -20,21 +20,21 @@ Uses the container to resolve a new [IModule](imodule-interface-mspp-modularity)
 ### Parameters
 
 moduleInfo  
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity)
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
 
 The module to create.
 
 ### Return Value
 
-Type: [IModule](imodule-interface-mspp-modularity)
+Type: [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity)
 
 A new instance of the module specified by moduleInfo.
 
 ## See Also
-[ModuleInitializer Class](moduleinitializer-class-mspp-modularity)
+[ModuleInitializer Class](/patterns-practices/reference/moduleinitializer-class-mspp-modularity)
 
-[ModuleInitializer Members](moduleinitializer-members-mspp-modularity)
+[ModuleInitializer Members](/patterns-practices/reference/moduleinitializer-members-mspp-modularity)
 
-[CreateModule Overload](moduleinitializer-createmodule-method-moduleinfo-mspp-modularity)
+[CreateModule Overload](/patterns-practices/reference/moduleinitializer-createmodule-method-moduleinfo-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

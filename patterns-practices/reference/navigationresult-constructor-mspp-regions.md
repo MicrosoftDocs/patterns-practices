@@ -20,14 +20,14 @@ ms:mtpsurl: 'navigationresult-constructor-mspp-regions.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.">NavigationResult(NavigationContext, Exception)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult">NavigationResult</a> class.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.">NavigationResult(NavigationContext, Nullable&lt;(Of &lt;(Boolean&gt;)&gt;))</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult">NavigationResult</a> class.

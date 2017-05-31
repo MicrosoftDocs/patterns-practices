@@ -9,7 +9,7 @@ ms:mtpsurl: 'inavigateasync-requestnavigate-method-mspp-regions.md'
 
 Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -37,19 +37,19 @@ Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 The navigation target
 
 *navigationCallback*  
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](navigationresult-class-mspp-regions)&gt;
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions)&gt;
 
 The callback executed when the navigation request is completed.
 
 ## Remarks
 
- Convenience overloads for this method can be found as extension methods on the [NavigationAsyncExtensions](navigationasyncextensions-class-mspp-regions) class.
+ Convenience overloads for this method can be found as extension methods on the [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions) class.
 
 ## See Also
-[INavigateAsync Interface](inavigateasync-interface-mspp-regions)
+[INavigateAsync Interface](/patterns-practices/reference/inavigateasync-interface-mspp-regions)
 
-[INavigateAsync Members](inavigateasync-members-mspp-regions)
+[INavigateAsync Members](/patterns-practices/reference/inavigateasync-members-mspp-regions)
 
-[RequestNavigate Overload](inavigateasync-requestnavigate-method-mspp-regions)
+[RequestNavigate Overload](/patterns-practices/reference/inavigateasync-requestnavigate-method-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

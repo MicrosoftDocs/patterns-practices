@@ -19,7 +19,7 @@ This class maps [Type](http://msdn.microsoft.com/en-us/library/42892f65) with [I
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Regions.RegionAdapterMappings
     [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionAdapterMappings](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings)
 

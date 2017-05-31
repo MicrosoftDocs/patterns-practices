@@ -9,7 +9,7 @@ ms:mtpsurl: 'regionbehavior-class-mspp-regions.md'
 
 Provides a base class for region's behaviors.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,15 +32,15 @@ Public MustInherit Class RegionBehavior
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)</br>
   Microsoft.Practices.Prism.Regions.RegionBehavior
-    [Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior](autopopulateregionbehavior-class-mspp-regions-behaviors)
-    [Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior](clearchildviewsregionbehavior-class-mspp-regions-behaviors)
-    [Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior](regionmanagerregistrationbehavior-class-mspp-regions-behaviors)
-    [Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior](regionmemberlifetimebehavior-class-mspp-regions-behaviors)
-    [Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior](selectoritemssourcesyncbehavior-class-mspp-regions-behaviors)
-    [Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors)
+    [Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior](/patterns-practices/reference/autopopulateregionbehavior-class-mspp-regions-behaviors)
+    [Microsoft.Practices.Prism.Regions.Behaviors.ClearChildViewsRegionBehavior](/patterns-practices/reference/clearchildviewsregionbehavior-class-mspp-regions-behaviors)
+    [Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior](/patterns-practices/reference/regionmanagerregistrationbehavior-class-mspp-regions-behaviors)
+    [Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior](/patterns-practices/reference/regionmemberlifetimebehavior-class-mspp-regions-behaviors)
+    [Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior](/patterns-practices/reference/selectoritemssourcesyncbehavior-class-mspp-regions-behaviors)
+    [Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior](/patterns-practices/reference/syncregioncontextwithhostbehavior-class-mspp-regions-behaviors)
 
 ## See Also
 
-[RegionBehavior Members](regionbehavior-members-mspp-regions)
+[RegionBehavior Members](/patterns-practices/reference/regionbehavior-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

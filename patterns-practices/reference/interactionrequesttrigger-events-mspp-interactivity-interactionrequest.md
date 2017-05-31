@@ -11,7 +11,7 @@ The [InteractionRequestTrigger](https://msdn.microsoft.com/library/microsoft.pra
 
 ## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [InteractionRequestTrigger](https://msdn.microsoft.com/library/microsoft.pra
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430886.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms596566">Changed</a></td>
 <td><div class="summary">
 Occurs when the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> or an object it contains is modified.
@@ -31,7 +31,7 @@ Occurs when the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freez
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430886.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td>PreviewInvoke</td>
 <td>(Inherited from TriggerBase.)</td>
 </tr>

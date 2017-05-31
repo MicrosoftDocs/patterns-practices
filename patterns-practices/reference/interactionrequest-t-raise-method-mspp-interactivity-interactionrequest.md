@@ -9,7 +9,7 @@ ms:mtpsurl: 'interactionrequest-t-raise-method-mspp-interactivity-interactionreq
 
 ## Overload List
 
-<span id="overloadMembersTableToggle"></span>
+
 <table>
 
 <thead>
@@ -21,14 +21,14 @@ ms:mtpsurl: 'interactionrequest-t-raise-method-mspp-interactivity-interactionreq
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601.raise(%600)">Raise(T)</a></td>
 <td><div class="summary">
 Fires the Raised event.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601.raise(%600%2csystem.action%7b%600%7d)">Raise(T, Action&lt;(Of &lt;(T&gt;)&gt;))</a></td>
 <td><div class="summary">
 Fires the Raised event.

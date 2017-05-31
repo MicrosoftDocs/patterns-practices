@@ -7,9 +7,9 @@ ms:mtpsurl: 'regionnavigationcontentloader-getcontractfromnavigationcontext-meth
 
 # RegionNavigationContentLoader.GetContractFromNavigationContext Method
 
-Returns the candidate TargetContract based on the [NavigationContext](navigationcontext-class-mspp-regions).
+Returns the candidate TargetContract based on the [NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -33,18 +33,18 @@ Protected Overridable Function GetContractFromNavigationContext (
 
 *navigationContext*
 
-    Type: [Microsoft.Practices.Prism.Regions.NavigationContext](navigationcontext-class-mspp-regions)
+    Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)
     The navigation contract.
 
 ### Return Value
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)<br/>
-The candidate contract to seek within the [IRegion](iregion-interface-mspp-regions) and to use, if not found, when resolving from the container.
+The candidate contract to seek within the [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) and to use, if not found, when resolving from the container.
 
 ## See Also
 
-[RegionNavigationContentLoader Class](regionnavigationcontentloader-class-mspp-regions)
+[RegionNavigationContentLoader Class](/patterns-practices/reference/regionnavigationcontentloader-class-mspp-regions)
 
-[RegionNavigationContentLoader Members](regionnavigationcontentloader-members-mspp-regions)
+[RegionNavigationContentLoader Members](/patterns-practices/reference/regionnavigationcontentloader-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

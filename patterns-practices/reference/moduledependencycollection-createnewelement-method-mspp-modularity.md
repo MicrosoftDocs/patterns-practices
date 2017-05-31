@@ -20,7 +20,7 @@ ms:mtpsurl: 'moduledependencycoll-createnew-method.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419098.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.createnewelement">CreateNewElement()()()</a></td>
 <td><div class="summary">
 Creates a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement">ModuleDependencyConfigurationElement</a>.
@@ -28,7 +28,7 @@ Creates a new <a href="https://msdn.microsoft.com/library/microsoft.practices.pr
 (Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection..::.CreateNewElement()()()</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419098.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ky49faah">CreateNewElement(String)</a></td>
 <td><div class="summary">
 Creates a new <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> when overridden in a derived class.
@@ -40,8 +40,8 @@ Creates a new <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">Configu
 
 ## See Also
 
-[ModuleDependencyCollection Class](moduledependencycollection-class-mspp-modularity)
+[ModuleDependencyCollection Class](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity)
 
-[ModuleDependencyCollection Members](moduledependencycollection-members-mspp-modularity)
+[ModuleDependencyCollection Members](/patterns-practices/reference/moduledependencycollection-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

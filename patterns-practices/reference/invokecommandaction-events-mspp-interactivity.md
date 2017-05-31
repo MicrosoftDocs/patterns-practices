@@ -12,7 +12,7 @@ The [InvokeCommandAction](https://msdn.microsoft.com/library/microsoft.practices
 
 ## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -24,7 +24,7 @@ The [InvokeCommandAction](https://msdn.microsoft.com/library/microsoft.practices
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736166.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms596566">Changed</a></td>
 <td><div class="summary">
 Occurs when the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> or an object it contains is modified.

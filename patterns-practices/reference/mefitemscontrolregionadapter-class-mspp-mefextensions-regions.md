@@ -23,7 +23,7 @@ Exports the ItemsControlRegionAdapter using the Managed Extensibility Framework 
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Regions.RegionAdapterBase](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601)&lt;(Of &lt;([ItemsControl](http://msdn.microsoft.com/en-us/library/ms611045)&gt;)&gt;)
     [Microsoft.Practices.Prism.Regions.ItemsControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter)
       Microsoft.Practices.Prism.MefExtensions.Regions.MefItemsControlRegionAdapter

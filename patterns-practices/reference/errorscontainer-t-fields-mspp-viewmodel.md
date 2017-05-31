@@ -12,10 +12,10 @@ The [ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library
 
 ## Fields
 
-<span id="fieldTableToggle"></span>
+
 |                                                                                                | Name                                                                                                                        | Description |
 |------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------|
-| ![](https://msdn.microsoft.com/en-us/Dn736164.protfield(en-us,PandP.50).gif "Protected field") | [validationResults](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601.validationresults) |             |
+| ![Protected field](/images/protfield.gif) | [validationResults](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601.validationresults) |             |
 
 ## See Also
 

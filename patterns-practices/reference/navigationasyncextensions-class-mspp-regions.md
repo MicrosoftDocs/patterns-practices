@@ -7,9 +7,9 @@ ms:mtpsurl: 'navigationasyncextensions-class-mspp-regions.md'
 
 # NavigationAsyncExtensions Class
 
-Provides additional methods to the [INavigateAsync](inavigateasync-interface-mspp-regions) interface.
+Provides additional methods to the [INavigateAsync](/patterns-practices/reference/inavigateasync-interface-mspp-regions) interface.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -34,6 +34,6 @@ Public NotInheritable Class NavigationAsyncExtensions
 
 ## See Also
 
-[NavigationAsyncExtensions Members](navigationasyncextensions-members-mspp-regions)
+[NavigationAsyncExtensions Members](/patterns-practices/reference/navigationasyncextensions-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

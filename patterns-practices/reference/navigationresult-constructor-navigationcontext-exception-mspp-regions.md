@@ -7,9 +7,9 @@ ms:mtpsurl: 'navigationresult-constructor-mspp-regions.md'
 
 # NavigationResult Constructor (NavigationContext, Exception)
 
-Initializes a new instance of the [NavigationResult](navigationresult-class-mspp-regions) class.
+Initializes a new instance of the [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -25,20 +25,20 @@ Public Sub New ( context As NavigationContext, error As Exception )
 ### Parameters
 
 *context*  
-Type: [Microsoft.Practices.Prism.Regions.NavigationContext](navigationcontext-class-mspp-regions)
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)
 
 The context.
 
 *error*  
-Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
+Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
 
 The error.
 
 ## See Also
-[NavigationResult Class](navigationresult-class-mspp-regions)
+[NavigationResult Class](/patterns-practices/reference/navigationresult-class-mspp-regions)
 
-[NavigationResult Members](navigationresult-members-mspp-regions)
+[NavigationResult Members](/patterns-practices/reference/navigationresult-members-mspp-regions)
 
 NavigationResult Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

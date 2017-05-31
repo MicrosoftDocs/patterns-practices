@@ -9,7 +9,7 @@ ms:mtpsurl: 'moduleconfigurationelementcollection-throwonduplicate-property-mspp
 
 Gets a value indicating whether an exception should be raised if a duplicate element is found. This property will always return true.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -31,8 +31,8 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 A [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50) value.
 
 ## See Also
-[ModuleConfigurationElementCollection Class](moduleconfigurationelementcollection-class-mspp-modularity)
+[ModuleConfigurationElementCollection Class](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity)
 
-[ModuleConfigurationElementCollection Members](moduleconfigurationelementcollection-members-mspp-modularity)
+[ModuleConfigurationElementCollection Members](/patterns-practices/reference/moduleconfigurationelementcollection-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

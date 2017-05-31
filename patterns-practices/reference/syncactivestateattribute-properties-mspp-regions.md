@@ -12,7 +12,7 @@ The [SyncActiveStateAttribute](https://msdn.microsoft.com/library/microsoft.prac
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -24,7 +24,7 @@ The [SyncActiveStateAttribute](https://msdn.microsoft.com/library/microsoft.prac
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736306.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/sa1bf03e">TypeId</a></td>
 <td><div class="summary">
 When implemented in a derived class, gets a unique identifier for this <a href="http://msdn.microsoft.com/en-us/library/e8kc3626">Attribute</a>.

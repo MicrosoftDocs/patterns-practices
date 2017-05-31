@@ -9,7 +9,7 @@ ms:mtpsurl: 'servicelocatorextensions-class-mspp.md'
 
 Defines extension methods for the ServiceLocator class.
 
-**Namespace:** [Microsoft.Practices.Prism](mspp-namespace)
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -26,11 +26,11 @@ Defines extension methods for the ServiceLocator class.
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
   Microsoft.Practices.Prism.ServiceLocatorExtensions
 
 ## See Also
-[ServiceLocatorExtensions Members](servicelocatorextensions-members-mspp)
+[ServiceLocatorExtensions Members](/patterns-practices/reference/servicelocatorextensions-members-mspp)
 
-[Microsoft.Practices.Prism Namespace](mspp-namespace)
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

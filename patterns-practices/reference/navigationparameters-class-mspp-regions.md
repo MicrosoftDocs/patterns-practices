@@ -9,7 +9,7 @@ ms:mtpsurl: 'navigationparameters-class-mspp-regions.md'
 
 Represents Navigation parameters.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -45,13 +45,13 @@ This class can be used to to pass object parameters during Navigation.
 
 Microsoft.Practices.Prism.Regions.NavigationParameters
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Regions.NavigationParameters
 
 ## See Also
 
-[NavigationParameters Members](navigationparameters-members-mspp-regions)
+[NavigationParameters Members](/patterns-practices/reference/navigationparameters-members-mspp-regions)
 
 [NavigationParameters Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationparameters)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

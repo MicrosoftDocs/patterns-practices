@@ -30,7 +30,7 @@ A [List&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/6sh2ey1
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                             | Condition                                                                                                 |
 |---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if match is null. |

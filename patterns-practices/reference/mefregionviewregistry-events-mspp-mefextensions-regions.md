@@ -11,7 +11,7 @@ The [MefRegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practic
 
 ## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [MefRegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practic
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430892.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry.contentregistered">ContentRegistered</a></td>
 <td><div class="summary">
 Occurs whenever a new view is registered.

@@ -9,7 +9,7 @@ ms:mtpsurl: 'weakeventhandlermanager-class-mspp-commands.md'
 
 Handles management and dispatching of EventHandlers in a weak way.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](mspp-commands-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -32,13 +32,13 @@ public static class WeakEventHandlerManagerPublic NotInheritable Class WeakEvent
 
 Microsoft.Practices.Prism.Commands.WeakEventHandlerManager
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Commands.WeakEventHandlerManager
 
 ## See Also
 
-[WeakEventHandlerManager Members](weakeventhandlermanager-members-mspp-commands)
+[WeakEventHandlerManager Members](/weakeventhandlermanager-members-mspp-commands)
 
 [WeakEventHandlerManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.weakeventhandlermanager)
 
-[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace)
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

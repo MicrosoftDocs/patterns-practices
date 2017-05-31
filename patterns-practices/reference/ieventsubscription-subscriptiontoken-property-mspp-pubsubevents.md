@@ -35,7 +35,7 @@ Type: [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-
 
 A token that identifies this [IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).
 
-[IEventSubscription Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription)
+[IEventSubscription Interface](/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription)
 
 ## See Also
 

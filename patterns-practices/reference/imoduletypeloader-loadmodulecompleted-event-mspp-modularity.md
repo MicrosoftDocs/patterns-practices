@@ -10,7 +10,7 @@ ms:mtpsurl: 'imoduletypeloader-loadmodulecompleted-event-mspp-modularity.md'
 
 Raised when a module is loaded or fails to load.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -23,7 +23,7 @@ Raised when a module is loaded or fails to load.
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](loadmodulecompletedeventargs-class-mspp-modularity)&gt;
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity)&gt;
 
 ## Syntax
 
@@ -43,7 +43,7 @@ event EventHandler<LoadModuleCompletedEventArgs> LoadModuleCompleted
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](loadmodulecompletedeventargs-class-mspp-modularity)&gt;
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity)&gt;
 
 ## Syntax
 
@@ -54,16 +54,16 @@ Event LoadModuleCompleted As EventHandler(Of LoadModuleCompletedEventArgs)
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [LoadModuleCompletedEventArgs](loadmodulecompletedeventargs-class-mspp-modularity))
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [LoadModuleCompletedEventArgs](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity))
 
 ## Remarks
 
-This event is raised once per ModuleInfo instance requested in [LoadModuleType(ModuleInfo)](imoduletypeloader-loadmoduletype-method-mspp-modularity).
+This event is raised once per ModuleInfo instance requested in [LoadModuleType(ModuleInfo)](/patterns-practices/reference/imoduletypeloader-loadmoduletype-method-mspp-modularity).
 
 ## See Also
 
-[IModuleTypeLoader Interface](imoduletypeloader-interface-mspp-modularity)
+[IModuleTypeLoader Interface](/patterns-practices/reference/imoduletypeloader-interface-mspp-modularity)
 
-[IModuleTypeLoader Members](imoduletypeloader-members-mspp-modularity)
+[IModuleTypeLoader Members](/patterns-practices/reference/imoduletypeloader-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

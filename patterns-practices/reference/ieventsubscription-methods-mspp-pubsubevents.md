@@ -12,7 +12,7 @@ The [IEventSubscription](/patterns-practices/reference/ieventsubscription-interf
 
 ## Methods
 
-The [IEventSubscription](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription) type exposes the following members.
+The [IEventSubscription](/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription) type exposes the following members.
 
 <table>
 
@@ -25,8 +25,8 @@ The [IEventSubscription](https://msdn.microsoft.com/library/microsoft.practices.
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription.getexecutionstrategy">GetExecutionStrategy</a></td>
+<td>![Public method](/images/public-method.gif)</td>
+<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription.getexecutionstrategy">GetExecutionStrategy</a></td>
 <td><div class="summary">
 Gets the execution strategy to publish this event.
 </div></td>
@@ -40,6 +40,6 @@ Gets the execution strategy to publish this event.
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
 
-[IEventSubscription Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription)
+[IEventSubscription Interface](/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

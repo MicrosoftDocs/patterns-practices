@@ -5,12 +5,11 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscriptio
 ms:mtpsurl: 'backgroundeventsubscription-tpayload-constructor-mspp-pubsubevents.md'
 ---
 
-BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Constructor
-======================================================================
+# BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Constructor
 
-Creates a new instance of [BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.backgroundeventsubscription%601).
+Creates a new instance of [BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](/patterns-practices/reference/mspp-mvvm-namespace.backgroundeventsubscription%601).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -19,26 +18,24 @@ Creates a new instance of [BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)
 ### Parameters
 
 actionReference  
-Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.idelegatereference)
+Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/mspp-mvvm-namespace.idelegatereference)
 A reference to a delegate of type [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8).
 
 filterReference  
-Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.idelegatereference)
+Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/mspp-mvvm-namespace.idelegatereference)
 A reference to a delegate of type [Predicate&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/bfcke1bz).
 
-Exceptions
-----------
+## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                             | Condition                                                                                                                                                                                                                                                                      |
 |---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | When actionReference or are nullNothingnullptra null reference (Nothing in Visual Basic).                                                                                                                                                                                      |
 | [System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114)     | When the target of actionReference is not of type [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8), or the target of filterReference is not of type [Predicate&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/bfcke1bz). |
 
-See Also
---------
-[BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.backgroundeventsubscription%601)
+## See Also
+[BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](/patterns-practices/reference/mspp-mvvm-namespace.backgroundeventsubscription%601)
 
 [BackgroundEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.backgroundeventsubscription%601)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

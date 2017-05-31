@@ -9,7 +9,7 @@ ms:mtpsurl: 'moduledependencyconfigurationelement-class-mspp-modularity.md'
 
 A [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) for module dependencies.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,13 +28,13 @@ Public Class ModuleDependencyConfigurationElement
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
   [System.Configuration.ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3)
   
     Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement
 
 ## See Also
-[ModuleDependencyConfigurationElement Members](moduledependencyconfigurationelement-members-mspp-modularity)
+[ModuleDependencyConfigurationElement Members](/patterns-practices/reference/moduledependencyconfigurationelement-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

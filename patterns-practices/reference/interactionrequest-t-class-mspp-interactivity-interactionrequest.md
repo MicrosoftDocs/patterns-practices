@@ -18,12 +18,12 @@ Implementation of the [IInteractionRequest](https://msdn.microsoft.com/library/m
 public class InteractionRequest&lt;T&gt; : IInteractionRequest where T : INotification Public Class InteractionRequest(Of T As INotification) Implements IInteractionRequest
 ## Type Parameters
 
-<span id="templatesToggle"></span>
+
 T  
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequest&lt;(Of &lt;(T&gt;)&gt;)
 
 ## See Also

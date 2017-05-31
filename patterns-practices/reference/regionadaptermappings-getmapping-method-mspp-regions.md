@@ -34,7 +34,7 @@ This class will look for a registered type for controlType and if there is not a
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                                                | Condition                                                                 |
 |----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
 | [System.Collections.Generic.KeyNotFoundException](http://msdn.microsoft.com/en-us/library/9a35cy81) | When there is no registered type for controlType or any of its ancestors. |

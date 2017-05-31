@@ -11,7 +11,7 @@ The [IHostAwareRegionBehavior](https://msdn.microsoft.com/library/microsoft.prac
 
 ## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [IHostAwareRegionBehavior](https://msdn.microsoft.com/library/microsoft.prac
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior.attach">Attach</a></td>
 <td><div class="summary">
 Attaches the behavior to the specified region.

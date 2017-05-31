@@ -9,7 +9,7 @@ ms:mtpsurl: 'mefregionnavigationservice-constructor-mspp-mefextensions-regions.m
 
 Initializes a new instance of the [MefRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice) class.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](mspp-mefextensions-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -46,20 +46,20 @@ Public Sub New (
 
 *navigationContentLoader*  
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationContentLoader](iregionnavigationcontentloader-interface-mspp-regions)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationContentLoader](/patterns-practices/reference/iregionnavigationcontentloader-interface-mspp-regions)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The navigation content loader.
 
 *journal* 
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournal](iregionnavigationjournal-interface-mspp-regions)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournal](/patterns-practices/reference/iregionnavigationjournal-interface-mspp-regions)
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The navigation journal.
 
 ## See Also
 
-[MefRegionNavigationService Class](mefregionnavigationservice-class-mspp-mefextensions-regions)
+[MefRegionNavigationService Class](/patterns-practices/reference/mefregionnavigationservice-class-mspp-mefextensions-regions)
 
-[MefRegionNavigationService Members](mefregionnavigationservice-members-mspp-mefextensions-regions)
+[MefRegionNavigationService Members](/patterns-practices/reference/mefregionnavigationservice-members-mspp-mefextensions-regions)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

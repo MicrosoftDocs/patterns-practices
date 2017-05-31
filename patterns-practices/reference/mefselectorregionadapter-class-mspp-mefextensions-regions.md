@@ -23,7 +23,7 @@ Exports the SelectorRegionAdapter using the Managed Extensibility Framework (MEF
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Regions.RegionAdapterBase](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601)&lt;(Of &lt;([Selector](http://msdn.microsoft.com/en-us/library/ms595227)&gt;)&gt;)
     [Microsoft.Practices.Prism.Regions.SelectorRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.selectorregionadapter)
       Microsoft.Practices.Prism.MefExtensions.Regions.MefSelectorRegionAdapter
