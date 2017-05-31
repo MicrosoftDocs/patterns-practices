@@ -7,9 +7,9 @@ ms:mtpsurl: 'iregion-behaviors-property-mspp-regions.md'
 
 # IRegion.Behaviors Property
 
-Gets the collection of [IRegionBehavior](iregionbehavior-interface-mspp-regions)s that can extend the behavior of regions.
+Gets the collection of [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)s that can extend the behavior of regions.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -29,12 +29,12 @@ ReadOnly Property Behaviors As IRegionBehaviorCollection
 
 ### Property Value
 
-Type: [IRegionBehaviorCollection](iregionbehaviorcollection-interface-mspp-regions)
+Type: [IRegionBehaviorCollection](/patterns-practices/reference/iregionbehaviorcollection-interface-mspp-regions)
 
 ## See Also
 
-[IRegion Interface](iregion-interface-mspp-regions)
+[IRegion Interface](/patterns-practices/reference/iregion-interface-mspp-regions)
 
-[IRegion Members](iregion-members-mspp-regions)
+[IRegion Members](/patterns-practices/reference/iregion-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

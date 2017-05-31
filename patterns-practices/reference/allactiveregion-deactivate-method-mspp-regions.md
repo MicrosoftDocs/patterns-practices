@@ -9,7 +9,7 @@ ms:mtpsurl: 'allactiveregion-deactivate-method-mspp-regions.md'
 
 Deactive is not valid in this Region. This method will always throw [InvalidOperationException](http://msdn.microsoft.com/en-us/library/2asft85a).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -38,7 +38,7 @@ Public Overrides Sub Deactivate (
 
 ### Implements
 
-[IRegion.Deactivate(Object)](iregion-deactivate-method-mspp-regions)
+[IRegion.Deactivate(Object)](/patterns-practices/reference/iregion-deactivate-method-mspp-regions)
 
 ## Exceptions
 
@@ -48,8 +48,8 @@ Public Overrides Sub Deactivate (
 
 ## See Also
 
-[AllActiveRegion Class](allactiveregion-class-mspp-regions)
+[AllActiveRegion Class](/patterns-practices/reference/allactiveregion-class-mspp-regions)
 
-[AllActiveRegion Members](allactiveregion-members-mspp-regions)
+[AllActiveRegion Members](/patterns-practices/reference/allactiveregion-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

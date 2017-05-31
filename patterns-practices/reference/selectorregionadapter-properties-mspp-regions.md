@@ -11,7 +11,7 @@ The [SelectorRegionAdapter](https://msdn.microsoft.com/library/microsoft.practic
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [SelectorRegionAdapter](https://msdn.microsoft.com/library/microsoft.practic
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431219.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
+<td>![Protected property](/images/protproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.regionbehaviorfactory">RegionBehaviorFactory</a></td>
 <td><div class="summary">
 Gets or sets the factory used to create the region behaviors to attach to the created regions.

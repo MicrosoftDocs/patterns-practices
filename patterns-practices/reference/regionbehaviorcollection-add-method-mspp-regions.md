@@ -33,7 +33,7 @@ The [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.pri
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                             | Condition                                                                        |
 |---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------|
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | Thrown is the key parameter is Null, or if the regionBehavior parameter is Null. |

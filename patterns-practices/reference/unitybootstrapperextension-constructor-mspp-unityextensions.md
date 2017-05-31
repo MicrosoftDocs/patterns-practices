@@ -7,9 +7,9 @@ ms:mtpsurl: 'unitybootstrapperextension-constructor-mspp-unityextensions.md'
 
 # UnityBootstrapperExtension Constructor
 
-Initializes a new instance of the [UnityBootstrapperExtension](unitybootstrapperextension-class-mspp-unityextensions) class
+Initializes a new instance of the [UnityBootstrapperExtension](/patterns-practices/reference/unitybootstrapperextension-class-mspp-unityextensions) class
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](mspp-unityextensions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](/patterns-practices/reference/mspp-unityextensions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
@@ -24,8 +24,8 @@ Public Sub New
 ```
 
 ## See Also
-[UnityBootstrapperExtension Class](unitybootstrapperextension-class-mspp-unityextensions)
+[UnityBootstrapperExtension Class](/patterns-practices/reference/unitybootstrapperextension-class-mspp-unityextensions)
 
-[UnityBootstrapperExtension Members](unitybootstrapperextension-members-mspp-unityextensions)
+[UnityBootstrapperExtension Members](/patterns-practices/reference/unitybootstrapperextension-members-mspp-unityextensions)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](mspp-unityextensions-namespace)
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)

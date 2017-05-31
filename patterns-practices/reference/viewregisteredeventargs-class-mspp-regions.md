@@ -19,7 +19,7 @@ Argument class used by the [ContentRegistered](https://msdn.microsoft.com/librar
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
     Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs
 

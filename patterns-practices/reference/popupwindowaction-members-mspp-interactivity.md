@@ -11,7 +11,7 @@ The [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.p
 
 ## Constructors
 
-<span id="constructorTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.p
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.">PopupWindowAction</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction">PopupWindowAction</a> class
@@ -34,7 +34,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -46,7 +46,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms590752">ApplyAnimationClock(DependencyProperty, AnimationClock)</a></td>
 <td><div class="summary">
 Applies an <a href="http://msdn.microsoft.com/en-us/library/ms618394">AnimationClock</a> to the specified <a href="http://msdn.microsoft.com/en-us/library/ms589318">DependencyProperty</a>. If the property is already animated, the <a href="http://msdn.microsoft.com/en-us/library/ms596029">SnapshotAndReplace</a> handoff behavior is used.
@@ -54,7 +54,7 @@ Applies an <a href="http://msdn.microsoft.com/en-us/library/ms618394">AnimationC
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms590755">ApplyAnimationClock(DependencyProperty, AnimationClock, HandoffBehavior)</a></td>
 <td><div class="summary">
 Applies an <a href="http://msdn.microsoft.com/en-us/library/ms618394">AnimationClock</a> to the specified <a href="http://msdn.microsoft.com/en-us/library/ms589318">DependencyProperty</a>. If the property is already animated, the specified <a href="http://msdn.microsoft.com/en-us/library/ms596029">HandoffBehavior</a> is used.
@@ -62,12 +62,12 @@ Applies an <a href="http://msdn.microsoft.com/en-us/library/ms618394">AnimationC
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td>Attach</td>
 <td>(Inherited from TriggerAction.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms590761">BeginAnimation(DependencyProperty, AnimationTimeline)</a></td>
 <td><div class="summary">
 Applies an animation to the specified <a href="http://msdn.microsoft.com/en-us/library/ms589318">DependencyProperty</a>. The animation is started when the next frame is rendered. If the specified property is already animated, the <a href="http://msdn.microsoft.com/en-us/library/ms596029">SnapshotAndReplace</a> handoff behavior is used.
@@ -75,7 +75,7 @@ Applies an animation to the specified <a href="http://msdn.microsoft.com/en-us/l
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms590757">BeginAnimation(DependencyProperty, AnimationTimeline, HandoffBehavior)</a></td>
 <td><div class="summary">
 Applies an animation to the specified <a href="http://msdn.microsoft.com/en-us/library/ms589318">DependencyProperty</a>. The animation is started when the next frame is rendered. If the specified property is already animated, the specified <a href="http://msdn.microsoft.com/en-us/library/ms596029">HandoffBehavior</a> is used.
@@ -83,7 +83,7 @@ Applies an animation to the specified <a href="http://msdn.microsoft.com/en-us/l
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms591167">CheckAccess</a></td>
 <td><div class="summary">
 Determines whether the calling thread has access to this <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.
@@ -91,7 +91,7 @@ Determines whether the calling thread has access to this <a href="http://msdn.mi
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms597464">ClearValue(DependencyProperty)</a></td>
 <td><div class="summary">
 Clears the local value of a property. The property to be cleared is specified by a <a href="http://msdn.microsoft.com/en-us/library/ms589318">DependencyProperty</a> identifier.
@@ -99,7 +99,7 @@ Clears the local value of a property. The property to be cleared is specified by
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms597465">ClearValue(DependencyPropertyKey)</a></td>
 <td><div class="summary">
 Clears the local value of a read-only property. The property to be cleared is specified by a <a href="http://msdn.microsoft.com/en-us/library/ms602348">DependencyPropertyKey</a>.
@@ -107,7 +107,7 @@ Clears the local value of a read-only property. The property to be cleared is sp
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms590765">Clone</a></td>
 <td><div class="summary">
 Creates a modifiable clone of this <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>, making deep copies of this object's values. When copying this object's dependency properties, this method copies resource references and data bindings (but they might no longer resolve) but not animations or their current values.
@@ -115,7 +115,7 @@ Creates a modifiable clone of this <a href="http://msdn.microsoft.com/en-us/libr
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms557724">CloneCore</a></td>
 <td><div class="summary">
 Makes the instance a clone (deep copy) of the specified <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> using base (non-animated) property values.
@@ -123,7 +123,7 @@ Makes the instance a clone (deep copy) of the specified <a href="http://msdn.mic
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms557727">CloneCurrentValue</a></td>
 <td><div class="summary">
 Creates a modifiable clone (deep copy) of the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> using its current values.
@@ -131,7 +131,7 @@ Creates a modifiable clone (deep copy) of the <a href="http://msdn.microsoft.com
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms557729">CloneCurrentValueCore</a></td>
 <td><div class="summary">
 Makes the instance a modifiable clone (deep copy) of the specified <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> using current property values.
@@ -139,7 +139,7 @@ Makes the instance a modifiable clone (deep copy) of the specified <a href="http
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms597466">CoerceValue</a></td>
 <td><div class="summary">
 Coerces the value of the specified dependency property. This is accomplished by invoking any <a href="http://msdn.microsoft.com/en-us/library/ms589135">CoerceValueCallback</a> function specified in property metadata for the dependency property as it exists on the calling <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.
@@ -147,14 +147,14 @@ Coerces the value of the specified dependency property. This is accomplished by 
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.createdefaultwindow(microsoft.practices.prism.interactivity.interactionrequest.inotification)">CreateDefaultWindow</a></td>
 <td><div class="summary">
 When no WindowContent is sent this method is used to create a default basic window to show the corresponding <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification">INotification</a> or <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation">IConfirmation</a>.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms557732">CreateInstance</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> class.
@@ -162,17 +162,17 @@ Initializes a new instance of the <a href="http://msdn.microsoft.com/en-us/libra
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td>CreateInstanceCore</td>
 <td>(Inherited from TriggerAction.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td>Detach</td>
 <td>(Inherited from TriggerAction.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/aa345743">Equals</a></td>
 <td><div class="summary">
 Determines whether a provided <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a> is equivalent to the current <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.
@@ -180,7 +180,7 @@ Determines whether a provided <a href="http://msdn.microsoft.com/en-us/library/m
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/4k87zsw7">Finalize</a></td>
 <td><div class="summary">
 Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
@@ -188,7 +188,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms557735">Freeze</a></td>
 <td><div class="summary">
 Makes the current object unmodifiable and sets its <a href="http://msdn.microsoft.com/en-us/library/ms600924">IsFrozen</a> property to true.
@@ -196,7 +196,7 @@ Makes the current object unmodifiable and sets its <a href="http://msdn.microsof
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms590769">FreezeCore</a></td>
 <td><div class="summary">
 Makes this <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a> object unmodifiable or determines whether it can be made unmodifiable.
@@ -204,7 +204,7 @@ Makes this <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms590770">GetAnimationBaseValue</a></td>
 <td><div class="summary">
 Returns the non-animated value of the specified <a href="http://msdn.microsoft.com/en-us/library/ms589318">DependencyProperty</a>.
@@ -212,7 +212,7 @@ Returns the non-animated value of the specified <a href="http://msdn.microsoft.c
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms557740">GetAsFrozen</a></td>
 <td><div class="summary">
 Creates a frozen copy of the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>, using base (non-animated) property values. Because the copy is frozen, any frozen sub-objects are copied by reference.
@@ -220,7 +220,7 @@ Creates a frozen copy of the <a href="http://msdn.microsoft.com/en-us/library/ms
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms557742">GetAsFrozenCore</a></td>
 <td><div class="summary">
 Makes the instance a frozen clone of the specified <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> using base (non-animated) property values.
@@ -228,7 +228,7 @@ Makes the instance a frozen clone of the specified <a href="http://msdn.microsof
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms557743">GetCurrentValueAsFrozen</a></td>
 <td><div class="summary">
 Creates a frozen copy of the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> using current property values. Because the copy is frozen, any frozen sub-objects are copied by reference.
@@ -236,7 +236,7 @@ Creates a frozen copy of the <a href="http://msdn.microsoft.com/en-us/library/ms
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms557745">GetCurrentValueAsFrozenCore</a></td>
 <td><div class="summary">
 Makes the current instance a frozen clone of the specified <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>. If the object has animated dependency properties, their current animated values are copied.
@@ -244,7 +244,7 @@ Makes the current instance a frozen clone of the specified <a href="http://msdn.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/aa345744">GetHashCode</a></td>
 <td><div class="summary">
 Gets a hash code for this <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.
@@ -252,7 +252,7 @@ Gets a hash code for this <a href="http://msdn.microsoft.com/en-us/library/ms589
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms597467">GetLocalValueEnumerator</a></td>
 <td><div class="summary">
 Creates a specialized enumerator for determining which dependency properties have locally set values on this <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.
@@ -260,7 +260,7 @@ Creates a specialized enumerator for determining which dependency properties hav
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/dfwy45w9">GetType</a></td>
 <td><div class="summary">
 Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
@@ -268,7 +268,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms597469">GetValue</a></td>
 <td><div class="summary">
 Returns the current effective value of a dependency property on this instance of a <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.
@@ -276,14 +276,14 @@ Returns the current effective value of a dependency property on this instance of
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.getwindow(microsoft.practices.prism.interactivity.interactionrequest.inotification)">GetWindow</a></td>
 <td><div class="summary">
 Returns the window to display as part of the trigger action.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms597470">InvalidateProperty</a></td>
 <td><div class="summary">
 Re-evaluates the effective value for the specified dependency property
@@ -291,7 +291,7 @@ Re-evaluates the effective value for the specified dependency property
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.invoke(system.object)">Invoke</a></td>
 <td><div class="summary">
 Displays the child window and collects results for <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest">IInteractionRequest</a>.
@@ -299,7 +299,7 @@ Displays the child window and collects results for <a href="https://msdn.microso
 (Overrides TriggerActionInvoke(Object).)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/57ctke0a">MemberwiseClone</a></td>
 <td><div class="summary">
 Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
@@ -307,12 +307,12 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td>OnAttached</td>
 <td>(Inherited from TriggerAction.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms557749">OnChanged</a></td>
 <td><div class="summary">
 Called when the current <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> object is modified.
@@ -320,12 +320,12 @@ Called when the current <a href="http://msdn.microsoft.com/en-us/library/ms60273
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td>OnDetaching</td>
 <td>(Inherited from TriggerAction.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/aa345824">OnFreezablePropertyChanged(DependencyObject, DependencyObject)</a></td>
 <td><div class="summary">
 Ensures that appropriate context pointers are established for a <a href="http://msdn.microsoft.com/en-us/library/ms589310">DependencyObjectType</a> data member that has just been set.
@@ -333,7 +333,7 @@ Ensures that appropriate context pointers are established for a <a href="http://
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/aa345825">OnFreezablePropertyChanged(DependencyObject, DependencyObject, DependencyProperty)</a></td>
 <td><div class="summary">
 This member supports the Windows Presentation Foundation (WPF) infrastructure and is not intended to be used directly from your code.
@@ -341,7 +341,7 @@ This member supports the Windows Presentation Foundation (WPF) infrastructure an
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms557754">OnPropertyChanged</a></td>
 <td><div class="summary">
 Overrides the <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a> implementation of <a href="http://msdn.microsoft.com/en-us/library/ms597471">OnPropertyChanged(DependencyPropertyChangedEventArgs)</a> to also invoke any <a href="http://msdn.microsoft.com/en-us/library/ms596566">Changed</a> handlers in response to a changing dependency property of type <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.
@@ -349,14 +349,14 @@ Overrides the <a href="http://msdn.microsoft.com/en-us/library/ms589309">Depende
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.preparecontentforwindow(microsoft.practices.prism.interactivity.interactionrequest.inotification%2csystem.windows.window)">PrepareContentForWindow</a></td>
 <td><div class="summary">
 Checks if the WindowContent or its DataContext implements <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware">IInteractionRequestAware</a>. If so, it sets the corresponding value. Also, if WindowContent does not have a RegionManager attached, it creates a new scoped RegionManager for it.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms597472">ReadLocalValue</a></td>
 <td><div class="summary">
 Returns the local value of a dependency property, if it exists.
@@ -364,7 +364,7 @@ Returns the local value of a dependency property, if it exists.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms557756">ReadPreamble</a></td>
 <td><div class="summary">
 Ensures that the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> is being accessed from a valid thread. Inheritors of <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> must call this method at the beginning of any API that reads data members that are not dependency properties.
@@ -372,7 +372,7 @@ Ensures that the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Free
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/dd549644">SetCurrentValue</a></td>
 <td><div class="summary">
 Sets the value of a dependency property without changing its value source.
@@ -380,7 +380,7 @@ Sets the value of a dependency property without changing its value source.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms597473">SetValue(DependencyProperty, Object)</a></td>
 <td><div class="summary">
 Sets the local value of a dependency property, specified by its dependency property identifier.
@@ -388,7 +388,7 @@ Sets the local value of a dependency property, specified by its dependency prope
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms597474">SetValue(DependencyPropertyKey, Object)</a></td>
 <td><div class="summary">
 Sets the local value of a read-only dependency property, specified by the <a href="http://msdn.microsoft.com/en-us/library/ms602348">DependencyPropertyKey</a> identifier of the dependency property.
@@ -396,7 +396,7 @@ Sets the local value of a read-only dependency property, specified by the <a hre
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms597475">ShouldSerializeProperty</a></td>
 <td><div class="summary">
 Returns a value that indicates whether serialization processes should serialize the value for the provided dependency property.
@@ -404,7 +404,7 @@ Returns a value that indicates whether serialization processes should serialize 
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">ToString</a></td>
 <td><div class="summary">
 Returns a string that represents the current object.
@@ -412,7 +412,7 @@ Returns a string that represents the current object.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms591169">VerifyAccess</a></td>
 <td><div class="summary">
 Enforces that the calling thread has access to this <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.
@@ -420,7 +420,7 @@ Enforces that the calling thread has access to this <a href="http://msdn.microso
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms557762">WritePostscript</a></td>
 <td><div class="summary">
 Raises the <a href="http://msdn.microsoft.com/en-us/library/ms596566">Changed</a> event for the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> and invokes its <a href="http://msdn.microsoft.com/en-us/library/ms557749">OnChanged()()()</a> method. Classes that derive from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> should call this method at the end of any API that modifies class members that are not stored as dependency properties.
@@ -428,7 +428,7 @@ Raises the <a href="http://msdn.microsoft.com/en-us/library/ms596566">Changed</a
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms557763">WritePreamble</a></td>
 <td><div class="summary">
 Verifies that the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> is not frozen and that it is being accessed from a valid threading context. <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> inheritors should call this method at the beginning of any API that writes to data members that are not dependency properties.
@@ -440,7 +440,7 @@ Verifies that the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Fre
 
 ## Fields
 
-<span id="fieldTableToggle"></span>
+
 <table>
 
 <thead>
@@ -452,21 +452,21 @@ Verifies that the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Fre
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Dn741427.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public field](/images/pubfield.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.centeroverassociatedobjectproperty">CenterOverAssociatedObjectProperty</a></td>
 <td><div class="summary">
 Determines if the content should be initially shown centered over the view that raised the interaction request or not.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Dn741427.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public field](/images/pubfield.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.ismodalproperty">IsModalProperty</a></td>
 <td><div class="summary">
 Determines if the content should be shown in a modal window or not.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Dn741427.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public field](/images/pubfield.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.windowcontentproperty">WindowContentProperty</a></td>
 <td><div class="summary">
 The content of the child window to display as part of the popup.
@@ -477,7 +477,7 @@ The content of the child window to display as part of the popup.
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -489,17 +489,17 @@ The content of the child window to display as part of the popup.
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
+<td>![Protected property](/images/protproperty.gif)</td>
 <td>AssociatedObject</td>
 <td>(Inherited from TriggerAction&lt;(Of &lt;(<a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>&gt;)&gt;).)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
+<td>![Protected property](/images/protproperty.gif)</td>
 <td>AssociatedObjectTypeConstraint</td>
 <td>(Inherited from TriggerAction&lt;(Of &lt;(<a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>&gt;)&gt;).)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms600923">CanFreeze</a></td>
 <td><div class="summary">
 Gets a value that indicates whether the object can be made unmodifiable.
@@ -507,14 +507,14 @@ Gets a value that indicates whether the object can be made unmodifiable.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.centeroverassociatedobject">CenterOverAssociatedObject</a></td>
 <td><div class="summary">
 Gets or sets if the window will be initially shown centered over the view that raised the interaction request or not.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms600674">DependencyObjectType</a></td>
 <td><div class="summary">
 Gets the <a href="http://msdn.microsoft.com/en-us/library/ms589310">DependencyObjectType</a> that wraps the CLR type of this instance. 
@@ -522,7 +522,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/ms589310">DependencyOb
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms605656">Dispatcher</a></td>
 <td><div class="summary">
 Gets the <a href="http://msdn.microsoft.com/en-us/library/ms615907">Dispatcher</a> this <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a> is associated with.
@@ -530,7 +530,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/ms615907">Dispatcher</
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms616442">HasAnimatedProperties</a></td>
 <td><div class="summary">
 Gets a value that indicates whether one or more <a href="http://msdn.microsoft.com/en-us/library/ms618394">AnimationClock</a> objects is associated with any of this object's dependency properties.
@@ -538,12 +538,12 @@ Gets a value that indicates whether one or more <a href="http://msdn.microsoft.c
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td>IsEnabled</td>
 <td>(Inherited from TriggerAction.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms600924">IsFrozen</a></td>
 <td><div class="summary">
 Gets a value that indicates whether the object is currently modifiable.
@@ -551,14 +551,14 @@ Gets a value that indicates whether the object is currently modifiable.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.ismodal">IsModal</a></td>
 <td><div class="summary">
 Gets or sets if the window will be modal or not.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms600677">IsSealed</a></td>
 <td><div class="summary">
 Gets a value that indicates whether this instance is currently sealed (read-only).
@@ -566,7 +566,7 @@ Gets a value that indicates whether this instance is currently sealed (read-only
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.windowcontent">WindowContent</a></td>
 <td><div class="summary">
 Gets or sets the content of the window.
@@ -577,7 +577,7 @@ Gets or sets the content of the window.
 
 ## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -589,7 +589,7 @@ Gets or sets the content of the window.
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741427.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms596566">Changed</a></td>
 <td><div class="summary">
 Occurs when the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> or an object it contains is modified.

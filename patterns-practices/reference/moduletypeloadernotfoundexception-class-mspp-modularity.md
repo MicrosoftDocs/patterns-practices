@@ -7,9 +7,9 @@ ms:mtpsurl: 'moduletypeloadernotfoundexception-class-mspp-modularity.md'
 
 # ModuleTypeLoaderNotFoundException Class
 
-Exception that's thrown when there is no [IModuleTypeLoader](imoduletypeloader-interface-mspp-modularity) registered in [ModuleTypeLoaders](modulemanager-moduletypeloaders-property-mspp-modularity) that can handle this particular type of module.
+Exception that's thrown when there is no [IModuleTypeLoader](/patterns-practices/reference/imoduletypeloader-interface-mspp-modularity) registered in [ModuleTypeLoaders](/patterns-practices/reference/modulemanager-moduletypeloaders-property-mspp-modularity) that can handle this particular type of module.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -33,14 +33,14 @@ Public Class ModuleTypeLoaderNotFoundException
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-  [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
+  [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
 
-    [Microsoft.Practices.Prism.Modularity.ModularityException](modularityexception-class-mspp-modularity)
+    [Microsoft.Practices.Prism.Modularity.ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity)
 
       Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException
 
 ## See Also
 
-[ModuleTypeLoaderNotFoundException Members](moduletypeloadernotfoundexception-members-mspp-modularity)
+[ModuleTypeLoaderNotFoundException Members](/patterns-practices/reference/moduletypeloadernotfoundexception-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

@@ -11,7 +11,7 @@ The [RegionNavigationService](https://msdn.microsoft.com/library/microsoft.pract
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,14 +23,14 @@ The [RegionNavigationService](https://msdn.microsoft.com/library/microsoft.pract
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431218.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.journal">Journal</a></td>
 <td><div class="summary">
 Gets the journal.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431218.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.region">Region</a></td>
 <td><div class="summary">
 Gets or sets the region.

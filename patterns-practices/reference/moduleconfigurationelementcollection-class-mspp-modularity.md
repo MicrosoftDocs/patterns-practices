@@ -19,7 +19,7 @@ A collection of [ModuleConfigurationElement](https://msdn.microsoft.com/library/
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [System.Configuration.ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3)
     [System.Configuration.ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et)
       Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection

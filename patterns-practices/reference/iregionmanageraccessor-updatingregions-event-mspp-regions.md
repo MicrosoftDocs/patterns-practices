@@ -9,7 +9,7 @@ ms:mtpsurl: 'iregionmanageraccessor-updatingregions-event-mspp-regions.md'
 
 Notification used by attached behaviors to update the region managers appropriatelly if needed to.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -35,8 +35,8 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
 This event uses weak references to the event handler to prevent this static event of keeping the target element longer than expected.
 
 ## See Also
-[IRegionManagerAccessor Interface](iregionmanageraccessor-interface-mspp-regions)
+[IRegionManagerAccessor Interface](/patterns-practices/reference/iregionmanageraccessor-interface-mspp-regions)
 
-[IRegionManagerAccessor Members](iregionmanageraccessor-members-mspp-regions)
+[IRegionManagerAccessor Members](/patterns-practices/reference/iregionmanageraccessor-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

@@ -11,7 +11,7 @@ The [InteractionRequestedEventArgs](https://msdn.microsoft.com/library/microsoft
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,14 +23,14 @@ The [InteractionRequestedEventArgs](https://msdn.microsoft.com/library/microsoft
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419172.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs.callback">Callback</a></td>
 <td><div class="summary">
 Gets the callback to execute when an interaction is completed.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419172.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs.context">Context</a></td>
 <td><div class="summary">
 Gets the context for a requested interaction.

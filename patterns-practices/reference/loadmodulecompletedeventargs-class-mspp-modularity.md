@@ -19,7 +19,7 @@ Provides completion information after a module is loaded, or fails to load.
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
     Microsoft.Practices.Prism.Modularity.LoadModuleCompletedEventArgs
 

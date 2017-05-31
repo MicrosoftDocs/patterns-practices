@@ -4,22 +4,32 @@ Title: 'MefRegionNavigationJournal Constructor (Microsoft.Practices.Prism.MefExt
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournal.\#ctor'
 ms:mtpsurl: 'mefregionnavigationjournal-constructor-mspp-mefextensions-regions.md'
 ---
-
+
+
 # MefRegionNavigationJournal Constructor
 
-Initializes a new instance of the [MefRegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal) class
+Initializes a new instance of the [MefRegionNavigationJournal](/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regions) class
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public MefRegionNavigationJournal()Public Sub New
+
+```C#
+public MefRegionNavigationJournal()
+```
+```VB
+'Declaration
+Public Sub New
+```
 
 ## See Also
-[MefRegionNavigationJournal Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal)
 
-[MefRegionNavigationJournal Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal)
+[MefRegionNavigationJournal Class](/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regions)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+[MefRegionNavigationJournal Members](/patterns-practices/reference/mefregionnavigationjournal-members-mspp-mefextensions-regions)
+
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

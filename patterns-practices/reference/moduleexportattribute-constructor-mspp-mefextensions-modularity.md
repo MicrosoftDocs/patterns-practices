@@ -9,7 +9,7 @@ ms:mtpsurl: 'moduleexportattribute-constructor-mspp-mefextensions-modularity.md'
 
 ## Overload List
 
-<span id="overloadMembersTableToggle"></span>
+
 <table>
 
 <thead>
@@ -21,14 +21,14 @@ ms:mtpsurl: 'moduleexportattribute-constructor-mspp-mefextensions-modularity.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute.">ModuleExportAttribute(Type)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute">ModuleExportAttribute</a> class.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute.">ModuleExportAttribute(String, Type)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute">ModuleExportAttribute</a> class.

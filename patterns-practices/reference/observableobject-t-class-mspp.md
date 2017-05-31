@@ -18,7 +18,7 @@ Class that wraps an object, so that other classes can notify for Change events. 
 public class ObservableObject&lt;T&gt; : FrameworkElement, INotifyPropertyChanged Public Class ObservableObject(Of T) Inherits FrameworkElement Implements INotifyPropertyChanged
 ## Type Parameters
 
-<span id="templatesToggle"></span>
+
 T  
 The type of the property that's wrapped in the Observable object
 
@@ -28,7 +28,7 @@ The type of the property that's wrapped in the Observable object
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [System.Windows.Threading.DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925)
     [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
       [System.Windows.Media.Visual](http://msdn.microsoft.com/en-us/library/ms635637)

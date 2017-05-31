@@ -9,7 +9,7 @@ ms:mtpsurl: 'iassemblyresolver-loadassemblyfrom-method-mspp-modularity.md'
 
  Load an assembly when it's required by the application. 
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -38,8 +38,8 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ## See Also
 
-[IAssemblyResolver Interface](iassemblyresolver-interface-mspp-modularity)
+[IAssemblyResolver Interface](/patterns-practices/reference/iassemblyresolver-interface-mspp-modularity)
 
-[IAssemblyResolver Members](iassemblyresolver-members-mspp-modularity)
+[IAssemblyResolver Members](/patterns-practices/reference/iassemblyresolver-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

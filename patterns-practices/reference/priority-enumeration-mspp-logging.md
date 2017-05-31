@@ -19,7 +19,7 @@ Defines values for the priorities used by [ILoggerFacade](https://msdn.microsoft
 
 ## Members
 
-<span id="membersToggle"></span>
+
 |     | Member name | Value | Description            |
 |-----|-------------|-------|------------------------|
 |     | None        | 0     | No priority specified. |

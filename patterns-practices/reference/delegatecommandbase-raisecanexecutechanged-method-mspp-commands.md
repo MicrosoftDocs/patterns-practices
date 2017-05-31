@@ -7,13 +7,13 @@ ms:mtpsurl: 'delegatecommandbase-raisecanexecutechanged-method-mspp-commands.md'
 
 # DelegateCommandBase.RaiseCanExecuteChanged Method
 
-Raises [CanExecuteChanged](delegatecommandbase-canexecutechanged-event-mspp-commands) on the UI thread so every command invoker can requery to check if the command can execute.
+Raises [CanExecuteChanged](/patterns-practices/reference/delegatecommandbase-canexecutechanged-event-mspp-commands) on the UI thread so every command invoker can requery to check if the command can execute.
 
 ### Remarks
 
-Note that this will trigger the execution of [CanExecute(Object)](delegatecommandbase-canexecute-method-mspp-commands) once for each invoker.
+Note that this will trigger the execution of [CanExecute(Object)](/patterns-practices/reference/delegatecommandbase-canexecute-method-mspp-commands) once for each invoker.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](mspp-commands-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -30,8 +30,8 @@ Public Sub RaiseCanExecuteChanged
 
 ## See Also
 
-[DelegateCommandBase Class](delegatecommandbase-class-mspp-commands)
+[DelegateCommandBase Class](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)
 
-[DelegateCommandBase Members](delegatecommandbase-members-mspp-commands)
+[DelegateCommandBase Members](/patterns-practices/reference/delegatecommandbase-members-mspp-commands)
 
-[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace)
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

@@ -7,9 +7,9 @@ ms:mtpsurl: 'eventbase-unsubscribe-method-mspp-pubsubevents.md'
 
 # EventBase.Unsubscribe Method
 
-Removes the subscriber matching the [SubscriptionToken](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken).
+Removes the subscriber matching the [SubscriptionToken](/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -18,12 +18,12 @@ Removes the subscriber matching the [SubscriptionToken](https://msdn.microsoft.c
 ### Parameters
 
 token  
-Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken)
-The [SubscriptionToken](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken) returned by [EventBase](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase) while subscribing to the event.
+Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken)
+The [SubscriptionToken](/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken) returned by [EventBase](/patterns-practices/reference/mspp-mvvm-namespace.eventbase) while subscribing to the event.
 
 ## See Also
-[EventBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase)
+[EventBase Class](/patterns-practices/reference/mspp-mvvm-namespace.eventbase)
 
 [EventBase Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.eventbase)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

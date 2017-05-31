@@ -11,7 +11,7 @@ The [BindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/lib
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [BindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/lib
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431185.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior.region">Region</a></td>
 <td><div class="summary">
 Behavior's attached region.

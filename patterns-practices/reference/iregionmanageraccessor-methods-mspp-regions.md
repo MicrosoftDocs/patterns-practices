@@ -7,7 +7,7 @@ ms:mtpsurl: 'iregionmanageraccessor-methods-mspp-regions.md'
 
 # IRegionManagerAccessor Methods
 
-The [IRegionManagerAccessor](iregionmanageraccessor-interface-mspp-regions) type exposes the following members.
+The [IRegionManagerAccessor](/patterns-practices/reference/iregionmanageraccessor-interface-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -22,14 +22,14 @@ The [IRegionManagerAccessor](iregionmanageraccessor-interface-mspp-regions) type
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor.getregionmanager(system.windows.dependencyobject)">GetRegionManager</a></td>
 <td><div class="summary">
 Gets the value of the RegionName attached property.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor.getregionname(system.windows.dependencyobject)">GetRegionName</a></td>
 <td><div class="summary">
 Gets the value for the RegionName attached property.
@@ -40,6 +40,6 @@ Gets the value for the RegionName attached property.
 
 ## See Also
 
-[IRegionManagerAccessor Interface](iregionmanageraccessor-interface-mspp-regions)
+[IRegionManagerAccessor Interface](/patterns-practices/reference/iregionmanageraccessor-interface-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

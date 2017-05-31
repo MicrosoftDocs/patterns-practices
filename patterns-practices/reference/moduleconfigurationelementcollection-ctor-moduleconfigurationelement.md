@@ -25,7 +25,7 @@ The initial set of [ModuleConfigurationElement](https://msdn.microsoft.com/libra
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                             | Condition                                                                                                                                                           |
 |---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if modules is nullNothingnullptra null reference (Nothing in Visual Basic). |
