@@ -32,7 +32,7 @@ The [INavigateAsync](https://msdn.microsoft.com/library/microsoft.practices.pris
     
   </td>
   <td>
-    <a href="inavigateasync-requestnavigate-method-mspp-regions">RequestNavigate(Uri, Action(Of NavigationResult))</a>
+    [RequestNavigate(Uri, Action(Of NavigationResult))](/patterns-practices/reference/inavigateasync-requestnavigate-method-mspp-regions)
   </td>
   <td>
     <div>
@@ -46,7 +46,7 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
 ![](/images/public-method.gif "Public method")
   </td>
   <td>
-    <a href="inavigateasync-requestnavigate-method-mspp-regions">RequestNavigate(Uri, Action(Of NavigationResult), NavigationParameters)</a>
+    [RequestNavigate(Uri, Action(Of NavigationResult), NavigationParameters)](/patterns-practices/reference/inavigateasync-requestnavigate-method-mspp-regions)
   </td>
   <td>
     <div>
@@ -80,11 +80,11 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
 ![Public Extension Method](/images/pubextension.gif)
 </td>
 <td>
-<a href="navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions">RequestNavigate(String)</a>
+[RequestNavigate(String)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)
 </td>
 <td>Overloaded.<div>
 Initiates navigation to the target specified by the target</span>.
-</div> (Defined by <a href="navigationasyncextensions-class-mspp-regions">NavigationAsyncExtensions</a>.)</td>
+</div> (Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions).)</td>
 </tr>
 <tr>
 <td>
@@ -92,11 +92,11 @@ Initiates navigation to the target specified by the target</span>.
 ![Public Extension Method](/images/pubextension.gif)
 </td>
 <td>
-<a href="navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions">RequestNavigate(Uri)</a>
+[RequestNavigate(Uri)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)
 </td>
 <td>Overloaded.<div>
 Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a" target="_blank">Uri</a>.
-</div> (Defined by <a href="navigationasyncextensions-class-mspp-regions">NavigationAsyncExtensions</a>.)</td>
+</div> (Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions).)</td>
 </tr>
 <tr>
 <td>
@@ -104,11 +104,11 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
 ![Public Extension Method](/images/pubextension.gif)
 </td>
 <td>
-<a href="navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions">RequestNavigate(String, Action(Of NavigationResult))</a>
+[RequestNavigate(String, Action(Of NavigationResult))](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)
 </td>
 <td>Overloaded.<div>
 Initiates navigation to the target specified by the target.
-</div> (Defined by <a href="navigationasyncextensions-class-mspp-regions">NavigationAsyncExtensions</a>.)</td>
+</div> (Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions).)</td>
 </tr>
 <tr>
 <td>
@@ -116,11 +116,11 @@ Initiates navigation to the target specified by the target.
 ![Public Extension Method](/images/pubextension.gif)
 </td>
 <td>
-<a href="navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions">RequestNavigate(Uri, NavigationParameters)</a>
+[RequestNavigate(Uri, NavigationParameters)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)
 </td>
 <td>Overloaded.<div>
 Initiates navigation to the target specified by the target.
-</div> (Defined by <a href="navigationasyncextensions-class-mspp-regions">NavigationAsyncExtensions</a>.)</td>
+</div> (Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions).)</td>
 </tr>
 <tr>
 <td>
@@ -128,11 +128,11 @@ Initiates navigation to the target specified by the target.
 ![Public Extension Method](/images/pubextension.gif)
 </td>
 <td>
-<a href="navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions">RequestNavigate(String, NavigationParameters)</a>
+[RequestNavigate(String, NavigationParameters)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)
 </td>
 <td>Overloaded.<div>
 Initiates navigation to the target specified by the target.
-</div> (Defined by <a href="navigationasyncextensions-class-mspp-regions">NavigationAsyncExtensions</a>.)</td>
+</div> (Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions).)</td>
 </tr>
 <tr>
 <td>
@@ -140,11 +140,11 @@ Initiates navigation to the target specified by the target.
 ![Public Extension Method](/images/pubextension.gif)
 </td>
 <td>
-<a href="navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions">RequestNavigate(String, Action(Of NavigationResult), NavigationParameters)</a>
+[RequestNavigate(String, Action(Of NavigationResult), NavigationParameters)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)
 </td>
 <td>Overloaded.<div>
 Initiates navigation to the target specified by the target.
-</div> (Defined by <a href="navigationasyncextensions-class-mspp-regions">NavigationAsyncExtensions</a>.)</td>
+</div> (Defined by [NavigationAsyncExtensions](/patterns-practices/reference/navigationasyncextensions-class-mspp-regions).)</td>
 </tr>
 </tbody>
 </table>
