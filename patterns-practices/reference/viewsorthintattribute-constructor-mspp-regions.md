@@ -41,6 +41,6 @@ The hint to use for sorting.
 
 [ViewSortHintAttribute Class](/patterns-practices/reference/viewsorthintattribute-class-mspp-regions)
 
-[ViewSortHintAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewsorthintattribute)
+[ViewSortHintAttribute Members](/patterns-practices/reference/viewsorthintattribute-members-mspp-regions)
 
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
