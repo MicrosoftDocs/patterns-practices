@@ -170,9 +170,9 @@ Defines an interface to get instances of an event type.
 <tr class="odd">
 <td>![Public interface](/images/public-interface.gif)</td>
 
-<td><a href="ieventsubscription-interface-mspp-pubsubevents.md">IEventSubscription</a></td>
+<td><a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">IEventSubscription</a></td>
 <td><div class="summary">
-Defines a contract for an event subscription to be used by <a href="eventbase-class-mspp-pubsubevents.md">EventBase</a>.
+Defines a contract for an event subscription to be used by <a href="/patterns-practices/reference/eventbase-class-mspp-pubsubevents">EventBase</a>.
 
 <td>[IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)</td>
 <td><div class="summary">
