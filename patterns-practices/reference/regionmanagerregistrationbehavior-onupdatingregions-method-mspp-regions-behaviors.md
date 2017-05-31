@@ -13,7 +13,7 @@ This event handler gets called when a RegionManager is requering the instances o
 
 Although this is a public method to support Weak Delegates in Silverlight, it should not be called by the user.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -49,8 +49,8 @@ Public Sub OnUpdatingRegions (
 
 ## See Also
 
-[RegionManagerRegistrationBehavior Class](regionmanagerregistrationbehavior-class-mspp-regions-behaviors)
+[RegionManagerRegistrationBehavior Class](/patterns-practices/reference/regionmanagerregistrationbehavior-class-mspp-regions-behaviors)
 
-[RegionManagerRegistrationBehavior Members](regionmanagerregistrationbehavior-members-mspp-regions-behaviors)
+[RegionManagerRegistrationBehavior Members](/patterns-practices/reference/regionmanagerregistrationbehavior-members-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

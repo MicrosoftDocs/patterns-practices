@@ -9,7 +9,7 @@ ms:mtpsurl: 'mspp-viewmodel-namespace.md'
 
 ## Classes
 
-<span id="classToggle"></span>
+
 <table>
 
 <thead>
@@ -21,23 +21,23 @@ ms:mtpsurl: 'mspp-viewmodel-namespace.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-class.gif" title="Public class" /></td>
-<td><a href="errorscontainer-t-class-mspp-viewmodel.md">ErrorsContainer&lt;T&gt;</a></td>
+<td>![Public class](/images/public-class.gif)</td>
+<td>[ErrorsContainer&lt;T&gt;](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)</td>
 <td><div class="summary">
 Manages validation errors for an object, notifying when the error state changes.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-class.gif" title="Public class" /></td>
-<td><a href="notificationobject-class-mspp-viewmodel.md">NotificationObject</a></td>
+<td>![Public class](/images/public-class.gif)</td>
+<td>[NotificationObject](/patterns-practices/reference/notificationobject-class-mspp-viewmodel)</td>
 <td><strong>Obsolete.</strong>
 <div class="summary">
 Base class for items that support property notification.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-class.gif" title="Public class" /></td>
-<td><a href="propertysupport-class-mspp-viewmodel.md">PropertySupport</a></td>
+<td>![Public class](/images/public-class.gif)</td>
+<td>[PropertySupport](/patterns-practices/reference/propertysupport-class-mspp-viewmodel)</td>
 <td><strong>Obsolete.</strong>
 <div class="summary">
 Provides support for extracting property information based on a property expression.

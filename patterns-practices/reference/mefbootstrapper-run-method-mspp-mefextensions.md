@@ -20,7 +20,7 @@ ms:mtpsurl: 'mefbootstrapper-run-method-boolean-mspp-mefextensions.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.run">Run()()()</a></td>
 <td><div class="summary">
 Runs the bootstrapper process.
@@ -28,7 +28,7 @@ Runs the bootstrapper process.
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper.run(system.boolean)">Run(Boolean)</a></td>
 <td><div class="summary">
 Run the bootstrapper process.
@@ -40,8 +40,8 @@ Run the bootstrapper process.
 
 ## See Also
 
-[MefBootstrapper Class](mefbootstrapper-class-mspp-mefextensions)
+[MefBootstrapper Class](/patterns-practices/reference/mefbootstrapper-class-mspp-mefextensions)
 
-[MefBootstrapper Members](mspp-mefextensions-namespace)
+[MefBootstrapper Members](/patterns-practices/reference/mspp-mefextensions-namespace)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](mspp-mefextensions-namespace)
+[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)

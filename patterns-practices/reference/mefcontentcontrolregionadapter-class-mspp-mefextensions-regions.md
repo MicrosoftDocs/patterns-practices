@@ -23,7 +23,7 @@ Exports the ContentControlRegionAdapter using the Managed Extensibility Framewor
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Regions.RegionAdapterBase](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601)&lt;(Of &lt;([ContentControl](http://msdn.microsoft.com/en-us/library/ms609797)&gt;)&gt;)
     [Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.contentcontrolregionadapter)
       Microsoft.Practices.Prism.MefExtensions.Regions.MefContentControlRegionAdapter

@@ -24,7 +24,7 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The exception message.
 
 innerException  
-Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
+Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
 The inner exception.
 
 ## See Also

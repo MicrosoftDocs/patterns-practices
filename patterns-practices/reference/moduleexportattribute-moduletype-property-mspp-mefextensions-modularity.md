@@ -9,7 +9,7 @@ ms:mtpsurl: 'moduleexportattribute-moduletype-property-mspp-mefextensions-modula
 
 Gets concrete type of the module being exported. Not typeof(IModule).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -31,11 +31,11 @@ Public ReadOnly Property ModuleType As Type
 Type: [Type](http://msdn.microsoft.com/en-us/library/42892f65)
 ### Implements
 
-[IModuleExport.ModuleType](imoduleexport-moduletype-property-mspp-mefextensions-modularity)
+[IModuleExport.ModuleType](/patterns-practices/reference/imoduleexport-moduletype-property-mspp-mefextensions-modularity)
 
 ## See Also
-[ModuleExportAttribute Class](moduleexportattribute-class-mspp-mefextensions-modularity)
+[ModuleExportAttribute Class](/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity)
 
-[ModuleExportAttribute Members](moduleexportattribute-members-mspp-mefextensions-modularity)
+[ModuleExportAttribute Members](/patterns-practices/reference/moduleexportattribute-members-mspp-mefextensions-modularity)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)

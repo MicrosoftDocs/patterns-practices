@@ -22,7 +22,7 @@ Initializes the catalog, which may load and validate the modules.
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                                                                                             | Condition                                                                                                                                                                                                                                                            |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Microsoft.Practices.Prism.Modularity.ModularityException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception) | When validation of the [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) fails, because this method calls [Validate()()()](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog.validate). |

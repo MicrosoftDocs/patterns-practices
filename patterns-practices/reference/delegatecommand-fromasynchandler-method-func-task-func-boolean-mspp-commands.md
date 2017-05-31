@@ -4,7 +4,8 @@ Title: 'DelegateCommand.FromAsyncHandler Method (Func(Task), Func(Boolean)) (Mic
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand.FromAsyncHandler(System.Func{System.Threading.Tasks.Task},System.Func{System.Boolean})'
 ms:mtpsurl: 'delegatecommand-fromasynchandler-method-func-task-func-boolean-mspp-commands.md'
 ---
-
+
+
 # DelegateCommand.FromAsyncHandler Method (Func&lt;(Of &lt;(Task&gt;)&gt;), Func&lt;(Of &lt;(Boolean&gt;)&gt;))
 
 Factory method to create a new instance of [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand) from an awaitable handler method.
@@ -13,7 +14,8 @@ Factory method to create a new instance of [DelegateCommand](https://msdn.micros
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-public static DelegateCommand FromAsyncHandler( Func&lt;Task&gt; executeMethod, Func&lt;bool&gt; canExecuteMethod )Public Shared Function FromAsyncHandler ( executeMethod As Func(Of Task), canExecuteMethod As Func(Of Boolean) ) As DelegateCommand
+
+public static DelegateCommand FromAsyncHandler( Func&lt;Task&gt; executeMethod, Func&lt;bool&gt; canExecuteMethod )Public Shared Function FromAsyncHandler ( executeMethod As Func(Of Task), canExecuteMethod As Func(Of Boolean) ) As DelegateCommand
 
 ### Parameters
 
@@ -31,7 +33,8 @@ Type: [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.p
 Constructed instance of [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
 
 ## See Also
-[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
+
+[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
 
 [DelegateCommand Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand)
 

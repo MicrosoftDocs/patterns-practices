@@ -7,9 +7,9 @@ ms:mtpsurl: 'compositepresentationevent-tpayload-publish-method-mspp-events.md'
 
 # CompositePresentationEvent&lt;TPayload&gt;.Publish Method
 
-Publishes the [CompositePresentationEvent&lt;TPayload&gt;](compositepresentationevent-tpayload-class-mspp-events).
+Publishes the [CompositePresentationEvent&lt;TPayload&gt;](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events).
 
-**Namespace:** [Microsoft.Practices.Prism.Events](mspp-events-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -26,21 +26,21 @@ public virtual void Publish(
 
 *payload*  
 
-Type: [TPayload](compositepresentationevent-tpayload-class-mspp-events)
+Type: [TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)
 
 Message to pass to the subscribers.
 
 See Also
-[CompositePresentationEvent&lt;TPayload&gt; Class](compositepresentationevent-tpayload-class-mspp-events)
+[CompositePresentationEvent&lt;TPayload&gt; Class](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)
 
-[CompositePresentationEvent&lt;TPayload&gt; Members](compositepresentationevent-tpayload-members-mspp-events)
+[CompositePresentationEvent&lt;TPayload&gt; Members](/patterns-practices/reference/compositepresentationevent-tpayload-members-mspp-events)
 
-[Microsoft.Practices.Prism.Events Namespace](mspp-events-namespace)
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)
 # CompositePresentationEvent(Of TPayload).Publish Method
 
-Publishes the [CompositePresentationEvent(Of TPayload)](compositepresentationevent-tpayload-class-mspp-events).
+Publishes the [CompositePresentationEvent(Of TPayload)](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events).
 
-**Namespace:** [Microsoft.Practices.Prism.Events](mspp-events-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -58,13 +58,13 @@ Public Overridable Sub Publish (
 
 *payload*  
 
-Type: [TPayload](compositepresentationevent-tpayload-class-mspp-events)
+Type: [TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)
 
 Message to pass to the subscribers.
 
 ## See Also
-[CompositePresentationEvent(Of TPayload) Class](compositepresentationevent-tpayload-class-mspp-events)
+[CompositePresentationEvent(Of TPayload) Class](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)
 
-[CompositePresentationEvent(Of TPayload) Members](compositepresentationevent-tpayload-members-mspp-events)
+[CompositePresentationEvent(Of TPayload) Members](/patterns-practices/reference/compositepresentationevent-tpayload-members-mspp-events)
 
-[Microsoft.Practices.Prism.Events Namespace](mspp-events-namespace)
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)

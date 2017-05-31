@@ -9,7 +9,7 @@ ms:mtpsurl: 'imoduletypeloader-interface-mspp-modularity.md'
 
 Defines the interface for moduleTypeLoaders
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -24,6 +24,6 @@ Public Interface IModuleTypeLoader
 ```
 
 ## See Also
-[IModuleTypeLoader Members](imoduletypeloader-members-mspp-modularity)
+[IModuleTypeLoader Members](/patterns-practices/reference/imoduletypeloader-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

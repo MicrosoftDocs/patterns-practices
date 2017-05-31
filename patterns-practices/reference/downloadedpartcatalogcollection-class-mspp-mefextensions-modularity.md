@@ -19,7 +19,7 @@ Holds a collection of composable part catalogs keyed by module info.
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection
 
 ## See Also

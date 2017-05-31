@@ -30,7 +30,7 @@ The zero-based index of the item to remove.
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                                   | Condition                                                                                                             |
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | [System.ArgumentOutOfRangeException](http://msdn.microsoft.com/en-us/library/8xt94y6e) | index is not a valid index in the [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/5y536ey6). |

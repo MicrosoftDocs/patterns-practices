@@ -40,12 +40,10 @@ Public Sub New (
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The name of the module.
 
-*message*  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
-The error message that explains the reason for the exception.
 
 *innerException*  
 Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)  
+
 The exception that is the cause of the current exception, or a null reference if no inner exception is specified.
 
 ## See Also

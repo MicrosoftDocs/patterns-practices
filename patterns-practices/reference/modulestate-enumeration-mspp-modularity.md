@@ -19,7 +19,7 @@ Defines the states a [ModuleInfo](https://msdn.microsoft.com/library/microsoft.p
 
 ## Members
 
-<span id="membersToggle"></span>
+
 |     | Member name            | Value | Description                                                                                                                                                                                                                                                                         |
 |-----|------------------------|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     | NotStarted             | 0     | Initial state for [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)s. The [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) is defined, but it has not been loaded, retrieved or initialized yet. |

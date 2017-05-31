@@ -7,9 +7,9 @@ ms:mtpsurl: 'interactionrequestedeventargs-constructor-mspp-interactivity-intera
 
 # InteractionRequestedEventArgs Constructor
 
-Constructs a new instance of [InteractionRequestedEventArgs](interactionrequestedeventargs-class-mspp-interactivity-interactionrequest)
+Constructs a new instance of [InteractionRequestedEventArgs](/patterns-practices/reference/interactionrequestedeventargs-class-mspp-interactivity-interactionrequest)
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](mspp-interactivity-interactionrequest-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -29,11 +29,12 @@ Public Sub New (
 	callback As Action
 )
 ```
-### Parameters
+
+### Parameters
 
 *context*
 
-Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](inotification-interface-mspp-interactivity-interactionrequest)
+Type: [Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification](/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest)
 
 *callback*
 
@@ -41,8 +42,8 @@ Type: [System.Action](http://msdn.microsoft.com/en-us/library/bb534741)
 
 ## See Also
 
-[InteractionRequestedEventArgs Class](interactionrequestedeventargs-class-mspp-interactivity-interactionrequest)
+[InteractionRequestedEventArgs Class](/patterns-practices/reference/interactionrequestedeventargs-class-mspp-interactivity-interactionrequest)
 
-[InteractionRequestedEventArgs Members](interactionrequestedeventargs-members-mspp-interactivity-interactionrequest)
+[InteractionRequestedEventArgs Members](/patterns-practices/reference/interactionrequestedeventargs-members-mspp-interactivity-interactionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

@@ -1,4 +1,4 @@
----
+--
 TOCTitle: 'ModuleTypeLoadingException Constructor (String, String, Exception)'
 Title: 'ModuleTypeLoadingException Constructor (String, String, Exception) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException.\#ctor(System.String,System.String,System.Exception)'
@@ -43,9 +43,15 @@ The name of the module.
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The error message that explains the reason for the exception.
 
+
 *innerException*  
 Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)  
 The exception that is the cause of the current exception, or a **Nothing**a null reference (**Nothing** in Visual Basic) reference if no inner exception is specified.
+
+innerException  
+Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
+The exception that is the cause of the current exception, or a nullNothingnullptra null reference (Nothing in Visual Basic) reference if no inner exception is specified.
+
 
 ## See Also
 

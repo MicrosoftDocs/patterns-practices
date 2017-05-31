@@ -9,7 +9,7 @@ ms:mtpsurl: 'modulemanager-dispose-method-boolean-mspp-modularity.md'
 
 ## Overload List
 
-<span id="overloadMembersTableToggle"></span>
+
 <table>
 
 <thead>
@@ -21,14 +21,14 @@ ms:mtpsurl: 'modulemanager-dispose-method-boolean-mspp-modularity.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.dispose">Dispose()()()</a></td>
 <td><div class="summary">
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419109.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.dispose(system.boolean)">Dispose(Boolean)</a></td>
 <td><div class="summary">
 Disposes the associated <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader">IModuleTypeLoader</a>s.

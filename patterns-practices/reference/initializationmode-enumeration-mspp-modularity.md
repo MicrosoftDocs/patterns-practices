@@ -19,7 +19,7 @@ Specifies on which stage the Module group will be initialized.
 
 ## Members
 
-<span id="membersToggle"></span>
+
 |     | Member name   | Value | Description                                                                                   |
 |-----|---------------|-------|-----------------------------------------------------------------------------------------------|
 |     | WhenAvailable | 0     | The module will be initialized when it is available on application start-up.                  |

@@ -9,7 +9,7 @@ ms:mtpsurl: 'assemblyresolver-dispose-method-boolean-mspp-modularity.md'
 
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,15 +32,15 @@ Public Sub Dispose
 
 ## Remarks
 
-&nbsp;&nbsp;Calls [Dispose(Boolean)](assemblyresolver-dispose-method-boolean-mspp-modularity)
+&nbsp;&nbsp;Calls [Dispose(Boolean)](/patterns-practices/reference/assemblyresolver-dispose-method-boolean-mspp-modularity)
 
 ## See Also
 
-[AssemblyResolver Class](assemblyresolver-class-mspp-modularity)
+[AssemblyResolver Class](/patterns-practices/reference/assemblyresolver-class-mspp-modularity)
 
-[AssemblyResolver Members](assemblyresolver-members-mspp-modularity)
+[AssemblyResolver Members](/patterns-practices/reference/assemblyresolver-members-mspp-modularity)
 
-[Dispose Overload](assemblyresolver-dispose-method-boolean-mspp-modularity)
+[Dispose Overload](/patterns-practices/reference/assemblyresolver-dispose-method-boolean-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
 

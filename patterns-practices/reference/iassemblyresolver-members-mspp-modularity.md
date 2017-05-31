@@ -11,7 +11,7 @@ The [IAssemblyResolver](https://msdn.microsoft.com/library/microsoft.practices.p
 
 ## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [IAssemblyResolver](https://msdn.microsoft.com/library/microsoft.practices.p
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iassemblyresolver.loadassemblyfrom(system.string)">LoadAssemblyFrom</a></td>
 <td><div class="summary">
 Load an assembly when it's required by the application.

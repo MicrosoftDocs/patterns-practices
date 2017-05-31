@@ -24,7 +24,7 @@ Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.c
 The module info.
 
 error  
-Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
+Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
 Any error that occurred during the call.
 
 ## See Also

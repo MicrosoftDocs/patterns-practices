@@ -11,7 +11,7 @@ Component responsible for coordinating the modules' type loading and module init
 
 Component responsible for coordinating the modules' type loading and module initialization process.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -43,12 +43,12 @@ Public Class MefModuleManager
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-  [Microsoft.Practices.Prism.Modularity.ModuleManager](modulemanager-class-mspp-modularity)
+  [Microsoft.Practices.Prism.Modularity.ModuleManager](/patterns-practices/reference/modulemanager-class-mspp-modularity)
   
     Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleManager
 
 ## See Also
 
-[MefModuleManager Members](mefmodulemanager-members-mspp-mefextensions-modularity)
+[MefModuleManager Members](/patterns-practices/reference/mefmodulemanager-members-mspp-mefextensions-modularity)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)

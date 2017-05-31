@@ -9,7 +9,7 @@ ms:mtpsurl: 'mefregionmanager-class-mspp-mefextensions-regions.md'
 
 Exports the RegionManager using the Managed Extensibility Framework (MEF). 
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](mspp-mefextensions-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -36,11 +36,11 @@ Public Class MefRegionManager
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionManager](regionmanager-class-mspp-regions)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions)
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionManage
 
 ## See Also
 
-[MefRegionManager Members](mefregionmanager-members-mspp-mefextensions-regions)
+[MefRegionManager Members](/patterns-practices/reference/mefregionmanager-members-mspp-mefextensions-regions)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

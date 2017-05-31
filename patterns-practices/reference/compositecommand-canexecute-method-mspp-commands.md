@@ -9,7 +9,7 @@ ms:mtpsurl: 'compositecommand-canexecute-method-mspp-commands.md'
 
 Forwards [CanExecute(Object)](http://msdn.microsoft.com/en-us/library/ms604093) to the registered commands and returns **truetrue** (**True** in Visual Basic) if all of the commands return **truetrue** (**True** in Visual Basic).
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](mspp-commands-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -43,8 +43,8 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 [ICommand.CanExecute(Object)](http://msdn.microsoft.com/en-us/library/ms604093)
 
 ## See Also
-[CompositeCommand Class](compositecommand-class-mspp-commands)
+[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)
 
-[CompositeCommand Members](compositecommand-members-mspp-commands)
+[CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)
 
-[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace)
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

@@ -11,7 +11,7 @@ The [DefaultPrismServiceRegistrar](https://msdn.microsoft.com/library/microsoft.
 
 ## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [DefaultPrismServiceRegistrar](https://msdn.microsoft.com/library/microsoft.
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg431005.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.defaultprismserviceregistrar.registerrequiredprismservicesifmissing(system.componentmodel.composition.hosting.aggregatecatalog)">RegisterRequiredPrismServicesIfMissing</a></td>
 <td><div class="summary">
 Registers the required Prism types that are not already registered in the <a href="http://msdn.microsoft.com/en-us/library/dd833165">AggregateCatalog</a>.

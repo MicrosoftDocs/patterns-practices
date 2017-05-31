@@ -18,7 +18,7 @@ Gets an exception that occurred while navigating.
 public Exception Error { get; }Public ReadOnly Property Error As Exception Get
 ### Property Value
 
-Type: [Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
+Type: [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
 The exception.
 
 ## See Also

@@ -11,7 +11,7 @@ The [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.pris
 
 ## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.pris
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager.createregionmanager">CreateRegionManager</a></td>
 <td><div class="summary">
 Creates a new region manager.
@@ -34,7 +34,7 @@ Creates a new region manager.
 
 ## Extension Methods
 
-<span id="extensionMethodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -46,7 +46,7 @@ Creates a new region manager.
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431090.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
+<td>![Public Extension Method](/images/pubextension.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions.addtoregion(microsoft.practices.prism.regions.iregionmanager%2csystem.string%2csystem.object)">AddToRegion</a></td>
 <td><div class="summary">
 Add a view to the Views collection of a Region. Note that the region must already exist in this regionmanager.
@@ -54,7 +54,7 @@ Add a view to the Views collection of a Region. Note that the region must alread
 (Defined by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions">RegionManagerExtensions</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431090.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
+<td>![Public Extension Method](/images/pubextension.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions.registerviewwithregion(microsoft.practices.prism.regions.iregionmanager%2csystem.string%2csystem.type)">RegisterViewWithRegion(String, Type)</a></td>
 <td>Overloaded.
 <div class="summary">
@@ -63,7 +63,7 @@ Associate a view with a region, by registering a type. When the region get's dis
 (Defined by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions">RegionManagerExtensions</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431090.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
+<td>![Public Extension Method](/images/pubextension.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions.registerviewwithregion(microsoft.practices.prism.regions.iregionmanager%2csystem.string%2csystem.func%7bsystem.object%7d)">RegisterViewWithRegion(String, Func&lt;(Of &lt;(Object&gt;)&gt;))</a></td>
 <td>Overloaded.
 <div class="summary">
@@ -72,7 +72,7 @@ Associate a view with a region, using a delegate to resolve a concreate instance
 (Defined by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions">RegionManagerExtensions</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431090.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
+<td>![Public Extension Method](/images/pubextension.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions.requestnavigate(microsoft.practices.prism.regions.iregionmanager%2csystem.string%2csystem.uri)">RequestNavigate(String, Uri)</a></td>
 <td>Overloaded.
 <div class="summary">
@@ -81,7 +81,7 @@ Navigates the specified region manager.
 (Defined by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions">RegionManagerExtensions</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431090.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
+<td>![Public Extension Method](/images/pubextension.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions.requestnavigate(microsoft.practices.prism.regions.iregionmanager%2csystem.string%2csystem.string)">RequestNavigate(String, String)</a></td>
 <td>Overloaded.
 <div class="summary">
@@ -90,7 +90,7 @@ Navigates the specified region manager.
 (Defined by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions">RegionManagerExtensions</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431090.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
+<td>![Public Extension Method](/images/pubextension.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions.requestnavigate(microsoft.practices.prism.regions.iregionmanager%2csystem.string%2csystem.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d)">RequestNavigate(String, Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))</a></td>
 <td>Overloaded.
 <div class="summary">
@@ -99,7 +99,7 @@ Navigates the specified region manager.
 (Defined by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions">RegionManagerExtensions</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431090.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
+<td>![Public Extension Method](/images/pubextension.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions.requestnavigate(microsoft.practices.prism.regions.iregionmanager%2csystem.string%2csystem.string%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d)">RequestNavigate(String, String, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))</a></td>
 <td>Overloaded.
 <div class="summary">
@@ -108,7 +108,7 @@ Navigates the specified region manager.
 (Defined by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions">RegionManagerExtensions</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431090.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
+<td>![Public Extension Method](/images/pubextension.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions.requestnavigate(microsoft.practices.prism.regions.iregionmanager%2csystem.string%2csystem.uri%2cmicrosoft.practices.prism.regions.navigationparameters)">RequestNavigate(String, Uri, NavigationParameters)</a></td>
 <td>Overloaded.
 <div class="summary">
@@ -117,7 +117,7 @@ This method allows an IRegionManager to locate a specified region and navigate i
 (Defined by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions">RegionManagerExtensions</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431090.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
+<td>![Public Extension Method](/images/pubextension.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions.requestnavigate(microsoft.practices.prism.regions.iregionmanager%2csystem.string%2csystem.string%2cmicrosoft.practices.prism.regions.navigationparameters)">RequestNavigate(String, String, NavigationParameters)</a></td>
 <td>Overloaded.
 <div class="summary">
@@ -126,7 +126,7 @@ This method allows an IRegionManager to locate a specified region and navigate i
 (Defined by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions">RegionManagerExtensions</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431090.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
+<td>![Public Extension Method](/images/pubextension.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions.requestnavigate(microsoft.practices.prism.regions.iregionmanager%2csystem.string%2csystem.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d%2cmicrosoft.practices.prism.regions.navigationparameters)">RequestNavigate(String, Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)</a></td>
 <td>Overloaded.
 <div class="summary">
@@ -135,7 +135,7 @@ This method allows an IRegionManager to locate a specified region and navigate i
 (Defined by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions">RegionManagerExtensions</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431090.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
+<td>![Public Extension Method](/images/pubextension.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions.requestnavigate(microsoft.practices.prism.regions.iregionmanager%2csystem.string%2csystem.string%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d%2cmicrosoft.practices.prism.regions.navigationparameters)">RequestNavigate(String, String, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)</a></td>
 <td>Overloaded.
 <div class="summary">

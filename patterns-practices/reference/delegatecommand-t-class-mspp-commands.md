@@ -16,7 +16,7 @@ An [ICommand](http://msdn.microsoft.com/en-us/library/ms616869) whose delegates 
 public class DelegateCommand&lt;T&gt; : DelegateCommandBase Public Class DelegateCommand(Of T) Inherits DelegateCommandBase
 ## Type Parameters
 
-<span id="templatesToggle"></span>
+
 T  
 Parameter type.
 
@@ -27,11 +27,11 @@ Parameter type.
 Instead, callers should support a value type by using a nullable value type and checking the HasValue property before using the Value property.
 ## Examples
 
-<span id="exampleToggle"></span>public MyClass() { this.submitCommand = new DelegateCommand&lt;int?&gt;(this.Submit, this.CanSubmit); } private bool CanSubmit(int? customerId) { return (customerId.HasValue && customers.Contains(customerId.Value)); }
+public MyClass() { this.submitCommand = new DelegateCommand&lt;int?&gt;(this.Submit, this.CanSubmit); } private bool CanSubmit(int? customerId) { return (customerId.HasValue && customers.Contains(customerId.Value)); }
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Commands.DelegateCommandBase](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)
     Microsoft.Practices.Prism.Commands.DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)
 

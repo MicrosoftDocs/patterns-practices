@@ -16,13 +16,13 @@ Manages validation errors for an object, notifying when the error state changes.
 public class ErrorsContainer&lt;T&gt; Public Class ErrorsContainer(Of T)
 ## Type Parameters
 
-<span id="templatesToggle"></span>
+
 T  
 The type of the error object.
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.ViewModel.ErrorsContainer&lt;(Of &lt;(T&gt;)&gt;)
 
 ## See Also

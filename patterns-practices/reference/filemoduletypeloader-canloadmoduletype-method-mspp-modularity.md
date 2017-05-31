@@ -33,7 +33,7 @@ trueTruetruetrue (True in Visual Basic) if the current typeloader is able to ret
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                             | Condition                                                                                                      |
 |---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if moduleInfo is null. |

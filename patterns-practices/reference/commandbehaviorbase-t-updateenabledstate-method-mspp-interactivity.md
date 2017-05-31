@@ -4,12 +4,13 @@ Title: 'CommandBehaviorBase(T).UpdateEnabledState Method (Microsoft.Practices.Pr
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase\`1.UpdateEnabledState'
 ms:mtpsurl: 'commandbehaviorbase-t-updateenabledstate-method-mspp-interactivity.md'
 ---
-
+
+
 # CommandBehaviorBase&lt;T&gt;.UpdateEnabledState Method
 
 Updates the target object's IsEnabled property based on the commands ability to execute.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](mspp-interactivity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -22,7 +23,7 @@ protected virtual void UpdateEnabledState()
 
 Updates the target object's IsEnabled property based on the commands ability to execute.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](mspp-interactivity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -42,15 +43,18 @@ Updates the target object's IsEnabled property based on the commands ability to 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-protected virtual void UpdateEnabledState()Protected Overridable Sub UpdateEnabledState
+
+protected virtual void UpdateEnabledState()Protected Overridable Sub UpdateEnabledState
 
 ## See Also
-[CommandBehaviorBase(Of T) Class](commandbehaviorbase-t-class-mspp-interactivity)
+
+[CommandBehaviorBase(Of T) Class](/patterns-practices/reference/commandbehaviorbase-t-class-mspp-interactivity)
 
 [CommandBehaviorBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.commandbehaviorbase%601)
 
-[CommandBehaviorBase(Of T) Members](commandbehaviorbase-t-members-mspp-interactivity)
-[Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace)
+[CommandBehaviorBase(Of T) Members](/patterns-practices/reference/commandbehaviorbase-t-members-mspp-interactivity)
+
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
 

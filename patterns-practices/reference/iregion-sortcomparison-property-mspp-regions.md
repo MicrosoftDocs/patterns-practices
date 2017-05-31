@@ -9,7 +9,7 @@ ms:mtpsurl: 'iregion-sortcomparison-property-mspp-regions.md'
 
 Gets or sets the comparison used to sort the views.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -31,8 +31,8 @@ Type: [Comparison](http://msdn.microsoft.com/en-us/library/tfakywbh)(Of [Object]
 The comparison to use.
 
 ## See Also
-[IRegion Interface](iregion-interface-mspp-regions)
+[IRegion Interface](/patterns-practices/reference/iregion-interface-mspp-regions)
 
-[IRegion Members](iregion-members-mspp-regions)
+[IRegion Members](/patterns-practices/reference/iregion-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

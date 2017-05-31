@@ -4,7 +4,8 @@ Title: 'RegionNavigationJournalEntry.Parameters Property (Microsoft.Practices.Pr
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry.Parameters'
 ms:mtpsurl: 'regionnavigationjournalentry-parameters-property-mspp-regions.md'
 ---
-
+
+
 # RegionNavigationJournalEntry.Parameters Property
 
 Gets or sets the NavigationParameters instance.
@@ -15,7 +16,8 @@ Gets or sets the NavigationParameters instance.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public NavigationParameters Parameters { get; set; }Public Property Parameters As NavigationParameters Get Set
+
+public NavigationParameters Parameters { get; set; }Public Property Parameters As NavigationParameters Get Set
 ### Property Value
 
 Type: [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
@@ -24,7 +26,8 @@ Type: [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practi
 [IRegionNavigationJournalEntry.Parameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry.parameters)
 
 ## See Also
-[RegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry)
+
+[RegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry)
 
 [RegionNavigationJournalEntry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationjournalentry)
 
