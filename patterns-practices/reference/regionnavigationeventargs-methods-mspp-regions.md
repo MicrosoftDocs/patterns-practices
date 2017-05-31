@@ -7,7 +7,7 @@ ms:mtpsurl: 'regionnavigationeventargs-methods-mspp-regions.md'
 
 # RegionNavigationEventArgs Methods
 
-The [RegionNavigationEventArgs](regionnavigationeventargs-class-mspp-regions) type exposes the following members.
+The [RegionNavigationEventArgs](/patterns-practices/reference/regionnavigationeventargs-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -26,7 +26,7 @@ The [RegionNavigationEventArgs](regionnavigationeventargs-class-mspp-regions) ty
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/bsc2ak47" target="_blank">Equals</a>
@@ -37,7 +37,7 @@ The [RegionNavigationEventArgs](regionnavigationeventargs-class-mspp-regions) ty
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431123.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/4k87zsw7" target="_blank">Finalize</a>
@@ -48,7 +48,7 @@ The [RegionNavigationEventArgs](regionnavigationeventargs-class-mspp-regions) ty
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/zdee4b3y" target="_blank">GetHashCode</a>
@@ -59,7 +59,7 @@ The [RegionNavigationEventArgs](regionnavigationeventargs-class-mspp-regions) ty
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/dfwy45w9" target="_blank">GetType</a>
@@ -70,7 +70,7 @@ The [RegionNavigationEventArgs](regionnavigationeventargs-class-mspp-regions) ty
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431123.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/57ctke0a" target="_blank">MemberwiseClone</a>
@@ -81,7 +81,7 @@ The [RegionNavigationEventArgs](regionnavigationeventargs-class-mspp-regions) ty
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2" target="_blank">ToString</a>
@@ -94,6 +94,6 @@ The [RegionNavigationEventArgs](regionnavigationeventargs-class-mspp-regions) ty
 
 ## See Also
 
-[RegionNavigationEventArgs Class](regionnavigationeventargs-class-mspp-regions)
+[RegionNavigationEventArgs Class](/patterns-practices/reference/regionnavigationeventargs-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

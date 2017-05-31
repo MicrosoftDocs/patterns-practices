@@ -7,7 +7,7 @@ ms:mtpsurl: 'moduleattribute-methods-mspp-modularity.md'
 
 # ModuleAttribute Methods
 
-The [ModuleAttribute](moduleattribute-class-mspp-modularity) type exposes the following members.
+The [ModuleAttribute](/patterns-practices/reference/moduleattribute-class-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -73,7 +73,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[ModuleAttribute Class](moduleattribute-class-mspp-modularity)
+[ModuleAttribute Class](/patterns-practices/reference/moduleattribute-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
 

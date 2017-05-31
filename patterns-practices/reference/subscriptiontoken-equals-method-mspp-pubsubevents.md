@@ -23,7 +23,7 @@ ms:mtpsurl: 'subscriptiontoken-equals-method-mspp-pubsubevents.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken.equals(system.object)">Equals(Object)</a></td>
+<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken.equals(system.object)">Equals(Object)</a></td>
 <td><div class="summary">
 Determines whether the specified <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a> is equal to the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
 </div>
@@ -31,7 +31,7 @@ Determines whether the specified <a href="http://msdn.microsoft.com/en-us/librar
 </tr>
 <tr class="even">
 <td>![Public method](/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken.equals(microsoft.practices.prism.pubsubevents.subscriptiontoken)">Equals(SubscriptionToken)</a></td>
+<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken.equals(microsoft.practices.prism.pubsubevents.subscriptiontoken)">Equals(SubscriptionToken)</a></td>
 <td><div class="summary">
 Indicates whether the current object is equal to another object of the same type.
 </div></td>
@@ -41,8 +41,8 @@ Indicates whether the current object is equal to another object of the same type
 
 ## See Also
 
-[SubscriptionToken Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken)
+[SubscriptionToken Class](/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken)
 
 [SubscriptionToken Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.subscriptiontoken)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

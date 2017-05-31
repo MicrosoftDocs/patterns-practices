@@ -7,7 +7,7 @@ ms:mtpsurl: 'dataeventargs-tdata-methods-mspp-pubsubevents.md'
 
 # DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Methods
 
-The [DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dataeventargs%601) type exposes the following members.
+The [DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;)](/patterns-practices/reference/mspp-mvvm-namespace.dataeventargs%601) type exposes the following members.
 
 ## Methods
 
@@ -74,6 +74,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.dataeventargs%601)
+[DataEventArgs&lt;(Of &lt;(TData&gt;)&gt;) Class](/patterns-practices/reference/mspp-mvvm-namespace.dataeventargs%601)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

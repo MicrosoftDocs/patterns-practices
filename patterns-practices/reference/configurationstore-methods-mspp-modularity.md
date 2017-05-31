@@ -7,7 +7,7 @@ ms:mtpsurl: 'configurationstore-methods-mspp-modularity.md'
 
 # ConfigurationStore Methods
 
-The [ConfigurationStore](configurationstore-class-mspp-modularity) type exposes the following members.
+The [ConfigurationStore](/patterns-practices/reference/configurationstore-class-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -80,6 +80,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[ConfigurationStore Class](configurationstore-class-mspp-modularity)
+[ConfigurationStore Class](/patterns-practices/reference/configurationstore-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

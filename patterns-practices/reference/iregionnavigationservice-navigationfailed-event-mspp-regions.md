@@ -9,7 +9,7 @@ ms:mtpsurl: 'iregionnavigationservice-navigationfailed-event-mspp-regions.md'
 
 Raised when a navigation request fails.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -21,7 +21,7 @@ event EventHandler<RegionNavigationFailedEventArgs> NavigationFailed
 ```
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[RegionNavigationFailedEventArgs](regionnavigationfailedeventargs-class-mspp-regions)&gt;
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[RegionNavigationFailedEventArgs](/patterns-practices/reference/regionnavigationfailedeventargs-class-mspp-regions)&gt;
 
 # Syntax
 ```VB
@@ -30,12 +30,12 @@ Event NavigationFailed As EventHandler(Of RegionNavigationFailedEventArgs)
 ```
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [RegionNavigationFailedEventArgs](regionnavigationfailedeventargs-class-mspp-regions))
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [RegionNavigationFailedEventArgs](/patterns-practices/reference/regionnavigationfailedeventargs-class-mspp-regions))
 
 ## See Also
 
-[IRegionNavigationService Interface](iregionnavigationservice-interface-mspp-regions)
+[IRegionNavigationService Interface](/patterns-practices/reference/iregionnavigationservice-interface-mspp-regions)
 
-[IRegionNavigationService Members](iregionnavigationservice-members-mspp-regions)
+[IRegionNavigationService Members](/patterns-practices/reference/iregionnavigationservice-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

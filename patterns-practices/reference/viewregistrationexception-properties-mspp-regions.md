@@ -7,7 +7,7 @@ ms:mtpsurl: 'viewregistrationexception-properties-mspp-regions.md'
 
 # ViewRegistrationException Properties
 
-The [ViewRegistrationException](viewregistrationexception-class-mspp-regions) type exposes the following members.
+The [ViewRegistrationException](/patterns-practices/reference/viewregistrationexception-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
@@ -27,7 +27,7 @@ The [ViewRegistrationException](viewregistrationexception-class-mspp-regions) ty
 <td><div class="summary">
 Gets a collection of key/value pairs that provide additional user-defined information about the exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/images/pubproperty.gif)</td>
@@ -35,7 +35,7 @@ Gets a collection of key/value pairs that provide additional user-defined inform
 <td><div class="summary">
 Gets or sets a link to the help file associated with this exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/images/pubproperty.gif)</td>
@@ -43,15 +43,15 @@ Gets or sets a link to the help file associated with this exception.
 <td><div class="summary">
 Gets or sets HRESULT, a coded numerical value that is assigned to a specific exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/902sca80">InnerException</a></td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a> instance that caused the current exception.
+Gets the <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a> instance that caused the current exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/images/pubproperty.gif)</td>
@@ -59,7 +59,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a
 <td><div class="summary">
 Gets a message that describes the current exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/images/pubproperty.gif)</td>
@@ -67,7 +67,7 @@ Gets a message that describes the current exception.
 <td><div class="summary">
 Gets or sets the name of the application or the object that causes the error.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/images/pubproperty.gif)</td>
@@ -75,7 +75,7 @@ Gets or sets the name of the application or the object that causes the error.
 <td><div class="summary">
 Gets a string representation of the immediate frames on the call stack.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/images/pubproperty.gif)</td>
@@ -83,13 +83,13 @@ Gets a string representation of the immediate frames on the call stack.
 <td><div class="summary">
 Gets the method that throws the current exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[ViewRegistrationException Class](viewregistrationexception-class-mspp-regions)
+[ViewRegistrationException Class](/patterns-practices/reference/viewregistrationexception-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefregionadaptermappings-methods-mspp-mefextensions-regions.md'
 
 # MefRegionAdapterMappings Methods
 
-The [MefRegionAdapterMappings](mefregionadaptermappings-class-mspp-mefextensions-regions) type exposes the following members.
+The [MefRegionAdapterMappings](/patterns-practices/reference/mefregionadaptermappings-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Methods
 
@@ -89,6 +89,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[MefRegionAdapterMappings Class](mefregionadaptermappings-class-mspp-mefextensions-regions)
+[MefRegionAdapterMappings Class](/patterns-practices/reference/mefregionadaptermappings-class-mspp-mefextensions-regions)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

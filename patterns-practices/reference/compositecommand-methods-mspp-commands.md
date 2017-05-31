@@ -7,7 +7,7 @@ ms:mtpsurl: 'compositecommand-methods-mspp-commands.md'
 
 # CompositeCommand Methods
 
-The [CompositeCommand](compositecommand-class-mspp-commands) type exposes the following members.
+The [CompositeCommand](/patterns-practices/reference/compositecommand-class-mspp-commands) type exposes the following members.
 
 ## Methods
  
@@ -116,6 +116,6 @@ Removes a command from the collection and removes itself from the <a href="http:
 
 ## See Also
 
-[CompositeCommand Class](compositecommand-class-mspp-commands)
+[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)
 
-[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace)
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

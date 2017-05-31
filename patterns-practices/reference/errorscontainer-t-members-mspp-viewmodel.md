@@ -133,7 +133,7 @@ Returns a string that represents the current object.
 
 || Name| Description |
 |----|----|----|
-| ![](https://msdn.microsoft.com/en-us/Gg405531.protfield(en-us,PandP.50).gif "Protected field") | [validationResults](https://msdn.microsoft.com/en-us/library/dn736157(v=pandp.50)) |             |
+| ![Protected field](/images/protfield.gif) | [validationResults](https://msdn.microsoft.com/en-us/library/dn736157(v=pandp.50)) |             |
 
 ## Properties
 

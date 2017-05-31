@@ -7,7 +7,7 @@ ms:mtpsurl: 'popupwindowaction-properties-mspp-interactivity.md'
 
 # PopupWindowAction Properties
 
-The [PopupWindowAction](popupwindowaction-class-mspp-interactivity) type exposes the following members.
+The [PopupWindowAction](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity) type exposes the following members.
 
 ## Properties
 
@@ -119,9 +119,9 @@ Gets or sets the content of the window.
 
 ## See Also
 
-[PopupWindowAction Class](popupwindowaction-class-mspp-interactivity)
+[PopupWindowAction Class](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](mspp-interactivity-namespace)
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)
 
 [PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
 

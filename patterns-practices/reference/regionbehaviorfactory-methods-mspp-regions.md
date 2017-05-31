@@ -7,7 +7,7 @@ ms:mtpsurl: 'regionbehaviorfactory-methods-mspp-regions.md'
 
 # RegionBehaviorFactory Methods
 
-The [RegionBehaviorFactory](regionbehaviorfactory-class-mspp-regions) type exposes the following members.
+The [RegionBehaviorFactory](/patterns-practices/reference/regionbehaviorfactory-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -101,6 +101,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[RegionBehaviorFactory Class](regionbehaviorfactory-class-mspp-regions)
+[RegionBehaviorFactory Class](/patterns-practices/reference/regionbehaviorfactory-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

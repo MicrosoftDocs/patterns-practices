@@ -22,7 +22,7 @@ Represents errors that occured during the regions' update.
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-  [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
+  [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
     Microsoft.Practices.Prism.Regions.UpdateRegionsException
 
 ## See Also

@@ -7,7 +7,7 @@ ms:mtpsurl: 'moduledependencysolver-methods-mspp-modularity.md'
 
 # ModuleDependencySolver Methods
 
-The [ModuleDependencySolver](moduledependencysolver-class-mspp-modularity) type exposes the following members.
+The [ModuleDependencySolver](/patterns-practices/reference/moduledependencysolver-class-mspp-modularity) type exposes the following members.
 
 ## Methods
  
@@ -95,6 +95,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[ModuleDependencySolver Class](moduledependencysolver-class-mspp-modularity)
+[ModuleDependencySolver Class](/patterns-practices/reference/moduledependencysolver-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

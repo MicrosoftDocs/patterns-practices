@@ -9,7 +9,7 @@ ms:mtpsurl: 'iconfigurationstore-interface-mspp-modularity.md'
 
 Defines a store for the module metadata.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -23,6 +23,6 @@ public interface IConfigurationStore
 Public Interface IConfigurationStore
 ```
 ## See Also
-[IConfigurationStore Members](iconfigurationstore-members-mspp-modularity)
+[IConfigurationStore Members](/patterns-practices/reference/iconfigurationstore-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

@@ -901,6 +901,6 @@ Gets or sets the width of the element.
 </table>
 
 ## See Also
-[ObservableObject&lt;T&gt; Class](observableobject-t-class-mspp)
+[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)
 
-[Microsoft.Practices.Prism Namespace](mspp-namespace)
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

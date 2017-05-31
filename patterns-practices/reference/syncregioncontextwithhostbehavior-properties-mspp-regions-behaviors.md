@@ -7,7 +7,7 @@ ms:mtpsurl: 'syncregioncontextwithhostbehavior-properties-mspp-regions-behaviors
 
 # SyncRegionContextWithHostBehavior Properties
 
-The [SyncRegionContextWithHostBehavior](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors) type exposes the following members.
+The [SyncRegionContextWithHostBehavior](/patterns-practices/reference/syncregioncontextwithhostbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Properties
  
@@ -49,6 +49,6 @@ Behavior's attached region.
 
 ## See Also
 
-[SyncRegionContextWithHostBehavior Class](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors)
+[SyncRegionContextWithHostBehavior Class](/patterns-practices/reference/syncregioncontextwithhostbehavior-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

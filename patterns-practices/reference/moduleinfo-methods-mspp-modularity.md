@@ -7,7 +7,7 @@ ms:mtpsurl: 'moduleinfo-methods-mspp-modularity.md'
 
 # ModuleInfo Methods
 
-The [ModuleInfo](moduleinfo-class-mspp-modularity) type exposes the following members.
+The [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -73,6 +73,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[ModuleInfo Class](moduleinfo-class-mspp-modularity)
+[ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

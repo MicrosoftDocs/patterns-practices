@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefeventaggregator-methods-mspp-mefextensions-events.md'
 
 # MefEventAggregator Methods
 
-The [MefEventAggregator](mefeventaggregator-class-mspp-mefextensions-events) type exposes the following members.
+The [MefEventAggregator](/patterns-practices/reference/mefeventaggregator-class-mspp-mefextensions-events) type exposes the following members.
 
 ## Methods
 
@@ -78,6 +78,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[MefEventAggregator Class](mefeventaggregator-class-mspp-mefextensions-events)
+[MefEventAggregator Class](/patterns-practices/reference/mefeventaggregator-class-mspp-mefextensions-events)
 
-[Microsoft.Practices.Prism.MefExtensions.Events Namespace](mspp-mefextensions-events-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Events Namespace](/patterns-practices/reference/mspp-mefextensions-events-namespace)

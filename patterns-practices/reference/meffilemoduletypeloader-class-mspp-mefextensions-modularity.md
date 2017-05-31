@@ -7,9 +7,9 @@ ms:mtpsurl: 'meffilemoduletypeloader-class-mspp-mefextensions-modularity.md'
 
 # MefFileModuleTypeLoader Class
 
-Loads modules from an arbitrary location on the filesystem. This typeloader is only called if [ModuleInfo](moduleinfo-class-mspp-modularity) classes have a Ref parameter that starts with "file://". This class is only used on the Desktop version of the Prism Library when used with Managed Extensibility Framework.
+Loads modules from an arbitrary location on the filesystem. This typeloader is only called if [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) classes have a Ref parameter that starts with "file://". This class is only used on the Desktop version of the Prism Library when used with Managed Extensibility Framework.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -32,6 +32,6 @@ Public Class MefFileModuleTypeLoader
   Microsoft.Practices.Prism.MefExtensions.Modularity.MefFileModuleTypeLoader
 
 ## See Also
-[MefFileModuleTypeLoader Members](meffilemoduletypeloader-members-mspp-mefextensions-modularity)
+[MefFileModuleTypeLoader Members](/patterns-practices/reference/meffilemoduletypeloader-members-mspp-mefextensions-modularity)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)

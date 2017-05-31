@@ -7,7 +7,7 @@ ms:mtpsurl: 'configurationmodulecatalog-methods-mspp-modularity.md'
 
 # ConfigurationModuleCatalog Methods
 
-The [ConfigurationModuleCatalog](configurationmodulecatalog-class-mspp-modularity) type exposes the following members.
+The [ConfigurationModuleCatalog](/patterns-practices/reference/configurationmodulecatalog-class-mspp-modularity) type exposes the following members.
 
 ## Methods
  
@@ -233,6 +233,6 @@ Makes sure all modules have an Unique name.
 </table>
 
 ## See Also
-[ConfigurationModuleCatalog Class](configurationmodulecatalog-class-mspp-modularity)
+[ConfigurationModuleCatalog Class](/patterns-practices/reference/configurationmodulecatalog-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

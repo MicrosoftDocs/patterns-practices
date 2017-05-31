@@ -39,8 +39,8 @@ Initializes a new <a href="https://msdn.microsoft.com/library/microsoft.practice
 </table>
 
 ## See Also
-[ModuleConfigurationElementCollection Class](moduleconfigurationelementcollection-class-mspp-modularity)
+[ModuleConfigurationElementCollection Class](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity)
 
-[ModuleConfigurationElementCollection Members](moduleconfigurationelementcollection-members-mspp-modularity)
+[ModuleConfigurationElementCollection Members](/patterns-practices/reference/moduleconfigurationelementcollection-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

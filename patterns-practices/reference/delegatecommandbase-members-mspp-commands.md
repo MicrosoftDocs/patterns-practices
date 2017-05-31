@@ -147,8 +147,8 @@ Returns a string that represents the current object.
 
 |                                                                                                | Name                                                                                                                        | Description |
 |------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------|
-| ![](https://msdn.microsoft.com/en-us/Gg430762.protfield(en-us,PandP.50).gif "Protected field") | [\_canExecuteMethod](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase._canexecutemethod) |             |
-| ![](https://msdn.microsoft.com/en-us/Gg430762.protfield(en-us,PandP.50).gif "Protected field") | [\_executeMethod](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase._executemethod)       |             |
+| ![Protected field](/images/protfield.gif) | [\_canExecuteMethod](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase._canexecutemethod) |             |
+| ![Protected field](/images/protfield.gif) | [\_executeMethod](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase._executemethod)       |             |
 
 ## Properties
 

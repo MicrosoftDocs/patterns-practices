@@ -7,7 +7,7 @@ ms:mtpsurl: 'eventsubscription-tpayload-methods-mspp-pubsubevents.md'
 
 # EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Methods
 
-The [EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601) type exposes the following members.
+The [EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601) type exposes the following members.
 
 ## Methods
 
@@ -40,7 +40,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="odd">
 <td>![Public method](/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601.getexecutionstrategy">GetExecutionStrategy</a></td>
+<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601.getexecutionstrategy">GetExecutionStrategy</a></td>
 <td><div class="summary">
 Gets the execution strategy to publish this event.
 </div></td>
@@ -63,7 +63,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="even">
 <td>![Public method](/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601.invokeaction(system.action%7b%600%7d%2c%600)">InvokeAction</a></td>
+<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601.invokeaction(system.action%7b%600%7d%2c%600)">InvokeAction</a></td>
 <td><div class="summary">
 Invokes the specified <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;(Of &lt;(T&gt;)&gt;)</a> synchronously when not overridden.
 </div></td>
@@ -88,6 +88,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601)
+[EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

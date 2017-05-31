@@ -131,4 +131,4 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 
 [RegionMemberLifetimeAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute(v=pandp.50))
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)

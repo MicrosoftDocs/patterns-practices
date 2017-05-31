@@ -7,7 +7,7 @@ ms:mtpsurl: 'navigationresult-methods-mspp-regions.md'
 
 # NavigationResult Methods
 
-The [NavigationResult](navigationresult-class-mspp-regions) type exposes the following members.
+The [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions) type exposes the following members.
 
 ## Methods
  
@@ -74,6 +74,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[NavigationResult Class](navigationresult-class-mspp-regions)
+[NavigationResult Class](/patterns-practices/reference/navigationresult-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

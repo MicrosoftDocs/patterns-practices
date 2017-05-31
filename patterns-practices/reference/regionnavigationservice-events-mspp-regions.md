@@ -7,7 +7,7 @@ ms:mtpsurl: 'regionnavigationservice-events-mspp-regions.md'
 
 # RegionNavigationService Events
 
-The [RegionNavigationService](regionnavigationservice-class-mspp-regions) type exposes the following members.
+The [RegionNavigationService](/patterns-practices/reference/regionnavigationservice-class-mspp-regions) type exposes the following members.
 
 ## Events
 
@@ -46,6 +46,6 @@ Raised when a navigation request fails.
 </table>
 
 ## See Also
-[RegionNavigationService Class](regionnavigationservice-class-mspp-regions)
+[RegionNavigationService Class](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

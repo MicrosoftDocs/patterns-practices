@@ -7,7 +7,7 @@ ms:mtpsurl: 'iinteractionrequestaware-properties-mspp-interactivity-interactionr
 
 # IInteractionRequestAware Properties
 
-The [IInteractionRequestAware](iinteractionrequestaware-interface-mspp-interactivity-interactionrequest) type exposes the following members.
+The [IInteractionRequestAware](/patterns-practices/reference/iinteractionrequestaware-interface-mspp-interactivity-interactionrequest) type exposes the following members.
 
 ## Properties
 
@@ -42,9 +42,9 @@ The <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.intera
 
 ## See Also
 
-[IInteractionRequestAware Interface](iinteractionrequestaware-interface-mspp-interactivity-interactionrequest)
+[IInteractionRequestAware Interface](/patterns-practices/reference/iinteractionrequestaware-interface-mspp-interactivity-interactionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
 
 [IInteractionRequestAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware)
 

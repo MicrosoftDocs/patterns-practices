@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefmodulemanager-methods-mspp-mefextensions-modularity.md'
 
 # MefModuleManager Methods
 
-The [MefModuleManager](mefmodulemanager-class-mspp-mefextensions-modularity) type exposes the following members.
+The [MefModuleManager](/patterns-practices/reference/mefmodulemanager-class-mspp-mefextensions-modularity) type exposes the following members.
 
 ## Methods
 
@@ -136,6 +136,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[MefModuleManager Class](mefmodulemanager-class-mspp-mefextensions-modularity)
+[MefModuleManager Class](/patterns-practices/reference/mefmodulemanager-class-mspp-mefextensions-modularity)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)

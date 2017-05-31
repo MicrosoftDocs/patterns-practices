@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefregionmanagerregistrationbehavior-properties-mspp-mefextensions-
 
 # MefRegionManagerRegistrationBehavior Properties
 
-The [MefRegionManagerRegistrationBehavior](mefregionmanagerregistrationbehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
+The [MefRegionManagerRegistrationBehavior](/patterns-practices/reference/mefregionmanagerregistrationbehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
 
 ## Properties
 
@@ -58,6 +58,6 @@ Provides an abstraction on top of the RegionManager static members.
 
 ## See Also
 
-[MefRegionManagerRegistrationBehavior Class](mefregionmanagerregistrationbehavior-class-mspp-mefextensions-regions-behaviors)
+[MefRegionManagerRegistrationBehavior Class](/patterns-practices/reference/mefregionmanagerregistrationbehavior-class-mspp-mefextensions-regions-behaviors)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

@@ -9,7 +9,7 @@ ms:mtpsurl: 'allactiveregion-class-mspp-regions.md'
 
 Region that keeps all the views in it as active. Deactivation of views is not allowed.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -30,11 +30,11 @@ Public Class AllActiveRegion
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-  [Microsoft.Practices.Prism.Regions.Region](region-class-mspp-regions)
+  [Microsoft.Practices.Prism.Regions.Region](/patterns-practices/reference/region-class-mspp-regions)
   
     Microsoft.Practices.Prism.Regions.AllActiveRegion
 
 ## See Also
-[AllActiveRegion Members](allactiveregion-members-mspp-regions)
+[AllActiveRegion Members](/patterns-practices/reference/allactiveregion-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

@@ -11,10 +11,6 @@ Removes an event handler from the reference list.
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
 
-<<<<<<< HEAD
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
-=
->>>>>>> origin/master
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -56,20 +52,8 @@ Handler to remove.
 
 ## See Also
 
-<<<<<<< HEAD
-[WeakEventHandlerManager Class](weakeventhandlermanager-class-mspp-commands)
-
-[WeakEventHandlerManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager)
-=
-[WeakEventHandlerManager Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager(v=pandp.50))
->>>>>>> origin/master
+[WeakEventHandlerManager Class](/patterns-practices/reference/weakeventhandlermanager-class-mspp-commands)
 
 [WeakEventHandlerManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.weakeventhandlermanager_members(v=pandp.50))
 
-<<<<<<< HEAD
-[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace)
-
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
-=
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
->>>>>>> origin/master

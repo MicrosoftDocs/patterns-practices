@@ -9,7 +9,7 @@ ms:mtpsurl: 'iregionbehavior-attach-method-mspp-regions.md'
 
 Attaches the behavior to the specified region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -25,8 +25,8 @@ Sub Attach
 ```
 
 ## See Also
-[IRegionBehavior Interface](iregionbehavior-interface-mspp-regions)
+[IRegionBehavior Interface](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)
 
-[IRegionBehavior Members](iregionbehavior-members-mspp-regions)
+[IRegionBehavior Members](/patterns-practices/reference/iregionbehavior-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

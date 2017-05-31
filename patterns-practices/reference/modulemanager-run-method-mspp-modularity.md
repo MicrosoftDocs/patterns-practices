@@ -7,9 +7,9 @@ ms:mtpsurl: 'modulemanager-run-method-mspp-modularity.md'
 
 # ModuleManager.Run Method
 
-Initializes the modules marked as [WhenAvailable](initializationmode-enumeration-mspp-modularity) on the [ModuleCatalog](modulemanager-modulecatalog-property-mspp-modularity).
+Initializes the modules marked as [WhenAvailable](/patterns-practices/reference/initializationmode-enumeration-mspp-modularity) on the [ModuleCatalog](/patterns-practices/reference/modulemanager-modulecatalog-property-mspp-modularity).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,12 +28,12 @@ Public Sub Run
 
 ### Implements
 
-[IModuleManager.Run](imodulemanager-run-method-mspp-modularity)
+[IModuleManager.Run](/patterns-practices/reference/imodulemanager-run-method-mspp-modularity)
 
 ## See Also
 
-[ModuleManager Class](modulemanager-class-mspp-modularity)
+[ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)
 
-[ModuleManager Members](modulemanager-members-mspp-modularity)
+[ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

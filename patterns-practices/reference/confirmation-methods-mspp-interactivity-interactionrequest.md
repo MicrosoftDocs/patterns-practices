@@ -7,7 +7,7 @@ ms:mtpsurl: 'confirmation-methods-mspp-interactivity-interactionrequest.md'
 
 # Confirmation Methods
 
-The [Confirmation](confirmation-class-mspp-interactivity-interactionrequest) type exposes the following members.
+The [Confirmation](/patterns-practices/reference/confirmation-class-mspp-interactivity-interactionrequest) type exposes the following members.
 
 ## Methods
 
@@ -73,6 +73,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[Confirmation Class](confirmation-class-mspp-interactivity-interactionrequest)
+[Confirmation Class](/patterns-practices/reference/confirmation-class-mspp-interactivity-interactionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

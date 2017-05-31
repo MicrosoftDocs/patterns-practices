@@ -177,8 +177,8 @@ Removes the first subscriber matching <a href="http://msdn.microsoft.com/en-us/l
 
 |                                                                                                      | Name                   | Description                 |
 |------------------------------------------------------------------------------------------------------|------------------------|-----------------------------|
-| ![](https://msdn.microsoft.com/en-us/Gg430765.protproperty(en-us,PandP.50).gif "Protected property") | Subscriptions          | (Inherited from EventBase.) |
-| ![](https://msdn.microsoft.com/en-us/Gg430765.pubproperty(en-us,PandP.50).gif "Public property")     | SynchronizationContext | (Inherited from EventBase.) |
+| ![Protected property](/images/protproperty.gif) | Subscriptions          | (Inherited from EventBase.) |
+| ![Public property](/images/pubproperty.gif)     | SynchronizationContext | (Inherited from EventBase.) |
 
 ## See Also
 [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)

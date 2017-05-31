@@ -40,8 +40,8 @@ Run the bootstrapper process.
 
 ## See Also
 
-[UnityBootstrapper Class](unitybootstrapper-class-mspp-unityextensions)
+[UnityBootstrapper Class](/patterns-practices/reference/unitybootstrapper-class-mspp-unityextensions)
 
-[UnityBootstrapper Members](unitybootstrapper-members-mspp-unityextensions)
+[UnityBootstrapper Members](/patterns-practices/reference/unitybootstrapper-members-mspp-unityextensions)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](mspp-unityextensions-namespace)
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)

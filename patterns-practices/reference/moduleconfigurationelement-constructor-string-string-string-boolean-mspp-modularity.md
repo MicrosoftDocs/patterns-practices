@@ -7,9 +7,9 @@ ms:mtpsurl: 'moduleconfigurationelement-constructor-mspp-modularity.md'
 
 # ModuleConfigurationElement Constructor (String, String, String, Boolean)
 
-Initializes a new instance of [ModuleConfigurationElement](moduleconfigurationelement-class-mspp-modularity).
+Initializes a new instance of [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -60,10 +60,10 @@ Public Sub New (
 
 ## See Also
 
-[ModuleConfigurationElement Class](moduleconfigurationelement-class-mspp-modularity)
+[ModuleConfigurationElement Class](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity)
 
-[ModuleConfigurationElement Members](moduleconfigurationelement-members-mspp-modularity)
+[ModuleConfigurationElement Members](/patterns-practices/reference/moduleconfigurationelement-members-mspp-modularity)
 
 ModuleConfigurationElement Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

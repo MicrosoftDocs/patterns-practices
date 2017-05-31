@@ -7,7 +7,7 @@ ms:mtpsurl: 'filemoduletypeloader-events-mspp-modularity.md'
 
 # FileModuleTypeLoader Events
 
-The [FileModuleTypeLoader](filemoduletypeloader-class-mspp-modularity) type exposes the following members.
+The [FileModuleTypeLoader](/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity) type exposes the following members.
 
 ## Events
 
@@ -39,6 +39,6 @@ Raised repeatedly to provide progress as modules are loaded in the background.
 </table>
 
 ## See Also
-[FileModuleTypeLoader Class](filemoduletypeloader-class-mspp-modularity)
+[FileModuleTypeLoader Class](/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

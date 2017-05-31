@@ -7,7 +7,7 @@ ms:mtpsurl: 'iregionbehavior-properties-mspp-regions.md'
 
 # IRegionBehavior Properties
 
-The [IRegionBehavior](iregionbehavior-interface-mspp-regions) type exposes the following members.
+The [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions) type exposes the following members.
 
 ## Properties
 
@@ -32,6 +32,6 @@ The region that this behavior is extending.
 </table>
 
 ## See Also
-[IRegionBehavior Interface](iregionbehavior-interface-mspp-regions)
+[IRegionBehavior Interface](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

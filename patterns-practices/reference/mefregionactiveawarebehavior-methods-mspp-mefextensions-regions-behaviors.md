@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefregionactiveawarebehavior-methods-mspp-mefextensions-regions-beh
 
 # MefRegionActiveAwareBehavior Methods
 
-The [MefRegionActiveAwareBehavior](mefregionactiveawarebehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
+The [MefRegionActiveAwareBehavior](/patterns-practices/reference/mefregionactiveawarebehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
 
 ## Methods
  
@@ -90,6 +90,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[MefRegionActiveAwareBehavior Class](mefregionactiveawarebehavior-class-mspp-mefextensions-regions-behaviors)
+[MefRegionActiveAwareBehavior Class](/patterns-practices/reference/mefregionactiveawarebehavior-class-mspp-mefextensions-regions-behaviors)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

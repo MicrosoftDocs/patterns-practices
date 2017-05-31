@@ -28,7 +28,7 @@ The [ViewRegistrationException](https://msdn.microsoft.com/library/microsoft.pra
 <td><div class="summary">
 Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 </tbody>
 </table>

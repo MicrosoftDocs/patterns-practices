@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefregionnavigationjournal-properties-mspp-mefextensions-regions.md
 
 # MefRegionNavigationJournal Properties
 
-The [MefRegionNavigationJournal](mefregionnavigationjournal-class-mspp-mefextensions-regions) type exposes the following members.
+The [MefRegionNavigationJournal](/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Properties
  
@@ -58,6 +58,6 @@ Gets or sets the target that implements INavigate.
 
 ## See Also
 
-[MefRegionNavigationJournal Class](mefregionnavigationjournal-class-mspp-mefextensions-regions)
+[MefRegionNavigationJournal Class](/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regions)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

@@ -37,8 +37,8 @@ Sets the validation errors for the specified property.
 </table>
 
 ## See Also
-[ErrorsContainer&lt;T&gt; Class](errorscontainer-t-class-mspp-viewmodel)
+[ErrorsContainer&lt;T&gt; Class](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)
 
-[ErrorsContainer&lt;T&gt; Members](errorscontainer-t-members-mspp-viewmodel)
+[ErrorsContainer&lt;T&gt; Members](/patterns-practices/reference/errorscontainer-t-members-mspp-viewmodel)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace)
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)

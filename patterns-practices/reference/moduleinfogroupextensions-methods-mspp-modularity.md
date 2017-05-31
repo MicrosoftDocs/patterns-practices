@@ -38,6 +38,6 @@ Adds a new module that is statically referenced to the specified module info gro
 
 ## See Also
 
-[ModuleInfoGroupExtensions Class](moduleinfogroupextensions-class-mspp-modularity)
+[ModuleInfoGroupExtensions Class](/patterns-practices/reference/moduleinfogroupextensions-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

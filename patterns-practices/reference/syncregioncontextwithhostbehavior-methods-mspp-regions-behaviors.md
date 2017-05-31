@@ -7,7 +7,7 @@ ms:mtpsurl: 'syncregioncontextwithhostbehavior-methods-mspp-regions-behaviors.md
 
 # SyncRegionContextWithHostBehavior Methods
 
-The [SyncRegionContextWithHostBehavior](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors) type exposes the following members.
+The [SyncRegionContextWithHostBehavior](/patterns-practices/reference/syncregioncontextwithhostbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Methods
  
@@ -28,20 +28,20 @@ The [SyncRegionContextWithHostBehavior](syncregioncontextwithhostbehavior-class-
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/images/public-method.gif "Public method")
 </td>
 <td>
-<a href="regionbehavior-attach-method-mspp-regions.md">Attach</a>
+<a href="regionbehavior-attach-method-mspp-regions">Attach</a>
 </td>
 <td>
 <div>
 Attaches the behavior to the region.
-</div> (Inherited from <a href="regionbehavior-class-mspp-regions.md">RegionBehavior</a>.)</td>
+</div> (Inherited from <a href="regionbehavior-class-mspp-regions">RegionBehavior</a>.)</td>
 </tr>
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/bsc2ak47" target="_blank">Equals</a>
@@ -52,7 +52,7 @@ Attaches the behavior to the region.
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431079.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/4k87zsw7" target="_blank">Finalize</a>
@@ -63,7 +63,7 @@ Attaches the behavior to the region.
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/zdee4b3y" target="_blank">GetHashCode</a>
@@ -74,7 +74,7 @@ Attaches the behavior to the region.
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/dfwy45w9" target="_blank">GetType</a>
@@ -85,7 +85,7 @@ Attaches the behavior to the region.
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431079.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/57ctke0a" target="_blank">MemberwiseClone</a>
@@ -96,20 +96,20 @@ Attaches the behavior to the region.
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431079.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/images/protmethod.gif)
 </td>
 <td>
-<a href="syncregioncontextwithhostbehavior-onattach-method-mspp-regions-behaviors.md">OnAttach</a>
+<a href="syncregioncontextwithhostbehavior-onattach-method-mspp-regions-behaviors">OnAttach</a>
 </td>
 <td>
 <div>
 Override this method to perform the logic after the behavior has been attached.
-</div> (Overrides <a href="regionbehavior-onattach-method-mspp-regions.md">RegionBehavior</a>.)</td>
+</div> (Overrides <a href="regionbehavior-onattach-method-mspp-regions">RegionBehavior</a>.)</td>
 </tr>
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2" target="_blank">ToString</a>
@@ -122,6 +122,6 @@ Override this method to perform the logic after the behavior has been attached.
 
 ## See Also
 
-[SyncRegionContextWithHostBehavior Class](syncregioncontextwithhostbehavior-class-mspp-regions-behaviors)
+[SyncRegionContextWithHostBehavior Class](/patterns-practices/reference/syncregioncontextwithhostbehavior-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

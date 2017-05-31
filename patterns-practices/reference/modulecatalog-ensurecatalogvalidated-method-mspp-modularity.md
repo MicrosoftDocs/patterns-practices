@@ -9,7 +9,7 @@ ms:mtpsurl: 'modulecatalog-ensurecatalogvalidated-method-mspp-modularity.md'
 
 Ensures that the catalog is validated.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,8 +28,8 @@ Protected Overridable Sub EnsureCatalogValidated
 ```
 
 ## See Also
-[ModuleCatalog Class](modulecatalog-class-mspp-modularity)
+[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)
 
-[ModuleCatalog Members](modulecatalog-members-mspp-modularity)
+[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

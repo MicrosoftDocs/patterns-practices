@@ -13,7 +13,7 @@ The [ClearChildViewsRegionBehavior](https://msdn.microsoft.com/en-us/library/mic
 
 |  | Name | Description |
 |---|---|---|
-|![](https://msdn.microsoft.com/en-us/Dn736301.pubproperty(en-us,PandP.50).gif "Public attached property")|[ClearChildViews](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.clearchildviews(v=pandp.50))||
+|![Public attached property](/images/pubproperty.gif)|[ClearChildViews](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.clearchildviews(v=pandp.50))||
 
 ## See Also
 

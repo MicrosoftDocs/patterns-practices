@@ -35,7 +35,7 @@ Public Overrides Function GetHashCode As Integer
 
 #### Return Value
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 Type: [Int32](http://msdn2.microsoft.com/en-us/library/td2s409d)
@@ -56,7 +56,7 @@ A hash code for the current [Object](http://msdn.microsoft.com/en-us/library/e5k
 ## See Also
 [SubscriptionToken Class](subscriptiontoken-class-mspp-pubsubevents)
 
-[SubscriptionToken Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken)
+[SubscriptionToken Class](/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken)
 SubscriptionToken Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace)

@@ -7,7 +7,7 @@ ms:mtpsurl: 'notification-properties-mspp-interactivity-interactionrequest.md'
 
 # Notification Properties
 
-The [Notification](notification-class-mspp-interactivity-interactionrequest) type exposes the following members.
+The [Notification](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest) type exposes the following members.
 
 ## Properties
 
@@ -39,6 +39,6 @@ Gets or sets the title to use for the notification.
 </table>
 
 ## See Also
-[Notification Class](notification-class-mspp-interactivity-interactionrequest)
+[Notification Class](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

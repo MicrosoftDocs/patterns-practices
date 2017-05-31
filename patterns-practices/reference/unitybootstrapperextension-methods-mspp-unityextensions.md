@@ -7,7 +7,7 @@ ms:mtpsurl: 'unitybootstrapperextension-methods-mspp-unityextensions.md'
 
 # UnityBootstrapperExtension Methods
 
-The [UnityBootstrapperExtension](unitybootstrapperextension-class-mspp-unityextensions) type exposes the following members.
+The [UnityBootstrapperExtension](/patterns-practices/reference/unitybootstrapperextension-class-mspp-unityextensions) type exposes the following members.
 
 ## Methods
 
@@ -98,6 +98,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[UnityBootstrapperExtension Class](unitybootstrapperextension-class-mspp-unityextensions)
+[UnityBootstrapperExtension Class](/patterns-practices/reference/unitybootstrapperextension-class-mspp-unityextensions)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](mspp-unityextensions-namespace)
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)

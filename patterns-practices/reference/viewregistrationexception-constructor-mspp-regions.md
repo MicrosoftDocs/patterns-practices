@@ -52,8 +52,8 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## See Also
 
-[ViewRegistrationException Class](viewregistrationexception-class-mspp-regions)
+[ViewRegistrationException Class](/patterns-practices/reference/viewregistrationexception-class-mspp-regions)
 
-[ViewRegistrationException Members](viewregistrationexception-members-mspp-regions)
+[ViewRegistrationException Members](/patterns-practices/reference/viewregistrationexception-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

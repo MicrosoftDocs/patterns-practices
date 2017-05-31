@@ -7,7 +7,7 @@ ms:mtpsurl: 'cyclicdependencyfoundexception-events-mspp-modularity.md'
 
 # CyclicDependencyFoundException Events
 
-The [CyclicDependencyFoundException](cyclicdependencyfoundexception-class-mspp-modularity) type exposes the following members.
+The [CyclicDependencyFoundException](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity) type exposes the following members.
 ## Events
 
 The [CyclicDependencyFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception) type exposes the following members.
@@ -30,14 +30,14 @@ The [CyclicDependencyFoundException](https://msdn.microsoft.com/library/microsof
 <td><div class="summary">
 Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 </tbody>
 </table>
 ## See Also
-[CyclicDependencyFoundException Class](cyclicdependencyfoundexception-class-mspp-modularity)
+[CyclicDependencyFoundException Class](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
 
 ## See Also
 

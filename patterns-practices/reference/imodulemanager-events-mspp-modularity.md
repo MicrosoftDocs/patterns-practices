@@ -7,7 +7,7 @@ ms:mtpsurl: 'imodulemanager-events-mspp-modularity.md'
 
 # IModuleManager Events
 
-The [IModuleManager](imodulemanager-interface-mspp-modularity) type exposes the following members.
+The [IModuleManager](/patterns-practices/reference/imodulemanager-interface-mspp-modularity) type exposes the following members.
 
 ## Events
 
@@ -39,6 +39,6 @@ Raised repeatedly to provide progress as modules are downloaded.
 </table>
 
 ## See Also
-[IModuleManager Interface](imodulemanager-interface-mspp-modularity)
+[IModuleManager Interface](/patterns-practices/reference/imodulemanager-interface-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

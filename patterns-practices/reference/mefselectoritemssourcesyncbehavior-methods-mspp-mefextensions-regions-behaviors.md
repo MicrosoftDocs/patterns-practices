@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefselectoritemssourcesyncbehavior-methods-mspp-mefextensions-regio
 
 # MefSelectorItemsSourceSyncBehavior Methods
 
-The [MefSelectorItemsSourceSyncBehavior](mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
+The [MefSelectorItemsSourceSyncBehavior](/patterns-practices/reference/mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
 
 ## Methods
 
@@ -90,6 +90,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[MefSelectorItemsSourceSyncBehavior Class](mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors)
+[MefSelectorItemsSourceSyncBehavior Class](/patterns-practices/reference/mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

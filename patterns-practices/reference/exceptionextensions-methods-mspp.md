@@ -7,7 +7,7 @@ ms:mtpsurl: 'exceptionextensions-methods-mspp.md'
 
 # ExceptionExtensions Methods
 
-The [ExceptionExtensions](exceptionextensions-class-mspp) type exposes the following members.
+The [ExceptionExtensions](/patterns-practices/reference/exceptionextensions-class-mspp) type exposes the following members.
 
 ## Methods
 
@@ -46,6 +46,6 @@ Register the type of an Exception that is thrown by the framework. The <a href="
 </table>
 
 ## See Also
-[ExceptionExtensions Class](exceptionextensions-class-mspp)
+[ExceptionExtensions Class](/patterns-practices/reference/exceptionextensions-class-mspp)
 
-[Microsoft.Practices.Prism Namespace](mspp-namespace)
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

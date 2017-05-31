@@ -7,7 +7,7 @@ ms:mtpsurl: 'viewsorthintattribute-properties-mspp-regions.md'
 
 # ViewSortHintAttribute Properties
 
-The [ViewSortHintAttribute](viewsorthintattribute-class-mspp-regions) type exposes the following members.
+The [ViewSortHintAttribute](/patterns-practices/reference/viewsorthintattribute-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
@@ -40,6 +40,6 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 </table>
 
 ## See Also
-[ViewSortHintAttribute Class](viewsorthintattribute-class-mspp-regions)
+[ViewSortHintAttribute Class](/patterns-practices/reference/viewsorthintattribute-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

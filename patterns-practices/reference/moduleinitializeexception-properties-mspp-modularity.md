@@ -7,7 +7,7 @@ ms:mtpsurl: 'moduleinitializeexception-properties-mspp-modularity.md'
 
 # ModuleInitializeException Properties
 
-The [ModuleInitializeException](moduleinitializeexception-class-mspp-modularity) type exposes the following members.
+The [ModuleInitializeException](/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity) type exposes the following members.
 
 ## Properties
 
@@ -27,7 +27,7 @@ The [ModuleInitializeException](moduleinitializeexception-class-mspp-modularity)
 <td><div class="summary">
 Gets a collection of key/value pairs that provide additional user-defined information about the exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/images/pubproperty.gif)</td>
@@ -35,7 +35,7 @@ Gets a collection of key/value pairs that provide additional user-defined inform
 <td><div class="summary">
 Gets or sets a link to the help file associated with this exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/images/pubproperty.gif)</td>
@@ -43,15 +43,15 @@ Gets or sets a link to the help file associated with this exception.
 <td><div class="summary">
 Gets or sets HRESULT, a coded numerical value that is assigned to a specific exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/902sca80">InnerException</a></td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a> instance that caused the current exception.
+Gets the <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a> instance that caused the current exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/images/pubproperty.gif)</td>
@@ -59,7 +59,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a
 <td><div class="summary">
 Gets a message that describes the current exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/images/pubproperty.gif)</td>
@@ -75,7 +75,7 @@ Gets or sets the name of the module that this exception refers to.
 <td><div class="summary">
 Gets or sets the name of the application or the object that causes the error.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/images/pubproperty.gif)</td>
@@ -83,7 +83,7 @@ Gets or sets the name of the application or the object that causes the error.
 <td><div class="summary">
 Gets a string representation of the immediate frames on the call stack.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/images/pubproperty.gif)</td>
@@ -91,13 +91,13 @@ Gets a string representation of the immediate frames on the call stack.
 <td><div class="summary">
 Gets the method that throws the current exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[ModuleInitializeException Class](moduleinitializeexception-class-mspp-modularity)
+[ModuleInitializeException Class](/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

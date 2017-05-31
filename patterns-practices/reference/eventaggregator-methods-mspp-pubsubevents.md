@@ -7,10 +7,10 @@ ms:mtpsurl: 'eventaggregator-methods-mspp-pubsubevents.md'
 
 # EventAggregator Methods
 
-The [EventAggregator](eventaggregator-class-mspp-pubsubevents) type exposes the following members.
+The [EventAggregator](/patterns-practices/reference/eventaggregator-class-mspp-pubsubevents) type exposes the following members.
 
 ## Methods
-The [EventAggregator](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventaggregator) type exposes the following members.
+The [EventAggregator](/patterns-practices/reference/mspp-mvvm-namespace.eventaggregator) type exposes the following members.
 
 <table>
 
@@ -40,7 +40,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="odd">
 <td>![Public method](/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventaggregator.getevent%60%601">GetEvent&lt;(Of &lt;(TEventType&gt;)&gt;)</a></td>
+<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventaggregator.getevent%60%601">GetEvent&lt;(Of &lt;(TEventType&gt;)&gt;)</a></td>
 <td><div class="summary">
 Gets the single instance of the event managed by this EventAggregator. Multiple calls to this method with the same TEventType returns the same event instance.
 </div></td>
@@ -82,10 +82,10 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[EventAggregator Class](eventaggregator-class-mspp-pubsubevents)
+[EventAggregator Class](/patterns-practices/reference/eventaggregator-class-mspp-pubsubevents)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
 
-[EventAggregator Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventaggregator)
+[EventAggregator Class](/patterns-practices/reference/mspp-mvvm-namespace.eventaggregator)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

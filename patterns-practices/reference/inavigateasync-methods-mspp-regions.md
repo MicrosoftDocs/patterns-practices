@@ -28,11 +28,11 @@ The [INavigateAsync](https://msdn.microsoft.com/library/microsoft.practices.pris
 <tr>
   <td>
 
-![](images/public-method.gif "Public method")
+![](/images/public-method.gif "Public method")
     
   </td>
   <td>
-    <a href="inavigateasync-requestnavigate-method-mspp-regions.md">RequestNavigate(Uri, Action(Of NavigationResult))</a>
+    <a href="inavigateasync-requestnavigate-method-mspp-regions">RequestNavigate(Uri, Action(Of NavigationResult))</a>
   </td>
   <td>
     <div>
@@ -43,10 +43,10 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
 <tr>
   <td>
 
-![](images/public-method.gif "Public method")
+![](/images/public-method.gif "Public method")
   </td>
   <td>
-    <a href="inavigateasync-requestnavigate-method-mspp-regions.md">RequestNavigate(Uri, Action(Of NavigationResult), NavigationParameters)</a>
+    <a href="inavigateasync-requestnavigate-method-mspp-regions">RequestNavigate(Uri, Action(Of NavigationResult), NavigationParameters)</a>
   </td>
   <td>
     <div>
@@ -77,80 +77,80 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431082.pubextension(en-us,PandP.50).gif "Public Extension Method")
+![Public Extension Method](/images/pubextension.gif)
 </td>
 <td>
-<a href="navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions.md">RequestNavigate(String)</a>
+<a href="navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions">RequestNavigate(String)</a>
 </td>
 <td>Overloaded.<div>
 Initiates navigation to the target specified by the target</span>.
-</div> (Defined by <a href="navigationasyncextensions-class-mspp-regions.md">NavigationAsyncExtensions</a>.)</td>
+</div> (Defined by <a href="navigationasyncextensions-class-mspp-regions">NavigationAsyncExtensions</a>.)</td>
 </tr>
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431082.pubextension(en-us,PandP.50).gif "Public Extension Method")
+![Public Extension Method](/images/pubextension.gif)
 </td>
 <td>
-<a href="navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions.md">RequestNavigate(Uri)</a>
+<a href="navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions">RequestNavigate(Uri)</a>
 </td>
 <td>Overloaded.<div>
 Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a" target="_blank">Uri</a>.
-</div> (Defined by <a href="navigationasyncextensions-class-mspp-regions.md">NavigationAsyncExtensions</a>.)</td>
+</div> (Defined by <a href="navigationasyncextensions-class-mspp-regions">NavigationAsyncExtensions</a>.)</td>
 </tr>
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431082.pubextension(en-us,PandP.50).gif "Public Extension Method")
+![Public Extension Method](/images/pubextension.gif)
 </td>
 <td>
-<a href="navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions.md">RequestNavigate(String, Action(Of NavigationResult))</a>
+<a href="navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions">RequestNavigate(String, Action(Of NavigationResult))</a>
 </td>
 <td>Overloaded.<div>
 Initiates navigation to the target specified by the target.
-</div> (Defined by <a href="navigationasyncextensions-class-mspp-regions.md">NavigationAsyncExtensions</a>.)</td>
+</div> (Defined by <a href="navigationasyncextensions-class-mspp-regions">NavigationAsyncExtensions</a>.)</td>
 </tr>
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431082.pubextension(en-us,PandP.50).gif "Public Extension Method")
+![Public Extension Method](/images/pubextension.gif)
 </td>
 <td>
-<a href="navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions.md">RequestNavigate(Uri, NavigationParameters)</a>
+<a href="navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions">RequestNavigate(Uri, NavigationParameters)</a>
 </td>
 <td>Overloaded.<div>
 Initiates navigation to the target specified by the target.
-</div> (Defined by <a href="navigationasyncextensions-class-mspp-regions.md">NavigationAsyncExtensions</a>.)</td>
+</div> (Defined by <a href="navigationasyncextensions-class-mspp-regions">NavigationAsyncExtensions</a>.)</td>
 </tr>
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431082.pubextension(en-us,PandP.50).gif "Public Extension Method")
+![Public Extension Method](/images/pubextension.gif)
 </td>
 <td>
-<a href="navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions.md">RequestNavigate(String, NavigationParameters)</a>
+<a href="navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions">RequestNavigate(String, NavigationParameters)</a>
 </td>
 <td>Overloaded.<div>
 Initiates navigation to the target specified by the target.
-</div> (Defined by <a href="navigationasyncextensions-class-mspp-regions.md">NavigationAsyncExtensions</a>.)</td>
+</div> (Defined by <a href="navigationasyncextensions-class-mspp-regions">NavigationAsyncExtensions</a>.)</td>
 </tr>
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431082.pubextension(en-us,PandP.50).gif "Public Extension Method")
+![Public Extension Method](/images/pubextension.gif)
 </td>
 <td>
-<a href="navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions.md">RequestNavigate(String, Action(Of NavigationResult), NavigationParameters)</a>
+<a href="navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions">RequestNavigate(String, Action(Of NavigationResult), NavigationParameters)</a>
 </td>
 <td>Overloaded.<div>
 Initiates navigation to the target specified by the target.
-</div> (Defined by <a href="navigationasyncextensions-class-mspp-regions.md">NavigationAsyncExtensions</a>.)</td>
+</div> (Defined by <a href="navigationasyncextensions-class-mspp-regions">NavigationAsyncExtensions</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[INavigateAsync Interface](inavigateasync-interface-mspp-regions)
+[INavigateAsync Interface](/patterns-practices/reference/inavigateasync-interface-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

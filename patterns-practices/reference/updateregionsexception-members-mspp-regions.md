@@ -84,9 +84,9 @@ Allows an object to try to free resources and perform other cleanup operations b
 <td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/49kcee3b">GetBaseException</a></td>
 <td><div class="summary">
-When overridden in a derived class, returns the <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a> that is the root cause of one or more subsequent exceptions.
+When overridden in a derived class, returns the <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a> that is the root cause of one or more subsequent exceptions.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/images/public-method.gif)</td>
@@ -102,7 +102,7 @@ Serves as a hash function for a particular type.
 <td><div class="summary">
 When overridden in a derived class, sets the <a href="http://msdn.microsoft.com/en-us/library/a9b6042e">SerializationInfo</a> with information about the exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/images/public-method.gif)</td>
@@ -110,7 +110,7 @@ When overridden in a derived class, sets the <a href="http://msdn.microsoft.com/
 <td><div class="summary">
 Gets the runtime type of the current instance.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/images/protmethod.gif)</td>
@@ -126,7 +126,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 <td><div class="summary">
 Creates and returns a string representation of the current exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 </tbody>
 </table>
@@ -172,7 +172,7 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 <td><div class="summary">
 Gets a collection of key/value pairs that provide additional user-defined information about the exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/images/pubproperty.gif)</td>
@@ -180,7 +180,7 @@ Gets a collection of key/value pairs that provide additional user-defined inform
 <td><div class="summary">
 Gets or sets a link to the help file associated with this exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/images/pubproperty.gif)</td>
@@ -188,15 +188,15 @@ Gets or sets a link to the help file associated with this exception.
 <td><div class="summary">
 Gets or sets HRESULT, a coded numerical value that is assigned to a specific exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/902sca80">InnerException</a></td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a> instance that caused the current exception.
+Gets the <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a> instance that caused the current exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/images/pubproperty.gif)</td>
@@ -204,7 +204,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a
 <td><div class="summary">
 Gets a message that describes the current exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/images/pubproperty.gif)</td>
@@ -212,7 +212,7 @@ Gets a message that describes the current exception.
 <td><div class="summary">
 Gets or sets the name of the application or the object that causes the error.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/images/pubproperty.gif)</td>
@@ -220,7 +220,7 @@ Gets or sets the name of the application or the object that causes the error.
 <td><div class="summary">
 Gets a string representation of the immediate frames on the call stack.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/images/pubproperty.gif)</td>
@@ -228,7 +228,7 @@ Gets a string representation of the immediate frames on the call stack.
 <td><div class="summary">
 Gets the method that throws the current exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 </tbody>
 </table>
@@ -251,7 +251,7 @@ Gets the method that throws the current exception.
 <td><div class="summary">
 Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 </tbody>
 </table>

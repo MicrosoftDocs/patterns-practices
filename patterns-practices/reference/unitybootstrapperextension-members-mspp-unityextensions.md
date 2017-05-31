@@ -123,8 +123,8 @@ Returns a string that represents the current object.
 
 ||Name|Description|
 |----|----|----|
-|![](https://msdn.microsoft.com/en-us/Gg405526.pubproperty(en-us,PandP.50).gif "Public property")     | Container | (Inherited from UnityContainerExtension.) |
-| ![](https://msdn.microsoft.com/en-us/Gg405526.protproperty(en-us,PandP.50).gif "Protected property") | Context   | (Inherited from UnityContainerExtension.) |
+|![Public property](/images/pubproperty.gif)     | Container | (Inherited from UnityContainerExtension.) |
+| ![Protected property](/images/protproperty.gif) | Context   | (Inherited from UnityContainerExtension.) |
 
 ## See Also
 [UnityBootstrapperExtension Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension)

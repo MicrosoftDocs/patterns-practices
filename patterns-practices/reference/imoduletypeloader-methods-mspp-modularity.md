@@ -7,7 +7,7 @@ ms:mtpsurl: 'imoduletypeloader-methods-mspp-modularity.md'
 
 # IModuleTypeLoader Methods
 
-The [IModuleTypeLoader](imoduletypeloader-interface-mspp-modularity) type exposes the following members.
+The [IModuleTypeLoader](/patterns-practices/reference/imoduletypeloader-interface-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -28,24 +28,24 @@ The [IModuleTypeLoader](imoduletypeloader-interface-mspp-modularity) type expose
 <tr>
   <td>
  
- ![](images/public-method.gif "Public method")
+ ![](/images/public-method.gif "Public method")
   </td>
   <td>
- <a href="imoduletypeloader-canloadmoduletype-method-mspp-modularity.md">CanLoadModuleType</a>
+ <a href="imoduletypeloader-canloadmoduletype-method-mspp-modularity">CanLoadModuleType</a>
   </td>
   <td>
  <div>
-Evaluates the <a href="moduleinfo-ref-property-mspp-modularity.md">Ref</a> property to see if the current typeloader will be able to retrieve the <em>moduleInfo</em>.
+Evaluates the <a href="moduleinfo-ref-property-mspp-modularity">Ref</a> property to see if the current typeloader will be able to retrieve the <em>moduleInfo</em>.
 </div>
   </td>
 </tr>
 <tr>
   <td>
  
- ![](images/public-method.gif "Public method")
+ ![](/images/public-method.gif "Public method")
   </td>
   <td>
- <a href="imoduletypeloader-loadmoduletype-method-mspp-modularity.md">LoadModuleType</a>
+ <a href="imoduletypeloader-loadmoduletype-method-mspp-modularity">LoadModuleType</a>
   </td>
   <td>
  <div>
@@ -58,6 +58,6 @@ Retrieves the <em>moduleInfo</em>.
 
 ## See Also
 
-[IModuleTypeLoader Interface](imoduletypeloader-interface-mspp-modularity)
+[IModuleTypeLoader Interface](/patterns-practices/reference/imoduletypeloader-interface-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

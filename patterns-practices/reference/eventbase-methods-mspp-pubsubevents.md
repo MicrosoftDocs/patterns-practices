@@ -11,7 +11,7 @@ The [EventBase](https://msdn.microsoft.com/en-us/library/microsoft.practices.pri
 
 ## Methods
 
-The [EventBase](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase) type exposes the following members.
+The [EventBase](/patterns-practices/reference/mspp-mvvm-namespace.eventbase) type exposes the following members.
 
 ## Methods
 
@@ -33,9 +33,9 @@ The [EventBase](https://msdn.microsoft.com/library/microsoft.practices.prism.pub
 Returns <b>Truetrue</b> (<b>True</b> in Visual Basic) if there is a subscriber matching <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken">SubscriptionToken</a>.
 
 <td>![Public method](/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase.contains(microsoft.practices.prism.pubsubevents.subscriptiontoken)">Contains</a></td>
+<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventbase.contains(microsoft.practices.prism.pubsubevents.subscriptiontoken)">Contains</a></td>
 <td><div class="summary">
-Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matching <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken">SubscriptionToken</a>.
+Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matching <a href="/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken">SubscriptionToken</a>.
 </div></td>
 </tr>
 <tr class="even">
@@ -76,9 +76,9 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 <td><div class="summary">
 Calls all the execution strategies exposed by the list of <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription">IEventSubscription</a>.
 
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase.internalpublish(system.object%5b%5d)">InternalPublish</a></td>
+<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventbase.internalpublish(system.object%5b%5d)">InternalPublish</a></td>
 <td><div class="summary">
-Calls all the execution strategies exposed by the list of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription">IEventSubscription</a>.
+Calls all the execution strategies exposed by the list of <a href="/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription">IEventSubscription</a>.
 </div></td>
 </tr>
 <tr class="odd">
@@ -87,9 +87,9 @@ Calls all the execution strategies exposed by the list of <a href="https://msdn.
 <td><div class="summary">
 Adds the specified <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.ieventsubscription">IEventSubscription</a> to the subscribers' collection.
 
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase.internalsubscribe(microsoft.practices.prism.pubsubevents.ieventsubscription)">InternalSubscribe</a></td>
+<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventbase.internalsubscribe(microsoft.practices.prism.pubsubevents.ieventsubscription)">InternalSubscribe</a></td>
 <td><div class="summary">
-Adds the specified <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.ieventsubscription">IEventSubscription</a> to the subscribers' collection.
+Adds the specified <a href="/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription">IEventSubscription</a> to the subscribers' collection.
 </div></td>
 </tr>
 <tr class="even">
@@ -115,9 +115,9 @@ Returns a string that represents the current object.
 Removes the subscriber matching the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken">SubscriptionToken</a>.
 
 <td>![Public method](/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase.unsubscribe(microsoft.practices.prism.pubsubevents.subscriptiontoken)">Unsubscribe</a></td>
+<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventbase.unsubscribe(microsoft.practices.prism.pubsubevents.subscriptiontoken)">Unsubscribe</a></td>
 <td><div class="summary">
-Removes the subscriber matching the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.subscriptiontoken">SubscriptionToken</a>.
+Removes the subscriber matching the <a href="/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken">SubscriptionToken</a>.
 </div></td>
 </tr>
 </tbody>
@@ -129,6 +129,6 @@ Removes the subscriber matching the <a href="https://msdn.microsoft.com/library/
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents)
 
-[EventBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase)
+[EventBase Class](/patterns-practices/reference/mspp-mvvm-namespace.eventbase)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

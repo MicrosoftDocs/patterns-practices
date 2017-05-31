@@ -73,8 +73,8 @@ Initializes the exception with a particular module, error message and inner exce
 
 ## See Also
 
-[ModuleInitializeException Class](moduleinitializeexception-class-mspp-modularity)
+[ModuleInitializeException Class](/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity)
 
-[ModuleInitializeException Members](moduleinitializeexception-members-mspp-modularity)
+[ModuleInitializeException Members](/patterns-practices/reference/moduleinitializeexception-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

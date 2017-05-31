@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefregionnavigationjournal-methods-mspp-mefextensions-regions.md'
 
 # MefRegionNavigationJournal Methods
 
-The [MefRegionNavigationJournal](mefregionnavigationjournal-class-mspp-mefextensions-regions) type exposes the following members.
+The [MefRegionNavigationJournal](/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Methods
  
@@ -106,6 +106,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[MefRegionNavigationJournal Class](mefregionnavigationjournal-class-mspp-mefextensions-regions)
+[MefRegionNavigationJournal Class](/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regions)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
