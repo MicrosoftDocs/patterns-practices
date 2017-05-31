@@ -92,7 +92,7 @@ Represents a request from user interaction.
 <td>![Public interface](/images/public-interface.gif)</td>
 <td><a href="/patterns-practices/reference/iinteractionrequestaware-interface-mspp-interactivity-interactionrequest">IInteractionRequestAware</a></td>
 <td><div class="summary">
-Interface used by the <a href="/patterns-practices/reference/popupwindowaction-class-mspp-interactivity">PopupWindowAction</a>. If the DataContext object of a view that is shown with this action implements this interface it will be populated with the <a href="/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest">INotification</a> data of the interaction request as well as an <a href="http://msdn.microsoft.com/en-us/library/bb534741">Action</a> to finish the request upon invocation.
+Interface used by the <a href="/patterns-practices/reference/popupwindowaction-class-mspp-interactivity">PopupWindowAction</a>. If the DataContext object of a view that is shown with this action implements this interface it will be populated with the <a href="/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest">INotification</a> data of the interaction request as well as an [Action](http://msdn.microsoft.com/en-us/library/bb534741) to finish the request upon invocation.
 </div></td>
 </tr>
 <tr class="even">
