@@ -4,22 +4,32 @@ Title: 'MefSelectorItemsSourceSyncBehavior Constructor (Microsoft.Practices.Pris
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSelectorItemsSourceSyncBehavior.\#ctor'
 ms:mtpsurl: 'mefselectoritemssourcesyncbehavior-constructor-mspp-mefextensions-regions-behaviors.md'
 ---
-
+
 # MefSelectorItemsSourceSyncBehavior Constructor
 
-Initializes a new instance of the [MefSelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefselectoritemssourcesyncbehavior) class
+Initializes a new instance of the [MefSelectorItemsSourceSyncBehavior](/patterns-practices/reference/mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors) class
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public MefSelectorItemsSourceSyncBehavior()Public Sub New
+
+```C#
+public MefSelectorItemsSourceSyncBehavior()
+```
+
+```VB
+'Declaration
+Public Sub New
+```
 
 ## See Also
-[MefSelectorItemsSourceSyncBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefselectoritemssourcesyncbehavior)
 
-[MefSelectorItemsSourceSyncBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.behaviors.mefselectoritemssourcesyncbehavior)
+[MefSelectorItemsSourceSyncBehavior Class](/patterns-practices/reference/mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)
+[MefSelectorItemsSourceSyncBehavior Members](/patterns-practices/reference/mefselectoritemssourcesyncbehavior-members-mspp-mefextensions-regions-behaviors)
+
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
