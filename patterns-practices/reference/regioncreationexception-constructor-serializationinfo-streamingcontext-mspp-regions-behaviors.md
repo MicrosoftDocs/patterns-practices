@@ -7,9 +7,9 @@ ms:mtpsurl: 'regioncreationexception-constructor-mspp-regions-behaviors.md'
 
 # RegionCreationException Constructor (SerializationInfo, StreamingContext)
 
-Initializes a new instance of the [RegionCreationException](regioncreationexception-class-mspp-regions-behaviors) class with serialized data.
+Initializes a new instance of the [RegionCreationException](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors) class with serialized data.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -31,24 +31,27 @@ Protected Sub New (
 	context As StreamingContext
 )
 ```
-### Parameters
+
+### Parameters
 
 *info*
 
-    Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)<br/>
-    The [SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e) that holds the serialized object data about the exception being thrown.
+Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)<br/>
+
+The [SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e) that holds the serialized object data about the exception being thrown.
 
 *context*
-
-    Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5)
-    The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that contains contextual information about the source or destination.
+ 
+ Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5)
+ 
+ The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that contains contextual information about the source or destination.
 
 ## See Also
 
-[RegionCreationException Class](regioncreationexception-class-mspp-regions-behaviors)
+[RegionCreationException Class](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors)
 
-[RegionCreationException Members](regioncreationexception-members-mspp-regions-behaviors)
+[RegionCreationException Members](/patterns-practices/reference/regioncreationexception-members-mspp-regions-behaviors)
 
 RegionCreationException Overload
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
