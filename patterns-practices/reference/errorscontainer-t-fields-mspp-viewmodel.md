@@ -7,16 +7,16 @@ ms:mtpsurl: 'errorscontainer-t-fields-mspp-viewmodel.md'
 
 # ErrorsContainer&lt;T&gt; Fields
 
-The [ErrorsContainer&lt;T&gt;](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50)) type exposes the following members.
+The [ErrorsContainer&lt;T&gt;](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel) type exposes the following members.
 
 ## Fields
 
 |                                                                                                | Name                                                                                                                        | Description |
 |------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------|-------------|
-|  | [validationResults](https://msdn.microsoft.com/en-us/library/dn736157(v=pandp.50)) |             |
+|  | [validationResults](/patterns-practices/reference/errorscontainer-t-validationresults-field-mspp-viewmodel) |             |
 
 ## See Also
 
-[ErrorsContainer&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))
+[ErrorsContainer&lt;T&gt; Class](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)
