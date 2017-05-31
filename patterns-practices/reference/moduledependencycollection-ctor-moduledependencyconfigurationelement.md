@@ -8,7 +8,8 @@ ms:mtpsurl: 'moduledependencycollection-constructor-mspp-modularity.md'
 # ModuleDependencyCollection Constructor (ModuleDependencyConfigurationElement[])
 
 Initializes a new instance of [ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity).
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -40,7 +41,8 @@ ModuleDependencyCollection Overload
 # ModuleDependencyCollection Constructor (ModuleDependencyConfigurationElement())
 
 Initializes a new instance of [ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity).
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
