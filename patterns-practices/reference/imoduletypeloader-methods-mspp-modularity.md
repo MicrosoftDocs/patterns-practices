@@ -28,7 +28,7 @@ The [IModuleTypeLoader](/patterns-practices/reference/imoduletypeloader-interfac
 <tr>
   <td>
  
- ![](/images/public-method.gif "Public method")
+ ![](/patterns-practices/reference/images/public-method.gif "Public method")
   </td>
   <td>
  [CanLoadModuleType](/patterns-practices/reference/imoduletypeloader-canloadmoduletype-method-mspp-modularity)
@@ -42,7 +42,7 @@ Evaluates the [Ref](/patterns-practices/reference/moduleinfo-ref-property-mspp-m
 <tr>
   <td>
  
- ![](/images/public-method.gif "Public method")
+ ![](/patterns-practices/reference/images/public-method.gif "Public method")
   </td>
   <td>
  [LoadModuleType](/patterns-practices/reference/imoduletypeloader-loadmoduletype-method-mspp-modularity)

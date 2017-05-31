@@ -26,7 +26,7 @@ The [RegionNavigationEventArgs](/patterns-practices/reference/regionnavigationev
 <tr>
 <td>
 
-![](/images/public-method.gif "Public method")
+![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/bsc2ak47" target="_blank">Equals</a>
@@ -37,7 +37,7 @@ The [RegionNavigationEventArgs](/patterns-practices/reference/regionnavigationev
 <tr>
 <td>
 
-![Protected method](/images/protmethod.gif)
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/4k87zsw7" target="_blank">Finalize</a>
@@ -48,7 +48,7 @@ The [RegionNavigationEventArgs](/patterns-practices/reference/regionnavigationev
 <tr>
 <td>
 
-![](/images/public-method.gif "Public method")
+![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/zdee4b3y" target="_blank">GetHashCode</a>
@@ -59,7 +59,7 @@ The [RegionNavigationEventArgs](/patterns-practices/reference/regionnavigationev
 <tr>
 <td>
 
-![](/images/public-method.gif "Public method")
+![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/dfwy45w9" target="_blank">GetType</a>
@@ -70,7 +70,7 @@ The [RegionNavigationEventArgs](/patterns-practices/reference/regionnavigationev
 <tr>
 <td>
 
-![Protected method](/images/protmethod.gif)
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/57ctke0a" target="_blank">MemberwiseClone</a>
@@ -81,7 +81,7 @@ The [RegionNavigationEventArgs](/patterns-practices/reference/regionnavigationev
 <tr>
 <td>
 
-![](/images/public-method.gif "Public method")
+![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2" target="_blank">ToString</a>

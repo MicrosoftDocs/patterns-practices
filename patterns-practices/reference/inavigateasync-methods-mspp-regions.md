@@ -28,7 +28,7 @@ The [INavigateAsync](https://msdn.microsoft.com/library/microsoft.practices.pris
 <tr>
   <td>
 
-![](/images/public-method.gif "Public method")
+![](/patterns-practices/reference/images/public-method.gif "Public method")
     
   </td>
   <td>
@@ -43,7 +43,7 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
 <tr>
   <td>
 
-![](/images/public-method.gif "Public method")
+![](/patterns-practices/reference/images/public-method.gif "Public method")
   </td>
   <td>
     [RequestNavigate(Uri, Action(Of NavigationResult), NavigationParameters)](/patterns-practices/reference/inavigateasync-requestnavigate-method-mspp-regions)
@@ -77,7 +77,7 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
 <tr>
 <td>
 
-![Public Extension Method](/images/pubextension.gif)
+![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)
 </td>
 <td>
 [RequestNavigate(String)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)
@@ -89,7 +89,7 @@ Initiates navigation to the target specified by the target</span>.
 <tr>
 <td>
 
-![Public Extension Method](/images/pubextension.gif)
+![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)
 </td>
 <td>
 [RequestNavigate(Uri)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)
@@ -101,7 +101,7 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
 <tr>
 <td>
 
-![Public Extension Method](/images/pubextension.gif)
+![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)
 </td>
 <td>
 [RequestNavigate(String, Action(Of NavigationResult))](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)
@@ -113,7 +113,7 @@ Initiates navigation to the target specified by the target.
 <tr>
 <td>
 
-![Public Extension Method](/images/pubextension.gif)
+![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)
 </td>
 <td>
 [RequestNavigate(Uri, NavigationParameters)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)
@@ -125,7 +125,7 @@ Initiates navigation to the target specified by the target.
 <tr>
 <td>
 
-![Public Extension Method](/images/pubextension.gif)
+![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)
 </td>
 <td>
 [RequestNavigate(String, NavigationParameters)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)
@@ -137,7 +137,7 @@ Initiates navigation to the target specified by the target.
 <tr>
 <td>
 
-![Public Extension Method](/images/pubextension.gif)
+![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)
 </td>
 <td>
 [RequestNavigate(String, Action(Of NavigationResult), NavigationParameters)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)

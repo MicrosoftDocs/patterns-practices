@@ -28,7 +28,7 @@ The [MefRegionActiveAwareBehavior](/patterns-practices/reference/mefregionactive
 <tr>
 <td>
 
-![Public property](/images/pubproperty.gif)
+![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
 <td>
 <a href="/patterns-practices/reference/regionactiveawarebehavior-region-property-mspp-regions-behaviors">Region</a>

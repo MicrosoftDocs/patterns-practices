@@ -13,9 +13,9 @@ The [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism
 
 ||Name| Description |
 |----|----|----|
-| ![Public attached property](/images/pubproperty.gif) | [RegionContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regioncontext) |             |
-| ![Public attached property](/images/pubproperty.gif) | [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionmanager) |             |
-| ![Public attached property](/images/pubproperty.gif) | [RegionName](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionname)       |             |
+| ![Public attached property](/patterns-practices/reference/images/pubproperty.gif) | [RegionContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regioncontext) |             |
+| ![Public attached property](/patterns-practices/reference/images/pubproperty.gif) | [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionmanager) |             |
+| ![Public attached property](/patterns-practices/reference/images/pubproperty.gif) | [RegionName](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionname)       |             |
 
 ## See Also
 [RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)

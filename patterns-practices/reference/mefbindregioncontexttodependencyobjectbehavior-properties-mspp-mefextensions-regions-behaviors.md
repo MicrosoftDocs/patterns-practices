@@ -23,7 +23,7 @@ The [MefBindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior.region">Region</a></td>
 <td><div class="summary">
 Behavior's attached region.

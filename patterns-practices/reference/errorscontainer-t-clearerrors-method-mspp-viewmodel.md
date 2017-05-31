@@ -21,14 +21,14 @@ ms:mtpsurl: 'errorscontainer-t-clearerrors-method-mspp-viewmodel.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601.clearerrors%60%601(system.linq.expressions.expression%7bsystem.func%7b%60%600%7d%7d)">ClearErrors&lt;(Of &lt;(TProperty&gt;)&gt;)(Expression&lt;(Of &lt;(Func&lt;(Of &lt;(TProperty&gt;)&gt;)&gt;)&gt;))</a></td>
 <td><div class="summary">
 Clears the errors for the property indicated by the property expression.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601.clearerrors(system.string)">ClearErrors(String)</a></td>
 <td><div class="summary">
 Clears the errors for a property.

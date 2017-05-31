@@ -22,7 +22,7 @@ The [IDispatcherFacade](https://msdn.microsoft.com/library/microsoft.practices.p
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.events.idispatcherfacade.begininvoke(system.delegate%2csystem.object)">BeginInvoke</a></td>
 <td><div class="summary">
 Dispatches an invocation to the method received as parameter.

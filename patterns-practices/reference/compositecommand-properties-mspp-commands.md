@@ -22,7 +22,7 @@ The [CompositeCommand](/patterns-practices/reference/compositecommand-class-mspp
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand.registeredcommands">RegisteredCommands</a></td>
 <td><div class="summary">
 Gets the list of all the registered commands.

@@ -14,8 +14,8 @@ The [UnityBootstrapperExtension](https://msdn.microsoft.com/library/microsoft.pr
 
 |                                                                                                      | Name      | Description                               |
 |------------------------------------------------------------------------------------------------------|-----------|-------------------------------------------|
-| ![Public property](/images/pubproperty.gif)     | Container | (Inherited from UnityContainerExtension.) |
-| ![Protected property](/images/protproperty.gif) | Context   | (Inherited from UnityContainerExtension.) |
+| ![Public property](/patterns-practices/reference/images/pubproperty.gif)     | Container | (Inherited from UnityContainerExtension.) |
+| ![Protected property](/patterns-practices/reference/images/protproperty.gif) | Context   | (Inherited from UnityContainerExtension.) |
 
 ## See Also
 [UnityBootstrapperExtension Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension)
