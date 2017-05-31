@@ -4,7 +4,8 @@ Title: 'Bootstrapper.Run Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.Run'
 ms:mtpsurl: 'bootstrapper-run-method-boolean-mspp.md'
 ---
-
+
+
 # Bootstrapper.Run Method
 
 Runs the bootstrapper process.
@@ -15,13 +16,15 @@ Runs the bootstrapper process.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public void Run()Public Sub Run
+
+public void Run()Public Sub Run
 
 ## See Also
-[Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
 
-[Bootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.bootstrapper)
+[Bootstrapper Class](/patterns-practices/reference/bootstrapper-class-mspp)
 
-[Run Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.bootstrapper.run)
+[Bootstrapper Members](/patterns-practices/reference/bootstrapper-members-mspp)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[Run Overload](/patterns-practices/reference/bootstrapper-run-method-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
