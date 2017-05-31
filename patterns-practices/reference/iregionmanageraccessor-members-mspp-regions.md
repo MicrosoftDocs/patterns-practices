@@ -4,7 +4,8 @@ Title: 'IRegionManagerAccessor Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionManagerAccessor'
 ms:mtpsurl: 'iregionmanageraccessor-members-mspp-regions.md'
 ---
-
+
+
 # IRegionManagerAccessor Members
 
 The [IRegionManagerAccessor](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor) type exposes the following members.
@@ -63,6 +64,7 @@ Notification used by attached behaviors to update the region managers appropriat
 </table>
 
 ## See Also
-[IRegionManagerAccessor Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor)
+
+[IRegionManagerAccessor Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -4,7 +4,8 @@ Title: 'IRegionBehaviorCollection Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionBehaviorCollection'
 ms:mtpsurl: 'iregionbehaviorcollection-members-mspp-regions.md'
 ---
-
+
+
 # IRegionBehaviorCollection Members
 
 The [IRegionBehaviorCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection) type exposes the following members.
@@ -79,6 +80,7 @@ Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.r
 </table>
 
 ## See Also
-[IRegionBehaviorCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection)
+
+[IRegionBehaviorCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

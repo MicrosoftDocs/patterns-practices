@@ -4,8 +4,13 @@ Title: 'EventSubscription(TPayload) Methods (Microsoft.Practices.Prism.PubSubEve
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.EventSubscription\`1'
 ms:mtpsurl: 'eventsubscription-tpayload-methods-mspp-pubsubevents.md'
 ---
-
-# EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Methods
+
+# EventSubscription&lt;TPayload&gt; Methods
+
+The [EventSubscription&lt;TPayload&gt;](https://review.docs.microsoft.com/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents
+) type exposes the following members.
+
+## Methods
 
 The [EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601) type exposes the following members.
 
@@ -13,7 +18,6 @@ The [EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](/patterns-practices/refer
 
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -39,6 +43,9 @@ Allows an object to try to free resources and perform other cleanup operations b
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/eventsubscription-tpayload-getexecutionstrategy-method-mspp-pubsubevents
+">GetExecutionStrategy</a></td>
 <td>![Public method](/images/public-method.gif)</td>
 <td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601.getexecutionstrategy">GetExecutionStrategy</a></td>
 <td><div class="summary">
@@ -62,10 +69,13 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
+<td><img src="images/public-method.gif" title="Public method" /></td>
+<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/eventsubscription-tpayload-invokeaction-method-mspp-pubsubevents
+">InvokeAction</a></td>
 <td>![Public method](/images/public-method.gif)</td>
 <td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601.invokeaction(system.action%7b%600%7d%2c%600)">InvokeAction</a></td>
 <td><div class="summary">
-Invokes the specified <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;(Of &lt;(T&gt;)&gt;)</a> synchronously when not overridden.
+Invokes the specified <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;T&gt;</a> synchronously when not overridden.
 </div></td>
 </tr>
 <tr class="odd">
@@ -88,6 +98,10 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601)
+
+[EventSubscription&lt;TPayload&gt; Class](hhttps://review.docs.microsoft.com/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents
+)
+
+[EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

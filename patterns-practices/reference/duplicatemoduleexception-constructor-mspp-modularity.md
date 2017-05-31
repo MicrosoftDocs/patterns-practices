@@ -20,7 +20,6 @@ Initializes a new instance of the [DuplicateModuleException](/patterns-practices
 public DuplicateModuleException()
 ```
 
-## Syntax
 ```VB
 'Declaration
 Public Sub New

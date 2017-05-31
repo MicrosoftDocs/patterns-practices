@@ -4,7 +4,7 @@ Title: 'IRegionCollection Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionCollection'
 ms:mtpsurl: 'iregioncollection-members-mspp-regions.md'
 ---
-
+
 # IRegionCollection Members
 
 The [IRegionCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection) type exposes the following members.
@@ -134,6 +134,7 @@ Occurs when the collection changes.
 </table>
 
 ## See Also
-[IRegionCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection)
+
+[IRegionCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

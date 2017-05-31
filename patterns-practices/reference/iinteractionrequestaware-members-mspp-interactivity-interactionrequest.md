@@ -4,7 +4,8 @@ Title: 'IInteractionRequestAware Members (Microsoft.Practices.Prism.Interactivit
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.IInteractionRequestAware'
 ms:mtpsurl: 'iinteractionrequestaware-members-mspp-interactivity-interactionrequest.md'
 ---
-
+
+
 # IInteractionRequestAware Members
 
 The [IInteractionRequestAware](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware) type exposes the following members.
@@ -40,6 +41,7 @@ The <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.intera
 </table>
 
 ## See Also
-[IInteractionRequestAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware)
+
+[IInteractionRequestAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware)
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)

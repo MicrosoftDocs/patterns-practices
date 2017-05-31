@@ -19,8 +19,6 @@ Initializes a new instance of the [MefRegionAdapterMappings](/patterns-practices
 ```c#
 public MefRegionAdapterMappings()
 ```
-
-## Syntax
 ```VB
 'Declaration
 Public Sub New

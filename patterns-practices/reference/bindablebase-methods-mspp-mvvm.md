@@ -4,7 +4,8 @@ Title: 'BindableBase Methods (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Mvvm.BindableBase'
 ms:mtpsurl: 'bindablebase-methods-mspp-mvvm.md'
 ---
-
+
+
 # BindableBase Methods
 
 The [BindableBase](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase) type exposes the following members.
@@ -63,6 +64,9 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Dn736198.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/bindablebase-onpropertychanged-method-string-mspp-mvvm
+">OnPropertyChanged(String)</a></td>
 <td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase.onpropertychanged(system.string)">OnPropertyChanged(String)</a></td>
 <td><div class="summary">
@@ -70,6 +74,9 @@ Notifies listeners that a property value has changed.
 </div></td>
 </tr>
 <tr class="odd">
+<td><img src="https://msdn.microsoft.com/en-us/Dn736198.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/bindablebase-onpropertychanged-t-method-expression-func-t-mspp-mvvm
+">OnPropertyChanged(Of T)(Expression(Of Func(Of T)))</a></td>
 <td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase.onpropertychanged%60%601(system.linq.expressions.expression%7bsystem.func%7b%60%600%7d%7d)">OnPropertyChanged&lt;(Of &lt;(T&gt;)&gt;)(Expression&lt;(Of &lt;(Func&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;))</a></td>
 <td><div class="summary">
@@ -77,6 +84,8 @@ Raises this object's PropertyChanged event.
 </div></td>
 </tr>
 <tr class="even">
+<td><img src="https://msdn.microsoft.com/en-us/Dn736198.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/bindablebase-setproperty-t-method-mspp-mvvm)">SetProperty(Of T)</a></td>
 <td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase.setproperty%60%601(%60%600%40%2c%60%600%2csystem.string)">SetProperty&lt;(Of &lt;(T&gt;)&gt;)</a></td>
 <td><div class="summary">
@@ -95,6 +104,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[BindableBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase)
+
+[BindableBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase)
 
 [Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)

@@ -4,7 +4,8 @@ Title: 'PopupWindowAction Members (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.PopupWindowAction'
 ms:mtpsurl: 'popupwindowaction-members-mspp-interactivity.md'
 ---
-
+
+
 # PopupWindowAction Members
 
 The [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction) type exposes the following members.
@@ -600,6 +601,7 @@ Occurs when the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freez
 </table>
 
 ## See Also
-[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
+
+[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
