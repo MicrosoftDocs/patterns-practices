@@ -19,8 +19,17 @@ Initializes a new instance of the [RegionNavigationFailedEventArgs](/patterns-pr
 ## Syntax
 
 ~~~C#
+public RegionNavigationFailedEventArgs(
+	NavigationContext navigationContext,
+	Exception error
+)
 ~~~
 ~~~VB
+'Declaration
+Public Sub New ( 
+	navigationContext As NavigationContext,
+	error As Exception
+)
 ~~~
 ### Parameters
 
