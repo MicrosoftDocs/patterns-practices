@@ -31,11 +31,11 @@ The [IModuleTypeLoader](/patterns-practices/reference/imoduletypeloader-interfac
  ![](/images/public-method.gif "Public method")
   </td>
   <td>
- <a href="imoduletypeloader-canloadmoduletype-method-mspp-modularity">CanLoadModuleType</a>
+ [CanLoadModuleType](/patterns-practices/reference/imoduletypeloader-canloadmoduletype-method-mspp-modularity)
   </td>
   <td>
  <div>
-Evaluates the <a href="moduleinfo-ref-property-mspp-modularity">Ref</a> property to see if the current typeloader will be able to retrieve the <em>moduleInfo</em>.
+Evaluates the [Ref](/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity) property to see if the current typeloader will be able to retrieve the <em>moduleInfo</em>.
 </div>
   </td>
 </tr>
@@ -45,7 +45,7 @@ Evaluates the <a href="moduleinfo-ref-property-mspp-modularity">Ref</a> property
  ![](/images/public-method.gif "Public method")
   </td>
   <td>
- <a href="imoduletypeloader-loadmoduletype-method-mspp-modularity">LoadModuleType</a>
+ [LoadModuleType](/patterns-practices/reference/imoduletypeloader-loadmoduletype-method-mspp-modularity)
   </td>
   <td>
  <div>
