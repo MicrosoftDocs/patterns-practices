@@ -4,11 +4,8 @@ Title: 'InteractionRequestedEventArgs Class (Microsoft.Practices.Prism.Interacti
 ms:assetid: 'T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestedEventArgs'
 ms:mtpsurl: 'interactionrequestedeventargs-class-mspp-interactivity-interactionrequest.md'
 ---
-
-Prism Class Library
-
-InteractionRequestedEventArgs Class
-===================================
+
+# InteractionRequestedEventArgs Class
 
 Event args for the [Raised](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest.raised) event.
 
@@ -18,21 +15,15 @@ Event args for the [Raised](https://msdn.microsoft.com/library/microsoft.practic
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public class InteractionRequestedEventArgs : EventArgsPublic Class InteractionRequestedEventArgs Inherits EventArgs
 
+## Inheritance Hierarchy
 
-public class InteractionRequestedEventArgs : EventArgsPublic Class InteractionRequestedEventArgs Inherits EventArgs
-
-Inheritance Hierarchy
----------------------
-
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
     Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestedEventArgs
 
-See Also
---------
-
-
-[InteractionRequestedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)
+## See Also
+[InteractionRequestedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)

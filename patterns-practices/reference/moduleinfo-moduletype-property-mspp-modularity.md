@@ -9,7 +9,7 @@ ms:mtpsurl: 'moduleinfo-moduletype-property-mspp-modularity.md'
 
 Gets or sets the module [Type](http://msdn.microsoft.com/en-us/library/42892f65)'s AssemblyQualifiedName.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -38,8 +38,8 @@ The type of the module.
 
 ## See Also
 
-[ModuleInfo Class](moduleinfo-class-mspp-modularity.md)
+[ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
 
-[ModuleInfo Members](moduleinfo-members-mspp-modularity.md)
+[ModuleInfo Members](/patterns-practices/reference/moduleinfo-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

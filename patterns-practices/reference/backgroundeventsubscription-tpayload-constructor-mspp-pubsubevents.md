@@ -4,11 +4,12 @@ Title: 'BackgroundEventSubscription(TPayload) Constructor (Microsoft.Practices.P
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.BackgroundEventSubscription\`1.\#ctor(Microsoft.Practices.Prism.PubSubEvents.IDelegateReference,Microsoft.Practices.Prism.PubSubEvents.IDelegateReference)'
 ms:mtpsurl: 'backgroundeventsubscription-tpayload-constructor-mspp-pubsubevents.md'
 ---
+
 # BackgroundEventSubscription&lt;TPayload&gt; Constructor 
 
 Creates a new instance of [BackgroundEventSubscription&lt;TPayload&gt;](https://msdn.microsoft.com/en-us/library/dn683933(v=pandp.50)).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -25,12 +26,12 @@ public BackgroundEventSubscription(
 
 *actionReference*
 
-Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50))
+Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)
 
 A reference to a delegate of type [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8).
 
 *filterReference*  
-Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50))
+Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)
 
 A reference to a delegate of type [Predicate&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz).
 
@@ -47,13 +48,13 @@ A reference to a delegate of type [Predicate&lt;T&gt;](http://msdn.microsoft.com
 
 BackgroundEventSubscription&lt;TPayload&gt; Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
 
 # BackgroundEventSubscription(Of TPayload) Constructor
 
 Creates a new instance of [BackgroundEventSubscription(Of TPayload) ](https://msdn.microsoft.com/en-us/library/dn683933(v=pandp.50)).
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -71,12 +72,12 @@ Public Sub New (
 
 *actionReference*
 
-Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50))
+Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)
 
 A reference to a delegate of type [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8).
 
 *filterReference*  
-Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.idelegatereference(v=pandp.50))
+Type: [Microsoft.Practices.Prism.PubSubEvents.IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)
 
 A reference to a delegate of type [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz).
 
@@ -93,4 +94,4 @@ A reference to a delegate of type [Predicate(Of T)](http://msdn.microsoft.com/en
 
 BackgroundEventSubscription(Of TPayload)  Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents(v=pandp.50))
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)

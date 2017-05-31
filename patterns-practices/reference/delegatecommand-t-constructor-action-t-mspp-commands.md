@@ -5,40 +5,79 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand\`1.\#ctor(Syst
 ms:mtpsurl: 'delegatecommand-t-constructor-action-t-mspp-commands.md'
 ---
 
-Prism Class Library
+# DelegateCommand(Of T) Constructor (Action(Of T))
 
-DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Constructor (Action&lt;(Of &lt;(T&gt;)&gt;))
-====================================================================================
+Initializes a new instance of [DelegateCommand(Of T)](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)).
 
-Initializes a new instance of [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601).
+**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-
-
-public DelegateCommand( Action&lt;T&gt; executeMethod )Public Sub New ( executeMethod As Action(Of T) )
+```VB
+'Declaration
+Public Sub New ( 
+	executeMethod As Action(Of T)
+)
+```
 
 ### Parameters
 
-executeMethod  
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([T](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)&gt;)&gt;)
+*executeMethod* 
+
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [T](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)))
+
 Delegate to execute when Execute is called on the command. This can be null to just hook up a CanExecute delegate.
 
-Remarks
--------
+## Remarks
+[CanExecute(T)](https://msdn.microsoft.com/en-us/library/gg405763(v=pandp.50)) will always return true.
 
-[CanExecute(T)](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601.canexecute(%600)) will always return true.
+## See Also
+[DelegateCommand(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50))
 
-See Also
---------
+[DelegateCommand(Of T) Members](https://msdn.microsoft.com/en-us/library/gg430763(v=pandp.50))
 
+DelegateCommand(Of T) Overload
 
-[DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)
+[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
 
-[DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand%601)
+---------------------------------------------------------
 
-[DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.commands.delegatecommand%601.)
+# DelegateCommand&lt;T&gt; Constructor (Action&lt;T&gt;)
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+Initializes a new instance of [DelegateCommand&lt;T&gt;](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)).
+
+**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
+
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
+
+**Version:** 1.0.0.0 (1.0.0.0)
+
+## Syntax
+```C#
+public DelegateCommand(
+	Action<T> executeMethod
+)
+
+```
+### Parameters
+
+*executeMethod* 
+
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [T](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)))
+
+Delegate to execute when Execute is called on the command. This can be null to just hook up a CanExecute delegate.
+
+## Remarks
+[CanExecute(T)](https://msdn.microsoft.com/en-us/library/gg405763(v=pandp.50)) will always return true.
+
+## See Also
+[DelegateCommand&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50))
+
+[DelegateCommand&lt;T&gt; Members](https://msdn.microsoft.com/en-us/library/gg430763(v=pandp.50))
+
+DelegateCommand&lt;T&gt; Overload
+
+[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))

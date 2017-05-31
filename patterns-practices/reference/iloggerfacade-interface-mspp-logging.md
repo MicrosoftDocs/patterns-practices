@@ -9,7 +9,7 @@ ms:mtpsurl: 'iloggerfacade-interface-mspp-logging.md'
 
 Defines a simple logger façade to be used by the Prism Library.
 
-**Namespace:** [Microsoft.Practices.Prism.Logging](mspp-logging-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Logging](/patterns-practices/reference/mspp-logging-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,6 +28,6 @@ Public Interface ILoggerFacade
 
 ## See Also
 
-[ILoggerFacade Members](iloggerfacade-members-mspp-logging.md)
+[ILoggerFacade Members](/patterns-practices/reference/iloggerfacade-members-mspp-logging)
 
-[Microsoft.Practices.Prism.Logging Namespace](mspp-logging-namespace.md)
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)

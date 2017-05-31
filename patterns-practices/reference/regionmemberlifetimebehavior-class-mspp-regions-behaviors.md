@@ -4,11 +4,8 @@ Title: 'RegionMemberLifetimeBehavior Class (Microsoft.Practices.Prism.Regions.Be
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior'
 ms:mtpsurl: 'regionmemberlifetimebehavior-class-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionMemberLifetimeBehavior Class
-==================================
+
+# RegionMemberLifetimeBehavior Class
 
 The RegionMemberLifetimeBehavior determines if items should be removed from the [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) when they are deactivated.
 
@@ -18,12 +15,9 @@ The RegionMemberLifetimeBehavior determines if items should be removed from the 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public class RegionMemberLifetimeBehavior : RegionBehaviorPublic Class RegionMemberLifetimeBehavior Inherits RegionBehavior
 
-
-public class RegionMemberLifetimeBehavior : RegionBehaviorPublic Class RegionMemberLifetimeBehavior Inherits RegionBehavior
-
-Remarks
--------
+## Remarks
 
  The RegionMemberLifetimeBehavior monitors the [ActiveViews](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.activeviews) collection to discover items that transition into a deactivated state.
 
@@ -37,18 +31,14 @@ The order of checks are:
 3.  Region Item's RegionMemberLifetimeAttribute.KeepAlive value.
 4.  Region Item's DataContext's RegionMemberLifetimeAttribute.KeepAlive value.
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Regions.RegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
     Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior
       [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionMemberLifetimeBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmemberlifetimebehavior)
 
-See Also
---------
-
-
-[RegionMemberLifetimeBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior)
+## See Also
+[RegionMemberLifetimeBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

@@ -4,18 +4,14 @@ Title: 'ViewsCollection Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.ViewsCollection'
 ms:mtpsurl: 'viewscollection-events-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ViewsCollection Events
-======================
+
+# ViewsCollection Events
 
 The [ViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection) type exposes the following members.
 
-Events
-------
+## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,7 +23,7 @@ Events
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430911.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection.collectionchanged">CollectionChanged</a></td>
 <td><div class="summary">
 Occurs when the collection changes.
@@ -36,10 +32,7 @@ Occurs when the collection changes.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ViewsCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection)
+## See Also
+[ViewsCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -4,18 +4,14 @@ Title: 'NavigationContext Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.NavigationContext'
 ms:mtpsurl: 'navigationcontext-properties-mspp-regions.md'
 ---
-
-Prism Class Library
-
-NavigationContext Properties
-============================
+
+# NavigationContext Properties
 
 The [NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext) type exposes the following members.
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,21 +23,21 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431206.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.navigationservice">NavigationService</a></td>
 <td><div class="summary">
 Gets the region navigation service.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431206.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.parameters">Parameters</a></td>
 <td><div class="summary">
 Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters">NavigationParameters</a> extracted from the URI and the object parameters passed in navigation.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431206.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.uri">Uri</a></td>
 <td><div class="summary">
 Gets the navigation URI.
@@ -50,10 +46,7 @@ Gets the navigation URI.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
+## See Also
+[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

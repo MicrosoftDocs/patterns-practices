@@ -4,14 +4,12 @@ Title: 'DuplicateModuleException Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.DuplicateModuleException'
 ms:mtpsurl: 'duplicatemoduleexception-class-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # DuplicateModuleException Class
 
 Exception thrown when a module is declared twice in the same catalog.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -34,12 +32,12 @@ Public Class DuplicateModuleException
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-  [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)<br/>
-    [Microsoft.Practices.Prism.Modularity.ModularityException](modularityexception-class-mspp-modularity.md)<br/>
+  [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)<br/>
+    [Microsoft.Practices.Prism.Modularity.ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity)<br/>
       Microsoft.Practices.Prism.Modularity.DuplicateModuleException
 
 ## See Also
 
-[DuplicateModuleException Members](duplicatemoduleexception-members-mspp-modularity.md)
+[DuplicateModuleException Members](/patterns-practices/reference/duplicatemoduleexception-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

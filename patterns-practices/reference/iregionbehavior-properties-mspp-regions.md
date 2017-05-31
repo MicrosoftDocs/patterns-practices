@@ -4,16 +4,12 @@ Title: 'IRegionBehavior Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionBehavior'
 ms:mtpsurl: 'iregionbehavior-properties-mspp-regions.md'
 ---
+
+# IRegionBehavior Properties
 
-Prism Class Library
+The [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions) type exposes the following members.
 
-IRegionBehavior Properties
-==========================
-
-The [IRegionBehavior](iregionbehavior-interface-mspp-regions.md) type exposes the following members.
-
-Properties
-----------
+## Properties
 
 <table>
 
@@ -26,7 +22,7 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431196.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior.region">Region</a></td>
 <td><div class="summary">
 The region that this behavior is extending.
@@ -35,10 +31,7 @@ The region that this behavior is extending.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
+[IRegionBehavior Interface](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)
 
-
-[IRegionBehavior Interface](iregionbehavior-interface-mspp-regions.md)
-
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

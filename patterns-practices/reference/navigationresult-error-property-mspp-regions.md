@@ -4,11 +4,8 @@ Title: 'NavigationResult.Error Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.NavigationResult.Error'
 ms:mtpsurl: 'navigationresult-error-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-NavigationResult.Error Property
-===================================
+
+# NavigationResult.Error Property
 
 Gets an exception that occurred while navigating.
 
@@ -18,19 +15,14 @@ Gets an exception that occurred while navigating.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public Exception Error { get; }Public ReadOnly Property Error As Exception Get
+public Exception Error { get; }Public ReadOnly Property Error As Exception Get
 ### Property Value
 
-Type: [Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
+Type: [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
 The exception.
 
-See Also
---------
-
-
-[NavigationResult Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult)
+## See Also
+[NavigationResult Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult)
 
 [NavigationResult Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationresult)
 

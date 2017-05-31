@@ -4,18 +4,14 @@ Title: 'IHostAwareRegionBehavior Properties (Microsoft.Practices.Prism.Regions.B
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.IHostAwareRegionBehavior'
 ms:mtpsurl: 'ihostawareregionbehavior-properties-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-IHostAwareRegionBehavior Properties
-===================================
+
+# IHostAwareRegionBehavior Properties
 
 The [IHostAwareRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior) type exposes the following members.
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,14 +23,14 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431187.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior.hostcontrol">HostControl</a></td>
 <td><div class="summary">
 Gets or sets the <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a> that the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion">IRegion</a> is attached to.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431187.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior.region">Region</a></td>
 <td><div class="summary">
 The region that this behavior is extending.
@@ -44,10 +40,7 @@ The region that this behavior is extending.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IHostAwareRegionBehavior Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior)
+## See Also
+[IHostAwareRegionBehavior Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

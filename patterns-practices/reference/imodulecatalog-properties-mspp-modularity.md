@@ -4,18 +4,14 @@ Title: 'IModuleCatalog Properties (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.IModuleCatalog'
 ms:mtpsurl: 'imodulecatalog-properties-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-IModuleCatalog Properties
-=========================
+
+# IModuleCatalog Properties
 
 The [IModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog) type exposes the following members.
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,7 +23,7 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431162.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog.modules">Modules</a></td>
 <td><div class="summary">
 Gets all the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a> classes that are in the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog">ModuleCatalog</a>.
@@ -36,10 +32,7 @@ Gets all the <a href="https://msdn.microsoft.com/library/microsoft.practices.pri
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IModuleCatalog Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog)
+## See Also
+[IModuleCatalog Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

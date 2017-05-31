@@ -4,16 +4,12 @@ Title: 'IRegionCollection Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionCollection'
 ms:mtpsurl: 'iregioncollection-properties-mspp-regions.md'
 ---
+
+# IRegionCollection Properties
 
-Prism Class Library
+The [IRegionCollection](/patterns-practices/reference/iregioncollection-interface-mspp-regions) type exposes the following members.
 
-IRegionCollection Properties
-============================
-
-The [IRegionCollection](iregioncollection-interface-mspp-regions.md) type exposes the following members.
-
-Properties
-----------
+## Properties
 
 <table>
 
@@ -26,7 +22,7 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431198.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection.item(system.string)">Item</a></td>
 <td><div class="summary">
 Gets the IRegion with the name received as index.
@@ -35,10 +31,7 @@ Gets the IRegion with the name received as index.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
+[IRegionCollection Interface](/patterns-practices/reference/iregioncollection-interface-mspp-regions)
 
-
-[IRegionCollection Interface](iregioncollection-interface-mspp-regions.md)
-
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

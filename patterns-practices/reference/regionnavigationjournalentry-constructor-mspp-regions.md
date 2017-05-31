@@ -5,29 +5,31 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry.\#
 ms:mtpsurl: 'regionnavigationjournalentry-constructor-mspp-regions.md'
 ---
 
-Prism Class Library
 
-RegionNavigationJournalEntry Constructor
-========================================
+# RegionNavigationJournalEntry Constructor
 
-Initializes a new instance of the [RegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry) class
+Initializes a new instance of the [RegionNavigationJournalEntry](/patterns-practices/reference/regionnavigationjournalentry-class-mspp-regions) class
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+~~~C#
+public RegionNavigationJournalEntry()
+~~~
+~~~VB
+'Declaration
+Public Sub New
+~~~
 
-public RegionNavigationJournalEntry()Public Sub New
+## See Also
 
-See Also
---------
+[RegionNavigationJournalEntry Class](/patterns-practices/reference/regionnavigationjournalentry-class-mspp-regions)
 
+[RegionNavigationJournalEntry Members](/patterns-practices/reference/regionnavigationjournalentry-members-mspp-regions)
 
-[RegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry)
-
-[RegionNavigationJournalEntry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationjournalentry)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

@@ -5,29 +5,31 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.AssemblyResolver.\#ctor'
 ms:mtpsurl: 'assemblyresolver-constructor-mspp-modularity.md'
 ---
 
-Prism Class Library
 
-AssemblyResolver Constructor
-============================
+# AssemblyResolver Constructor
 
-Initializes a new instance of the [AssemblyResolver](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver) class
+Initializes a new instance of the [AssemblyResolver](/patterns-practices/reference/assemblyresolver-class-mspp-modularity) class
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+```C#
+public AssemblyResolver()
+```
+```VB
+'Declaration
+Public Sub New
+```
 
-public AssemblyResolver()Public Sub New
+## See Also
 
-See Also
---------
+[AssemblyResolver Class](/patterns-practices/reference/assemblyresolver-class-mspp-modularity)
 
+[AssemblyResolver Members](/patterns-practices/reference/assemblyresolver-members-mspp-modularity)
 
-[AssemblyResolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver)
-
-[AssemblyResolver Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.assemblyresolver)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

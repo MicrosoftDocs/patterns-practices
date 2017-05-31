@@ -5,29 +5,49 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ObservableObject\`1.\#ctor'
 ms:mtpsurl: 'observableobject-t-constructor-mspp.md'
 ---
 
-Prism Class Library
+# ObservableObject&lt;T&gt; Constructor
 
-ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Constructor
-====================================================
+Initializes a new instance of the [ObservableObject&lt;T&gt;](/patterns-practices/reference/observableobject-t-class-mspp) class
 
-Initializes a new instance of the [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601) class
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-modularity-namespace)
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+```C#
+public ObservableObject()
+```
 
+## See Also
 
-public ObservableObject()Public Sub New
+[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)
 
-See Also
---------
+[ObservableObject&lt;T&gt; Members](ht/patterns-practices/reference/observableobject-t-members-mspp)
 
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-modularity-namespace)
 
-[ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601)
+# ObservableObject(Of T) Constructor
 
-[ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.observableobject%601)
+Initializes a new instance of the [ObservableObject(Of T)](/patterns-practices/reference/observableobject-t-class-mspp) class
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-modularity-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+```VB
+'Declaration
+Public Sub New
+```
+
+## See Also
+
+[ObservableObject(Of T) Class](/patterns-practices/reference/observableobject-t-class-mspp)
+
+[ObservableObject(Of T) Members](ht/patterns-practices/reference/observableobject-t-members-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-modularity-namespace)

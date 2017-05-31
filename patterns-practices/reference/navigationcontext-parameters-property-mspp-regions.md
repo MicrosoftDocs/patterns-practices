@@ -4,11 +4,8 @@ Title: 'NavigationContext.Parameters Property (Microsoft.Practices.Prism.Regions
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.NavigationContext.Parameters'
 ms:mtpsurl: 'navigationcontext-parameters-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-NavigationContext.Parameters Property
-=========================================
+
+# NavigationContext.Parameters Property
 
 Gets the [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters) extracted from the URI and the object parameters passed in navigation.
 
@@ -18,19 +15,14 @@ Gets the [NavigationParameters](https://msdn.microsoft.com/library/microsoft.pra
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public NavigationParameters Parameters { get; }Public ReadOnly Property Parameters As NavigationParameters Get
+public NavigationParameters Parameters { get; }Public ReadOnly Property Parameters As NavigationParameters Get
 ### Property Value
 
 Type: [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
 The URI query.
 
-See Also
---------
-
-
-[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
+## See Also
+[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 
 [NavigationContext Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationcontext)
 

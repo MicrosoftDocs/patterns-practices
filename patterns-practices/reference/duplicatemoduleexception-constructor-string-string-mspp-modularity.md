@@ -5,41 +5,48 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.DuplicateModuleException.\#c
 ms:mtpsurl: 'duplicatemoduleexception-constructor-mspp-modularity.md'
 ---
 
-Prism Class Library
 
-DuplicateModuleException Constructor (String, String)
-=====================================================
+# DuplicateModuleException Constructor (String, String)
 
-Initializes a new instance of the [DuplicateModuleException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception) class with a specified error message.
+Initializes a new instance of the [DuplicateModuleException](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity) class with a specified error message.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+```C#
+public DuplicateModuleException( string moduleName, string message )
+```
 
-public DuplicateModuleException( string moduleName, string message )Public Sub New ( moduleName As String, message As String )
+```VB
+'Declaration
+Public Sub New ( moduleName As String, message As String )
+```
 
 ### Parameters
 
-moduleName  
+*moduleName*
+
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+
 The name of the module.
 
-message  
+*message*
+
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+
 The message that describes the error.
 
-See Also
---------
+## See Also
 
+[DuplicateModuleException Class](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity)
 
-[DuplicateModuleException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception)
+[DuplicateModuleException Members](/patterns-practices/reference/duplicatemoduleexception-members-mspp-modularity)
 
-[DuplicateModuleException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.duplicatemoduleexception)
+DuplicateModuleException Overload
 
-[DuplicateModuleException Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.duplicatemoduleexception.)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

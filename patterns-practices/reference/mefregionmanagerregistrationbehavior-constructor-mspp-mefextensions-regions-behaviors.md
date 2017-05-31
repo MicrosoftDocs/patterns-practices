@@ -5,29 +5,31 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegi
 ms:mtpsurl: 'mefregionmanagerregistrationbehavior-constructor-mspp-mefextensions-regions-behaviors.md'
 ---
 
-Prism Class Library
+# MefRegionManagerRegistrationBehavior Constructor
 
-MefRegionManagerRegistrationBehavior Constructor
-================================================
+Initializes a new instance of the [MefRegionManagerRegistrationBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmanagerregistrationbehavior(v=pandp.50)) class
 
-Initializes a new instance of the [MefRegionManagerRegistrationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmanagerregistrationbehavior) class
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors(v=pandp.50))
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+```C#
+public MefRegionManagerRegistrationBehavior()
+```
 
-public MefRegionManagerRegistrationBehavior()Public Sub New
+```VB
+'Declaration
+Public Sub New
+```
 
-See Also
---------
+## See Also
 
+[MefRegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmanagerregistrationbehavior(v=pandp.50))
 
-[MefRegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmanagerregistrationbehavior)
+[MefRegionManagerRegistrationBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmanagerregistrationbehavior_members(v=pandp.50))
 
-[MefRegionManagerRegistrationBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.behaviors.mefregionmanagerregistrationbehavior)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors(v=pandp.50))

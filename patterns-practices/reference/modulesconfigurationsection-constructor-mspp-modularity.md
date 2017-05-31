@@ -5,29 +5,31 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModulesConfigurationSection.
 ms:mtpsurl: 'modulesconfigurationsection-constructor-mspp-modularity.md'
 ---
 
-Prism Class Library
+# ModulesConfigurationSection Constructor
 
-ModulesConfigurationSection Constructor
-=======================================
+Initializes a new instance of the [ModulesConfigurationSection](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity) class
 
-Initializes a new instance of the [ModulesConfigurationSection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection) class
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+```C#
+public ModulesConfigurationSection()
+```
 
-public ModulesConfigurationSection()Public Sub New
+```VB
+'Declaration
+Public Sub New
+```
 
-See Also
---------
+## See Also
 
+[ModulesConfigurationSection Class](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity)
 
-[ModulesConfigurationSection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection)
+[ModulesConfigurationSection Members](/patterns-practices/reference/modulesconfigurationsection-members-mspp-modularity)
 
-[ModulesConfigurationSection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulesconfigurationsection)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

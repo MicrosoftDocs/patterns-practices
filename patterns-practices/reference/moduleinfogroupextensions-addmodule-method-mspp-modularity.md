@@ -4,16 +4,12 @@ Title: 'ModuleInfoGroupExtensions.AddModule Method (Microsoft.Practices.Prism.Mo
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleInfoGroupExtensions.AddModule'
 ms:mtpsurl: 'addmodule-mthd-moduleinfogroup-str-type-str.md'
 ---
+
+# ModuleInfoGroupExtensions.AddModule Method
 
-Prism Class Library
+## Overload List
 
-ModuleInfoGroupExtensions.AddModule Method
-==============================================
 
-Overload List
--------------
-
-<span id="overloadMembersTableToggle"></span>
 <table>
 
 <thead>
@@ -25,14 +21,14 @@ Overload List
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg419103.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroupextensions.addmodule(microsoft.practices.prism.modularity.moduleinfogroup%2csystem.type%2csystem.string%5b%5d)">AddModule(ModuleInfoGroup, Type, array&lt;String&gt;)</a></td>
 <td><div class="summary">
 Adds a new module that is statically referenced to the specified module info group.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg419103.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroupextensions.addmodule(microsoft.practices.prism.modularity.moduleinfogroup%2csystem.string%2csystem.type%2csystem.string%5b%5d)">AddModule(ModuleInfoGroup, String, Type, array&lt;String&gt;)</a></td>
 <td><div class="summary">
 Adds a new module that is statically referenced to the specified module info group.
@@ -41,11 +37,8 @@ Adds a new module that is statically referenced to the specified module info gro
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleInfoGroupExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroupextensions)
+## See Also
+[ModuleInfoGroupExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroupextensions)
 
 [ModuleInfoGroupExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroupextensions)
 

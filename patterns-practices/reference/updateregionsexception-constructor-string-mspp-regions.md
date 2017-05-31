@@ -5,37 +5,47 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.UpdateRegionsException.\#ctor(S
 ms:mtpsurl: 'updateregionsexception-constructor-mspp-regions.md'
 ---
 
-Prism Class Library
 
-UpdateRegionsException Constructor (String)
-===========================================
+# UpdateRegionsException Constructor (String)
 
-Initializes a new instance of the [UpdateRegionsException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception) class with a specified error message.
+Initializes a new instance of the [UpdateRegionsException](/patterns-practices/reference/updateregionsexception-class-mspp-regions) class with a specified error message.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public UpdateRegionsException( string message )Public Sub New ( message As String )
+~~~C#
+public UpdateRegionsException(
+	string message
+)
+~~~
+~~~VB
+'Declaration
+Public Sub New ( 
+	message As String
+)
+~~~
 
 ### Parameters
 
-message  
+*message*
+
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+
 The message that describes the error.
 
-See Also
---------
+## See Also
 
+[UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions
+)
 
-[UpdateRegionsException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception)
+[UpdateRegionsException Members](/patterns-practices/reference/updateregionsexception-members-mspp-regions
+)
 
-[UpdateRegionsException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.updateregionsexception)
+UpdateRegionsException Overload
 
-[UpdateRegionsException Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.regions.updateregionsexception.)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace
+)

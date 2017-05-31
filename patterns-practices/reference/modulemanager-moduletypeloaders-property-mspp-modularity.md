@@ -4,11 +4,8 @@ Title: 'ModuleManager.ModuleTypeLoaders Property (Microsoft.Practices.Prism.Modu
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleManager.ModuleTypeLoaders'
 ms:mtpsurl: 'modulemanager-moduletypeloaders-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleManager.ModuleTypeLoaders Property
-============================================
+
+# ModuleManager.ModuleTypeLoaders Property
 
 Returns the list of registered [IModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader) instances that will be used to load the types of modules.
 
@@ -18,19 +15,14 @@ Returns the list of registered [IModuleTypeLoader](https://msdn.microsoft.com/li
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public virtual IEnumerable&lt;IModuleTypeLoader&gt; ModuleTypeLoaders { get; set; }Public Overridable Property ModuleTypeLoaders As IEnumerable(Of IModuleTypeLoader) Get Set
+public virtual IEnumerable&lt;IModuleTypeLoader&gt; ModuleTypeLoaders { get; set; }Public Overridable Property ModuleTypeLoaders As IEnumerable(Of IModuleTypeLoader) Get Set
 ### Property Value
 
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([IModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader)&gt;)&gt;)
 The module type loaders.
 
-See Also
---------
-
-
-[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
+## See Also
+[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
 
 [ModuleManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulemanager)
 

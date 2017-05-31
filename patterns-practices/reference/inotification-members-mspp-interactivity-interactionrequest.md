@@ -5,17 +5,14 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InteractionReq
 ms:mtpsurl: 'inotification-members-mspp-interactivity-interactionrequest.md'
 ---
 
-Prism Class Library
 
-INotification Members
-=====================
+# INotification Members
 
 The [INotification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification) type exposes the following members.
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,14 +24,14 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741410.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification.content">Content</a></td>
 <td><div class="summary">
 Gets or sets the content of the notification.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn741410.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification.title">Title</a></td>
 <td><div class="summary">
 Gets or sets the title to use for the notification.
@@ -43,9 +40,7 @@ Gets or sets the title to use for the notification.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [INotification Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification)
 

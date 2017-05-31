@@ -5,13 +5,12 @@ ms:assetid: 'N:Microsoft.Practices.Prism.MefExtensions.Modularity'
 ms:mtpsurl: 'mspp-mefextensions-modularity-namespace.md'
 ---
 
-Prism Class Library
 
 # Microsoft.Practices.Prism.MefExtensions.Modularity Namespace
 
 Classes
 
-<span id="classToggle"></span>
+
 <table>
 
 <thead>
@@ -23,36 +22,36 @@ Classes
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-class.gif" title="Public class" /></td>
-<td><a href="downloadedpartcatalogcollection-class-mspp-mefextensions-modularity.md">DownloadedPartCatalogCollection</a></td>
+<td>![Public class](/images/public-class.gif)</td>
+<td>[DownloadedPartCatalogCollection](/patterns-practices/reference/downloadedpartcatalogcollection-class-mspp-mefextensions-modularity)</td>
 <td><div class="summary">
 Holds a collection of composable part catalogs keyed by module info.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-class.gif" title="Public class" /></td>
-<td><a href="meffilemoduletypeloader-class-mspp-mefextensions-modularity.md">MefFileModuleTypeLoader</a></td>
+<td>![Public class](/images/public-class.gif)</td>
+<td>[MefFileModuleTypeLoader](/patterns-practices/reference/meffilemoduletypeloader-class-mspp-mefextensions-modularity)</td>
 <td><div class="summary">
-Loads modules from an arbitrary location on the filesystem. This typeloader is only called if <a href="mefmoduleinitializer-class-mspp-mefextensions-modularity.md">ModuleInfo</a> classes have a Ref parameter that starts with &quot;file://&quot;. This class is only used on the Desktop version of the Prism Library when used with Managed Extensibility Framework.
+Loads modules from an arbitrary location on the filesystem. This typeloader is only called if [ModuleInfo](/patterns-practices/reference/mefmoduleinitializer-class-mspp-mefextensions-modularity) classes have a Ref parameter that starts with &quot;file://&quot;. This class is only used on the Desktop version of the Prism Library when used with Managed Extensibility Framework.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-class.gif" title="Public class" /></td>
-<td><a href="mefmoduleinitializer-class-mspp-mefextensions-modularity.md">MefModuleInitializer</a></td>
+<td>![Public class](/images/public-class.gif)</td>
+<td>[MefModuleInitializer](/patterns-practices/reference/mefmoduleinitializer-class-mspp-mefextensions-modularity)</td>
 <td><div class="summary">
 Exports the ModuleInitializer using the Managed Extensibility Framework (MEF).
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-class.gif" title="Public class" /></td>
-<td><a href="mefmodulemanager-class-mspp-mefextensions-modularity.md">MefModuleManager</a></td>
+<td>![Public class](/images/public-class.gif)</td>
+<td>[MefModuleManager](/patterns-practices/reference/mefmodulemanager-class-mspp-mefextensions-modularity)</td>
 <td><div class="summary">
 Component responsible for coordinating the modules' type loading and module initialization process.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-class.gif" title="Public class" /></td>
-<td><a href="moduleexportattribute-class-mspp-mefextensions-modularity.md">ModuleExportAttribute</a></td>
+<td>![Public class](/images/public-class.gif)</td>
+<td>[ModuleExportAttribute](/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity)</td>
 <td><div class="summary">
 An attribute that is applied to describe the Managed Extensibility Framework export of an IModule.
 </div></td>
@@ -60,10 +59,9 @@ An attribute that is applied to describe the Managed Extensibility Framework exp
 </tbody>
 </table>
 
-Interfaces
-----------
+## Interfaces
 
-<span id="interfaceToggle"></span>
+
 <table>
 
 <thead>
@@ -75,8 +73,8 @@ Interfaces
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-interface.gif" title="Public interface" /></td>
-<td><a href="imoduleexport-interface-mspp-mefextensions-modularity.md">IModuleExport</a></td>
+<td>![Public interface](/images/public-interface.gif)</td>
+<td>[IModuleExport](/patterns-practices/reference/imoduleexport-interface-mspp-mefextensions-modularity)</td>
 <td><div class="summary">
 Describe the Managed Extensibility Framework export of an IModule.
 </div></td>

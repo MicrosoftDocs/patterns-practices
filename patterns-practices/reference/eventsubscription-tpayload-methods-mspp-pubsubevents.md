@@ -5,19 +5,19 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.EventSubscription\
 ms:mtpsurl: 'eventsubscription-tpayload-methods-mspp-pubsubevents.md'
 ---
 
-Prism Class Library
+# EventSubscription&lt;TPayload&gt; Methods
 
-EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Methods
-========================================================
+The [EventSubscription&lt;TPayload&gt;](https://review.docs.microsoft.com/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents
+) type exposes the following members.
 
-The [EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601) type exposes the following members.
+## Methods
 
-Methods
--------
+The [EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601) type exposes the following members.
 
-<span id="methodTableToggle"></span>
+## Methods
+
+
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -27,7 +27,7 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/bsc2ak47">Equals</a></td>
 <td><div class="summary">
 Determines whether the specified <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a> is equal to the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
@@ -35,7 +35,7 @@ Determines whether the specified <a href="http://msdn.microsoft.com/en-us/librar
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736201.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/4k87zsw7">Finalize</a></td>
 <td><div class="summary">
 Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
@@ -44,13 +44,16 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601.getexecutionstrategy">GetExecutionStrategy</a></td>
+<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/eventsubscription-tpayload-getexecutionstrategy-method-mspp-pubsubevents
+">GetExecutionStrategy</a></td>
+<td>![Public method](/images/public-method.gif)</td>
+<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601.getexecutionstrategy">GetExecutionStrategy</a></td>
 <td><div class="summary">
 Gets the execution strategy to publish this event.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/zdee4b3y">GetHashCode</a></td>
 <td><div class="summary">
 Serves as a hash function for a particular type.
@@ -58,7 +61,7 @@ Serves as a hash function for a particular type.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/dfwy45w9">GetType</a></td>
 <td><div class="summary">
 Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
@@ -67,13 +70,16 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="even">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601.invokeaction(system.action%7b%600%7d%2c%600)">InvokeAction</a></td>
+<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/eventsubscription-tpayload-invokeaction-method-mspp-pubsubevents
+">InvokeAction</a></td>
+<td>![Public method](/images/public-method.gif)</td>
+<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601.invokeaction(system.action%7b%600%7d%2c%600)">InvokeAction</a></td>
 <td><div class="summary">
-Invokes the specified <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;(Of &lt;(T&gt;)&gt;)</a> synchronously when not overridden.
+Invokes the specified <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;T&gt;</a> synchronously when not overridden.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736201.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/57ctke0a">MemberwiseClone</a></td>
 <td><div class="summary">
 Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
@@ -81,7 +87,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">ToString</a></td>
 <td><div class="summary">
 Returns a string that represents the current object.
@@ -91,10 +97,11 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
 
+[EventSubscription&lt;TPayload&gt; Class](hhttps://review.docs.microsoft.com/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents
+)
 
-[EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventsubscription%601)
+[EventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

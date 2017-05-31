@@ -4,14 +4,10 @@ Title: 'UpdateRegionsException Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.UpdateRegionsException.\#ctor'
 ms:mtpsurl: 'updateregionsexception-constructor-mspp-regions.md'
 ---
+
+# UpdateRegionsException Constructor
 
-Prism Class Library
-
-UpdateRegionsException Constructor
-==================================
-
-Overload List
--------------
+## Overload List
 
 <table>
 
@@ -24,28 +20,28 @@ Overload List
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception.">UpdateRegionsException()()()</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception">UpdateRegionsException</a>
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception.">UpdateRegionsException(String)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception">UpdateRegionsException</a> class with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419143.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception.">UpdateRegionsException(SerializationInfo, StreamingContext)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception">UpdateRegionsException</a> class with serialized data.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception.">UpdateRegionsException(String, Exception)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception">UpdateRegionsException</a> class with a specified error message and a reference to the inner exception that is the cause of this exception.
@@ -54,12 +50,9 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-See Also
---------
+## See Also
+[UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions)
 
+[UpdateRegionsException Members](/patterns-practices/reference/updateregionsexception-members-mspp-regions)
 
-[UpdateRegionsException Class](updateregionsexception-class-mspp-regions.md)
-
-[UpdateRegionsException Members](updateregionsexception-members-mspp-regions.md)
-
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

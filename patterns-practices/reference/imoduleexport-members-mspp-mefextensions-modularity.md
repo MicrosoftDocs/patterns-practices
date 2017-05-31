@@ -4,18 +4,14 @@ Title: 'IModuleExport Members (Microsoft.Practices.Prism.MefExtensions.Modularit
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Modularity.IModuleExport'
 ms:mtpsurl: 'imoduleexport-members-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-IModuleExport Members
-=====================
+
+# IModuleExport Members
 
 The [IModuleExport](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport) type exposes the following members.
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,28 +23,28 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430797.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport.dependsonmodulenames">DependsOnModuleNames</a></td>
 <td><div class="summary">
 Gets the names of modules this module depends upon.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430797.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport.initializationmode">InitializationMode</a></td>
 <td><div class="summary">
 Gets when the module should have Initialize() called.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430797.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport.modulename">ModuleName</a></td>
 <td><div class="summary">
 Gets the name of the module.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430797.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport.moduletype">ModuleType</a></td>
 <td><div class="summary">
 Gets the type of the module.
@@ -57,10 +53,7 @@ Gets the type of the module.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IModuleExport Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport)
+## See Also
+[IModuleExport Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.imoduleexport)
 
 [Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)

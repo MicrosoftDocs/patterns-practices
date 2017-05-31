@@ -4,18 +4,14 @@ Title: 'Microsoft.Practices.Prism.Events Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.Events'
 ms:mtpsurl: 'mspp-events-namespace.md'
 ---
-
-Prism Class Library
-
-Microsoft.Practices.Prism.Events Namespace
-==========================================
+
+# Microsoft.Practices.Prism.Events Namespace
 
  
 
-Classes
--------
+## Classes
 
-<span id="classToggle"></span>
+
 <table>
 
 <thead>
@@ -27,7 +23,7 @@ Classes
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-class.gif" title="Public class" /></td>
+<td>![Public class](/images/public-class.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601">CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)</a></td>
 <td><strong>Obsolete.</strong>
 <div class="summary">
@@ -35,7 +31,7 @@ Defines a class that manages publication and subscription to events.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-class.gif" title="Public class" /></td>
+<td>![Public class](/images/public-class.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.events.defaultdispatcher">DefaultDispatcher</a></td>
 <td><strong>Obsolete.</strong>
 <div class="summary">
@@ -43,7 +39,7 @@ Wraps the Application Dispatcher.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-class.gif" title="Public class" /></td>
+<td>![Public class](/images/public-class.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601">DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)</a></td>
 <td><strong>Obsolete.</strong>
 <div class="summary">
@@ -53,10 +49,9 @@ Extends EventSubscription to invoke the Action delegate in a specific <a href="h
 </tbody>
 </table>
 
-Interfaces
-----------
+## Interfaces
 
-<span id="interfaceToggle"></span>
+
 <table>
 
 <thead>
@@ -68,7 +63,7 @@ Interfaces
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-interface.gif" title="Public interface" /></td>
+<td>![Public interface](/images/public-interface.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.events.idispatcherfacade">IDispatcherFacade</a></td>
 <td><strong>Obsolete.</strong>
 <div class="summary">

@@ -4,14 +4,12 @@ Title: 'BindRegionContextToDependencyObjectBehavior Class (Microsoft.Practices.P
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior'
 ms:mtpsurl: 'bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
+
 # BindRegionContextToDependencyObjectBehavior Class
 
-Defines a behavior that forwards the [RegionContextProperty](regionmanager-regioncontextproperty-field-mspp-regions.md) to the views in the region.
+Defines a behavior that forwards the [RegionContextProperty](/patterns-practices/reference/regionmanager-regioncontextproperty-field-mspp-regions) to the views in the region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](mspp-regions-behaviors-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -35,10 +33,10 @@ Public Class BindRegionContextToDependencyObjectBehavior
 
   Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior
 
-    [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefBindRegionContextToDependencyObjectBehavior](mefbindregioncontexttodependencyobjectbehavior-class-mspp-mefextensions-regions-behaviors.md)
+    [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefBindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/mefbindregioncontexttodependencyobjectbehavior-class-mspp-mefextensions-regions-behaviors)
 
 ## See Also
 
-[BindRegionContextToDependencyObjectBehavior Members](bindregioncontexttodependencyobjectbehavior-members-mspp-regions-behaviors.md)
+[BindRegionContextToDependencyObjectBehavior Members](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-members-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

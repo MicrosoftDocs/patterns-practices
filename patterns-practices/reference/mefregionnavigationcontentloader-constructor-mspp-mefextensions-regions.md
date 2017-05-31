@@ -5,35 +5,41 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigati
 ms:mtpsurl: 'mefregionnavigationcontentloader-constructor-mspp-mefextensions-regions.md'
 ---
 
-Prism Class Library
 
-MefRegionNavigationContentLoader Constructor
-============================================
+# MefRegionNavigationContentLoader Constructor
 
-Initializes a new instance of the [MefRegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader) class.
+Initializes a new instance of the [MefRegionNavigationContentLoader](/patterns-practices/reference/mefregionnavigationcontentloader-class-mspp-mefextensions-regions) class.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
-public MefRegionNavigationContentLoader( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
+```C#
+public MefRegionNavigationContentLoader(
+	IServiceLocator serviceLocator
+)
+```
+```VB
+'Declaration
+Public Sub New ( 
+	serviceLocator As IServiceLocator
+)
+```
 
 ### Parameters
 
-serviceLocator  
-Type: IServiceLocator
+*serviceLocator*  
+Type: IServiceLocator   
 IServiceLocator used to create the instance of the view from its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
-See Also
---------
+## See Also
 
+[MefRegionNavigationContentLoader Class](/patterns-practices/reference/mefregionnavigationcontentloader-class-mspp-mefextensions-regions)
 
-[MefRegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader)
+[MefRegionNavigationContentLoader Members](/patterns-practices/reference/mefregionnavigationcontentloader-members-mspp-mefextensions-regions)
 
-[MefRegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

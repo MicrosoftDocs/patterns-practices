@@ -4,11 +4,8 @@ Title: 'ModuleDependencySolver Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleDependencySolver'
 ms:mtpsurl: 'moduledependencysolver-class-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDependencySolver Class
-============================
+
+# ModuleDependencySolver Class
 
 Used by [ModuleInitializer](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer) to get the load sequence for the modules to load according to their dependencies.
 
@@ -18,20 +15,14 @@ Used by [ModuleInitializer](https://msdn.microsoft.com/library/microsoft.practic
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public class ModuleDependencySolverPublic Class ModuleDependencySolver
 
+## Inheritance Hierarchy
 
-public class ModuleDependencySolverPublic Class ModuleDependencySolver
-
-Inheritance Hierarchy
----------------------
-
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Modularity.ModuleDependencySolver
 
-See Also
---------
-
-
-[ModuleDependencySolver Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencysolver)
+## See Also
+[ModuleDependencySolver Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencysolver)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

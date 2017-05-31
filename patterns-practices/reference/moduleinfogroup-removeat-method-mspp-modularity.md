@@ -4,11 +4,8 @@ Title: 'ModuleInfoGroup.RemoveAt Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.RemoveAt(System.Int32)'
 ms:mtpsurl: 'moduleinfogroup-removeat-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInfoGroup.RemoveAt Method
-===================================
+
+# ModuleInfoGroup.RemoveAt Method
 
 Removes the [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/5y536ey6) item at the specified index.
 
@@ -18,9 +15,7 @@ Removes the [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/libr
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public void RemoveAt( int index )Public Sub RemoveAt ( index As Integer )
+public void RemoveAt( int index )Public Sub RemoveAt ( index As Integer )
 
 ### Parameters
 
@@ -33,20 +28,16 @@ The zero-based index of the item to remove.
 [IList&lt;(Of &lt;(T&gt;)&gt;).RemoveAt(Int32)](http://msdn.microsoft.com/en-us/library/c93ab5c9)
 [IList.RemoveAt(Int32)](http://msdn.microsoft.com/en-us/library/x5zwtyhy)
 
-Exceptions
-----------
+## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                                   | Condition                                                                                                             |
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | [System.ArgumentOutOfRangeException](http://msdn.microsoft.com/en-us/library/8xt94y6e) | index is not a valid index in the [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/5y536ey6). |
 | [System.NotSupportedException](http://msdn.microsoft.com/en-us/library/8a7a4e64)       | The [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/5y536ey6) is read-only.                  |
 
-See Also
---------
-
-
-[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
+## See Also
+[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 
 [ModuleInfoGroup Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroup)
 

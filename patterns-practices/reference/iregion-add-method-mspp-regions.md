@@ -4,18 +4,14 @@ Title: 'IRegion.Add Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.IRegion.Add'
 ms:mtpsurl: 'iregion-add-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegion.Add Method
-======================
+
+# IRegion.Add Method
 
 Adds a new view to the region.
 
-Overload List
--------------
+## Overload List
 
-<span id="overloadMembersTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,21 +23,21 @@ Overload List
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.add(system.object)">Add(Object)</a></td>
 <td><div class="summary">
 Adds a new view to the region.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.add(system.object%2csystem.string)">Add(Object, String)</a></td>
 <td><div class="summary">
 Adds a new view to the region.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.add(system.object%2csystem.string%2csystem.boolean)">Add(Object, String, Boolean)</a></td>
 <td><div class="summary">
 Adds a new view to the region.
@@ -50,11 +46,8 @@ Adds a new view to the region.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
+## See Also
+[IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 
 [IRegion Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregion)
 

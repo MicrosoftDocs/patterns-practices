@@ -4,18 +4,14 @@ Title: 'RegionNavigationEventArgs Properties (Microsoft.Practices.Prism.Regions)
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionNavigationEventArgs'
 ms:mtpsurl: 'regionnavigationeventargs-properties-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationEventArgs Properties
-====================================
+
+# RegionNavigationEventArgs Properties
 
 The [RegionNavigationEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs) type exposes the following members.
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,14 +23,14 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431214.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs.navigationcontext">NavigationContext</a></td>
 <td><div class="summary">
 Gets the navigation context.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431214.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs.uri">Uri</a></td>
 <td><div class="summary">
 Gets the navigation URI
@@ -43,10 +39,7 @@ Gets the navigation URI
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionNavigationEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs)
+## See Also
+[RegionNavigationEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

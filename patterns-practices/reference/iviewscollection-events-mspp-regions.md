@@ -7,7 +7,7 @@ ms:mtpsurl: 'iviewscollection-events-mspp-regions.md'
 
 # IViewsCollection Events
 
-The [IViewsCollection](iviewscollection-interface-mspp-regions.md) type exposes the following members.
+The [IViewsCollection](/patterns-practices/reference/iviewscollection-interface-mspp-regions) type exposes the following members.
 
 ## Events
 
@@ -22,7 +22,7 @@ The [IViewsCollection](iviewscollection-interface-mspp-regions.md) type exposes 
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430905.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms653382">CollectionChanged</a></td>
 <td><div class="summary">
 Occurs when the collection changes.
@@ -34,6 +34,6 @@ Occurs when the collection changes.
 
 ## See Also
 
-&nbsp;&nbsp;[IViewsCollection Interface](iviewscollection-interface-mspp-regions.md)
+&nbsp;&nbsp;[IViewsCollection Interface](/patterns-practices/reference/iviewscollection-interface-mspp-regions)
 
-&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

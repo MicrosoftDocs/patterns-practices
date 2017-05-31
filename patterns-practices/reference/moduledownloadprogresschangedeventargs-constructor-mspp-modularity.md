@@ -5,43 +5,51 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDownloadProgressChange
 ms:mtpsurl: 'moduledownloadprogresschangedeventargs-constructor-mspp-modularity.md'
 ---
 
-Prism Class Library
+# ModuleDownloadProgressChangedEventArgs Constructor
 
-ModuleDownloadProgressChangedEventArgs Constructor
-==================================================
+Initializes a new instance of the [ModuleDownloadProgressChangedEventArgs](/patterns-practices/reference/moduledownloadprogresschangedeventargs-class-mspp-modularity) class.
 
-Initializes a new instance of the [ModuleDownloadProgressChangedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs) class.
-
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+```C#
+public ModuleDownloadProgressChangedEventArgs(
+	ModuleInfo moduleInfo,
+	long bytesReceived,
+	long totalBytesToReceive
+)
+```
+```VB
+'Declaration
+Public Sub New ( 
+	moduleInfo As ModuleInfo,
+	bytesReceived As Long,
+	totalBytesToReceive As Long
+)
+```
 
-public ModuleDownloadProgressChangedEventArgs( ModuleInfo moduleInfo, long bytesReceived, long totalBytesToReceive )Public Sub New ( moduleInfo As ModuleInfo, bytesReceived As Long, totalBytesToReceive As Long )
+#### Parameters
 
-### Parameters
-
-moduleInfo  
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
+*moduleInfo*  
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
 The module info.
 
-bytesReceived  
-Type: [System.Int64](http://msdn.microsoft.com/en-us/library/6yy583ek)
+*bytesReceived*  
+Type: [System.Int64](http://msdn.microsoft.com/en-us/library/6yy583ek)  
 The bytes received.
 
-totalBytesToReceive  
-Type: [System.Int64](http://msdn.microsoft.com/en-us/library/6yy583ek)
+*totalBytesToReceive*  
+Type: [System.Int64](http://msdn.microsoft.com/en-us/library/6yy583ek)  
 The total bytes to receive.
 
-See Also
---------
+## See Also
 
+[ModuleDownloadProgressChangedEventArgs Class](/patterns-practices/reference/moduledownloadprogresschangedeventargs-class-mspp-modularity)
 
-[ModuleDownloadProgressChangedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
+[ModuleDownloadProgressChangedEventArgs Members](/patterns-practices/reference/moduledownloadprogresschangedeventargs-members-mspp-modularity)
 
-[ModuleDownloadProgressChangedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

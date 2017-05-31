@@ -5,45 +5,53 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializeException.\#
 ms:mtpsurl: 'moduleinitializeexception-constructor-mspp-modularity.md'
 ---
 
-Prism Class Library
-
-ModuleInitializeException Constructor (String, String, String)
-==============================================================
+# ModuleInitializeException Constructor (String, String, String)
 
 Initializes the exception with a particular module and error message.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
-public ModuleInitializeException( string moduleName, string moduleAssembly, string message )Public Sub New ( moduleName As String, moduleAssembly As String, message As String )
+```C#
+public ModuleInitializeException(
+	string moduleName,
+	string moduleAssembly,
+	string message
+)
+```
+```VB
+'Declaration
+Public Sub New ( 
+	moduleName As String,
+	moduleAssembly As String,
+	message As String
+)
+```
 
 ### Parameters
 
-moduleName  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+*moduleName*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The name of the module.
 
-moduleAssembly  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+*moduleAssembly*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The assembly where the module is located.
 
-message  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+*message*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The error message that explains the reason for the exception.
 
-See Also
---------
+## See Also
 
+[ModuleInitializeException Class](/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity)
 
-[ModuleInitializeException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception)
+[ModuleInitializeException Members](/patterns-practices/reference/moduleinitializeexception-members-mspp-modularity)
 
-[ModuleInitializeException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinitializeexception)
+ModuleInitializeException Overload
 
-[ModuleInitializeException Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.moduleinitializeexception.)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

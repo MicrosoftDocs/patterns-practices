@@ -9,7 +9,7 @@ ms:mtpsurl: 'moduleconfigurationelementcollection-collectiontype-property-mspp-m
 
 Gets the type of the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -35,8 +35,8 @@ The [ConfigurationElementCollectionType](http://msdn.microsoft.com/en-us/library
 
 ## See Also
 
-[ModuleConfigurationElementCollection Class](moduleconfigurationelementcollection-class-mspp-modularity.md)
+[ModuleConfigurationElementCollection Class](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity)
 
-[ModuleConfigurationElementCollection Members](moduleconfigurationelementcollection-members-mspp-modularity.md)
+[ModuleConfigurationElementCollection Members](/patterns-practices/reference/moduleconfigurationelementcollection-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

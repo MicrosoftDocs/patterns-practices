@@ -4,18 +4,14 @@ Title: 'MefRegionViewRegistry Events (Microsoft.Practices.Prism.MefExtensions.Re
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionViewRegistry'
 ms:mtpsurl: 'mefregionviewregistry-events-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
-MefRegionViewRegistry Events
-============================
+
+# MefRegionViewRegistry Events
 
 The [MefRegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionviewregistry) type exposes the following members.
 
-Events
-------
+## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,7 +23,7 @@ Events
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430892.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry.contentregistered">ContentRegistered</a></td>
 <td><div class="summary">
 Occurs whenever a new view is registered.
@@ -37,10 +33,7 @@ Occurs whenever a new view is registered.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefRegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionviewregistry)
+## See Also
+[MefRegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionviewregistry)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)

@@ -4,25 +4,18 @@ Title: 'RegionManager.SetRegionContext Method (Microsoft.Practices.Prism.Regions
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManager.SetRegionContext(System.Windows.DependencyObject,System.Object)'
 ms:mtpsurl: 'regionmanager-setregioncontext-method-mspp-regions.md'
 ---
+
+# RegionManager.SetRegionContext Method
 
-Prism Class Library
+Sets the [RegionContextProperty](/patterns-practices/reference/regionmanager-regioncontextproperty-field-mspp-regions) attached property.
 
-RegionManager.SetRegionContext Method
-=========================================
-
-Sets the [RegionContextProperty](regionmanager-regioncontextproperty-field-mspp-regions.md) attached property.
-
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 public static void SetRegionContext(
 	DependencyObject target,
 	Object value
@@ -35,9 +28,7 @@ Public Shared Sub SetRegionContext (
 	value As Object
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *target*  
 Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
@@ -49,12 +40,9 @@ Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 The value.
 
-See Also
---------
+## See Also
+[RegionManager Class](/patterns-practices/reference/regionmanager-class-mspp-regions)
 
+[RegionManager Members](/patterns-practices/reference/regionmanager-members-mspp-regions)
 
-[RegionManager Class](regionmanager-class-mspp-regions.md)
-
-[RegionManager Members](regionmanager-members-mspp-regions.md)
-
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

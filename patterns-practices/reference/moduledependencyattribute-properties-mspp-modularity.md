@@ -4,18 +4,14 @@ Title: 'ModuleDependencyAttribute Properties (Microsoft.Practices.Prism.Modulari
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyAttribute'
 ms:mtpsurl: 'moduledependencyattribute-properties-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDependencyAttribute Properties
-====================================
+
+# ModuleDependencyAttribute Properties
 
 The [ModuleDependencyAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute) type exposes the following members.
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,14 +23,14 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431169.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute.modulename">ModuleName</a></td>
 <td><div class="summary">
 Gets the name of the module that this module is dependant upon.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431169.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/sa1bf03e">TypeId</a></td>
 <td><div class="summary">
 When implemented in a derived class, gets a unique identifier for this <a href="http://msdn.microsoft.com/en-us/library/e8kc3626">Attribute</a>.
@@ -44,10 +40,7 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleDependencyAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute)
+## See Also
+[ModuleDependencyAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

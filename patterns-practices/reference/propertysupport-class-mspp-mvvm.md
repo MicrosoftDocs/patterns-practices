@@ -4,11 +4,8 @@ Title: 'PropertySupport Class (Microsoft.Practices.Prism.Mvvm)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Mvvm.PropertySupport'
 ms:mtpsurl: 'propertysupport-class-mspp-mvvm.md'
 ---
-
-Prism Class Library
-
-PropertySupport Class
-=====================
+
+# PropertySupport Class
 
 Provides support for extracting property information based on a property expression.
 
@@ -16,20 +13,14 @@ Provides support for extracting property information based on a property express
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
+public static class PropertySupportPublic NotInheritable Class PropertySupport
 
+## Inheritance Hierarchy
 
-public static class PropertySupportPublic NotInheritable Class PropertySupport
-
-Inheritance Hierarchy
----------------------
-
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Mvvm.PropertySupport
 
-See Also
---------
-
-
-[PropertySupport Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mvvm.propertysupport)
+## See Also
+[PropertySupport Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mvvm.propertysupport)
 
 [Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)

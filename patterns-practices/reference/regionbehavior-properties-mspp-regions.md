@@ -4,18 +4,14 @@ Title: 'RegionBehavior Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionBehavior'
 ms:mtpsurl: 'regionbehavior-properties-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionBehavior Properties
-=========================
+
+# RegionBehavior Properties
 
 The [RegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior) type exposes the following members.
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,14 +23,14 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431210.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.isattached">IsAttached</a></td>
 <td><div class="summary">
 Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431210.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.region">Region</a></td>
 <td><div class="summary">
 Behavior's attached region.
@@ -43,10 +39,7 @@ Behavior's attached region.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
+## See Also
+[RegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

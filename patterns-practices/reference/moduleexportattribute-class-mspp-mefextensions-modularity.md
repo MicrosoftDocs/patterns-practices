@@ -4,11 +4,8 @@ Title: 'ModuleExportAttribute Class (Microsoft.Practices.Prism.MefExtensions.Mod
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAttribute'
 ms:mtpsurl: 'moduleexportattribute-class-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleExportAttribute Class
-===========================
+
+# ModuleExportAttribute Class
 
 An attribute that is applied to describe the Managed Extensibility Framework export of an IModule.
 
@@ -18,22 +15,16 @@ An attribute that is applied to describe the Managed Extensibility Framework exp
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public class ModuleExportAttribute : ExportAttribute, IModuleExportPublic Class ModuleExportAttribute Inherits ExportAttribute Implements IModuleExport
 
+## Inheritance Hierarchy
 
-public class ModuleExportAttribute : ExportAttribute, IModuleExportPublic Class ModuleExportAttribute Inherits ExportAttribute Implements IModuleExport
-
-Inheritance Hierarchy
----------------------
-
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [System.Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626)
     [System.ComponentModel.Composition.ExportAttribute](http://msdn.microsoft.com/en-us/library/dd234971)
       Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAttribute
 
-See Also
---------
-
-
-[ModuleExportAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.moduleexportattribute)
+## See Also
+[ModuleExportAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.moduleexportattribute)
 
 [Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)

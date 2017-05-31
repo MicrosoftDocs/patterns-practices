@@ -5,17 +5,14 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionNavigationJou
 ms:mtpsurl: 'iregionnavigationjournalentry-members-mspp-regions.md'
 ---
 
-Prism Class Library
 
-IRegionNavigationJournalEntry Members
-=====================================
+# IRegionNavigationJournalEntry Members
 
 The [IRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry) type exposes the following members.
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,14 +24,14 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405485.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry.parameters">Parameters</a></td>
 <td><div class="summary">
 Gets or sets the NavigationParameters instance.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405485.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry.uri">Uri</a></td>
 <td><div class="summary">
 Gets or sets the URI.
@@ -43,9 +40,7 @@ Gets or sets the URI.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [IRegionNavigationJournalEntry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry)
 

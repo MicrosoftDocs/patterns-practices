@@ -7,9 +7,9 @@ ms:mtpsurl: 'mefregionmemberlifetimebehavior-constructor-mspp-mefextensions-regi
 
 # MefRegionMemberLifetimeBehavior Constructor
 
-Initializes a new instance of the [MefAutoPopulateRegionBehavior](mefautopopulateregionbehavior-class-mspp-mefextensions-regions-behaviors.md) class.
+Initializes a new instance of the [MefAutoPopulateRegionBehavior](/patterns-practices/reference/mefautopopulateregionbehavior-class-mspp-mefextensions-regions-behaviors) class.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](mspp-mefextensions-regions-behaviors-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -28,8 +28,8 @@ Public Sub New
 
 ## See Also
 
-[MefRegionMemberLifetimeBehavior Class](mefregionmemberlifetimebehavior-class-mspp-mefextensions-regions-behaviors.md)
+[MefRegionMemberLifetimeBehavior Class](/patterns-practices/reference/mefregionmemberlifetimebehavior-class-mspp-mefextensions-regions-behaviors)
 
-[MefRegionMemberLifetimeBehavior Members](mefregionmemberlifetimebehavior-members-mspp-mefextensions-regions-behaviors.md)
+[MefRegionMemberLifetimeBehavior Members](/patterns-practices/reference/mefregionmemberlifetimebehavior-members-mspp-mefextensions-regions-behaviors)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

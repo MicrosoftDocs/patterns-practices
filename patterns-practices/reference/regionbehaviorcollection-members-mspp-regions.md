@@ -4,18 +4,14 @@ Title: 'RegionBehaviorCollection Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.RegionBehaviorCollection'
 ms:mtpsurl: 'regionbehaviorcollection-members-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionBehaviorCollection Members
-================================
+
+# RegionBehaviorCollection Members
 
 The [RegionBehaviorCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
-<span id="constructorTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,7 +23,7 @@ Constructors
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection.">RegionBehaviorCollection</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection">RegionBehaviorCollection</a> class and associates it with a region.
@@ -36,10 +32,9 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -51,21 +46,21 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection.add(system.string%2cmicrosoft.practices.prism.regions.iregionbehavior)">Add</a></td>
 <td><div class="summary">
 Adds a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a> to the collection, using the specified key as an indexer.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection.containskey(system.string)">ContainsKey</a></td>
 <td><div class="summary">
 Checks if a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a> with the specified key is already present.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/bsc2ak47">Equals</a></td>
 <td><div class="summary">
 Determines whether the specified <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a> is equal to the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
@@ -73,7 +68,7 @@ Determines whether the specified <a href="http://msdn.microsoft.com/en-us/librar
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405504.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/4k87zsw7">Finalize</a></td>
 <td><div class="summary">
 Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
@@ -81,14 +76,14 @@ Allows an object to try to free resources and perform other cleanup operations b
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection.getenumerator">GetEnumerator</a></td>
 <td><div class="summary">
 Returns an enumerator that iterates through the collection.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/zdee4b3y">GetHashCode</a></td>
 <td><div class="summary">
 Serves as a hash function for a particular type.
@@ -96,7 +91,7 @@ Serves as a hash function for a particular type.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/dfwy45w9">GetType</a></td>
 <td><div class="summary">
 Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
@@ -104,7 +99,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405504.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/57ctke0a">MemberwiseClone</a></td>
 <td><div class="summary">
 Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
@@ -112,7 +107,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">ToString</a></td>
 <td><div class="summary">
 Returns a string that represents the current object.
@@ -122,10 +117,9 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -137,7 +131,7 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405504.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection.item(system.string)">Item</a></td>
 <td><div class="summary">
 Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a> with the specified key.
@@ -146,10 +140,7 @@ Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.r
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionBehaviorCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection)
+## See Also
+[RegionBehaviorCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

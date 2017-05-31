@@ -5,19 +5,14 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.NavigationParameters
 ms:mtpsurl: 'navigationparameters-properties-mspp-regions.md'
 ---
 
-Prism Class Library
-
-NavigationParameters Properties
-===============================
+# NavigationParameters Properties
 
 The [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters) type exposes the following members.
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -27,7 +22,7 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736200.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.item(system.string)">Item</a></td>
 <td><div class="summary">
 Gets the <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> with the specified key.
@@ -36,9 +31,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> w
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [NavigationParameters Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
 

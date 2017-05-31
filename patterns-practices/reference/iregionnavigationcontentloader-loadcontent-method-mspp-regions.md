@@ -4,11 +4,8 @@ Title: 'IRegionNavigationContentLoader.LoadContent Method (Microsoft.Practices.P
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionNavigationContentLoader.LoadContent(Microsoft.Practices.Prism.Regions.IRegion,Microsoft.Practices.Prism.Regions.NavigationContext)'
 ms:mtpsurl: 'iregionnavigationcontentloader-loadcontent-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionNavigationContentLoader.LoadContent Method
-=====================================================
+
+# IRegionNavigationContentLoader.LoadContent Method
 
 Gets the content to which the navigation request represented by navigationContext applies.
 
@@ -18,9 +15,7 @@ Gets the content to which the navigation request represented by navigationContex
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-Object LoadContent( IRegion region, NavigationContext navigationContext )Function LoadContent ( region As IRegion, navigationContext As NavigationContext ) As Object
+Object LoadContent( IRegion region, NavigationContext navigationContext )Function LoadContent ( region As IRegion, navigationContext As NavigationContext ) As Object
 
 ### Parameters
 
@@ -37,24 +32,19 @@ The context representing the navigation request.
 Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The item to be the target of the navigation request.
 
-Remarks
--------
+## Remarks
 
  If none of the items in the region match the target of the navigation request, a new item will be created and added to the region.
 
-Exceptions
-----------
+## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                                 | Condition                                                     |
 |-------------------------------------------------------------------------------------------|---------------------------------------------------------------|
 | [System.InvalidOperationException](http://msdn.microsoft.com/en-us/library/2asft85a) | when a new item cannot be created for the navigation request. |
 
-See Also
---------
-
-
-[IRegionNavigationContentLoader Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader)
+## See Also
+[IRegionNavigationContentLoader Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader)
 
 [IRegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionnavigationcontentloader)
 

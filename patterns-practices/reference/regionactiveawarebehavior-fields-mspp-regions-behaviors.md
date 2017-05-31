@@ -4,18 +4,14 @@ Title: 'RegionActiveAwareBehavior Fields (Microsoft.Practices.Prism.Regions.Beha
 ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior'
 ms:mtpsurl: 'regionactiveawarebehavior-fields-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionActiveAwareBehavior Fields
-================================
+
+# RegionActiveAwareBehavior Fields
 
 The [RegionActiveAwareBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior) type exposes the following members.
 
-Fields
-------
+## Fields
 
-<span id="fieldTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,7 +23,7 @@ Fields
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430948.pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Gg430948.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public field](/images/pubfield.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior.behaviorkey">BehaviorKey</a></td>
 <td><div class="summary">
 Name that identifies the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior">RegionActiveAwareBehavior</a> behavior in a collection of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a>.
@@ -36,10 +32,7 @@ Name that identifies the <a href="https://msdn.microsoft.com/library/microsoft.p
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
+## See Also
+[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

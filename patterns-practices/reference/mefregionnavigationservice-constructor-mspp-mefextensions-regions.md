@@ -7,9 +7,9 @@ ms:mtpsurl: 'mefregionnavigationservice-constructor-mspp-mefextensions-regions.m
 
 # MefRegionNavigationService Constructor
 
-Initializes a new instance of the [MefRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice) class.
+Initializes a new instance of the [MefRegionNavigationService](/patterns-practices/reference/mefregionnavigationservice-class-mspp-mefextensions-regions) class.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](mspp-mefextensions-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -38,28 +38,22 @@ Public Sub New (
 
 ### Parameters
 
-*serviceLocator*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IServiceLocator
-
+*serviceLocator*   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: IServiceLocator   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The service locator.
 
 *navigationContentLoader*  
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationContentLoader](iregionnavigationcontentloader-interface-mspp-regions.md)
-
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationContentLoader](/patterns-practices/reference/iregionnavigationcontentloader-interface-mspp-regions)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The navigation content loader.
 
-*journal* 
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournal](iregionnavigationjournal-interface-mspp-regions.md)
-
+*journal*   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournal](/patterns-practices/reference/iregionnavigationjournal-interface-mspp-regions)   
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The navigation journal.
 
 ## See Also
 
-[MefRegionNavigationService Class](mefregionnavigationservice-class-mspp-mefextensions-regions.md)
+[MefRegionNavigationService Class](/patterns-practices/reference/mefregionnavigationservice-class-mspp-mefextensions-regions)
 
-[MefRegionNavigationService Members](mefregionnavigationservice-members-mspp-mefextensions-regions.md)
+[MefRegionNavigationService Members](/patterns-practices/reference/mefregionnavigationservice-members-mspp-mefextensions-regions)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

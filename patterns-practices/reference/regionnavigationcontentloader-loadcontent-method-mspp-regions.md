@@ -4,11 +4,8 @@ Title: 'RegionNavigationContentLoader.LoadContent Method (Microsoft.Practices.Pr
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader.LoadContent(Microsoft.Practices.Prism.Regions.IRegion,Microsoft.Practices.Prism.Regions.NavigationContext)'
 ms:mtpsurl: 'regionnavigationcontentloader-loadcontent-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationContentLoader.LoadContent Method
-====================================================
+
+# RegionNavigationContentLoader.LoadContent Method
 
 Gets the view to which the navigation request represented by navigationContext applies.
 
@@ -18,9 +15,7 @@ Gets the view to which the navigation request represented by navigationContext a
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public Object LoadContent( IRegion region, NavigationContext navigationContext )Public Function LoadContent ( region As IRegion, navigationContext As NavigationContext ) As Object
+public Object LoadContent( IRegion region, NavigationContext navigationContext )Public Function LoadContent ( region As IRegion, navigationContext As NavigationContext ) As Object
 
 ### Parameters
 
@@ -40,24 +35,19 @@ The view to be the target of the navigation request.
 
 [IRegionNavigationContentLoader.LoadContent(IRegion, NavigationContext)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader.loadcontent(microsoft.practices.prism.regions.iregion%2cmicrosoft.practices.prism.regions.navigationcontext))
 
-Remarks
--------
+## Remarks
 
  If none of the views in the region can be the target of the navigation request, a new view is created and added to the region.
 
-Exceptions
-----------
+## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                         | Condition                                                     |
 |-----------------------------------------------------------------------------------|---------------------------------------------------------------|
 | [System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114) | when a new view cannot be created for the navigation request. |
 
-See Also
---------
-
-
-[RegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader)
+## See Also
+[RegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader)
 
 [RegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationcontentloader)
 

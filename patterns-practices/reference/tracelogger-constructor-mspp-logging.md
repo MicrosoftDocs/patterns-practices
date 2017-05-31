@@ -5,29 +5,31 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Logging.TraceLogger.\#ctor'
 ms:mtpsurl: 'tracelogger-constructor-mspp-logging.md'
 ---
 
-Prism Class Library
+# TraceLogger Constructor
 
-TraceLogger Constructor
-=======================
+Initializes a new instance of the [TraceLogger](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.tracelogger(v=pandp.50)) class
 
-Initializes a new instance of the [TraceLogger](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.tracelogger) class
+**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging(v=pandp.50))
 
-**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+```C#
+public TraceLogger()
+```
 
-public TraceLogger()Public Sub New
+```VB
+'Declaration
+Public Sub New
+```
 
-See Also
---------
+## See Also
 
+[TraceLogger Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.tracelogger(v=pandp.50))
 
-[TraceLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.tracelogger)
+[TraceLogger Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.tracelogger_members(v=pandp.50))
 
-[TraceLogger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.logging.tracelogger)
-
-[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
+[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging(v=pandp.50))

@@ -4,11 +4,8 @@ Title: 'RegionNavigationFailedEventArgs.Error Property (Microsoft.Practices.Pris
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationFailedEventArgs.Error'
 ms:mtpsurl: 'regionnavigationfailedeventargs-error-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationFailedEventArgs.Error Property
-==================================================
+
+# RegionNavigationFailedEventArgs.Error Property
 
 Gets the error.
 
@@ -18,19 +15,14 @@ Gets the error.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public Exception Error { get; }Public ReadOnly Property Error As Exception Get
+public Exception Error { get; }Public ReadOnly Property Error As Exception Get
 ### Property Value
 
-Type: [Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
-The [Exception](http://msdn.microsoft.com/en-us/library/c18k6c59), or nullNothingnullptra null reference (Nothing in Visual Basic) if the failure was not caused by an exception.
+Type: [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
+The [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents), or nullNothingnullptra null reference (Nothing in Visual Basic) if the failure was not caused by an exception.
 
-See Also
---------
-
-
-[RegionNavigationFailedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs)
+## See Also
+[RegionNavigationFailedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs)
 
 [RegionNavigationFailedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationfailedeventargs)
 

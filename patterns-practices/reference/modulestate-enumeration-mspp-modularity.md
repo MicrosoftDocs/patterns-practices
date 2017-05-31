@@ -4,11 +4,8 @@ Title: 'ModuleState Enumeration (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleState'
 ms:mtpsurl: 'modulestate-enumeration-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleState Enumeration
-=======================
+
+# ModuleState Enumeration
 
 Defines the states a [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) can be in, with regards to the module loading and initialization process.
 
@@ -18,14 +15,11 @@ Defines the states a [ModuleInfo](https://msdn.microsoft.com/library/microsoft.p
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public enum ModuleStatePublic Enumeration ModuleState
+
+## Members
 
 
-public enum ModuleStatePublic Enumeration ModuleState
-
-Members
--------
-
-<span id="membersToggle"></span>
 |     | Member name            | Value | Description                                                                                                                                                                                                                                                                         |
 |-----|------------------------|-------|-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 |     | NotStarted             | 0     | Initial state for [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)s. The [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) is defined, but it has not been loaded, retrieved or initialized yet. |
@@ -34,8 +28,5 @@ Members
 |     | Initializing           | 3     | The module is currently Initializing, by the [IModuleInitializer](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduleinitializer)                                                                                                                             |
 |     | Initialized            | 4     | The module is initialized and ready to be used.                                                                                                                                                                                                                                     |
 
-See Also
---------
-
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+## See Also
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

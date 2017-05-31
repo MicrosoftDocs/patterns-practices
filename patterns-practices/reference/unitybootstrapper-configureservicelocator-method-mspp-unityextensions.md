@@ -4,11 +4,8 @@ Title: 'UnityBootstrapper.ConfigureServiceLocator Method (Microsoft.Practices.Pr
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.ConfigureServiceLocator'
 ms:mtpsurl: 'unitybootstrapper-configureservicelocator-method-mspp-unityextensions.md'
 ---
-
-Prism Class Library
-
-UnityBootstrapper.ConfigureServiceLocator Method
-====================================================
+
+# UnityBootstrapper.ConfigureServiceLocator Method
 
 Configures the LocatorProvider for the ServiceLocator.
 
@@ -18,15 +15,10 @@ Configures the LocatorProvider for the ServiceLocator.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+protected override void ConfigureServiceLocator()Protected Overrides Sub ConfigureServiceLocator
 
-
-protected override void ConfigureServiceLocator()Protected Overrides Sub ConfigureServiceLocator
-
-See Also
---------
-
-
-[UnityBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
+## See Also
+[UnityBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
 
 [UnityBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitybootstrapper)
 

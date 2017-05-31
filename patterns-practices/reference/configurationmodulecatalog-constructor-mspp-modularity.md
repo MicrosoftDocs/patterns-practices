@@ -5,29 +5,31 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ConfigurationModuleCatalog.\
 ms:mtpsurl: 'configurationmodulecatalog-constructor-mspp-modularity.md'
 ---
 
-Prism Class Library
 
-ConfigurationModuleCatalog Constructor
-======================================
+# ConfigurationModuleCatalog Constructor
 
-Builds an instance of ConfigurationModuleCatalog with a [ConfigurationStore](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationstore) as the default store.
+Builds an instance of ConfigurationModuleCatalog with a [ConfigurationStore](/patterns-practices/reference/configurationstore-class-mspp-modularity) as the default store.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+```C#
+public ConfigurationModuleCatalog()
+```
+```VB
+'Declaration
+Public Sub New
+```
 
-public ConfigurationModuleCatalog()Public Sub New
+## See Also
 
-See Also
---------
+[ConfigurationModuleCatalog Class](/patterns-practices/reference/configurationstore-class-mspp-modularity)
 
+[ConfigurationModuleCatalog Members](/patterns-practices/reference/configurationstore-members-mspp-modularity)
 
-[ConfigurationModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationmodulecatalog)
-
-[ConfigurationModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.configurationmodulecatalog)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

@@ -4,16 +4,12 @@ Title: 'CyclicDependencyFoundException Constructor (Microsoft.Practices.Prism.Mo
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException.\#ctor'
 ms:mtpsurl: 'cyclicdependencyfoundexception-constructor-mspp-modularity.md'
 ---
+
+# CyclicDependencyFoundException Constructor
 
-Prism Class Library
+## Overload List
 
-CyclicDependencyFoundException Constructor
-==========================================
 
-Overload List
--------------
-
-<span id="overloadMembersTableToggle"></span>
 <table>
 
 <thead>
@@ -25,35 +21,35 @@ Overload List
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception.">CyclicDependencyFoundException()()()</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception">CyclicDependencyFoundException</a> class.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception.">CyclicDependencyFoundException(String)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception">CyclicDependencyFoundException</a> class with the specified error message.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419080.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception.">CyclicDependencyFoundException(SerializationInfo, StreamingContext)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception">CyclicDependencyFoundException</a> class with the serialization data.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception.">CyclicDependencyFoundException(String, Exception)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception">CyclicDependencyFoundException</a> class with the specified error message and inner exception.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception.">CyclicDependencyFoundException(String, String, Exception)</a></td>
 <td><div class="summary">
 Initializes the exception with a particular module, error message and inner exception that happened.
@@ -62,11 +58,8 @@ Initializes the exception with a particular module, error message and inner exce
 </tbody>
 </table>
 
-See Also
---------
-
-
-[CyclicDependencyFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
+## See Also
+[CyclicDependencyFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
 
 [CyclicDependencyFoundException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
 

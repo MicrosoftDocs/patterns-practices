@@ -5,17 +5,14 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.NavigationResult'
 ms:mtpsurl: 'navigationresult-members-mspp-regions.md'
 ---
 
-Prism Class Library
 
-NavigationResult Members
-========================
+# NavigationResult Members
 
 The [NavigationResult](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
-<span id="constructorTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,14 +24,14 @@ Constructors
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.">NavigationResult(NavigationContext, Exception)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult">NavigationResult</a> class.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.">NavigationResult(NavigationContext, Nullable&lt;(Of &lt;(Boolean&gt;)&gt;))</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult">NavigationResult</a> class.
@@ -43,10 +40,9 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -58,7 +54,7 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/bsc2ak47">Equals</a></td>
 <td><div class="summary">
 Determines whether the specified <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a> is equal to the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
@@ -66,7 +62,7 @@ Determines whether the specified <a href="http://msdn.microsoft.com/en-us/librar
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405499.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/4k87zsw7">Finalize</a></td>
 <td><div class="summary">
 Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
@@ -74,7 +70,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/zdee4b3y">GetHashCode</a></td>
 <td><div class="summary">
 Serves as a hash function for a particular type.
@@ -82,7 +78,7 @@ Serves as a hash function for a particular type.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/dfwy45w9">GetType</a></td>
 <td><div class="summary">
 Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
@@ -90,7 +86,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405499.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/57ctke0a">MemberwiseClone</a></td>
 <td><div class="summary">
 Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
@@ -98,7 +94,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">ToString</a></td>
 <td><div class="summary">
 Returns a string that represents the current object.
@@ -108,10 +104,9 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -123,21 +118,21 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405499.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.context">Context</a></td>
 <td><div class="summary">
 Gets the navigation context.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405499.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.error">Error</a></td>
 <td><div class="summary">
 Gets an exception that occurred while navigating.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405499.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.result">Result</a></td>
 <td><div class="summary">
 Gets the result.
@@ -146,9 +141,7 @@ Gets the result.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [NavigationResult Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult)
 

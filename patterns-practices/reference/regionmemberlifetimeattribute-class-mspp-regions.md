@@ -7,9 +7,9 @@ ms:mtpsurl: 'regionmemberlifetimeattribute-class-mspp-regions.md'
 
 # RegionMemberLifetimeAttribute Class
 
-When RegionMemberLifetimeAttribute is applied to class provides data the [RegionMemberLifetimeBehavior](regionmemberlifetimebehavior-class-mspp-regions-behaviors.md) can use to determine if the instance should be removed when it is deactivated.
+When RegionMemberLifetimeAttribute is applied to class provides data the [RegionMemberLifetimeBehavior](/patterns-practices/reference/regionmemberlifetimebehavior-class-mspp-regions-behaviors) can use to determine if the instance should be removed when it is deactivated.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -35,6 +35,6 @@ Public NotInheritable Class RegionMemberLifetimeAttribute
 
 ## See Also
 
-[RegionMemberLifetimeAttribute Members](regionmemberlifetimeattribute-members-mspp-regions.md)
+[RegionMemberLifetimeAttribute Members](/patterns-practices/reference/regionmemberlifetimeattribute-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

@@ -4,18 +4,14 @@ Title: 'UriParsingHelper Methods (Microsoft.Practices.Prism)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.UriParsingHelper'
 ms:mtpsurl: 'uriparsinghelper-methods-mspp.md'
 ---
-
-Prism Class Library
-
-UriParsingHelper Methods
-========================
+
+# UriParsingHelper Methods
 
 The [UriParsingHelper](https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper) type exposes the following members.
 
-Methods
--------
+## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,21 +23,21 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg431141.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper.getabsolutepath(system.uri)">GetAbsolutePath</a></td>
 <td><div class="summary">
 Gets the AbsolutePath part of uri.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg431141.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper.getquery(system.uri)">GetQuery</a></td>
 <td><div class="summary">
 Gets the query part of uri.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg431141.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper.parsequery(system.uri)">ParseQuery</a></td>
 <td><div class="summary">
 Parses the query of uri into a dictionary.
@@ -50,10 +46,7 @@ Parses the query of uri into a dictionary.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[UriParsingHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper)
+## See Also
+[UriParsingHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper)
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

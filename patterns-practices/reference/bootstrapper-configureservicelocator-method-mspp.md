@@ -4,14 +4,12 @@ Title: 'Bootstrapper.ConfigureServiceLocator Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.ConfigureServiceLocator'
 ms:mtpsurl: 'bootstrapper-configureservicelocator-method-mspp.md'
 ---
-
-Prism Class Library
-
+
 # Bootstrapper.ConfigureServiceLocator Method
 
 Configures the LocatorProvider for the ServiceLocator.
 
-**Namespace:** [Microsoft.Practices.Prism](mspp-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -30,8 +28,8 @@ Protected MustOverride Sub ConfigureServiceLocator
 
 ## See Also
 
-[Bootstrapper Class](bootstrapper-class-mspp.md)
+[Bootstrapper Class](/patterns-practices/reference/bootstrapper-class-mspp)
 
-[Bootstrapper Members](bootstrapper-members-mspp.md)
+[Bootstrapper Members](/patterns-practices/reference/bootstrapper-members-mspp)
 
-[Microsoft.Practices.Prism Namespace](mspp-namespace.md)
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

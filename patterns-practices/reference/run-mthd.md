@@ -5,26 +5,19 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.Run'
 ms:mtpsurl: 'bootstrapper-run-method-boolean-mspp.md'
 ---
 
+
 # Bootstrapper.Run Method
 
 Runs the bootstrapper process.
 
-**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
-
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-```C#
-public void Run()
-```
-
-```VB
-'Declaration
-Public Sub Run
-```
+public void Run()Public Sub Run
 
 ## See Also
 

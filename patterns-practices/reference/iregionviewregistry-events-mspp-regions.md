@@ -4,18 +4,14 @@ Title: 'IRegionViewRegistry Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.IRegionViewRegistry'
 ms:mtpsurl: 'iregionviewregistry-events-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionViewRegistry Events
-==========================
+
+# IRegionViewRegistry Events
 
 The [IRegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry) type exposes the following members.
 
-Events
-------
+## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,7 +23,7 @@ Events
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430903.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry.contentregistered">ContentRegistered</a></td>
 <td><div class="summary">
 Event triggered when a content is registered to a region name.
@@ -36,10 +32,7 @@ Event triggered when a content is registered to a region name.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegionViewRegistry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry)
+## See Also
+[IRegionViewRegistry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

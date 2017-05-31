@@ -4,11 +4,8 @@ Title: 'CyclicDependencyFoundException Constructor (String, Exception) (Microsof
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException.\#ctor(System.String,System.Exception)'
 ms:mtpsurl: 'cyclicdependencyfoundexception-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-CyclicDependencyFoundException Constructor (String, Exception)
-==============================================================
+
+# CyclicDependencyFoundException Constructor (String, Exception)
 
 Initializes a new instance of the [CyclicDependencyFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception) class with the specified error message and inner exception.
 
@@ -18,9 +15,7 @@ Initializes a new instance of the [CyclicDependencyFoundException](https://msdn.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public CyclicDependencyFoundException( string message, Exception innerException )Public Sub New ( message As String, innerException As Exception )
+public CyclicDependencyFoundException( string message, Exception innerException )Public Sub New ( message As String, innerException As Exception )
 
 ### Parameters
 
@@ -29,14 +24,11 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The error message that explains the reason for the exception.
 
 innerException  
-Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
+Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
 The exception that is the cause of the current exception.
 
-See Also
---------
-
-
-[CyclicDependencyFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
+## See Also
+[CyclicDependencyFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
 
 [CyclicDependencyFoundException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
 

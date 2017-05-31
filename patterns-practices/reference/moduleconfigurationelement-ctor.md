@@ -4,16 +4,12 @@ Title: 'ModuleConfigurationElement Constructor (Microsoft.Practices.Prism.Modula
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement.\#ctor'
 ms:mtpsurl: 'moduleconfigurationelement-constructor-mspp-modularity.md'
 ---
+
+# ModuleConfigurationElement Constructor
 
-Prism Class Library
+## Overload List
 
-ModuleConfigurationElement Constructor
-======================================
 
-Overload List
--------------
-
-<span id="overloadMembersTableToggle"></span>
 <table>
 
 <thead>
@@ -25,14 +21,14 @@ Overload List
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement.">ModuleConfigurationElement()()()</a></td>
 <td><div class="summary">
 Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement.">ModuleConfigurationElement(String, String, String, Boolean)</a></td>
 <td><div class="summary">
 Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a>.
@@ -41,11 +37,8 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
+## See Also
+[ModuleConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
 
 [ModuleConfigurationElement Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleconfigurationelement)
 

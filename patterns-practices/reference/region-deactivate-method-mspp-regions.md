@@ -4,11 +4,8 @@ Title: 'Region.Deactivate Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Region.Deactivate(System.Object)'
 ms:mtpsurl: 'region-deactivate-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-Region.Deactivate Method
-============================
+
+# Region.Deactivate Method
 
 Marks the specified view as inactive.
 
@@ -18,9 +15,7 @@ Marks the specified view as inactive.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public virtual void Deactivate( Object view )Public Overridable Sub Deactivate ( view As Object )
+public virtual void Deactivate( Object view )Public Overridable Sub Deactivate ( view As Object )
 
 ### Parameters
 
@@ -32,11 +27,8 @@ The view to deactivate.
 
 [IRegion.Deactivate(Object)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.deactivate(system.object))
 
-See Also
---------
-
-
-[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
+## See Also
+[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 
 [Region Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.region)
 

@@ -5,41 +5,52 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.UpdateRegionsException.\#ctor(S
 ms:mtpsurl: 'updateregionsexception-constructor-mspp-regions.md'
 ---
 
-Prism Class Library
 
-UpdateRegionsException Constructor (SerializationInfo, StreamingContext)
-========================================================================
+# UpdateRegionsException Constructor (SerializationInfo, StreamingContext)
 
-Initializes a new instance of the [UpdateRegionsException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception) class with serialized data.
+Initializes a new instance of the [UpdateRegionsException](/patterns-practices/reference/updateregionsexception-class-mspp-regions) class with serialized data.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
-protected UpdateRegionsException( SerializationInfo info, StreamingContext context )Protected Sub New ( info As SerializationInfo, context As StreamingContext )
-
+~~~C#
+protected UpdateRegionsException(
+	SerializationInfo info,
+	StreamingContext context
+)
+~~~
+~~~VB
+'Declaration
+Protected Sub New ( 
+	info As SerializationInfo,
+	context As StreamingContext
+)
+~~~
 ### Parameters
 
-info  
+_info_
+
 Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)
+
 The [SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e) that holds the serialized object data about the exception being thrown.
 
-context  
+_context_
+
 Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5)
+
 The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that contains contextual information about the source or destination.
 
-See Also
---------
+## See Also
 
+[UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions)
 
-[UpdateRegionsException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception)
+[UpdateRegionsException Members](/patterns-practices/reference/updateregionsexception-members-mspp-regions)
 
-[UpdateRegionsException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.updateregionsexception)
+UpdateRegionsException Overload
 
-[UpdateRegionsException Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.regions.updateregionsexception.)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

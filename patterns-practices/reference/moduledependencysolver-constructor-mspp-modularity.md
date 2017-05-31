@@ -5,29 +5,29 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencySolver.\#cto
 ms:mtpsurl: 'moduledependencysolver-constructor-mspp-modularity.md'
 ---
 
-Prism Class Library
+# ModuleDependencySolver Constructor
 
-ModuleDependencySolver Constructor
-==================================
+Initializes a new instance of the [ModuleDependencySolver](/patterns-practices/reference/moduledependencysolver-class-mspp-modularity) class
 
-Initializes a new instance of the [ModuleDependencySolver](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver) class
-
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+```C#
+public ModuleDependencySolver()
+```
+```VB
+'Declaration
+Public Sub New
+```
 
-public ModuleDependencySolver()Public Sub New
+## See Also
 
-See Also
---------
+[ModuleDependencySolver Class](/patterns-practices/reference/moduledependencysolver-class-mspp-modularity)
 
+[ModuleDependencySolver Members](/patterns-practices/reference/moduledependencysolver-members-mspp-modularity)
 
-[ModuleDependencySolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver)
-
-[ModuleDependencySolver Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencysolver)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

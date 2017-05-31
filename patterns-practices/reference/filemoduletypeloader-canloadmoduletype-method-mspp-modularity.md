@@ -4,11 +4,8 @@ Title: 'FileModuleTypeLoader.CanLoadModuleType Method (Microsoft.Practices.Prism
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader.CanLoadModuleType(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'filemoduletypeloader-canloadmoduletype-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-FileModuleTypeLoader.CanLoadModuleType Method
-=================================================
+
+# FileModuleTypeLoader.CanLoadModuleType Method
 
 Evaluates the [Ref](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.ref) property to see if the current typeloader will be able to retrieve the moduleInfo. Returns true if the [Ref](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.ref) property starts with "file://", because this indicates that the file is a local file.
 
@@ -18,9 +15,7 @@ Evaluates the [Ref](https://msdn.microsoft.com/library/microsoft.practices.prism
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public bool CanLoadModuleType( ModuleInfo moduleInfo )Public Function CanLoadModuleType ( moduleInfo As ModuleInfo ) As Boolean
+public bool CanLoadModuleType( ModuleInfo moduleInfo )Public Function CanLoadModuleType ( moduleInfo As ModuleInfo ) As Boolean
 
 ### Parameters
 
@@ -36,19 +31,15 @@ trueTruetruetrue (True in Visual Basic) if the current typeloader is able to ret
 
 [IModuleTypeLoader.CanLoadModuleType(ModuleInfo)](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader.canloadmoduletype(microsoft.practices.prism.modularity.moduleinfo))
 
-Exceptions
-----------
+## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                             | Condition                                                                                                      |
 |---------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------|
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if moduleInfo is null. |
 
-See Also
---------
-
-
-[FileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader)
+## See Also
+[FileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader)
 
 [FileModuleTypeLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.filemoduletypeloader)
 

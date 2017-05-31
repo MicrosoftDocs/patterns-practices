@@ -4,18 +4,14 @@ Title: 'IModuleInitializer Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.IModuleInitializer'
 ms:mtpsurl: 'imoduleinitializer-methods-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-IModuleInitializer Methods
-==========================
+
+# IModuleInitializer Methods
 
 The [IModuleInitializer](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduleinitializer) type exposes the following members.
 
-Methods
--------
+## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,7 +23,7 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduleinitializer.initialize(microsoft.practices.prism.modularity.moduleinfo)">Initialize</a></td>
 <td><div class="summary">
 Initializes the specified module.
@@ -36,10 +32,7 @@ Initializes the specified module.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IModuleInitializer Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduleinitializer)
+## See Also
+[IModuleInitializer Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduleinitializer)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

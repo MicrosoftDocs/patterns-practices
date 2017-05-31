@@ -4,16 +4,12 @@ Title: 'DelegateCommand.CanExecute Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Commands.DelegateCommand.CanExecute'
 ms:mtpsurl: 'canexecute-mthd.md'
 ---
+
+# DelegateCommand.CanExecute Method
 
-Prism Class Library
+## Overload List
 
-DelegateCommand.CanExecute Method
-=====================================
 
-Overload List
--------------
-
-<span id="overloadMembersTableToggle"></span>
 <table>
 
 <thead>
@@ -25,14 +21,14 @@ Overload List
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand.canexecute">CanExecute()()()</a></td>
 <td><div class="summary">
 Determines if the command can be executed.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419050.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase.canexecute(system.object)">CanExecute(Object)</a></td>
 <td><div class="summary">
 Determines if the command can execute with the provided parameter by invoking the <a href="http://msdn.microsoft.com/en-us/library/bb549151">Func&lt;(Of &lt;(T, TResult&gt;)&gt;)</a> supplied during construction.
@@ -42,11 +38,8 @@ Determines if the command can execute with the provided parameter by invoking th
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
+## See Also
+[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
 
 [DelegateCommand Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand)
 

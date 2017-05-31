@@ -4,11 +4,8 @@ Title: 'ModuleInitializeException Constructor (Microsoft.Practices.Prism.Modular
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializeException.\#ctor'
 ms:mtpsurl: 'moduleinitializeexception-constructor-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInitializeException Constructor
-=====================================
+
+# ModuleInitializeException Constructor
 
 Initializes a new instance.
 
@@ -18,15 +15,10 @@ Initializes a new instance.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public ModuleInitializeException()Public Sub New
 
-
-public ModuleInitializeException()Public Sub New
-
-See Also
---------
-
-
-[ModuleInitializeException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception)
+## See Also
+[ModuleInitializeException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception)
 
 [ModuleInitializeException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinitializeexception)
 

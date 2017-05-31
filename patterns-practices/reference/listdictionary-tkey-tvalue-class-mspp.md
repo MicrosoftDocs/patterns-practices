@@ -4,14 +4,12 @@ Title: 'ListDictionary(TKey, TValue) Class (Microsoft.Practices.Prism)'
 ms:assetid: 'T:Microsoft.Practices.Prism.ListDictionary\`2'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-class-mspp.md'
 ---
-
-Prism Class Library
-
+
 # ListDictionary<TKey, TValue> Class
 
 A dictionary of lists.
 
-**Namespace:** [Microsoft.Practices.Prism](mspp-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -41,15 +39,15 @@ public sealed class ListDictionary<TKey, TValue> : IDictionary<TKey, IList<TValu
     Microsoft.Practices.Prism.ListDictionary<TKey, TValue>
 
 ## See Also
-[ListDictionary<TKey, TValue> Members](listdictionary-tkey-tvalue-members-mspp.md)<br/>
-[Microsoft.Practices.Prism Namespace](mspp-namespace.md)
+[ListDictionary<TKey, TValue> Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
     
 
 # ListDictionary(Of TKey, TValue) Class
 
 A dictionary of lists.
 
-**Namespace:** [Microsoft.Practices.Prism](mspp-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -84,5 +82,5 @@ Public NotInheritable Class ListDictionary(Of TKey, TValue)
 
 ## See Also
 
-[ListDictionary(Of TKey, TValue) Members](listdictionary-tkey-tvalue-members-mspp.md)<br/>
- [Microsoft.Practices.Prism Namespace](mspp-namespace.md)
+[ListDictionary(Of TKey, TValue) Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)<br/>
+ [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

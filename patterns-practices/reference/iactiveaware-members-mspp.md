@@ -4,18 +4,14 @@ Title: 'IActiveAware Members (Microsoft.Practices.Prism)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.IActiveAware'
 ms:mtpsurl: 'iactiveaware-members-mspp.md'
 ---
-
-Prism Class Library
-
-IActiveAware Members
-====================
+
+# IActiveAware Members
 
 The [IActiveAware](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware) type exposes the following members.
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,7 +23,7 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430780.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware.isactive">IsActive</a></td>
 <td><div class="summary">
 Gets or sets a value indicating whether the object is active.
@@ -36,10 +32,9 @@ Gets or sets a value indicating whether the object is active.
 </tbody>
 </table>
 
-Events
-------
+## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -51,7 +46,7 @@ Events
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430780.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware.isactivechanged">IsActiveChanged</a></td>
 <td><div class="summary">
 Notifies that the value for <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware.isactive">IsActive</a> property has changed.
@@ -60,10 +55,7 @@ Notifies that the value for <a href="https://msdn.microsoft.com/library/microsof
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IActiveAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware)
+## See Also
+[IActiveAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware)
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

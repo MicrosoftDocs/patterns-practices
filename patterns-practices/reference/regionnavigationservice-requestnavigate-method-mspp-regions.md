@@ -5,17 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.RegionNavigationService.
 ms:mtpsurl: 'regionnavigationservice-requestnavigate-method-mspp-regions.md'
 ---
 
-Prism Class Library
+# RegionNavigationService.RequestNavigate Method
 
-RegionNavigationService.RequestNavigate Method
-==================================================
+## Overload List
 
-Overload List
--------------
-
-<span id="overloadMembersTableToggle"></span>
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -25,15 +19,15 @@ Overload List
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))</a></td>
+<td>![Public method](/images/public-method.gif)</td>
+<td>[RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))](/patterns-practices/reference/regionnavigationservice-requestnavigate-method-uri-action-navigationresult-mspp-regions)</td>
 <td><div class="summary">
 Initiates navigation to the specified target.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d%2cmicrosoft.practices.prism.regions.navigationparameters)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)</a></td>
+<td>![Public method](/images/public-method.gif)</td>
+<td>[RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)](/patterns-practices/reference/regionnavigationservice-requestnavigate-method-uri-action-navigationresult-navigationparameters-mspp-regions)</td>
 <td><div class="summary">
 Initiates navigation to the specified target.
 </div></td>
@@ -41,9 +35,7 @@ Initiates navigation to the specified target.
 </tbody>
 </table>
 
-See Also
---------
-
+## See Also
 
 [RegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice)
 

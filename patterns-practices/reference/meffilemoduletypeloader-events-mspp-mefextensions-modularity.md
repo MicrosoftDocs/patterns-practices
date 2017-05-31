@@ -4,18 +4,14 @@ Title: 'MefFileModuleTypeLoader Events (Microsoft.Practices.Prism.MefExtensions.
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefFileModuleTypeLoader'
 ms:mtpsurl: 'meffilemoduletypeloader-events-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-MefFileModuleTypeLoader Events
-==============================
+
+# MefFileModuleTypeLoader Events
 
 The [MefFileModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader) type exposes the following members.
 
-Events
-------
+## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,14 +23,14 @@ Events
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430889.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader.loadmodulecompleted">LoadModuleCompleted</a></td>
 <td><div class="summary">
 Raised when a module is loaded or fails to load.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430889.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader.moduledownloadprogresschanged">ModuleDownloadProgressChanged</a></td>
 <td><div class="summary">
 Raised repeatedly to provide progress as modules are loaded in the background.
@@ -43,10 +39,7 @@ Raised repeatedly to provide progress as modules are loaded in the background.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefFileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader)
+## See Also
+[MefFileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader)
 
 [Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)

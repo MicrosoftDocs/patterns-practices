@@ -4,11 +4,8 @@ Title: 'ModuleCatalog.GrouplessModules Property (Microsoft.Practices.Prism.Modul
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleCatalog.GrouplessModules'
 ms:mtpsurl: 'modulecatalog-grouplessmodules-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleCatalog.GrouplessModules Property
-===========================================
+
+# ModuleCatalog.GrouplessModules Property
 
 Returns the list of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)s that are not contained within any [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup).
 
@@ -18,19 +15,14 @@ Returns the list of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.pr
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected IEnumerable&lt;ModuleInfo&gt; GrouplessModules { get; }Protected ReadOnly Property GrouplessModules As IEnumerable(Of ModuleInfo) Get
+protected IEnumerable&lt;ModuleInfo&gt; GrouplessModules { get; }Protected ReadOnly Property GrouplessModules As IEnumerable(Of ModuleInfo) Get
 ### Property Value
 
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)&gt;)&gt;)
 The groupless modules.
 
-See Also
---------
-
-
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
+## See Also
+[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
 

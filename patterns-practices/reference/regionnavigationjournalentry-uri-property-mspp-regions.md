@@ -4,11 +4,8 @@ Title: 'RegionNavigationJournalEntry.Uri Property (Microsoft.Practices.Prism.Reg
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry.Uri'
 ms:mtpsurl: 'regionnavigationjournalentry-uri-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationJournalEntry.Uri Property
-=============================================
+
+# RegionNavigationJournalEntry.Uri Property
 
 Gets or sets the URI.
 
@@ -18,9 +15,7 @@ Gets or sets the URI.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public Uri Uri { get; set; }Public Property Uri As Uri Get Set
+public Uri Uri { get; set; }Public Property Uri As Uri Get Set
 ### Property Value
 
 Type: [Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
@@ -29,11 +24,8 @@ The URI.
 
 [IRegionNavigationJournalEntry.Uri](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry.uri)
 
-See Also
---------
-
-
-[RegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry)
+## See Also
+[RegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry)
 
 [RegionNavigationJournalEntry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationjournalentry)
 

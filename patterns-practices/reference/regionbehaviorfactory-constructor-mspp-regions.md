@@ -4,11 +4,8 @@ Title: 'RegionBehaviorFactory Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionBehaviorFactory.\#ctor(Microsoft.Practices.ServiceLocation.IServiceLocator)'
 ms:mtpsurl: 'regionbehaviorfactory-constructor-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionBehaviorFactory Constructor
-=================================
+
+# RegionBehaviorFactory Constructor
 
 Initializes a new instance of [RegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory).
 
@@ -18,9 +15,7 @@ Initializes a new instance of [RegionBehaviorFactory](https://msdn.microsoft.com
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public RegionBehaviorFactory( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
+public RegionBehaviorFactory( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ serviceLocator
 Type: IServiceLocator
 IServiceLocator used to create the instance of the behavior from its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
-See Also
---------
-
-
-[RegionBehaviorFactory Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory)
+## See Also
+[RegionBehaviorFactory Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory)
 
 [RegionBehaviorFactory Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehaviorfactory)
 

@@ -9,7 +9,7 @@ ms:mtpsurl: 'iconfirmnavigationrequest-interface-mspp-regions.md'
 
 Provides a way for objects involved in navigation to determine if a navigation request should continue.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -31,6 +31,6 @@ Public Interface IConfirmNavigationRequest
 
 ## See Also
 
-[IConfirmNavigationRequest Members](iconfirmnavigationrequest-members-mspp-regions.md)
+[IConfirmNavigationRequest Members](/patterns-practices/reference/iconfirmnavigationrequest-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

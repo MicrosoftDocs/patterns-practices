@@ -4,25 +4,18 @@ Title: 'DownloadedPartCatalogCollection Constructor (Microsoft.Practices.Prism.M
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection.\#ctor'
 ms:mtpsurl: 'downloadedpartcatalogcollection-constructor-mspp-mefextensions-modularity.md'
 ---
+
+# DownloadedPartCatalogCollection Constructor
 
-Prism Class Library
+Initializes a new instance of the [DownloadedPartCatalogCollection](/patterns-practices/reference/downloadedpartcatalogcollection-class-mspp-mefextensions-modularity) class
 
-DownloadedPartCatalogCollection Constructor
-===========================================
-
-Initializes a new instance of the [DownloadedPartCatalogCollection](downloadedpartcatalogcollection-class-mspp-mefextensions-modularity.md) class
-
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 public DownloadedPartCatalogCollection()
 ```
 ```VB
@@ -30,12 +23,9 @@ public DownloadedPartCatalogCollection()
 Public Sub New
 ```
 
-See Also
---------
+## See Also
+[DownloadedPartCatalogCollection Class](/patterns-practices/reference/downloadedpartcatalogcollection-class-mspp-mefextensions-modularity)
 
+[DownloadedPartCatalogCollection Members](/patterns-practices/reference/downloadedpartcatalogcollection-members-mspp-mefextensions-modularity)
 
-[DownloadedPartCatalogCollection Class](downloadedpartcatalogcollection-class-mspp-mefextensions-modularity.md)
-
-[DownloadedPartCatalogCollection Members](downloadedpartcatalogcollection-members-mspp-mefextensions-modularity.md)
-
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)

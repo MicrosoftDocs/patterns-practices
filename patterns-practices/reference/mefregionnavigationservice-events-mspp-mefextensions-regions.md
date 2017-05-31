@@ -4,18 +4,14 @@ Title: 'MefRegionNavigationService Events (Microsoft.Practices.Prism.MefExtensio
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationService'
 ms:mtpsurl: 'mefregionnavigationservice-events-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
-MefRegionNavigationService Events
-=================================
+
+# MefRegionNavigationService Events
 
 The [MefRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice) type exposes the following members.
 
-Events
-------
+## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,7 +23,7 @@ Events
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430891.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigated">Navigated</a></td>
 <td><div class="summary">
 Raised when the region is navigated to content.
@@ -35,7 +31,7 @@ Raised when the region is navigated to content.
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice">RegionNavigationService</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430891.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigating">Navigating</a></td>
 <td><div class="summary">
 Raised when the region is about to be navigated to content.
@@ -43,7 +39,7 @@ Raised when the region is about to be navigated to content.
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice">RegionNavigationService</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430891.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigationfailed">NavigationFailed</a></td>
 <td><div class="summary">
 Raised when a navigation request fails.
@@ -53,10 +49,7 @@ Raised when a navigation request fails.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefRegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice)
+## See Also
+[MefRegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)

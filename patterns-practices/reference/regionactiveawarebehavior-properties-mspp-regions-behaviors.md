@@ -7,7 +7,7 @@ ms:mtpsurl: 'regionactiveawarebehavior-properties-mspp-regions-behaviors.md'
 
 # RegionActiveAwareBehavior Properties
 
-The [RegionActiveAwareBehavior](regionactiveawarebehavior-class-mspp-regions-behaviors.md) type exposes the following members.
+The [RegionActiveAwareBehavior](/patterns-practices/reference/regionactiveawarebehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Properties
 
@@ -22,7 +22,7 @@ The [RegionActiveAwareBehavior](regionactiveawarebehavior-class-mspp-regions-beh
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431188.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior.region">Region</a></td>
 <td><div class="summary">
 The region that this behavior is extending
@@ -33,6 +33,6 @@ The region that this behavior is extending
 
 ## See Also
 
-[RegionActiveAwareBehavior Class](regionactiveawarebehavior-class-mspp-regions-behaviors.md)
+[RegionActiveAwareBehavior Class](/patterns-practices/reference/regionactiveawarebehavior-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](mspp-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

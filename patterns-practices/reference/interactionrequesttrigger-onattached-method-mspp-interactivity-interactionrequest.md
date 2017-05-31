@@ -4,14 +4,12 @@ Title: 'InteractionRequestTrigger.OnAttached Method (Microsoft.Practices.Prism.I
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestTrigger.OnAttached'
 ms:mtpsurl: 'interactionrequesttrigger-onattached-method-mspp-interactivity-interactionrequest.md'
 ---
-
-Prism Class Library
-
+
 # InteractionRequestTrigger.OnAttached Method
 
 Called after the trigger is attached to an AssociatedObject.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](mspp-interactivity-interactionrequest-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -30,8 +28,8 @@ Protected Overrides Sub OnAttached
 
 ## See Also
 
-[InteractionRequestTrigger Class](interactionrequesttrigger-class-mspp-interactivity-interactionrequest.md)
+[InteractionRequestTrigger Class](/patterns-practices/reference/interactionrequesttrigger-class-mspp-interactivity-interactionrequest)
 
-[InteractionRequestTrigger Members](interactionrequesttrigger-members-mspp-interactivity-interactionrequest.md)
+[InteractionRequestTrigger Members](/patterns-practices/reference/interactionrequesttrigger-members-mspp-interactivity-interactionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

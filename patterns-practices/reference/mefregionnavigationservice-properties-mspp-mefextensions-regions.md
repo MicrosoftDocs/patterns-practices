@@ -4,18 +4,14 @@ Title: 'MefRegionNavigationService Properties (Microsoft.Practices.Prism.MefExte
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationService'
 ms:mtpsurl: 'mefregionnavigationservice-properties-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
-MefRegionNavigationService Properties
-=====================================
+
+# MefRegionNavigationService Properties
 
 The [MefRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice) type exposes the following members.
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,7 +23,7 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431156.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.journal">Journal</a></td>
 <td><div class="summary">
 Gets the journal.
@@ -35,7 +31,7 @@ Gets the journal.
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice">RegionNavigationService</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431156.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.region">Region</a></td>
 <td><div class="summary">
 Gets or sets the region.
@@ -45,10 +41,7 @@ Gets or sets the region.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefRegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice)
+## See Also
+[MefRegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)

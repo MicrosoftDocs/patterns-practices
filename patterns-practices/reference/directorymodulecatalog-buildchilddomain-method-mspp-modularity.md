@@ -4,11 +4,8 @@ Title: 'DirectoryModuleCatalog.BuildChildDomain Method (Microsoft.Practices.Pris
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog.BuildChildDomain(System.AppDomain)'
 ms:mtpsurl: 'directorymodulecatalog-buildchilddomain-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-DirectoryModuleCatalog.BuildChildDomain Method
-==================================================
+
+# DirectoryModuleCatalog.BuildChildDomain Method
 
 Creates a new child domain and copies the evidence from a parent domain.
 
@@ -18,9 +15,7 @@ Creates a new child domain and copies the evidence from a parent domain.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected virtual AppDomain BuildChildDomain( AppDomain parentDomain )Protected Overridable Function BuildChildDomain ( parentDomain As AppDomain ) As AppDomain
+protected virtual AppDomain BuildChildDomain( AppDomain parentDomain )Protected Overridable Function BuildChildDomain ( parentDomain As AppDomain ) As AppDomain
 
 ### Parameters
 
@@ -33,24 +28,19 @@ The parent domain.
 Type: [AppDomain](http://msdn.microsoft.com/en-us/library/w124b5fa)
 The new child domain.
 
-Remarks
--------
+## Remarks
 
  Grabs the parentDomain evidence and uses it to construct the new [AppDomain](http://msdn.microsoft.com/en-us/library/w124b5fa) because in a ClickOnce execution environment, creating an [AppDomain](http://msdn.microsoft.com/en-us/library/w124b5fa) will by default pick up the partial trust environment of the AppLaunch.exe, which was the root executable. The AppLaunch.exe does a create domain and applies the evidence from the ClickOnce manifests to create the domain that the application is actually executing in. This will need to be Full Trust for Prism applications.
 
-Exceptions
-----------
+## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                             | Condition                                                                                                        |
 |---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------|
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if parentDomain is null. |
 
-See Also
---------
-
-
-[DirectoryModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.directorymodulecatalog)
+## See Also
+[DirectoryModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.directorymodulecatalog)
 
 [DirectoryModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.directorymodulecatalog)
 

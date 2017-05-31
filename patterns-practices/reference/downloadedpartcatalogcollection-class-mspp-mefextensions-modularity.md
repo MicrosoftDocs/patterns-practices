@@ -4,11 +4,8 @@ Title: 'DownloadedPartCatalogCollection Class (Microsoft.Practices.Prism.MefExte
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection'
 ms:mtpsurl: 'downloadedpartcatalogcollection-class-mspp-mefextensions-modularity.md'
 ---
-
-Prism Class Library
-
-DownloadedPartCatalogCollection Class
-=====================================
+
+# DownloadedPartCatalogCollection Class
 
 Holds a collection of composable part catalogs keyed by module info.
 
@@ -18,20 +15,14 @@ Holds a collection of composable part catalogs keyed by module info.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public class DownloadedPartCatalogCollectionPublic Class DownloadedPartCatalogCollection
 
+## Inheritance Hierarchy
 
-public class DownloadedPartCatalogCollectionPublic Class DownloadedPartCatalogCollection
-
-Inheritance Hierarchy
----------------------
-
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection
 
-See Also
---------
-
-
-[DownloadedPartCatalogCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection)
+## See Also
+[DownloadedPartCatalogCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection)
 
 [Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)

@@ -5,29 +5,30 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionManager.
 ms:mtpsurl: 'mefregionmanager-constructor-mspp-mefextensions-regions.md'
 ---
 
-Prism Class Library
+# MefRegionManager Constructor
 
-MefRegionManager Constructor
-============================
+Initializes a new instance of the [MefRegionManager](/patterns-practices/reference/mefregionmanager-class-mspp-mefextensions-regions) class
 
-Initializes a new instance of the [MefRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager) class
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+```C#
+public MefRegionManager()
+```
+```VB
+'Declaration
+Public Sub New
+```
 
-public MefRegionManager()Public Sub New
+## See Also
 
-See Also
---------
+[MefRegionManager Class](/patterns-practices/reference/mefregionmanager-class-mspp-mefextensions-regions)
 
+[MefRegionManager Members](/patterns-practices/reference/mefregionmanager-members-mspp-mefextensions-regions)
 
-[MefRegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager)
-
-[MefRegionManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefregionmanager)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

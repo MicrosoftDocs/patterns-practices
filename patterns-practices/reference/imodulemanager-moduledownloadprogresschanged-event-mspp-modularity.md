@@ -9,7 +9,7 @@ ms:mtpsurl: 'imodulemanager-moduledownloadprogresschanged-event-mspp-modularity.
 
 Raised repeatedly to provide progress as modules are downloaded.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -23,7 +23,7 @@ event EventHandler<ModuleDownloadProgressChangedEventArgs> ModuleDownloadProgres
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[ModuleDownloadProgressChangedEventArgs](moduledownloadprogresschangedeventargs-class-mspp-modularity.md)&gt;
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[ModuleDownloadProgressChangedEventArgs](/patterns-practices/reference/moduledownloadprogresschangedeventargs-class-mspp-modularity)&gt;
 
 ```VB
 'Declaration
@@ -32,12 +32,12 @@ Event ModuleDownloadProgressChanged As EventHandler(Of ModuleDownloadProgressCha
 
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [ModuleDownloadProgressChangedEventArgs](moduledownloadprogresschangedeventargs-class-mspp-modularity.md))
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [ModuleDownloadProgressChangedEventArgs](/patterns-practices/reference/moduledownloadprogresschangedeventargs-class-mspp-modularity))
 
 ## See Also
 
-[IModuleManager Interface](imodulemanager-interface-mspp-modularity.md)
+[IModuleManager Interface](/patterns-practices/reference/imodulemanager-interface-mspp-modularity)
 
-[IModuleManager Members](imodulemanager-members-mspp-modularity.md)
+[IModuleManager Members](/patterns-practices/reference/imodulemanager-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

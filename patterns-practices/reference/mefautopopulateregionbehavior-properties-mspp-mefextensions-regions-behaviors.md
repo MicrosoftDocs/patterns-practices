@@ -4,16 +4,12 @@ Title: 'MefAutoPopulateRegionBehavior Properties (Microsoft.Practices.Prism.MefE
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefAutoPopulateRegionBehavior'
 ms:mtpsurl: 'mefautopopulateregionbehavior-properties-mspp-mefextensions-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-MefAutoPopulateRegionBehavior Properties
-========================================
+
+# MefAutoPopulateRegionBehavior Properties
 
 The [MefAutoPopulateRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <table>
 
@@ -26,7 +22,7 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419180.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.isattached">IsAttached</a></td>
 <td><div class="summary">
 Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
@@ -34,7 +30,7 @@ Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419180.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.region">Region</a></td>
 <td><div class="summary">
 Behavior's attached region.
@@ -44,10 +40,7 @@ Behavior's attached region.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefAutoPopulateRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior)
+## See Also
+[MefAutoPopulateRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)

@@ -9,7 +9,7 @@ ms:mtpsurl: 'moduleinfo-class-mspp-modularity.md'
 
 Defines the metadata that describes a module.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -37,6 +37,6 @@ Public Class ModuleInfo
 
 ## See Also
 
-[ModuleInfo Members](moduleinfo-members-mspp-modularity.md)
+[ModuleInfo Members](/patterns-practices/reference/moduleinfo-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

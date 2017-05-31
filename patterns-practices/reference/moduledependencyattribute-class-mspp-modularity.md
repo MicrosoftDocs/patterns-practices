@@ -4,25 +4,18 @@ Title: 'ModuleDependencyAttribute Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleDependencyAttribute'
 ms:mtpsurl: 'moduledependencyattribute-class-mspp-modularity.md'
 ---
+
+# ModuleDependencyAttribute Class
 
-Prism Class Library
+Specifies that the current module has a dependency on another module. This attribute should be used on classes that implement [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity).
 
-ModuleDependencyAttribute Class
-===============================
-
-Specifies that the current module has a dependency on another module. This attribute should be used on classes that implement [IModule](imodule-interface-mspp-modularity.md).
-
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 public sealed class ModuleDependencyAttribute : Attribute
 ```
 ```VB
@@ -30,19 +23,15 @@ public sealed class ModuleDependencyAttribute : Attribute
 Public NotInheritable Class ModuleDependencyAttribute Inherits Attribute
 ```
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
   [System.Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626)
   
     Microsoft.Practices.Prism.Modularity.ModuleDependencyAttribute
 
-See Also
---------
+## See Also
+[ModuleDependencyAttribute Members](/patterns-practices/reference/moduledependencyattribute-members-mspp-modularity)
 
-
-[ModuleDependencyAttribute Members](moduledependencyattribute-members-mspp-modularity.md)
-
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

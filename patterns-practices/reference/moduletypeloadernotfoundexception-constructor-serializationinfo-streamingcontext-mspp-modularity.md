@@ -5,41 +5,48 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundExce
 ms:mtpsurl: 'moduletypeloadernotfoundexception-constructor-mspp-modularity.md'
 ---
 
-Prism Class Library
-
-ModuleTypeLoaderNotFoundException Constructor (SerializationInfo, StreamingContext)
-===================================================================================
+# ModuleTypeLoaderNotFoundException Constructor (SerializationInfo, StreamingContext)
 
 Initializes a new instance with serialized data.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+```C#
+protected ModuleTypeLoaderNotFoundException(
+	SerializationInfo info,
+	StreamingContext context
+)
+```
 
-
-protected ModuleTypeLoaderNotFoundException( SerializationInfo info, StreamingContext context )Protected Sub New ( info As SerializationInfo, context As StreamingContext )
+```VB
+'Declaration
+Protected Sub New ( 
+	info As SerializationInfo,
+	context As StreamingContext
+)
+```
 
 ### Parameters
 
-info  
-Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)
+*info*  
+Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)  
 The [SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e) that holds the serialized object data about the exception being thrown.
 
-context  
-Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5)
+*context*  
+Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5)  
 The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that contains contextual information about the source or destination.
 
-See Also
---------
+## See Also
 
+[ModuleTypeLoaderNotFoundException Class](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity)
 
-[ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
+[ModuleTypeLoaderNotFoundException Members](/patterns-practices/reference/moduletypeloadernotfoundexception-members-mspp-modularity)
 
-[ModuleTypeLoaderNotFoundException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
+ModuleTypeLoaderNotFoundException Overload
 
-[ModuleTypeLoaderNotFoundException Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.moduletypeloadernotfoundexception.)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

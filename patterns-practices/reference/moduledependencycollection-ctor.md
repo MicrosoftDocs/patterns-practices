@@ -4,16 +4,12 @@ Title: 'ModuleDependencyCollection Constructor (Microsoft.Practices.Prism.Modula
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection.\#ctor'
 ms:mtpsurl: 'moduledependencycollection-constructor-mspp-modularity.md'
 ---
+
+# ModuleDependencyCollection Constructor
 
-Prism Class Library
+## Overload List
 
-ModuleDependencyCollection Constructor
-======================================
 
-Overload List
--------------
-
-<span id="overloadMembersTableToggle"></span>
 <table>
 
 <thead>
@@ -25,14 +21,14 @@ Overload List
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.">ModuleDependencyCollection()()()</a></td>
 <td><div class="summary">
 Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection">ModuleDependencyCollection</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.">ModuleDependencyCollection(array&lt;ModuleDependencyConfigurationElement&gt;)</a></td>
 <td><div class="summary">
 Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection">ModuleDependencyCollection</a>.
@@ -41,11 +37,8 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
+## See Also
+[ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
 
 [ModuleDependencyCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencycollection)
 

@@ -9,7 +9,7 @@ ms:mtpsurl: 'configurationstore-class-mspp-modularity.md'
 
 Defines a store for the module metadata.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -34,6 +34,6 @@ Public Class ConfigurationStore
 
 ## See Also
 
-[ConfigurationStore Members](configurationstore-members-mspp-modularity.md)
+[ConfigurationStore Members](/patterns-practices/reference/configurationstore-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

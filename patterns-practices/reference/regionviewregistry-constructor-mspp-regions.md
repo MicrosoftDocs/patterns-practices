@@ -5,35 +5,42 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionViewRegistry.\#ctor(Micro
 ms:mtpsurl: 'regionviewregistry-constructor-mspp-regions.md'
 ---
 
-Prism Class Library
 
-RegionViewRegistry Constructor
-==============================
+# RegionViewRegistry Constructor
 
-Creates a new instance of the [RegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry) class.
+Creates a new instance of the [RegionViewRegistry](/patterns-practices/reference/regionviewregistry-class-mspp-regions) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public RegionViewRegistry( IServiceLocator locator )Public Sub New ( locator As IServiceLocator )
+~~~C#
+public RegionViewRegistry(
+	IServiceLocator locator
+)
+~~~
+~~~VB
+'Declaration
+Public Sub New ( 
+	locator As IServiceLocator
+)
+~~~
 
 ### Parameters
 
-locator  
+_locator_
+
 Type: IServiceLocator
+
 IServiceLocator used to create the instance of the views from its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
-See Also
---------
+## See Also
 
+[RegionViewRegistry Class](/patterns-practices/reference/regionviewregistry-class-mspp-regions)
 
-[RegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry)
+[RegionViewRegistry Members](/patterns-practices/reference/regionviewregistry-members-mspp-regions)
 
-[RegionViewRegistry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionviewregistry)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

@@ -5,11 +5,13 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionBehaviorColle
 ms:mtpsurl: 'iregionbehaviorcollection-members-mspp-regions.md'
 ---
 
+
 # IRegionBehaviorCollection Members
 
-The [IRegionBehaviorCollection](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehaviorcollection(v=pandp.50)) type exposes the following members.
+The [IRegionBehaviorCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection) type exposes the following members.
 
 ## Methods
+
 
 <table>
 
@@ -22,40 +24,41 @@ The [IRegionBehaviorCollection](https://msdn.microsoft.com/en-us/library/microso
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehaviorcollection.add(v=pandp.50)">Add</a></td>
+<td>![Public method](/images/public-method.gif)</td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection.add(system.string%2cmicrosoft.practices.prism.regions.iregionbehavior)">Add</a></td>
 <td><div class="summary">
-Adds a <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior(v=pandp.50)">IRegionBehavior</a> to the collection, using the specified key as an indexer.
+Adds a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a> to the collection, using the specified key as an indexer.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehaviorcollection.containskey(v=pandp.50)">ContainsKey</a></td>
+<td>![Public method](/images/public-method.gif)</td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection.containskey(system.string)">ContainsKey</a></td>
 <td><div class="summary">
-Checks if a <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior(v=pandp.50)">IRegionBehavior</a> with the specified key is already present.
+Checks if a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a> with the specified key is already present.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/s793z9y2">GetEnumerator()</a></td>
+<td>![Public method](/images/public-method.gif)</td>
+<td><a href="http://msdn.microsoft.com/en-us/library/s793z9y2">GetEnumerator()()()</a></td>
 <td><div class="summary">
 Returns an enumerator that iterates through the collection.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/9eekhta0">IEnumerable</a>&lt;(<a href="http://msdn2.microsoft.com/en-us/library/5tbh8a42">KeyValuePair</a>&lt;(<a href="http://msdn2.microsoft.com/en-us/library/s1wwdcbf">String</a>, <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior(v=pandp.50)">IRegionBehavior</a>&gt;&gt;.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/9eekhta0">IEnumerable</a>&lt;(Of &lt;(<a href="http://msdn.microsoft.com/en-us/library/5tbh8a42">KeyValuePair</a>&lt;(Of &lt;(<a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a>, <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a>&gt;)&gt;)&gt;)&gt;).)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="http://msdn2.microsoft.com/en-us/library/5zae5365">GetEnumerator()</a></td>
+<td>![Public method](/images/public-method.gif)</td>
+<td><a href="http://msdn.microsoft.com/en-us/library/5zae5365">GetEnumerator()()()</a></td>
 <td><div class="summary">
 Returns an enumerator that iterates through a collection.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/h1x9x1b1">IEnumerable</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/h1x9x1b1">IEnumerable</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## Properties
 
+
 <table>
 
 <thead>
@@ -67,10 +70,10 @@ Returns an enumerator that iterates through a collection.
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405472.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehaviorcollection.item(v=pandp.50)">Item</a></td>
+<td>![Public property](/images/pubproperty.gif)</td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection.item(system.string)">Item</a></td>
 <td><div class="summary">
-Gets the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior(v=pandp.50)">IRegionBehavior</a> with the specified key.
+Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a> with the specified key.
 </div></td>
 </tr>
 </tbody>
@@ -78,6 +81,6 @@ Gets the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.p
 
 ## See Also
 
-[IRegionBehaviorCollection Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehaviorcollection(v=pandp.50))
+[IRegionBehaviorCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

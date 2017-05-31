@@ -4,11 +4,8 @@ Title: 'ModuleConfigurationElementCollection.FindAll Method (Microsoft.Practices
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection.FindAll(System.Predicate{Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement})'
 ms:mtpsurl: 'moduleconfigurationelementcollection-findall-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleConfigurationElementCollection.FindAll Method
-=======================================================
+
+# ModuleConfigurationElementCollection.FindAll Method
 
 Searches the collection for all the [ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement) that match the specified predicate.
 
@@ -18,9 +15,7 @@ Searches the collection for all the [ModuleConfigurationElement](https://msdn.mi
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public IList&lt;ModuleConfigurationElement&gt; FindAll( Predicate&lt;ModuleConfigurationElement&gt; match )Public Function FindAll ( match As Predicate(Of ModuleConfigurationElement) ) As IList(Of ModuleConfigurationElement)
+public IList&lt;ModuleConfigurationElement&gt; FindAll( Predicate&lt;ModuleConfigurationElement&gt; match )Public Function FindAll ( match As Predicate(Of ModuleConfigurationElement) ) As IList(Of ModuleConfigurationElement)
 
 ### Parameters
 
@@ -33,19 +28,15 @@ A [Predicate&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/bf
 Type: [IList](http://msdn.microsoft.com/en-us/library/5y536ey6)&lt;(Of &lt;([ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)&gt;)&gt;)
 A [List&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/6sh2ey19) with the successful matches.
 
-Exceptions
-----------
+## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                             | Condition                                                                                                 |
 |---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if match is null. |
 
-See Also
---------
-
-
-[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
+## See Also
+[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 
 [ModuleConfigurationElementCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 

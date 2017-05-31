@@ -5,45 +5,62 @@ ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.DelegateReference.\#ctor(S
 ms:mtpsurl: 'delegatereference-constructor-mspp-pubsubevents.md'
 ---
 
-Prism Class Library
+# DelegateReference Constructor
 
-DelegateReference Constructor
-=============================
-
-Initializes a new instance of [DelegateReference](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.delegatereference).
+Initializes a new instance of [DelegateReference](/patterns-practices/reference/mspp-mvvm-namespace.delegatereference).
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) 
+
+**Version:** 1.0.0.0 (1.0.0.0)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
+```C#
+public DelegateReference(
+	Delegate delegate,
+	bool keepReferenceAlive
+)
+```
 
-public DelegateReference( Delegate delegate, bool keepReferenceAlive )Public Sub New ( delegate As Delegate, keepReferenceAlive As Boolean )
+```VB
+'Declaration
+Public Sub New ( 
+	delegate As Delegate,
+	keepReferenceAlive As Boolean
+)
+```
 
 ### Parameters
 
-delegate  
+*delegate*  
+
 Type: [System.Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)
+
 The original [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) to create a reference for.
 
-keepReferenceAlive  
+*keepReferenceAlive*  
+
 Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-If falseFalsefalsefalse (False in Visual Basic) the class will create a weak reference to the delegate, allowing it to be garbage collected. Otherwise it will keep a strong reference to the target.
 
-Exceptions
-----------
+If **falsefalse** (**False** in Visual Basic) the class will create a weak reference to the delegate, allowing it to be garbage collected. Otherwise it will keep a strong reference to the target.
 
-<span id="exceptionsToggle"></span>
+## Exceptions
+
+
 | Exception                                                                             | Condition                                                                                                  |
 |---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | If the passed delegate is not assignable to [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51). |
 
-See Also
---------
+## See Also
 
+[DelegateReference Class](/patterns-practices/reference/mspp-mvvm-namespace.delegatereference)
 
 [DelegateReference Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.delegatereference)
 
-[DelegateReference Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.delegatereference)
+DelegateReference Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

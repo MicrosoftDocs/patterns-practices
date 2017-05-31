@@ -9,7 +9,7 @@ ms:mtpsurl: 'exceptionextensions-getrootexception-method-mspp.md'
 
 Looks at all the inner exceptions of the exception parameter to find the most likely root cause of the exception. This works by skipping all registered exception types.
 
-**Namespace:** [Microsoft.Practices.Prism](mspp-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -30,24 +30,22 @@ Public Shared Function GetRootException (
 	exception As Exception
 ) As Exception
 ```
-
-
-### Parameters
+### Parameters
 
 *exception*
 
-    Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
+    Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
     The exception that will provide the list of inner exeptions to examine.
 
 ### Return Value
 
-Type: [Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
+Type: [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
 
 The exception that most likely caused the exception to occur. If it can't find the root exception, it will return the exception value itself.
 
 ### Usage Note
 
-In Visual Basic and C\#, you can call this method as an instance method on any object of type [Exception](http://msdn.microsoft.com/en-us/library/c18k6c59). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
+In Visual Basic and C\#, you can call this method as an instance method on any object of type [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 
 ## Remarks
 
@@ -55,8 +53,8 @@ This method is not 100% accurate and should only be used to point a developer in
 
 ## See Also
 
-[ExceptionExtensions Class](exceptionextensions-class-mspp.md)
+[ExceptionExtensions Class](/patterns-practices/reference/exceptionextensions-class-mspp)
 
-[ExceptionExtensions Members](exceptionextensions-members-mspp.md)
+[ExceptionExtensions Members](/patterns-practices/reference/exceptionextensions-members-mspp)
 
-[Microsoft.Practices.Prism Namespace](mspp-namespace.md)
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

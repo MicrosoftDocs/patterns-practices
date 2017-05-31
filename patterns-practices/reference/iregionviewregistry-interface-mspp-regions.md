@@ -4,11 +4,8 @@ Title: 'IRegionViewRegistry Interface (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.IRegionViewRegistry'
 ms:mtpsurl: 'iregionviewregistry-interface-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionViewRegistry Interface
-=============================
+
+# IRegionViewRegistry Interface
 
 Defines the interface for the registry of region's content.
 
@@ -18,14 +15,9 @@ Defines the interface for the registry of region's content.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public interface IRegionViewRegistryPublic Interface IRegionViewRegistry
 
-
-public interface IRegionViewRegistryPublic Interface IRegionViewRegistry
-
-See Also
---------
-
-
-[IRegionViewRegistry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionviewregistry)
+## See Also
+[IRegionViewRegistry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionviewregistry)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

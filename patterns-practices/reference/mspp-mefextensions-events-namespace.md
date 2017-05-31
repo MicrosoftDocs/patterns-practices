@@ -4,18 +4,14 @@ Title: 'Microsoft.Practices.Prism.MefExtensions.Events Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.MefExtensions.Events'
 ms:mtpsurl: 'mspp-mefextensions-events-namespace.md'
 ---
-
-Prism Class Library
-
-Microsoft.Practices.Prism.MefExtensions.Events Namespace
-========================================================
+
+# Microsoft.Practices.Prism.MefExtensions.Events Namespace
 
  
 
-Classes
--------
+## Classes
 
-<span id="classToggle"></span>
+
 <table>
 
 <thead>
@@ -27,7 +23,7 @@ Classes
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-class.gif" title="Public class" /></td>
+<td>![Public class](/images/public-class.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator">MefEventAggregator</a></td>
 <td><div class="summary">
 Exports the EventAggregator using the Managed Extensibility Framework (MEF).

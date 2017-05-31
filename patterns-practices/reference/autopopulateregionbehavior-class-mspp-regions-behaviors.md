@@ -4,11 +4,8 @@ Title: 'AutoPopulateRegionBehavior Class (Microsoft.Practices.Prism.Regions.Beha
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior'
 ms:mtpsurl: 'autopopulateregionbehavior-class-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-AutoPopulateRegionBehavior Class
-================================
+
+# AutoPopulateRegionBehavior Class
 
 Populates the target region with the views registered to it in the [IRegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry).
 
@@ -18,22 +15,16 @@ Populates the target region with the views registered to it in the [IRegionViewR
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public class AutoPopulateRegionBehavior : RegionBehaviorPublic Class AutoPopulateRegionBehavior Inherits RegionBehavior
 
+## Inheritance Hierarchy
 
-public class AutoPopulateRegionBehavior : RegionBehaviorPublic Class AutoPopulateRegionBehavior Inherits RegionBehavior
-
-Inheritance Hierarchy
----------------------
-
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [Microsoft.Practices.Prism.Regions.RegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
     Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior
       [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefAutoPopulateRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior)
 
-See Also
---------
-
-
-[AutoPopulateRegionBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior)
+## See Also
+[AutoPopulateRegionBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

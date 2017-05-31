@@ -4,18 +4,14 @@ Title: 'ContentControlRegionAdapter Properties (Microsoft.Practices.Prism.Region
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter'
 ms:mtpsurl: 'contentcontrolregionadapter-properties-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ContentControlRegionAdapter Properties
-======================================
+
+# ContentControlRegionAdapter Properties
 
 The [ContentControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.contentcontrolregionadapter) type exposes the following members.
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,7 +23,7 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431194.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
+<td>![Protected property](/images/protproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.regionbehaviorfactory">RegionBehaviorFactory</a></td>
 <td><div class="summary">
 Gets or sets the factory used to create the region behaviors to attach to the created regions.
@@ -37,10 +33,7 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ContentControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.contentcontrolregionadapter)
+## See Also
+[ContentControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.contentcontrolregionadapter)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

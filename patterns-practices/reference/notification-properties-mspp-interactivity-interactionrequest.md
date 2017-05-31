@@ -4,12 +4,10 @@ Title: 'Notification Properties (Microsoft.Practices.Prism.Interactivity.Interac
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification'
 ms:mtpsurl: 'notification-properties-mspp-interactivity-interactionrequest.md'
 ---
-
-Prism Class Library
-
+
 # Notification Properties
 
-The [Notification](notification-class-mspp-interactivity-interactionrequest.md) type exposes the following members.
+The [Notification](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest) type exposes the following members.
 
 ## Properties
 
@@ -24,14 +22,14 @@ The [Notification](notification-class-mspp-interactivity-interactionrequest.md) 
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419174.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.notification.content">Content</a></td>
 <td><div class="summary">
 Gets or sets the content of the notification.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419174.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.notification.title">Title</a></td>
 <td><div class="summary">
 Gets or sets the title to use for the notification.
@@ -40,10 +38,7 @@ Gets or sets the title to use for the notification.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
+[Notification Class](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest)
 
-
-[Notification Class](notification-class-mspp-interactivity-interactionrequest.md)
-
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

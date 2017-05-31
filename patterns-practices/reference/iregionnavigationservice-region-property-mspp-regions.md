@@ -9,7 +9,7 @@ ms:mtpsurl: 'iregionnavigationservice-region-property-mspp-regions.md'
 
 Gets or sets the region owning this service.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,14 +32,14 @@ Property Region As IRegion
 
 ### Property Value
 
-Type: [IRegion](iregion-interface-mspp-regions.md)
+Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
 
 A Region.
 
 ## See Also
 
-[IRegionNavigationService Interface](iregionnavigationservice-interface-mspp-regions.md)
+[IRegionNavigationService Interface](/patterns-practices/reference/iregionnavigationservice-interface-mspp-regions)
 
-[IRegionNavigationService Members](iregionnavigationservice-members-mspp-regions.md)
+[IRegionNavigationService Members](/patterns-practices/reference/iregionnavigationservice-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

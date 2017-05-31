@@ -4,12 +4,10 @@ Title: 'IModuleManager Events (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.IModuleManager'
 ms:mtpsurl: 'imodulemanager-events-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # IModuleManager Events
 
-The [IModuleManager](imodulemanager-interface-mspp-modularity.md) type exposes the following members.
+The [IModuleManager](/patterns-practices/reference/imodulemanager-interface-mspp-modularity) type exposes the following members.
 
 ## Events
 
@@ -24,14 +22,14 @@ The [IModuleManager](imodulemanager-interface-mspp-modularity.md) type exposes t
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430894.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager.loadmodulecompleted">LoadModuleCompleted</a></td>
 <td><div class="summary">
 Raised when a module is loaded or fails to load.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430894.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager.moduledownloadprogresschanged">ModuleDownloadProgressChanged</a></td>
 <td><div class="summary">
 Raised repeatedly to provide progress as modules are downloaded.
@@ -41,8 +39,6 @@ Raised repeatedly to provide progress as modules are downloaded.
 </table>
 
 ## See Also
+[IModuleManager Interface](/patterns-practices/reference/imodulemanager-interface-mspp-modularity)
 
-
-[IModuleManager Interface](imodulemanager-interface-mspp-modularity.md)
-
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

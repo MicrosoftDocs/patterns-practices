@@ -4,11 +4,8 @@ Title: 'ModuleInfoGroup.Insert Method (Int32, ModuleInfo) (Microsoft.Practices.P
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Insert(System.Int32,Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'moduleinfogroup-insert-method-int32-moduleinfo-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInfoGroup.Insert Method (Int32, ModuleInfo)
-=====================================================
+
+# ModuleInfoGroup.Insert Method (Int32, ModuleInfo)
 
 Inserts an item to the [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/5y536ey6) at the specified index.
 
@@ -18,9 +15,7 @@ Inserts an item to the [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public void Insert( int index, ModuleInfo item )Public Sub Insert ( index As Integer, item As ModuleInfo )
+public void Insert( int index, ModuleInfo item )Public Sub Insert ( index As Integer, item As ModuleInfo )
 
 ### Parameters
 
@@ -36,19 +31,15 @@ The object to insert into the [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.micros
 
 [IList&lt;(Of &lt;(T&gt;)&gt;).Insert(Int32, T)](http://msdn.microsoft.com/en-us/library/8zsfbxz8)
 
-Exceptions
-----------
+## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                                   | Condition                                                                                                             |
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | [System.ArgumentOutOfRangeException](http://msdn.microsoft.com/en-us/library/8xt94y6e) | index is not a valid index in the [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/5y536ey6). |
 
-See Also
---------
-
-
-[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
+## See Also
+[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 
 [ModuleInfoGroup Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroup)
 

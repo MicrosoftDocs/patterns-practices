@@ -4,11 +4,8 @@ Title: 'IRegion.Add Method (Object, String, Boolean) (Microsoft.Practices.Prism.
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegion.Add(System.Object,System.String,System.Boolean)'
 ms:mtpsurl: 'iregion-add-method-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegion.Add Method (Object, String, Boolean)
-================================================
+
+# IRegion.Add Method (Object, String, Boolean)
 
 Adds a new view to the region.
 
@@ -18,9 +15,7 @@ Adds a new view to the region.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-IRegionManager Add( Object view, string viewName, bool createRegionManagerScope )Function Add ( view As Object, viewName As String, createRegionManagerScope As Boolean ) As IRegionManager
+IRegionManager Add( Object view, string viewName, bool createRegionManagerScope )Function Add ( view As Object, viewName As String, createRegionManagerScope As Boolean ) As IRegionManager
 
 ### Parameters
 
@@ -41,11 +36,8 @@ When trueTruetruetrue (True in Visual Basic), the added view will receive a new 
 Type: [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager)
 The [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager) that is set on the view if it is a [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).
 
-See Also
---------
-
-
-[IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
+## See Also
+[IRegion Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
 
 [IRegion Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregion)
 

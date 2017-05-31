@@ -7,9 +7,9 @@ ms:mtpsurl: 'navigationresult-constructor-mspp-regions.md'
 
 # NavigationResult Constructor (NavigationContext, Nullable&lt;Boolean&gt;)
 
-Initializes a new instance of the [NavigationResult](navigationresult-class-mspp-regions.md) class.
+Initializes a new instance of the [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -23,13 +23,11 @@ public NavigationResult(
 	Nullable<bool> result
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *context*
 
-    Type: [Microsoft.Practices.Prism.Regions.NavigationContext](navigationcontext-class-mspp-regions.md)
+    Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)
     The context.
 
 *result*
@@ -39,9 +37,9 @@ public NavigationResult(
 
 # NavigationResult Constructor (NavigationContext, Nullable(Of Boolean))
 
-Initializes a new instance of the [NavigationResult](navigationresult-class-mspp-regions.md) class.
+Initializes a new instance of the [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -56,13 +54,11 @@ Public Sub New (
 	result As Nullable(Of Boolean)
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *context*
 
-    Type: [Microsoft.Practices.Prism.Regions.NavigationContext](navigationcontext-class-mspp-regions.md)
+    Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)
     The context.
 
 *result*
@@ -72,10 +68,10 @@ Public Sub New (
 
 ## See Also
 
-[NavigationResult Class](navigationresult-class-mspp-regions.md)
+[NavigationResult Class](/patterns-practices/reference/navigationresult-class-mspp-regions)
 
-[NavigationResult Members](navigationresult-members-mspp-regions.md)
+[NavigationResult Members](/patterns-practices/reference/navigationresult-members-mspp-regions)
 
 NavigationResult Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

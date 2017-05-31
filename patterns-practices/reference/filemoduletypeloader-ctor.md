@@ -4,16 +4,12 @@ Title: 'FileModuleTypeLoader Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader.\#ctor'
 ms:mtpsurl: 'filemoduletypeloader-constructor-iassemblyresolver-mspp-modularity.md'
 ---
+
+# FileModuleTypeLoader Constructor
 
-Prism Class Library
+## Overload List
 
-FileModuleTypeLoader Constructor
-================================
 
-Overload List
--------------
-
-<span id="overloadMembersTableToggle"></span>
 <table>
 
 <thead>
@@ -25,14 +21,14 @@ Overload List
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.">FileModuleTypeLoader()()()</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader">FileModuleTypeLoader</a> class.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.">FileModuleTypeLoader(IAssemblyResolver)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader">FileModuleTypeLoader</a> class.
@@ -41,11 +37,8 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-See Also
---------
-
-
-[FileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader)
+## See Also
+[FileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader)
 
 [FileModuleTypeLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.filemoduletypeloader)
 

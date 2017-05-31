@@ -7,9 +7,9 @@ ms:mtpsurl: 'interactionrequesttrigger-constructor-mspp-interactivity-interactio
 
 # InteractionRequestTrigger Constructor
 
-Initializes a new instance of the [InteractionRequestTrigger](interactionrequesttrigger-class-mspp-interactivity-interactionrequest.md) class
+Initializes a new instance of the [InteractionRequestTrigger](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger(v=pandp.50)) class
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](mspp-interactivity-interactionrequest-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -21,8 +21,6 @@ Initializes a new instance of the [InteractionRequestTrigger](interactionrequest
 public InteractionRequestTrigger()
 ```
 
-## Syntax
-
 ```VB
 'Declaration
 Public Sub New
@@ -30,8 +28,8 @@ Public Sub New
 
 ## See Also
 
-[InteractionRequestTrigger Class](interactionrequesttrigger-class-mspp-interactivity-interactionrequest.md)
+[InteractionRequestTrigger Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger(v=pandp.50))
 
-[InteractionRequestTrigger Members](interactionrequesttrigger-members-mspp-interactivity-interactionrequest.md)
+[InteractionRequestTrigger Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequesttrigger_members(v=pandp.50))
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace.md)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))

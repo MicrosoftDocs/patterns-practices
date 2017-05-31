@@ -9,7 +9,7 @@ ms:mtpsurl: 'itemmetadata-item-property-mspp-regions.md'
 
 Gets the wrapped item.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -37,8 +37,8 @@ The wrapped item.
 
 ## See Also
 
-[ItemMetadata Class](itemmetadata-class-mspp-regions.md)
+[ItemMetadata Class](/patterns-practices/reference/itemmetadata-class-mspp-regions)
 
-[ItemMetadata Members](itemmetadata-members-mspp-regions.md)
+[ItemMetadata Members](/patterns-practices/reference/itemmetadata-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

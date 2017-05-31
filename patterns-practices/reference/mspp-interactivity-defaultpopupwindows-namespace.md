@@ -4,9 +4,7 @@ Title: 'Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace ()
 ms:assetid: 'N:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows'
 ms:mtpsurl: 'mspp-interactivity-defaultpopupwindows-namespace.md'
 ---
-
-Prism Class Library
-
+
 # Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace
 
 ## Classes
@@ -22,14 +20,14 @@ Prism Class Library
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-class.gif" title="Public class" /></td>
+<td>![Public class](/images/public-class.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow">DefaultConfirmationWindow</a></td>
 <td><div class="summary">
 Interaction logic for ConfirmationChildWindow.xaml
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-class.gif" title="Public class" /></td>
+<td>![Public class](/images/public-class.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow">DefaultNotificationWindow</a></td>
 <td><div class="summary">
 Interaction logic for NotificationChildWindow.xaml

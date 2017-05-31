@@ -4,25 +4,18 @@ Title: 'CompositePresentationEvent(TPayload).Contains Method (Action(TPayload)) 
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Contains(System.Action{\`0})'
 ms:mtpsurl: 'compositepresentationevent-tpayload-contains-method-action-tpayload-mspp-events.md'
 ---
-
-Prism Class Library
-
-CompositePresentationEvent&lt;TPayload&gt;.Contains Method (Action&lt;TPayload&gt;)
-=====================================================================================================================
+
+# CompositePresentationEvent&lt;TPayload&gt;.Contains Method (Action&lt;TPayload&gt;)
 
 Returns **truetrue** (**True** in Visual Basic) if there is a subscriber matching [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8).
 
-**Namespace:** [Microsoft.Practices.Prism.Events](mspp-events-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
-
-
-```C#
+## Syntax
+```C#
 public virtual bool Contains(
 	Action<TPayload> subscriber
 )
@@ -33,12 +26,10 @@ Public Overridable Function Contains (
 	subscriber As Action(Of TPayload)
 ) As Boolean
 ```
-
-
-### Parameters
+### Parameters
 
 *subscriber*  
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](compositepresentationevent-tpayload-class-mspp-events.md)&gt;
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)&gt;
 
 The [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) used when subscribing to the event.
 
@@ -48,14 +39,11 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 **truetrue** (**True** in Visual Basic) if there is an [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) that matches; otherwise **falsefalse** (**False** in Visual Basic).
 
-See Also
---------
+## See Also
+[CompositePresentationEvent&lt;TPayload&gt; Class](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)
 
+[CompositePresentationEvent&lt;TPayload&gt; Members](/patterns-practices/reference/compositepresentationevent-tpayload-members-mspp-events)
 
-[CompositePresentationEvent&lt;TPayload&gt; Class](compositepresentationevent-tpayload-class-mspp-events.md)
+[Contains Overload](/patterns-practices/reference/compositepresentationevent-tpayload-contains-method-mspp-events)
 
-[CompositePresentationEvent&lt;TPayload&gt; Members](compositepresentationevent-tpayload-members-mspp-events.md)
-
-[Contains Overload](compositepresentationevent-tpayload-contains-method-mspp-events.md)
-
-[Microsoft.Practices.Prism.Events Namespace](mspp-events-namespace.md)
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)

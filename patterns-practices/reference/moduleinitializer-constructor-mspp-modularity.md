@@ -5,39 +5,45 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializer.\#ctor(Mic
 ms:mtpsurl: 'moduleinitializer-constructor-mspp-modularity.md'
 ---
 
-Prism Class Library
+# ModuleInitializer Constructor
 
-ModuleInitializer Constructor
-=============================
+Initializes a new instance of [ModuleInitializer](/patterns-practices/reference/moduleinitializer-class-mspp-modularity).
 
-Initializes a new instance of [ModuleInitializer](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer).
-
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+```C#
+public ModuleInitializer(
+	IServiceLocator serviceLocator,
+	ILoggerFacade loggerFacade
+)
+```
 
-
-public ModuleInitializer( IServiceLocator serviceLocator, ILoggerFacade loggerFacade )Public Sub New ( serviceLocator As IServiceLocator, loggerFacade As ILoggerFacade )
+```VB
+'Declaration
+Public Sub New ( 
+	serviceLocator As IServiceLocator,
+	loggerFacade As ILoggerFacade
+)
+```
 
 ### Parameters
 
-serviceLocator  
-Type: IServiceLocator
+*serviceLocator*  
+Type: IServiceLocator  
 The container that will be used to resolve the modules by specifying its type.
 
-loggerFacade  
-Type: [Microsoft.Practices.Prism.Logging.ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade)
+*loggerFacade*  
+Type: [Microsoft.Practices.Prism.Logging.ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging)  
 The logger to use.
 
-See Also
---------
+## See Also
 
+[ModuleInitializer Class](/patterns-practices/reference/moduleinitializer-class-mspp-modularity)
 
-[ModuleInitializer Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer)
+[ModuleInitializer Members](/patterns-practices/reference/moduleinitializer-members-mspp-modularity)
 
-[ModuleInitializer Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinitializer)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

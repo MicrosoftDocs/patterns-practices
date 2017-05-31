@@ -4,18 +4,14 @@ Title: 'SyncRegionContextWithHostBehavior Fields (Microsoft.Practices.Prism.Regi
 ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior'
 ms:mtpsurl: 'syncregioncontextwithhostbehavior-fields-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-SyncRegionContextWithHostBehavior Fields
-========================================
+
+# SyncRegionContextWithHostBehavior Fields
 
 The [SyncRegionContextWithHostBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior) type exposes the following members.
 
-Fields
-------
+## Fields
 
-<span id="fieldTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,7 +23,7 @@ Fields
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430952.pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Gg430952.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public field](/images/pubfield.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior.behaviorkey">BehaviorKey</a></td>
 <td><div class="summary">
 Name that identifies the SyncRegionContextWithHostBehavior behavior in a collection of RegionsBehaviors.
@@ -36,10 +32,7 @@ Name that identifies the SyncRegionContextWithHostBehavior behavior in a collect
 </tbody>
 </table>
 
-See Also
---------
-
-
-[SyncRegionContextWithHostBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior)
+## See Also
+[SyncRegionContextWithHostBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

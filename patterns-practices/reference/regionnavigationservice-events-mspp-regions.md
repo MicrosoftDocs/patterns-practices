@@ -4,16 +4,12 @@ Title: 'RegionNavigationService Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.RegionNavigationService'
 ms:mtpsurl: 'regionnavigationservice-events-mspp-regions.md'
 ---
+
+# RegionNavigationService Events
 
-Prism Class Library
+The [RegionNavigationService](/patterns-practices/reference/regionnavigationservice-class-mspp-regions) type exposes the following members.
 
-RegionNavigationService Events
-==============================
-
-The [RegionNavigationService](regionnavigationservice-class-mspp-regions.md) type exposes the following members.
-
-Events
-------
+## Events
 
 <table>
 
@@ -26,21 +22,21 @@ Events
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430908.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigated">Navigated</a></td>
 <td><div class="summary">
 Raised when the region is navigated to content.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430908.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigating">Navigating</a></td>
 <td><div class="summary">
 Raised when the region is about to be navigated to content.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430908.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigationfailed">NavigationFailed</a></td>
 <td><div class="summary">
 Raised when a navigation request fails.
@@ -49,10 +45,7 @@ Raised when a navigation request fails.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
+[RegionNavigationService Class](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)
 
-
-[RegionNavigationService Class](regionnavigationservice-class-mspp-regions.md)
-
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

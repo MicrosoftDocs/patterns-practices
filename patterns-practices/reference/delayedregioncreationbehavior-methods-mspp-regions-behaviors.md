@@ -4,18 +4,14 @@ Title: 'DelayedRegionCreationBehavior Methods (Microsoft.Practices.Prism.Regions
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior'
 ms:mtpsurl: 'delayedregioncreationbehavior-methods-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-DelayedRegionCreationBehavior Methods
-=====================================
+
+# DelayedRegionCreationBehavior Methods
 
 The [DelayedRegionCreationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior) type exposes the following members.
 
-Methods
--------
+## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,28 +23,28 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.attach">Attach</a></td>
 <td><div class="summary">
 Start monitoring the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager">RegionManager</a> and the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.targetelement">TargetElement</a> to detect when the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.targetelement">TargetElement</a> becomes part of the Visual Tree. When that happens, the Region will be created and the behavior will <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.detach">Detach()()()</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431072.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.createregion(system.windows.dependencyobject%2csystem.string)">CreateRegion</a></td>
 <td><div class="summary">
 Method that will create the region, by calling the right <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter">IRegionAdapter</a>.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.detach">Detach</a></td>
 <td><div class="summary">
 Stop monitoring the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager">RegionManager</a> and the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.targetelement">TargetElement</a>, so that this behavior can be garbage collected.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/bsc2ak47">Equals</a></td>
 <td><div class="summary">
 Determines whether the specified <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a> is equal to the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
@@ -56,7 +52,7 @@ Determines whether the specified <a href="http://msdn.microsoft.com/en-us/librar
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431072.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/4k87zsw7">Finalize</a></td>
 <td><div class="summary">
 Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
@@ -64,7 +60,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/zdee4b3y">GetHashCode</a></td>
 <td><div class="summary">
 Serves as a hash function for a particular type.
@@ -72,7 +68,7 @@ Serves as a hash function for a particular type.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/dfwy45w9">GetType</a></td>
 <td><div class="summary">
 Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
@@ -80,7 +76,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431072.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/57ctke0a">MemberwiseClone</a></td>
 <td><div class="summary">
 Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
@@ -88,14 +84,14 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.onupdatingregions(system.object%2csystem.eventargs)">OnUpdatingRegions</a></td>
 <td><div class="summary">
 Called when the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager">RegionManager</a> is updating it's <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regions">Regions</a> collection.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">ToString</a></td>
 <td><div class="summary">
 Returns a string that represents the current object.
@@ -105,10 +101,7 @@ Returns a string that represents the current object.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
+## See Also
+[DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

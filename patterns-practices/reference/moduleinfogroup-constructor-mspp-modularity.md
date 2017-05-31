@@ -5,29 +5,29 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.\#ctor'
 ms:mtpsurl: 'moduleinfogroup-constructor-mspp-modularity.md'
 ---
 
-Prism Class Library
+# ModuleInfoGroup Constructor
 
-ModuleInfoGroup Constructor
-===========================
+Initializes a new instance of the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity) class
 
-Initializes a new instance of the [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup) class
-
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+```C#
+public ModuleInfoGroup()
+```
+```VB
+'Declaration
+Public Sub New
+```
 
-public ModuleInfoGroup()Public Sub New
+## See Also
 
-See Also
---------
+[ModuleInfoGroup Class](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)
 
+[ModuleInfoGroup Members](/patterns-practices/reference/moduleinfogroup-members-mspp-modularity)
 
-[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
-
-[ModuleInfoGroup Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroup)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

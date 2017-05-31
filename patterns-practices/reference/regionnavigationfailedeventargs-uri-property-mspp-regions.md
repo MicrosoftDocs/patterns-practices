@@ -4,11 +4,8 @@ Title: 'RegionNavigationFailedEventArgs.Uri Property (Microsoft.Practices.Prism.
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationFailedEventArgs.Uri'
 ms:mtpsurl: 'regionnavigationfailedeventargs-uri-property-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationFailedEventArgs.Uri Property
-================================================
+
+# RegionNavigationFailedEventArgs.Uri Property
 
 Gets the navigation URI
 
@@ -18,24 +15,18 @@ Gets the navigation URI
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public Uri Uri { get; }Public ReadOnly Property Uri As Uri Get
+public Uri Uri { get; }Public ReadOnly Property Uri As Uri Get
 ### Property Value
 
 Type: [Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 The URI.
 
-Remarks
--------
+## Remarks
 
  This is a convenience accessor around NavigationContext.Uri.
 
-See Also
---------
-
-
-[RegionNavigationFailedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs)
+## See Also
+[RegionNavigationFailedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs)
 
 [RegionNavigationFailedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationfailedeventargs)
 

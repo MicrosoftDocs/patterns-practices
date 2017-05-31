@@ -4,11 +4,8 @@ Title: 'ListDictionary(TKey, TValue) Constructor (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.\#ctor'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-constructor-mspp.md'
 ---
-
-Prism Class Library
-
-ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Constructor
-=============================================================
+
+# ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Constructor
 
 Initializes a new instance of the [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602) class
 
@@ -18,15 +15,10 @@ Initializes a new instance of the [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public ListDictionary()Public Sub New
 
-
-public ListDictionary()Public Sub New
-
-See Also
---------
-
-
-[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
+## See Also
+[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 
 [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.listdictionary%602)
 

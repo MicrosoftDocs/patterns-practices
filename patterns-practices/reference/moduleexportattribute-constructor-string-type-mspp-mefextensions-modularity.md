@@ -5,41 +5,50 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAt
 ms:mtpsurl: 'moduleexportattribute-constructor-mspp-mefextensions-modularity.md'
 ---
 
-Prism Class Library
+# ModuleExportAttribute Constructor (String, Type)
 
-ModuleExportAttribute Constructor (String, Type)
-================================================
+Initializes a new instance of the [ModuleExportAttribute](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute(v=pandp.50)) class.
 
-Initializes a new instance of the [ModuleExportAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute) class.
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+```C#
+public ModuleExportAttribute(
+	string moduleName,
+	Type moduleType
+)
+```
 
+```VB
+'Declaration
+Public Sub New ( 
+	moduleName As String,
+	moduleType As Type
+)
+```
 public ModuleExportAttribute( string moduleName, Type moduleType )Public Sub New ( moduleName As String, moduleType As Type )
 
 ### Parameters
 
-moduleName  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+*moduleName*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)   
 The contract name of the module.
 
-moduleType  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
+*moduleType*   
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)   
 The concrete type of the module being exported. Not typeof(IModule).
 
-See Also
---------
+## See Also
 
+[ModuleExportAttribute Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute(v=pandp.50))
 
-[ModuleExportAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute)
+[ModuleExportAttribute Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute_members(v=pandp.50))
 
-[ModuleExportAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.moduleexportattribute)
+ModuleExportAttribute Overload
 
-[ModuleExportAttribute Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.mefextensions.modularity.moduleexportattribute.)
-
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.modularity(v=pandp.50))

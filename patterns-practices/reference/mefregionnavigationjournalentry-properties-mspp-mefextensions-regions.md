@@ -4,16 +4,12 @@ Title: 'MefRegionNavigationJournalEntry Properties (Microsoft.Practices.Prism.Me
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournalEntry'
 ms:mtpsurl: 'mefregionnavigationjournalentry-properties-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
-MefRegionNavigationJournalEntry Properties
-==========================================
+
+# MefRegionNavigationJournalEntry Properties
 
 The [MefRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry) type exposes the following members.
 
-Properties
-----------
+## Properties
 
 <table>
 
@@ -26,7 +22,7 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431155.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.parameters">Parameters</a></td>
 <td><div class="summary">
 Gets or sets the NavigationParameters instance.
@@ -34,7 +30,7 @@ Gets or sets the NavigationParameters instance.
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry">RegionNavigationJournalEntry</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431155.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.uri">Uri</a></td>
 <td><div class="summary">
 Gets or sets the URI.
@@ -44,10 +40,7 @@ Gets or sets the URI.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefRegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry)
+## See Also
+[MefRegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)

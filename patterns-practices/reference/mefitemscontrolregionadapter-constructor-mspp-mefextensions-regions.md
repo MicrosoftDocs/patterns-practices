@@ -5,35 +5,41 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefItemsControlRe
 ms:mtpsurl: 'mefitemscontrolregionadapter-constructor-mspp-mefextensions-regions.md'
 ---
 
-Prism Class Library
 
-MefItemsControlRegionAdapter Constructor
-========================================
+# MefItemsControlRegionAdapter Constructor
 
-Initializes a new instance of the [MefItemsControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefitemscontrolregionadapter) class.
+Initializes a new instance of the [MefItemsControlRegionAdapter](/patterns-practices/reference/mefitemscontrolregionadapter-class-mspp-mefextensions-regions) class.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-
-public MefItemsControlRegionAdapter( IRegionBehaviorFactory regionBehaviorFactory )Public Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
+```C#
+public MefItemsControlRegionAdapter(
+	IRegionBehaviorFactory regionBehaviorFactory
+)
+```
+```VB
+'Declaration
+Public Sub New ( 
+	regionBehaviorFactory As IRegionBehaviorFactory
+)
+```
 
 ### Parameters
 
-regionBehaviorFactory  
-Type: [Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory)
+*regionBehaviorFactory*  
+Type: [Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions)   
 The factory used to create the region behaviors to attach to the created regions.
 
-See Also
---------
+## See Also
 
+[MefItemsControlRegionAdapter Class](/patterns-practices/reference/mefitemscontrolregionadapter-class-mspp-mefextensions-regions)
 
-[MefItemsControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefitemscontrolregionadapter)
+[MefItemsControlRegionAdapter Members](/patterns-practices/reference/mefitemscontrolregionadapter-members-mspp-mefextensions-regions)
 
-[MefItemsControlRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefitemscontrolregionadapter)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

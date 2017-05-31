@@ -5,31 +5,32 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewRegistrationException.\#cto
 ms:mtpsurl: 'viewregistrationexception-constructor-mspp-regions.md'
 ---
 
-Prism Class Library
 
-ViewRegistrationException Constructor
-=====================================
+# ViewRegistrationException Constructor
 
-Initializes a new instance of the [ViewRegistrationException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception) class.
+Initializes a new instance of the [ViewRegistrationException](/patterns-practices/reference/viewregistrationexception-class-mspp-regions) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+~~~C#
+public ViewRegistrationException()
+~~~
+~~~VB
+'Declaration
+Public Sub New
+~~~
 
+## See Also
 
-public ViewRegistrationException()Public Sub New
+[ViewRegistrationException Class](/patterns-practices/reference/viewregistrationexception-class-mspp-regions)
 
-See Also
---------
+[ViewRegistrationException Members](/patterns-practices/reference/viewregistrationexception-members-mspp-regions)
 
+ViewRegistrationException Overload
 
-[ViewRegistrationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception)
-
-[ViewRegistrationException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewregistrationexception)
-
-[ViewRegistrationException Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.regions.viewregistrationexception.)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

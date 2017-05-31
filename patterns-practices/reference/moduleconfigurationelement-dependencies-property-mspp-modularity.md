@@ -4,11 +4,8 @@ Title: 'ModuleConfigurationElement.Dependencies Property (Microsoft.Practices.Pr
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement.Dependencies'
 ms:mtpsurl: 'moduleconfigurationelement-dependencies-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleConfigurationElement.Dependencies Property
-====================================================
+
+# ModuleConfigurationElement.Dependencies Property
 
 Gets or sets the modules this module depends on.
 
@@ -18,19 +15,14 @@ Gets or sets the modules this module depends on.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public ModuleDependencyCollection Dependencies { get; set; }Public Property Dependencies As ModuleDependencyCollection Get Set
+public ModuleDependencyCollection Dependencies { get; set; }Public Property Dependencies As ModuleDependencyCollection Get Set
 ### Property Value
 
 Type: [ModuleDependencyCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
 The names of the modules that this depends on.
 
-See Also
---------
-
-
-[ModuleConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
+## See Also
+[ModuleConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
 
 [ModuleConfigurationElement Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleconfigurationelement)
 

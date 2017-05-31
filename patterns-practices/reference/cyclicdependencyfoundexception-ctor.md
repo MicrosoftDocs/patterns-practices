@@ -5,31 +5,33 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundExcepti
 ms:mtpsurl: 'cyclicdependencyfoundexception-constructor-mspp-modularity.md'
 ---
 
-Prism Class Library
 
-CyclicDependencyFoundException Constructor
-==========================================
+# CyclicDependencyFoundException Constructor
 
-Initializes a new instance of the [CyclicDependencyFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception) class.
+Initializes a new instance of the [CyclicDependencyFoundException](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+```C#
+public CyclicDependencyFoundException()
+```
+```VB
+'Declaration
+Public Sub New
+```
 
-public CyclicDependencyFoundException()Public Sub New
+## See Also
 
-See Also
---------
+[CyclicDependencyFoundException Class](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity)
 
+[CyclicDependencyFoundException Members](/patterns-practices/reference/cyclicdependencyfoundexception-members-mspp-modularity)
 
-[CyclicDependencyFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
+CyclicDependencyFoundException Overload
 
-[CyclicDependencyFoundException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
-
-[CyclicDependencyFoundException Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.cyclicdependencyfoundexception.)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

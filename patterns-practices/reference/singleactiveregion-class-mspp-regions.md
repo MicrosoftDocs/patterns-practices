@@ -9,7 +9,7 @@ ms:mtpsurl: 'singleactiveregion-class-mspp-regions.md'
 
 Region that allows a maximum of one active view at a time.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -30,11 +30,11 @@ Public Class SingleActiveRegion
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.Region](region-class-mspp-regions.md)<br/>
+&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.Region](/patterns-practices/reference/region-class-mspp-regions)<br/>
 &nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.Regions.SingleActiveRegion
 
 ## See Also
 
-[SingleActiveRegion Members](singleactiveregion-members-mspp-regions.md)
+[SingleActiveRegion Members](/patterns-practices/reference/singleactiveregion-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

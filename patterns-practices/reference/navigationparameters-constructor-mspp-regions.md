@@ -4,13 +4,11 @@ Title: 'NavigationParameters Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationParameters.\#ctor'
 ms:mtpsurl: 'navigationparameters-constructor-mspp-regions.md'
 ---
+# NavigationParameters Constructor
 
+Initializes a new instance of the [NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions) class.
 
-# NavigationParameters Constructor
-
-Initializes a new instance of the [NavigationParameters](navigationparameters-class-mspp-regions.md) class.
-
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,12 +26,10 @@ Public Sub New
 ```
 
 ## See Also
+[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)
 
-
-[NavigationParameters Class](navigationparameters-class-mspp-regions.md)
-
-[NavigationParameters Members](navigationparameters-members-mspp-regions.md)
+[NavigationParameters Members](/patterns-practices/reference/navigationparameters-members-mspp-regions)
 
 NavigationParameters Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

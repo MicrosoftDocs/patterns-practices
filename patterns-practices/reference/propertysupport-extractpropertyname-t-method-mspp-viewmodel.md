@@ -9,7 +9,7 @@ ms:mtpsurl: 'propertysupport-extractpropertyname-t-method-mspp-viewmodel.md'
 
 Extracts the property name from a property expression.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](/patterns-practices/reference/mspp-viewmodel-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -22,9 +22,7 @@ public static string ExtractPropertyName<T>(
 	Expression<Func<T>> propertyExpression
 )
 ```
-
-
-### Parameters
+### Parameters
 
 *propertyExpression* 
 
@@ -70,17 +68,17 @@ Or, the property is static.</td>
 
 ## See Also
 
-[PropertySupport Class](propertysupport-class-mspp-viewmodel.md)
+[PropertySupport Class](/patterns-practices/reference/propertysupport-class-mspp-viewmodel)
 
-[PropertySupport Members](propertysupport-members-mspp-viewmodel.md)
+[PropertySupport Members](/patterns-practices/reference/propertysupport-members-mspp-viewmodel)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace.md)
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)
 
 # PropertySupport.ExtractPropertyName(Of T) Method
 
 Extracts the property name from a property expression.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](/patterns-practices/reference/mspp-viewmodel-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -94,9 +92,7 @@ Public Shared Function ExtractPropertyName(Of T) (
 	propertyExpression As Expression(Of Func(Of T))
 ) As String
 ```
-
-
-### Parameters
+### Parameters
 
 *propertyExpression*
  
@@ -141,8 +137,8 @@ Or, the property is static.</td>
 
 ## See Also
 
-[PropertySupport Class](propertysupport-class-mspp-viewmodel.md)
+[PropertySupport Class](/patterns-practices/reference/propertysupport-class-mspp-viewmodel)
 
-[PropertySupport Members](propertysupport-members-mspp-viewmodel.md)
+[PropertySupport Members](/patterns-practices/reference/propertysupport-members-mspp-viewmodel)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace.md)
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)

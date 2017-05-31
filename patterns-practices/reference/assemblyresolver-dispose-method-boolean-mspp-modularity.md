@@ -4,11 +4,8 @@ Title: 'AssemblyResolver.Dispose Method (Boolean) (Microsoft.Practices.Prism.Mod
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.AssemblyResolver.Dispose(System.Boolean)'
 ms:mtpsurl: 'assemblyresolver-dispose-method-boolean-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-AssemblyResolver.Dispose Method (Boolean)
-=============================================
+
+# AssemblyResolver.Dispose Method (Boolean)
 
 Disposes the associated [AssemblyResolver](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver).
 
@@ -18,9 +15,7 @@ Disposes the associated [AssemblyResolver](https://msdn.microsoft.com/library/mi
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-protected virtual void Dispose( bool disposing )Protected Overridable Sub Dispose ( disposing As Boolean )
+protected virtual void Dispose( bool disposing )Protected Overridable Sub Dispose ( disposing As Boolean )
 
 ### Parameters
 
@@ -28,11 +23,8 @@ disposing
 Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 When trueTruetruetrue (True in Visual Basic), it is being called from the Dispose method.
 
-See Also
---------
-
-
-[AssemblyResolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver)
+## See Also
+[AssemblyResolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver)
 
 [AssemblyResolver Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.assemblyresolver)
 

@@ -7,9 +7,9 @@ ms:mtpsurl: 'region-class-mspp-regions.md'
 
 # Region Class
 
-Implementation of [IRegion](iregion-interface-mspp-regions.md) that allows multiple active views.
+Implementation of [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) that allows multiple active views.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,11 +32,11 @@ Public Class Region
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
   Microsoft.Practices.Prism.Regions.Region<br/>
-    [Microsoft.Practices.Prism.Regions.AllActiveRegion](allactiveregion-class-mspp-regions.md)<br/>
-    [Microsoft.Practices.Prism.Regions.SingleActiveRegion](singleactiveregion-class-mspp-regions.md)
+    [Microsoft.Practices.Prism.Regions.AllActiveRegion](/patterns-practices/reference/allactiveregion-class-mspp-regions)<br/>
+    [Microsoft.Practices.Prism.Regions.SingleActiveRegion](/patterns-practices/reference/singleactiveregion-class-mspp-regions)
 
 ## See Also
 
-[Region Members](region-members-mspp-regions.md)
+[Region Members](/patterns-practices/reference/region-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

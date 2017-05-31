@@ -9,7 +9,7 @@ ms:mtpsurl: 'mefservicelocatoradapter-class-mspp-mefextensions.md'
 
 Provides service location utilizing the Managed Extensibility Framework container.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](mspp-mefextensions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](/patterns-practices/reference/mspp-mefextensions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -35,6 +35,6 @@ Public Class MefServiceLocatorAdapter
 
 ## See Also
 
-[MefServiceLocatorAdapter Members](mefservicelocatoradapter-members-mspp-mefextensions.md)
+[MefServiceLocatorAdapter Members](/patterns-practices/reference/mefservicelocatoradapter-members-mspp-mefextensions)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](mspp-mefextensions-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)

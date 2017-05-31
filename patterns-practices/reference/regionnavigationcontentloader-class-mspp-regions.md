@@ -4,11 +4,8 @@ Title: 'RegionNavigationContentLoader Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader'
 ms:mtpsurl: 'regionnavigationcontentloader-class-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationContentLoader Class
-===================================
+
+# RegionNavigationContentLoader Class
 
 Implementation of [IRegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader) that relies on a IServiceLocator to create new views when necessary.
 
@@ -18,22 +15,16 @@ Implementation of [IRegionNavigationContentLoader](https://msdn.microsoft.com/li
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public class RegionNavigationContentLoader : IRegionNavigationContentLoaderPublic Class RegionNavigationContentLoader Implements IRegionNavigationContentLoader
 
+## Inheritance Hierarchy
 
-public class RegionNavigationContentLoader : IRegionNavigationContentLoaderPublic Class RegionNavigationContentLoader Implements IRegionNavigationContentLoader
-
-Inheritance Hierarchy
----------------------
-
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader
     [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader)
     [Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader)
 
-See Also
---------
-
-
-[RegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationcontentloader)
+## See Also
+[RegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationcontentloader)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

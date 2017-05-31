@@ -4,11 +4,8 @@ Title: 'IRegionNavigationJournal Interface (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal'
 ms:mtpsurl: 'iregionnavigationjournal-interface-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionNavigationJournal Interface
-==================================
+
+# IRegionNavigationJournal Interface
 
 Provides journaling of current, back, and forward navigation within regions.
 
@@ -18,14 +15,9 @@ Provides journaling of current, back, and forward navigation within regions.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public interface IRegionNavigationJournalPublic Interface IRegionNavigationJournal
 
-
-public interface IRegionNavigationJournalPublic Interface IRegionNavigationJournal
-
-See Also
---------
-
-
-[IRegionNavigationJournal Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionnavigationjournal)
+## See Also
+[IRegionNavigationJournal Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionnavigationjournal)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

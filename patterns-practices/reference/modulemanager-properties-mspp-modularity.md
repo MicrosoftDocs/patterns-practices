@@ -4,18 +4,14 @@ Title: 'ModuleManager Properties (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleManager'
 ms:mtpsurl: 'modulemanager-properties-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleManager Properties
-========================
+
+# ModuleManager Properties
 
 The [ModuleManager](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager) type exposes the following members.
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,14 +23,14 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431177.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
+<td>![Protected property](/images/protproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.modulecatalog">ModuleCatalog</a></td>
 <td><div class="summary">
 The module catalog specified in the constructor.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431177.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.moduletypeloaders">ModuleTypeLoaders</a></td>
 <td><div class="summary">
 Returns the list of registered <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader">IModuleTypeLoader</a> instances that will be used to load the types of modules.
@@ -43,10 +39,7 @@ Returns the list of registered <a href="https://msdn.microsoft.com/library/micro
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
+## See Also
+[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

@@ -5,31 +5,33 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Logging.TextLogger.\#ctor'
 ms:mtpsurl: 'textlogger-constructor-mspp-logging.md'
 ---
 
-Prism Class Library
+# TextLogger Constructor
 
-TextLogger Constructor
-======================
+Initializes a new instance of [TextLogger](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.textlogger(v=pandp.50)) that writes to the console output.
 
-Initializes a new instance of [TextLogger](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger) that writes to the console output.
+**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging(v=pandp.50))
 
-**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+```C#
+public TextLogger()
+```
 
-public TextLogger()Public Sub New
+```VB
+'Declaration
+Public Sub New
+```
 
-See Also
---------
+## See Also
 
+[TextLogger Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.textlogger(v=pandp.50))
 
-[TextLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger)
+[TextLogger Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.textlogger_members(v=pandp.50))
 
-[TextLogger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.logging.textlogger)
+TextLogger Overload
 
-[TextLogger Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.logging.textlogger.)
-
-[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
+[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging(v=pandp.50))

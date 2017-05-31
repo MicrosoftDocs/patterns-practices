@@ -4,11 +4,8 @@ Title: 'ModuleInitializer.HandleModuleInitializationError Method (Microsoft.Prac
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializer.HandleModuleInitializationError(Microsoft.Practices.Prism.Modularity.ModuleInfo,System.String,System.Exception)'
 ms:mtpsurl: 'moduleinitializer-handlemoduleinitializationerror-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInitializer.HandleModuleInitializationError Method
-============================================================
+
+# ModuleInitializer.HandleModuleInitializationError Method
 
 Handles any exception occurred in the module Initialization process, logs the error using the [ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade) and throws a [ModuleInitializeException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception). This method can be overridden to provide a different behavior.
 
@@ -18,9 +15,7 @@ Handles any exception occurred in the module Initialization process, logs the er
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public virtual void HandleModuleInitializationError( ModuleInfo moduleInfo, string assemblyName, Exception exception )Public Overridable Sub HandleModuleInitializationError ( moduleInfo As ModuleInfo, assemblyName As String, exception As Exception )
+public virtual void HandleModuleInitializationError( ModuleInfo moduleInfo, string assemblyName, Exception exception )Public Overridable Sub HandleModuleInitializationError ( moduleInfo As ModuleInfo, assemblyName As String, exception As Exception )
 
 ### Parameters
 
@@ -33,22 +28,18 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The assembly name.
 
 exception  
-Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
+Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
 The exception thrown that is the cause of the current error.
 
-Exceptions
-----------
+## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                                                                                                         | Condition |
 |-------------------------------------------------------------------------------------------------------------------------------------------------------------------|-----------|
 | [Microsoft.Practices.Prism.Modularity.ModuleInitializeException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception) |           |
 
-See Also
---------
-
-
-[ModuleInitializer Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer)
+## See Also
+[ModuleInitializer Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer)
 
 [ModuleInitializer Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinitializer)
 

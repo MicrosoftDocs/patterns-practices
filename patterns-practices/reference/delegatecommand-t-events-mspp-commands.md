@@ -4,18 +4,14 @@ Title: 'DelegateCommand(T) Events (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Commands.DelegateCommand\`1'
 ms:mtpsurl: 'delegatecommand-t-events-mspp-commands.md'
 ---
-
-Prism Class Library
-
-DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Events
-==============================================
+
+# DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Events
 
 The [DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601) type exposes the following members.
 
-Events
-------
+## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,7 +23,7 @@ Events
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405733.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase.canexecutechanged">CanExecuteChanged</a></td>
 <td><div class="summary">
 Occurs when changes occur that affect whether or not the command should execute. You must keep a hard reference to the handler to avoid garbage collection and unexpected results. See remarks for more information.
@@ -35,7 +31,7 @@ Occurs when changes occur that affect whether or not the command should execute.
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase">DelegateCommandBase</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405733.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase.isactivechanged">IsActiveChanged</a></td>
 <td><div class="summary">
 Fired if the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase.isactive">IsActive</a> property changes.
@@ -45,10 +41,7 @@ Fired if the <a href="https://msdn.microsoft.com/library/microsoft.practices.pri
 </tbody>
 </table>
 
-See Also
---------
-
-
-[DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)
+## See Also
+[DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)

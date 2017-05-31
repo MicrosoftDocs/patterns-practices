@@ -4,22 +4,17 @@ Title: 'ModuleDownloadProgressChangedEventArgs Class (Microsoft.Practices.Prism.
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleDownloadProgressChangedEventArgs'
 ms:mtpsurl: 'moduledownloadprogresschangedeventargs-class-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleDownloadProgressChangedEventArgs Class
-============================================
+
+# ModuleDownloadProgressChangedEventArgs Class
 
 Provides progress information as a module downloads.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-
-
-## Syntax
+## Syntax
 
 ```C#
 public class ModuleDownloadProgressChangedEventArgs : ProgressChangedEventArgs
@@ -29,10 +24,9 @@ public class ModuleDownloadProgressChangedEventArgs : ProgressChangedEventArgs
 Public Class ModuleDownloadProgressChangedEventArgs Inherits ProgressChangedEventArgs
 ```
 
-Inheritance Hierarchy
----------------------
+## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
   [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
   
@@ -40,10 +34,7 @@ Inheritance Hierarchy
     
       Microsoft.Practices.Prism.Modularity.ModuleDownloadProgressChangedEventArgs
 
-See Also
---------
+## See Also
+[ModuleDownloadProgressChangedEventArgs Members](/patterns-practices/reference/moduledownloadprogresschangedeventargs-members-mspp-modularity)
 
-
-[ModuleDownloadProgressChangedEventArgs Members](moduledownloadprogresschangedeventargs-members-mspp-modularity.md)
-
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

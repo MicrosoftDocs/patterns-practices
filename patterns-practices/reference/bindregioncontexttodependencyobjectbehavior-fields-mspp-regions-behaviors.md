@@ -4,18 +4,14 @@ Title: 'BindRegionContextToDependencyObjectBehavior Fields (Microsoft.Practices.
 ms:assetid: 'Fields.T:Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior'
 ms:mtpsurl: 'bindregioncontexttodependencyobjectbehavior-fields-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-BindRegionContextToDependencyObjectBehavior Fields
-==================================================
+
+# BindRegionContextToDependencyObjectBehavior Fields
 
 The [BindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior) type exposes the following members.
 
-Fields
-------
+## Fields
 
-<span id="fieldTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,7 +23,7 @@ Fields
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430947.pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Gg430947.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public field](/images/pubfield.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior.behaviorkey">BehaviorKey</a></td>
 <td><div class="summary">
 The key of this behavior.
@@ -36,10 +32,7 @@ The key of this behavior.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[BindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior)
+## See Also
+[BindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

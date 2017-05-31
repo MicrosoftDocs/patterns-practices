@@ -20,7 +20,7 @@ ms:mtpsurl: 'unitybootstrapper-run-method-boolean-mspp-unityextensions.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.run">Run()()()</a></td>
 <td><div class="summary">
 Runs the bootstrapper process.
@@ -28,7 +28,7 @@ Runs the bootstrapper process.
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper.run(system.boolean)">Run(Boolean)</a></td>
 <td><div class="summary">
 Run the bootstrapper process.
@@ -40,8 +40,8 @@ Run the bootstrapper process.
 
 ## See Also
 
-[UnityBootstrapper Class](unitybootstrapper-class-mspp-unityextensions.md)
+[UnityBootstrapper Class](/patterns-practices/reference/unitybootstrapper-class-mspp-unityextensions)
 
-[UnityBootstrapper Members](unitybootstrapper-members-mspp-unityextensions.md)
+[UnityBootstrapper Members](/patterns-practices/reference/unitybootstrapper-members-mspp-unityextensions)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](mspp-unityextensions-namespace.md)
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)

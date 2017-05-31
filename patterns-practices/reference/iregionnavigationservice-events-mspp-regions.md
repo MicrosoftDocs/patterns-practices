@@ -4,18 +4,14 @@ Title: 'IRegionNavigationService Events (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Regions.IRegionNavigationService'
 ms:mtpsurl: 'iregionnavigationservice-events-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionNavigationService Events
-===============================
+
+# IRegionNavigationService Events
 
 The [IRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice) type exposes the following members.
 
-Events
-------
+## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,21 +23,21 @@ Events
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430902.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice.navigated">Navigated</a></td>
 <td><div class="summary">
 Raised when the region is navigated to content.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430902.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice.navigating">Navigating</a></td>
 <td><div class="summary">
 Raised when the region is about to be navigated to content.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430902.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice.navigationfailed">NavigationFailed</a></td>
 <td><div class="summary">
 Raised when a navigation request fails.
@@ -50,10 +46,7 @@ Raised when a navigation request fails.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegionNavigationService Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice)
+## See Also
+[IRegionNavigationService Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

@@ -4,16 +4,12 @@ Title: 'FileModuleTypeLoader Events (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader'
 ms:mtpsurl: 'filemoduletypeloader-events-mspp-modularity.md'
 ---
+
+# FileModuleTypeLoader Events
 
-Prism Class Library
+The [FileModuleTypeLoader](/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity) type exposes the following members.
 
-FileModuleTypeLoader Events
-===========================
-
-The [FileModuleTypeLoader](filemoduletypeloader-class-mspp-modularity.md) type exposes the following members.
-
-Events
-------
+## Events
 
 <table>
 
@@ -26,14 +22,14 @@ Events
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430893.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.loadmodulecompleted">LoadModuleCompleted</a></td>
 <td><div class="summary">
 Raised when a module is loaded or fails to load.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430893.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.moduledownloadprogresschanged">ModuleDownloadProgressChanged</a></td>
 <td><div class="summary">
 Raised repeatedly to provide progress as modules are loaded in the background.
@@ -42,10 +38,7 @@ Raised repeatedly to provide progress as modules are loaded in the background.
 </tbody>
 </table>
 
-See Also
---------
+## See Also
+[FileModuleTypeLoader Class](/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity)
 
-
-[FileModuleTypeLoader Class](filemoduletypeloader-class-mspp-modularity.md)
-
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

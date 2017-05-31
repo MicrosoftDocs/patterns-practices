@@ -4,11 +4,8 @@ Title: 'RegionNavigationEventArgs Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionNavigationEventArgs'
 ms:mtpsurl: 'regionnavigationeventargs-class-mspp-regions.md'
 ---
-
-Prism Class Library
-
-RegionNavigationEventArgs Class
-===============================
+
+# RegionNavigationEventArgs Class
 
 EventArgs used with the Navigated event.
 
@@ -18,21 +15,15 @@ EventArgs used with the Navigated event.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public class RegionNavigationEventArgs : EventArgsPublic Class RegionNavigationEventArgs Inherits EventArgs
 
+## Inheritance Hierarchy
 
-public class RegionNavigationEventArgs : EventArgsPublic Class RegionNavigationEventArgs Inherits EventArgs
-
-Inheritance Hierarchy
----------------------
-
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
     Microsoft.Practices.Prism.Regions.RegionNavigationEventArgs
 
-See Also
---------
-
-
-[RegionNavigationEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationeventargs)
+## See Also
+[RegionNavigationEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationeventargs)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

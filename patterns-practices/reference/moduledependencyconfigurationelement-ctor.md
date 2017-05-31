@@ -5,31 +5,31 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencyConfiguratio
 ms:mtpsurl: 'moduledependencyconfigurationelement-constructor-mspp-modularity.md'
 ---
 
-Prism Class Library
+# ModuleDependencyConfigurationElement Constructor
 
-ModuleDependencyConfigurationElement Constructor
-================================================
+Initializes a new instance of [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity).
 
-Initializes a new instance of [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement).
-
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+```C#
+public ModuleDependencyConfigurationElement()
+```
+```VB
+'Declaration
+Public Sub New
+```
 
-public ModuleDependencyConfigurationElement()Public Sub New
+## See Also
 
-See Also
---------
+[ModuleDependencyConfigurationElement Class](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity)
 
+[ModuleDependencyConfigurationElement Members](/patterns-practices/reference/moduledependencyconfigurationelement-members-mspp-modularity)
 
-[ModuleDependencyConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement)
+ModuleDependencyConfigurationElement Overload
 
-[ModuleDependencyConfigurationElement Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencyconfigurationelement)
-
-[ModuleDependencyConfigurationElement Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.moduledependencyconfigurationelement.)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

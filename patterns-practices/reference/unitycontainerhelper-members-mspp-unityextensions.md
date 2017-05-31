@@ -5,44 +5,39 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.UnityExtensions.UnityContain
 ms:mtpsurl: 'unitycontainerhelper-members-mspp-unityextensions.md'
 ---
 
-Prism Class Library
-
-UnityContainerHelper Members
-============================
+# UnityContainerHelper Members
 
 The [UnityContainerHelper](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper) type exposes the following members.
 
-Methods
--------
+## Methods
 
-<span id="methodTableToggle"></span>
 <table>
 
 <thead>
 <tr class="header">
-<th> </th>
+<th>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</th>
 <th>Name</th>
 <th>Description</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg405527.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper.istyperegistered(microsoft.practices.unity.iunitycontainer%2csystem.type)">IsTypeRegistered</a></td>
+<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
+<td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitycontainerhelper.istyperegistered(v=pandp.50)">IsTypeRegistered</a></td>
 <td><div class="summary">
 Returns whether a specified type has a type mapping registered in the container.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg405527.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper.tryresolve(microsoft.practices.unity.iunitycontainer%2csystem.type)">TryResolve(IUnityContainer, Type)</a></td>
+<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
+<td><a href="https://msdn.microsoft.com/en-us/library/gg419013(v=pandp.50)">TryResolve(IUnityContainer, Type)</a></td>
 <td><div class="summary">
 Utility method to try to resolve a service from the container avoiding an exception if the container cannot build the type.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg405527.static(en-us,PandP.50).gif" title="Static member" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper.tryresolve%60%601(microsoft.practices.unity.iunitycontainer)">TryResolve&lt;(Of &lt;(T&gt;)&gt;)(IUnityContainer)</a></td>
+<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
+<td><a href="https://msdn.microsoft.com/en-us/library/gg419014(v=pandp.50)">TryResolve(Of T)(IUnityContainer)</a></td>
 <td><div class="summary">
 Utility method to try to resolve a service from the container avoiding an exception if the container cannot build the type.
 </div></td>
@@ -50,10 +45,7 @@ Utility method to try to resolve a service from the container avoiding an except
 </tbody>
 </table>
 
-See Also
---------
+## See Also
+[UnityContainerHelper Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.unitycontainerhelper(v=pandp.50))
 
-
-[UnityContainerHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper)
-
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions(v=pandp.50))

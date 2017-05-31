@@ -4,11 +4,8 @@ Title: 'ServiceLocatorExtensions.TryResolve Method (IServiceLocator, Type) (Micr
 ms:assetid: 'M:Microsoft.Practices.Prism.ServiceLocatorExtensions.TryResolve(Microsoft.Practices.ServiceLocation.IServiceLocator,System.Type)'
 ms:mtpsurl: 'servicelocatorextensions-tryresolve-method-iservicelocator-type-mspp.md'
 ---
-
-Prism Class Library
-
-ServiceLocatorExtensions.TryResolve Method (IServiceLocator, Type)
-======================================================================
+
+# ServiceLocatorExtensions.TryResolve Method (IServiceLocator, Type)
 
 Attempts to resolve specified type from the underlying IServiceLocator.
 
@@ -18,9 +15,7 @@ Attempts to resolve specified type from the underlying IServiceLocator.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public static Object TryResolve( this IServiceLocator locator, Type type )&lt;ExtensionAttribute&gt; Public Shared Function TryResolve ( locator As IServiceLocator, type As Type ) As Object
+public static Object TryResolve( this IServiceLocator locator, Type type )&lt;ExtensionAttribute&gt; Public Shared Function TryResolve ( locator As IServiceLocator, type As Type ) As Object
 
 ### Parameters
 
@@ -40,24 +35,19 @@ T or null
 
 In Visual Basic and C\#, you can call this method as an instance method on any object of type IServiceLocator. When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 
-Remarks
--------
+## Remarks
 
  This will return null on any ActivationException.
 
-Exceptions
-----------
+## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                             | Condition                                                                            |
 |---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | Thrown when locator is nullNothingnullptra null reference (Nothing in Visual Basic). |
 
-See Also
---------
-
-
-[ServiceLocatorExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.servicelocatorextensions)
+## See Also
+[ServiceLocatorExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.servicelocatorextensions)
 
 [ServiceLocatorExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.servicelocatorextensions)
 

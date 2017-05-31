@@ -4,11 +4,8 @@ Title: 'ModuleInfo.DependsOn Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfo.DependsOn'
 ms:mtpsurl: 'moduleinfo-dependson-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleInfo.DependsOn Property
-=================================
+
+# ModuleInfo.DependsOn Property
 
 Gets or sets the list of modules that this module depends upon.
 
@@ -18,19 +15,14 @@ Gets or sets the list of modules that this module depends upon.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-
-
-public Collection&lt;string&gt; DependsOn { get; set; }Public Property DependsOn As Collection(Of String) Get Set
+public Collection&lt;string&gt; DependsOn { get; set; }Public Property DependsOn As Collection(Of String) Get Set
 ### Property Value
 
 Type: [Collection](http://msdn.microsoft.com/en-us/library/ms132397)&lt;(Of &lt;([String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)&gt;)&gt;)
 The list of modules that this module depends upon.
 
-See Also
---------
-
-
-[ModuleInfo Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
+## See Also
+[ModuleInfo Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
 
 [ModuleInfo Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfo)
 

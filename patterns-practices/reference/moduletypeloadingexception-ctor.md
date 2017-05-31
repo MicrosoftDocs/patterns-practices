@@ -5,31 +5,31 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException.\
 ms:mtpsurl: 'moduletypeloadingexception-constructor-mspp-modularity.md'
 ---
 
-Prism Class Library
-
-ModuleTypeLoadingException Constructor
-======================================
+# ModuleTypeLoadingException Constructor
 
 Initializes a new instance.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+```C#
+public ModuleTypeLoadingException()
+```
 
+```VB
+'Declaration
+Public Sub New
+```
+## See Also
 
-public ModuleTypeLoadingException()Public Sub New
+[ModuleTypeLoadingException Class](/patterns-practices/reference/moduletypeloadingexception-class-mspp-modularity)
 
-See Also
---------
+[ModuleTypeLoadingException Members](/patterns-practices/reference/moduletypeloadingexception-members-mspp-modularity)
 
+ModuleTypeLoadingException Overload
 
-[ModuleTypeLoadingException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception)
-
-[ModuleTypeLoadingException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduletypeloadingexception)
-
-[ModuleTypeLoadingException Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.moduletypeloadingexception.)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

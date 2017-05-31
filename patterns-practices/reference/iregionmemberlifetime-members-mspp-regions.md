@@ -5,11 +5,13 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.IRegionMemberLifetim
 ms:mtpsurl: 'iregionmemberlifetime-members-mspp-regions.md'
 ---
 
+
 # IRegionMemberLifetime Members
 
-The [IRegionMemberLifetime](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmemberlifetime(v=pandp.50)) type exposes the following members.
+The [IRegionMemberLifetime](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmemberlifetime) type exposes the following members.
 
 ## Properties
+
 
 <table>
 
@@ -22,7 +24,7 @@ The [IRegionMemberLifetime](https://msdn.microsoft.com/en-us/library/microsoft.p
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg405480.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmemberlifetime.keepalive">KeepAlive</a></td>
 <td><div class="summary">
 Gets a value indicating whether this instance should be kept-alive upon deactivation.
@@ -33,6 +35,6 @@ Gets a value indicating whether this instance should be kept-alive upon deactiva
 
 ## See Also
 
-[IRegionMemberLifetime Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmemberlifetime(v=pandp.50))
+[IRegionMemberLifetime Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmemberlifetime)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

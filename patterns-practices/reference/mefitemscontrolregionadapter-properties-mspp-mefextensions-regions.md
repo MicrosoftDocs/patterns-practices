@@ -4,18 +4,14 @@ Title: 'MefItemsControlRegionAdapter Properties (Microsoft.Practices.Prism.MefEx
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefItemsControlRegionAdapter'
 ms:mtpsurl: 'mefitemscontrolregionadapter-properties-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
-MefItemsControlRegionAdapter Properties
-=======================================
+
+# MefItemsControlRegionAdapter Properties
 
 The [MefItemsControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefitemscontrolregionadapter) type exposes the following members.
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,7 +23,7 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419189.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
+<td>![Protected property](/images/protproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.regionbehaviorfactory">RegionBehaviorFactory</a></td>
 <td><div class="summary">
 Gets or sets the factory used to create the region behaviors to attach to the created regions.
@@ -37,10 +33,7 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 </tbody>
 </table>
 
-See Also
---------
-
-
-[MefItemsControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefitemscontrolregionadapter)
+## See Also
+[MefItemsControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefitemscontrolregionadapter)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)

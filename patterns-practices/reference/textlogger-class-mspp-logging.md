@@ -4,11 +4,8 @@ Title: 'TextLogger Class (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Logging.TextLogger'
 ms:mtpsurl: 'textlogger-class-mspp-logging.md'
 ---
-
-Prism Class Library
-
-TextLogger Class
-================
+
+# TextLogger Class
 
 Implementation of [ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade) that logs into a [TextWriter](http://msdn.microsoft.com/en-us/library/ywxh2328).
 
@@ -18,20 +15,14 @@ Implementation of [ILoggerFacade](https://msdn.microsoft.com/library/microsoft.p
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+public class TextLogger : ILoggerFacade, IDisposablePublic Class TextLogger Implements ILoggerFacade, IDisposable
 
+## Inheritance Hierarchy
 
-public class TextLogger : ILoggerFacade, IDisposablePublic Class TextLogger Implements ILoggerFacade, IDisposable
-
-Inheritance Hierarchy
----------------------
-
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Logging.TextLogger
 
-See Also
---------
-
-
-[TextLogger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.logging.textlogger)
+## See Also
+[TextLogger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.logging.textlogger)
 
 [Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)

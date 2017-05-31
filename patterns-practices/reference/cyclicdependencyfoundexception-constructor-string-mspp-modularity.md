@@ -5,13 +5,11 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundExcepti
 ms:mtpsurl: 'cyclicdependencyfoundexception-constructor-mspp-modularity.md'
 ---
 
-Prism Class Library
-
 # CyclicDependencyFoundException Constructor (String)
 
-Initializes a new instance of the [CyclicDependencyFoundException](cyclicdependencyfoundexception-class-mspp-modularity.md) class with the specified error message.
+Initializes a new instance of the [CyclicDependencyFoundException](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity) class with the specified error message.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,20 +30,18 @@ Public Sub New (
 )
 ```
 
-
 ### Parameters
 
-*message*
-  
-		Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-		The message that describes the error.
+*message*   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)   
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The message that describes the error.
 
 ## See Also
 
-[CyclicDependencyFoundException Class](cyclicdependencyfoundexception-class-mspp-modularity.md)
+[CyclicDependencyFoundException Class](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity)
 
-[CyclicDependencyFoundException Members](cyclicdependencyfoundexception-members-mspp-modularity.md)
+[CyclicDependencyFoundException Members](/patterns-practices/reference/cyclicdependencyfoundexception-members-mspp-modularity)
 
 CyclicDependencyFoundException Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

@@ -4,18 +4,14 @@ Title: 'ViewRegisteredEventArgs Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs'
 ms:mtpsurl: 'viewregisteredeventargs-properties-mspp-regions.md'
 ---
-
-Prism Class Library
-
-ViewRegisteredEventArgs Properties
-==================================
+
+# ViewRegisteredEventArgs Properties
 
 The [ViewRegisteredEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs) type exposes the following members.
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,14 +23,14 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431223.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs.getview">GetView</a></td>
 <td><div class="summary">
 Gets the content which was registered.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431223.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs.regionname">RegionName</a></td>
 <td><div class="summary">
 Gets the region name to which the content was registered.
@@ -43,10 +39,7 @@ Gets the region name to which the content was registered.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[ViewRegisteredEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs)
+## See Also
+[ViewRegisteredEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

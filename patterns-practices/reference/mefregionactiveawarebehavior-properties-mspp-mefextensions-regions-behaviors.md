@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefregionactiveawarebehavior-properties-mspp-mefextensions-regions-
 
 # MefRegionActiveAwareBehavior Properties
 
-The [MefRegionActiveAwareBehavior](mefregionactiveawarebehavior-class-mspp-mefextensions-regions-behaviors.md) type exposes the following members.
+The [MefRegionActiveAwareBehavior](/patterns-practices/reference/mefregionactiveawarebehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
 
 ## Properties
 
@@ -28,21 +28,21 @@ The [MefRegionActiveAwareBehavior](mefregionactiveawarebehavior-class-mspp-mefex
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg419183.pubproperty(en-us,PandP.50).gif "Public property")
+![Public property](/images/pubproperty.gif)
 </td>
 <td>
-<a href="regionactiveawarebehavior-region-property-mspp-regions-behaviors.md">Region</a>
+<a href="regionactiveawarebehavior-region-property-mspp-regions-behaviors">Region</a>
 </td>
 <td>
 <div>
 The region that this behavior is extending
-</div> (Inherited from <a href="regionactiveawarebehavior-class-mspp-regions-behaviors.md">RegionActiveAwareBehavior</a>.)</td>
+</div> (Inherited from <a href="regionactiveawarebehavior-class-mspp-regions-behaviors">RegionActiveAwareBehavior</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[MefRegionActiveAwareBehavior Class](mefregionactiveawarebehavior-class-mspp-mefextensions-regions-behaviors.md)
+[MefRegionActiveAwareBehavior Class](/patterns-practices/reference/mefregionactiveawarebehavior-class-mspp-mefextensions-regions-behaviors)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](mspp-mefextensions-regions-behaviors-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

@@ -4,11 +4,8 @@ Title: 'ModuleCatalog.ValidateCrossGroupDependencies Method (Microsoft.Practices
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.ValidateCrossGroupDependencies'
 ms:mtpsurl: 'modulecatalog-validatecrossgroupdependencies-method-mspp-modularity.md'
 ---
-
-Prism Class Library
-
-ModuleCatalog.ValidateCrossGroupDependencies Method
-=======================================================
+
+# ModuleCatalog.ValidateCrossGroupDependencies Method
 
 Ensures that there are no dependencies between modules on different groups.
 
@@ -18,20 +15,14 @@ Ensures that there are no dependencies between modules on different groups.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+protected virtual void ValidateCrossGroupDependencies()Protected Overridable Sub ValidateCrossGroupDependencies
 
-
-protected virtual void ValidateCrossGroupDependencies()Protected Overridable Sub ValidateCrossGroupDependencies
-
-Remarks
--------
+## Remarks
 
  A groupless module can only depend on other groupless modules. A module within a group can depend on other modules within the same group and/or on groupless modules.
 
-See Also
---------
-
-
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
+## See Also
+[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
 [ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
 

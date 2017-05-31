@@ -4,12 +4,10 @@ Title: 'IRegionManager Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionManager'
 ms:mtpsurl: 'iregionmanager-properties-mspp-regions.md'
 ---
-
-Prism Class Library
-
+
 # IRegionManager Properties
 
-The [IRegionManager](iregionmanager-interface-mspp-regions.md) type exposes the following members.
+The [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) type exposes the following members.
 
 ## Properties
  
@@ -24,7 +22,7 @@ The [IRegionManager](iregionmanager-interface-mspp-regions.md) type exposes the 
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431199.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager.regions">Regions</a></td>
 <td><div class="summary">
 Gets a collection of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion">IRegion</a> that identify each region by name. You can use this collection to add or remove regions to the current region manager.
@@ -34,8 +32,6 @@ Gets a collection of <a href="https://msdn.microsoft.com/library/microsoft.pract
 </table>
 
 ## See Also
+[IRegionManager Interface](/patterns-practices/reference/iregionmanager-interface-mspp-regions)
 
-
-[IRegionManager Interface](iregionmanager-interface-mspp-regions.md)
-
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace.md)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

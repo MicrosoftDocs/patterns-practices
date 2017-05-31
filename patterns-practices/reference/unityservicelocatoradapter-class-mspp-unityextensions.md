@@ -4,14 +4,12 @@ Title: 'UnityServiceLocatorAdapter Class (Microsoft.Practices.Prism.UnityExtensi
 ms:assetid: 'T:Microsoft.Practices.Prism.UnityExtensions.UnityServiceLocatorAdapter'
 ms:mtpsurl: 'unityservicelocatoradapter-class-mspp-unityextensions.md'
 ---
-
-Prism Class Library
-
+
 # UnityServiceLocatorAdapter Class
 
 Defines a IUnityContainer adapter for the IServiceLocator interface to be used by the Prism Library.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](mspp-unityextensions-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](/patterns-practices/reference/mspp-unityextensions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
@@ -37,6 +35,6 @@ Public Class UnityServiceLocatorAdapter
 
 ## See Also
 
-[UnityServiceLocatorAdapter Members](unityservicelocatoradapter-members-mspp-unityextensions.md)
+[UnityServiceLocatorAdapter Members](/patterns-practices/reference/unityservicelocatoradapter-members-mspp-unityextensions)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](mspp-unityextensions-namespace.md)
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)

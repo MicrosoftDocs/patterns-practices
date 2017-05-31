@@ -4,18 +4,14 @@ Title: 'IRegionBehaviorCollection Properties (Microsoft.Practices.Prism.Regions)
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionBehaviorCollection'
 ms:mtpsurl: 'iregionbehaviorcollection-properties-mspp-regions.md'
 ---
-
-Prism Class Library
-
-IRegionBehaviorCollection Properties
-====================================
+
+# IRegionBehaviorCollection Properties
 
 The [IRegionBehaviorCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection) type exposes the following members.
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,7 +23,7 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431197.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection.item(system.string)">Item</a></td>
 <td><div class="summary">
 Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a> with the specified key.
@@ -36,10 +32,7 @@ Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.r
 </tbody>
 </table>
 
-See Also
---------
-
-
-[IRegionBehaviorCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection)
+## See Also
+[IRegionBehaviorCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

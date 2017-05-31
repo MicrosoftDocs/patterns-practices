@@ -4,18 +4,14 @@ Title: 'RegionMemberLifetimeBehavior Properties (Microsoft.Practices.Prism.Regio
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior'
 ms:mtpsurl: 'regionmemberlifetimebehavior-properties-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionMemberLifetimeBehavior Properties
-=======================================
+
+# RegionMemberLifetimeBehavior Properties
 
 The [RegionMemberLifetimeBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior) type exposes the following members.
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,7 +23,7 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431191.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.isattached">IsAttached</a></td>
 <td><div class="summary">
 Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
@@ -35,7 +31,7 @@ Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431191.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.region">Region</a></td>
 <td><div class="summary">
 Behavior's attached region.
@@ -45,10 +41,7 @@ Behavior's attached region.
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionMemberLifetimeBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior)
+## See Also
+[RegionMemberLifetimeBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

@@ -4,14 +4,12 @@ Title: 'ModuleInfo.InitializationMode Property (Microsoft.Practices.Prism.Modula
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleInfo.InitializationMode'
 ms:mtpsurl: 'moduleinfo-initializationmode-property-mspp-modularity.md'
 ---
-
-Prism Class Library
-
+
 # ModuleInfo.InitializationMode Property
 
 Specifies on which stage the Module will be initialized.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,12 +30,12 @@ Public Property InitializationMode As InitializationMode
 
 ### Property Value
 
-Type: [InitializationMode](initializationmode-enumeration-mspp-modularity.md)
+Type: [InitializationMode](/patterns-practices/reference/initializationmode-enumeration-mspp-modularity)
 
 ## See Also
 
-[ModuleInfo Class](moduleinfo-class-mspp-modularity.md)
+[ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
 
-[ModuleInfo Members](moduleinfo-members-mspp-modularity.md)
+[ModuleInfo Members](/patterns-practices/reference/moduleinfo-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace.md)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

@@ -4,18 +4,14 @@ Title: 'RegionCreationException Members (Microsoft.Practices.Prism.Regions.Behav
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionCreationException'
 ms:mtpsurl: 'regioncreationexception-members-mspp-regions-behaviors.md'
 ---
-
-Prism Class Library
-
-RegionCreationException Members
-===============================
+
+# RegionCreationException Members
 
 The [RegionCreationException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception) type exposes the following members.
 
-Constructors
-------------
+## Constructors
 
-<span id="constructorTableToggle"></span>
+
 <table>
 
 <thead>
@@ -27,28 +23,28 @@ Constructors
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception.">RegionCreationException()()()</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception">RegionCreationException</a>
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception.">RegionCreationException(String)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception">RegionCreationException</a> class with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430872.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception.">RegionCreationException(SerializationInfo, StreamingContext)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception">RegionCreationException</a> class with serialized data.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception.">RegionCreationException(String, Exception)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception">RegionCreationException</a> class with a specified error message and a reference to the inner exception that is the cause of this exception.
@@ -57,10 +53,9 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </tbody>
 </table>
 
-Methods
--------
+## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -72,7 +67,7 @@ Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/bsc2ak47">Equals</a></td>
 <td><div class="summary">
 Determines whether the specified <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a> is equal to the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
@@ -80,7 +75,7 @@ Determines whether the specified <a href="http://msdn.microsoft.com/en-us/librar
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430872.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/4k87zsw7">Finalize</a></td>
 <td><div class="summary">
 Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
@@ -88,15 +83,15 @@ Allows an object to try to free resources and perform other cleanup operations b
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/49kcee3b">GetBaseException</a></td>
 <td><div class="summary">
-When overridden in a derived class, returns the <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a> that is the root cause of one or more subsequent exceptions.
+When overridden in a derived class, returns the <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a> that is the root cause of one or more subsequent exceptions.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/zdee4b3y">GetHashCode</a></td>
 <td><div class="summary">
 Serves as a hash function for a particular type.
@@ -104,23 +99,23 @@ Serves as a hash function for a particular type.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/fwb1489e">GetObjectData</a></td>
 <td><div class="summary">
 When overridden in a derived class, sets the <a href="http://msdn.microsoft.com/en-us/library/a9b6042e">SerializationInfo</a> with information about the exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/44zb316t">GetType</a></td>
 <td><div class="summary">
 Gets the runtime type of the current instance.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430872.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/57ctke0a">MemberwiseClone</a></td>
 <td><div class="summary">
 Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
@@ -128,20 +123,19 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/es4y6f7e">ToString</a></td>
 <td><div class="summary">
 Creates and returns a string representation of the current exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 </tbody>
 </table>
 
-Extension Methods
------------------
+## Extension Methods
 
-<span id="extensionMethodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -153,7 +147,7 @@ Extension Methods
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430872.pubextension(en-us,PandP.50).gif" title="Public Extension Method" /></td>
+<td>![Public Extension Method](/images/pubextension.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions.getrootexception(system.exception)">GetRootException</a></td>
 <td><div class="summary">
 Looks at all the inner exceptions of the exception parameter to find the most likely root cause of the exception. This works by skipping all registered exception types.
@@ -163,10 +157,9 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 </tbody>
 </table>
 
-Properties
-----------
+## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -178,76 +171,75 @@ Properties
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430872.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/2wyfbc48">Data</a></td>
 <td><div class="summary">
 Gets a collection of key/value pairs that provide additional user-defined information about the exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430872.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/71tawy4s">HelpLink</a></td>
 <td><div class="summary">
 Gets or sets a link to the help file associated with this exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430872.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/sh5cw61c">HResult</a></td>
 <td><div class="summary">
 Gets or sets HRESULT, a coded numerical value that is assigned to a specific exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430872.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/902sca80">InnerException</a></td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a> instance that caused the current exception.
+Gets the <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a> instance that caused the current exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430872.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/9btwf6wk">Message</a></td>
 <td><div class="summary">
 Gets a message that describes the current exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430872.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/85weac5w">Source</a></td>
 <td><div class="summary">
 Gets or sets the name of the application or the object that causes the error.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430872.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/dxzhy005">StackTrace</a></td>
 <td><div class="summary">
 Gets a string representation of the immediate frames on the call stack.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430872.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/2wchw354">TargetSite</a></td>
 <td><div class="summary">
 Gets the method that throws the current exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 </tbody>
 </table>
 
-Events
-------
+## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -259,20 +251,17 @@ Events
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430872.protevent(en-us,PandP.50).gif" title="Protected event" /></td>
+<td>![Protected event](/images/protevent.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ee332915">SerializeObjectState</a></td>
 <td><div class="summary">
 Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
 </tr>
 </tbody>
 </table>
 
-See Also
---------
-
-
-[RegionCreationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception)
+## See Also
+[RegionCreationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

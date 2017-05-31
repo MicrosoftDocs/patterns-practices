@@ -4,14 +4,12 @@ Title: 'PropertySupport Class (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'T:Microsoft.Practices.Prism.ViewModel.PropertySupport'
 ms:mtpsurl: 'propertysupport-class-mspp-viewmodel.md'
 ---
-
-Prism Class Library
-
+
 # PropertySupport Class
 
 Provides support for extracting property information based on a property expression.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](mspp-viewmodel-namespace.md)
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](/patterns-practices/reference/mspp-viewmodel-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -38,6 +36,6 @@ Public NotInheritable Class PropertySupport
 
 ## See Also
 
-[PropertySupport Members](propertysupport-members-mspp-viewmodel.md)
+[PropertySupport Members](/patterns-practices/reference/propertysupport-members-mspp-viewmodel)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](mspp-viewmodel-namespace.md)
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)

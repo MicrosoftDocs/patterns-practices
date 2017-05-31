@@ -4,12 +4,10 @@ Title: 'MefRegionNavigationJournal Properties (Microsoft.Practices.Prism.MefExte
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournal'
 ms:mtpsurl: 'mefregionnavigationjournal-properties-mspp-mefextensions-regions.md'
 ---
-
-Prism Class Library
-
+
 # MefRegionNavigationJournal Properties
 
-The [MefRegionNavigationJournal](mefregionnavigationjournal-class-mspp-mefextensions-regions.md) type exposes the following members.
+The [MefRegionNavigationJournal](/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Properties
  
@@ -24,7 +22,7 @@ The [MefRegionNavigationJournal](mefregionnavigationjournal-class-mspp-mefextens
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431154.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.cangoback">CanGoBack</a></td>
 <td><div class="summary">
 Gets a value that indicates whether there is at least one entry in the back navigation history.
@@ -32,7 +30,7 @@ Gets a value that indicates whether there is at least one entry in the back navi
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431154.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.cangoforward">CanGoForward</a></td>
 <td><div class="summary">
 Gets a value that indicates whether there is at least one entry in the forward navigation history.
@@ -40,7 +38,7 @@ Gets a value that indicates whether there is at least one entry in the forward n
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431154.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.currententry">CurrentEntry</a></td>
 <td><div class="summary">
 Gets the current navigation entry of the content that is currently displayed.
@@ -48,7 +46,7 @@ Gets the current navigation entry of the content that is currently displayed.
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431154.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.navigationtarget">NavigationTarget</a></td>
 <td><div class="summary">
 Gets or sets the target that implements INavigate.
@@ -60,6 +58,6 @@ Gets or sets the target that implements INavigate.
 
 ## See Also
 
-[MefRegionNavigationJournal Class](mefregionnavigationjournal-class-mspp-mefextensions-regions.md)
+[MefRegionNavigationJournal Class](/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regions)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace.md)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
