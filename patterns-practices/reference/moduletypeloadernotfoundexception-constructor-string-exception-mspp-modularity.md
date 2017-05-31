@@ -35,11 +35,11 @@ Public Sub New (
 ### Parameters
 
 *message*  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The message that describes the error.
 
 *innerException*  
-Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
+Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)  
 The inner exception
 
 ## See Also
