@@ -31,12 +31,12 @@ The [SyncRegionContextWithHostBehavior](/patterns-practices/reference/syncregion
 ![](/images/public-method.gif "Public method")
 </td>
 <td>
-<a href="regionbehavior-attach-method-mspp-regions">Attach</a>
+[Attach](/patterns-practices/reference/regionbehavior-attach-method-mspp-regions)
 </td>
 <td>
 <div>
 Attaches the behavior to the region.
-</div> (Inherited from <a href="regionbehavior-class-mspp-regions">RegionBehavior</a>.)</td>
+</div> (Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>
 <tr>
 <td>
@@ -99,12 +99,12 @@ Attaches the behavior to the region.
 ![Protected method](/images/protmethod.gif)
 </td>
 <td>
-<a href="syncregioncontextwithhostbehavior-onattach-method-mspp-regions-behaviors">OnAttach</a>
+[OnAttach](/patterns-practices/reference/syncregioncontextwithhostbehavior-onattach-method-mspp-regions-behaviors)
 </td>
 <td>
 <div>
 Override this method to perform the logic after the behavior has been attached.
-</div> (Overrides <a href="regionbehavior-onattach-method-mspp-regions">RegionBehavior</a>.)</td>
+</div> (Overrides [RegionBehavior](/patterns-practices/reference/regionbehavior-onattach-method-mspp-regions).)</td>
 </tr>
 <tr>
 <td>
