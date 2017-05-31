@@ -11,7 +11,7 @@ The [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/librar
 
 ## Fields
 
-<span id="fieldTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/librar
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430945.pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Gg430945.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public field](/images/pubfield.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601.valueproperty">ValueProperty</a></td>
 <td><div class="summary">
 Identifies the Value property of the ObservableObject

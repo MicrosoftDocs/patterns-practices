@@ -13,9 +13,9 @@ The [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism
 
 ||Name| Description |
 |----|----|----|
-| ![](https://msdn.microsoft.com/en-us/Gg405535.pubproperty(en-us,PandP.50).gif "Public attached property") | [RegionContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regioncontext) |             |
-| ![](https://msdn.microsoft.com/en-us/Gg405535.pubproperty(en-us,PandP.50).gif "Public attached property") | [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionmanager) |             |
-| ![](https://msdn.microsoft.com/en-us/Gg405535.pubproperty(en-us,PandP.50).gif "Public attached property") | [RegionName](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionname)       |             |
+| ![Public attached property](/images/pubproperty.gif) | [RegionContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regioncontext) |             |
+| ![Public attached property](/images/pubproperty.gif) | [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionmanager) |             |
+| ![Public attached property](/images/pubproperty.gif) | [RegionName](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionname)       |             |
 
 ## See Also
 [RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)

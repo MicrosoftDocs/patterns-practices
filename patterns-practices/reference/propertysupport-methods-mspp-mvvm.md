@@ -12,7 +12,7 @@ The [PropertySupport](https://msdn.microsoft.com/library/microsoft.practices.pri
 
 ## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -24,7 +24,7 @@ The [PropertySupport](https://msdn.microsoft.com/library/microsoft.practices.pri
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Dn736305.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.propertysupport.extractpropertyname%60%601(system.linq.expressions.expression%7bsystem.func%7b%60%600%7d%7d)">ExtractPropertyName&lt;(Of &lt;(T&gt;)&gt;)</a></td>
 <td><div class="summary">
 Extracts the property name from a property expression.

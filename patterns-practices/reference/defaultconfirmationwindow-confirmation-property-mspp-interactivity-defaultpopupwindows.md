@@ -9,7 +9,7 @@ ms:mtpsurl: 'defaultconfirmationwindow-confirmation-property-mspp-interactivity-
 
 # DefaultConfirmationWindow.Confirmation Property
 
-Sets or gets the [IConfirmation](iconfirmation-interface-mspp-interactivity-interactionrequest) shown by this window./&gt;
+Sets or gets the [IConfirmation](/patterns-practices/reference/iconfirmation-interface-mspp-interactivity-interactionrequest) shown by this window./&gt;
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](https://msdn.microsoft.com/n:microsoft.practices.prism.interactivity.defaultpopupwindows)
 
@@ -28,7 +28,7 @@ Public Property Confirmation As IConfirmation
 ```
 ### Property Value
 
-Type: [IConfirmation](iconfirmation-interface-mspp-interactivity-interactionrequest)
+Type: [IConfirmation](/patterns-practices/reference/iconfirmation-interface-mspp-interactivity-interactionrequest)
 
 # DefaultConfirmationWindow.Confirmation Property
 

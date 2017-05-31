@@ -7,9 +7,9 @@ ms:mtpsurl: 'regionadapterbase-t-createregion-method-mspp-regions.md'
 
 # RegionAdapterBase(Of T).CreateRegion Method
 
-Template method to create a new instance of [IRegion](iregion-interface-mspp-regions) that will be used to adapt the object.
+Template method to create a new instance of [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) that will be used to adapt the object.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -25,13 +25,13 @@ Template method to create a new instance of [IRegion](iregion-interface-mspp-reg
 
 ### Return Value
 
-Type: [IRegion](iregion-interface-mspp-regions)
+Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
 
-A new instance of [IRegion](iregion-interface-mspp-regions).
+A new instance of [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions).
 
 ## See Also
-[RegionAdapterBase(Of T) Class](regionadapterbase-t-class-mspp-regions)
+[RegionAdapterBase(Of T) Class](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)
 
-[RegionAdapterBase(Of T) Members](regionadapterbase-t-members-mspp-regions)
+[RegionAdapterBase(Of T) Members](/patterns-practices/reference/regionadapterbase-t-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

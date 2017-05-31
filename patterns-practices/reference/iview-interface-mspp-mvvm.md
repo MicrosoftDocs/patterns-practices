@@ -7,7 +7,7 @@ ms:mtpsurl: 'iview-interface-mspp-mvvm.md'
 
 # IView Interface
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](mspp-mvvm-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](/patterns-practices/reference/mspp-mvvm-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -24,6 +24,6 @@ Public Interface IView
 
 ## See Also
 
-[IView Members](iview-members-mspp-mvvm)
+[IView Members](/patterns-practices/reference/iview-members-mspp-mvvm)
 
-[Microsoft.Practices.Prism.Mvvm Namespace](mspp-mvvm-namespace)
+[Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

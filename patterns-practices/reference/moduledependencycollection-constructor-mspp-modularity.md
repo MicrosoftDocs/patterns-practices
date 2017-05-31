@@ -4,24 +4,35 @@ Title: 'ModuleDependencyCollection Constructor (Microsoft.Practices.Prism.Modula
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection.\#ctor'
 ms:mtpsurl: 'moduledependencycollection-constructor-mspp-modularity.md'
 ---
-
+
+
 # ModuleDependencyCollection Constructor
 
-Initializes a new instance of [ModuleDependencyCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection).
+Initializes a new instance of [ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public ModuleDependencyCollection()Public Sub New
+```C#
+public ModuleDependencyCollection()
+```
+
+```VB
+'Declaration
+Public Sub New
+```
+
 
 ## See Also
-[ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
 
-[ModuleDependencyCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencycollection)
+[ModuleDependencyCollection Class](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity)
 
-[ModuleDependencyCollection Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.moduledependencycollection.)
+[ModuleDependencyCollection Members](/patterns-practices/reference/moduledependencycollection-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+ModuleDependencyCollection Overload
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

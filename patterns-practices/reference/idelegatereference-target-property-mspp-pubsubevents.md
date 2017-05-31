@@ -9,7 +9,7 @@ ms:mtpsurl: 'idelegatereference-target-property-mspp-pubsubevents.md'
 
 Gets the referenced [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) object.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -20,8 +20,8 @@ Type: [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)
 A [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) instance if the target is valid; otherwise nullNothingnullptra null reference (Nothing in Visual Basic).
 
 ## See Also
-[IDelegateReference Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.idelegatereference)
+[IDelegateReference Interface](/patterns-practices/reference/mspp-mvvm-namespace.idelegatereference)
 
 [IDelegateReference Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.idelegatereference)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

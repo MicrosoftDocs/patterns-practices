@@ -9,7 +9,7 @@ ms:mtpsurl: 'mefbootstrapper-initializeshell-method-mspp-mefextensions.md'
 
 Initializes the shell.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](mspp-mefextensions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](/patterns-practices/reference/mspp-mefextensions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -32,8 +32,8 @@ Protected Overrides Sub InitializeShell
 
 ## See Also
 
-[MefBootstrapper Class](mefbootstrapper-class-mspp-mefextensions)
+[MefBootstrapper Class](/patterns-practices/reference/mefbootstrapper-class-mspp-mefextensions)
 
-[MefBootstrapper Members](mefbootstrapper-members-mspp-mefextensions)
+[MefBootstrapper Members](/patterns-practices/reference/mefbootstrapper-members-mspp-mefextensions)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](mspp-mefextensions-namespace)
+[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)

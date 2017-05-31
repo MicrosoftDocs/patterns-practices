@@ -19,7 +19,7 @@ Defines values for the categories used by [ILoggerFacade](https://msdn.microsoft
 
 ## Members
 
-<span id="membersToggle"></span>
+
 |     | Member name | Value | Description             |
 |-----|-------------|-------|-------------------------|
 |     | Debug       | 0     | Debug category.         |

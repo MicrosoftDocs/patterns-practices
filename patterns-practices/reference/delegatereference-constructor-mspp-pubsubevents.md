@@ -7,13 +7,15 @@ ms:mtpsurl: 'delegatereference-constructor-mspp-pubsubevents.md'
 
 # DelegateReference Constructor
 
-Initializes a new instance of [DelegateReference](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.delegatereference).
+Initializes a new instance of [DelegateReference](/patterns-practices/reference/mspp-mvvm-namespace.delegatereference).
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) 
 
 **Version:** 1.0.0.0 (1.0.0.0)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
@@ -48,14 +50,17 @@ If **falsefalse** (**False** in Visual Basic) the class will create a weak refer
 
 ## Exceptions
 
+
 | Exception                                                                             | Condition                                                                                                  |
 |---------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------|
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | If the passed delegate is not assignable to [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51). |
 
 ## See Also
 
+[DelegateReference Class](/patterns-practices/reference/mspp-mvvm-namespace.delegatereference)
+
 [DelegateReference Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.delegatereference)
 
 DelegateReference Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

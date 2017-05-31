@@ -7,9 +7,9 @@ ms:mtpsurl: 'regionadapterbase-t-initialize-method-mspp-regions.md'
 
 # RegionAdapterBase&lt;T&gt;.Initialize Method
 
-Adapts an object and binds it to a new [IRegion](iregion-interface-mspp-regions).
+Adapts an object and binds it to a new [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -26,7 +26,7 @@ Public Function Initialize ( regionTarget As T, regionName As String ) As IRegio
 ### Parameters
 
 *regionTarget*  
-Type: [T](regionadapterbase-t-class-mspp-regions)
+Type: [T](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)
 
 The object to adapt.
 
@@ -37,13 +37,13 @@ The name of the region to be created.
 
 ### Return Value
 
-Type: [IRegion](iregion-interface-mspp-regions)
+Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
 
-The new instance of [IRegion](iregion-interface-mspp-regions) that the *regionTarget* is bound to.
+The new instance of [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) that the *regionTarget* is bound to.
 
 ## See Also
-[RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Class](regionadapterbase-t-class-mspp-regions)
+[RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Class](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)
 
-[RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Members](regionadapterbase-t-members-mspp-regions)
+[RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Members](/patterns-practices/reference/regionadapterbase-t-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

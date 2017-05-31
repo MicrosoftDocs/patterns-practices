@@ -9,7 +9,7 @@ ms:mtpsurl: 'defaultprismserviceregistrar-registerrequiredprismservicesifmissing
 
 Registers the required Prism types that are not already registered in the [AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](mspp-mefextensions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](/patterns-practices/reference/mspp-mefextensions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -40,8 +40,8 @@ Public Shared Function RegisterRequiredPrismServicesIfMissing (
 Type: [AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165)
 
 ## See Also
-[DefaultPrismServiceRegistrar Class](defaultprismserviceregistrar-class-mspp-mefextensions)
+[DefaultPrismServiceRegistrar Class](/patterns-practices/reference/defaultprismserviceregistrar-class-mspp-mefextensions)
 
-[DefaultPrismServiceRegistrar Members](defaultprismserviceregistrar-members-mspp-mefextensions)
+[DefaultPrismServiceRegistrar Members](/patterns-practices/reference/defaultprismserviceregistrar-members-mspp-mefextensions)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](mspp-mefextensions-namespace)
+[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)

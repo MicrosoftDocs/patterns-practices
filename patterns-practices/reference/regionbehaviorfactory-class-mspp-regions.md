@@ -19,7 +19,7 @@ Defines a factory that allows the registration of the default set of [IRegionBeh
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Regions.RegionBehaviorFactory
     [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory)
 

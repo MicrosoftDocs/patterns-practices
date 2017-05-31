@@ -19,7 +19,7 @@ Helper class for parsing [Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.UriParsingHelper
 
 ## See Also

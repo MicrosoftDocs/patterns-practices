@@ -11,7 +11,7 @@ The [WeakEventHandlerManager](https://msdn.microsoft.com/library/microsoft.pract
 
 ## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,21 +23,21 @@ The [WeakEventHandlerManager](https://msdn.microsoft.com/library/microsoft.pract
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Dn736230.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager.addweakreferencehandler(system.collections.generic.list%7bsystem.weakreference%7d%40%2csystem.eventhandler%2csystem.int32)">AddWeakReferenceHandler</a></td>
 <td><div class="summary">
 Adds a handler to the supplied list in a weak way.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Dn736230.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager.callweakreferencehandlers(system.object%2csystem.collections.generic.list%7bsystem.weakreference%7d)">CallWeakReferenceHandlers</a></td>
 <td><div class="summary">
 Invokes the handlers
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Dn736230.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager.removeweakreferencehandler(system.collections.generic.list%7bsystem.weakreference%7d%2csystem.eventhandler)">RemoveWeakReferenceHandler</a></td>
 <td><div class="summary">
 Removes an event handler from the reference list.

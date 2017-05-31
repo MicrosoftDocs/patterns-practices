@@ -7,7 +7,7 @@ ms:mtpsurl: 'interactionrequesttrigger-properties-mspp-interactivity-interaction
 
 # InteractionRequestTrigger Properties
 
-The [InteractionRequestTrigger](interactionrequesttrigger-class-mspp-interactivity-interactionrequest) type exposes the following members.
+The [InteractionRequestTrigger](/patterns-practices/reference/interactionrequesttrigger-class-mspp-interactivity-interactionrequest) type exposes the following members.
 
 ## Properties
 
@@ -28,7 +28,7 @@ The [InteractionRequestTrigger](interactionrequesttrigger-class-mspp-interactivi
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg419173.pubproperty(en-us,PandP.50).gif "Public property")
+![Public property](/images/pubproperty.gif)
 </td>
 <td>
 Actions
@@ -38,7 +38,7 @@ Actions
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg419173.protproperty(en-us,PandP.50).gif "Protected property")
+![Protected property](/images/protproperty.gif)
 </td>
 <td>
 AssociatedObject
@@ -48,7 +48,7 @@ AssociatedObject
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg419173.protproperty(en-us,PandP.50).gif "Protected property")
+![Protected property](/images/protproperty.gif)
 </td>
 <td>
 AssociatedObjectTypeConstraint
@@ -58,7 +58,7 @@ AssociatedObjectTypeConstraint
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg419173.pubproperty(en-us,PandP.50).gif "Public property")
+![Public property](/images/pubproperty.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms600923" target="_blank">CanFreeze</a>
@@ -69,7 +69,7 @@ AssociatedObjectTypeConstraint
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg419173.pubproperty(en-us,PandP.50).gif "Public property")
+![Public property](/images/pubproperty.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms600674" target="_blank">DependencyObjectType</a>
@@ -80,7 +80,7 @@ AssociatedObjectTypeConstraint
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg419173.pubproperty(en-us,PandP.50).gif "Public property")
+![Public property](/images/pubproperty.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms605656" target="_blank">Dispatcher</a>
@@ -91,7 +91,7 @@ AssociatedObjectTypeConstraint
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg419173.pubproperty(en-us,PandP.50).gif "Public property")
+![Public property](/images/pubproperty.gif)
 </td>
 <td>
 EventName
@@ -101,7 +101,7 @@ EventName
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg419173.pubproperty(en-us,PandP.50).gif "Public property")
+![Public property](/images/pubproperty.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms616442" target="_blank">HasAnimatedProperties</a>
@@ -112,7 +112,7 @@ EventName
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg419173.pubproperty(en-us,PandP.50).gif "Public property")
+![Public property](/images/pubproperty.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms600924" target="_blank">IsFrozen</a>
@@ -123,7 +123,7 @@ EventName
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg419173.pubproperty(en-us,PandP.50).gif "Public property")
+![Public property](/images/pubproperty.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms600677" target="_blank">IsSealed</a>
@@ -134,7 +134,7 @@ EventName
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg419173.pubproperty(en-us,PandP.50).gif "Public property")
+![Public property](/images/pubproperty.gif)
 </td>
 <td>
 Source
@@ -144,7 +144,7 @@ Source
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg419173.pubproperty(en-us,PandP.50).gif "Public property")
+![Public property](/images/pubproperty.gif)
 </td>
 <td>
 SourceName
@@ -154,7 +154,7 @@ SourceName
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg419173.pubproperty(en-us,PandP.50).gif "Public property")
+![Public property](/images/pubproperty.gif)
 </td>
 <td>
 SourceObject
@@ -164,7 +164,7 @@ SourceObject
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg419173.protproperty(en-us,PandP.50).gif "Protected property")
+![Protected property](/images/protproperty.gif)
 </td>
 <td>
 SourceTypeConstraint
@@ -177,6 +177,6 @@ SourceTypeConstraint
 
 ## See Also
 
-[InteractionRequestTrigger Class](interactionrequesttrigger-class-mspp-interactivity-interactionrequest)
+[InteractionRequestTrigger Class](/patterns-practices/reference/interactionrequesttrigger-class-mspp-interactivity-interactionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

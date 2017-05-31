@@ -11,7 +11,7 @@ The [RegionManagerRegistrationBehavior](https://msdn.microsoft.com/library/micro
 
 ## Fields
 
-<span id="fieldTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [RegionManagerRegistrationBehavior](https://msdn.microsoft.com/library/micro
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430949.pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Gg430949.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public field](/images/pubfield.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior.behaviorkey">BehaviorKey</a></td>
 <td><div class="summary">
 The key of this behavior.

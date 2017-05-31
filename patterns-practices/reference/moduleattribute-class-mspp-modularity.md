@@ -19,7 +19,7 @@ Indicates that the class should be considered a named module using the provided 
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [System.Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626)
     Microsoft.Practices.Prism.Modularity.ModuleAttribute
 

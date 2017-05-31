@@ -4,24 +4,34 @@ Title: 'CyclicDependencyFoundException Constructor (Microsoft.Practices.Prism.Mo
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException.\#ctor'
 ms:mtpsurl: 'cyclicdependencyfoundexception-constructor-mspp-modularity.md'
 ---
-
+
+
 # CyclicDependencyFoundException Constructor
 
-Initializes a new instance of the [CyclicDependencyFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception) class.
+Initializes a new instance of the [CyclicDependencyFoundException](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public CyclicDependencyFoundException()Public Sub New
+
+```C#
+public CyclicDependencyFoundException()
+```
+```VB
+'Declaration
+Public Sub New
+```
 
 ## See Also
-[CyclicDependencyFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
 
-[CyclicDependencyFoundException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
+[CyclicDependencyFoundException Class](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity)
 
-[CyclicDependencyFoundException Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.cyclicdependencyfoundexception.)
+[CyclicDependencyFoundException Members](/patterns-practices/reference/cyclicdependencyfoundexception-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+CyclicDependencyFoundException Overload
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

@@ -7,9 +7,9 @@ ms:mtpsurl: 'imodulemanager-run-method-mspp-modularity.md'
 
 # IModuleManager.Run Method
 
-Initializes the modules marked as [WhenAvailable](initializationmode-enumeration-mspp-modularity) on the [ModuleCatalog](modulecatalog-class-mspp-modularity).
+Initializes the modules marked as [WhenAvailable](/patterns-practices/reference/initializationmode-enumeration-mspp-modularity) on the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -27,8 +27,8 @@ Sub Run
 ```
 
 ## See Also
-[IModuleManager Interface](imodulemanager-interface-mspp-modularity)
+[IModuleManager Interface](/patterns-practices/reference/imodulemanager-interface-mspp-modularity)
 
-[IModuleManager Members](imodulemanager-members-mspp-modularity)
+[IModuleManager Members](/patterns-practices/reference/imodulemanager-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

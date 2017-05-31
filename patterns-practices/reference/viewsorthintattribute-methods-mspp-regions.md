@@ -7,7 +7,7 @@ ms:mtpsurl: 'viewsorthintattribute-methods-mspp-regions.md'
 
 # ViewSortHintAttribute Methods
 
-The [ViewSortHintAttribute](viewsorthintattribute-class-mspp-regions) type exposes the following members.
+The [ViewSortHintAttribute](/patterns-practices/reference/viewsorthintattribute-class-mspp-regions) type exposes the following members.
 
 ## Methods
  
@@ -26,7 +26,7 @@ The [ViewSortHintAttribute](viewsorthintattribute-class-mspp-regions) type expos
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/09ds241w" target="_blank">Equals</a>
@@ -37,7 +37,7 @@ The [ViewSortHintAttribute](viewsorthintattribute-class-mspp-regions) type expos
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/365e1bxs" target="_blank">GetHashCode</a>
@@ -48,7 +48,7 @@ The [ViewSortHintAttribute](viewsorthintattribute-class-mspp-regions) type expos
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/dfwy45w9" target="_blank">GetType</a>
@@ -59,7 +59,7 @@ The [ViewSortHintAttribute](viewsorthintattribute-class-mspp-regions) type expos
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/tbkb5x6t" target="_blank">IsDefaultAttribute</a>
@@ -70,7 +70,7 @@ The [ViewSortHintAttribute](viewsorthintattribute-class-mspp-regions) type expos
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/wy7chz44" target="_blank">Match</a>
@@ -81,7 +81,7 @@ The [ViewSortHintAttribute](viewsorthintattribute-class-mspp-regions) type expos
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2" target="_blank">ToString</a>
@@ -94,7 +94,7 @@ The [ViewSortHintAttribute](viewsorthintattribute-class-mspp-regions) type expos
 
 ## See Also
 
-[ViewSortHintAttribute Class](viewsorthintattribute-class-mspp-regions)
+[ViewSortHintAttribute Class](/patterns-practices/reference/viewsorthintattribute-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
 

@@ -27,7 +27,7 @@ The list of errors to set for the property.
 
 ## Type Parameters
 
-<span id="templatesToggle"></span>
+
 TProperty  
 The property type for which to set errors.
 

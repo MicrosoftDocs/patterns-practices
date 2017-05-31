@@ -9,7 +9,7 @@ ms:mtpsurl: 'iregionnavigationjournal-navigationtarget-property-mspp-regions.md'
 
 Gets or sets the target that implements INavigateAsync.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -27,7 +27,7 @@ Property NavigationTarget As INavigateAsync
 
 ### Property Value
 
-Type: [INavigateAsync](inavigateasync-interface-mspp-regions)
+Type: [INavigateAsync](/patterns-practices/reference/inavigateasync-interface-mspp-regions)
 The INavigate implementation.
 
 ## Remarks
@@ -35,8 +35,8 @@ The INavigate implementation.
  This is set by the owner of this journal.
 
 ## See Also
-[IRegionNavigationJournal Interface](iregionnavigationjournal-interface-mspp-regions)
+[IRegionNavigationJournal Interface](/patterns-practices/reference/iregionnavigationjournal-interface-mspp-regions)
 
-[IRegionNavigationJournal Members](iregionnavigationjournal-members-mspp-regions)
+[IRegionNavigationJournal Members](/patterns-practices/reference/iregionnavigationjournal-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

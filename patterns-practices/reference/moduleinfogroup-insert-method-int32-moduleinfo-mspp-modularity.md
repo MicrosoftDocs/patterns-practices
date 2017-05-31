@@ -33,7 +33,7 @@ The object to insert into the [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.micros
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                                   | Condition                                                                                                             |
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
 | [System.ArgumentOutOfRangeException](http://msdn.microsoft.com/en-us/library/8xt94y6e) | index is not a valid index in the [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/5y536ey6). |

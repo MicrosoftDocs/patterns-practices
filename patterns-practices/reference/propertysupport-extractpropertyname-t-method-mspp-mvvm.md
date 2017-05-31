@@ -23,7 +23,7 @@ The property expression (e.g. p =&gt; p.PropertyName)
 
 ## Type Parameters
 
-<span id="templatesToggle"></span>
+
 T  
 The object type containing the property specified in the expression.
 
@@ -34,7 +34,7 @@ The name of the property.
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 <table>
 <thead>
 <tr class="header">

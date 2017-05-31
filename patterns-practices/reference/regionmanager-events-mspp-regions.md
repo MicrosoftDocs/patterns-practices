@@ -11,7 +11,7 @@ The [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism
 
 ## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430907.pubevent(en-us,PandP.50).gif" title="Public event" /><img src="https://msdn.microsoft.com/en-us/Gg430907.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public field](/images/pubfield.gif)![Static member](/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.updatingregions">UpdatingRegions</a></td>
 <td><div class="summary">
 Notification used by attached behaviors to update the region managers appropriatelly if needed to.

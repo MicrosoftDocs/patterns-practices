@@ -9,7 +9,7 @@ ms:mtpsurl: 'iregionviewregistry-registerviewwithregion-method-mspp-regions.md'
 
 Registers a content type with a region name.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -42,10 +42,10 @@ Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
 Content type to be registered for the regionName.
 
 ## See Also
-[IRegionViewRegistry Interface](iregionviewregistry-interface-mspp-regions)
+[IRegionViewRegistry Interface](/patterns-practices/reference/iregionviewregistry-interface-mspp-regions)
 
 [IRegionViewRegistry Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionviewregistry_members(v=pandp.50))
 
-[RegisterViewWithRegion Overload](iregionviewregistry-registerviewwithregion-method-mspp-regions)
+[RegisterViewWithRegion Overload](/patterns-practices/reference/iregionviewregistry-registerviewwithregion-method-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

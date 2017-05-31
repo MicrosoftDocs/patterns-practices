@@ -6,7 +6,7 @@ ms:mtpsurl: 'modularityexception-class-mspp-modularity.md'
 ---
 # ModularityException Class
 Base class for exceptions that are thrown because of a problem with modules.
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
 
@@ -35,15 +35,15 @@ Public Class ModularityException
 [SerializableAttribute\] public class ModularityException : Exception&lt;SerializableAttribute&gt; Public Class ModularityException Inherits Exception
   [System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)
     Microsoft.Practices.Prism.Modularity.ModularityException
-      [Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException](cyclicdependencyfoundexception-class-mspp-modularity)
-      [Microsoft.Practices.Prism.Modularity.DuplicateModuleException](duplicatemoduleexception-class-mspp-modularity)
-      [Microsoft.Practices.Prism.Modularity.ModuleInitializeException](moduleinitializeexception-class-mspp-modularity)
-      [Microsoft.Practices.Prism.Modularity.ModuleNotFoundException](modulenotfoundexception-class-mspp-modularity)
-      [Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException](moduletypeloadernotfoundexception-class-mspp-modularity)
-      [Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException](moduletypeloadingexception-class-mspp-modularity)
+      [Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity)
+      [Microsoft.Practices.Prism.Modularity.DuplicateModuleException](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity)
+      [Microsoft.Practices.Prism.Modularity.ModuleInitializeException](/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity)
+      [Microsoft.Practices.Prism.Modularity.ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity)
+      [Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity)
+      [Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException](/patterns-practices/reference/moduletypeloadingexception-class-mspp-modularity)
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-  [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+  [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
     Microsoft.Practices.Prism.Modularity.ModularityException
       [Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.cyclicdependencyfoundexception)
       [Microsoft.Practices.Prism.Modularity.DuplicateModuleException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception)
@@ -52,8 +52,8 @@ Public Class ModularityException
       [Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
       [Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception)
 ## See Also
-[ModularityException Members](modularityexception-members-mspp-modularity)
+[ModularityException Members](/patterns-practices/reference/modularityexception-members-mspp-modularity)
 
 [ModularityException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modularityexception)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

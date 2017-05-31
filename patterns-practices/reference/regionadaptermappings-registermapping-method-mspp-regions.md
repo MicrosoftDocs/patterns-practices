@@ -29,7 +29,7 @@ The adapter to use with the controlType type.
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                                 | Condition                                                                                            |
 |-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)     | When any of controlType or adapter are nullNothingnullptra null reference (Nothing in Visual Basic). |
