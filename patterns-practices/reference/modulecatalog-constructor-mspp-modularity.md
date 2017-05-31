@@ -4,13 +4,13 @@ Title: 'ModuleCatalog Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.\#ctor'
 ms:mtpsurl: 'modulecatalog-constructor-ienumerable-moduleinfo-mspp-modularity.md'
 ---
-
+
+
 # ModuleCatalog Constructor
 
 Initializes a new instance of the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](
-mspp-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,7 +28,8 @@ Public Sub New
 ```
 
 ## See Also
-[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)
+
+[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)
 
 [ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)
 
