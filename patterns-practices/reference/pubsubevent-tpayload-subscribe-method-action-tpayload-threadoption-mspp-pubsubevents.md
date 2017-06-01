@@ -11,7 +11,9 @@ Subscribes a delegate to an event. PubSubEvent will maintain a [WeakReference](h
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
@@ -30,15 +32,15 @@ Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPay
 The delegate that gets executed when the event is raised.
 
 *threadOption*  
-Type: [Microsoft.Practices.Prism.PubSubEvents.ThreadOption](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.threadoption(v=pandp.50))
+Type: [Microsoft.Practices.Prism.PubSubEvents.ThreadOption](/patterns-practices/reference/threadoption-enumeration-mspp-pubsubevents)
 
 Specifies on which thread to receive the delegate callback.
 
 ### Return Value
 
-Type: [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50))
+Type: [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)
 
-A [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50)) that uniquely identifies the added subscription.
+A [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents) that uniquely identifies the added subscription.
 
 ## Remarks
 
@@ -50,7 +52,7 @@ The PubSubEvent collection is thread-safe.
 
 PubSubEvent&lt;TPayload&gt; Members
 
-[Subscribe Overload](https://msdn.microsoft.com/en-us/library/dn736298(v=pandp.50))
+[Subscribe Overload](/patterns-practices/reference/pubsubevent-tpayload-subscribe-method-mspp-pubsubevents)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
 
@@ -60,7 +62,9 @@ Subscribes a delegate to an event. PubSubEvent will maintain a [WeakReference](h
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
@@ -80,15 +84,15 @@ Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPay
 The delegate that gets executed when the event is raised.
 
 *threadOption*  
-Type: [Microsoft.Practices.Prism.PubSubEvents.ThreadOption](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.threadoption(v=pandp.50))
+Type: [Microsoft.Practices.Prism.PubSubEvents.ThreadOption](/patterns-practices/reference/threadoption-enumeration-mspp-pubsubevents)
 
 Specifies on which thread to receive the delegate callback.
 
 ### Return Value
 
-Type: [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50))
+Type: [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)
 
-A [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50)) that uniquely identifies the added subscription.
+A [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents) that uniquely identifies the added subscription.
 
 ## Remarks
 
@@ -100,6 +104,6 @@ The PubSubEvent collection is thread-safe.
 
 PubSubEvent(Of TPayload) Members
 
-[Subscribe Overload](https://msdn.microsoft.com/en-us/library/dn736298(v=pandp.50))
+[Subscribe Overload](/patterns-practices/reference/pubsubevent-tpayload-subscribe-method-mspp-pubsubevents)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)

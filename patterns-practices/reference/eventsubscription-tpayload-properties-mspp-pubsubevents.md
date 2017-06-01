@@ -7,7 +7,7 @@ ms:mtpsurl: 'eventsubscription-tpayload-properties-mspp-pubsubevents.md'
 
 # EventSubscription&lt;TPayload&gt; Properties
 
-The [EventSubscription&lt;TPayload&gt;](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601) type exposes the following members.
+The [EventSubscription&lt;TPayload&gt;](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription) type exposes the following members.
 
 ## Properties
 <table>
