@@ -36,7 +36,8 @@ Add a view to the Views collection of a Region. Note that the region must alread
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-iregionmanager-string-func-object-mspp-regions">RegisterViewWithRegion(IRegionManager, String, Func(Of Object))</a></td>
+<td><a href="/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-iregionmanager-string-func-object-mspp-regions">RegisterViewWithRegion(IRegionManager,
+   String, Func&lt;Object&gt;)</a></td>
 <td><div class="summary">
 Associate a view with a region, using a delegate to resolve a concreate instance of the view. When the region get's displayed, this delelgate will be called and the result will be added to the views collection of the region.
 </div></td>
@@ -71,7 +72,8 @@ This method allows an IRegionManager to locate a specified region and navigate i
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-action-navigationresult-mspp-regions">RequestNavigate(IRegionManager, String, String, Action(Of NavigationResult))</a></td>
+<td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-action-navigationresult-mspp-regions">RequestNavigate(IRegionManager,
+   String, String, Action&lt;NavigationResult&gt;)</a></td>
 <td><div class="summary">
 Navigates the specified region manager.
 </div></td>
@@ -85,21 +87,22 @@ This method allows an IRegionManager to locate a specified region and navigate i
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-uri-action-navigationresult-mspp-regions">RequestNavigate(IRegionManager, String, Uri, Action(Of NavigationResult))</a></td>
+<td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-uri-action-navigationresult-mspp-regions">RequestNavigate(IRegionManager, String, Uri, Action&lt;NavigationResult&gt;)</a></td>
 <td><div class="summary">
 Navigates the specified region manager.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-action-navigationresult-navigationparameters-mspp-regions">RequestNavigate(IRegionManager, String, String, Action(Of NavigationResult), NavigationParameters)</a></td>
+<td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-action-navigationresult-navigationparameters-mspp-regions">RequestNavigate(IRegionManager, String, String, Action&lt;NavigationResult&gt;, NavigationParameters)</a></td>
 <td><div class="summary">
 This method allows an IRegionManager to locate a specified region and navigate in it to the specified target string, passing a navigation callback and an instance of NavigationParameters, which holds a collection of object parameters.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-uri-action-navigationresult-navigationparameters-mspp-regions">RequestNavigate(IRegionManager, String, Uri, Action(Of NavigationResult), NavigationParameters)</a></td>
+<td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-uri-action-navigationresult-navigationparameters-mspp-regions">RequestNavigate(IRegionManager,
+   String, Uri, Action&lt;NavigationResult&gt;, NavigationParameters)</a></td>
 <td><div class="summary">
 This method allows an IRegionManager to locate a specified region and navigate in it to the specified target Uri, passing a navigation callback and an instance of NavigationParameters, which holds a collection of object parameters.
 </div></td>
