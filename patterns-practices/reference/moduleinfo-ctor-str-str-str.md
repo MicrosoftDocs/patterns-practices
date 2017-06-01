@@ -4,45 +4,102 @@ Title: 'ModuleInfo Constructor (String, String, String[]) (Microsoft.Practices.P
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfo.\#ctor(System.String,System.String,System.String[])'
 ms:mtpsurl: 'moduleinfo-constructor-mspp-modularity.md'
 ---
-
-# ModuleInfo Constructor (String, String, array&lt;String&gt;)
 
-Initializes a new instance of [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo).
+# ModuleInfo Constructor (String, String, String[])
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+Initializes a new instance of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity).
+
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public ModuleInfo( string name, string type, params string[] dependsOn )Public Sub New ( name As String, type As String, ParamArray dependsOn As String() )
 
-### Parameters
+```C#
+public ModuleInfo(
+	string name,
+	string type,
+	params string[] dependsOn
+)
+```
 
-name  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+#### Parameters
+
+*name*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The module's name.
 
-type  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+*type*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The module [Type](http://msdn.microsoft.com/en-us/library/42892f65)'s AssemblyQualifiedName.
 
-dependsOn  
-Type: array&lt;[System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)&gt;
+*dependsOn*  
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)[]  
 The modules this instance depends on.
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
-| Exception                                                                             | Condition                                                                                                                                                             |
-|---------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if dependsOn is nullNothingnullptra null reference (Nothing in Visual Basic). |
+| Exception | Condition |
+|---|---|
+| [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) is thrown if *dependsOn* is **null**a null reference (**Nothing** in Visual Basic). |
 
 ## See Also
-[ModuleInfo Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
 
-[ModuleInfo Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfo)
+[ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
 
-[ModuleInfo Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.moduleinfo.)
+[ModuleInfo Members](/patterns-practices/reference/moduleinfo-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+ModuleInfo Overload
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+
+# ModuleInfo Constructor (String, String, String())
+
+Initializes a new instance of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity).
+
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+```VB
+'Declaration
+Public Sub New ( 
+	name As String,
+	type As String,
+	ParamArray dependsOn As String()
+)
+```
+
+#### Parameters
+
+*name*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
+The module's name.
+
+*type*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
+The module [Type](http://msdn.microsoft.com/en-us/library/42892f65)'s AssemblyQualifiedName.
+
+*dependsOn*  
+Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)()  
+The modules this instance depends on.
+
+## Exceptions
+
+| Exception | Condition |
+|---|---|
+| [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn2.microsoft.com/en-us/library/27426hcy) is thrown if *dependsOn* is **Nothing**a null reference (**Nothing** in Visual Basic). |
+
+## See Also
+
+[ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
+
+[ModuleInfo Members](/patterns-practices/reference/moduleinfo-members-mspp-modularity)
+
+ModuleInfo Overload
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

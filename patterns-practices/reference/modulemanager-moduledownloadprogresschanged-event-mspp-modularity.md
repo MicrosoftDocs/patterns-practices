@@ -9,7 +9,7 @@ ms:mtpsurl: 'modulemanager-moduledownloadprogresschanged-event-mspp-modularity.m
 
 Raised repeatedly to provide progress as modules are loaded in the background.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -22,11 +22,11 @@ public event EventHandler<ModuleDownloadProgressChangedEventArgs> ModuleDownload
 ```
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[ModuleDownloadProgressChangedEventArgs](moduledownloadprogresschangedeventargs-class-mspp-modularity)&gt;
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[ModuleDownloadProgressChangedEventArgs](/patterns-practices/reference/moduledownloadprogresschangedeventargs-class-mspp-modularity)&gt;
 
 ### Implements
 
-[IModuleManager.ModuleDownloadProgressChanged](imodulemanager-moduledownloadprogresschanged-event-mspp-modularity)
+[IModuleManager.ModuleDownloadProgressChanged](/patterns-practices/reference/imodulemanager-moduledownloadprogresschanged-event-mspp-modularity)
 
 ## Syntax
 
@@ -36,16 +36,16 @@ Public Event ModuleDownloadProgressChanged As EventHandler(Of ModuleDownloadProg
 ```
 ### Value
 
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [ModuleDownloadProgressChangedEventArgs](moduledownloadprogresschangedeventargs-class-mspp-modularity))
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [ModuleDownloadProgressChangedEventArgs](/patterns-practices/reference/moduledownloadprogresschangedeventargs-class-mspp-modularity))
 
 ### Implements
 
-[IModuleManager.ModuleDownloadProgressChanged](imodulemanager-moduledownloadprogresschanged-event-mspp-modularity)
+[IModuleManager.ModuleDownloadProgressChanged](/patterns-practices/reference/imodulemanager-moduledownloadprogresschanged-event-mspp-modularity)
 
 ## See Also
 
-[ModuleManager Class](modulemanager-class-mspp-modularity)
+[ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)
 
-[ModuleManager Members](modulemanager-members-mspp-modularity)
+[ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

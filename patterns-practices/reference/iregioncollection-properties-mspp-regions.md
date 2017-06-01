@@ -7,7 +7,7 @@ ms:mtpsurl: 'iregioncollection-properties-mspp-regions.md'
 
 # IRegionCollection Properties
 
-The [IRegionCollection](iregioncollection-interface-mspp-regions) type exposes the following members.
+The [IRegionCollection](/patterns-practices/reference/iregioncollection-interface-mspp-regions) type exposes the following members.
 
 ## Properties
 
@@ -22,7 +22,7 @@ The [IRegionCollection](iregioncollection-interface-mspp-regions) type exposes t
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431198.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection.item(system.string)">Item</a></td>
 <td><div class="summary">
 Gets the IRegion with the name received as index.
@@ -32,6 +32,6 @@ Gets the IRegion with the name received as index.
 </table>
 
 ## See Also
-[IRegionCollection Interface](iregioncollection-interface-mspp-regions)
+[IRegionCollection Interface](/patterns-practices/reference/iregioncollection-interface-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

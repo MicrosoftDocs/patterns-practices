@@ -7,7 +7,7 @@ ms:mtpsurl: 'iregionnavigationservice-properties-mspp-regions.md'
 
 # IRegionNavigationService Properties
 
-The [IRegionNavigationService](iregionnavigationservice-interface-mspp-regions) type exposes the following members.
+The [IRegionNavigationService](/patterns-practices/reference/iregionnavigationservice-interface-mspp-regions) type exposes the following members.
 
 ## Properties
 
@@ -29,11 +29,11 @@ The [IRegionNavigationService](iregionnavigationservice-interface-mspp-regions) 
 <tr>
  <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431203.pubproperty(en-us,PandP.50).gif "Public property")
+![Public property](/patterns-practices/reference/images/pubproperty.gif)
 
  </td>
  <td>
-<a href="iregionnavigationservice-journal-property-mspp-regions.md">Journal</a>
+<a href="/patterns-practices/reference/iregionnavigationservice-journal-property-mspp-regions">Journal</a>
  </td>
  <td>
 <div>
@@ -44,10 +44,10 @@ Gets the journal.
 <tr>
  <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431203.pubproperty(en-us,PandP.50).gif "Public property")
+![Public property](/patterns-practices/reference/images/pubproperty.gif)
  </td>
  <td>
-<a href="iregionnavigationservice-region-property-mspp-regions.md">Region</a>
+<a href="/patterns-practices/reference/iregionnavigationservice-region-property-mspp-regions">Region</a>
  </td>
  <td>
 <div>
@@ -60,6 +60,6 @@ Gets or sets the region owning this service.
 
 ## See Also
 
-[IRegionNavigationService Interface](iregionnavigationservice-interface-mspp-regions)
+[IRegionNavigationService Interface](/patterns-practices/reference/iregionnavigationservice-interface-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

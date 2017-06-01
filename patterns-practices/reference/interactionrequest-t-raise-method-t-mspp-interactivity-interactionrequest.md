@@ -4,12 +4,13 @@ Title: 'InteractionRequest(T).Raise Method (T) (Microsoft.Practices.Prism.Intera
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequest\`1.Raise(\`0)'
 ms:mtpsurl: 'interactionrequest-t-raise-method-t-mspp-interactivity-interactionrequest.md'
 ---
-
+
+
 # InteractionRequest&lt;T&gt;.Raise Method (T)
 
 Fires the Raised event.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](mspp-interactivity-interactionrequest-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -17,34 +18,32 @@ Fires the Raised event.
 
 ## Syntax
 
-```C#
+~~~C#
 public void Raise(
 	T context
 )
-```
-### Parameters
+~~~
+### Parameters
 
-*context*  
-
-  Type: [T](interactionrequest-t-class-mspp-interactivity-interactionrequest)
-
-  The context for the interaction request.
+_context_  
+Type: [T](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)  
+The context for the interaction request.
 
 ## See Also
 
-[InteractionRequest&lt;T&gt; Class](interactionrequest-t-class-mspp-interactivity-interactionrequest)
+[InteractionRequest&lt;T&gt; Class](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)
 
-[InteractionRequest&lt;T&gt; Members](interactionrequest-t-members-mspp-interactivity-interactionrequest)
+[InteractionRequest&lt;T&gt; Members](/patterns-practices/reference/interactionrequest-t-members-mspp-interactivity-interactionrequest)
 
-[Raise Overload](interactionrequest-t-raise-method-mspp-interactivity-interactionrequest)
+[Raise Overload](/patterns-practices/reference/interactionrequest-t-raise-method-mspp-interactivity-interactionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
 
 # InteractionRequest(Of T).Raise Method (T)
 
 Fires the Raised event.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](mspp-interactivity-interactionrequest-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -52,24 +51,26 @@ Fires the Raised event.
 
 ## Syntax
 
-```VB
+~~~VB
 'Declaration
 Public Sub Raise ( 
 	context As T
 )
-```
-### Parameters
+~~~
 
-context  
-Type: [T](interactionrequest-t-class-mspp-interactivity-interactionrequest)
 
+### Parameters
+
+_context_  
+Type: [T](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)  
 The context for the interaction request.
 
 ## See Also
-[InteractionRequest(Of T) Class](interactionrequest-t-class-mspp-interactivity-interactionrequest)
 
-[InteractionRequest(Of T) Members](interactionrequest-t-members-mspp-interactivity-interactionrequest)
+[InteractionRequest(Of T) Class](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)
 
-[Raise Overload](interactionrequest-t-raise-method-mspp-interactivity-interactionrequest)
+[InteractionRequest(Of T) Members](/patterns-practices/reference/interactionrequest-t-members-mspp-interactivity-interactionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](mspp-interactivity-interactionrequest-namespace)
+[Raise Overload](/patterns-practices/reference/interactionrequest-t-raise-method-mspp-interactivity-interactionrequest)
+
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

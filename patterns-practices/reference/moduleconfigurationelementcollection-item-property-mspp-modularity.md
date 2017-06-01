@@ -9,7 +9,7 @@ ms:mtpsurl: 'moduleconfigurationelementcollection-item-property-int32-mspp-modul
 
 ## Overload List
 
-<span id="overloadMembersTableToggle"></span>
+
 <table>
 
 <thead>
@@ -21,7 +21,7 @@ ms:mtpsurl: 'moduleconfigurationelementcollection-item-property-int32-mspp-modul
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419093.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
+<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/es150ftc">Item[([(ConfigurationProperty])])</a></td>
 <td><div class="summary">
 Gets or sets a property or attribute of this configuration element.
@@ -29,7 +29,7 @@ Gets or sets a property or attribute of this configuration element.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419093.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
+<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/c8693ks1">Item[([(String])])</a></td>
 <td><div class="summary">
 Gets or sets a property, attribute, or child element of this configuration element.
@@ -37,7 +37,7 @@ Gets or sets a property, attribute, or child element of this configuration eleme
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419093.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.item(system.int32)">Item[([(Int32])])</a></td>
 <td><div class="summary">
 Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a> located at the specified index in the collection.

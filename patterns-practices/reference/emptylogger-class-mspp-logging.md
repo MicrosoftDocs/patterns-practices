@@ -19,7 +19,7 @@ Implementation of [ILoggerFacade](https://msdn.microsoft.com/library/microsoft.p
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   Microsoft.Practices.Prism.Logging.EmptyLogger
 
 ## See Also

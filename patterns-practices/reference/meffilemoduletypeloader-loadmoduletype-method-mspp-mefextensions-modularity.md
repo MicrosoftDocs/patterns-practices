@@ -9,7 +9,7 @@ ms:mtpsurl: 'meffilemoduletypeloader-loadmoduletype-method-mspp-mefextensions-mo
 
 Retrieves the moduleInfo.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](mspp-mefextensions-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -31,17 +31,17 @@ Public Overridable Sub LoadModuleType (
 
 *moduleInfo*  
 
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](moduleinfo-class-mspp-modularity)
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
 
 Module that should have it's type loaded.
 
 ### Implements
 
-[IModuleTypeLoader.LoadModuleType(ModuleInfo)](imoduletypeloader-loadmoduletype-method-mspp-modularity)
+[IModuleTypeLoader.LoadModuleType(ModuleInfo)](/patterns-practices/reference/imoduletypeloader-loadmoduletype-method-mspp-modularity)
 
 ## See Also
-[MefFileModuleTypeLoader Class](meffilemoduletypeloader-class-mspp-mefextensions-modularity)
+[MefFileModuleTypeLoader Class](/patterns-practices/reference/meffilemoduletypeloader-class-mspp-mefextensions-modularity)
 
-[MefFileModuleTypeLoader Members](meffilemoduletypeloader-members-mspp-mefextensions-modularity)
+[MefFileModuleTypeLoader Members](/patterns-practices/reference/meffilemoduletypeloader-members-mspp-mefextensions-modularity)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](mspp-mefextensions-modularity-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)

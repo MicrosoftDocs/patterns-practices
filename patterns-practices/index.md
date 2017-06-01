@@ -172,7 +172,7 @@ Stay informed and up to date about Prism and patterns & practices.
 </tr>
 <tr class="even">
 <td><p>patterns &amp; practices</p></td>
-<td><p><a href="http://msdn.microsoft.com/en-us/practices/default.aspx" class="uri">http://msdn.microsoft.com/en-us/practices/default.aspx</a></p></td>
+<td><p><a href="https://msdn.microsoft.com/en-us/library/ff921345.aspx" class="uri">https://msdn.microsoft.com/en-us/library/ff921345.aspx</a></p></td>
 <td><p><a href="http://twitter.com/">@mspnp</a></p></td>
 </tr>
 </tbody>

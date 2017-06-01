@@ -7,9 +7,9 @@ ms:mtpsurl: 'duplicatemoduleexception-constructor-mspp-modularity.md'
 
 # DuplicateModuleException Constructor
 
-Initializes a new instance of the [DuplicateModuleException](duplicatemoduleexception-class-mspp-modularity) class.
+Initializes a new instance of the [DuplicateModuleException](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -20,7 +20,6 @@ Initializes a new instance of the [DuplicateModuleException](duplicatemoduleexce
 public DuplicateModuleException()
 ```
 
-## Syntax
 ```VB
 'Declaration
 Public Sub New
@@ -28,10 +27,10 @@ Public Sub New
 
 ## See Also
 
-[DuplicateModuleException Class](duplicatemoduleexception-class-mspp-modularity)
+[DuplicateModuleException Class](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity)
 
-[DuplicateModuleException Members](duplicatemoduleexception-members-mspp-modularity)
+[DuplicateModuleException Members](/patterns-practices/reference/duplicatemoduleexception-members-mspp-modularity)
 
 DuplicateModuleException Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

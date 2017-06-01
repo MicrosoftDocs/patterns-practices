@@ -11,7 +11,7 @@ The [AllActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.pri
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [AllActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.pri
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431183.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.allactiveregion.activeviews">ActiveViews</a></td>
 <td><div class="summary">
 Gets a readonly view of the collection of all the active views in the region. These are all the added views.
@@ -31,7 +31,7 @@ Gets a readonly view of the collection of all the active views in the region. Th
 (Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.activeviews">Region.ActiveViews</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431183.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.behaviors">Behaviors</a></td>
 <td><div class="summary">
 Gets the collection of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a>s that can extend the behavior of regions.
@@ -39,7 +39,7 @@ Gets the collection of <a href="https://msdn.microsoft.com/library/microsoft.pra
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431183.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.context">Context</a></td>
 <td><div class="summary">
 Gets or sets a context for the region. This value can be used by the user to share context with the views.
@@ -47,7 +47,7 @@ Gets or sets a context for the region. This value can be used by the user to sha
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431183.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
+<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.itemmetadatacollection">ItemMetadataCollection</a></td>
 <td><div class="summary">
 Gets the collection with all the views along with their metadata.
@@ -55,7 +55,7 @@ Gets the collection with all the views along with their metadata.
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431183.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.name">Name</a></td>
 <td><div class="summary">
 Gets the name of the region that uniequely identifies the region within a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager">IRegionManager</a>.
@@ -63,7 +63,7 @@ Gets the name of the region that uniequely identifies the region within a <a hre
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431183.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.navigationservice">NavigationService</a></td>
 <td><div class="summary">
 Gets the navigation service.
@@ -71,7 +71,7 @@ Gets the navigation service.
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431183.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.regionmanager">RegionManager</a></td>
 <td><div class="summary">
 Gets or sets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager">IRegionManager</a> that will be passed to the views when adding them to the region, unless the view is added by specifying createRegionManagerScope as trueTruetruetrue (True in Visual Basic).
@@ -79,7 +79,7 @@ Gets or sets the <a href="https://msdn.microsoft.com/library/microsoft.practices
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431183.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.sortcomparison">SortComparison</a></td>
 <td><div class="summary">
 Gets or sets the comparison used to sort the views.
@@ -87,7 +87,7 @@ Gets or sets the comparison used to sort the views.
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431183.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.views">Views</a></td>
 <td><div class="summary">
 Gets a readonly view of the collection of views in the region.

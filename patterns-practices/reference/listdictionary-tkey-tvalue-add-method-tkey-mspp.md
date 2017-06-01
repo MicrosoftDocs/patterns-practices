@@ -4,30 +4,71 @@ Title: 'ListDictionary(TKey, TValue).Add Method (TKey) (Microsoft.Practices.Pris
 ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.Add(\`0)'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-add-method-tkey-mspp.md'
 ---
-
-# ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Add Method (TKey)
+
+
+# ListDictionary&lt;TKey, TValue&gt;.Add Method (TKey)
 
 If a list does not already exist, it will be created automatically.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public void Add( TKey key )Public Sub Add ( key As TKey )
+~~~C#
+public void Add(
+	TKey key
+)
+~~~
 
 ### Parameters
 
-key  
-Type: [TKey](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
+_key_  
+Type: [TKey](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
 The key of the list that will hold the value.
 
 ## See Also
-[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 
-[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.listdictionary%602)
+[ListDictionary&lt;TKey, TValue&gt; Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)
 
-[Add Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.listdictionary%602.add)
+[ListDictionary&lt;TKey, TValue&gt; Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[Add Overload](/patterns-practices/reference/listdictionary-tkey-tvalue-add-method-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+
+# ListDictionary(Of TKey, TValue).Add Method (TKey)
+
+If a list does not already exist, it will be created automatically.
+
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+~~~VB
+'Declaration
+Public Sub Add ( 
+	key As TKey
+)
+~~~
+
+### Parameters
+
+_key_  
+Type: [TKey](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
+The key of the list that will hold the value.
+
+## See Also
+
+[ListDictionary(Of TKey, TValue) Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)
+
+[ListDictionary(Of TKey, TValue) Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)
+
+[Add Overload](/patterns-practices/reference/listdictionary-tkey-tvalue-add-method-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

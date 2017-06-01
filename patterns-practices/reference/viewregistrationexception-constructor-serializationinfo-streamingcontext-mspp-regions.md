@@ -4,12 +4,13 @@ Title: 'ViewRegistrationException Constructor (SerializationInfo, StreamingConte
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewRegistrationException.\#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
 ms:mtpsurl: 'viewregistrationexception-constructor-mspp-regions.md'
 ---
-
+
+
 # ViewRegistrationException Constructor (SerializationInfo, StreamingContext)
 
-Initializes a new instance of the [ViewRegistrationException](viewregistrationexception-class-mspp-regions) class with serialized data.
+Initializes a new instance of the [ViewRegistrationException](/patterns-practices/reference/viewregistrationexception-class-mspp-regions) class with serialized data.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -30,7 +31,8 @@ Protected Sub New (
 	context As StreamingContext
 )
 ```
-### Parameters
+
+### Parameters
 
 *info*  
 Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)
@@ -42,12 +44,13 @@ Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/
 
 The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that contains contextual information about the source or destination.
 
+
 ## See Also
 
-[ViewRegistrationException Class](viewregistrationexception-class-mspp-regions)
+[ViewRegistrationException Class](/patterns-practices/reference/viewregistrationexception-class-mspp-regions)
 
-[ViewRegistrationException Members](viewregistrationexception-members-mspp-regions)
+[ViewRegistrationException Members](/patterns-practices/reference/viewregistrationexception-members-mspp-regions)
 
 ViewRegistrationException Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

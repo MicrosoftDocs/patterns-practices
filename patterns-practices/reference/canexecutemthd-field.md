@@ -5,23 +5,37 @@ ms:assetid: 'F:Microsoft.Practices.Prism.Commands.DelegateCommandBase.\_canExecu
 ms:mtpsurl: 'canexecutemthd-field.md'
 ---
 
+# DelegateCommandBase._canExecuteMethod Field
 
-# DelegateCommandBase.\_canExecuteMethod Field
+**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
-protected readonly Func&lt;Object, bool&gt; \_canExecuteMethodProtected ReadOnly \_canExecuteMethod As Func(Of Object, Boolean)
+```C#
+protected readonly Func<Object, bool> _canExecuteMethod
+```
+
 ### Field Value
 
-Type: [Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b), [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
+Type: [Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b), [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;
+
+```VB
+'Declaration
+Protected ReadOnly _canExecuteMethod As Func(Of Object, Boolean)
+```
+
+### Field Value
+
+Type: [Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b), [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50))
 
 ## See Also
 
-[DelegateCommandBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)
+[DelegateCommandBase Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase(v=pandp.50))
 
-[DelegateCommandBase Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommandbase)
+[DelegateCommandBase Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase_members(v=pandp.50))
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))

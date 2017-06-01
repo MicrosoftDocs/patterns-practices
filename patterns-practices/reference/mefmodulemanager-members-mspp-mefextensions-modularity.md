@@ -11,7 +11,7 @@ The [MefModuleManager](https://msdn.microsoft.com/library/microsoft.practices.pr
 
 ## Constructors
 
-<span id="constructorTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [MefModuleManager](https://msdn.microsoft.com/library/microsoft.practices.pr
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager.">MefModuleManager</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager">MefModuleManager</a> class.
@@ -34,7 +34,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -46,7 +46,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.dispose">Dispose()()()</a></td>
 <td><div class="summary">
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
@@ -54,7 +54,7 @@ Performs application-defined tasks associated with freeing, releasing, or resett
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager">ModuleManager</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430800.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.dispose(system.boolean)">Dispose(Boolean)</a></td>
 <td><div class="summary">
 Disposes the associated <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader">IModuleTypeLoader</a>s.
@@ -62,7 +62,7 @@ Disposes the associated <a href="https://msdn.microsoft.com/library/microsoft.pr
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager">ModuleManager</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/bsc2ak47">Equals</a></td>
 <td><div class="summary">
 Determines whether the specified <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a> is equal to the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
@@ -70,7 +70,7 @@ Determines whether the specified <a href="http://msdn.microsoft.com/en-us/librar
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430800.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/4k87zsw7">Finalize</a></td>
 <td><div class="summary">
 Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
@@ -78,7 +78,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/zdee4b3y">GetHashCode</a></td>
 <td><div class="summary">
 Serves as a hash function for a particular type.
@@ -86,7 +86,7 @@ Serves as a hash function for a particular type.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/dfwy45w9">GetType</a></td>
 <td><div class="summary">
 Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
@@ -94,7 +94,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430800.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.handlemoduletypeloadingerror(microsoft.practices.prism.modularity.moduleinfo%2csystem.exception)">HandleModuleTypeLoadingError</a></td>
 <td><div class="summary">
 Handles any exception occurred in the module typeloading process, logs the error using the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a> and throws a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception">ModuleTypeLoadingException</a>. This method can be overridden to provide a different behavior.
@@ -102,7 +102,7 @@ Handles any exception occurred in the module typeloading process, logs the error
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager">ModuleManager</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.loadmodule(system.string)">LoadModule</a></td>
 <td><div class="summary">
 Loads and initializes the module on the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.modulecatalog">ModuleCatalog</a> with the name moduleName.
@@ -110,7 +110,7 @@ Loads and initializes the module on the <a href="https://msdn.microsoft.com/libr
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager">ModuleManager</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430800.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.loadmodulesthatarereadyforload">LoadModulesThatAreReadyForLoad</a></td>
 <td><div class="summary">
 Loads the modules that are not intialized and have their dependencies loaded.
@@ -118,7 +118,7 @@ Loads the modules that are not intialized and have their dependencies loaded.
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager">ModuleManager</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430800.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/57ctke0a">MemberwiseClone</a></td>
 <td><div class="summary">
 Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
@@ -126,7 +126,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430800.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager.moduleneedsretrieval(microsoft.practices.prism.modularity.moduleinfo)">ModuleNeedsRetrieval</a></td>
 <td><div class="summary">
 Checks if the module needs to be retrieved before it's initialized.
@@ -134,14 +134,14 @@ Checks if the module needs to be retrieved before it's initialized.
 (Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.moduleneedsretrieval(microsoft.practices.prism.modularity.moduleinfo)">ModuleManager.ModuleNeedsRetrieval(ModuleInfo)</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager.onimportssatisfied">OnImportsSatisfied</a></td>
 <td><div class="summary">
 Called when a part's imports have been satisfied and it is safe to use.
 </div></td>
 </tr>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.run">Run</a></td>
 <td><div class="summary">
 Initializes the modules marked as <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.initializationmode">WhenAvailable</a> on the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.modulecatalog">ModuleCatalog</a>.
@@ -149,7 +149,7 @@ Initializes the modules marked as <a href="https://msdn.microsoft.com/library/mi
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager">ModuleManager</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">ToString</a></td>
 <td><div class="summary">
 Returns a string that represents the current object.
@@ -161,7 +161,7 @@ Returns a string that represents the current object.
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -173,14 +173,14 @@ Returns a string that represents the current object.
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430800.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
+<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager.importedmodules">ImportedModules</a></td>
 <td><div class="summary">
 Gets or sets the modules to be imported.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430800.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
+<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.modulecatalog">ModuleCatalog</a></td>
 <td><div class="summary">
 The module catalog specified in the constructor.
@@ -188,7 +188,7 @@ The module catalog specified in the constructor.
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager">ModuleManager</a>.)</td>
 </tr>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430800.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmodulemanager.moduletypeloaders">ModuleTypeLoaders</a></td>
 <td><div class="summary">
 Gets or sets the type loaders used by the module manager.
@@ -200,7 +200,7 @@ Gets or sets the type loaders used by the module manager.
 
 ## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -212,7 +212,7 @@ Gets or sets the type loaders used by the module manager.
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430800.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.loadmodulecompleted">LoadModuleCompleted</a></td>
 <td><div class="summary">
 Raised when a module is loaded or fails to load.
@@ -220,7 +220,7 @@ Raised when a module is loaded or fails to load.
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager">ModuleManager</a>.)</td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430800.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.moduledownloadprogresschanged">ModuleDownloadProgressChanged</a></td>
 <td><div class="summary">
 Raised repeatedly to provide progress as modules are loaded in the background.

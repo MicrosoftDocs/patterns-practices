@@ -19,7 +19,7 @@ Defines a class that wraps an item and adds metadata for it.
 
 ## Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
   [System.Windows.Threading.DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925)
     [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
       Microsoft.Practices.Prism.Regions.ItemMetadata

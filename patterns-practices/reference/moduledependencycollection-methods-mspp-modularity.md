@@ -7,7 +7,7 @@ ms:mtpsurl: 'moduledependencycollection-methods-mspp-modularity.md'
 
 # ModuleDependencyCollection Methods
 
-The [ModuleDependencyCollection](moduledependencycollection-class-mspp-modularity) type exposes the following members.
+The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity) type exposes the following members.
 
 ## Methods
  
@@ -28,7 +28,7 @@ The [ModuleDependencyCollection](moduledependencycollection-class-mspp-modularit
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/19tyhxbx" target="_blank">BaseAdd(ConfigurationElement)</a>
@@ -39,7 +39,7 @@ The [ModuleDependencyCollection](moduledependencycollection-class-mspp-modularit
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/94tzb2x4" target="_blank">BaseAdd(ConfigurationElement, Boolean)</a>
@@ -50,7 +50,7 @@ The [ModuleDependencyCollection](moduledependencycollection-class-mspp-modularit
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/09d36k3s" target="_blank">BaseAdd(Int32, ConfigurationElement)</a>
@@ -61,7 +61,7 @@ The [ModuleDependencyCollection](moduledependencycollection-class-mspp-modularit
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/b4yf3zw6" target="_blank">BaseClear</a>
@@ -72,7 +72,7 @@ The [ModuleDependencyCollection](moduledependencycollection-class-mspp-modularit
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/e90fbaaw" target="_blank">BaseGet(Object)</a>
@@ -83,7 +83,7 @@ The [ModuleDependencyCollection](moduledependencycollection-class-mspp-modularit
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/w493w5yy" target="_blank">BaseGet(Int32)</a>
@@ -94,7 +94,7 @@ The [ModuleDependencyCollection](moduledependencycollection-class-mspp-modularit
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/9ts4f970" target="_blank">BaseGetAllKeys</a>
@@ -105,7 +105,7 @@ The [ModuleDependencyCollection](moduledependencycollection-class-mspp-modularit
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/zf0857te" target="_blank">BaseGetKey</a>
@@ -116,7 +116,7 @@ The [ModuleDependencyCollection](moduledependencycollection-class-mspp-modularit
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/8byca88s" target="_blank">BaseIndexOf</a>
@@ -127,7 +127,7 @@ The [ModuleDependencyCollection](moduledependencycollection-class-mspp-modularit
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/wk5tz03f" target="_blank">BaseIsRemoved</a>
@@ -138,7 +138,7 @@ The [ModuleDependencyCollection](moduledependencycollection-class-mspp-modularit
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/s4cs5s6w" target="_blank">BaseRemove</a>
@@ -149,7 +149,7 @@ The [ModuleDependencyCollection](moduledependencycollection-class-mspp-modularit
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/wt92bf00" target="_blank">BaseRemoveAt</a>
@@ -160,7 +160,7 @@ The [ModuleDependencyCollection](moduledependencycollection-class-mspp-modularit
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/d22w8c80" target="_blank">CopyTo</a>
@@ -171,20 +171,20 @@ The [ModuleDependencyCollection](moduledependencycollection-class-mspp-modularit
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="moduledependencycoll-createnew-method.md">CreateNewElement<div></a>
+<a href="moduledependencycoll-createnew-method">CreateNewElement<div></a>
 </td>
 <td>
 <div>
-Creates a new <a href="moduledependencyconfigurationelement-class-mspp-modularity.md">ModuleDependencyConfigurationElement</a>.
+Creates a new <a href="moduledependencyconfigurationelement-class-mspp-modularity">ModuleDependencyConfigurationElement</a>.
 </div> (Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8" target="_blank">ConfigurationElementCollection<div>.CreateNewElement<div></a>.)</td>
 </tr>
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ky49faah" target="_blank">CreateNewElement(String)</a>
@@ -195,7 +195,7 @@ Creates a new <a href="moduledependencyconfigurationelement-class-mspp-modularit
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms134126" target="_blank">DeserializeElement</a>
@@ -206,7 +206,7 @@ Creates a new <a href="moduledependencyconfigurationelement-class-mspp-modularit
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/0eye6ky8" target="_blank">Equals</a>
@@ -217,7 +217,7 @@ Creates a new <a href="moduledependencyconfigurationelement-class-mspp-modularit
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/4k87zsw7" target="_blank">Finalize</a>
@@ -228,10 +228,10 @@ Creates a new <a href="moduledependencyconfigurationelement-class-mspp-modularit
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="moduledependencycollection-getelementkey-method-mspp-modularity.md">GetElementKey</a>
+<a href="moduledependencycollection-getelementkey-method-mspp-modularity">GetElementKey</a>
 </td>
 <td>
 <div>
@@ -241,7 +241,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms134159" target="_blank">GetEnumerator</a>
@@ -252,7 +252,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/7w9k269c" target="_blank">GetHashCode</a>
@@ -263,7 +263,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/dd642109" target="_blank">GetTransformedAssemblyString</a>
@@ -274,7 +274,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/dd642039" target="_blank">GetTransformedTypeString</a>
@@ -285,7 +285,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/dfwy45w9" target="_blank">GetType</a>
@@ -296,7 +296,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms134128" target="_blank">Init</a>
@@ -307,7 +307,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/9kaww10k" target="_blank">InitializeDefault</a>
@@ -318,7 +318,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/11833ks2" target="_blank">IsElementName</a>
@@ -329,7 +329,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/00et13y9" target="_blank">IsElementRemovable</a>
@@ -340,7 +340,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/sdfx3fsd" target="_blank">IsModified</a>
@@ -351,7 +351,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms134160" target="_blank">IsReadOnly</a>
@@ -362,7 +362,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms134130" target="_blank">ListErrors</a>
@@ -373,7 +373,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/57ctke0a" target="_blank">MemberwiseClone</a>
@@ -384,7 +384,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms134131" target="_blank">OnDeserializeUnrecognizedAttribute</a>
@@ -395,7 +395,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms134161" target="_blank">OnDeserializeUnrecognizedElement</a>
@@ -406,7 +406,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms134133" target="_blank">OnRequiredPropertyNotFound</a>
@@ -417,7 +417,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms134134" target="_blank">PostDeserialize</a>
@@ -428,7 +428,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms134135" target="_blank">PreSerialize</a>
@@ -439,7 +439,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms134162" target="_blank">Reset</a>
@@ -450,7 +450,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/5t09d48z" target="_blank">ResetModified</a>
@@ -461,7 +461,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms134163" target="_blank">SerializeElement</a>
@@ -472,7 +472,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/yxcx3y27" target="_blank">SerializeToXmlElement</a>
@@ -483,7 +483,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms224426" target="_blank">SetPropertyValue</a>
@@ -494,7 +494,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms134164" target="_blank">SetReadOnly</a>
@@ -505,7 +505,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](images/public-method.gif "Public method")
+![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2" target="_blank">ToString</a>
@@ -516,7 +516,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <tr>
 <td>
 
-![](https://msdn.microsoft.com/en-us/Gg431054.protmethod(en-us,PandP.50).gif "Protected method")
+![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms224411" target="_blank">Unmerge</a>
@@ -529,6 +529,6 @@ Gets the element key for a specified configuration element when overridden in a 
 
 ## See Also
 
-[ModuleDependencyCollection Class](moduledependencycollection-class-mspp-modularity)
+[ModuleDependencyCollection Class](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

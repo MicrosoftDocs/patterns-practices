@@ -11,11 +11,11 @@ The [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.mic
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 |                                                                                                      | Name                   | Description                 |
 |------------------------------------------------------------------------------------------------------|------------------------|-----------------------------|
-| ![](https://msdn.microsoft.com/en-us/Gg419162.protproperty(en-us,PandP.50).gif "Protected property") | Subscriptions          | (Inherited from EventBase.) |
-| ![](https://msdn.microsoft.com/en-us/Gg419162.pubproperty(en-us,PandP.50).gif "Public property")     | SynchronizationContext | (Inherited from EventBase.) |
+| ![Protected property](/patterns-practices/reference/images/protproperty.gif) | Subscriptions          | (Inherited from EventBase.) |
+| ![Public property](/patterns-practices/reference/images/pubproperty.gif)     | SynchronizationContext | (Inherited from EventBase.) |
 
 ## See Also
 [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)

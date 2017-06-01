@@ -11,7 +11,7 @@ The [IConfigurationStore](https://msdn.microsoft.com/library/microsoft.practices
 
 ## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [IConfigurationStore](https://msdn.microsoft.com/library/microsoft.practices
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iconfigurationstore.retrievemoduleconfigurationsection">RetrieveModuleConfigurationSection</a></td>
 <td><div class="summary">
 Gets the module configuration data.

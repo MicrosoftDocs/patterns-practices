@@ -11,11 +11,11 @@ The [UnityBootstrapperExtension](https://msdn.microsoft.com/library/microsoft.pr
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 |                                                                                                      | Name      | Description                               |
 |------------------------------------------------------------------------------------------------------|-----------|-------------------------------------------|
-| ![](https://msdn.microsoft.com/en-us/Gg431228.pubproperty(en-us,PandP.50).gif "Public property")     | Container | (Inherited from UnityContainerExtension.) |
-| ![](https://msdn.microsoft.com/en-us/Gg431228.protproperty(en-us,PandP.50).gif "Protected property") | Context   | (Inherited from UnityContainerExtension.) |
+| ![Public property](/patterns-practices/reference/images/pubproperty.gif)     | Container | (Inherited from UnityContainerExtension.) |
+| ![Protected property](/patterns-practices/reference/images/protproperty.gif) | Context   | (Inherited from UnityContainerExtension.) |
 
 ## See Also
 [UnityBootstrapperExtension Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension)

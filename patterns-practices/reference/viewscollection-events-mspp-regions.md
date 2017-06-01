@@ -11,7 +11,7 @@ The [ViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.pri
 
 ## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [ViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.pri
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430911.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection.collectionchanged">CollectionChanged</a></td>
 <td><div class="summary">
 Occurs when the collection changes.

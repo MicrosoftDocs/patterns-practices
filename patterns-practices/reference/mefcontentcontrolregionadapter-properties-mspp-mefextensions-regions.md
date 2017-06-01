@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefcontentcontrolregionadapter-properties-mspp-mefextensions-region
 
 # MefContentControlRegionAdapter Properties
 
-The [MefContentControlRegionAdapter](mefcontentcontrolregionadapter-class-mspp-mefextensions-regions) type exposes the following members.
+The [MefContentControlRegionAdapter](/patterns-practices/reference/mefcontentcontrolregionadapter-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Properties
 
@@ -22,7 +22,7 @@ The [MefContentControlRegionAdapter](mefcontentcontrolregionadapter-class-mspp-m
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419188.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
+<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.regionbehaviorfactory">RegionBehaviorFactory</a></td>
 <td><div class="summary">
 Gets or sets the factory used to create the region behaviors to attach to the created regions.
@@ -33,6 +33,6 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 </table>
 
 ## See Also
-[MefContentControlRegionAdapter Class](mefcontentcontrolregionadapter-class-mspp-mefextensions-regions)
+[MefContentControlRegionAdapter Class](/patterns-practices/reference/mefcontentcontrolregionadapter-class-mspp-mefextensions-regions)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](mspp-mefextensions-regions-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

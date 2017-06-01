@@ -8,11 +8,11 @@ ms:mtpsurl: 'eventbase-properties-mspp-pubsubevents.md'
 
 # EventBase Properties
 
-The [EventBase](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase) type exposes the following members.
+The [EventBase](/patterns-practices/reference/mspp-mvvm-namespace.eventbase) type exposes the following members.
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -24,15 +24,15 @@ The [EventBase](https://msdn.microsoft.com/library/microsoft.practices.prism.pub
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736300.protproperty(en-us,PandP.50).gif" title="Protected property" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase.subscriptions">Subscriptions</a></td>
+<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
+<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventbase.subscriptions">Subscriptions</a></td>
 <td><div class="summary">
 Gets the list of current subscriptions.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Dn736300.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase.synchronizationcontext">SynchronizationContext</a></td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
+<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventbase.synchronizationcontext">SynchronizationContext</a></td>
 <td><div class="summary">
 Allows the SynchronizationContext to be set by the EventAggregator for UI Thread Dispatching
 </div></td>
@@ -42,6 +42,6 @@ Allows the SynchronizationContext to be set by the EventAggregator for UI Thread
 
 ## See Also
 
-[EventBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase)
+[EventBase Class](/patterns-practices/reference/mspp-mvvm-namespace.eventbase)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

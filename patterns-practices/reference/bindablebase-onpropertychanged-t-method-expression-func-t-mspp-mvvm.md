@@ -23,7 +23,7 @@ A Lambda expression representing the property that has a new value.
 
 ## Type Parameters
 
-<span id="templatesToggle"></span>
+
 T  
 The type of the property that has a new value
 

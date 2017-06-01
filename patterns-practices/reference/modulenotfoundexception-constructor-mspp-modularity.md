@@ -4,13 +4,12 @@ Title: 'ModuleNotFoundException Constructor (Microsoft.Practices.Prism.Modularit
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleNotFoundException.\#ctor'
 ms:mtpsurl: 'modulenotfoundexception-constructor-mspp-modularity.md'
 ---
-
+
 # ModuleNotFoundException Constructor
 
-Initializes a new instance of the [ModuleNotFoundException](modulenotfoundexception-class-mspp-modularity) class.
+Initializes a new instance of the [ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
-
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -28,10 +27,10 @@ Public Sub New
 
 ## See Also
 
-[ModuleNotFoundException Class](modulenotfoundexception-class-mspp-modularity)
+[ModuleNotFoundException Class](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity)
 
-[ModuleNotFoundException Members](modulenotfoundexception-members-mspp-modularity)
+[ModuleNotFoundException Members](/patterns-practices/reference/modulenotfoundexception-members-mspp-modularity)
 
 ModuleNotFoundException Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

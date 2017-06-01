@@ -9,7 +9,7 @@ ms:mtpsurl: 'imodulecatalog-initialize-method-mspp-modularity.md'
 
 Initializes the catalog, which may load and validate the modules.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,8 +28,8 @@ Sub Initialize
 
 ## See Also
 
-[IModuleCatalog Interface](imodulecatalog-interface-mspp-modularity)
+[IModuleCatalog Interface](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity)
 
-[IModuleCatalog Members](imodulecatalog-members-mspp-modularity)
+[IModuleCatalog Members](/patterns-practices/reference/imodulecatalog-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

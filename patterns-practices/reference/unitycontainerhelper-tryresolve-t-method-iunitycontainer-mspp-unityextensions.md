@@ -25,7 +25,7 @@ The cointainer that will be used to resolve the type.
 
 ## Type Parameters
 
-<span id="templatesToggle"></span>
+
 T  
 The type to resolve.
 

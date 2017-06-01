@@ -11,7 +11,7 @@ The [DelayedRegionCreationBehavior](https://msdn.microsoft.com/library/microsoft
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,14 +23,14 @@ The [DelayedRegionCreationBehavior](https://msdn.microsoft.com/library/microsoft
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431186.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.regionmanageraccessor">RegionManagerAccessor</a></td>
 <td><div class="summary">
 Sets a class that interfaces between the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager">RegionManager</a> 's static properties/events and this behavior, so this behavior can be tested in isolation.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="https://msdn.microsoft.com/en-us/Gg431186.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.targetelement">TargetElement</a></td>
 <td><div class="summary">
 The element that will host the Region.

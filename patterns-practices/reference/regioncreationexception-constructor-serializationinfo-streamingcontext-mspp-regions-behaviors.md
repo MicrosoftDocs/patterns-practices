@@ -54,4 +54,8 @@ The [SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e) that h
 
 RegionCreationException Overload
 
+
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+

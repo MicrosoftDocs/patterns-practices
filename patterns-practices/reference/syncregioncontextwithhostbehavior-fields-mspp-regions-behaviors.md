@@ -11,7 +11,7 @@ The [SyncRegionContextWithHostBehavior](https://msdn.microsoft.com/library/micro
 
 ## Fields
 
-<span id="fieldTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [SyncRegionContextWithHostBehavior](https://msdn.microsoft.com/library/micro
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430952.pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Gg430952.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior.behaviorkey">BehaviorKey</a></td>
 <td><div class="summary">
 Name that identifies the SyncRegionContextWithHostBehavior behavior in a collection of RegionsBehaviors.

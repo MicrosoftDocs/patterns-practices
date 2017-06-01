@@ -7,9 +7,9 @@ ms:mtpsurl: 'modulecatalog-groups-property-mspp-modularity.md'
 
 # ModuleCatalog.Groups Property
 
-Gets the [ModuleInfoGroup](moduleinfogroup-class-mspp-modularity)s that have been added to the [ModuleCatalog](modulecatalog-class-mspp-modularity).
+Gets the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)s that have been added to the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](mspp-modularity-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -27,13 +27,13 @@ Public ReadOnly Property Groups As IEnumerable(Of ModuleInfoGroup)
 
 ### Property Value
 
-Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfoGroup](moduleinfogroup-class-mspp-modularity)&gt;
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)&gt;
 
 The groups.
 
 ## See Also
-[ModuleCatalog Class](modulecatalog-class-mspp-modularity)
+[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)
 
-[ModuleCatalog Members](modulecatalog-members-mspp-modularity)
+[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

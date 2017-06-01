@@ -9,7 +9,7 @@ ms:mtpsurl: 'moduleconfigurationelementcollection-constructor-mspp-modularity.md
 
 ## Overload List
 
-<span id="overloadMembersTableToggle"></span>
+
  
 <table>
 
@@ -22,14 +22,14 @@ ms:mtpsurl: 'moduleconfigurationelementcollection-constructor-mspp-modularity.md
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.">ModuleConfigurationElementCollection()()()</a></td>
 <td><div class="summary">
 Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection">ModuleConfigurationElementCollection</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.">ModuleConfigurationElementCollection(array&lt;ModuleConfigurationElement&gt;[]()[])</a></td>
 <td><div class="summary">
 Initializes a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection">ModuleConfigurationElementCollection</a>.
@@ -39,8 +39,8 @@ Initializes a new <a href="https://msdn.microsoft.com/library/microsoft.practice
 </table>
 
 ## See Also
-[ModuleConfigurationElementCollection Class](moduleconfigurationelementcollection-class-mspp-modularity)
+[ModuleConfigurationElementCollection Class](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity)
 
-[ModuleConfigurationElementCollection Members](moduleconfigurationelementcollection-members-mspp-modularity)
+[ModuleConfigurationElementCollection Members](/patterns-practices/reference/moduleconfigurationelementcollection-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

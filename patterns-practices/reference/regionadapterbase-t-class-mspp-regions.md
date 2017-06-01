@@ -7,9 +7,9 @@ ms:mtpsurl: 'regionadapterbase-t-class-mspp-regions.md'
 
 # RegionAdapterBase&lt;T&gt; Class
 
-Base class to facilitate the creation of [IRegionAdapter](iregionadapter-interface-mspp-regions) implementations.
+Base class to facilitate the creation of [IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions) implementations.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -34,23 +34,23 @@ Type of object to adapt.
 
   Microsoft.Practices.Prism.Regions.RegionAdapterBase&lt;T&gt;
 
-    [Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter](contentcontrolregionadapter-class-mspp-regions)
+    [Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter](/patterns-practices/reference/contentcontrolregionadapter-class-mspp-regions)
 
-    [Microsoft.Practices.Prism.Regions.ItemsControlRegionAdapter](itemscontrolregionadapter-class-mspp-regions)
+    [Microsoft.Practices.Prism.Regions.ItemsControlRegionAdapter](/patterns-practices/reference/itemscontrolregionadapter-class-mspp-regions)
 
-    [Microsoft.Practices.Prism.Regions.SelectorRegionAdapter](selectorregionadapter-class-mspp-regions)
+    [Microsoft.Practices.Prism.Regions.SelectorRegionAdapter](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)
 
 ## See Also
 
-[RegionAdapterBase&lt;T&gt; Members](regionadapterbase-t-members-mspp-regions)
+[RegionAdapterBase&lt;T&gt; Members](/patterns-practices/reference/regionadapterbase-t-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
 
 # RegionAdapterBase(Of T) Class
 
-Base class to facilitate the creation of [IRegionAdapter](iregionadapter-interface-mspp-regions) implementations.
+Base class to facilitate the creation of [IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions) implementations.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](mspp-regions-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -71,19 +71,19 @@ Type of object to adapt.
 
 Inheritance Hierarchy
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
   Microsoft.Practices.Prism.Regions.RegionAdapterBase(Of T)
 
-    [Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter](contentcontrolregionadapter-class-mspp-regions)
+    [Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter](/patterns-practices/reference/contentcontrolregionadapter-class-mspp-regions)
 
     [Microsoft.Practices.Prism.Regions.ItemsControlRegionAdapter](
 itemscontrolregionadapter-class-mspp-regions)
 
-    [Microsoft.Practices.Prism.Regions.SelectorRegionAdapter](selectorregionadapter-class-mspp-regions)
+    [Microsoft.Practices.Prism.Regions.SelectorRegionAdapter](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)
 
 ## See Also
-[RegionAdapterBase(Of T) Members](regionadapterbase-t-members-mspp-regions)
+[RegionAdapterBase(Of T) Members](/patterns-practices/reference/regionadapterbase-t-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
 

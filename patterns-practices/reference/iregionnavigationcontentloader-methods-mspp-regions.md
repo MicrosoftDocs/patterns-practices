@@ -11,7 +11,7 @@ The [IRegionNavigationContentLoader](https://msdn.microsoft.com/library/microsof
 
 ## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [IRegionNavigationContentLoader](https://msdn.microsoft.com/library/microsof
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /></td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader.loadcontent(microsoft.practices.prism.regions.iregion%2cmicrosoft.practices.prism.regions.navigationcontext)">LoadContent</a></td>
 <td><div class="summary">
 Gets the content to which the navigation request represented by navigationContext applies.

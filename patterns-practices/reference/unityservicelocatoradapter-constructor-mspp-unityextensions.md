@@ -4,28 +4,44 @@ Title: 'UnityServiceLocatorAdapter Constructor (Microsoft.Practices.Prism.UnityE
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityServiceLocatorAdapter.\#ctor(Microsoft.Practices.Unity.IUnityContainer)'
 ms:mtpsurl: 'unityservicelocatoradapter-constructor-mspp-unityextensions.md'
 ---
-
+
+
 # UnityServiceLocatorAdapter Constructor
 
-Initializes a new instance of [UnityServiceLocatorAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter).
+Initializes a new instance of [UnityServiceLocatorAdapter](/patterns-practices/reference/unityservicelocatoradapter-class-mspp-unityextensions).
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](/patterns-practices/reference/mspp-unityextensions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public UnityServiceLocatorAdapter( IUnityContainer unityContainer )Public Sub New ( unityContainer As IUnityContainer )
+
+```C#
+public UnityServiceLocatorAdapter(
+	IUnityContainer unityContainer
+)
+```
+```VB
+'Declaration
+Public Sub New ( 
+	unityContainer As IUnityContainer
+)
+```
 
 ### Parameters
 
-unityContainer  
+*unityContainer*
+
 Type: IUnityContainer
-The IUnityContainer that will be used by the [DoGetInstance(Type, String)](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter.dogetinstance(system.type%2csystem.string)) and [DoGetAllInstances(Type)](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter.dogetallinstances(system.type)) methods.
+
+The IUnityContainer that will be used by the [DoGetInstance(Type, String)](/patterns-practices/reference/unityservicelocatoradapter-dogetinstance-method-mspp-unityextensions) and [DoGetAllInstances(Type)](/patterns-practices/reference/unityservicelocatoradapter-dogetallinstances-method-mspp-unityextensions) methods.
 
 ## See Also
-[UnityServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
+
+[UnityServiceLocatorAdapter Class](/patterns-practices/reference/unityservicelocatoradapter-class-mspp-unityextensions)
 
 [UnityServiceLocatorAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)

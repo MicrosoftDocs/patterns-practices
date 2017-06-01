@@ -11,12 +11,12 @@ The [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.mi
 
 ## Properties
 
-<span id="propertyTableToggle"></span>
+
 |                                                                                                  | Name              | Description                                                                                                                                                         |
 |--------------------------------------------------------------------------------------------------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![](https://msdn.microsoft.com/en-us/Gg419165.pubproperty(en-us,PandP.50).gif "Public property") | Action            | (Inherited from EventSubscription&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)&gt;)&gt;).) |
-| ![](https://msdn.microsoft.com/en-us/Gg419165.pubproperty(en-us,PandP.50).gif "Public property") | Filter            | (Inherited from EventSubscription&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)&gt;)&gt;).) |
-| ![](https://msdn.microsoft.com/en-us/Gg419165.pubproperty(en-us,PandP.50).gif "Public property") | SubscriptionToken | (Inherited from EventSubscription&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)&gt;)&gt;).) |
+| ![Public property](/patterns-practices/reference/images/pubproperty.gif) | Action            | (Inherited from EventSubscription&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)&gt;)&gt;).) |
+| ![Public property](/patterns-practices/reference/images/pubproperty.gif) | Filter            | (Inherited from EventSubscription&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)&gt;)&gt;).) |
+| ![Public property](/patterns-practices/reference/images/pubproperty.gif) | SubscriptionToken | (Inherited from EventSubscription&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)&gt;)&gt;).) |
 
 ## See Also
 [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)

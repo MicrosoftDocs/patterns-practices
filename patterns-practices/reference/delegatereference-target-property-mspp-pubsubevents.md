@@ -4,11 +4,12 @@ Title: 'DelegateReference.Target Property (Microsoft.Practices.Prism.PubSubEvent
 ms:assetid: 'P:Microsoft.Practices.Prism.PubSubEvents.DelegateReference.Target'
 ms:mtpsurl: 'delegatereference-target-property-mspp-pubsubevents.md'
 ---
-# DelegateReference.Target Property
 
-Gets the [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) (the target) referenced by the current [DelegateReference](delegatereference-class-mspp-pubsubevents) object.
+# DelegateReference.Target Property
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](mspp-pubsubevents-namespace)
+Gets the [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) (the target) referenced by the current [DelegateReference](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents) object.
+
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -28,16 +29,16 @@ Public ReadOnly Property Target As Delegate
 
 Type: [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)
 
-**Nothinga** null reference (**Nothing** in Visual Basic) if the object referenced by the current [DelegateReference](/delegatereference-class-mspp-pubsubevents) object has been garbage collected; otherwise, a reference to the [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51) referenced by the current [DelegateReference](/delegatereference-class-mspp-pubsubevents) object.
+**Nothinga** null reference (**Nothing** in Visual Basic) if the object referenced by the current [DelegateReference](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents) object has been garbage collected; otherwise, a reference to the [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51) referenced by the current [DelegateReference](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents) object.
 
 ### Implements
 
-[IDelegateReference.Target](idelegatereference-target-property-mspp-pubsubevents)
+[IDelegateReference.Target](/patterns-practices/reference/idelegatereference-target-property-mspp-pubsubevents)
 
 ## See Also
 
-[DelegateReference Class](delegatereference-class-mspp-pubsubevents)
+[DelegateReference Class](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents)
 
 DelegateReference Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](mspp-pubsubevents-namespace)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)

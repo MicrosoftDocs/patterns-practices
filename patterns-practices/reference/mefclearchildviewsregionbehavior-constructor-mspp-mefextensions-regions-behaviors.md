@@ -31,6 +31,6 @@ Public Sub New
 
 [MefClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior)
 
-[MefClearChildViewsRegionBehavior Members](mefclearchildviewsregionbehavior-members-mspp-mefextensions-regions-behaviors)
+[MefClearChildViewsRegionBehavior Members](/patterns-practices/reference/mefclearchildviewsregionbehavior-members-mspp-mefextensions-regions-behaviors)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)

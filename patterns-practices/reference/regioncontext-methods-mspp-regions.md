@@ -11,7 +11,7 @@ The [RegionContext](https://msdn.microsoft.com/library/microsoft.practices.prism
 
 ## Methods
 
-<span id="methodTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [RegionContext](https://msdn.microsoft.com/library/microsoft.practices.prism
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="images/public-method.gif" title="Public method" /><img src="https://msdn.microsoft.com/en-us/Gg431108.static(en-us,PandP.50).gif" title="Static member" /></td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regioncontext.getobservablecontext(system.windows.dependencyobject)">GetObservableContext</a></td>
 <td><div class="summary">
 Returns an <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601">ObservableObject&lt;(Of &lt;(T&gt;)&gt;)</a> wrapper around the RegionContext value. The RegionContext will be set on any views (dependency objects) that are inside the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.views">Views</a> collection by the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior">BindRegionContextToDependencyObjectBehavior</a> Behavior. The RegionContext will also be set to the control that hosts the Region, by the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior">SyncRegionContextWithHostBehavior</a> Behavior. If the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601">ObservableObject&lt;(Of &lt;(T&gt;)&gt;)</a> wrapper does not already exist, an empty one will be created. This way, an observer can notify when the value is set for the first time.

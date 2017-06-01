@@ -11,7 +11,7 @@ The [IRegionCollection](https://msdn.microsoft.com/library/microsoft.practices.p
 
 ## Events
 
-<span id="eventTableToggle"></span>
+
 <table>
 
 <thead>
@@ -23,7 +23,7 @@ The [IRegionCollection](https://msdn.microsoft.com/library/microsoft.practices.p
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg430900.pubevent(en-us,PandP.50).gif" title="Public event" /></td>
+<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms653382">CollectionChanged</a></td>
 <td><div class="summary">
 Occurs when the collection changes.

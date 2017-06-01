@@ -41,7 +41,7 @@ In Visual Basic and C\#, you can call this method as an instance method on any o
 
 ## Exceptions
 
-<span id="exceptionsToggle"></span>
+
 | Exception                                                                             | Condition                                                                            |
 |---------------------------------------------------------------------------------------|--------------------------------------------------------------------------------------|
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | Thrown when locator is nullNothingnullptra null reference (Nothing in Visual Basic). |

@@ -7,7 +7,7 @@ ms:mtpsurl: 'compositecommand-properties-mspp-commands.md'
 
 # CompositeCommand Properties
 
-The [CompositeCommand](compositecommand-class-mspp-commands) type exposes the following members.
+The [CompositeCommand](/patterns-practices/reference/compositecommand-class-mspp-commands) type exposes the following members.
 
 ## Properties
 
@@ -22,7 +22,7 @@ The [CompositeCommand](compositecommand-class-mspp-commands) type exposes the fo
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419157.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand.registeredcommands">RegisteredCommands</a></td>
 <td><div class="summary">
 Gets the list of all the registered commands.
@@ -32,6 +32,6 @@ Gets the list of all the registered commands.
 </table>
 
 ## See Also
-[CompositeCommand Class](compositecommand-class-mspp-commands)
+[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)
 
-[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace)
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

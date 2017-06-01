@@ -7,7 +7,7 @@ ms:mtpsurl: 'delegatecommand-properties-mspp-commands.md'
 
 # DelegateCommand Properties
 
-The [DelegateCommand](delegatecommand-class-mspp-commands) type exposes the following members.
+The [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) type exposes the following members.
 
 ## Properties
 
@@ -22,7 +22,7 @@ The [DelegateCommand](delegatecommand-class-mspp-commands) type exposes the foll
 </thead>
 <tbody>
 <tr class="odd">
-<td><img src="https://msdn.microsoft.com/en-us/Gg419158.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase.isactive">IsActive</a></td>
 <td><div class="summary">
 Gets or sets a value indicating whether the object is active.
@@ -33,6 +33,6 @@ Gets or sets a value indicating whether the object is active.
 </table>
 
 ## See Also
-[DelegateCommand Class](delegatecommand-class-mspp-commands)
+[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)
 
-[Microsoft.Practices.Prism.Commands Namespace](mspp-commands-namespace)
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
