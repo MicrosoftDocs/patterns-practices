@@ -4,28 +4,42 @@ Title: 'ExceptionExtensions.RegisterFrameworkExceptionType Method (Microsoft.Pra
 ms:assetid: 'M:Microsoft.Practices.Prism.ExceptionExtensions.RegisterFrameworkExceptionType(System.Type)'
 ms:mtpsurl: 'exceptionextensions-registerframeworkexceptiontype-method-mspp.md'
 ---
-
+
+
 # ExceptionExtensions.RegisterFrameworkExceptionType Method
 
-Register the type of an Exception that is thrown by the framework. The [GetRootException(Exception)](https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions.getrootexception(system.exception)) method uses this list of Exception types to find out if something has gone wrong.
+Register the type of an Exception that is thrown by the framework. The [GetRootException(Exception)](/patterns-practices/reference/exceptionextensions-getrootexception-method-mspp) method uses this list of Exception types to find out if something has gone wrong.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public static void RegisterFrameworkExceptionType( Type frameworkExceptionType )Public Shared Sub RegisterFrameworkExceptionType ( frameworkExceptionType As Type )
+
+~~~C#
+public static void RegisterFrameworkExceptionType(
+	Type frameworkExceptionType
+)
+~~~
+~~~VB
+'Declaration
+Public Shared Sub RegisterFrameworkExceptionType ( 
+	frameworkExceptionType As Type
+)
+~~~
 
 ### Parameters
 
-frameworkExceptionType  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
+_frameworkExceptionType_  
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)  
 The type of exception to register.
 
 ## See Also
-[ExceptionExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions)
 
-[ExceptionExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.exceptionextensions)
+[ExceptionExtensions Class](/patterns-practices/reference/exceptionextensions-class-mspp)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[ExceptionExtensions Members](/patterns-practices/reference/exceptionextensions-members-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
