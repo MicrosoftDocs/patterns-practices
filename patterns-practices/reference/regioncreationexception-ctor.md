@@ -8,7 +8,7 @@ ms:mtpsurl: 'regioncreationexception-constructor-mspp-regions-behaviors.md'
 
 Initializes a new instance of the [RegionCreationException](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors)
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](htt/patterns-practices/reference/mspp-regions-behaviors-namespace)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
