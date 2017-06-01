@@ -31,15 +31,14 @@ Public Overridable Sub OnViewRegistered (
 	e As ViewRegisteredEventArgs
 )
 ```
-### Parameters
 
-sender
+### Parameters
 
-    Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+*sender*  
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-*e*
-
-    Type: [Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs](/patterns-practices/reference/viewregisteredeventargs-class-mspp-regions)
+*e*  
+Type: [Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs](/patterns-practices/reference/viewregisteredeventargs-class-mspp-regions)
 
 ## Remarks
 
