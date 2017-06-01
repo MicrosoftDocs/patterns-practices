@@ -4,7 +4,8 @@ Title: 'InteractionRequest(T).Raise Method (T) (Microsoft.Practices.Prism.Intera
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequest\`1.Raise(\`0)'
 ms:mtpsurl: 'interactionrequest-t-raise-method-t-mspp-interactivity-interactionrequest.md'
 ---
-
+
+
 # InteractionRequest&lt;T&gt;.Raise Method (T)
 
 Fires the Raised event.
@@ -17,18 +18,16 @@ Fires the Raised event.
 
 ## Syntax
 
-```C#
+~~~C#
 public void Raise(
 	T context
 )
-```
-### Parameters
+~~~
+### Parameters
 
-*context*  
-
-  Type: [T](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)
-
-  The context for the interaction request.
+_context_  
+Type: [T](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)  
+The context for the interaction request.
 
 ## See Also
 
@@ -52,21 +51,23 @@ Fires the Raised event.
 
 ## Syntax
 
-```VB
+~~~VB
 'Declaration
 Public Sub Raise ( 
 	context As T
 )
-```
-### Parameters
+~~~
 
-context  
-Type: [T](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)
 
+### Parameters
+
+_context_  
+Type: [T](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)  
 The context for the interaction request.
 
 ## See Also
-[InteractionRequest(Of T) Class](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)
+
+[InteractionRequest(Of T) Class](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)
 
 [InteractionRequest(Of T) Members](/patterns-practices/reference/interactionrequest-t-members-mspp-interactivity-interactionrequest)
 
