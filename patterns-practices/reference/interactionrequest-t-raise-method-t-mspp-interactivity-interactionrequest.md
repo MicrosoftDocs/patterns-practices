@@ -23,6 +23,21 @@ public void Raise(
 	T context
 )
 ~~~
+### Parameters
+
+_context_  
+Type: [T](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)  
+The context for the interaction request.
+
+## See Also
+
+[InteractionRequest&lt;T&gt; Class](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)
+
+[InteractionRequest&lt;T&gt; Members](/patterns-practices/reference/interactionrequest-t-members-mspp-interactivity-interactionrequest)
+
+[Raise Overload](/patterns-practices/reference/interactionrequest-t-raise-method-mspp-interactivity-interactionrequest)
+
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
 
 # InteractionRequest(Of T).Raise Method (T)
 
