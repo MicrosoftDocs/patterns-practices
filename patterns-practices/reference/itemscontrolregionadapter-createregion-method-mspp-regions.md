@@ -4,26 +4,38 @@ Title: 'ItemsControlRegionAdapter.CreateRegion Method (Microsoft.Practices.Prism
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ItemsControlRegionAdapter.CreateRegion'
 ms:mtpsurl: 'itemscontrolregionadapter-createregion-method-mspp-regions.md'
 ---
-
+
+
 # ItemsControlRegionAdapter.CreateRegion Method
 
-Creates a new instance of [AllActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.allactiveregion).
+Creates a new instance of [AllActiveRegion](/patterns-practices/reference/allactiveregion-class-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-protected override IRegion CreateRegion()Protected Overrides Function CreateRegion As IRegion
+
+```C#
+protected override IRegion CreateRegion()
+```
+```VB
+'Declaration
+Protected Overrides Function CreateRegion As IRegion
+```
+
 ### Return Value
 
-Type: [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
-A new instance of [AllActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.allactiveregion).
+Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
+
+A new instance of [AllActiveRegion](/patterns-practices/reference/allactiveregion-class-mspp-regions).
 
 ## See Also
-[ItemsControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter)
 
-[ItemsControlRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.itemscontrolregionadapter)
+[ItemsControlRegionAdapter Class](/patterns-practices/reference/itemscontrolregionadapter-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[ItemsControlRegionAdapter Members](/patterns-practices/reference/itemscontrolregionadapter-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
