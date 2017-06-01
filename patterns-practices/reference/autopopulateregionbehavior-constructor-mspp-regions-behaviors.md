@@ -29,8 +29,6 @@ Public Sub New (
 )
 ```
 
-public AutoPopulateRegionBehavior( IRegionViewRegistry regionViewRegistry )Public Sub New ( regionViewRegistry As IRegionViewRegistry )
-
 ### Parameters
 
 *regionViewRegistry*  
