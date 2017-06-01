@@ -25,8 +25,6 @@ public BindRegionContextToDependencyObjectBehavior()
 Public Sub New
 ```
 
-public BindRegionContextToDependencyObjectBehavior()Public Sub New
-
 ## See Also
 
 [BindRegionContextToDependencyObjectBehavior Class](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors)
