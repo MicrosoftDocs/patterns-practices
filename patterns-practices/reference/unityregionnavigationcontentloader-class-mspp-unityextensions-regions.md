@@ -12,7 +12,9 @@ Specialization of the default RegionNavigationContentLoader that queries the cor
 
 **Namespace:** [Microsoft.Practices.Prism.UnityExtensions.Regions](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents)
 
-**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 ```c#
@@ -27,14 +29,14 @@ Public Class UnityRegionNavigationContentLoader
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-[Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionnavigationcontentloader(v=pandp.50))
+[Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader](/patterns-practices/reference/regionnavigationcontentloader-class-mspp-regions)
 
 Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLoader
 
 ## See Also
 
-[UnityRegionNavigationContentLoader Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader_members(v=pandp.50))
+[UnityRegionNavigationContentLoader Members](/patterns-practices/reference/unityregionnavigationcontentloader-members-mspp-unityextensions-regions)
 
 [Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents)

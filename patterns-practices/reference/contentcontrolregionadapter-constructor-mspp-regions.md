@@ -4,28 +4,44 @@ Title: 'ContentControlRegionAdapter Constructor (Microsoft.Practices.Prism.Regio
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter.\#ctor(Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory)'
 ms:mtpsurl: 'contentcontrolregionadapter-constructor-mspp-regions.md'
 ---
-
+
 # ContentControlRegionAdapter Constructor
 
-Initializes a new instance of [ContentControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.contentcontrolregionadapter).
+Initializes a new instance of [ContentControlRegionAdapter](/patterns-practices/reference/contentcontrolregionadapter-class-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public ContentControlRegionAdapter( IRegionBehaviorFactory regionBehaviorFactory )Public Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
+
+```C#
+public ContentControlRegionAdapter(
+	IRegionBehaviorFactory regionBehaviorFactory
+)
+```
+
+```VB
+'Declaration
+Public Sub New ( 
+	regionBehaviorFactory As IRegionBehaviorFactory
+)
+```
 
 ### Parameters
 
-regionBehaviorFactory  
-Type: [Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory)
+*regionBehaviorFactory*
+  
+Type: [Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions)
+
 The factory used to create the region behaviors to attach to the created regions.
 
 ## See Also
-[ContentControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.contentcontrolregionadapter)
 
-[ContentControlRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.contentcontrolregionadapter)
+[ContentControlRegionAdapter Class](/patterns-practices/reference/contentcontrolregionadapter-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[ContentControlRegionAdapter Members](/patterns-practices/reference/contentcontrolregionadapter-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

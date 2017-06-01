@@ -4,28 +4,44 @@ Title: 'RegionNavigationContentLoader Constructor (Microsoft.Practices.Prism.Reg
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader.\#ctor(Microsoft.Practices.ServiceLocation.IServiceLocator)'
 ms:mtpsurl: 'regionnavigationcontentloader-constructor-mspp-regions.md'
 ---
-
+
+
 # RegionNavigationContentLoader Constructor
 
-Initializes a new instance of the [RegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader) class with a service locator.
+Initializes a new instance of the [RegionNavigationContentLoader](/patterns-practices/reference/regionnavigationcontentloader-class-mspp-regions) class with a service locator.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public RegionNavigationContentLoader( IServiceLocator serviceLocator )Public Sub New ( serviceLocator As IServiceLocator )
+
+```C#
+public RegionNavigationContentLoader(
+	IServiceLocator serviceLocator
+)
+```
+
+```VB
+'Declaration
+Public Sub New ( 
+	serviceLocator As IServiceLocator
+)
+```
 
 ### Parameters
 
-serviceLocator  
+*serviceLocator*  
+
 Type: IServiceLocator
+
 The service locator.
 
 ## See Also
-[RegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader)
 
-[RegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationcontentloader)
+[RegionNavigationContentLoader Class](/patterns-practices/reference/regionnavigationcontentloader-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionNavigationContentLoader Members](/patterns-practices/reference/regionnavigationcontentloader-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

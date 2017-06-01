@@ -4,34 +4,55 @@ Title: 'NavigationContext Constructor (IRegionNavigationService, Uri) (Microsoft
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.NavigationContext.\#ctor(Microsoft.Practices.Prism.Regions.IRegionNavigationService,System.Uri)'
 ms:mtpsurl: 'navigationcontext-constructor-iregionnavigationservice-uri-mspp-regions.md'
 ---
-
+
 # NavigationContext Constructor (IRegionNavigationService, Uri)
 
-Initializes a new instance of the [NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext) class for a region name and a [Uri](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.uri).
+Initializes a new instance of the [NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions) class for a region name and a [Uri](/patterns-practices/reference/navigationcontext-uri-property-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public NavigationContext( IRegionNavigationService navigationService, Uri uri )Public Sub New ( navigationService As IRegionNavigationService, uri As Uri )
+
+```C#
+public NavigationContext(
+	IRegionNavigationService navigationService,
+	Uri uri
+)
+
+```
+
+```VB
+'Declaration
+Public Sub New ( 
+	navigationService As IRegionNavigationService,
+	uri As Uri
+)
+```
 
 ### Parameters
 
-navigationService  
-Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice)
+*navigationService*
+  
+Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationService](/patterns-practices/reference/iregionnavigationservice-interface-mspp-regions)
+
 The navigation service.
 
-uri  
+*uri*  
+
 Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
+
 The Uri.
 
 ## See Also
-[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 
-[NavigationContext Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationcontext)
+[NavigationContext Class](/patterns-practices/reference/navigationcontext-class-mspp-regions)
 
-[NavigationContext Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.regions.navigationcontext.)
+[NavigationContext Members](/patterns-practices/reference/navigationcontext-constructor-iregionnavigationservice-uri-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+NavigationContext Overload
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

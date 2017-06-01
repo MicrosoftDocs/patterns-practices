@@ -4,30 +4,43 @@ Title: 'MefBootstrapper.Run Method (Boolean) (Microsoft.Practices.Prism.MefExten
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.Run(System.Boolean)'
 ms:mtpsurl: 'mefbootstrapper-run-method-boolean-mspp-mefextensions.md'
 ---
-
+
 # MefBootstrapper.Run Method (Boolean)
 
 Run the bootstrapper process.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](/patterns-practices/reference/mspp-mefextensions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public override void Run( bool runWithDefaultConfiguration )Public Overrides Sub Run ( runWithDefaultConfiguration As Boolean )
+
+```C#
+public override void Run(
+	bool runWithDefaultConfiguration
+)
+```
+```VB
+'Declaration
+Public Overrides Sub Run ( 
+	runWithDefaultConfiguration As Boolean
+)
+```
 
 ### Parameters
 
-runWithDefaultConfiguration  
-Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-If trueTruetruetrue (True in Visual Basic), registers default Prism Library services in the container. This is the default behavior.
+*runWithDefaultConfiguration*    
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
+If **Truetrue** (**True** in Visual Basic), registers default Prism Library services in the container. This is the default behavior.
 
 ## See Also
-[MefBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper)
 
-[MefBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.mefbootstrapper)
+[MefBootstrapper Class](/patterns-practices/reference/mefbootstrapper-class-mspp-mefextensions)
 
-[Run Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.mefextensions.mefbootstrapper.run)
+[MefBootstrapper Members](/patterns-practices/reference/mefbootstrapper-members-mspp-mefextensions)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)
+[Run Overload](/patterns-practices/reference/mefbootstrapper-run-method-mspp-mefextensions)
+
+[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)

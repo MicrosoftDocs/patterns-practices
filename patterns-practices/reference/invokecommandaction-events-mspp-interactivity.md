@@ -7,7 +7,7 @@ ms:mtpsurl: 'invokecommandaction-events-mspp-interactivity.md'
 
 # InvokeCommandAction Events
 
-The [InvokeCommandAction](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50)) type exposes the following members.
+The [InvokeCommandAction](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity) type exposes the following members.
 
 ## Events
 
@@ -38,6 +38,6 @@ Occurs when the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freez
 
 ## See Also
 
-[InvokeCommandAction Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.invokecommandaction(v=pandp.50))
+[InvokeCommandAction Class](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)
