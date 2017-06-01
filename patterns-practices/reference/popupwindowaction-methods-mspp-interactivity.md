@@ -4,7 +4,8 @@ Title: 'PopupWindowAction Methods (Microsoft.Practices.Prism.Interactivity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.PopupWindowAction'
 ms:mtpsurl: 'popupwindowaction-methods-mspp-interactivity.md'
 ---
-
+
+
 # PopupWindowAction Methods
 
 The [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction) type exposes the following members.
@@ -24,17 +25,17 @@ The [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.p
 <tbody>
 <tr class="odd">
 <td>![Public method](/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms590752">ApplyAnimationClock(DependencyProperty, AnimationClock)</a></td>
+<td>[ApplyAnimationClock(DependencyProperty, AnimationClock)](http://msdn.microsoft.com/en-us/library/ms590752)</td>
 <td><div class="summary">
-Applies an <a href="http://msdn.microsoft.com/en-us/library/ms618394">AnimationClock</a> to the specified <a href="http://msdn.microsoft.com/en-us/library/ms589318">DependencyProperty</a>. If the property is already animated, the <a href="http://msdn.microsoft.com/en-us/library/ms596029">SnapshotAndReplace</a> handoff behavior is used.
+Applies an [AnimationClock](http://msdn.microsoft.com/en-us/library/ms618394) to the specified [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318). If the property is already animated, the [SnapshotAndReplace](http://msdn.microsoft.com/en-us/library/ms596029) handoff behavior is used.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>.)</td>
+(Inherited from [Animatable](http://msdn.microsoft.com/en-us/library/ms618388).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms590755">ApplyAnimationClock(DependencyProperty, AnimationClock, HandoffBehavior)</a></td>
+<td>[ApplyAnimationClock(DependencyProperty, AnimationClock, HandoffBehavior)](http://msdn.microsoft.com/en-us/library/ms590755)</td>
 <td><div class="summary">
-Applies an <a href="http://msdn.microsoft.com/en-us/library/ms618394">AnimationClock</a> to the specified <a href="http://msdn.microsoft.com/en-us/library/ms589318">DependencyProperty</a>. If the property is already animated, the specified <a href="http://msdn.microsoft.com/en-us/library/ms596029">HandoffBehavior</a> is used.
+Applies an [AnimationClock](http://msdn.microsoft.com/en-us/library/ms618394) to the specified <a href="http://msdn.microsoft.com/en-us/library/ms589318">DependencyProperty</a>. If the property is already animated, the specified <a href="http://msdn.microsoft.com/en-us/library/ms596029">HandoffBehavior</a> is used.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms618388">Animatable</a>.)</td>
 </tr>
@@ -305,72 +306,72 @@ Called when the current <a href="http://msdn.microsoft.com/en-us/library/ms60273
 <td>![Protected method](/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/aa345824">OnFreezablePropertyChanged(DependencyObject, DependencyObject)</a></td>
 <td><div class="summary">
-Ensures that appropriate context pointers are established for a <a href="http://msdn.microsoft.com/en-us/library/ms589310">DependencyObjectType</a> data member that has just been set.
+Ensures that appropriate context pointers are established for a [DependencyObjectType](http://msdn.microsoft.com/en-us/library/ms589310) data member that has just been set.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+(Inherited from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/aa345825">OnFreezablePropertyChanged(DependencyObject, DependencyObject, DependencyProperty)</a></td>
+<td>[OnFreezablePropertyChanged(DependencyObject, DependencyObject, DependencyProperty)](http://msdn.microsoft.com/en-us/library/aa345825)</td>
 <td><div class="summary">
 This member supports the Windows Presentation Foundation (WPF) infrastructure and is not intended to be used directly from your code.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+(Inherited from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734)<a href=""></a>.)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms557754">OnPropertyChanged</a></td>
+<td>[OnPropertyChanged](http://msdn.microsoft.com/en-us/library/ms557754)</td>
 <td><div class="summary">
-Overrides the <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a> implementation of <a href="http://msdn.microsoft.com/en-us/library/ms597471">OnPropertyChanged(DependencyPropertyChangedEventArgs)</a> to also invoke any <a href="http://msdn.microsoft.com/en-us/library/ms596566">Changed</a> handlers in response to a changing dependency property of type <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.
+Overrides the [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309) implementation of [OnPropertyChanged(DependencyPropertyChangedEventArgs)](http://msdn.microsoft.com/en-us/library/ms597471) to also invoke any [Changed](http://msdn.microsoft.com/en-us/library/ms596566) handlers in response to a changing dependency property of type [Freezable](http://msdn.microsoft.com/en-us/library/ms602734).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+(Inherited from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.preparecontentforwindow(microsoft.practices.prism.interactivity.interactionrequest.inotification%2csystem.windows.window)">PrepareContentForWindow</a></td>
+<td>[PrepareContentForWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.preparecontentforwindow(microsoft.practices.prism.interactivity.interactionrequest.inotification%2csystem.windows.window))</td>
 <td><div class="summary">
-Checks if the WindowContent or its DataContext implements <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware">IInteractionRequestAware</a>. If so, it sets the corresponding value. Also, if WindowContent does not have a RegionManager attached, it creates a new scoped RegionManager for it.
+Checks if the WindowContent or its DataContext implements [IInteractionRequestAware](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware). If so, it sets the corresponding value. Also, if WindowContent does not have a RegionManager attached, it creates a new scoped RegionManager for it.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms597472">ReadLocalValue</a></td>
+<td>[ReadLocalValue](http://msdn.microsoft.com/en-us/library/ms597472)</td>
 <td><div class="summary">
 Returns the local value of a dependency property, if it exists.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms557756">ReadPreamble</a></td>
+<td>[ReadPreamble](http://msdn.microsoft.com/en-us/library/ms557756)</td>
 <td><div class="summary">
-Ensures that the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> is being accessed from a valid thread. Inheritors of <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> must call this method at the beginning of any API that reads data members that are not dependency properties.
+Ensures that the [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) is being accessed from a valid thread. Inheritors of [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) must call this method at the beginning of any API that reads data members that are not dependency properties.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+(Inherited from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/dd549644">SetCurrentValue</a></td>
+<td>[SetCurrentValue](http://msdn.microsoft.com/en-us/library/dd549644)</td>
 <td><div class="summary">
 Sets the value of a dependency property without changing its value source.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms597473">SetValue(DependencyProperty, Object)</a></td>
+<td>[SetValue(DependencyProperty, Object)](http://msdn.microsoft.com/en-us/library/ms597473)</td>
 <td><div class="summary">
 Sets the local value of a dependency property, specified by its dependency property identifier.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms597474">SetValue(DependencyPropertyKey, Object)</a></td>
+<td>[SetValue(DependencyPropertyKey, Object)](http://msdn.microsoft.com/en-us/library/ms597474)</td>
 <td><div class="summary">
-Sets the local value of a read-only dependency property, specified by the <a href="http://msdn.microsoft.com/en-us/library/ms602348">DependencyPropertyKey</a> identifier of the dependency property.
+Sets the local value of a read-only dependency property, specified by the [DependencyPropertyKey](http://msdn.microsoft.com/en-us/library/ms602348) identifier of the dependency property.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/images/protmethod.gif)</td>
@@ -378,44 +379,45 @@ Sets the local value of a read-only dependency property, specified by the <a hre
 <td><div class="summary">
 Returns a value that indicates whether serialization processes should serialize the value for the provided dependency property.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">ToString</a></td>
+<td>[ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)</td>
 <td><div class="summary">
 Returns a string that represents the current object.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms591169">VerifyAccess</a></td>
+<td>[VerifyAccess](http://msdn.microsoft.com/en-us/library/ms591169)</td>
 <td><div class="summary">
-Enforces that the calling thread has access to this <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.
+Enforces that the calling thread has access to this [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.)</td>
+(Inherited from [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms557762">WritePostscript</a></td>
+<td>[WritePostscript](http://msdn.microsoft.com/en-us/library/ms557762)</td>
 <td><div class="summary">
-Raises the <a href="http://msdn.microsoft.com/en-us/library/ms596566">Changed</a> event for the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> and invokes its <a href="http://msdn.microsoft.com/en-us/library/ms557749">OnChanged()()()</a> method. Classes that derive from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> should call this method at the end of any API that modifies class members that are not stored as dependency properties.
+Raises the <a href="http://msdn.microsoft.com/en-us/library/ms596566">Changed</a> event for the [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) and invokes its [OnChanged()](http://msdn.microsoft.com/en-us/library/ms557749) method. Classes that derive from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) should call this method at the end of any API that modifies class members that are not stored as dependency properties.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+(Inherited from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms557763">WritePreamble</a></td>
+<td>[WritePreamble](http://msdn.microsoft.com/en-us/library/ms557763)</td>
 <td><div class="summary">
-Verifies that the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> is not frozen and that it is being accessed from a valid threading context. <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> inheritors should call this method at the beginning of any API that writes to data members that are not dependency properties.
+Verifies that the [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) is not frozen and that it is being accessed from a valid threading context. [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) inheritors should call this method at the beginning of any API that writes to data members that are not dependency properties.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+(Inherited from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734).)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
+
+[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
