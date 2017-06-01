@@ -23,14 +23,14 @@ The [ViewRegisteredEventArgs](https://msdn.microsoft.com/library/microsoft.pract
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs.getview">GetView</a></td>
 <td><div class="summary">
 Gets the content which was registered.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs.regionname">RegionName</a></td>
 <td><div class="summary">
 Gets the region name to which the content was registered.

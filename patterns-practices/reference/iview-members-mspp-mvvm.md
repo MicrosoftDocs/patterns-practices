@@ -15,7 +15,7 @@ The [IView](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.iv
 
 |                                                                                                  | Name                                                                                         | Description |
 |--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------|
-| ![Public property](/images/pubproperty.gif) | [DataContext](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.iview.datacontext) |             |
+| ![Public property](/patterns-practices/reference/images/pubproperty.gif) | [DataContext](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.iview.datacontext) |             |
 
 ## See Also
 

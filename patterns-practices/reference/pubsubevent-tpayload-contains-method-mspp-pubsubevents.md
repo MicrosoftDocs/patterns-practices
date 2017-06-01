@@ -21,14 +21,14 @@ ms:mtpsurl: 'pubsubevent-tpayload-contains-method-mspp-pubsubevents.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent%601.contains(system.action%7b%600%7d)">Contains(Action&lt;(Of &lt;(TPayload&gt;)&gt;))</a></td>
 <td><div class="summary">
 Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matching <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;(Of &lt;(T&gt;)&gt;)</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventbase.contains(microsoft.practices.prism.pubsubevents.subscriptiontoken)">Contains(SubscriptionToken)</a></td>
 <td><div class="summary">
 Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matching <a href="/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken">SubscriptionToken</a>.

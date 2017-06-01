@@ -14,8 +14,8 @@ The [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.mic
 
 |                                                                                                      | Name                   | Description                 |
 |------------------------------------------------------------------------------------------------------|------------------------|-----------------------------|
-| ![Protected property](/images/protproperty.gif) | Subscriptions          | (Inherited from EventBase.) |
-| ![Public property](/images/pubproperty.gif)     | SynchronizationContext | (Inherited from EventBase.) |
+| ![Protected property](/patterns-practices/reference/images/protproperty.gif) | Subscriptions          | (Inherited from EventBase.) |
+| ![Public property](/patterns-practices/reference/images/pubproperty.gif)     | SynchronizationContext | (Inherited from EventBase.) |
 
 ## See Also
 [CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601)

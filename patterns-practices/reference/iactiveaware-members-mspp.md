@@ -23,7 +23,7 @@ The [IActiveAware](https://msdn.microsoft.com/library/microsoft.practices.prism.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware.isactive">IsActive</a></td>
 <td><div class="summary">
 Gets or sets a value indicating whether the object is active.
@@ -46,7 +46,7 @@ Gets or sets a value indicating whether the object is active.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/images/pubevent.gif)</td>
+<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware.isactivechanged">IsActiveChanged</a></td>
 <td><div class="summary">
 Notifies that the value for <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware.isactive">IsActive</a> property has changed.

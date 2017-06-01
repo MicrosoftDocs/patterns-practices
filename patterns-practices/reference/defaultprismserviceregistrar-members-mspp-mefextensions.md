@@ -23,7 +23,7 @@ The [DefaultPrismServiceRegistrar](https://msdn.microsoft.com/library/microsoft.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.defaultprismserviceregistrar.registerrequiredprismservicesifmissing(system.componentmodel.composition.hosting.aggregatecatalog)">RegisterRequiredPrismServicesIfMissing</a></td>
 <td><div class="summary">
 Registers the required Prism types that are not already registered in the <a href="http://msdn.microsoft.com/en-us/library/dd833165">AggregateCatalog</a>.

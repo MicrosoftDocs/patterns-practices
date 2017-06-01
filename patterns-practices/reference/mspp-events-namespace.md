@@ -23,7 +23,7 @@ ms:mtpsurl: 'mspp-events-namespace.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public class](/images/public-class.gif)</td>
+<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.events.compositepresentationevent%601">CompositePresentationEvent&lt;(Of &lt;(TPayload&gt;)&gt;)</a></td>
 <td><strong>Obsolete.</strong>
 <div class="summary">
@@ -31,7 +31,7 @@ Defines a class that manages publication and subscription to events.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public class](/images/public-class.gif)</td>
+<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.events.defaultdispatcher">DefaultDispatcher</a></td>
 <td><strong>Obsolete.</strong>
 <div class="summary">
@@ -39,7 +39,7 @@ Wraps the Application Dispatcher.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public class](/images/public-class.gif)</td>
+<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601">DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)</a></td>
 <td><strong>Obsolete.</strong>
 <div class="summary">
@@ -63,7 +63,7 @@ Extends EventSubscription to invoke the Action delegate in a specific <a href="h
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public interface](/images/public-interface.gif)</td>
+<td>![Public interface](/patterns-practices/reference/images/public-interface.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.events.idispatcherfacade">IDispatcherFacade</a></td>
 <td><strong>Obsolete.</strong>
 <div class="summary">
