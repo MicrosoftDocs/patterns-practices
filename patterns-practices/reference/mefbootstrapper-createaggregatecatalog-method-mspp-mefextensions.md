@@ -27,7 +27,7 @@ Protected Overridable Function CreateAggregateCatalog As AggregateCatalog
 
 ### Return Value
 
-Type: [AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165)
+Type: [AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165)  
 An [AggregateCatalog](/patterns-practices/reference/mefbootstrapper-aggregatecatalog-property-mspp-mefextensions) to be used by the bootstrapper.
 
 ## Remarks
