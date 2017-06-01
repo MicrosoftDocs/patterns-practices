@@ -4,28 +4,41 @@ Title: 'DelayedRegionCreationBehavior Constructor (Microsoft.Practices.Prism.Reg
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.DelayedRegionCreationBehavior.\#ctor(Microsoft.Practices.Prism.Regions.RegionAdapterMappings)'
 ms:mtpsurl: 'delayedregioncreationbehavior-constructor-mspp-regions-behaviors.md'
 ---
-
+
 # DelayedRegionCreationBehavior Constructor
 
-Initializes a new instance of the [DelayedRegionCreationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior) class.
+Initializes a new instance of the [DelayedRegionCreationBehavior](/patterns-practices/reference/delayedregioncreationbehavior-class-mspp-regions-behaviors) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public DelayedRegionCreationBehavior( RegionAdapterMappings regionAdapterMappings )Public Sub New ( regionAdapterMappings As RegionAdapterMappings )
+```C#
+public DelayedRegionCreationBehavior(
+	RegionAdapterMappings regionAdapterMappings
+)
+```
+
+```VB
+'Declaration
+Public Sub New ( 
+	regionAdapterMappings As RegionAdapterMappings
+)
+```
 
 ### Parameters
 
-regionAdapterMappings  
-Type: [Microsoft.Practices.Prism.Regions.RegionAdapterMappings](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings)
+*regionAdapterMappings*  
+Type: [Microsoft.Practices.Prism.Regions.RegionAdapterMappings](/patterns-practices/reference/regionadaptermappings-class-mspp-regions)  
 The region adapter mappings, that are used to find the correct adapter for a given controltype. The controltype is determined by the value.
 
 ## See Also
-[DelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
 
-[DelayedRegionCreationBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior)
+[DelayedRegionCreationBehavior Class](/patterns-practices/reference/delayedregioncreationbehavior-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+[DelayedRegionCreationBehavior Members](/patterns-practices/reference/delayedregioncreationbehavior-members-mspp-regions-behaviors)
+
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
