@@ -23,7 +23,6 @@ public static Collection<T> AddRange<T>(
 	IEnumerable<T> items
 )
 ```
-
 ### Parameters
 
 *collection*
@@ -53,7 +52,6 @@ The collection.
 ### Usage Note
 
 In Visual Basic and C#, you can call this method as an instance method on any object of type [Collection](http://msdn.microsoft.com/en-us/library/ms132397)&lt;T&gt;. When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
-
 
 # CollectionExtensions.AddRange(Of T) Method
 
@@ -108,10 +106,16 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 
 ## Exceptions
 
-
-| Exception                                                                             | Condition                                                                                                                                                                       |
-|---------------------------------------------------------------------------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if collection or items is nullNothingnullptra null reference (Nothing in Visual Basic). |
+<table class="grid" style="width=100%;">
+<tr>
+<td>Exception</td>
+<td>Condition</td>
+</tr>
+<tr>
+<td>[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)</td>
+<td>An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if collection or items is nullNothingnullptra null reference (Nothing in Visual Basic).</td>
+</tr>
+</table>
 
 ## See Also
 
