@@ -4,28 +4,44 @@ Title: 'ItemsControlRegionAdapter Constructor (Microsoft.Practices.Prism.Regions
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ItemsControlRegionAdapter.\#ctor(Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory)'
 ms:mtpsurl: 'itemscontrolregionadapter-constructor-mspp-regions.md'
 ---
-
+
 # ItemsControlRegionAdapter Constructor
 
-Initializes a new instance of [ItemsControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter).
+Initializes a new instance of [ItemsControlRegionAdapter](/patterns-practices/reference/itemscontrolregionadapter-class-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public ItemsControlRegionAdapter( IRegionBehaviorFactory regionBehaviorFactory )Public Sub New ( regionBehaviorFactory As IRegionBehaviorFactory )
+
+```C#
+public ItemsControlRegionAdapter(
+	IRegionBehaviorFactory regionBehaviorFactory
+)
+```
+
+```VB
+'Declaration
+Public Sub New ( 
+	regionBehaviorFactory As IRegionBehaviorFactory
+)
+```
 
 ### Parameters
 
-regionBehaviorFactory  
-Type: [Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory)
+*regionBehaviorFactory*  
+
+Type: [Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions)
+
 The factory used to create the region behaviors to attach to the created regions.
 
 ## See Also
-[ItemsControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter)
 
-[ItemsControlRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.itemscontrolregionadapter)
+[ItemsControlRegionAdapter Class](/patterns-practices/reference/itemscontrolregionadapter-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[ItemsControlRegionAdapter Members](/patterns-practices/reference/itemscontrolregionadapter-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

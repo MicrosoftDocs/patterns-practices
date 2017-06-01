@@ -23,21 +23,21 @@ The [RegionNavigationFailedEventArgs](https://msdn.microsoft.com/library/microso
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs.error">Error</a></td>
 <td><div class="summary">
 Gets the error.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs.navigationcontext">NavigationContext</a></td>
 <td><div class="summary">
 Gets the navigation context.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs.uri">Uri</a></td>
 <td><div class="summary">
 Gets the navigation URI

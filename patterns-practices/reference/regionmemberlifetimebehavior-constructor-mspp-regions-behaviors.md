@@ -4,22 +4,32 @@ Title: 'RegionMemberLifetimeBehavior Constructor (Microsoft.Practices.Prism.Regi
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior.\#ctor'
 ms:mtpsurl: 'regionmemberlifetimebehavior-constructor-mspp-regions-behaviors.md'
 ---
-
+
 # RegionMemberLifetimeBehavior Constructor
 
-Initializes a new instance of the [RegionMemberLifetimeBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior) class
+Initializes a new instance of the [RegionMemberLifetimeBehavior](/patterns-practices/reference/regionmemberlifetimebehavior-class-mspp-regions-behaviors) class
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public RegionMemberLifetimeBehavior()Public Sub New
+
+```C#
+public RegionMemberLifetimeBehavior()
+```
+
+```VB
+'Declaration
+Public Sub New
+```
 
 ## See Also
-[RegionMemberLifetimeBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior)
 
-[RegionMemberLifetimeBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior)
+[RegionMemberLifetimeBehavior Class](/patterns-practices/reference/regionmemberlifetimebehavior-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+[RegionMemberLifetimeBehavior Members](/patterns-practices/reference/regionmemberlifetimebehavior-members-mspp-regions-behaviors)
+
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

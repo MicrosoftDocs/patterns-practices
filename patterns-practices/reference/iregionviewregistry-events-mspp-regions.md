@@ -23,7 +23,7 @@ The [IRegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/images/pubevent.gif)</td>
+<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry.contentregistered">ContentRegistered</a></td>
 <td><div class="summary">
 Event triggered when a content is registered to a region name.

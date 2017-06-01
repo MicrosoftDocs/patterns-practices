@@ -21,14 +21,14 @@ ms:mtpsurl: 'unitycontainerhelper-tryresolve-method-iunitycontainer-type-mspp-un
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper.tryresolve%60%601(microsoft.practices.unity.iunitycontainer)">TryResolve&lt;(Of &lt;(T&gt;)&gt;)(IUnityContainer)</a></td>
 <td><div class="summary">
 Utility method to try to resolve a service from the container avoiding an exception if the container cannot build the type.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)![Static member](/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper.tryresolve(microsoft.practices.unity.iunitycontainer%2csystem.type)">TryResolve(IUnityContainer, Type)</a></td>
 <td><div class="summary">
 Utility method to try to resolve a service from the container avoiding an exception if the container cannot build the type.

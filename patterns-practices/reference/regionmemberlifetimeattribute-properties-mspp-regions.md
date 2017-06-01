@@ -23,14 +23,14 @@ The [RegionMemberLifetimeAttribute](https://msdn.microsoft.com/library/microsoft
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute.keepalive">KeepAlive</a></td>
 <td><div class="summary">
 Determines if the region member should be kept-alive when deactivated.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/sa1bf03e">TypeId</a></td>
 <td><div class="summary">
 When implemented in a derived class, gets a unique identifier for this <a href="http://msdn.microsoft.com/en-us/library/e8kc3626">Attribute</a>.

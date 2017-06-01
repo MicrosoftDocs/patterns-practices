@@ -21,21 +21,21 @@ ms:mtpsurl: 'notificationobject-raisepropertychanged-method-mspp-viewmodel.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected method](/images/protmethod.gif)</td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged%60%601(system.linq.expressions.expression%7bsystem.func%7b%60%600%7d%7d)">RaisePropertyChanged&lt;(Of &lt;(T&gt;)&gt;)(Expression&lt;(Of &lt;(Func&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;))</a></td>
 <td><div class="summary">
 Raises this object's PropertyChanged event.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Protected method](/images/protmethod.gif)</td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged(system.string)">RaisePropertyChanged(String)</a></td>
 <td><div class="summary">
 Raises this object's PropertyChanged event.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Protected method](/images/protmethod.gif)</td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged(system.string%5b%5d)">RaisePropertyChanged(array&lt;String&gt;)</a></td>
 <td><div class="summary">
 Raises this object's PropertyChanged event for each of the properties.

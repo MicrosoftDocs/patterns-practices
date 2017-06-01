@@ -22,21 +22,21 @@ The [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.p
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/images/pubfield.gif)![Static member](/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.centeroverassociatedobjectproperty">CenterOverAssociatedObjectProperty</a></td>
 <td><div class="summary">
 Determines if the content should be initially shown centered over the view that raised the interaction request or not.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public field](/images/pubfield.gif)![Static member](/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.ismodalproperty">IsModalProperty</a></td>
 <td><div class="summary">
 Determines if the content should be shown in a modal window or not.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public field](/images/pubfield.gif)![Static member](/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.windowcontentproperty">WindowContentProperty</a></td>
 <td><div class="summary">
 The content of the child window to display as part of the popup.

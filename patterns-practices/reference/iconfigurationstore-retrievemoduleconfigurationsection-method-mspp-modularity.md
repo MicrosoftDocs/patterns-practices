@@ -4,26 +4,35 @@ Title: 'IConfigurationStore.RetrieveModuleConfigurationSection Method (Microsoft
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.IConfigurationStore.RetrieveModuleConfigurationSection'
 ms:mtpsurl: 'iconfigurationstore-retrievemoduleconfigurationsection-method-mspp-modularity.md'
 ---
-
 # IConfigurationStore.RetrieveModuleConfigurationSection Method
 
 Gets the module configuration data.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-ModulesConfigurationSection RetrieveModuleConfigurationSection()Function RetrieveModuleConfigurationSection As ModulesConfigurationSection
+
+```C#
+ModulesConfigurationSection RetrieveModuleConfigurationSection()
+```
+
+```VB
+'Declaration
+Function RetrieveModuleConfigurationSection As ModulesConfigurationSection
+```
+
 ### Return Value
 
-Type: [ModulesConfigurationSection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection)
-A [ModulesConfigurationSection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection) instance.
+Type: [ModulesConfigurationSection](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity)  
+A [ModulesConfigurationSection](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity) instance.
 
 ## See Also
-[IConfigurationStore Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iconfigurationstore)
 
-[IConfigurationStore Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.iconfigurationstore)
+[IConfigurationStore Interface](/patterns-practices/reference/iconfigurationstore-interface-mspp-modularity)  
+[IConfigurationStore Members](/patterns-practices/reference/iconfigurationstore-members-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+

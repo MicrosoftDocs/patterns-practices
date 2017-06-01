@@ -21,14 +21,14 @@ ms:mtpsurl: 'mspp-viewmodel-namespace.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public class](/images/public-class.gif)</td>
+<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
 <td>[ErrorsContainer&lt;T&gt;](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)</td>
 <td><div class="summary">
 Manages validation errors for an object, notifying when the error state changes.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public class](/images/public-class.gif)</td>
+<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
 <td>[NotificationObject](/patterns-practices/reference/notificationobject-class-mspp-viewmodel)</td>
 <td><strong>Obsolete.</strong>
 <div class="summary">
@@ -36,7 +36,7 @@ Base class for items that support property notification.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public class](/images/public-class.gif)</td>
+<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
 <td>[PropertySupport](/patterns-practices/reference/propertysupport-class-mspp-viewmodel)</td>
 <td><strong>Obsolete.</strong>
 <div class="summary">

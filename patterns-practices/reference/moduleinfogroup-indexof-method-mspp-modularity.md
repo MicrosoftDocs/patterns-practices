@@ -21,14 +21,14 @@ ms:mtpsurl: 'moduleinfogroup-indexof-method-moduleinfo-mspp-modularity.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup.indexof(system.object)">IndexOf(Object)</a></td>
 <td><div class="summary">
 Determines the index of a specific item in the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup">ModuleInfoGroup</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup.indexof(microsoft.practices.prism.modularity.moduleinfo)">IndexOf(ModuleInfo)</a></td>
 <td><div class="summary">
 Determines the index of a specific item in the <a href="http://msdn.microsoft.com/en-us/library/5y536ey6">IList&lt;(Of &lt;(T&gt;)&gt;)</a>.

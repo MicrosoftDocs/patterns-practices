@@ -23,7 +23,7 @@ The [ConfigurationModuleCatalog](https://msdn.microsoft.com/library/microsoft.pr
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected property](/images/protproperty.gif)</td>
+<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog.grouplessmodules">GrouplessModules</a></td>
 <td><div class="summary">
 Returns the list of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a>s that are not contained within any <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup">ModuleInfoGroup</a>.
@@ -31,7 +31,7 @@ Returns the list of <a href="https://msdn.microsoft.com/library/microsoft.practi
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog">ModuleCatalog</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog.groups">Groups</a></td>
 <td><div class="summary">
 Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup">ModuleInfoGroup</a>s that have been added to the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog">ModuleCatalog</a>.
@@ -39,7 +39,7 @@ Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.m
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog">ModuleCatalog</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog.items">Items</a></td>
 <td><div class="summary">
 Gets the items in the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog">ModuleCatalog</a>. This property is mainly used to add <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup">ModuleInfoGroup</a>s or <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a>s through XAML.
@@ -47,7 +47,7 @@ Gets the items in the <a href="https://msdn.microsoft.com/library/microsoft.prac
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog">ModuleCatalog</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog.modules">Modules</a></td>
 <td><div class="summary">
 Gets all the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a> classes that are in the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog">ModuleCatalog</a>, regardless if they are within a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup">ModuleInfoGroup</a> or not.
@@ -55,14 +55,14 @@ Gets all the <a href="https://msdn.microsoft.com/library/microsoft.practices.pri
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog">ModuleCatalog</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationmodulecatalog.store">Store</a></td>
 <td><div class="summary">
 Gets or sets the store where the configuration is kept.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Protected property](/images/protproperty.gif)</td>
+<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog.validated">Validated</a></td>
 <td><div class="summary">
 Gets or sets a value that remembers whether the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog">ModuleCatalog</a> has been validated already.

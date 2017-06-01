@@ -23,7 +23,7 @@ The [RegionBehaviorCollection](https://msdn.microsoft.com/library/microsoft.prac
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection.item(system.string)">Item</a></td>
 <td><div class="summary">
 Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a> with the specified key.

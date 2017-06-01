@@ -39,3 +39,4 @@ Type: [Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of [Object](http:
 [DelegateCommandBase Members](/patterns-practices/reference/delegatecommandbase-members-mspp-commands)
 
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
+

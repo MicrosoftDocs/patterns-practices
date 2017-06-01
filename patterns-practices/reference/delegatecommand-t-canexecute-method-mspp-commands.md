@@ -21,14 +21,14 @@ ms:mtpsurl: 'delegatecommand-t-canexecute-method-mspp-commands.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601.canexecute(%600)">CanExecute(T)</a></td>
 <td><div class="summary">
 Determines if the command can execute by invoked the <a href="http://msdn.microsoft.com/en-us/library/bb549151">Func&lt;(Of &lt;(T, TResult&gt;)&gt;)</a> provided during construction.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Protected method](/images/protmethod.gif)</td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase.canexecute(system.object)">CanExecute(Object)</a></td>
 <td><div class="summary">
 Determines if the command can execute with the provided parameter by invoking the <a href="http://msdn.microsoft.com/en-us/library/bb549151">Func&lt;(Of &lt;(T, TResult&gt;)&gt;)</a> supplied during construction.

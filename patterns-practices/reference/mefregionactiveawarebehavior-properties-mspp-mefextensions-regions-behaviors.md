@@ -28,15 +28,15 @@ The [MefRegionActiveAwareBehavior](/patterns-practices/reference/mefregionactive
 <tr>
 <td>
 
-![Public property](/images/pubproperty.gif)
+![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
 <td>
-<a href="regionactiveawarebehavior-region-property-mspp-regions-behaviors">Region</a>
+<a href="/patterns-practices/reference/regionactiveawarebehavior-region-property-mspp-regions-behaviors">Region</a>
 </td>
 <td>
 <div>
 The region that this behavior is extending
-</div> (Inherited from <a href="regionactiveawarebehavior-class-mspp-regions-behaviors">RegionActiveAwareBehavior</a>.)</td>
+</div> (Inherited from <a href="/patterns-practices/reference/regionactiveawarebehavior-class-mspp-regions-behaviors">RegionActiveAwareBehavior</a>.)</td>
 </tr>
 </tbody>
 </table>

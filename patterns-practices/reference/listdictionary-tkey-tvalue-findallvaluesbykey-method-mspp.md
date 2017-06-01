@@ -4,33 +4,76 @@ Title: 'ListDictionary(TKey, TValue).FindAllValuesByKey Method (Microsoft.Practi
 ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.FindAllValuesByKey(System.Predicate{\`0})'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-findallvaluesbykey-method-mspp.md'
 ---
-
-# ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).FindAllValuesByKey Method
+
+
+# ListDictionary&lt;TKey, TValue&gt;.FindAllValuesByKey Method 
 
 Retrieves the all the elements from the list which have a key that matches the condition defined by the specified predicate.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public IEnumerable&lt;TValue&gt; FindAllValuesByKey( Predicate&lt;TKey&gt; keyFilter )Public Function FindAllValuesByKey ( keyFilter As Predicate(Of TKey) ) As IEnumerable(Of TValue)
+~~~C#
+public IEnumerable<TValue> FindAllValuesByKey(
+	Predicate<TKey> keyFilter
+)
+~~~
 
 ### Parameters
 
-keyFilter  
-Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)&lt;(Of &lt;([TKey](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
+_keyFilter_  
+Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)&lt;[TKey](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)&gt;  
 The filter with the condition to use to filter lists by their key.
 
 ### Return Value
 
-Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([TValue](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[TValue](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)&gt;  
 The elements that have a key that matches the condition defined by the specified predicate.
 
 ## See Also
-[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 
-[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.listdictionary%602)
+[ListDictionary&lt;TKey, TValue&gt; Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[ListDictionary&lt;TKey, TValue&gt; Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+
+# ListDictionary(Of TKey, TValue).FindAllValuesByKey Method 
+
+Retrieves the all the elements from the list which have a key that matches the condition defined by the specified predicate.
+
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+~~~VB
+'Declaration
+Public Function FindAllValuesByKey ( 
+	keyFilter As Predicate(Of TKey)
+) As IEnumerable(Of TValue)
+~~~
+
+### Parameters
+
+_keyFilter_  
+Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)(Of [TKey](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp))  
+The filter with the condition to use to filter lists by their key.
+
+### Return Value
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [TValue](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp))  
+The elements that have a key that matches the condition defined by the specified predicate.
+
+## See Also
+
+[ListDictionary(Of TKey, TValue) Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)
+
+[ListDictionary(Of TKey, TValue) Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

@@ -4,40 +4,57 @@ Title: 'TextLogger.Log Method (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Logging.TextLogger.Log(System.String,Microsoft.Practices.Prism.Logging.Category,Microsoft.Practices.Prism.Logging.Priority)'
 ms:mtpsurl: 'textlogger-log-method-mspp-logging.md'
 ---
-
+
+
 # TextLogger.Log Method
 
 Write a new log entry with the specified category and priority.
 
-**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
+**Namespace:** [Microsoft.Practices.Prism.Logging](/patterns-practices/reference/mspp-logging-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public void Log( string message, Category category, Priority priority )Public Sub Log ( message As String, category As Category, priority As Priority )
-
+~~~C#
+public void Log(
+	string message,
+	Category category,
+	Priority priority
+)
+~~~
+~~~VB
+'Declaration
+Public Sub Log ( 
+	message As String,
+	category As Category,
+	priority As Priority
+)
+~~~
 ### Parameters
 
-message  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+_message_  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 Message body to log.
 
-category  
-Type: [Microsoft.Practices.Prism.Logging.Category](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.category)
+_category_  
+Type: [Microsoft.Practices.Prism.Logging.Category](/patterns-practices/reference/category-enumeration-mspp-logging)  
 Category of the entry.
 
-priority  
-Type: [Microsoft.Practices.Prism.Logging.Priority](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.priority)
+_priority_  
+Type: [Microsoft.Practices.Prism.Logging.Priority](/patterns-practices/reference/priority-enumeration-mspp-logging)  
 The priority of the entry.
+
 
 ### Implements
 
-[ILoggerFacade.Log(String, Category, Priority)](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade.log(system.string%2cmicrosoft.practices.prism.logging.category%2cmicrosoft.practices.prism.logging.priority))
+[ILoggerFacade.Log(String, Category, Priority)](/patterns-practices/reference/iloggerfacade-log-method-mspp-logging)
 
 ## See Also
-[TextLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger)
 
-[TextLogger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.logging.textlogger)
+[TextLogger Class](/patterns-practices/reference/textlogger-class-mspp-logging)
 
-[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
+[TextLogger Members](/patterns-practices/reference/textlogger-members-mspp-logging)
+
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)

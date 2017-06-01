@@ -21,28 +21,28 @@ ms:mtpsurl: 'regioncreationexception-constructor-mspp-regions-behaviors.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception.">RegionCreationException()()()</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception">RegionCreationException</a>
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception.">RegionCreationException(String)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception">RegionCreationException</a> class with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Protected method](/images/protmethod.gif)</td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception.">RegionCreationException(SerializationInfo, StreamingContext)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception">RegionCreationException</a> class with serialized data.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception.">RegionCreationException(String, Exception)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception">RegionCreationException</a> class with a specified error message and a reference to the inner exception that is the cause of this exception.

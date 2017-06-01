@@ -21,7 +21,7 @@ ms:mtpsurl: 'createnewelement-mthd.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected method](/images/protmethod.gif)</td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.createnewelement">CreateNewElement()()()</a></td>
 <td><div class="summary">
 Creates a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a>.
@@ -29,7 +29,7 @@ Creates a new <a href="https://msdn.microsoft.com/library/microsoft.practices.pr
 (Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection.CreateNewElement()()()</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Protected method](/images/protmethod.gif)</td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ky49faah">CreateNewElement(String)</a></td>
 <td><div class="summary">
 Creates a new <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> when overridden in a derived class.
