@@ -4,28 +4,37 @@ Title: 'IModuleTypeLoader.LoadModuleType Method (Microsoft.Practices.Prism.Modul
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.IModuleTypeLoader.LoadModuleType(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'imoduletypeloader-loadmoduletype-method-mspp-modularity.md'
 ---
-
 # IModuleTypeLoader.LoadModuleType Method
 
-Retrieves the moduleInfo.
+Retrieves the *moduleInfo*.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-void LoadModuleType( ModuleInfo moduleInfo )Sub LoadModuleType ( moduleInfo As ModuleInfo )
+```C#
+void LoadModuleType(
+	ModuleInfo moduleInfo
+)
+```
+
+```VB
+'Declaration
+Sub LoadModuleType ( 
+	moduleInfo As ModuleInfo
+)
+```
 
 ### Parameters
 
-moduleInfo  
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
+*moduleInfo*  
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
 Module that should have it's type loaded.
 
 ## See Also
-[IModuleTypeLoader Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader)
 
-[IModuleTypeLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.imoduletypeloader)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[IModuleTypeLoader Interface](/patterns-practices/reference/imoduletypeloader-interface-mspp-modularity)  
+[IModuleTypeLoader Members](/patterns-practices/reference/imoduletypeloader-members-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
