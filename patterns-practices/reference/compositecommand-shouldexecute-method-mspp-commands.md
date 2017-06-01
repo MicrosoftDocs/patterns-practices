@@ -4,35 +4,62 @@ Title: 'CompositeCommand.ShouldExecute Method (Microsoft.Practices.Prism.Command
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.ShouldExecute(System.Windows.Input.ICommand)'
 ms:mtpsurl: 'compositecommand-shouldexecute-method-mspp-commands.md'
 ---
-
+
+
 # CompositeCommand.ShouldExecute Method
 
 Evaluates if a command should execute.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-protected virtual bool ShouldExecute( ICommand command )Protected Overridable Function ShouldExecute ( command As ICommand ) As Boolean
+```C#
+protected virtual bool ShouldExecute( ICommand command )
+```
 
-### Parameters
+## Parameters
 
-command  
-Type: [System.Windows.Input.ICommand](http://msdn.microsoft.com/en-us/library/ms616869)
+*command*  
+Type: [System.Windows.Input.ICommand](http://msdn.microsoft.com/en-us/library/ms616869)  
 The command to evaluate.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-A [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50) value indicating whether the command should be used when evaluating [CanExecute(Object)](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand.canexecute(system.object)) and [Execute(Object)](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand.execute(system.object)).
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)   
+A [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50) value indicating whether the command should be used when evaluating [CanExecute(Object)](/patterns-practices/reference/compositecommand-canexecute-method-mspp-commands) and [Execute(Object)](/patterns-practices/reference/compositecommand-execute-method-mspp-commands).
 
 ## Remarks
 
- If this command is set to monitor command activity, and command implements the [!:IActiveAwareCommand\] interface, this method will return falseFalsefalsefalse (False in Visual Basic) if the command's [!:IActiveAwareCommand.IsActive\] property is falseFalsefalsefalse (False in Visual Basic); otherwise it always returns trueTruetruetrue (True in Visual Basic).
+ If this command is set to monitor command activity, and command implements the [!:IActiveAwareCommand\] interface, this method will return **falsefalse** (**False** in Visual Basic) if the command's [!:IActiveAwareCommand.IsActive\] property is **falsefalse** (**False** in Visual Basic); otherwise it always returns **truetrue** (**True** in Visual Basic).
+ 
+```VB
+Protected Overridable Function ShouldExecute ( command As ICommand ) As Boolean
+```
+
+### Parameters
+
+*command*  
+Type: [System.Windows.Input.ICommand](http://msdn.microsoft.com/en-us/library/ms616869)  
+The command to evaluate.
+
+### Return Value
+
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)    
+A [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50) value indicating whether the command should be used when evaluating [CanExecute(Object)](/patterns-practices/reference/compositecommand-canexecute-method-mspp-commands) and [Execute(Object)](/patterns-practices/reference/compositecommand-execute-method-mspp-commands).
+
+## Remarks
+
+ If this command is set to monitor command activity, and command implements the [!:IActiveAwareCommand\] interface, this method will return **Falsefalse** (**False** in Visual Basic) if the command's [!:IActiveAwareCommand.IsActive\] property is **Falsefalse** (**False** in Visual Basic); otherwise it always returns **Truetrue** (**True** in Visual Basic).
+ 
 
 ## See Also
-[CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
 
-[CompositeCommand Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.compositecommand)
+[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+[CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)
+
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
