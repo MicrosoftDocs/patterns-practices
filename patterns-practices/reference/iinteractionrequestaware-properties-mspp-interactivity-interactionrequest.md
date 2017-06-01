@@ -24,14 +24,14 @@ The [IInteractionRequestAware](https://msdn.microsoft.com/library/microsoft.prac
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware.finishinteraction">FinishInteraction</a></td>
 <td><div class="summary">
 An <a href="http://msdn.microsoft.com/en-us/library/bb534741">Action</a> that can be invoked to finish the interaction.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware.notification">Notification</a></td>
 <td><div class="summary">
 The <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification">INotification</a> passed when the interaction request was raised.

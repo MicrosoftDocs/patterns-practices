@@ -23,14 +23,14 @@ The [IViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.pr
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection.contains(system.object)">Contains</a></td>
 <td><div class="summary">
 Determines whether the collection contains a specific value.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/s793z9y2">GetEnumerator()()()</a></td>
 <td><div class="summary">
 Returns an enumerator that iterates through the collection.
@@ -38,7 +38,7 @@ Returns an enumerator that iterates through the collection.
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/9eekhta0">IEnumerable</a>&lt;(Of &lt;(<a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>&gt;)&gt;).)</td>
 </tr>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/5zae5365">GetEnumerator()()()</a></td>
 <td><div class="summary">
 Returns an enumerator that iterates through a collection.

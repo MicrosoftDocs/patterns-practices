@@ -23,14 +23,14 @@ The [ItemMetadata](https://msdn.microsoft.com/library/microsoft.practices.prism.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Static member](/images/pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Gg430953.static.gif)</td>
+<td>![Static member](/patterns-practices/reference/images/pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Gg430953.static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.isactiveproperty">IsActiveProperty</a></td>
 <td><div class="summary">
 Value indicating whether the wrapped item is considered active.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Static member](/images/pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Gg430953.static.gif)</td>
+<td>![Static member](/patterns-practices/reference/images/pubfield(en-us,PandP.50).gif" title="Public field" /><img src="https://msdn.microsoft.com/en-us/Gg430953.static.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.nameproperty">NameProperty</a></td>
 <td><div class="summary">
 The name of the wrapped item.

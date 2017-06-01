@@ -23,28 +23,28 @@ The [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)](https://msdn.microsoft.c
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602.count">Count</a></td>
 <td><div class="summary">
 Gets the number of lists in the dictionary.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602.item(%600)">Item</a></td>
 <td><div class="summary">
 Gets or sets the list associated with the given key. The access always succeeds, eventually returning an empty list.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602.keys">Keys</a></td>
 <td><div class="summary">
 Gets the list of keys in the dictionary.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602.values">Values</a></td>
 <td><div class="summary">
 Gets a shallow copy of all values in all lists.

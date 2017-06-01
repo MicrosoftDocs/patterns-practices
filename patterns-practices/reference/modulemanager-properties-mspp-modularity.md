@@ -23,14 +23,14 @@ The [ModuleManager](https://msdn.microsoft.com/library/microsoft.practices.prism
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected property](/images/protproperty.gif)</td>
+<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.modulecatalog">ModuleCatalog</a></td>
 <td><div class="summary">
 The module catalog specified in the constructor.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.moduletypeloaders">ModuleTypeLoaders</a></td>
 <td><div class="summary">
 Returns the list of registered <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader">IModuleTypeLoader</a> instances that will be used to load the types of modules.

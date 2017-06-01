@@ -7,9 +7,11 @@ ms:mtpsurl: 'errorscontainer-t-validationresults-field-mspp-viewmodel.md'
 
 # ErrorsContainer&lt;T&gt;.validationResults Field
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](/patterns-practices/reference/mspp-viewmodel-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
@@ -19,19 +21,19 @@ protected readonly Dictionary<string, List<T>> validationResults
 
 ### Field Value
 
-Type: [Dictionary](http://msdn.microsoft.com/en-us/library/xfhwa508)&lt;[String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf), [List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)&lt;[T](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))&gt;&gt;
+Type: [Dictionary](http://msdn.microsoft.com/en-us/library/xfhwa508)&lt;[String](http://msdn.microsoft.com/en-us/library/s1wwdcbf), [List](http://msdn.microsoft.com/en-us/library/6sh2ey19)&lt;[T](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)&gt;&gt;
 
 ## See Also
 
-[ErrorsContainer&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))
+[ErrorsContainer&lt;T&gt; Class](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)
 
-[ErrorsContainer&lt;T&gt; Members](https://msdn.microsoft.com/en-us/library/gg405531(v=pandp.50))
+[ErrorsContainer&lt;T&gt; Members](/patterns-practices/reference/errorscontainer-t-members-mspp-viewmodel)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)
 
 # ErrorsContainer(Of T).validationResults Field
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](/patterns-practices/reference/mspp-viewmodel-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
@@ -44,13 +46,13 @@ Protected ReadOnly validationResults As Dictionary(Of String, List(Of T))
 
 ### Field Value
 
-Type: [Dictionary](http://msdn.microsoft.com/en-us/library/xfhwa508)(Of [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf), [List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)(Of [T](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))))
+Type: [Dictionary](http://msdn.microsoft.com/en-us/library/xfhwa508)(Of [String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf), [List](http://msdn2.microsoft.com/en-us/library/6sh2ey19)(Of [T](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)))
 
 ## See Also
 
-[ErrorsContainer(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))
+[ErrorsContainer(Of T) Class](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)
 
-[ErrorsContainer(Of T) Members](https://msdn.microsoft.com/en-us/library/gg405531(v=pandp.50))
+[ErrorsContainer(Of T) Members](/patterns-practices/reference/errorscontainer-t-members-mspp-viewmodel)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)
 

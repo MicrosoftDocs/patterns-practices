@@ -28,7 +28,7 @@ The [InteractionRequestTrigger](/patterns-practices/reference/interactionrequest
 <tr>
 <td>
 
-![Public property](/images/pubproperty.gif)
+![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
 <td>
 Actions
@@ -38,7 +38,7 @@ Actions
 <tr>
 <td>
 
-![Protected property](/images/protproperty.gif)
+![Protected property](/patterns-practices/reference/images/protproperty.gif)
 </td>
 <td>
 AssociatedObject
@@ -48,7 +48,7 @@ AssociatedObject
 <tr>
 <td>
 
-![Protected property](/images/protproperty.gif)
+![Protected property](/patterns-practices/reference/images/protproperty.gif)
 </td>
 <td>
 AssociatedObjectTypeConstraint
@@ -58,7 +58,7 @@ AssociatedObjectTypeConstraint
 <tr>
 <td>
 
-![Public property](/images/pubproperty.gif)
+![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms600923" target="_blank">CanFreeze</a>
@@ -69,7 +69,7 @@ AssociatedObjectTypeConstraint
 <tr>
 <td>
 
-![Public property](/images/pubproperty.gif)
+![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms600674" target="_blank">DependencyObjectType</a>
@@ -80,7 +80,7 @@ AssociatedObjectTypeConstraint
 <tr>
 <td>
 
-![Public property](/images/pubproperty.gif)
+![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms605656" target="_blank">Dispatcher</a>
@@ -91,7 +91,7 @@ AssociatedObjectTypeConstraint
 <tr>
 <td>
 
-![Public property](/images/pubproperty.gif)
+![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
 <td>
 EventName
@@ -101,7 +101,7 @@ EventName
 <tr>
 <td>
 
-![Public property](/images/pubproperty.gif)
+![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms616442" target="_blank">HasAnimatedProperties</a>
@@ -112,7 +112,7 @@ EventName
 <tr>
 <td>
 
-![Public property](/images/pubproperty.gif)
+![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms600924" target="_blank">IsFrozen</a>
@@ -123,7 +123,7 @@ EventName
 <tr>
 <td>
 
-![Public property](/images/pubproperty.gif)
+![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
 <td>
 <a href="http://msdn.microsoft.com/en-us/library/ms600677" target="_blank">IsSealed</a>
@@ -134,7 +134,7 @@ EventName
 <tr>
 <td>
 
-![Public property](/images/pubproperty.gif)
+![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
 <td>
 Source
@@ -144,7 +144,7 @@ Source
 <tr>
 <td>
 
-![Public property](/images/pubproperty.gif)
+![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
 <td>
 SourceName
@@ -154,7 +154,7 @@ SourceName
 <tr>
 <td>
 
-![Public property](/images/pubproperty.gif)
+![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
 <td>
 SourceObject
@@ -164,7 +164,7 @@ SourceObject
 <tr>
 <td>
 
-![Protected property](/images/protproperty.gif)
+![Protected property](/patterns-practices/reference/images/protproperty.gif)
 </td>
 <td>
 SourceTypeConstraint

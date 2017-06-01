@@ -4,38 +4,91 @@ Title: 'ListDictionary(TKey, TValue).Remove Method (TKey) (Microsoft.Practices.P
 ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.Remove(\`0)'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-remove-method-tkey-mspp.md'
 ---
-
-# ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Remove Method (TKey)
+
+# ListDictionary&lt;TKey, TValue&gt;.Remove Method (TKey)
 
 Removes a list by key.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public bool Remove( TKey key )Public Function Remove ( key As TKey ) As Boolean
+
+~~~C#
+public bool Remove(
+	TKey key
+)
+~~~
 
 ### Parameters
 
-key  
-Type: [TKey](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
+_key_  
+Type: [TKey](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
 The key of the list to remove.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-trueTruetruetrue (True in Visual Basic) if the element was removed.
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
+**Truetruetrue** (**True** in Visual Basic) if the element was removed.
+
 ### Implements
 
-[IDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Remove(TKey)](http://msdn.microsoft.com/en-us/library/k8s489f0)
+[IDictionary&lt;TKey, TValue&gt;.Remove(TKey)](http://msdn.microsoft.com/en-us/library/k8s489f0)
 
 ## See Also
-[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 
-[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.listdictionary%602)
+[ListDictionary&lt;TKey, TValue&gt; Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)
 
-[Remove Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.listdictionary%602.remove)
+[ListDictionary&lt;TKey, TValue&gt; Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[Remove Overload](/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+
+
+# ListDictionary(Of TKey, TValue).Remove Method (TKey)
+
+Removes a list by key.
+
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+~~~VB
+'Declaration
+Public Function Remove ( 
+	key As TKey
+) As Boolean
+~~~
+
+### Parameters
+
+_key_  
+Type: [TKey](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
+The key of the list to remove.
+
+### Return Value
+
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
+**Truetruetrue** (**True** in Visual Basic) if the element was removed.
+
+### Implements
+
+[IDictionary(Of TKey, TValue).Remove(TKey)](http://msdn.microsoft.com/en-us/library/k8s489f0)
+
+## See Also
+
+[ListDictionary(Of TKey, TValue) Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)
+
+[ListDictionary(Of TKey, TValue) Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)
+
+[Remove Overload](/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

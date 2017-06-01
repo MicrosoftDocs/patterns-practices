@@ -55,8 +55,8 @@ The value for the specified key, or **Nothing**a null reference (**Nothing** in 
 
 ## See Also
 
-[NavigationParameters Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters(v=pandp.50))
+[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)
 
-[NavigationParameters Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters_members(v=pandp.50))
+[NavigationParameters Members](/patterns-practices/reference/navigationparameters-members-mspp-regions)
 
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)

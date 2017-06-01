@@ -23,14 +23,14 @@ The [IConfirmNavigationRequest](https://msdn.microsoft.com/library/microsoft.pra
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iconfirmnavigationrequest.confirmnavigationrequest(microsoft.practices.prism.regions.navigationcontext%2csystem.action%7bsystem.boolean%7d)">ConfirmNavigationRequest</a></td>
 <td><div class="summary">
 Determines whether this instance accepts being navigated away from.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware.isnavigationtarget(microsoft.practices.prism.regions.navigationcontext)">IsNavigationTarget</a></td>
 <td><div class="summary">
 Called to determine if this instance can handle the navigation request.
@@ -38,7 +38,7 @@ Called to determine if this instance can handle the navigation request.
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware">INavigationAware</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware.onnavigatedfrom(microsoft.practices.prism.regions.navigationcontext)">OnNavigatedFrom</a></td>
 <td><div class="summary">
 Called when the implementer is being navigated away from.
@@ -46,7 +46,7 @@ Called when the implementer is being navigated away from.
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware">INavigationAware</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware.onnavigatedto(microsoft.practices.prism.regions.navigationcontext)">OnNavigatedTo</a></td>
 <td><div class="summary">
 Called when the implementer has been navigated to.

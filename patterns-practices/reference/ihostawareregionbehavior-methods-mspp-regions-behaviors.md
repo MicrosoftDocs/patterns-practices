@@ -23,7 +23,7 @@ The [IHostAwareRegionBehavior](https://msdn.microsoft.com/library/microsoft.prac
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior.attach">Attach</a></td>
 <td><div class="summary">
 Attaches the behavior to the specified region.

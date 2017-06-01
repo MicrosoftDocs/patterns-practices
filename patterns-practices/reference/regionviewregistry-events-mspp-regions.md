@@ -23,7 +23,7 @@ The [RegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/images/pubevent.gif)</td>
+<td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry.contentregistered">ContentRegistered</a></td>
 <td><div class="summary">
 Occurs whenever a new view is registered.

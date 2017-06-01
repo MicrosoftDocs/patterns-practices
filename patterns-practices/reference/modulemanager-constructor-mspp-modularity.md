@@ -4,36 +4,50 @@ Title: 'ModuleManager Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleManager.\#ctor(Microsoft.Practices.Prism.Modularity.IModuleInitializer,Microsoft.Practices.Prism.Modularity.IModuleCatalog,Microsoft.Practices.Prism.Logging.ILoggerFacade)'
 ms:mtpsurl: 'modulemanager-constructor-mspp-modularity.md'
 ---
-
+
 # ModuleManager Constructor
 
-Initializes an instance of the [ModuleManager](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager) class.
+Initializes an instance of the [ModuleManager](/patterns-practices/reference/modulemanager-class-mspp-modularity) class.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public ModuleManager( IModuleInitializer moduleInitializer, IModuleCatalog moduleCatalog, ILoggerFacade loggerFacade )Public Sub New ( moduleInitializer As IModuleInitializer, moduleCatalog As IModuleCatalog, loggerFacade As ILoggerFacade )
+```C#
+public ModuleManager(
+	IModuleInitializer moduleInitializer,
+	IModuleCatalog moduleCatalog,
+	ILoggerFacade loggerFacade
+)
+```
+
+```VB
+'Declaration
+Public Sub New ( 
+	moduleInitializer As IModuleInitializer,
+	moduleCatalog As IModuleCatalog,
+	loggerFacade As ILoggerFacade
+)
+```
 
 ### Parameters
 
-moduleInitializer  
-Type: [Microsoft.Practices.Prism.Modularity.IModuleInitializer](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduleinitializer)
+*moduleInitializer*  
+Type: [Microsoft.Practices.Prism.Modularity.IModuleInitializer](/patterns-practices/reference/imoduleinitializer-interface-mspp-modularity)  
 Service used for initialization of modules.
 
-moduleCatalog  
-Type: [Microsoft.Practices.Prism.Modularity.IModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog)
+*moduleCatalog*  
+Type: [Microsoft.Practices.Prism.Modularity.IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity)  
 Catalog that enumerates the modules to be loaded and initialized.
 
-loggerFacade  
-Type: [Microsoft.Practices.Prism.Logging.ILoggerFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade)
+*loggerFacade*  
+Type: [Microsoft.Practices.Prism.Logging.ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging)  
 Logger used during the load and initialization of modules.
 
 ## See Also
-[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
 
-[ModuleManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulemanager)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)  
+[ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

@@ -25,7 +25,7 @@ ms:mtpsurl: 'compositepresentationevent-tpayload-contains-method-mspp-events.md'
 <tr>
   <td>
       
-![](/images/public-method.gif "Public method")
+![](/patterns-practices/reference/images/public-method.gif "Public method")
   </td>
   <td>
     Contains(SubscriptionToken)
@@ -35,7 +35,7 @@ ms:mtpsurl: 'compositepresentationevent-tpayload-contains-method-mspp-events.md'
 <tr>
   <td>
     
-![](/images/public-method.gif "Public method")
+![](/patterns-practices/reference/images/public-method.gif "Public method")
   </td>
   <td>
     <a href="compositepresentationevent-tpayload-contains-method-action-tpayload-mspp-events.md">Contains(Action(Of TPayload))</a>

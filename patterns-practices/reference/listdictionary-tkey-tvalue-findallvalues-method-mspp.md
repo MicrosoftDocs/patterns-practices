@@ -4,33 +4,78 @@ Title: 'ListDictionary(TKey, TValue).FindAllValues Method (Microsoft.Practices.P
 ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.FindAllValues(System.Predicate{\`1})'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-findallvalues-method-mspp.md'
 ---
-
-# ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).FindAllValues Method
+# ListDictionary&lt;TKey, TValue&gt;.FindAllValues Method 
 
 Retrieves all the elements that match the condition defined by the specified predicate.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public IEnumerable&lt;TValue&gt; FindAllValues( Predicate&lt;TValue&gt; valueFilter )Public Function FindAllValues ( valueFilter As Predicate(Of TValue) ) As IEnumerable(Of TValue)
+
+~~~C#
+public IEnumerable<TValue> FindAllValues(
+	Predicate<TValue> valueFilter
+)
+~~~
 
 ### Parameters
 
-valueFilter  
-Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)&lt;(Of &lt;([TValue](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
+_valueFilter_  
+Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)&lt;[TValue](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)&gt;  
 The filter with the condition to use to filter values.
 
 ### Return Value
 
-Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([TValue](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[TValue](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)&gt;  
 The elements that match the condition defined by the specified predicate.
 
 ## See Also
-[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 
-[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.listdictionary%602)
+[ListDictionary<TKey, TValue> Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[ListDictionary<TKey, TValue> Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+
+
+# ListDictionary(Of TKey, TValue).FindAllValues Method
+
+Retrieves all the elements that match the condition defined by the specified predicate.
+
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+~~~VB
+'Declaration
+Public Function FindAllValuesByKey ( 
+	keyFilter As Predicate(Of TKey)
+) As IEnumerable(Of TValue)
+~~~
+
+### Parameters
+
+_valueFilter_  
+Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)(Of [TValue](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp))  
+The filter with the condition to use to filter values.
+
+### Return Value
+
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [TValue](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp))  
+The elements that match the condition defined by the specified predicate.
+
+## See Also
+
+[ListDictionary(Of TKey, TValue) Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)
+
+[ListDictionary(Of TKey, TValue) Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

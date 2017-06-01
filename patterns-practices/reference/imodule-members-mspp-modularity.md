@@ -23,7 +23,7 @@ The [IModule](https://msdn.microsoft.com/library/microsoft.practices.prism.modul
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule.initialize">Initialize</a></td>
 <td><div class="summary">
 Notifies the module that it has be initialized.
