@@ -4,24 +4,32 @@ Title: 'RegionCreationException Constructor (Microsoft.Practices.Prism.Regions.B
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.RegionCreationException.\#ctor'
 ms:mtpsurl: 'regioncreationexception-constructor-mspp-regions-behaviors.md'
 ---
-
 # RegionCreationException Constructor
 
-Initializes a new instance of the [RegionCreationException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception)
+Initializes a new instance of the [RegionCreationException](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors)
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](htt/patterns-practices/reference/mspp-regions-behaviors-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public RegionCreationException()Public Sub New
+```C#
+public RegionCreationException()
+```
+
+```VB
+'Declaration
+Public Sub New
+```
 
 ## See Also
-[RegionCreationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception)
 
-[RegionCreationException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regioncreationexception)
+[RegionCreationException Class](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors)
 
-[RegionCreationException Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.regions.behaviors.regioncreationexception.)
+[RegionCreationException Members](/patterns-practices/reference/regioncreationexception-members-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+RegionCreationException Overload
+
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
