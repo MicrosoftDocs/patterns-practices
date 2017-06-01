@@ -106,7 +106,7 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 
 ## Exceptions
 
-<table class="grid" style="width=100%;">
+<table style="width:100%;">
 <tr>
 <td>Exception</td>
 <td>Condition</td>
