@@ -4,32 +4,51 @@ Title: 'ItemsControlRegionAdapter.Adapt Method (Microsoft.Practices.Prism.Region
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ItemsControlRegionAdapter.Adapt(Microsoft.Practices.Prism.Regions.IRegion,System.Windows.Controls.ItemsControl)'
 ms:mtpsurl: 'itemscontrolregionadapter-adapt-method-mspp-regions.md'
 ---
-
+
 # ItemsControlRegionAdapter.Adapt Method
 
-Adapts an [ItemsControl](http://msdn.microsoft.com/en-us/library/ms611045) to an [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion).
+Adapts an [ItemsControl](http://msdn.microsoft.com/en-us/library/ms611045) to an [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-protected override void Adapt( IRegion region, ItemsControl regionTarget )Protected Overrides Sub Adapt ( region As IRegion, regionTarget As ItemsControl )
+
+```C#
+protected override void Adapt(
+	IRegion region,
+	ItemsControl regionTarget
+)
+```
+```VB
+'Declaration
+Protected Overrides Sub Adapt ( 
+	region As IRegion,
+	regionTarget As ItemsControl
+)
+```
 
 ### Parameters
 
-region  
-Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
+*region*  
+
+Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
+
 The new region being used.
 
-regionTarget  
+*regionTarget*
+
 Type: [System.Windows.Controls.ItemsControl](http://msdn.microsoft.com/en-us/library/ms611045)
+
 The object to adapt.
 
 ## See Also
-[ItemsControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter)
 
-[ItemsControlRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.itemscontrolregionadapter)
+[ItemsControlRegionAdapter Class](/patterns-practices/reference/itemscontrolregionadapter-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[ItemsControlRegionAdapter Members](/patterns-practices/reference/itemscontrolregionadapter-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
