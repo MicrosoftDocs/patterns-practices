@@ -5,7 +5,7 @@ ms:assetid: 'F:Microsoft.Practices.Prism.Interactivity.InvokeCommandAction.Comma
 ms:mtpsurl: 'invokecommandaction-commandproperty-field-mspp-interactivity.md'
 ---
 
-InvokeCommandAction.CommandProperty Field
+# InvokeCommandAction.CommandProperty Field
 
 Dependency property identifying the command to execute when invoked.
 

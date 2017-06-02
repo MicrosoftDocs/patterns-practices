@@ -25,7 +25,7 @@ The [MefClearChildViewsRegionBehavior](https://msdn.microsoft.com/library/micros
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior.">MefClearChildViewsRegionBehavior</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior">MefClearChildViewsRegionBehavior</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior">MefClearChildViewsRegionBehavior</a> class
 </div></td>
