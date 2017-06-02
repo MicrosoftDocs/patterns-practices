@@ -7,7 +7,7 @@ ms:mtpsurl: 'modularityexception-events-mspp-modularity.md'
 
 # ModularityException Events
 
-The [ModularityException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception) type exposes the following members.
+The [ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity) type exposes the following members.
 
 ## Events
 
@@ -38,6 +38,6 @@ Occurs when an exception is serialized to create an exception state object that 
 
 ## See Also
 
-[ModularityException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception)
+[ModularityException Class](/patterns-practices/reference/modularityexception-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

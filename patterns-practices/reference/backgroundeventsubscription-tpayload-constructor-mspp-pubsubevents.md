@@ -7,11 +7,13 @@ ms:mtpsurl: 'backgroundeventsubscription-tpayload-constructor-mspp-pubsubevents.
 
 # BackgroundEventSubscription&lt;TPayload&gt; Constructor 
 
-Creates a new instance of [BackgroundEventSubscription&lt;TPayload&gt;](https://msdn.microsoft.com/en-us/library/dn683933(v=pandp.50)).
+Creates a new instance of [BackgroundEventSubscription&lt;TPayload&gt;](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents).
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
@@ -44,7 +46,7 @@ A reference to a delegate of type [Predicate&lt;T&gt;](http://msdn.microsoft.com
 
 ## See Also
 
-[BackgroundEventSubscription&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/dn683933(v=pandp.50))
+[BackgroundEventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)
 
 BackgroundEventSubscription&lt;TPayload&gt; Members
 
@@ -52,7 +54,7 @@ BackgroundEventSubscription&lt;TPayload&gt; Members
 
 # BackgroundEventSubscription(Of TPayload) Constructor
 
-Creates a new instance of [BackgroundEventSubscription(Of TPayload) ](https://msdn.microsoft.com/en-us/library/dn683933(v=pandp.50)).
+Creates a new instance of [BackgroundEventSubscription(Of TPayload) ](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents).
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
 
@@ -90,7 +92,7 @@ A reference to a delegate of type [Predicate(Of T)](http://msdn.microsoft.com/en
 
 ## See Also
 
-[BackgroundEventSubscription(Of TPayload)  Class](https://msdn.microsoft.com/en-us/library/dn683933(v=pandp.50))
+[BackgroundEventSubscription(Of TPayload)  Class](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)
 
 BackgroundEventSubscription(Of TPayload)  Members
 

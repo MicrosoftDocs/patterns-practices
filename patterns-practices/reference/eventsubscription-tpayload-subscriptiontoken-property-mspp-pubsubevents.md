@@ -11,7 +11,9 @@ ms:mtpsurl: 'eventsubscription-tpayload-subscriptiontoken-property-mspp-pubsubev
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
@@ -20,7 +22,7 @@ public SubscriptionToken SubscriptionToken { get; set; }
 ```
 
 #### Property Value
-Type: [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50))
+Type: [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)
 
 A token that identifies this [IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
 
@@ -29,7 +31,7 @@ A token that identifies this [IEventSubscription](/patterns-practices/reference/
 
 ## See Also
 
-[EventSubscription&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50))
+[EventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)
 
 EventSubscription&lt;TPayload&gt; Members
 
@@ -53,7 +55,7 @@ Public Property SubscriptionToken As SubscriptionToken
 ```
 
 #### Property Value
-Type: [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50))
+Type: [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)
 
 A token that identifies this [IEventSubscription](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
 
@@ -62,7 +64,7 @@ A token that identifies this [IEventSubscription](/patterns-practices/reference/
 
 ## See Also
 
-[EventSubscription(Of TPayload) Class](https://msdn.microsoft.com/en-us/library/dn683956(v=pandp.50))
+[EventSubscription(Of TPayload) Class](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)
 
 EventSubscription(Of TPayload) Members
 

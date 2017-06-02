@@ -26,23 +26,23 @@ The [EventSubscription&lt;TPayload&gt;](/patterns-practices/reference/mspp-mvvm-
 <tbody>
 <tr class="odd">
 <td>![Public property](/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601.action">Action</a></td>
+<td>[Action]()</td>
 <td><div class="summary">
-Gets the target <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;T&gt</a> that is referenced by the <a href="/patterns-practices/reference/mspp-mvvm-namespace.idelegatereference">IDelegateReference</a>.
+Gets the target [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) that is referenced by the [IDelegateReference](/patterns-practices/reference/mspp-mvvm-namespace.idelegatereference).
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601.filter">Filter</a></td>
+<td>[Filter](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription.filter)</td>
 <td><div class="summary">
-Gets the target <a href="http://msdn.microsoft.com/en-us/library/bfcke1bz">Predicate&lt;T&gt;</a> that is referenced by the <a href="/patterns-practices/reference/mspp-mvvm-namespace.idelegatereference">IDelegateReference</a>.
+Gets the target [Predicate&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz) that is referenced by the [IDelegateReference](/patterns-practices/reference/mspp-mvvm-namespace.idelegatereference).
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601.subscriptiontoken">SubscriptionToken</a></td>
+<td>[SubscriptionToken](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription.subscriptiontoken)</td>
 <td><div class="summary">
-Gets or sets a <a href="/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601.subscriptiontoken">SubscriptionToken</a> that identifies this <a href="/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription">IEventSubscription</a>.
+Gets or sets a [SubscriptionToken](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription.subscriptiontoken) that identifies this [IEventSubscription](/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription).
 </div></td>
 </tr>
 </tbody>
