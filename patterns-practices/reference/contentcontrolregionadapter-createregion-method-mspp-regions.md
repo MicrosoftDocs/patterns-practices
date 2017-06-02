@@ -4,26 +4,36 @@ Title: 'ContentControlRegionAdapter.CreateRegion Method (Microsoft.Practices.Pri
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter.CreateRegion'
 ms:mtpsurl: 'contentcontrolregionadapter-createregion-method-mspp-regions.md'
 ---
-
+
 # ContentControlRegionAdapter.CreateRegion Method
 
-Creates a new instance of [SingleActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion).
+Creates a new instance of [SingleActiveRegion](/patterns-practices/reference/singleactiveregion-class-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-protected override IRegion CreateRegion()Protected Overrides Function CreateRegion As IRegion
+```C#
+protected override IRegion CreateRegion()
+```
+
+```VB
+'Declaration
+Protected Overrides Function CreateRegion As IRegion
+```
+
 ### Return Value
 
-Type: [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
-A new instance of [SingleActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion).
+Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
+A new instance of [SingleActiveRegion](/patterns-practices/reference/singleactiveregion-class-mspp-regions).
 
 ## See Also
-[ContentControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.contentcontrolregionadapter)
 
-[ContentControlRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.contentcontrolregionadapter)
+[ContentControlRegionAdapter Class](/patterns-practices/reference/contentcontrolregionadapter-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[ContentControlRegionAdapter Members](/patterns-practices/reference/contentcontrolregionadapter-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
