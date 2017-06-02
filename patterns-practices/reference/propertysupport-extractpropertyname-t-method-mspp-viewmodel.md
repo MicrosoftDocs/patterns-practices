@@ -22,7 +22,8 @@ public static string ExtractPropertyName<T>(
 	Expression<Func<T>> propertyExpression
 )
 ```
-### Parameters
+
+### Parameters
 
 *propertyExpression* 
 
@@ -74,6 +75,7 @@ Or, the property is static.</td>
 
 [Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)
 
+
 # PropertySupport.ExtractPropertyName(Of T) Method
 
 Extracts the property name from a property expression.
@@ -92,7 +94,8 @@ Public Shared Function ExtractPropertyName(Of T) (
 	propertyExpression As Expression(Of Func(Of T))
 ) As String
 ```
-### Parameters
+
+### Parameters
 
 *propertyExpression*
  
@@ -109,6 +112,7 @@ The object type containing the property specified in the expression.
 ### Return Value
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+
 The name of the property.
 
 ## Exceptions
