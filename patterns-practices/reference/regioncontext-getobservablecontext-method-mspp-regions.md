@@ -46,10 +46,11 @@ Returns an [ObservableObject(Of T)](/patterns-practices/reference/observableobje
 
 ## Syntax
 
-~~~C#
-public static ObservableObject<Object> GetObservableContext(
-	DependencyObject view
-)
+~~~VB
+'Declaration
+Public Shared Function GetObservableContext ( 
+	view As DependencyObject
+) As ObservableObject(Of Object)
 ~~~
 
 ### Parameters
