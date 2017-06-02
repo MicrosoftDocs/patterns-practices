@@ -24,8 +24,6 @@ protected virtual void HandleModuleTypeLoadingError(
 )
 ```
 
-## Syntax
-
 ```VB
 'Declaration
 Protected Overridable Sub HandleModuleTypeLoadingError ( 
@@ -33,19 +31,16 @@ Protected Overridable Sub HandleModuleTypeLoadingError (
 	exception As Exception
 )
 ```
-### Parameters
 
-*moduleInfo*
+### Parameters
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
+*moduleInfo*  
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
+The module metadata where the error happenened.
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The module metadata where the error happenened.
-
-*exception*
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
-
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The exception thrown that is the cause of the current error.
+*exception*  
+Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)  
+The exception thrown that is the cause of the current error.
 
 ## Exceptions
 
