@@ -4,38 +4,48 @@ Title: 'ModuleCatalog.AddModule Method (ModuleInfo) (Microsoft.Practices.Prism.M
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddModule(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'addmodule-mthd-str-str-initializationmode-str.md'
 ---
-
 # ModuleCatalog.AddModule Method (ModuleInfo)
 
-Adds a [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) to the [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog).
+Adds a [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public virtual void AddModule( ModuleInfo moduleInfo )Public Overridable Sub AddModule ( moduleInfo As ModuleInfo )
+```C#
+public virtual void AddModule(
+	ModuleInfo moduleInfo
+)
+```
+
+```VB
+'Declaration
+Public Overridable Sub AddModule ( 
+	moduleInfo As ModuleInfo
+)
+```
 
 ### Parameters
 
-moduleInfo  
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
-The [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) to add.
+*moduleInfo*  
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
+The [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to add.
 
 ### Return Value
 
-Type:
-The [ModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog) for easily adding multiple modules.
+Type:  
+The [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) for easily adding multiple modules.
 ### Implements
 
-[IModuleCatalog.AddModule(ModuleInfo)](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog.addmodule(microsoft.practices.prism.modularity.moduleinfo))
+[IModuleCatalog.AddModule(ModuleInfo)](/patterns-practices/reference/imodulecatalog-addmodule-method-mspp-modularity)
 
 ## See Also
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
-[ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
+[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)  
+[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)  
+[AddModule Overload](/patterns-practices/reference/modulecatalog-addmodule-method-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
 
-[AddModule Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.modulecatalog.addmodule)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
