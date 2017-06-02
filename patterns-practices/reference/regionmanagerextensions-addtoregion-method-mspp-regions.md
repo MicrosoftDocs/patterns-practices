@@ -4,44 +4,62 @@ Title: 'RegionManagerExtensions.AddToRegion Method (Microsoft.Practices.Prism.Re
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManagerExtensions.AddToRegion(Microsoft.Practices.Prism.Regions.IRegionManager,System.String,System.Object)'
 ms:mtpsurl: 'regionmanagerextensions-addtoregion-method-mspp-regions.md'
 ---
-
+
+
 # RegionManagerExtensions.AddToRegion Method
 
 Add a view to the Views collection of a Region. Note that the region must already exist in this regionmanager.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public static IRegionManager AddToRegion( this IRegionManager regionManager, string regionName, Object view )&lt;ExtensionAttribute&gt; Public Shared Function AddToRegion ( regionManager As IRegionManager, regionName As String, view As Object ) As IRegionManager
 
+~~~C#
+public static IRegionManager AddToRegion(
+	this IRegionManager regionManager,
+	string regionName,
+	Object view
+)
+~~~
+~~~VB
+'Declaration
+<ExtensionAttribute> 
+Public Shared Function AddToRegion ( 
+	regionManager As IRegionManager,
+	regionName As String,
+	view As Object
+) As IRegionManager
+~~~
 ### Parameters
 
-regionManager  
-Type: [Microsoft.Practices.Prism.Regions.IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager)
+_regionManager_  
+Type: [Microsoft.Practices.Prism.Regions.IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
 The regionmanager that this extension method effects.
 
-regionName  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+_regionName_  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The name of the region to add a view to
 
-view  
-Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+_view_  
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 The view to add to the views collection
 
 ### Return Value
 
-Type: [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager)
+Type: [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
 The RegionManager, to easily add several views.
 ### Usage Note
 
-In Visual Basic and C\#, you can call this method as an instance method on any object of type [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
+In Visual Basic and C\#, you can call this method as an instance method on any object of type [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 
 ## See Also
-[RegionManagerExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions)
 
-[RegionManagerExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionmanagerextensions)
+[RegionManagerExtensions Class](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionManagerExtensions Members](/patterns-practices/reference/regionmanagerextensions-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
