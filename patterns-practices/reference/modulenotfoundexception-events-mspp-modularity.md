@@ -27,11 +27,11 @@ The [ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexcept
 <tbody>
 <tr class="odd">
 <td>![Protected event](/images/protevent.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ee332915">SerializeObjectState</a></td>
+<td>[SerializeObjectState](http://msdn.microsoft.com/en-us/library/ee332915)</td>
 <td><div class="summary">
 Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.
 </div>
-(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
+(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
 </tr>
 </tbody>
 </table>

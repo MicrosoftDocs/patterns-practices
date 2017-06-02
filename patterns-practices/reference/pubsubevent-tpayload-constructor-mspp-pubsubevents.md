@@ -29,11 +29,10 @@ PubSubEvent&lt;TPayload&gt; Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
 
----------------------------------------------------------------------------------
 
 # PubSubEvent(Of TPayload) Constructor
 
-Initializes a new instance of the [PubSubEvent(Of TPayload))](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents) class
+Initializes a new instance of the [PubSubEvent(Of TPayload)](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents) class
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
 

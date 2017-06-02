@@ -29,7 +29,7 @@ The [IEventSubscription](/patterns-practices/reference/mspp-mvvm-namespace.ieven
 <td>![Public property](/images/pubproperty.gif)</td>
 <td>[SubscriptionToken](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents)</td>
 <td><div class="summary">
-Gets or sets a [IEventSubscription](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents">SubscriptionToken</a> that identifies this <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).
+Gets or sets a [SubscriptionToken](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents) that identifies this [IEventSubscription] (/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).
 </div></td>
 </tr>
 </tbody>
