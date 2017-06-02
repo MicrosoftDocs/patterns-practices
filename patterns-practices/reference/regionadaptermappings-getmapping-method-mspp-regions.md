@@ -50,7 +50,7 @@ This class will look for a registered type for _controlType_ and if there is not
 
 | Exception                                                                                                | Condition                                                                 |
 |----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| [System.Collections.Generic.KeyNotFoundException](http://msdn.microsoft.com/en-us/library/9a35cy81) | When there is no registered type for controlType or any of its ancestors. |
+| [System.Collections.Generic.KeyNotFoundException](http://msdn.microsoft.com/en-us/library/9a35cy81) | When there is no registered type for _controlType_ or any of its ancestors. |
 
 ## See Also
 
