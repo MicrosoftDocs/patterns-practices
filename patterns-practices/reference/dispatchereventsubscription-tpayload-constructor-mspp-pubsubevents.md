@@ -11,7 +11,9 @@ Creates a new instance of [BackgroundEventSubscription&lt;TPayload&gt;](https://
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) 
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 

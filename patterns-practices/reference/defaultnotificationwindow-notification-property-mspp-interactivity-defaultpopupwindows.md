@@ -11,13 +11,24 @@ ms:mtpsurl: 'defaultnotificationwindow-notification-property-mspp-interactivity-
 Sets or gets the [INotification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification) shown by this window./&gt;
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
+
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
-public INotification Notification { get; set; }Public Property Notification As INotification Get Set
+```C#
+public INotification Notification { get; set; }
+```
+
+```VB
+'Declaration
+Public Property Notification As INotification
+	Get
+	Set
+```
+
 ### Property Value
 
 Type: [INotification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification)
@@ -26,6 +37,6 @@ Type: [INotification](https://msdn.microsoft.com/library/microsoft.practices.pri
 
 [DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
 
-[DefaultNotificationWindow Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
+[DefaultNotificationWindow Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow_members)
 
 [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
