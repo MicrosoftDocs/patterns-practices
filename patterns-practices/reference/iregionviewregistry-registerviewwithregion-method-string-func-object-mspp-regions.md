@@ -4,34 +4,92 @@ Title: 'IRegionViewRegistry.RegisterViewWithRegion Method (String, Func(Object))
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionViewRegistry.RegisterViewWithRegion(System.String,System.Func{System.Object})'
 ms:mtpsurl: 'iregionviewregistry-registerviewwithregion-method-mspp-regions.md'
 ---
-
-# IRegionViewRegistry.RegisterViewWithRegion Method (String, Func&lt;(Of &lt;(Object&gt;)&gt;))
+
+# IRegionViewRegistry.RegisterViewWithRegion Method (String, Func&lt;Object&gt;)
 
 Registers a delegate that can be used to retrieve the content associated with a region name.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-void RegisterViewWithRegion( string regionName, Func&lt;Object&gt; getContentDelegate )Sub RegisterViewWithRegion ( regionName As String, getContentDelegate As Func(Of Object) )
+
+```C#
+void RegisterViewWithRegion(
+	string regionName,
+	Func<Object> getContentDelegate
+)
+```
 
 ### Parameters
 
-regionName  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-Region name to which the getContentDelegate will be registered.
+*regionName*  
 
-getContentDelegate  
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
-Delegate used to retrieve the content associated with the regionName.
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+
+Region name to which the *getContentDelegate* will be registered.
+
+*getContentDelegate*  
+
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;
+
+Delegate used to retrieve the content associated with the *regionName*.
 
 ## See Also
-[IRegionViewRegistry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry)
 
-[IRegionViewRegistry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionviewregistry)
+[IRegionViewRegistry Interface](/patterns-practices/reference/iregionviewregistry-interface-mspp-regions)
 
-[RegisterViewWithRegion Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.regions.iregionviewregistry.registerviewwithregion)
+[IRegionViewRegistry Members](/patterns-practices/reference/iregionviewregistry-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegisterViewWithRegion Overload](/iregionviewregistry-registerviewwithregion-method-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+
+
+# IRegionViewRegistry.RegisterViewWithRegion Method (String, Func(Of Object))
+
+Registers a delegate that can be used to retrieve the content associated with a region name.
+
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+```VB
+'Declaration
+Sub RegisterViewWithRegion ( 
+	regionName As String,
+	getContentDelegate As Func(Of Object)
+)
+```
+
+### Parameters
+
+*regionName*  
+
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+
+Region name to which the *getContentDelegate* will be registered.
+
+*getContentDelegate*  
+
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))
+
+Delegate used to retrieve the content associated with the *regionName*.
+
+## See Also
+
+[IRegionViewRegistry Interface](/patterns-practices/reference/iregionviewregistry-interface-mspp-regions)
+
+[IRegionViewRegistry Members](/patterns-practices/reference/iregionviewregistry-members-mspp-regions)
+
+[RegisterViewWithRegion Overload](/iregionviewregistry-registerviewwithregion-method-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+
