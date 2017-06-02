@@ -4,33 +4,46 @@ Title: 'RegionAdapterMappings.GetMapping Method (Microsoft.Practices.Prism.Regio
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionAdapterMappings.GetMapping(System.Type)'
 ms:mtpsurl: 'regionadaptermappings-getmapping-method-mspp-regions.md'
 ---
-
+
+
 # RegionAdapterMappings.GetMapping Method
 
 Returns the adapter associated with the type provided.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public IRegionAdapter GetMapping( Type controlType )Public Function GetMapping ( controlType As Type ) As IRegionAdapter
+
+~~~C#
+public IRegionAdapter GetMapping(
+	Type controlType
+)
+~~~
+~~~VB
+'Declaration
+Public Function GetMapping ( 
+	controlType As Type
+) As IRegionAdapter
+~~~
 
 ### Parameters
 
-controlType  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
-The type to obtain the [IRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter) mapped.
+_controlType_  
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)  
+The type to obtain the [IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions) mapped.
 
 ### Return Value
 
-Type: [IRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter)
-The [IRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter) mapped to the controlType.
+Type: [IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions)  
+The [IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions) mapped to the _controlType_.
 
 ## Remarks
 
-This class will look for a registered type for controlType and if there is not any, it will look for a registered type for any of its ancestors in the class hierarchy. If there is no registered type for controlType or any of its ancestors, an exception will be thrown.
+This class will look for a registered type for _controlType_ and if there is not any, it will look for a registered type for any of its ancestors in the class hierarchy. If there is no registered type for _controlType_ or any of its ancestors, an exception will be thrown.
 
 ## Exceptions
 
@@ -40,8 +53,9 @@ This class will look for a registered type for controlType and if there is not a
 | [System.Collections.Generic.KeyNotFoundException](http://msdn.microsoft.com/en-us/library/9a35cy81) | When there is no registered type for controlType or any of its ancestors. |
 
 ## See Also
-[RegionAdapterMappings Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings)
 
-[RegionAdapterMappings Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionadaptermappings)
+[RegionAdapterMappings Class](/patterns-practices/reference/regionadaptermappings-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionAdapterMappings Members](/patterns-practices/reference/regionadaptermappings-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
