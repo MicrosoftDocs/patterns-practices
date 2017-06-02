@@ -4,33 +4,73 @@ Title: 'RegionContext.GetObservableContext Method (Microsoft.Practices.Prism.Reg
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionContext.GetObservableContext(System.Windows.DependencyObject)'
 ms:mtpsurl: 'regioncontext-getobservablecontext-method-mspp-regions.md'
 ---
-
+
+
 # RegionContext.GetObservableContext Method
 
-Returns an [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601) wrapper around the RegionContext value. The RegionContext will be set on any views (dependency objects) that are inside the [Views](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.views) collection by the [BindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior) Behavior. The RegionContext will also be set to the control that hosts the Region, by the [SyncRegionContextWithHostBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior) Behavior. If the [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601) wrapper does not already exist, an empty one will be created. This way, an observer can notify when the value is set for the first time.
+Returns an [ObservableObject&lt;T&gt;](/patterns-practices/reference/observableobject-t-class-mspp) wrapper around the RegionContext value. The RegionContext will be set on any views (dependency objects) that are inside the [Views](/patterns-practices/reference/iregion-views-property-mspp-regions) collection by the [BindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors) Behavior. The RegionContext will also be set to the control that hosts the Region, by the [SyncRegionContextWithHostBehavior](/patterns-practices/reference/syncregioncontextwithhostbehavior-class-mspp-regions-behaviors) Behavior. If the [ObservableObject&lt;T&gt;](/patterns-practices/reference/observableobject-t-class-mspp) wrapper does not already exist, an empty one will be created. This way, an observer can notify when the value is set for the first time.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public static ObservableObject&lt;Object&gt; GetObservableContext( DependencyObject view )Public Shared Function GetObservableContext ( view As DependencyObject ) As ObservableObject(Of Object)
+
+~~~C#
+public static ObservableObject<Object> GetObservableContext(
+	DependencyObject view
+)
+~~~
 
 ### Parameters
 
-view  
-Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
+_view_  
+Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
 Any view that hold the RegionContext value.
 
 ### Return Value
 
-Type: [ObservableObject](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
+Type: [ObservableObject](/patterns-practices/reference/observableobject-t-class-mspp)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;  
 Wrapper around the Regioncontext value.
 
+
+Returns an [ObservableObject(Of T)](/patterns-practices/reference/observableobject-t-class-mspp) wrapper around the RegionContext value. The RegionContext will be set on any views (dependency objects) that are inside the [Views](/patterns-practices/reference/iregion-views-property-mspp-regions) collection by the [BindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors) Behavior. The RegionContext will also be set to the control that hosts the Region, by the [SyncRegionContextWithHostBehavior](/patterns-practices/reference/syncregioncontextwithhostbehavior-class-mspp-regions-behaviors) Behavior. If the [ObservableObject(Of T)](/patterns-practices/reference/observableobject-t-class-mspp) wrapper does not already exist, an empty one will be created. This way, an observer can notify when the value is set for the first time.
+
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+~~~C#
+public static ObservableObject<Object> GetObservableContext(
+	DependencyObject view
+)
+~~~
+
+### Parameters
+
+_view_  
+Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)  
+Any view that hold the RegionContext value.
+
+### Return Value
+
+Type: [ObservableObject](/patterns-practices/reference/observableobject-t-class-mspp)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))  
+Wrapper around the Regioncontext value.
+
+
+
+
+
 ## See Also
-[RegionContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regioncontext)
 
-[RegionContext Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regioncontext)
+[RegionContext Class](/patterns-practices/reference/regioncontext-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionContext Members](/patterns-practices/reference/regioncontext-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
