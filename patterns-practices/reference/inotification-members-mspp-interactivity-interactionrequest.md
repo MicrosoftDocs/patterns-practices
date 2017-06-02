@@ -14,7 +14,6 @@ The [INotification](https://msdn.microsoft.com/library/microsoft.practices.prism
 
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

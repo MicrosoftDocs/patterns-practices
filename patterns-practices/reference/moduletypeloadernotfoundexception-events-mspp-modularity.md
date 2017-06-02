@@ -11,10 +11,7 @@ The [ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletype
 
 ## Events
 
-The [ModuleTypeLoaderNotFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception) type exposes the following members.
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,7 +21,7 @@ The [ModuleTypeLoaderNotFoundException](https://msdn.microsoft.com/library/micro
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected event](/patterns-practices/reference/images/protevent.gif)</td>
+<td>![Protected event](/images/protevent.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ee332915">SerializeObjectState</a></td>
 <td><div class="summary">
 Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.
@@ -40,6 +37,3 @@ Occurs when an exception is serialized to create an exception state object that 
 
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
 
-[ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

@@ -7,7 +7,7 @@ ms:mtpsurl: 'eventbase-contains-method-mspp-pubsubevents.md'
 
 # EventBase.Contains Method
 
-Returns **Truetrue** (**True** in Visual Basic) if there is a subscriber matching [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50)).
+Returns **Truetrue** (**True** in Visual Basic) if there is a subscriber matching [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken).
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
 
@@ -32,15 +32,15 @@ Public Overridable Function Contains (
 
 *token*
 
-Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50))
+Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken)
 
-The [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50)) returned by [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents) while subscribing to the event.
+The [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken) returned by [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents) while subscribing to the event.
 
 #### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 
-**truetrue** (**True** in Visual Basic) if there is a [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken(v=pandp.50)) that matches; otherwise **falsefalse** (**False** in Visual Basic).
+**truetrue** (**True** in Visual Basic) if there is a [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken) that matches; otherwise **falsefalse** (**False** in Visual Basic).
 
 ## See Also
 

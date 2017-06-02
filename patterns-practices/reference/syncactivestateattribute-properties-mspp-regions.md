@@ -12,9 +12,7 @@ The [SyncActiveStateAttribute](https://msdn.microsoft.com/library/microsoft.prac
 
 ## Properties
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
