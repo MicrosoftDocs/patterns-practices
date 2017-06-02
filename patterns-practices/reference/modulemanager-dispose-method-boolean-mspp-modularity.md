@@ -4,30 +4,45 @@ Title: 'ModuleManager.Dispose Method (Boolean) (Microsoft.Practices.Prism.Modula
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleManager.Dispose(System.Boolean)'
 ms:mtpsurl: 'modulemanager-dispose-method-boolean-mspp-modularity.md'
 ---
-
+
+
 # ModuleManager.Dispose Method (Boolean)
 
-Disposes the associated [IModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader)s.
+Disposes the associated [IModuleTypeLoader](/patterns-practices/reference/mspp-modularity-namespace)s.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-protected virtual void Dispose( bool disposing )Protected Overridable Sub Dispose ( disposing As Boolean )
+
+```C#
+protected virtual void Dispose(
+	bool disposing
+)
+```
+
+```VB
+'Declaration
+Protected Overridable Sub Dispose ( 
+	disposing As Boolean
+)
+```
 
 ### Parameters
 
-disposing  
-Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
+*disposing*    
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
 When trueTruetruetrue (True in Visual Basic), it is being called from the Dispose method.
 
 ## See Also
-[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
 
-[ModuleManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulemanager)
+[ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)
 
-[Dispose Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.modulemanager.dispose)
+[ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[Dispose Overload](/patterns-practices/reference/modulemgr-dispose-method)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
