@@ -4,29 +4,48 @@ Title: 'RegionBehaviorCollection.GetEnumerator Method (Microsoft.Practices.Prism
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionBehaviorCollection.GetEnumerator'
 ms:mtpsurl: 'regionbehaviorcollection-getenumerator-method-mspp-regions.md'
 ---
-
+
+
 # RegionBehaviorCollection.GetEnumerator Method
 
 Returns an enumerator that iterates through the collection.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public IEnumerator&lt;KeyValuePair&lt;string, IRegionBehavior&gt;&gt; GetEnumerator()Public Function GetEnumerator As IEnumerator(Of KeyValuePair(Of String, IRegionBehavior))
+~~~C#
+public IEnumerator<KeyValuePair<string, IRegionBehavior>> GetEnumerator()
+~~~
 ### Return Value
 
-Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)&lt;(Of &lt;([KeyValuePair](http://msdn.microsoft.com/en-us/library/5tbh8a42)&lt;(Of &lt;([String](http://msdn.microsoft.com/en-us/library/s1wwdcbf), [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior)&gt;)&gt;)&gt;)&gt;)
-A [IEnumerator&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can be used to iterate through the collection.
+Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)&lt;[KeyValuePair](http://msdn.microsoft.com/en-us/library/5tbh8a42)&lt;[String](http://msdn.microsoft.com/en-us/library/s1wwdcbf), [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)&gt;&gt;  
+A [IEnumerable&lt;T&gt;](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can be used to iterate through the collection.
 ### Implements
 
-[IEnumerable&lt;(Of &lt;(T&gt;)&gt;).GetEnumerator()()()](http://msdn.microsoft.com/en-us/library/s793z9y2)
+[IEnumerable&lt;T&gt;.GetEnumerator()](http://msdn.microsoft.com/en-us/library/s793z9y2)
+
+## Syntax
+~~~VB
+'Declaration
+Public Function GetEnumerator As IEnumerator(Of KeyValuePair(Of String, IRegionBehavior))
+~~~
+### Return Value
+
+Type: [IEnumerator](http://msdn.microsoft.com/en-us/library/78dfe2yb)(Of [KeyValuePair](http://msdn.microsoft.com/en-us/library/5tbh8a42)(Of [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf), [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)))  
+A [IEnumerable(Of T)](http://msdn.microsoft.com/en-us/library/78dfe2yb) that can be used to iterate through the collection.
+
+### Implements
+
+[IEnumerable(Of T).GetEnumerator](http://msdn.microsoft.com/en-us/library/s793z9y2)
 
 ## See Also
-[RegionBehaviorCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection)
 
-[RegionBehaviorCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehaviorcollection)
+[RegionBehaviorCollection Class](/patterns-practices/reference/regionbehaviorcollection-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionBehaviorCollection Members](/patterns-practices/reference/regionbehaviorcollection-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
