@@ -33,7 +33,7 @@ Protected Overridable Sub Dispose (
 
 *disposing*  
 Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
-When **truetrue** (**True** in Visual Basic), it is being called from the Dispose method.
+When **Truetrue** (**True** in Visual Basic), it is being called from the Dispose method.
 
 ## See Also
 
