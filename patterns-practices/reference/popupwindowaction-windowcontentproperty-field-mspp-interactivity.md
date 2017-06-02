@@ -4,25 +4,36 @@ Title: 'PopupWindowAction.WindowContentProperty Field (Microsoft.Practices.Prism
 ms:assetid: 'F:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.WindowContentProperty'
 ms:mtpsurl: 'popupwindowaction-windowcontentproperty-field-mspp-interactivity.md'
 ---
-
+
 # PopupWindowAction.WindowContentProperty Field
 
 The content of the child window to display as part of the popup.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public static readonly DependencyProperty WindowContentPropertyPublic Shared ReadOnly WindowContentProperty As DependencyProperty
+
+```C#
+public static readonly DependencyProperty WindowContentProperty
+```
+
+```VB
+'Declaration
+Public Shared ReadOnly WindowContentProperty As DependencyProperty
+```
+
 ### Field Value
 
 Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 
 ## See Also
-[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
 
-[PopupWindowAction Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.popupwindowaction)
+[PopupWindowAction Class](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
+[PopupWindowAction Members](/patterns-practices/reference/popupwindowaction-members-mspp-interactivity)
+
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)

@@ -4,28 +4,75 @@ Title: 'PubSubEvent(TPayload).Unsubscribe Method (Action(TPayload)) (Microsoft.P
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.PubSubEvent\`1.Unsubscribe(System.Action{\`0})'
 ms:mtpsurl: 'pubsubevent-tpayload-unsubscribe-method-action-tpayload-mspp-pubsubevents.md'
 ---
-
-# PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;).Unsubscribe Method (Action&lt;(Of &lt;(TPayload&gt;)&gt;))
 
-Removes the first subscriber matching [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) from the subscribers' list.
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
+# PubSubEvent&lt;TPayload&gt;.Unsubscribe Method (Action&lt;TPayload&gt;)
+
+Removes the first subscriber matching [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) from the subscribers' list.
+
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-public virtual void Unsubscribe( Action&lt;TPayload&gt; subscriber )Public Overridable Sub Unsubscribe ( subscriber As Action(Of TPayload) )
+
+```C#
+public virtual void Unsubscribe(
+	Action<TPayload> subscriber
+)
+```
 
 ### Parameters
 
-subscriber  
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([TPayload](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent%601)&gt;)&gt;)
-The [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) used when subscribing to the event.
+*subscriber*  
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)&gt;
+
+The [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) used when subscribing to the event.
 
 ## See Also
-[PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Class](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent%601)
 
-[PubSubEvent&lt;(Of &lt;(TPayload&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.pubsubevent%601)
+[PubSubEvent&lt;TPayload&gt; Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)
 
-[Unsubscribe Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.pubsubevents.pubsubevent%601.unsubscribe)
+PubSubEvent&lt;TPayload&gt; Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
+[Unsubscribe Overload](/patterns-practices/reference/pubsubevent-tpayload-unsubscribe-method-mspp-pubsubevents)
+
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
+
+# PubSubEvent(Of TPayload).Unsubscribe Method (Action(Of TPayload))
+
+Removes the first subscriber matching [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) from the subscribers' list.
+
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll)
+
+**Version:** 1.0.0.0 (1.0.0.0)
+
+## Syntax
+
+```VB
+'Declaration
+Public Overridable Sub Unsubscribe ( 
+	subscriber As Action(Of TPayload)
+)
+```
+
+### Parameters
+
+*subscriber*  
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents))
+
+The [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) used when subscribing to the event.
+
+## See Also
+
+[PubSubEvent(Of TPayload) Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)
+
+PubSubEvent(Of TPayload) Members
+
+[Unsubscribe Overload](/patterns-practices/reference/pubsubevent-tpayload-unsubscribe-method-mspp-pubsubevents)
+
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
