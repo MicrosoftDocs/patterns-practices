@@ -4,36 +4,50 @@ Title: 'RegionBehaviorFactory.CreateFromKey Method (Microsoft.Practices.Prism.Re
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionBehaviorFactory.CreateFromKey(System.String)'
 ms:mtpsurl: 'regionbehaviorfactory-createfromkey-method-mspp-regions.md'
 ---
-
+
+
 # RegionBehaviorFactory.CreateFromKey Method
 
 Creates an instance of the behavior [Type](http://msdn.microsoft.com/en-us/library/42892f65) that is registered using the specified key.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public IRegionBehavior CreateFromKey( string key )Public Function CreateFromKey ( key As String ) As IRegionBehavior
 
+~~~C#
+public IRegionBehavior CreateFromKey(
+	string key
+)
+~~~
+~~~VB
+'Declaration
+Public Function CreateFromKey ( 
+	key As String
+) 
+~~~
 ### Parameters
 
-key  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+_key_  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The key that is used to register a behavior type.
 
 ### Return Value
 
-Type: [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior)
+Type: [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)  
 A new instance of the behavior.
+
 ### Implements
 
-[IRegionBehaviorFactory.CreateFromKey(String)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory.createfromkey(system.string))
+[IRegionBehaviorFactory.CreateFromKey(String)](/patterns-practices/reference/iregionbehaviorfactory-createfromkey-method-mspp-regions)
 
 ## See Also
-[RegionBehaviorFactory Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory)
 
-[RegionBehaviorFactory Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehaviorfactory)
+[RegionBehaviorFactory Class](/patterns-practices/reference/regionbehaviorfactory-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionBehaviorFactory Members](/patterns-practices/reference/regionbehaviorfactory-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
