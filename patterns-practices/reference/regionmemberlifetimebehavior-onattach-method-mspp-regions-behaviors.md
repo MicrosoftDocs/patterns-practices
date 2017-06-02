@@ -4,22 +4,31 @@ Title: 'RegionMemberLifetimeBehavior.OnAttach Method (Microsoft.Practices.Prism.
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior.OnAttach'
 ms:mtpsurl: 'regionmemberlifetimebehavior-onattach-method-mspp-regions-behaviors.md'
 ---
-
+
 # RegionMemberLifetimeBehavior.OnAttach Method
 
 Override this method to perform the logic after the behavior has been attached.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-protected override void OnAttach()Protected Overrides Sub OnAttach
+```C#
+protected override void OnAttach()
+```
+
+```VB
+'Declaration
+Protected Overrides Sub OnAttach
+```
 
 ## See Also
-[RegionMemberLifetimeBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior)
 
-[RegionMemberLifetimeBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior)
+[RegionMemberLifetimeBehavior Class](/patterns-practices/reference/regionmemberlifetimebehavior-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+[RegionMemberLifetimeBehavior Members](/patterns-practices/reference/regionmemberlifetimebehavior-members-mspp-regions-behaviors)
+
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
