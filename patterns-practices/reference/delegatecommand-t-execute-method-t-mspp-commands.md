@@ -4,21 +4,27 @@ Title: 'DelegateCommand(T).Execute Method (T) (Microsoft.Practices.Prism.Command
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand\`1.Execute(\`0)'
 ms:mtpsurl: 'delegatecommand-t-execute-method-t-mspp-commands.md'
 ---
-
-# DelegateCommand&lt;(Of &lt;(T&gt;)&gt;).Execute Method (T)
 
-Executes the command and invokes the [Action&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/018hxwa8) provided during construction.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
+# DelegateCommand&lt;T&gt;.Execute Method (T)
+
+Executes the command and invokes the [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) provided during construction.
+
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-public virtual Task Execute( T parameter )Public Overridable Function Execute ( parameter As T ) As Task
+```C#
+public virtual Task Execute( T parameter )
+```
 
 ### Parameters
 
-parameter  
-Type: [T](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)
+*parameter*  
+Type: [T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)
 Data used by the command.
 
 ### Return Value
@@ -26,10 +32,47 @@ Data used by the command.
 Type: [Task](http://msdn.microsoft.com/en-us/library/dd235678)
 
 ## See Also
-[DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)
 
-[DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand%601)
+[DelegateCommand&lt;T&gt; Class](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)
 
-[Execute Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.commands.delegatecommand%601.execute)
+[DelegateCommand&lt;T&gt; Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+[Execute Overload](/patterns-practices/reference/delegatecommand-t-execute-method-mspp-commands)
+
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
+
+
+# DelegateCommand(Of T).Execute Method (T)
+
+Executes the command and invokes the [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) provided during construction.
+
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
+
+**Version:** 1.0.0.0 (1.0.0.0)
+
+## Syntax
+```VB
+Public Overridable Function Execute ( parameter As T ) As Task
+```
+
+### Parameters
+
+*parameter*  
+Type: [T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)
+Data used by the command.
+
+### Return Value
+
+Type: [Task](http://msdn.microsoft.com/en-us/library/dd235678)
+
+## See Also
+
+[DelegateCommand(Of T) Class](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)
+
+[DelegateCommand(Of T) Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)
+
+[Execute Overload](/patterns-practices/reference/delegatecommand-t-execute-method-mspp-commands)
+
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
