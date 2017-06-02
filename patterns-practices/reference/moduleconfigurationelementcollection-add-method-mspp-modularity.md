@@ -4,28 +4,41 @@ Title: 'ModuleConfigurationElementCollection.Add Method (Microsoft.Practices.Pri
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection.Add(Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement)'
 ms:mtpsurl: 'moduleconfigurationelementcollection-add-method-mspp-modularity.md'
 ---
-
+
+
 # ModuleConfigurationElementCollection.Add Method
 
-Adds a [ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement) to the collection.
+Adds a [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity) to the collection.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public void Add( ModuleConfigurationElement module )Public Sub Add ( module As ModuleConfigurationElement )
+```C#
+public void Add(
+	ModuleConfigurationElement module
+)
+```
+```VB
+'Declaration
+Public Sub Add ( 
+	module As ModuleConfigurationElement
+)
+```
 
 ### Parameters
 
-module  
-Type: [Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
-A [ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement) instance.
+*module*   
+Type: [Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity)   
+A [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity) instance.
 
 ## See Also
-[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 
-[ModuleConfigurationElementCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
+[ModuleConfigurationElementCollection Class](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleConfigurationElementCollection Members](/patterns-practices/reference/moduleconfigurationelementcollection-members-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
