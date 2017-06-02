@@ -4,26 +4,35 @@ Title: 'MefBootstrapper.ConfigureContainer Method (Microsoft.Practices.Prism.Mef
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.ConfigureContainer'
 ms:mtpsurl: 'mefbootstrapper-configurecontainer-method-mspp-mefextensions.md'
 ---
-
+
+
 # MefBootstrapper.ConfigureContainer Method
 
 Configures the [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553). May be overwritten in a derived class to add specific type mappings required by the application.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](/patterns-practices/reference/mspp-mefextensions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-protected virtual void ConfigureContainer()Protected Overridable Sub ConfigureContainer
+~~~C#
+protected virtual void ConfigureAggregateCatalog()
+~~~
+~~~VB
+'Declaration
+Protected Overridable Sub ConfigureAggregateCatalog
+~~~
 
 ## Remarks
 
  The base implementation registers all the types direct instantiated by the bootstrapper with the container. If the method is overwritten, the new implementation should call the base class version.
 
 ## See Also
-[MefBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper)
 
-[MefBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.mefbootstrapper)
+[MefBootstrapper Class](/patterns-practices/reference/mefbootstrapper-class-mspp-mefextensions)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)
+[MefBootstrapper Members](/patterns-practices/reference/mefbootstrapper-members-mspp-mefextensions)
+
+[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)
