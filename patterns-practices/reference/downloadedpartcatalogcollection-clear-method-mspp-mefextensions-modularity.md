@@ -4,7 +4,8 @@ Title: 'DownloadedPartCatalogCollection.Clear Method (Microsoft.Practices.Prism.
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection.Clear'
 ms:mtpsurl: 'downloadedpartcatalogcollection-clear-method-mspp-mefextensions-modularity.md'
 ---
-
+
+
 # DownloadedPartCatalogCollection.Clear Method
 
 Clears the collection of catalogs.
@@ -26,8 +27,8 @@ Public Sub Clear
 ```
 
 ## See Also
-[DownloadedPartCatalogCollection Class](/patterns-practices/reference/downloadedpartcatalogcollection-class-mspp-mefextensions-modularity)
 
-[DownloadedPartCatalogCollection Members](/patterns-practices/reference/downloadedpartcatalogcollection-members-mspp-mefextensions-modularity)
 
+[DownloadedPartCatalogCollection Class](/patterns-practices/reference/downloadedpartcatalogcollection-class-mspp-mefextensions-modularity)  
+[DownloadedPartCatalogCollection Members](/patterns-practices/reference/downloadedpartcatalogcollection-members-mspp-mefextensions-modularity)  
 [Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)
