@@ -4,32 +4,45 @@ Title: 'Region.Remove Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Region.Remove(System.Object)'
 ms:mtpsurl: 'region-remove-method-mspp-regions.md'
 ---
-
+
+
 # Region.Remove Method
 
 Removes the specified view from the region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public virtual void Remove( Object view )Public Overridable Sub Remove ( view As Object )
+```C#
+public virtual void Remove(
+	Object view
+)
+```
+```VB
+'Declaration
+Public Overridable Sub Remove ( 
+	view As Object
+)
+```
 
 ### Parameters
 
-view  
-Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+*view*  
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 The view to remove.
 
 ### Implements
 
-[IRegion.Remove(Object)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.remove(system.object))
+[IRegion.Remove(Object)](/patterns-practices/reference/iregion-remove-method-mspp-regions)
 
 ## See Also
-[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 
-[Region Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.region)
+[Region Class](/patterns-practices/reference/region-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Region Members](/patterns-practices/reference/region-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
