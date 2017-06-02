@@ -18,7 +18,7 @@ Subscribes a delegate to an event that will be published on the PublisherThread.
 
 ## Syntax
 ```C#
-public SubscriptionToken Subscribe( Action&lt;TPayload&gt; action, bool keepSubscriberReferenceAlive )
+public SubscriptionToken Subscribe( Action<TPayload> action, bool keepSubscriberReferenceAlive )
 ```
 
 ### Parameters
