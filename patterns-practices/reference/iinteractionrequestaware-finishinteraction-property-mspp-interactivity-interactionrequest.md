@@ -9,7 +9,7 @@ ms:mtpsurl: 'iinteractionrequestaware-finishinteraction-property-mspp-interactiv
 
 An [Action](http://msdn.microsoft.com/en-us/library/bb534741) that can be invoked to finish the interaction.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -33,9 +33,9 @@ Type: [Action](http://msdn.microsoft.com/en-us/library/bb534741)
 
 ## See Also
 
-[IInteractionRequestAware Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware(v=pandp.50))
+[IInteractionRequestAware Interface](/patterns-practices/reference/iinteractionrequestaware-interface-mspp-interactivity-interactionrequest)
 
-[IInteractionRequestAware Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware_members(v=pandp.50))
+[IInteractionRequestAware Members](/patterns-practices/reference/iinteractionrequestaware-members-mspp-interactivity-interactionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
 

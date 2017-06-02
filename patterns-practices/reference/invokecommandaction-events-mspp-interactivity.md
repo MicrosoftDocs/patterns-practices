@@ -27,11 +27,11 @@ The [InvokeCommandAction](/patterns-practices/reference/invokecommandaction-clas
 <tbody>
 <tr class="odd">
 <td>![Public event](/images/pubevent.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms596566">Changed</a></td>
+<td>[Changed](http://msdn.microsoft.com/en-us/library/ms596566)</td>
 <td><div class="summary">
-Occurs when the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a> or an object it contains is modified.
+Occurs when the [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) or an object it contains is modified.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freezable</a>.)</td>
+(Inherited from [Freezable](http://msdn.microsoft.com/en-us/library/ms602734))</td>
 </tr>
 </tbody>
 </table>

@@ -19,7 +19,6 @@ Specialization of the default RegionNavigationContentLoader that queries the cor
 ## Syntax
 ```c#
 public class UnityRegionNavigationContentLoader : RegionNavigationContentLoader
-
 ```
 ```VB
 'Declaration

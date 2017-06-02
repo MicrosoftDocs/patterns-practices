@@ -4,28 +4,41 @@ Title: 'INavigationAware.OnNavigatedFrom Method (Microsoft.Practices.Prism.Regio
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.INavigationAware.OnNavigatedFrom(Microsoft.Practices.Prism.Regions.NavigationContext)'
 ms:mtpsurl: 'inavigationaware-onnavigatedfrom-method-mspp-regions.md'
 ---
-
+
 # INavigationAware.OnNavigatedFrom Method
 
 Called when the implementer is being navigated away from.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespaces)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-void OnNavigatedFrom( NavigationContext navigationContext )Sub OnNavigatedFrom ( navigationContext As NavigationContext )
+```C#
+void OnNavigatedFrom(
+	NavigationContext navigationContext
+)
+```
+
+```VB
+'Declaration
+Sub OnNavigatedFrom ( 
+	navigationContext As NavigationContext
+)
+```
 
 ### Parameters
 
-navigationContext  
-Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
+*navigationContext*  
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)  
 The navigation context.
 
 ## See Also
-[INavigationAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware)
 
-[INavigationAware Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.inavigationaware)
+[INavigationAware Interface](/patterns-practices/reference/inavigationaware-interface-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[INavigationAware Members](/patterns-practices/reference/inavigationaware-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespaces)

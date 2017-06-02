@@ -7,7 +7,7 @@ ms:mtpsurl: 'navigationparameters-constructor-mspp-regions.md'
 
 # NavigationParameters Constructor (String)
 
-Initializes a new instance of the [NavigationParameters](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters(v=pandp.50)) class with a query string.
+Initializes a new instance of the [NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions) class with a query string.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)
 
@@ -34,14 +34,14 @@ Public Sub New (
 
 *query*
 
-Type: [System.String](http://msdn2.microsoft.com/en-us/library/s1wwdcbf)
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 The query string.
 
 ## See Also
-[NavigationParameters Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters(v=pandp.50))
+[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)
 
-[NavigationParameters Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.navigationparameters_members(v=pandp.50))
+[NavigationParameters Members](/patterns-practices/reference/navigationparameters-members-mspp-regions)
 
 NavigationParameters Overload
 

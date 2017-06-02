@@ -11,7 +11,9 @@ Notifies listeners that a property value has changed.
 
 **Namespace:** [Microsoft.Practices.Prism.Mvvm](/patterns-practices/reference/mspp-mvvm-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 ```C#
@@ -39,6 +41,6 @@ Name of the property used to notify listeners. This value is optional and can be
 
 [BindableBase Members](/patterns-practices/reference/bindablebase-members-mspp-mvvm)
 
-[OnPropertyChanged Overload](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mvvm.bindablebase.onpropertychanged(v=pandp.50))
+[OnPropertyChanged Overload](/patterns-practices/reference/bindablebase-onpropertychanged-method-mspp-mvvm)
 
 [Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

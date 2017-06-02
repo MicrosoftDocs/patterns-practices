@@ -167,7 +167,7 @@ Gets or sets a value indicating whether to clip the content of this element (or 
 <td>![Public property](/images/pubproperty.gif)</td>
 <td>[CommandBindings](http://msdn.microsoft.com/en-us/library/ms588680)</td>
 <td><div class="summary">
-Gets a collection of [CommandBinding](http://msdn.microsoft.com/en-us/library/ms616826">CommandBinding</a> objects associated with this element. A <a href="http://msdn.microsoft.com/en-us/library/ms616826) enables command handling for this element, and declares the linkage between a command, its events, and the handlers attached by this element.
+Gets a collection of [CommandBinding](http://msdn.microsoft.com/en-us/library/ms616826) objects associated with this element. A [CommandBinding](http://msdn.microsoft.com/en-us/library/ms616826) enables command handling for this element, and declares the linkage between a command, its events, and the handlers attached by this element.
 </div>
 (Inherited from [UIElement](http://msdn.microsoft.com/en-us/library/ms590078).)</td>
 </tr>
@@ -270,7 +270,7 @@ Gets or sets the dialog result value, which is the value that is returned from t
 <td>![Public property](/images/pubproperty.gif)</td>
 <td>[Dispatcher](http://msdn.microsoft.com/en-us/library/ms605656)</td>
 <td><div class="summary">
-Gets the [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615907">Dispatcher</a> this <a href="http://msdn.microsoft.com/en-us/library/ms615925) is associated with.
+Gets the [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907) this [DispatcherObject ](http://msdn2.microsoft.com/en-us/library/ms615925) is associated with.
 </div>
 (Inherited from [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925).)</td>
 </tr>
@@ -350,7 +350,7 @@ Gets or sets the weight or thickness of the specified font.
 <td>![Public property](/images/pubproperty.gif)</td>
 <td>[ForceCursor](http://msdn.microsoft.com/en-us/library/ms600879)</td>
 <td><div class="summary">
-Gets or sets a value that indicates whether this [Cursor](http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a> should force the user interface (UI) to render the cursor as declared by the <a href="http://msdn.microsoft.com/en-us/library/ms600874) property.
+Gets or sets a value that indicates whether this [Cursor](http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a> should force the user interface (UI) to render the cursor as declared by the [Cursor](http://msdn.microsoft.com/en-us/library/ms600874) property.
 </div>
 (Inherited from [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714).)</td>
 </tr>
@@ -758,7 +758,7 @@ Gets a collection of windows for which this window is the owner.
 <td>![Public property](/images/pubproperty.gif)</td>
 <td>[Owner](http://msdn.microsoft.com/en-us/library/ms588783)</td>
 <td><div class="summary">
-Gets or sets the [Window](http://msdn.microsoft.com/en-us/library/ms590112">Window</a> that owns this <a href="http://msdn.microsoft.com/en-us/library/ms590112).
+Gets or sets the [Window](http://msdn.microsoft.com/en-us/library/ms590112) that owns this [Window](http://msdn2.microsoft.com/en-us/library/ms590112).
 </div>
 (Inherited from [Window](http://msdn.microsoft.com/en-us/library/ms590112).)</td>
 </tr>
@@ -1040,7 +1040,7 @@ Gets or sets the user interface (UI) visibility of this element. This is a depen
 <td>[VisualBitmapEffect](http://msdn.microsoft.com/en-us/library/ms595602)</td>
 <td><strong>Obsolete.</strong>
 <div class="summary">
-Gets or sets the [Visual](http://msdn.microsoft.com/en-us/library/ms653228">BitmapEffect</a> value for the <a href="http://msdn.microsoft.com/en-us/library/ms635637).
+Gets or sets the [BitmapEffect](http://msdn.microsoft.com/en-us/library/ms653228) value for the [Visual](http://msdn.microsoft.com/en-us/library/ms635637).
 </div>
 (Inherited from [Visual](http://msdn.microsoft.com/en-us/library/ms635637).)</td>
 </tr>
@@ -1049,7 +1049,7 @@ Gets or sets the [Visual](http://msdn.microsoft.com/en-us/library/ms653228">Bitm
 <td>[VisualBitmapEffectInput](http://msdn.microsoft.com/en-us/library/ms595606)</td>
 <td><strong>Obsolete.</strong>
 <div class="summary">
-Gets or sets the [Visual](http://msdn.microsoft.com/en-us/library/ms653244">BitmapEffectInput</a> value for the <a href="http://msdn.microsoft.com/en-us/library/ms635637).
+Gets or sets the [BitmapEffectInput](http://msdn.microsoft.com/en-us/library/ms653244) value for the [Visual](http://msdn.microsoft.com/en-us/library/ms635637).
 </div>
 (Inherited from [Visual](http://msdn.microsoft.com/en-us/library/ms635637).)</td>
 </tr>
@@ -1057,7 +1057,7 @@ Gets or sets the [Visual](http://msdn.microsoft.com/en-us/library/ms653244">Bitm
 <td>![Protected property](/images/protproperty.gif)</td>
 <td>[VisualBitmapScalingMode](http://msdn.microsoft.com/en-us/library/aa347237)</td>
 <td><div class="summary">
-Gets or sets the [Visual](http://msdn.microsoft.com/en-us/library/aa347304">BitmapScalingMode</a> for the <a href="http://msdn.microsoft.com/en-us/library/ms635637).
+Gets or sets the [BitmapScalingMode](http://msdn.microsoft.com/en-us/library/aa347304) for the [Visual}(http://msdn.microsoft.com/en-us/library/ms635637).
 </div>
 (Inherited from [Visual](http://msdn.microsoft.com/en-us/library/ms635637).)</td>
 </tr>
@@ -1081,7 +1081,7 @@ Gets the number of visual child elements within this element.
 <td>![Protected property](/images/protproperty.gif)</td>
 <td>[VisualClearTypeHint](http://msdn.microsoft.com/en-us/library/dd549579)</td>
 <td><div class="summary">
-Gets or sets the [Visual](http://msdn.microsoft.com/en-us/library/dd549587">ClearTypeHint</a> that determines how ClearType is rendered in the <a href="http://msdn.microsoft.com/en-us/library/ms635637).
+Gets or sets the [ClearTypeHint](http://msdn.microsoft.com/en-us/library/dd549587) that determines how ClearType is rendered in the [Visual](http://msdn.microsoft.com/en-us/library/ms635637).
 </div>
 (Inherited from [Visual](http://msdn.microsoft.com/en-us/library/ms635637).)</td>
 </tr>
@@ -1089,7 +1089,7 @@ Gets or sets the [Visual](http://msdn.microsoft.com/en-us/library/dd549587">Clea
 <td>![Protected property](/images/protproperty.gif)</td>
 <td>[VisualClip](http://msdn.microsoft.com/en-us/library/ms595608)</td>
 <td><div class="summary">
-Gets or sets the clip region of the [Geometry](http://msdn.microsoft.com/en-us/library/ms635637">Visual</a> as a <a href="http://msdn.microsoft.com/en-us/library/ms634967) value.
+Gets or sets the clip region of the [Visual](http://msdn.microsoft.com/en-us/library/ms635637) as a [Geometry](http://msdn.microsoft.com/en-us/library/ms634967) value.
 </div>
 (Inherited from [Visual](http://msdn.microsoft.com/en-us/library/ms635637).)</td>
 </tr>
@@ -1097,7 +1097,7 @@ Gets or sets the clip region of the [Geometry](http://msdn.microsoft.com/en-us/l
 <td>![Protected property](/images/protproperty.gif)</td>
 <td>[VisualEdgeMode](http://msdn.microsoft.com/en-us/library/ms595609)</td>
 <td><div class="summary">
-Gets or sets the edge mode of the [EdgeMode](http://msdn.microsoft.com/en-us/library/ms635637">Visual</a> as an <a href="http://msdn.microsoft.com/en-us/library/ms653220) value.
+Gets or sets the edge mode of the [Visual](http://msdn.microsoft.com/en-us/library/ms635637) as an [EdgeMode](http://msdn.microsoft.com/en-us/library/ms653220) value.
 </div>
 (Inherited from [Visual](http://msdn.microsoft.com/en-us/library/ms635637).)</td>
 </tr>
@@ -1129,7 +1129,7 @@ Gets or sets the opacity of the [Visual](http://msdn.microsoft.com/en-us/library
 <td>![Protected property](/images/protproperty.gif)</td>
 <td>[VisualOpacityMask](http://msdn.microsoft.com/en-us/library/ms595612)</td>
 <td><div class="summary">
-Gets or sets the [Visual](http://msdn.microsoft.com/en-us/library/ms634880">Brush</a> value that represents the opacity mask of the <a href="http://msdn.microsoft.com/en-us/library/ms635637).
+Gets or sets the [Brush](http://msdn.microsoft.com/en-us/library/ms634880) value that represents the opacity mask of the [Visual](http://msdn.microsoft.com/en-us/library/ms635637).
 </div>
 (Inherited from [Visual](http://msdn.microsoft.com/en-us/library/ms635637).)</td>
 </tr>
@@ -1153,7 +1153,7 @@ Gets or sets a clipped scrollable area for the [Visual](http://msdn.microsoft.co
 <td>![Protected property](/images/protproperty.gif)</td>
 <td>[VisualTextHintingMode](http://msdn.microsoft.com/en-us/library/ee191930)</td>
 <td><div class="summary">
-Gets or sets the [Visual](http://msdn.microsoft.com/en-us/library/dd849960">TextHintingMode</a> of the <a href="http://msdn.microsoft.com/en-us/library/ms635637).
+Gets or sets the [TextHintingMode](http://msdn.microsoft.com/en-us/library/dd849960) of the [Visual](http://msdn.microsoft.com/en-us/library/ms635637).
 </div>
 (Inherited from [Visual](http://msdn.microsoft.com/en-us/library/ms635637).)</td>
 </tr>
@@ -1161,7 +1161,7 @@ Gets or sets the [Visual](http://msdn.microsoft.com/en-us/library/dd849960">Text
 <td>![Protected property](/images/protproperty.gif)</td>
 <td>[VisualTextRenderingMode](http://msdn.microsoft.com/en-us/library/ee191873)</td>
 <td><div class="summary">
-Gets or sets the [Visual](http://msdn.microsoft.com/en-us/library/dd502768">TextRenderingMode</a> of the <a href="http://msdn.microsoft.com/en-us/library/ms635637).
+Gets or sets the [TextRenderingMode](http://msdn.microsoft.com/en-us/library/dd502768) of the [Visual](http://msdn.microsoft.com/en-us/library/ms635637).
 </div>
 (Inherited from [Visual](http://msdn.microsoft.com/en-us/library/ms635637).)</td>
 </tr>
@@ -1169,7 +1169,7 @@ Gets or sets the [Visual](http://msdn.microsoft.com/en-us/library/dd502768">Text
 <td>![Protected property](/images/protproperty.gif)</td>
 <td>[VisualTransform](http://msdn.microsoft.com/en-us/library/ms595614)</td>
 <td><div class="summary">
-Gets or sets the [Visual](http://msdn.microsoft.com/en-us/library/ms635585">Transform</a> value for the <a href="http://msdn.microsoft.com/en-us/library/ms635637).
+Gets or sets the [Transform](http://msdn.microsoft.com/en-us/library/ms635585) value for the [Visual](http://msdn.microsoft.com/en-us/library/ms635637).
 </div>
 (Inherited from [Visual](http://msdn.microsoft.com/en-us/library/ms635637).)</td>
 </tr>

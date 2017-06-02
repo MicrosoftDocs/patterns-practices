@@ -4,36 +4,51 @@ Title: 'RegionBehaviorFactory.AddIfMissing Method (Microsoft.Practices.Prism.Reg
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionBehaviorFactory.AddIfMissing(System.String,System.Type)'
 ms:mtpsurl: 'regionbehaviorfactory-addifmissing-method-mspp-regions.md'
 ---
-
+
+
 # RegionBehaviorFactory.AddIfMissing Method
 
 Adds a particular type of RegionBehavior if it was not already registered. The behaviorKey string is used to check if the behavior is already present
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public void AddIfMissing( string behaviorKey, Type behaviorType )Public Sub AddIfMissing ( behaviorKey As String, behaviorType As Type )
 
+~~~C#
+public void AddIfMissing(
+	string behaviorKey,
+	Type behaviorType
+)
+~~~
+~~~VB
+'Declaration
+Public Sub AddIfMissing ( 
+	behaviorKey As String,
+	behaviorType As Type
+)
+~~~
 ### Parameters
 
-behaviorKey  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+_behaviorKey_  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The behavior key that's used to find if a certain behavior is already added.
 
-behaviorType  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
+_behaviorType_  
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)  
 Type of the behavior to add.
 
 ### Implements
 
-[IRegionBehaviorFactory.AddIfMissing(String, Type)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory.addifmissing(system.string%2csystem.type))
+[IRegionBehaviorFactory.AddIfMissing(String, Type)](/patterns-practices/reference/iregionbehaviorfactory-addifmissing-method-mspp-regions)
 
 ## See Also
-[RegionBehaviorFactory Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory)
 
-[RegionBehaviorFactory Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehaviorfactory)
+[RegionBehaviorFactory Class](/patterns-practices/reference/regionbehaviorfactory-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionBehaviorFactory Members](/patterns-practices/reference/regionbehaviorfactory-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

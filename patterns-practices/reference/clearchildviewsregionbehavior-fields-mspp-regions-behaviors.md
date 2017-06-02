@@ -11,7 +11,7 @@ The [ClearChildViewsRegionBehavior](/patterns-practices/reference/mspp-regions-n
 
 ## Fields
 
-<span id="fieldTableToggle"></span>
+
 <table>
 
 <thead>

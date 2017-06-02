@@ -8,7 +8,7 @@ ms:mtpsurl: 'moduletypeloadingexception-events-mspp-modularity.md'
 # ModuleTypeLoadingException Events
 
 
-The [ModuleTypeLoadingException](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadingexception(v=pandp.50)) type exposes the following members.
+The [ModuleTypeLoadingException](/patterns-practices/reference/moduletypeloadingexception-class-mspp-modularity) type exposes the following members.
 
 ## Events
 
@@ -28,17 +28,17 @@ The [ModuleTypeLoadingException](https://msdn.microsoft.com/en-us/library/micros
 <tbody>
 <tr class="odd">
 <td>![Protected event](/images/protevent.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ee332915">SerializeObjectState</a></td>
+<td>[SerializeObjectState](http://msdn.microsoft.com/en-us/library/ee332915)</td>
 <td><div class="summary">
 Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.
 </div>
-(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
+(Inherited from [Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[ModuleTypeLoadingException Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity.moduletypeloadingexception(v=pandp.50))
+[ModuleTypeLoadingException Class](/patterns-practices/reference/moduletypeloadingexception-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.modularity(v=pandp.50))
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

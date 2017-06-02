@@ -4,29 +4,38 @@ Title: 'ModuleCatalog.ValidateUniqueModules Method (Microsoft.Practices.Prism.Mo
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.ValidateUniqueModules'
 ms:mtpsurl: 'modulecatalog-validateuniquemodules-method-mspp-modularity.md'
 ---
-
+
+
 # ModuleCatalog.ValidateUniqueModules Method
 
 Makes sure all modules have an Unique name.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-protected virtual void ValidateUniqueModules()Protected Overridable Sub ValidateUniqueModules
+```C#
+protected virtual void ValidateUniqueModules()
+```
+```VB
+'Declaration
+Protected Overridable Sub ValidateUniqueModules
+```
 
 ## Exceptions
 
 
 | Exception                                                                                                                                                       | Condition                                                  |
 |-----------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------|
-| [Microsoft.Practices.Prism.Modularity.DuplicateModuleException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception) | Thrown if the names of one or more modules are not unique. |
+| [Microsoft.Practices.Prism.Modularity.DuplicateModuleException](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity) | Thrown if the names of one or more modules are not unique. |
 
 ## See Also
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
-[ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
+[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

@@ -15,7 +15,6 @@ The [IEventSubscription](/patterns-practices/reference/ieventsubscription-interf
 The [IEventSubscription](/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription) type exposes the following members.
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -25,7 +24,7 @@ The [IEventSubscription](/patterns-practices/reference/mspp-mvvm-namespace.ieven
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+<td>![Public method](/images/public-method.gif)</td>
 <td><a href="/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription.getexecutionstrategy">GetExecutionStrategy</a></td>
 <td><div class="summary">
 Gets the execution strategy to publish this event.
@@ -40,6 +39,3 @@ Gets the execution strategy to publish this event.
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
 
-[IEventSubscription Interface](/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription)
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

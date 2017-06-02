@@ -4,26 +4,35 @@ Title: 'SelectorRegionAdapter.CreateRegion Method (Microsoft.Practices.Prism.Reg
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.SelectorRegionAdapter.CreateRegion'
 ms:mtpsurl: 'selectorregionadapter-createregion-method-mspp-regions.md'
 ---
-
+
+
 # SelectorRegionAdapter.CreateRegion Method
 
-Creates a new instance of [Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region).
+Creates a new instance of [Region](/patterns-practices/reference/region-class-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-protected override IRegion CreateRegion()Protected Overrides Function CreateRegion As IRegion
+```C#
+protected override IRegion CreateRegion()
+```
+```VB
+'Declaration
+Protected Overrides Function CreateRegion As IRegion
+```
 ### Return Value
 
-Type: [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
-A new instance of [Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region).
+Type: [IRegion](/patterns-practices/reference/iregion-class-mspp-regions)   
+A new instance of [Region](/patterns-practices/reference/region-class-mspp-regions).
 
 ## See Also
-[SelectorRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.selectorregionadapter)
 
-[SelectorRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.selectorregionadapter)
+[SelectorRegionAdapter Class](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[SelectorRegionAdapter Members](/patterns-practices/reference/selectorregionadapter-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
