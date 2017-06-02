@@ -4,32 +4,47 @@ Title: 'ContentControlRegionAdapter.Adapt Method (Microsoft.Practices.Prism.Regi
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter.Adapt(Microsoft.Practices.Prism.Regions.IRegion,System.Windows.Controls.ContentControl)'
 ms:mtpsurl: 'contentcontrolregionadapter-adapt-method-mspp-regions.md'
 ---
-
+
 # ContentControlRegionAdapter.Adapt Method
 
-Adapts a [ContentControl](http://msdn.microsoft.com/en-us/library/ms609797) to an [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion).
+Adapts a [ContentControl](http://msdn.microsoft.com/en-us/library/ms609797) to an [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-protected override void Adapt( IRegion region, ContentControl regionTarget )Protected Overrides Sub Adapt ( region As IRegion, regionTarget As ContentControl )
+```C#
+protected override void Adapt(
+	IRegion region,
+	ContentControl regionTarget
+)
+```
+
+```VB
+'Declaration
+Protected Overrides Sub Adapt ( 
+	region As IRegion,
+	regionTarget As ContentControl
+)
+```
 
 ### Parameters
 
-region  
-Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
+*region*  
+Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)  
 The new region being used.
 
-regionTarget  
-Type: [System.Windows.Controls.ContentControl](http://msdn.microsoft.com/en-us/library/ms609797)
+*regionTarget*  
+Type: [System.Windows.Controls.ContentControl](http://msdn.microsoft.com/en-us/library/ms609797)  
 The object to adapt.
 
 ## See Also
-[ContentControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.contentcontrolregionadapter)
 
-[ContentControlRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.contentcontrolregionadapter)
+[ContentControlRegionAdapter Class](/patterns-practices/reference/contentcontrolregionadapter-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[ContentControlRegionAdapter Members](/patterns-practices/reference/contentcontrolregionadapter-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
