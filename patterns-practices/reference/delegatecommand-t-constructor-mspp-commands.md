@@ -4,11 +4,11 @@ Title: 'DelegateCommand(T) Constructor (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Commands.DelegateCommand\`1.\#ctor'
 ms:mtpsurl: 'delegatecommand-t-constructor-mspp-commands.md'
 ---
-
-# DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Constructor
+
+
+# DelegateCommand(Of T) Constructor
 
 ## Overload List
-
 
 <table>
 
@@ -22,24 +22,25 @@ ms:mtpsurl: 'delegatecommand-t-constructor-mspp-commands.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601.">DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)(Action&lt;(Of &lt;(T&gt;)&gt;))</a></td>
+<td>DelegateCommand(Of T)(Action(Of T))</td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601">DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)</a>.
+Initializes a new instance of <a href="https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)">DelegateCommand(Of T)</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601.">DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)(Action&lt;(Of &lt;(T&gt;)&gt;), Func&lt;(Of &lt;(T, Boolean&gt;)&gt;))</a></td>
+<td>DelegateCommand(Of T)(Action(Of T), Func(Of T, Boolean))</td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601">DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)</a>.
+Initializes a new instance of <a href="https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)">DelegateCommand(Of T)</a>.
 </div></td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601)
 
-[DelegateCommand&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommand%601)
+[DelegateCommand(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50))
+
+[DelegateCommand(Of T) Members](https://msdn.microsoft.com/en-us/library/gg430763(v=pandp.50))
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
