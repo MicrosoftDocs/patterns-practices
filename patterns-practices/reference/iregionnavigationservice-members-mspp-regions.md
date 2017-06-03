@@ -8,7 +8,7 @@ ms:mtpsurl: 'iregionnavigationservice-members-mspp-regions.md'
 
 # IRegionNavigationService Members
 
-The [IRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice) type exposes the following members.
+The [IRegionNavigationService](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationservice) type exposes the following members.
 
 ## Methods
 
@@ -25,19 +25,19 @@ The [IRegionNavigationService](https://msdn.microsoft.com/library/microsoft.prac
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))</a></td>
+<td>[RequestNavigate(Uri, Action(NavigationResult))](/patterns-practices/reference/mspp-regions-namespace.inavigateasync.requestnavigate)</td>
 <td><div class="summary">
 Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a">Uri</a>.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync">INavigateAsync</a>.)</td>
+(Inherited from [INavigateAsync](/patterns-practices/reference/mspp-regions-namespace.inavigateasync).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d%2cmicrosoft.practices.prism.regions.navigationparameters)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)</a></td>
+<td>[RequestNavigate(Uri, Action(NavigationResult), NavigationParameters)](/patterns-practices/reference/mspp-regions-namespace.inavigateasync.requestnavigate)</td>
 <td><div class="summary">
 Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a">Uri</a>.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync">INavigateAsync</a>.)</td>
+(Inherited from [INavigateAsync](/patterns-practices/reference/mspp-regions-namespace.inavigateasync).)</td>
 </tr>
 </tbody>
 </table>
@@ -57,57 +57,57 @@ Initiates navigation to the target specified by the <a href="http://msdn.microso
 <tbody>
 <tr class="odd">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions.requestnavigate(microsoft.practices.prism.regions.inavigateasync%2csystem.string)">RequestNavigate(String)</a></td>
+<td>[RequestNavigate(String)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-mspp-regions)</td>
 <td>Overloaded.
 <div class="summary">
 Initiates navigation to the target specified by the target.
 </div>
-(Defined by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions">NavigationAsyncExtensions</a>.)</td>
+(Defined by [NavigationAsyncExtensions](/patterns-practices/reference/mspp-regions-namespace.navigationasyncextensions).)</td>
 </tr>
 <tr class="even">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions.requestnavigate(microsoft.practices.prism.regions.inavigateasync%2csystem.uri)">RequestNavigate(Uri)</a></td>
+<td>[RequestNavigate(Uri)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-uri-mspp-regions)</td>
 <td>Overloaded.
 <div class="summary">
 Initiates navigation to the target specified by the <a href="http://msdn.microsoft.com/en-us/library/txt7706a">Uri</a>.
 </div>
-(Defined by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions">NavigationAsyncExtensions</a>.)</td>
+(Defined by [NavigationAsyncExtensions](/patterns-practices/reference/mspp-regions-namespace.navigationasyncextensions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions.requestnavigate(microsoft.practices.prism.regions.inavigateasync%2csystem.string%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d)">RequestNavigate(String, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))</a></td>
+<td>[RequestNavigate(String, Action(NavigationResult))](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)</td>
 <td>Overloaded.
 <div class="summary">
 Initiates navigation to the target specified by the target.
 </div>
-(Defined by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions">NavigationAsyncExtensions</a>.)</td>
+(Defined by [NavigationAsyncExtensions](/patterns-practices/reference/mspp-regions-namespace.navigationasyncextensions).)</td>
 </tr>
 <tr class="even">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions.requestnavigate(microsoft.practices.prism.regions.inavigateasync%2csystem.uri%2cmicrosoft.practices.prism.regions.navigationparameters)">RequestNavigate(Uri, NavigationParameters)</a></td>
+<td>[RequestNavigate(Uri, NavigationParameters)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-uri-navigationparameters-mspp-regions)</td>
 <td>Overloaded.
 <div class="summary">
 Initiates navigation to the target specified by the target.
 </div>
-(Defined by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions">NavigationAsyncExtensions</a>.)</td>
+(Defined by [NavigationAsyncExtensions](/patterns-practices/reference/mspp-regions-namespace.navigationasyncextensions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions.requestnavigate(microsoft.practices.prism.regions.inavigateasync%2csystem.string%2cmicrosoft.practices.prism.regions.navigationparameters)">RequestNavigate(String, NavigationParameters)</a></td>
+<td>[RequestNavigate(String, NavigationParameters)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-navigationparameters-mspp-regions)</td>
 <td>Overloaded.
 <div class="summary">
 Initiates navigation to the target specified by the target.
 </div>
-(Defined by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions">NavigationAsyncExtensions</a>.)</td>
+(Defined by [NavigationAsyncExtensions](/patterns-practices/reference/mspp-regions-namespace.navigationasyncextensions).)</td>
 </tr>
 <tr class="even">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions.requestnavigate(microsoft.practices.prism.regions.inavigateasync%2csystem.string%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d%2cmicrosoft.practices.prism.regions.navigationparameters)">RequestNavigate(String, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)</a></td>
+<td>[RequestNavigate(String, Action(NavigationResult), NavigationParameters)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-navigationparameters-mspp-regions)</td>
 <td>Overloaded.
 <div class="summary">
 Initiates navigation to the target specified by the target.
 </div>
-(Defined by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions">NavigationAsyncExtensions</a>.)</td>
+(Defined by [NavigationAsyncExtensions](/patterns-practices/reference/mspp-regions-namespace.navigationasyncextensions).)</td>
 </tr>
 </tbody>
 </table>
@@ -127,14 +127,14 @@ Initiates navigation to the target specified by the target.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice.journal">Journal</a></td>
+<td>[Journal](/patterns-practices/reference/iregionnavigationservice-journal-property-mspp-regions)</td>
 <td><div class="summary">
 Gets the journal.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice.region">Region</a></td>
+<td>[Region](/patterns-practices/reference/iregionnavigationservice-region-property-mspp-regions)</td>
 <td><div class="summary">
 Gets or sets the region owning this service.
 </div></td>
@@ -157,21 +157,21 @@ Gets or sets the region owning this service.
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice.navigated">Navigated</a></td>
+<td>[Navigated](/patterns-practices/reference/iregionnavigationservice-navigated-event-mspp-regions)</td>
 <td><div class="summary">
 Raised when the region is navigated to content.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice.navigating">Navigating</a></td>
+<td>[Navigating](/patterns-practices/reference/iregionnavigationservice-navigating-event-mspp-regions)</td>
 <td><div class="summary">
 Raised when the region is about to be navigated to content.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice.navigationfailed">NavigationFailed</a></td>
+<td>[NavigationFailed](/patterns-practices/reference/iregionnavigationservice-navigationfailed-event-mspp-regions)</td>
 <td><div class="summary">
 Raised when a navigation request fails.
 </div></td>
@@ -181,6 +181,6 @@ Raised when a navigation request fails.
 
 ## See Also
 
-[IRegionNavigationService Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice)
+[IRegionNavigationService Interface](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationservice)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

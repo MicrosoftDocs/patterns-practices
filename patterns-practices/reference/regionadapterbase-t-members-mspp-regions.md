@@ -8,7 +8,7 @@ ms:mtpsurl: 'regionadapterbase-t-members-mspp-regions.md'
 
 # RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Members
 
-The [RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601) type exposes the following members.
+The [RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)](/patterns-practices/reference/mspp-regions-namespace.regionadapterbase) type exposes the following members.
 
 ## Constructors
 
@@ -25,9 +25,9 @@ The [RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/libra
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionadapterbase.">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)</a></td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)</a>.
+Initializes a new instance of <a href="/patterns-practices/reference/mspp-regions-namespace.regionadapterbase">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)</a>.
 </div></td>
 </tr>
 </tbody>
@@ -48,30 +48,30 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.adapt(microsoft.practices.prism.regions.iregion%2c%600)">Adapt</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionadapterbase.adapt(microsoft.practices.prism.regions.iregion)">Adapt</a></td>
 <td><div class="summary">
-Template method to adapt the object to an <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion">IRegion</a>.
+Template method to adapt the object to an <a href="/patterns-practices/reference/mspp-regions-namespace.iregion">IRegion</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.attachbehaviors(microsoft.practices.prism.regions.iregion%2c%600)">AttachBehaviors</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionadapterbase.attachbehaviors(microsoft.practices.prism.regions.iregion)">AttachBehaviors</a></td>
 <td><div class="summary">
 Template method to attach new behaviors.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.attachdefaultbehaviors(microsoft.practices.prism.regions.iregion%2c%600)">AttachDefaultBehaviors</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionadapterbase.attachdefaultbehaviors(microsoft.practices.prism.regions.iregion)">AttachDefaultBehaviors</a></td>
 <td><div class="summary">
-This method adds the default behaviors by using the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory">IRegionBehaviorFactory</a> object.
+This method adds the default behaviors by using the <a href="/patterns-practices/reference/mspp-regions-namespace.iregionbehaviorfactory">IRegionBehaviorFactory</a> object.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.createregion">CreateRegion</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionadapterbase.createregion">CreateRegion</a></td>
 <td><div class="summary">
-Template method to create a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion">IRegion</a> that will be used to adapt the object.
+Template method to create a new instance of <a href="/patterns-practices/reference/mspp-regions-namespace.iregion">IRegion</a> that will be used to adapt the object.
 </div></td>
 </tr>
 <tr class="odd">
@@ -108,9 +108,9 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.initialize(%600%2csystem.string)">Initialize</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionadapterbase.initialize(system.string)">Initialize</a></td>
 <td><div class="summary">
-Adapts an object and binds it to a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion">IRegion</a>.
+Adapts an object and binds it to a new <a href="/patterns-practices/reference/mspp-regions-namespace.iregion">IRegion</a>.
 </div></td>
 </tr>
 <tr class="even">
@@ -147,7 +147,7 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.regionbehaviorfactory">RegionBehaviorFactory</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionadapterbase.regionbehaviorfactory">RegionBehaviorFactory</a></td>
 <td><div class="summary">
 Gets or sets the factory used to create the region behaviors to attach to the created regions.
 </div></td>
@@ -157,6 +157,6 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 
 ## See Also
 
-[RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601)
+[RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;) Class](/patterns-practices/reference/mspp-regions-namespace.regionadapterbase)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

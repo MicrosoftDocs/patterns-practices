@@ -8,7 +8,7 @@ ms:mtpsurl: 'navigationresult-members-mspp-regions.md'
 
 # NavigationResult Members
 
-The [NavigationResult](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult) type exposes the following members.
+The [NavigationResult](/patterns-practices/reference/mspp-regions-namespace.navigationresult) type exposes the following members.
 
 ## Constructors
 
@@ -25,16 +25,16 @@ The [NavigationResult](https://msdn.microsoft.com/library/microsoft.practices.pr
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.">NavigationResult(NavigationContext, Exception)</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.navigationresult.">NavigationResult(NavigationContext, Exception)</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult">NavigationResult</a> class.
+Initializes a new instance of the <a href="/patterns-practices/reference/mspp-regions-namespace.navigationresult">NavigationResult</a> class.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.">NavigationResult(NavigationContext, Nullable&lt;(Of &lt;(Boolean&gt;)&gt;))</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.navigationresult.">NavigationResult(NavigationContext, Nullable&lt;(Of &lt;(Boolean&gt;)&gt;))</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult">NavigationResult</a> class.
+Initializes a new instance of the <a href="/patterns-practices/reference/mspp-regions-namespace.navigationresult">NavigationResult</a> class.
 </div></td>
 </tr>
 </tbody>
@@ -119,21 +119,21 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.context">Context</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.navigationresult.context">Context</a></td>
 <td><div class="summary">
 Gets the navigation context.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.error">Error</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.navigationresult.error">Error</a></td>
 <td><div class="summary">
 Gets an exception that occurred while navigating.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.result">Result</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.navigationresult.result">Result</a></td>
 <td><div class="summary">
 Gets the result.
 </div></td>
@@ -143,6 +143,6 @@ Gets the result.
 
 ## See Also
 
-[NavigationResult Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult)
+[NavigationResult Class](/patterns-practices/reference/mspp-regions-namespace.navigationresult)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

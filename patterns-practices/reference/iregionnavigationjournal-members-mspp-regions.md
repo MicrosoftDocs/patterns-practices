@@ -8,7 +8,7 @@ ms:mtpsurl: 'iregionnavigationjournal-members-mspp-regions.md'
 
 # IRegionNavigationJournal Members
 
-The [IRegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal) type exposes the following members.
+The [IRegionNavigationJournal](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournal) type exposes the following members.
 
 ## Methods
 
@@ -25,28 +25,28 @@ The [IRegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.prac
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal.clear">Clear</a></td>
+<td>[Clear](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournal.clear)</td>
 <td><div class="summary">
 Clears the journal of current, back, and forward navigation histories.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal.goback">GoBack</a></td>
+<td>[GoBack](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournal.goback)</td>
 <td><div class="summary">
 Navigates to the most recent entry in the back navigation history, or does nothing if no entry exists in back navigation.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal.goforward">GoForward</a></td>
+<td>[GoForward](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournal.goforward)</td>
 <td><div class="summary">
 Navigates to the most recent entry in the forward navigation history, or does nothing if no entry exists in forward navigation.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal.recordnavigation(microsoft.practices.prism.regions.iregionnavigationjournalentry)">RecordNavigation</a></td>
+<td>[RecordNavigation](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournal.recordnavigation)</td>
 <td><div class="summary">
 Records the navigation to the entry..
 </div></td>
@@ -69,28 +69,28 @@ Records the navigation to the entry..
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal.cangoback">CanGoBack</a></td>
+<td>[CanGoBack](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournal.cangoback)</td>
 <td><div class="summary">
 Gets a value that indicates whether there is at least one entry in the back navigation history.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal.cangoforward">CanGoForward</a></td>
+<td>[CanGoForward](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournal.cangoforward)</td>
 <td><div class="summary">
 Gets a value that indicates whether there is at least one entry in the forward navigation history.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal.currententry">CurrentEntry</a></td>
+<td>[CurrentEntry](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournal.currententry)</td>
 <td><div class="summary">
 Gets the current navigation entry of the content that is currently displayed.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal.navigationtarget">NavigationTarget</a></td>
+<td>[NavigationTarget](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournal.navigationtarget)</td>
 <td><div class="summary">
 Gets or sets the target that implements INavigateAsync.
 </div></td>
@@ -100,6 +100,6 @@ Gets or sets the target that implements INavigateAsync.
 
 ## See Also
 
-[IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
+[IRegionNavigationJournal Interface](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournal)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
