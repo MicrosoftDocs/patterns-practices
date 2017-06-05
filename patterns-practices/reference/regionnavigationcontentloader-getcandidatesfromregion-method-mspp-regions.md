@@ -34,7 +34,7 @@ The candidate navigation target as determined by [GetContractFromNavigationConte
 ### Return Value
 
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;  
-An enumerable of candidate objects from the [IRegion](ht/patterns-practices/reference/iregion-interface-mspp-regions)
+An enumerable of candidate objects from the [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
 
 
 ```VB
@@ -58,12 +58,10 @@ The candidate navigation target as determined by [GetContractFromNavigationConte
 ### Return Value
 
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))  
-An enumerable of candidate objects from the [IRegion](ht/patterns-practices/reference/iregion-interface-mspp-regions)
+An enumerable of candidate objects from the [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
 
 ## See Also
 
 [RegionNavigationContentLoader Class](/patterns-practices/reference/regionnavigationcontentloader-class-mspp-regions)  
 [RegionNavigationContentLoader Members](/patterns-practices/reference/regionnavigationcontentloader-members-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
-
-
