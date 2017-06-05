@@ -4,36 +4,53 @@ Title: 'UnityBootstrapper.RegisterTypeIfMissing Method (Microsoft.Practices.Pris
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.RegisterTypeIfMissing(System.Type,System.Type,System.Boolean)'
 ms:mtpsurl: 'unitybootstrapper-registertypeifmissing-method-mspp-unityextensions.md'
 ---
-
+
+
 # UnityBootstrapper.RegisterTypeIfMissing Method
 
 Registers a type in the container only if that type was not already registered.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](/patterns-practices/reference/mspp-unityextensions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-protected void RegisterTypeIfMissing( Type fromType, Type toType, bool registerAsSingleton )Protected Sub RegisterTypeIfMissing ( fromType As Type, toType As Type, registerAsSingleton As Boolean )
+```C#
+protected void RegisterTypeIfMissing(
+	Type fromType,
+	Type toType,
+	bool registerAsSingleton
+)
+```
+```VB
+'Declaration
+Protected Sub RegisterTypeIfMissing ( 
+	fromType As Type,
+	toType As Type,
+	registerAsSingleton As Boolean
+)
+```
 
 ### Parameters
 
-fromType  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
+*fromType*  
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)   
 The interface type to register.
 
-toType  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
+*toType*  
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)   
 The type implementing the interface.
 
-registerAsSingleton  
-Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
+*registerAsSingleton*     
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)   
 Registers the type as a singleton.
 
 ## See Also
-[UnityBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
 
-[UnityBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitybootstrapper)
+[UnityBootstrapper Class](/patterns-practices/reference/unitybootstrapper-class-mspp-unityextensions)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+[UnityBootstrapper Members](/patterns-practices/reference/unitybootstrapper-members-mspp-unityextensions)
+
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)

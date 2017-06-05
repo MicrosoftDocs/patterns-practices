@@ -4,26 +4,41 @@ Title: 'ModuleInfoGroup.Clear Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Clear'
 ms:mtpsurl: 'moduleinfogroup-clear-method-mspp-modularity.md'
 ---
-
+
 # ModuleInfoGroup.Clear Method
 
-Removes all [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)s from the [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup).
+Removes all [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s from the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public void Clear()Public Sub Clear
+
+```C#
+public void Clear()
+```
+
 ### Implements
 
-[ICollection&lt;(Of &lt;(T&gt;)&gt;).Clear()()()](http://msdn.microsoft.com/en-us/library/5axy4fbh)
-[IList.Clear()()()](http://msdn.microsoft.com/en-us/library/5h6ak0yz)
+[ICollection&lt;T&gt;.Clear()](http://msdn.microsoft.com/en-us/library/5axy4fbh)  
+[IList.Clear()](http://msdn.microsoft.com/en-us/library/5h6ak0yz)
+
+```VB
+'Declaration
+Public Sub Clear
+```
+### Implements
+
+[ICollection(Of T).Clear](http://msdn.microsoft.com/en-us/library/5axy4fbh)  
+[IList.Clear()](http://msdn.microsoft.com/en-us/library/5h6ak0yz)
 
 ## See Also
-[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 
-[ModuleInfoGroup Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroup)
+[ModuleInfoGroup Class](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleInfoGroup Members](/patterns-practices/reference/moduleinfogroup-members-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace) 

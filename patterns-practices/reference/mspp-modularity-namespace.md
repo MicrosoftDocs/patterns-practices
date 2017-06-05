@@ -9,7 +9,6 @@ ms:mtpsurl: 'mspp-modularity-namespace.md'
 
 ## Classes
 
-
 <table>
 <thead>
 <tr class="header">

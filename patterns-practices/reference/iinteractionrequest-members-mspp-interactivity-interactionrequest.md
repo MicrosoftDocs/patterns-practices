@@ -4,10 +4,11 @@ Title: 'IInteractionRequest Members (Microsoft.Practices.Prism.Interactivity.Int
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.IInteractionRequest'
 ms:mtpsurl: 'iinteractionrequest-members-mspp-interactivity-interactionrequest.md'
 ---
-
+
+
 # IInteractionRequest Members
 
-The [IInteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest) type exposes the following members.
+The [IInteractionRequest](/patterns-practices/reference/iinteractionrequest-interface-mspp-interactivity-interactionrequest) type exposes the following members.
 
 ## Events
 
@@ -24,7 +25,7 @@ The [IInteractionRequest](https://msdn.microsoft.com/library/microsoft.practices
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest.raised">Raised</a></td>
+<td><a href="/patterns-practices/reference/iinteractionrequest-raised-event-mspp-interactivity-interactionrequest">Raised</a></td>
 <td><div class="summary">
 Fired when the interaction is needed.
 </div></td>
@@ -33,6 +34,7 @@ Fired when the interaction is needed.
 </table>
 
 ## See Also
-[IInteractionRequest Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+[IInteractionRequest Interface](/patterns-practices/reference/iinteractionrequest-interface-mspp-interactivity-interactionrequest)
+
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

@@ -4,16 +4,19 @@ Title: 'WeakEventHandlerManager Methods (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Commands.WeakEventHandlerManager'
 ms:mtpsurl: 'weakeventhandlermanager-methods-mspp-commands.md'
 ---
-
+
 # WeakEventHandlerManager Methods
 
-The [WeakEventHandlerManager](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager) type exposes the following members.
+The [WeakEventHandlerManager](/patterns-practices/reference/weakeventhandlermanager-class-mspp-commands) type exposes the following members.
 
 ## Methods
 
-
 <table>
-
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,21 +27,21 @@ The [WeakEventHandlerManager](https://msdn.microsoft.com/library/microsoft.pract
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager.addweakreferencehandler(system.collections.generic.list%7bsystem.weakreference%7d%40%2csystem.eventhandler%2csystem.int32)">AddWeakReferenceHandler</a></td>
+<td>[AddWeakReferenceHandler](/patterns-practices/reference/weakeventhandlermanager-addweakreferencehandler-method-mspp-commands)</td>
 <td><div class="summary">
 Adds a handler to the supplied list in a weak way.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager.callweakreferencehandlers(system.object%2csystem.collections.generic.list%7bsystem.weakreference%7d)">CallWeakReferenceHandlers</a></td>
+<td>[CallWeakReferenceHandlers](/patterns-practices/reference/weakeventhandlermanager-callweakreferencehandlers-method-mspp-commands)</td>
 <td><div class="summary">
 Invokes the handlers
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager.removeweakreferencehandler(system.collections.generic.list%7bsystem.weakreference%7d%2csystem.eventhandler)">RemoveWeakReferenceHandler</a></td>
+<td>[RemoveWeakReferenceHandler](/patterns-practices/reference/weakeventhandlermanager-removeweakreferencehandler-method-mspp-commands)</td>
 <td><div class="summary">
 Removes an event handler from the reference list.
 </div></td>
@@ -47,6 +50,7 @@ Removes an event handler from the reference list.
 </table>
 
 ## See Also
-[WeakEventHandlerManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager)
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+[WeakEventHandlerManager Class](/patterns-practices/reference/weakeventhandlermanager-class-mspp-commands)
+
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

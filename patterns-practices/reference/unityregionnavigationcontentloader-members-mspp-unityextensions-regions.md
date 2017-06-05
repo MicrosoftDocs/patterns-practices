@@ -14,7 +14,6 @@ The [UnityRegionNavigationContentLoader](https://msdn.microsoft.com/library/micr
 
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -25,7 +24,7 @@ The [UnityRegionNavigationContentLoader](https://msdn.microsoft.com/library/micr
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader.">UnityRegionNavigationContentLoader</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader">UnityRegionNavigationContentLoader</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader">UnityRegionNavigationContentLoader</a> class.
 </div></td>

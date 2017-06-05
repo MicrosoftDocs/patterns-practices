@@ -10,33 +10,36 @@ ms:mtpsurl: 'delegatecommandbase-constructor-action-object-func-object-boolean-m
 ## Overload List
 
 <table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
 <thead>
 <tr class="header">
+<th></th>
 <th>Name</th>
 <th>Description</th>
 </tr>
 </thead>
 <tbody>
 <tr class="odd">
-<td>DelegateCommandBase(Action<(Of <(Object>)>), Func<(Of <(Object, Boolean>)>))</td>
+
+<td>DelegateCommandBase(Action<Object>, Func<Object, Boolean>)</td>
 <td>Creates a new instance of a [DelegateCommandBase,](/patterns-practices/reference/delegatecommandbase-class-mspp-commands) specifying both the execute action and the can execute function.</td>
 </tr>
 <tr class="even">
-<td>DelegateCommandBase(Func<(Of <(Object, Task>)>), Func<(Of <(Object, Boolean>)>))</td>
+<td>DelegateCommandBase(Func<Object, Task>, Func<Object, Boolean>)</td>
 <td>Creates a new instance of a [DelegateCommandBase,](/patterns-practices/reference/delegatecommandbase-class-mspp-commands) specifying both the Execute action as an awaitable Task and the CanExecute function.</td>
 
 <td>![Protected method}(/patterns-practices/reference/images/protect-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase.">DelegateCommandBase(Action&lt;(Of &lt;(Object&gt;)&gt;), Func&lt;(Of &lt;(Object, Boolean&gt;)&gt;))</a></td>
-<td><div class="summary">
-Creates a new instance of a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase">DelegateCommandBase</a>, specifying both the execute action and the can execute function.
-</div></td>
+<td>DelegateCommandBase(Action&lt;Object&gt;, Func&lt;Object, Boolean&gt;)</td>
+<td>Creates a new instance of a [DelegateCommandBase,](/patterns-practices/reference/delegatecommandbase-class-mspp-commands) specifying both the execute action and the can execute function.</td>
 </tr>
 <tr class="even">
 <td>![Protected method}(/patterns-practices/reference/images/protect-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase.">DelegateCommandBase(Func&lt;(Of &lt;(Object, Task&gt;)&gt;), Func&lt;(Of &lt;(Object, Boolean&gt;)&gt;))</a></td>
-<td><div class="summary">
-Creates a new instance of a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase">DelegateCommandBase</a>, specifying both the Execute action as an awaitable Task and the CanExecute function.
-</div></td>
+<td>DelegateCommandBase(Func&lt;Object, Task&gt;, Func&lt;Object, Boolean&gt;)</td>
+<td>Creates a new instance of a [DelegateCommandBase,](/patterns-practices/reference/delegatecommandbase-class-mspp-commands) specifying both the Execute action as an awaitable Task and the CanExecute function.</td>
 </tr>
 </tbody>
 </table>

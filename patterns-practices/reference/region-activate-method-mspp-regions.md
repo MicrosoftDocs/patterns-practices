@@ -4,32 +4,43 @@ Title: 'Region.Activate Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Region.Activate(System.Object)'
 ms:mtpsurl: 'region-activate-method-mspp-regions.md'
 ---
-
 # Region.Activate Method
 
 Marks the specified view as active.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public virtual void Activate( Object view )Public Overridable Sub Activate ( view As Object )
+```C#
+public virtual void Activate(
+	Object view
+)
+```
+
+```VB
+'Declaration
+Public Overridable Sub Activate ( 
+	view As Object
+)
+```
 
 ### Parameters
 
-view  
-Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+*view*  
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 The view to activate.
 
 ### Implements
 
-[IRegion.Activate(Object)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.activate(system.object))
+[IRegion.Activate(Object)](/patterns-practices/reference/iregion-activate-method-mspp-regions)
 
 ## See Also
-[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 
-[Region Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.region)
+[Region Class](/patterns-practices/reference/region-class-mspp-regions)  
+[Region Members](/patterns-practices/reference/region-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+

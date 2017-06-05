@@ -32,6 +32,7 @@ An [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) with the 
 'Declaration
 Function GetExecutionStrategy As Action(Of Object())
 ```
+
 #### Return Value
 
 Type: [Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)())

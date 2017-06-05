@@ -11,13 +11,23 @@ Gets the [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) (the targe
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) 
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
 ```C#
 public Delegate Target { get; }
 ```
+
+### Property Value
+
+Type: [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)
+
+**null**a null reference (**Nothing** in Visual Basic) if the object referenced by the current [DelegateReference](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents) object has been garbage collected; otherwise, a reference to the [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51) referenced by the current [DelegateReference](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents) object.
+
+## Syntax
  
 ```VB
 'Declaration
@@ -29,7 +39,7 @@ Public ReadOnly Property Target As Delegate
 
 Type: [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51)
 
-**Nothinga** null reference (**Nothing** in Visual Basic) if the object referenced by the current [DelegateReference](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents) object has been garbage collected; otherwise, a reference to the [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51) referenced by the current [DelegateReference](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents) object.
+**Nothing**a null reference (**Nothing** in Visual Basic) if the object referenced by the current [DelegateReference](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents) object has been garbage collected; otherwise, a reference to the [Delegate](http://msdn2.microsoft.com/en-us/library/y22acf51) referenced by the current [DelegateReference](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents) object.
 
 ### Implements
 

@@ -4,7 +4,8 @@ Title: 'ModuleInitializeException Constructor (Microsoft.Practices.Prism.Modular
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleInitializeException.\#ctor'
 ms:mtpsurl: 'moduleinitializeexception-constructor-mspp-modularity.md'
 ---
-
+
+
 # ModuleInitializeException Constructor
 
 ## Overload List
@@ -21,49 +22,50 @@ ms:mtpsurl: 'moduleinitializeexception-constructor-mspp-modularity.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException()()()</a></td>
+<td>ModuleInitializeException</td>
 <td><div class="summary">
 Initializes a new instance.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException(String)</a></td>
+<td>ModuleInitializeException(String)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception">ModuleInitializeException</a> class.
+Initializes a new instance of the <a href="/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity
+">ModuleInitializeException</a> class.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException(SerializationInfo, StreamingContext)</a></td>
+<td>ModuleInitializeException(SerializationInfo, StreamingContext)</td>
 <td><div class="summary">
 Initializes a new instance with serialized data.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException(String, Exception)</a></td>
+<td>ModuleInitializeException(String, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception">ModuleInitializeException</a> class.
+Initializes a new instance of the <a href="/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity">ModuleInitializeException</a> class.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException(String, String, Exception)</a></td>
+<td>ModuleInitializeException(String, String, Exception)</td>
 <td><div class="summary">
 Initializes the exception with a particular module, error message and inner exception that happened.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException(String, String, String)</a></td>
+<td>ModuleInitializeException(String, String, String)</td>
 <td><div class="summary">
 Initializes the exception with a particular module and error message.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception.">ModuleInitializeException(String, String, String, Exception)</a></td>
+<td>ModuleInitializeException(String, String, String, Exception)</td>
 <td><div class="summary">
 Initializes the exception with a particular module, error message and inner exception that happened.
 </div></td>

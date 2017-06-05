@@ -4,7 +4,8 @@ Title: 'ModuleManager.Dispose Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleManager.Dispose'
 ms:mtpsurl: 'modulemanager-dispose-method-boolean-mspp-modularity.md'
 ---
-
+
+
 # ModuleManager.Dispose Method
 
 ## Overload List
@@ -22,24 +23,25 @@ ms:mtpsurl: 'modulemanager-dispose-method-boolean-mspp-modularity.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.dispose">Dispose()()()</a></td>
+<td><a href="/patterns-practices/reference/modulemanager-dispose-method-mspp-modularity">Dispose</a></td>
 <td><div class="summary">
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.dispose(system.boolean)">Dispose(Boolean)</a></td>
+<td><a href="/patterns-practices/reference/modulemanager-dispose-method-boolean-mspp-modularity">Dispose(Boolean)</a></td>
 <td><div class="summary">
-Disposes the associated <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader">IModuleTypeLoader</a>s.
+Disposes the associated <a href="/patterns-practices/reference/imoduletypeloader-interface-mspp-modularity">IModuleTypeLoader</a>s.
 </div></td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
 
-[ModuleManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulemanager)
+[ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

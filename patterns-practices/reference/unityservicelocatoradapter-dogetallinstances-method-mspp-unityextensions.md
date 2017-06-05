@@ -4,33 +4,57 @@ Title: 'UnityServiceLocatorAdapter.DoGetAllInstances Method (Microsoft.Practices
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityServiceLocatorAdapter.DoGetAllInstances(System.Type)'
 ms:mtpsurl: 'unityservicelocatoradapter-dogetallinstances-method-mspp-unityextensions.md'
 ---
-
+
+
 # UnityServiceLocatorAdapter.DoGetAllInstances Method
 
 Resolves all the instances of the requested service.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](/patterns-practices/reference/mspp-unityextensions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-protected override IEnumerable&lt;Object&gt; DoGetAllInstances( Type serviceType )Protected Overrides Function DoGetAllInstances ( serviceType As Type ) As IEnumerable(Of Object)
-
+```C#
+protected override IEnumerable<Object> DoGetAllInstances(
+	Type serviceType
+)
+```
 ### Parameters
 
-serviceType  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
+*serviceType*  
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)  
 Type of service requested.
 
 ### Return Value
 
-Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;  
+Sequence of service instance objects.
+
+```VB
+'Declaration
+Protected Overrides Function DoGetAllInstances ( 
+	serviceType As Type
+) As IEnumerable(Of Object)
+```
+
+### Parameters
+
+*serviceType*  
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)   
+Type of service requested.
+
+### Return Value
+
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))   
 Sequence of service instance objects.
 
 ## See Also
-[UnityServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
 
-[UnityServiceLocatorAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
+[UnityServiceLocatorAdapter Class](/patterns-practices/reference/unityservicelocatoradapter-class-mspp-unityextensions)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+[UnityServiceLocatorAdapter Members](/patterns-practices/reference/unityservicelocatoradapter-members-mspp-unityextensions)
+
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)

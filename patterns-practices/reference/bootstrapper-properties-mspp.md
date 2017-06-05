@@ -4,10 +4,11 @@ Title: 'Bootstrapper Properties (Microsoft.Practices.Prism)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Bootstrapper'
 ms:mtpsurl: 'bootstrapper-properties-mspp.md'
 ---
-
+
+
 # Bootstrapper Properties
 
-The [Bootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper) type exposes the following members.
+The [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp) type exposes the following members.
 
 ## Properties
 
@@ -23,21 +24,21 @@ The [Bootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.
 <tbody>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.logger">Logger</a></td>
+<td><a href="/patterns-practices/reference/bootstrapper-logger-property-mspp">Logger</a></td>
 <td><div class="summary">
-Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a> for the application.
+Gets the <a href="/patterns-practices/reference/iloggerfacade-interface-mspp-logging">ILoggerFacade</a> for the application.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.modulecatalog">ModuleCatalog</a></td>
+<td><a href="/patterns-practices/reference/bootstrapper-modulecatalog-property-mspp">ModuleCatalog</a></td>
 <td><div class="summary">
-Gets the default <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog">IModuleCatalog</a> for the application.
+Gets the default <a href="/patterns-practices/reference/imodulecatalog-interface-mspp-modularity">IModuleCatalog</a> for the application.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.shell">Shell</a></td>
+<td><a href="/patterns-practices/reference/bootstrapper-shell-property-mspp">Shell</a></td>
 <td><div class="summary">
 Gets the shell user interface
 </div></td>
@@ -46,6 +47,7 @@ Gets the shell user interface
 </table>
 
 ## See Also
-[Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[Bootstrapper Class](/patterns-practices/reference/bootstrapper-class-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

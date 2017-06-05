@@ -4,10 +4,11 @@ Title: 'IActiveAware Members (Microsoft.Practices.Prism)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.IActiveAware'
 ms:mtpsurl: 'iactiveaware-members-mspp.md'
 ---
-
+
+
 # IActiveAware Members
 
-The [IActiveAware](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware) type exposes the following members.
+The [IActiveAware](/patterns-practices/reference/iactiveaware-interface-mspp) type exposes the following members.
 
 ## Properties
 
@@ -24,7 +25,7 @@ The [IActiveAware](https://msdn.microsoft.com/library/microsoft.practices.prism.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware.isactive">IsActive</a></td>
+<td><a href="/patterns-practices/reference/iactiveaware-isactive-property-mspp">IsActive</a></td>
 <td><div class="summary">
 Gets or sets a value indicating whether the object is active.
 </div></td>
@@ -47,15 +48,16 @@ Gets or sets a value indicating whether the object is active.
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware.isactivechanged">IsActiveChanged</a></td>
+<td><a href="/patterns-practices/reference/iactiveaware-isactivechanged-event-mspp">IsActiveChanged</a></td>
 <td><div class="summary">
-Notifies that the value for <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware.isactive">IsActive</a> property has changed.
+Notifies that the value for <a href="/patterns-practices/reference/iactiveaware-isactive-property-mspp">IsActive</a> property has changed.
 </div></td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[IActiveAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[IActiveAware Interface](/patterns-practices/reference/iactiveaware-interface-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

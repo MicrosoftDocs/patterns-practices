@@ -4,7 +4,8 @@ Title: 'RegionManagerExtensions.RequestNavigate Method (IRegionManager, String, 
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionManagerExtensions.RequestNavigate(Microsoft.Practices.Prism.Regions.IRegionManager,System.String,System.Uri)'
 ms:mtpsurl: 'regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-action-navigationresult-mspp-regions.md'
 ---
-
+
+
 # RegionManagerExtensions.RequestNavigate Method (IRegionManager, String, Uri)
 
 Navigates the specified region manager.
@@ -33,7 +34,8 @@ Public Shared Sub RequestNavigate (
 	source As Uri
 )
 ```
-### Parameters
+
+### Parameters
 
 *regionManager*  
 Type: [Microsoft.Practices.Prism.Regions.IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)
@@ -55,7 +57,8 @@ The URI of the content to display.
 In Visual Basic and C#, you can call this method as an instance method on any object of type [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions). When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 
 ## See Also
-[RegionManagerExtensions Class](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)
+
+[RegionManagerExtensions Class](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)
 
 [RegionManagerExtensions Members](/patterns-practices/reference/regionmanagerextensions-members-mspp-regions)
 

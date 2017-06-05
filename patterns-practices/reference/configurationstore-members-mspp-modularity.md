@@ -4,10 +4,11 @@ Title: 'ConfigurationStore Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ConfigurationStore'
 ms:mtpsurl: 'configurationstore-members-mspp-modularity.md'
 ---
-
+
+
 # ConfigurationStore Members
 
-The [ConfigurationStore](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationstore) type exposes the following members.
+The [ConfigurationStore](/patterns-practices/reference/configurationstore-class-mspp-modularity) type exposes the following members.
 
 ## Constructors
 
@@ -24,7 +25,7 @@ The [ConfigurationStore](https://msdn.microsoft.com/library/microsoft.practices.
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationstore.">ConfigurationStore</a></td>
+<td><a href="/patterns-practices/reference/configurationstore-class-mspp-modularity">ConfigurationStore</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationstore">ConfigurationStore</a> class
 </div></td>
@@ -87,7 +88,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationstore.retrievemoduleconfigurationsection">RetrieveModuleConfigurationSection</a></td>
+<td><a href="/patterns-practices/reference/configurationstore-retrievemoduleconfigurationsection-method-mspp-modularity">RetrieveModuleConfigurationSection</a></td>
 <td><div class="summary">
 Gets the module configuration data.
 </div></td>
@@ -104,6 +105,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[ConfigurationStore Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.configurationstore)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ConfigurationStore Class](/patterns-practices/reference/configurationstore-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

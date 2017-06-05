@@ -4,7 +4,8 @@ Title: 'CompositeCommand Constructor (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Commands.CompositeCommand.\#ctor'
 ms:mtpsurl: 'compositecommand-constructor-boolean-mspp-commands.md'
 ---
-
+
+
 # CompositeCommand Constructor
 
 ## Overload List
@@ -22,14 +23,14 @@ ms:mtpsurl: 'compositecommand-constructor-boolean-mspp-commands.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand.">CompositeCommand()()()</a></td>
+<td>CompositeCommand</td>
 <td><div class="summary">
 Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand">CompositeCommand</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand.">CompositeCommand(Boolean)</a></td>
+<td>CompositeCommand(Boolean)</td>
 <td><div class="summary">
 Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand">CompositeCommand</a>.
 </div></td>
@@ -38,8 +39,9 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 </table>
 
 ## See Also
-[CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
 
-[CompositeCommand Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.compositecommand)
+[CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
+
+[CompositeCommand Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand_members(v=pandp.50))
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)

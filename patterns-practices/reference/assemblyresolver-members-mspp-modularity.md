@@ -4,16 +4,15 @@ Title: 'AssemblyResolver Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.AssemblyResolver'
 ms:mtpsurl: 'assemblyresolver-members-mspp-modularity.md'
 ---
-
+
+
 # AssemblyResolver Members
 
-The [AssemblyResolver](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver) type exposes the following members.
+The [AssemblyResolver]() type exposes the following members.
 
 ## Constructors
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,9 +23,9 @@ The [AssemblyResolver](https://msdn.microsoft.com/library/microsoft.practices.pr
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver.">AssemblyResolver</a></td>
+<td>AssemblyResolver</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver">AssemblyResolver</a> class
+Initializes a new instance of the <a href="/patterns-practices/reference/assemblyresolver-class-mspp-modularity">AssemblyResolver</a> class
 </div></td>
 </tr>
 </tbody>
@@ -34,7 +33,6 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## Methods
 
-
 <table>
 
 <thead>
@@ -47,16 +45,16 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver.dispose">Dispose()()()</a></td>
+<td><a href="/patterns-practices/reference/assemblyresolver-dispose-method-mspp-modularity">Dispose</a></td>
 <td><div class="summary">
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver.dispose(system.boolean)">Dispose(Boolean)</a></td>
+<td><a href="/patterns-practices/reference/assemblyresolver-dispose-method-boolean-mspp-modularity">Dispose(Boolean)</a></td>
 <td><div class="summary">
-Disposes the associated <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver">AssemblyResolver</a>.
+Disposes the associated <a href="/patterns-practices/reference/assemblyresolver-class-mspp-modularity">AssemblyResolver</a>.
 </div></td>
 </tr>
 <tr class="odd">
@@ -93,7 +91,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver.loadassemblyfrom(system.string)">LoadAssemblyFrom</a></td>
+<td><a href="/patterns-practices/reference/assemblyresolver-loadassemblyfrom-method-mspp-modularity">LoadAssemblyFrom</a></td>
 <td><div class="summary">
 Registers the specified assembly and resolves the types in it when the AppDomain requests for it.
 </div></td>
@@ -118,6 +116,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[AssemblyResolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[AssemblyResolver Class](/patterns-practices/reference/assemblyresolver-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

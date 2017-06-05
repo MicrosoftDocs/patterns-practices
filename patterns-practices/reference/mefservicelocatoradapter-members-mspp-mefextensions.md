@@ -4,16 +4,14 @@ Title: 'MefServiceLocatorAdapter Members (Microsoft.Practices.Prism.MefExtension
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.MefServiceLocatorAdapter'
 ms:mtpsurl: 'mefservicelocatoradapter-members-mspp-mefextensions.md'
 ---
-
+
 # MefServiceLocatorAdapter Members
 
-The [MefServiceLocatorAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter) type exposes the following members.
+The [MefServiceLocatorAdapter](/patterns-practices/reference/mefservicelocatoradapter-class-mspp-mefextensions) type exposes the following members.
 
 ## Constructors
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,9 +22,9 @@ The [MefServiceLocatorAdapter](https://msdn.microsoft.com/library/microsoft.prac
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter.">MefServiceLocatorAdapter</a></td>
+<td>MefServiceLocatorAdapter</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter">MefServiceLocatorAdapter</a> class.
+Initializes a new instance of the <a href="/patterns-practices/reference/mefservicelocatoradapter-class-mspp-mefextensions">MefServiceLocatorAdapter</a> class.
 </div></td>
 </tr>
 </tbody>
@@ -34,9 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -47,7 +43,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter.dogetallinstances(system.type)">DoGetAllInstances</a></td>
+<td><a href="/patterns-practices/reference/mefservicelocatoradapter-dogetallinstances-method-mspp-mefextensions">DoGetAllInstances</a></td>
 <td><div class="summary">
 Resolves the instance of the requested service.
 </div>
@@ -55,7 +51,7 @@ Resolves the instance of the requested service.
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter.dogetinstance(system.type%2csystem.string)">DoGetInstance</a></td>
+<td><a href="/patterns-practices/reference/mefservicelocatoradapter-dogetinstance-method-mspp-mefextensions">DoGetInstance</a></td>
 <td><div class="summary">
 Resolves all the instances of the requested service.
 </div>
@@ -94,7 +90,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>GetAllInstances``1()()()</td>
+<td>GetAllInstances``1()()</td>
 <td>(Inherited from ServiceLocatorImplBase.)</td>
 </tr>
 <tr class="odd">
@@ -117,7 +113,7 @@ Serves as a hash function for a particular type.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>GetInstance``1()()()</td>
+<td>GetInstance``1()</td>
 <td>(Inherited from ServiceLocatorImplBase.)</td>
 </tr>
 <tr class="odd">
@@ -158,6 +154,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[MefServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefservicelocatoradapter)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)
+[MefServiceLocatorAdapter Class](/patterns-practices/reference/mefservicelocatoradapter-class-mspp-mefextensions)
+
+[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)
