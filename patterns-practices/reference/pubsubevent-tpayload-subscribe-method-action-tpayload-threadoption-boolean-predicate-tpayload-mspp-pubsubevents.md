@@ -16,7 +16,8 @@ Subscribes a delegate to an event.
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-```C#
+
+```C#
 public virtual SubscriptionToken Subscribe(
 	Action<TPayload> action,
 	ThreadOption threadOption,
@@ -27,17 +28,24 @@ public virtual SubscriptionToken Subscribe(
 
 ### Parameters
 
-*action*
-  
+*action*  
+
 Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[TPayload](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent)&gt;
 
 The delegate that gets executed when the event is published.
 
 *threadOption*
-  
+
 Type: [Microsoft.Practices.Prism.PubSubEvents.ThreadOption](/patterns-practices/reference/mspp-mvvm-namespace.threadoption)
 
 Specifies on which thread to receive the delegate callback.
+
+*keepSubscriberReferenceAlive*  
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
+
+When **truetrue** (**True** in Visual Basic), the [PubSubEvent&lt;TPayload&gt; ](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent) keeps a reference to the subscriber so it does not get garbage collected.
+
+*filter*  
 
 *keepSubscriberReferenceAlive*
   
@@ -59,19 +67,29 @@ A [SubscriptionToken](/patterns-practices/reference/mspp-mvvm-namespace.subscrip
 
 ## Remarks
 
- If *keepSubscriberReferenceAlive* is set to **Falsefalse** (**False** in Visual Basic), [PubSubEvent&lt;TPayload&gt;](https://review.docs.microsoft.com/en-us/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent) will maintain a [WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate. If not using a WeakReference *(keepSubscriberReferenceAlive* is **Truetrue** (**True** in Visual Basic)), the user must explicitly call Unsubscribe for the event when disposing the subscriber in order to avoid memory leaks or unexpected behavior. The PubSubEvent collection is thread-safe.
+ If *keepSubscriberReferenceAlive* is set to **falsefalse** (**False** in Visual Basic), [PubSubEvent&lt;TPayload&gt;](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied *action* delegate. If not using a WeakReference (*keepSubscriberReferenceAlive* is **truetrue** (**True** in Visual Basic)), the user must explicitly call Unsubscribe for the event when disposing the subscriber in order to avoid memory leaks or unexpected behavior. The PubSubEvent collection is thread-safe.
 
 ## See Also
-[PubSubEvent&lt;TPayload&gt; Class](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent)
+
+[PubSubEvent&lt;TPayload&gt; Class](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent)
+
+PubSubEvent&lt;TPayload&gt; Members
+
+[Subscribe Overload](/patterns-practices/reference/pubsubevent-tpayload-subscribe-method-mspp-pubsubevents)
+
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
+
+If *keepSubscriberReferenceAlive* is set to **Falsefalse** (**False** in Visual Basic), [PubSubEvent&lt;TPayload&gt;](https://review.docs.microsoft.com/en-us/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent) will maintain a [WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate. If not using a WeakReference *(keepSubscriberReferenceAlive* is **Truetrue** (**True** in Visual Basic)), the user must explicitly call Unsubscribe for the event when disposing the subscriber in order to avoid memory leaks or unexpected behavior. The PubSubEvent collection is thread-safe.
+
+## See Also
+
+[PubSubEvent&lt;TPayload&gt; Class](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent)
 
 [PubSubEvent&lt;TPayload&gt; Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.pubsubevent)
 
 [Subscribe Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.pubsubevents.pubsubevent.subscribe)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
-
-
-
 
 # PubSubEvent(Of TPayload).Subscribe Method (Action(Of TPayload), ThreadOption, Boolean, Predicate(Of TPayload))
 
@@ -96,7 +114,6 @@ Public Overridable Function Subscribe (
 ```
 
 ### Parameters
-
 *action* 
  
 Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent))
@@ -104,10 +121,17 @@ Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPay
 The delegate that gets executed when the event is published.
 
 *threadOption*
-  
+
 Type: [Microsoft.Practices.Prism.PubSubEvents.ThreadOption](/patterns-practices/reference/mspp-mvvm-namespace.threadoption)
 
 Specifies on which thread to receive the delegate callback.
+
+*keepSubscriberReferenceAlive*  
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
+
+When **Truetrue** (**True** in Visual Basic), the [PubSubEvent(Of TPayload)](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent) keeps a reference to the subscriber so it does not get garbage collected.
+
+*filter*  
 
 *keepSubscriberReferenceAlive*
   
@@ -129,11 +153,18 @@ A [SubscriptionToken](/patterns-practices/reference/mspp-mvvm-namespace.subscrip
 
 ## Remarks
 
- If *keepSubscriberReferenceAlive* is set to **Falsefalse** (**False** in Visual Basic), [PubSubEvent(Of TPayload)](https://review.docs.microsoft.com/en-us/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent) will maintain a [WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate. If not using a WeakReference *(keepSubscriberReferenceAlive* is **Truetrue** (**True** in Visual Basic)), the user must explicitly call Unsubscribe for the event when disposing the subscriber in order to avoid memory leaks or unexpected behavior. The PubSubEvent collection is thread-safe.
+
+If *keepSubscriberReferenceAlive* is set to **Falsefalse** (**False** in Visual Basic), [PubSubEvent(Of TPayload)](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied *action* delegate. If not using a WeakReference (*keepSubscriberReferenceAlive* is **Truetrue** (**True** in Visual Basic)), the user must explicitly call Unsubscribe for the event when disposing the subscriber in order to avoid memory leaks or unexpected behavior. The PubSubEvent collection is thread-safe.
+
+If *keepSubscriberReferenceAlive* is set to **Falsefalse** (**False** in Visual Basic), [PubSubEvent(Of TPayload)](https://review.docs.microsoft.com/en-us/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent) will maintain a [WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate. If not using a WeakReference *(keepSubscriberReferenceAlive* is **Truetrue** (**True** in Visual Basic)), the user must explicitly call Unsubscribe for the event when disposing the subscriber in order to avoid memory leaks or unexpected behavior. The PubSubEvent collection is thread-safe.
 
 ## See Also
 
 [PubSubEvent(Of TPayload) Class](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent)
+
+PubSubEvent(Of TPayload) Members
+
+[Subscribe Overload](/patterns-practices/reference/pubsubevent-tpayload-subscribe-method-mspp-pubsubevents)
 
 [PubSubEvent(Of TPayload) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.pubsubevent)
 
