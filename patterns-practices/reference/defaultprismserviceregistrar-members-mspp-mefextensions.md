@@ -4,10 +4,11 @@ Title: 'DefaultPrismServiceRegistrar Members (Microsoft.Practices.Prism.MefExten
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.DefaultPrismServiceRegistrar'
 ms:mtpsurl: 'defaultprismserviceregistrar-members-mspp-mefextensions.md'
 ---
-
+
+
 # DefaultPrismServiceRegistrar Members
 
-The [DefaultPrismServiceRegistrar](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.defaultprismserviceregistrar) type exposes the following members.
+The [DefaultPrismServiceRegistrar](/patterns-practices/reference/defaultprismserviceregistrar-class-mspp-mefextensions) type exposes the following members.
 
 ## Methods
 
@@ -24,7 +25,7 @@ The [DefaultPrismServiceRegistrar](https://msdn.microsoft.com/library/microsoft.
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.defaultprismserviceregistrar.registerrequiredprismservicesifmissing(system.componentmodel.composition.hosting.aggregatecatalog)">RegisterRequiredPrismServicesIfMissing</a></td>
+<td><a href="/patterns-practices/reference/defaultprismserviceregistrar-registerrequiredprismservicesifmissing-method-mspp-mefextensions">RegisterRequiredPrismServicesIfMissing</a></td>
 <td><div class="summary">
 Registers the required Prism types that are not already registered in the <a href="http://msdn.microsoft.com/en-us/library/dd833165">AggregateCatalog</a>.
 </div></td>
@@ -33,6 +34,7 @@ Registers the required Prism types that are not already registered in the <a hre
 </table>
 
 ## See Also
-[DefaultPrismServiceRegistrar Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.defaultprismserviceregistrar)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)
+[DefaultPrismServiceRegistrar Class](/patterns-practices/reference/defaultprismserviceregistrar-class-mspp-mefextensions)
+
+[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)
