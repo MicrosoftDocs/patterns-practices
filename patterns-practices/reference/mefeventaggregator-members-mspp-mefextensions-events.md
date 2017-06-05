@@ -4,16 +4,14 @@ Title: 'MefEventAggregator Members (Microsoft.Practices.Prism.MefExtensions.Even
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Events.MefEventAggregator'
 ms:mtpsurl: 'mefeventaggregator-members-mspp-mefextensions-events.md'
 ---
-
+
 # MefEventAggregator Members
 
-The [MefEventAggregator](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator) type exposes the following members.
+The [MefEventAggregator](/patterns-practices/reference/mefeventaggregator-class-mspp-mefextensions-events) type exposes the following members.
 
 ## Constructors
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,9 +22,9 @@ The [MefEventAggregator](https://msdn.microsoft.com/library/microsoft.practices.
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator.">MefEventAggregator</a></td>
+<td>MefEventAggregator</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator">MefEventAggregator</a> class
+Initializes a new instance of the <a href="/patterns-practices/reference/mefeventaggregator-class-mspp-mefextensions-events">MefEventAggregator</a> class
 </div></td>
 </tr>
 </tbody>
@@ -34,9 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -102,6 +98,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[MefEventAggregator Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator)
 
-[Microsoft.Practices.Prism.MefExtensions.Events Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.events)
+[MefEventAggregator Class](/patterns-practices/reference/mefeventaggregator-class-mspp-mefextensions-events)
+
+[Microsoft.Practices.Prism.MefExtensions.Events Namespace](/patterns-practices/reference/mspp-mefextensions-events-namespace)
