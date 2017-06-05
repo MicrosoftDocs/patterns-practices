@@ -4,7 +4,8 @@ Title: 'INotification Properties (Microsoft.Practices.Prism.Interactivity.Intera
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.INotification'
 ms:mtpsurl: 'inotification-properties-mspp-interactivity-interactionrequest.md'
 ---
-
+
+
 # INotification Properties
 
 The [INotification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification) type exposes the following members.
@@ -40,6 +41,7 @@ Gets or sets the title to use for the notification.
 </table>
 
 ## See Also
-[INotification Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification)
+
+[INotification Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification)
 
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
