@@ -32,14 +32,14 @@ Returns the contents associated with a region name.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.iregionviewregistry.registerviewwithregion(system.string%2csystem.func%7bsystem.object%7d)">RegisterViewWithRegion(String, Func&lt;(Of &lt;(Object&gt;)&gt;))</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.iregionviewregistry.registerviewwithregion">RegisterViewWithRegion(String, Func&lt;Object&gt;)</a></td>
 <td><div class="summary">
 Registers a delegate that can be used to retrieve the content associated with a region name.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.iregionviewregistry.registerviewwithregion(system.string%2csystem.type)">RegisterViewWithRegion(String, Type)</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.iregionviewregistry.registerviewwithregion">RegisterViewWithRegion(String, Type)</a></td>
 <td><div class="summary">
 Registers a content type with a region name.
 </div></td>
