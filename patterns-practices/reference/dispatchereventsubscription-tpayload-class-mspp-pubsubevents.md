@@ -32,7 +32,7 @@ The type to use for the generic [Action&lt;T&gt;](http://msdn.microsoft.com/en-u
 
 [Microsoft.Practices.Prism.PubSubEvents.EventSubscription](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)&lt;TPayload&gt;
 
-    Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscription&lt;TPayload&gt;
+Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscription&lt;TPayload&gt;
 
 ## See Also
 
@@ -69,7 +69,7 @@ The type to use for the generic [Action(Of T)](http://msdn.microsoft.com/en-us/l
 
 [Microsoft.Practices.Prism.PubSubEvents.EventSubscription](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)(Of TPayload)
 
-    Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscription(Of TPayload)
+Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscription(Of TPayload)
 
 ## See Also
 

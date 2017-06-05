@@ -10,6 +10,11 @@ ms:mtpsurl: 'delegatecommand-fromasynchandler-method-func-task-func-boolean-mspp
 ## Overload List
 
 <table>
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th> </th>
@@ -20,19 +25,17 @@ ms:mtpsurl: 'delegatecommand-fromasynchandler-method-func-task-func-boolean-mspp
 <tbody>
 <tr class="odd">
 <td>![Protected method](/images/protmethod.gif)![Static member](/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/en-us/library/dn736189(v=pandp.50)">	FromAsyncHandler(Func&lt;Task&gt;)</a></td>
+<td>[FromAsyncHandler(Func(Of Task))](/patterns-practices/reference/delegatecommand-fromasynchandler-method-func-task-mspp-commands)</td>
 
 <td><div class="summary">
-Factory method to create a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand">DelegateCommand</a> from an awaitable handler method.
+Factory method to create a new instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) from an awaitable handler method.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/images/protmethod.gif)![Static member](/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/en-us/library/dn736304(v=pandp.50)">	FromAsyncHandler(Func&lt;Task&gt;, Func&lt;Boolean&gt;)</a></td>
-
-
+<td>[FromAsyncHandler(Func(Of Task), Func(Of Boolean))](/patterns-practices/reference/delegatecommand-fromasynchandler-method-func-task-func-boolean-mspp-commands)</td>
 <td><div class="summary">
-Factory method to create a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand">DelegateCommand</a> from an awaitable handler method.
+Factory method to create a new instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) from an awaitable handler method.
 </div></td>
 </tr>
 </tbody>
@@ -40,8 +43,8 @@ Factory method to create a new instance of <a href="https://msdn.microsoft.com/l
 
 ## See Also
 
-[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
+[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)
 
 [DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
