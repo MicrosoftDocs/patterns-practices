@@ -4,32 +4,40 @@ Title: 'IRegionBehaviorCollection.ContainsKey Method (Microsoft.Practices.Prism.
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionBehaviorCollection.ContainsKey(System.String)'
 ms:mtpsurl: 'iregionbehaviorcollection-containskey-method-mspp-regions.md'
 ---
-
+
 # IRegionBehaviorCollection.ContainsKey Method
 
-Checks if a [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior) with the specified key is already present.
+Checks if a [IRegionBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior(v=pandp.38)) with the specified key is already present.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.38))
 
-**Version:** 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism (in Microsoft.Practices.Prism.dll)
 
 ## Syntax
-bool ContainsKey( string key )Function ContainsKey ( key As String ) As Boolean
+
+```C#
+bool ContainsKey(
+	string key
+)
+```
+
+```VB
+'Declaration
+Function ContainsKey ( _
+	key As String _
+) As Boolean
+```
 
 ### Parameters
 
 key  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-The key to use to find a particular [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior).
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)<br/>
+The key to use to find a particular [IRegionBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior(v=pandp.38)).
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
 ## See Also
-[IRegionBehaviorCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection)
 
-[IRegionBehaviorCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionbehaviorcollection)
+[IRegionBehaviorCollection Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehaviorcollection(v=pandp.38))
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.38))
