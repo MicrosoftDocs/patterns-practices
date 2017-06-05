@@ -40,7 +40,7 @@ The view to activate.
 ## See Also
 
 [Region Class](/patterns-practices/reference/region-class-mspp-regions)  
-[Region Members](ht/patterns-practices/reference/region-members-mspp-regions)  
+[Region Members](/patterns-practices/reference/region-members-mspp-regions)  
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
 
 
