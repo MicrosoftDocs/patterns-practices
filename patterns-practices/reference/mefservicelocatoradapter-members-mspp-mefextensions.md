@@ -90,7 +90,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>GetAllInstances``1()()()</td>
+<td>GetAllInstances``1()()</td>
 <td>(Inherited from ServiceLocatorImplBase.)</td>
 </tr>
 <tr class="odd">
@@ -113,7 +113,7 @@ Serves as a hash function for a particular type.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>GetInstance``1()()()</td>
+<td>GetInstance``1()</td>
 <td>(Inherited from ServiceLocatorImplBase.)</td>
 </tr>
 <tr class="odd">
