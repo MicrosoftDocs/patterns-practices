@@ -41,4 +41,4 @@ Public Sub Clear
 
 [ModuleInfoGroup Members](/patterns-practices/reference/moduleinfogroup-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace) 
