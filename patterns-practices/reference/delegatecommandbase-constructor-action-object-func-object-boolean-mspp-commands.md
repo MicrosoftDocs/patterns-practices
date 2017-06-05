@@ -4,32 +4,91 @@ Title: 'DelegateCommandBase Constructor (Action(Object), Func(Object, Boolean)) 
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommandBase.\#ctor(System.Action{System.Object},System.Func{System.Object,System.Boolean})'
 ms:mtpsurl: 'delegatecommandbase-constructor-action-object-func-object-boolean-mspp-commands.md'
 ---
-
-# DelegateCommandBase Constructor (Action&lt;(Of &lt;(Object&gt;)&gt;), Func&lt;(Of &lt;(Object, Boolean&gt;)&gt;))
 
-Creates a new instance of a [DelegateCommandBase](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase), specifying both the execute action and the can execute function.
+# DelegateCommandBase Constructor (Action&lt;Object&gt;, Func&lt;Object, Boolean&gt;)
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
+Creates a new instance of a [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands), specifying both the execute action and the can execute function.
+
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-protected DelegateCommandBase( Action&lt;Object&gt; executeMethod, Func&lt;Object, bool&gt; canExecuteMethod )Protected Sub New ( executeMethod As Action(Of Object), canExecuteMethod As Func(Of Object, Boolean) )
+
+```C#
+protected DelegateCommandBase(
+	Action<Object> executeMethod,
+	Func<Object, bool> canExecuteMethod
+)
+```
 
 ### Parameters
 
-executeMethod  
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
+*executeMethod* 
+
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;
+
 The [Action](http://msdn.microsoft.com/en-us/library/bb534741) to execute when [Execute(Object)](http://msdn.microsoft.com/en-us/library/ms604094) is invoked.
 
-canExecuteMethod  
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b), [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;)&gt;)
-The [Func&lt;(Of &lt;(T, TResult&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/bb549151) to invoked when [CanExecute(Object)](http://msdn.microsoft.com/en-us/library/ms604093) is invoked.
+*canExecuteMethod*  
+
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b), [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;
+
+The [Func&lt;T, TResult&gt;](http://msdn.microsoft.com/en-us/library/bb549151) to invoked when [CanExecute(Object)](http://msdn.microsoft.com/en-us/library/ms604093) is invoked.
 
 ## See Also
-[DelegateCommandBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)
 
-[DelegateCommandBase Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommandbase)
+[DelegateCommandBase Class](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)
 
-[DelegateCommandBase Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.commands.delegatecommandbase.)
+[DelegateCommandBase Members](/patterns-practices/reference/delegatecommandbase-members-mspp-commands)
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+DelegateCommandBase Overload
+
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
+
+
+# DelegateCommandBase Constructor (Action(Of Object), Func(Of Object, Boolean))
+
+Creates a new instance of a [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands), specifying both the execute action and the can execute function.
+
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
+
+**Version:** 1.0.0.0 (1.0.0.0)
+
+## Syntax
+
+```VB
+'Declaration
+Protected Sub New ( 
+	executeMethod As Action(Of Object),
+	canExecuteMethod As Func(Of Object, Boolean)
+)
+```
+
+### Parameters
+
+*executeMethod* 
+
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))
+
+The [Action](http://msdn.microsoft.com/en-us/library/bb534741) to execute when [Execute(Object)](http://msdn.microsoft.com/en-us/library/ms604094) is invoked.
+
+*canExecuteMethod*  
+
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b), [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50))
+
+The [Func(Of T, TResult)](http://msdn.microsoft.com/en-us/library/bb549151) to invoked when [CanExecute(Object)](http://msdn.microsoft.com/en-us/library/ms604093) is invoked.
+
+## See Also
+
+[DelegateCommandBase Class](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)
+
+[DelegateCommandBase Members](/patterns-practices/reference/delegatecommandbase-members-mspp-commands)
+
+DelegateCommandBase Overload
+
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

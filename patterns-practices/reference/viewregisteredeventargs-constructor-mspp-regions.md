@@ -4,32 +4,69 @@ Title: 'ViewRegisteredEventArgs Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs.\#ctor(System.String,System.Func{System.Object})'
 ms:mtpsurl: 'viewregisteredeventargs-constructor-mspp-regions.md'
 ---
-
+
 # ViewRegisteredEventArgs Constructor
 
 Initializes the ViewRegisteredEventArgs class.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public ViewRegisteredEventArgs( string regionName, Func&lt;Object&gt; getViewDelegate )Public Sub New ( regionName As String, getViewDelegate As Func(Of Object) )
+
+```C#
+public ViewRegisteredEventArgs(
+	string regionName,
+	Func<Object> getViewDelegate
+)
+```
 
 ### Parameters
 
-regionName  
+*regionName* 
+
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+
 The region name to which the content was registered.
 
-getViewDelegate  
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
+*getViewDelegate*  
+
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;
+
 The content which was registered.
 
+## Syntax
+
+```VB
+'Declaration
+Public Sub New ( 
+	regionName As String,
+	getViewDelegate As Func(Of Object)
+)
+```
+
+### Parameters
+
+*regionName* 
+
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+
+The region name to which the content was registered.
+
+*getViewDelegate*  
+
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))
+
+The content which was registered.
+
+
 ## See Also
-[ViewRegisteredEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs)
 
-[ViewRegisteredEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewregisteredeventargs)
+[ViewRegisteredEventArgs Class](/patterns-practices/reference/viewregisteredeventargs-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[ViewRegisteredEventArgs Members](/patterns-practices/reference/viewregisteredeventargs-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
