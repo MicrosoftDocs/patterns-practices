@@ -4,21 +4,23 @@ Title: 'DispatcherEventSubscription(TPayload) Properties (Microsoft.Practices.Pr
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Events.DispatcherEventSubscription\`1'
 ms:mtpsurl: 'dispatchereventsubscription-tpayload-properties-mspp-events.md'
 ---
-
-# DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Properties
 
-The [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601) type exposes the following members.
+
+# DispatcherEventSubscription&lt;TPayload&gt; Properties
+
+The [DispatcherEventSubscription&lt;TPayload&gt;](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events) type exposes the following members.
 
 ## Properties
 
 
 |                                                                                                  | Name              | Description                                                                                                                                                         |
 |--------------------------------------------------------------------------------------------------|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| ![Public property](/patterns-practices/reference/images/pubproperty.gif) | Action            | (Inherited from EventSubscription&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)&gt;)&gt;).) |
-| ![Public property](/patterns-practices/reference/images/pubproperty.gif) | Filter            | (Inherited from EventSubscription&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)&gt;)&gt;).) |
-| ![Public property](/patterns-practices/reference/images/pubproperty.gif) | SubscriptionToken | (Inherited from EventSubscription&lt;(Of &lt;([TPayload](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)&gt;)&gt;).) |
+| ![Public property](/patterns-practices/reference/images/pubproperty.gif) | Action            | (Inherited from EventSubscription&lt;[TPayload](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)&gt;.) |
+| ![Public property](/patterns-practices/reference/images/pubproperty.gif) | Filter            | (Inherited from EventSubscription&lt;[TPayload](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)&gt;.) |
+| ![Public property](/patterns-practices/reference/images/pubproperty.gif) | SubscriptionToken | (Inherited from EventSubscription&lt;[TPayload](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)&gt;.) |
 
 ## See Also
-[DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)
 
-[Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.events)
+[DispatcherEventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)
+
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)

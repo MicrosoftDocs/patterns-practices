@@ -4,7 +4,8 @@ Title: 'ServiceLocatorExtensions.TryResolve Method (Microsoft.Practices.Prism)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.ServiceLocatorExtensions.TryResolve'
 ms:mtpsurl: 'servicelocatorextensions-tryresolve-method-iservicelocator-type-mspp.md'
 ---
-
+
+
 # ServiceLocatorExtensions.TryResolve Method
 
 ## Overload List
@@ -22,14 +23,14 @@ ms:mtpsurl: 'servicelocatorextensions-tryresolve-method-iservicelocator-type-msp
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.servicelocatorextensions.tryresolve%60%601(microsoft.practices.servicelocation.iservicelocator)">TryResolve&lt;(Of &lt;(T&gt;)&gt;)(IServiceLocator)</a></td>
+<td><a href="/patterns-practices/reference/servicelocatorextensions-tryresolve-t-method-iservicelocator-mspp">TryResolve&lt;T&gt;(IServiceLocator) </a></td>
 <td><div class="summary">
 Attempts to resolve specified type from the underlying IServiceLocator.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.servicelocatorextensions.tryresolve(microsoft.practices.servicelocation.iservicelocator%2csystem.type)">TryResolve(IServiceLocator, Type)</a></td>
+<td><a href="/patterns-practices/reference/servicelocatorextensions-tryresolve-method-iservicelocator-type-mspp">TryResolve(IServiceLocator, Type)</a></td>
 <td><div class="summary">
 Attempts to resolve specified type from the underlying IServiceLocator.
 </div></td>
@@ -38,8 +39,9 @@ Attempts to resolve specified type from the underlying IServiceLocator.
 </table>
 
 ## See Also
-[ServiceLocatorExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.servicelocatorextensions)
 
-[ServiceLocatorExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.servicelocatorextensions)
+[ServiceLocatorExtensions Class](/patterns-practices/reference/servicelocatorextensions-class-mspp-regions)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[ServiceLocatorExtensions Members](/patterns-practices/reference/servicelocatorextensions-members-mspp-regions)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-regions-namespace)
