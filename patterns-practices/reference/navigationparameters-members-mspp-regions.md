@@ -25,7 +25,7 @@ The [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practice
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.">NavigationParameters()()()</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters">NavigationParameters()</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters">NavigationParameters</a> class.
 </div></td>
@@ -113,7 +113,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 <td><div class="summary">
 Converts the list of key value pairs to a query string.
 </div>
-(Overrides <a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">Object.ToString()()()</a>.)</td>
+(Overrides <a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">Object.ToString()</a>.)</td>
 </tr>
 </tbody>
 </table>

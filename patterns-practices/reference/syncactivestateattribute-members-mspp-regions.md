@@ -25,7 +25,7 @@ The [SyncActiveStateAttribute](https://msdn.microsoft.com/library/microsoft.prac
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute.">SyncActiveStateAttribute</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute">SyncActiveStateAttribute</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute">SyncActiveStateAttribute</a> class
 </div></td>

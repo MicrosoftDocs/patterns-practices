@@ -25,7 +25,7 @@ The [DefaultNotificationWindow](https://msdn.microsoft.com/library/microsoft.pra
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow.">DefaultNotificationWindow</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow">DefaultNotificationWindow</a></td>
 <td><div class="summary">
 Creates a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow">DefaultNotificationWindow</a>
 </div></td>
@@ -208,7 +208,7 @@ Begins the sequence of actions contained in the provided storyboard, with specif
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms598110">BringIntoView()()()</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms598110">BringIntoView()</a></td>
 <td><div class="summary">
 Attempts to bring this element into view, within any scrollable regions it is contained within.
 </div>
