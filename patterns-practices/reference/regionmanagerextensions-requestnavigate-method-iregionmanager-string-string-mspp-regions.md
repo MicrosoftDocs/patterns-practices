@@ -18,14 +18,14 @@ Navigates the specified region manager.
 
 ## Syntax
 
-~~~C#
+```C#
 public static void RequestNavigate(
 	this IRegionManager regionManager,
 	string regionName,
 	string source
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 <ExtensionAttribute> 
 Public Shared Sub RequestNavigate ( 
@@ -33,7 +33,7 @@ Public Shared Sub RequestNavigate (
 	regionName As String,
 	source As String
 )
-~~~
+```
 
 ### Parameters
 
@@ -59,6 +59,6 @@ In Visual Basic and C\#, you can call this method as an instance method on any o
 
 [RegionManagerExtensions Members](/patterns-practices/reference/regionmanagerextensions-members-mspp-regions)
 
-[RequestNavigate Overload](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-mspp-regions)
+[RequestNavigate Overload](/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-action-navigationresult-mspp-regions)
 
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
