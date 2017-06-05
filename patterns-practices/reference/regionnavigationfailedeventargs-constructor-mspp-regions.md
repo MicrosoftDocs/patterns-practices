@@ -4,7 +4,8 @@ Title: 'RegionNavigationFailedEventArgs Constructor (Microsoft.Practices.Prism.R
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.RegionNavigationFailedEventArgs.\#ctor'
 ms:mtpsurl: 'regionnavigationfailedeventargs-constructor-mspp-regions.md'
 ---
-
+
+
 # RegionNavigationFailedEventArgs Constructor
 
 ## Overload List
@@ -22,24 +23,27 @@ ms:mtpsurl: 'regionnavigationfailedeventargs-constructor-mspp-regions.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs.">RegionNavigationFailedEventArgs(NavigationContext)</a></td>
+<td>RegionNavigationFailedEventArgs(NavigationContext)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs">RegionNavigationEventArgs</a> class.
+Initializes a new instance of the <a href="/patterns-practices/reference/regionnavigationeventargs-class-mspp-regions
+">RegionNavigationEventArgs</a> class.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs.">RegionNavigationFailedEventArgs(NavigationContext, Exception)</a></td>
+<td>RegionNavigationFailedEventArgs(NavigationContext, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs">RegionNavigationFailedEventArgs</a> class.
+Initializes a new instance of the <a href="/patterns-practices/reference/regionnavigationfailedeventargs-class-mspp-regions
+">RegionNavigationFailedEventArgs</a> class.
 </div></td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[RegionNavigationFailedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs)
 
-[RegionNavigationFailedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationfailedeventargs)
+[RegionNavigationFailedEventArgs Class](/patterns-practices/reference/regionnavigationfailedeventargs-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionNavigationFailedEventArgs Members](/patterns-practices/reference/regionnavigationfailedeventargs-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
