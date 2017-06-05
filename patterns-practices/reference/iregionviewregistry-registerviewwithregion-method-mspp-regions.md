@@ -4,7 +4,8 @@ Title: 'IRegionViewRegistry.RegisterViewWithRegion Method (Microsoft.Practices.P
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.IRegionViewRegistry.RegisterViewWithRegion'
 ms:mtpsurl: 'iregionviewregistry-registerviewwithregion-method-mspp-regions.md'
 ---
-
+
+
 # IRegionViewRegistry.RegisterViewWithRegion Method
 
 ## Overload List
@@ -22,14 +23,16 @@ ms:mtpsurl: 'iregionviewregistry-registerviewwithregion-method-mspp-regions.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry.registerviewwithregion(system.string%2csystem.func%7bsystem.object%7d)">RegisterViewWithRegion(String, Func&lt;(Of &lt;(Object&gt;)&gt;))</a></td>
+<td><a href="/patterns-practices/reference/iregionviewregistry-registerviewwithregion-method-string-func-object-mspp-regions
+">RegisterViewWithRegion(String, Func(Of Object))</a></td>
 <td><div class="summary">
 Registers a delegate that can be used to retrieve the content associated with a region name.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry.registerviewwithregion(system.string%2csystem.type)">RegisterViewWithRegion(String, Type)</a></td>
+<td><a href="/patterns-practices/reference/iregionviewregistry-registerviewwithregion-method-string-type-mspp-regions
+)">RegisterViewWithRegion(String, Type)</a></td>
 <td><div class="summary">
 Registers a content type with a region name.
 </div></td>
@@ -38,8 +41,9 @@ Registers a content type with a region name.
 </table>
 
 ## See Also
-[IRegionViewRegistry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry)
 
-[IRegionViewRegistry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionviewregistry)
+[IRegionViewRegistry Interface](/patterns-practices/reference/iregionviewregistry-interface-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[IRegionViewRegistry Members](/patterns-practices/reference/iregionviewregistry-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
