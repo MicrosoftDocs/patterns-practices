@@ -4,16 +4,14 @@ Title: 'Microsoft.Practices.Prism.UnityExtensions Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.UnityExtensions'
 ms:mtpsurl: 'mspp-unityextensions-namespace.md'
 ---
-
-# Microsoft.Practices.Prism.UnityExtensions Namespace
 
- 
+
+# Microsoft.Practices.Prism.UnityExtensions Namespace
 
 ## Classes
 
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
