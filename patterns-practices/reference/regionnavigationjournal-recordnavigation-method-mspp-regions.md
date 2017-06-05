@@ -4,32 +4,43 @@ Title: 'RegionNavigationJournal.RecordNavigation Method (Microsoft.Practices.Pri
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationJournal.RecordNavigation(Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry)'
 ms:mtpsurl: 'regionnavigationjournal-recordnavigation-method-mspp-regions.md'
 ---
-
 # RegionNavigationJournal.RecordNavigation Method
 
 Records the navigation to the entry..
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public void RecordNavigation( IRegionNavigationJournalEntry entry )Public Sub RecordNavigation ( entry As IRegionNavigationJournalEntry )
+```C#
+public void RecordNavigation(
+	IRegionNavigationJournalEntry entry
+)
+```
+
+```VB
+'Declaration
+Public Sub RecordNavigation ( 
+	entry As IRegionNavigationJournalEntry
+)
+```
 
 ### Parameters
 
-entry  
-Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry)
+*entry*  
+Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry](/patterns-practices/reference/iregionnavigationjournalentry-interface-mspp-regions)  
 The entry to record.
 
 ### Implements
 
-[IRegionNavigationJournal.RecordNavigation(IRegionNavigationJournalEntry)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal.recordnavigation(microsoft.practices.prism.regions.iregionnavigationjournalentry))
+[IRegionNavigationJournal.RecordNavigation(IRegionNavigationJournalEntry)](/patterns-practices/reference/iregionnavigationjournal-recordnavigation-method-mspp-regions)
 
 ## See Also
-[RegionNavigationJournal Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal)
 
-[RegionNavigationJournal Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationjournal)
+[RegionNavigationJournal Class](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions)  
+[RegionNavigationJournal Members](/patterns-practices/reference/regionnavigationjournal-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+
