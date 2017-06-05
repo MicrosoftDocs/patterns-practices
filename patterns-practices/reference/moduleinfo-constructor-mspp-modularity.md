@@ -4,7 +4,8 @@ Title: 'ModuleInfo Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleInfo.\#ctor'
 ms:mtpsurl: 'moduleinfo-constructor-mspp-modularity.md'
 ---
-
+
+
 # ModuleInfo Constructor
 
 ## Overload List
@@ -22,31 +23,32 @@ ms:mtpsurl: 'moduleinfo-constructor-mspp-modularity.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.">ModuleInfo()()()</a></td>
+<td>ModuleInfo</td>
 <td><div class="summary">
-Initializes a new empty instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a>.
+Initializes a new empty instance of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.">ModuleInfo(String, String)</a></td>
+<td>ModuleInfo(String, String)</td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a>.
+Initializes a new instance of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.">ModuleInfo(String, String, array&lt;String&gt;)</a></td>
+<td>ModuleInfo(String, String, String())</td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a>.
+Initializes a new instance of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>.
 </div></td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[ModuleInfo Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
 
-[ModuleInfo Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfo)
+[ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleInfo Members](/patterns-practices/reference/moduleinfo-members-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
