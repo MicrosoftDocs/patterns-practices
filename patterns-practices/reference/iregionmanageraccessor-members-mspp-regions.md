@@ -8,7 +8,7 @@ ms:mtpsurl: 'iregionmanageraccessor-members-mspp-regions.md'
 
 # IRegionManagerAccessor Members
 
-The [IRegionManagerAccessor](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor) type exposes the following members.
+The [IRegionManagerAccessor](/patterns-practices/reference/iregionmanageraccessor-interface-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -25,14 +25,14 @@ The [IRegionManagerAccessor](https://msdn.microsoft.com/library/microsoft.practi
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor.getregionmanager(system.windows.dependencyobject)">GetRegionManager</a></td>
+<td>[GetRegionManager](/patterns-practices/reference/iregionmanageraccessor-getregionmanager-method-mspp-regions)</td>
 <td><div class="summary">
 Gets the value of the RegionName attached property.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor.getregionname(system.windows.dependencyobject)">GetRegionName</a></td>
+<td>[GetRegionName](/patterns-practices/reference/iregionmanageraccessor-getregionname-method-mspp-regions)</td>
 <td><div class="summary">
 Gets the value for the RegionName attached property.
 </div></td>
@@ -55,7 +55,7 @@ Gets the value for the RegionName attached property.
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor.updatingregions">UpdatingRegions</a></td>
+<td>[UpdatingRegions](/patterns-practices/reference/iregionmanageraccessor-updatingregions-event-mspp-regions)</td>
 <td><div class="summary">
 Notification used by attached behaviors to update the region managers appropriatelly if needed to.
 </div></td>
@@ -65,6 +65,6 @@ Notification used by attached behaviors to update the region managers appropriat
 
 ## See Also
 
-[IRegionManagerAccessor Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor)
+[IRegionManagerAccessor Interface](/patterns-practices/reference/iregionmanageraccessor-interface-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
