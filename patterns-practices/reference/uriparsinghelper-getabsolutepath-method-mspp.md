@@ -4,23 +4,35 @@ Title: 'UriParsingHelper.GetAbsolutePath Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UriParsingHelper.GetAbsolutePath(System.Uri)'
 ms:mtpsurl: 'uriparsinghelper-getabsolutepath-method-mspp.md'
 ---
-
+
+
 # UriParsingHelper.GetAbsolutePath Method
 
-Gets the AbsolutePath part of uri.
+Gets the AbsolutePath part of *uri*.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public static string GetAbsolutePath( Uri uri )Public Shared Function GetAbsolutePath ( uri As Uri ) As String
+```C#
+public static string GetAbsolutePath(
+	Uri uri
+)
+```
+```VB
+'Declaration
+Public Shared Function GetAbsolutePath ( 
+	uri As Uri
+) As String
+```
 
 ### Parameters
 
-uri  
-Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
+*uri*  
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)   
 The Uri.
 
 ### Return Value
@@ -28,8 +40,9 @@ The Uri.
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ## See Also
-[UriParsingHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper)
 
-[UriParsingHelper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.uriparsinghelper)
+[UriParsingHelper Class](/patterns-practices/reference/uriparsinghelper-class-mspp)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[UriParsingHelper Members](/patterns-practices/reference/uriparsinghelper-members-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

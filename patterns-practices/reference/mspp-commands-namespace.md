@@ -4,7 +4,8 @@ Title: 'Microsoft.Practices.Prism.Commands Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.Commands'
 ms:mtpsurl: 'mspp-commands-namespace.md'
 ---
-
+
+
 # Microsoft.Practices.Prism.Commands Namespace
 
  
@@ -24,35 +25,35 @@ ms:mtpsurl: 'mspp-commands-namespace.md'
 <tbody>
 <tr class="odd">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand">CompositeCommand</a></td>
+<td><a href="/patterns-practices/reference/compositecommand-class-mspp-commands">CompositeCommand</a></td>
 <td><div class="summary">
 The CompositeCommand composes one or more ICommands.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand">DelegateCommand</a></td>
+<td><a href="/patterns-practices/reference/delegatecommand-class-mspp-commands">DelegateCommand</a></td>
 <td><div class="summary">
-An <a href="http://msdn.microsoft.com/en-us/library/ms616869">ICommand</a> whose delegates do not take any parameters for <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand.execute">Execute()()()</a> and <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand.canexecute">CanExecute()()()</a>.
+An <a href="http://msdn.microsoft.com/en-us/library/ms616869">ICommand</a> whose delegates do not take any parameters for <a href="/patterns-practices/reference/delegatecommand-execute-method-mspp-commands">Execute</a> and <a href="/patterns-practices/reference/delegatecommand-canexecute-method-mspp-commands">CanExecute</a>.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601">DelegateCommand&lt;(Of &lt;(T&gt;)&gt;)</a></td>
+<td><a href="/patterns-practices/reference/delegatecommand-t-class-mspp-commands">DelegateCommand(Of T)</a></td>
 <td><div class="summary">
-An <a href="http://msdn.microsoft.com/en-us/library/ms616869">ICommand</a> whose delegates can be attached for <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601.execute(%600)">Execute(T)</a> and <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand%601.canexecute(%600)">CanExecute(T)</a>.
+An <a href="http://msdn.microsoft.com/en-us/library/ms616869">ICommand</a> whose delegates can be attached for <a href="/patterns-practices/reference/delegatecommand-t-execute-method-t-mspp-commands">Execute(T)</a> and <a href="/patterns-practices/reference/delegatecommand-t-canexecute-method-t-mspp-commands">CanExecute(T)</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase">DelegateCommandBase</a></td>
+<td><a href="/patterns-practices/reference/delegatecommandbase-class-mspp-commands">DelegateCommandBase</a></td>
 <td><div class="summary">
-An <a href="http://msdn.microsoft.com/en-us/library/ms616869">ICommand</a> whose delegates can be attached for <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase.execute(system.object)">Execute(Object)</a> and <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase.canexecute(system.object)">CanExecute(Object)</a>.
+An <a href="http://msdn.microsoft.com/en-us/library/ms616869">ICommand</a> whose delegates can be attached for <a href="/patterns-practices/reference/delegatecommandbase-execute-method-mspp-commands">Execute(Object)</a> and <a href="/patterns-practices/reference/delegatecommandbase-canexecute-method-mspp-commands">CanExecute(Object)</a>.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager">WeakEventHandlerManager</a></td>
+<td><a href="/patterns-practices/reference/weakeventhandlermanager-class-mspp-commands">WeakEventHandlerManager</a></td>
 <td><div class="summary">
 Handles management and dispatching of EventHandlers in a weak way.
 </div></td>
