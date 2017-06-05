@@ -4,42 +4,55 @@ Title: 'Region.Add Method (Object, String) (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Region.Add(System.Object,System.String)'
 ms:mtpsurl: 'region-add-method-mspp-regions.md'
 ---
-
+
+
 # Region.Add Method (Object, String)
 
 Adds a new view to the region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public IRegionManager Add( Object view, string viewName )Public Function Add ( view As Object, viewName As String ) As IRegionManager
+
+```C#
+public IRegionManager Add(
+	Object view,
+	string viewName
+)
+```
+
+```VB
+'Declaration
+Public Function Add ( 
+	view As Object,
+	viewName As String
+) As IRegionManager
+```
 
 ### Parameters
 
-view  
-Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+*view*  
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 The view to add.
 
-viewName  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-The name of the view. This can be used to retrieve it later by calling [GetView(String)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.getview(system.string)).
+*viewName*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
+The name of the view. This can be used to retrieve it later by calling [GetView(String)](/patterns-practices/reference/iregion-getview-method-mspp-regions).
 
 ### Return Value
 
-Type: [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager)
-The [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager) that is set on the view if it is a [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309). It will be the current region manager when using this overload.
+Type: [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
+The [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) that is set on the view if it is a [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309). It will be the current region manager when using this overload.
 ### Implements
 
-[IRegion.Add(Object, String)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.add(system.object%2csystem.string))
+[IRegion.Add(Object, String)](/patterns-practices/reference/iregion-add-method-object-string-mspp-regions)
 
 ## See Also
-[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 
-[Region Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.region)
-
-[Add Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.regions.region.add)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Region Class](/patterns-practices/reference/region-class-mspp-regions)  
+[Region Members](/patterns-practices/reference/region-members-mspp-regions)  
+[Add Overload](/patterns-practices/reference/region-add-method-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

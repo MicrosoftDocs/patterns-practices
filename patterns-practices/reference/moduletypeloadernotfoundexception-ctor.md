@@ -4,7 +4,8 @@ Title: 'ModuleTypeLoaderNotFoundException Constructor (Microsoft.Practices.Prism
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException.\#ctor'
 ms:mtpsurl: 'moduletypeloadernotfoundexception-constructor-mspp-modularity.md'
 ---
-
+
+
 # ModuleTypeLoaderNotFoundException Constructor
 
 ## Overload List
@@ -22,35 +23,37 @@ ms:mtpsurl: 'moduletypeloadernotfoundexception-constructor-mspp-modularity.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception.">ModuleTypeLoaderNotFoundException()()()</a></td>
+<td>ModuleTypeLoaderNotFoundException</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception">ModuleTypeLoaderNotFoundException</a> class.
+Initializes a new instance of the <a href="/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity
+">ModuleTypeLoaderNotFoundException</a> class.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception.">ModuleTypeLoaderNotFoundException(String)</a></td>
+<td>ModuleTypeLoaderNotFoundException(String)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception">ModuleTypeLoaderNotFoundException</a> class with a specified error message.
+Initializes a new instance of the <a href="/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity
+">ModuleTypeLoaderNotFoundException</a> class with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception.">ModuleTypeLoaderNotFoundException(SerializationInfo, StreamingContext)</a></td>
+<td>ModuleTypeLoaderNotFoundException(SerializationInfo, StreamingContext)</td>
 <td><div class="summary">
 Initializes a new instance with serialized data.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception.">ModuleTypeLoaderNotFoundException(String, Exception)</a></td>
+<td>ModuleTypeLoaderNotFoundException(String, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception">ModuleTypeLoaderNotFoundException</a> class with a specified error message.
+Initializes a new instance of the <a href="/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity">ModuleTypeLoaderNotFoundException</a> class with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception.">ModuleTypeLoaderNotFoundException(String, String, Exception)</a></td>
+<td>ModuleTypeLoaderNotFoundException(String, String, Exception)</td>
 <td><div class="summary">
 Initializes the exception with a particular module, error message and inner exception that happened.
 </div></td>
@@ -59,8 +62,9 @@ Initializes the exception with a particular module, error message and inner exce
 </table>
 
 ## See Also
-[ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
 
-[ModuleTypeLoaderNotFoundException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
+[ModuleTypeLoaderNotFoundException Class](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleTypeLoaderNotFoundException Members](/patterns-practices/reference/moduletypeloadernotfoundexception-members-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

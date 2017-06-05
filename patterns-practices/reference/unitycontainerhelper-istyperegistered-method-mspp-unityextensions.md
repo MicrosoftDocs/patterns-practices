@@ -4,32 +4,47 @@ Title: 'UnityContainerHelper.IsTypeRegistered Method (Microsoft.Practices.Prism.
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityContainerHelper.IsTypeRegistered(Microsoft.Practices.Unity.IUnityContainer,System.Type)'
 ms:mtpsurl: 'unitycontainerhelper-istyperegistered-method-mspp-unityextensions.md'
 ---
-
+
+
 # UnityContainerHelper.IsTypeRegistered Method
 
 Returns whether a specified type has a type mapping registered in the container.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](/patterns-practices/reference/mspp-unityextensions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public static bool IsTypeRegistered( this IUnityContainer container, Type type )&lt;ExtensionAttribute&gt; Public Shared Function IsTypeRegistered ( container As IUnityContainer, type As Type ) As Boolean
+```C#
+public static bool IsTypeRegistered(
+	this IUnityContainer container,
+	Type type
+)
+```
+```VB
+'Declaration
+<ExtensionAttribute> 
+Public Shared Function IsTypeRegistered ( 
+	container As IUnityContainer,
+	type As Type
+) As Boolean
+```
 
 ### Parameters
 
-container  
-Type: IUnityContainer
+*container*  
+Type: IUnityContainer   
 The IUnityContainer to check for the type mapping.
 
-type  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
+*type*  
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)   
 The type to check if there is a type mapping for.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)   
 trueTruetruetrue (True in Visual Basic) if there is a type mapping registered for type.
 ### Usage Note
 
@@ -37,11 +52,12 @@ In Visual Basic and C\#, you can call this method as an instance method on any o
 
 ## Remarks
 
-In order to use this extension method, you first need to add the IUnityContainer extension to the [UnityBootstrapperExtension](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapperextension).
+In order to use this extension method, you first need to add the IUnityContainer extension to the [UnityBootstrapperExtension](/patterns-practices/reference/unitybootstrapperextension-class-mspp-unityextensions).
 
 ## See Also
-[UnityContainerHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper)
 
-[UnityContainerHelper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitycontainerhelper)
+[UnityContainerHelper Class](/patterns-practices/reference/unitycontainerhelper-class-mspp-unityextensions)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+[UnityContainerHelper Members](/patterns-practices/reference/unitycontainerhelper-members-mspp-unityextensions)
+
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)

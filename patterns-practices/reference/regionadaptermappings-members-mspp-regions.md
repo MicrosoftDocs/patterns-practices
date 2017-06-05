@@ -8,7 +8,7 @@ ms:mtpsurl: 'regionadaptermappings-members-mspp-regions.md'
 
 # RegionAdapterMappings Members
 
-The [RegionAdapterMappings](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings) type exposes the following members.
+The [RegionAdapterMappings](/patterns-practices/reference/mspp-regions-namespace.regionadaptermappings) type exposes the following members.
 
 ## Constructors
 
@@ -25,9 +25,9 @@ The [RegionAdapterMappings](https://msdn.microsoft.com/library/microsoft.practic
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings.">RegionAdapterMappings</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionadaptermappings.">RegionAdapterMappings</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings">RegionAdapterMappings</a> class
+Initializes a new instance of the <a href="/patterns-practices/reference/mspp-regions-namespace.regionadaptermappings">RegionAdapterMappings</a> class
 </div></td>
 </tr>
 </tbody>
@@ -72,7 +72,7 @@ Serves as a hash function for a particular type.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings.getmapping(system.type)">GetMapping</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionadaptermappings.getmapping(system.type)">GetMapping</a></td>
 <td><div class="summary">
 Returns the adapter associated with the type provided.
 </div></td>
@@ -95,7 +95,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings.registermapping(system.type%2cmicrosoft.practices.prism.regions.iregionadapter)">RegisterMapping</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionadaptermappings.registermapping(system.type%2cmicrosoft.practices.prism.regions.iregionadapter)">RegisterMapping</a></td>
 <td><div class="summary">
 Registers the mapping between a type and an adapter.
 </div></td>
@@ -113,6 +113,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[RegionAdapterMappings Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings)
+[RegionAdapterMappings Class](/patterns-practices/reference/mspp-regions-namespace.regionadaptermappings)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

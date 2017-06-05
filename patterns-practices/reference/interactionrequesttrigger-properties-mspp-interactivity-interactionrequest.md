@@ -139,7 +139,7 @@ EventName
 <td>
 Source
 </td>
-<td> (Inherited from EventTriggerBase<span>&lt;<a href="http://msdn.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a><span>&gt;.)</td>
+<td> (Inherited from EventTriggerBase&lt;<a href="http://msdn.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>&gt;.)</td>
 </tr>
 <tr>
 <td>

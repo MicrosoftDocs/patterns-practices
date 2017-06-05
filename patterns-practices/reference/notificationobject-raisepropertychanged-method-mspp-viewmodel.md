@@ -4,7 +4,8 @@ Title: 'NotificationObject.RaisePropertyChanged Method (Microsoft.Practices.Pris
 ms:assetid: 'Overload:Microsoft.Practices.Prism.ViewModel.NotificationObject.RaisePropertyChanged'
 ms:mtpsurl: 'notificationobject-raisepropertychanged-method-mspp-viewmodel.md'
 ---
-
+
+
 # NotificationObject.RaisePropertyChanged Method
 
 ## Overload List
@@ -22,21 +23,21 @@ ms:mtpsurl: 'notificationobject-raisepropertychanged-method-mspp-viewmodel.md'
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged%60%601(system.linq.expressions.expression%7bsystem.func%7b%60%600%7d%7d)">RaisePropertyChanged&lt;(Of &lt;(T&gt;)&gt;)(Expression&lt;(Of &lt;(Func&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;))</a></td>
+<td><a href="/patterns-practices/reference/notificationobject-raisepropertychanged-t-method-expression-func-t-mspp-viewmodel">RaisePropertyChanged&lt;T&gt;(Expression&lt;Func&lt;T&gt;&gt;) </a></td>
 <td><div class="summary">
 Raises this object's PropertyChanged event.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged(system.string)">RaisePropertyChanged(String)</a></td>
+<td><a href="/patterns-practices/reference/notificationobject-raisepropertychanged-method-string-mspp-viewmodel">RaisePropertyChanged(String)</a></td>
 <td><div class="summary">
 Raises this object's PropertyChanged event.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged(system.string%5b%5d)">RaisePropertyChanged(array&lt;String&gt;)</a></td>
+<td><a href="/patterns-practices/reference/raisepropertychanged-mthd-str">RaisePropertyChanged(String[])</a></td>
 <td><div class="summary">
 Raises this object's PropertyChanged event for each of the properties.
 </div></td>
@@ -45,8 +46,9 @@ Raises this object's PropertyChanged event for each of the properties.
 </table>
 
 ## See Also
-[NotificationObject Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject)
 
-[NotificationObject Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.viewmodel.notificationobject)
+[NotificationObject Class](/patterns-practices/reference/notificationobject-class-mspp-regions)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
+[NotificationObject Members](/patterns-practices/reference/notificationobject-members-mspp-regions)
+
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)

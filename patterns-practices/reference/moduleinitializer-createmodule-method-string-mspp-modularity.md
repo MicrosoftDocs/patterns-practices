@@ -4,35 +4,51 @@ Title: 'ModuleInitializer.CreateModule Method (String) (Microsoft.Practices.Pris
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializer.CreateModule(System.String)'
 ms:mtpsurl: 'moduleinitializer-createmodule-method-moduleinfo-mspp-modularity.md'
 ---
-
+
+
 # ModuleInitializer.CreateModule Method (String)
 
-Uses the container to resolve a new [IModule](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule) by specifying its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
+Uses the container to resolve a new [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity) by specifying its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-protected virtual IModule CreateModule( string typeName )Protected Overridable Function CreateModule ( typeName As String ) As IModule
+
+```C#
+protected virtual IModule CreateModule(
+	string typeName
+)
+```
+
+```VB
+'Declaration
+Protected Overridable Function CreateModule ( 
+	typeName As String
+) As IModule
+```
 
 ### Parameters
 
-typeName  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-The type name to resolve. This type must implement [IModule](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule).
+*typeName*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
+The type name to resolve. This type must implement [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity
+).
 
 ### Return Value
 
-Type: [IModule](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule)
-A new instance of typeName.
+Type: [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity)  
+A new instance of *typeName*.
 
 ## See Also
-[ModuleInitializer Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer)
 
-[ModuleInitializer Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinitializer)
+[ModuleInitializer Class](/patterns-practices/reference/moduleinitializer-class-mspp-modularity)
 
-[CreateModule Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.moduleinitializer.createmodule)
+[ModuleInitializer Members](/patterns-practices/reference/moduleinitializer-members-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[CreateModule Overload](/patterns-practices/reference/moduleinitializer-createmodule-method-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

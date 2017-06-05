@@ -8,7 +8,7 @@ ms:mtpsurl: 'itemscontrolregionadapter-members-mspp-regions.md'
 
 # ItemsControlRegionAdapter Members
 
-The [ItemsControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter) type exposes the following members.
+The [ItemsControlRegionAdapter](/patterns-practices/reference/mspp-regions-namespace.itemscontrolregionadapter) type exposes the following members.
 
 ## Constructors
 
@@ -25,9 +25,9 @@ The [ItemsControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.pra
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter.">ItemsControlRegionAdapter</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.itemscontrolregionadapter.">ItemsControlRegionAdapter</a></td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter">ItemsControlRegionAdapter</a>.
+Initializes a new instance of <a href="/patterns-practices/reference/mspp-regions-namespace.itemscontrolregionadapter">ItemsControlRegionAdapter</a>.
 </div></td>
 </tr>
 </tbody>
@@ -48,35 +48,35 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter.adapt(microsoft.practices.prism.regions.iregion%2csystem.windows.controls.itemscontrol)">Adapt</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.itemscontrolregionadapter.adapt(microsoft.practices.prism.regions.iregion%2csystem.windows.controls.itemscontrol)">Adapt</a></td>
 <td><div class="summary">
-Adapts an <a href="http://msdn.microsoft.com/en-us/library/ms611045">ItemsControl</a> to an <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion">IRegion</a>.
+Adapts an <a href="http://msdn.microsoft.com/en-us/library/ms611045">ItemsControl</a> to an <a href="/patterns-practices/reference/mspp-regions-namespace.iregion">IRegion</a>.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.adapt(microsoft.practices.prism.regions.iregion%2c%600)">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;).Adapt(IRegion, T)</a>.)</td>
+(Overrides <a href="/patterns-practices/reference/mspp-regions-namespace.regionadapterbase.adapt(microsoft.practices.prism.regions.iregion)">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;).Adapt(IRegion, T)</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.attachbehaviors(microsoft.practices.prism.regions.iregion%2c%600)">AttachBehaviors</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionadapterbase.attachbehaviors(microsoft.practices.prism.regions.iregion)">AttachBehaviors</a></td>
 <td><div class="summary">
 Template method to attach new behaviors.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/mspp-regions-namespace.regionadapterbase">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.attachdefaultbehaviors(microsoft.practices.prism.regions.iregion%2c%600)">AttachDefaultBehaviors</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionadapterbase.attachdefaultbehaviors(microsoft.practices.prism.regions.iregion)">AttachDefaultBehaviors</a></td>
 <td><div class="summary">
-This method adds the default behaviors by using the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory">IRegionBehaviorFactory</a> object.
+This method adds the default behaviors by using the <a href="/patterns-practices/reference/mspp-regions-namespace.iregionbehaviorfactory">IRegionBehaviorFactory</a> object.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/mspp-regions-namespace.regionadapterbase">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter.createregion">CreateRegion</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.itemscontrolregionadapter.createregion">CreateRegion</a></td>
 <td><div class="summary">
-Creates a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.allactiveregion">AllActiveRegion</a>.
+Creates a new instance of <a href="/patterns-practices/reference/mspp-regions-namespace.allactiveregion">AllActiveRegion</a>.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.createregion">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;).CreateRegion()()()</a>.)</td>
+(Overrides <a href="/patterns-practices/reference/mspp-regions-namespace.regionadapterbase.createregion">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;).CreateRegion()()()</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -112,11 +112,11 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.initialize(%600%2csystem.string)">Initialize</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionadapterbase.initialize(%600%2csystem.string)">Initialize</a></td>
 <td><div class="summary">
-Adapts an object and binds it to a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion">IRegion</a>.
+Adapts an object and binds it to a new <a href="/patterns-practices/reference/mspp-regions-namespace.iregion">IRegion</a>.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/mspp-regions-namespace.regionadapterbase">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -152,17 +152,17 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.regionbehaviorfactory">RegionBehaviorFactory</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionadapterbase.regionbehaviorfactory">RegionBehaviorFactory</a></td>
 <td><div class="summary">
 Gets or sets the factory used to create the region behaviors to attach to the created regions.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/mspp-regions-namespace.regionadapterbase">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[ItemsControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemscontrolregionadapter)
+[ItemsControlRegionAdapter Class](/patterns-practices/reference/mspp-regions-namespace.itemscontrolregionadapter)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

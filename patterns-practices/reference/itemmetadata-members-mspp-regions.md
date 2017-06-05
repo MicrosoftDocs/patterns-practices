@@ -8,7 +8,7 @@ ms:mtpsurl: 'itemmetadata-members-mspp-regions.md'
 
 # ItemMetadata Members
 
-The [ItemMetadata](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata) type exposes the following members.
+The [ItemMetadata](/patterns-practices/reference/mspp-regions-namespace.itemmetadata) type exposes the following members.
 
 ## Constructors
 
@@ -25,9 +25,9 @@ The [ItemMetadata](https://msdn.microsoft.com/library/microsoft.practices.prism.
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.">ItemMetadata</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.itemmetadata.">ItemMetadata</a></td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata">ItemMetadata</a>.
+Initializes a new instance of <a href="/patterns-practices/reference/mspp-regions-namespace.itemmetadata">ItemMetadata</a>.
 </div></td>
 </tr>
 </tbody>
@@ -136,9 +136,9 @@ Re-evaluates the effective value for the specified dependency property
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.invokemetadatachanged">InvokeMetadataChanged</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.itemmetadata.invokemetadatachanged">InvokeMetadataChanged</a></td>
 <td><div class="summary">
-Explicitly invokes <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.metadatachanged">MetadataChanged</a> to notify listeners.
+Explicitly invokes <a href="/patterns-practices/reference/mspp-regions-namespace.itemmetadata.metadatachanged">MetadataChanged</a> to notify listeners.
 </div></td>
 </tr>
 <tr class="odd">
@@ -231,14 +231,14 @@ Enforces that the calling thread has access to this <a href="http://msdn.microso
 <tbody>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.isactiveproperty">IsActiveProperty</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.itemmetadata.isactiveproperty">IsActiveProperty</a></td>
 <td><div class="summary">
 Value indicating whether the wrapped item is considered active.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.nameproperty">NameProperty</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.itemmetadata.nameproperty">NameProperty</a></td>
 <td><div class="summary">
 The name of the wrapped item.
 </div></td>
@@ -277,7 +277,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/ms615907">Dispatcher</
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.isactive">IsActive</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.itemmetadata.isactive">IsActive</a></td>
 <td><div class="summary">
 Gets or sets a value indicating whether the wrapped item is considered active.
 </div></td>
@@ -292,14 +292,14 @@ Gets a value that indicates whether this instance is currently sealed (read-only
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.item">Item</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.itemmetadata.item">Item</a></td>
 <td><div class="summary">
 Gets the wrapped item.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.name">Name</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.itemmetadata.name">Name</a></td>
 <td><div class="summary">
 Gets or sets a name for the wrapped item.
 </div></td>
@@ -322,7 +322,7 @@ Gets or sets a name for the wrapped item.
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.metadatachanged">MetadataChanged</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.itemmetadata.metadatachanged">MetadataChanged</a></td>
 <td><div class="summary">
 Occurs when metadata on the item changes.
 </div></td>
@@ -332,6 +332,6 @@ Occurs when metadata on the item changes.
 
 ## See Also
 
-[ItemMetadata Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)
+[ItemMetadata Class](/patterns-practices/reference/mspp-regions-namespace.itemmetadata)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

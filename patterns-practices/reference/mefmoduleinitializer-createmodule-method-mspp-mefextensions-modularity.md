@@ -22,27 +22,27 @@ ms:mtpsurl: 'mefmoduleinitializer-createmodule-method-moduleinfo-mspp-mefextensi
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer.createmodule(system.string)">CreateModule(String)</a></td>
+<td><a href="/patterns-practices/reference/moduleinitializer-createmodule-method-string-mspp-modularity">CreateModule(String)</a></td>
 <td><div class="summary">
-Uses the container to resolve a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule">IModule</a> by specifying its <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a>.
+Uses the container to resolve a new <a href="/patterns-practices/reference/imodule-interface-mspp-modularity">IModule</a> by specifying its <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a>.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer">ModuleInitializer</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/moduleinitializer-class-mspp-modularity">ModuleInitializer</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer.createmodule(microsoft.practices.prism.modularity.moduleinfo)">CreateModule(ModuleInfo)</a></td>
+<td><a href="/patterns-practices/reference/mefmoduleinitializer-createmodule-method-moduleinfo-mspp-mefextensions-modularity">CreateModule(ModuleInfo)</a></td>
 <td><div class="summary">
-Uses the container to resolve a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule">IModule</a> by specifying its <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a>.
+Uses the container to resolve a new <a href="/patterns-practices/reference/imodule-interface-mspp-modularity">IModule</a> by specifying its <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a>.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer.createmodule(microsoft.practices.prism.modularity.moduleinfo)">ModuleInitializer.CreateModule(ModuleInfo)</a>.)</td>
+(Overrides <a href="/patterns-practices/reference/moduleinitializer-createmodule-method-moduleinfo-mspp-modularity">ModuleInitializer.CreateModule(ModuleInfo)</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[MefModuleInitializer Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer)
+[MefModuleInitializer Class](/patterns-practices/reference/mefmoduleinitializer-class-mspp-mefextensions-modularity)
 
-[MefModuleInitializer Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.modularity.mefmoduleinitializer)
+[MefModuleInitializer Members](/patterns-practices/reference/mefmoduleinitializer-members-mspp-mefextensions-modularity)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)

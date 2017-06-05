@@ -26,7 +26,7 @@ The [RegionBehaviorCollection](https://msdn.microsoft.com/en-us/library/microsof
 <td>RegionBehaviorCollection</td>
 
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection.">RegionBehaviorCollection</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionbehaviorcollection.">RegionBehaviorCollection</a></td>
 
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorcollection(v=pandp.50)">RegionBehaviorCollection</a> class and associates it with a region.
@@ -53,7 +53,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/en-us/libr
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorcollection.add(v=pandp.50)">Add</a></td>
 
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection.add(system.string%2cmicrosoft.practices.prism.regions.iregionbehavior)">Add</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionbehaviorcollection.add(system.string%2cmicrosoft.practices.prism.regions.iregionbehavior)">Add</a></td>
 
 <td><div class="summary">
 Adds a <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior(v=pandp.50)">IRegionBehavior</a> to the collection, using the specified key as an indexer.
@@ -65,7 +65,7 @@ Adds a <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.pri
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorcollection.containskey(v=pandp.50)">ContainsKey</a></td>
 
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection.containskey(system.string)">ContainsKey</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionbehaviorcollection.containskey(system.string)">ContainsKey</a></td>
 
 <td><div class="summary">
 Checks if a <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior(v=pandp.50)">IRegionBehavior</a> with the specified key is already present.
@@ -103,7 +103,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorcollection.getenumerator(v=pandp.50)">GetEnumerator</a></td>
 
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection.getenumerator">GetEnumerator</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionbehaviorcollection.getenumerator">GetEnumerator</a></td>
 
 <td><div class="summary">
 Returns an enumerator that iterates through the collection.
@@ -182,7 +182,7 @@ Returns a string that represents the current object.
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorcollection.item(v=pandp.50)">Item</a></td>
 
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection.item(system.string)">Item</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionbehaviorcollection.item(system.string)">Item</a></td>
 
 <td><div class="summary">
 Gets the <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior(v=pandp.50)">IRegionBehavior</a> with the specified key.

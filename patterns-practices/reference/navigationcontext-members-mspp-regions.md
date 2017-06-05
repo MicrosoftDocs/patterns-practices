@@ -8,7 +8,7 @@ ms:mtpsurl: 'navigationcontext-members-mspp-regions.md'
 
 # NavigationContext Members
 
-The [NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext) type exposes the following members.
+The [NavigationContext](/patterns-practices/reference/mspp-regions-namespace.navigationcontext) type exposes the following members.
 
 ## Constructors
 
@@ -25,16 +25,16 @@ The [NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.p
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.">NavigationContext(IRegionNavigationService, Uri)</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.navigationcontext.">NavigationContext(IRegionNavigationService, Uri)</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext">NavigationContext</a> class for a region name and a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.uri">Uri</a>.
+Initializes a new instance of the <a href="/patterns-practices/reference/mspp-regions-namespace.navigationcontext">NavigationContext</a> class for a region name and a <a href="/patterns-practices/reference/mspp-regions-namespace.navigationcontext.uri">Uri</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.">NavigationContext(IRegionNavigationService, Uri, NavigationParameters)</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.navigationcontext.">NavigationContext(IRegionNavigationService, Uri, NavigationParameters)</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext">NavigationContext</a> class for a region name and a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.uri">Uri</a>.
+Initializes a new instance of the <a href="/patterns-practices/reference/mspp-regions-namespace.navigationcontext">NavigationContext</a> class for a region name and a <a href="/patterns-practices/reference/mspp-regions-namespace.navigationcontext.uri">Uri</a>.
 </div></td>
 </tr>
 </tbody>
@@ -119,21 +119,21 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.navigationservice">NavigationService</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.navigationcontext.navigationservice">NavigationService</a></td>
 <td><div class="summary">
 Gets the region navigation service.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.parameters">Parameters</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.navigationcontext.parameters">Parameters</a></td>
 <td><div class="summary">
-Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters">NavigationParameters</a> extracted from the URI and the object parameters passed in navigation.
+Gets the <a href="/patterns-practices/reference/mspp-regions-namespace.navigationparameters">NavigationParameters</a> extracted from the URI and the object parameters passed in navigation.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.uri">Uri</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.navigationcontext.uri">Uri</a></td>
 <td><div class="summary">
 Gets the navigation URI.
 </div></td>
@@ -143,6 +143,6 @@ Gets the navigation URI.
 
 ## See Also
 
-[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
+[NavigationContext Class](/patterns-practices/reference/mspp-regions-namespace.navigationcontext)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

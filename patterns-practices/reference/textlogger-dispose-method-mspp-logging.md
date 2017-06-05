@@ -4,7 +4,8 @@ Title: 'TextLogger.Dispose Method (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Logging.TextLogger.Dispose'
 ms:mtpsurl: 'textlogger-dispose-method-boolean-mspp-logging.md'
 ---
-
+
+
 # TextLogger.Dispose Method
 
 ## Overload List
@@ -22,14 +23,14 @@ ms:mtpsurl: 'textlogger-dispose-method-boolean-mspp-logging.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger.dispose">Dispose()()()</a></td>
+<td><a href="/patterns-practices/reference/textlogger-dispose">Dispose</a></td>
 <td><div class="summary">
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger.dispose(system.boolean)">Dispose(Boolean)</a></td>
+<td><a href="/patterns-practices/reference/textlogger-dispose-method-boolean-mspp-logging">Dispose(Boolean)</a></td>
 <td><div class="summary">
 Disposes the associated <a href="http://msdn.microsoft.com/en-us/library/ywxh2328">TextWriter</a>.
 </div></td>
@@ -38,8 +39,9 @@ Disposes the associated <a href="http://msdn.microsoft.com/en-us/library/ywxh232
 </table>
 
 ## See Also
-[TextLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger)
 
-[TextLogger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.logging.textlogger)
+[TextLogger Class](/patterns-practices/reference/textlogger-class-mspp-logging)
 
-[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
+[TextLogger Members](/patterns-practices/reference/textlogger-members-mspp-logging)
+
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)
