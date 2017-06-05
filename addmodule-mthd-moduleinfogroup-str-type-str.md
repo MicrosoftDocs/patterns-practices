@@ -77,7 +77,7 @@ The names for the modules that this module depends on.
 
 ### Return Value
 
-Type: [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)  
+Type: [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)   
 Returns the instance of the passed in module info group, to provide a fluid interface.
 
 
