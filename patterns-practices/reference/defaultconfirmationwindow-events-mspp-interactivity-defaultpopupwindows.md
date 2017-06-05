@@ -8,7 +8,7 @@ ms:mtpsurl: 'defaultconfirmationwindow-events-mspp-interactivity-defaultpopupwin
 
 # DefaultConfirmationWindow Events
 
-The [DefaultConfirmationWindow](patterns-practices/reference/defaultconfirmationwindow-class-mspp-interactivity-defaultpopupwindows) type exposes the following members.
+The [DefaultConfirmationWindow](/patterns-practices/reference/defaultconfirmationwindow-class-mspp-interactivity-defaultpopupwindows) type exposes the following members.
 
 ## Events
 
@@ -975,6 +975,6 @@ Occurs when the element is removed from within an element tree of loaded element
 
 ## See Also
 
-[DefaultConfirmationWindow Class](patterns-practices/reference/defaultconfirmationwindow-class-mspp-interactivity-defaultpopupwindows)
+[DefaultConfirmationWindow Class](/patterns-practices/reference/defaultconfirmationwindow-class-mspp-interactivity-defaultpopupwindows)
 
 [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)
