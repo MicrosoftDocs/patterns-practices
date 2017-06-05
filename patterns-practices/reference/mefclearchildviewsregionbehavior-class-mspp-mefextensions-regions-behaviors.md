@@ -8,7 +8,7 @@ ms:mtpsurl: 'mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-b
 
 Exports the ClearChildViewsRegionBehavior using the Managed Extensibility Framework (MEF).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
