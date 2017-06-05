@@ -4,7 +4,8 @@ Title: 'MefRegionNavigationService Members (Microsoft.Practices.Prism.MefExtensi
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationService'
 ms:mtpsurl: 'mefregionnavigationservice-members-mspp-mefextensions-regions.md'
 ---
-
+
+
 # MefRegionNavigationService Members
 
 The [MefRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice) type exposes the following members.
@@ -24,9 +25,9 @@ The [MefRegionNavigationService](https://msdn.microsoft.com/library/microsoft.pr
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice.">MefRegionNavigationService</a></td>
+<td>MefRegionNavigationService</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice">MefRegionNavigationService</a> class.
+Initializes a new instance of the <a href="/patterns-practices/reference/mefregionnavigationservice-class-mspp-mefextensions-regions">MefRegionNavigationService</a> class.
 </div></td>
 </tr>
 </tbody>
@@ -87,19 +88,19 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationservice-requestnavigate-method-uri-action-navigationresult-mspp-regions">RequestNavigate(Uri, Action(Of NavigationResult))</a></td>
 <td><div class="summary">
 Initiates navigation to the specified target.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice">RegionNavigationService</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationservice-class-mspp-regions">RegionNavigationService</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d%2cmicrosoft.practices.prism.regions.navigationparameters)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationservice-requestnavigate-method-uri-action-navigationresult-navigationparameters-mspp-regions">RequestNavigate(Uri, Action(Of NavigationResult), NavigationParameters)</a></td>
 <td><div class="summary">
 Initiates navigation to the specified target.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice">RegionNavigationService</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationservice-class-mspp-regions">RegionNavigationService</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -114,9 +115,7 @@ Returns a string that represents the current object.
 
 ## Properties
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -127,28 +126,26 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.journal">Journal</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationservice-journal-property-mspp-regions">Journal</a></td>
 <td><div class="summary">
 Gets the journal.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice">RegionNavigationService</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationservice-class-mspp-regions">RegionNavigationService</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.region">Region</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationservice-region-property-mspp-regions">Region</a></td>
 <td><div class="summary">
 Gets or sets the region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice">RegionNavigationService</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationservice-class-mspp-regions">RegionNavigationService</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## Events
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -159,32 +156,33 @@ Gets or sets the region.
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigated">Navigated</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationservice-navigated-event-mspp-regions">Navigated</a></td>
 <td><div class="summary">
 Raised when the region is navigated to content.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice">RegionNavigationService</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationservice-class-mspp-regions">RegionNavigationService</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigating">Navigating</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationservice-navigating-event-mspp-regions">Navigating</a></td>
 <td><div class="summary">
 Raised when the region is about to be navigated to content.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice">RegionNavigationService</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationservice-class-mspp-regions">RegionNavigationService</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.navigationfailed">NavigationFailed</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationservice-navigationfailed-event-mspp-regions">NavigationFailed</a></td>
 <td><div class="summary">
 Raised when a navigation request fails.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice">RegionNavigationService</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationservice-class-mspp-regions">RegionNavigationService</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[MefRegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+[MefRegionNavigationService Class](/patterns-practices/reference/mefregionnavigationservice-class-mspp-mefextensions-regions)
+
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
