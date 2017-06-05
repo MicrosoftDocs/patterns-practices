@@ -58,7 +58,7 @@ Creates a new instance of a <a href="/patterns-practices/reference/delegatecomma
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="/patterns-practices/reference/delegatecommandbase-canexecute-method-mspp-commands">CanExecute</a></td>
 <td><div class="summary">
-Determines if the command can execute with the provided parameter by invoking the <a href="http://patterns-practices/reference/delegatecommandbase-canexecute-method-mspp-commands">Func&lt;T, TResult&gt;</a> supplied during construction.
+Determines if the command can execute with the provided parameter by invoking the <a href="/patterns-practices/reference/delegatecommandbase-canexecute-method-mspp-commands">Func&lt;T, TResult&gt;</a> supplied during construction.
 </div></td>
 </tr>
 <tr class="even">
