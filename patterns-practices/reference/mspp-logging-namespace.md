@@ -4,7 +4,8 @@ Title: 'Microsoft.Practices.Prism.Logging Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.Logging'
 ms:mtpsurl: 'mspp-logging-namespace.md'
 ---
-
+
+
 # Microsoft.Practices.Prism.Logging Namespace
 
  
@@ -24,23 +25,23 @@ ms:mtpsurl: 'mspp-logging-namespace.md'
 <tbody>
 <tr class="odd">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.emptylogger">EmptyLogger</a></td>
+<td><a href="/patterns-practices/reference/emptylogger-class-mspp-logging">EmptyLogger</a></td>
 <td><div class="summary">
-Implementation of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a> that does nothing. This implementation is useful when the application does not need logging but there are infrastructure pieces that assume there is a logger.
+Implementation of <a href="/patterns-practices/reference/iloggerfacade-interface-mspp-logging">ILoggerFacade</a> that does nothing. This implementation is useful when the application does not need logging but there are infrastructure pieces that assume there is a logger.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger">TextLogger</a></td>
+<td><a href="/patterns-practices/reference/textlogger-class-mspp-logging">TextLogger</a></td>
 <td><div class="summary">
-Implementation of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a> that logs into a <a href="http://msdn.microsoft.com/en-us/library/ywxh2328">TextWriter</a>.
+Implementation of <a href="/patterns-practices/reference/iloggerfacade-interface-mspp-logging">ILoggerFacade</a> that logs into a <a href="http://msdn.microsoft.com/en-us/library/ywxh2328">TextWriter</a>.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.tracelogger">TraceLogger</a></td>
+<td><a href="/patterns-practices/reference/tracelogger-class-mspp-logging">TraceLogger</a></td>
 <td><div class="summary">
-Implementation of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a> that logs to .NET <a href="http://msdn.microsoft.com/en-us/library/36hhw2t6">Trace</a> class.
+Implementation of <a href="/patterns-practices/reference/iloggerfacade-interface-mspp-logging">ILoggerFacade</a> that logs to .NET <a href="http://msdn.microsoft.com/en-us/library/36hhw2t6">Trace</a> class.
 </div></td>
 </tr>
 </tbody>
@@ -61,7 +62,7 @@ Implementation of <a href="https://msdn.microsoft.com/library/microsoft.practice
 <tbody>
 <tr class="odd">
 <td>![Public interface](/patterns-practices/reference/images/public-interface.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a></td>
+<td><a href="/patterns-practices/reference/iloggerfacade-interface-mspp-logging">ILoggerFacade</a></td>
 <td><div class="summary">
 Defines a simple logger façade to be used by the Prism Library.
 </div></td>
@@ -84,16 +85,16 @@ Defines a simple logger façade to be used by the Prism Library.
 <tbody>
 <tr class="odd">
 <td>![Public enumeration](/patterns-practices/reference/images/pubenumeration.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.category">Category</a></td>
+<td><a href="/patterns-practices/reference/category-enumeration-mspp-logging">Category</a></td>
 <td><div class="summary">
-Defines values for the categories used by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a>.
+Defines values for the categories used by <a href="/patterns-practices/reference/iloggerfacade-interface-mspp-logging">ILoggerFacade</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public enumeration](/patterns-practices/reference/images/pubenumeration.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.priority">Priority</a></td>
+<td><a href="/patterns-practices/reference/priority-enumeration-mspp-logging">Priority</a></td>
 <td><div class="summary">
-Defines values for the priorities used by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a>.
+Defines values for the priorities used by <a href="/patterns-practices/reference/iloggerfacade-interface-mspp-logging">ILoggerFacade</a>.
 </div></td>
 </tr>
 </tbody>

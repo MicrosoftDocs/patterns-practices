@@ -4,22 +4,31 @@ Title: 'UnityBootstrapper.RegisterFrameworkExceptionTypes Method (Microsoft.Prac
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.RegisterFrameworkExceptionTypes'
 ms:mtpsurl: 'unitybootstrapper-registerframeworkexceptiontypes-method-mspp-unityextensions.md'
 ---
-
+
+
 # UnityBootstrapper.RegisterFrameworkExceptionTypes Method
 
-Registers in the IUnityContainer the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the Exceptions that are not considered root exceptions by the [ExceptionExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions).
+Registers in the IUnityContainer the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the Exceptions that are not considered root exceptions by the [ExceptionExtensions](/patterns-practices/reference/exceptionextensions-class-mspp).
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](/patterns-practices/reference/mspp-unityextensions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-protected override void RegisterFrameworkExceptionTypes()Protected Overrides Sub RegisterFrameworkExceptionTypes
+```C#
+protected override void RegisterFrameworkExceptionTypes()
+```
+```VB
+'Declaration
+Protected Overrides Sub RegisterFrameworkExceptionTypes
+```
 
 ## See Also
-[UnityBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
 
-[UnityBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitybootstrapper)
+[UnityBootstrapper Class](/patterns-practices/reference/unitybootstrapper-class-mspp-unityextensions)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+[UnityBootstrapper Members](/patterns-practices/reference/unitybootstrapper-members-mspp-unityextensions)
+
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)
