@@ -4,32 +4,49 @@ Title: 'IRegionBehaviorFactory.AddIfMissing Method (Microsoft.Practices.Prism.Re
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory.AddIfMissing(System.String,System.Type)'
 ms:mtpsurl: 'iregionbehaviorfactory-addifmissing-method-mspp-regions.md'
 ---
-
+
 # IRegionBehaviorFactory.AddIfMissing Method
 
 Adds a particular type of RegionBehavior if it was not already registered. the behaviorKey string is used to check if the behavior is already present
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-void AddIfMissing( string behaviorKey, Type behaviorType )Sub AddIfMissing ( behaviorKey As String, behaviorType As Type )
+
+```C#
+void AddIfMissing(
+	string behaviorKey,
+	Type behaviorType
+)
+```
+
+```VB
+'Declaration
+Sub AddIfMissing ( 
+	behaviorKey As String,
+	behaviorType As Type
+)
+```
+
 
 ### Parameters
 
-behaviorKey  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+*behaviorKey*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)<br/>
 The behavior key that's used to find if a certain behavior is already added.
 
-behaviorType  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
+*behaviorType*  
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)<br/>
 Type of the behavior to add. .
 
 ## See Also
-[IRegionBehaviorFactory Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory)
 
-[IRegionBehaviorFactory Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionbehaviorfactory)
+[IRegionBehaviorFactory Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory)
+
+[IRegionBehaviorFactory Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehaviorfactory_members(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
