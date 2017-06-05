@@ -8,11 +8,9 @@ ms:mtpsurl: 'mspp-mefextensions-modularity-namespace.md'
 
 # Microsoft.Practices.Prism.MefExtensions.Modularity Namespace
 
-Classes
-
+## Classes
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

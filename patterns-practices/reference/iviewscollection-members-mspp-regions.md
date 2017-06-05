@@ -8,7 +8,7 @@ ms:mtpsurl: 'iviewscollection-members-mspp-regions.md'
 
 # IViewsCollection Members
 
-The [IViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection) type exposes the following members.
+The [IViewsCollection](/patterns-practices/reference/mspp-regions-namespace.iviewscollection) type exposes the following members.
 
 ## Methods
 
@@ -25,7 +25,7 @@ The [IViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.pr
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection.contains(system.object)">Contains</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.iviewscollection.contains(system.object)">Contains</a></td>
 <td><div class="summary">
 Determines whether the collection contains a specific value.
 </div></td>
@@ -75,6 +75,6 @@ Occurs when the collection changes.
 
 ## See Also
 
-[IViewsCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection)
+[IViewsCollection Interface](/patterns-practices/reference/mspp-regions-namespace.iviewscollection)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

@@ -4,36 +4,50 @@ Title: 'RegionBehaviorFactory.ContainsKey Method (Microsoft.Practices.Prism.Regi
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionBehaviorFactory.ContainsKey(System.String)'
 ms:mtpsurl: 'regionbehaviorfactory-containskey-method-mspp-regions.md'
 ---
-
+
+
 # RegionBehaviorFactory.ContainsKey Method
 
 Determines whether a behavior with the specified key already exists.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public bool ContainsKey( string behaviorKey )Public Function ContainsKey ( behaviorKey As String ) As Boolean
+
+~~~C#
+public bool ContainsKey(
+	string behaviorKey
+)
+~~~
+~~~VB
+'Declaration
+Public Function ContainsKey ( 
+	behaviorKey As String
+) As Boolean
+~~~
 
 ### Parameters
 
-behaviorKey  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+_behaviorKey_  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The behavior key.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-trueTruetruetrue (True in Visual Basic) if a behavior with the specified key is present; otherwise, falseFalsefalsefalse (False in Visual Basic).
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
+**Truetrue** (**True** in Visual Basic) if a behavior with the specified key is present; otherwise, **Falsefalse** (**False** in Visual Basic).
 ### Implements
 
-[IRegionBehaviorFactory.ContainsKey(String)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory.containskey(system.string))
+[IRegionBehaviorFactory.ContainsKey(String)](/patterns-practices/reference/iregionbehaviorfactory-containskey-method-mspp-regions)
 
 ## See Also
-[RegionBehaviorFactory Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory)
 
-[RegionBehaviorFactory Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehaviorfactory)
+[RegionBehaviorFactory Class](/patterns-practices/reference/regionbehaviorfactory-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionBehaviorFactory Members](/patterns-practices/reference/regionbehaviorfactory-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

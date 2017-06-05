@@ -4,42 +4,59 @@ Title: 'UnityContainerHelper.TryResolve Method (IUnityContainer, Type) (Microsof
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityContainerHelper.TryResolve(Microsoft.Practices.Unity.IUnityContainer,System.Type)'
 ms:mtpsurl: 'unitycontainerhelper-tryresolve-method-iunitycontainer-type-mspp-unityextensions.md'
 ---
-
+
+
 # UnityContainerHelper.TryResolve Method (IUnityContainer, Type)
 
 Utility method to try to resolve a service from the container avoiding an exception if the container cannot build the type.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](/patterns-practices/reference/mspp-unityextensions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public static Object TryResolve( this IUnityContainer container, Type typeToResolve )&lt;ExtensionAttribute&gt; Public Shared Function TryResolve ( container As IUnityContainer, typeToResolve As Type ) As Object
+```C#
+public static Object TryResolve(
+	this IUnityContainer container,
+	Type typeToResolve
+)
+```
+```VB
+'Declaration
+<ExtensionAttribute> 
+Public Shared Function TryResolve ( 
+	container As IUnityContainer,
+	typeToResolve As Type
+) As Object
+```
 
 ### Parameters
 
-container  
-Type: IUnityContainer
+*container*  
+Type: IUnityContainer   
 The cointainer that will be used to resolve the type.
 
-typeToResolve  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
+*typeToResolve*  
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)   
 The type to resolve.
 
 ### Return Value
 
-Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)   
 The instance of typeToResolve built up by the container.
+
 ### Usage Note
 
 In Visual Basic and C\#, you can call this method as an instance method on any object of type IUnityContainer. When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C\# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
 
 ## See Also
-[UnityContainerHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper)
 
-[UnityContainerHelper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitycontainerhelper)
+[UnityContainerHelper Class](/patterns-practices/reference/unitycontainerhelper-class-mspp-unityextensions)
 
-[TryResolve Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.unityextensions.unitycontainerhelper.tryresolve)
+[UnityContainerHelper Members](/patterns-practices/reference/unitycontainerhelper-members-mspp-unityextensions)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+[TryResolve Overload](/patterns-practices/reference/unitycontainerhelper-tryresolve-method-mspp-unityextensions)
+
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)

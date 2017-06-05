@@ -4,30 +4,43 @@ Title: 'UnityBootstrapper.Run Method (Boolean) (Microsoft.Practices.Prism.UnityE
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.Run(System.Boolean)'
 ms:mtpsurl: 'unitybootstrapper-run-method-boolean-mspp-unityextensions.md'
 ---
-
+
+
 # UnityBootstrapper.Run Method (Boolean)
 
 Run the bootstrapper process.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](/patterns-practices/reference/mspp-unityextensions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public override void Run( bool runWithDefaultConfiguration )Public Overrides Sub Run ( runWithDefaultConfiguration As Boolean )
+```C#
+public override void Run(
+	bool runWithDefaultConfiguration
+)
+```
+```VB
+'Declaration
+Public Overrides Sub Run ( 
+	runWithDefaultConfiguration As Boolean
+)
+```
 
 ### Parameters
 
-runWithDefaultConfiguration  
-Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
+*runWithDefaultConfiguration*  
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)   
 If trueTruetruetrue (True in Visual Basic), registers default Prism Library services in the container. This is the default behavior.
 
 ## See Also
-[UnityBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
 
-[UnityBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitybootstrapper)
+[UnityBootstrapper Class](/patterns-practices/reference/unitybootstrapper-class-mspp-unityextensions)
 
-[Run Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.unityextensions.unitybootstrapper.run)
+[UnityBootstrapper Members](/patterns-practices/reference/unitybootstrapper-members-mspp-unityextensions)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+[Run Overload](/patterns-practices/reference/unitybootstrapper-run-method-mspp-unityextensions)
+
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)

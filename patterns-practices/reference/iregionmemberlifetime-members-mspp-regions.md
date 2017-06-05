@@ -8,7 +8,7 @@ ms:mtpsurl: 'iregionmemberlifetime-members-mspp-regions.md'
 
 # IRegionMemberLifetime Members
 
-The [IRegionMemberLifetime](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmemberlifetime) type exposes the following members.
+The [IRegionMemberLifetime](/patterns-practices/reference/mspp-regions-namespace.iregionmemberlifetime) type exposes the following members.
 
 ## Properties
 
@@ -25,7 +25,7 @@ The [IRegionMemberLifetime](https://msdn.microsoft.com/library/microsoft.practic
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmemberlifetime.keepalive">KeepAlive</a></td>
+<td>[KeepAlive](/patterns-practices/reference/mspp-regions-namespace.iregionmemberlifetime.keepalive)</td>
 <td><div class="summary">
 Gets a value indicating whether this instance should be kept-alive upon deactivation.
 </div></td>
@@ -35,6 +35,6 @@ Gets a value indicating whether this instance should be kept-alive upon deactiva
 
 ## See Also
 
-[IRegionMemberLifetime Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmemberlifetime)
+[IRegionMemberLifetime Interface](/patterns-practices/reference/mspp-regions-namespace.iregionmemberlifetime)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

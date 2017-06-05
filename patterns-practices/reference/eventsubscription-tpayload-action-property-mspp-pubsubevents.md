@@ -18,6 +18,9 @@ Gets the target [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxw
 
 ## Syntax
 
+```C#
+public Action<TPayload> Action { get; }
+```
 
 ### Property Value
 

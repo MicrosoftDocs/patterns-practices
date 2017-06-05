@@ -4,16 +4,14 @@ Title: 'DownloadedPartCatalogCollection Members (Microsoft.Practices.Prism.MefEx
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection'
 ms:mtpsurl: 'downloadedpartcatalogcollection-members-mspp-mefextensions-modularity.md'
 ---
-
+
 # DownloadedPartCatalogCollection Members
 
-The [DownloadedPartCatalogCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection) type exposes the following members.
+The [DownloadedPartCatalogCollection](/patterns-practices/reference/downloadedpartcatalogcollection-class-mspp-mefextensions-modularity) type exposes the following members.
 
 ## Constructors
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,9 +22,9 @@ The [DownloadedPartCatalogCollection](https://msdn.microsoft.com/library/microso
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection.">DownloadedPartCatalogCollection</a></td>
+<td>DownloadedPartCatalogCollection</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection">DownloadedPartCatalogCollection</a> class
+Initializes a new instance of the <a href="/patterns-practices/reference/downloadedpartcatalogcollection-class-mspp-mefextensions-modularity">DownloadedPartCatalogCollection</a> class
 </div></td>
 </tr>
 </tbody>
@@ -34,9 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -47,14 +43,14 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection.add(microsoft.practices.prism.modularity.moduleinfo%2csystem.componentmodel.composition.primitives.composablepartcatalog)">Add</a></td>
+<td><a href="/patterns-practices/reference/downloadedpartcatalogcollection-add-method-mspp-mefextensions-modularity">Add</a></td>
 <td><div class="summary">
 Adds the specified catalog using the module info as a key.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection.clear">Clear</a></td>
+<td><a href="/patterns-practices/reference/downloadedpartcatalogcollection-clear-method-mspp-mefextensions-modularity">Clear</a></td>
 <td><div class="summary">
 Clears the collection of catalogs.
 </div></td>
@@ -77,7 +73,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection.get(microsoft.practices.prism.modularity.moduleinfo)">Get</a></td>
+<td><a href="/patterns-practices/reference/downloadedpartcatalogcollection-get-method-mspp-mefextensions-modularity">Get</a></td>
 <td><div class="summary">
 Gets the catalog for the specified module info.
 </div></td>
@@ -108,7 +104,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection.remove(microsoft.practices.prism.modularity.moduleinfo)">Remove</a></td>
+<td><a href="/patterns-practices/reference/downloadedpartcatalogcollection-remove-method-mspp-mefextensions-modularity">Remove</a></td>
 <td><div class="summary">
 Removes the catalgo for the specified module info.
 </div></td>
@@ -123,7 +119,7 @@ Returns a string that represents the current object.
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection.tryget(microsoft.practices.prism.modularity.moduleinfo%2csystem.componentmodel.composition.primitives.composablepartcatalog%40)">TryGet</a></td>
+<td><a href="/patterns-practices/reference/downloadedpartcatalogcollection-tryget-method-mspp-mefextensions-modularity">TryGet</a></td>
 <td><div class="summary">
 Tries to ge the catalog for the specified module info.
 </div></td>
@@ -132,6 +128,7 @@ Tries to ge the catalog for the specified module info.
 </table>
 
 ## See Also
-[DownloadedPartCatalogCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.downloadedpartcatalogcollection)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
+[DownloadedPartCatalogCollection Class](/patterns-practices/reference/downloadedpartcatalogcollection-class-mspp-mefextensions-modularity)
+
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)

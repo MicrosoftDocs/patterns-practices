@@ -4,22 +4,31 @@ Title: 'ModuleCatalog.ValidateDependenciesInitializationMode Method (Microsoft.P
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.ValidateDependenciesInitializationMode'
 ms:mtpsurl: 'modulecatalog-validatedependenciesinitializationmode-method-mspp-modularity.md'
 ---
-
+
+
 # ModuleCatalog.ValidateDependenciesInitializationMode Method
 
-Ensures that there are no modules marked to be loaded [WhenAvailable](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.initializationmode) depending on modules loaded [OnDemand](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.initializationmode)
+Ensures that there are no modules marked to be loaded [WhenAvailable](/patterns-practices/reference/initializationmode-enumeration-mspp-modularity) depending on modules loaded [OnDemand](/patterns-practices/reference/initializationmode-enumeration-mspp-modularity)
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-protected virtual void ValidateDependenciesInitializationMode()Protected Overridable Sub ValidateDependenciesInitializationMode
+```C#
+protected virtual void ValidateDependenciesInitializationMode()
+```
+```VB
+'Declaration
+Protected Overridable Sub ValidateDependenciesInitializationMode
+```
 
 ## See Also
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
-[ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
+[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

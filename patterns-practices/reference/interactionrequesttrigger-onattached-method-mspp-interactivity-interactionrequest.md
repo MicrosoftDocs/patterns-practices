@@ -4,7 +4,7 @@ Title: 'InteractionRequestTrigger.OnAttached Method (Microsoft.Practices.Prism.I
 ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestTrigger.OnAttached'
 ms:mtpsurl: 'interactionrequesttrigger-onattached-method-mspp-interactivity-interactionrequest.md'
 ---
-
+
 # InteractionRequestTrigger.OnAttached Method
 
 Called after the trigger is attached to an AssociatedObject.
@@ -20,7 +20,6 @@ Called after the trigger is attached to an AssociatedObject.
 ```C#
 protected override void OnAttached()
 ```
-
 ```VB
 'Declaration
 Protected Overrides Sub OnAttached

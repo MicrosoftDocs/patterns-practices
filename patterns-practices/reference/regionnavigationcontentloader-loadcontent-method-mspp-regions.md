@@ -4,36 +4,48 @@ Title: 'RegionNavigationContentLoader.LoadContent Method (Microsoft.Practices.Pr
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionNavigationContentLoader.LoadContent(Microsoft.Practices.Prism.Regions.IRegion,Microsoft.Practices.Prism.Regions.NavigationContext)'
 ms:mtpsurl: 'regionnavigationcontentloader-loadcontent-method-mspp-regions.md'
 ---
-
 # RegionNavigationContentLoader.LoadContent Method
 
-Gets the view to which the navigation request represented by navigationContext applies.
+Gets the view to which the navigation request represented by *navigationContext* applies.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public Object LoadContent( IRegion region, NavigationContext navigationContext )Public Function LoadContent ( region As IRegion, navigationContext As NavigationContext ) As Object
+```C#
+public Object LoadContent(
+	IRegion region,
+	NavigationContext navigationContext
+)
+```
+
+```VB
+'Declaration
+Public Function LoadContent ( 
+	region As IRegion,
+	navigationContext As NavigationContext
+) As Object
+```
 
 ### Parameters
 
-region  
-Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
+*region*  
+Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)  
 The region.
 
-navigationContext  
-Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
+*navigationContext*  
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)  
 The context representing the navigation request.
 
 ### Return Value
 
-Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 The view to be the target of the navigation request.
 ### Implements
 
-[IRegionNavigationContentLoader.LoadContent(IRegion, NavigationContext)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader.loadcontent(microsoft.practices.prism.regions.iregion%2cmicrosoft.practices.prism.regions.navigationcontext))
+[IRegionNavigationContentLoader.LoadContent(IRegion, NavigationContext)](/patterns-practices/reference/iregionnavigationcontentloader-loadcontent-method-mspp-regions)
 
 ## Remarks
 
@@ -41,14 +53,14 @@ The view to be the target of the navigation request.
 
 ## Exceptions
 
-
-| Exception                                                                         | Condition                                                     |
-|-----------------------------------------------------------------------------------|---------------------------------------------------------------|
+| Exception | Condition |
+|---|---|
 | [System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114) | when a new view cannot be created for the navigation request. |
 
 ## See Also
-[RegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader)
 
-[RegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationcontentloader)
+[RegionNavigationContentLoader Class](/patterns-practices/reference/regionnavigationcontentloader-class-mspp-regions)  
+[RegionNavigationContentLoader Members](/patterns-practices/reference/regionnavigationcontentloader-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+

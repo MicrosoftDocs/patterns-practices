@@ -19,9 +19,7 @@ The [MefRegionActiveAwareBehavior](/patterns-practices/reference/mefregionactive
 </colgroup>
 
 <tbody><tr>
-<th>
-							&nbsp;
-						</th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -43,6 +41,5 @@ The region that this behavior is extending
 
 ## See Also
 
-[MefRegionActiveAwareBehavior Class](/patterns-practices/reference/mefregionactiveawarebehavior-class-mspp-mefextensions-regions-behaviors)
-
+[MefRegionActiveAwareBehavior Class](/patterns-practices/reference/mefregionactiveawarebehavior-class-mspp-mefextensions-regions-behaviors)  
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

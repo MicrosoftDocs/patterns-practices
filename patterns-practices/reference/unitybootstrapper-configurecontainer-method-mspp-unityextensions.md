@@ -4,22 +4,31 @@ Title: 'UnityBootstrapper.ConfigureContainer Method (Microsoft.Practices.Prism.U
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper.ConfigureContainer'
 ms:mtpsurl: 'unitybootstrapper-configurecontainer-method-mspp-unityextensions.md'
 ---
-
+
+
 # UnityBootstrapper.ConfigureContainer Method
 
 Configures the IUnityContainer. May be overwritten in a derived class to add specific type mappings required by the application.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](/patterns-practices/reference/mspp-unityextensions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-protected virtual void ConfigureContainer()Protected Overridable Sub ConfigureContainer
+```C#
+protected virtual void ConfigureContainer()
+```
+```VB
+'Declaration
+Protected Overridable Sub ConfigureContainer
+```
 
 ## See Also
-[UnityBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
 
-[UnityBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitybootstrapper)
+[UnityBootstrapper Class](/patterns-practices/reference/unitybootstrapper-class-mspp-unityextensions)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+[UnityBootstrapper Members](/patterns-practices/reference/unitybootstrapper-members-mspp-unityextensions)
+
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)

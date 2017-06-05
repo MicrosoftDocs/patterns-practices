@@ -4,7 +4,8 @@ Title: 'RegionCreationException Constructor (Microsoft.Practices.Prism.Regions.B
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.Behaviors.RegionCreationException.\#ctor'
 ms:mtpsurl: 'regioncreationexception-constructor-mspp-regions-behaviors.md'
 ---
-
+
+
 # RegionCreationException Constructor
 
 ## Overload List
@@ -22,38 +23,41 @@ ms:mtpsurl: 'regioncreationexception-constructor-mspp-regions-behaviors.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception.">RegionCreationException()()()</a></td>
+<td>RegionCreationException</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception">RegionCreationException</a>
+Initializes a new instance of the <a href="/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors
+">RegionCreationException</a>
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception.">RegionCreationException(String)</a></td>
+<td>RegionCreationException(String)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception">RegionCreationException</a> class with a specified error message.
+Initializes a new instance of the <a href="/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors
+">RegionCreationException</a> class with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception.">RegionCreationException(SerializationInfo, StreamingContext)</a></td>
+<td>RegionCreationException(SerializationInfo, StreamingContext)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception">RegionCreationException</a> class with serialized data.
+Initializes a new instance of the <a href="/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors">RegionCreationException</a> class with serialized data.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception.">RegionCreationException(String, Exception)</a></td>
+<td>RegionCreationException(String, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception">RegionCreationException</a> class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the <a href="/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors">RegionCreationException</a> class with a specified error message and a reference to the inner exception that is the cause of this exception.
 </div></td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[RegionCreationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regioncreationexception)
 
-[RegionCreationException Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regioncreationexception)
+[RegionCreationException Class](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+[RegionCreationException Members](/patterns-practices/reference/regioncreationexception-members-mspp-regions-behaviors)
+
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

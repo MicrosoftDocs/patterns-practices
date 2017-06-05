@@ -4,26 +4,36 @@ Title: 'MefBootstrapper.ConfigureServiceLocator Method (Microsoft.Practices.Pris
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.ConfigureServiceLocator'
 ms:mtpsurl: 'mefbootstrapper-configureservicelocator-method-mspp-mefextensions.md'
 ---
-
+
+
 # MefBootstrapper.ConfigureServiceLocator Method
 
 Configures the LocatorProvider for the ServiceLocator.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](/patterns-practices/reference/mspp-mefextensions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-protected override void ConfigureServiceLocator()Protected Overrides Sub ConfigureServiceLocator
+
+~~~C#
+protected override void ConfigureServiceLocator()
+~~~
+~~~VB
+'Declaration
+Protected Overrides Sub ConfigureServiceLocator
+~~~
 
 ## Remarks
 
  The base implementation also sets the ServiceLocator provider singleton.
 
 ## See Also
-[MefBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper)
 
-[MefBootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.mefbootstrapper)
+[MefBootstrapper Class](/patterns-practices/reference/mefbootstrapper-class-mspp-mefextensions)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)
+[MefBootstrapper Members](/patterns-practices/reference/mefbootstrapper-members-mspp-mefextensions)
+
+[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)

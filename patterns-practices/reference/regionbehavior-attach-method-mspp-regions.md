@@ -4,25 +4,40 @@ Title: 'RegionBehavior.Attach Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.RegionBehavior.Attach'
 ms:mtpsurl: 'regionbehavior-attach-method-mspp-regions.md'
 ---
-
+
+
 # RegionBehavior.Attach Method
 
 Attaches the behavior to the region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
+
 ## Syntax
-public void Attach()Public Sub Attach
+~~~C#
+public void Attach()
+~~~
 ### Implements
 
-[IRegionBehavior.Attach()()()](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior.attach)
+[IRegionBehavior.Attach()](/patterns-practices/reference/iregionbehavior-attach-method-mspp-regions)
+
+## Syntax
+~~~VB
+'Declaration
+Public Sub Attach
+~~~
+### Implements
+
+[IRegionBehavior.Attach](/patterns-practices/reference/iregionbehavior-attach-method-mspp-regions)
 
 ## See Also
-[RegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
 
-[RegionBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehavior)
+[RegionBehavior Class](/patterns-practices/reference/regionbehavior-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionBehavior Members](/patterns-practices/reference/regionbehavior-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

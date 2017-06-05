@@ -27,7 +27,7 @@ The [RegionBehaviorFactory](https://msdn.microsoft.com/en-us/library/microsoft.p
 <td>RegionBehaviorFactory</td>
 
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory.">RegionBehaviorFactory</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionbehaviorfactory.">RegionBehaviorFactory</a></td>
 
 <td><div class="summary">
 Initializes a new instance of <a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorfactory(v=pandp.50)">RegionBehaviorFactory</a>.
@@ -54,7 +54,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/en-us/library/
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorfactory.addifmissing(v=pandp.50)">AddIfMissing</a></td>
 
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory.addifmissing(system.string%2csystem.type)">AddIfMissing</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionbehaviorfactory.addifmissing(system.string%2csystem.type)">AddIfMissing</a></td>
 
 <td><div class="summary">
 Adds a particular type of RegionBehavior if it was not already registered. The behaviorKey string is used to check if the behavior is already present
@@ -66,7 +66,7 @@ Adds a particular type of RegionBehavior if it was not already registered. The b
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorfactory.containskey(v=pandp.50)">ContainsKey</a></td>
 
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory.containskey(system.string)">ContainsKey</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionbehaviorfactory.containskey(system.string)">ContainsKey</a></td>
 
 <td><div class="summary">
 Determines whether a behavior with the specified key already exists.
@@ -78,7 +78,7 @@ Determines whether a behavior with the specified key already exists.
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorfactory.createfromkey(v=pandp.50)">CreateFromKey</a></td>
 
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory.createfromkey(system.string)">CreateFromKey</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionbehaviorfactory.createfromkey(system.string)">CreateFromKey</a></td>
 
 <td><div class="summary">
 Creates an instance of the behavior <a href="http://msdn2.microsoft.com/en-us/library/42892f65">Type</a> that is registered using the specified key.
@@ -116,7 +116,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 <td><a href="https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionbehaviorfactory.getenumerator(v=pandp.50)">GetEnumerator</a></td>
 
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory.getenumerator">GetEnumerator</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionbehaviorfactory.getenumerator">GetEnumerator</a></td>
 
 <td><div class="summary">
 Returns an enumerator that iterates through the collection.

@@ -4,7 +4,8 @@ Title: 'UnityContainerHelper.TryResolve Method (Microsoft.Practices.Prism.UnityE
 ms:assetid: 'Overload:Microsoft.Practices.Prism.UnityExtensions.UnityContainerHelper.TryResolve'
 ms:mtpsurl: 'unitycontainerhelper-tryresolve-method-iunitycontainer-type-mspp-unityextensions.md'
 ---
-
+
+
 # UnityContainerHelper.TryResolve Method
 
 ## Overload List
@@ -22,14 +23,14 @@ ms:mtpsurl: 'unitycontainerhelper-tryresolve-method-iunitycontainer-type-mspp-un
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper.tryresolve%60%601(microsoft.practices.unity.iunitycontainer)">TryResolve&lt;(Of &lt;(T&gt;)&gt;)(IUnityContainer)</a></td>
+<td><a href="/patterns-practices/reference/unitycontainerhelper-tryresolve-t-method-iunitycontainer-mspp-unityextensions">TryResolve&lt;T&gt;(IUnityContainer) </a></td>
 <td><div class="summary">
 Utility method to try to resolve a service from the container avoiding an exception if the container cannot build the type.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper.tryresolve(microsoft.practices.unity.iunitycontainer%2csystem.type)">TryResolve(IUnityContainer, Type)</a></td>
+<td><a href="/patterns-practices/reference/unitycontainerhelper-tryresolve-method-iunitycontainer-type-mspp-unityextensions">TryResolve(IUnityContainer, Type)</a></td>
 <td><div class="summary">
 Utility method to try to resolve a service from the container avoiding an exception if the container cannot build the type.
 </div></td>
@@ -38,8 +39,10 @@ Utility method to try to resolve a service from the container avoiding an except
 </table>
 
 ## See Also
-[UnityContainerHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitycontainerhelper)
 
-[UnityContainerHelper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitycontainerhelper)
+[UnityContainerHelper Class](/patterns-practices/reference/unitycontainerhelper-class-mspp-regions)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+[UnityContainerHelper Members](/patterns-practices/reference/unitycontainerhelper-members-mspp-regions)
+
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)
+

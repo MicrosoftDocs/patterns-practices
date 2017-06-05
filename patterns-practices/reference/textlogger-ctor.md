@@ -4,7 +4,8 @@ Title: 'TextLogger Constructor (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Logging.TextLogger.\#ctor'
 ms:mtpsurl: 'textlogger-constructor-mspp-logging.md'
 ---
-
+
+
 # TextLogger Constructor
 
 ## Overload List
@@ -22,24 +23,25 @@ ms:mtpsurl: 'textlogger-constructor-mspp-logging.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger.">TextLogger()()()</a></td>
+<td>TextLogger</td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger">TextLogger</a> that writes to the console output.
+Initializes a new instance of <a href="/patterns-practices/reference/textlogger-class-mspp-logging">TextLogger</a> that writes to the console output.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger.">TextLogger(TextWriter)</a></td>
+<td>TextLogger(TextWriter)</td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger">TextLogger</a>.
+Initializes a new instance of <a href="/patterns-practices/reference/textlogger-class-mspp-logging">TextLogger</a>.
 </div></td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[TextLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger)
 
-[TextLogger Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.logging.textlogger)
+[TextLogger Class](/patterns-practices/reference/textlogger-class-mspp-logging)
 
-[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
+[TextLogger Members](/patterns-practices/reference/textlogger-members-mspp-logging)
+
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)

@@ -4,16 +4,13 @@ Title: 'Microsoft.Practices.Prism.MefExtensions.Regions Namespace ()'
 ms:assetid: 'N:Microsoft.Practices.Prism.MefExtensions.Regions'
 ms:mtpsurl: 'mspp-mefextensions-regions-namespace.md'
 ---
-
-# Microsoft.Practices.Prism.MefExtensions.Regions Namespace
 
- 
+
+# Microsoft.Practices.Prism.MefExtensions.Regions Namespace
 
 ## Classes
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

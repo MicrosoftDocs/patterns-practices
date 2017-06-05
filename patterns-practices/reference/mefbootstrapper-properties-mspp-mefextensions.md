@@ -4,16 +4,16 @@ Title: 'MefBootstrapper Properties (Microsoft.Practices.Prism.MefExtensions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper'
 ms:mtpsurl: 'mefbootstrapper-properties-mspp-mefextensions.md'
 ---
-
+
+
 # MefBootstrapper Properties
 
-The [MefBootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper) type exposes the following members.
+The [MefBootstrapper](/patterns-practices/reference/mefbootstrapper-class-mspp-mefextensions) type exposes the following members.
 
 ## Properties
 
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,46 +24,46 @@ The [MefBootstrapper](https://msdn.microsoft.com/library/microsoft.practices.pri
 <tbody>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper.aggregatecatalog">AggregateCatalog</a></td>
+<td><a href="/patterns-practices/reference/mefbootstrapper-aggregatecatalog-property-mspp-mefextensions">AggregateCatalog</a></td>
 <td><div class="summary">
-Gets or sets the default <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper.aggregatecatalog">AggregateCatalog</a> for the application.
+Gets or sets the default <a href="/patterns-practices/reference/mefbootstrapper-aggregatecatalog-property-mspp-mefextensions">AggregateCatalog</a> for the application.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper.container">Container</a></td>
+<td><a href="/patterns-practices/reference/mefbootstrapper-container-property-mspp-mefextensions">Container</a></td>
 <td><div class="summary">
 Gets or sets the default <a href="http://msdn.microsoft.com/en-us/library/dd833553">CompositionContainer</a> for the application.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.logger">Logger</a></td>
+<td><a href="/patterns-practices/reference/bootstrapper-logger-property-mspp">Logger</a></td>
 <td><div class="summary">
-Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a> for the application.
+Gets the <a href="/patterns-practices/reference/iloggerfacade-interface-mspp-logging">ILoggerFacade</a> for the application.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/bootstrapper-class-mspp">Bootstrapper</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.modulecatalog">ModuleCatalog</a></td>
+<td><a href="/patterns-practices/reference/bootstrapper-modulecatalog-property-mspp">ModuleCatalog</a></td>
 <td><div class="summary">
-Gets the default <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog">IModuleCatalog</a> for the application.
+Gets the default <a href="/patterns-practices/reference/imodulecatalog-interface-mspp-modularity">IModuleCatalog</a> for the application.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/bootstrapper-class-mspp">Bootstrapper</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.shell">Shell</a></td>
+<td><a href="/patterns-practices/reference/bootstrapper-shell-property-mspp">Shell</a></td>
 <td><div class="summary">
 Gets the shell user interface
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/bootstrapper-class-mspp">Bootstrapper</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[MefBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper)
 
-[Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions)
+[MefBootstrapper Class](/patterns-practices/reference/mefbootstrapper-class-mspp-mefextensions)  
+[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)
