@@ -574,7 +574,7 @@ Raises the [Activated](http://msdn2.microsoft.com/en-us/library/ms596796) event.
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[OnApplyTemplate](http://msdn2.microsoft.com/en-us/library/ms598234)</td>
 <td><div class="summary">
-When overridden in a derived class, is invoked whenever application code or internal processes call <a href="http://msdn2.microsoft.com/en-us/library/ms598092">ApplyTemplate()()()</a>.
+When overridden in a derived class, is invoked whenever application code or internal processes call <a href="http://msdn2.microsoft.com/en-us/library/ms598092">ApplyTemplate()</a>.
 </div>
 (Inherited from [FrameworkElement](http://msdn2.microsoft.com/en-us/library/ms602714).)</td>
 </tr>
@@ -2094,7 +2094,7 @@ Gets the size that this element computed during the measure pass of the layout p
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[DialogResult](http://msdn.microsoft.com/en-us/library/ms588776)</td>
 <td><div class="summary">
-Gets or sets the dialog result value, which is the value that is returned from the <a href="http://msdn.microsoft.com/en-us/library/ms599715">ShowDialog()()()</a> method.
+Gets or sets the dialog result value, which is the value that is returned from the <a href="http://msdn.microsoft.com/en-us/library/ms599715">ShowDialog()</a> method.
 </div>
 (Inherited from [Window](http://msdn.microsoft.com/en-us/library/ms590112).)</td>
 </tr>
@@ -2334,7 +2334,7 @@ Gets or sets a value that declares whether this element can possibly be returned
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[IsInitialized](http://msdn.microsoft.com/en-us/library/ms600884)</td>
 <td><div class="summary">
-Gets a value that indicates whether this element has been initialized, either during processing by a XAML processor, or by explicitly having its <a href="http://msdn.microsoft.com/en-us/library/ms598118">EndInit()()()</a> method called.
+Gets a value that indicates whether this element has been initialized, either during processing by a XAML processor, or by explicitly having its <a href="http://msdn.microsoft.com/en-us/library/ms598118">EndInit()</a> method called.
 </div>
 (Inherited from [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714).)</td>
 </tr>
@@ -3088,7 +3088,7 @@ Occurs when the window is about to close.
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td>[Closing](http://msdn.microsoft.com/en-us/library/ms596798)</td>
 <td><div class="summary">
-Occurs directly after <a href="http://msdn.microsoft.com/en-us/library/ms599697">Close()()()</a> is called, and can be handled to cancel window closure.
+Occurs directly after <a href="http://msdn.microsoft.com/en-us/library/ms599697">Close()</a> is called, and can be handled to cancel window closure.
 </div>
 (Inherited from [Window](http://msdn.microsoft.com/en-us/library/ms590112).)</td>
 </tr>
@@ -4231,7 +4231,7 @@ Begins the sequence of actions contained in the provided storyboard, with specif
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms598110">BringIntoView()()()</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms598110">BringIntoView()</a></td>
 <td><div class="summary">
 Attempts to bring this element into view, within any scrollable regions it is contained within.
 </div>
@@ -4496,7 +4496,7 @@ Returns the input element within the current element that is at the specified co
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[InvalidateArrange](http://msdn.microsoft.com/en-us/library/ms598917)</td>
 <td><div class="summary">
-Invalidates the arrange state (layout) for the element. After the invalidation, the element will have its layout updated, which will occur asynchronously unless subsequently forced by <a href="http://msdn.microsoft.com/en-us/library/ms599327">UpdateLayout()()()</a>.
+Invalidates the arrange state (layout) for the element. After the invalidation, the element will have its layout updated, which will occur asynchronously unless subsequently forced by <a href="http://msdn.microsoft.com/en-us/library/ms599327">UpdateLayout()</a>.
 </div>
 (Inherited from [UIElement](http://msdn.microsoft.com/en-us/library/ms590078).)</td>
 </tr>
@@ -4600,7 +4600,7 @@ Raises the [Activated](http://msdn.microsoft.com/en-us/library/ms596796) event.
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[OnApplyTemplate](http://msdn.microsoft.com/en-us/library/ms598234)</td>
 <td><div class="summary">
-When overridden in a derived class, is invoked whenever application code or internal processes call <a href="http://msdn.microsoft.com/en-us/library/ms598092">ApplyTemplate()()()</a>.
+When overridden in a derived class, is invoked whenever application code or internal processes call <a href="http://msdn.microsoft.com/en-us/library/ms598092">ApplyTemplate()</a>.
 </div>
 (Inherited from [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714).)</td>
 </tr>
@@ -6121,7 +6121,7 @@ Gets the size that this element computed during the measure pass of the layout p
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[DialogResult](http://msdn.microsoft.com/en-us/library/ms588776)</td>
 <td><div class="summary">
-Gets or sets the dialog result value, which is the value that is returned from the <a href="http://msdn.microsoft.com/en-us/library/ms599715">ShowDialog()()()</a> method.
+Gets or sets the dialog result value, which is the value that is returned from the <a href="http://msdn.microsoft.com/en-us/library/ms599715">ShowDialog()</a> method.
 </div>
 (Inherited from [Window](http://msdn.microsoft.com/en-us/library/ms590112).)</td>
 </tr>
@@ -6361,7 +6361,7 @@ Gets or sets a value that declares whether this element can possibly be returned
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[IsInitialized](http://msdn.microsoft.com/en-us/library/ms600884)</td>
 <td><div class="summary">
-Gets a value that indicates whether this element has been initialized, either during processing by a XAML processor, or by explicitly having its <a href="http://msdn.microsoft.com/en-us/library/ms598118">EndInit()()()</a> method called.
+Gets a value that indicates whether this element has been initialized, either during processing by a XAML processor, or by explicitly having its <a href="http://msdn.microsoft.com/en-us/library/ms598118">EndInit()</a> method called.
 </div>
 (Inherited from [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714).)</td>
 </tr>
@@ -7116,7 +7116,7 @@ Occurs when the window is about to close.
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
 <td>[Closing](http://msdn.microsoft.com/en-us/library/ms596798)</td>
 <td><div class="summary">
-Occurs directly after <a href="http://msdn.microsoft.com/en-us/library/ms599697">Close()()()</a> is called, and can be handled to cancel window closure.
+Occurs directly after <a href="http://msdn.microsoft.com/en-us/library/ms599697">Close()</a> is called, and can be handled to cancel window closure.
 </div>
 (Inherited from [Window](http://msdn.microsoft.com/en-us/library/ms590112).)</td>
 </tr>

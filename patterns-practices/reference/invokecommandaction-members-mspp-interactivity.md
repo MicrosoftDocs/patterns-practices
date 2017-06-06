@@ -484,12 +484,12 @@ Dependency property identifying the TriggerParameterPath to be parsed to identif
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td>AssociatedObject</td>
-<td>(Inherited from TriggerAction&lt;(Of &lt;(<a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>&gt;)&gt;).)</td>
+<td>(Inherited from TriggerAction&lt;(<a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>&gt;.)</td>
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td>AssociatedObjectTypeConstraint</td>
-<td>(Inherited from TriggerAction&lt;(Of &lt;(<a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>&gt;)&gt;).)</td>
+<td>(Inherited from TriggerAction&lt;<a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>&gt;.)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>

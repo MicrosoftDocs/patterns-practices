@@ -25,14 +25,14 @@ The [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practice
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters">NavigationParameters()</a></td>
+<td>NavigationParameters()</td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters">NavigationParameters</a> class.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.">NavigationParameters(String)</a></td>
+<td>NavigationParameters(String)</td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters">NavigationParameters</a> class with a query string.
 </div></td>
@@ -55,7 +55,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.add(system.string%2csystem.object)">Add</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.add">Add</a></td>
 <td><div class="summary">
 Adds the specified key and value.
 </div></td>

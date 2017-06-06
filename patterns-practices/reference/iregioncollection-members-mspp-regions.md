@@ -38,15 +38,15 @@ Checks if the collection contains a <a href="https://msdn.microsoft.com/library/
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/s793z9y2">GetEnumerator()()()</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/s793z9y2">GetEnumerator()</a></td>
 <td><div class="summary">
 Returns an enumerator that iterates through the collection.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/9eekhta0">IEnumerable</a>&lt;(Of &lt;(<a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion">IRegion</a>&gt;)&gt;).)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/9eekhta0">IEnumerable</a>&lt;<a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion">IRegion</a>&gt;.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/5zae5365">GetEnumerator()()()</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/5zae5365">GetEnumerator()</a></td>
 <td><div class="summary">
 Returns an enumerator that iterates through a collection.
 </div>
@@ -77,7 +77,7 @@ Removes a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.
 <tbody>
 <tr class="odd">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions.add(microsoft.practices.prism.regions.iregioncollection%2csystem.string%2cmicrosoft.practices.prism.regions.iregion)">Add</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions.add">Add</a></td>
 <td><div class="summary">
 Adds a region to the regionmanager with the name received as argument.
 </div>

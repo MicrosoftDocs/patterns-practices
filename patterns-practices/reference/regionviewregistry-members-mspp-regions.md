@@ -99,14 +99,22 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry.registerviewwithregion">RegisterViewWithRegion(String, Func&lt;Object&gt;)</a></td>
+
 <td>[RegisterViewWithRegion(String, Func&lt;(Of &lt;(Object&gt;)&gt;))](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry.registerviewwithregion(system.string%2csystem.func%7bsystem.object%7d))</td>
+
 <td><div class="summary">
 Registers a delegate that can be used to retrieve the content associated with a region name.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
+
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry.registerviewwithregion">RegisterViewWithRegion(String, Type)</a></td>
+
 <td>">[RegisterViewWithRegion(String, Type)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry.registerviewwithregion(system.string%2csystem.type))</td>
+
 <td><div class="summary">
 Registers a content type with a region name.
 </div></td>
@@ -145,6 +153,7 @@ Occurs whenever a new view is registered.
 </table>
 
 ## See Also
-[RegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry)
+
+[RegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
