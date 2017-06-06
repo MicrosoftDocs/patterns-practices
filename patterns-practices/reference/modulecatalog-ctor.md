@@ -4,7 +4,8 @@ Title: 'ModuleCatalog Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleCatalog.\#ctor'
 ms:mtpsurl: 'modulecatalog-constructor-ienumerable-moduleinfo-mspp-modularity.md'
 ---
-
+
+
 # ModuleCatalog Constructor
 
 ## Overload List
@@ -22,24 +23,25 @@ ms:mtpsurl: 'modulecatalog-constructor-ienumerable-moduleinfo-mspp-modularity.md
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog.">ModuleCatalog()()()</a></td>
+<td>ModuleCatalog</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog">ModuleCatalog</a> class.
+Initializes a new instance of the <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a> class.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog.">ModuleCatalog(IEnumerable&lt;(Of &lt;(ModuleInfo&gt;)&gt;))</a></td>
+<td>ModuleCatalog(IEnumerable(Of ModuleInfo))</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog">ModuleCatalog</a> class while providing an initial list of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a>s.
+Initializes a new instance of the <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a> class while providing an initial list of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>s.
 </div></td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
-[ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
+[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-memb-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
