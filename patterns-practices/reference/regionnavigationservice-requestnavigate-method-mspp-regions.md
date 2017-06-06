@@ -20,14 +20,14 @@ ms:mtpsurl: 'regionnavigationservice-requestnavigate-method-mspp-regions.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))](/patterns-practices/reference/regionnavigationservice-requestnavigate-method-uri-action-navigationresult-mspp-regions)</td>
+<td>[RequestNavigate(Uri, Action(Of NavigationResult))](/patterns-practices/reference/regionnavigationservice-requestnavigate-method-uri-action-navigationresult-mspp-regions)</td>
 <td><div class="summary">
 Initiates navigation to the specified target.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)](/patterns-practices/reference/regionnavigationservice-requestnavigate-method-uri-action-navigationresult-navigationparameters-mspp-regions)</td>
+<td>[RequestNavigate(Uri, Action(Of NavigationResult), NavigationParameters)](/patterns-practices/reference/regionnavigationservice-requestnavigate-method-uri-action-navigationresult-navigationparameters-mspp-regions)</td>
 <td><div class="summary">
 Initiates navigation to the specified target.
 </div></td>
@@ -39,6 +39,6 @@ Initiates navigation to the specified target.
 
 [RegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice)
 
-[RegionNavigationService Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationservice)
+[RegionNavigationService Members](https://review.docs.microsoft.com/patterns-practices/reference/regionnavigationservice-members-mspp-regions)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

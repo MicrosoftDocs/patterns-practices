@@ -4,8 +4,9 @@ Title: 'INavigateAsync.RequestNavigate Method (Uri, Action(NavigationResult), Na
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.INavigateAsync.RequestNavigate(System.Uri,System.Action{Microsoft.Practices.Prism.Regions.NavigationResult},Microsoft.Practices.Prism.Regions.NavigationParameters)'
 ms:mtpsurl: 'inavigateasync-requestnavigate-method-mspp-regions.md'
 ---
-
-# INavigateAsync.RequestNavigate Method (Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)
+
+
+# INavigateAsync.RequestNavigate Method (Uri, Action&lt;NavigationResult&gt;, NavigationParameters)
 
 Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
 
@@ -15,19 +16,26 @@ Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-void RequestNavigate( Uri target, Action&lt;NavigationResult&gt; navigationCallback, NavigationParameters navigationParameters )Sub RequestNavigate ( target As Uri, navigationCallback As Action(Of NavigationResult), navigationParameters As NavigationParameters )
+
+```C#
+   void RequestNavigate(
+	Uri target,
+	Action<NavigationResult> navigationCallback,
+	NavigationParameters navigationParameters
+) 
+```
 
 ### Parameters
 
-target  
+*target*  
 Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
 The navigation target
 
-navigationCallback  
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;(Of &lt;([NavigationResult](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult)&gt;)&gt;)
+*navigationCallback*  
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult)&gt;
 The callback executed when the navigation request is completed.
 
-navigationParameters  
+*navigationParameters*  
 Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
 The navigation parameters specific to the navigation request.
 
@@ -36,10 +44,61 @@ The navigation parameters specific to the navigation request.
  Convenience overloads for this method can be found as extension methods on the [NavigationAsyncExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions) class.
 
 ## See Also
-[INavigateAsync Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync)
 
-[INavigateAsync Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.inavigateasync)
+[INavigateAsync Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync)
 
-[RequestNavigate Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.regions.inavigateasync.requestnavigate)
+[INavigateAsync Members](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync_members(v=pandp.50))
+
+[RequestNavigate Overload](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync.requestnavigate(v=pandp.50))
+
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+
+
+
+# INavigateAsync.RequestNavigate Method (Uri, Action(Of NavigationResult), NavigationParameters)
+
+Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
+
+**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+```VB
+   'Declaration
+Sub RequestNavigate ( 
+	target As Uri,
+	navigationCallback As Action(Of NavigationResult),
+	navigationParameters As NavigationParameters
+) 
+```
+
+### Parameters
+
+*target*  
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
+The navigation target
+
+*navigationCallback*  
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [NavigationResult](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult))
+The callback executed when the navigation request is completed.
+
+*navigationParameters*  
+Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
+The navigation parameters specific to the navigation request.
+
+## Remarks
+
+ Convenience overloads for this method can be found as extension methods on the [NavigationAsyncExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationasyncextensions) class.
+
+## See Also
+
+[INavigateAsync Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync)
+
+[INavigateAsync Members](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync_members(v=pandp.50))
+
+[RequestNavigate Overload](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync.requestnavigate(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
