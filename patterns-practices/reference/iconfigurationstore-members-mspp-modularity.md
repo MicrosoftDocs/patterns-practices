@@ -4,10 +4,11 @@ Title: 'IConfigurationStore Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.IConfigurationStore'
 ms:mtpsurl: 'iconfigurationstore-members-mspp-modularity.md'
 ---
-
+
+
 # IConfigurationStore Members
 
-The [IConfigurationStore](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iconfigurationstore) type exposes the following members.
+The [IConfigurationStore](/patterns-practices/reference/iconfigurationstore-interface-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -24,7 +25,7 @@ The [IConfigurationStore](https://msdn.microsoft.com/library/microsoft.practices
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iconfigurationstore.retrievemoduleconfigurationsection">RetrieveModuleConfigurationSection</a></td>
+<td><a href="/patterns-practices/reference/iconfigurationstore-retrievemoduleconfigurationsection-method-mspp-modularity">RetrieveModuleConfigurationSection</a></td>
 <td><div class="summary">
 Gets the module configuration data.
 </div></td>
@@ -33,6 +34,7 @@ Gets the module configuration data.
 </table>
 
 ## See Also
-[IConfigurationStore Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iconfigurationstore)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[IConfigurationStore Interface](/patterns-practices/reference/iconfigurationstore-interface-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
