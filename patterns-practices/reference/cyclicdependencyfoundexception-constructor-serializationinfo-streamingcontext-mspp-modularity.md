@@ -4,7 +4,8 @@ Title: 'CyclicDependencyFoundException Constructor (SerializationInfo, Streaming
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException.\#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
 ms:mtpsurl: 'cyclicdependencyfoundexception-constructor-mspp-modularity.md'
 ---
-
+
+
 # CyclicDependencyFoundException Constructor (SerializationInfo, StreamingContext)
 
 Initializes a new instance of the [CyclicDependencyFoundException](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity) class with the serialization data.
@@ -31,17 +32,20 @@ Protected Sub New (
 	context As StreamingContext
 )
 ```
-### Parameters
+
+### Parameters
 
 *info*
 
-	Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)
-	Holds the serialized object data about the exception being thrown.
+Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)
+
+Holds the serialized object data about the exception being thrown.
 
 *context*
 
-	Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5)
-	Contains contextual information about the source or destination.
+Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5)
+
+Contains contextual information about the source or destination.
 
 ## See Also
 

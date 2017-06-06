@@ -4,7 +4,8 @@ Title: 'UnityBootstrapperExtension Constructor (Microsoft.Practices.Prism.UnityE
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtension.\#ctor'
 ms:mtpsurl: 'unitybootstrapperextension-constructor-mspp-unityextensions.md'
 ---
-
+
+
 # UnityBootstrapperExtension Constructor
 
 Initializes a new instance of the [UnityBootstrapperExtension](/patterns-practices/reference/unitybootstrapperextension-class-mspp-unityextensions) class
@@ -14,8 +15,10 @@ Initializes a new instance of the [UnityBootstrapperExtension](/patterns-practic
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-## Syntax
-```C#
+
+## Syntax
+
+```C#
 public UnityBootstrapperExtension()
 ```
 ```VB
@@ -24,7 +27,8 @@ Public Sub New
 ```
 
 ## See Also
-[UnityBootstrapperExtension Class](/patterns-practices/reference/unitybootstrapperextension-class-mspp-unityextensions)
+
+[UnityBootstrapperExtension Class](/patterns-practices/reference/unitybootstrapperextension-class-mspp-unityextensions)
 
 [UnityBootstrapperExtension Members](/patterns-practices/reference/unitybootstrapperextension-members-mspp-unityextensions)
 
