@@ -5,12 +5,11 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Events.DefaultDispatcher.\#ctor'
 ms:mtpsurl: 'defaultdispatcher-constructor-mspp-events.md'
 ---
 
-
 # DefaultDispatcher Constructor
 
-Initializes a new instance of the [DefaultDispatcher](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.defaultdispatcher(v=pandp.50)) class
+Initializes a new instance of the [DefaultDispatcher](/patterns-practices/reference/defaultdispatcher-class-mspp-events) class
 
-**Namespace:** [Microsoft.Practices.Prism.Events](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,8 +27,8 @@ Public Sub New
 
 ## See Also
 
-[DefaultDispatcher Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.defaultdispatcher(v=pandp.50))
+[DefaultDispatcher Class](/patterns-practices/reference/defaultdispatcher-class-mspp-events)
 
-[DefaultDispatcher Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events.defaultdispatcher_members(v=pandp.50))
+[DefaultDispatcher Members](/patterns-practices/reference/defaultdispatcher-members-mspp-events)
 
-[Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.events(v=pandp.50))
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)

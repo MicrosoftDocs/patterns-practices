@@ -7,9 +7,10 @@ ms:mtpsurl: 'mefbootstrapper-constructor-mspp-mefextensions.md'
 
 # MefBootstrapper Constructor
 
-Initializes a new instance of the [MefBootstrapper](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper(v=pandp.50)) class
+Initializes a new instance of the [MefBootstrapper](/patterns-practices/reference/mefbootstrapper-class-mspp-mefextensions) class
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions(v=pandp.50))  
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions](/patterns-practices/reference/mspp-mefextensions-namespace)  
+
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -26,6 +27,9 @@ Protected Sub New
 
 ## See Also
 
-[MefBootstrapper Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper(v=pandp.50))  
-[MefBootstrapper Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.mefbootstrapper_members(v=pandp.50))  
-[Microsoft.Practices.Prism.MefExtensions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions(v=pandp.50))
+[MefBootstrapper Class](/patterns-practices/reference/mefbootstrapper-class-mspp-mefextensions)
+
+[MefBootstrapper Members](/patterns-practices/reference/mefbootstrapper-members-mspp-mefextensions)
+
+[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)
+

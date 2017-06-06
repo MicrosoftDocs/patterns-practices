@@ -5,12 +5,11 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notifi
 ms:mtpsurl: 'notification-constructor-mspp-interactivity-interactionrequest.md'
 ---
 
-
 # Notification Constructor
 
-Initializes a new instance of the [Notification](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.notification(v=pandp.50)) class
+Initializes a new instance of the [Notification](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest) class
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -29,8 +28,8 @@ Public Sub New
 
 ## See Also
 
-[Notification Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.notification(v=pandp.50))
+[Notification Class](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest)
 
-[Notification Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.notification_members(v=pandp.50))
+[Notification Members](/patterns-practices/reference/notification-members-mspp-interactivity-interactionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

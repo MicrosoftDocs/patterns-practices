@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefContentControl
 ms:mtpsurl: 'mefcontentcontrolregionadapter-constructor-mspp-mefextensions-regions.md'
 ---
 
-
 # MefContentControlRegionAdapter Constructor
 
 Initializes a new instance of the [MefContentControlRegionAdapter](/patterns-practices/reference/mefcontentcontrolregionadapter-class-mspp-mefextensions-regions) class.
@@ -33,8 +32,10 @@ Public Sub New (
 
 ### Parameters
 
-regionBehaviorFactory  
+*regionBehaviorFactory*
+
 Type: [Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions)
+
 The region behavior factory.
 
 ## See Also
