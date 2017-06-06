@@ -4,7 +4,8 @@ Title: 'ModuleDependencyCollection Members (Microsoft.Practices.Prism.Modularity
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection'
 ms:mtpsurl: 'moduledependencycollection-members-mspp-modularity.md'
 ---
-
+
+
 # ModuleDependencyCollection Members
 
 The [ModuleDependencyCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection) type exposes the following members.
@@ -24,14 +25,14 @@ The [ModuleDependencyCollection](https://msdn.microsoft.com/library/microsoft.pr
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.">ModuleDependencyCollection()()()</a></td>
+<td>ModuleDependencyCollection</td>
 <td><div class="summary">
 Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection">ModuleDependencyCollection</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.">ModuleDependencyCollection(array&lt;ModuleDependencyConfigurationElement&gt;)</a></td>
+<td>ModuleDependencyCollection(ModuleDependencyConfigurationElement())</td>
 <td><div class="summary">
 Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection">ModuleDependencyCollection</a>.
 </div></td>
@@ -158,11 +159,11 @@ Copies the contents of the <a href="http://msdn.microsoft.com/en-us/library/a35w
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.createnewelement">CreateNewElement()()()</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.createnewelement">CreateNewElement</a></td>
 <td><div class="summary">
 Creates a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement">ModuleDependencyConfigurationElement</a>.
 </div>
-(Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection.CreateNewElement()()()</a>.)</td>
+(Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection.CreateNewElement</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -360,7 +361,7 @@ Resets the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">Configurat
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/5t09d48z">ResetModified</a></td>
 <td><div class="summary">
-Resets the value of the <a href="http://msdn.microsoft.com/en-us/library/sdfx3fsd">IsModified()()()</a> property to false when overridden in a derived class.
+Resets the value of the <a href="http://msdn.microsoft.com/en-us/library/sdfx3fsd">IsModified</a> property to false when overridden in a derived class.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
 </tr>
@@ -392,7 +393,7 @@ Sets a property to the specified value.
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms134164">SetReadOnly</a></td>
 <td><div class="summary">
-Sets the <a href="http://msdn.microsoft.com/en-us/library/ms134160">IsReadOnly()()()</a> property for the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a> object and for all sub-elements.
+Sets the <a href="http://msdn.microsoft.com/en-us/library/ms134160">IsReadOnly</a> property for the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a> object and for all sub-elements.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
 </tr>
@@ -526,7 +527,7 @@ Gets a value indicating whether access to the collection is synchronized.
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/es150ftc">Item[([(ConfigurationProperty])])</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/es150ftc">Item(ConfigurationProperty)</a></td>
 <td><div class="summary">
 Gets or sets a property or attribute of this configuration element.
 </div>
@@ -534,7 +535,7 @@ Gets or sets a property or attribute of this configuration element.
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/c8693ks1">Item[([(String])])</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/c8693ks1">Item(String)</a></td>
 <td><div class="summary">
 Gets or sets a property, attribute, or child element of this configuration element.
 </div>
@@ -542,7 +543,7 @@ Gets or sets a property, attribute, or child element of this configuration eleme
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.item(system.int32)">Item[([(Int32])])</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.item(system.int32)">Item(Int32)</a></td>
 <td><div class="summary">
 Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement">ModuleDependencyConfigurationElement</a> located at the specified index in the collection.
 </div></td>
@@ -623,6 +624,7 @@ Gets a value indicating whether an attempt to add a duplicate <a href="http://ms
 </table>
 
 ## See Also
-[ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
+
+[ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

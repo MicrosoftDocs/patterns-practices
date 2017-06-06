@@ -4,7 +4,8 @@ Title: 'ModuleConfigurationElement Members (Microsoft.Practices.Prism.Modularity
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement'
 ms:mtpsurl: 'moduleconfigurationelement-members-mspp-modularity.md'
 ---
-
+
+
 # ModuleConfigurationElement Members
 
 The [ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement) type exposes the following members.
@@ -24,14 +25,14 @@ The [ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.pr
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement.">ModuleConfigurationElement()()()</a></td>
+<td>ModuleConfigurationElement</td>
 <td><div class="summary">
 Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement.">ModuleConfigurationElement(String, String, String, Boolean)</a></td>
+<td>ModuleConfigurationElement(String, String, String, Boolean)</td>
 <td><div class="summary">
 Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a>.
 </div></td>
@@ -208,7 +209,7 @@ Resets the internal state of the <a href="http://msdn.microsoft.com/en-us/librar
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/47ezy87t">ResetModified</a></td>
 <td><div class="summary">
-Resets the value of the <a href="http://msdn.microsoft.com/en-us/library/cc19b3s9">IsModified()()()</a> method to false when implemented in a derived class.
+Resets the value of the <a href="http://msdn.microsoft.com/en-us/library/cc19b3s9">IsModified</a> method to false when implemented in a derived class.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
 </tr>
@@ -240,7 +241,7 @@ Sets a property to the specified value.
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms134139">SetReadOnly</a></td>
 <td><div class="summary">
-Sets the <a href="http://msdn.microsoft.com/en-us/library/ms134129">IsReadOnly()()()</a> property for the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> object and all subelements.
+Sets the <a href="http://msdn.microsoft.com/en-us/library/ms134129">IsReadOnly</a> property for the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> object and all subelements.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
 </tr>
@@ -332,7 +333,7 @@ Gets a value that indicates whether the <a href="http://msdn.microsoft.com/en-us
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/es150ftc">Item[([(ConfigurationProperty])])</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/es150ftc">Item(ConfigurationProperty)</a></td>
 <td><div class="summary">
 Gets or sets a property or attribute of this configuration element.
 </div>
@@ -340,7 +341,7 @@ Gets or sets a property or attribute of this configuration element.
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/c8693ks1">Item[([(String])])</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/c8693ks1">Item(String)</a></td>
 <td><div class="summary">
 Gets or sets a property, attribute, or child element of this configuration element.
 </div>
@@ -419,6 +420,7 @@ Gets or sets a value indicating whether the module should be loaded at startup.
 </table>
 
 ## See Also
-[ModuleConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
+
+[ModuleConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
