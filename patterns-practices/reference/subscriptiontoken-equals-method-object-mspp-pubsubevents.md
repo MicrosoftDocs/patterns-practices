@@ -4,7 +4,8 @@ Title: 'SubscriptionToken.Equals Method (Object) (Microsoft.Practices.Prism.PubS
 ms:assetid: 'M:Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken.Equals(System.Object)'
 ms:mtpsurl: 'subscriptiontoken-equals-method-mspp-pubsubevents.md'
 ---
-
+
+
 # SubscriptionToken.Equals Method (Object)
 
 Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
@@ -13,11 +14,16 @@ Determines whether the specified [Object](http://msdn.microsoft.com/en-us/librar
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-public override bool Equals( Object obj )Public Overrides Function Equals ( obj As Object ) As Boolean
+
+```C#
+   public override bool Equals(
+	Object obj
+) 
+```
 
 ### Parameters
 
-obj  
+*obj*  
 Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 The [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) to compare with the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 
@@ -34,10 +40,56 @@ true if the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 | [System.NullReferenceException](http://msdn.microsoft.com/en-us/library/8w0s4024) | The obj parameter is null. |
 
 ## See Also
-[SubscriptionToken Class](/patterns-practices/reference/mspp-mvvm-namespace.subscriptiontoken)
 
-[SubscriptionToken Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.subscriptiontoken)
+[SubscriptionToken Class](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)
 
-[Equals Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.pubsubevents.subscriptiontoken.equals)
+SubscriptionToken Members
+
+[Equals Overload](/patterns-practices/reference/subscriptiontoken-equals-method-mspp-pubsubevents)
+
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
+
+
+# SubscriptionToken.Equals Method (Object)
+
+Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
+
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)
+**Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) Version: 1.0.0.0 (1.0.0.0)
+
+## Syntax
+
+```VB
+   'Declaration
+Public Overrides Function Equals ( 
+	obj As Object
+) As Boolean
+```
+
+### Parameters
+
+*obj*  
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+The [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) to compare with the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
+
+### Return Value
+
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
+true if the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b); otherwise, false.
+
+## Exceptions
+
+
+| Exception                                                                              | Condition                  |
+|----------------------------------------------------------------------------------------|----------------------------|
+| [System.NullReferenceException](http://msdn.microsoft.com/en-us/library/8w0s4024) | The obj parameter is null. |
+
+## See Also
+
+[SubscriptionToken Class](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)
+
+SubscriptionToken Members
+
+[Equals Overload](/patterns-practices/reference/subscriptiontoken-equals-method-mspp-pubsubevents)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
