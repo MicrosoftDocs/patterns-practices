@@ -4,10 +4,10 @@ Title: 'LoadModuleCompletedEventArgs Members (Microsoft.Practices.Prism.Modulari
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.LoadModuleCompletedEventArgs'
 ms:mtpsurl: 'loadmodulecompletedeventargs-members-mspp-modularity.md'
 ---
-
+
 # LoadModuleCompletedEventArgs Members
 
-The [LoadModuleCompletedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs) type exposes the following members.
+The [LoadModuleCompletedEventArgs](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity) type exposes the following members.
 
 ## Constructors
 
@@ -24,9 +24,9 @@ The [LoadModuleCompletedEventArgs](https://msdn.microsoft.com/library/microsoft.
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs.">LoadModuleCompletedEventArgs</a></td>
+<td>LoadModuleCompletedEventArgs</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs">LoadModuleCompletedEventArgs</a> class.
+Initializes a new instance of the <a href="/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity">LoadModuleCompletedEventArgs</a> class.
 </div></td>
 </tr>
 </tbody>
@@ -111,21 +111,21 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs.error">Error</a></td>
+<td><a href="/patterns-practices/reference/loadmodulecompletedeventargs-error-property-mspp-modularity">Error</a></td>
 <td><div class="summary">
 Gets any error that occurred
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs.iserrorhandled">IsErrorHandled</a></td>
+<td><a href="/patterns-practices/reference/loadmodulecompletedeventargs-iserrorhandled-property-mspp-modularity">IsErrorHandled</a></td>
 <td><div class="summary">
 Gets or sets a value indicating whether the error has been handled by the event subscriber.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs.moduleinfo">ModuleInfo</a></td>
+<td><a href="/patterns-practices/reference/loadmodulecompletedeventargs-moduleinfo-property-mspp-modularity">ModuleInfo</a></td>
 <td><div class="summary">
 Gets the module info.
 </div></td>
@@ -134,6 +134,7 @@ Gets the module info.
 </table>
 
 ## See Also
-[LoadModuleCompletedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[LoadModuleCompletedEventArgs Class](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

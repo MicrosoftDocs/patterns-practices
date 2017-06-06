@@ -8,7 +8,7 @@ ms:mtpsurl: 'iregionviewregistry-members-mspp-regions.md'
 
 # IRegionViewRegistry Members
 
-The [IRegionViewRegistry](/patterns-practices/reference/mspp-regions-namespace.iregionviewregistry) type exposes the following members.
+The [IRegionViewRegistry](/patterns-practices/reference/iregionviewregistry-interface-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -25,21 +25,23 @@ The [IRegionViewRegistry](/patterns-practices/reference/mspp-regions-namespace.i
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.iregionviewregistry.getcontents(system.string)">GetContents</a></td>
+<td>[GetContents](/patterns-practices/reference/iregionviewregistry-getcontents-method-mspp-regions)</td>
 <td><div class="summary">
 Returns the contents associated with a region name.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.iregionviewregistry.registerviewwithregion(system.string%2csystem.func%7bsystem.object%7d)">RegisterViewWithRegion(String, Func&lt;(Of &lt;(Object&gt;)&gt;))</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.iregionviewregistry.registerviewwithregion">RegisterViewWithRegion(String, Func&lt;Object&gt;)</a></td>
+<td>[RegisterViewWithRegion(String, Func&lt;Object&gt;)](/patterns-practices/reference/iregionviewregistry-registerviewwithregion-method-string-func-object-mspp-regions)</td>
 <td><div class="summary">
 Registers a delegate that can be used to retrieve the content associated with a region name.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.iregionviewregistry.registerviewwithregion(system.string%2csystem.type)">RegisterViewWithRegion(String, Type)</a></td>
+<td><a href="/patterns-practices/reference/mspp-regions-namespace.iregionviewregistry.registerviewwithregion">RegisterViewWithRegion(String, Type)</a></td>
+<td>[RegisterViewWithRegion(String, Type)](/patterns-practices/reference/iregionviewregistry-registerviewwithregion-method-string-type-mspp-regions)</td>
 <td><div class="summary">
 Registers a content type with a region name.
 </div></td>
@@ -62,7 +64,7 @@ Registers a content type with a region name.
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.iregionviewregistry.contentregistered">ContentRegistered</a></td>
+<td>[ContentRegistered](/patterns-practices/reference/iregionviewregistry-contentregistered-event-mspp-regions)</td>
 <td><div class="summary">
 Event triggered when a content is registered to a region name.
 </div></td>
@@ -72,6 +74,6 @@ Event triggered when a content is registered to a region name.
 
 ## See Also
 
-[IRegionViewRegistry Interface](/patterns-practices/reference/mspp-regions-namespace.iregionviewregistry)
+[IRegionViewRegistry Interface](/patterns-practices/reference/iregionviewregistry-interface-mspp-regions)
 
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

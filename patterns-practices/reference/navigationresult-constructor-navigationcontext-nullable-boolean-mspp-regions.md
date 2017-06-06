@@ -23,17 +23,20 @@ public NavigationResult(
 	Nullable<bool> result
 )
 ```
-### Parameters
+
+### Parameters
 
 *context*
 
-    Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)
-    The context.
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)
+
+The context.
 
 *result*
 
-    Type: [System.Nullable](http://msdn.microsoft.com/en-us/library/b3h38hb0)&lt;[Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;
-    The result.
+Type: [System.Nullable](http://msdn.microsoft.com/en-us/library/b3h38hb0)&lt;[Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;
+
+The result.
 
 # NavigationResult Constructor (NavigationContext, Nullable(Of Boolean))
 
@@ -54,17 +57,20 @@ Public Sub New (
 	result As Nullable(Of Boolean)
 )
 ```
-### Parameters
+
+### Parameters
 
 *context*
 
-    Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)
-    The context.
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)
+
+The context.
 
 *result*
 
-    Type: [System.Nullable](http://msdn.microsoft.com/en-us/library/b3h38hb0)(Of [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50))
-    The result.
+Type: [System.Nullable](http://msdn.microsoft.com/en-us/library/b3h38hb0)(Of [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50))
+
+The result.
 
 ## See Also
 

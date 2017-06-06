@@ -25,21 +25,21 @@ The [WeakEventHandlerManager](https://msdn.microsoft.com/library/microsoft.pract
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager.addweakreferencehandler(system.collections.generic.list%7bsystem.weakreference%7d%40%2csystem.eventhandler%2csystem.int32)">AddWeakReferenceHandler</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager.addweakreferencehandler">AddWeakReferenceHandler</a></td>
 <td><div class="summary">
 Adds a handler to the supplied list in a weak way.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager.callweakreferencehandlers(system.object%2csystem.collections.generic.list%7bsystem.weakreference%7d)">CallWeakReferenceHandlers</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager.callweakreferencehandlers">CallWeakReferenceHandlers</a></td>
 <td><div class="summary">
 Invokes the handlers
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager.removeweakreferencehandler(system.collections.generic.list%7bsystem.weakreference%7d%2csystem.eventhandler)">RemoveWeakReferenceHandler</a></td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.weakeventhandlermanager.removeweakreferencehandler">RemoveWeakReferenceHandler</a></td>
 <td><div class="summary">
 Removes an event handler from the reference list.
 </div></td>

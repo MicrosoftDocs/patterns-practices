@@ -4,7 +4,8 @@ Title: 'ModuleDependencyCollection Constructor (Microsoft.Practices.Prism.Modula
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleDependencyCollection.\#ctor'
 ms:mtpsurl: 'moduledependencycollection-constructor-mspp-modularity.md'
 ---
-
+
+
 # ModuleDependencyCollection Constructor
 
 ## Overload List
@@ -22,24 +23,25 @@ ms:mtpsurl: 'moduledependencycollection-constructor-mspp-modularity.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.">ModuleDependencyCollection()()()</a></td>
+<td>ModuleDependencyCollection</td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection">ModuleDependencyCollection</a>.
+Initializes a new instance of <a href="/patterns-practices/reference/moduledependencycollection-class-mspp-modularity">ModuleDependencyCollection</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.">ModuleDependencyCollection(array&lt;ModuleDependencyConfigurationElement&gt;)</a></td>
+<td>ModuleDependencyCollection(ModuleDependencyConfigurationElement())</td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection">ModuleDependencyCollection</a>.
+Initializes a new instance of <a href="/patterns-practices/reference/moduledependencycollection-class-mspp-modularity">ModuleDependencyCollection</a>.
 </div></td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
 
-[ModuleDependencyCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencycollection)
+[ModuleDependencyCollection Class](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleDependencyCollection Members](/patterns-practices/reference/moduledependencycollection-members-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
