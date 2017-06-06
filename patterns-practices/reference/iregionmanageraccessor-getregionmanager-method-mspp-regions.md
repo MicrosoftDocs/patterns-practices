@@ -4,33 +4,47 @@ Title: 'IRegionManagerAccessor.GetRegionManager Method (Microsoft.Practices.Pris
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionManagerAccessor.GetRegionManager(System.Windows.DependencyObject)'
 ms:mtpsurl: 'iregionmanageraccessor-getregionmanager-method-mspp-regions.md'
 ---
-
+
 # IRegionManagerAccessor.GetRegionManager Method
 
 Gets the value of the RegionName attached property.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-IRegionManager GetRegionManager( DependencyObject element )Function GetRegionManager ( element As DependencyObject ) As IRegionManager
+
+```C#
+IRegionManager GetRegionManager(
+	DependencyObject element
+)
+```
+
+```VB
+'Declaration
+Function GetRegionManager ( 
+	element As DependencyObject
+) As IRegionManager
+```
 
 ### Parameters
 
-element  
-Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
+*element*<br/>
+Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)<br/>
 The target element.
 
 ### Return Value
 
-Type: [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager)
+Type: [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager)<br/>
 The [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager) attached to the element element.
 
 ## See Also
-[IRegionManagerAccessor Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor)
 
-[IRegionManagerAccessor Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionmanageraccessor)
+[IRegionManagerAccessor Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor)
+
+[IRegionManagerAccessor Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor_members(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
