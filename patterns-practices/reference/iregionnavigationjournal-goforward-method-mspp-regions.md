@@ -4,22 +4,32 @@ Title: 'IRegionNavigationJournal.GoForward Method (Microsoft.Practices.Prism.Reg
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionNavigationJournal.GoForward'
 ms:mtpsurl: 'iregionnavigationjournal-goforward-method-mspp-regions.md'
 ---
-
+
 # IRegionNavigationJournal.GoForward Method
 
 Navigates to the most recent entry in the forward navigation history, or does nothing if no entry exists in forward navigation.
 
 **Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-void GoForward()Sub GoForward
 
-## See Also
-[IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
+```C#
+void GoForward()
+````
 
-[IRegionNavigationJournal Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionnavigationjournal)
+```VB
+'Declaration
+Sub GoForward
+```
+
+##  See Also
+
+[IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
+
+[IRegionNavigationJournal Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal_members(v=pandp.50))
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
