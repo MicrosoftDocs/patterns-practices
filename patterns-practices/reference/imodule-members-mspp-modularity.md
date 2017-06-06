@@ -4,10 +4,11 @@ Title: 'IModule Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.IModule'
 ms:mtpsurl: 'imodule-members-mspp-modularity.md'
 ---
-
+
+
 # IModule Members
 
-The [IModule](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule) type exposes the following members.
+The [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -24,7 +25,7 @@ The [IModule](https://msdn.microsoft.com/library/microsoft.practices.prism.modul
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule.initialize">Initialize</a></td>
+<td><a href="/patterns-practices/reference/imodule-initialize-method-mspp-modularity">Initialize</a></td>
 <td><div class="summary">
 Notifies the module that it has be initialized.
 </div></td>
@@ -33,6 +34,7 @@ Notifies the module that it has be initialized.
 </table>
 
 ## See Also
-[IModule Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[IModule Interface](/patterns-practices/reference/imodule-interface-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

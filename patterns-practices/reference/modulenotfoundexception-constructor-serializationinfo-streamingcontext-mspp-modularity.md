@@ -4,7 +4,8 @@ Title: 'ModuleNotFoundException Constructor (SerializationInfo, StreamingContext
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleNotFoundException.\#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
 ms:mtpsurl: 'modulenotfoundexception-constructor-mspp-modularity.md'
 ---
-
+
+
 # ModuleNotFoundException Constructor (SerializationInfo, StreamingContext)
 
 Initializes a new instance of the [ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity) class with the serialization data.
@@ -31,7 +32,8 @@ Protected Sub New (
 	context As StreamingContext
 )
 ```
-### Parameters
+
+### Parameters
 
 *info* 
  
@@ -46,7 +48,8 @@ Protected Sub New (
    Contains contextual information about the source or destination.
 
 ## See Also
-[ModuleNotFoundException Class](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity)
+
+[ModuleNotFoundException Class](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity)
 
 [ModuleNotFoundException Members](/patterns-practices/reference/modulenotfoundexception-members-mspp-modularity)
 

@@ -4,7 +4,8 @@ Title: 'ModuleCatalog.CreateFromXaml Method (Microsoft.Practices.Prism.Modularit
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleCatalog.CreateFromXaml'
 ms:mtpsurl: 'modulecatalog-createfromxaml-method-mspp-modularity.md'
 ---
-
+
+
 # ModuleCatalog.CreateFromXaml Method
 
 ## Overload List
@@ -22,24 +23,25 @@ ms:mtpsurl: 'modulecatalog-createfromxaml-method-mspp-modularity.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog.createfromxaml(system.io.stream)">CreateFromXaml(Stream)</a></td>
+<td><a href="/patterns-practices/reference/modulecatalog-createfromxaml-method-stream-mspp-modularity">CreateFromXaml(Stream)</a></td>
 <td><div class="summary">
-Creates a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog">ModuleCatalog</a> from XAML.
+Creates a <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a> from XAML.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog.createfromxaml(system.uri)">CreateFromXaml(Uri)</a></td>
+<td><a href="/patterns-practices/reference/modulecatalog-createfromxaml-method-uri-mspp-modularity">CreateFromXaml(Uri)</a></td>
 <td><div class="summary">
-Creates a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog">ModuleCatalog</a> from a XAML included as an Application Resource.
+Creates a <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a> from a XAML included as an Application Resource.
 </div></td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
-[ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
+[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

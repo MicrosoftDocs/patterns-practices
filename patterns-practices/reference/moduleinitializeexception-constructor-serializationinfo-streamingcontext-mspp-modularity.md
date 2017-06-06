@@ -4,7 +4,8 @@ Title: 'ModuleInitializeException Constructor (SerializationInfo, StreamingConte
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInitializeException.\#ctor(System.Runtime.Serialization.SerializationInfo,System.Runtime.Serialization.StreamingContext)'
 ms:mtpsurl: 'moduleinitializeexception-constructor-mspp-modularity.md'
 ---
-
+
+
 # ModuleInitializeException Constructor (SerializationInfo, StreamingContext)
 
 Initializes a new instance with serialized data.
@@ -14,8 +15,10 @@ Initializes a new instance with serialized data.
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-## Syntax
-```C#
+
+## Syntax
+
+```C#
 protected ModuleInitializeException(
 	SerializationInfo info,
 	StreamingContext context
@@ -42,7 +45,8 @@ Type: [System.Runtime.Serialization.StreamingContext](http://msdn.microsoft.com/
 The [StreamingContext](http://msdn.microsoft.com/en-us/library/t16abws5) that contains contextual information about the source or destination.
 
 ## See Also
-[ModuleInitializeException Class](/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity)
+
+[ModuleInitializeException Class](/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity)
 
 [ModuleInitializeException Members](/patterns-practices/reference/moduleinitializeexception-members-mspp-modularity)
 

@@ -4,7 +4,8 @@ Title: 'ModuleInfoGroup.Insert Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Insert'
 ms:mtpsurl: 'moduleinfogroup-insert-method-int32-moduleinfo-mspp-modularity.md'
 ---
-
+
+
 # ModuleInfoGroup.Insert Method
 
 ## Overload List
@@ -22,24 +23,25 @@ ms:mtpsurl: 'moduleinfogroup-insert-method-int32-moduleinfo-mspp-modularity.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup.insert(system.int32%2cmicrosoft.practices.prism.modularity.moduleinfo)">Insert(Int32, ModuleInfo)</a></td>
+<td><a href="/patterns-practices/reference/moduleinfogroup-insert-method-int32-moduleinfo-mspp-modularity">Insert(Int32, ModuleInfo)</a></td>
 <td><div class="summary">
-Inserts an item to the <a href="http://msdn.microsoft.com/en-us/library/5y536ey6">IList&lt;(Of &lt;(T&gt;)&gt;)</a> at the specified index.
+Inserts an item to the <a href="http://msdn.microsoft.com/en-us/library/5y536ey6">IList(Of T)</a> at the specified index.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup.insert(system.int32%2csystem.object)">Insert(Int32, Object)</a></td>
+<td><a href="/patterns-practices/reference/moduleinfogroup-insert-method-int32-object-mspp-modularity">Insert(Int32, Object)</a></td>
 <td><div class="summary">
-Inserts an item to the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup">ModuleInfoGroup</a> at the specified index.
+Inserts an item to the <a href="/patterns-practices/reference/moduleinfogroup-class-mspp-modularity">ModuleInfoGroup</a> at the specified index.
 </div></td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 
-[ModuleInfoGroup Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroup)
+[ModuleInfoGroup Class](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleInfoGroup Members](/patterns-practices/reference/moduleinfogroup-members-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
