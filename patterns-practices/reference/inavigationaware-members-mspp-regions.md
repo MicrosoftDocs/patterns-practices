@@ -4,13 +4,13 @@ Title: 'INavigationAware Members (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.INavigationAware'
 ms:mtpsurl: 'inavigationaware-members-mspp-regions.md'
 ---
-
+
+
 # INavigationAware Members
 
 The [INavigationAware](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware) type exposes the following members.
 
 ## Methods
-
 
 <table>
 
@@ -47,6 +47,7 @@ Called when the implementer has been navigated to.
 </table>
 
 ## See Also
-[INavigationAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware)
+
+[INavigationAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigationaware)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
