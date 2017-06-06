@@ -9,9 +9,11 @@ ms:mtpsurl: 'iregionnavigationjournalentry-parameters-property-mspp-regions.md'
 
 Gets or sets the NavigationParameters instance.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) 
+
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -28,12 +30,12 @@ Property Parameters As NavigationParameters
 
 ### Property Value
 
-Type: [NavigationParameters](/patterns-practices/reference/mspp-regions-namespace.navigationparameters)
+Type: [NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)
 
 See Also
 
-[IRegionNavigationJournalEntry Interface](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournalentry)
+[IRegionNavigationJournalEntry Interface](/patterns-practices/reference/iregionnavigationjournalentry-interface-mspp-regions)
 
-[IRegionNavigationJournalEntry Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournalentry_members(v=pandp.50))
+[IRegionNavigationJournalEntry Members](/patterns-practices/reference/iregionnavigationjournalentry-members-mspp-regions)
 
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

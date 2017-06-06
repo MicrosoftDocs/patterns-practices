@@ -45,8 +45,6 @@ Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 When **truetrue** (**True** in Visual Basic), the [PubSubEvent&lt;TPayload&gt; ](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent) keeps a reference to the subscriber so it does not get garbage collected.
 
-*filter*  
-
 *keepSubscriberReferenceAlive*
   
 Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
@@ -131,8 +129,6 @@ Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 When **Truetrue** (**True** in Visual Basic), the [PubSubEvent(Of TPayload)](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent) keeps a reference to the subscriber so it does not get garbage collected.
 
-*filter*  
-
 *keepSubscriberReferenceAlive*
   
 Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
@@ -165,9 +161,5 @@ If *keepSubscriberReferenceAlive* is set to **Falsefalse** (**False** in Visual 
 PubSubEvent(Of TPayload) Members
 
 [Subscribe Overload](/patterns-practices/reference/pubsubevent-tpayload-subscribe-method-mspp-pubsubevents)
-
-[PubSubEvent(Of TPayload) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.pubsubevents.pubsubevent)
-
-[Subscribe Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.pubsubevents.pubsubevent.subscribe)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
