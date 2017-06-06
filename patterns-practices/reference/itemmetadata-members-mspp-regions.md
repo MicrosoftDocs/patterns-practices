@@ -8,7 +8,7 @@ ms:mtpsurl: 'itemmetadata-members-mspp-regions.md'
 
 # ItemMetadata Members
 
-The [ItemMetadata](/patterns-practices/reference/mspp-regions-namespace.itemmetadata) type exposes the following members.
+The [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions) type exposes the following members.
 
 ## Constructors
 
@@ -25,9 +25,9 @@ The [ItemMetadata](/patterns-practices/reference/mspp-regions-namespace.itemmeta
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.itemmetadata.">ItemMetadata</a></td>
+<td>[ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions)</td>
 <td><div class="summary">
-Initializes a new instance of <a href="/patterns-practices/reference/mspp-regions-namespace.itemmetadata">ItemMetadata</a>.
+Initializes a new instance of [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions).
 </div></td>
 </tr>
 </tbody>
@@ -231,14 +231,14 @@ Enforces that the calling thread has access to this <a href="http://msdn.microso
 <tbody>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.itemmetadata.isactiveproperty">IsActiveProperty</a></td>
+<td>[IsActiveProperty](/patterns-practices/reference/itemmetadata-isactiveproperty-field-mspp-regions)</td>
 <td><div class="summary">
 Value indicating whether the wrapped item is considered active.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.itemmetadata.nameproperty">NameProperty</a></td>
+<td>[NameProperty](/patterns-practices/reference/itemmetadata-nameproperty-field-mspp-regions)</td>
 <td><div class="summary">
 The name of the wrapped item.
 </div></td>
@@ -322,7 +322,7 @@ Gets or sets a name for the wrapped item.
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.itemmetadata.metadatachanged">MetadataChanged</a></td>
+<td><a href="/patterns-practices/reference/itemmetadata-metadatachanged-event-mspp-regions">MetadataChanged</a></td>
 <td><div class="summary">
 Occurs when metadata on the item changes.
 </div></td>
@@ -332,6 +332,6 @@ Occurs when metadata on the item changes.
 
 ## See Also
 
-[ItemMetadata Class](/patterns-practices/reference/mspp-regions-namespace.itemmetadata)
+[ItemMetadata Class](/patterns-practices/reference/itemmetadata-class-mspp-regions)
 
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
