@@ -4,7 +4,8 @@ Title: 'ModuleCatalog.AddModule Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddModule'
 ms:mtpsurl: 'addmodule-mthd-str-str-initializationmode-str.md'
 ---
-
+
+
 # ModuleCatalog.AddModule Method
 
 ## Overload List
@@ -22,52 +23,53 @@ ms:mtpsurl: 'addmodule-mthd-str-str-initializationmode-str.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog.addmodule(microsoft.practices.prism.modularity.moduleinfo)">AddModule(ModuleInfo)</a></td>
+<td><a href="/patterns-practices/reference/modulecatalog-addmodule-method-moduleinfo-mspp-modularity">AddModule(ModuleInfo)</a></td>
 <td><div class="summary">
-Adds a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a> to the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog">ModuleCatalog</a>.
+Adds a <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a> to the <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog.addmodule(system.type%2csystem.string%5b%5d)">AddModule(Type, array&lt;String&gt;)</a></td>
+<td><a href="/patterns-practices/reference/addmodule-mthd-type-str">AddModule(Type, String())</a></td>
 <td><div class="summary">
-Adds a groupless <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a> to the catalog.
+Adds a groupless <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a> to the catalog.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog.addmodule(system.string%2csystem.string%2csystem.string%5b%5d)">AddModule(String, String, array&lt;String&gt;)</a></td>
+<td><a href="/patterns-practices/reference/addmodule-mthd-str-str-str">AddModule(String, String, String())</a></td>
 <td><div class="summary">
-Adds a groupless <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a> to the catalog.
+Adds a groupless <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a> to the catalog.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog.addmodule(system.type%2cmicrosoft.practices.prism.modularity.initializationmode%2csystem.string%5b%5d)">AddModule(Type, InitializationMode, array&lt;String&gt;)</a></td>
+<td><a href="/patterns-practices/reference/addmodule-mthd-type-initializationmode-str">AddModule(Type, InitializationMode, String())</a></td>
 <td><div class="summary">
-Adds a groupless <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a> to the catalog.
+Adds a groupless <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a> to the catalog.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog.addmodule(system.string%2csystem.string%2cmicrosoft.practices.prism.modularity.initializationmode%2csystem.string%5b%5d)">AddModule(String, String, InitializationMode, array&lt;String&gt;)</a></td>
+<td><a href="/patterns-practices/reference/addmodule-mthd-str-str-initializationmode-str">AddModule(String, String, InitializationMode, String())</a></td>
 <td><div class="summary">
-Adds a groupless <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a> to the catalog.
+Adds a groupless <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a> to the catalog.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog.addmodule(system.string%2csystem.string%2csystem.string%2cmicrosoft.practices.prism.modularity.initializationmode%2csystem.string%5b%5d)">AddModule(String, String, String, InitializationMode, array&lt;String&gt;)</a></td>
+<td><a href="/patterns-practices/reference/addmodule-mthd-str-str-str-initializationmode-str">AddModule(String, String, String, InitializationMode, String())</a></td>
 <td><div class="summary">
-Adds a groupless <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a> to the catalog.
+Adds a groupless <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a> to the catalog.
 </div></td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[ModuleCatalog Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog)
 
-[ModuleCatalog Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulecatalog)
+[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

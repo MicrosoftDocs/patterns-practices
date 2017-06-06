@@ -4,7 +4,8 @@ Title: 'FileModuleTypeLoader Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader.\#ctor'
 ms:mtpsurl: 'filemoduletypeloader-constructor-iassemblyresolver-mspp-modularity.md'
 ---
-
+
+
 # FileModuleTypeLoader Constructor
 
 ## Overload List
@@ -22,24 +23,25 @@ ms:mtpsurl: 'filemoduletypeloader-constructor-iassemblyresolver-mspp-modularity.
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.">FileModuleTypeLoader()()()</a></td>
+<td>FileModuleTypeLoader</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader">FileModuleTypeLoader</a> class.
+Initializes a new instance of the <a href="/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity">FileModuleTypeLoader</a> class.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.">FileModuleTypeLoader(IAssemblyResolver)</a></td>
+<td>FileModuleTypeLoader(IAssemblyResolver)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader">FileModuleTypeLoader</a> class.
+Initializes a new instance of the <a href="/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity">FileModuleTypeLoader</a> class.
 </div></td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[FileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader)
 
-[FileModuleTypeLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.filemoduletypeloader)
+[FileModuleTypeLoader Class](/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[FileModuleTypeLoader Members](/patterns-practices/reference/filemoduletypeloader-members-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

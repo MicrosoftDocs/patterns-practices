@@ -21,11 +21,11 @@ ms:mtpsurl: 'moduledependencycoll-createnew-method.md'
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.createnewelement">CreateNewElement()()()</a></td>
+<td><a href="/patterns-practices/reference/moduledependencycoll-createnew-method">CreateNewElement</a></td>
 <td><div class="summary">
-Creates a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement">ModuleDependencyConfigurationElement</a>.
+Creates a new <a href="/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity">ModuleDependencyConfigurationElement</a>.
 </div>
-(Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection..::.CreateNewElement()()()</a>.)</td>
+(Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection.CreateNewElement</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
