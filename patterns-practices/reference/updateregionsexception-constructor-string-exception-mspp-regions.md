@@ -4,7 +4,8 @@ Title: 'UpdateRegionsException Constructor (String, Exception) (Microsoft.Practi
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.UpdateRegionsException.\#ctor(System.String,System.Exception)'
 ms:mtpsurl: 'updateregionsexception-constructor-mspp-regions.md'
 ---
-
+
+
 # UpdateRegionsException Constructor (String, Exception)
 
 Initializes a new instance of the [UpdateRegionsException](/patterns-practices/reference/updateregionsexception-class-mspp-regions) class with a specified error message and a reference to the inner exception that is the cause of this exception.
@@ -14,8 +15,10 @@ Initializes a new instance of the [UpdateRegionsException](/patterns-practices/r
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-## Syntax
-```C#
+
+## Syntax
+
+```C#
 public UpdateRegionsException(
 	string message,
 	Exception inner
@@ -28,7 +31,8 @@ Public Sub New (
 	inner As Exception
 )
 ```
-### Parameters
+
+### Parameters
 
 *message*  
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
@@ -41,7 +45,8 @@ Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interf
 The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified.
 
 ## See Also
-[UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions)
+
+[UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions)
 
 [UpdateRegionsException Members](/patterns-practices/reference/updateregionsexception-members-mspp-regions)
 

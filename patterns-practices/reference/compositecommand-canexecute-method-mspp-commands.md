@@ -4,14 +4,17 @@ Title: 'CompositeCommand.CanExecute Method (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.CanExecute(System.Object)'
 ms:mtpsurl: 'compositecommand-canexecute-method-mspp-commands.md'
 ---
-
+
+
 # CompositeCommand.CanExecute Method
 
 Forwards [CanExecute(Object)](http://msdn.microsoft.com/en-us/library/ms604093) to the registered commands and returns **truetrue** (**True** in Visual Basic) if all of the commands return **truetrue** (**True** in Visual Basic).
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
@@ -26,7 +29,8 @@ Public Overridable Function CanExecute (
 	parameter As Object
 ) As Boolean
 ```
-### Parameters
+
+### Parameters
 
 *parameter*  
 Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
@@ -43,7 +47,8 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 [ICommand.CanExecute(Object)](http://msdn.microsoft.com/en-us/library/ms604093)
 
 ## See Also
-[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)
+
+[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)
 
 [CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)
 
