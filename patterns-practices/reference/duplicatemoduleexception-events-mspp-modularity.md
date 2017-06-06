@@ -4,10 +4,10 @@ Title: 'DuplicateModuleException Events (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.Modularity.DuplicateModuleException'
 ms:mtpsurl: 'duplicatemoduleexception-events-mspp-modularity.md'
 ---
-
+
 # DuplicateModuleException Events
 
-The [DuplicateModuleException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception) type exposes the following members.
+The [DuplicateModuleException](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity) type exposes the following members.
 
 ## Events
 
@@ -22,18 +22,18 @@ The [DuplicateModuleException](https://msdn.microsoft.com/library/microsoft.prac
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected event](/patterns-practices/reference/images/protevent.gif)</td>
+<td>![Protected event](/images/protevent.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ee332915">SerializeObjectState</a></td>
 <td><div class="summary">
 Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.
 </div>
-(Inherited from <a href="/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents">Exception</a>.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/c18k6c59">Exception</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[DuplicateModuleException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception)
+[DuplicateModuleException Class](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

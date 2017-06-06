@@ -9,11 +9,11 @@ ms:mtpsurl: 'navigationparameters-add-method-mspp-regions.md'
 
 Adds the specified key and value.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll) Version: 5.0.0.0 (5.0.0.0)
+**Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
@@ -44,8 +44,8 @@ Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) The valu
 
 ## See Also
 
-[NavigationParameters Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
+[NavigationParameters Class](/patterns-practices/reference/mspp-regions-namespace.navigationparameters)
 
 [NavigationParameters Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationparameters)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
