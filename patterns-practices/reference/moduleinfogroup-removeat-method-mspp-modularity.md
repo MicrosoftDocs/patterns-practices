@@ -4,28 +4,34 @@ Title: 'ModuleInfoGroup.RemoveAt Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.RemoveAt(System.Int32)'
 ms:mtpsurl: 'moduleinfogroup-removeat-method-mspp-modularity.md'
 ---
-
+
 # ModuleInfoGroup.RemoveAt Method
 
-Removes the [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/5y536ey6) item at the specified index.
+Removes the [IList&lt;T&gt;](http://msdn.microsoft.com/en-us/library/5y536ey6) item at the specified index.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public void RemoveAt( int index )Public Sub RemoveAt ( index As Integer )
+
+```C#
+public void RemoveAt(
+	int index
+)
+```
 
 ### Parameters
 
-index  
-Type: [System.Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
+*index*    
+Type: [System.Int32](http://msdn.microsoft.com/en-us/library/td2s409d)  
 The zero-based index of the item to remove.
 
 ### Implements
 
-[IList&lt;(Of &lt;(T&gt;)&gt;).RemoveAt(Int32)](http://msdn.microsoft.com/en-us/library/c93ab5c9)
+[IList&lt;T&gt;.RemoveAt(Int32)](http://msdn.microsoft.com/en-us/library/c93ab5c9)
 [IList.RemoveAt(Int32)](http://msdn.microsoft.com/en-us/library/x5zwtyhy)
 
 ## Exceptions
@@ -33,12 +39,50 @@ The zero-based index of the item to remove.
 
 | Exception                                                                                   | Condition                                                                                                             |
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| [System.ArgumentOutOfRangeException](http://msdn.microsoft.com/en-us/library/8xt94y6e) | index is not a valid index in the [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/5y536ey6). |
-| [System.NotSupportedException](http://msdn.microsoft.com/en-us/library/8a7a4e64)       | The [IList&lt;(Of &lt;(T&gt;)&gt;)](http://msdn.microsoft.com/en-us/library/5y536ey6) is read-only.                  |
+| [System.ArgumentOutOfRangeException](http://msdn.microsoft.com/en-us/library/8xt94y6e) | index is not a valid index in the [IList&lt;T&gt;](http://msdn.microsoft.com/en-us/library/5y536ey6). |
+| [System.NotSupportedException](http://msdn.microsoft.com/en-us/library/8a7a4e64)       | The [IList&lt;T&gt;](http://msdn.microsoft.com/en-us/library/5y536ey6) is read-only.                  |
+
+Removes the [IList(Of T)](http://msdn.microsoft.com/en-us/library/5y536ey6) item at the specified index.
+
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+```VB
+'Declaration
+Public Sub RemoveAt ( 
+	index As Integer
+)
+```
+
+### Parameters
+
+*index*    
+Type: [System.Int32](http://msdn.microsoft.com/en-us/library/td2s409d)  
+The zero-based index of the item to remove.
+
+### Implements
+
+[IList(Of T).RemoveAt(Int32)](http://msdn.microsoft.com/en-us/library/c93ab5c9)
+[IList.RemoveAt(Int32)](http://msdn.microsoft.com/en-us/library/x5zwtyhy)
+
+## Exceptions
+
+
+| Exception                                                                                   | Condition                                                                                                             |
+|---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
+| [System.ArgumentOutOfRangeException](http://msdn.microsoft.com/en-us/library/8xt94y6e) | index is not a valid index in the [IList(Of T)](http://msdn.microsoft.com/en-us/library/5y536ey6). |
+| [System.NotSupportedException](http://msdn.microsoft.com/en-us/library/8a7a4e64)       | The [IList(Of T)](http://msdn.microsoft.com/en-us/library/5y536ey6) is read-only.                  |
+
 
 ## See Also
-[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
 
-[ModuleInfoGroup Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleinfogroup)
+[ModuleInfoGroup Class](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleInfoGroup Members](/patterns-practices/reference/moduleinfogroup-members-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
