@@ -4,10 +4,10 @@ Title: 'IModuleInitializer Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.IModuleInitializer'
 ms:mtpsurl: 'imoduleinitializer-methods-mspp-modularity.md'
 ---
-
+
 # IModuleInitializer Methods
 
-The [IModuleInitializer](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduleinitializer) type exposes the following members.
+The [IModuleInitializer](/patterns-practices/reference/imoduleinitializer-interface-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -24,7 +24,7 @@ The [IModuleInitializer](https://msdn.microsoft.com/library/microsoft.practices.
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduleinitializer.initialize(microsoft.practices.prism.modularity.moduleinfo)">Initialize</a></td>
+<td><a href="/patterns-practices/reference/imoduleinitializer-initialize-method-mspp-modularity">Initialize</a></td>
 <td><div class="summary">
 Initializes the specified module.
 </div></td>
@@ -33,6 +33,7 @@ Initializes the specified module.
 </table>
 
 ## See Also
-[IModuleInitializer Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduleinitializer)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[IModuleInitializer Interface](/patterns-practices/reference/imoduleinitializer-interface-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
