@@ -12,7 +12,6 @@ The [Notification](/patterns-practices/reference/notification-class-mspp-interac
 ## Methods
  
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

@@ -4,10 +4,11 @@ Title: 'MefAutoPopulateRegionBehavior Methods (Microsoft.Practices.Prism.MefExte
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefAutoPopulateRegionBehavior'
 ms:mtpsurl: 'mefautopopulateregionbehavior-methods-mspp-mefextensions-regions-behaviors.md'
 ---
-
+
+
 # MefAutoPopulateRegionBehavior Methods
 
-The [MefAutoPopulateRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior) type exposes the following members.
+The [MefAutoPopulateRegionBehavior](/patterns-practices/reference/mefautopopulateregionbehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
 
 ## Methods
 
@@ -24,27 +25,27 @@ The [MefAutoPopulateRegionBehavior](https://msdn.microsoft.com/library/microsoft
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior.addviewintoregion(system.object)">AddViewIntoRegion</a></td>
+<td><a href="/patterns-practices/reference/autopopulateregionbehavior-addviewintoregion-method-mspp-regions-behaviors">AddViewIntoRegion</a></td>
 <td><div class="summary">
 Adds a view into the views collection of this region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior">AutoPopulateRegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/autopopulateregionbehavior-class-mspp-regions-behaviors">AutoPopulateRegionBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.attach">Attach</a></td>
+<td><a href="/patterns-practices/reference/regionbehavior-attach-method-mspp-regions">Attach</a></td>
 <td><div class="summary">
 Attaches the behavior to the region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions">RegionBehavior</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior.createviewstoautopopulate">CreateViewsToAutoPopulate</a></td>
+<td><a href="/patterns-practices/reference/autopopulateregionbehavior-createviewstoautopopulate-method-mspp-regions-behaviors">CreateViewsToAutoPopulate</a></td>
 <td><div class="summary">
 Returns a collection of views that will be added to the View collection.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior">AutoPopulateRegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/autopopulateregionbehavior-class-mspp-regions-behaviors">AutoPopulateRegionBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -88,19 +89,19 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior.onattach">OnAttach</a></td>
+<td><a href="/patterns-practices/reference/autopopulateregionbehavior-onattach-method-mspp-regions-behaviors">OnAttach</a></td>
 <td><div class="summary">
 Attaches the AutoPopulateRegionBehavior to the Region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior">AutoPopulateRegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/autopopulateregionbehavior-class-mspp-regions-behaviors">AutoPopulateRegionBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior.onviewregistered(system.object%2cmicrosoft.practices.prism.regions.viewregisteredeventargs)">OnViewRegistered</a></td>
+<td><a href="/patterns-practices/reference/autopopulateregionbehavior-onviewregistered-method-mspp-regions-behaviors">OnViewRegistered</a></td>
 <td><div class="summary">
 Handler of the event that fires when a new viewtype is registered to the registry.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior">AutoPopulateRegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/autopopulateregionbehavior-class-mspp-regions-behaviors">AutoPopulateRegionBehavior</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -114,6 +115,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[MefAutoPopulateRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefautopopulateregionbehavior)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)
+[MefAutoPopulateRegionBehavior Class](/patterns-practices/reference/mefautopopulateregionbehavior-class-mspp-mefextensions-regions-behaviors)
+
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

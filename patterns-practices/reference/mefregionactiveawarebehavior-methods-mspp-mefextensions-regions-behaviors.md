@@ -4,7 +4,8 @@ Title: 'MefRegionActiveAwareBehavior Methods (Microsoft.Practices.Prism.MefExten
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionActiveAwareBehavior'
 ms:mtpsurl: 'mefregionactiveawarebehavior-methods-mspp-mefextensions-regions-behaviors.md'
 ---
-
+
+
 # MefRegionActiveAwareBehavior Methods
 
 The [MefRegionActiveAwareBehavior](/patterns-practices/reference/mefregionactiveawarebehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
@@ -23,19 +24,19 @@ The [MefRegionActiveAwareBehavior](/patterns-practices/reference/mefregionactive
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior.attach">Attach</a></td>
+<td><a href="/patterns-practices/reference/regionactiveawarebehavior-attach-method-mspp-regions-behaviors">Attach</a></td>
 <td><div class="summary">
 Attaches the behavior to the specified region
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior">RegionActiveAwareBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionactiveawarebehavior-class-mspp-regions-behaviors">RegionActiveAwareBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior.detach">Detach</a></td>
+<td><a href="/patterns-practices/reference/regionactiveawarebehavior-detach-method-mspp-regions-behaviors">Detach</a></td>
 <td><div class="summary">
 Detaches the behavior from the <a href="http://msdn.microsoft.com/en-us/library/ms668629">INotifyCollectionChanged</a>.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior">RegionActiveAwareBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionactiveawarebehavior-class-mspp-regions-behaviors">RegionActiveAwareBehavior</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
