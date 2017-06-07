@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundExcepti
 ms:mtpsurl: 'cyclicdependencyfoundexception-constructor-mspp-modularity.md'
 ---
 
-
 # CyclicDependencyFoundException Constructor (String, String, Exception)
 
 Initializes the exception with a particular module, error message and inner exception that happened.
@@ -19,7 +18,11 @@ Initializes the exception with a particular module, error message and inner exce
 ## Syntax
 
 ```C#
-public CyclicDependencyFoundException( string moduleName, string message, Exception innerException )
+public CyclicDependencyFoundException(
+	string moduleName,
+	string message,
+	Exception innerException
+)
 ```
 ### Parameters
 
@@ -41,9 +44,15 @@ Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 
 The exception that is the cause of the current exception, or a **null**a null reference (**Nothing** in Visual Basic) reference if no inner exception is specified.
 
+## Syntax
 
 ```VB
-Public Sub New ( moduleName As String, message As String, innerException As Exception )
+'Declaration
+Public Sub New ( 
+	moduleName As String,
+	message As String,
+	innerException As Exception
+)
 ```
 ### Parameters
 
@@ -64,11 +73,6 @@ The error message that explains the reason for the exception.
 Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 
 The exception that is the cause of the current exception, or a **Nothing**a null reference (**Nothing** in Visual Basic) reference if no inner exception is specified.
-
-innerException  
-Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
-The exception that is the cause of the current exception, or a nullNothingnullptra null reference (Nothing in Visual Basic) reference if no inner exception is specified.
-
 
 ## See Also
 

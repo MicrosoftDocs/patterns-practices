@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.UnregisterCom
 ms:mtpsurl: 'compositecommand-unregistercommand-method-mspp-commands.md'
 ---
 
-
 # CompositeCommand.UnregisterCommand Method
 
 Removes a command from the collection and removes itself from the [CanExecuteChanged](http://msdn.microsoft.com/en-us/library/ms523106) event of it.
@@ -17,17 +16,24 @@ Removes a command from the collection and removes itself from the [CanExecuteCha
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
+
 ```C#
-public virtual void UnregisterCommand( ICommand command )
+public virtual void UnregisterCommand(
+	ICommand command
+)
 ```
 
 ```VB
-Public Overridable Sub UnregisterCommand ( command As ICommand )
+'Declaration
+Public Overridable Sub UnregisterCommand ( 
+	command As ICommand
+)
 ```
 
 ### Parameters
 
-**command**  
+*command*
+
 Type: [System.Windows.Input.ICommand](http://msdn.microsoft.com/en-us/library/ms616869)  
 The command to unregister.
 

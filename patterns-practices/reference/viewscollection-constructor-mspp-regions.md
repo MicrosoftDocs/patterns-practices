@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ViewsCollection.\#ctor(System.C
 ms:mtpsurl: 'viewscollection-constructor-mspp-regions.md'
 ---
 
-
 # ViewsCollection Constructor
 
 Initializes a new instance of the [ViewsCollection](/patterns-practices/reference/viewscollection-class-mspp-regions) class.
@@ -36,6 +35,8 @@ The list to wrap and filter.
 *filter*
 
 Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)&lt;[ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions)&gt;
+
+A predicate to filter the list collection.
 
 ## Syntax
 
