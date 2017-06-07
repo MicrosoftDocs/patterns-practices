@@ -4,7 +4,8 @@ Title: 'ModuleDependencyAttribute Members (Microsoft.Practices.Prism.Modularity)
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyAttribute'
 ms:mtpsurl: 'moduledependencyattribute-members-mspp-modularity.md'
 ---
-
+
+
 # ModuleDependencyAttribute Members
 
 The [ModuleDependencyAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute) type exposes the following members.
@@ -24,7 +25,7 @@ The [ModuleDependencyAttribute](https://msdn.microsoft.com/library/microsoft.pra
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute.">ModuleDependencyAttribute</a></td>
+<td>ModuleDependencyAttribute</td>
 <td><div class="summary">
 Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute">ModuleDependencyAttribute</a>.
 </div></td>
@@ -128,6 +129,7 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 </table>
 
 ## See Also
-[ModuleDependencyAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute)
+
+[ModuleDependencyAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
