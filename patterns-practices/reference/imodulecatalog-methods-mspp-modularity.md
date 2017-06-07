@@ -4,10 +4,10 @@ Title: 'IModuleCatalog Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.IModuleCatalog'
 ms:mtpsurl: 'imodulecatalog-methods-mspp-modularity.md'
 ---
-
+
 # IModuleCatalog Methods
 
-The [IModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog) type exposes the following members.
+The [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -24,28 +24,28 @@ The [IModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.pris
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog.addmodule(microsoft.practices.prism.modularity.moduleinfo)">AddModule</a></td>
+<td><a href="/patterns-practices/reference/imodulecatalog-addmodule-method-mspp-modularity">AddModule</a></td>
 <td><div class="summary">
-Adds a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a> to the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulecatalog">ModuleCatalog</a>.
+Adds a <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a> to the <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog.completelistwithdependencies(system.collections.generic.ienumerable%7bmicrosoft.practices.prism.modularity.moduleinfo%7d)">CompleteListWithDependencies</a></td>
+<td><a href="/patterns-practices/reference/imodulecatalog-completelistwithdependencies-method-mspp-modularity">CompleteListWithDependencies</a></td>
 <td><div class="summary">
-Returns the collection of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a>s that contain both the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a>s in modules, but also all the modules they depend on.
+Returns the collection of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>s that contain both the <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>s in <i>modules</i>, but also all the modules they depend on.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog.getdependentmodules(microsoft.practices.prism.modularity.moduleinfo)">GetDependentModules</a></td>
+<td><a href="/patterns-practices/reference/imodulecatalog-getdependentmodules-method-mspp-modularity">GetDependentModules</a></td>
 <td><div class="summary">
-Return the list of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a>s that moduleInfo depends on.
+Return the list of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>s that <i>moduleInfo</i> depends on.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog.initialize">Initialize</a></td>
+<td><a href="/patterns-practices/reference/imodulecatalog-initialize-method-mspp-modularity">Initialize</a></td>
 <td><div class="summary">
 Initializes the catalog, which may load and validate the modules.
 </div></td>
@@ -54,6 +54,7 @@ Initializes the catalog, which may load and validate the modules.
 </table>
 
 ## See Also
-[IModuleCatalog Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[IModuleCatalog Interface](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
