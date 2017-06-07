@@ -25,7 +25,7 @@ The [ModuleDownloadProgressChangedEventArgs](/patterns-practices/reference/modul
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/moduledownloadprogresschangedeventargs-class-mspp-modularity">ModuleDownloadProgressChangedEventArgs</a></td>
+<td>ModuleDownloadProgressChangedEventArgs</td>
 <td><div class="summary">
 Initializes a new instance of the <a href="/patterns-practices/reference/moduledownloadprogresschangedeventargs-class-mspp-modularity">ModuleDownloadProgressChangedEventArgs</a> class.
 </div></td>
