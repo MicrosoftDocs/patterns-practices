@@ -25,7 +25,7 @@ The [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-m
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/moduleinfogroup-class-mspp-modularity">ModuleInfoGroup</a></td>
+<td>ModuleInfoGroup</td>
 <td><div class="summary">
 Initializes a new instance of the <a href="/patterns-practices/reference/moduleinfogroup-class-mspp-modularity">ModuleInfoGroup</a> class
 </div></td>
