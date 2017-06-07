@@ -25,7 +25,7 @@ The [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>>ModuleInfo()</td>
+<td>ModuleInfo()</td>
 <td><div class="summary">
 Initializes a new empty instance of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>.
 </div></td>
