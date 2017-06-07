@@ -4,7 +4,8 @@ Title: 'ModuleCatalog.EnsureCatalogValidated Method (Microsoft.Practices.Prism.M
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.EnsureCatalogValidated'
 ms:mtpsurl: 'modulecatalog-ensurecatalogvalidated-method-mspp-modularity.md'
 ---
-
+
+
 # ModuleCatalog.EnsureCatalogValidated Method
 
 Ensures that the catalog is validated.
@@ -28,7 +29,8 @@ Protected Overridable Sub EnsureCatalogValidated
 ```
 
 ## See Also
-[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)
+
+[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)
 
 [ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)
 

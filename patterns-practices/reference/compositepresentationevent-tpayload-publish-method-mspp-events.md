@@ -4,7 +4,8 @@ Title: 'CompositePresentationEvent(TPayload).Publish Method (Microsoft.Practices
 ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Publish(\`0)'
 ms:mtpsurl: 'compositepresentationevent-tpayload-publish-method-mspp-events.md'
 ---
-
+
+
 # CompositePresentationEvent&lt;TPayload&gt;.Publish Method
 
 Publishes the [CompositePresentationEvent&lt;TPayload&gt;](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events).
@@ -22,7 +23,8 @@ public virtual void Publish(
 	TPayload payload
 )
 ```
-### Parameters
+
+### Parameters
 
 *payload*  
 
@@ -30,13 +32,15 @@ Type: [TPayload](/patterns-practices/reference/compositepresentationevent-tpaylo
 
 Message to pass to the subscribers.
 
-See Also
-[CompositePresentationEvent&lt;TPayload&gt; Class](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)
+## See Also
+
+[CompositePresentationEvent&lt;TPayload&gt; Class](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)
 
 [CompositePresentationEvent&lt;TPayload&gt; Members](/patterns-practices/reference/compositepresentationevent-tpayload-members-mspp-events)
 
 [Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)
-# CompositePresentationEvent(Of TPayload).Publish Method
+
+# CompositePresentationEvent(Of TPayload).Publish Method
 
 Publishes the [CompositePresentationEvent(Of TPayload)](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events).
 
@@ -54,7 +58,8 @@ Public Overridable Sub Publish (
 	payload As TPayload
 )
 ```
-### Parameters
+
+### Parameters
 
 *payload*  
 
@@ -63,7 +68,8 @@ Type: [TPayload](/patterns-practices/reference/compositepresentationevent-tpaylo
 Message to pass to the subscribers.
 
 ## See Also
-[CompositePresentationEvent(Of TPayload) Class](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)
+
+[CompositePresentationEvent(Of TPayload) Class](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)
 
 [CompositePresentationEvent(Of TPayload) Members](/patterns-practices/reference/compositepresentationevent-tpayload-members-mspp-events)
 

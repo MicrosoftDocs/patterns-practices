@@ -35,13 +35,14 @@ Public Overridable Function CanExecute (
 *parameter*  
 Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-Data used by the command. If the command does not require data to be passed, this object can be set to **null**a null                   reference (**Nothing** in Visual Basic).
+Data used by the command. If the command does not require data to be passed, this object can be set to **null**a null reference (**Nothing** in Visual Basic).
 
 ### Return Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 **truetrue** (**True** in Visual Basic) if all of the commands return **truetrue** (**True** in Visual Basic); otherwise, **falsefalse** (**False** in Visual Basic).
+
 ### Implements
 
 [ICommand.CanExecute(Object)](http://msdn.microsoft.com/en-us/library/ms604093)

@@ -4,7 +4,8 @@ Title: 'ModuleInfoGroup.Contains Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Contains(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'moduleinfogroup-contains-method-mspp-modularity.md'
 ---
-
+
+
 # ModuleInfoGroup.Contains Method
 
 Determines whether the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity) contains a specific value.
@@ -14,12 +15,36 @@ Determines whether the [ModuleInfoGroup](/patterns-practices/reference/moduleinf
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
-## Syntax
-```C#
+
+## Syntax
+
+```C#
 public bool Contains(
 	ModuleInfo item
 )
 ```
+
+### Parameters
+ 
+*item*  
+
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
+	 
+The object to locate in the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity).
+
+### Return Value
+
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
+
+true if *item* is found in the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity); otherwise, false.
+
+### Implements
+
+[ICollection&lt;T&gt;.Contains(T)](http://msdn.microsoft.com/en-us/library/k5cf1d56)
+
+
+## Syntax
+
 ```VB
 'Declaration
 Public Function Contains ( 
@@ -27,24 +52,27 @@ Public Function Contains (
 ) As Boolean
 ```
 
+### Parameters
+ 
 *item*  
 
-     Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
 	 
-     The object to locate in the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity).
+The object to locate in the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity).
 
 ### Return Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
-true if item is found in the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity); otherwise, false.
+true if *item* is found in the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity); otherwise, false.
 
 ### Implements
 
-[ICollection&lt;T&gt;.Contains(T)](http://msdn.microsoft.com/en-us/library/k5cf1d56)
+[ICollection(Of T).Contains(T)](http://msdn.microsoft.com/en-us/library/k5cf1d56)
 
 ## See Also
-[ModuleInfoGroup Class](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)
+
+[ModuleInfoGroup Class](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)
 
 [ModuleInfoGroup Members](/patterns-practices/reference/moduleinfogroup-members-mspp-modularity)
 
