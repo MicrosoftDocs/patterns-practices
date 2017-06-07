@@ -4,16 +4,15 @@ Title: 'InteractionRequestedEventArgs Methods (Microsoft.Practices.Prism.Interac
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestedEventArgs'
 ms:mtpsurl: 'interactionrequestedeventargs-methods-mspp-interactivity-interactionrequest.md'
 ---
-
+
+
 # InteractionRequestedEventArgs Methods
 
-The [InteractionRequestedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs) type exposes the following members.
+The [InteractionRequestedEventArgs](/patterns-practices/reference/interactionrequestedeventargs-class-mspp-interactivity-interactionrequest) type exposes the following members.
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -74,6 +73,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[InteractionRequestedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+[InteractionRequestedEventArgs Class](/patterns-practices/reference/interactionrequestedeventargs-class-mspp-interactivity-interactionrequest)
+
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
