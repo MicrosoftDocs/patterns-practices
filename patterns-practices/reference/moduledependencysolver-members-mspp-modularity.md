@@ -25,7 +25,7 @@ The [ModuleDependencySolver](/patterns-practices/reference/moduledependencysolve
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/moduledependencysolver-class-mspp-modularity.">ModuleDependencySolver</a></td>
+<td>ModuleDependencySolver</td>
 <td><div class="summary">
 Initializes a new instance of the <a href="/patterns-practices/reference/moduledependencysolver-class-mspp-modularity">ModuleDependencySolver</a> class
 </div></td>
