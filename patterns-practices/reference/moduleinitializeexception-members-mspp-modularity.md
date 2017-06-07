@@ -25,49 +25,49 @@ The [ModuleInitializeException](/patterns-practices/reference/moduleinitializeex
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity">ModuleInitializeException()()()</a></td>
+<td>ModuleInitializeException()</td>
 <td><div class="summary">
 Initializes a new instance.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity">ModuleInitializeException(String)</a></td>
+<td>ModuleInitializeException(String</td>
 <td><div class="summary">
 Initializes a new instance of the <a href="/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity">ModuleInitializeException</a> class.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity">ModuleInitializeException(SerializationInfo, StreamingContext)</a></td>
+<td>ModuleInitializeException(SerializationInfo, StreamingContext)</td>
 <td><div class="summary">
 Initializes a new instance with serialized data.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity">ModuleInitializeException(String, Exception)</a></td>
+<td>ModuleInitializeException(String, Exception)</td>
 <td><div class="summary">
 Initializes a new instance of the <a href="/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity">ModuleInitializeException</a> class.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity">ModuleInitializeException(String, String, Exception)</a></td>
+<td>ModuleInitializeException(String, String, Exception)</td>
 <td><div class="summary">
 Initializes the exception with a particular module, error message and inner exception that happened.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity">ModuleInitializeException(String, String, String)</a></td>
+<td>ModuleInitializeException(String, String, String)</td>
 <td><div class="summary">
 Initializes the exception with a particular module and error message.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity">ModuleInitializeException(String, String, String, Exception)</a></td>
+<td>ModuleInitializeException(String, String, String, Exception)</td>
 <td><div class="summary">
 Initializes the exception with a particular module, error message and inner exception that happened.
 </div></td>
