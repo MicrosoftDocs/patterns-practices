@@ -4,7 +4,7 @@ Title: 'RegionActiveAwareBehavior.BehaviorKey Field (Microsoft.Practices.Prism.R
 ms:assetid: 'F:Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior.BehaviorKey'
 ms:mtpsurl: 'regionactiveawarebehavior-behaviorkey-field-mspp-regions-behaviors.md'
 ---
-
+
 # RegionActiveAwareBehavior.BehaviorKey Field
 
 Name that identifies the [RegionActiveAwareBehavior](/patterns-practices/reference/regionactiveawarebehavior-class-mspp-regions-behaviors) behavior in a collection of [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions).
@@ -20,7 +20,6 @@ Name that identifies the [RegionActiveAwareBehavior](/patterns-practices/referen
 ```C#
 public const string BehaviorKey
 ```
-
 ```VB
 'Declaration
 Public Const BehaviorKey As String
