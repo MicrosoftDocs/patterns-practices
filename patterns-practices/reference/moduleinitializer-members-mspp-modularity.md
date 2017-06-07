@@ -4,10 +4,11 @@ Title: 'ModuleInitializer Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleInitializer'
 ms:mtpsurl: 'moduleinitializer-members-mspp-modularity.md'
 ---
-
+
+
 # ModuleInitializer Members
 
-The [ModuleInitializer](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer) type exposes the following members.
+The [ModuleInitializer](/patterns-practices/reference/moduleinitializer-class-mspp-modularity) type exposes the following members.
 
 ## Constructors
 
@@ -24,9 +25,9 @@ The [ModuleInitializer](https://msdn.microsoft.com/library/microsoft.practices.p
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer.">ModuleInitializer</a></td>
+<td>ModuleInitializer</td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer">ModuleInitializer</a>.
+Initializes a new instance of <a href="/patterns-practices/reference/moduleinitializer-class-mspp-modularity">ModuleInitializer</a>.
 </div></td>
 </tr>
 </tbody>
@@ -47,16 +48,16 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer.createmodule(system.string)">CreateModule(String)</a></td>
+<td><a href="/patterns-practices/reference/moduleinitializer-createmodule-method-string-mspp-modularity">CreateModule(String)</a></td>
 <td><div class="summary">
-Uses the container to resolve a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule">IModule</a> by specifying its <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a>.
+Uses the container to resolve a new <a href="/patterns-practices/reference/imodule-interface-mspp-modularity">IModule</a> by specifying its <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer.createmodule(microsoft.practices.prism.modularity.moduleinfo)">CreateModule(ModuleInfo)</a></td>
+<td><a href="/patterns-practices/reference/moduleinitializer-createmodule-method-moduleinfo-mspp-modularity">CreateModule(ModuleInfo)</a></td>
 <td><div class="summary">
-Uses the container to resolve a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule">IModule</a> by specifying its <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a>.
+Uses the container to resolve a new <a href="/patterns-practices/reference/imodule-interface-mspp-modularity">IModule</a> by specifying its <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a>.
 </div></td>
 </tr>
 <tr class="odd">
@@ -93,14 +94,14 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer.handlemoduleinitializationerror(microsoft.practices.prism.modularity.moduleinfo%2csystem.string%2csystem.exception)">HandleModuleInitializationError</a></td>
+<td><a href="/patterns-practices/reference/moduleinitializer-handlemoduleinitializationerror-method-mspp-modularity">HandleModuleInitializationError</a></td>
 <td><div class="summary">
-Handles any exception occurred in the module Initialization process, logs the error using the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a> and throws a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializeexception">ModuleInitializeException</a>. This method can be overridden to provide a different behavior.
+Handles any exception occurred in the module Initialization process, logs the error using the <a href="/patterns-practices/reference/iloggerfacade-interface-mspp-logging">ILoggerFacade</a> and throws a <a href="/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity">ModuleInitializeException</a>. This method can be overridden to provide a different behavior.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer.initialize(microsoft.practices.prism.modularity.moduleinfo)">Initialize</a></td>
+<td><a href="/patterns-practices/reference/moduleinitializer-initialize-method-mspp-modularity">Initialize</a></td>
 <td><div class="summary">
 Initializes the specified module.
 </div></td>
@@ -125,6 +126,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[ModuleInitializer Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleInitializer Class](/patterns-practices/reference/moduleinitializer-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

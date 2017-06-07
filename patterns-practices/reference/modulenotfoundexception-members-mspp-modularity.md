@@ -4,10 +4,11 @@ Title: 'ModuleNotFoundException Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleNotFoundException'
 ms:mtpsurl: 'modulenotfoundexception-members-mspp-modularity.md'
 ---
-
+
+
 # ModuleNotFoundException Members
 
-The [ModuleNotFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception) type exposes the following members.
+The [ModuleNotFoundException](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity) type exposes the following members.
 
 ## Constructors
 
@@ -24,44 +25,44 @@ The [ModuleNotFoundException](https://msdn.microsoft.com/library/microsoft.pract
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception.">ModuleNotFoundException()()()</a></td>
+<td>ModuleNotFoundException()</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception">ModuleNotFoundException</a> class.
+Initializes a new instance of the <a href="/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity">ModuleNotFoundException</a> class.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception.">ModuleNotFoundException(String)</a></td>
+<td>ModuleNotFoundException(String)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception">ModuleNotFoundException</a> class with a specified error message.
+Initializes a new instance of the <a href="/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity">ModuleNotFoundException</a> class with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception.">ModuleNotFoundException(SerializationInfo, StreamingContext)</a></td>
+<td>ModuleNotFoundException(SerializationInfo, StreamingContext) </td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception">ModuleNotFoundException</a> class with the serialization data.
+Initializes a new instance of the <a href="/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity">ModuleNotFoundException</a> class with the serialization data.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception.">ModuleNotFoundException(String, Exception)</a></td>
+<td>ModuleNotFoundException(String, Exception) </td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception">ModuleNotFoundException</a> class with a specified error message.
+Initializes a new instance of the <a href="/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity">ModuleNotFoundException</a> class with a specified error message.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception.">ModuleNotFoundException(String, String)</a></td>
+<td>ModuleNotFoundException(String, String) </td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception">ModuleNotFoundException</a> class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the <a href="/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity">ModuleNotFoundException</a> class with a specified error message and a reference to the inner exception that is the cause of this exception.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception.">ModuleNotFoundException(String, String, Exception)</a></td>
+<td>ModuleNotFoundException(String, String, Exception) </td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception">ModuleNotFoundException</a> class with a specified error message and a reference to the inner exception that is the cause of this exception.
+Initializes a new instance of the <a href="/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity">ModuleNotFoundException</a> class with a specified error message and a reference to the inner exception that is the cause of this exception.
 </div></td>
 </tr>
 </tbody>
@@ -114,11 +115,11 @@ Serves as a hash function for a particular type.
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception.getobjectdata(system.runtime.serialization.serializationinfo%2csystem.runtime.serialization.streamingcontext)">GetObjectData</a></td>
+<td><a href="/patterns-practices/reference/modularityexception-getobjectdata-method-mspp-modularity">GetObjectData</a></td>
 <td><div class="summary">
 Sets the <a href="http://msdn.microsoft.com/en-us/library/a9b6042e">SerializationInfo</a> with information about the exception.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception">ModularityException</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/modularityexception-class-mspp-modularity">ModularityException</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -162,11 +163,11 @@ Creates and returns a string representation of the current exception.
 <tbody>
 <tr class="odd">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions.getrootexception(system.exception)">GetRootException</a></td>
+<td><a href="/patterns-practices/reference/exceptionextensions-getrootexception-method-mspp">GetRootException</a></td>
 <td><div class="summary">
 Looks at all the inner exceptions of the exception parameter to find the most likely root cause of the exception. This works by skipping all registered exception types.
 </div>
-(Defined by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions">ExceptionExtensions</a>.)</td>
+(Defined by <a href="/patterns-practices/reference/exceptionextensions-class-mspp">ExceptionExtensions</a>.)</td>
 </tr>
 </tbody>
 </table>
@@ -226,11 +227,11 @@ Gets a message that describes the current exception.
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception.modulename">ModuleName</a></td>
+<td><a href="/patterns-practices/reference/modularityexception-modulename-property-mspp-modularity">ModuleName</a></td>
 <td><div class="summary">
 Gets or sets the name of the module that this exception refers to.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception">ModularityException</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/modularityexception-class-mspp-modularity">ModularityException</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
@@ -284,6 +285,7 @@ Occurs when an exception is serialized to create an exception state object that 
 </table>
 
 ## See Also
-[ModuleNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleNotFoundException Class](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
