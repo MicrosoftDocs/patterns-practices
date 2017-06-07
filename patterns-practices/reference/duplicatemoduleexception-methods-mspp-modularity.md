@@ -4,10 +4,10 @@ Title: 'DuplicateModuleException Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.DuplicateModuleException'
 ms:mtpsurl: 'duplicatemoduleexception-methods-mspp-modularity.md'
 ---
-
+
 # DuplicateModuleException Methods
 
-The [DuplicateModuleException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception) type exposes the following members.
+The [DuplicateModuleException](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -56,11 +56,11 @@ Serves as a hash function for a particular type.
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception.getobjectdata(system.runtime.serialization.serializationinfo%2csystem.runtime.serialization.streamingcontext)">GetObjectData</a></td>
+<td><a href="/patterns-practices/reference/modularityexception-getobjectdata-method-mspp-modularity">GetObjectData</a></td>
 <td><div class="summary">
 Sets the <a href="http://msdn.microsoft.com/en-us/library/a9b6042e">SerializationInfo</a> with information about the exception.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modularityexception">ModularityException</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/modularityexception-class-mspp-modularity">ModularityException</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -104,16 +104,17 @@ Creates and returns a string representation of the current exception.
 <tbody>
 <tr class="odd">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions.getrootexception(system.exception)">GetRootException</a></td>
+<td><a href="/patterns-practices/reference/exceptionextensions-getrootexception-method-mspp">GetRootException</a></td>
 <td><div class="summary">
 Looks at all the inner exceptions of the exception parameter to find the most likely root cause of the exception. This works by skipping all registered exception types.
 </div>
-(Defined by <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions">ExceptionExtensions</a>.)</td>
+(Defined by <a href="/patterns-practices/reference/exceptionextensions-class-mspp">ExceptionExtensions</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[DuplicateModuleException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.duplicatemoduleexception)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[DuplicateModuleException Class](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
