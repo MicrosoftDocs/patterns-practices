@@ -25,14 +25,14 @@ The [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduled
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity.">ModuleDependencyConfigurationElement()</a></td>
+<td>ModuleDependencyConfigurationElement()</td>
 <td><div class="summary">
 Initializes a new instance of <a href="/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity">ModuleDependencyConfigurationElement</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity.">ModuleDependencyConfigurationElement(String)</a></td>
+<td>ModuleDependencyConfigurationElement(String)</td>
 <td><div class="summary">
 Initializes a new instance of <a href="/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity">ModuleDependencyConfigurationElement</a>.
 </div></td>
