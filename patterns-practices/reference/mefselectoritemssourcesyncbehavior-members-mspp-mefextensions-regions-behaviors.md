@@ -7,7 +7,7 @@ ms:mtpsurl: 'mefselectoritemssourcesyncbehavior-members-mspp-mefextensions-regio
 
 # MefSelectorItemsSourceSyncBehavior Members
 
-The [MefSelectorItemsSourceSyncBehavior](https://review.docs.microsoft.com/patterns-practices/reference/mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
+The [MefSelectorItemsSourceSyncBehavior](/patterns-practices/reference/mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
 
 ## Constructors
 
@@ -24,7 +24,7 @@ The [MefSelectorItemsSourceSyncBehavior](https://review.docs.microsoft.com/patte
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>MefSelectorItemsSourceSyncBehavior</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://review.docs.microsoft.com/patterns-practices/reference/mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors">MefSelectorItemsSourceSyncBehavior</a> class
+Initializes a new instance of the <a href="/patterns-practices/reference/mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors">MefSelectorItemsSourceSyncBehavior</a> class
 </div></td>
 </tr>
 </tbody>
@@ -43,11 +43,11 @@ Initializes a new instance of the <a href="https://review.docs.microsoft.com/pat
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/regionbehavior-attach-method-mspp-regions">Attach</a></td>
+<td><a href="/patterns-practices/reference/regionbehavior-attach-method-mspp-regions">Attach</a></td>
 <td><div class="summary">
 Attaches the behavior to the region.
 </div>
-(Inherited from <a href="https://review.docs.microsoft.com/patterns-practices/reference/regionbehavior-class-mspp-regions">RegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions">RegionBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -91,11 +91,11 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/selectoritemssourcesyncbehavior-onattach-method-mspp-regions-behaviors">OnAttach</a></td>
+<td><a href="/patterns-practices/reference/selectoritemssourcesyncbehavior-onattach-method-mspp-regions-behaviors">OnAttach</a></td>
 <td><div class="summary">
-Starts to monitor the <a href="https://review.docs.microsoft.com/patterns-practices/reference/iregion-interface-mspp-regions">IRegion</a> to keep it in synch with the items of the <a href="https://review.docs.microsoft.com/patterns-practices/reference/selectoritemssourcesyncbehavior-hostcontrol-property-mspp-regions-behaviors">HostControl</a>.
+Starts to monitor the <a href="/patterns-practices/reference/iregion-interface-mspp-regions">IRegion</a> to keep it in synch with the items of the <a href="/patterns-practices/reference/selectoritemssourcesyncbehavior-hostcontrol-property-mspp-regions-behaviors">HostControl</a>.
 </div>
-(Inherited from <a href="https://review.docs.microsoft.com/patterns-practices/reference/selectoritemssourcesyncbehavior-class-mspp-regions-behaviors">SelectorItemsSourceSyncBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/selectoritemssourcesyncbehavior-class-mspp-regions-behaviors">SelectorItemsSourceSyncBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -121,33 +121,33 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/selectoritemssourcesyncbehavior-hostcontrol-property-mspp-regions-behaviors">HostControl</a></td>
+<td><a href="/patterns-practices/reference/selectoritemssourcesyncbehavior-hostcontrol-property-mspp-regions-behaviors">HostControl</a></td>
 <td><div class="summary">
-Gets or sets the <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a> that the <a href="https://review.docs.microsoft.com/patterns-practices/reference/iregion-interface-mspp-regions">IRegion</a> is attached to.
+Gets or sets the <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a> that the <a href="/patterns-practices/reference/iregion-interface-mspp-regions">IRegion</a> is attached to.
 </div>
-(Inherited from <a href="https://review.docs.microsoft.com/patterns-practices/reference/selectoritemssourcesyncbehavior-class-mspp-regions-behaviors">SelectorItemsSourceSyncBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/selectoritemssourcesyncbehavior-class-mspp-regions-behaviors">SelectorItemsSourceSyncBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions">IsAttached</a></td>
+<td><a href="/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions">IsAttached</a></td>
 <td><div class="summary">
 Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
 </div>
-(Inherited from <a href="https://review.docs.microsoft.com/patterns-practices/reference/regionbehavior-class-mspp-regions">RegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions">RegionBehavior</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/regionbehavior-region-property-mspp-regions">Region</a></td>
+<td><a href="/patterns-practices/reference/regionbehavior-region-property-mspp-regions">Region</a></td>
 <td><div class="summary">
 Behavior's attached region.
 </div>
-(Inherited from <a href="https://review.docs.microsoft.com/patterns-practices/reference/regionbehavior-class-mspp-regions">RegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions">RegionBehavior</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[MefSelectorItemsSourceSyncBehavior Class](https://review.docs.microsoft.com/patterns-practices/reference/mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors)
+[MefSelectorItemsSourceSyncBehavior Class](/patterns-practices/reference/mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://review.docs.microsoft.com/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
