@@ -4,7 +4,8 @@ Title: 'RegionManagerRegistrationBehavior Methods (Microsoft.Practices.Prism.Reg
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionManagerRegistrationBehavior'
 ms:mtpsurl: 'regionmanagerregistrationbehavior-methods-mspp-regions-behaviors.md'
 ---
-
+
+
 # RegionManagerRegistrationBehavior Methods
 
 The [RegionManagerRegistrationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior) type exposes the following members.
@@ -76,7 +77,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 <td><div class="summary">
 When the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion">IRegion</a> has a name assigned, the behavior will start monitoring the ancestor controls in the element tree to look for an <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager">IRegionManager</a> where to register the region in.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.onattach">RegionBehavior.OnAttach()()()</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.onattach">RegionBehavior.OnAttach</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -101,6 +102,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
+
+[RegionManagerRegistrationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmanagerregistrationbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

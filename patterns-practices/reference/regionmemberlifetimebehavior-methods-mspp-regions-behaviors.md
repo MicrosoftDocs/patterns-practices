@@ -4,13 +4,13 @@ Title: 'RegionMemberLifetimeBehavior Methods (Microsoft.Practices.Prism.Regions.
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionMemberLifetimeBehavior'
 ms:mtpsurl: 'regionmemberlifetimebehavior-methods-mspp-regions-behaviors.md'
 ---
-
+
+
 # RegionMemberLifetimeBehavior Methods
 
 The [RegionMemberLifetimeBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior) type exposes the following members.
 
 ## Methods
-
 
 <table>
 
@@ -76,7 +76,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 <td><div class="summary">
 Override this method to perform the logic after the behavior has been attached.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.onattach">RegionBehavior.OnAttach()()()</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.onattach">RegionBehavior.OnAttach</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -90,6 +90,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[RegionMemberLifetimeBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior)
+
+[RegionMemberLifetimeBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionmemberlifetimebehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

@@ -8,9 +8,9 @@ ms:mtpsurl: 'popupwindowaction-invoke-method-mspp-interactivity.md'
 
 # PopupWindowAction.Invoke Method
 
-Displays the child window and collects results for [IInteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest).
+Displays the child window and collects results for [IInteractionRequest](/patterns-practices/reference/iinteractionrequest-interface-mspp-interactivity-interactionrequest).
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -26,23 +26,25 @@ Displays the child window and collects results for [IInteractionRequest](https:/
 ### Parameters
 
 *parameter*  
+
 Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+
 The parameter to the action. If the action does not require a parameter, the parameter may be set to a null reference.
 
 ## See Also
 
-[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
+[PopupWindowAction Class](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)
 
-[PopupWindowAction Members](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction_members(v=pandp.50))
+[PopupWindowAction Members](/patterns-practices/reference/popupwindowaction-members-mspp-interactivity)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)
 
 
 # PopupWindowAction.Invoke Method
 
-Displays the child window and collects results for [IInteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest).
+Displays the child window and collects results for [IInteractionRequest](/patterns-practices/reference/iinteractionrequest-interface-mspp-interactivity-interactionrequest).
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -59,13 +61,15 @@ Protected Overrides Sub Invoke (
 ### Parameters
 
 *parameter*  
+
 Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+
 The parameter to the action. If the action does not require a parameter, the parameter may be set to a null reference.
 
 ## See Also
 
-[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
+[PopupWindowAction Class](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)
 
-[PopupWindowAction Members](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction_members(v=pandp.50))
+[PopupWindowAction Members](/patterns-practices/reference/popupwindowaction-members-mspp-interactivity)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)

@@ -4,7 +4,8 @@ Title: 'ContentControlRegionAdapter Methods (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter'
 ms:mtpsurl: 'contentcontrolregionadapter-methods-mspp-regions.md'
 ---
-
+
+
 # ContentControlRegionAdapter Methods
 
 The [ContentControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.contentcontrolregionadapter) type exposes the following members.
@@ -28,23 +29,23 @@ The [ContentControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.p
 <td><div class="summary">
 Adapts a <a href="http://msdn.microsoft.com/en-us/library/ms609797">ContentControl</a> to an <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion">IRegion</a>.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.adapt(microsoft.practices.prism.regions.iregion%2c%600)">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;).Adapt(IRegion, T)</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.adapt(microsoft.practices.prism.regions.iregion%2c%600)">RegionAdapterBase(Of T).Adapt(IRegion, T)</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.attachbehaviors(microsoft.practices.prism.regions.iregion%2c%600)">AttachBehaviors</a></td>
+<td><a href="/patterns-practices/reference/regionadapterbase-t-attachbehaviors-method-mspp-regions">AttachBehaviors</a></td>
 <td><div class="summary">
 Template method to attach new behaviors.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601">RegionAdapterBase(Of T)</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.attachdefaultbehaviors(microsoft.practices.prism.regions.iregion%2c%600)">AttachDefaultBehaviors</a></td>
+<td><a href="/patterns-practices/reference/regionadapterbase-t-attachdefaultbehaviors-method-mspp-regions">AttachDefaultBehaviors</a></td>
 <td><div class="summary">
 This method adds the default behaviors by using the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory">IRegionBehaviorFactory</a> object.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601">RegionAdapterBase(Of T)</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -52,7 +53,7 @@ This method adds the default behaviors by using the <a href="https://msdn.micros
 <td><div class="summary">
 Creates a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion">SingleActiveRegion</a>.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.createregion">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;).CreateRegion()()()</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.createregion">RegionAdapterBase(Of T).CreateRegion</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -88,11 +89,11 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.initialize(%600%2csystem.string)">Initialize</a></td>
+<td><a href="/patterns-practices/reference/regionadapterbase-t-initialize-method-mspp-regions">Initialize</a></td>
 <td><div class="summary">
 Adapts an object and binds it to a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion">IRegion</a>.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)</a>.)</td>
+(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601">RegionAdapterBase(Of T)</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -114,6 +115,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[ContentControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.contentcontrolregionadapter)
+
+[ContentControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.contentcontrolregionadapter)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

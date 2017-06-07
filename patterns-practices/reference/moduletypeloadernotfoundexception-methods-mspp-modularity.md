@@ -4,7 +4,8 @@ Title: 'ModuleTypeLoaderNotFoundException Methods (Microsoft.Practices.Prism.Mod
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleTypeLoaderNotFoundException'
 ms:mtpsurl: 'moduletypeloadernotfoundexception-methods-mspp-modularity.md'
 ---
-
+
+
 # ModuleTypeLoaderNotFoundException Methods
 
 The [ModuleTypeLoaderNotFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception) type exposes the following members.
@@ -114,6 +115,7 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 </table>
 
 ## See Also
-[ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
+
+[ModuleTypeLoaderNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadernotfoundexception)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

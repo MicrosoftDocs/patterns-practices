@@ -4,7 +4,8 @@ Title: 'ModuleNotFoundException Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleNotFoundException'
 ms:mtpsurl: 'modulenotfoundexception-methods-mspp-modularity.md'
 ---
-
+
+
 # ModuleNotFoundException Methods
 
 The [ModuleNotFoundException](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception) type exposes the following members.
@@ -114,6 +115,7 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 </table>
 
 ## See Also
-[ModuleNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception)
+
+[ModuleNotFoundException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulenotfoundexception)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
