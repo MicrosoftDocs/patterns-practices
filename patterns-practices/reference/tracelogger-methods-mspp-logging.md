@@ -4,10 +4,11 @@ Title: 'TraceLogger Methods (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Logging.TraceLogger'
 ms:mtpsurl: 'tracelogger-methods-mspp-logging.md'
 ---
-
+
+
 # TraceLogger Methods
 
-The [TraceLogger](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.tracelogger) type exposes the following members.
+The [TraceLogger](/patterns-practices/reference/tracelogger-class-mspp-logging) type exposes the following members.
 
 ## Methods
 
@@ -56,7 +57,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.tracelogger.log(system.string%2cmicrosoft.practices.prism.logging.category%2cmicrosoft.practices.prism.logging.priority)">Log</a></td>
+<td><a href="/patterns-practices/reference/tracelogger-log-method-mspp-logging">Log</a></td>
 <td><div class="summary">
 Write a new log entry with the specified category and priority.
 </div></td>
@@ -81,6 +82,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[TraceLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.tracelogger)
 
-[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
+[TraceLogger Class](/patterns-practices/reference/tracelogger-class-mspp-logging)
+
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)

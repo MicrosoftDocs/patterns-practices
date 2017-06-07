@@ -4,10 +4,11 @@ Title: 'ListDictionary(TKey, TValue) Methods (Microsoft.Practices.Prism)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ListDictionary\`2'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-methods-mspp.md'
 ---
-
-# ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Methods
 
-The [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602) type exposes the following members.
+
+# ListDictionary&lt;TKey, TValue&gt; Methods
+
+The [ListDictionary&lt;TKey, TValue&gt;](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp) type exposes the following members.
 
 ## Methods
 
@@ -24,35 +25,35 @@ The [ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;)](https://msdn.microsoft.c
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602.add(%600)">Add(TKey)</a></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-add-method-tkey-mspp">Add(TKey)</a></td>
 <td><div class="summary">
 If a list does not already exist, it will be created automatically.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602.add(%600%2c%601)">Add(TKey, TValue)</a></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-add-method-tkey-tvalue-mspp">Add(TKey, TValue)</a></td>
 <td><div class="summary">
 Adds a value to a list with the given key. If a list does not already exist, it will be created automatically.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602.clear">Clear</a></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-clear-method-mspp">Clear</a></td>
 <td><div class="summary">
 Removes all entries in the dictionary.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602.containskey(%600)">ContainsKey</a></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-containskey-method-mspp">ContainsKey</a></td>
 <td><div class="summary">
 Determines whether the dictionary contains the given key.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602.containsvalue(%601)">ContainsValue</a></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-containsvalue-method-mspp">ContainsValue</a></td>
 <td><div class="summary">
 Determines whether the dictionary contains the specified value.
 </div></td>
@@ -67,14 +68,14 @@ Determines whether the specified <a href="http://msdn.microsoft.com/en-us/librar
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602.findallvalues(system.predicate%7b%601%7d)">FindAllValues</a></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-findallvalues-method-mspp">FindAllValues</a></td>
 <td><div class="summary">
 Retrieves all the elements that match the condition defined by the specified predicate.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602.findallvaluesbykey(system.predicate%7b%600%7d)">FindAllValuesByKey</a></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-findallvaluesbykey-method-mspp">FindAllValuesByKey</a></td>
 <td><div class="summary">
 Retrieves the all the elements from the list which have a key that matches the condition defined by the specified predicate.
 </div></td>
@@ -97,21 +98,21 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602.remove(%600)">Remove(TKey)</a></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tkey-mspp">Remove(TKey)</a></td>
 <td><div class="summary">
 Removes a list by key.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602.remove(%601)">Remove(TValue)</a></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tvalue-mspp">Remove(TValue)</a></td>
 <td><div class="summary">
 Removes a value from all lists where it may be found.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602.remove(%600%2c%601)">Remove(TKey, TValue)</a></td>
+<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-remove-method-tkey-tvalue-mspp">Remove(TKey, TValue)</a></td>
 <td><div class="summary">
 Removes a value from the list with the given key.
 </div></td>
@@ -128,6 +129,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[ListDictionary&lt;TKey, TValue&gt; Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

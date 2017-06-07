@@ -4,10 +4,11 @@ Title: 'MefFileModuleTypeLoader Methods (Microsoft.Practices.Prism.MefExtensions
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Modularity.MefFileModuleTypeLoader'
 ms:mtpsurl: 'meffilemoduletypeloader-methods-mspp-mefextensions-modularity.md'
 ---
-
+
+
 # MefFileModuleTypeLoader Methods
 
-The [MefFileModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader) type exposes the following members.
+The [MefFileModuleTypeLoader](/patterns-practices/reference/meffilemoduletypeloader-class-mspp-mefextensions-modularity) type exposes the following members.
 
 ## Methods
 
@@ -24,9 +25,9 @@ The [MefFileModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.pract
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader.canloadmoduletype(microsoft.practices.prism.modularity.moduleinfo)">CanLoadModuleType</a></td>
+<td><a href="/patterns-practices/reference/meffilemoduletypeloader-canloadmoduletype-method-mspp-mefextensions-modularity">CanLoadModuleType</a></td>
 <td><div class="summary">
-Evaluates the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.ref">Ref</a> property to see if the current typeloader will be able to retrieve the moduleInfo. Returns true if the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.ref">Ref</a> property starts with &quot;file://&quot;, because this indicates that the file is a local file.
+Evaluates the <a href="/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity">Ref</a> property to see if the current typeloader will be able to retrieve the *moduleInfo*. Returns true if the <a href="/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity">Ref</a> property starts with &quot;file://&quot;, because this indicates that the file is a local file.
 </div></td>
 </tr>
 <tr class="even">
@@ -63,7 +64,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader.loadmoduletype(microsoft.practices.prism.modularity.moduleinfo)">LoadModuleType</a></td>
+<td><a href="/patterns-practices/reference/meffilemoduletypeloader-loadmoduletype-method-mspp-mefextensions-modularity">LoadModuleType</a></td>
 <td><div class="summary">
 Retrieves the moduleInfo.
 </div></td>
@@ -88,6 +89,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[MefFileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.meffilemoduletypeloader)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
+[MefFileModuleTypeLoader Class](/patterns-practices/reference/meffilemoduletypeloader-class-mspp-mefextensions-modularity)
+
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)

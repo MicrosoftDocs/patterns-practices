@@ -4,10 +4,11 @@ Title: 'InteractionRequest(T) Methods (Microsoft.Practices.Prism.Interactivity.I
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequest\`1'
 ms:mtpsurl: 'interactionrequest-t-methods-mspp-interactivity-interactionrequest.md'
 ---
-
-# InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Methods
 
-The [InteractionRequest&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601) type exposes the following members.
+
+# InteractionRequest&lt;T&gt; Methods
+
+The [InteractionRequest&lt;T&gt;](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest) type exposes the following members.
 
 ## Methods
 
@@ -64,14 +65,14 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601.raise(%600)">Raise(T)</a></td>
+<td><a href="/patterns-practices/reference/interactionrequest-t-raise-method-t-mspp-interactivity-interactionrequest">Raise(T)</a></td>
 <td><div class="summary">
 Fires the Raised event.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601.raise(%600%2csystem.action%7b%600%7d)">Raise(T, Action&lt;(Of &lt;(T&gt;)&gt;))</a></td>
+<td><a href="/patterns-practices/reference/interactionrequest-t-raise-method-t-action-t-mspp-interactivity-interactionrequest">Raise(T, Action&lt;T&gt;)</a></td>
 <td><div class="summary">
 Fires the Raised event.
 </div></td>
@@ -88,6 +89,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[InteractionRequest&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequest%601)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+[InteractionRequest&lt;T&gt; Class](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)
+
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
