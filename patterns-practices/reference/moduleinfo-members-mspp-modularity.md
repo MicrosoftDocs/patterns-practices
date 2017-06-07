@@ -25,21 +25,21 @@ The [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo()</a></td>
+<td>>ModuleInfo()</td>
 <td><div class="summary">
 Initializes a new empty instance of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo(String, String)</a></td>
+<td>ModuleInfo(String, String)</td>
 <td><div class="summary">
 Initializes a new instance of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo(String, String, String[])</a></td>
+<td>ModuleInfo(String, String, String[])</td>
 <td><div class="summary">
 Initializes a new instance of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>.
 </div></td>
