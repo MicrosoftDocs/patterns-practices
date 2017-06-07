@@ -21,6 +21,12 @@ Performs application-defined tasks associated with freeing, releasing, or resett
 public void Dispose()
 ```
 
+### Implements
+
+[IDisposable.Dispose()](http://msdn.microsoft.com/en-us/library/es4s3w1d)
+
+## Syntax
+
 ```VB
 'Declaration
 Public Sub Dispose
@@ -28,11 +34,11 @@ Public Sub Dispose
 
 ### Implements
 
-[IDisposable.Dispose()](http://msdn.microsoft.com/en-us/library/es4s3w1d)
+[IDisposable.Dispose](http://msdn.microsoft.com/en-us/library/es4s3w1d)
 
 ## Remarks
 
-&nbsp;&nbsp;Calls [Dispose(Boolean)](/patterns-practices/reference/assemblyresolver-dispose-method-boolean-mspp-modularity)
+Calls [Dispose(Boolean)](/patterns-practices/reference/assemblyresolver-dispose-method-boolean-mspp-modularity)
 
 ## See Also
 
@@ -43,4 +49,4 @@ Public Sub Dispose
 [Dispose Overload](/patterns-practices/reference/assemblyresolver-dispose-method-boolean-mspp-modularity)
 
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
-
+

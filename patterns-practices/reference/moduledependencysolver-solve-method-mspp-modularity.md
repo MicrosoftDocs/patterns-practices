@@ -23,7 +23,8 @@ public string[] Solve()
 
 ### Return Value
 
-Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)[]</br>
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)[]
+
 The resulting ordered list of modules.
 
 ## Syntax
@@ -34,13 +35,26 @@ Public Function Solve As String()
 ```
 
 Return Value
-Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)()</br>
+Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)()
+
 The resulting ordered list of modules.
 
-## ## Exceptions
+## Exceptions
 
-|Exception | Condition |
-|[Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity) | This exception is thrown when a cycle is found in the defined depedency graph. |
+<table>
+<thead>
+<tr class="header">
+<th>Exception</th>
+<th>Condition</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>[Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity)</td>
+<td>This exception is thrown when a cycle is found in the defined depedency graph.</td>
+</tr>
+</tbody>
+</table>
 
 ## See Also
 

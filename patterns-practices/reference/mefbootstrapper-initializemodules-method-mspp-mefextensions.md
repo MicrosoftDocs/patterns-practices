@@ -4,7 +4,8 @@ Title: 'MefBootstrapper.InitializeModules Method (Microsoft.Practices.Prism.MefE
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.InitializeModules'
 ms:mtpsurl: 'mefbootstrapper-initializemodules-method-mspp-mefextensions.md'
 ---
-
+
+
 # MefBootstrapper.InitializeModules Method
 
 Initializes the modules. May be overwritten in a derived class to use a custom Modules Catalog
@@ -26,7 +27,8 @@ Protected Overrides Sub InitializeModules
 ```
 
 ## See Also
-[MefBootstrapper Class](/patterns-practices/reference/mefbootstrapper-class-mspp-mefextensions)
+
+[MefBootstrapper Class](/patterns-practices/reference/mefbootstrapper-class-mspp-mefextensions)
 
 [MefBootstrapper Members](/patterns-practices/reference/mefbootstrapper-members-mspp-mefextensions)
 
