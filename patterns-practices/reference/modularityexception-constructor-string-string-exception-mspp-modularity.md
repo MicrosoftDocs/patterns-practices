@@ -67,9 +67,6 @@ Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 
 The exception that is the cause of the current exception, or a **Nothing**a null reference (**Nothing** in Visual Basic) reference if no inner exception is specified.
 
-innerException  
-Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
-The exception that is the cause of the current exception, or a nullNothingnullptra null reference (Nothing in Visual Basic) reference if no inner exception is specified.
 
 ## See Also
 

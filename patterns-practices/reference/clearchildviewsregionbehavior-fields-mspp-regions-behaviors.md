@@ -23,14 +23,14 @@ The [ClearChildViewsRegionBehavior](/patterns-practices/reference/mspp-regions-n
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/images/pubfield.gif)![Static member](/images/static.gif)</td>
+<td>![Public field](/images/public-field.gif)![Static member](/images/static-member.gif)</td>
 <td>[BehaviorKey](/patterns-practices/reference/mspp-regions-namespace.behaviors.clearchildviewsregionbehavior.behaviorkey)</td>
 <td><div class="summary">
 The behavior key.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public field](/images/pubfield.gif)![Static member](/images/static.gif)</td>
+<td>![Public field](/images/public-field.gif)![Static member](/images/static-member.gif)</td>
 <td>[ClearChildViewsProperty](/patterns-practices/reference/mspp-regions-namespace.behaviors.clearchildviewsregionbehavior.clearchildviewsproperty)</td>
 <td><div class="summary">
 This attached property can be defined on a view to indicate that regions defined in it must be removed from the region manager when the parent view gets removed from a region.

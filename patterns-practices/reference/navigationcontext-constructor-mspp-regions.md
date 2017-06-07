@@ -4,7 +4,8 @@ Title: 'NavigationContext Constructor (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Regions.NavigationContext.\#ctor'
 ms:mtpsurl: 'navigationcontext-constructor-iregionnavigationservice-uri-mspp-regions.md'
 ---
-
+
+
 # NavigationContext Constructor
 
 ## Overload List
@@ -37,7 +38,8 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 </table>
 
 ## See Also
-[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
+
+[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 
 [NavigationContext Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationcontext)
 

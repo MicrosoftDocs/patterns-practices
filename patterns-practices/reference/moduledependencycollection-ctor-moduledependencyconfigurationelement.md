@@ -8,6 +8,7 @@ ms:mtpsurl: 'moduledependencycollection-constructor-mspp-modularity.md'
 # ModuleDependencyCollection Constructor (ModuleDependencyConfigurationElement[])
 
 Initializes a new instance of [ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity).
+
 **Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -25,8 +26,11 @@ public ModuleDependencyCollection(
 #### Parameters
 
 *dependencies*  
+
 Type: [Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity)[]  
-An array of [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity) with initial list of dependencies.
+
+An array of [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity) with 
+initial list of dependencies.
 
 ## See Also
 
@@ -38,9 +42,13 @@ ModuleDependencyCollection Overload
 
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
 
+
+
+
 # ModuleDependencyCollection Constructor (ModuleDependencyConfigurationElement())
 
 Initializes a new instance of [ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity).
+
 **Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -59,7 +67,9 @@ Public Sub New (
 #### Parameters
 
 *dependencies*  
+
 Type: [Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity)()  
+
 An array of [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity) with initial list of dependencies.
 
 ## See Also
