@@ -18,11 +18,16 @@ Initializes a new instance of [ModuleDependencyAttribute](/patterns-practices/re
 
 ## Syntax
 ```C#
-public ModuleDependencyAttribute( string moduleName )
+public ModuleDependencyAttribute(
+	string moduleName
+)
 ```
 
 ```VB
-Public Sub New ( moduleName As String )
+'Declaration
+Public Sub New ( 
+	moduleName As String
+)
 ```
 
 ### Parameters

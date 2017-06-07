@@ -23,9 +23,7 @@ The [ViewRegistrationException](https://msdn.microsoft.com/library/microsoft.pra
 <tbody>
 <tr class="odd">
 
-<td><img src="https://msdn.microsoft.com/en-us/Dn736203.protevent(en-us,PandP.50).gif" title="Protected event" /></td>
-
-<td>![Protected event](/patterns-practices/reference/images/protevent.gif)</td>
+<td>![Protected event](/patterns-practices/reference/images/protected-event.gif)</td>
 
 <td><a href="http://msdn.microsoft.com/en-us/library/ee332915">SerializeObjectState</a></td>
 <td><div class="summary">
