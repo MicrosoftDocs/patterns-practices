@@ -22,7 +22,7 @@ The [PropertySupport](https://msdn.microsoft.com/library/microsoft.practices.pri
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td><a href="https://msdn.microsoft.com/en-us/library/gg406219(v=pandp.50)">ExtractPropertyName&lt;T&gt;</a></td>
 <td><div class="summary">
 Extracts the property name from a property expression.

@@ -67,7 +67,7 @@ Returns the hash code for this instance.
 <td><div class="summary">
 Gets the <a href="http://msdn2.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -91,7 +91,7 @@ When overridden in a derived class, returns a value that indicates whether this 
 <td><div class="summary">
 Returns a string that represents the current object.
 </div>
-(Inherited from <a href="http://msdn2.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 </tbody>
 </table>
