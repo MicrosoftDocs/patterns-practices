@@ -7,9 +7,9 @@ ms:mtpsurl: 'emptylogger-constructor-mspp-logging.md'
 
 # EmptyLogger Constructor
 
-Initializes a new instance of the [EmptyLogger](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.emptylogger(v=pandp.50)) class
+Initializes a new instance of the [EmptyLogger](/patterns-practices/reference/emptylogger-class-mspp-logging) class
 
-**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Logging](/patterns-practices/reference/mspp-logging-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,8 +28,8 @@ Public Sub New
 
 ## See Also
 
-[EmptyLogger Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.emptylogger(v=pandp.50))
+[EmptyLogger Class](/patterns-practices/reference/emptylogger-class-mspp-logging)
 
-[EmptyLogger Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.emptylogger_members(v=pandp.50))
+[EmptyLogger Members](/patterns-practices/reference/emptylogger-members-mspp-logging)
 
-[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging(v=pandp.50))
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)

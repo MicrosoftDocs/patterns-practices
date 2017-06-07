@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSync
 ms:mtpsurl: 'mefsyncregioncontextwithhostbehavior-constructor-mspp-mefextensions-regions-behaviors.md'
 ---
 
-
 # MefSyncRegionContextWithHostBehavior Constructor
 
 Initializes a new instance of the [MefSyncRegionContextWithHostBehavior](/patterns-practices/reference/mefsyncregioncontextwithhostbehavior-class-mspp-mefextensions-regions-behaviors) class

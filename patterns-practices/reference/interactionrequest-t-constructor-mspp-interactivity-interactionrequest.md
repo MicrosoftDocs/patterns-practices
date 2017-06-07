@@ -5,12 +5,11 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Intera
 ms:mtpsurl: 'interactionrequest-t-constructor-mspp-interactivity-interactionrequest.md'
 ---
 
-
 # InteractionRequest&lt;T&gt; Constructor
 
-Initializes a new instance of the [InteractionRequest&lt;T&gt;](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50)) class
+Initializes a new instance of the [InteractionRequest&lt;T&gt;](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest) class
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -24,21 +23,17 @@ public InteractionRequest()
 
 ## See Also
 
-[InteractionRequest&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50))
+[InteractionRequest&lt;T&gt; Class](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)
 
-[InteractionRequest&lt;T&gt; Members](https://msdn.microsoft.com/en-us/library/gg430785(v=pandp.50))
+[InteractionRequest&lt;T&gt; Members](/patterns-practices/reference/interactionrequest-t-members-mspp-interactivity-interactionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
-
-
-
-
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
 
 # InteractionRequest(Of T) Constructor
 
-Initializes a new instance of the [InteractionRequest(Of T)](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50)) class
+Initializes a new instance of the [InteractionRequest(Of T)](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest) class
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -52,8 +47,8 @@ Public Sub New
 ```
 ## See Also
 
-[InteractionRequest(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50))
+[InteractionRequest(Of T) Class](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)
 
-[InteractionRequest(Of T) Members](https://msdn.microsoft.com/en-us/library/gg430785(v=pandp.50))
+[InteractionRequest(Of T) Members](/patterns-practices/reference/interactionrequest-t-members-mspp-interactivity-interactionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigati
 ms:mtpsurl: 'mefregionnavigationcontentloader-constructor-mspp-mefextensions-regions.md'
 ---
 
-
 # MefRegionNavigationContentLoader Constructor
 
 Initializes a new instance of the [MefRegionNavigationContentLoader](/patterns-practices/reference/mefregionnavigationcontentloader-class-mspp-mefextensions-regions) class.

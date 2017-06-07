@@ -7,9 +7,9 @@ ms:mtpsurl: 'compositecommand-constructor-boolean-mspp-commands.md'
 
 # CompositeCommand Constructor (Boolean)
 
-Initializes a new instance of [CompositeCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand).
+Initializes a new instance of [CompositeCommand](/patterns-practices/reference/compositecommand-class-mspp-commands).
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
 
@@ -37,10 +37,11 @@ Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 Indicates when the command activity is going to be monitored.
 
 ## See Also
-[CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
 
-[CompositeCommand Members](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand_members)
+[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)
 
-[CompositeCommand Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.commands.compositecommand.)
+[CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+CompositeCommand Overload
+
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

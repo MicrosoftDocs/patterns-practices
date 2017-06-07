@@ -7,9 +7,9 @@ ms:mtpsurl: 'delegatecommand-constructor-action-func-boolean-mspp-commands.md'
 
 # DelegateCommand Constructor (Action)
 
-Creates a new instance of [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand) with the [Action](http://msdn.microsoft.com/en-us/library/bb534741) to invoke on execution.
+Creates a new instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) with the [Action](http://msdn.microsoft.com/en-us/library/bb534741) to invoke on execution.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
 
@@ -37,10 +37,10 @@ Type: [System.Action](http://msdn.microsoft.com/en-us/library/bb534741)
 The [Action](http://msdn.microsoft.com/en-us/library/bb534741) to invoke when [Execute(Object)](http://msdn.microsoft.com/en-us/library/ms604094) is called.
 
 ## See Also
-[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
+[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)
 
-[DelegateCommand Members](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand_members)
+[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)
 
 DelegateCommand Overload
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

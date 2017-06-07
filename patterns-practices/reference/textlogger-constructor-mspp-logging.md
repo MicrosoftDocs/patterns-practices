@@ -7,9 +7,9 @@ ms:mtpsurl: 'textlogger-constructor-mspp-logging.md'
 
 # TextLogger Constructor
 
-Initializes a new instance of [TextLogger](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.textlogger(v=pandp.50)) that writes to the console output.
+Initializes a new instance of [TextLogger](/patterns-practices/reference/textlogger-class-mspp-logging) that writes to the console output.
 
-**Namespace:** [Microsoft.Practices.Prism.Logging](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Logging](/patterns-practices/reference/mspp-logging-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,10 +28,10 @@ Public Sub New
 
 ## See Also
 
-[TextLogger Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.textlogger(v=pandp.50))
+[TextLogger Class](/patterns-practices/reference/textlogger-class-mspp-logging)
 
-[TextLogger Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging.textlogger_members(v=pandp.50))
+[TextLogger Members](/patterns-practices/reference/textlogger-members-mspp-logging)
 
 TextLogger Overload
 
-[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.logging(v=pandp.50))
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)

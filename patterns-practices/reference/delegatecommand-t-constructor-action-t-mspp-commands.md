@@ -5,11 +5,48 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand\`1.\#ctor(Syst
 ms:mtpsurl: 'delegatecommand-t-constructor-action-t-mspp-commands.md'
 ---
 
+# DelegateCommand&lt;T&gt; Constructor (Action&lt;T&gt;)
+
+Initializes a new instance of [DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-t-class-mspp-commands).
+
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
+
+**Version:** 1.0.0.0 (1.0.0.0)
+
+## Syntax
+```C#
+public DelegateCommand(
+	Action<T> executeMethod
+)
+
+```
+### Parameters
+
+*executeMethod* 
+
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands))
+
+Delegate to execute when Execute is called on the command. This can be null to just hook up a CanExecute delegate.
+
+## Remarks
+[CanExecute(T)](/patterns-practices/reference/delegatecommand-t-canexecute-method-t-mspp-commands) will always return true.
+
+## See Also
+[DelegateCommand&lt;T&gt; Class](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)
+
+[DelegateCommand&lt;T&gt; Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)
+
+DelegateCommand&lt;T&gt; Overload
+
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
+
 # DelegateCommand(Of T) Constructor (Action(Of T))
 
-Initializes a new instance of [DelegateCommand(Of T)](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)).
+Initializes a new instance of [DelegateCommand(Of T)](/patterns-practices/reference/delegatecommand-t-class-mspp-commands).
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
 
@@ -27,57 +64,19 @@ Public Sub New (
 
 *executeMethod* 
 
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [T](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)))
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands))
 
 Delegate to execute when Execute is called on the command. This can be null to just hook up a CanExecute delegate.
 
 ## Remarks
-[CanExecute(T)](https://msdn.microsoft.com/en-us/library/gg405763(v=pandp.50)) will always return true.
+[CanExecute(T)](/patterns-practices/reference/delegatecommand-t-canexecute-method-t-mspp-commands) will always return true.
 
 ## See Also
-[DelegateCommand(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50))
+[DelegateCommand(Of T) Class](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)
 
-[DelegateCommand(Of T) Members](https://msdn.microsoft.com/en-us/library/gg430763(v=pandp.50))
+[DelegateCommand(Of T) Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)
 
 DelegateCommand(Of T) Overload
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
 
----------------------------------------------------------
-
-# DelegateCommand&lt;T&gt; Constructor (Action&lt;T&gt;)
-
-Initializes a new instance of [DelegateCommand&lt;T&gt;](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)).
-
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
-
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
-
-**Version:** 1.0.0.0 (1.0.0.0)
-
-## Syntax
-```C#
-public DelegateCommand(
-	Action<T> executeMethod
-)
-
-```
-### Parameters
-
-*executeMethod* 
-
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [T](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)))
-
-Delegate to execute when Execute is called on the command. This can be null to just hook up a CanExecute delegate.
-
-## Remarks
-[CanExecute(T)](https://msdn.microsoft.com/en-us/library/gg405763(v=pandp.50)) will always return true.
-
-## See Also
-[DelegateCommand&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50))
-
-[DelegateCommand&lt;T&gt; Members](https://msdn.microsoft.com/en-us/library/gg430763(v=pandp.50))
-
-DelegateCommand&lt;T&gt; Overload
-
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands(v=pandp.50))
