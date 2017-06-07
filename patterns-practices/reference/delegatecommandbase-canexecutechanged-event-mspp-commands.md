@@ -4,19 +4,30 @@ Title: 'DelegateCommandBase.CanExecuteChanged Event (Microsoft.Practices.Prism.C
 ms:assetid: 'E:Microsoft.Practices.Prism.Commands.DelegateCommandBase.CanExecuteChanged'
 ms:mtpsurl: 'delegatecommandbase-canexecutechanged-event-mspp-commands.md'
 ---
-
+
 # DelegateCommandBase.CanExecuteChanged Event
 
 Occurs when changes occur that affect whether or not the command should execute. You must keep a hard reference to the handler to avoid garbage collection and unexpected results. See remarks for more information.
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-public virtual event EventHandler CanExecuteChangedPublic Overridable Event CanExecuteChanged As EventHandler
+
+```C#
+public virtual event EventHandler CanExecuteChanged
+```
+
+```VB
+'Declaration
+Public Overridable Event CanExecuteChanged As EventHandler
+```
+
 ### Value
 
 Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
+
 ### Implements
 
 [ICommand.CanExecuteChanged](http://msdn.microsoft.com/en-us/library/ms523106)
@@ -27,11 +38,16 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
 
 ## Examples
 
- The following code holds a reference to the event handler. The myEventHandlerReference value should be stored in an instance member to avoid it from being garbage collected. EventHandler myEventHandlerReference = new EventHandler(this.OnCanExecuteChanged); command.CanExecuteChanged += myEventHandlerReference;
+The following code holds a reference to the event handler. The myEventHandlerReference value should be stored in an instance member to avoid it from being garbage collected. 
+ 
+```
+EventHandler myEventHandlerReference = new EventHandler(this.OnCanExecuteChanged); command.CanExecuteChanged += myEventHandlerReference;
+```
 
 ## See Also
-[DelegateCommandBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)
 
-[DelegateCommandBase Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.delegatecommandbase)
+[DelegateCommandBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)
+
+[DelegateCommandBase Members](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)
 
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
