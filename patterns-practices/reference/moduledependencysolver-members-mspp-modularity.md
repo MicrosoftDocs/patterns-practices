@@ -4,10 +4,11 @@ Title: 'ModuleDependencySolver Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleDependencySolver'
 ms:mtpsurl: 'moduledependencysolver-members-mspp-modularity.md'
 ---
-
+
+
 # ModuleDependencySolver Members
 
-The [ModuleDependencySolver](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver) type exposes the following members.
+The [ModuleDependencySolver](/patterns-practices/reference/moduledependencysolver-class-mspp-modularity) type exposes the following members.
 
 ## Constructors
 
@@ -24,9 +25,9 @@ The [ModuleDependencySolver](https://msdn.microsoft.com/library/microsoft.practi
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver.">ModuleDependencySolver</a></td>
+<td><a href="/patterns-practices/reference/moduledependencysolver-class-mspp-modularity.">ModuleDependencySolver</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver">ModuleDependencySolver</a> class
+Initializes a new instance of the <a href="/patterns-practices/reference/moduledependencysolver-class-mspp-modularity">ModuleDependencySolver</a> class
 </div></td>
 </tr>
 </tbody>
@@ -47,14 +48,14 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver.adddependency(system.string%2csystem.string)">AddDependency</a></td>
+<td><a href="/patterns-practices/reference/moduledependencysolver-adddependency-method-mspp-modularity">AddDependency</a></td>
 <td><div class="summary">
 Adds a module dependency between the modules specified by dependingModule and dependentModule.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver.addmodule(system.string)">AddModule</a></td>
+<td><a href="/patterns-practices/reference/moduledependencysolver-addModule-method-mspp-modularity">AddModule</a></td>
 <td><div class="summary">
 Adds a module to the solver.
 </div></td>
@@ -101,7 +102,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver.solve">Solve</a></td>
+<td><a href="/patterns-practices/reference/moduledependencysolver-solve-method-mspp-modularity">Solve</a></td>
 <td><div class="summary">
 Calculates an ordered vector according to the defined dependencies. Non-dependant modules appears at the beginning of the resulting array.
 </div></td>
@@ -132,7 +133,7 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver.modulecount">ModuleCount</a></td>
+<td><a href="/patterns-practices/reference/moduledependencysolver-modulecount-property-mspp-modularity">ModuleCount</a></td>
 <td><div class="summary">
 Gets the number of modules added to the solver.
 </div></td>
@@ -141,6 +142,7 @@ Gets the number of modules added to the solver.
 </table>
 
 ## See Also
-[ModuleDependencySolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleDependencySolver Class](/patterns-practices/reference/moduledependencysolver-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
