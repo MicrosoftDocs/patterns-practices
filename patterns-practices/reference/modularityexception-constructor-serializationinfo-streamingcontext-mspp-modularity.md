@@ -17,6 +17,7 @@ Initializes a new instance with serialized data.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 protected ModularityException( SerializationInfo info, StreamingContext context )
 ```

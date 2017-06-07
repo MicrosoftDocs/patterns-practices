@@ -4,7 +4,8 @@ Title: 'DownloadedPartCatalogCollection.Remove Method (Microsoft.Practices.Prism
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.DownloadedPartCatalogCollection.Remove(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'downloadedpartcatalogcollection-remove-method-mspp-mefextensions-modularity.md'
 ---
-
+
+
 # DownloadedPartCatalogCollection.Remove Method
 
 Removes the catalgo for the specified module info.
@@ -29,13 +30,14 @@ Public Sub Remove (
 	moduleInfo As ModuleInfo
 )
 ```
-### Parameters
+
+### Parameters
 
 *moduleInfo*
 
-	Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
 
-	The module info.
+The module info.
 
 ## See Also
 

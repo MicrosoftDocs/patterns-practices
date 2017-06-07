@@ -10,6 +10,7 @@ ms:mtpsurl: 'moduledependencyconfigurationelement-constructor-mspp-modularity.md
 Initializes a new instance of [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity).
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -19,6 +20,7 @@ Initializes a new instance of [ModuleDependencyConfigurationElement](/patterns-p
 ```C#
 public ModuleDependencyConfigurationElement()
 ```
+
 ```VB
 'Declaration
 Public Sub New

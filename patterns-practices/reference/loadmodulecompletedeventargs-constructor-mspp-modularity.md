@@ -1,4 +1,4 @@
---
+---
 TOCTitle: LoadModuleCompletedEventArgs Constructor
 Title: 'LoadModuleCompletedEventArgs Constructor (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.LoadModuleCompletedEventArgs.\#ctor(Microsoft.Practices.Prism.Modularity.ModuleInfo,System.Exception)'

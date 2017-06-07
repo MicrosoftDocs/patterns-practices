@@ -21,7 +21,7 @@ The [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.p
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/images/pubevent.gif)</td>
+<td>![Public event](/images/public-event.gif)</td>
 <td>[Changed](http://msdn.microsoft.com/en-us/library/ms596566)</td>
 <td><div class="summary">
 Occurs when the [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) or an object it contains is modified.

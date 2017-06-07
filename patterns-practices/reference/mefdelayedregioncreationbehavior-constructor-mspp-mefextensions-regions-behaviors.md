@@ -7,9 +7,9 @@ ms:mtpsurl: 'mefdelayedregioncreationbehavior-constructor-mspp-mefextensions-reg
 
 # MefDelayedRegionCreationBehavior Constructor
 
-Initializes a new instance of the [MefDelayedRegionCreationBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior(v=pandp.50)) class.
+Initializes a new instance of the [MefDelayedRegionCreationBehavior](/patterns-practices/reference/mefdelayedregioncreationbehavior-class-mspp-mefextensions-regions-behaviors) class.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](hthttps://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -32,13 +32,13 @@ Public Sub New (
 ### Parameters
 
 *regionAdapterMappings*  
-Type: [Microsoft.Practices.Prism.Regions.RegionAdapterMappings](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.regionadaptermappings(v=pandp.50))   
+Type: [Microsoft.Practices.Prism.Regions.RegionAdapterMappings](/patterns-practices/reference/regionadaptermappings-class-mspp-regions)   
 The region adapter mappings, that are used to find the correct adapter for a given controltype. The controltype is determined by the value.
 
 ## See Also
 
-[MefDelayedRegionCreationBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior(v=pandp.50))
+[MefDelayedRegionCreationBehavior Class](/patterns-practices/reference/mefdelayedregioncreationbehavior-class-mspp-mefextensions-regions-behaviors)
 
-[MefDelayedRegionCreationBehavior Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior_members(v=pandp.50))
+[MefDelayedRegionCreationBehavior Members](/patterns-practices/reference/mefdelayedregioncreationbehavior-members-mspp-mefextensions-regions-behaviors)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.regions.behaviors(v=pandp.50))
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

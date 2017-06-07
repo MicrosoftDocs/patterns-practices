@@ -4,10 +4,11 @@ Title: 'TextLogger Methods (Microsoft.Practices.Prism.Logging)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Logging.TextLogger'
 ms:mtpsurl: 'textlogger-methods-mspp-logging.md'
 ---
-
+
+
 # TextLogger Methods
 
-The [TextLogger](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger) type exposes the following members.
+The [TextLogger](/patterns-practices/reference/textlogger-class-mspp-logging) type exposes the following members.
 
 ## Methods
 
@@ -24,14 +25,14 @@ The [TextLogger](https://msdn.microsoft.com/library/microsoft.practices.prism.lo
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger.dispose">Dispose()()()</a></td>
+<td><a href="/patterns-practices/reference/textlogger-dispose">Dispose()</a></td>
 <td><div class="summary">
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger.dispose(system.boolean)">Dispose(Boolean)</a></td>
+<td><a href="/patterns-practices/reference/textlogger-dispose-method-boolean-mspp-logging">Dispose(Boolean)</a></td>
 <td><div class="summary">
 Disposes the associated <a href="http://msdn.microsoft.com/en-us/library/ywxh2328">TextWriter</a>.
 </div></td>
@@ -70,7 +71,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger.log(system.string%2cmicrosoft.practices.prism.logging.category%2cmicrosoft.practices.prism.logging.priority)">Log</a></td>
+<td><a href="/patterns-practices/reference/textlogger-log-method-mspp-logging">Log</a></td>
 <td><div class="summary">
 Write a new log entry with the specified category and priority.
 </div></td>
@@ -95,6 +96,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[TextLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger)
 
-[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
+[TextLogger Class](/patterns-practices/reference/textlogger-class-mspp-logging)
+
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)

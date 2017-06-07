@@ -6,11 +6,15 @@ ms:mtpsurl: 'mefeventaggregator-constructor-mspp-mefextensions-events.md'
 ---
 
 # MefEventAggregator Constructor
-Initializes a new instance of the [MefEventAggregator](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator(v=pandp.50)) class
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Events](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.events(v=pandp.50))  
+Initializes a new instance of the [MefEventAggregator](/patterns-practices/reference/mefeventaggregator-class-mspp-mefextensions-events) class
+
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Events](/patterns-practices/reference/mspp-mefextensions-events-namespace)  
+
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
+
 **Version:** 5.0.0.0 (5.0.0.0)
+
 ## Syntax
 ```C#
 public MefEventAggregator()
@@ -19,7 +23,11 @@ public MefEventAggregator()
 'Declaration
 Public Sub New
 ```
+
 ## See Also
-[MefEventAggregator Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator(v=pandp.50))  
-[MefEventAggregator Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.events.mefeventaggregator_members(v=pandp.50))  
-[Microsoft.Practices.Prism.MefExtensions.Events Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.mefextensions.events(v=pandp.50))
+
+[MefEventAggregator Class](/patterns-practices/reference/mefeventaggregator-class-mspp-mefextensions-events)  
+
+[MefEventAggregator Members](/patterns-practices/reference/mefeventaggregator-members-mspp-mefextensions-events)  
+
+[Microsoft.Practices.Prism.MefExtensions.Events Namespace](/patterns-practices/reference/mspp-mefextensions-events-namespace)

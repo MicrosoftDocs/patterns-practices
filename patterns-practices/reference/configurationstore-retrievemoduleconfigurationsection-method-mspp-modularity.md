@@ -21,6 +21,19 @@ Gets the module configuration data.
 public ModulesConfigurationSection RetrieveModuleConfigurationSection()
 ```
 
+### Return Value
+
+Type: [ModulesConfigurationSection](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity)
+
+A [ModulesConfigurationSection](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity) instance.
+
+### Implements
+
+[IConfigurationStore.RetrieveModuleConfigurationSection()](/patterns-practices/reference/iconfigurationstore-retrievemoduleconfigurationsection-method-mspp-modularity)
+
+
+## Syntax
+
 ```VB
 'Declaration
 Public Function RetrieveModuleConfigurationSection As ModulesConfigurationSection
@@ -28,12 +41,13 @@ Public Function RetrieveModuleConfigurationSection As ModulesConfigurationSectio
 
 ### Return Value
 
-Type: [ModulesConfigurationSection](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity)<br/>
+Type: [ModulesConfigurationSection](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity)
+
 A [ModulesConfigurationSection](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity) instance.
 
 ### Implements
 
-[IConfigurationStore.RetrieveModuleConfigurationSection()](/patterns-practices/reference/iconfigurationstore-retrievemoduleconfigurationsection-method-mspp-modularity)
+[IConfigurationStore.RetrieveModuleConfigurationSection](/patterns-practices/reference/iconfigurationstore-retrievemoduleconfigurationsection-method-mspp-modularity)
 
 ## See Also
 

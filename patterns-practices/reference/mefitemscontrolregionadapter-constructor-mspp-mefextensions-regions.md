@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Regions.MefItemsControlRe
 ms:mtpsurl: 'mefitemscontrolregionadapter-constructor-mspp-mefextensions-regions.md'
 ---
 
-
 # MefItemsControlRegionAdapter Constructor
 
 Initializes a new instance of the [MefItemsControlRegionAdapter](/patterns-practices/reference/mefitemscontrolregionadapter-class-mspp-mefextensions-regions) class.

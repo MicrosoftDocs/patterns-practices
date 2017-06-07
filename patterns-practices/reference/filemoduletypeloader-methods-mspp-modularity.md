@@ -4,7 +4,7 @@ Title: 'FileModuleTypeLoader Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader'
 ms:mtpsurl: 'filemoduletypeloader-methods-mspp-modularity.md'
 ---
-
+
 # FileModuleTypeLoader Methods
 
 The [FileModuleTypeLoader](/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity) type exposes the following members.
@@ -23,23 +23,23 @@ The [FileModuleTypeLoader](/patterns-practices/reference/filemoduletypeloader-cl
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.canloadmoduletype(microsoft.practices.prism.modularity.moduleinfo)">CanLoadModuleType</a></td>
+<td><a href="/patterns-practices/reference/filemoduletypeloader-canloadmoduletype-method-mspp-modularity">CanLoadModuleType</a></td>
 <td><div class="summary">
-Evaluates the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.ref">Ref</a> property to see if the current typeloader will be able to retrieve the moduleInfo. Returns true if the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.ref">Ref</a> property starts with &quot;file://&quot;, because this indicates that the file is a local file.
+Evaluates the <a href="/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity">Ref</a> property to see if the current typeloader will be able to retrieve the <i>moduleInfo</i>. Returns true if the <a href="/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity">Ref</a> property starts with &quot;file://&quot;, because this indicates that the file is a local file.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.dispose">Dispose()()()</a></td>
+<td><a href="/patterns-practices/reference/filemoduletypeloader-dispose">Dispose()</a></td>
 <td><div class="summary">
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.dispose(system.boolean)">Dispose(Boolean)</a></td>
+<td><a href="/patterns-practices/reference/filemoduletypeloader-dispose-method-boolean-mspp-modularity">Dispose(Boolean)</a></td>
 <td><div class="summary">
-Disposes the associated <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver">AssemblyResolver</a>.
+Disposes the associated <a href="/patterns-practices/reference/assemblyresolver-class-mspp-modularity">AssemblyResolver</a>.
 </div></td>
 </tr>
 <tr class="even">
@@ -76,9 +76,9 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.loadmoduletype(microsoft.practices.prism.modularity.moduleinfo)">LoadModuleType</a></td>
+<td><a href="/patterns-practices/reference/filemoduletypeloader-loadmoduletype-method-mspp-modularity">LoadModuleType</a></td>
 <td><div class="summary">
-Retrieves the moduleInfo.
+Retrieves the <i>moduleInfo</i>.
 </div></td>
 </tr>
 <tr class="odd">

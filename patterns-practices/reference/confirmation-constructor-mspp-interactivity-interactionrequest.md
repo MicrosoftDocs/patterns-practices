@@ -5,12 +5,11 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confir
 ms:mtpsurl: 'confirmation-constructor-mspp-interactivity-interactionrequest.md'
 ---
 
-
 # Confirmation Constructor
 
-Initializes a new instance of the [Confirmation](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation(v=pandp.50)) class
+Initializes a new instance of the [Confirmation](/patterns-practices/reference/confirmation-class-mspp-interactivity-interactionrequest) class
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -29,8 +28,8 @@ Public Sub New
 
 ## See Also
 
-[Confirmation Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation(v=pandp.50))
+[Confirmation Class](/patterns-practices/reference/confirmation-class-mspp-interactivity-interactionrequest)
 
-[Confirmation Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation_members(v=pandp.50))
+[Confirmation Members](/patterns-practices/reference/confirmation-members-mspp-interactivity-interactionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.interactionrequest(v=pandp.50))
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

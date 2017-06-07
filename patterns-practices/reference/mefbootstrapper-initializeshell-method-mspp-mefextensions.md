@@ -4,7 +4,8 @@ Title: 'MefBootstrapper.InitializeShell Method (Microsoft.Practices.Prism.MefExt
 ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.InitializeShell'
 ms:mtpsurl: 'mefbootstrapper-initializeshell-method-mspp-mefextensions.md'
 ---
-
+
+
 # MefBootstrapper.InitializeShell Method
 
 Initializes the shell.

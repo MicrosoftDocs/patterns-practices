@@ -6,7 +6,7 @@ ms:mtpsurl: 'pubsubevent-tpayload-contains-method-mspp-pubsubevents.md'
 ---
 
 
-# PubSubEvent(Of TPayload).Contains Method
+# PubSubEvent<TPayload>.Contains Method
 
 ## Overload List
 
@@ -22,13 +22,10 @@ ms:mtpsurl: 'pubsubevent-tpayload-contains-method-mspp-pubsubevents.md'
 <tr class="odd">
 
 <td>![Public method](/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent%601.contains(system.action%7b%600%7d)">Contains(Action(Of TPayload))</a></td>
-
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent%601.contains(system.action%7b%600%7d)">Contains(Action&lt;(Of &lt;(TPayload&gt;)&gt;))</a></td>
+<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent.contains(system.action)">Contains(Action&lt;TPayload&gt;)</a></td>
 
 <td><div class="summary">
-Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matching <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action(Of T)</a>.
+Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matching <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;T&gt;</a>.
 </div></td>
 </tr>
 <tr class="even">
@@ -44,9 +41,9 @@ Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matchin
 
 ## See Also
 
-[PubSubEvent(Of TPayload) Class](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent%601)
+[PubSubEvent<TPayload> Class](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent)
 
-PubSubEvent(Of TPayload) Members
+PubSubEvent<TPayload> Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
 

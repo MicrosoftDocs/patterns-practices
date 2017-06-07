@@ -17,6 +17,7 @@ Initializes a new instance of [ModuleDependencyCollection](/patterns-practices/r
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public ModuleDependencyCollection()
 ```
