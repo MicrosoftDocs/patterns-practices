@@ -4,16 +4,14 @@ Title: 'MefDelayedRegionCreationBehavior Members (Microsoft.Practices.Prism.MefE
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefDelayedRegionCreationBehavior'
 ms:mtpsurl: 'mefdelayedregioncreationbehavior-members-mspp-mefextensions-regions-behaviors.md'
 ---
-
+
 # MefDelayedRegionCreationBehavior Members
 
-The [MefDelayedRegionCreationBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior) type exposes the following members.
+The [MefDelayedRegionCreationBehavior](https://review.docs.microsoft.com/patterns-practices/reference/mefdelayedregioncreationbehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
 
 ## Constructors
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,9 +22,9 @@ The [MefDelayedRegionCreationBehavior](https://msdn.microsoft.com/library/micros
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior.">MefDelayedRegionCreationBehavior</a></td>
+<td>MefDelayedRegionCreationBehavior</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior">MefDelayedRegionCreationBehavior</a> class.
+Initializes a new instance of the <a href="https://review.docs.microsoft.com/patterns-practices/reference/mefdelayedregioncreationbehavior-class-mspp-mefextensions-regions-behaviors">MefDelayedRegionCreationBehavior</a> class.
 </div></td>
 </tr>
 </tbody>
@@ -34,9 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -47,27 +43,27 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.attach">Attach</a></td>
+<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/delayedregioncreationbehavior-attach-method-mspp-regions-behaviors">Attach</a></td>
 <td><div class="summary">
-Start monitoring the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager">RegionManager</a> and the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.targetelement">TargetElement</a> to detect when the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.targetelement">TargetElement</a> becomes part of the Visual Tree. When that happens, the Region will be created and the behavior will <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.detach">Detach()()()</a>.
+Start monitoring the <a href="https://review.docs.microsoft.com/patterns-practices/reference/regionmanager-class-mspp-regions">RegionManager</a> and the <a href="https://review.docs.microsoft.com/patterns-practices/reference/delayedregioncreationbehavior-targetelement-property-mspp-regions-behaviors">TargetElement</a> to detect when the <a href="https://review.docs.microsoft.com/patterns-practices/reference/delayedregioncreationbehavior-targetelement-property-mspp-regions-behaviors">TargetElement</a> becomes part of the Visual Tree. When that happens, the Region will be created and the behavior will <a href="https://review.docs.microsoft.com/patterns-practices/reference/delayedregioncreationbehavior-detach-method-mspp-regions-behaviors">Detach()</a>.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior">DelayedRegionCreationBehavior</a>.)</td>
+(Inherited from <a href="https://review.docs.microsoft.com/patterns-practices/reference/delayedregioncreationbehavior-class-mspp-regions-behaviors">DelayedRegionCreationBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.createregion(system.windows.dependencyobject%2csystem.string)">CreateRegion</a></td>
+<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/delayedregioncreationbehavior-createregion-method-mspp-regions-behaviors">CreateRegion</a></td>
 <td><div class="summary">
-Method that will create the region, by calling the right <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionadapter">IRegionAdapter</a>.
+Method that will create the region, by calling the right <a href="https://review.docs.microsoft.com/patterns-practices/reference/iregionadapter-interface-mspp-regions">IRegionAdapter</a>.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior">DelayedRegionCreationBehavior</a>.)</td>
+(Inherited from <a href="https://review.docs.microsoft.com/patterns-practices/reference/delayedregioncreationbehavior-class-mspp-regions-behaviors">DelayedRegionCreationBehavior</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.detach">Detach</a></td>
+<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/delayedregioncreationbehavior-detach-method-mspp-regions-behaviors">Detach</a></td>
 <td><div class="summary">
-Stop monitoring the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager">RegionManager</a> and the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.targetelement">TargetElement</a>, so that this behavior can be garbage collected.
+Stop monitoring the <a href="https://review.docs.microsoft.com/patterns-practices/reference/regionmanager-class-mspp-regions">RegionManager</a> and the <a href="https://review.docs.microsoft.com/patterns-practices/reference/delayedregioncreationbehavior-targetelement-property-mspp-regions-behaviors">TargetElement</a>, so that this behavior can be garbage collected.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior">DelayedRegionCreationBehavior</a>.)</td>
+(Inherited from <a href="https://review.docs.microsoft.com/patterns-practices/reference/delayedregioncreationbehavior-class-mspp-regions-behaviors">DelayedRegionCreationBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -111,11 +107,11 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.onupdatingregions(system.object%2csystem.eventargs)">OnUpdatingRegions</a></td>
+<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/delayedregioncreationbehavior-onupdatingregions-method-mspp-regions-behaviors">OnUpdatingRegions</a></td>
 <td><div class="summary">
-Called when the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager">RegionManager</a> is updating it's <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regions">Regions</a> collection.
+Called when the <a href="https://review.docs.microsoft.com/patterns-practices/reference/regionmanager-class-mspp-regions">RegionManager</a> is updating it's <a href="https://review.docs.microsoft.com/patterns-practices/reference/regionmanager-regions-property-mspp-regions">Regions</a> collection.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior">DelayedRegionCreationBehavior</a>.)</td>
+(Inherited from <a href="https://review.docs.microsoft.com/patterns-practices/reference/delayedregioncreationbehavior-class-mspp-regions-behaviors">DelayedRegionCreationBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -143,24 +139,25 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.regionmanageraccessor">RegionManagerAccessor</a></td>
+<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/delayedregioncreationbehavior-regionmanageraccessor-property-mspp-regions-behaviors">RegionManagerAccessor</a></td>
 <td><div class="summary">
-Sets a class that interfaces between the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager">RegionManager</a> 's static properties/events and this behavior, so this behavior can be tested in isolation.
+Sets a class that interfaces between the <a href="https://review.docs.microsoft.com/patterns-practices/reference/regionmanager-class-mspp-regions">RegionManager</a> 's static properties/events and this behavior, so this behavior can be tested in isolation.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior">DelayedRegionCreationBehavior</a>.)</td>
+(Inherited from <a href="https://review.docs.microsoft.com/patterns-practices/reference/delayedregioncreationbehavior-class-mspp-regions-behaviors">DelayedRegionCreationBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior.targetelement">TargetElement</a></td>
+<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/delayedregioncreationbehavior-targetelement-property-mspp-regions-behaviors">TargetElement</a></td>
 <td><div class="summary">
 The element that will host the Region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.delayedregioncreationbehavior">DelayedRegionCreationBehavior</a>.)</td>
+(Inherited from <a href="https://review.docs.microsoft.com/patterns-practices/reference/delayedregioncreationbehavior-class-mspp-regions-behaviors">DelayedRegionCreationBehavior</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[MefDelayedRegionCreationBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefdelayedregioncreationbehavior)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)
+[MefDelayedRegionCreationBehavior Class](https://review.docs.microsoft.com/patterns-practices/reference/mefdelayedregioncreationbehavior-class-mspp-mefextensions-regions-behaviors)
+
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://review.docs.microsoft.com/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

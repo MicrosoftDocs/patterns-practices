@@ -4,16 +4,14 @@ Title: 'ModuleExportAttribute Members (Microsoft.Practices.Prism.MefExtensions.M
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Modularity.ModuleExportAttribute'
 ms:mtpsurl: 'moduleexportattribute-members-mspp-mefextensions-modularity.md'
 ---
-
+
 # ModuleExportAttribute Members
 
-The [ModuleExportAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute) type exposes the following members.
+The [ModuleExportAttribute](https://review.docs.microsoft.com/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity) type exposes the following members.
 
 ## Constructors
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,16 +22,16 @@ The [ModuleExportAttribute](https://msdn.microsoft.com/library/microsoft.practic
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute.">ModuleExportAttribute(Type)</a></td>
+<td>ModuleExportAttribute(Type)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute">ModuleExportAttribute</a> class.
+Initializes a new instance of the <a href="https://review.docs.microsoft.com/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity">ModuleExportAttribute</a> class.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute.">ModuleExportAttribute(String, Type)</a></td>
+<td>ModuleExportAttribute(String, Type)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute">ModuleExportAttribute</a> class.
+Initializes a new instance of the <a href="https://review.docs.microsoft.com/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity">ModuleExportAttribute</a> class.
 </div></td>
 </tr>
 </tbody>
@@ -41,9 +39,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -121,9 +117,7 @@ Returns a string that represents the current object.
 
 ## Properties
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -150,28 +144,28 @@ Gets the contract type that is exported by the member that this attribute is att
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute.dependsonmodulenames">DependsOnModuleNames</a></td>
+<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/imoduleexport-dependsonmodulenames-property-mspp-mefextensions-modularity">DependsOnModuleNames</a></td>
 <td><div class="summary">
 Gets or sets the contract names of modules this module depends upon.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute.initializationmode">InitializationMode</a></td>
+<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/moduleexportattribute-initializationmode-property-mspp-mefextensions-modularity">InitializationMode</a></td>
 <td><div class="summary">
 Gets or sets when the module should have Initialize() called.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute.modulename">ModuleName</a></td>
+<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/moduleexportattribute-modulename-property-mspp-mefextensions-modularity">ModuleName</a></td>
 <td><div class="summary">
 Gets the contract name of the module.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute.moduletype">ModuleType</a></td>
+<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/moduleexportattribute-moduletype-property-mspp-mefextensions-modularity">ModuleType</a></td>
 <td><div class="summary">
 Gets concrete type of the module being exported. Not typeof(IModule).
 </div></td>
@@ -188,6 +182,7 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 </table>
 
 ## See Also
-[ModuleExportAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity.moduleexportattribute)
 
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.modularity)
+[ModuleExportAttribute Class](https://review.docs.microsoft.com/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity)
+
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://review.docs.microsoft.com/patterns-practices/reference/mspp-mefextensions-modularity-namespace)
