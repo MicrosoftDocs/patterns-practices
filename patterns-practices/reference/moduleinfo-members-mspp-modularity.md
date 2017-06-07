@@ -4,10 +4,11 @@ Title: 'ModuleInfo Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModuleInfo'
 ms:mtpsurl: 'moduleinfo-members-mspp-modularity.md'
 ---
-
+
+
 # ModuleInfo Members
 
-The [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo) type exposes the following members.
+The [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) type exposes the following members.
 
 ## Constructors
 
@@ -24,23 +25,23 @@ The [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.mo
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.">ModuleInfo()()()</a></td>
+<td><a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo()</a></td>
 <td><div class="summary">
-Initializes a new empty instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a>.
+Initializes a new empty instance of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.">ModuleInfo(String, String)</a></td>
+<td><a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo(String, String)</a></td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a>.
+Initializes a new instance of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.">ModuleInfo(String, String, array&lt;String&gt;)</a></td>
+<td><a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo(String, String, String[])</a></td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a>.
+Initializes a new instance of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>.
 </div></td>
 </tr>
 </tbody>
@@ -125,54 +126,55 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.dependson">DependsOn</a></td>
+<td><a href="/patterns-practices/reference/moduleinfo-dependson-property-mspp-modularity">DependsOn</a></td>
 <td><div class="summary">
 Gets or sets the list of modules that this module depends upon.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.initializationmode">InitializationMode</a></td>
+<td><a href="/patterns-practices/reference/moduleinfo-initializationmode-property-mspp-modularity">InitializationMode</a></td>
 <td><div class="summary">
 Specifies on which stage the Module will be initialized.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.modulename">ModuleName</a></td>
+<td><a href="/patterns-practices/reference/moduleinfo-modulename-property-mspp-modularity">ModuleName</a></td>
 <td><div class="summary">
 Gets or sets the name of the module.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.moduletype">ModuleType</a></td>
+<td><a href="/patterns-practices/reference/moduleinfo-moduletype-property-mspp-modularity">ModuleType</a></td>
 <td><div class="summary">
 Gets or sets the module <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a>'s AssemblyQualifiedName.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.ref">Ref</a></td>
+<td><a href="/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity">Ref</a></td>
 <td><div class="summary">
 Reference to the location of the module assembly.
 <div>
 <h2 id="examples">Examples</h2>
-The following are examples of valid <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.ref">Ref</a> values: file://c:/MyProject/Modules/MyModule.dll for a loose DLL in WPF.
+The following are examples of valid <a href="/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity">Ref</a> values: file://c:/MyProject/Modules/MyModule.dll for a loose DLL in WPF.
 </div>
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.state">State</a></td>
+<td><a href="/patterns-practices/reference/moduleinfo-state-property-mspp-modularity">State</a></td>
 <td><div class="summary">
-Gets or sets the state of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a> with regards to the module loading and initialization process.
+Gets or sets the state of the <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a> with regards to the module loading and initialization process.
 </div></td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[ModuleInfo Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
