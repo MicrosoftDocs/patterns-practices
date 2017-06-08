@@ -4,10 +4,11 @@ Title: 'FileModuleTypeLoader Members (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader'
 ms:mtpsurl: 'filemoduletypeloader-members-mspp-modularity.md'
 ---
-
+
+
 # FileModuleTypeLoader Members
 
-The [FileModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader) type exposes the following members.
+The [FileModuleTypeLoader]() type exposes the following members.
 
 ## Constructors
 
@@ -24,16 +25,16 @@ The [FileModuleTypeLoader](https://msdn.microsoft.com/library/microsoft.practice
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.">FileModuleTypeLoader()()()</a></td>
+<td>FileModuleTypeLoader()</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader">FileModuleTypeLoader</a> class.
+Initializes a new instance of the <a href="/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity">FileModuleTypeLoader</a> class.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.">FileModuleTypeLoader(IAssemblyResolver)</a></td>
+<td>FileModuleTypeLoader(IAssemblyResolver)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader">FileModuleTypeLoader</a> class.
+Initializes a new instance of the <a href="/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity">FileModuleTypeLoader</a> class.
 </div></td>
 </tr>
 </tbody>
@@ -54,23 +55,23 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.canloadmoduletype(microsoft.practices.prism.modularity.moduleinfo)">CanLoadModuleType</a></td>
+<td><a href="/patterns-practices/reference/filemoduletypeloader-canloadmoduletype-method-mspp-modularity">CanLoadModuleType</a></td>
 <td><div class="summary">
-Evaluates the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.ref">Ref</a> property to see if the current typeloader will be able to retrieve the moduleInfo. Returns true if the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.ref">Ref</a> property starts with &quot;file://&quot;, because this indicates that the file is a local file.
+Evaluates the <a href="/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity">Ref</a> property to see if the current typeloader will be able to retrieve the moduleInfo. Returns true if the <a href="/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity">Ref</a> property starts with &quot;file://&quot;, because this indicates that the file is a local file.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.dispose">Dispose()()()</a></td>
+<td><a href="/patterns-practices/reference/filemoduletypeloader-dispose">Dispose()</a></td>
 <td><div class="summary">
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.dispose(system.boolean)">Dispose(Boolean)</a></td>
+<td><a href="/patterns-practices/reference/filemoduletypeloader-dispose-method-boolean-mspp-modularity">Dispose(Boolean)</a></td>
 <td><div class="summary">
-Disposes the associated <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver">AssemblyResolver</a>.
+Disposes the associated <a href="/patterns-practices/reference/assemblyresolver-class-mspp-modularity">AssemblyResolver</a>.
 </div></td>
 </tr>
 <tr class="even">
@@ -107,9 +108,9 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.loadmoduletype(microsoft.practices.prism.modularity.moduleinfo)">LoadModuleType</a></td>
+<td><a href="/patterns-practices/reference/filemoduletypeloader-loadmoduletype-method-mspp-modularity">LoadModuleType</a></td>
 <td><div class="summary">
-Retrieves the moduleInfo.
+Retrieves the <i>moduleInfo</i>.
 </div></td>
 </tr>
 <tr class="odd">
@@ -146,14 +147,14 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.loadmodulecompleted">LoadModuleCompleted</a></td>
+<td><a href="/patterns-practices/reference/filemoduletypeloader-loadmodulecompleted-event-mspp-modularity">LoadModuleCompleted</a></td>
 <td><div class="summary">
 Raised when a module is loaded or fails to load.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.moduledownloadprogresschanged">ModuleDownloadProgressChanged</a></td>
+<td><a href="/patterns-practices/reference/filemoduletypeloader-moduledownloadprogresschanged-event-mspp-modularity">ModuleDownloadProgressChanged</a></td>
 <td><div class="summary">
 Raised repeatedly to provide progress as modules are loaded in the background.
 </div></td>
@@ -162,6 +163,7 @@ Raised repeatedly to provide progress as modules are loaded in the background.
 </table>
 
 ## See Also
-[FileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[FileModuleTypeLoader Class](/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
