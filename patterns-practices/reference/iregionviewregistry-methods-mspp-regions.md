@@ -12,7 +12,6 @@ The [IRegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices
 ## Methods
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -30,14 +29,14 @@ Returns the contents associated with a region name.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[RegisterViewWithRegion(String, Func&gt;Object&gt;)](/patterns-practices/reference/iregionviewregistry-registerviewwithregion-method-string-func-object-mspp-regions)</td>
+<td>[RegisterViewWithRegion(String, Func&lt;Object&gt;)](/patterns-practices/reference/iregionviewregistry-registerviewwithregion-method-string-func-object-mspp-regions)</td>
 <td><div class="summary">
 Registers a delegate that can be used to retrieve the content associated with a region name.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[RegisterViewWithRegion(String, Type)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry.registerviewwithregion(system.string%2csystem.type))</td>
+<td>[RegisterViewWithRegion(String, Type)](/patterns-practices/reference/iregionviewregistry-registerviewwithregion-method-string-type-mspp-regions)</td>
 <td><div class="summary">
 Registers a content type with a region name.
 </div></td>

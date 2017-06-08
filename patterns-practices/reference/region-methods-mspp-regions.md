@@ -145,7 +145,6 @@ Returns a string that represents the current object.
 
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -158,6 +157,7 @@ Returns a string that represents the current object.
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
 <td>[RequestNavigate(String)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-mspp-regions)</td>
 <td>Overloaded.
+
 <div class="summary">
 Initiates navigation to the target specified by the *target*.
 </div>
@@ -167,6 +167,7 @@ Initiates navigation to the target specified by the *target*.
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
 <td>[RequestNavigate(Uri)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-uri-mspp-regions)</td>
 <td>Overloaded.
+
 <div class="summary">
 Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
 </div>
@@ -176,6 +177,7 @@ Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
 <td>[RequestNavigate(String, Action&lt;NavigationResult&gt;)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-mspp-regions)</td>
 <td>Overloaded.
+
 <div class="summary">
 Initiates navigation to the target specified by the *target*.
 </div>
@@ -185,6 +187,7 @@ Initiates navigation to the target specified by the *target*.
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
 <td>[RequestNavigate(Uri, NavigationParameters)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-uri-navigationparameters-mspp-regions)</td>
 <td>Overloaded.
+
 <div class="summary">
 Initiates navigation to the target specified by the *target*.
 </div>
@@ -194,6 +197,7 @@ Initiates navigation to the target specified by the *target*.
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
 <td>[RequestNavigate(String, NavigationParameters)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-navigationparameters-mspp-regions)</td>
 <td>Overloaded.
+
 <div class="summary">
 Initiates navigation to the target specified by the *target*.
 </div>
@@ -203,6 +207,7 @@ Initiates navigation to the target specified by the *target*.
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
 <td>[RequestNavigate(String, Action&lt;NavigationResult&gt;, NavigationParameters)](/patterns-practices/reference/navigationasyncextensions-requestnavigate-method-inavigateasync-string-action-navigationresult-navigationparameters-mspp-regions)</td>
 <td>Overloaded.
+
 <div class="summary">
 Initiates navigation to the target specified by the *target*.
 </div>
