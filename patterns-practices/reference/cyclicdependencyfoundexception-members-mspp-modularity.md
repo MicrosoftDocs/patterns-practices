@@ -8,7 +8,7 @@ ms:mtpsurl: 'cyclicdependencyfoundexception-members-mspp-modularity.md'
 
 # CyclicDependencyFoundException Members
 
-The [CyclicDependencyFoundException](gg431474) type exposes the following members.
+The [CyclicDependencyFoundException](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity) type exposes the following members.
 
 ## Constructors
 
