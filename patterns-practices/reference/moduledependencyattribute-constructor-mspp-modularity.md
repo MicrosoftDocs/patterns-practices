@@ -17,6 +17,7 @@ Initializes a new instance of [ModuleDependencyAttribute](/patterns-practices/re
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public ModuleDependencyAttribute(
 	string moduleName

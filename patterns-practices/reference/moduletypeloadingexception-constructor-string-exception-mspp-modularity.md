@@ -16,6 +16,7 @@ Initializes a new instance with a specified error message and a reference to the
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public ModuleTypeLoadingException(
 	string message,
@@ -48,6 +49,6 @@ The exception that is the cause of the current exception, or a **Nothing**a null
 
 [ModuleTypeLoadingException Members](/patterns-practices/reference/moduletypeloadingexception-members-mspp-modularity)
 
-[ModuleTypeLoadingException Overload]
+ModuleTypeLoadingException Overload
 
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
