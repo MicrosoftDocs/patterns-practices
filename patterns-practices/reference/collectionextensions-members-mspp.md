@@ -4,16 +4,16 @@ Title: 'CollectionExtensions Members (Microsoft.Practices.Prism)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.CollectionExtensions'
 ms:mtpsurl: 'collectionextensions-members-mspp.md'
 ---
-
+
+
 # CollectionExtensions Members
 
-The [CollectionExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.collectionextensions) type exposes the following members.
+The [CollectionExtensions](/patterns-practices/reference/collectionextensions-class-mspp) type exposes the following members.
 
 ## Methods
 
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,7 +24,7 @@ The [CollectionExtensions](https://msdn.microsoft.com/library/microsoft.practice
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.collectionextensions.addrange%60%601(system.collections.objectmodel.collection%7b%60%600%7d%2csystem.collections.generic.ienumerable%7b%60%600%7d)">AddRange&lt;(Of &lt;(T&gt;)&gt;)</a></td>
+<td><a href="/patterns-practices/reference/collectionextensions-addrange-t-method-mspp">AddRange&lt;T&gt;</a></td>
 <td><div class="summary">
 Add a range of items to a collection.
 </div></td>
@@ -33,6 +33,6 @@ Add a range of items to a collection.
 </table>
 
 ## See Also
-[CollectionExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.collectionextensions)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[CollectionExtensions Class](/patterns-practices/reference/collectionextensions-class-mspp)  
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
