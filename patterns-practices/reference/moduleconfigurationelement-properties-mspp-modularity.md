@@ -4,10 +4,11 @@ Title: 'ModuleConfigurationElement Properties (Microsoft.Practices.Prism.Modular
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement'
 ms:mtpsurl: 'moduleconfigurationelement-properties-mspp-modularity.md'
 ---
-
+
+
 # ModuleConfigurationElement Properties
 
-The [ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement) type exposes the following members.
+The [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity) type exposes the following members.
 
 ## Properties
 
@@ -24,7 +25,8 @@ The [ModuleConfigurationElement](https://msdn.microsoft.com/library/microsoft.pr
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement.assemblyfile">AssemblyFile</a></td>
+<td><a href="/patterns-practices/reference/moduleconfigurationelement-assemblyfile-property-mspp-modularity
+">AssemblyFile</a></td>
 <td><div class="summary">
 Gets or sets the assembly file.
 </div></td>
@@ -39,7 +41,8 @@ Gets a reference to the top-level <a href="http://msdn.microsoft.com/en-us/libra
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement.dependencies">Dependencies</a></td>
+<td><a href="/patterns-practices/reference/moduleconfigurationelement-dependencies-property-mspp-modularity
+">Dependencies</a></td>
 <td><div class="summary">
 Gets or sets the modules this module depends on.
 </div></td>
@@ -78,7 +81,7 @@ Gets a value that indicates whether the <a href="http://msdn.microsoft.com/en-us
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/es150ftc">Item[([(ConfigurationProperty])])</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/es150ftc">Item[(ConfigurationProperty])</a></td>
 <td><div class="summary">
 Gets or sets a property or attribute of this configuration element.
 </div>
@@ -86,7 +89,7 @@ Gets or sets a property or attribute of this configuration element.
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/c8693ks1">Item[([(String])])</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/c8693ks1">Item[(String])</a></td>
 <td><div class="summary">
 Gets or sets a property, attribute, or child element of this configuration element.
 </div>
@@ -134,14 +137,16 @@ Gets or sets a value indicating whether the element is locked.
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement.modulename">ModuleName</a></td>
+<td><a href="/patterns-practices/reference/moduleconfigurationelement-modulename-property-mspp-modularity
+">ModuleName</a></td>
 <td><div class="summary">
 Gets or sets the module name.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement.moduletype">ModuleType</a></td>
+<td><a href="/patterns-practices/reference/moduleconfigurationelement-moduletype-property-mspp-modularity
+">ModuleType</a></td>
 <td><div class="summary">
 Gets or sets the module type.
 </div></td>
@@ -156,7 +161,8 @@ Gets the collection of properties.
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement.startuploaded">StartupLoaded</a></td>
+<td><a href="/patterns-practices/reference/moduleconfigurationelement-startuploaded-property-mspp-modularity
+">StartupLoaded</a></td>
 <td><div class="summary">
 Gets or sets a value indicating whether the module should be loaded at startup.
 </div></td>
@@ -165,6 +171,7 @@ Gets or sets a value indicating whether the module should be loaded at startup.
 </table>
 
 ## See Also
-[ModuleConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleConfigurationElement Class](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
