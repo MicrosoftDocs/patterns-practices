@@ -34,7 +34,7 @@ Adapts an [ItemsControl](http://msdn.microsoft.com/en-us/library/ms611045) to an
 <td><div class="summary">
 Template method to attach new behaviors.
 </div>
-(Inherited from [RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions.)</td>
+(Inherited from [RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -42,7 +42,7 @@ Template method to attach new behaviors.
 <td><div class="summary">
 This method adds the default behaviors by using the [IRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory) object.
 </div>
-(Inherited from [RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions.)</td>
+(Inherited from [RegionAdapterBase&lt;T&gt;](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -50,7 +50,7 @@ This method adds the default behaviors by using the [IRegionBehaviorFactory](htt
 <td><div class="summary">
 Creates a new instance of [AllActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.allactiveregion).
 </div>
-(Overrides RegionAdapterBase&lt;T&gt;.CreateRegion()(/patterns-practices/reference/regionadapterbase-t-createregion-method-mspp-regions).)</td>
+(Overrides [RegionAdapterBase&lt;T&gt;.CreateRegion()](/patterns-practices/reference/regionadapterbase-t-createregion-method-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
