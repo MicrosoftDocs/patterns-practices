@@ -4,15 +4,14 @@ Title: 'IDispatcherFacade Methods (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Events.IDispatcherFacade'
 ms:mtpsurl: 'idispatcherfacade-methods-mspp-events.md'
 ---
-
+
 # IDispatcherFacade Methods
 
-The [IDispatcherFacade](https://msdn.microsoft.com/library/microsoft.practices.prism.events.idispatcherfacade) type exposes the following members.
+The [IDispatcherFacade](/patterns-practices/reference/idispatcherfacade-interface-mspp-events) type exposes the following members.
 
 ## Methods
 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -23,7 +22,7 @@ The [IDispatcherFacade](https://msdn.microsoft.com/library/microsoft.practices.p
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.events.idispatcherfacade.begininvoke(system.delegate%2csystem.object)">BeginInvoke</a></td>
+<td><a href="/patterns-practices/reference/idispatcherfacade-begininvoke-method-mspp-events">BeginInvoke</a></td>
 <td><div class="summary">
 Dispatches an invocation to the method received as parameter.
 </div></td>
@@ -32,6 +31,7 @@ Dispatches an invocation to the method received as parameter.
 </table>
 
 ## See Also
-[IDispatcherFacade Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.events.idispatcherfacade)
 
-[Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.events)
+[IDispatcherFacade Interface](/patterns-practices/reference/idispatcherfacade-interface-mspp-events)
+
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)
