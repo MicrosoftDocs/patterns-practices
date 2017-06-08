@@ -7,7 +7,7 @@ ms:mtpsurl: 'inavigateasync-methods-mspp-regions.md'
 
 # INavigateAsync Methods
 
-The [INavigateAsync](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.inavigateasync) type exposes the following members.
+The [INavigateAsync](/patterns-practices/reference/inavigateasync-interface-mspp-regions) type exposes the following members.
 
 ## Methods
 

@@ -45,7 +45,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 <td><div class="summary">
 Gets the execution strategy to publish this event.
 </div>
-(Inherited from <a href="https://review.docs.microsoft.com/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents">EventSubscription(Of TPayload)</a>.)</td>
+(Inherited from [EventSubscription(Of TPayload)](https://review.docs.microsoft.com/en-us/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -67,9 +67,9 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[InvokeAction](/patterns-practices/reference/dispatchereventsubscription-tpayload-invokeaction-method-mspp-pubsubevents)</td>
 <td><div class="summary">
-Invokes the specified <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action(Of T)</a> asynchronously in the specified [SynchronizationContext](http://msdn.microsoft.com/en-us/library/wx31754f).
+Invokes the specified [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) asynchronously in the specified [SynchronizationContext](http://msdn.microsoft.com/en-us/library/wx31754f).
 </div>
-(Overrides <a href="https://review.docs.microsoft.com/patterns-practices/reference/dispatchereventsubscription-tpayload-invokeaction-method-mspp-pubsubevents)">EventSubscription(Of TPayload).InvokeAction(Action(Of TPayload), TPayload)</a>.)</td>
+(Overrides [EventSubscription(Of TPayload).InvokeAction(Action(Of TPayload), TPayload)](/patterns-practices/reference/eventsubscription-tpayload-invokeaction-method-mspp-pubsubevents).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
