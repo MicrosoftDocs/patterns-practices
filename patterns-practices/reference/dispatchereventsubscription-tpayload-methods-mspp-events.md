@@ -4,16 +4,15 @@ Title: 'DispatcherEventSubscription(TPayload) Methods (Microsoft.Practices.Prism
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Events.DispatcherEventSubscription\`1'
 ms:mtpsurl: 'dispatchereventsubscription-tpayload-methods-mspp-events.md'
 ---
-
-# DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Methods
 
-The [DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601) type exposes the following members.
+
+# DispatcherEventSubscription&lt;TPayload&gt; Methods
+
+The [DispatcherEventSubscription&lt;Of TPayload&gt;](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events) type exposes the following members.
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -41,7 +40,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>GetExecutionStrategy</td>
-<td>(Inherited from EventSubscription&lt;(Of &lt;(<a href="https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601">TPayload</a>&gt;)&gt;).)</td>
+<td>(Inherited from EventSubscription&lt;<a href="/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events">TPayload</a>&gt;.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -61,11 +60,11 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601.invokeaction(system.action%7b%600%7d%2c%600)">InvokeAction</a></td>
+<td><a href="/patterns-practices/reference/dispatchereventsubscription-tpayload-invokeaction-method-mspp-events">InvokeAction</a></td>
 <td><div class="summary">
-Invokes the specified <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;(Of &lt;(T&gt;)&gt;)</a> asynchronously in the specified <a href="http://msdn.microsoft.com/en-us/library/ms615907">Dispatcher</a>.
+Invokes the specified <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action&lt;T&gt;</a> asynchronously in the specified <a href="http://msdn.microsoft.com/en-us/library/ms615907">Dispatcher</a>.
 </div>
-(Overrides EventSubscriptionInvokeAction(Action&lt;(Of &lt;(UTP&gt;)&gt;), UTP).)</td>
+(Overrides EventSubscriptionInvokeAction(Action&lt;UTP&gt;, UTP).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -87,6 +86,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[DispatcherEventSubscription&lt;(Of &lt;(TPayload&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.dispatchereventsubscription%601)
 
-[Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.events)
+[DispatcherEventSubscription&lt;Of TPayload&gt; Class](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)
+
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)

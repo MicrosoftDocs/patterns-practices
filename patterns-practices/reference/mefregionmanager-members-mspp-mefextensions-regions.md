@@ -4,16 +4,14 @@ Title: 'MefRegionManager Members (Microsoft.Practices.Prism.MefExtensions.Region
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionManager'
 ms:mtpsurl: 'mefregionmanager-members-mspp-mefextensions-regions.md'
 ---
-
+
 # MefRegionManager Members
 
-The [MefRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager) type exposes the following members.
+The [MefRegionManager](/patterns-practices/reference/mefregionmanager-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Constructors
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,9 +22,9 @@ The [MefRegionManager](https://msdn.microsoft.com/library/microsoft.practices.pr
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager.">MefRegionManager</a></td>
+<td>MefRegionManager</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager">MefRegionManager</a> class
+Initializes a new instance of the <a href="/patterns-practices/reference/mefregionmanager-class-mspp-mefextensions-regions">MefRegionManager</a> class
 </div></td>
 </tr>
 </tbody>
@@ -34,9 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -47,11 +43,11 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.createregionmanager">CreateRegionManager</a></td>
+<td><a href="/patterns-practices/reference/regionmanager-createregionmanager-method-mspp-regions">CreateRegionManager</a></td>
 <td><div class="summary">
 Creates a new region manager.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager">RegionManager</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionmanager-class-mspp-regions">RegionManager</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -119,16 +115,17 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regions">Regions</a></td>
+<td><a href="/patterns-practices/reference/regionmanager-regions-property-mspp-regions">Regions</a></td>
 <td><div class="summary">
-Gets a collection of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion">IRegion</a> that identify each region by name. You can use this collection to add or remove regions to the current region manager.
+Gets a collection of <a href="/patterns-practices/reference/iregion-interface-mspp-regions">IRegion</a> that identify each region by name. You can use this collection to add or remove regions to the current region manager.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager">RegionManager</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionmanager-class-mspp-regions">RegionManager</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[MefRegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+[MefRegionManager Class](/patterns-practices/reference/mefregionmanager-class-mspp-mefextensions-regions)
+
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

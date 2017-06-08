@@ -4,10 +4,11 @@ Title: 'MefRegionBehaviorFactory Methods (Microsoft.Practices.Prism.MefExtension
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionBehaviorFactory'
 ms:mtpsurl: 'mefregionbehaviorfactory-methods-mspp-mefextensions-regions.md'
 ---
-
+
+
 # MefRegionBehaviorFactory Methods
 
-The [MefRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory) type exposes the following members.
+The [MefRegionBehaviorFactory](/patterns-practices/reference/mefregionbehaviorfactory-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Methods
 
@@ -24,27 +25,27 @@ The [MefRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.prac
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory.addifmissing(system.string%2csystem.type)">AddIfMissing</a></td>
+<td><a href="/patterns-practices/reference/regionbehaviorfactory-addifmissing-method-mspp-regions">AddIfMissing</a></td>
 <td><div class="summary">
 Adds a particular type of RegionBehavior if it was not already registered. The behaviorKey string is used to check if the behavior is already present
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory">RegionBehaviorFactory</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehaviorfactory-class-mspp-regions">RegionBehaviorFactory</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory.containskey(system.string)">ContainsKey</a></td>
+<td><a href="/patterns-practices/reference/regionbehaviorfactory-containskey-method-mspp-regions">ContainsKey</a></td>
 <td><div class="summary">
 Determines whether a behavior with the specified key already exists.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory">RegionBehaviorFactory</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehaviorfactory-class-mspp-regions">RegionBehaviorFactory</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory.createfromkey(system.string)">CreateFromKey</a></td>
+<td><a href="/patterns-practices/reference/regionbehaviorfactory-createfromkey-method-mspp-regions">CreateFromKey</a></td>
 <td><div class="summary">
 Creates an instance of the behavior <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> that is registered using the specified key.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory">RegionBehaviorFactory</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehaviorfactory-class-mspp-regions">RegionBehaviorFactory</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -64,11 +65,11 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory.getenumerator">GetEnumerator</a></td>
+<td><a href="/patterns-practices/reference/regionbehaviorfactory-getenumerator-method-mspp-regions">GetEnumerator</a></td>
 <td><div class="summary">
 Returns an enumerator that iterates through the collection.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorfactory">RegionBehaviorFactory</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehaviorfactory-class-mspp-regions">RegionBehaviorFactory</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -106,6 +107,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[MefRegionBehaviorFactory Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionbehaviorfactory)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+[MefRegionBehaviorFactory Class](/patterns-practices/reference/mefregionbehaviorfactory-class-mspp-mefextensions-regions)
+
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

@@ -4,10 +4,11 @@ Title: 'ModuleDownloadProgressChangedEventArgs Properties (Microsoft.Practices.P
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleDownloadProgressChangedEventArgs'
 ms:mtpsurl: 'moduledownloadprogresschangedeventargs-properties-mspp-modularity.md'
 ---
-
+
+
 # ModuleDownloadProgressChangedEventArgs Properties
 
-The [ModuleDownloadProgressChangedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs) type exposes the following members.
+The [ModuleDownloadProgressChangedEventArgs](/patterns-practices/reference/moduledownloadprogresschangedeventargs-class-mspp-modularity) type exposes the following members.
 
 ## Properties
 
@@ -24,7 +25,8 @@ The [ModuleDownloadProgressChangedEventArgs](https://msdn.microsoft.com/library/
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs.bytesreceived">BytesReceived</a></td>
+<td><a href="/patterns-practices/reference/moduledownloadprogresschangedeventargs-bytesreceived-property-mspp-modularity
+">BytesReceived</a></td>
 <td><div class="summary">
 Gets the bytes received.
 </div></td>
@@ -38,7 +40,8 @@ Getsthe module info.
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/2eksby19">ProgressPercentage</a></td>
+<td><a href="/patterns-practices/reference/moduledownloadprogresschangedeventargs-moduleinfo-property-mspp-modularity
+">ProgressPercentage</a></td>
 <td><div class="summary">
 Gets the asynchronous task progress percentage.
 </div>
@@ -46,7 +49,8 @@ Gets the asynchronous task progress percentage.
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs.totalbytestoreceive">TotalBytesToReceive</a></td>
+<td><a href="/patterns-practices/reference/moduledownloadprogresschangedeventargs-totalbytestoreceive-property-mspp-modularity
+">TotalBytesToReceive</a></td>
 <td><div class="summary">
 Gets the total bytes to receive.
 </div></td>
@@ -63,6 +67,7 @@ Gets a unique user state.
 </table>
 
 ## See Also
-[ModuleDownloadProgressChangedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleDownloadProgressChangedEventArgs Class](/patterns-practices/reference/moduledownloadprogresschangedeventargs-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

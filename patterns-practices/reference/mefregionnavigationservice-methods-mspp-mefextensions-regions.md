@@ -4,10 +4,11 @@ Title: 'MefRegionNavigationService Methods (Microsoft.Practices.Prism.MefExtensi
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationService'
 ms:mtpsurl: 'mefregionnavigationservice-methods-mspp-mefextensions-regions.md'
 ---
-
+
+
 # MefRegionNavigationService Methods
 
-The [MefRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice) type exposes the following members.
+The [MefRegionNavigationService](/patterns-practices/reference/mefregionnavigationservice-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Methods
 
@@ -64,19 +65,19 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;))</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationservice-requestnavigate-method-mspp-regions">RequestNavigate(Uri, Action&lt;NavigationResult&gt;)</a></td>
 <td><div class="summary">
 Initiates navigation to the specified target.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice">RegionNavigationService</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationservice-class-mspp-regions">RegionNavigationService</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.requestnavigate(system.uri%2csystem.action%7bmicrosoft.practices.prism.regions.navigationresult%7d%2cmicrosoft.practices.prism.regions.navigationparameters)">RequestNavigate(Uri, Action&lt;(Of &lt;(NavigationResult&gt;)&gt;), NavigationParameters)</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationservice-requestnavigate-method-mspp-regions">RequestNavigate(Uri, Action&lt;NavigationResult&gt;, NavigationParameters)</a></td>
 <td><div class="summary">
 Initiates navigation to the specified target.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice">RegionNavigationService</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationservice-class-mspp-regions">RegionNavigationService</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -90,6 +91,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[MefRegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+[MefRegionNavigationService Class](/patterns-practices/reference/mefregionnavigationservice-class-mspp-mefextensions-regions)
+
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

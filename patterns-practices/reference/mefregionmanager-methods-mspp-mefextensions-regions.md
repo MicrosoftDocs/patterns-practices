@@ -4,10 +4,11 @@ Title: 'MefRegionManager Methods (Microsoft.Practices.Prism.MefExtensions.Region
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionManager'
 ms:mtpsurl: 'mefregionmanager-methods-mspp-mefextensions-regions.md'
 ---
-
+
+
 # MefRegionManager Methods
 
-The [MefRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager) type exposes the following members.
+The [MefRegionManager](/patterns-practices/reference/mefregionmanager-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Methods
 
@@ -24,11 +25,11 @@ The [MefRegionManager](https://msdn.microsoft.com/library/microsoft.practices.pr
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.createregionmanager">CreateRegionManager</a></td>
+<td><a href="/patterns-practices/reference/regionmanager-createregionmanager-method-mspp-regions">CreateRegionManager</a></td>
 <td><div class="summary">
 Creates a new region manager.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager">RegionManager</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionmanager-class-mspp-regions">RegionManager</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -82,6 +83,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[MefRegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionmanager)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+[MefRegionManager Class](/patterns-practices/reference/mefregionmanager-class-mspp-mefextensions-regions)
+
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

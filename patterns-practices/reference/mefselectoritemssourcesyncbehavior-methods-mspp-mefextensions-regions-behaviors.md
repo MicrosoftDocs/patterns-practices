@@ -4,7 +4,8 @@ Title: 'MefSelectorItemsSourceSyncBehavior Methods (Microsoft.Practices.Prism.Me
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSelectorItemsSourceSyncBehavior'
 ms:mtpsurl: 'mefselectoritemssourcesyncbehavior-methods-mspp-mefextensions-regions-behaviors.md'
 ---
-
+
+
 # MefSelectorItemsSourceSyncBehavior Methods
 
 The [MefSelectorItemsSourceSyncBehavior](/patterns-practices/reference/mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
@@ -23,11 +24,11 @@ The [MefSelectorItemsSourceSyncBehavior](/patterns-practices/reference/mefselect
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.attach">Attach</a></td>
+<td><a href="/patterns-practices/reference/regionbehavior-attach-method-mspp-regions">Attach</a></td>
 <td><div class="summary">
 Attaches the behavior to the region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions">RegionBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -71,11 +72,11 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior.onattach">OnAttach</a></td>
+<td><a href="/patterns-practices/reference/selectoritemssourcesyncbehavior-onattach-method-mspp-regions-behaviors">OnAttach</a></td>
 <td><div class="summary">
-Starts to monitor the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion">IRegion</a> to keep it in synch with the items of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior.hostcontrol">HostControl</a>.
+Starts to monitor the <a href="/patterns-practices/reference/iregion-interface-mspp-regions">IRegion</a> to keep it in synch with the items of the <a href="/patterns-practices/reference/selectoritemssourcesyncbehavior-hostcontrol-property-mspp-regions-behaviors">HostControl</a>.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior">SelectorItemsSourceSyncBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/selectoritemssourcesyncbehavior-class-mspp-regions-behaviors">SelectorItemsSourceSyncBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
