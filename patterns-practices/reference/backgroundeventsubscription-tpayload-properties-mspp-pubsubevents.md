@@ -7,7 +7,7 @@ ms:mtpsurl: 'backgroundeventsubscription-tpayload-properties-mspp-pubsubevents.m
 
 # BackgroundEventSubscription(Of TPayload) Properties
 
-The [BackgroundEventSubscription(Of TPayload)](patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents) type exposes the following members.
+The [BackgroundEventSubscription(Of TPayload)](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents) type exposes the following members.
 
 ## Properties
 
