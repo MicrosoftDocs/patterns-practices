@@ -37,7 +37,7 @@ Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/l
 
 The items to add to the collection.
 
-## Type Parameters
+### Type Parameters
 
 *T*
 
@@ -52,6 +52,19 @@ The collection.
 ### Usage Note
 
 In Visual Basic and C#, you can call this method as an instance method on any object of type [Collection](http://msdn.microsoft.com/en-us/library/ms132397)&lt;T&gt;. When you use instance method syntax to call this method, omit the first parameter. For more information, see [Extension Methods (Visual Basic)](http://msdn.microsoft.com/en-us/library/bb384936.aspx) or [Extension Methods (C# Programming Guide)](http://msdn.microsoft.com/en-us/library/bb383977.aspx).
+
+## Exceptions
+
+<table style="width:100%;">
+<tr>
+<th>Exception</th>
+<th>Condition</th>
+</tr>
+<tr>
+<td>[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)</td>
+<td>An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if <em>collection</em> or <em>items</em> is <strong>null</strong>a null reference (<strong>Nothing</strong> in Visual Basic).</td>
+</tr>
+</table>
 
 # CollectionExtensions.AddRange(Of T) Method
 
@@ -88,7 +101,7 @@ Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/l
 
 The items to add to the collection.
 
-## Type Parameters
+### Type Parameters
 
 *T* 
 
@@ -108,12 +121,12 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 
 <table style="width:100%;">
 <tr>
-<td>Exception</td>
-<td>Condition</td>
+<th>Exception</th>
+<th>Condition</th>
 </tr>
 <tr>
 <td>[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)</td>
-<td>An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if collection or items is nullNothingnullptra null reference (Nothing in Visual Basic).</td>
+<td>An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if <em>collection</em> or <em>items</em> is <strong>Nothing</strong>a null reference (<strong>Nothing</strong> in Visual Basic).</td>
 </tr>
 </table>
 

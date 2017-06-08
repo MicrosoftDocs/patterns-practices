@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.Execute(Syste
 ms:mtpsurl: 'compositecommand-execute-method-mspp-commands.md'
 ---
 
-
 # CompositeCommand.Execute Method
 
 Forwards [Execute(Object)](http://msdn.microsoft.com/en-us/library/ms604094) to the registered commands.
@@ -23,6 +22,15 @@ public virtual void Execute(
 	Object parameter
 )
 ```
+### Parameters
+
+*parameter*  
+
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+
+Data used by the command. If the command does not require data to be passed, this object can be set to **null**a null reference (**Nothing** in Visual Basic).
+
+
 ```VB
 'Declaration
 Public Overridable Sub Execute ( 
@@ -36,7 +44,7 @@ Public Overridable Sub Execute (
 
 Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-Data used by the command. If the command does not require data to be passed, this object can be set to **null**a null reference (**Nothing** in Visual Basic).
+Data used by the command. If the command does not require data to be passed, this object can be set to **Nothing**a null reference (**Nothing** in Visual Basic).
 
 ### Implements
 

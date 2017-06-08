@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand\`1.CanExecute(
 ms:mtpsurl: 'delegatecommand-t-canexecute-method-t-mspp-commands.md'
 ---
 
-
 # DelegateCommand&lt;T&gt;.CanExecute Method (T)
 
 Determines if the command can execute by invoked the [Func&lt;T, TResult&gt;](http://msdn.microsoft.com/en-us/library/bb549151) provided during construction.
@@ -17,9 +16,13 @@ Determines if the command can execute by invoked the [Func&lt;T, TResult&gt;](ht
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
+
 ```C#
-public virtual bool CanExecute( T parameter )
+public virtual bool CanExecute(
+	T parameter
+)
 ```
+
 ### Parameters
 
 *parameter*  
@@ -54,10 +57,14 @@ Determines if the command can execute by invoked the [Func(Of T, TResult)](http:
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
+
 ```VB
 'Declaration
-Public Overridable Function CanExecute ( parameter As T ) As Boolean
+Public Overridable Function CanExecute ( 
+	parameter As T
+) As Boolean
 ```
+
 ### Parameters
 
 *parameter*  

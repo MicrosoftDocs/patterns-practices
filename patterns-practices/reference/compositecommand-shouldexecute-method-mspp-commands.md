@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.ShouldExecute
 ms:mtpsurl: 'compositecommand-shouldexecute-method-mspp-commands.md'
 ---
 
-
 # CompositeCommand.ShouldExecute Method
 
 Evaluates if a command should execute.
@@ -17,8 +16,11 @@ Evaluates if a command should execute.
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
+
 ```C#
-protected virtual bool ShouldExecute( ICommand command )
+protected virtual bool ShouldExecute(
+	ICommand command
+)
 ```
 
 ## Parameters
@@ -35,9 +37,12 @@ A [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50) value indicating w
 ## Remarks
 
  If this command is set to monitor command activity, and command implements the [!:IActiveAwareCommand\] interface, this method will return **falsefalse** (**False** in Visual Basic) if the command's [!:IActiveAwareCommand.IsActive\] property is **falsefalse** (**False** in Visual Basic); otherwise it always returns **truetrue** (**True** in Visual Basic).
- 
+
 ```VB
-Protected Overridable Function ShouldExecute ( command As ICommand ) As Boolean
+'Declaration
+Protected Overridable Function ShouldExecute ( 
+	command As ICommand
+) As Boolean
 ```
 
 ### Parameters

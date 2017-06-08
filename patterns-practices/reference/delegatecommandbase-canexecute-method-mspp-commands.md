@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommandBase.CanExecute
 ms:mtpsurl: 'delegatecommandbase-canexecute-method-mspp-commands.md'
 ---
 
-
 # DelegateCommandBase.CanExecute Method
 
 Determines if the command can execute with the provided parameter by invoking the [Func&lt;T, TResult&gt;](http://msdn.microsoft.com/en-us/library/bb549151) supplied during construction.
@@ -17,8 +16,11 @@ Determines if the command can execute with the provided parameter by invoking th
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
+
 ```C#
-protected bool CanExecute( Object parameter )
+protected bool CanExecute(
+	Object parameter
+)
 ```
 
 ### Parameters
@@ -42,9 +44,14 @@ Determines if the command can execute with the provided parameter by invoking th
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
+
 ```VB
-Protected Function CanExecute ( parameter As Object ) As Boolean
+'Declaration
+Protected Function CanExecute ( 
+	parameter As Object
+) As Boolean
 ```
+
 ### Parameters
 
 *parameter*  

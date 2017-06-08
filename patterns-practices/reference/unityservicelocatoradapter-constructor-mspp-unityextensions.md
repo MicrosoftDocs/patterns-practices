@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityServiceLocatorAdap
 ms:mtpsurl: 'unityservicelocatoradapter-constructor-mspp-unityextensions.md'
 ---
 
-
 # UnityServiceLocatorAdapter Constructor
 
 Initializes a new instance of [UnityServiceLocatorAdapter](/patterns-practices/reference/unityservicelocatoradapter-class-mspp-unityextensions).
@@ -42,6 +41,6 @@ The IUnityContainer that will be used by the [DoGetInstance(Type, String)](/patt
 
 [UnityServiceLocatorAdapter Class](/patterns-practices/reference/unityservicelocatoradapter-class-mspp-unityextensions)
 
-[UnityServiceLocatorAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
+[UnityServiceLocatorAdapter Members](/patterns-practices/reference/unityservicelocatoradapter-members-mspp-unityextensions)
 
 [Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)

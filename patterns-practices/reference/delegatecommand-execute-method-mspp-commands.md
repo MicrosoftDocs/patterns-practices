@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand.Execute'
 ms:mtpsurl: 'delegatecommand-execute-method-mspp-commands.md'
 ---
 
-
 # DelegateCommand.Execute Method
 
 Executes the command.
@@ -22,6 +21,7 @@ public virtual Task Execute()
 ```
 
 ```VB
+'Declaration
 Public Overridable Function Execute As Task
 ```
 
