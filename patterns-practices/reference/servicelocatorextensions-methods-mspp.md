@@ -4,7 +4,8 @@ Title: 'ServiceLocatorExtensions Methods (Microsoft.Practices.Prism)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ServiceLocatorExtensions'
 ms:mtpsurl: 'servicelocatorextensions-methods-mspp.md'
 ---
-
+
+
 # ServiceLocatorExtensions Methods
 
 ## Methods
@@ -21,14 +22,15 @@ ms:mtpsurl: 'servicelocatorextensions-methods-mspp.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.servicelocatorextensions.tryresolve(microsoft.practices.servicelocation.iservicelocator%2csystem.type)">TryResolve(IServiceLocator, Type)</a></td>
+<td><a href="/patterns-practices/reference/servicelocatorextensions-tryresolve-method-iservicelocator-type-mspp
+">TryResolve(IServiceLocator, Type)</a></td>
 <td><div class="summary">
 Attempts to resolve specified type from the underlying IServiceLocator.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.servicelocatorextensions.tryresolve%60%601(microsoft.practices.servicelocation.iservicelocator)">TryResolve&lt;(Of &lt;(T&gt;)&gt;)(IServiceLocator)</a></td>
+<td><a href="/patterns-practices/reference/servicelocatorextensions-tryresolve-t-method-iservicelocator-mspp">TryResolve&lt;T&gt;(IServiceLocator)</a></td>
 <td><div class="summary">
 Attempts to resolve specified type from the underlying IServiceLocator.
 </div></td>
