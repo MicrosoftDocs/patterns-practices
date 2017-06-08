@@ -4,10 +4,11 @@ Title: 'ObservableObject(T) Methods (Microsoft.Practices.Prism)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ObservableObject\`1'
 ms:mtpsurl: 'observableobject-t-methods-mspp.md'
 ---
-
-# ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Methods
 
-The [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601) type exposes the following members.
+
+# ObservableObject(Of T) Methods
+
+The [ObservableObject(Of T) Methods](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601) type exposes the following members.
 
 ## Methods
 
@@ -160,7 +161,7 @@ Begins the sequence of actions contained in the provided storyboard, with specif
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms598110">BringIntoView()()()</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms598110">BringIntoView</a></td>
 <td><div class="summary">
 Attempts to bring this element into view, within any scrollable regions it is contained within.
 </div>
@@ -394,7 +395,7 @@ Returns the input element within the current element that is at the specified co
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598917">InvalidateArrange</a></td>
 <td><div class="summary">
-Invalidates the arrange state (layout) for the element. After the invalidation, the element will have its layout updated, which will occur asynchronously unless subsequently forced by <a href="http://msdn.microsoft.com/en-us/library/ms599327">UpdateLayout()()()</a>.
+Invalidates the arrange state (layout) for the element. After the invalidation, the element will have its layout updated, which will occur asynchronously unless subsequently forced by <a href="http://msdn.microsoft.com/en-us/library/ms599327">UpdateLayout</a>.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -490,7 +491,7 @@ Provides class handling for when an access key that is meaningful for this eleme
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598234">OnApplyTemplate</a></td>
 <td><div class="summary">
-When overridden in a derived class, is invoked whenever application code or internal processes call <a href="http://msdn.microsoft.com/en-us/library/ms598092">ApplyTemplate()()()</a>.
+When overridden in a derived class, is invoked whenever application code or internal processes call <a href="http://msdn.microsoft.com/en-us/library/ms598092">ApplyTemplate</a>.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
@@ -1626,6 +1627,7 @@ Enforces that the calling thread has access to this <a href="http://msdn.microso
 </table>
 
 ## See Also
-[ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601)
+
+[ObservableObject(Of T) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601)
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
