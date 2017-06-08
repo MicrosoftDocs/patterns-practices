@@ -4,10 +4,11 @@ Title: 'ModuleDependencySolver Properties (Microsoft.Practices.Prism.Modularity)
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleDependencySolver'
 ms:mtpsurl: 'moduledependencysolver-properties-mspp-modularity.md'
 ---
-
+
+
 # ModuleDependencySolver Properties
 
-The [ModuleDependencySolver](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver) type exposes the following members.
+The [ModuleDependencySolver](/patterns-practices/reference/moduledependencysolver-class-mspp-modularity) type exposes the following members.
 
 ## Properties
 
@@ -24,7 +25,8 @@ The [ModuleDependencySolver](https://msdn.microsoft.com/library/microsoft.practi
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver.modulecount">ModuleCount</a></td>
+<td><a href="/patterns-practices/reference/moduledependencysolver-modulecount-property-mspp-modularity
+">ModuleCount</a></td>
 <td><div class="summary">
 Gets the number of modules added to the solver.
 </div></td>
@@ -33,6 +35,7 @@ Gets the number of modules added to the solver.
 </table>
 
 ## See Also
-[ModuleDependencySolver Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleDependencySolver Class](/patterns-practices/reference/moduledependencysolver-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
