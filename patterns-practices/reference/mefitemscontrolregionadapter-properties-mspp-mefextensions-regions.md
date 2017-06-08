@@ -28,7 +28,7 @@ The [MefItemsControlRegionAdapter](/patterns-practices/reference/mefitemscontrol
 <td><div class="summary">
 Gets or sets the factory used to create the region behaviors to attach to the created regions.
 </div>
-(Inherited from <a href="gg431546">RegionAdapterBase&lt;T&gt;</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionadapterbase-t-class-mspp-regions">RegionAdapterBase&lt;T&gt;</a>.)</td>
 </tr>
 </tbody>
 </table>
