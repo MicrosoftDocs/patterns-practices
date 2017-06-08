@@ -4,10 +4,11 @@ Title: 'ModuleDependencyConfigurationElement Properties (Microsoft.Practices.Pri
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyConfigurationElement'
 ms:mtpsurl: 'moduledependencyconfigurationelement-properties-mspp-modularity.md'
 ---
-
+
+
 # ModuleDependencyConfigurationElement Properties
 
-The [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement) type exposes the following members.
+The [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity) type exposes the following members.
 
 ## Properties
 
@@ -64,7 +65,7 @@ Gets a value that indicates whether the <a href="http://msdn.microsoft.com/en-us
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/es150ftc">Item[([(ConfigurationProperty])])</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/es150ftc">Item[ConfigurationProperty]</a></td>
 <td><div class="summary">
 Gets or sets a property or attribute of this configuration element.
 </div>
@@ -72,7 +73,7 @@ Gets or sets a property or attribute of this configuration element.
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/c8693ks1">Item[([(String])])</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/c8693ks1">Item[String]</a></td>
 <td><div class="summary">
 Gets or sets a property, attribute, or child element of this configuration element.
 </div>
@@ -120,7 +121,8 @@ Gets or sets a value indicating whether the element is locked.
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement.modulename">ModuleName</a></td>
+<td><a href="/patterns-practices/reference/moduledependencyconfigurationelement-modulename-property-mspp-modularity
+">ModuleName</a></td>
 <td><div class="summary">
 Gets or sets the name of a module antoher module depends on.
 </div></td>
@@ -137,6 +139,7 @@ Gets the collection of properties.
 </table>
 
 ## See Also
-[ModuleDependencyConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleDependencyConfigurationElement Class](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
