@@ -4,16 +4,14 @@ Title: 'DefaultDispatcher Methods (Microsoft.Practices.Prism.Events)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Events.DefaultDispatcher'
 ms:mtpsurl: 'defaultdispatcher-methods-mspp-events.md'
 ---
-
+
 # DefaultDispatcher Methods
 
-The [DefaultDispatcher](https://msdn.microsoft.com/library/microsoft.practices.prism.events.defaultdispatcher) type exposes the following members.
+The [DefaultDispatcher](/patterns-practices/reference/defaultdispatcher-class-mspp-events) type exposes the following members.
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,7 +22,7 @@ The [DefaultDispatcher](https://msdn.microsoft.com/library/microsoft.practices.p
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.events.defaultdispatcher.begininvoke(system.delegate%2csystem.object)">BeginInvoke</a></td>
+<td><a href="/patterns-practices/reference/defaultdispatcher-begininvoke-method-mspp-events">BeginInvoke</a></td>
 <td><div class="summary">
 Forwards the BeginInvoke to the current application's <a href="http://msdn.microsoft.com/en-us/library/ms615907">Dispatcher</a>.
 </div></td>
@@ -81,6 +79,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[DefaultDispatcher Class](https://msdn.microsoft.com/library/microsoft.practices.prism.events.defaultdispatcher)
 
-[Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.events)
+[DefaultDispatcher Class](/patterns-practices/reference/defaultdispatcher-class-mspp-events)
+
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)
