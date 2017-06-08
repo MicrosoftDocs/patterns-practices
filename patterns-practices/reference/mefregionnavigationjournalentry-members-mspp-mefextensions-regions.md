@@ -4,16 +4,14 @@ Title: 'MefRegionNavigationJournalEntry Members (Microsoft.Practices.Prism.MefEx
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournalEntry'
 ms:mtpsurl: 'mefregionnavigationjournalentry-members-mspp-mefextensions-regions.md'
 ---
-
+
 # MefRegionNavigationJournalEntry Members
 
-The [MefRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry) type exposes the following members.
+The [MefRegionNavigationJournalEntry](/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regionsentry) type exposes the following members.
 
 ## Constructors
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,9 +22,9 @@ The [MefRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microso
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry.">MefRegionNavigationJournalEntry</a></td>
+<td>MefRegionNavigationJournalEntry</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry">MefRegionNavigationJournalEntry</a> class
+Initializes a new instance of the <a href="/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regionsentry">MefRegionNavigationJournalEntry</a> class
 </div></td>
 </tr>
 </tbody>
@@ -34,9 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -87,20 +83,18 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.tostring">ToString</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationjournalentry-tostring-method-mspp-regions">ToString</a></td>
 <td><div class="summary">
 Returns a <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> that represents this instance.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry">RegionNavigationJournalEntry</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationjournal-class-mspp-regionsentry">RegionNavigationJournalEntry</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## Properties
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -111,24 +105,25 @@ Returns a <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> 
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.parameters">Parameters</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationjournalentry-parameters-property-mspp-regions">Parameters</a></td>
 <td><div class="summary">
 Gets or sets the NavigationParameters instance.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry">RegionNavigationJournalEntry</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationjournal-class-mspp-regionsentry">RegionNavigationJournalEntry</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.uri">Uri</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationjournalentry-uri-property-mspp-regions">Uri</a></td>
 <td><div class="summary">
 Gets or sets the URI.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry">RegionNavigationJournalEntry</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationjournal-class-mspp-regionsentry">RegionNavigationJournalEntry</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[MefRegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+[MefRegionNavigationJournalEntry Class](/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regionsentry)
+
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
