@@ -81,7 +81,7 @@ Gets a value that indicates whether the <a href="http://msdn.microsoft.com/en-us
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/es150ftc">Item[(ConfigurationProperty])</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/es150ftc">Item[ConfigurationProperty]</a></td>
 <td><div class="summary">
 Gets or sets a property or attribute of this configuration element.
 </div>
@@ -89,7 +89,7 @@ Gets or sets a property or attribute of this configuration element.
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/c8693ks1">Item[(String])</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/c8693ks1">Item[String]</a></td>
 <td><div class="summary">
 Gets or sets a property, attribute, or child element of this configuration element.
 </div>
