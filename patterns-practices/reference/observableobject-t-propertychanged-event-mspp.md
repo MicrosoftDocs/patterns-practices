@@ -4,18 +4,24 @@ Title: 'ObservableObject(T).PropertyChanged Event (Microsoft.Practices.Prism)'
 ms:assetid: 'E:Microsoft.Practices.Prism.ObservableObject\`1.PropertyChanged'
 ms:mtpsurl: 'observableobject-t-propertychanged-event-mspp.md'
 ---
-
-# ObservableObject&lt;(Of &lt;(T&gt;)&gt;).PropertyChanged Event
+
+
+# ObservableObject&lt;T&gt;.PropertyChanged Event
 
 Event that gets invoked when the Value property changes.
 
 **Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public event PropertyChangedEventHandler PropertyChangedPublic Event PropertyChanged As PropertyChangedEventHandler
+
+```C#
+public event PropertyChangedEventHandler PropertyChanged
+```
+
 ### Value
 
 Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn.microsoft.com/en-us/library/hyza7z75)
@@ -23,9 +29,45 @@ Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn.microsoft.
 
 [INotifyPropertyChanged.PropertyChanged](http://msdn.microsoft.com/en-us/library/ms133023)
 
-## See Also
-[ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601)
 
-[ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.observableobject%601)
+## See Also
+
+[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)
+
+[ObservableObject&lt;T&gt; Members](/patterns-practices/reference/observableobject-t-members-mspp)
+
+[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+
+
+# ObservableObject(Of T).PropertyChanged Event
+
+Event that gets invoked when the Value property changes.
+
+**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+```VB
+'Declaration
+Public Event PropertyChanged As PropertyChangedEventHandler
+```
+
+### Value
+
+Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn.microsoft.com/en-us/library/hyza7z75)
+### Implements
+
+[INotifyPropertyChanged.PropertyChanged](http://msdn.microsoft.com/en-us/library/ms133023)
+
+
+## See Also
+
+[ObservableObject(Of T) Class](/patterns-practices/reference/observableobject-t-class-mspp)
+
+[ObservableObject(Of T) Members](/patterns-practices/reference/observableobject-t-members-mspp)
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

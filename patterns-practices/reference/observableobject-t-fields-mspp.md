@@ -4,13 +4,14 @@ Title: 'ObservableObject(T) Fields (Microsoft.Practices.Prism)'
 ms:assetid: 'Fields.T:Microsoft.Practices.Prism.ObservableObject\`1'
 ms:mtpsurl: 'observableobject-t-fields-mspp.md'
 ---
-
-# ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Fields
 
-The [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601) type exposes the following members.
+
+# ObservableObject&lt;T&gt; Fields
+
+The [ObservableObject&lt;T&gt;](/patterns-practices/reference/observableobject-t-class-mspp
+) type exposes the following members.
 
 ## Fields
-
 
 <table>
 
@@ -24,7 +25,7 @@ The [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/librar
 <tbody>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601.valueproperty">ValueProperty</a></td>
+<td>[ValueProperty](/patterns-practices/reference/observableobject-t-valueproperty-field-mspp)</td>
 <td><div class="summary">
 Identifies the Value property of the ObservableObject
 </div></td>
@@ -33,6 +34,7 @@ Identifies the Value property of the ObservableObject
 </table>
 
 ## See Also
-[ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601)
+
+[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)
 
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
