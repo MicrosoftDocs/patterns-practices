@@ -11,7 +11,9 @@ ms:mtpsurl: 'delegatecommand-t-fromasynchandler-method-func-t-task-mspp-commands
 Factory method to create a new instance of [DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-class-mspp-commands) from an awaitable handler method.
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)
+
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -54,7 +56,9 @@ Constructed instance of [DelegateCommand&lt;T&gt;](/patterns-practices/reference
 Factory method to create a new instance of [DelegateCommand(Of T)](/patterns-practices/reference/delegatecommand-class-mspp-commands) from an awaitable handler method.
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)
+
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
@@ -70,15 +74,15 @@ Public Shared Function FromAsyncHandler (
 
 *executeMethod*
 
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;[T](/patterns-practices/reference/delegatecommand-class-mspp-commands), [Task](http://msdn.microsoft.com/en-us/library/dd235678)&gt;)
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of [T](/patterns-practices/reference/delegatecommand-class-mspp-commands), [Task](http://msdn.microsoft.com/en-us/library/dd235678))
 
 Delegate to execute when Execute is called on the command.
 
 ### Return Value
 
-Type: [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)&lt;[T](/patterns-practices/reference/delegatecommand-class-mspp-commands)&gt;)
+Type: [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)(Of [T](/patterns-practices/reference/delegatecommand-class-mspp-commands))
 
-Constructed instance of [DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-class-mspp-commands)
+Constructed instance of [DelegateCommand(Of [T](/patterns-practices/reference/delegatecommand-class-mspp-commands))
 
 ## See Also
 

@@ -11,6 +11,7 @@ ms:mtpsurl: 'commandbehaviorbase-t-targetobject-property-mspp-interactivity.md'
 Object to which this behavior is attached.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -33,11 +34,13 @@ Type: [T](https://review.docs.microsoft.com/patterns-practices/reference/command
 [Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)
 
 
+
 # CommandBehaviorBase(Of T).TargetObject Property
 
 Object to which this behavior is attached.
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
