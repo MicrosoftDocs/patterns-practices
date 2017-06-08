@@ -4,16 +4,14 @@ Title: 'MefRegionNavigationJournal Members (Microsoft.Practices.Prism.MefExtensi
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournal'
 ms:mtpsurl: 'mefregionnavigationjournal-members-mspp-mefextensions-regions.md'
 ---
-
+
 # MefRegionNavigationJournal Members
 
-The [MefRegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal) type exposes the following members.
+The [MefRegionNavigationJournal](/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Constructors
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,9 +22,9 @@ The [MefRegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.pr
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal.">MefRegionNavigationJournal</a></td>
+<td>MefRegionNavigationJournal</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal">MefRegionNavigationJournal</a> class
+Initializes a new instance of the <a href="/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regions">MefRegionNavigationJournal</a> class
 </div></td>
 </tr>
 </tbody>
@@ -34,9 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -47,11 +43,11 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.clear">Clear</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationjournal-clear-method-mspp-regions">Clear</a></td>
 <td><div class="summary">
 Clears the journal of current, back, and forward navigation histories.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationjournal-class-mspp-regions">RegionNavigationJournal</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -87,19 +83,19 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.goback">GoBack</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationjournal-goback-method-mspp-regions">GoBack</a></td>
 <td><div class="summary">
 Navigates to the most recent entry in the back navigation history, or does nothing if no entry exists in back navigation.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationjournal-class-mspp-regions">RegionNavigationJournal</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.goforward">GoForward</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationjournal-goforward-method-mspp-regions">GoForward</a></td>
 <td><div class="summary">
 Navigates to the most recent entry in the forward navigation history, or does nothing if no entry exists in forward navigation.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationjournal-class-mspp-regions">RegionNavigationJournal</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -111,11 +107,11 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.recordnavigation(microsoft.practices.prism.regions.iregionnavigationjournalentry)">RecordNavigation</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationjournal-goforward-method-mspp-regions">RecordNavigation</a></td>
 <td><div class="summary">
 Records the navigation to the entry..
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationjournal-class-mspp-regions">RegionNavigationJournal</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -130,9 +126,7 @@ Returns a string that represents the current object.
 
 ## Properties
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -143,40 +137,41 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.cangoback">CanGoBack</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationjournal-cangoback-property-mspp-regions">CanGoBack</a></td>
 <td><div class="summary">
 Gets a value that indicates whether there is at least one entry in the back navigation history.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationjournal-class-mspp-regions">RegionNavigationJournal</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.cangoforward">CanGoForward</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationjournal-cangoforward-property-mspp-regions">CanGoForward</a></td>
 <td><div class="summary">
 Gets a value that indicates whether there is at least one entry in the forward navigation history.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationjournal-class-mspp-regions">RegionNavigationJournal</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.currententry">CurrentEntry</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationjournal-currententry-property-mspp-regions">CurrentEntry</a></td>
 <td><div class="summary">
 Gets the current navigation entry of the content that is currently displayed.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationjournal-class-mspp-regions">RegionNavigationJournal</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.navigationtarget">NavigationTarget</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationjournal-navigationtarget-property-mspp-regions">NavigationTarget</a></td>
 <td><div class="summary">
 Gets or sets the target that implements INavigate.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal">RegionNavigationJournal</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationjournal-class-mspp-regions">RegionNavigationJournal</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[MefRegionNavigationJournal Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+[MefRegionNavigationJournal Class](/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regions)
+
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
