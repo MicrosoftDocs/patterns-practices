@@ -22,7 +22,7 @@ The [RegionManagerExtensions](/patterns-practices/reference/regionmanagerextensi
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 
 <td><a href="/patterns-practices/reference/regionmanagerextensions-add-method-mspp-regions">Add</a></td>
 
@@ -33,7 +33,7 @@ Adds a region to the regionmanager with the name received as argument.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 
 <td><a href="/patterns-practices/reference/regionmanagerextensions-addtoregion-method-mspp-regions">AddToRegion</a></td>
 
@@ -44,7 +44,7 @@ Add a view to the Views collection of a Region. Note that the region must alread
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 
 <td><a href="/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-iregionmanager-string-func-object-mspp-regions">RegisterViewWithRegion(IRegionManager,
    String, Func&lt;Object&gt;)</a></td>
@@ -56,7 +56,7 @@ Associate a view with a region, using a delegate to resolve a concreate instance
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 
 <td><a href="/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-iregionmanager-string-type-mspp-regions">RegisterViewWithRegion(IRegionManager, String, Type)</a></td>
 
@@ -67,7 +67,7 @@ Associate a view with a region, by registering a type. When the region get's dis
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 
 <td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-mspp-regions">RequestNavigate(IRegionManager, String, String)</a></td>
 
@@ -78,7 +78,7 @@ Navigates the specified region manager.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 
 <td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-uri-mspp-regions">RequestNavigate(IRegionManager, String, Uri)</a></td>
 
@@ -89,7 +89,7 @@ Navigates the specified region manager.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 
 <td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-navigationparameters-mspp-regions">RequestNavigate(IRegionManager, String, String, NavigationParameters)</a></td>
 
@@ -100,7 +100,7 @@ This method allows an IRegionManager to locate a specified region and navigate i
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
  
 <td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-action-navigationresult-mspp-regions">RequestNavigate(IRegionManager,
    String, String, Action&lt;NavigationResult&gt;)</a></td>
@@ -112,7 +112,7 @@ Navigates the specified region manager.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 
 <td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-uri-navigationparameters-mspp-regions">RequestNavigate(IRegionManager, String, Uri, NavigationParameters)</a></td>
 
@@ -123,7 +123,7 @@ This method allows an IRegionManager to locate a specified region and navigate i
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 
 <td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-uri-action-navigationresult-mspp-regions">RequestNavigate(IRegionManager, String, Uri, Action&lt;NavigationResult&gt;)</a></td>
 
@@ -134,7 +134,7 @@ Navigates the specified region manager.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 
 <td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-string-action-navigationresult-navigationparameters-mspp-regions">RequestNavigate(IRegionManager, String, String, Action&lt;NavigationResult&gt;, NavigationParameters)</a></td>
 
@@ -145,7 +145,7 @@ This method allows an IRegionManager to locate a specified region and navigate i
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 
 <td><a href="/patterns-practices/reference/regionmanagerextensions-requestnavigate-method-iregionmanager-string-uri-action-navigationresult-navigationparameters-mspp-regions">RequestNavigate(IRegionManager,
    String, Uri, Action&lt;NavigationResult&gt;, NavigationParameters)</a></td>

@@ -8,7 +8,7 @@ ms:mtpsurl: 'regionadaptermappings-members-mspp-regions.md'
 
 # RegionAdapterMappings Members
 
-The [RegionAdapterMappings](/patterns-practices/reference/mspp-regions-namespace.regionadaptermappings) type exposes the following members.
+The [RegionAdapterMappings](/patterns-practices/reference/regionadaptermappings-class-mspp-regions) type exposes the following members.
 
 ## Constructors
 
@@ -25,9 +25,9 @@ The [RegionAdapterMappings](/patterns-practices/reference/mspp-regions-namespace
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionadaptermappings.">RegionAdapterMappings</a></td>
+<td>RegionAdapterMappings</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/mspp-regions-namespace.regionadaptermappings">RegionAdapterMappings</a> class
+Initializes a new instance of the [RegionAdapterMappings](/patterns-practices/reference/regionadaptermappings-class-mspp-regions) class
 </div></td>
 </tr>
 </tbody>
@@ -72,7 +72,7 @@ Serves as a hash function for a particular type.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionadaptermappings.getmapping(system.type)">GetMapping</a></td>
+<td>[GetMapping](/patterns-practices/reference/regionadaptermappings-getmapping-method-mspp-regions)</td>
 <td><div class="summary">
 Returns the adapter associated with the type provided.
 </div></td>
@@ -95,7 +95,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionadaptermappings.registermapping(system.type%2cmicrosoft.practices.prism.regions.iregionadapter)">RegisterMapping</a></td>
+<td>[RegisterMapping](/patterns-practices/reference/regionadaptermappings-registermapping-method-mspp-regions)</td>
 <td><div class="summary">
 Registers the mapping between a type and an adapter.
 </div></td>
@@ -113,6 +113,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[RegionAdapterMappings Class](/patterns-practices/reference/mspp-regions-namespace.regionadaptermappings)
+[RegionAdapterMappings Class](/patterns-practices/reference/regionadaptermappings-class-mspp-regions)
 
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
