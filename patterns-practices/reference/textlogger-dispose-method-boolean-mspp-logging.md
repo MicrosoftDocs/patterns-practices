@@ -23,9 +23,17 @@ protected virtual void Dispose(
 )
 ```
 
+### Parameters
+
+*disposing*  
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
+When **truetrue** (**True** in Visual Basic), disposes the associated [TextWriter](http://msdn.microsoft.com/en-us/library/ywxh2328).
+
+
 ```VB
-protected virtual void Dispose(
-	bool disposing
+'Declaration
+Protected Overridable Sub Dispose ( 
+	disposing As Boolean
 )
 ```
 
@@ -33,7 +41,7 @@ protected virtual void Dispose(
 
 *disposing*  
 Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
-When trueTruetruetrue (True in Visual Basic), disposes the associated [TextWriter](http://msdn.microsoft.com/en-us/library/ywxh2328).
+When **Truetrue** (**True** in Visual Basic), disposes the associated [TextWriter](http://msdn.microsoft.com/en-us/library/ywxh2328).
 
 ## See Also
 

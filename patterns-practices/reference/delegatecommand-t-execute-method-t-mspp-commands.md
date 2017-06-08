@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand\`1.Execute(\`0
 ms:mtpsurl: 'delegatecommand-t-execute-method-t-mspp-commands.md'
 ---
 
-
 # DelegateCommand&lt;T&gt;.Execute Method (T)
 
 Executes the command and invokes the [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) provided during construction.
@@ -17,14 +16,18 @@ Executes the command and invokes the [Action&lt;T&gt;](http://msdn.microsoft.com
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
+
 ```C#
-public virtual Task Execute( T parameter )
+public virtual Task Execute(
+	T parameter
+)
 ```
 
 ### Parameters
 
 *parameter*  
 Type: [T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)
+
 Data used by the command.
 
 ### Return Value
@@ -53,14 +56,19 @@ Executes the command and invokes the [Action(Of T)](http://msdn.microsoft.com/en
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
+
 ```VB
-Public Overridable Function Execute ( parameter As T ) As Task
+'Declaration
+Public Overridable Function Execute ( 
+	parameter As T
+) As Task
 ```
 
 ### Parameters
 
 *parameter*  
 Type: [T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)
+
 Data used by the command.
 
 ### Return Value

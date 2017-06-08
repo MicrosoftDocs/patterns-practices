@@ -17,11 +17,11 @@ Removes a list by key.
 
 ## Syntax
 
-~~~C#
+```C#
 public bool Remove(
 	TKey key
 )
-~~~
+```
 
 ### Parameters
 
@@ -32,7 +32,7 @@ The key of the list to remove.
 ### Return Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
-**Truetruetrue** (**True** in Visual Basic) if the element was removed.
+**truetrue** (**True** in Visual Basic) if the element was removed.
 
 ### Implements
 
@@ -61,12 +61,12 @@ Removes a list by key.
 
 ## Syntax
 
-~~~VB
+```VB
 'Declaration
 Public Function Remove ( 
 	key As TKey
 ) As Boolean
-~~~
+```
 
 ### Parameters
 

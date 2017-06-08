@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Logging.TraceLogger.Log(System.String,M
 ms:mtpsurl: 'tracelogger-log-method-mspp-logging.md'
 ---
 
-
 # TraceLogger.Log Method
 
 Write a new log entry with the specified category and priority.
@@ -18,21 +17,21 @@ Write a new log entry with the specified category and priority.
 
 ## Syntax
 
-~~~C#
+```C#
 public void Log(
 	string message,
 	Category category,
 	Priority priority
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Sub Log ( 
 	message As String,
 	category As Category,
 	priority As Priority
 )
-~~~
+```
 
 ### Parameters
 

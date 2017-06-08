@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Un
 ms:mtpsurl: 'compositepresentationevent-tpayload-unsubscribe-method-action-tpayload-mspp-events.md'
 ---
 
-
 # CompositePresentationEvent&lt;TPayload&gt;.Unsubscribe Method (Action&lt;TPayload&gt;)
 
 Removes the first subscriber matching [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) from the subscribers' list.
@@ -17,8 +16,11 @@ Removes the first subscriber matching [Action&lt;T&gt;](http://msdn.microsoft.co
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
-public virtual void Unsubscribe( Action<TPayload> subscriber )
+public virtual void Unsubscribe(
+	Action<TPayload> subscriber
+)
 ```
 
 ### Parameters
@@ -50,9 +52,12 @@ Removes the first subscriber matching [Action(Of T)](http://msdn.microsoft.com/e
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```VB
 'Declaration
-Public Overridable Sub Unsubscribe ( subscriber As Action(Of TPayload) )
+Public Overridable Sub Unsubscribe ( 
+	subscriber As Action(Of TPayload)
+)
 ```
 
 ### Parameters

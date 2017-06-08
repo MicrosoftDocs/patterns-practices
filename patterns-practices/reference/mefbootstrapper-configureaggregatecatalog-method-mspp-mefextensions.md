@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.Configure
 ms:mtpsurl: 'mefbootstrapper-configureaggregatecatalog-method-mspp-mefextensions.md'
 ---
 
-
 # MefBootstrapper.ConfigureAggregateCatalog Method
 
 Configures the [AggregateCatalog](/patterns-practices/reference/mefbootstrapper-aggregatecatalog-property-mspp-mefextensions) used by MEF.
@@ -18,17 +17,18 @@ Configures the [AggregateCatalog](/patterns-practices/reference/mefbootstrapper-
 
 ## Syntax
 
-~~~C#
+```C#
 protected virtual void ConfigureAggregateCatalog()
-~~~
-~~~VB
+```
+
+```VB
 'Declaration
 Protected Overridable Sub ConfigureAggregateCatalog
-~~~
+```
 
 ## Remarks
 
- The base implementation does nothing.
+The base implementation does nothing.
 
 ## See Also
 

@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Events.IDispatcherFacade.BeginInvoke(Sy
 ms:mtpsurl: 'idispatcherfacade-begininvoke-method-mspp-events.md'
 ---
 
-
 # IDispatcherFacade.BeginInvoke Method
 
 Dispatches an invocation to the method received as parameter.
@@ -17,12 +16,20 @@ Dispatches an invocation to the method received as parameter.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
-void BeginInvoke( Delegate method, Object arg )
+void BeginInvoke(
+	Delegate method,
+	Object arg
+)
 ```
+
 ```VB
 'Declaration
-Sub BeginInvoke ( method As Delegate, arg As Object )
+Sub BeginInvoke ( 
+	method As Delegate,
+	arg As Object
+)
 ```
 
 ### Parameters

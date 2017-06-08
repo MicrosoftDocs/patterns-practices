@@ -17,21 +17,21 @@ Fires the Raised event.
 
 ## Syntax
 
-~~~C#
+```C#
 public void Raise(
 	T context,
 	Action<T> callback
 )
-~~~
+```
 
 ### Parameters
 
 _context_  
-Type: [T](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50))  
+Type: [T](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)  
 The context for the interaction request.
 
 _callback_  
-Type: [System.Action](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)&lt;[T](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50))&gt;  
+Type: [System.Action](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)&lt;[T](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)&gt;  
 The callback to execute when the interaction is completed.
 
 ## See Also
@@ -57,22 +57,22 @@ Fires the Raised event.
 
 ## Syntax
 
-~~~VB
+```VB
 'Declaration
 Public Sub Raise ( 
 	context As T,
 	callback As Action(Of T)
 )
-~~~
+```
 
 ### Parameters
 
 _context_  
-Type: [T](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50))  
+Type: [T](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)  
 The context for the interaction request.
 
 _callback_  
-Type: [System.Action](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)(Of [T](https://msdn.microsoft.com/en-us/library/gg431432(v=pandp.50)))  
+Type: [System.Action](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)(Of [T](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest))  
 The callback to execute when the interaction is completed.
 
 ## See Also

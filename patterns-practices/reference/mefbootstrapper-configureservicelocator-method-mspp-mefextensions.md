@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.Configure
 ms:mtpsurl: 'mefbootstrapper-configureservicelocator-method-mspp-mefextensions.md'
 ---
 
-
 # MefBootstrapper.ConfigureServiceLocator Method
 
 Configures the LocatorProvider for the ServiceLocator.
@@ -18,13 +17,14 @@ Configures the LocatorProvider for the ServiceLocator.
 
 ## Syntax
 
-~~~C#
+```C#
 protected override void ConfigureServiceLocator()
-~~~
-~~~VB
+```
+
+```VB
 'Declaration
 Protected Overrides Sub ConfigureServiceLocator
-~~~
+```
 
 ## Remarks
 
