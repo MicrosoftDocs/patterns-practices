@@ -34,7 +34,7 @@ Protected Sub New (
 
 ### Parameters
 
-*info*  
+*info* 
 Type: [System.Runtime.Serialization.SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e)
 
 The [SerializationInfo](http://msdn.microsoft.com/en-us/library/a9b6042e) that holds the serialized object data about the exception being thrown.
