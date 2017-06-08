@@ -4,7 +4,8 @@ Title: 'ModuleConfigurationElementCollection Constructor (Microsoft.Practices.Pr
 ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection.\#ctor'
 ms:mtpsurl: 'moduleconfigurationelementcollection-constructor-mspp-modularity.md'
 ---
-
+
+
 # ModuleConfigurationElementCollection Constructor
 
 ## Overload List
@@ -23,23 +24,24 @@ ms:mtpsurl: 'moduleconfigurationelementcollection-constructor-mspp-modularity.md
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.">ModuleConfigurationElementCollection()()()</a></td>
+<td>ModuleConfigurationElementCollection</td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection">ModuleConfigurationElementCollection</a>.
+Initializes a new instance of [ModuleConfigurationElementCollection](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity).
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.">ModuleConfigurationElementCollection(array&lt;ModuleConfigurationElement&gt;[]()[])</a></td>
+<td>ModuleConfigurationElementCollection(ModuleConfigurationElement())</td>
 <td><div class="summary">
-Initializes a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection">ModuleConfigurationElementCollection</a>.
+Initializes a new [ModuleConfigurationElementCollection](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity).
 </div></td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[ModuleConfigurationElementCollection Class](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity)
+
+[ModuleConfigurationElementCollection Class](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity)
 
 [ModuleConfigurationElementCollection Members](/patterns-practices/reference/moduleconfigurationelementcollection-members-mspp-modularity)
 

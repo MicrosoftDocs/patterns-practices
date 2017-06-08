@@ -4,7 +4,8 @@ Title: 'INavigationAware.IsNavigationTarget Method (Microsoft.Practices.Prism.Re
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.INavigationAware.IsNavigationTarget(Microsoft.Practices.Prism.Regions.NavigationContext)'
 ms:mtpsurl: 'inavigationaware-isnavigationtarget-method-mspp-regions.md'
 ---
-
+
+
 # INavigationAware.IsNavigationTarget Method
 
 Called to determine if this instance can handle the navigation request.
@@ -22,27 +23,14 @@ bool IsNavigationTarget(
 	NavigationContext navigationContext
 )
 ```
-### Parameters
-
-*navigationContext*  
-
-Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)
-
-The navigation context.
-
-### Return Value
-
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-
-**trueTrue** (**True** in Visual Basic) if this instance accepts the navigation request; otherwise, **falsefalse** (**False** in Visual Basic).
-
 ```VB
 'Declaration
 Function IsNavigationTarget ( 
 	navigationContext As NavigationContext
 ) As Boolean
 ```
-### Parameters
+
+### Parameters
 
 *navigationContext*  
 
@@ -57,7 +45,8 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 **truetrue** (**True** in Visual Basic) if this instance accepts the navigation request; otherwise, **falsefalse** (**False** in Visual Basic).
 
 ## See Also
-[INavigationAware Interface](/patterns-practices/reference/inavigationaware-interface-mspp-regions)
+
+[INavigationAware Interface](/patterns-practices/reference/inavigationaware-interface-mspp-regions)
 
 [INavigationAware Members](/patterns-practices/reference/inavigationaware-members-mspp-regions)
 

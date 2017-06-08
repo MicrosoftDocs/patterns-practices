@@ -21,16 +21,16 @@ ms:mtpsurl: 'filemoduletypeloader-dispose-method-boolean-mspp-modularity.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.dispose">Dispose()()()</a></td>
+<td>[Dispose()](/patterns-practices/reference/filemoduletypeloader-dispose)</td>
 <td><div class="summary">
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader.dispose(system.boolean)">Dispose(Boolean)</a></td>
+<td>[Dispose(Boolean)](/patterns-practices/reference/filemoduletypeloader-dispose-method-boolean-mspp-modularity)</td>
 <td><div class="summary">
-Disposes the associated <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.assemblyresolver">AssemblyResolver</a>.
+Disposes the associated [AssemblyResolver](/patterns-practices/reference/assemblyresolver-class-mspp-modularity).
 </div></td>
 </tr>
 </tbody>

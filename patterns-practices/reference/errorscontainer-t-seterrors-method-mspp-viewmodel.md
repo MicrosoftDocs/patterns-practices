@@ -4,8 +4,9 @@ Title: 'ErrorsContainer(T).SetErrors Method (Microsoft.Practices.Prism.ViewModel
 ms:assetid: 'Overload:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.SetErrors'
 ms:mtpsurl: 'errorscontainer-t-seterrors-method-mspp-viewmodel.md'
 ---
-
-# ErrorsContainer&lt;T&gt;.SetErrors Method
+
+
+# ErrorsContainer(Of T).SetErrors Method
 
 ## Overload List
 
@@ -21,14 +22,14 @@ ms:mtpsurl: 'errorscontainer-t-seterrors-method-mspp-viewmodel.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601.seterrors%60%601(system.linq.expressions.expression%7bsystem.func%7b%60%600%7d%7d%2csystem.collections.generic.ienumerable%7b%600%7d)">SetErrors&lt;(Of &lt;(TProperty&gt;)&gt;)(Expression&lt;(Of &lt;(Func&lt;(Of &lt;(TProperty&gt;)&gt;)&gt;)&gt;), IEnumerable&lt;(Of &lt;(T&gt;)&gt;))</a></td>
+<td>[SetErrors(Of TProperty)(Expression(Of Func(Of TProperty)), IEnumerable(Of T))](/patterns-practices/reference/errorscontainer-t-seterrors-tproperty-method-expression-func-tproperty-ienumerable-t-mspp-viewmodel)</td>
 <td><div class="summary">
 Sets the validation errors for the specified property.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601.seterrors(system.string%2csystem.collections.generic.ienumerable%7b%600%7d)">SetErrors(String, IEnumerable&lt;(Of &lt;(T&gt;)&gt;))</a></td>
+<td>[SetErrors(String, IEnumerable(Of T))](/patterns-practices/reference/errorscontainer-t-seterrors-method-string-ienumerable-t-mspp-viewmodel)</td>
 <td><div class="summary">
 Sets the validation errors for the specified property.
 </div></td>
@@ -37,8 +38,9 @@ Sets the validation errors for the specified property.
 </table>
 
 ## See Also
-[ErrorsContainer&lt;T&gt; Class](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)
 
-[ErrorsContainer&lt;T&gt; Members](/patterns-practices/reference/errorscontainer-t-members-mspp-viewmodel)
+[ErrorsContainer(Of T) Class](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)
+
+[ErrorsContainer(Of T) Members](/patterns-practices/reference/errorscontainer-t-members-mspp-viewmodel)
 
 [Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)

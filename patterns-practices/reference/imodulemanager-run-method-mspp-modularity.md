@@ -22,10 +22,19 @@ Initializes the modules marked as [WhenAvailable](/patterns-practices/reference/
 void Run()
 ```
 
+### Implements
+
+[IModuleManager.Run()](/patterns-practices/reference/imodulemanager-run-method-mspp-modularity)
+
+
 ```VB
 'Declaration
 Sub Run
 ```
+
+### Implements
+
+[IModuleManager.Run](/patterns-practices/reference/imodulemanager-run-method-mspp-modularity)
 
 ## See Also
 
