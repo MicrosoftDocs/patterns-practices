@@ -4,10 +4,11 @@ Title: 'ModuleDependencyAttribute Properties (Microsoft.Practices.Prism.Modulari
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleDependencyAttribute'
 ms:mtpsurl: 'moduledependencyattribute-properties-mspp-modularity.md'
 ---
-
+
+
 # ModuleDependencyAttribute Properties
 
-The [ModuleDependencyAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute) type exposes the following members.
+The [ModuleDependencyAttribute](/patterns-practices/reference/moduledependencyattribute-class-mspp-modularity) type exposes the following members.
 
 ## Properties
 
@@ -24,7 +25,8 @@ The [ModuleDependencyAttribute](https://msdn.microsoft.com/library/microsoft.pra
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute.modulename">ModuleName</a></td>
+<td><a href="/patterns-practices/reference/moduledependencyattribute-modulename-property-mspp-modularity
+">ModuleName</a></td>
 <td><div class="summary">
 Gets the name of the module that this module is dependant upon.
 </div></td>
@@ -41,6 +43,7 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 </table>
 
 ## See Also
-[ModuleDependencyAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleDependencyAttribute Class](/patterns-practices/reference/moduledependencyattribute-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
