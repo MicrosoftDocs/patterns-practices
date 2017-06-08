@@ -29,12 +29,14 @@ Public Overrides Sub Deactivate (
 	view As Object
 )
 ```
-### Parameters
+
+### Parameters
 
 *view*
 
-    Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-    The view to deactivate.
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+
+The view to deactivate.
 
 ### Implements
 
@@ -42,9 +44,20 @@ Public Overrides Sub Deactivate (
 
 ## Exceptions
 
-| Exception                                                                                 | Condition                         |
-|-------------------------------------------------------------------------------------------|-----------------------------------|
-| [System.InvalidOperationException](http://msdn.microsoft.com/en-us/library/2asft85a) | Every time this method is called. |
+<table>
+<thead>
+<tr class="header">
+<th>Exception</th>
+<th>Condition</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>[System.InvalidOperationException](http://msdn.microsoft.com/en-us/library/2asft85a)</td>
+<td>Every time this method is called.</td>
+</tr>
+</tbody>
+</table>
 
 ## See Also
 

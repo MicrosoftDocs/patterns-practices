@@ -35,17 +35,20 @@ Public Sub OnUpdatingRegions (
 	e As EventArgs
 )
 ```
-### Parameters
+
+### Parameters
 
 *sender*
 
-	Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-	The sender.
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+
+The sender.
 
 *e*
 
-	Type: [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
-	The arguments.
+Type: [System.EventArgs](http://msdn.microsoft.com/en-us/library/118wxtk3)
+
+The arguments.
 
 ## See Also
 

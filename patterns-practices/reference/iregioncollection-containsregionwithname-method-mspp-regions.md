@@ -22,23 +22,25 @@ bool ContainsRegionWithName(
 	string regionName
 )
 ```
-
 ```VB
 'Declaration
 Function ContainsRegionWithName ( 
 	regionName As String
 ) As Boolean
 ```
-### Parameters
+
+### Parameters
 
 *regionName*
 
-      Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-      The name of the region to look for.
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+
+The name of the region to look for.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
+
 **truetrue** (**True** in Visual Basic) if the region is contained in the collection, otherwise **falsefalse** (**False** in Visual Basic).
 
 ## See Also
