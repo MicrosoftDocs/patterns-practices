@@ -4,10 +4,11 @@ Title: 'MefRegionNavigationJournalEntry Methods (Microsoft.Practices.Prism.MefEx
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournalEntry'
 ms:mtpsurl: 'mefregionnavigationjournalentry-methods-mspp-mefextensions-regions.md'
 ---
-
+
+
 # MefRegionNavigationJournalEntry Methods
 
-The [MefRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry) type exposes the following members.
+The [MefRegionNavigationJournalEntry](/patterns-practices/reference/mefregionnavigationjournalentry-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Methods
 
@@ -64,16 +65,17 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.tostring">ToString</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationjournalentry-tostring-method-mspp-regions">ToString</a></td>
 <td><div class="summary">
 Returns a <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> that represents this instance.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry">RegionNavigationJournalEntry</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationjournalentry-class-mspp-regions">RegionNavigationJournalEntry</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[MefRegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournalentry)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+[MefRegionNavigationJournalEntry Class](/patterns-practices/reference/mefregionnavigationjournalentry-class-mspp-mefextensions-regions)
+
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

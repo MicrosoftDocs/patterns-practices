@@ -4,10 +4,11 @@ Title: 'MefRegionNavigationContentLoader Methods (Microsoft.Practices.Prism.MefE
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationContentLoader'
 ms:mtpsurl: 'mefregionnavigationcontentloader-methods-mspp-mefextensions-regions.md'
 ---
-
+
+
 # MefRegionNavigationContentLoader Methods
 
-The [MefRegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader) type exposes the following members.
+The [MefRegionNavigationContentLoader](/patterns-practices/reference/mefregionnavigationcontentloader-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Methods
 
@@ -24,11 +25,11 @@ The [MefRegionNavigationContentLoader](https://msdn.microsoft.com/library/micros
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader.createnewregionitem(system.string)">CreateNewRegionItem</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationcontentloader-createnewregionitem-method-mspp-regions">CreateNewRegionItem</a></td>
 <td><div class="summary">
 Provides a new item for the region based on the supplied candidate target contract name.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader">RegionNavigationContentLoader</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationcontentloader-class-mspp-regions">RegionNavigationContentLoader</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -48,19 +49,19 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader.getcandidatesfromregion(microsoft.practices.prism.regions.iregion%2csystem.string)">GetCandidatesFromRegion</a></td>
+<td><a href="/patterns-practices/reference/mefregionnavigationcontentloader-getcandidatesfromregion-method-mspp-mefextensions-regions">GetCandidatesFromRegion</a></td>
 <td><div class="summary">
 Returns the set of candidates that may satisfiy this navigation request.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader.getcandidatesfromregion(microsoft.practices.prism.regions.iregion%2csystem.string)">RegionNavigationContentLoader.GetCandidatesFromRegion(IRegion, String)</a>.)</td>
+(Overrides <a href="/patterns-practices/reference/regionnavigationcontentloader-getcandidatesfromregion-method-mspp-regions">RegionNavigationContentLoader.GetCandidatesFromRegion(IRegion, String)</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader.getcontractfromnavigationcontext(microsoft.practices.prism.regions.navigationcontext)">GetContractFromNavigationContext</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationcontentloader-getcontractfromnavigationcontext-method-mspp-regions">GetContractFromNavigationContext</a></td>
 <td><div class="summary">
-Returns the candidate TargetContract based on the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext">NavigationContext</a>.
+Returns the candidate TargetContract based on the <a href="/patterns-practices/reference/navigationcontext-class-mspp-regions">NavigationContext</a>.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader">RegionNavigationContentLoader</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationcontentloader-class-mspp-regions">RegionNavigationContentLoader</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -80,11 +81,11 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader.loadcontent(microsoft.practices.prism.regions.iregion%2cmicrosoft.practices.prism.regions.navigationcontext)">LoadContent</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationcontentloader-loadcontent-method-mspp-regions">LoadContent</a></td>
 <td><div class="summary">
 Gets the view to which the navigation request represented by navigationContext applies.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader">RegionNavigationContentLoader</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationcontentloader-class-mspp-regions">RegionNavigationContentLoader</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -106,6 +107,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[MefRegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+[MefRegionNavigationContentLoader Class](/patterns-practices/reference/mefregionnavigationcontentloader-class-mspp-mefextensions-regions)
+
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
