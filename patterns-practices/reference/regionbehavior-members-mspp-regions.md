@@ -8,7 +8,7 @@ ms:mtpsurl: 'regionbehavior-members-mspp-regions.md'
 
 # RegionBehavior Members
 
-The [RegionBehavior](/patterns-practices/reference/mspp-regions-namespace.regionbehavior) type exposes the following members.
+The [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions) type exposes the following members.
 
 ## Constructors
 
@@ -25,9 +25,9 @@ The [RegionBehavior](/patterns-practices/reference/mspp-regions-namespace.region
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionbehavior.">RegionBehavior</a></td>
+<td>RegionBehavior</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/mspp-regions-namespace.regionbehavior">RegionBehavior</a> class
+Initializes a new instance of the [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions) class
 </div></td>
 </tr>
 </tbody>
@@ -48,7 +48,7 @@ Initializes a new instance of the <a href="/patterns-practices/reference/mspp-re
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionbehavior.attach">Attach</a></td>
+<td>[Attach](/patterns-practices/reference/regionbehavior-attach-method-mspp-regions)</td>
 <td><div class="summary">
 Attaches the behavior to the region.
 </div></td>
@@ -95,7 +95,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionbehavior.onattach">OnAttach</a></td>
+<td>[OnAttach](/patterns-practices/reference/regionbehavior-onattach-method-mspp-regions)</td>
 <td><div class="summary">
 Override this method to perform the logic after the behavior has been attached.
 </div></td>
@@ -126,14 +126,14 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionbehavior.isattached">IsAttached</a></td>
+<td>[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions)</td>
 <td><div class="summary">
 Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-regions-namespace.regionbehavior.region">Region</a></td>
+<td>[Region](/patterns-practices/reference/regionbehavior-region-property-mspp-regions)</td>
 <td><div class="summary">
 Behavior's attached region.
 </div></td>
@@ -143,6 +143,6 @@ Behavior's attached region.
 
 ## See Also
 
-[RegionBehavior Class](/patterns-practices/reference/mspp-regions-namespace.regionbehavior)
+[RegionBehavior Class](/patterns-practices/reference/regionbehavior-class-mspp-regions)
 
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

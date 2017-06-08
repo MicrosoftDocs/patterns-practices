@@ -22,21 +22,21 @@ The [UriParsingHelper](https://msdn.microsoft.com/library/microsoft.practices.pr
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper.getabsolutepath(system.uri)">GetAbsolutePath</a></td>
 <td><div class="summary">
 Gets the AbsolutePath part of uri.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper.getquery(system.uri)">GetQuery</a></td>
 <td><div class="summary">
 Gets the query part of uri.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper.parsequery(system.uri)">ParseQuery</a></td>
 <td><div class="summary">
 Parses the query of uri into a dictionary.

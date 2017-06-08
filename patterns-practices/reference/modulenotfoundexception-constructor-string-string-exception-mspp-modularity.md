@@ -43,7 +43,6 @@ The name of the module.
 
 *innerException*  
 Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)  
-
 The exception that is the cause of the current exception, or a null reference if no inner exception is specified.
 
 ## See Also

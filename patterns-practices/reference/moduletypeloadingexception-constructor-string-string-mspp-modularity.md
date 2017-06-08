@@ -16,6 +16,7 @@ Initializes the exception with a particular module and error message.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public ModuleTypeLoadingException(
 	string moduleName,
@@ -47,6 +48,6 @@ The error message that explains the reason for the exception.
 
 [ModuleTypeLoadingException Members](/patterns-practices/reference/moduletypeloadingexception-members-mspp-modularity)
 
-[ModuleTypeLoadingException Overload]
+ModuleTypeLoadingException Overload
 
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommandBase.OnIsActive
 ms:mtpsurl: 'delegatecommandbase-onisactivechanged-method-mspp-commands.md'
 ---
 
-
 # DelegateCommandBase.OnIsActiveChanged Method
 
 This raises the [IsActiveChanged](/patterns-practices/reference/delegatecommandbase-isactivechanged-event-mspp-commands) event.
@@ -20,8 +19,8 @@ This raises the [IsActiveChanged](/patterns-practices/reference/delegatecommandb
 ```C#
 protected virtual void OnIsActiveChanged()
 ```
-
 ```VB
+'Declaration
 Protected Overridable Sub OnIsActiveChanged
 ```
 

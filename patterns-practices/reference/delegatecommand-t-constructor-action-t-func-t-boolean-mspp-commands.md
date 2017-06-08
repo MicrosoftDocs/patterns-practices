@@ -4,14 +4,17 @@ Title: 'DelegateCommand(T) Constructor (Action(T), Func(T, Boolean)) (Microsoft.
 ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommand\`1.\#ctor(System.Action{\`0},System.Func{\`0,System.Boolean})'
 ms:mtpsurl: 'delegatecommand-t-constructor-action-t-func-t-boolean-mspp-commands.md'
 ---
-
+
+
 # DelegateCommand&lt;T&gt; Constructor (Action&lt;T&gt;, Func&lt;T, Boolean&gt;)
 
 Initializes a new instance of [DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-t-class-mspp-commands).
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
 
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
@@ -21,24 +24,37 @@ public DelegateCommand(
 	Func<T, bool> canExecuteMethod
 )
 ```
-### Parameters
+
+### Parameters
 
 *executeMethod*  
 
-	Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)&gt;
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)&gt;
 
-	Delegate to execute when Execute is called on the command. This can be null to just hook up a CanExecute delegate.
+Delegate to execute when Execute is called on the command. This can be null to just hook up a CanExecute delegate.
 
 *canExecuteMethod*
 
-	Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;[T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands), [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;[T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands), [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)&gt;
 
-	Delegate to execute when CanExecute is called on the command. This can be null.
+Delegate to execute when CanExecute is called on the command. This can be null.
 
 ## Exceptions
 
-| Exception | Condition |
-| [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | When both *executeMethod* and *canExecuteMethod* ar **null**a null reference (**Nothing** in Visual Basic). |
+<table>
+<thead>
+<tr class="header">
+<th>Exception</th>
+<th>Condition</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)</td>
+<td>When both <i>executeMethod</i> and <i>canExecuteMethod</i> ar <strong>null</strong>a null reference (<strong>Nothing</strong> in Visual Basic).</td>
+</tr>
+</tbody>
+</table>
 
 ## See Also
 
@@ -55,8 +71,11 @@ DelegateCommand&lt;T&gt; Overload
 Initializes a new instance of [DelegateCommand(Of T)](/patterns-practices/reference/delegatecommand-t-class-mspp-commands).
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
-
-**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) Version: 1.0.0.0 (1.0.0.0)
+
+
+**Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
 
@@ -67,24 +86,38 @@ Public Sub New (
 	canExecuteMethod As Func(Of T, Boolean)
 )
 ```
-### Parameters
+
+### Parameters
 
 *executeMethod*  
 
-	Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands))
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands))
 
-	Delegate to execute when Execute is called on the command. This can be null to just hook up a CanExecute delegate.
+Delegate to execute when Execute is called on the command. This can be null to just hook up a CanExecute delegate.
 
 *canExecuteMethod*
 
-	Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of [T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands), [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50))
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)(Of [T](/patterns-practices/reference/delegatecommand-t-class-mspp-commands), [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50))
 
-	Delegate to execute when CanExecute is called on the command. This can be null.
+Delegate to execute when CanExecute is called on the command. This can be null.
 
 ## Exceptions
 
-| Exception | Condition |
-| [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) | When both *executeMethod* and *canExecuteMethod* ar **null**a null reference (**Nothing** in Visual Basic). |
+<table>
+<thead>
+<tr class="header">
+<th>Exception</th>
+<th>Condition</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)</td>
+<td>When both <i>executeMethod</i> and <i>canExecuteMethod</i> ar <strong>Nothing</strong>a null reference (<strong>Nothing</strong> in Visual Basic).</td>
+</tr>
+</tbody>
+</table>
+
 
 ## See Also
 

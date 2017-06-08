@@ -4,7 +4,8 @@ Title: 'IHostAwareRegionBehavior Methods (Microsoft.Practices.Prism.Regions.Beha
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.IHostAwareRegionBehavior'
 ms:mtpsurl: 'ihostawareregionbehavior-methods-mspp-regions-behaviors.md'
 ---
-
+
+
 # IHostAwareRegionBehavior Methods
 
 The [IHostAwareRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior) type exposes the following members.
@@ -34,6 +35,7 @@ Attaches the behavior to the specified region.
 </table>
 
 ## See Also
-[IHostAwareRegionBehavior Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior)
+
+[IHostAwareRegionBehavior Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

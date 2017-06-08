@@ -1,4 +1,4 @@
---
+---
 TOCTitle: 'ModuleTypeLoadingException Constructor (String, String, Exception)'
 Title: 'ModuleTypeLoadingException Constructor (String, String, Exception) (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException.\#ctor(System.String,System.String,System.Exception)'
@@ -16,6 +16,7 @@ Initializes the exception with a particular module, error message and inner exce
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public ModuleTypeLoadingException(
 	string moduleName,

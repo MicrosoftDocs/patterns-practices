@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.Run(System.Boolean)'
 ms:mtpsurl: 'bootstrapper-run-method-boolean-mspp.md'
 ---
 
-
 # Bootstrapper.Run Method (Boolean)
 
 Run the bootstrapper process.
@@ -23,6 +22,18 @@ public abstract void Run(
 	bool runWithDefaultConfiguration
 )
 ```
+
+### Parameters
+
+runWithDefaultConfiguration  
+
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
+
+If **truetrue** (**True** in Visual Basic), registers default Prism Library services in the container. This is the default behavior.
+
+
+## Syntax
+
 ```VB
 'Declaration
 Public MustOverride Sub Run ( 

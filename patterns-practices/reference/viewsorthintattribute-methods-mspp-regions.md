@@ -29,10 +29,10 @@ The [ViewSortHintAttribute](/patterns-practices/reference/viewsorthintattribute-
 ![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/09ds241w" target="_blank">Equals</a>
+[Equals](http://msdn.microsoft.com/en-us/library/09ds241w)
 </td>
 <td>
-<div>Returns a value that indicates whether this instance is equal to a specified object.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e8kc3626" target="_blank">Attribute</a>.)</td>
+<div>Returns a value that indicates whether this instance is equal to a specified object.</div> (Inherited from [Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626).)</td>
 </tr>
 <tr>
 <td>
@@ -40,10 +40,10 @@ The [ViewSortHintAttribute](/patterns-practices/reference/viewsorthintattribute-
 ![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/365e1bxs" target="_blank">GetHashCode</a>
+[GetHashCode](http://msdn.microsoft.com/en-us/library/365e1bxs)
 </td>
 <td>
-<div>Returns the hash code for this instance.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e8kc3626" target="_blank">Attribute</a>.)</td>
+<div>Returns the hash code for this instance.</div> (Inherited from [Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626).)</td>
 </tr>
 <tr>
 <td>
@@ -51,10 +51,10 @@ The [ViewSortHintAttribute](/patterns-practices/reference/viewsorthintattribute-
 ![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/dfwy45w9" target="_blank">GetType</a>
+[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)
 </td>
 <td>
-<div>Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65" target="_blank">Type</a> of the current instance.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td>
+<div>Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.</div> (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr>
 <td>
@@ -62,10 +62,10 @@ The [ViewSortHintAttribute](/patterns-practices/reference/viewsorthintattribute-
 ![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/tbkb5x6t" target="_blank">IsDefaultAttribute</a>
+[IsDefaultAttribute](http://msdn.microsoft.com/en-us/library/tbkb5x6t)
 </td>
 <td>
-<div>When overridden in a derived class, indicates whether the value of this instance is the default value for the derived class.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e8kc3626" target="_blank">Attribute</a>.)</td>
+<div>When overridden in a derived class, indicates whether the value of this instance is the default value for the derived class.</div> (Inherited from [Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626).)</td>
 </tr>
 <tr>
 <td>
@@ -73,10 +73,10 @@ The [ViewSortHintAttribute](/patterns-practices/reference/viewsorthintattribute-
 ![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/wy7chz44" target="_blank">Match</a>
+[Match](http://msdn.microsoft.com/en-us/library/wy7chz44)
 </td>
 <td>
-<div>When overridden in a derived class, returns a value that indicates whether this instance equals a specified object.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e8kc3626" target="_blank">Attribute</a>.)</td>
+<div>When overridden in a derived class, returns a value that indicates whether this instance equals a specified object.</div> (Inherited from [Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626).)</td>
 </tr>
 <tr>
 <td>
@@ -84,10 +84,10 @@ The [ViewSortHintAttribute](/patterns-practices/reference/viewsorthintattribute-
 ![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2" target="_blank">ToString</a>
+[ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)
 </td>
 <td>
-<div>Returns a string that represents the current object.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td>
+<div>Returns a string that represents the current object.</div> (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 </tbody>
 </table>

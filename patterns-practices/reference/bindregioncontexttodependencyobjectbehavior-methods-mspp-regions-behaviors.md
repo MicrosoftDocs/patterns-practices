@@ -4,7 +4,8 @@ Title: 'BindRegionContextToDependencyObjectBehavior Methods (Microsoft.Practices
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior'
 ms:mtpsurl: 'bindregioncontexttodependencyobjectbehavior-methods-mspp-regions-behaviors.md'
 ---
-
+
+
 # BindRegionContextToDependencyObjectBehavior Methods
 
 The [BindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior) type exposes the following members.
@@ -81,6 +82,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[BindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior)
+
+[BindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior)
 
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)

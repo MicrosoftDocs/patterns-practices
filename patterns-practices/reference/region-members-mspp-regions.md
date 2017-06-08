@@ -82,7 +82,7 @@ Marks the specified view as inactive.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td>[DefaultSortComparison](/patterns-practices/reference/region-defaultsortcomparison-method-mspp-regions)</td>
 <td><div class="summary">
 The default sort algorithm.

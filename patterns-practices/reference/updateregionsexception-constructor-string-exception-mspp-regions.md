@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.UpdateRegionsException.\#ctor(S
 ms:mtpsurl: 'updateregionsexception-constructor-mspp-regions.md'
 ---
 
-
 # UpdateRegionsException Constructor (String, Exception)
 
 Initializes a new instance of the [UpdateRegionsException](/patterns-practices/reference/updateregionsexception-class-mspp-regions) class with a specified error message and a reference to the inner exception that is the cause of this exception.
@@ -40,7 +39,7 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The error message that explains the reason for the exception.
 
 *inner*  
-Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
+Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
 
 The exception that is the cause of the current exception, or a null reference (Nothing in Visual Basic) if no inner exception is specified.
 

@@ -21,16 +21,16 @@ ms:mtpsurl: 'moduleinitializer-createmodule-method-moduleinfo-mspp-modularity.md
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer.createmodule(system.string)">CreateModule(String)</a></td>
+<td>[CreateModule(String)](/patterns-practices/reference/moduleinitializer-createmodule-method-string-mspp-modularity)</td>
 <td><div class="summary">
-Uses the container to resolve a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule">IModule</a> by specifying its <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a>.
+Uses the container to resolve a new [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity) by specifying its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinitializer.createmodule(microsoft.practices.prism.modularity.moduleinfo)">CreateModule(ModuleInfo)</a></td>
+<td>[CreateModule(ModuleInfo)](/patterns-practices/reference/moduleinitializer-createmodule-method-moduleinfo-mspp-modularity)</td>
 <td><div class="summary">
-Uses the container to resolve a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodule">IModule</a> by specifying its <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a>.
+Uses the container to resolve a new [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity) by specifying its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 </div></td>
 </tr>
 </tbody>

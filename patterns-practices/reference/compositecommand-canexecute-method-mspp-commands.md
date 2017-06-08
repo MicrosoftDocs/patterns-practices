@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.CompositeCommand.CanExecute(Sy
 ms:mtpsurl: 'compositecommand-canexecute-method-mspp-commands.md'
 ---
 
-
 # CompositeCommand.CanExecute Method
 
 Forwards [CanExecute(Object)](http://msdn.microsoft.com/en-us/library/ms604093) to the registered commands and returns **truetrue** (**True** in Visual Basic) if all of the commands return **truetrue** (**True** in Visual Basic).
@@ -23,12 +22,6 @@ public virtual bool CanExecute(
 	Object parameter
 )
 ```
-```VB
-'Declaration
-Public Overridable Function CanExecute ( 
-	parameter As Object
-) As Boolean
-```
 
 ### Parameters
 
@@ -42,6 +35,28 @@ Data used by the command. If the command does not require data to be passed, thi
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 **truetrue** (**True** in Visual Basic) if all of the commands return **truetrue** (**True** in Visual Basic); otherwise, **falsefalse** (**False** in Visual Basic).
+
+## Syntax
+
+```VB
+'Declaration
+Public Overridable Function CanExecute ( 
+	parameter As Object
+) As Boolean
+```
+
+### Parameters
+
+*parameter*  
+Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+
+Data used by the command. If the command does not require data to be passed, this object can be set to **Nothing**a null reference (**Nothing** in Visual Basic).
+
+### Return Value
+
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
+
+**Truetrue** (**True** in Visual Basic) if all of the commands return **Truetrue** (**True** in Visual Basic); otherwise, **Falsefalse** (**False** in Visual Basic).
 
 ### Implements
 

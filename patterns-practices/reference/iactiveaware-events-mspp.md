@@ -4,16 +4,18 @@ Title: 'IActiveAware Events (Microsoft.Practices.Prism)'
 ms:assetid: 'Events.T:Microsoft.Practices.Prism.IActiveAware'
 ms:mtpsurl: 'iactiveaware-events-mspp.md'
 ---
-
 # IActiveAware Events
 
-The [IActiveAware](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware) type exposes the following members.
+The [IActiveAware](/patterns-practices/reference/iactiveaware-interface-mspp) type exposes the following members.
 
 ## Events
 
-
 <table>
-
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,15 +26,16 @@ The [IActiveAware](https://msdn.microsoft.com/library/microsoft.practices.prism.
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware.isactivechanged">IsActiveChanged</a></td>
+<td>[IsActiveChanged](/patterns-practices/reference/iactiveaware-isactivechanged-event-mspp)</td>
 <td><div class="summary">
-Notifies that the value for <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware.isactive">IsActive</a> property has changed.
+Notifies that the value for [IsActive](/patterns-practices/reference/iactiveaware-isactive-property-mspp) property has changed.
 </div></td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[IActiveAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[IActiveAware Interface](/patterns-practices/reference/iactiveaware-interface-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

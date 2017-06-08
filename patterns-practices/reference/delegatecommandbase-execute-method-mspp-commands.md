@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.DelegateCommandBase.Execute(Sy
 ms:mtpsurl: 'delegatecommandbase-execute-method-mspp-commands.md'
 ---
 
-
 # DelegateCommandBase.Execute Method
 
 Executes the command with the provided parameter by invoking the [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) supplied during construction.
@@ -17,9 +16,13 @@ Executes the command with the provided parameter by invoking the [Action&lt;T&gt
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
+
 ```C#
-protected Task Execute( Object parameter )
+protected Task Execute(
+	Object parameter
+)
 ```
+
 ### Parameters
 
 *parameter*  
@@ -40,9 +43,14 @@ Executes the command with the provided parameter by invoking the [Action(Of T)](
 **Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
+
 ```VB
-Protected Function Execute ( parameter As Object ) As Task
+'Declaration
+Protected Function Execute ( 
+	parameter As Object
+) As Task
 ```
+
 ### Parameters
 
 *parameter*  

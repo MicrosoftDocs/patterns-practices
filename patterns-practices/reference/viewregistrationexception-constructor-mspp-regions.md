@@ -21,30 +21,30 @@ ms:mtpsurl: 'viewregistrationexception-constructor-mspp-regions.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception.">ViewRegistrationException()()()</a></td>
+<td>ViewRegistrationException</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception">ViewRegistrationException</a> class.
+Initializes a new instance of the [ViewRegistrationException](/patterns-practices/reference/viewregistrationexception-class-mspp-regions) class.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception.">ViewRegistrationException(String)</a></td>
+<td>ViewRegistrationException(String)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception">ViewRegistrationException</a> class.
+Initializes a new instance of the [ViewRegistrationException](/patterns-practices/reference/viewregistrationexception-class-mspp-regions) class.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception.">ViewRegistrationException(SerializationInfo, StreamingContext)</a></td>
+<td>ViewRegistrationException(SerializationInfo, StreamingContext)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception">ViewRegistrationException</a> class with serialized data.
+Initializes a new instance of the [ViewRegistrationException](/patterns-practices/reference/viewregistrationexception-class-mspp-regions) class with serialized data.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception.">ViewRegistrationException(String, Exception)</a></td>
+<td>ViewRegistrationException(String, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception">ViewRegistrationException</a> class.
+Initializes a new instance of the [ViewRegistrationException](/patterns-practices/reference/viewregistrationexception-class-mspp-regions) class.
 </div></td>
 </tr>
 </tbody>

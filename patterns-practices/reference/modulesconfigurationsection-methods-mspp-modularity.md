@@ -4,7 +4,8 @@ Title: 'ModulesConfigurationSection Methods (Microsoft.Practices.Prism.Modularit
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModulesConfigurationSection'
 ms:mtpsurl: 'modulesconfigurationsection-methods-mspp-modularity.md'
 ---
-
+
+
 # ModulesConfigurationSection Methods
 
 The [ModulesConfigurationSection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection) type exposes the following members.
@@ -194,7 +195,7 @@ Resets the internal state of the <a href="http://msdn.microsoft.com/en-us/librar
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/43904a29">ResetModified</a></td>
 <td><div class="summary">
-Resets the value of the <a href="http://msdn.microsoft.com/en-us/library/cc19b3s9">IsModified()()()</a> method to false when implemented in a derived class.
+Resets the value of the <a href="http://msdn.microsoft.com/en-us/library/cc19b3s9">IsModified</a> method to false when implemented in a derived class.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/x0kca287">ConfigurationSection</a>.)</td>
 </tr>
@@ -234,7 +235,7 @@ Sets a property to the specified value.
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms134139">SetReadOnly</a></td>
 <td><div class="summary">
-Sets the <a href="http://msdn.microsoft.com/en-us/library/ms134129">IsReadOnly()()()</a> property for the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> object and all subelements.
+Sets the <a href="http://msdn.microsoft.com/en-us/library/ms134129">IsReadOnly</a> property for the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> object and all subelements.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
 </tr>
@@ -282,6 +283,7 @@ Modifies the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">Configur
 </table>
 
 ## See Also
-[ModulesConfigurationSection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection)
+
+[ModulesConfigurationSection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection)
 
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

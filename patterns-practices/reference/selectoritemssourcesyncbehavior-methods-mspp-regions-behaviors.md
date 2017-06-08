@@ -4,7 +4,8 @@ Title: 'SelectorItemsSourceSyncBehavior Methods (Microsoft.Practices.Prism.Regio
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior'
 ms:mtpsurl: 'selectoritemssourcesyncbehavior-methods-mspp-regions-behaviors.md'
 ---
-
+
+
 # SelectorItemsSourceSyncBehavior Methods
 
 The [SelectorItemsSourceSyncBehavior](/patterns-practices/reference/selectoritemssourcesyncbehavior-class-mspp-regions-behaviors) type exposes the following members.
@@ -75,7 +76,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 <td><div class="summary">
 Starts to monitor the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion">IRegion</a> to keep it in synch with the items of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior.hostcontrol">HostControl</a>.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.onattach">RegionBehavior..::.OnAttach()()()</a>.)</td>
+(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.onattach">RegionBehavior..::.OnAttach</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
