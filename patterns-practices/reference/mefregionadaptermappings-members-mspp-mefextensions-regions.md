@@ -4,16 +4,14 @@ Title: 'MefRegionAdapterMappings Members (Microsoft.Practices.Prism.MefExtension
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionAdapterMappings'
 ms:mtpsurl: 'mefregionadaptermappings-members-mspp-mefextensions-regions.md'
 ---
-
+
 # MefRegionAdapterMappings Members
 
-The [MefRegionAdapterMappings](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings) type exposes the following members.
+The [MefRegionAdapterMappings](/patterns-practices/reference/mefregionadaptermappings-class-mspp-mefextensions-regions) type exposes the following members.
 
 ## Constructors
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,9 +22,9 @@ The [MefRegionAdapterMappings](https://msdn.microsoft.com/library/microsoft.prac
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings.">MefRegionAdapterMappings</a></td>
+<td>MefRegionAdapterMappings</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings">MefRegionAdapterMappings</a> class
+Initializes a new instance of the <a href="/patterns-practices/reference/mefregionadaptermappings-class-mspp-mefextensions-regions">MefRegionAdapterMappings</a> class
 </div></td>
 </tr>
 </tbody>
@@ -34,9 +32,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -71,11 +67,11 @@ Serves as a hash function for a particular type.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings.getmapping(system.type)">GetMapping</a></td>
+<td><a href="/patterns-practices/reference/regionadaptermappings-getmapping-method-mspp-regions">GetMapping</a></td>
 <td><div class="summary">
 Returns the adapter associated with the type provided.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings">RegionAdapterMappings</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionadaptermappings-class-mspp-regions">RegionAdapterMappings</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -95,11 +91,11 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings.registermapping(system.type%2cmicrosoft.practices.prism.regions.iregionadapter)">RegisterMapping</a></td>
+<td><a href="/patterns-practices/reference/regionadaptermappings-registermapping-method-mspp-regions">RegisterMapping</a></td>
 <td><div class="summary">
 Registers the mapping between a type and an adapter.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings">RegionAdapterMappings</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionadaptermappings-class-mspp-regions">RegionAdapterMappings</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -113,6 +109,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[MefRegionAdapterMappings Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+[MefRegionAdapterMappings Class](/patterns-practices/reference/mefregionadaptermappings-class-mspp-mefextensions-regions)
+
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
