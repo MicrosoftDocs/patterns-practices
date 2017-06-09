@@ -160,7 +160,7 @@ Gets or sets the <a href="http://msdn.microsoft.com/en-us/library/ms589309">Depe
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions">IsAttached</a></td>
 <td><div class="summary">
-Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
+Returns <strong>truetrue</strong> (<strong>True</strong> in Visual Basic) if the behavior is attached to a region, <strong>falsefalse</strong> (<strong>False</strong> in Visual Basic) otherwise.
 </div>
 (Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions">RegionBehavior</a>.)</td>
 </tr>
