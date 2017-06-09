@@ -4,10 +4,11 @@ Title: 'ObservableObject(T) Members (Microsoft.Practices.Prism)'
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.ObservableObject\`1'
 ms:mtpsurl: 'observableobject-t-members-mspp.md'
 ---
-
-# ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Members
 
-The [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601) type exposes the following members.
+
+# ObservableObject&lt;T&gt; Members
+
+The [ObservableObject&lt;T&gt;](/patterns-practices/reference/observableobject-t-class-mspp) type exposes the following members.
 
 ## Constructors
 
@@ -24,9 +25,9 @@ The [ObservableObject&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/librar
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601.">ObservableObject&lt;(Of &lt;(T&gt;)&gt;)</a></td>
+<td>ObservableObject&lt;T&gt;</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601">ObservableObject&lt;(Of &lt;(T&gt;)&gt;)</a> class
+Initializes a new instance of the <a href="/patterns-practices/reference/observableobject-t-class-mspp">ObservableObject&lt;T&gt;</a> class
 </div></td>
 </tr>
 </tbody>
@@ -417,7 +418,7 @@ Returns the input element within the current element that is at the specified co
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598917">InvalidateArrange</a></td>
 <td><div class="summary">
-Invalidates the arrange state (layout) for the element. After the invalidation, the element will have its layout updated, which will occur asynchronously unless subsequently forced by <a href="http://msdn.microsoft.com/en-us/library/ms599327">UpdateLayout()()()</a>.
+Invalidates the arrange state (layout) for the element. After the invalidation, the element will have its layout updated, which will occur asynchronously unless subsequently forced by <a href="http://msdn.microsoft.com/en-us/library/ms599327">UpdateLayout()</a>.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms590078">UIElement</a>.)</td>
 </tr>
@@ -513,7 +514,7 @@ Provides class handling for when an access key that is meaningful for this eleme
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms598234">OnApplyTemplate</a></td>
 <td><div class="summary">
-When overridden in a derived class, is invoked whenever application code or internal processes call <a href="http://msdn.microsoft.com/en-us/library/ms598092">ApplyTemplate()()()</a>.
+When overridden in a derived class, is invoked whenever application code or internal processes call <a href="http://msdn.microsoft.com/en-us/library/ms598092">ApplyTemplate()</a>.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
@@ -1663,7 +1664,7 @@ Enforces that the calling thread has access to this <a href="http://msdn.microso
 <tbody>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601.valueproperty">ValueProperty</a></td>
+<td><a href="/patterns-practices/reference/observableobject-t-valueproperty-field-mspp">ValueProperty</a></td>
 <td><div class="summary">
 Identifies the Value property of the ObservableObject
 </div></td>
@@ -2377,7 +2378,7 @@ Gets or sets a value that indicates whether layout rounding should be applied to
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601.value">Value</a></td>
+<td><a href="/patterns-practices/reference/observableobject-t-value-property-mspp">Value</a></td>
 <td><div class="summary">
 The value that's wrapped inside the ObservableObject.
 </div></td>
@@ -3234,7 +3235,7 @@ Occurs when a finger is raised off of the screen while the finger is over this e
 </tr>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601.propertychanged">PropertyChanged</a></td>
+<td><a href="/patterns-practices/reference/observableobject-t-propertychanged-event-mspp">PropertyChanged</a></td>
 <td><div class="summary">
 Event that gets invoked when the Value property changes.
 </div></td>
@@ -3451,6 +3452,7 @@ Occurs when the element is removed from within an element tree of loaded element
 </table>
 
 ## See Also
-[ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
