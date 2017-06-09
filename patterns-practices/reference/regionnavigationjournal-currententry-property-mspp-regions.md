@@ -4,29 +4,39 @@ Title: 'RegionNavigationJournal.CurrentEntry Property (Microsoft.Practices.Prism
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationJournal.CurrentEntry'
 ms:mtpsurl: 'regionnavigationjournal-currententry-property-mspp-regions.md'
 ---
-
+
+
 # RegionNavigationJournal.CurrentEntry Property
 
 Gets the current navigation entry of the content that is currently displayed.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public IRegionNavigationJournalEntry CurrentEntry { get; }Public ReadOnly Property CurrentEntry As IRegionNavigationJournalEntry Get
+```C#
+public IRegionNavigationJournalEntry CurrentEntry { get; }
+```
+```VB
+'Declaration
+Public ReadOnly Property CurrentEntry As IRegionNavigationJournalEntry
+	Get
+```
 ### Property Value
 
-Type: [IRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry)
+Type: [IRegionNavigationJournalEntry](/patterns-practices/reference/iregionnavigationjournalentry-interface-mspp-regions)  
 The current entry.
 ### Implements
 
-[IRegionNavigationJournal.CurrentEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal.currententry)
+[IRegionNavigationJournal.CurrentEntry](/patterns-practices/reference/iregionnavigationjournal-currententry-property-mspp-regions)
 
 ## See Also
-[RegionNavigationJournal Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal)
 
-[RegionNavigationJournal Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationjournal)
+[RegionNavigationJournal Class](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionNavigationJournal Members](/patterns-practices/reference/regionnavigationjournal-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
