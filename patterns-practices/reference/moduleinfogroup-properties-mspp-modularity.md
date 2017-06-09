@@ -8,7 +8,7 @@ ms:mtpsurl: 'moduleinfogroup-properties-mspp-modularity.md'
 
 # ModuleInfoGroup Properties
 
-The [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup) type exposes the following members.
+The [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity) type exposes the following members.
 
 ## Properties
 
@@ -25,58 +25,58 @@ The [ModuleInfoGroup](https://msdn.microsoft.com/library/microsoft.practices.pri
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a []()="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup.count">Count</a></td>
+<td>[Count](/patterns-practices/reference/moduleinfogroup-count-property-mspp-modularity)</td>
 <td><div class="summary">
-Gets the number of elements contained in the <a []()="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup">ModuleInfoGroup</a>.
+Gets the number of elements contained in the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity).
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a []()="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup.initializationmode">InitializationMode</a></td>
+<td>[InitializationMode](/patterns-practices/reference/moduleinfogroup-initializationmode-property-mspp-modularity)</td>
 <td><div class="summary">
-Gets or sets the <a []()="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.initializationmode">InitializationMode</a> for the whole group. Any <a []()="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a> classes that are added after setting this value will also get this <a []()="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup.initializationmode">InitializationMode</a>.
+Gets or sets the [InitializationMode](/patterns-practices/reference/moduleinfo-initializationmode-property-mspp-modularity) for the whole group. Any [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) classes that are added after setting this value will also get this [InitializationMode](/patterns-practices/reference/moduleinfogroup-initializationmode-property-mspp-modularity).
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a []()="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup.isfixedsize">IsFixedSize</a></td>
+<td>[IsFixedSize](/patterns-practices/reference/moduleinfogroup-isfixedsize-property-mspp-modularity)</td>
 <td><div class="summary">
-Gets a value indicating whether the <a []()="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup">ModuleInfoGroup</a> has a fixed size.
+Gets a value indicating whether the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity) has a fixed size.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a []()="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup.isreadonly">IsReadOnly</a></td>
+<td>[IsReadOnly](/patterns-practices/reference/moduleinfogroup-isreadonly-property-mspp-modularity)</td>
 <td><div class="summary">
-Gets a value indicating whether the <a []()="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup">ModuleInfoGroup</a> is read-only.
+Gets a value indicating whether the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity) is read-only.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a []()="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup.issynchronized">IsSynchronized</a></td>
+<td>[IsSynchronized](/patterns-practices/reference/moduleinfogroup-issynchronized-property-mspp-modularity)</td>
 <td><div class="summary">
-Gets a value indicating whether access to the <a []()="http://msdn.microsoft.com/en-us/library/b1ht6113">ICollection</a> is synchronized (thread safe).
+Gets a value indicating whether access to the [ICollection](http://msdn.microsoft.com/en-us/library/b1ht6113) is synchronized (thread safe).
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a []()="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup.item(system.int32)">Item</a></td>
+<td>[Item](/patterns-practices/reference/moduleinfogroup-item-property-mspp-modularity)</td>
 <td><div class="summary">
-Gets or sets the <a []()="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a> at the specified index.
+Gets or sets the [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) at the specified index.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a []()="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup.ref">Ref</a></td>
+<td>[Ref](/patterns-practices/reference/moduleinfogroup-ref-property-mspp-modularity)</td>
 <td><div class="summary">
-Gets or sets the <a []()="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo.ref">Ref</a> value for the whole group. Any <a []()="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo">ModuleInfo</a> classes that are added after setting this value will also get this <a []()="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup.ref">Ref</a>. The ref value will also be used by the <a []()="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager">IModuleManager</a> to determine which <a []()="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader">IModuleTypeLoader</a> to use. For example, using an &quot;file://&quot; prefix with a valid URL will cause the FileModuleTypeLoader to be used (Only available in the desktop version of CAL).
+Gets or sets the [Ref](/patterns-practices/reference/moduleinfo-ref-property-mspp-modularity) value for the whole group. Any [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) classes that are added after setting this value will also get this [Ref](/patterns-practices/reference/moduleinfogroup-ref-property-mspp-modularity). The ref value will also be used by the [IModuleManager](/patterns-practices/reference/imodulemanager-interface-mspp-modularity) to determine which [IModuleTypeLoader](/patterns-practices/reference/imoduletypeloader-interface-mspp-modularity) to use. For example, using an &quot;file://&quot; prefix with a valid URL will cause the FileModuleTypeLoader to be used (Only available in the desktop version of CAL).
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a []()="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup.syncroot">SyncRoot</a></td>
+<td>[SyncRoot](/patterns-practices/reference/moduleinfogroup-syncroot-property-mspp-modularity)</td>
 <td><div class="summary">
-Gets an object that can be used to synchronize access to the <a []()="http://msdn.microsoft.com/en-us/library/b1ht6113">ICollection</a>.
+Gets an object that can be used to synchronize access to the [ICollection](http://msdn.microsoft.com/en-us/library/b1ht6113).
 </div></td>
 </tr>
 </tbody>
@@ -84,6 +84,6 @@ Gets an object that can be used to synchronize access to the <a []()="http://msd
 
 ## See Also
 
-[ModuleInfoGroup Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfogroup)
+[ModuleInfoGroup Class](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

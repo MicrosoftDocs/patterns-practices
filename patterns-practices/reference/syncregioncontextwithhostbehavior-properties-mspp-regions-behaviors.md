@@ -4,7 +4,8 @@ Title: 'SyncRegionContextWithHostBehavior Properties (Microsoft.Practices.Prism.
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.SyncRegionContextWithHostBehavior'
 ms:mtpsurl: 'syncregioncontextwithhostbehavior-properties-mspp-regions-behaviors.md'
 ---
-
+
+
 # SyncRegionContextWithHostBehavior Properties
 
 The [SyncRegionContextWithHostBehavior](/patterns-practices/reference/syncregioncontextwithhostbehavior-class-mspp-regions-behaviors) type exposes the following members.
@@ -23,26 +24,26 @@ The [SyncRegionContextWithHostBehavior](/patterns-practices/reference/syncregion
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.syncregioncontextwithhostbehavior.hostcontrol">HostControl</a></td>
+<td>[HostControl](/patterns-practices/reference/syncregioncontextwithhostbehavior-hostcontrol-property-mspp-regions-behaviors)</td>
 <td><div class="summary">
-Gets or sets the <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a> that the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion">IRegion</a> is attached to.
+Gets or sets the [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309) that the [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) is attached to.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.isattached">IsAttached</a></td>
+<td>[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions)</td>
 <td><div class="summary">
-Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
+Returns **trueTruetruetrue** (**True** in Visual Basic) if the behavior is attached to a region, **falseFalsefalsefalse** (**False** in Visual Basic) otherwise.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
+(Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.region">Region</a></td>
+<td>[Region](/patterns-practices/reference/regionbehavior-region-property-mspp-regions)</td>
 <td><div class="summary">
 Behavior's attached region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
+(Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>
 </tbody>
 </table>

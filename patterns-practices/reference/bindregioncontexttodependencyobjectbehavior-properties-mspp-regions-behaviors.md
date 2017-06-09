@@ -4,10 +4,11 @@ Title: 'BindRegionContextToDependencyObjectBehavior Properties (Microsoft.Practi
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior'
 ms:mtpsurl: 'bindregioncontexttodependencyobjectbehavior-properties-mspp-regions-behaviors.md'
 ---
-
+
+
 # BindRegionContextToDependencyObjectBehavior Properties
 
-The [BindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior) type exposes the following members.
+The [BindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Properties
 
@@ -24,7 +25,7 @@ The [BindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/lib
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior.region">Region</a></td>
+<td>[Region](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-region-property-mspp-regions-behaviors)</td>
 <td><div class="summary">
 Behavior's attached region.
 </div></td>
@@ -33,6 +34,7 @@ Behavior's attached region.
 </table>
 
 ## See Also
-[BindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+[BindRegionContextToDependencyObjectBehavior Class](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors)
+
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
