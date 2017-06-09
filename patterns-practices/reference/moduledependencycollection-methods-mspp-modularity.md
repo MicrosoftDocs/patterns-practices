@@ -18,7 +18,8 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 <col width="40%" />
 </colgroup>
 
-<tbody><tr>
+<tbody>
+<tr>
 <th>
 &nbsp;
 </th>
@@ -174,12 +175,12 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="moduledependencycoll-createnew-method">CreateNewElement<div></a>
+<a href="moduledependencycoll-createnew-method">CreateNewElement</a>
 </td>
 <td>
 <div>
 Creates a new <a href="moduledependencyconfigurationelement-class-mspp-modularity">ModuleDependencyConfigurationElement</a>.
-</div> (Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8" target="_blank">ConfigurationElementCollection<div>.CreateNewElement<div></a>.)</td>
+</div> (Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8" target="_blank">ConfigurationElementCollection.CreateNewElement</a>.)</td>
 </tr>
 <tr>
 <td>
@@ -456,7 +457,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <a href="http://msdn.microsoft.com/en-us/library/5t09d48z" target="_blank">ResetModified</a>
 </td>
 <td>
-<div>Resets the value of the <a href="http://msdn.microsoft.com/en-us/library/sdfx3fsd" target="_blank">IsModified<div></a> property to false when overridden in a derived class.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Resets the value of the <a href="http://msdn.microsoft.com/en-us/library/sdfx3fsd" target="_blank">IsModified</a> property to false when overridden in a derived class.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
 </tr>
 <tr>
 <td>
@@ -500,7 +501,7 @@ Gets the element key for a specified configuration element when overridden in a 
 <a href="http://msdn.microsoft.com/en-us/library/ms134164" target="_blank">SetReadOnly</a>
 </td>
 <td>
-<div>Sets the <a href="http://msdn.microsoft.com/en-us/library/ms134160" target="_blank">IsReadOnly<div></a> property for the <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a> object and for all sub-elements.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Sets the <a href="http://msdn.microsoft.com/en-us/library/ms134160" target="_blank">IsReadOnly</a> property for the <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a> object and for all sub-elements.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
 </tr>
 <tr>
 <td>
