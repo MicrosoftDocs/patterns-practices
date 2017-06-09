@@ -4,36 +4,88 @@ Title: 'ListDictionary(TKey, TValue).Item Property (Microsoft.Practices.Prism)'
 ms:assetid: 'P:Microsoft.Practices.Prism.ListDictionary\`2.Item(\`0)'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-item-property-mspp.md'
 ---
-
-# ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Item Property
+
+# ListDictionary&lt;TKey, TValue&gt;.Item Property
 
 Gets or sets the list associated with the given key. The access always succeeds, eventually returning an empty list.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public IList&lt;TValue&gt; this[ TKey key \] { get; set; }Public Default Property Item ( key As TKey ) As IList(Of TValue) Get Set
+
+```C#
+public IList<TValue> this[
+	TKey key
+] { get; set; }
+```
 
 ### Parameters
 
-key  
-Type: [TKey](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
+*key*    
+Type: [TKey](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
 The key of the list to access.
 
 ### Return Value
 
-Type: [IList](http://msdn.microsoft.com/en-us/library/5y536ey6)&lt;(Of &lt;([TValue](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)&gt;)&gt;)
+Type: [IList](http://msdn.microsoft.com/en-us/library/5y536ey6)&lt;[TValue](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)&gt;  
 The list associated with the key.
+
 ### Implements
 
-[IDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;).Item[([(TKey\])\])](http://msdn.microsoft.com/en-us/library/zyxt2e2h)
+[IDictionary&lt;TKey, TValue&gt;.Item[TKey]](http://msdn.microsoft.com/en-us/library/zyxt2e2h)
 
 ## See Also
-[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.listdictionary%602)
 
-[ListDictionary&lt;(Of &lt;(TKey, TValue&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.listdictionary%602)
+[ListDictionary&lt;TKey, TValue&gt; Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[ListDictionary&lt;TKey, TValue&gt; Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+
+# ListDictionary(Of TKey, TValue).Item Property
+
+Gets or sets the list associated with the given key. The access always succeeds, eventually returning an empty list.
+
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+```VB
+'Declaration
+Public Default Property Item ( 
+	key As TKey
+) As IList(Of TValue)
+	Get
+	Set
+```
+
+### Parameters
+
+*key*    
+Type: [TKey](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)  
+The key of the list to access.
+
+### Return Value
+
+Type: [IList](http://msdn.microsoft.com/en-us/library/5y536ey6)(Of[TValue](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp))  
+The list associated with the key.
+
+### Implements
+
+[IDictionary(Of TKey, TValue).Item(TKey)](http://msdn.microsoft.com/en-us/library/zyxt2e2h)
+
+## See Also
+
+[ListDictionary(Of TKey, TValue) Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)
+
+[ListDictionary(Of TKey, TValue) Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

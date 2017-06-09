@@ -18,7 +18,8 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 <col width="40%" />
 </colgroup>
 
-<tbody><tr>
+<tbody>
+<tr>
 <th>
 &nbsp;
 </th>
@@ -174,12 +175,12 @@ The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencyc
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="moduledependencycoll-createnew-method">CreateNewElement<div></a>
+[CreateNewElement](/patterns-practices/reference/moduledependencycoll-createnew-method)
 </td>
 <td>
 <div>
-Creates a new <a href="moduledependencyconfigurationelement-class-mspp-modularity">ModuleDependencyConfigurationElement</a>.
-</div> (Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8" target="_blank">ConfigurationElementCollection<div>.CreateNewElement<div></a>.)</td>
+Creates a new [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity).
+</div> (Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8" target="_blank">ConfigurationElementCollection.CreateNewElement</a>.)</td>
 </tr>
 <tr>
 <td>
@@ -220,10 +221,10 @@ Creates a new <a href="moduledependencyconfigurationelement-class-mspp-modularit
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/4k87zsw7" target="_blank">Finalize</a>
+[Finalize](http://msdn.microsoft.com/en-us/library/4k87zsw7)
 </td>
 <td>
-<div>Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td>
+<div>Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.</div> (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr>
 <td>
@@ -231,12 +232,12 @@ Creates a new <a href="moduledependencyconfigurationelement-class-mspp-modularit
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="moduledependencycollection-getelementkey-method-mspp-modularity">GetElementKey</a>
+[GetElementKey](/patterns-practices/reference/moduledependencycollection-getelementkey-method-mspp-modularity)
 </td>
 <td>
 <div>
 Gets the element key for a specified configuration element when overridden in a derived class.
-</div> (Overrides <a href="http://msdn.microsoft.com/en-us/library/bxcte21d" target="_blank">ConfigurationElementCollection<div>.GetElementKey(ConfigurationElement)</a>.)</td>
+</div> (Overrides [ConfigurationElementCollection.GetElementKey(ConfigurationElement)](http://msdn.microsoft.com/en-us/library/bxcte21d).)</td>
 </tr>
 <tr>
 <td>
@@ -244,10 +245,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms134159" target="_blank">GetEnumerator</a>
+[GetEnumerator](http://msdn.microsoft.com/en-us/library/ms134159)
 </td>
 <td>
-<div>Gets an <a href="http://msdn.microsoft.com/en-us/library/1t2267t6" target="_blank">IEnumerator</a> which is used to iterate through the <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Gets an [IEnumerator](http://msdn.microsoft.com/en-us/library/1t2267t6) which is used to iterate through the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -255,10 +256,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/7w9k269c" target="_blank">GetHashCode</a>
+[GetHashCode](http://msdn.microsoft.com/en-us/library/7w9k269c)
 </td>
 <td>
-<div>Gets a unique value representing the <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a> instance.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Gets a unique value representing the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et) instance.</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -266,10 +267,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/dd642109" target="_blank">GetTransformedAssemblyString</a>
+[GetTransformedAssemblyString](http://msdn.microsoft.com/en-us/library/dd642109)
 </td>
 <td>
-<div>Returns the transformed version of the specified assembly name. </div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a>.)</td>
+<div>Returns the transformed version of the specified assembly name. </div> (Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr>
 <td>
@@ -277,10 +278,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/dd642039" target="_blank">GetTransformedTypeString</a>
+[GetTransformedTypeString](http://msdn.microsoft.com/en-us/library/dd642039)
 </td>
 <td>
-<div>Returns the transformed version of the specified type name.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a>.)</td>
+<div>Returns the transformed version of the specified type name.</div> (Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr>
 <td>
@@ -288,10 +289,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/dfwy45w9" target="_blank">GetType</a>
+[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)
 </td>
 <td>
-<div>Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65" target="_blank">Type</a> of the current instance.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td>
+<div>Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.</div> (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr>
 <td>
@@ -299,10 +300,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms134128" target="_blank">Init</a>
+[Init](http://msdn.microsoft.com/en-us/library/ms134128)
 </td>
 <td>
-<div>Sets the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a> object to its initial state.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a>.)</td>
+<div>Sets the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) object to its initial state.</div> (Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr>
 <td>
@@ -310,10 +311,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/9kaww10k" target="_blank">InitializeDefault</a>
+[InitializeDefault](http://msdn.microsoft.com/en-us/library/9kaww10k)
 </td>
 <td>
-<div>Used to initialize a default set of values for the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a> object.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a>.)</td>
+<div>Used to initialize a default set of values for the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) object.</div> (Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr>
 <td>
@@ -321,10 +322,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/11833ks2" target="_blank">IsElementName</a>
+[IsElementName](http://msdn.microsoft.com/en-us/library/11833ks2)
 </td>
 <td>
-<div>Indicates whether the specified <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a> exists in the <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Indicates whether the specified [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) exists in the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -332,10 +333,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/00et13y9" target="_blank">IsElementRemovable</a>
+[IsElementRemovable](http://msdn.microsoft.com/en-us/library/00et13y9)
 </td>
 <td>
-<div>Indicates whether the specified <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a> can be removed from the <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Indicates whether the specified [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) can be removed from the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -343,10 +344,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/sdfx3fsd" target="_blank">IsModified</a>
+[IsModified](http://msdn.microsoft.com/en-us/library/sdfx3fsd)
 </td>
 <td>
-<div>Indicates whether this <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a> has been modified since it was last saved or loaded when overridden in a derived class.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Indicates whether this [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et) has been modified since it was last saved or loaded when overridden in a derived class.</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -354,10 +355,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms134160" target="_blank">IsReadOnly</a>
+[IsReadOnly](http://msdn.microsoft.com/en-us/library/ms134160)
 </td>
 <td>
-<div>Indicates whether the <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a> object is read only.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Indicates whether the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et) object is read only.</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -365,10 +366,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms134130" target="_blank">ListErrors</a>
+[ListErrors](http://msdn.microsoft.com/en-us/library/ms134130)
 </td>
 <td>
-<div>Adds the invalid-property errors in this <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a> object, and in all subelements, to the passed list.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a>.)</td>
+<div>Adds the invalid-property errors in this [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) object, and in all subelements, to the passed list.</div> (Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr>
 <td>
@@ -376,10 +377,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/57ctke0a" target="_blank">MemberwiseClone</a>
+[MemberwiseClone](http://msdn.microsoft.com/en-us/library/57ctke0a)
 </td>
 <td>
-<div>Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td>
+<div>Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).</div> (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr>
 <td>
@@ -387,10 +388,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms134131" target="_blank">OnDeserializeUnrecognizedAttribute</a>
+[OnDeserializeUnrecognizedAttribute](http://msdn.microsoft.com/en-us/library/ms134131)
 </td>
 <td>
-<div>Gets a value indicating whether an unknown attribute is encountered during deserialization.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a>.)</td>
+<div>Gets a value indicating whether an unknown attribute is encountered during deserialization.</div> (Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr>
 <td>
@@ -398,10 +399,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms134161" target="_blank">OnDeserializeUnrecognizedElement</a>
+[OnDeserializeUnrecognizedElement](http://msdn.microsoft.com/en-us/library/ms134161)
 </td>
 <td>
-<div>Causes the configuration system to throw an exception.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Causes the configuration system to throw an exception.</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -409,10 +410,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms134133" target="_blank">OnRequiredPropertyNotFound</a>
+[OnRequiredPropertyNotFound](http://msdn.microsoft.com/en-us/library/ms134133)
 </td>
 <td>
-<div>Throws an exception when a required property is not found.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a>.)</td>
+<div>Throws an exception when a required property is not found.</div> (Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr>
 <td>
@@ -420,10 +421,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms134134" target="_blank">PostDeserialize</a>
+[PostDeserialize](http://msdn.microsoft.com/en-us/library/ms134134)
 </td>
 <td>
-<div>Called after deserialization.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a>.)</td>
+<div>Called after deserialization.</div> (Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr>
 <td>
@@ -431,10 +432,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms134135" target="_blank">PreSerialize</a>
+[PreSerialize](http://msdn.microsoft.com/en-us/library/ms134135)
 </td>
 <td>
-<div>Called before serialization.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a>.)</td>
+<div>Called before serialization.</div> (Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr>
 <td>
@@ -442,10 +443,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms134162" target="_blank">Reset</a>
+[Reset](http://msdn.microsoft.com/en-us/library/ms134162)
 </td>
 <td>
-<div>Resets the <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a> to its unmodified state when overridden in a derived class.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Resets the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et) to its unmodified state when overridden in a derived class.</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -453,10 +454,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/5t09d48z" target="_blank">ResetModified</a>
+[ResetModified](http://msdn.microsoft.com/en-us/library/5t09d48z)
 </td>
 <td>
-<div>Resets the value of the <a href="http://msdn.microsoft.com/en-us/library/sdfx3fsd" target="_blank">IsModified<div></a> property to false when overridden in a derived class.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Resets the value of the [IsModified](http://msdn.microsoft.com/en-us/library/sdfx3fsd) property to false when overridden in a derived class.</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -464,10 +465,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms134163" target="_blank">SerializeElement</a>
+[SerializeElement](http://msdn.microsoft.com/en-us/library/ms134163)
 </td>
 <td>
-<div>Writes the configuration data to an XML element in the configuration file when overridden in a derived class.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Writes the configuration data to an XML element in the configuration file when overridden in a derived class.</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -475,10 +476,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/yxcx3y27" target="_blank">SerializeToXmlElement</a>
+[SerializeToXmlElement](http://msdn.microsoft.com/en-us/library/yxcx3y27)
 </td>
 <td>
-<div>Writes the outer tags of this configuration element to the configuration file when implemented in a derived class.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a>.)</td>
+<div>Writes the outer tags of this configuration element to the configuration file when implemented in a derived class.</div> (Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr>
 <td>
@@ -486,10 +487,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms224426" target="_blank">SetPropertyValue</a>
+[SetPropertyValue](http://msdn.microsoft.com/en-us/library/ms224426)
 </td>
 <td>
-<div>Sets a property to the specified value.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3" target="_blank">ConfigurationElement</a>.)</td>
+<div>Sets a property to the specified value.</div> (Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr>
 <td>
@@ -497,10 +498,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms134164" target="_blank">SetReadOnly</a>
+[SetReadOnly](http://msdn.microsoft.com/en-us/library/ms134164)
 </td>
 <td>
-<div>Sets the <a href="http://msdn.microsoft.com/en-us/library/ms134160" target="_blank">IsReadOnly<div></a> property for the <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a> object and for all sub-elements.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Sets the [IsReadOnly](http://msdn.microsoft.com/en-us/library/ms134160) property for the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et) object and for all sub-elements.</div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr>
 <td>
@@ -508,10 +509,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![](/patterns-practices/reference/images/public-method.gif "Public method")
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2" target="_blank">ToString</a>
+[ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)
 </td>
 <td>
-<div>Returns a string that represents the current object.</div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b" target="_blank">Object</a>.)</td>
+<div>Returns a string that represents the current object.</div> (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr>
 <td>
@@ -519,10 +520,10 @@ Gets the element key for a specified configuration element when overridden in a 
 ![Protected method](/patterns-practices/reference/images/protmethod.gif)
 </td>
 <td>
-<a href="http://msdn.microsoft.com/en-us/library/ms224411" target="_blank">Unmerge</a>
+[Unmerge](http://msdn.microsoft.com/en-us/library/ms224411)
 </td>
 <td>
-<div>Reverses the effect of merging configuration information from different levels of the configuration hierarchy </div> (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et" target="_blank">ConfigurationElementCollection</a>.)</td>
+<div>Reverses the effect of merging configuration information from different levels of the configuration hierarchy </div> (Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 </tbody>
 </table>

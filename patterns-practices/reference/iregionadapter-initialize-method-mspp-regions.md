@@ -7,9 +7,9 @@ ms:mtpsurl: 'iregionadapter-initialize-method-mspp-regions.md'
 
 # IRegionAdapter.Initialize Method
 
-Adapts an object and binds it to a new [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions).
+Adapts an object and binds it to a new [IRegion](/patterns-practices/reference/mspp-regions-namespace).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespaces)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -44,7 +44,7 @@ The name of the region to be created.
 ### Return Value
 
 Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)  
-The new instance of [IRegion](/patterns-practices/reference/iregion-interface-mspp-regionsn) that the regionTarget is bound to.
+The new instance of [IRegion](/patterns-practices/reference/mspp-regions-namespace) that the regionTarget is bound to.
 
 ## See Also
 
@@ -52,4 +52,4 @@ The new instance of [IRegion](/patterns-practices/reference/iregion-interface-ms
 
 [IRegionAdapter Members](/patterns-practices/reference/iregionadapter-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespaces)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

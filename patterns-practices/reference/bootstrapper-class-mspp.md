@@ -4,18 +4,26 @@ Title: 'Bootstrapper Class (Microsoft.Practices.Prism)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Bootstrapper'
 ms:mtpsurl: 'bootstrapper-class-mspp.md'
 ---
-
+
+
 # Bootstrapper Class
 
 Base class that provides a basic bootstrapping sequence and hooks that specific implementations can override
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public abstract class BootstrapperPublic MustInherit Class Bootstrapper
+```C#
+public abstract class Bootstrapper
+```
+```VB
+'Declaration
+Public MustInherit Class Bootstrapper
+```
 
 ## Remarks
 
@@ -23,12 +31,13 @@ Base class that provides a basic bootstrapping sequence and hooks that specific 
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.Bootstrapper
-    [Microsoft.Practices.Prism.MefExtensions.MefBootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper)
-    [Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)   
+  Microsoft.Practices.Prism.Bootstrapper   
+    [Microsoft-Practices-Prism-MefExtensions-MefBootstrapper](/patterns-practices/reference/mefbootstrapper-class-mspp-mefextensions)   
+    [Microsoft-Practices-Prism-UnityExtensions-UnityBootstrapper](/patterns-practices/reference/unitybootstrapper-class-mspp-unityextensions)   
 
 ## See Also
-[Bootstrapper Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.bootstrapper)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[Bootstrapper Members](/patterns-practices/reference/bootstrapper-members-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

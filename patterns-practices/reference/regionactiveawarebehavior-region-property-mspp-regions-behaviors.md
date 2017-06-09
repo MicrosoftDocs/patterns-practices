@@ -4,28 +4,38 @@ Title: 'RegionActiveAwareBehavior.Region Property (Microsoft.Practices.Prism.Reg
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior.Region'
 ms:mtpsurl: 'regionactiveawarebehavior-region-property-mspp-regions-behaviors.md'
 ---
-
+
 # RegionActiveAwareBehavior.Region Property
 
 The region that this behavior is extending
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public IRegion Region { get; set; }Public Property Region As IRegion Get Set
+
+```C#
+public IRegion Region { get; set; }
+```
+
+```VB
+'Declaration
+Public Property Region As IRegion
+	Get
+	Set
+```
+
 ### Property Value
 
-Type: [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
+Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
 ### Implements
 
-[IRegionBehavior.Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior.region)
+[IRegionBehavior.Region](/patterns-practices/reference/iregionbehavior-region-property-mspp-regions)
 
 ## See Also
-[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
 
-[RegionActiveAwareBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
-
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+[RegionActiveAwareBehavior Class](/patterns-practices/reference/regionactiveawarebehavior-class-mspp-regions-behaviors)  
+[RegionActiveAwareBehavior Members](/patterns-practices/reference/regionactiveawarebehavior-members-mspp-regions-behaviors)  
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

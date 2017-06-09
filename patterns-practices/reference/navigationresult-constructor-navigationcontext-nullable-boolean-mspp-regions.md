@@ -38,6 +38,8 @@ Type: [System.Nullable](http://msdn.microsoft.com/en-us/library/b3h38hb0)&lt;[Bo
 
 The result.
 
+
+
 # NavigationResult Constructor (NavigationContext, Nullable(Of Boolean))
 
 Initializes a new instance of the [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions) class.

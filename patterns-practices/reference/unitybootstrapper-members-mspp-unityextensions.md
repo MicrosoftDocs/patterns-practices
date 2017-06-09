@@ -141,7 +141,7 @@ Serves as a hash function for a particular type.
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)</td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
+Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
 </div>
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
@@ -173,7 +173,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper.registerframeworkexceptiontypes">RegisterFrameworkExceptionTypes</a></td>
 <td><div class="summary">
-Registers in the IUnityContainer the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the Exceptions that are not considered root exceptions by the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions">ExceptionExtensions</a>.
+Registers in the IUnityContainer the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the Exceptions that are not considered root exceptions by the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions">ExceptionExtensions</a>.
 </div>
 (Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.registerframeworkexceptiontypes">Bootstrapper.RegisterFrameworkExceptionTypes()()()</a>.)</td>
 </tr>

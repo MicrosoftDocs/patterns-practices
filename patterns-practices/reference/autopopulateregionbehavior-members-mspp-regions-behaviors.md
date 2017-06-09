@@ -4,7 +4,8 @@ Title: 'AutoPopulateRegionBehavior Members (Microsoft.Practices.Prism.Regions.Be
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior'
 ms:mtpsurl: 'autopopulateregionbehavior-members-mspp-regions-behaviors.md'
 ---
-
+
+
 # AutoPopulateRegionBehavior Members
 
 The [AutoPopulateRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior) type exposes the following members.
@@ -24,9 +25,9 @@ The [AutoPopulateRegionBehavior](https://msdn.microsoft.com/library/microsoft.pr
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior.">AutoPopulateRegionBehavior</a></td>
+<td>AutoPopulateRegionBehavior</td>
 <td><div class="summary">
-Creates a new instance of the AutoPopulateRegionBehavior associated with the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionviewregistry">IRegionViewRegistry</a> received.
+Creates a new instance of the AutoPopulateRegionBehavior associated with the <a href="/patterns-practices/reference/iregionviewregistry-interface-mspp-regions">IRegionViewRegistry</a> received.
 </div></td>
 </tr>
 </tbody>
@@ -47,22 +48,22 @@ Creates a new instance of the AutoPopulateRegionBehavior associated with the <a 
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior.addviewintoregion(system.object)">AddViewIntoRegion</a></td>
+<td><a href="/patterns-practices/reference/autopopulateregionbehavior-addviewintoregion-method-mspp-regions-behaviors">AddViewIntoRegion</a></td>
 <td><div class="summary">
 Adds a view into the views collection of this region.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.attach">Attach</a></td>
+<td><a href="/patterns-practices/reference/regionbehavior-attach-method-mspp-regions">Attach</a></td>
 <td><div class="summary">
 Attaches the behavior to the region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions">RegionBehavior</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior.createviewstoautopopulate">CreateViewsToAutoPopulate</a></td>
+<td><a href="/patterns-practices/reference/autopopulateregionbehavior-createviewstoautopopulate-method-mspp-regions-behaviors">CreateViewsToAutoPopulate</a></td>
 <td><div class="summary">
 Returns a collection of views that will be added to the View collection.
 </div></td>
@@ -109,15 +110,15 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior.onattach">OnAttach</a></td>
+<td><a href="/patterns-practices/reference/autopopulateregionbehavior-onattach-method-mspp-regions-behaviors">OnAttach</a></td>
 <td><div class="summary">
 Attaches the AutoPopulateRegionBehavior to the Region.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.onattach">RegionBehavior.OnAttach()()()</a>.)</td>
+(Overrides <a href="/patterns-practices/reference/regionbehavior-onattach-method-mspp-regions">RegionBehavior.OnAttach()</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior.onviewregistered(system.object%2cmicrosoft.practices.prism.regions.viewregisteredeventargs)">OnViewRegistered</a></td>
+<td><a href="/patterns-practices/reference/autopopulateregionbehavior-onviewregistered-method-mspp-regions-behaviors">OnViewRegistered</a></td>
 <td><div class="summary">
 Handler of the event that fires when a new viewtype is registered to the registry.
 </div></td>
@@ -148,7 +149,7 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior.behaviorkey">BehaviorKey</a></td>
+<td><a href="/patterns-practices/reference/autopopulateregionbehavior-behaviorkey-field-mspp-regions-behaviors">BehaviorKey</a></td>
 <td><div class="summary">
 The key of this behavior.
 </div></td>
@@ -171,24 +172,27 @@ The key of this behavior.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.isattached">IsAttached</a></td>
+<td><a href="/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions">IsAttached</a></td>
 <td><div class="summary">
-Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
+Returns <strong>truetrue</strong> (<strong>True</strong> in Visual Basic) if the behavior is attached to a region, <strong>falsefalse</strong> (<strong>False</strong> in Visual Basic) otherwise.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions">RegionBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.region">Region</a></td>
+<td><a href="/patterns-practices/reference/regionbehavior-region-property-mspp-regions">Region</a></td>
 <td><div class="summary">
 Behavior's attached region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions">RegionBehavior</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[AutoPopulateRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+[AutoPopulateRegionBehavior Class](/patterns-practices/reference/AutoPopulateRegionBehavior-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+
+

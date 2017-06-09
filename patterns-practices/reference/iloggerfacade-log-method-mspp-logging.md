@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Logging.ILoggerFacade.Log(System.String
 ms:mtpsurl: 'iloggerfacade-log-method-mspp-logging.md'
 ---
 
-
 # ILoggerFacade.Log Method
 
 Write a new log entry with the specified category and priority.
@@ -18,26 +17,26 @@ Write a new log entry with the specified category and priority.
 
 ## Syntax
 
-~~~C#
+```C#
 void Log(
 	string message,
 	Category category,
 	Priority priority
 )
-~~~
-~~~VB
+```
+
+```VB
 'Declaration
 Sub Log ( 
 	message As String,
 	category As Category,
 	priority As Priority
 )
-~~~
+```
 ### Parameters
 
 _message_  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-Message body to log.
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)<br/>Message body to log.
 
 _category_  
 Type: [Microsoft.Practices.Prism.Logging.Category](/patterns-practices/reference/category-enumeration-mspp-logging)  

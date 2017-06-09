@@ -16,6 +16,7 @@ Creates a new instance of the AutoPopulateRegionBehavior associated with the [IR
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public AutoPopulateRegionBehavior(
 	IRegionViewRegistry regionViewRegistry

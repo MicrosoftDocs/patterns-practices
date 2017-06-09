@@ -22,6 +22,13 @@ public override void Run(
 	bool runWithDefaultConfiguration
 )
 ```
+### Parameters
+
+*runWithDefaultConfiguration*    
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
+If **truetrue** (**True** in Visual Basic), registers default Prism Library services in the container. This is the default behavior.
+
+
 ```VB
 'Declaration
 Public Overrides Sub Run ( 

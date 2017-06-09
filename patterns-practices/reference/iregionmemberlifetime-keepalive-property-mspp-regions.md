@@ -4,25 +4,34 @@ Title: 'IRegionMemberLifetime.KeepAlive Property (Microsoft.Practices.Prism.Regi
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionMemberLifetime.KeepAlive'
 ms:mtpsurl: 'iregionmemberlifetime-keepalive-property-mspp-regions.md'
 ---
-
+
 # IRegionMemberLifetime.KeepAlive Property
 
 Gets a value indicating whether this instance should be kept-alive upon deactivation.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-bool KeepAlive { get; }ReadOnly Property KeepAlive As Boolean Get
+
+```C#
+bool KeepAlive { get; }
+```
+
+```VB
+'Declaration
+ReadOnly Property KeepAlive As Boolean
+	Get
+```
+
 ### Property Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 ## See Also
-[IRegionMemberLifetime Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmemberlifetime)
 
-[IRegionMemberLifetime Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionmemberlifetime)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[IRegionMemberLifetime Interface](/patterns-practices/reference/iregionmemberlifetime-interface-mspp-regions)  
+[IRegionMemberLifetime Members](/patterns-practices/reference/iregionmemberlifetime-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

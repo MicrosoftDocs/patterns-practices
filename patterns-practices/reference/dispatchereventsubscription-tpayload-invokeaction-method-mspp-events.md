@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Events.DispatcherEventSubscription\`1.I
 ms:mtpsurl: 'dispatchereventsubscription-tpayload-invokeaction-method-mspp-events.md'
 ---
 
-
 # DispatcherEventSubscription&lt;TPayload&gt;.InvokeAction Method
 
 Invokes the specified [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) asynchronously in the specified [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907).
@@ -17,8 +16,12 @@ Invokes the specified [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
-public override void InvokeAction( Action<TPayload> action, TPayload argument )
+public override void InvokeAction(
+	Action<TPayload> action,
+	TPayload argument
+)
 ```
 
 ### Parameters
@@ -51,10 +54,15 @@ Invokes the specified [Action(Of T)](http://msdn.microsoft.com/en-us/library/018
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```VB
 'Declaration
-Public Overrides Sub InvokeAction ( action As Action(Of TPayload), argument As TPayload )
+Public Overrides Sub InvokeAction ( 
+	action As Action(Of TPayload),
+	argument As TPayload
+)
 ```
+
 ### Parameters
 
 *action*  

@@ -7,7 +7,7 @@ ms:mtpsurl: 'unityservicelocatoradapter-members-mspp-unityextensions.md'
 
 # UnityServiceLocatorAdapter Members
 
-The [UnityServiceLocatorAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter) type exposes the following members.
+The [UnityServiceLocatorAdapter](/patterns-practices/reference/unityservicelocatoradapter-class-mspp-unityextensions) type exposes the following members.
 
 ## Constructors
 
@@ -23,9 +23,9 @@ The [UnityServiceLocatorAdapter](https://msdn.microsoft.com/library/microsoft.pr
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter.">UnityServiceLocatorAdapter</a></td>
+<td>UnityServiceLocatorAdapter</td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter">UnityServiceLocatorAdapter</a>.
+Initializes a new instance of [UnityServiceLocatorAdapter](/patterns-practices/reference/unityservicelocatoradapter-class-mspp-unityextensions).
 </div></td>
 </tr>
 </tbody>
@@ -45,7 +45,7 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter.dogetallinstances(system.type)">DoGetAllInstances</a></td>
+<td>[DoGetAllInstances](/patterns-practices/reference/unityservicelocatoradapter-dogetallinstances-method-mspp-unityextensions)</td>
 <td><div class="summary">
 Resolves all the instances of the requested service.
 </div>
@@ -53,7 +53,7 @@ Resolves all the instances of the requested service.
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter.dogetinstance(system.type%2csystem.string)">DoGetInstance</a></td>
+<td>[DoGetInstance](/patterns-practices/reference/unityservicelocatoradapter-dogetinstance-method-mspp-unityextensions)</td>
 <td><div class="summary">
 Resolves the instance of the requested service.
 </div>
@@ -132,7 +132,7 @@ Serves as a hash function for a particular type.
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)</td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
+Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
 </div>
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
@@ -156,6 +156,6 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[UnityServiceLocatorAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unityservicelocatoradapter)
+[UnityServiceLocatorAdapter Class](/patterns-practices/reference/unityservicelocatoradapter-class-mspp-unityextensions)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)

@@ -8,7 +8,7 @@ ms:mtpsurl: 'modulesconfigurationsection-methods-mspp-modularity.md'
 
 # ModulesConfigurationSection Methods
 
-The [ModulesConfigurationSection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection) type exposes the following members.
+The [ModulesConfigurationSection](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -284,6 +284,6 @@ Modifies the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">Configur
 
 ## See Also
 
-[ModulesConfigurationSection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection)
+[ModulesConfigurationSection Class](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

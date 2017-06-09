@@ -23,11 +23,11 @@ The [IViewsCollection](/patterns-practices/reference/iviewscollection-interface-
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms653382">CollectionChanged</a></td>
+<td>[CollectionChanged](http://msdn.microsoft.com/en-us/library/ms653382)</td>
 <td><div class="summary">
 Occurs when the collection changes.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms668629">INotifyCollectionChanged</a>.)</td>
+(Inherited from [INotifyCollectionChanged](http://msdn.microsoft.com/en-us/library/ms668629).)</td>
 </tr>
 </tbody>
 </table>

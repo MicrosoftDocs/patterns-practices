@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.Add(\`0)'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-add-method-tkey-mspp.md'
 ---
 
-
 # ListDictionary&lt;TKey, TValue&gt;.Add Method (TKey)
 
 If a list does not already exist, it will be created automatically.
@@ -17,11 +16,11 @@ If a list does not already exist, it will be created automatically.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-~~~C#
+```C#
 public void Add(
 	TKey key
 )
-~~~
+```
 
 ### Parameters
 
@@ -50,12 +49,12 @@ If a list does not already exist, it will be created automatically.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-~~~VB
+```VB
 'Declaration
 Public Sub Add ( 
 	key As TKey
 )
-~~~
+```
 
 ### Parameters
 

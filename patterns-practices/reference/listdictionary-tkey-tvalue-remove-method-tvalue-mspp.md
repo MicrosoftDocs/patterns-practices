@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.Remove(\`1)'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-remove-method-tvalue-mspp.md'
 ---
 
-
 # ListDictionary&lt;TKey, TValue&gt;.Remove Method (TValue)
 
 Removes a value from all lists where it may be found.
@@ -18,11 +17,11 @@ Removes a value from all lists where it may be found.
 
 ## Syntax
 
-~~~C#
+```C#
 public void Remove(
 	TValue value
 )
-~~~
+```
 
 ### Parameters
 
@@ -52,12 +51,12 @@ Removes a value from all lists where it may be found.
 
 ## Syntax
 
-~~~VB
+```VB
 'Declaration
 Public Sub Remove ( 
 	value As TValue
 )
-~~~
+```
 
 ### Parameters
 

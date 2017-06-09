@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Logging.TextLogger.Log(System.String,Mi
 ms:mtpsurl: 'textlogger-log-method-mspp-logging.md'
 ---
 
-
 # TextLogger.Log Method
 
 Write a new log entry with the specified category and priority.
@@ -17,21 +16,23 @@ Write a new log entry with the specified category and priority.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-~~~C#
+
+```C#
 public void Log(
 	string message,
 	Category category,
 	Priority priority
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Sub Log ( 
 	message As String,
 	category As Category,
 	priority As Priority
 )
-~~~
+```
+
 ### Parameters
 
 _message_  

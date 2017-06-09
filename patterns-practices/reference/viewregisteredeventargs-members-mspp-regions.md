@@ -7,7 +7,7 @@ ms:mtpsurl: 'viewregisteredeventargs-members-mspp-regions.md'
 
 # ViewRegisteredEventArgs Members
 
-The [ViewRegisteredEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs) type exposes the following members.
+The [ViewRegisteredEventArgs](/patterns-practices/reference/viewregisteredeventargs-class-mspp-regions) type exposes the following members.
 
 ## Constructors
 
@@ -23,7 +23,7 @@ The [ViewRegisteredEventArgs](https://msdn.microsoft.com/library/microsoft.pract
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs.">ViewRegisteredEventArgs</a></td>
+<td>ViewRegisteredEventArgs</td>
 <td><div class="summary">
 Initializes the ViewRegisteredEventArgs class.
 </div></td>
@@ -71,7 +71,7 @@ Serves as a hash function for a particular type.
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)</td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
+Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
 </div>
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
@@ -108,14 +108,14 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs.getview">GetView</a></td>
+<td>[GetView](/patterns-practices/reference/viewregisteredeventargs-getview-property-mspp-regions)</td>
 <td><div class="summary">
 Gets the content which was registered.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs.regionname">RegionName</a></td>
+<td>[RegionName](/patterns-practices/reference/viewregisteredeventargs-regionname-property-mspp-regions)</td>
 <td><div class="summary">
 Gets the region name to which the content was registered.
 </div></td>
@@ -124,6 +124,6 @@ Gets the region name to which the content was registered.
 </table>
 
 ## See Also
-[ViewRegisteredEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs)
+[ViewRegisteredEventArgs Class](/patterns-practices/reference/viewregisteredeventargs-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

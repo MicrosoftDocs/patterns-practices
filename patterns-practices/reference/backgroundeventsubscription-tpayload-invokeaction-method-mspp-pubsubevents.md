@@ -75,23 +75,20 @@ Public Overrides Sub InvokeAction (
 
 *action*  
 
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](https://review.docs.microsoft.com/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents
-))
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [TPayload](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents))
 
 
 The action to execute.
 
 *argument*  
 
-Type: [TPayload](https://review.docs.microsoft.com/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents
-)
+Type: [TPayload](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)
 
 The payload to pass action while invoking it.
 
 ## See Also
 
-[BackgroundEventSubscription<(Of TPayload>)>) Class](https://review.docs.microsoft.com/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents
-)
+[BackgroundEventSubscription(Of TPayload) Class](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)
 
 BackgroundEventSubscription(Of TPayload) Members
 

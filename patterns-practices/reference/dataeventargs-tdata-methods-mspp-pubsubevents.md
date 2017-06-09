@@ -8,7 +8,7 @@ ms:mtpsurl: 'dataeventargs-tdata-methods-mspp-pubsubevents.md'
 
 # DataEventArgs(Of TData) Methods
 
-The [DataEventArgs(Of TData)](/patterns-practices/reference/mspp-mvvm-namespace.dataeventargs%601) type exposes the following members.
+The [DataEventArgs(Of TData)](/patterns-practices/reference/mspp-mvvm-namespace.dataeventargs) type exposes the following members.
 
 ## Methods
 
@@ -23,9 +23,6 @@ The [DataEventArgs(Of TData)](/patterns-practices/reference/mspp-mvvm-namespace.
 <tbody>
 <tr class="odd">
 
-<td>![Public method](/images/public-method.gif)</td>
-<td>[Equals](http://msdn.microsoft.com/en-us/library/bsc2ak47)</td>
-
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/bsc2ak47">Equals</a></td>
 
@@ -35,9 +32,6 @@ Determines whether the specified [Object](http://msdn.microsoft.com/en-us/librar
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-
-<td>![Protected method](/images/protmethod.gif)</td>
-<td>[Finalize](http://msdn.microsoft.com/en-us/library/4k87zsw7)</td>
 
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/4k87zsw7">Finalize</a></td>
@@ -49,9 +43,6 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="odd">
 
-<td>![Public method](/images/public-method.gif)</td>
-<td>[GetHashCode](http://msdn.microsoft.com/en-us/library/zdee4b3y)</td>
-
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/zdee4b3y">GetHashCode</a></td>
 
@@ -61,9 +52,6 @@ Serves as a hash function for a particular type.
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
-
-<td>![Public method](/images/public-method.gif)</td>
-<td>[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)</td>
 
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/dfwy45w9">GetType</a></td>
@@ -75,9 +63,6 @@ Gets the [Type]("http://msdn.microsoft.com/en-us/library/42892f65) of the curren
 </tr>
 <tr class="odd">
 
-<td>![Protected method](/images/protmethod.gif)</td>
-<td>[MemberwiseClone](http://msdn.microsoft.com/en-us/library/e5kfa45b)<a href=""></a></td>
-
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/57ctke0a">MemberwiseClone</a></td>
 
@@ -87,9 +72,6 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
-
-<td>![Public method](/images/public-method.gif)</td>
-<td>[ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)</td>
 
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">ToString</a></td>
@@ -104,6 +86,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[DataEventArgs(Of TData) Class](/patterns-practices/reference/mspp-mvvm-namespace.dataeventargs%601)
+[DataEventArgs(Of TData) Class](/patterns-practices/reference/mspp-mvvm-namespace.dataeventargs)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

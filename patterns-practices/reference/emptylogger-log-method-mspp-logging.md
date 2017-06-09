@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Logging.EmptyLogger.Log(System.String,M
 ms:mtpsurl: 'emptylogger-log-method-mspp-logging.md'
 ---
 
-
 # EmptyLogger.Log Method
 
 This method does nothing.
@@ -17,21 +16,23 @@ This method does nothing.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-~~~C#
+
+```C#
 public void Log(
 	string message,
 	Category category,
 	Priority priority
 )
-~~~
-~~~VB
+```
+
+```VB
 'Declaration
 Public Sub Log ( 
 	message As String,
 	category As Category,
 	priority As Priority
 )
-~~~
+```
 
 ### Parameters
 

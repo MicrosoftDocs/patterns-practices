@@ -4,14 +4,15 @@ Title: 'IInteractionRequestAware Properties (Microsoft.Practices.Prism.Interacti
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.IInteractionRequestAware'
 ms:mtpsurl: 'iinteractionrequestaware-properties-mspp-interactivity-interactionrequest.md'
 ---
-
+
+
 # IInteractionRequestAware Properties
 
 The [IInteractionRequestAware](/patterns-practices/reference/iinteractionrequestaware-interface-mspp-interactivity-interactionrequest) type exposes the following members.
 
 ## Properties
 
-The [IInteractionRequestAware](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware) type exposes the following members.
+The [IInteractionRequestAware](/patterns-practices/reference/iinteractionrequestaware-interface-mspp-interactivity-interactionrequest) type exposes the following members.
 
 <table>
 <thead>
@@ -24,16 +25,18 @@ The [IInteractionRequestAware](https://msdn.microsoft.com/library/microsoft.prac
 <tbody>
 <tr class="odd">
 <td>![Public property](/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware.finishinteraction">FinishInteraction</a></td>
+<td><a href="/patterns-practices/reference/iinteractionrequestaware-finishinteraction-property-mspp-interactivity-interactionrequest">FinishInteraction</a></td>
 <td><div class="summary">
 An <a href="http://msdn.microsoft.com/en-us/library/bb534741">Action</a> that can be invoked to finish the interaction.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware.notification">Notification</a></td>
+<td><a href="/patterns-practices/reference/iinteractionrequestaware-notification-property-mspp-interactivity-interactionrequest
+">Notification</a></td>
 <td><div class="summary">
-The <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification">INotification</a> passed when the interaction request was raised.
+The <a href="/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest
+">INotification</a> passed when the interaction request was raised.
 </div></td>
 </tr>
 </tbody>

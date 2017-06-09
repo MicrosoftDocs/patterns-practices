@@ -4,16 +4,14 @@ Title: 'ViewsCollection Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.ViewsCollection'
 ms:mtpsurl: 'viewscollection-properties-mspp-regions.md'
 ---
-
+
 # ViewsCollection Properties
 
-The [ViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection) type exposes the following members.
+The [ViewsCollection](/patterns-practices/reference/viewscollection-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,7 +22,7 @@ The [ViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.pri
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection.sortcomparison">SortComparison</a></td>
+<td>[SortComparison](/patterns-practices/reference/viewscollection-sortcomparison-property-mspp-regions)</td>
 <td><div class="summary">
 Gets or sets the comparison used to sort the views.
 </div></td>
@@ -33,6 +31,7 @@ Gets or sets the comparison used to sort the views.
 </table>
 
 ## See Also
-[ViewsCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[ViewsCollection Class](/patterns-practices/reference/viewscollection-class-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

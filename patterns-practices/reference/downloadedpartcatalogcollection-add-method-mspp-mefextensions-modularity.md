@@ -7,7 +7,7 @@ ms:mtpsurl: 'downloadedpartcatalogcollection-add-method-mspp-mefextensions-modul
 
 # DownloadedPartCatalogCollection.Add Method
 
-Adds the specified catalog using the module info as a Namespacekey.
+Adds the specified catalog using the module info as a key.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](/patterns-practices/reference/mspp-mefextensions-namespace) 
 

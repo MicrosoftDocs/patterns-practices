@@ -7,7 +7,7 @@ ms:mtpsurl: 'dispatchereventsubscription-tpayload-constructor-mspp-pubsubevents.
 
 # DispatcherEventSubscription&lt;TPayload&gt; Constructor
 
-Creates a new instance of [BackgroundEventSubscription&lt;TPayload&gt;](https://msdn.microsoft.com/en-us/library/dn683933(v=pandp.50)).
+Creates a new instance of [BackgroundEventSubscription&lt;TPayload&gt;](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents).
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)
 
@@ -54,7 +54,7 @@ The synchronization context to use for UI thread dispatching.
 
 ## See Also
 
-[DispatcherEventSubscription&lt;TPayload&gt; Class](https://msdn.microsoft.com/en-us/library/dn736239(v=pandp.50))
+[DispatcherEventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-pubsubevents)
 
 DispatcherEventSubscription&lt;TPayload&gt; Members
 
@@ -63,7 +63,7 @@ DispatcherEventSubscription&lt;TPayload&gt; Members
 
 # DispatcherEventSubscription(Of TPayload) Constructor
 
-Creates a new instance of [BackgroundEventSubscription(Of TPayload)](https://msdn.microsoft.com/en-us/library/dn683933(v=pandp.50)).
+Creates a new instance of [BackgroundEventSubscription(Of TPayload)](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents).
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-mvvm-namespace)
 
@@ -109,7 +109,7 @@ The synchronization context to use for UI thread dispatching.
 
 ## See Also
 
-[DispatcherEventSubscription(Of TPayload) Class](https://msdn.microsoft.com/en-us/library/dn736239(v=pandp.50))
+[DispatcherEventSubscription(Of TPayload) Class](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-pubsubevents)
 
 DispatcherEventSubscription(Of TPayload) Members
 

@@ -7,16 +7,16 @@ ms:mtpsurl: 'clearchildviewsregionbehavior-attached-properties-mspp-regions-beha
 
 # ClearChildViewsRegionBehavior Attached Properties
 
-The [ClearChildViewsRegionBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior) type exposes the following members.
+The [ClearChildViewsRegionBehavior](/patterns-practices/reference/clearchildviewsregionbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Attached Properties
 
 |  | Name | Description |
 |---|---|---|
-|![Public attached property](/images/pubproperty.gif)|[ClearChildViews](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.clearchildviews)||
+|![Public attached property](/images/pubproperty.gif)|[ClearChildViews](/patterns-practices/reference/clearchildviewsregionbehavior-clearchildviews-attached-property-mspp-regions-behaviors)||
 
 ## See Also
 
-[ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
+[ClearChildViewsRegionBehavior Class](/patterns-practices/reference/clearchildviewsregionbehavior-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.behaviors)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

@@ -4,25 +4,57 @@ Title: 'ObservableObject(T).Value Property (Microsoft.Practices.Prism)'
 ms:assetid: 'P:Microsoft.Practices.Prism.ObservableObject\`1.Value'
 ms:mtpsurl: 'observableobject-t-value-property-mspp.md'
 ---
-
-# ObservableObject&lt;(Of &lt;(T&gt;)&gt;).Value Property
+
+
+# ObservableObject&lt;T&gt;.Value Property
 
 The value that's wrapped inside the ObservableObject.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public T Value { get; set; }Public Property Value As T Get Set
+
+```C#
+public T Value { get; set; }
+```
+
 ### Property Value
 
-Type: [T](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601)
+Type: [T](/patterns-practices/reference/observableobject-t-class-mspp)
 
 ## See Also
-[ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Class](https://msdn.microsoft.com/library/microsoft.practices.prism.observableobject%601)
 
-[ObservableObject&lt;(Of &lt;(T&gt;)&gt;) Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.observableobject%601)
+[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)  
+[ObservableObject&lt;T&gt; Members](/patterns-practices/reference/observableobject-t-members-mspp)  
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+# ObservableObject(Of T).Value Property
+
+The value that's wrapped inside the ObservableObject.
+
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
+**Version:** 5.0.0.0 (5.0.0.0)
+
+## Syntax
+
+```VB
+'Declaration
+Public Property Value As T
+	Get
+	Set
+```
+
+### Property Value
+
+Type: [T](/patterns-practices/reference/observableobject-t-class-mspp)
+
+## See Also
+
+[ObservableObject(Of T) Class](/patterns-practices/reference/observableobject-t-class-mspp)  
+[ObservableObject(Of T) Members](/patterns-practices/reference/observableobject-t-members-mspp)  
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

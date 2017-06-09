@@ -28,19 +28,12 @@ Public NotInheritable Class WeakEventHandlerManager
 
 ## Inheritance Hierarchy
 
-public static class WeakEventHandlerManagerPublic NotInheritable Class WeakEventHandlerManager
-
 [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)
 
 Microsoft.Practices.Prism.Commands.WeakEventHandlerManager
 
-<span id="familyToggle"></span>[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.Commands.WeakEventHandlerManager
-
 ## See Also
 
 [WeakEventHandlerManager Members](/patterns-practices/reference/weakeventhandlermanager-members-mspp-commands)
-
-[WeakEventHandlerManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.commands.weakeventhandlermanager)
 
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

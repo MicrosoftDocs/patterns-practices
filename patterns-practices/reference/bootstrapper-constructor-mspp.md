@@ -7,9 +7,9 @@ ms:mtpsurl: 'bootstrapper-constructor-mspp.md'
 
 # Bootstrapper Constructor
 
-Initializes a new instance of the [Bootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper) class
+Initializes a new instance of the [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp) class
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -25,8 +25,8 @@ Protected Sub New
 ```
 
 ## See Also
-[Bootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper)
+[Bootstrapper Class](/patterns-practices/reference/bootstrapper-class-mspp)
 
-[Bootstrapper Members](https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper_members)
+[Bootstrapper Members](/patterns-practices/reference/bootstrapper-members-mspp)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

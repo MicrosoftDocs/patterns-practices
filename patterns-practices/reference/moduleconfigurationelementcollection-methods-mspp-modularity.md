@@ -4,10 +4,10 @@ Title: 'ModuleConfigurationElementCollection Methods (Microsoft.Practices.Prism.
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCollection'
 ms:mtpsurl: 'moduleconfigurationelementcollection-methods-mspp-modularity.md'
 ---
-
+
 # ModuleConfigurationElementCollection Methods
 
-The [ModuleConfigurationElementCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection) type exposes the following members.
+The [ModuleConfigurationElementCollection](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -24,9 +24,9 @@ The [ModuleConfigurationElementCollection](https://msdn.microsoft.com/library/mi
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.add(microsoft.practices.prism.modularity.moduleconfigurationelement)">Add</a></td>
+<td><a href="/patterns-practices/reference/moduleconfigurationelementcollection-add-method-mspp-modularity">Add</a></td>
 <td><div class="summary">
-Adds a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a> to the collection.
+Adds a <a href="/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity">ModuleConfigurationElement</a> to the collection.
 </div></td>
 </tr>
 <tr class="even">
@@ -127,7 +127,7 @@ Removes the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">Configura
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.contains(system.string)">Contains</a></td>
+<td><a href="/patterns-practices/reference/moduleconfigurationelementcollection-contains-method-mspp-modularity">Contains</a></td>
 <td><div class="summary">
 Tests if the collection contains the configuration for the specified module name.
 </div></td>
@@ -142,11 +142,11 @@ Copies the contents of the <a href="http://msdn.microsoft.com/en-us/library/a35w
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.createnewelement">CreateNewElement()()()</a></td>
+<td><a href="/patterns-practices/reference/createnewelement-mthd">CreateNewElement()</a></td>
 <td><div class="summary">
-Creates a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a>.
+Creates a new <a href="/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity">ModuleConfigurationElement</a>.
 </div>
-(Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection.CreateNewElement()()()</a>.)</td>
+(Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection.CreateNewElement()</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -182,14 +182,14 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.findall(system.predicate%7bmicrosoft.practices.prism.modularity.moduleconfigurationelement%7d)">FindAll</a></td>
+<td><a href="/patterns-practices/reference/moduleconfigurationelementcollection-findall-method-mspp-modularity">FindAll</a></td>
 <td><div class="summary">
-Searches the collection for all the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement">ModuleConfigurationElement</a> that match the specified predicate.
+Searches the collection for all the <a href="/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity">ModuleConfigurationElement</a> that match the specified predicate.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection.getelementkey(system.configuration.configurationelement)">GetElementKey</a></td>
+<td><a href="/patterns-practices/reference/moduleconfigurationelementcollection-getelementkey-method-mspp-modularity">GetElementKey</a></td>
 <td><div class="summary">
 Gets the element key for a specified configuration element when overridden in a derived class.
 </div>
@@ -351,7 +351,7 @@ Resets the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">Configurat
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/5t09d48z">ResetModified</a></td>
 <td><div class="summary">
-Resets the value of the <a href="http://msdn.microsoft.com/en-us/library/sdfx3fsd">IsModified()()()</a> property to false when overridden in a derived class.
+Resets the value of the <a href="http://msdn.microsoft.com/en-us/library/sdfx3fsd">IsModified()</a> property to false when overridden in a derived class.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
 </tr>
@@ -383,7 +383,7 @@ Sets a property to the specified value.
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms134164">SetReadOnly</a></td>
 <td><div class="summary">
-Sets the <a href="http://msdn.microsoft.com/en-us/library/ms134160">IsReadOnly()()()</a> property for the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a> object and for all sub-elements.
+Sets the <a href="http://msdn.microsoft.com/en-us/library/ms134160">IsReadOnly()</a> property for the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a> object and for all sub-elements.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
 </tr>
@@ -407,6 +407,7 @@ Reverses the effect of merging configuration information from different levels o
 </table>
 
 ## See Also
-[ModuleConfigurationElementCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelementcollection)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleConfigurationElementCollection Class](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
