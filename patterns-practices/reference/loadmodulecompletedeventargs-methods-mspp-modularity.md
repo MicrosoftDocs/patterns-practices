@@ -4,10 +4,10 @@ Title: 'LoadModuleCompletedEventArgs Methods (Microsoft.Practices.Prism.Modulari
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.LoadModuleCompletedEventArgs'
 ms:mtpsurl: 'loadmodulecompletedeventargs-methods-mspp-modularity.md'
 ---
-
+
 # LoadModuleCompletedEventArgs Methods
 
-The [LoadModuleCompletedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs) type exposes the following members.
+The [LoadModuleCompletedEventArgs](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -74,6 +74,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[LoadModuleCompletedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.loadmodulecompletedeventargs)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[LoadModuleCompletedEventArgs Class](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
