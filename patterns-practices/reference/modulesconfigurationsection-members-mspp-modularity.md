@@ -4,10 +4,11 @@ Title: 'ModulesConfigurationSection Members (Microsoft.Practices.Prism.Modularit
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Modularity.ModulesConfigurationSection'
 ms:mtpsurl: 'modulesconfigurationsection-members-mspp-modularity.md'
 ---
-
+
+
 # ModulesConfigurationSection Members
 
-The [ModulesConfigurationSection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection) type exposes the following members.
+The [ModulesConfigurationSection](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity) type exposes the following members.
 
 ## Constructors
 
@@ -16,7 +17,7 @@ The [ModulesConfigurationSection](https://msdn.microsoft.com/library/microsoft.p
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -24,9 +25,9 @@ The [ModulesConfigurationSection](https://msdn.microsoft.com/library/microsoft.p
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection.">ModulesConfigurationSection</a></td>
+<td>ModulesConfigurationSection</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection">ModulesConfigurationSection</a> class
+Initializes a new instance of the <a href="/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity">ModulesConfigurationSection</a> class
 </div></td>
 </tr>
 </tbody>
@@ -39,7 +40,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -217,7 +218,7 @@ Resets the internal state of the <a href="http://msdn.microsoft.com/en-us/librar
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/43904a29">ResetModified</a></td>
 <td><div class="summary">
-Resets the value of the <a href="http://msdn.microsoft.com/en-us/library/cc19b3s9">IsModified()()()</a> method to false when implemented in a derived class.
+Resets the value of the <a href="http://msdn.microsoft.com/en-us/library/cc19b3s9">IsModified()</a> method to false when implemented in a derived class.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/x0kca287">ConfigurationSection</a>.)</td>
 </tr>
@@ -257,7 +258,7 @@ Sets a property to the specified value.
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms134139">SetReadOnly</a></td>
 <td><div class="summary">
-Sets the <a href="http://msdn.microsoft.com/en-us/library/ms134129">IsReadOnly()()()</a> property for the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> object and all subelements.
+Sets the <a href="http://msdn.microsoft.com/en-us/library/ms134129">IsReadOnly()</a> property for the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> object and all subelements.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
 </tr>
@@ -311,7 +312,7 @@ Modifies the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">Configur
 
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -359,7 +360,7 @@ Gets a value that indicates whether the <a href="http://msdn.microsoft.com/en-us
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/es150ftc">Item[([(ConfigurationProperty])])</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/es150ftc">Item[ConfigurationProperty]</a></td>
 <td><div class="summary">
 Gets or sets a property or attribute of this configuration element.
 </div>
@@ -367,7 +368,7 @@ Gets or sets a property or attribute of this configuration element.
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/c8693ks1">Item[([(String])])</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/c8693ks1">Item[String]</a></td>
 <td><div class="summary">
 Gets or sets a property, attribute, or child element of this configuration element.
 </div>
@@ -415,7 +416,7 @@ Gets or sets a value indicating whether the element is locked.
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection.modules">Modules</a></td>
+<td><a href="/patterns-practices/reference/modulesconfigurationsection-modules-property-mspp-modularity">Modules</a></td>
 <td><div class="summary">
 Gets or sets the collection of modules configuration.
 </div></td>
@@ -440,6 +441,7 @@ Gets a <a href="http://msdn.microsoft.com/en-us/library/ms134738">SectionInforma
 </table>
 
 ## See Also
-[ModulesConfigurationSection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulesconfigurationsection)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModulesConfigurationSection Class](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
