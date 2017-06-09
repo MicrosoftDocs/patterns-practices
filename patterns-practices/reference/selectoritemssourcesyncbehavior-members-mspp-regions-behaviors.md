@@ -98,7 +98,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td><a href="/patterns-practices/reference/regionmanagerregistrationbehavior-onattach-method-mspp-regions-behaviors">OnAttach</a></td>
 <td><div class="summary">
-Starts to monitor the <a href="/patterns-practices/reference/iregion-interface-mspp-regions">IRegion</a> to keep it in synch with the items of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior.hostcontrol">HostControl</a>.
+Starts to monitor the <a href="/patterns-practices/reference/iregion-interface-mspp-regions">IRegion</a> to keep it in synch with the items of the <a href="/patterns-practices/reference/regionmanagerregistrationbehavior-hostcontrol-property-mspp-regions-behaviors">HostControl</a>.
 </div>
 (Overrides <a href="/patterns-practices/reference/regionbehavior-onattach-method-mspp-regions">RegionBehavior.OnAttach()</a>.)</td>
 </tr>
