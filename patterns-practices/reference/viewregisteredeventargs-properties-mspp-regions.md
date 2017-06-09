@@ -22,14 +22,14 @@ The [ViewRegisteredEventArgs](/patterns-practices/reference/viewregisteredeventa
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[GetView](/patterns-practices/reference/viewregisteredeventargs-class-mspp-regions.getview)</td>
+<td>[GetView](/patterns-practices/reference/viewregisteredeventargs-getview-property-mspp-regions)</td>
 <td><div class="summary">
 Gets the content which was registered.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[RegionName](/patterns-practices/reference/viewregisteredeventargs-class-mspp-regions.regionname)</td>
+<td>[RegionName](/patterns-practices/reference/viewregisteredeventargs-regionname-property-mspp-regions)</td>
 <td><div class="summary">
 Gets the region name to which the content was registered.
 </div></td>

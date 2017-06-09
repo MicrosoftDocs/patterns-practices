@@ -7,7 +7,7 @@ ms:mtpsurl: 'regionnavigationcontentloader-methods-mspp-regions.md'
 
 # RegionNavigationContentLoader Methods
 
-The [RegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader) type exposes the following members.
+The [RegionNavigationContentLoader](/patterns-practices/reference/regionnavigationcontentloader-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -22,7 +22,7 @@ The [RegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[CreateNewRegionItem](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader.createnewregionitem(system.string))</td>
+<td>[CreateNewRegionItem](/patterns-practices/reference/regionnavigationcontentloader-createnewregionitem-method-mspp-regions)</td>
 <td><div class="summary">
 Provides a new item for the region based on the supplied candidate target contract name.
 </div></td>
@@ -45,16 +45,16 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[GetCandidatesFromRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader.getcandidatesfromregion(microsoft.practices.prism.regions.iregion%2csystem.string))</td>
+<td>[GetCandidatesFromRegion](/patterns-practices/reference/regionnavigationcontentloader-getcandidatesfromregion-method-mspp-regions)</td>
 <td><div class="summary">
 Returns the set of candidates that may satisfiy this navigation request.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[GetContractFromNavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader.getcontractfromnavigationcontext(microsoft.practices.prism.regions.navigationcontext))</td>
+<td>[GetContractFromNavigationContext](/patterns-practices/reference/regionnavigationcontentloader-getcontractfromnavigationcontext-method-mspp-regions)</td>
 <td><div class="summary">
-Returns the candidate TargetContract based on the [NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext).
+Returns the candidate TargetContract based on the [NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions).
 </div></td>
 </tr>
 <tr class="even">
@@ -75,7 +75,7 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[LoadContent](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader.loadcontent(microsoft.practices.prism.regions.iregion%2cmicrosoft.practices.prism.regions.navigationcontext))</td>
+<td>[LoadContent](/patterns-practices/reference/regionnavigationcontentloader-loadcontent-method-mspp-regions)</td>
 <td><div class="summary">
 Gets the view to which the navigation request represented by navigationContext applies.
 </div></td>
@@ -101,6 +101,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[RegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader)
+[RegionNavigationContentLoader Class](/patterns-practices/reference/regionnavigationcontentloader-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

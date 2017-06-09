@@ -7,7 +7,7 @@ ms:mtpsurl: 'regionmemberlifetimeattribute-methods-mspp-regions.md'
 
 # RegionMemberLifetimeAttribute Methods
 
-The [RegionMemberLifetimeAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute) type exposes the following members.
+The [RegionMemberLifetimeAttribute](/patterns-practices/reference/regionmemberlifetimeattribute-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -73,6 +73,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[RegionMemberLifetimeAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmemberlifetimeattribute)
+[RegionMemberLifetimeAttribute Class](/patterns-practices/reference/regionmemberlifetimeattribute-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
