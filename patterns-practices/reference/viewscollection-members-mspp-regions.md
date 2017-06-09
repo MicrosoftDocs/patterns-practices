@@ -7,7 +7,7 @@ ms:mtpsurl: 'viewscollection-members-mspp-regions.md'
 
 # ViewsCollection Members
 
-The [ViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection) type exposes the following members.
+The [ViewsCollection](/patterns-practices/reference/viewscollection-class-mspp-regions) type exposes the following members.
 
 ## Constructors
 
@@ -23,9 +23,9 @@ The [ViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.pri
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection.">ViewsCollection</a></td>
+<td>ViewsCollection</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection">ViewsCollection</a> class.
+Initializes a new instance of the [ViewsCollection](/patterns-practices/reference/viewscollection-class-mspp-regions) class.
 </div></td>
 </tr>
 </tbody>
@@ -45,7 +45,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection.contains(system.object)">Contains</a></td>
+<td>[Contains](/patterns-practices/reference/viewscollection-contains-method-mspp-regions)</td>
 <td><div class="summary">
 Determines whether the collection contains a specific value.
 </div></td>
@@ -68,7 +68,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection.getenumerator">GetEnumerator</a></td>
+<td>[GetEnumerator](/patterns-practices/reference/viewscollection-getenumerator-method-mspp-regions)</td>
 <td><div class="summary">
 Returns an enumerator that iterates through the collection.
 </div></td>
@@ -85,7 +85,7 @@ Serves as a hash function for a particular type.
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)</td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
+Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
 </div>
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
@@ -122,7 +122,7 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection.sortcomparison">SortComparison</a></td>
+<td>[SortComparison](/patterns-practices/reference/viewscollection-sortcomparison-property-mspp-regions)</td>
 <td><div class="summary">
 Gets or sets the comparison used to sort the views.
 </div></td>
@@ -144,7 +144,7 @@ Gets or sets the comparison used to sort the views.
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection.collectionchanged">CollectionChanged</a></td>
+<td>[CollectionChanged](/patterns-practices/reference/viewscollection-collectionchanged-event-mspp-regions)</td>
 <td><div class="summary">
 Occurs when the collection changes.
 </div></td>
@@ -153,6 +153,6 @@ Occurs when the collection changes.
 </table>
 
 ## See Also
-[ViewsCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewscollection)
+[ViewsCollection Class](/patterns-practices/reference/viewscollection-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
