@@ -4,26 +4,37 @@ Title: 'IRegionNavigationJournalEntry.Uri Property (Microsoft.Practices.Prism.Re
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry.Uri'
 ms:mtpsurl: 'iregionnavigationjournalentry-uri-property-mspp-regions.md'
 ---
-
+
+
 # IRegionNavigationJournalEntry.Uri Property
 
 Gets or sets the URI.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-Uri Uri { get; set; }Property Uri As Uri Get Set
+
+```C#
+Uri Uri { get; set; }
+```
+
+```VB
+'Declaration
+Property Uri As Uri
+	Get
+	Set
+```
+
 ### Property Value
 
-Type: [Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
+Type: [Uri](http://msdn.microsoft.com/en-us/library/txt7706a)  
 The URI.
 
 ## See Also
-[IRegionNavigationJournalEntry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry)
 
-[IRegionNavigationJournalEntry Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionnavigationjournalentry)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[IRegionNavigationJournalEntry Interface](/patterns-practices/reference/iregionnavigationjournalentry-interface-mspp-regions)  
+[IRegionNavigationJournalEntry Members](/patterns-practices/reference/iregionnavigationjournalentry-members-mspp-regions)  
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

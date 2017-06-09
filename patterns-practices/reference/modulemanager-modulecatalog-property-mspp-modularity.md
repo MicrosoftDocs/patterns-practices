@@ -4,25 +4,35 @@ Title: 'ModuleManager.ModuleCatalog Property (Microsoft.Practices.Prism.Modulari
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleManager.ModuleCatalog'
 ms:mtpsurl: 'modulemanager-modulecatalog-property-mspp-modularity.md'
 ---
-
 # ModuleManager.ModuleCatalog Property
 
 The module catalog specified in the constructor.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-protected IModuleCatalog ModuleCatalog { get; }Protected ReadOnly Property ModuleCatalog As IModuleCatalog Get
+
+```C#
+protected IModuleCatalog ModuleCatalog { get; }
+```
+
+```VB
+'Declaration
+Protected ReadOnly Property ModuleCatalog As IModuleCatalog
+	Get
+```
+
 ### Property Value
 
-Type: [IModuleCatalog](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog)
+Type: [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity)
 
 ## See Also
-[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
 
-[ModuleManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.modulemanager)
+[ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)  
+[ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+
