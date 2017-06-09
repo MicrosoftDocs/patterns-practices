@@ -4,7 +4,8 @@ Title: 'IInteractionRequest.Raised Event (Microsoft.Practices.Prism.Interactivit
 ms:assetid: 'E:Microsoft.Practices.Prism.Interactivity.InteractionRequest.IInteractionRequest.Raised'
 ms:mtpsurl: 'iinteractionrequest-raised-event-mspp-interactivity-interactionrequest.md'
 ---
-
+
+
 # IInteractionRequest.Raised Event
 
 Fired when the interaction is needed.
@@ -21,6 +22,10 @@ Fired when the interaction is needed.
 event EventHandler<InteractionRequestedEventArgs> Raised
 ```
 
+### Value
+
+Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[InteractionRequestedEventArgs](/patterns-practices/reference/interactionrequestedeventargs-class-mspp-interactivity-interactionrequest)&gt;
+
 ```VB
 'Declaration
 Event Raised As EventHandler(Of InteractionRequestedEventArgs)
@@ -31,7 +36,8 @@ Event Raised As EventHandler(Of InteractionRequestedEventArgs)
 Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of [InteractionRequestedEventArgs](/patterns-practices/reference/interactionrequestedeventargs-class-mspp-interactivity-interactionrequest))
 
 ## See Also
-[IInteractionRequest Interface](/patterns-practices/reference/iinteractionrequest-interface-mspp-interactivity-interactionrequest)
+
+[IInteractionRequest Interface](/patterns-practices/reference/iinteractionrequest-interface-mspp-interactivity-interactionrequest)
 
 [IInteractionRequest Members](/patterns-practices/reference/iinteractionrequest-members-mspp-interactivity-interactionrequest)
 

@@ -4,30 +4,46 @@ Title: 'NotificationObject.RaisePropertyChanged Method (String) (Microsoft.Pract
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.NotificationObject.RaisePropertyChanged(System.String)'
 ms:mtpsurl: 'notificationobject-raisepropertychanged-method-mspp-viewmodel.md'
 ---
-
+
+
 # NotificationObject.RaisePropertyChanged Method (String)
 
 Raises this object's PropertyChanged event.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](/patterns-practices/reference/mspp-viewmodel-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-protected virtual void RaisePropertyChanged( string propertyName )Protected Overridable Sub RaisePropertyChanged ( propertyName As String )
+
+```C#
+protected virtual void RaisePropertyChanged(
+	string propertyName
+)
+```
+```VB
+'Declaration
+Protected Overridable Sub RaisePropertyChanged ( 
+	propertyName As String
+)
+```
 
 ### Parameters
 
-propertyName  
+*propertyName*
+
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+
 The property that has a new value.
 
 ## See Also
-[NotificationObject Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject)
 
-[NotificationObject Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.viewmodel.notificationobject)
+[NotificationObject Class](/patterns-practices/reference/notificationobject-class-mspp-viewmodel)
 
-[RaisePropertyChanged Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.viewmodel.notificationobject.raisepropertychanged)
+[NotificationObject Members](/patterns-practices/reference/notificationobject-members-mspp-viewmodel)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
+[RaisePropertyChanged Overload](/patterns-practices/reference/notificationobject-raisepropertychanged-method-mspp-viewmodel)
+
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)

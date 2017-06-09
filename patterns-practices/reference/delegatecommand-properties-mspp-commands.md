@@ -4,7 +4,8 @@ Title: 'DelegateCommand Properties (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Commands.DelegateCommand'
 ms:mtpsurl: 'delegatecommand-properties-mspp-commands.md'
 ---
-
+
+
 # DelegateCommand Properties
 
 The [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) type exposes the following members.
@@ -23,16 +24,17 @@ The [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-c
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase.isactive">IsActive</a></td>
+<td>[IsActive](/patterns-practices/reference/delegatecommandbase-isactive-property-mspp-commands)</td>
 <td><div class="summary">
 Gets or sets a value indicating whether the object is active.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase">DelegateCommandBase</a>.)</td>
+(Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)
+
+[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)
 
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

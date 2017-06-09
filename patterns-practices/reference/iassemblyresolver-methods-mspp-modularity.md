@@ -4,7 +4,8 @@ Title: 'IAssemblyResolver Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.IAssemblyResolver'
 ms:mtpsurl: 'iassemblyresolver-methods-mspp-modularity.md'
 ---
-
+
+
 # IAssemblyResolver Methods
 
 The [IAssemblyResolver](/patterns-practices/reference/iassemblyresolver-interface-mspp-modularity) type exposes the following members.
@@ -23,7 +24,7 @@ The [IAssemblyResolver](/patterns-practices/reference/iassemblyresolver-interfac
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.iassemblyresolver.loadassemblyfrom(system.string)">LoadAssemblyFrom</a></td>
+<td>[LoadAssemblyFrom](/patterns-practices/reference/iassemblyresolver-loadassemblyfrom-method-mspp-modularity)</td>
 <td><div class="summary">
 Load an assembly when it's required by the application.
 </div></td>
