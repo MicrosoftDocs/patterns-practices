@@ -23,14 +23,14 @@ The [RegionNavigationJournalEntry](/patterns-practices/reference/regionnavigatio
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.parameters">Parameters</a></td>
+<td>[Parameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.parameters)</td>
 <td><div class="summary">
 Gets or sets the NavigationParameters instance.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.uri">Uri</a></td>
+<td>[Uri](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.uri)</td>
 <td><div class="summary">
 Gets or sets the URI.
 </div></td>

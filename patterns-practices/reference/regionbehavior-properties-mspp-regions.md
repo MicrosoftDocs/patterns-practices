@@ -24,14 +24,14 @@ The [RegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.pris
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.isattached">IsAttached</a></td>
+<td>[IsAttached](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.isattached)</td>
 <td><div class="summary">
 Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.region">Region</a></td>
+<td>[Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.region)</td>
 <td><div class="summary">
 Behavior's attached region.
 </div></td>

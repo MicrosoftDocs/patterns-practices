@@ -4,10 +4,11 @@ Title: 'PropertySupport Methods (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.ViewModel.PropertySupport'
 ms:mtpsurl: 'propertysupport-methods-mspp-viewmodel.md'
 ---
-
+
+
 # PropertySupport Methods
 
-The [PropertySupport](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.propertysupport) type exposes the following members.
+The [PropertySupport](/patterns-practices/reference/propertysupport-class-mspp-viewmodel) type exposes the following members.
 
 ## Methods
 
@@ -24,7 +25,7 @@ The [PropertySupport](https://msdn.microsoft.com/library/microsoft.practices.pri
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.propertysupport.extractpropertyname%60%601(system.linq.expressions.expression%7bsystem.func%7b%60%600%7d%7d)">ExtractPropertyName&lt;(Of &lt;(T&gt;)&gt;)</a></td>
+<td>[ExtractPropertyName&lt;T&gt;](/patterns-practices/reference/propertysupport-extractpropertyname-t-method-mspp-viewmodel)</td>
 <td><div class="summary">
 Extracts the property name from a property expression.
 </div></td>
@@ -33,6 +34,7 @@ Extracts the property name from a property expression.
 </table>
 
 ## See Also
-[PropertySupport Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.propertysupport)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
+[PropertySupport Class](/patterns-practices/reference/propertysupport-class-mspp-viewmodel)
+
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)

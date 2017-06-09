@@ -10,7 +10,7 @@ ms:mtpsurl: 'region-propertychanged-event-mspp-regions.md'
 
 Occurs when a property value changes.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -36,8 +36,8 @@ Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn.microsoft.
 
 ## See Also
 
-[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
+[Region Class](/patterns-practices/reference/region-class-mspp-regions)
 
-[Region Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region_members)
+[Region Members](/patterns-practices/reference/region-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

@@ -10,7 +10,7 @@ ms:mtpsurl: 'notificationobject-propertychanged-event-mspp-viewmodel.md'
 
 Raised when a property on this object has a new value.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](/patterns-practices/reference/mspp-viewmodel-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -36,8 +36,8 @@ Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn.microsoft.
 
 ## See Also
 
-[NotificationObject Class](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.notificationobject)
+[NotificationObject Class](/patterns-practices/reference/notificationobject-class-mspp-viewmodel)
 
-[NotificationObject Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel.notificationobject_members)
+[NotificationObject Members](/patterns-practices/reference/notificationobject-members-mspp-viewmodel)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel)
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)

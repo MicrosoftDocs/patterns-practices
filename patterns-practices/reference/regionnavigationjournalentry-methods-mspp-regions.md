@@ -7,7 +7,7 @@ ms:mtpsurl: 'regionnavigationjournalentry-methods-mspp-regions.md'
 
 # RegionNavigationJournalEntry Methods
 
-The [RegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry) type exposes the following members.
+The [RegionNavigationJournalEntry](/patterns-practices/reference/regionnavigationjournalentry-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -62,17 +62,17 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[ToString](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.tostring)</td>
+<td>[ToString](/patterns-practices/reference/regionnavigationjournalentry-tostring-method-mspp-regions)</td>
 <td><div class="summary">
 Returns a [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf) that represents this instance.
 </div>
-(Overrides [Object.ToString()](http://msdn.microsoft.com/en-us/library/7bxwbwt2).)</td>
+(Overrides [Object.ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2).)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[RegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry)
+[RegionNavigationJournalEntry Class](/patterns-practices/reference/regionnavigationjournalentry-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

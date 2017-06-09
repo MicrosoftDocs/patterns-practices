@@ -24,14 +24,14 @@ The [RegionNavigationEventArgs](https://msdn.microsoft.com/library/microsoft.pra
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs.navigationcontext">NavigationContext</a></td>
+<td>[NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs.navigationcontext)</td>
 <td><div class="summary">
 Gets the navigation context.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs.uri">Uri</a></td>
+<td>[Uri](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationeventargs.uri)</td>
 <td><div class="summary">
 Gets the navigation URI
 </div></td>
