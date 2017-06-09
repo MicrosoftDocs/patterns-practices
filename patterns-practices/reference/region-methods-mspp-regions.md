@@ -143,7 +143,6 @@ Returns a string that represents the current object.
 
 ## Extension Methods
 
-
 <table>
 <thead>
 <tr class="header">
