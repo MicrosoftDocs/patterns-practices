@@ -4,10 +4,11 @@ Title: 'BindRegionContextToDependencyObjectBehavior Members (Microsoft.Practices
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior'
 ms:mtpsurl: 'bindregioncontexttodependencyobjectbehavior-members-mspp-regions-behaviors.md'
 ---
-
+
+
 # BindRegionContextToDependencyObjectBehavior Members
 
-The [BindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior) type exposes the following members.
+The [BindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-modularity) type exposes the following members.
 
 ## Constructors
 
@@ -24,9 +25,9 @@ The [BindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/lib
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior.">BindRegionContextToDependencyObjectBehavior</a></td>
+<td>BindRegionContextToDependencyObjectBehavior</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior">BindRegionContextToDependencyObjectBehavior</a> class
+Initializes a new instance of the <a href="/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-modularity">BindRegionContextToDependencyObjectBehavior</a> class
 </div></td>
 </tr>
 </tbody>
@@ -47,7 +48,7 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior.attach">Attach</a></td>
+<td><a href="/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-attach-method-mspp-regions-behaviors">Attach</a></td>
 <td><div class="summary">
 Attaches the behavior to the specified region.
 </div></td>
@@ -118,7 +119,7 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior.behaviorkey">BehaviorKey</a></td>
+<td><a href="/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-behaviorkey-field-mspp-regions-behaviors">BehaviorKey</a></td>
 <td><div class="summary">
 The key of this behavior.
 </div></td>
@@ -141,7 +142,7 @@ The key of this behavior.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior.region">Region</a></td>
+<td><a href="/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-region-property-mspp-regions-behaviors">Region</a></td>
 <td><div class="summary">
 Behavior's attached region.
 </div></td>
@@ -150,6 +151,7 @@ Behavior's attached region.
 </table>
 
 ## See Also
-[BindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+[BindRegionContextToDependencyObjectBehavior Class](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
