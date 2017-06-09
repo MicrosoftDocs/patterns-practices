@@ -4,10 +4,10 @@ Title: 'ModuleManager Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleManager'
 ms:mtpsurl: 'modulemanager-methods-mspp-modularity.md'
 ---
-
+
 # ModuleManager Methods
 
-The [ModuleManager](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager) type exposes the following members.
+The [ModuleManager](/patterns-practices/reference/modulemanager-class-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -24,16 +24,16 @@ The [ModuleManager](https://msdn.microsoft.com/library/microsoft.practices.prism
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.dispose">Dispose()()()</a></td>
+<td><a href="/patterns-practices/reference/modulemanager-dispose-method-mspp-modularity">Dispose()</a></td>
 <td><div class="summary">
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.dispose(system.boolean)">Dispose(Boolean)</a></td>
+<td><a href="/patterns-practices/reference/modulemanager-dispose-method-boolean-mspp-modularity">Dispose(Boolean)</a></td>
 <td><div class="summary">
-Disposes the associated <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader">IModuleTypeLoader</a>s.
+Disposes the associated <a href="/patterns-practices/reference/imoduletypeloader-interface-mspp-modularity">IModuleTypeLoader</a>s.
 </div></td>
 </tr>
 <tr class="odd">
@@ -70,21 +70,21 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.handlemoduletypeloadingerror(microsoft.practices.prism.modularity.moduleinfo%2csystem.exception)">HandleModuleTypeLoadingError</a></td>
+<td><a href="/patterns-practices/reference/modulemanager-handlemoduletypeloadingerror-method-mspp-modularity">HandleModuleTypeLoadingError</a></td>
 <td><div class="summary">
-Handles any exception occurred in the module typeloading process, logs the error using the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a> and throws a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduletypeloadingexception">ModuleTypeLoadingException</a>. This method can be overridden to provide a different behavior.
+Handles any exception occurred in the module typeloading process, logs the error using the <a href="/patterns-practices/reference/iloggerfacade-interface-mspp-logging">ILoggerFacade</a> and throws a <a href="/patterns-practices/reference/moduletypeloadingexception-class-mspp-modularity">ModuleTypeLoadingException</a>. This method can be overridden to provide a different behavior.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.loadmodule(system.string)">LoadModule</a></td>
+<td><a href="/patterns-practices/reference/modulemanager-loadmodule-method-mspp-modularity">LoadModule</a></td>
 <td><div class="summary">
-Loads and initializes the module on the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.modulecatalog">ModuleCatalog</a> with the name moduleName.
+Loads and initializes the module on the <a href="/patterns-practices/reference/modulemanager-modulecatalog-property-mspp-modularity">ModuleCatalog</a> with the name moduleName.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.loadmodulesthatarereadyforload">LoadModulesThatAreReadyForLoad</a></td>
+<td><a href="/patterns-practices/reference/modulemanager-loadmodulesthatarereadyforload-method-mspp-modularity">LoadModulesThatAreReadyForLoad</a></td>
 <td><div class="summary">
 Loads the modules that are not intialized and have their dependencies loaded.
 </div></td>
@@ -99,16 +99,16 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.moduleneedsretrieval(microsoft.practices.prism.modularity.moduleinfo)">ModuleNeedsRetrieval</a></td>
+<td><a href="/patterns-practices/reference/modulemanager-moduleneedsretrieval-method-mspp-modularity">ModuleNeedsRetrieval</a></td>
 <td><div class="summary">
 Checks if the module needs to be retrieved before it's initialized.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.run">Run</a></td>
+<td><a href="/patterns-practices/reference/modulemanager-run-method-mspp-modularity">Run</a></td>
 <td><div class="summary">
-Initializes the modules marked as <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.initializationmode">WhenAvailable</a> on the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.modulecatalog">ModuleCatalog</a>.
+Initializes the modules marked as <a href="/patterns-practices/reference/initializationmode-enumeration-mspp-modularity">WhenAvailable</a> on the <a href="/patterns-practices/reference/modulemanager-modulecatalog-property-mspp-modularity">ModuleCatalog</a>.
 </div></td>
 </tr>
 <tr class="odd">
@@ -123,6 +123,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

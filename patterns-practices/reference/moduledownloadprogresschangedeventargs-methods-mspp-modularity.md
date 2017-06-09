@@ -4,10 +4,10 @@ Title: 'ModuleDownloadProgressChangedEventArgs Methods (Microsoft.Practices.Pris
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleDownloadProgressChangedEventArgs'
 ms:mtpsurl: 'moduledownloadprogresschangedeventargs-methods-mspp-modularity.md'
 ---
-
+
 # ModuleDownloadProgressChangedEventArgs Methods
 
-The [ModuleDownloadProgressChangedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs) type exposes the following members.
+The [ModuleDownloadProgressChangedEventArgs](/patterns-practices/reference/moduledownloadprogresschangedeventargs-class-mspp-modularity) type exposes the following members.
 
 ## Methods
 
@@ -74,6 +74,7 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[ModuleDownloadProgressChangedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleDownloadProgressChangedEventArgs Class](/patterns-practices/reference/moduledownloadprogresschangedeventargs-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
