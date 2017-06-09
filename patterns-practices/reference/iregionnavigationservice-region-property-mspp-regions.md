@@ -32,8 +32,7 @@ Property Region As IRegion
 
 ### Property Value
 
-Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
-
+Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)  
 A Region.
 
 ## See Also

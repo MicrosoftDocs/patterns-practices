@@ -4,18 +4,31 @@ Title: 'RegionBehaviorCollection.Item Property (Microsoft.Practices.Prism.Region
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionBehaviorCollection.Item(System.String)'
 ms:mtpsurl: 'regionbehaviorcollection-item-property-mspp-regions.md'
 ---
-
+
 # RegionBehaviorCollection.Item Property
 
-Gets the [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior) with the specified key.
+Gets the [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions) with the specified key.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public IRegionBehavior this[ string key \] { get; }Public ReadOnly Default Property Item ( key As String ) As IRegionBehavior Get
+```C#
+public IRegionBehavior this[
+	string key
+] { get; }
+```
+
+```VB
+'Declaration
+Public ReadOnly Default Property Item ( 
+	key As String
+) As IRegionBehavior
+	Get
+```
 
 ### Parameters
 
@@ -24,15 +37,17 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ### Property Value
 
-Type: [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior)
+Type: [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)  
 The RegionBehavior that's registered with the key.
+
 ### Implements
 
-[IRegionBehaviorCollection.Item[([(String\])\])](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection.item(system.string))
+[IRegionBehaviorCollection.Item[String]](/patterns-practices/reference/iregionbehaviorcollection-item-property-mspp-regions)
 
 ## See Also
-[RegionBehaviorCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehaviorcollection)
 
-[RegionBehaviorCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionbehaviorcollection)
+[RegionBehaviorCollection Class](/patterns-practices/reference/regionbehaviorcollection-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionBehaviorCollection Members](/patterns-practices/reference/regionbehaviorcollection-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
