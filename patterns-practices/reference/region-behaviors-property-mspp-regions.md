@@ -4,28 +4,39 @@ Title: 'Region.Behaviors Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.Behaviors'
 ms:mtpsurl: 'region-behaviors-property-mspp-regions.md'
 ---
-
+
+
 # Region.Behaviors Property
 
-Gets the collection of [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior)s that can extend the behavior of regions.
+Gets the collection of [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)s that can extend the behavior of regions.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public IRegionBehaviorCollection Behaviors { get; }Public ReadOnly Property Behaviors As IRegionBehaviorCollection Get
+```C#
+public IRegionBehaviorCollection Behaviors { get; }
+```
+```VB
+'Declaration
+Public ReadOnly Property Behaviors As IRegionBehaviorCollection
+	Get
+```
+
 ### Property Value
 
-Type: [IRegionBehaviorCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection)
+Type: [IRegionBehaviorCollection](/patterns-practices/reference/iregionbehaviorcollection-interface-mspp-regions)  
 ### Implements
 
-[IRegion.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.behaviors)
+[IRegion.Behaviors](/patterns-practices/reference/iregion-behaviors-property-mspp-regions)
 
 ## See Also
-[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 
-[Region Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.region)
+[Region Class](/patterns-practices/reference/region-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Region Members](/patterns-practices/reference/region-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

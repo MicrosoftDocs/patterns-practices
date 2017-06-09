@@ -4,29 +4,40 @@ Title: 'RegionNavigationService.Region Property (Microsoft.Practices.Prism.Regio
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationService.Region'
 ms:mtpsurl: 'regionnavigationservice-region-property-mspp-regions.md'
 ---
-
+
+
 # RegionNavigationService.Region Property
 
 Gets or sets the region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public IRegion Region { get; set; }Public Property Region As IRegion Get Set
+```C#
+public IRegion Region { get; set; }
+```
+```VB
+'Declaration
+Public Property Region As IRegion
+	Get
+	Set
+```
 ### Property Value
 
-Type: [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)
-The region.
+Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)  
+The region.  
 ### Implements
 
-[IRegionNavigationService.Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice.region)
+[IRegionNavigationService.Region](/patterns-practices/reference/iregionnavigationservice-region-property-mspp-regions)
 
 ## See Also
-[RegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice)
 
-[RegionNavigationService Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationservice)
+[RegionNavigationService Class](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionNavigationService Members](/patterns-practices/reference/regionnavigationservice-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
