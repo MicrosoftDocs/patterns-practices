@@ -27,7 +27,7 @@ Public ReadOnly Property RegionName As String
 	Get
 ```
 
-Property Value<br/>
+### Property Value
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ## See Also
