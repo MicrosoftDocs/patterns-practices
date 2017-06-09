@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.DefaultPrismServiceRegist
 ms:mtpsurl: 'defaultprismserviceregistrar-registerrequiredprismservicesifmissing-method-mspp-mefextensions.md'
 ---
 
-
 # DefaultPrismServiceRegistrar.RegisterRequiredPrismServicesIfMissing Method
 
 Registers the required Prism types that are not already registered in the [AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165).
@@ -23,6 +22,7 @@ public static AggregateCatalog RegisterRequiredPrismServicesIfMissing(
 	AggregateCatalog aggregateCatalog
 )
 ```
+
 ```VB
 'Declaration
 Public Shared Function RegisterRequiredPrismServicesIfMissing ( 

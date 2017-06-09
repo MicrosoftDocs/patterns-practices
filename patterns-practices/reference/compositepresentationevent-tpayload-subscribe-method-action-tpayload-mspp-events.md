@@ -5,10 +5,9 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Su
 ms:mtpsurl: 'compositepresentationevent-tpayload-subscribe-method-action-tpayload-mspp-events.md'
 ---
 
-
 # CompositePresentationEvent&lt;TPayload&gt;.Subscribe Method (Action&lt;TPayload&gt;)
 
-Subscribes a delegate to an event that will be published on the PublisherThread. [CompositePresentationEvent&lt;TPayload&gt;](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the target of the supplied action delegate.
+Subscribes a delegate to an event that will be published on the PublisherThread. [CompositePresentationEvent&lt;TPayload&gt;](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the target of the supplied *action* delegate.
 
 **Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)
 
@@ -17,8 +16,11 @@ Subscribes a delegate to an event that will be published on the PublisherThread.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-```C#
-public SubscriptionToken Subscribe( Action&lt;TPayload&gt; action )
+
+```
+public SubscriptionToken Subscribe(
+	Action<TPayload> action
+)
 ```
 
 ### Parameters
@@ -49,7 +51,7 @@ A SubscriptionToken that uniquely identifies the added subscription.
 
 # CompositePresentationEvent(Of TPayload).Subscribe Method (Action(Of TPayload))
 
-Subscribes a delegate to an event that will be published on the PublisherThread. [CompositePresentationEvent(Of TPayload)](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the target of the supplied action delegate.
+Subscribes a delegate to an event that will be published on the PublisherThread. [CompositePresentationEvent(Of TPayload)](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events) will maintain a [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd) to the target of the supplied *action* delegate.
 
 **Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)
 
@@ -60,7 +62,9 @@ Subscribes a delegate to an event that will be published on the PublisherThread.
 ## Syntax
 ```VB
 'Declaration
-Public Function Subscribe ( action As Action(Of TPayload) ) As SubscriptionToken
+Public Function Subscribe ( 
+	action As Action(Of TPayload)
+) As SubscriptionToken
 ```
 
 ### Parameters

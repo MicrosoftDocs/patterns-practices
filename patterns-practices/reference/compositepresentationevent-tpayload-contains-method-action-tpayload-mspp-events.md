@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Co
 ms:mtpsurl: 'compositepresentationevent-tpayload-contains-method-action-tpayload-mspp-events.md'
 ---
 
-
 # CompositePresentationEvent&lt;TPayload&gt;.Contains Method (Action&lt;TPayload&gt;)
 
 Returns **truetrue** (**True** in Visual Basic) if there is a subscriber matching [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8).
@@ -50,7 +49,7 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 # CompositePresentationEvent(Of TPayload).Contains Method (Action(Of TPayload))
 
-Returns **truetrue** (**True** in Visual Basic) if there is a subscriber matching [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8).
+Returns **Truetrue** (**True** in Visual Basic) if there is a subscriber matching [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8).
 
 **Namespace:** [Microsoft.Practices.Prism.Events](/patterns-practices/reference/mspp-events-namespace)
 
@@ -78,7 +77,7 @@ The [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) used when s
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
-**truetrue** (**True** in Visual Basic) if there is an [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) that matches; otherwise **falsefalse** (**False** in Visual Basic).
+**Truetrue** (**True** in Visual Basic) if there is an [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) that matches; otherwise **falsefalse** (**False** in Visual Basic).
 
 ## See Also
 

@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.Clear'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-clear-method-mspp.md'
 ---
 
-
 # ListDictionary&lt;TKey, TValue&gt;.Clear Method 
 
 Removes all entries in the dictionary.
@@ -17,9 +16,11 @@ Removes all entries in the dictionary.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-~~~C#
+
+```C#
 public void Clear()
-~~~
+```
+
 ### Implements
 
 [ICollection&lt;T&gt;.Clear()](http://msdn.microsoft.com/en-us/library/5axy4fbh)
@@ -43,10 +44,12 @@ Removes all entries in the dictionary.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-~~~VB
+
+```VB
 'Declaration
 Public Sub Clear
-~~~
+```
+
 ### Implements
 
 [ICollection(Of T).Clear](http://msdn.microsoft.com/en-us/library/5axy4fbh)

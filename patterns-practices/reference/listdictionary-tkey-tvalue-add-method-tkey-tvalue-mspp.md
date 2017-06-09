@@ -4,6 +4,7 @@ Title: 'ListDictionary(TKey, TValue).Add Method (TKey, TValue) (Microsoft.Practi
 ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.Add(\`0,\`1)'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-add-method-tkey-tvalue-mspp.md'
 ---
+
 # ListDictionary&lt;TKey, TValue&gt;.Add Method (TKey, TValue)
 
 Adds a value to a list with the given key. If a list does not already exist, it will be created automatically.
@@ -16,12 +17,13 @@ Adds a value to a list with the given key. If a list does not already exist, it 
 
 ## Syntax
 
-~~~C#
+```C#
 public void Add(
 	TKey key,
 	TValue value
 )
-~~~
+```
+
 ### Parameters
 
 _key_  
@@ -55,13 +57,14 @@ Adds a value to a list with the given key. If a list does not already exist, it 
 
 ## Syntax
 
-~~~VB
+```VB
 'Declaration
 Public Sub Add ( 
 	key As TKey,
 	value As TValue
 )
-~~~
+```
+
 ### Parameters
 
 _key_  

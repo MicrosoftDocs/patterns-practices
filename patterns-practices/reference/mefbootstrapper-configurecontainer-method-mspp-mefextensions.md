@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.MefBootstrapper.Configure
 ms:mtpsurl: 'mefbootstrapper-configurecontainer-method-mspp-mefextensions.md'
 ---
 
-
 # MefBootstrapper.ConfigureContainer Method
 
 Configures the [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553). May be overwritten in a derived class to add specific type mappings required by the application.
@@ -17,17 +16,19 @@ Configures the [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-~~~C#
-protected virtual void ConfigureAggregateCatalog()
-~~~
-~~~VB
+
+```C#
+protected virtual void ConfigureContainer()
+```
+
+```VB
 'Declaration
-Protected Overridable Sub ConfigureAggregateCatalog
-~~~
+Protected Overridable Sub ConfigureContainer
+```
 
 ## Remarks
 
- The base implementation registers all the types direct instantiated by the bootstrapper with the container. If the method is overwritten, the new implementation should call the base class version.
+The base implementation registers all the types direct instantiated by the bootstrapper with the container. If the method is overwritten, the new implementation should call the base class version.
 
 ## See Also
 

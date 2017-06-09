@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ExceptionExtensions.IsFrameworkExceptio
 ms:mtpsurl: 'exceptionextensions-isframeworkexceptionregistered-method-mspp.md'
 ---
 
-
 # ExceptionExtensions.IsFrameworkExceptionRegistered Method
 
 Determines whether the exception type is already registered using the [RegisterFrameworkExceptionType(Type)](/patterns-practices/reference/exceptionextensions-registerframeworkexceptiontype-method-mspp) method
@@ -18,18 +17,18 @@ Determines whether the exception type is already registered using the [RegisterF
 
 ## Syntax
 
-~~~C#
+```C#
 public static bool IsFrameworkExceptionRegistered(
 	Type frameworkExceptionType
 )
-~~~
+```
 
-~~~VB
+```VB
 'Declaration
 Public Shared Function IsFrameworkExceptionRegistered ( 
 	frameworkExceptionType As Type
 ) As Boolean
-~~~
+```
 
 ### Parameters
 

@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Events.CompositePresentationEvent\`1.Su
 ms:mtpsurl: 'compositepresentationevent-tpayload-subscribe-method-action-tpayload-boolean-mspp-events.md'
 ---
 
-
 # CompositePresentationEvent&lt;TPayload&gt;.Subscribe Method (Action&lt;TPayload&gt;, Boolean)
 
 Subscribes a delegate to an event that will be published on the PublisherThread.
@@ -17,8 +16,12 @@ Subscribes a delegate to an event that will be published on the PublisherThread.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
-public SubscriptionToken Subscribe( Action<TPayload> action, bool keepSubscriberReferenceAlive )
+public SubscriptionToken Subscribe(
+	Action<TPayload> action,
+	bool keepSubscriberReferenceAlive
+)
 ```
 
 ### Parameters
@@ -66,9 +69,13 @@ Subscribes a delegate to an event that will be published on the PublisherThread.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```VB
 'Declaration
-Public Function Subscribe ( action As Action(Of TPayload), keepSubscriberReferenceAlive As Boolean ) As SubscriptionToken
+Public Function Subscribe ( 
+	action As Action(Of TPayload),
+	keepSubscriberReferenceAlive As Boolean
+) As SubscriptionToken
 ```
 
 ### Parameters

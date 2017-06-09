@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.Remove(\`0,\`1)'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-remove-method-tkey-tvalue-mspp.md'
 ---
 
-
 # ListDictionary&lt;TKey, TValue&gt;.Remove Method (TKey, TValue)
 
 Removes a value from the list with the given key.
@@ -18,12 +17,12 @@ Removes a value from the list with the given key.
 
 ## Syntax
 
-~~~C#
+```C#
 public void Remove(
 	TKey key,
 	TValue value
 )
-~~~
+```
 
 ### Parameters
 
@@ -57,13 +56,13 @@ Removes a value from the list with the given key.
 
 ## Syntax
 
-~~~VB
+```VB
 'Declaration
 Public Sub Remove ( 
 	key As TKey,
 	value As TValue
 )
-~~~
+```
 
 ### Parameters
 

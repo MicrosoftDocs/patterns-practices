@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ListDictionary\`2.FindAllValuesByKey(Sy
 ms:mtpsurl: 'listdictionary-tkey-tvalue-findallvaluesbykey-method-mspp.md'
 ---
 
-
 # ListDictionary&lt;TKey, TValue&gt;.FindAllValuesByKey Method 
 
 Retrieves the all the elements from the list which have a key that matches the condition defined by the specified predicate.
@@ -17,11 +16,12 @@ Retrieves the all the elements from the list which have a key that matches the c
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-~~~C#
+
+```C#
 public IEnumerable<TValue> FindAllValuesByKey(
 	Predicate<TKey> keyFilter
 )
-~~~
+```
 
 ### Parameters
 
@@ -53,12 +53,13 @@ Retrieves the all the elements from the list which have a key that matches the c
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-~~~VB
+
+```VB
 'Declaration
 Public Function FindAllValuesByKey ( 
 	keyFilter As Predicate(Of TKey)
 ) As IEnumerable(Of TValue)
-~~~
+```
 
 ### Parameters
 

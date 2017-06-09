@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Events.DefaultDispatcher.BeginInvoke(Sy
 ms:mtpsurl: 'defaultdispatcher-begininvoke-method-mspp-events.md'
 ---
 
-
 # DefaultDispatcher.BeginInvoke Method
 
 Forwards the BeginInvoke to the current application's [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907).
@@ -17,13 +16,22 @@ Forwards the BeginInvoke to the current application's [Dispatcher](http://msdn.m
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
-public void BeginInvoke( Delegate method, Object arg )
+public void BeginInvoke(
+	Delegate method,
+	Object arg
+)
 ```
+
 ```VB
 'Declaration
-Public Sub BeginInvoke ( method As Delegate, arg As Object )
+Public Sub BeginInvoke ( 
+	method As Delegate,
+	arg As Object
+)
 ```
+
 ### Parameters
 
 *method*  

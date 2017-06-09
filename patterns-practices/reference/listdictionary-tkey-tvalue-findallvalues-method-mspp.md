@@ -16,11 +16,11 @@ Retrieves all the elements that match the condition defined by the specified pre
 
 ## Syntax
 
-~~~C#
+```C#
 public IEnumerable<TValue> FindAllValues(
 	Predicate<TValue> valueFilter
 )
-~~~
+```
 
 ### Parameters
 
@@ -35,9 +35,9 @@ The elements that match the condition defined by the specified predicate.
 
 ## See Also
 
-[ListDictionary<TKey, TValue> Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)
+[ListDictionary&lt;TKey, TValue&gt; Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)
 
-[ListDictionary<TKey, TValue> Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)
+[ListDictionary&lt;TKey, TValue&gt; Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)
 
 [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
 
@@ -54,12 +54,12 @@ Retrieves all the elements that match the condition defined by the specified pre
 
 ## Syntax
 
-~~~VB
+```VB
 'Declaration
-Public Function FindAllValuesByKey ( 
-	keyFilter As Predicate(Of TKey)
+Public Function FindAllValues ( 
+	valueFilter As Predicate(Of TValue)
 ) As IEnumerable(Of TValue)
-~~~
+```
 
 ### Parameters
 

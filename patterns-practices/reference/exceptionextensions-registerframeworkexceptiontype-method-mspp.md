@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.ExceptionExtensions.RegisterFrameworkEx
 ms:mtpsurl: 'exceptionextensions-registerframeworkexceptiontype-method-mspp.md'
 ---
 
-
 # ExceptionExtensions.RegisterFrameworkExceptionType Method
 
 Register the type of an Exception that is thrown by the framework. The [GetRootException(Exception)](/patterns-practices/reference/exceptionextensions-getrootexception-method-mspp) method uses this list of Exception types to find out if something has gone wrong.
@@ -18,17 +17,17 @@ Register the type of an Exception that is thrown by the framework. The [GetRootE
 
 ## Syntax
 
-~~~C#
+```C#
 public static void RegisterFrameworkExceptionType(
 	Type frameworkExceptionType
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Shared Sub RegisterFrameworkExceptionType ( 
 	frameworkExceptionType As Type
 )
-~~~
+```
 
 ### Parameters
 

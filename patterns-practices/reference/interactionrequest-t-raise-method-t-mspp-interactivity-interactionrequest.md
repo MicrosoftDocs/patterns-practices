@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Intera
 ms:mtpsurl: 'interactionrequest-t-raise-method-t-mspp-interactivity-interactionrequest.md'
 ---
 
-
 # InteractionRequest&lt;T&gt;.Raise Method (T)
 
 Fires the Raised event.
@@ -18,11 +17,11 @@ Fires the Raised event.
 
 ## Syntax
 
-~~~C#
+```C#
 public void Raise(
 	T context
 )
-~~~
+```
 ### Parameters
 
 _context_  
@@ -51,12 +50,12 @@ Fires the Raised event.
 
 ## Syntax
 
-~~~VB
+```VB
 'Declaration
 Public Sub Raise ( 
 	context As T
 )
-~~~
+```
 
 
 ### Parameters
