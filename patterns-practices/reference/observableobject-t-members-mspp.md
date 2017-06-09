@@ -184,7 +184,7 @@ Begins the sequence of actions contained in the provided storyboard, with specif
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms598110">BringIntoView()()()</a></td>
+<td><a href="http://msdn.microsoft.com/en-us/library/ms598110">BringIntoView()</a></td>
 <td><div class="summary">
 Attempts to bring this element into view, within any scrollable regions it is contained within.
 </div>
@@ -1995,7 +1995,7 @@ Gets or sets a value that declares whether this element can possibly be returned
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ms600884">IsInitialized</a></td>
 <td><div class="summary">
-Gets a value that indicates whether this element has been initialized, either during processing by a XAML processor, or by explicitly having its <a href="http://msdn.microsoft.com/en-us/library/ms598118">EndInit()()()</a> method called.
+Gets a value that indicates whether this element has been initialized, either during processing by a XAML processor, or by explicitly having its <a href="http://msdn.microsoft.com/en-us/library/ms598118">EndInit()</a> method called.
 </div>
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms602714">FrameworkElement</a>.)</td>
 </tr>
