@@ -8,7 +8,7 @@ ms:mtpsurl: 'updateregionsexception-methods-mspp-regions.md'
 
 # UpdateRegionsException Methods
 
-The [UpdateRegionsException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception) type exposes the following members.
+The [UpdateRegionsException](/patterns-practices/reference/updateregionsexception-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -105,17 +105,17 @@ Creates and returns a string representation of the current exception.
 <tbody>
 <tr class="odd">
 <td>![Public Extension Method](/patterns-practices/reference/images/pubextension.gif)</td>
-<td>[GetRootException](https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions.getrootexception(system.exception))</td>
+<td>[GetRootException](/patterns-practices/reference/exceptionextensions-getrootexception-method-mspp)</td>
 <td><div class="summary">
 Looks at all the inner exceptions of the exception parameter to find the most likely root cause of the exception. This works by skipping all registered exception types.
 </div>
-(Defined by [ExceptionExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions).)</td>
+(Defined by [ExceptionExtensions](/patterns-practices/reference/exceptionextensions-class-mspp).)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[UpdateRegionsException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception)
+[UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

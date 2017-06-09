@@ -8,13 +8,11 @@ ms:mtpsurl: 'viewregisteredeventargs-methods-mspp-regions.md'
 
 # ViewRegisteredEventArgs Methods
 
-The [ViewRegisteredEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs) type exposes the following members.
+The [ViewRegisteredEventArgs](/patterns-practices/reference/viewregisteredeventargs-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -75,6 +73,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[ViewRegisteredEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs)
+[ViewRegisteredEventArgs Class](/patterns-practices/reference/viewregisteredeventargs-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
