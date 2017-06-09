@@ -4,29 +4,40 @@ Title: 'Region.ActiveViews Property (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.Region.ActiveViews'
 ms:mtpsurl: 'region-activeviews-property-mspp-regions.md'
 ---
-
+
+
 # Region.ActiveViews Property
 
 Gets a readonly view of the collection of all the active views in the region.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public virtual IViewsCollection ActiveViews { get; }Public Overridable ReadOnly Property ActiveViews As IViewsCollection Get
+```C#
+public virtual IViewsCollection ActiveViews { get; }
+```
+```VB
+'Declaration
+Public Overridable ReadOnly Property ActiveViews As IViewsCollection
+	Get
+```
+
 ### Property Value
 
-Type: [IViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection)
-An [IViewsCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iviewscollection) of all the active views.
+Type: [IViewsCollection](/patterns-practices/reference/iviewscollection-interface-mspp-regions)  
+An [IViewsCollection](/patterns-practices/reference/iviewscollection-interface-mspp-regions) of all the active views.  
 ### Implements
 
-[IRegion.ActiveViews](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion.activeviews)
+[IRegion.ActiveViews](/patterns-practices/reference/iregion-activeviews-property-mspp-regions)
 
 ## See Also
-[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
 
-[Region Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.region)
+[Region Class](/patterns-practices/reference/region-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Region Members](/patterns-practices/reference/region-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
