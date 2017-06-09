@@ -4,10 +4,11 @@ Title: 'ContentControlRegionAdapter Properties (Microsoft.Practices.Prism.Region
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.ContentControlRegionAdapter'
 ms:mtpsurl: 'contentcontrolregionadapter-properties-mspp-regions.md'
 ---
-
+
+
 # ContentControlRegionAdapter Properties
 
-The [ContentControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.contentcontrolregionadapter) type exposes the following members.
+The [ContentControlRegionAdapter](/patterns-practices/reference/contentcontrolregionadapter-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
@@ -24,16 +25,17 @@ The [ContentControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.p
 <tbody>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.regionbehaviorfactory">RegionBehaviorFactory</a></td>
+<td>[RegionBehaviorFactory](/patterns-practices/reference/regionadapterbase-t-regionbehaviorfactory-property-mspp-regions)</td>
 <td><div class="summary">
 Gets or sets the factory used to create the region behaviors to attach to the created regions.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601">RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)</a>.)</td>
+(Inherited from [RegionAdapterBase] (/patterns-practices/reference/regionadapterbase-t-class-mspp-regions).)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[ContentControlRegionAdapter Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.contentcontrolregionadapter)
+
+[ContentControlRegionAdapter Class](/patterns-practices/reference/contentcontrolregionadapter-class-mspp-regions)
 
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
