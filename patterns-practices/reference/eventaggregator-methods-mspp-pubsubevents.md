@@ -4,7 +4,8 @@ Title: 'EventAggregator Methods (Microsoft.Practices.Prism.PubSubEvents)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.PubSubEvents.EventAggregator'
 ms:mtpsurl: 'eventaggregator-methods-mspp-pubsubevents.md'
 ---
-
+
+
 # EventAggregator Methods
 
 The [EventAggregator](/patterns-practices/reference/eventaggregator-class-mspp-pubsubevents) type exposes the following members.
@@ -39,7 +40,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="odd">
 <td>![Public method](/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventaggregator.getevent%60%601">GetEvent(Of TEventType)</a></td>
+<td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventaggregator.getevent">GetEvent(Of TEventType)</a></td>
 <td><div class="summary">
 Gets the single instance of the event managed by this EventAggregator. Multiple calls to this method with the same TEventType returns the same event instance.
 </div></td>

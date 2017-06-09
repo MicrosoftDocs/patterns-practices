@@ -23,8 +23,6 @@ The [MefClearChildViewsRegionBehavior](https://msdn.microsoft.com/library/micros
 <tbody>
 <tr class="odd">
 
-<td><img src="https://msdn.microsoft.com/en-us/Dn736206.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.isattached">IsAttached</a></td>
@@ -34,8 +32,6 @@ Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
 </tr>
 <tr class="even">
-
-<td><img src="https://msdn.microsoft.com/en-us/Dn736206.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
 
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 

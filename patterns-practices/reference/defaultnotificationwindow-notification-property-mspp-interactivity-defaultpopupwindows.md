@@ -8,9 +8,9 @@ ms:mtpsurl: 'defaultnotificationwindow-notification-property-mspp-interactivity-
 
 # DefaultNotificationWindow.Notification Property
 
-Sets or gets the [INotification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification) shown by this window./&gt;
+Sets or gets the [INotification](/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest) shown by this window./&gt;
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -31,12 +31,12 @@ Public Property Notification As INotification
 
 ### Property Value
 
-Type: [INotification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification)
+Type: [INotification](/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest)
 
 ## See Also
 
-[DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
+[DefaultNotificationWindow Class](/patterns-practices/reference/defaultnotificationwindow-class-mspp-interactivity-defaultpopupwindows)
 
-[DefaultNotificationWindow Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow_members)
+[DefaultNotificationWindow Members](/patterns-practices/reference/defaultnotificationwindow-members-mspp-interactivity-defaultpopupwindows)
 
-[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
+[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)

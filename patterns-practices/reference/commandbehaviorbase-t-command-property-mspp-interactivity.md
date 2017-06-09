@@ -27,9 +27,9 @@ Type: [ICommand](http://msdn.microsoft.com/en-us/library/ms616869)
 
 ## See Also
 
-[CommandBehaviorBase&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/dn736144(v=pandp.50))
+[CommandBehaviorBase&lt;T&gt; Class](/patterns-practices/reference/commandbehaviorbase-t-class-mspp-interactivity)
 
-[CommandBehaviorBase&lt;T&gt; Members](https://msdn.microsoft.com/en-us/library/dn741423(v=pandp.50))
+[CommandBehaviorBase&lt;T&gt; Members](/patterns-practices/reference/commandbehaviorbase-t-members-mspp-interactivity)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
 
@@ -58,8 +58,8 @@ Type: [ICommand](http://msdn.microsoft.com/en-us/library/ms616869)
 
 ## See Also
 
-[CommandBehaviorBase(Of T) Class](https://msdn.microsoft.com/en-us/library/dn736144(v=pandp.50))
+[CommandBehaviorBase(Of T) Class](/patterns-practices/reference/commandbehaviorbase-t-class-mspp-interactivity)
 
-[CommandBehaviorBase(Of T) Members](https://msdn.microsoft.com/en-us/library/dn741423(v=pandp.50))
+[CommandBehaviorBase(Of T) Members](/patterns-practices/reference/commandbehaviorbase-t-members-mspp-interactivity)
 
 [Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)

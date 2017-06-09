@@ -28,7 +28,7 @@ public static string ExtractPropertyName<T>(
 
 *propertyExpression*
 
-Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)&lt;[Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;T&gt;&gt;
+Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)&lt;[Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;T&gt;
 
 The property expression (e.g. p =&gt; p.PropertyName)
 

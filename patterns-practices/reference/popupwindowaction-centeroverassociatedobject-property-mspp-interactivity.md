@@ -4,7 +4,8 @@ Title: 'PopupWindowAction.CenterOverAssociatedObject Property (Microsoft.Practic
 ms:assetid: 'P:Microsoft.Practices.Prism.Interactivity.PopupWindowAction.CenterOverAssociatedObject'
 ms:mtpsurl: 'popupwindowaction-centeroverassociatedobject-property-mspp-interactivity.md'
 ---
-
+
+
 # PopupWindowAction.CenterOverAssociatedObject Property
 
 Gets or sets if the window will be initially shown centered over the view that raised the interaction request or not.
@@ -34,8 +35,8 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 ## See Also
 
-[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
+[PopupWindowAction Class](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)
 
 [PopupWindowAction Members](/patterns-practices/reference/popupwindowaction-members-mspp-interactivity)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)

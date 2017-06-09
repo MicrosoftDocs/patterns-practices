@@ -8,7 +8,7 @@ ms:mtpsurl: 'syncactivestateattribute-properties-mspp-regions.md'
 
 # SyncActiveStateAttribute Properties
 
-The [SyncActiveStateAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute) type exposes the following members.
+The [SyncActiveStateAttribute](/patterns-practices/reference/syncactivestateattribute-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
@@ -34,6 +34,6 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 
 ## See Also
 
-[SyncActiveStateAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute)
+[SyncActiveStateAttribute Class](/patterns-practices/reference/syncactivestateattribute-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
