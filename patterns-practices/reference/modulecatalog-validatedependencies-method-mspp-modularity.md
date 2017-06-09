@@ -7,7 +7,7 @@ ms:mtpsurl: 'modulecatalog-validatedependencies-method-mspp-modularity.md'
 
 # ModuleCatalog.ValidateDependencies Method
 
-Ensures that all the dependencies within modules refer to [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s within that list.
+Ensures that all the dependencies within *modules* refer to [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s within that list.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
@@ -22,7 +22,7 @@ protected static void ValidateDependencies(
 )
 ```
 
-## Parameters
+### Parameters
 
 *modules*   
 Type: [System.Collections.Generic.IEnumerable](http://msdn2.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)&gt;   
@@ -48,7 +48,7 @@ modules
 Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity))   
 The modules to validate modules for.
 
-## Exception
+## Exceptions
 
 | Exception | Condition|
 |----|----|

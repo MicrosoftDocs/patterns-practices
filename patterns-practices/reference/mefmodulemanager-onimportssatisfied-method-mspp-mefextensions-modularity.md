@@ -20,6 +20,12 @@ Called when a part's imports have been satisfied and it is safe to use.
 ```C#
 public virtual void OnImportsSatisfied()
 ```
+
+### Implements
+
+[IPartImportsSatisfiedNotification.OnImportsSatisfied()](http://msdn.microsoft.com/en-us/library/dd833579)
+
+
 ```VB
 'Declaration
 Public Overridable Sub OnImportsSatisfied
@@ -27,7 +33,7 @@ Public Overridable Sub OnImportsSatisfied
 
 ### Implements
 
-[IPartImportsSatisfiedNotification.OnImportsSatisfied()](http://msdn.microsoft.com/en-us/library/dd833579)
+[IPartImportsSatisfiedNotification.OnImportsSatisfied](http://msdn.microsoft.com/en-us/library/dd833579)
 
 ## Remarks
 

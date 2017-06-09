@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleIniti
 ms:mtpsurl: 'mefmoduleinitializer-createmodule-method-moduleinfo-mspp-mefextensions-modularity.md'
 ---
 
-
 # MefModuleInitializer.CreateModule Method (ModuleInfo)
 
 Uses the container to resolve a new [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity) by specifying its [Type](http://msdn.microsoft.com/en-us/library/42892f65).
@@ -39,7 +38,7 @@ The module to create.
 ### Return Value
 
 Type: [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity)  
-A new instance of the module specified by moduleInfo.
+A new instance of the module specified by *moduleInfo*.
 
 ## See Also
 

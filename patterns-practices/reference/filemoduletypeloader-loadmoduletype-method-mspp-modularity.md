@@ -4,11 +4,13 @@ Title: 'FileModuleTypeLoader.LoadModuleType Method (Microsoft.Practices.Prism.Mo
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader.LoadModuleType(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'filemoduletypeloader-loadmoduletype-method-mspp-modularity.md'
 ---
+
 # FileModuleTypeLoader.LoadModuleType Method
 
 Retrieves the *moduleInfo*.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace) 
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -41,7 +43,9 @@ Module that should have it's type loaded.
 ## See Also
 
 [FileModuleTypeLoader Class](/patterns-practices/reference/filemoduletypeloader-class-mspp-modularity)  
+
 [FileModuleTypeLoader Members](/patterns-practices/reference/filemoduletypeloader-members-mspp-modularity)  
+
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
 
 

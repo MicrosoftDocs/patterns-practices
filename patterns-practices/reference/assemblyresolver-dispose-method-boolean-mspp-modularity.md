@@ -22,6 +22,14 @@ protected virtual void Dispose(
 	bool disposing
 )
 ```
+
+### Parameters
+
+*disposing*  
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
+When **truetrue** (**True** in Visual Basic), it is being called from the Dispose method.
+
+
 ```VB
 'Declaration
 Protected Overridable Sub Dispose ( 
@@ -38,6 +46,9 @@ When **Truetrue** (**True** in Visual Basic), it is being called from the Dispos
 ## See Also
 
 [AssemblyResolver Class](/patterns-practices/reference/assemblyresolver-class-mspp-modularity)  
-[AssemblyResolver Members](/patterns-practices/reference/assemblyresolver-members-mspp-modularity)  
+
+[AssemblyResolver Members](/patterns-practices/reference/assemblyresolver-members-mspp-modularity) 
+
 [Dispose Overload](/patterns-practices/reference/dispose-mthd)  
+
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

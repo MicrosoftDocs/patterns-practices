@@ -60,7 +60,7 @@ Determines whether the dictionary contains the given key.
 
 ## Syntax
 
-```
+```VB
 'Declaration
 Public Function ContainsKey ( 
 	key As TKey

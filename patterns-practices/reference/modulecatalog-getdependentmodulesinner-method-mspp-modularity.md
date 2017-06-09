@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.GetDependentMo
 ms:mtpsurl: 'modulecatalog-getdependentmodulesinner-method-mspp-modularity.md'
 ---
 
-
 # ModuleCatalog.GetDependentModulesInner Method
 
 Returns the [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) on which the received module dependens on.
@@ -17,6 +16,7 @@ Returns the [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-mod
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 protected virtual IEnumerable<ModuleInfo> GetDependentModulesInner(
 	ModuleInfo moduleInfo
@@ -31,7 +31,7 @@ Module whose dependant modules are requested.
 ### Return Value
 
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)&gt;   
-Collection of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) dependants of moduleInfo.
+Collection of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) dependants of *moduleInfo*.
 
 ```VB
 'Declaration
@@ -49,7 +49,7 @@ Module whose dependant modules are requested.
 ### Return Value
 
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [ModuleInfo](/patterns-practices/reference/mspp-modularity-namespace.moduleinfo))   
-Collection of [ModuleInfo](/patterns-practices/reference/mspp-modularity-namespace.moduleinfo) dependants of moduleInfo.
+Collection of [ModuleInfo](/patterns-practices/reference/mspp-modularity-namespace.moduleinfo) dependants of *moduleInfo*.
 
 ## See Also
 
