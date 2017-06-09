@@ -259,4 +259,4 @@ Occurs when an exception is serialized to create an exception state object that 
 ## See Also
 [UpdateRegionsException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.updateregionsexception)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

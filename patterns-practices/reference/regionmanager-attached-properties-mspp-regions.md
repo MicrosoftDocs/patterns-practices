@@ -7,17 +7,17 @@ ms:mtpsurl: 'regionmanager-attached-properties-mspp-regions.md'
 
 # RegionManager Attached Properties
 
-The [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager) type exposes the following members.
+The [RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions) type exposes the following members.
 
 ## Attached Properties
 
 ||Name| Description |
 |----|----|----|
-| ![Public attached property](/patterns-practices/reference/images/pubproperty.gif) | [RegionContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regioncontext) |             |
-| ![Public attached property](/patterns-practices/reference/images/pubproperty.gif) | [RegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionmanager) |             |
-| ![Public attached property](/patterns-practices/reference/images/pubproperty.gif) | [RegionName](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager.regionname)       |             |
+| ![Public attached property](/patterns-practices/reference/images/pubproperty.gif) | [RegionContext](/patterns-practices/reference/regionmanager-regioncontext-attached-property-mspp-regions) |             |
+| ![Public attached property](/patterns-practices/reference/images/pubproperty.gif) | [RegionManager](/patterns-practices/reference/regionmanager-regionmanager-attached-property-mspp-regions) |             |
+| ![Public attached property](/patterns-practices/reference/images/pubproperty.gif) | [RegionName](/patterns-practices/reference/regionmanager-regionname-attached-property-mspp-regions)       |             |
 
 ## See Also
-[RegionManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanager)
+[RegionManager Class](/patterns-practices/reference/regionmanager-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

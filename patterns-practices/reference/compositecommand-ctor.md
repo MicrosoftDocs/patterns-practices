@@ -7,9 +7,9 @@ ms:mtpsurl: 'compositecommand-constructor-boolean-mspp-commands.md'
 
 # CompositeCommand Constructor
 
-Initializes a new instance of [CompositeCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand).
+Initializes a new instance of [CompositeCommand](/patterns-practices/reference/compositecommand-class-mspp-commands).
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
 
@@ -25,10 +25,10 @@ Public Sub New
 ```
 
 ## See Also
-[CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
+[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)
 
-[CompositeCommand Members](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand_members)
+[CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)
 
-[CompositeCommand Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.commands.compositecommand.)
+CompositeCommand Overload
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

@@ -73,7 +73,7 @@ Serves as a hash function for a particular type.
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)</td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
+Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
 </div>
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
@@ -129,4 +129,4 @@ Gets or sets the URI.
 ## See Also
 [RegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

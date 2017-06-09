@@ -7,7 +7,7 @@ ms:mtpsurl: 'uriparsinghelper-members-mspp.md'
 
 # UriParsingHelper Members
 
-The [UriParsingHelper](https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper) type exposes the following members.
+The [UriParsingHelper](/patterns-practices/reference/uriparsinghelper-class-mspp) type exposes the following members.
 
 ## Methods
 
@@ -23,21 +23,21 @@ The [UriParsingHelper](https://msdn.microsoft.com/library/microsoft.practices.pr
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper.getabsolutepath(system.uri)">GetAbsolutePath</a></td>
+<td>[GetAbsolutePath](/patterns-practices/reference/uriparsinghelper-getabsolutepath-method-mspp)</td>
 <td><div class="summary">
 Gets the AbsolutePath part of uri.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper.getquery(system.uri)">GetQuery</a></td>
+<td>[GetQuery](/patterns-practices/reference/uriparsinghelper-getquery-method-mspp)</td>
 <td><div class="summary">
 Gets the query part of uri.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper.parsequery(system.uri)">ParseQuery</a></td>
+<td>[ParseQuery](/patterns-practices/reference/uriparsinghelper-parsequery-method-mspp)</td>
 <td><div class="summary">
 Parses the query of uri into a dictionary.
 </div></td>
@@ -46,6 +46,6 @@ Parses the query of uri into a dictionary.
 </table>
 
 ## See Also
-[UriParsingHelper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.uriparsinghelper)
+[UriParsingHelper Class](/patterns-practices/reference/uriparsinghelper-class-mspp)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

@@ -7,7 +7,7 @@ ms:mtpsurl: 'errorscontainer-t-members-mspp-viewmodel.md'
 
 # ErrorsContainer&lt;T&gt; Members
 
-The [ErrorsContainer&lt;T&gt;](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50)) type exposes the following members.
+The [ErrorsContainer&lt;T&gt;](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel) type exposes the following members.
 
 ## Constructors
 
@@ -25,7 +25,7 @@ The [ErrorsContainer&lt;T&gt;](https://msdn.microsoft.com/en-us/library/gg431577
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>ErrorsContainer&lt;T&gt;</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50)">ErrorsContainer&lt;T&gt;</a> class.
+Initializes a new instance of the [ErrorsContainer&lt;T&gt;](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel) class.
 </div></td>
 </tr>
 </tbody>
@@ -45,14 +45,14 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/en-us/libr
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/en-us/library/gg419024(v=pandp.50)">ClearErrors(String)</a></td>
+<td>[ClearErrors(String)](/patterns-practices/reference/errorscontainer-t-clearerrors-method-string-mspp-viewmodel)</td>
 <td><div class="summary">
 Clears the errors for a property.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/en-us/library/gg406216(v=pandp.50">ClearErrors(TProperty)(Expression&lt;Func&lt;TProperty&gt;&gt;)</a></td>
+<td>[ClearErrors(TProperty)(Expression&lt;Func&lt;TProperty&gt;&gt;)](/patterns-practices/reference/errorscontainer-t-clearerrors-tproperty-method-expression-func-tproperty-mspp-viewmodel)/td>
 <td><div class="summary">
 Clears the errors for the property indicated by the property expression.
 </div></td>
@@ -75,7 +75,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601.geterrors(system.string)">GetErrors</a></td>
+<td>[GetErrors](/patterns-practices/reference/errorscontainer-t-geterrors-method-mspp-viewmodel)</td>
 <td><div class="summary">
 Gets the validation errors for a specified property.
 </div></td>
@@ -92,7 +92,7 @@ Serves as a hash function for a particular type.
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)</td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
+Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
 </div>
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
@@ -106,14 +106,14 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/en-us/library/gg419027(v=pandp.50)">SetErrors(String, IEnumerable&lt;T&gt;)</a></td>
+<td>[SetErrors(String, IEnumerable&lt;T&gt;)](/patterns-practices/reference/errorscontainer-t-seterrors-method-string-ienumerable-t-mspp-viewmodel)</td>
 <td><div class="summary">
 Sets the validation errors for the specified property.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/en-us/library/gg406217(v=pandp.50)">SetErrors&lt;TProperty&gt;(Expression&lt;Func&lt;TProperty&gt;&gt;, IEnumerable&lt;T&gt;)</a></td>
+<td>[Expression&lt;Func&lt;TProperty&gt;&gt;, IEnumerable&lt;T&gt;](/patterns-practices/reference/errorscontainer-t-seterrors-tproperty-method-expression-func-tproperty-ienumerable-t-mspp-viewmodel">SetErrors&lt;TProperty&gt;)</td>
 <td><div class="summary">
 Sets the validation errors for the specified property.
 </div></td>
@@ -133,7 +133,7 @@ Returns a string that represents the current object.
 
 || Name| Description |
 |----|----|----|
-| ![Protected field](/patterns-practices/reference/images/protfield.gif) | [validationResults](https://msdn.microsoft.com/en-us/library/dn736157(v=pandp.50)) |             |
+|  | [validationResults](/patterns-practices/reference/errorscontainer-t-validationresults-field-mspp-viewmodel) |             |
 
 ## Properties
 
@@ -149,7 +149,7 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/en-us/library/gg431401(v=pandp.50">HasErrors</a></td>
+<td>[HasErrors](/patterns-practices/reference/errorscontainer-t-haserrors-property-mspp-viewmodel)</td>
 <td><div class="summary">
 Gets a value indicating whether the object has validation errors.
 </div></td>
@@ -158,6 +158,6 @@ Gets a value indicating whether the object has validation errors.
 </table>
 
 ## See Also
-[ErrorsContainer&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))
+[ErrorsContainer&lt;T&gt; Class](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)
 
-[Microsoft.Practices.Prism.ViewModel Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.viewmodel(v=pandp.50))
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)

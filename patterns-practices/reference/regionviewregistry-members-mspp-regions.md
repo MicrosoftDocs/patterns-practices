@@ -7,7 +7,7 @@ ms:mtpsurl: 'regionviewregistry-members-mspp-regions.md'
 
 # RegionViewRegistry Members
 
-The [RegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry) type exposes the following members.
+The [RegionViewRegistry](/patterns-practices/reference/regionviewregistry-class-mspp-regions) type exposes the following members.
 
 ## Constructors
 
@@ -23,9 +23,9 @@ The [RegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[RegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry.)</td>
+<td>RegionViewRegistry</td>
 <td><div class="summary">
-Creates a new instance of the [RegionViewRegistry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry) class.
+Creates a new instance of the [RegionViewRegistry](/patterns-practices/reference/regionviewregistry-class-mspp-regions) class.
 </div></td>
 </tr>
 </tbody>
@@ -45,7 +45,7 @@ Creates a new instance of the [RegionViewRegistry](https://msdn.microsoft.com/li
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[CreateInstance](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry.createinstance(system.type))</td>
+<td>[CreateInstance](/patterns-practices/reference/regionviewregistry-createinstance-method-mspp-regions)</td>
 <td><div class="summary">
 Creates an instance of a registered view [Type](http://msdn.microsoft.com/en-us/library/42892f65).
 </div></td>
@@ -68,7 +68,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetContents](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry.getcontents(system.string))</td>
+<td>[GetContents](/patterns-practices/reference/regionviewregistry-getcontents-method-mspp-regions)</td>
 <td><div class="summary">
 Returns the contents registered for a region.
 </div></td>
@@ -100,9 +100,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry.registerviewwithregion">RegisterViewWithRegion(String, Func&lt;Object&gt;)</a></td>
-
-<td>[RegisterViewWithRegion(String, Func&lt;(Of &lt;(Object&gt;)&gt;))](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry.registerviewwithregion(system.string%2csystem.func%7bsystem.object%7d))</td>
+<td>[RegisterViewWithRegion(String, Func&lt;Object&gt;)](/patterns-practices/reference/regionviewregistry-registerviewwithregion-method-string-func-object-mspp-regions)</td>
 
 <td><div class="summary">
 Registers a delegate that can be used to retrieve the content associated with a region name.
@@ -111,9 +109,7 @@ Registers a delegate that can be used to retrieve the content associated with a 
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry.registerviewwithregion">RegisterViewWithRegion(String, Type)</a></td>
-
-<td>">[RegisterViewWithRegion(String, Type)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry.registerviewwithregion(system.string%2csystem.type))</td>
+<td>[RegisterViewWithRegion(String, Type)](/patterns-practices/reference/regionviewregistry-registerviewwithregion-method-string-type-mspp-regions)</td>
 
 <td><div class="summary">
 Registers a content type with a region name.
@@ -144,7 +140,7 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td>[ContentRegistered](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry.contentregistered)</td>
+<td>[ContentRegistered](/patterns-practices/reference/regionviewregistry-contentregistered-event-mspp-regions)</td>
 <td><div class="summary">
 Occurs whenever a new view is registered.
 </div></td>
@@ -154,6 +150,6 @@ Occurs whenever a new view is registered.
 
 ## See Also
 
-[RegionViewRegistry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionviewregistry)
+[RegionViewRegistry Class](/patterns-practices/reference/regionviewregistry-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
