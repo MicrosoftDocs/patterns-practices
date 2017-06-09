@@ -11,6 +11,7 @@ ms:mtpsurl: 'weakeventhandlermanager-callweakreferencehandlers-method-mspp-comma
 Invokes the handlers
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll)
 
 **Version:** 1.0.0.0 (1.0.0.0)
