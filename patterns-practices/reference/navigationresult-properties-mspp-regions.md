@@ -23,21 +23,21 @@ The [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.context">Context</a></td>
+<td>[Context](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.context)</td>
 <td><div class="summary">
 Gets the navigation context.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.error">Error</a></td>
+<td>[Error](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.error)</td>
 <td><div class="summary">
 Gets an exception that occurred while navigating.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.result">Result</a></td>
+<td>[Result](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.result)</td>
 <td><div class="summary">
 Gets the result.
 </div></td>
