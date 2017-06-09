@@ -4,7 +4,8 @@ Title: 'IModuleTypeLoader.LoadModuleCompleted Event (Microsoft.Practices.Prism.M
 ms:assetid: 'E:Microsoft.Practices.Prism.Modularity.IModuleTypeLoader.LoadModuleCompleted'
 ms:mtpsurl: 'imoduletypeloader-loadmodulecompleted-event-mspp-modularity.md'
 ---
-
+
+
 
 # IModuleTypeLoader.LoadModuleCompleted Event
 
@@ -13,25 +14,6 @@ Raised when a module is loaded or fails to load.
 **Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
-
-**Version:** 5.0.0.0 (5.0.0.0)
-## Syntax
-
-```C#
-    event EventHandler<LoadModuleCompletedEventArgs> LoadModuleCompleted
-```
-
-### Value
-
-Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity)&gt;
-
-## Syntax
-
-```VB
-    'Declaration
-    Event LoadModuleCompleted As EventHandler(Of LoadModuleCompletedEventArgs)
-```
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
@@ -45,7 +27,6 @@ event EventHandler<LoadModuleCompletedEventArgs> LoadModuleCompleted
 
 Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)&lt;[LoadModuleCompletedEventArgs](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity)&gt;
 
-## Syntax
 
 ```VB
 'Declaration
