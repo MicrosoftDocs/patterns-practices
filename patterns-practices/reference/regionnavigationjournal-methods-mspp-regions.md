@@ -7,7 +7,7 @@ ms:mtpsurl: 'regionnavigationjournal-methods-mspp-regions.md'
 
 # RegionNavigationJournal Methods
 
-The [RegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal) type exposes the following members.
+The [RegionNavigationJournal](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -22,7 +22,7 @@ The [RegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.pract
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Clear](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.clear)</td>
+<td>[Clear](/patterns-practices/reference/regionnavigationjournal-clear-method-mspp-regions)</td>
 <td><div class="summary">
 Clears the journal of current, back, and forward navigation histories.
 </div></td>
@@ -61,14 +61,14 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GoBack](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.goback)</td>
+<td>[GoBack](/patterns-practices/reference/regionnavigationjournal-goback-method-mspp-regions)</td>
 <td><div class="summary">
 Navigates to the most recent entry in the back navigation history, or does nothing if no entry exists in back navigation.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GoForward](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.goforward)</td>
+<td>[GoForward](/patterns-practices/reference/regionnavigationjournal-goforward-method-mspp-regions)</td>
 <td><div class="summary">
 Navigates to the most recent entry in the forward navigation history, or does nothing if no entry exists in forward navigation.
 </div></td>
@@ -83,7 +83,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[RecordNavigation](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.recordnavigation(microsoft.practices.prism.regions.iregionnavigationjournalentry))</td>
+<td>[RecordNavigation](/patterns-practices/reference/regionnavigationjournal-recordnavigation-method-mspp-regions)</td>
 <td><div class="summary">
 Records the navigation to the entry..
 </div></td>
@@ -101,6 +101,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[RegionNavigationJournal Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal)
+[RegionNavigationJournal Class](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

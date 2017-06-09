@@ -5,9 +5,9 @@ ms:assetid: 'Properties.T:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1
 ms:mtpsurl: 'errorscontainer-t-properties-mspp-viewmodel.md'
 ---
 
-# ErrorsContainer&lt;T&gt; Properties
+# ErrorsContainer(Of T) Properties
 
-The [ErrorsContainer&lt;T&gt;](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel) type exposes the following members.
+The [ErrorsContainer(Of T)](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel) type exposes the following members.
 
 ## Properties
 
@@ -32,6 +32,6 @@ Gets a value indicating whether the object has validation errors.
 
 ## See Also
 
-[ErrorsContainer&lt;T&gt; Class](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)
+[ErrorsContainer(Of T) Class](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)
 
 [Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)
