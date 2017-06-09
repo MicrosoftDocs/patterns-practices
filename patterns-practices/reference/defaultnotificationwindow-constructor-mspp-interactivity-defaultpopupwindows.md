@@ -8,9 +8,10 @@ ms:mtpsurl: 'defaultnotificationwindow-constructor-mspp-interactivity-defaultpop
 
 # DefaultNotificationWindow Constructor
 
-Creates a new instance of [DefaultNotificationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
+Creates a new instance of [DefaultNotificationWindow](/patterns-practices/reference/defaultnotificationwindow-class-mspp-interactivity-defaultpopupwindows)
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -21,35 +22,14 @@ Creates a new instance of [DefaultNotificationWindow](https://msdn.microsoft.com
    public DefaultNotificationWindow() 
 ```
 
-## See Also
-
-[DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
-
-[DefaultNotificationWindow Members](/patterns-practices/reference/defaultnotificationwindow-members-mspp-interactivity-defaultpopupwindows)
-
-[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
-
-
-# DefaultNotificationWindow Constructor
-
-Creates a new instance of [DefaultNotificationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
-
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
-
-**Version:** 5.0.0.0 (5.0.0.0)
-
-## Syntax
-
 ```VB
-   'Declaration
-Public Sub New
+   public DefaultNotificationWindow()
 ```
 
 ## See Also
 
-[DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
+[DefaultNotificationWindow Class](/patterns-practices/reference/defaultnotificationwindow-class-mspp-interactivity-defaultpopupwindows)
 
 [DefaultNotificationWindow Members](/patterns-practices/reference/defaultnotificationwindow-members-mspp-interactivity-defaultpopupwindows)
 
-[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
+[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)
