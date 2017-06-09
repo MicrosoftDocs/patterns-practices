@@ -4,25 +4,40 @@ Title: 'ViewRegisteredEventArgs.GetView Property (Microsoft.Practices.Prism.Regi
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.ViewRegisteredEventArgs.GetView'
 ms:mtpsurl: 'viewregisteredeventargs-getview-property-mspp-regions.md'
 ---
-
+
+
 # ViewRegisteredEventArgs.GetView Property
 
 Gets the content which was registered.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public Func&lt;Object&gt; GetView { get; }Public ReadOnly Property GetView As Func(Of Object) Get
+```C#
+public Func<Object> GetView { get; }
+```
+
 ### Property Value
 
-Type: [Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
+Type: [Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;
+
+```VB
+'Declaration
+Public ReadOnly Property GetView As Func(Of Object)
+	Get
+```
+### Property Value
+
+Type: [Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))
 
 ## See Also
-[ViewRegisteredEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregisteredeventargs)
 
-[ViewRegisteredEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.viewregisteredeventargs)
+[ViewRegisteredEventArgs Class](/patterns-practices/reference/viewregisteredeventargs-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[ViewRegisteredEventArgs Members](/patterns-practices/reference/viewregisteredeventargs-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
