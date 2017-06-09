@@ -4,10 +4,11 @@ Title: 'RegionActiveAwareBehavior Members (Microsoft.Practices.Prism.Regions.Beh
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior'
 ms:mtpsurl: 'regionactiveawarebehavior-members-mspp-regions-behaviors.md'
 ---
-
+
+
 # RegionActiveAwareBehavior Members
 
-The [RegionActiveAwareBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior) type exposes the following members.
+The [RegionActiveAwareBehavior](/patterns-practices/reference/regionactiveawarebehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Constructors
 
@@ -24,9 +25,9 @@ The [RegionActiveAwareBehavior](https://msdn.microsoft.com/library/microsoft.pra
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior.">RegionActiveAwareBehavior</a></td>
+<td>RegionActiveAwareBehavior</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior">RegionActiveAwareBehavior</a> class
+Initializes a new instance of the <a href="/patterns-practices/reference/regionactiveawarebehavior-class-mspp-regions-behaviors">RegionActiveAwareBehavior</a> class
 </div></td>
 </tr>
 </tbody>
@@ -47,14 +48,14 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior.attach">Attach</a></td>
+<td><a href="/patterns-practices/reference/iregionbehavior-attach-method-mspp-regions">Attach</a></td>
 <td><div class="summary">
 Attaches the behavior to the specified region
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior.detach">Detach</a></td>
+<td><a href="/patterns-practices/reference/regionactiveawarebehavior-detach-method-mspp-regions-behaviors">Detach</a></td>
 <td><div class="summary">
 Detaches the behavior from the <a href="http://msdn.microsoft.com/en-us/library/ms668629">INotifyCollectionChanged</a>.
 </div></td>
@@ -125,9 +126,9 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior.behaviorkey">BehaviorKey</a></td>
+<td><a href="/patterns-practices/reference/regionactiveawarebehavior-behaviorkey-field-mspp-regions-behaviors">BehaviorKey</a></td>
 <td><div class="summary">
-Name that identifies the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior">RegionActiveAwareBehavior</a> behavior in a collection of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a>.
+Name that identifies the <a href="/patterns-practices/reference/regionactiveawarebehavior-class-mspp-regions-behaviors">RegionActiveAwareBehavior</a> behavior in a collection of <a href="/patterns-practices/reference/iregionbehavior-interface-mspp-regions">IRegionBehavior</a>.
 </div></td>
 </tr>
 </tbody>
@@ -148,7 +149,7 @@ Name that identifies the <a href="https://msdn.microsoft.com/library/microsoft.p
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior.region">Region</a></td>
+<td><a href="/patterns-practices/reference/iregionbehavior-region-property-mspp-regions">Region</a></td>
 <td><div class="summary">
 The region that this behavior is extending
 </div></td>
@@ -157,6 +158,7 @@ The region that this behavior is extending
 </table>
 
 ## See Also
-[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+[RegionActiveAwareBehavior Class](/patterns-practices/reference/regionactiveawarebehavior-class-mspp-regions-behaviors)
+
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
