@@ -28,17 +28,17 @@ protected override IEnumerable<Object> GetCandidatesFromRegion(
 
 ### Parameters
 
-region  
+*region*  
 Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/mspp-regions-namespace.iregion)
 The region containing items that may satisfy the navigation request.
 
-candidateNavigationContract  
+*candidateNavigationContract*  
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The candidate navigation target.
 
 ### Return Value
 
-Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)
 An enumerable of candidate objects from the [IRegion](/patterns-practices/reference/mspp-regions-namespace.iregion)
 
 ## Syntax
@@ -52,17 +52,17 @@ protected override IEnumerable<Object> GetCandidatesFromRegion(
 
 ### Parameters
 
-region  
+*region*  
 Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/mspp-regions-namespace.iregion)
 The region containing items that may satisfy the navigation request.
 
-candidateNavigationContract  
+*candidateNavigationContract*  
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The candidate navigation target.
 
 ### Return Value
 
-Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;(Of &lt;([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;)&gt;)
+Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of ([Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)))
 An enumerable of candidate objects from the [IRegion](/patterns-practices/reference/mspp-regions-namespace.iregion)
 
 ## See Also

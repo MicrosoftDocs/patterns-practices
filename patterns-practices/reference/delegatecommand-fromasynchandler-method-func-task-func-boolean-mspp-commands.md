@@ -8,7 +8,7 @@ ms:mtpsurl: 'delegatecommand-fromasynchandler-method-func-task-func-boolean-mspp
 
 # DelegateCommand.FromAsyncHandler Method (Func&lt;Task&gt;, Func&lt;Boolean&gt;)
 
-Factory method to create a new instance of [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand) from an awaitable handler method.
+Factory method to create a new instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) from an awaitable handler method.
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
 
@@ -41,25 +41,25 @@ Delegate to execute when CanExecute is called on the command. This can be null.
 
 ### Return Value
 
-Type: [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
+Type: [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)
 
-Constructed instance of [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
+Constructed instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)
 
 ## See Also
 
-[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
+[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)
 
-[DelegateCommand Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand_members)
+[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)
 
-[FromAsyncHandler Overload](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand.fromasynchandler)
+[FromAsyncHandler Overload](/patterns-practices/reference/delegatecommand-fromasynchandler-method-mspp-commands)
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
 
 
 
 # DelegateCommand.FromAsyncHandler Method (Func(Of Task), Func(Of Boolean))
 
-Factory method to create a new instance of [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand) from an awaitable handler method.
+Factory method to create a new instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) from an awaitable handler method.
 
 **Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
 
@@ -92,16 +92,16 @@ Delegate to execute when CanExecute is called on the command. This can be null.
 
 ### Return Value
 
-Type: [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
+Type: [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)
 
-Constructed instance of [DelegateCommand](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
+Constructed instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)
 
 ## See Also
 
-[DelegateCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommand)
+[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)
 
-[DelegateCommand Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand_members)
+[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)
 
-[FromAsyncHandler Overload](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommand.fromasynchandler)
+[FromAsyncHandler Overload](/patterns-practices/reference/delegatecommand-fromasynchandler-method-mspp-commands)
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

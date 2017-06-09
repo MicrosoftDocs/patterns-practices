@@ -7,7 +7,7 @@ ms:mtpsurl: 'eventbase-contains-method-mspp-pubsubevents.md'
 
 # EventBase.Contains Method
 
-Returns **Truetrue** (**True** in Visual Basic) if there is a subscriber matching [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken).
+Returns **Truetrue** (**True** in Visual Basic) if there is a subscriber matching [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents).
 
 **Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
 
@@ -32,15 +32,15 @@ Public Overridable Function Contains (
 
 *token*
 
-Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken)
+Type: [Microsoft.Practices.Prism.PubSubEvents.SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)
 
-The [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken) returned by [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents) while subscribing to the event.
+The [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents) returned by [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents) while subscribing to the event.
 
 #### Return Value
 
 Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 
-**truetrue** (**True** in Visual Basic) if there is a [SubscriptionToken](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.subscriptiontoken) that matches; otherwise **falsefalse** (**False** in Visual Basic).
+**truetrue** (**True** in Visual Basic) if there is a [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents) that matches; otherwise **falsefalse** (**False** in Visual Basic).
 
 ## See Also
 

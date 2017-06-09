@@ -7,7 +7,7 @@ ms:mtpsurl: 'delegatereference-methods-mspp-pubsubevents.md'
 
 # DelegateReference Methods
 
-The [DelegateReference](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.delegatereference(v=pandp.50)) type exposes the following members.
+The [DelegateReference](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents) type exposes the following members.
 
 ## Methods
 
@@ -73,6 +73,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[DelegateReference Class](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.delegatereference(v=pandp.50))
+[DelegateReference Class](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents)
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)

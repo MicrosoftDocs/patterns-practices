@@ -8,7 +8,7 @@ ms:mtpsurl: 'unityregionnavigationcontentloader-members-mspp-unityextensions-reg
 
 # UnityRegionNavigationContentLoader Members
 
-The [UnityRegionNavigationContentLoader](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader) type exposes the following members.
+The [UnityRegionNavigationContentLoader](/patterns-practices/reference/unityregionnavigationcontentloader-class-mspp-unityextensions-regions) type exposes the following members.
 
 ## Constructors
 
@@ -24,9 +24,9 @@ The [UnityRegionNavigationContentLoader](https://msdn.microsoft.com/library/micr
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader">UnityRegionNavigationContentLoader</a></td>
+<td><a href="/patterns-practices/reference/unityregionnavigationcontentloader-class-mspp-unityextensions-regions">UnityRegionNavigationContentLoader</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader">UnityRegionNavigationContentLoader</a> class.
+Initializes a new instance of the <a href="/patterns-practices/reference/unityregionnavigationcontentloader-class-mspp-unityextensions-regions">UnityRegionNavigationContentLoader</a> class.
 </div></td>
 </tr>
 </tbody>
@@ -47,11 +47,11 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader.createnewregionitem(system.string)">CreateNewRegionItem</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationcontentloader-createnewregionitem-method-mspp-regions">CreateNewRegionItem</a></td>
 <td><div class="summary">
 Provides a new item for the region based on the supplied candidate target contract name.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader">RegionNavigationContentLoader</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationcontentloader-class-mspp-regions">RegionNavigationContentLoader</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -71,19 +71,21 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader.getcandidatesfromregion(microsoft.practices.prism.regions.iregion%2csystem.string)">GetCandidatesFromRegion</a></td>
+<td><a href="/patterns-practices/reference/unityregionnavigationcontentloader-getcandidatesfromregion-method-mspp-unityextensions-regions">GetCandidatesFromRegion</a></td>
 <td><div class="summary">
 Returns the set of candidates that may satisfiy this navigation request.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader.getcandidatesfromregion(microsoft.practices.prism.regions.iregion%2csystem.string)">RegionNavigationContentLoader.GetCandidatesFromRegion(IRegion, String)</a>.)</td>
+(Overrides <a href="/patterns-practices/reference/regionnavigationcontentloader-getcandidatesfromregion-method-mspp-regions
+">RegionNavigationContentLoader.GetCandidatesFromRegion(IRegion, String)</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader.getcontractfromnavigationcontext(microsoft.practices.prism.regions.navigationcontext)">GetContractFromNavigationContext</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationcontentloader-getcontractfromnavigationcontext-method-mspp-regions
+">GetContractFromNavigationContext</a></td>
 <td><div class="summary">
-Returns the candidate TargetContract based on the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext">NavigationContext</a>.
+Returns the candidate TargetContract based on the <a href="/patterns-practices/reference/navigationcontext-class-mspp-regions">NavigationContext</a>.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader">RegionNavigationContentLoader</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationcontentloader-class-mspp-regions">RegionNavigationContentLoader</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -103,11 +105,11 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader.loadcontent(microsoft.practices.prism.regions.iregion%2cmicrosoft.practices.prism.regions.navigationcontext)">LoadContent</a></td>
+<td><a href="/patterns-practices/reference/regionnavigationcontentloader-loadcontent-method-mspp-regions">LoadContent</a></td>
 <td><div class="summary">
 Gets the view to which the navigation request represented by navigationContext applies.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationcontentloader">RegionNavigationContentLoader</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionnavigationcontentloader-class-mspp-regions">RegionNavigationContentLoader</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -130,6 +132,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[UnityRegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions.unityregionnavigationcontentloader)
+[UnityRegionNavigationContentLoader Class](/patterns-practices/reference/unityregionnavigationcontentloader-class-mspp-unityextensions-regions)
 
-[Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.regions)
+[Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](/patterns-practices/reference/mspp-unityextensions-regions-namespace)

@@ -18,19 +18,21 @@ Initializes a new instance of the [RegionNavigationFailedEventArgs](/patterns-pr
 
 ## Syntax
 
-~~~C#
+```C#
 public RegionNavigationFailedEventArgs(
 	NavigationContext navigationContext,
 	Exception error
 )
-~~~
-~~~VB
+```
+
+```VB
 'Declaration
 Public Sub New ( 
 	navigationContext As NavigationContext,
 	error As Exception
 )
-~~~
+```
+
 ### Parameters
 
 _navigationContext_
@@ -43,9 +45,6 @@ The navigation context.
 _error_
 
 Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)
-
-error  
-Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
 
 The error.
 

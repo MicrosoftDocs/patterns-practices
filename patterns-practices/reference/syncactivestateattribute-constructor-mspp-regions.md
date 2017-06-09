@@ -8,9 +8,9 @@ ms:mtpsurl: 'syncactivestateattribute-constructor-mspp-regions.md'
 
 # SyncActiveStateAttribute Constructor
 
-Initializes a new instance of the [SyncActiveStateAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute) class
+Initializes a new instance of the [SyncActiveStateAttribute](/patterns-practices/reference/syncactivestateattribute-class-mspp-regions) class
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -29,8 +29,8 @@ Public Sub New
 
 ## See Also
 
-[SyncActiveStateAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute)
+[SyncActiveStateAttribute Class](/patterns-practices/reference/syncactivestateattribute-class-mspp-regions)
 
-[SyncActiveStateAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.syncactivestateattribute)
+[SyncActiveStateAttribute Members](/patterns-practices/reference/syncactivestateattribute-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
