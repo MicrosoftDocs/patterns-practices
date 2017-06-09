@@ -4,7 +4,7 @@ Title: 'ModuleDependencySolver Methods (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Modularity.ModuleDependencySolver'
 ms:mtpsurl: 'moduledependencysolver-methods-mspp-modularity.md'
 ---
-
+
 # ModuleDependencySolver Methods
 
 The [ModuleDependencySolver](/patterns-practices/reference/moduledependencysolver-class-mspp-modularity) type exposes the following members.
@@ -23,14 +23,14 @@ The [ModuleDependencySolver](/patterns-practices/reference/moduledependencysolve
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver.adddependency(system.string%2csystem.string)">AddDependency</a></td>
+<td><a href="/patterns-practices/reference/moduledependencysolver-adddependency-method-mspp-modularity">AddDependency</a></td>
 <td><div class="summary">
 Adds a module dependency between the modules specified by dependingModule and dependentModule.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver.addmodule(system.string)">AddModule</a></td>
+<td><a href="/patterns-practices/reference/moduledependencysolver-addmodule-method-mspp-modularity">AddModule</a></td>
 <td><div class="summary">
 Adds a module to the solver.
 </div></td>
@@ -77,7 +77,7 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencysolver.solve">Solve</a></td>
+<td><a href="/patterns-practices/reference/moduledependencysolver-solve-method-mspp-modularity">Solve</a></td>
 <td><div class="summary">
 Calculates an ordered vector according to the defined dependencies. Non-dependant modules appears at the beginning of the resulting array.
 </div></td>
