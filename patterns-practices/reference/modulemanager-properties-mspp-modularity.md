@@ -4,10 +4,11 @@ Title: 'ModuleManager Properties (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Modularity.ModuleManager'
 ms:mtpsurl: 'modulemanager-properties-mspp-modularity.md'
 ---
-
+
+
 # ModuleManager Properties
 
-The [ModuleManager](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager) type exposes the following members.
+The [ModuleManager](/patterns-practices/reference/modulemanager-class-mspp-modularity) type exposes the following members.
 
 ## Properties
 
@@ -24,22 +25,23 @@ The [ModuleManager](https://msdn.microsoft.com/library/microsoft.practices.prism
 <tbody>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.modulecatalog">ModuleCatalog</a></td>
+<td>[ModuleCatalog](/patterns-practices/reference/modulemanager-modulecatalog-property-mspp-modularity)</td>
 <td><div class="summary">
 The module catalog specified in the constructor.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager.moduletypeloaders">ModuleTypeLoaders</a></td>
+<td>[ModuleTypeLoaders](/patterns-practices/reference/modulemanager-moduletypeloaders-property-mspp-modularity)</td>
 <td><div class="summary">
-Returns the list of registered <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imoduletypeloader">IModuleTypeLoader</a> instances that will be used to load the types of modules.
+Returns the list of registered [IModuleTypeLoader](/patterns-practices/reference/imoduletypeloader-interface-mspp-modularity) instances that will be used to load the types of modules.
 </div></td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[ModuleManager Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.modulemanager)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

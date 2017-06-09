@@ -8,7 +8,7 @@ ms:mtpsurl: 'ihostawareregionbehavior-methods-mspp-regions-behaviors.md'
 
 # IHostAwareRegionBehavior Methods
 
-The [IHostAwareRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior) type exposes the following members.
+The [IHostAwareRegionBehavior](/patterns-practices/reference/ihostawareregionbehavior-interface-mspp-regions-behaviors) type exposes the following members.
 
 ## Methods
 
@@ -25,17 +25,17 @@ The [IHostAwareRegionBehavior](https://msdn.microsoft.com/library/microsoft.prac
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior.attach">Attach</a></td>
+<td>[Attach](/patterns-practices/reference/iregionbehavior-attach-method-mspp-regions)</td>
 <td><div class="summary">
 Attaches the behavior to the specified region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a>.)</td>
+(Inherited from [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions).)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[IHostAwareRegionBehavior Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.ihostawareregionbehavior)
+[IHostAwareRegionBehavior Interface](/patterns-practices/reference/ihostawareregionbehavior-interface-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
