@@ -4,30 +4,41 @@ Title: 'MefRegionNavigationJournal Class (Microsoft.Practices.Prism.MefExtension
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournal'
 ms:mtpsurl: 'mefregionnavigationjournal-class-mspp-mefextensions-regions.md'
 ---
-
+
 # MefRegionNavigationJournal Class
 
 Exports the MefRegionNavigationJournal using the Managed Extensibility Framework (MEF).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public class MefRegionNavigationJournal : RegionNavigationJournalPublic Class MefRegionNavigationJournal Inherits RegionNavigationJournal
+
+```C#
+public class MefRegionNavigationJournal : RegionNavigationJournal
+```
+
+```VB
+'Declaration
+Public Class MefRegionNavigationJournal
+	Inherits RegionNavigationJournal
+```
 
 ## Remarks
 
- This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used.
+&nbsp;&nbsp;This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used.
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft.Practices.Prism.Regions.RegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal)
-    Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournal
+&nbsp;&nbsp;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionNavigationJournal](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationJournal
 
 ## See Also
-[MefRegionNavigationJournal Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationjournal)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+[MefRegionNavigationJournal Members](/patterns-practices/reference/mefregionnavigationjournal-members-mspp-mefextensions-regions)
+
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

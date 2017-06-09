@@ -4,18 +4,28 @@ Title: 'MefSelectorItemsSourceSyncBehavior Class (Microsoft.Practices.Prism.MefE
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSelectorItemsSourceSyncBehavior'
 ms:mtpsurl: 'mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors.md'
 ---
-
+
 # MefSelectorItemsSourceSyncBehavior Class
 
 Exports the SelectorItemsSourceSyncBehavior using the Managed Extensibility Framework (MEF).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public class MefSelectorItemsSourceSyncBehavior : SelectorItemsSourceSyncBehaviorPublic Class MefSelectorItemsSourceSyncBehavior Inherits SelectorItemsSourceSyncBehavior
+
+```C#
+public class MefSelectorItemsSourceSyncBehavior : SelectorItemsSourceSyncBehavior
+```
+
+```VB
+'Declaration
+Public Class MefSelectorItemsSourceSyncBehavior
+	Inherits SelectorItemsSourceSyncBehavior
+```
 
 ## Remarks
 
@@ -23,12 +33,13 @@ Exports the SelectorItemsSourceSyncBehavior using the Managed Extensibility Fram
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft.Practices.Prism.Regions.RegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior)
-    [Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.selectoritemssourcesyncbehavior)
-      Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSelectorItemsSourceSyncBehavior
+&nbsp;&nbsp;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
+&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.Behaviors.SelectorItemsSourceSyncBehavior](/patterns-practices/reference/selectoritemssourcesyncbehavior-class-mspp-regions-behaviors)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefSelectorItemsSourceSyncBehavior
 
 ## See Also
-[MefSelectorItemsSourceSyncBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.behaviors.mefselectoritemssourcesyncbehavior)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)
+[MefSelectorItemsSourceSyncBehavior Members](/patterns-practices/reference/mefselectoritemssourcesyncbehavior-members-mspp-mefextensions-regions-behaviors)
+
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

@@ -4,7 +4,7 @@ Title: 'CyclicDependencyFoundException Class (Microsoft.Practices.Prism.Modulari
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException'
 ms:mtpsurl: 'cyclicdependencyfoundexception-class-mspp-modularity.md'
 ---
-
+
 # CyclicDependencyFoundException Class
 
 Represents the exception that is thrown when there is a circular dependency between modules during the module loading process.
@@ -21,6 +21,7 @@ Represents the exception that is thrown when there is a circular dependency betw
 [SerializableAttribute]
 public class CyclicDependencyFoundException : ModularityException
 ```
+
 ```VB
 'Declaration
 <SerializableAttribute>
@@ -30,10 +31,10 @@ Public Class CyclicDependencyFoundException
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-  [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)<br/>
-    [Microsoft.Practices.Prism.Modularity.ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity)<br/>
-      Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException
+&nbsp;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
+&nbsp;&nbsp;&nbsp;[System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Modularity.ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.Modularity.CyclicDependencyFoundException
 
 ## See Also
 
