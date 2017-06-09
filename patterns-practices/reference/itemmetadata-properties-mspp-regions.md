@@ -24,45 +24,45 @@ The [ItemMetadata](https://msdn.microsoft.com/library/microsoft.practices.prism.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms600674">DependencyObjectType</a></td>
+<td>[DependencyObjectType](http://msdn.microsoft.com/en-us/library/ms600674)</td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/ms589310">DependencyObjectType</a> that wraps the CLR type of this instance. 
+Gets the [DependencyObjectType](http://msdn.microsoft.com/en-us/library/ms589310) that wraps the CLR type of this instance. 
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms605656">Dispatcher</a></td>
+<td>[Dispatcher](http://msdn.microsoft.com/en-us/library/ms605656)</td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/ms615907">Dispatcher</a> this <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a> is associated with.
+Gets the [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907) this [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925) is associated with.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms615925">DispatcherObject</a>.)</td>
+(Inherited from [DispatcherObject](http://msdn.microsoft.com/en-us/library/ms615925).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.isactive">IsActive</a></td>
+<td>[IsActive](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.isactive)</td>
 <td><div class="summary">
 Gets or sets a value indicating whether the wrapped item is considered active.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms600677">IsSealed</a></td>
+<td>[IsSealed](http://msdn.microsoft.com/en-us/library/ms600677)</td>
 <td><div class="summary">
 Gets a value that indicates whether this instance is currently sealed (read-only).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/ms589309">DependencyObject</a>.)</td>
+(Inherited from [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.item">Item</a></td>
+<td>[Item](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.item)</td>
 <td><div class="summary">
 Gets the wrapped item.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.name">Name</a></td>
+<td>[Name](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.name)</td>
 <td><div class="summary">
 Gets or sets a name for the wrapped item.
 </div></td>

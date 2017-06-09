@@ -4,7 +4,8 @@ Title: 'Bootstrapper.ConfigureServiceLocator Method (Microsoft.Practices.Prism)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Bootstrapper.ConfigureServiceLocator'
 ms:mtpsurl: 'bootstrapper-configureservicelocator-method-mspp.md'
 ---
-
+
+
 # Bootstrapper.ConfigureServiceLocator Method
 
 Configures the LocatorProvider for the ServiceLocator.

@@ -24,21 +24,21 @@ The [NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.p
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.navigationservice">NavigationService</a></td>
+<td>[NavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.navigationservice)</td>
 <td><div class="summary">
 Gets the region navigation service.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.parameters">Parameters</a></td>
+<td>[Parameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.parameters)</td>
 <td><div class="summary">
-Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters">NavigationParameters</a> extracted from the URI and the object parameters passed in navigation.
+Gets the [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters) extracted from the URI and the object parameters passed in navigation.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.uri">Uri</a></td>
+<td>[Uri](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.uri)</td>
 <td><div class="summary">
 Gets the navigation URI.
 </div></td>
