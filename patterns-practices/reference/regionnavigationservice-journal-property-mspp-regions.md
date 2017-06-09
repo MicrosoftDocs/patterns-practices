@@ -4,7 +4,8 @@ Title: 'RegionNavigationService.Journal Property (Microsoft.Practices.Prism.Regi
 ms:assetid: 'P:Microsoft.Practices.Prism.Regions.RegionNavigationService.Journal'
 ms:mtpsurl: 'regionnavigationservice-journal-property-mspp-regions.md'
 ---
-
+
+
 # RegionNavigationService.Journal Property
 
 Gets the journal.
@@ -29,15 +30,16 @@ Public ReadOnly Property Journal As IRegionNavigationJournal
 
 ### Property Value
 
-Type: [IRegionNavigationJournal](/patterns-practices/reference/iregionnavigationjournal-interface-mspp-regions)
-<br/>The journal.
+Type: [IRegionNavigationJournal](/patterns-practices/reference/iregionnavigationjournal-interface-mspp-regions)  
+The journal.
 
 ### Implements
 
 [IRegionNavigationService.Journal](/patterns-practices/reference/iregionnavigationservice-journal-property-mspp-regions)
 
 ## See Also
-[RegionNavigationService Class](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)
+
+[RegionNavigationService Class](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)
 
 [RegionNavigationService Members](/patterns-practices/reference/regionnavigationservice-members-mspp-regions)
 
