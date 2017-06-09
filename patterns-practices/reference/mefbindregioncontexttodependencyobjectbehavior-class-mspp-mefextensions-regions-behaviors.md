@@ -4,18 +4,27 @@ Title: 'MefBindRegionContextToDependencyObjectBehavior Class (Microsoft.Practice
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefBindRegionContextToDependencyObjectBehavior'
 ms:mtpsurl: 'mefbindregioncontexttodependencyobjectbehavior-class-mspp-mefextensions-regions-behaviors.md'
 ---
-
+
 # MefBindRegionContextToDependencyObjectBehavior Class
 
 Exports the BindRegionContextToDependencyObjectBehavior using the Managed Extensibility Framework (MEF).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)
-**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public class MefBindRegionContextToDependencyObjectBehavior : BindRegionContextToDependencyObjectBehaviorPublic Class MefBindRegionContextToDependencyObjectBehavior Inherits BindRegionContextToDependencyObjectBehavior
+```C#
+public class MefBindRegionContextToDependencyObjectBehavior : BindRegionContextToDependencyObjectBehavior
+```
+
+```VB
+'Declaration
+Public Class MefBindRegionContextToDependencyObjectBehavior
+	Inherits BindRegionContextToDependencyObjectBehavior
+```
 
 ## Remarks
 
@@ -23,11 +32,12 @@ Exports the BindRegionContextToDependencyObjectBehavior using the Managed Extens
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior)
-    Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefBindRegionContextToDependencyObjectBehavior
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+  [Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors)  
+    Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefBindRegionContextToDependencyObjectBehavior
 
 ## See Also
-[MefBindRegionContextToDependencyObjectBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.behaviors.mefbindregioncontexttodependencyobjectbehavior)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)
+[MefBindRegionContextToDependencyObjectBehavior Members](/patterns-practices/reference/mefbindregioncontexttodependencyobjectbehavior-members-mspp-mefextensions-regions-behaviors)
+
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
