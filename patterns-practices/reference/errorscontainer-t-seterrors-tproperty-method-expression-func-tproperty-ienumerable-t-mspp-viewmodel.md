@@ -28,21 +28,21 @@ public void SetErrors<TProperty>(
 
 *propertyExpression*  
 
-Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)&lt;[Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;TProperty&gt;&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)&lt;[Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;TProperty&gt;&gt;
 
-The [Expression](http://msdn.microsoft.com/en-us/library/bb356138) indicating the property.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The [Expression](http://msdn.microsoft.com/en-us/library/bb356138) indicating the property.
 
 *propertyErrors*  
 
-Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[T](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[T](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)&gt;
 
-The list of errors to set for the property.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The list of errors to set for the property.
 
 ## Type Parameters
 
 *TProperty*
 
-The property type for which to set errors.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The property type for which to set errors.
 
 ## See Also
 
@@ -79,21 +79,21 @@ Public Sub SetErrors(Of TProperty) (
 
 *propertyExpression*  
 
-Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)(Of [Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of TProperty))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)(Of [Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of TProperty))
 
-The [Expression](http://msdn.microsoft.com/en-us/library/bb356138) indicating the property.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The [Expression](http://msdn.microsoft.com/en-us/library/bb356138) indicating the property.
 
 *propertyErrors*  
 
-Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [T](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [T](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel))
 
-The list of errors to set for the property.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The list of errors to set for the property.
 
 ## Type Parameters
 
 *TProperty*
 
-The property type for which to set errors.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The property type for which to set errors.
 
 ## See Also
 

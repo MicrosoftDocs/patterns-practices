@@ -7,9 +7,9 @@ ms:mtpsurl: 'iregioncollection-add-method-mspp-regions.md'
 
 # IRegionCollection.Add Method
 
-Adds a [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) to the collection.
+Adds a [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) to the collection.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,14 +32,16 @@ Sub Add (
 
 ### Parameters
 
-*region*<br/>  
-Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)<br/>
+*region*
+  
+Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
+
 Region to be added to the collection.
 
 ## See Also
 
-[IRegionCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection)
+[IRegionCollection Interface](/patterns-practices/reference/iregioncollection-interface-mspp-regions)
 
-[IRegionCollection Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection_members(v=pandp.50))
+[IRegionCollection Members](/patterns-practices/reference/iregioncollection-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

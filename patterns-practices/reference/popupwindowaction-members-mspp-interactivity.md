@@ -8,7 +8,7 @@ ms:mtpsurl: 'popupwindowaction-members-mspp-interactivity.md'
 
 # PopupWindowAction Members
 
-The [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction) type exposes the following members.
+The [PopupWindowAction](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity) type exposes the following members.
 
 ## Constructors
 
@@ -25,9 +25,9 @@ The [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.p
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.">PopupWindowAction</a></td>
+<td><a href="/patterns-practices/reference/popupwindowaction-class-mspp-interactivity">PopupWindowAction</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction">PopupWindowAction</a> class
+Initializes a new instance of the <a href="/patterns-practices/reference/popupwindowaction-class-mspp-interactivity">PopupWindowAction</a> class
 </div></td>
 </tr>
 </tbody>
@@ -149,9 +149,12 @@ Coerces the value of the specified dependency property. This is accomplished by 
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.createdefaultwindow(microsoft.practices.prism.interactivity.interactionrequest.inotification)">CreateDefaultWindow</a></td>
+<td><a href="/patterns-practices/reference/popupwindowaction-createdefaultwindow-method-mspp-interactivity
+">CreateDefaultWindow</a></td>
 <td><div class="summary">
-When no WindowContent is sent this method is used to create a default basic window to show the corresponding <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification">INotification</a> or <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation">IConfirmation</a>.
+When no WindowContent is sent this method is used to create a default basic window to show the corresponding <a href="/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest
+">INotification</a> or <a href="/patterns-practices/reference/iconfirmation-interface-mspp-interactivity-interactionrequest
+">IConfirmation</a>.
 </div></td>
 </tr>
 <tr class="odd">
@@ -278,7 +281,8 @@ Returns the current effective value of a dependency property on this instance of
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.getwindow(microsoft.practices.prism.interactivity.interactionrequest.inotification)">GetWindow</a></td>
+<td><a href="/patterns-practices/reference/popupwindowaction-getwindow-method-mspp-interactivity
+">GetWindow</a></td>
 <td><div class="summary">
 Returns the window to display as part of the trigger action.
 </div></td>
@@ -293,9 +297,11 @@ Re-evaluates the effective value for the specified dependency property
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.invoke(system.object)">Invoke</a></td>
+<td><a href="/patterns-practices/reference/popupwindowaction-invoke-method-mspp-interactivity
+">Invoke</a></td>
 <td><div class="summary">
-Displays the child window and collects results for <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequest">IInteractionRequest</a>.
+Displays the child window and collects results for <a href="/patterns-practices/reference/iinteractionrequest-interface-mspp-interactivity-interactionrequest
+">IInteractionRequest</a>.
 </div>
 (Overrides TriggerActionInvoke(Object).)</td>
 </tr>
@@ -351,9 +357,11 @@ Overrides the <a href="http://msdn.microsoft.com/en-us/library/ms589309">Depende
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.preparecontentforwindow(microsoft.practices.prism.interactivity.interactionrequest.inotification%2csystem.windows.window)">PrepareContentForWindow</a></td>
+<td><a href="/patterns-practices/reference/popupwindowaction-preparecontentforwindow-method-mspp-interactivity
+">PrepareContentForWindow</a></td>
 <td><div class="summary">
-Checks if the WindowContent or its DataContext implements <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iinteractionrequestaware">IInteractionRequestAware</a>. If so, it sets the corresponding value. Also, if WindowContent does not have a RegionManager attached, it creates a new scoped RegionManager for it.
+Checks if the WindowContent or its DataContext implements <a href="/patterns-practices/reference/iinteractionrequestaware-interface-mspp-interactivity-interactionrequest
+">IInteractionRequestAware</a>. If so, it sets the corresponding value. Also, if WindowContent does not have a RegionManager attached, it creates a new scoped RegionManager for it.
 </div></td>
 </tr>
 <tr class="even">
@@ -454,21 +462,24 @@ Verifies that the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Fre
 <tbody>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.centeroverassociatedobjectproperty">CenterOverAssociatedObjectProperty</a></td>
+<td><a href="/patterns-practices/reference/popupwindowaction-centeroverassociatedobjectproperty-field-mspp-interactivity
+">CenterOverAssociatedObjectProperty</a></td>
 <td><div class="summary">
 Determines if the content should be initially shown centered over the view that raised the interaction request or not.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.ismodalproperty">IsModalProperty</a></td>
+<td><a href="/patterns-practices/reference/popupwindowaction-ismodalproperty-field-mspp-interactivity
+">IsModalProperty</a></td>
 <td><div class="summary">
 Determines if the content should be shown in a modal window or not.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.windowcontentproperty">WindowContentProperty</a></td>
+<td><a href="/patterns-practices/reference/popupwindowaction-windowcontentproperty-field-mspp-interactivity
+">WindowContentProperty</a></td>
 <td><div class="summary">
 The content of the child window to display as part of the popup.
 </div></td>
@@ -509,7 +520,8 @@ Gets a value that indicates whether the object can be made unmodifiable.
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.centeroverassociatedobject">CenterOverAssociatedObject</a></td>
+<td><a href="/patterns-practices/reference/popupwindowaction-centeroverassociatedobject-property-mspp-interactivity
+">CenterOverAssociatedObject</a></td>
 <td><div class="summary">
 Gets or sets if the window will be initially shown centered over the view that raised the interaction request or not.
 </div></td>
@@ -553,7 +565,8 @@ Gets a value that indicates whether the object is currently modifiable.
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.ismodal">IsModal</a></td>
+<td><a href="/patterns-practices/reference/popupwindowaction-ismodal-property-mspp-interactivity
+">IsModal</a></td>
 <td><div class="summary">
 Gets or sets if the window will be modal or not.
 </div></td>
@@ -568,7 +581,8 @@ Gets a value that indicates whether this instance is currently sealed (read-only
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction.windowcontent">WindowContent</a></td>
+<td><a href="/patterns-practices/reference/popupwindowaction-windowcontent-property-mspp-interactivity
+">WindowContent</a></td>
 <td><div class="summary">
 Gets or sets the content of the window.
 </div></td>
@@ -602,6 +616,6 @@ Occurs when the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freez
 
 ## See Also
 
-[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
+[PopupWindowAction Class](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)

@@ -9,7 +9,7 @@ ms:mtpsurl: 'iregionnavigationcontentloader-loadcontent-method-mspp-regions.md'
 
 Gets the content to which the navigation request represented by navigationContext applies.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -34,17 +34,22 @@ Function LoadContent (
 
 ### Parameters
 
-*region*<br/>
-Type: [Microsoft.Practices.Prism.Regions.IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion)<br/>
+*region*
+
+Type: [Microsoft.Practices.Prism.Regions.IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
+
 The region.
 
-*navigationContext*<br/>
-Type: [Microsoft.Practices.Prism.Regions.NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)<br/>
+*navigationContext*
+
+Type: [Microsoft.Practices.Prism.Regions.NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions)
+
 The context representing the navigation request.
 
 ### Return Value
 
-Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+
 The item to be the target of the navigation request.
 
 ## Remarks
@@ -67,8 +72,8 @@ The item to be the target of the navigation request.
 
 ## See Also
 
-[IRegionNavigationContentLoader Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationcontentloader)
+[IRegionNavigationContentLoader Interface](/patterns-practices/reference/iregionnavigationcontentloader-interface-mspp-regions)
 
-[IRegionNavigationContentLoader Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationcontentloader_members(v=pandp.50))
+[IRegionNavigationContentLoader Members](/patterns-practices/reference/iregionnavigationcontentloader-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

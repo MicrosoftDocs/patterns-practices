@@ -9,7 +9,7 @@ ms:mtpsurl: 'iregion-deactivate-method-mspp-regions.md'
 
 Marks the specified view as inactive.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,14 +32,16 @@ Sub Deactivate (
 
 ### Parameters
 
-*view*<br/>
-Type: [System.Object](http://msdn2.microsoft.com/en-us/library/e5kfa45b)<br/>
-The view to deactivate.
+*view*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The view to deactivate.
 
 ## See Also
 
-[IRegion Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion(v=pandp.50))
+[IRegion Interface](/patterns-practices/reference/iregion-interface-mspp-regions)
 
-[IRegion Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregion_members(v=pandp.50))
+[IRegion Members](/patterns-practices/reference/iregion-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.50))
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

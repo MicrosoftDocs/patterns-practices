@@ -8,7 +8,7 @@ ms:mtpsurl: 'mefclearchildviewsregionbehavior-members-mspp-mefextensions-regions
 
 # MefClearChildViewsRegionBehavior Members
 
-The [MefClearChildViewsRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior) type exposes the following members.
+The [MefClearChildViewsRegionBehavior](/patterns-practices/reference/mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
 
 ## Constructors
 
@@ -25,9 +25,9 @@ The [MefClearChildViewsRegionBehavior](https://msdn.microsoft.com/library/micros
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior">MefClearChildViewsRegionBehavior</a></td>
+<td><a href="/patterns-practices/reference/mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors">MefClearChildViewsRegionBehavior</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior">MefClearChildViewsRegionBehavior</a> class
+Initializes a new instance of the <a href="/patterns-practices/reference/mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors">MefClearChildViewsRegionBehavior</a> class
 </div></td>
 </tr>
 </tbody>
@@ -48,11 +48,13 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.attach">Attach</a></td>
+<td><a href="/patterns-practices/reference/regionbehavior-attach-method-mspp-regions
+">Attach</a></td>
 <td><div class="summary">
 Attaches the behavior to the region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions
+">RegionBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -96,11 +98,14 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.onattach">OnAttach</a></td>
+<td><a href="/patterns-practices/reference/clearchildviewsregionbehavior-onattach-method-mspp-regions-behaviors
+">OnAttach</a></td>
 <td><div class="summary">
-Subscribes to the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>'s PropertyChanged method to monitor its RegionManager property.
+Subscribes to the <a href="/patterns-practices/reference/region-class-mspp-regions
+">Region</a>'s PropertyChanged method to monitor its RegionManager property.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior">ClearChildViewsRegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/clearchildviewsregionbehavior-class-mspp-regions-behaviors
+">ClearChildViewsRegionBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -128,25 +133,29 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.isattached">IsAttached</a></td>
+<td><a href="/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions
+">IsAttached</a></td>
 <td><div class="summary">
 Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions
+">RegionBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.region">Region</a></td>
+<td><a href="/patterns-practices/reference/regionbehavior-region-property-mspp-regions
+">Region</a></td>
 <td><div class="summary">
 Behavior's attached region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions
+">RegionBehavior</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[MefClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior)
+[MefClearChildViewsRegionBehavior Class](/patterns-practices/reference/mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors)
 
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)

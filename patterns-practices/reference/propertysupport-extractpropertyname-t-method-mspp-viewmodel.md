@@ -27,15 +27,15 @@ public static string ExtractPropertyName<T>(
 
 *propertyExpression* 
 
-Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)&lt;[Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;T&gt;&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)&lt;[Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;T&gt;&gt;
 
-The property expression (e.g. p =&gt; p.PropertyName)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The property expression (e.g. p =&gt; p.PropertyName)
 
 ### Type Parameters
 
 *T*
  
-  The object type containing the property specified in the expression.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The object type containing the property specified in the expression.
 
 ### Return Value
 
@@ -99,15 +99,15 @@ Public Shared Function ExtractPropertyName(Of T) (
 
 *propertyExpression*
  
-Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)(Of [Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of T))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Linq.Expressions.Expression](http://msdn.microsoft.com/en-us/library/bb335710)(Of [Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of T))
 
-The property expression (e.g. p =&gt; p.PropertyName)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The property expression (e.g. p =&gt; p.PropertyName)
 
 ### Type Parameters
 
 *T* 
 
-The object type containing the property specified in the expression.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The object type containing the property specified in the expression.
 
 ### Return Value
 

@@ -7,7 +7,7 @@ ms:mtpsurl: 'defaultconfirmationwindow-members-mspp-interactivity-defaultpopupwi
 
 # DefaultConfirmationWindow Members
 
-The [DefaultConfirmationWindow](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow) type exposes the following members.
+The [DefaultConfirmationWindow](/patterns-practices/reference/defaultconfirmationwindow-class-mspp-interactivity-defaultpopupwindows) type exposes the following members.
 
 ## Constructors
 
@@ -8045,6 +8045,6 @@ Occurs when the element is removed from within an element tree of loaded element
 
 ## See Also
 
-[DefaultConfirmationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
+[DefaultConfirmationWindow Class](/patterns-practices/reference/defaultconfirmationwindow-class-mspp-interactivity-defaultpopupwindows)
 
-[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
+[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)

@@ -7,8 +7,7 @@ ms:mtpsurl: 'commandbehaviorbase-t-members-mspp-interactivity.md'
 
 # CommandBehaviorBase&lt;T&gt; Members
 
-The [CommandBehaviorBase&lt;T&gt;](https://review.docs.microsoft.com/patterns-practices/reference/commandbehaviorbase-t-class-mspp-interactivity
-) type exposes the following members.
+The [CommandBehaviorBase&lt;T&gt;](/patterns-practices/reference/commandbehaviorbase-t-class-mspp-interactivity) type exposes the following members.
 
 ## Constructors
 
@@ -53,10 +52,10 @@ Determines whether the specified <a href="http://msdn.microsoft.com/en-us/librar
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/commandbehaviorbase-t-executecommand-method-mspp-interactivity
+<td><a href="/patterns-practices/reference/commandbehaviorbase-t-executecommand-method-mspp-interactivity
 ">ExecuteCommand</a></td>
 <td><div class="summary">
-Executes the command, if it's set, providing the <a href="https://review.docs.microsoft.com/patterns-practices/reference/commandbehaviorbase-t-commandparameter-property-mspp-interactivity
+Executes the command, if it's set, providing the <a href="/patterns-practices/reference/commandbehaviorbase-t-commandparameter-property-mspp-interactivity
 ">CommandParameter</a>
 </div></td>
 </tr>
@@ -102,7 +101,7 @@ Returns a string that represents the current object.
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/commandbehaviorbase-t-updateenabledstate-method-mspp-interactivity
+<td><a href="/patterns-practices/reference/commandbehaviorbase-t-updateenabledstate-method-mspp-interactivity
 ">UpdateEnabledState</a></td>
 <td><div class="summary">
 Updates the target object's IsEnabled property based on the commands ability to execute.
@@ -125,7 +124,7 @@ Updates the target object's IsEnabled property based on the commands ability to 
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/commandbehaviorbase-t-command-property-mspp-interactivity
+<td><a href="/patterns-practices/reference/commandbehaviorbase-t-command-property-mspp-interactivity
 ">Command</a></td>
 <td><div class="summary">
 Corresponding command to be execute and monitored for <a href="http://msdn.microsoft.com/en-us/library/ms523106">CanExecuteChanged</a>
@@ -133,7 +132,7 @@ Corresponding command to be execute and monitored for <a href="http://msdn.micro
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/commandbehaviorbase-t-commandparameter-property-mspp-interactivity
+<td><a href="/patterns-practices/reference/commandbehaviorbase-t-commandparameter-property-mspp-interactivity
 ">CommandParameter</a></td>
 <td><div class="summary">
 The parameter to supply the command during execution
@@ -141,7 +140,7 @@ The parameter to supply the command during execution
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/commandbehaviorbase-t-targetobject-property-mspp-interactivity
+<td><a href="/patterns-practices/reference/commandbehaviorbase-t-targetobject-property-mspp-interactivity
 ">TargetObject</a></td>
 <td><div class="summary">
 Object to which this behavior is attached.
@@ -152,7 +151,6 @@ Object to which this behavior is attached.
 
 ## See Also
 
-[CommandBehaviorBase&lt;T&gt; Class](https://review.docs.microsoft.com/patterns-practices/reference/commandbehaviorbase-t-class-mspp-interactivity
-)
+[CommandBehaviorBase&lt;T&gt; Class](/patterns-practices/reference/commandbehaviorbase-t-class-mspp-interactivity)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity)
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)
