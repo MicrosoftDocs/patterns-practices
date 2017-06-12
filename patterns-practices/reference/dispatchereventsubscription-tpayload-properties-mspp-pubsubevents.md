@@ -22,7 +22,7 @@ The [DispatcherEventSubscription&lt;TPayload&gt;](/patterns-practices/reference/
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[Action](/patterns-practices/reference/eventsubscription-tpayload-action-property-mspp-pubsubevents)</td>
 <td><div class="summary">
             Gets the target [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) that is referenced by the [IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents).
@@ -35,7 +35,7 @@ The [DispatcherEventSubscription&lt;TPayload&gt;](/patterns-practices/reference/
 
 </tr>
 <tr class="even">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[Filter](/patterns-practices/reference/eventsubscription-tpayload-filter-property-mspp-pubsubevents)</td>
 <td><div class="summary">
     Gets the target [Predicate&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz) that is referenced by the [IDelegateReference](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents).
@@ -47,7 +47,7 @@ The [DispatcherEventSubscription&lt;TPayload&gt;](/patterns-practices/reference/
 (Inherited from [EventSubscription&lt;TPayload&gt;](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents).)</td>
 </tr>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[SubscriptionToken](/patterns-practices/reference/eventsubscription-tpayload-subscriptiontoken-property-mspp-pubsubevents)</td>
 <td><div class="summary">
 Gets or sets a [SubscriptionToken](/patterns-practices/reference/eventsubscription-tpayload-subscriptiontoken-property-mspp-pubsubevents) that identifies this [IEventSubscription](/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription).
