@@ -25,21 +25,21 @@ The [EventSubscription&lt;TPayload&gt;](/patterns-practices/reference/mspp-mvvm-
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[Action]()</td>
 <td><div class="summary">
 Gets the target [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) that is referenced by the [IDelegateReference](/patterns-practices/reference/mspp-mvvm-namespace.idelegatereference).
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[Filter](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription.filter)</td>
 <td><div class="summary">
 Gets the target [Predicate&lt;T&gt;](http://msdn.microsoft.com/en-us/library/bfcke1bz) that is referenced by the [IDelegateReference](/patterns-practices/reference/mspp-mvvm-namespace.idelegatereference).
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[SubscriptionToken](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription.subscriptiontoken)</td>
 <td><div class="summary">
 Gets or sets a [SubscriptionToken](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription.subscriptiontoken) that identifies this [IEventSubscription](/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription).

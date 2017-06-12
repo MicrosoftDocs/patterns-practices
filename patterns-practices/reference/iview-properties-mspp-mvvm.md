@@ -12,7 +12,7 @@ The [IView](/patterns-practices/reference/iview-interface-mspp-mvvm) type expose
 ## Properties
 |    | Name  | Description 
 ----------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------|
-| ![Public property](/images/pubproperty.gif) | [DataContext](/patterns-practices/reference/iview-datacontext-property-mspp-mvvm) |             |
+| ![Public property](/patterns-practices/reference/images/pubproperty.gif) | [DataContext](/patterns-practices/reference/iview-datacontext-property-mspp-mvvm) |             |
 
 ## See Also
 
