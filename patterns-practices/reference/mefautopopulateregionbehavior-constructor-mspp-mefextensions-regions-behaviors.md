@@ -38,8 +38,6 @@ Type: [Microsoft.Practices.Prism.Regions.IRegionViewRegistry](/patterns-practice
 
 ## See Also
 
-[MefAutoPopulateRegionBehavior Class](/patterns-practices/reference/mefautopopulateregionbehavior-class-mspp-mefextensions-regions-behaviors)
-
-[MefAutoPopulateRegionBehavior Members](/patterns-practices/reference/mefautopopulateregionbehavior-members-mspp-mefextensions-regions-behaviors)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
+[MefAutoPopulateRegionBehavior Class](/patterns-practices/reference/mefautopopulateregionbehavior-class-mspp-mefextensions-regions-behaviors)<br/>
+[MefAutoPopulateRegionBehavior Members](/patterns-practices/reference/mefautopopulateregionbehavior-members-mspp-mefextensions-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)<br/>

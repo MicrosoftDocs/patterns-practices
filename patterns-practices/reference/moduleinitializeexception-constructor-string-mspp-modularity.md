@@ -40,10 +40,8 @@ The exception message.
 
 ## See Also
 
-[ModuleInitializeException Class](/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity)
-
-[ModuleInitializeException Members](/patterns-practices/reference/moduleinitializeexception-members-mspp-modularity)
-
+[ModuleInitializeException Class](/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity)<br/>
+[ModuleInitializeException Members](/patterns-practices/reference/moduleinitializeexception-members-mspp-modularity)<br/>
 ModuleInitializeException Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

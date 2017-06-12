@@ -37,8 +37,6 @@ The URI.
 
 ## See Also
 
-[RegionNavigationJournalEntry Class](/patterns-practices/reference/regionnavigationjournalentry-class-mspp-regions)
-
-[RegionNavigationJournalEntry Members](/patterns-practices/reference/regionnavigationjournalentry-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionNavigationJournalEntry Class](/patterns-practices/reference/regionnavigationjournalentry-class-mspp-regions)<br/>
+[RegionNavigationJournalEntry Members](/patterns-practices/reference/regionnavigationjournalentry-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

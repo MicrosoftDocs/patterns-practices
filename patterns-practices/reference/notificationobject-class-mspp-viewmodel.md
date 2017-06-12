@@ -41,6 +41,5 @@ Public MustInherit Class NotificationObject
 
 ## See Also
 
-[NotificationObject Members](/patterns-practices/reference/notificationobject-class-mspp-viewmodel)
-
-[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)
+[NotificationObject Members](/patterns-practices/reference/notificationobject-class-mspp-viewmodel)<br/>
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>

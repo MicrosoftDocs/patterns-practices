@@ -23,6 +23,5 @@ Class that provides extension methods to Collection
   Microsoft.Practices.Prism.CollectionExtensions
 
 ## See Also
-[CollectionExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.collectionextensions)
-
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[CollectionExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.collectionextensions)<br/>
+[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)<br/>

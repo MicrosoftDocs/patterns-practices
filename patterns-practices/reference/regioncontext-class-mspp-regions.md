@@ -33,6 +33,5 @@ Public NotInheritable Class RegionContext
   Microsoft.Practices.Prism.Regions.RegionContext
 
 ## See Also
-[RegionContext Members](/patterns-practices/reference/regioncontext-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionContext Members](/patterns-practices/reference/regioncontext-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

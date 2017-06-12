@@ -44,4 +44,4 @@ For this behavior, the host control must always be a [Selector](http://msdn.micr
 
 [SelectorItemsSourceSyncBehavior Class](/patterns-practices/reference/selectoritemssourcesyncbehavior-class-mspp-regions-behaviors)  
 [SelectorItemsSourceSyncBehavior Members](/patterns-practices/reference/selectoritemssourcesyncbehavior-members-mspp-regions-behaviors)  
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>

@@ -217,6 +217,5 @@ Initiates navigation to the target specified by the *target*.
 
 ## See Also
 
-[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)
-
+[Region Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)

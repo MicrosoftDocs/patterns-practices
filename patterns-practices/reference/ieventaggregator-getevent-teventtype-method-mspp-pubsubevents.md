@@ -36,12 +36,10 @@ An instance of an event object of type TEventType.
 
 ## See Also
 
-[IEventAggregator Interface](/patterns-practices/reference/bindablebase-class-mspp-mvvm)
-
+[IEventAggregator Interface](/patterns-practices/reference/bindablebase-class-mspp-mvvm)<br/>
 IEventAggregator Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
-
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
 
 # IEventAggregator.GetEvent(Of TEventType) Method
 
@@ -72,8 +70,7 @@ An instance of an event object of type TEventType.
 
 ## See Also
 
-[IEventAggregator Interface](/patterns-practices/reference/bindablebase-class-mspp-mvvm)
-
+[IEventAggregator Interface](/patterns-practices/reference/bindablebase-class-mspp-mvvm)<br/>
 IEventAggregator Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

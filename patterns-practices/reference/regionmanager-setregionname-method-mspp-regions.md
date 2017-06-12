@@ -43,6 +43,5 @@ The name of the region to register.
 
 [RegionManager Class](/patterns-practices/reference/regionmanager-class-mspp-regions)  
 [RegionManager Members](/patterns-practices/reference/regionmanager-members-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
-
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
 

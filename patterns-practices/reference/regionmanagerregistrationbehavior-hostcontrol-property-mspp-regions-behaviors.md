@@ -61,4 +61,4 @@ A [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309) that the 
 
 [RegionManagerRegistrationBehavior Class](/patterns-practices/reference/regionmanagerregistrationbehavior-class-mspp-regions-behaviors)  
 [RegionManagerRegistrationBehavior Members](/patterns-practices/reference/regionmanagerregistrationbehavior-members-mspp-regions-behaviors)  
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>

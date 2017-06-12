@@ -29,6 +29,5 @@ Public Interface IHostAwareRegionBehavior
 
 ## See Also
 
-[IHostAwareRegionBehavior Members](/patterns-practices/reference/ihostawareregionbehavior-members-mspp-regions-behaviors)
-
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+[IHostAwareRegionBehavior Members](/patterns-practices/reference/ihostawareregionbehavior-members-mspp-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>

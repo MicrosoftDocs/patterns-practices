@@ -117,6 +117,5 @@ Removes a command from the collection and removes itself from the <a href="http:
 
 ## See Also
 
-[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)
-
+[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)<br/>
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

@@ -34,6 +34,5 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 
 ## See Also
 
-[SyncActiveStateAttribute Class](/patterns-practices/reference/syncactivestateattribute-class-mspp-regions)
-
+[SyncActiveStateAttribute Class](/patterns-practices/reference/syncactivestateattribute-class-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

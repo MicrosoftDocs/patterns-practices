@@ -46,6 +46,5 @@ Parses the query of uri into a dictionary.
 </table>
 
 ## See Also
-[UriParsingHelper Class](/patterns-practices/reference/uriparsinghelper-class-mspp)
-
+[UriParsingHelper Class](/patterns-practices/reference/uriparsinghelper-class-mspp)<br/>
 [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

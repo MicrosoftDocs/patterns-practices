@@ -84,6 +84,5 @@ Gets a readonly view of the collection of views in the region.
 
 ## See Also
 
-[IRegion Interface](/patterns-practices/reference/iregion-interface-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[IRegion Interface](/patterns-practices/reference/iregion-interface-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

@@ -42,6 +42,5 @@ Public Class SyncRegionContextWithHostBehavior
 
 ## See Also
 
-[SyncRegionContextWithHostBehavior Members](/patterns-practices/reference/syncregioncontextwithhostbehavior-members-mspp-regions-behaviors)
-
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+[SyncRegionContextWithHostBehavior Members](/patterns-practices/reference/syncregioncontextwithhostbehavior-members-mspp-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>

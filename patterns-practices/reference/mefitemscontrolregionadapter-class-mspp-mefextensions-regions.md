@@ -51,6 +51,5 @@ Public Class MefItemsControlRegionAdapter
 
 ## See Also
 
-[MefItemsControlRegionAdapter Members](/patterns-practices/reference/mefitemscontrolregionadapter-members-mspp-mefextensions-regions)
-
+[MefItemsControlRegionAdapter Members](/patterns-practices/reference/mefitemscontrolregionadapter-members-mspp-mefextensions-regions)<br/>
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

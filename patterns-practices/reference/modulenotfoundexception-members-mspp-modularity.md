@@ -286,6 +286,5 @@ Occurs when an exception is serialized to create an exception state object that 
 
 ## See Also
 
-[ModuleNotFoundException Class](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleNotFoundException Class](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

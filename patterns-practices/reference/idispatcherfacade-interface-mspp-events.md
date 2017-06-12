@@ -28,6 +28,5 @@ Public Interface IDispatcherFacade
 ```
 
 ## See Also
-[IDispatcherFacade Members](/patterns-practices/reference/idispatcherfacade-members-mspp-events)
-
-[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)
+[IDispatcherFacade Members](/patterns-practices/reference/idispatcherfacade-members-mspp-events)<br/>
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)<br/>

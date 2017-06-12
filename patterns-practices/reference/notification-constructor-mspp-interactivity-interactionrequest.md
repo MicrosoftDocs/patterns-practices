@@ -28,8 +28,6 @@ Public Sub New
 
 ## See Also
 
-[Notification Class](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest)
-
-[Notification Members](/patterns-practices/reference/notification-members-mspp-interactivity-interactionrequest)
-
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
+[Notification Class](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest)<br/>
+[Notification Members](/patterns-practices/reference/notification-members-mspp-interactivity-interactionrequest)<br/>
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>

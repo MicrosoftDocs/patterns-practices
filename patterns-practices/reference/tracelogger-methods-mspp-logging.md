@@ -83,6 +83,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[TraceLogger Class](/patterns-practices/reference/tracelogger-class-mspp-logging)
-
-[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)
+[TraceLogger Class](/patterns-practices/reference/tracelogger-class-mspp-logging)<br/>
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)<br/>

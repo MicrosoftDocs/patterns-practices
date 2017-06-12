@@ -72,8 +72,6 @@ The item to be the target of the navigation request.
 
 ## See Also
 
-[IRegionNavigationContentLoader Interface](/patterns-practices/reference/iregionnavigationcontentloader-interface-mspp-regions)
-
-[IRegionNavigationContentLoader Members](/patterns-practices/reference/iregionnavigationcontentloader-members-mspp-regions)
-
+[IRegionNavigationContentLoader Interface](/patterns-practices/reference/iregionnavigationcontentloader-interface-mspp-regions)<br/>
+[IRegionNavigationContentLoader Members](/patterns-practices/reference/iregionnavigationcontentloader-members-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

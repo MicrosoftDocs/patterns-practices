@@ -33,10 +33,8 @@ The type of the error object.
 
 ## See Also
 
-[ErrorsContainer&lt;T&gt; Members](/patterns-practices/reference/errorscontainer-t-members-mspp-viewmodel)
-
-[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)
-
+[ErrorsContainer&lt;T&gt; Members](/patterns-practices/reference/errorscontainer-t-members-mspp-viewmodel)<br/>
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>
 ---------------------------
 
 # ErrorsContainer(Of T) Class
@@ -66,6 +64,5 @@ The type of the error object.
 
 ## See Also
 
-[ErrorsContainer(Of T) Members](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601)
-
-[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)
+[ErrorsContainer(Of T) Members](https://msdn.microsoft.com/library/microsoft.practices.prism.viewmodel.errorscontainer%601)<br/>
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>

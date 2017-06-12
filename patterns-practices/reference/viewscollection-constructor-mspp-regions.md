@@ -64,8 +64,6 @@ A predicate to filter the list collection.
 
 ## See Also
 
-[ViewsCollection Class](/patterns-practices/reference/viewscollection-class-mspp-regions)
-
-[ViewsCollection Members](/patterns-practices/reference/viewscollection-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[ViewsCollection Class](/patterns-practices/reference/viewscollection-class-mspp-regions)<br/>
+[ViewsCollection Members](/patterns-practices/reference/viewscollection-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

@@ -36,4 +36,4 @@ A [DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309) that the 
 
 [IHostAwareRegionBehavior Interface](/patterns-practices/reference/ihostawareregionbehavior-interface-mspp-regions-behaviors)  
 [IHostAwareRegionBehavior Members](/patterns-practices/reference/ihostawareregionbehavior-members-mspp-regions-behaviors)  
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>

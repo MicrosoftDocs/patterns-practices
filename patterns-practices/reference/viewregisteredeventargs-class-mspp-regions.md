@@ -34,6 +34,5 @@ Public Class ViewRegisteredEventArgs
 
 ## See Also
 
-[ViewRegisteredEventArgs Members](/patterns-practices/reference/viewregisteredeventargs-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[ViewRegisteredEventArgs Members](/patterns-practices/reference/viewregisteredeventargs-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

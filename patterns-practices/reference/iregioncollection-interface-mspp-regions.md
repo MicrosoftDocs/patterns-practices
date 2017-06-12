@@ -18,6 +18,5 @@ Defines a collection of [IRegion](https://msdn.microsoft.com/library/microsoft.p
 public interface IRegionCollection : IEnumerable&lt;IRegion&gt;, IEnumerable, INotifyCollectionChangedPublic Interface IRegionCollection Inherits IEnumerable(Of IRegion), IEnumerable, INotifyCollectionChanged
 
 ## See Also
-[IRegionCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregioncollection)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[IRegionCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregioncollection)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>

@@ -38,8 +38,6 @@ Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ## See Also
 
-[Notification Class](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest)
-
-[Notification Members](/patterns-practices/reference/notification-members-mspp-interactivity-interactionrequest)
-
+[Notification Class](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest)<br/>
+[Notification Members](/patterns-practices/reference/notification-members-mspp-interactivity-interactionrequest)<br/>
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

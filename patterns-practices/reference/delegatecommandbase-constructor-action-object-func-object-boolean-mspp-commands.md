@@ -40,14 +40,11 @@ The [Func&lt;T, TResult&gt;](http://msdn.microsoft.com/en-us/library/bb549151) t
 
 ## See Also
 
-[DelegateCommandBase Class](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)
-
-[DelegateCommandBase Members](/patterns-practices/reference/delegatecommandbase-members-mspp-commands)
-
+[DelegateCommandBase Class](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)<br/>
+[DelegateCommandBase Members](/patterns-practices/reference/delegatecommandbase-members-mspp-commands)<br/>
 DelegateCommandBase Overload
 
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
-
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>
 
 # DelegateCommandBase Constructor (Action(Of Object), Func(Of Object, Boolean))
 
@@ -85,10 +82,8 @@ The [Func(Of T, TResult)](http://msdn.microsoft.com/en-us/library/bb549151) to i
 
 ## See Also
 
-[DelegateCommandBase Class](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)
-
-[DelegateCommandBase Members](/patterns-practices/reference/delegatecommandbase-members-mspp-commands)
-
+[DelegateCommandBase Class](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)<br/>
+[DelegateCommandBase Members](/patterns-practices/reference/delegatecommandbase-members-mspp-commands)<br/>
 DelegateCommandBase Overload
 
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>

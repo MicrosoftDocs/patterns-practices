@@ -33,6 +33,5 @@ Public Class EmptyLogger
 
 ## See Also
 
-[EmptyLogger Members](/patterns-practices/reference/emptylogger-members-mspp-logging)
-
+[EmptyLogger Members](/patterns-practices/reference/emptylogger-members-mspp-logging)<br/>
 [Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)

@@ -47,8 +47,6 @@ EventHandler myEventHandlerReference = new EventHandler(this.OnCanExecuteChanged
 
 ## See Also
 
-[CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
-
-[CompositeCommand Members](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)
-
+[CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)<br/>
+[CompositeCommand Members](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)<br/>
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)

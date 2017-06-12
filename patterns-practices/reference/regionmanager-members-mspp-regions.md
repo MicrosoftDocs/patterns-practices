@@ -368,6 +368,5 @@ Notification used by attached behaviors to update the region managers appropriat
 
 ## See Also
 
-[RegionManager Class](/patterns-practices/reference/regionmanager-class-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionManager Class](/patterns-practices/reference/regionmanager-class-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

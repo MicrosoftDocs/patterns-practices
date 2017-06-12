@@ -18,6 +18,5 @@ Defines a view of a collection.
 public interface IViewsCollection : IEnumerable&lt;Object&gt;, IEnumerable, INotifyCollectionChangedPublic Interface IViewsCollection Inherits IEnumerable(Of Object), IEnumerable, INotifyCollectionChanged
 
 ## See Also
-[IViewsCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iviewscollection)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[IViewsCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iviewscollection)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>

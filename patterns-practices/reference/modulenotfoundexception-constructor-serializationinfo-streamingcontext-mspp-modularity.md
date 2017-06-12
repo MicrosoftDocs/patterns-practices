@@ -49,10 +49,8 @@ Protected Sub New (
 
 ## See Also
 
-[ModuleNotFoundException Class](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity)
-
-[ModuleNotFoundException Members](/patterns-practices/reference/modulenotfoundexception-members-mspp-modularity)
-
+[ModuleNotFoundException Class](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity)<br/>
+[ModuleNotFoundException Members](/patterns-practices/reference/modulenotfoundexception-members-mspp-modularity)<br/>
 ModuleNotFoundException Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

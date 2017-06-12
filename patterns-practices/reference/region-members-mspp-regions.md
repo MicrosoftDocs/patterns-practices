@@ -341,6 +341,5 @@ Occurs when a property value changes.
 
 ## See Also
 
-[Region Class](/patterns-practices/reference/region-class-mspp-regions)
-
+[Region Class](/patterns-practices/reference/region-class-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

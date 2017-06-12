@@ -40,6 +40,5 @@ Public Class ItemsControlRegionAdapter
 
 ## See Also
 
-[ItemsControlRegionAdapter Members](/patterns-practices/reference/itemscontrolregionadapter-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[ItemsControlRegionAdapter Members](/patterns-practices/reference/itemscontrolregionadapter-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

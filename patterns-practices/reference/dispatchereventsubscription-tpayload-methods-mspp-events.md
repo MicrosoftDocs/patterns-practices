@@ -87,6 +87,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[DispatcherEventSubscription&lt;Of TPayload&gt; Class](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)
-
+[DispatcherEventSubscription&lt;Of TPayload&gt; Class](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)<br/>
 [Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)

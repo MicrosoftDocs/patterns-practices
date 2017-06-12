@@ -34,6 +34,5 @@ Microsoft.Practices.Prism.ExceptionExtensions
 
 ## See Also
 
-[ExceptionExtensions Members](/patterns-practices/reference/exceptionextensions-members-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+[ExceptionExtensions Members](/patterns-practices/reference/exceptionextensions-members-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>

@@ -37,6 +37,5 @@ Microsoft.Practices.Prism.Regions.RegionViewRegistry
 
 ## See Also
 
-[RegionViewRegistry Members](/patterns-practices/reference/regionviewregistry-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionViewRegistry Members](/patterns-practices/reference/regionviewregistry-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

@@ -34,8 +34,6 @@ Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ## See Also
 
-[DirectoryModuleCatalog Class](/patterns-practices/reference/directorymodulecatalog-class-mspp-modularity)
-
-[DirectoryModuleCatalog Members](/patterns-practices/reference/directorymodulecatalog-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[DirectoryModuleCatalog Class](/patterns-practices/reference/directorymodulecatalog-class-mspp-modularity)<br/>
+[DirectoryModuleCatalog Members](/patterns-practices/reference/directorymodulecatalog-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

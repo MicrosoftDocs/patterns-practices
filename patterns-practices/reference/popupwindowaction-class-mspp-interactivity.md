@@ -65,6 +65,5 @@ Microsoft.Practices.Prism.Interactivity.PopupWindowAction
 
 ## See Also
 
-[PopupWindowAction Members](popupwindowaction-members-mspp-interactivity.md)
-
-[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)
+[PopupWindowAction Members](popupwindowaction-members-mspp-interactivity.md)<br/>
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)<br/>

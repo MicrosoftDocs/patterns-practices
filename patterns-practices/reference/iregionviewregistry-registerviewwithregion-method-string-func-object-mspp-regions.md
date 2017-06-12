@@ -40,14 +40,10 @@ void RegisterViewWithRegion(
 
 ## See Also
 
-[IRegionViewRegistry Interface](/patterns-practices/reference/iregionviewregistry-interface-mspp-regions)
-
-[IRegionViewRegistry Members](/patterns-practices/reference/iregionviewregistry-members-mspp-regions)
-
-[RegisterViewWithRegion Overload](/patterns-practices/reference/iregionviewregistry-registerviewwithregion-method-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
-
+[IRegionViewRegistry Interface](/patterns-practices/reference/iregionviewregistry-interface-mspp-regions)<br/>
+[IRegionViewRegistry Members](/patterns-practices/reference/iregionviewregistry-members-mspp-regions)<br/>
+[RegisterViewWithRegion Overload](/patterns-practices/reference/iregionviewregistry-registerviewwithregion-method-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
 
 # IRegionViewRegistry.RegisterViewWithRegion Method (String, Func(Of Object))
 
@@ -85,11 +81,7 @@ Sub RegisterViewWithRegion (
 
 ## See Also
 
-[IRegionViewRegistry Interface](/patterns-practices/reference/iregionviewregistry-interface-mspp-regions)
-
-[IRegionViewRegistry Members](/patterns-practices/reference/iregionviewregistry-members-mspp-regions)
-
-[RegisterViewWithRegion Overload](/patterns-practices/reference/iregionviewregistry-registerviewwithregion-method-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
-
+[IRegionViewRegistry Interface](/patterns-practices/reference/iregionviewregistry-interface-mspp-regions)<br/>
+[IRegionViewRegistry Members](/patterns-practices/reference/iregionviewregistry-members-mspp-regions)<br/>
+[RegisterViewWithRegion Overload](/patterns-practices/reference/iregionviewregistry-registerviewwithregion-method-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

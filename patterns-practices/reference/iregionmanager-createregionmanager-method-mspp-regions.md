@@ -34,8 +34,6 @@ A new region manager that can be used as a different scope from the current regi
 
 ## See Also
 
-[IRegionManager Interface](/patterns-practices/reference/iregionmanager-interface-mspp-regions)
-
-[IRegionManager Members](/patterns-practices/reference/iregionmanager-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[IRegionManager Interface](/patterns-practices/reference/iregionmanager-interface-mspp-regions)<br/>
+[IRegionManager Members](/patterns-practices/reference/iregionmanager-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

@@ -32,12 +32,9 @@ Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn.microsoft.
 
 ## See Also
 
-[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)
-
-[ObservableObject&lt;T&gt; Members](/patterns-practices/reference/observableobject-t-members-mspp)
-
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
-
+[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)<br/>
+[ObservableObject&lt;T&gt; Members](/patterns-practices/reference/observableobject-t-members-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)<br/>
 
 # ObservableObject(Of T).PropertyChanged Event
 
@@ -66,8 +63,6 @@ Type: [System.ComponentModel.PropertyChangedEventHandler](http://msdn.microsoft.
 
 ## See Also
 
-[ObservableObject(Of T) Class](/patterns-practices/reference/observableobject-t-class-mspp)
-
-[ObservableObject(Of T) Members](/patterns-practices/reference/observableobject-t-members-mspp)
-
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[ObservableObject(Of T) Class](/patterns-practices/reference/observableobject-t-class-mspp)<br/>
+[ObservableObject(Of T) Members](/patterns-practices/reference/observableobject-t-members-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)<br/>

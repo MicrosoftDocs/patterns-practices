@@ -88,10 +88,7 @@ In Visual Basic and C\#, you can call this method as an instance method on any o
 
 ## See Also
 
-[ServiceLocatorExtensions Class](/patterns-practices/reference/servicelocatorextensions-class-mspp)
-
-[ServiceLocatorExtensions Members](/patterns-practices/reference/servicelocatorextensions-members-mspp)
-
-[TryResolve Overload](/patterns-practices/reference/servicelocatorextensions-tryresolve-method-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+[ServiceLocatorExtensions Class](/patterns-practices/reference/servicelocatorextensions-class-mspp)<br/>
+[ServiceLocatorExtensions Members](/patterns-practices/reference/servicelocatorextensions-members-mspp)<br/>
+[TryResolve Overload](/patterns-practices/reference/servicelocatorextensions-tryresolve-method-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>

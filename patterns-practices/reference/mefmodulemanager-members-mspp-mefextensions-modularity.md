@@ -225,6 +225,5 @@ Raised repeatedly to provide progress as modules are loaded in the background.
 
 ## See Also
 
-[MefModuleManager Class](https://review.docs.microsoft.com/patterns-practices/reference/mefmodulemanager-class-mspp-mefextensions-modularity)
-
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://review.docs.microsoft.com/patterns-practices/reference/mspp-mefextensions-modularity-namespace)
+[MefModuleManager Class](https://review.docs.microsoft.com/patterns-practices/reference/mefmodulemanager-class-mspp-mefextensions-modularity)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://review.docs.microsoft.com/patterns-practices/reference/mspp-mefextensions-modularity-namespace)<br/>

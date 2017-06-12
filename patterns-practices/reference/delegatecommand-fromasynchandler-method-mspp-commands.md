@@ -43,8 +43,6 @@ Factory method to create a new instance of [DelegateCommand](/patterns-practices
 
 ## See Also
 
-[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)
-
-[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)
-
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
+[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)<br/>
+[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)<br/>
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>

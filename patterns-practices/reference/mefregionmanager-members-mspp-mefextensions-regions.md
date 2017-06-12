@@ -126,6 +126,5 @@ Gets a collection of <a href="/patterns-practices/reference/iregion-interface-ms
 
 ## See Also
 
-[MefRegionManager Class](/patterns-practices/reference/mefregionmanager-class-mspp-mefextensions-regions)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
+[MefRegionManager Class](/patterns-practices/reference/mefregionmanager-class-mspp-mefextensions-regions)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)<br/>

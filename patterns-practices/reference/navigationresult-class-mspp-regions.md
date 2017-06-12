@@ -32,6 +32,5 @@ Microsoft.Practices.Prism.Regions.NavigationResult
 
 ## See Also
 
-[NavigationResult Members](/patterns-practices/reference/navigationresult-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[NavigationResult Members](/patterns-practices/reference/navigationresult-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

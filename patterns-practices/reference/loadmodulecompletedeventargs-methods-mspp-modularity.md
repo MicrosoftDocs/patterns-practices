@@ -75,6 +75,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[LoadModuleCompletedEventArgs Class](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[LoadModuleCompletedEventArgs Class](/patterns-practices/reference/loadmodulecompletedeventargs-class-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

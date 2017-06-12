@@ -46,8 +46,6 @@ EventHandler myEventHandlerReference = new EventHandler(this.OnCanExecuteChanged
 
 ## See Also
 
-[DelegateCommandBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)
-
-[DelegateCommandBase Members](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)
-
+[DelegateCommandBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)<br/>
+[DelegateCommandBase Members](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)<br/>
 [Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)

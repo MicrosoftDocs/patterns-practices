@@ -332,6 +332,5 @@ Occurs when metadata on the item changes.
 
 ## See Also
 
-[ItemMetadata Class](/patterns-practices/reference/itemmetadata-class-mspp-regions)
-
+[ItemMetadata Class](/patterns-practices/reference/itemmetadata-class-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

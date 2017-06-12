@@ -41,9 +41,7 @@ Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matchin
 
 ## See Also
 
-[PubSubEvent<TPayload> Class](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent)
-
+[PubSubEvent<TPayload> Class](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent)<br/>
 PubSubEvent<TPayload> Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
-
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)<br/>

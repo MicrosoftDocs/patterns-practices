@@ -35,6 +35,5 @@ Public Sub GoBack
 
 [RegionNavigationJournal Class](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions)  
 [RegionNavigationJournal Members](/patterns-practices/reference/regionnavigationjournal-members-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
-
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
 

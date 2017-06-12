@@ -38,9 +38,7 @@ Public Interface IAssemblyResolver
 
 ## See Also
 
-[IAssemblyResolver Members](/patterns-practices/reference/iassemblyresolver-members-mspp-modularity)
+[IAssemblyResolver Members](/patterns-practices/reference/iassemblyresolver-members-mspp-modularity)<br/>
 
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
-
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

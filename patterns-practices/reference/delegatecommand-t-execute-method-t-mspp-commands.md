@@ -36,14 +36,10 @@ Type: [Task](http://msdn.microsoft.com/en-us/library/dd235678)
 
 ## See Also
 
-[DelegateCommand&lt;T&gt; Class](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)
-
-[DelegateCommand&lt;T&gt; Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)
-
-[Execute Overload](/patterns-practices/reference/delegatecommand-t-execute-method-mspp-commands)
-
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
-
+[DelegateCommand&lt;T&gt; Class](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)<br/>
+[DelegateCommand&lt;T&gt; Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)<br/>
+[Execute Overload](/patterns-practices/reference/delegatecommand-t-execute-method-mspp-commands)<br/>
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>
 
 # DelegateCommand(Of T).Execute Method (T)
 
@@ -77,10 +73,7 @@ Type: [Task](http://msdn.microsoft.com/en-us/library/dd235678)
 
 ## See Also
 
-[DelegateCommand(Of T) Class](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)
-
-[DelegateCommand(Of T) Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)
-
-[Execute Overload](/patterns-practices/reference/delegatecommand-t-execute-method-mspp-commands)
-
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
+[DelegateCommand(Of T) Class](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)<br/>
+[DelegateCommand(Of T) Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)<br/>
+[Execute Overload](/patterns-practices/reference/delegatecommand-t-execute-method-mspp-commands)<br/>
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>

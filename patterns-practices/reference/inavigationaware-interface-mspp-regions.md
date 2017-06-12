@@ -18,6 +18,5 @@ Provides a way for objects involved in navigation to be notified of navigation a
 public interface INavigationAwarePublic Interface INavigationAware
 
 ## See Also
-[INavigationAware Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.inavigationaware)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[INavigationAware Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.inavigationaware)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>

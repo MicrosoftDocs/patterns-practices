@@ -140,6 +140,5 @@ Behavior's attached region.
 
 ## See Also
 
-[MefRegionMemberLifetimeBehavior Class](https://review.docs.microsoft.com/patterns-practices/reference/mefregionmemberlifetimebehavior-class-mspp-mefextensions-regions-behaviors)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://review.docs.microsoft.com/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
+[MefRegionMemberLifetimeBehavior Class](https://review.docs.microsoft.com/patterns-practices/reference/mefregionmemberlifetimebehavior-class-mspp-mefextensions-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://review.docs.microsoft.com/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)<br/>

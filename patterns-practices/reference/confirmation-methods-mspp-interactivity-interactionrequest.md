@@ -75,6 +75,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[Confirmation Class](/patterns-practices/reference/confirmation-class-mspp-interactivity-interactionrequest)
-
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
+[Confirmation Class](/patterns-practices/reference/confirmation-class-mspp-interactivity-interactionrequest)<br/>
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>

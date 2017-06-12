@@ -257,6 +257,5 @@ Occurs when an exception is serialized to create an exception state object that 
 </table>
 
 ## See Also
-[UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions)
-
+[UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

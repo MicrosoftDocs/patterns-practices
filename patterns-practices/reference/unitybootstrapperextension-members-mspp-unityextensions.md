@@ -127,6 +127,5 @@ Returns a string that represents the current object.
 | ![Protected property](/patterns-practices/reference/images/protproperty.gif) | Context   | (Inherited from UnityContainerExtension.) |
 
 ## See Also
-[UnityBootstrapperExtension Class](/patterns-practices/reference/unitybootstrapperextension-class-mspp-unityextensions)
-
+[UnityBootstrapperExtension Class](/patterns-practices/reference/unitybootstrapperextension-class-mspp-unityextensions)<br/>
 [Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)

@@ -47,6 +47,5 @@ The content of the child window to display as part of the popup.
 
 ## See Also
 
-[PopupWindowAction Class](/patterns-practices/reference/mspp-interactivity-namespace.popupwindowaction)
-
+[PopupWindowAction Class](/patterns-practices/reference/mspp-interactivity-namespace.popupwindowaction)<br/>
 [Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)

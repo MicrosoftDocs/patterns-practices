@@ -33,8 +33,6 @@ Public Property Ref As String
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ## See Also
-[ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
-
-[ModuleInfo Members](/patterns-practices/reference/moduleinfo-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)<br/>
+[ModuleInfo Members](/patterns-practices/reference/moduleinfo-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

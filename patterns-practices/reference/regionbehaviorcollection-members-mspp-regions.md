@@ -164,6 +164,5 @@ Gets the [IRegionBehavior](/patterns-practices/reference/regionbehaviorcollectio
 
 ## See Also
 
-[RegionBehaviorCollection Class](/patterns-practices/reference/regionbehaviorcollection-class-mspp-regions)
-
+[RegionBehaviorCollection Class](/patterns-practices/reference/regionbehaviorcollection-class-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

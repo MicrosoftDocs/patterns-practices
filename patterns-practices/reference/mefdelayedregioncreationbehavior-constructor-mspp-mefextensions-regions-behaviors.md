@@ -37,8 +37,6 @@ The region adapter mappings, that are used to find the correct adapter for a giv
 
 ## See Also
 
-[MefDelayedRegionCreationBehavior Class](/patterns-practices/reference/mefdelayedregioncreationbehavior-class-mspp-mefextensions-regions-behaviors)
-
-[MefDelayedRegionCreationBehavior Members](/patterns-practices/reference/mefdelayedregioncreationbehavior-members-mspp-mefextensions-regions-behaviors)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
+[MefDelayedRegionCreationBehavior Class](/patterns-practices/reference/mefdelayedregioncreationbehavior-class-mspp-mefextensions-regions-behaviors)<br/>
+[MefDelayedRegionCreationBehavior Members](/patterns-practices/reference/mefdelayedregioncreationbehavior-members-mspp-mefextensions-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)<br/>

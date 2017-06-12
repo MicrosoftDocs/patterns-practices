@@ -35,4 +35,4 @@ Microsoft.Practices.Prism.Logging.TextLogger
 ## See Also
 
 [TextLogger Members](/patterns-practices/reference/textlogger-members-mspp-logging)  
-[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)<br/>

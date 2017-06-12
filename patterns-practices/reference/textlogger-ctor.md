@@ -40,8 +40,6 @@ Initializes a new instance of <a href="/patterns-practices/reference/textlogger-
 
 ## See Also
 
-[TextLogger Class](/patterns-practices/reference/textlogger-class-mspp-logging)
-
-[TextLogger Members](/patterns-practices/reference/textlogger-members-mspp-logging)
-
+[TextLogger Class](/patterns-practices/reference/textlogger-class-mspp-logging)<br/>
+[TextLogger Members](/patterns-practices/reference/textlogger-members-mspp-logging)<br/>
 [Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)

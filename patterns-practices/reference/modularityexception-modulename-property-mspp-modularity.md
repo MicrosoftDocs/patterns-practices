@@ -35,8 +35,6 @@ The name of the module.
 
 ## See Also
 
-[ModularityException Class](/patterns-practices/reference/modularityexception-class-mspp-mefextensions-modularity)
-
-[ModularityException Members](/patterns-practices/reference/modularityexception-members-mspp-mefextensions-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[ModularityException Class](/patterns-practices/reference/modularityexception-class-mspp-mefextensions-modularity)<br/>
+[ModularityException Members](/patterns-practices/reference/modularityexception-members-mspp-mefextensions-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

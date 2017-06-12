@@ -55,4 +55,4 @@ The [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp
 [Region Class](/patterns-practices/reference/region-class-mspp-regions)  
 [Region Members](/patterns-practices/reference/region-members-mspp-regions)  
 [Add Overload](/patterns-practices/reference/region-add-method-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

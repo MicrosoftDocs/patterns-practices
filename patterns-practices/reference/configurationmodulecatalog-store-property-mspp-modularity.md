@@ -34,8 +34,6 @@ Type: [IConfigurationStore](/patterns-practices/reference/iconfigurationstore-in
 
 ## See Also
 
-[ConfigurationModuleCatalog Class](/patterns-practices/reference/configurationmodulecatalog-class-mspp-modularity)
-
-[ConfigurationModuleCatalog Members](/patterns-practices/reference/configurationmodulecatalog-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[ConfigurationModuleCatalog Class](/patterns-practices/reference/configurationmodulecatalog-class-mspp-modularity)<br/>
+[ConfigurationModuleCatalog Members](/patterns-practices/reference/configurationmodulecatalog-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

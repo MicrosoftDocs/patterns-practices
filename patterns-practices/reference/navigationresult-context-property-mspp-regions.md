@@ -33,8 +33,6 @@ The navigation context.
 
 ## See Also
 
-[NavigationResult Class](/patterns-practices/reference/navigationresult-class-mspp-regions)
-
-[NavigationResult Members](/patterns-practices/reference/navigationresult-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[NavigationResult Class](/patterns-practices/reference/navigationresult-class-mspp-regions)<br/>
+[NavigationResult Members](/patterns-practices/reference/navigationresult-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

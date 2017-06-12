@@ -40,8 +40,6 @@ Clears the errors for a property.
 
 ## See Also
 
-[ErrorsContainer&lt;T&gt; Class](/patterns-practices/reference/errorscontainer-class-mspp-regions)
-
-[ErrorsContainer&lt;T&gt; Members](/patterns-practices/reference/errorscontainer-members-mspp-regions)
-
-[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)
+[ErrorsContainer&lt;T&gt; Class](/patterns-practices/reference/errorscontainer-class-mspp-regions)<br/>
+[ErrorsContainer&lt;T&gt; Members](/patterns-practices/reference/errorscontainer-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>

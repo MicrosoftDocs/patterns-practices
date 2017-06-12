@@ -36,8 +36,6 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 ## See Also
 
-[IActiveAware Interface](/patterns-practices/reference/iactiveaware-interface-mspp)
-
-[IActiveAware Members](/patterns-practices/reference/iactiveaware-members-mspp)
-
+[IActiveAware Interface](/patterns-practices/reference/iactiveaware-interface-mspp)<br/>
+[IActiveAware Members](/patterns-practices/reference/iactiveaware-members-mspp)<br/>
 [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

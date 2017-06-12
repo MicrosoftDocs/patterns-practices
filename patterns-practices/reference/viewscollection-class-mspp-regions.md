@@ -39,7 +39,5 @@ Implementation of [IViewsCollection](/patterns-practices/reference/iviewscollect
 
 ## See Also
 
-[ViewsCollection Members](/patterns-practices/reference/viewscollection-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
-
+[ViewsCollection Members](/patterns-practices/reference/viewscollection-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

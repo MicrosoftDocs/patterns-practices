@@ -29,8 +29,6 @@ Public Sub New
 
 ## See Also
 
-[AllActiveRegion Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.allactiveregion)
-
-[AllActiveRegion Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.allactiveregion_members)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[AllActiveRegion Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.allactiveregion)<br/>
+[AllActiveRegion Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.allactiveregion_members)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>

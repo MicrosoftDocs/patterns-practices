@@ -36,8 +36,6 @@ Type: [Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of [Object](http:
 
 ## See Also
 
-[ViewRegisteredEventArgs Class](/patterns-practices/reference/viewregisteredeventargs-class-mspp-regions)
-
-[ViewRegisteredEventArgs Members](/patterns-practices/reference/viewregisteredeventargs-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[ViewRegisteredEventArgs Class](/patterns-practices/reference/viewregisteredeventargs-class-mspp-regions)<br/>
+[ViewRegisteredEventArgs Members](/patterns-practices/reference/viewregisteredeventargs-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

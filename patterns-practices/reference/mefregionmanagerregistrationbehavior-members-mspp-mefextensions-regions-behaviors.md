@@ -168,7 +168,5 @@ Provides an abstraction on top of the RegionManager static members.
 
 ## See Also
 
-[MefRegionManagerRegistrationBehavior Class](https://review.docs.microsoft.com/patterns-practices/reference/mefregionmanagerregistrationbehavior-class-mspp-mefextensions-regions-behaviors)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://review.docs.microsoft.com/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
-
+[MefRegionManagerRegistrationBehavior Class](https://review.docs.microsoft.com/patterns-practices/reference/mefregionmanagerregistrationbehavior-class-mspp-mefextensions-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://review.docs.microsoft.com/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)<br/>

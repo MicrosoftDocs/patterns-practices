@@ -19,6 +19,5 @@ The [DelegateCommand(Of T)](/patterns-practices/reference/delegatecommand-t-clas
 
 ## See Also
 
-[DelegateCommand(Of T) Class](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)
-
+[DelegateCommand(Of T) Class](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)<br/>
 [Microsoft.Practices.Prism.Commands Namespace ](/patterns-practices/reference/mspp-commands-namespace)

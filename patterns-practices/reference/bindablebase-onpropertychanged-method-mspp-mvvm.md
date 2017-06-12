@@ -42,8 +42,6 @@ Notifies listeners that a property value has changed.
 
 ## See Also
 
-[BindableBase Class](/patterns-practices/reference/bindablebase-class-mspp-mvvm)
-
-[BindableBase Members](/patterns-practices/reference/bindablebase-members-mspp-mvvm)
-
+[BindableBase Class](/patterns-practices/reference/bindablebase-class-mspp-mvvm)<br/>
+[BindableBase Members](/patterns-practices/reference/bindablebase-members-mspp-mvvm)<br/>
 [Microsoft.Practices.Prism.Mvvm Namespace ](/patterns-practices/reference/mspp-mvvm-namespace)

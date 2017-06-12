@@ -283,6 +283,5 @@ Occurs when a property value changes.
 
 ## See Also
 
-[SingleActiveRegion Class](/patterns-practices/reference/singleactiveregion-class-mspp-regions)
-
+[SingleActiveRegion Class](/patterns-practices/reference/singleactiveregion-class-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

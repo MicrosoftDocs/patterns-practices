@@ -18,6 +18,5 @@ Defines an interface to manage a set of [regions](https://msdn.microsoft.com/lib
 public interface IRegionManagerPublic Interface IRegionManager
 
 ## See Also
-[IRegionManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionmanager)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[IRegionManager Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionmanager)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>

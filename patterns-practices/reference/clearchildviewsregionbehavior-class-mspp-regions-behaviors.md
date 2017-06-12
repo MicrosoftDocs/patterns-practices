@@ -38,6 +38,5 @@ Public Class ClearChildViewsRegionBehavior
 
 ## See Also
 
-[ClearChildViewsRegionBehavior Members](/patterns-practices/reference/clearchildviewsregionbehavior-members-mspp-regions-behaviors)
-
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+[ClearChildViewsRegionBehavior Members](/patterns-practices/reference/clearchildviewsregionbehavior-members-mspp-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>

@@ -35,6 +35,5 @@ Public Class RegionBehaviorCollection
 
 ## See Also
 
-[RegionBehaviorCollection Members](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionBehaviorCollection Members](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

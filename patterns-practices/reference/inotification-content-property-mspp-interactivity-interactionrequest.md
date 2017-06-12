@@ -34,8 +34,6 @@ Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 ## See Also
 
-[INotification Interface](/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest)
-
-[INotification Members](/patterns-practices/reference/inotification-members-mspp-interactivity-interactionrequest)
-
+[INotification Interface](/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest)<br/>
+[INotification Members](/patterns-practices/reference/inotification-members-mspp-interactivity-interactionrequest)<br/>
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

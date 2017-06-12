@@ -32,6 +32,5 @@ View models can expose interaction request objects through properties and raise 
 
 ## See Also
 
-[IInteractionRequest Members](/patterns-practices/reference/iinteractionrequest-members-mspp-interactivity-interactionrequest)
-
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
+[IInteractionRequest Members](/patterns-practices/reference/iinteractionrequest-members-mspp-interactivity-interactionrequest)<br/>
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>

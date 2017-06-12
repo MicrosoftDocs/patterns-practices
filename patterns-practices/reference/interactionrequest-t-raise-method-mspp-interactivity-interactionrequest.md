@@ -47,8 +47,6 @@ Fires the Raised event.
 
 ## See Also
 
-[InteractionRequest(Of T) Class](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)
-
-[InteractionRequest(Of T) Members](/patterns-practices/reference/interactionrequest-t-members-mspp-interactivity-interactionrequest)
-
+[InteractionRequest(Of T) Class](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)<br/>
+[InteractionRequest(Of T) Members](/patterns-practices/reference/interactionrequest-t-members-mspp-interactivity-interactionrequest)<br/>
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

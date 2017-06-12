@@ -44,8 +44,6 @@ Type: [AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165)
 
 ## See Also
 
-[DefaultPrismServiceRegistrar Class](/patterns-practices/reference/defaultprismserviceregistrar-class-mspp-mefextensions)
-
-[DefaultPrismServiceRegistrar Members](/patterns-practices/reference/defaultprismserviceregistrar-members-mspp-mefextensions)
-
-[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)
+[DefaultPrismServiceRegistrar Class](/patterns-practices/reference/defaultprismserviceregistrar-class-mspp-mefextensions)<br/>
+[DefaultPrismServiceRegistrar Members](/patterns-practices/reference/defaultprismserviceregistrar-members-mspp-mefextensions)<br/>
+[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)<br/>

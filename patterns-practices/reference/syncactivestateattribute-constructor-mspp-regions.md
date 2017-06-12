@@ -29,8 +29,6 @@ Public Sub New
 
 ## See Also
 
-[SyncActiveStateAttribute Class](/patterns-practices/reference/syncactivestateattribute-class-mspp-regions)
-
-[SyncActiveStateAttribute Members](/patterns-practices/reference/syncactivestateattribute-members-mspp-regions)
-
+[SyncActiveStateAttribute Class](/patterns-practices/reference/syncactivestateattribute-class-mspp-regions)<br/>
+[SyncActiveStateAttribute Members](/patterns-practices/reference/syncactivestateattribute-members-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

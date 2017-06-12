@@ -31,8 +31,6 @@ Type: [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318)
 
 ## See Also
 
-[ItemMetadata Class](/patterns-practices/reference/itemmetadata-class-mspp-regions)
-
-[ItemMetadata Members](/patterns-practices/reference/itemmetadata-members-mspp-regions)
-
+[ItemMetadata Class](/patterns-practices/reference/itemmetadata-class-mspp-regions)<br/>
+[ItemMetadata Members](/patterns-practices/reference/itemmetadata-members-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

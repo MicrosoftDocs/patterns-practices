@@ -27,10 +27,7 @@ Sub Initialize
 
 ## See Also
 
-[IModule Interface](/patterns-practices/reference/imodule-interface-mspp-modularity)
-
-[IModule Members](/patterns-practices/reference/imodule-members-mspp-modularity)
-  
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
-
+[IModule Interface](/patterns-practices/reference/imodule-interface-mspp-modularity)<br/>
+[IModule Members](/patterns-practices/reference/imodule-members-mspp-modularity)<br/>  
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
 

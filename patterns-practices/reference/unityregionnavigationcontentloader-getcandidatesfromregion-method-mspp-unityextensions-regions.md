@@ -73,8 +73,6 @@ An enumerable of candidate objects from the [IRegion](/patterns-practices/refere
 
 ## See Also
 
-[UnityRegionNavigationContentLoader Class](/patterns-practices/reference/unityregionnavigationcontentloader-class-mspp-unityextensions-regions)
-
-[UnityRegionNavigationContentLoader Members](/patterns-practices/reference/unityregionnavigationcontentloader-members-mspp-unityextensions-regions)
-
-[Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](/patterns-practices/reference/mspp-unityextensions-regions-namespace)
+[UnityRegionNavigationContentLoader Class](/patterns-practices/reference/unityregionnavigationcontentloader-class-mspp-unityextensions-regions)<br/>
+[UnityRegionNavigationContentLoader Members](/patterns-practices/reference/unityregionnavigationcontentloader-members-mspp-unityextensions-regions)<br/>
+[Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](/patterns-practices/reference/mspp-unityextensions-regions-namespace)<br/>

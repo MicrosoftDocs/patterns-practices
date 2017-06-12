@@ -26,6 +26,5 @@ Public Interface IRegionBehavior
 ```
 
 ## See Also
-[IRegionBehavior Members](/patterns-practices/reference/iregionbehavior-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[IRegionBehavior Members](/patterns-practices/reference/iregionbehavior-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

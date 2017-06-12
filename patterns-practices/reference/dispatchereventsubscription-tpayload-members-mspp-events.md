@@ -121,6 +121,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[DispatcherEventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)
-
-[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)
+[DispatcherEventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)<br/>
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/dispatchereventsubscription-tpayload-class-mspp-events)<br/>

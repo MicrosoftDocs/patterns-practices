@@ -56,6 +56,5 @@ The region that this behavior is extending.
 </table>
 
 ## See Also
-[IRegionBehavior Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[IRegionBehavior Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>

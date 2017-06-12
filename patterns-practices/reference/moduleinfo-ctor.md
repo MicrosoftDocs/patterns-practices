@@ -28,10 +28,8 @@ Public Sub New
 
 ## See Also
 
-[ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
-
-[ModuleInfo Members](/patterns-practices/reference/moduleinfo-members-mspp-modularity)
-
+[ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)<br/>
+[ModuleInfo Members](/patterns-practices/reference/moduleinfo-members-mspp-modularity)<br/>
 ModuleInfo Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

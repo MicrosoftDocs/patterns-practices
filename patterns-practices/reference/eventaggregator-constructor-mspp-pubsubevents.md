@@ -26,8 +26,7 @@ Public Sub New
 
 ## See Also
 
-[EventAggregator Class](/patterns-practices/reference/eventaggregator-class-mspp-pubsubevents)
-
+[EventAggregator Class](/patterns-practices/reference/eventaggregator-class-mspp-pubsubevents)<br/>
 EventAggregator Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>

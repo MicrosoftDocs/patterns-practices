@@ -45,4 +45,4 @@ A new instance of the module specified by *moduleInfo*.
 [MefModuleInitializer Class](/patterns-practices/reference/mefmoduleinitializer-class-mspp-mefextensions-modularity)  
 [MefModuleInitializer Members](/patterns-practices/reference/mefmoduleinitializer-members-mspp-mefextensions-modularity)  
 [CreateModule Overload](/patterns-practices/reference/mefmoduleinitializer-createmodule-method-mspp-mefextensions-modularity)  
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)<br/>

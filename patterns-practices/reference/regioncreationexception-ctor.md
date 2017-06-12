@@ -26,10 +26,8 @@ Public Sub New
 
 ## See Also
 
-[RegionCreationException Class](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors)
-
-[RegionCreationException Members](/patterns-practices/reference/regioncreationexception-members-mspp-regions-behaviors)
-
+[RegionCreationException Class](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors)<br/>
+[RegionCreationException Members](/patterns-practices/reference/regioncreationexception-members-mspp-regions-behaviors)<br/>
 RegionCreationException Overload
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>

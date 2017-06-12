@@ -28,8 +28,6 @@ Public Sub New
 
 ## See Also
 
-[MefRegionManagerRegistrationBehavior Class](/patterns-practices/reference/mefregionmanagerregistrationbehavior-class-mspp-mefextensions-regions-behaviors)
-
-[MefRegionManagerRegistrationBehavior Members](/patterns-practices/reference/mefregionmanagerregistrationbehavior-members-mspp-mefextensions-regions-behaviors)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
+[MefRegionManagerRegistrationBehavior Class](/patterns-practices/reference/mefregionmanagerregistrationbehavior-class-mspp-mefextensions-regions-behaviors)<br/>
+[MefRegionManagerRegistrationBehavior Members](/patterns-practices/reference/mefregionmanagerregistrationbehavior-members-mspp-mefextensions-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)<br/>

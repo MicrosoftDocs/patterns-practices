@@ -35,6 +35,5 @@ Public Class ItemMetadata
 
 ## See Also
 
-[ItemMetadata Members](/patterns-practices/reference/itemmetadata-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[ItemMetadata Members](/patterns-practices/reference/itemmetadata-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

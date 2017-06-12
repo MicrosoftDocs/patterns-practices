@@ -55,6 +55,5 @@ Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultNotificationW
 
 ## See Also
 
-[DefaultNotificationWindow Members](/patterns-practices/reference/defaultnotificationwindow-members-mspp-interactivity-defaultpopupwindows)
-
+[DefaultNotificationWindow Members](/patterns-practices/reference/defaultnotificationwindow-members-mspp-interactivity-defaultpopupwindows)<br/>
 [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)

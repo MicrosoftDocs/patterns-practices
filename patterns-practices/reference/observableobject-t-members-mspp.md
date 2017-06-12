@@ -3453,6 +3453,5 @@ Occurs when the element is removed from within an element tree of loaded element
 
 ## See Also
 
-[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

@@ -44,10 +44,7 @@ An instance of [ModuleCatalog](/patterns-practices/reference/modulecatalog-class
 
 ## See Also
 
-[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)
-
-[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)
-
-[CreateFromXaml Overload](/patterns-practices/reference/modulecatalog-createfromxaml-method-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)<br/>
+[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)<br/>
+[CreateFromXaml Overload](/patterns-practices/reference/modulecatalog-createfromxaml-method-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

@@ -49,8 +49,6 @@ The total bytes to receive.
 
 ## See Also
 
-[ModuleDownloadProgressChangedEventArgs Class](/patterns-practices/reference/moduledownloadprogresschangedeventargs-class-mspp-modularity)
-
-[ModuleDownloadProgressChangedEventArgs Members](/patterns-practices/reference/moduledownloadprogresschangedeventargs-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleDownloadProgressChangedEventArgs Class](/patterns-practices/reference/moduledownloadprogresschangedeventargs-class-mspp-modularity)<br/>
+[ModuleDownloadProgressChangedEventArgs Members](/patterns-practices/reference/moduledownloadprogresschangedeventargs-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

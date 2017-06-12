@@ -233,4 +233,4 @@ Fired if the <a href="/patterns-practices/reference/delegatecommandbase-isactive
 ## See Also
 
 [DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)  
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>

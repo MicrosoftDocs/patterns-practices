@@ -407,6 +407,5 @@ Verifies that the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Fre
 </table>
 
 ## See Also
-[InvokeCommandAction Class](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity)
-
-[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)
+[InvokeCommandAction Class](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity)<br/>
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)<br/>

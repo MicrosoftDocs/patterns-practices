@@ -38,6 +38,5 @@ Public MustInherit Class UnityBootstrapper
 
 ## See Also
 
-[UnityBootstrapper Members](/patterns-practices/reference/unitybootstrapper-members-mspp-unityextensions)
-
-[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-mspp-unityextensions-namespace-namespace)
+[UnityBootstrapper Members](/patterns-practices/reference/unitybootstrapper-members-mspp-unityextensions)<br/>
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-mspp-unityextensions-namespace-namespace)<br/>

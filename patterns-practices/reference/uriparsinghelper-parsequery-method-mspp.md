@@ -41,8 +41,6 @@ Type: [NavigationParameters](/patterns-practices/reference/navigationparameters-
 
 ## See Also
 
-[UriParsingHelper Class](/patterns-practices/reference/uriparsinghelper-class-mspp)
-
-[UriParsingHelper Members](/patterns-practices/reference/uriparsinghelper-members-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+[UriParsingHelper Class](/patterns-practices/reference/uriparsinghelper-class-mspp)<br/>
+[UriParsingHelper Members](/patterns-practices/reference/uriparsinghelper-members-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>

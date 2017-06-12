@@ -46,4 +46,4 @@ The [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) iden
 
 [IRegionCollection Interface](/patterns-practices/reference/iregioncollection-interface-mspp-regions)  
 [IRegionCollection Members](/patterns-practices/reference/iregioncollection-members-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

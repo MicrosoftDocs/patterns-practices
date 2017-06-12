@@ -35,6 +35,5 @@ Public Class MefServiceLocatorAdapter
 
 ## See Also
 
-[MefServiceLocatorAdapter Members](/patterns-practices/reference/mefservicelocatoradapter-members-mspp-mefextensions)
-
+[MefServiceLocatorAdapter Members](/patterns-practices/reference/mefservicelocatoradapter-members-mspp-mefextensions)<br/>
 [Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)

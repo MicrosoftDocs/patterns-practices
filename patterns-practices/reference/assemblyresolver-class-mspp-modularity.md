@@ -35,6 +35,5 @@ Public Class AssemblyResolver
 
 ## See Also
 
-[AssemblyResolver Members](/patterns-practices/reference/assemblyresolver-members-mspp-modularity)
-
+[AssemblyResolver Members](/patterns-practices/reference/assemblyresolver-members-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

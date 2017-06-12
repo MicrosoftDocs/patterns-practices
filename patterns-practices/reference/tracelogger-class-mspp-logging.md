@@ -35,4 +35,4 @@ Microsoft.Practices.Prism.Logging.TraceLogger
 ## See Also
 
 [TraceLogger Members](/patterns-practices/reference/tracelogger-members-mspp-logging)  
-[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)<br/>

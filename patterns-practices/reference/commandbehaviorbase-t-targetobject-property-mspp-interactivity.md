@@ -27,12 +27,9 @@ Type: [T](https://review.docs.microsoft.com/patterns-practices/reference/command
 
 ## See Also
 
-[CommandBehaviorBase&lt;T&gt; Class](https://review.docs.microsoft.com/patterns-practices/reference/commandbehaviorbase-t-class-mspp-interactivity)
-
-[CommandBehaviorBase&lt;T&gt; Members](https://review.docs.microsoft.com/patterns-practices/reference/commandbehaviorbase-t-members-mspp-interactivity)
-
-[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)
-
+[CommandBehaviorBase&lt;T&gt; Class](https://review.docs.microsoft.com/patterns-practices/reference/commandbehaviorbase-t-class-mspp-interactivity)<br/>
+[CommandBehaviorBase&lt;T&gt; Members](https://review.docs.microsoft.com/patterns-practices/reference/commandbehaviorbase-t-members-mspp-interactivity)<br/>
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)<br/>
 
 
 # CommandBehaviorBase(Of T).TargetObject Property
@@ -58,8 +55,6 @@ Type: [T](https://review.docs.microsoft.com/patterns-practices/reference/command
 
 ## See Also
 
-[CommandBehaviorBase(Of T) Class](https://review.docs.microsoft.com/patterns-practices/reference/commandbehaviorbase-t-class-mspp-interactivity)
-
-[CommandBehaviorBase(Of T) Members](https://review.docs.microsoft.com/patterns-practices/reference/commandbehaviorbase-t-members-mspp-interactivity)
-
+[CommandBehaviorBase(Of T) Class](https://review.docs.microsoft.com/patterns-practices/reference/commandbehaviorbase-t-class-mspp-interactivity)<br/>
+[CommandBehaviorBase(Of T) Members](https://review.docs.microsoft.com/patterns-practices/reference/commandbehaviorbase-t-members-mspp-interactivity)<br/>
 [Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)

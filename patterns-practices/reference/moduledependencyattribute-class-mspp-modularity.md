@@ -32,6 +32,5 @@ Public NotInheritable Class ModuleDependencyAttribute Inherits Attribute
     Microsoft.Practices.Prism.Modularity.ModuleDependencyAttribute
 
 ## See Also
-[ModuleDependencyAttribute Members](/patterns-practices/reference/moduledependencyattribute-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleDependencyAttribute Members](/patterns-practices/reference/moduledependencyattribute-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

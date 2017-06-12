@@ -70,10 +70,7 @@ In Visual Basic and C\#, you can call this method as an instance method on any o
 
 ## See Also
 
-[RegionManagerExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions)
-
-[RegionManagerExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionmanagerextensions)
-
-[RequestNavigate Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.regions.regionmanagerextensions.requestnavigate)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionManagerExtensions Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionmanagerextensions)<br/>
+[RegionManagerExtensions Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionmanagerextensions)<br/>
+[RequestNavigate Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.regions.regionmanagerextensions.requestnavigate)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>

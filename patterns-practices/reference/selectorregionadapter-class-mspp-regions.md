@@ -42,6 +42,5 @@ Public Class SelectorRegionAdapter
 
 ## See Also
 
-[SelectorRegionAdapter Members](/patterns-practices/reference/selectorregionadapter-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[SelectorRegionAdapter Members](/patterns-practices/reference/selectorregionadapter-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

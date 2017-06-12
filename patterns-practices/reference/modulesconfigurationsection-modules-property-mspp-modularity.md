@@ -35,6 +35,5 @@ A [ModuleConfigurationElementCollection](/patterns-practices/reference/modulecon
 
 [ModulesConfigurationSection Class](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity)  
 [ModulesConfigurationSection Members](/patterns-practices/reference/modulesconfigurationsection-members-mspp-modularity)  
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
-
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
 

@@ -36,8 +36,6 @@ Public Sub Attach
 
 ## See Also
 
-[RegionBehavior Class](/patterns-practices/reference/regionbehavior-class-mspp-regions)
-
-[RegionBehavior Members](/patterns-practices/reference/regionbehavior-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionBehavior Class](/patterns-practices/reference/regionbehavior-class-mspp-regions)<br/>
+[RegionBehavior Members](/patterns-practices/reference/regionbehavior-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

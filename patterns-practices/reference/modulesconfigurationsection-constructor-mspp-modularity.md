@@ -28,8 +28,6 @@ Public Sub New
 
 ## See Also
 
-[ModulesConfigurationSection Class](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity)
-
-[ModulesConfigurationSection Members](/patterns-practices/reference/modulesconfigurationsection-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModulesConfigurationSection Class](/patterns-practices/reference/modulesconfigurationsection-class-mspp-modularity)<br/>
+[ModulesConfigurationSection Members](/patterns-practices/reference/modulesconfigurationsection-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

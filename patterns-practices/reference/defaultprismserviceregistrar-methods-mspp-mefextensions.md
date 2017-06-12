@@ -35,6 +35,5 @@ Registers the required Prism types that are not already registered in the <a hre
 
 ## See Also
 
-[DefaultPrismServiceRegistrar Class](/patterns-practices/reference/defaultprismserviceregistrar-class-mspp-mefextensions)
-
-[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)
+[DefaultPrismServiceRegistrar Class](/patterns-practices/reference/defaultprismserviceregistrar-class-mspp-mefextensions)<br/>
+[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)<br/>

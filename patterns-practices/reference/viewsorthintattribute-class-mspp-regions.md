@@ -34,6 +34,5 @@ Public NotInheritable Class ViewSortHintAttribute
 
 ## See Also
 
-[ViewSortHintAttribute Members](/patterns-practices/reference/viewsorthintattribute-members-mspp-regions)
-
+[ViewSortHintAttribute Members](/patterns-practices/reference/viewsorthintattribute-members-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

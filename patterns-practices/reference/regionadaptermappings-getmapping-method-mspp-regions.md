@@ -58,8 +58,6 @@ This class will look for a registered type for *controlType* and if there is not
 
 ## See Also
 
-[RegionAdapterMappings Class](/patterns-practices/reference/regionadaptermappings-class-mspp-regions)
-
-[RegionAdapterMappings Members](/patterns-practices/reference/regionadaptermappings-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionAdapterMappings Class](/patterns-practices/reference/regionadaptermappings-class-mspp-regions)<br/>
+[RegionAdapterMappings Members](/patterns-practices/reference/regionadaptermappings-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

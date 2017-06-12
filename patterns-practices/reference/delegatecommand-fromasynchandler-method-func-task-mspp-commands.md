@@ -39,14 +39,10 @@ Constructed instance of [DelegateCommand](/patterns-practices/reference/delegate
 
 ## See Also
 
-[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)
-
-[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)
-
-[FromAsyncHandler Overload](/patterns-practices/reference/delegatecommand-fromasynchandler-method-mspp-commands)
-
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
-
+[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)<br/>
+[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)<br/>
+[FromAsyncHandler Overload](/patterns-practices/reference/delegatecommand-fromasynchandler-method-mspp-commands)<br/>
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>
 
 
 # DelegateCommand.FromAsyncHandler Method (Func(Of Task))
@@ -84,10 +80,7 @@ Constructed instance of [DelegateCommand](/patterns-practices/reference/delegate
 
 ## See Also
 
-[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)
-
-[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)
-
-[FromAsyncHandler Overload](/patterns-practices/reference/delegatecommand-fromasynchandler-method-mspp-commands)
-
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
+[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)<br/>
+[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)<br/>
+[FromAsyncHandler Overload](/patterns-practices/reference/delegatecommand-fromasynchandler-method-mspp-commands)<br/>
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>

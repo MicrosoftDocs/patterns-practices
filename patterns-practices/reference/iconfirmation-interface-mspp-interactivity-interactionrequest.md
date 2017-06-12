@@ -27,6 +27,5 @@ Public Interface IConfirmation
 ```
 ## See Also
 
-[IConfirmation Members](/patterns-practices/reference/iconfirmation-members-mspp-interactivity-interactionrequest)
-
+[IConfirmation Members](/patterns-practices/reference/iconfirmation-members-mspp-interactivity-interactionrequest)<br/>
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

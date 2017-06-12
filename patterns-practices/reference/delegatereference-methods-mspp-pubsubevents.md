@@ -73,6 +73,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[DelegateReference Class](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents)
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
+[DelegateReference Class](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents)<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>

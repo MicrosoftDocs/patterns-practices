@@ -41,8 +41,6 @@ Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)(O
 
 ## See Also
 
-[FileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader)
-
-[FileModuleTypeLoader Members](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader)
-
+[FileModuleTypeLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader)<br/>
+[FileModuleTypeLoader Members](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.filemoduletypeloader)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

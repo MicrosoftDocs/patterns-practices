@@ -38,6 +38,5 @@ Public Class ViewRegistrationException
 
 ## See Also
 
-[ViewRegistrationException Members](/patterns-practices/reference/viewregistrationexception-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[ViewRegistrationException Members](/patterns-practices/reference/viewregistrationexception-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

@@ -80,10 +80,7 @@ The callback executed when the navigation request is completed.
 
 ## See Also
 
-[INavigateAsync Interface](/patterns-practices/reference/inavigateasync-interface-mspp-regions)
-
-[INavigateAsync Members](/patterns-practices/reference/inavigateasync-members-mspp-regions)
-
-[RequestNavigate Overload](/patterns-practices/reference/inavigateasync-requestnavigate-method-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[INavigateAsync Interface](/patterns-practices/reference/inavigateasync-interface-mspp-regions)<br/>
+[INavigateAsync Members](/patterns-practices/reference/inavigateasync-members-mspp-regions)<br/>
+[RequestNavigate Overload](/patterns-practices/reference/inavigateasync-requestnavigate-method-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

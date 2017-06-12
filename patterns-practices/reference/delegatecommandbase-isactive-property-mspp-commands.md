@@ -40,8 +40,6 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 ## See Also
 
-[DelegateCommandBase Class](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)
-
-[DelegateCommandBase Members](/patterns-practices/reference/delegatecommandbase-members-mspp-commands)
-
+[DelegateCommandBase Class](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)<br/>
+[DelegateCommandBase Members](/patterns-practices/reference/delegatecommandbase-members-mspp-commands)<br/>
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

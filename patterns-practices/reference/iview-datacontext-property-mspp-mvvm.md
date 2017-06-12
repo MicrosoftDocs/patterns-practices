@@ -33,8 +33,6 @@ Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 ## See Also
 
-[IView Interface](/patterns-practices/reference/iview-interface-mspp-mvvm)
-
-[IView Members](/patterns-practices/reference/iview-members-mspp-mvvm)
-
+[IView Interface](/patterns-practices/reference/iview-interface-mspp-mvvm)<br/>
+[IView Members](/patterns-practices/reference/iview-members-mspp-mvvm)<br/>
 [Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

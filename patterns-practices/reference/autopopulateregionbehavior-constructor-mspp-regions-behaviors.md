@@ -40,8 +40,6 @@ Type: [Microsoft.Practices.Prism.Regions.IRegionViewRegistry](/patterns-practice
 
 ## See Also
 
-[AutoPopulateRegionBehavior Class](/patterns-practices/reference/autopopulateregionbehavior-class-mspp-regions-behaviors)
-
-[AutoPopulateRegionBehavior Members](/patterns-practices/reference/autopopulateregionbehavior-members-mspp-regions-behaviors)
-
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+[AutoPopulateRegionBehavior Class](/patterns-practices/reference/autopopulateregionbehavior-class-mspp-regions-behaviors)<br/>
+[AutoPopulateRegionBehavior Members](/patterns-practices/reference/autopopulateregionbehavior-members-mspp-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>

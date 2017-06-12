@@ -34,4 +34,4 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 [IRegionMemberLifetime Interface](/patterns-practices/reference/iregionmemberlifetime-interface-mspp-regions)  
 [IRegionMemberLifetime Members](/patterns-practices/reference/iregionmemberlifetime-members-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

@@ -144,6 +144,5 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 
 ## See Also
 
-[ModuleAttribute Class](/patterns-practices/reference/moduleattribute-class-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleAttribute Class](/patterns-practices/reference/moduleattribute-class-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

@@ -32,8 +32,6 @@ Type: [ObservableCollection](http://msdn.microsoft.com/en-us/library/ms668604)&l
 An [ObservableCollection&lt;T&gt;](http://msdn.microsoft.com/en-us/library/ms668604) of [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions) with all the added views.
 
 ## See Also
-[Region Class](/patterns-practices/reference/region-class-mspp-regions)
-
-[Region Members](/patterns-practices/reference/region-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[Region Class](/patterns-practices/reference/region-class-mspp-regions)<br/>
+[Region Members](/patterns-practices/reference/region-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

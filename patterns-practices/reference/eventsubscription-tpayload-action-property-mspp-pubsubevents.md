@@ -30,12 +30,10 @@ An [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) or nullNo
 
 ## See Also
 
-[EventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription)
-
+[EventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription)<br/>
 EventSubscription&lt;TPayload&gt; Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
-
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
 
 
 # EventSubscription(Of TPayload).Action Property
@@ -64,8 +62,7 @@ An [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) or **Nothing
 
 ## See Also
 
-[EventSubscription(Of TPayload) Class](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription)
-
+[EventSubscription(Of TPayload) Class](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription)<br/>
 EventSubscription(Of TPayload) Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

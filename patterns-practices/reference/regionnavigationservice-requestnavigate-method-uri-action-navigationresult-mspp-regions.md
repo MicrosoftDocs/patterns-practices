@@ -76,4 +76,4 @@ A callback to execute when the navigation request is completed.
 [RegionNavigationService Class](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)  
 [RegionNavigationService Members](/patterns-practices/reference/regionnavigationservice-members-mspp-regions)  
 [RequestNavigate Overload](/patterns-practices/reference/regionnavigationservice-requestnavigate-method-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

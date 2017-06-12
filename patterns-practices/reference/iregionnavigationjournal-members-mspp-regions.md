@@ -100,6 +100,5 @@ Gets or sets the target that implements INavigateAsync.
 
 ## See Also
 
-[IRegionNavigationJournal Interface](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournal)
-
+[IRegionNavigationJournal Interface](/patterns-practices/reference/mspp-regions-namespace.iregionnavigationjournal)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

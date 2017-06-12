@@ -190,4 +190,4 @@ Occurs when any of the registered commands raise <a href="http://msdn.microsoft.
 ## See Also
 
 [CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)  
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>

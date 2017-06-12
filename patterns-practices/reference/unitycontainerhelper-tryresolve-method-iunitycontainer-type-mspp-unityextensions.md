@@ -53,10 +53,7 @@ In Visual Basic and C\#, you can call this method as an instance method on any o
 
 ## See Also
 
-[UnityContainerHelper Class](/patterns-practices/reference/unitycontainerhelper-class-mspp-unityextensions)
-
-[UnityContainerHelper Members](/patterns-practices/reference/unitycontainerhelper-members-mspp-unityextensions)
-
-[TryResolve Overload](/patterns-practices/reference/unitycontainerhelper-tryresolve-method-mspp-unityextensions)
-
-[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)
+[UnityContainerHelper Class](/patterns-practices/reference/unitycontainerhelper-class-mspp-unityextensions)<br/>
+[UnityContainerHelper Members](/patterns-practices/reference/unitycontainerhelper-members-mspp-unityextensions)<br/>
+[TryResolve Overload](/patterns-practices/reference/unitycontainerhelper-tryresolve-method-mspp-unityextensions)<br/>
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)<br/>

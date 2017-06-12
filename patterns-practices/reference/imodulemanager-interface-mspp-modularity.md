@@ -28,6 +28,5 @@ Public Interface IModuleManager
 
 ## See Also
 
-[IModuleManager Members](/patterns-practices/reference/imodulemanager-members-mspp-modularity)
-
+[IModuleManager Members](/patterns-practices/reference/imodulemanager-members-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

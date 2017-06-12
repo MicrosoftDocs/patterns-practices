@@ -32,6 +32,5 @@ Gets a collection of <a href="https://msdn.microsoft.com/library/microsoft.pract
 </table>
 
 ## See Also
-[IRegionManager Interface](/patterns-practices/reference/iregionmanager-interface-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[IRegionManager Interface](/patterns-practices/reference/iregionmanager-interface-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

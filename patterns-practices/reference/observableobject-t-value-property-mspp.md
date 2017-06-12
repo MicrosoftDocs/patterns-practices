@@ -29,7 +29,7 @@ Type: [T](/patterns-practices/reference/observableobject-t-class-mspp)
 
 [ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)  
 [ObservableObject&lt;T&gt; Members](/patterns-practices/reference/observableobject-t-members-mspp)  
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
 
 # ObservableObject(Of T).Value Property
 
@@ -57,4 +57,4 @@ Type: [T](/patterns-practices/reference/observableobject-t-class-mspp)
 
 [ObservableObject(Of T) Class](/patterns-practices/reference/observableobject-t-class-mspp)  
 [ObservableObject(Of T) Members](/patterns-practices/reference/observableobject-t-members-mspp)  
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>

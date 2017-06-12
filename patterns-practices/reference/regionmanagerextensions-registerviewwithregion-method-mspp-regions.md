@@ -42,8 +42,6 @@ Associate a view with a region, by registering a type. When the region get's dis
 
 ## See Also
 
-[RegionManagerExtensions Class](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)
-
-[RegionManagerExtensions Members](/patterns-practices/reference/regionmanagerextensions-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionManagerExtensions Class](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)<br/>
+[RegionManagerExtensions Members](/patterns-practices/reference/regionmanagerextensions-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

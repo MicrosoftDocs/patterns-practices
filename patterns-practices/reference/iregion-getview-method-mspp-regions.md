@@ -45,8 +45,6 @@ Returns the named view or **null**a null reference (**Nothing** in Visual Basic)
 
 ## See Also
 
-[IRegion Interface](/patterns-practices/reference/iregion-interface-mspp-regions)
-
-[IRegion Members](/patterns-practices/reference/iregion-interface-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[IRegion Interface](/patterns-practices/reference/iregion-interface-mspp-regions)<br/>
+[IRegion Members](/patterns-practices/reference/iregion-interface-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

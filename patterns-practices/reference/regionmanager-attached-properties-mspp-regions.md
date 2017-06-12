@@ -18,6 +18,5 @@ The [RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regio
 | ![Public attached property](/patterns-practices/reference/images/pubproperty.gif) | [RegionName](/patterns-practices/reference/regionmanager-regionname-attached-property-mspp-regions)       |             |
 
 ## See Also
-[RegionManager Class](/patterns-practices/reference/regionmanager-class-mspp-regions)
-
+[RegionManager Class](/patterns-practices/reference/regionmanager-class-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

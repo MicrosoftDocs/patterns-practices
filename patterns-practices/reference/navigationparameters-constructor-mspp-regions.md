@@ -26,10 +26,8 @@ Public Sub New
 ```
 
 ## See Also
-[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)
-
-[NavigationParameters Members](/patterns-practices/reference/navigationparameters-members-mspp-regions)
-
+[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)<br/>
+[NavigationParameters Members](/patterns-practices/reference/navigationparameters-members-mspp-regions)<br/>
 NavigationParameters Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

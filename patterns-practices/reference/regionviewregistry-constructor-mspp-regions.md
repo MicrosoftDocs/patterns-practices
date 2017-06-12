@@ -39,8 +39,6 @@ IServiceLocator used to create the instance of the views from its [Type](http://
 
 ## See Also
 
-[RegionViewRegistry Class](/patterns-practices/reference/regionviewregistry-class-mspp-regions)
-
-[RegionViewRegistry Members](/patterns-practices/reference/regionviewregistry-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionViewRegistry Class](/patterns-practices/reference/regionviewregistry-class-mspp-regions)<br/>
+[RegionViewRegistry Members](/patterns-practices/reference/regionviewregistry-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

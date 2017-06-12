@@ -34,4 +34,4 @@ Microsoft.Practices.Prism.MefExtensions.DefaultPrismServiceRegistrar
 ## See Also
 
 [DefaultPrismServiceRegistrar Members](/patterns-practices/reference/defaultprismserviceregistrar-members-mspp-mefextensions)  
-[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)
+[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)<br/>

@@ -28,8 +28,6 @@ Public Sub New
 
 ## See Also
 
-[MefRegionNavigationJournalEntry Class](/patterns-practices/reference/mefregionnavigationjournalentry-class-mspp-mefextensions-regions)
-
-[MefRegionNavigationJournalEntry Members](/patterns-practices/reference/mefregionnavigationjournalentry-members-mspp-mefextensions-regions)
-
+[MefRegionNavigationJournalEntry Class](/patterns-practices/reference/mefregionnavigationjournalentry-class-mspp-mefextensions-regions)<br/>
+[MefRegionNavigationJournalEntry Members](/patterns-practices/reference/mefregionnavigationjournalentry-members-mspp-mefextensions-regions)<br/>
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

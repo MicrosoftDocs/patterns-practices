@@ -36,8 +36,6 @@ When a control has both the RegionNameProperty and [RegionManagerProperty](/patt
 
 ## See Also
 
-[RegionManager Class](/patterns-practices/reference/regionmanager-class-mspp-regions)
-
-[RegionManager Members](/patterns-practices/reference/regionmanager-members-mspp-regions)
-
+[RegionManager Class](/patterns-practices/reference/regionmanager-class-mspp-regions)<br/>
+[RegionManager Members](/patterns-practices/reference/regionmanager-members-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

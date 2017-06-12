@@ -191,8 +191,6 @@ Behavior's attached region.
 
 ## See Also
 
-[AutoPopulateRegionBehavior Class](/patterns-practices/reference/AutoPopulateRegionBehavior-class-mspp-modularity)
-
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
-
+[AutoPopulateRegionBehavior Class](/patterns-practices/reference/AutoPopulateRegionBehavior-class-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>
 

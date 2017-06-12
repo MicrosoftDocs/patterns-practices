@@ -40,8 +40,6 @@ The factory used to create the region behaviors to attach to the created regions
 
 ## See Also
 
-[SelectorRegionAdapter Class](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)
-
-[SelectorRegionAdapter Members](/patterns-practices/reference/selectorregionadapter-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[SelectorRegionAdapter Class](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)<br/>
+[SelectorRegionAdapter Members](/patterns-practices/reference/selectorregionadapter-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

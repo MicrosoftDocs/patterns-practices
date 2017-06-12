@@ -27,8 +27,6 @@ Public Sub New
 ```
 ## See Also
 
-[RegionMemberLifetimeAttribute Class](/patterns-practices/reference/regionmemberlifetimeattribute-class-mspp-regions)
-
-[RegionMemberLifetimeAttribute Members](/patterns-practices/reference/regionmemberlifetimeattribute-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionMemberLifetimeAttribute Class](/patterns-practices/reference/regionmemberlifetimeattribute-class-mspp-regions)<br/>
+[RegionMemberLifetimeAttribute Members](/patterns-practices/reference/regionmemberlifetimeattribute-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

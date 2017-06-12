@@ -38,8 +38,6 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 ## See Also
 
-[Confirmation Class](/patterns-practices/reference/confirmation-class-mspp-interactivity-interactionrequest)
-
-[Confirmation Members](/patterns-practices/reference/confirmation-members-mspp-interactivity-interactionrequest)
-
+[Confirmation Class](/patterns-practices/reference/confirmation-class-mspp-interactivity-interactionrequest)<br/>
+[Confirmation Members](/patterns-practices/reference/confirmation-members-mspp-interactivity-interactionrequest)<br/>
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

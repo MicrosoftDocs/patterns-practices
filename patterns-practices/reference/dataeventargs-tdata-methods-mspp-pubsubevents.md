@@ -86,6 +86,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[DataEventArgs(Of TData) Class](/patterns-practices/reference/mspp-mvvm-namespace.dataeventargs)
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
+[DataEventArgs(Of TData) Class](/patterns-practices/reference/mspp-mvvm-namespace.dataeventargs)<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
