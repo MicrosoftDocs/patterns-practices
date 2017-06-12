@@ -4,7 +4,8 @@ Title: 'ViewsCollection Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.ViewsCollection'
 ms:mtpsurl: 'viewscollection-class-mspp-regions.md'
 ---
-
+
+
 # ViewsCollection Class
 
 Implementation of [IViewsCollection](/patterns-practices/reference/iviewscollection-interface-mspp-regions) that takes an [ObservableCollection&lt;T&gt;](http://msdn.microsoft.com/en-us/library/ms668604) of [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions) and filters it to display an [INotifyCollectionChanged](http://msdn.microsoft.com/en-us/library/ms668629) collection of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) elements (the items which the [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions) wraps).
@@ -29,7 +30,7 @@ Public Class ViewsCollection
 	IEnumerable, INotifyCollectionChanged
 ```	
 
-Implementation of IViewsCollection that takes an [ObservableCollection(Of T)](http://msdn.microsoft.com/en-us/library/ms668604) of [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions) and filters it to display an [INotifyCollectionChanged](http://msdn.microsoft.com/en-us/library/ms668629) collection of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) elements (the items which the [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions) wraps).
+Implementation of [IViewsCollection](/patterns-practices/reference/iviewscollection-interface-mspp-regions) that takes an [ObservableCollection(Of T)](http://msdn.microsoft.com/en-us/library/ms668604) of [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions) and filters it to display an [INotifyCollectionChanged](http://msdn.microsoft.com/en-us/library/ms668629) collection of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) elements (the items which the [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions) wraps).
 
 ## Inheritance Hierarchy
 

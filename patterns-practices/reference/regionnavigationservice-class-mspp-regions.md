@@ -4,26 +4,37 @@ Title: 'RegionNavigationService Class (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.RegionNavigationService'
 ms:mtpsurl: 'regionnavigationservice-class-mspp-regions.md'
 ---
-
+
+
 # RegionNavigationService Class
 
 Provides navigation for regions.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public class RegionNavigationService : IRegionNavigationService, INavigateAsyncPublic Class RegionNavigationService Implements IRegionNavigationService, INavigateAsync
+```C#
+public class RegionNavigationService : IRegionNavigationService, 
+	INavigateAsync
+```
+```VB
+'Declaration
+Public Class RegionNavigationService
+	Implements IRegionNavigationService, INavigateAsync
+```
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.Regions.RegionNavigationService
-    [Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationservice)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+  Microsoft.Practices.Prism.Regions.RegionNavigationService  
+    [Microsoft-Practices-Prism-MefExtensions-Regions-MefRegionNavigationService](/patterns-practices/reference/mefregionnavigationservice-class-mspp-mefextensions-regions)
 
 ## See Also
-[RegionNavigationService Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.regionnavigationservice)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionNavigationService Members](/patterns-practices/reference/regionnavigationservice-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
