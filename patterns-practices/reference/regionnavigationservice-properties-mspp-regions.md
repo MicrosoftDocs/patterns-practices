@@ -4,10 +4,11 @@ Title: 'RegionNavigationService Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionNavigationService'
 ms:mtpsurl: 'regionnavigationservice-properties-mspp-regions.md'
 ---
-
+
+
 # RegionNavigationService Properties
 
-The [RegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice) type exposes the following members.
+The [RegionNavigationService](/patterns-practices/reference/regionnavigationservice-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
@@ -24,14 +25,14 @@ The [RegionNavigationService](https://msdn.microsoft.com/library/microsoft.pract
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Journal](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.journal)</td>
+<td>[Journal](/patterns-practices/reference/regionnavigationservice-journal-property-mspp-regions)</td>
 <td><div class="summary">
 Gets the journal.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice.region)</td>
+<td>[Region](/patterns-practices/reference/regionnavigationservice-region-property-mspp-regions)</td>
 <td><div class="summary">
 Gets or sets the region.
 </div></td>
@@ -40,6 +41,7 @@ Gets or sets the region.
 </table>
 
 ## See Also
-[RegionNavigationService Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationservice)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionNavigationService Class](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

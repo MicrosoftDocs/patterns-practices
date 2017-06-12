@@ -4,14 +4,13 @@ Title: 'IRegionNavigationJournalEntry Properties (Microsoft.Practices.Prism.Regi
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry'
 ms:mtpsurl: 'iregionnavigationjournalentry-properties-mspp-regions.md'
 ---
-
+
+
 # IRegionNavigationJournalEntry Properties
 
-The [IRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry) type exposes the following members.
+The [IRegionNavigationJournalEntry](/patterns-practices/reference/iregionnavigationjournalentry-interface-mspp-regions) type exposes the following members.
 
 ## Properties
-
-
 <table>
 
 <thead>
@@ -24,14 +23,14 @@ The [IRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Parameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry.parameters)</td>
+<td>[Parameters](/patterns-practices/reference/iregionnavigationjournalentry-parameters-property-mspp-regions)</td>
 <td><div class="summary">
 Gets or sets the NavigationParameters instance.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Uri](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry.uri)</td>
+<td>[Uri](/patterns-practices/reference/iregionnavigationjournalentry-uri-property-mspp-regions)</td>
 <td><div class="summary">
 Gets or sets the URI.
 </div></td>
@@ -40,6 +39,7 @@ Gets or sets the URI.
 </table>
 
 ## See Also
-[IRegionNavigationJournalEntry Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[IRegionNavigationJournalEntry Interface](/patterns-practices/reference/iregionnavigationjournalentry-interface-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

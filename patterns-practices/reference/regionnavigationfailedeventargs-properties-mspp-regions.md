@@ -4,10 +4,11 @@ Title: 'RegionNavigationFailedEventArgs Properties (Microsoft.Practices.Prism.Re
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.RegionNavigationFailedEventArgs'
 ms:mtpsurl: 'regionnavigationfailedeventargs-properties-mspp-regions.md'
 ---
-
+
+
 # RegionNavigationFailedEventArgs Properties
 
-The [RegionNavigationFailedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs) type exposes the following members.
+The [RegionNavigationFailedEventArgs](/patterns-practices/reference/regionnavigationfailedeventargs-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
@@ -24,21 +25,21 @@ The [RegionNavigationFailedEventArgs](https://msdn.microsoft.com/library/microso
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Error](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs.error)</td>
+<td>[Error](/patterns-practices/reference/regionnavigationfailedeventargs-error-property-mspp-regions)</td>
 <td><div class="summary">
 Gets the error.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs.navigationcontext)</td>
+<td>[NavigationContext](/patterns-practices/reference/regionnavigationfailedeventargs-navigationcontext-property-mspp-regions)</td>
 <td><div class="summary">
 Gets the navigation context.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Uri](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs.uri)</td>
+<td>[Uri](/patterns-practices/reference/regionnavigationfailedeventargs-uri-property-mspp-regions)</td>
 <td><div class="summary">
 Gets the navigation URI
 </div></td>
@@ -47,6 +48,7 @@ Gets the navigation URI
 </table>
 
 ## See Also
-[RegionNavigationFailedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationfailedeventargs)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[RegionNavigationFailedEventArgs Class](/patterns-practices/reference/regionnavigationfailedeventargs-class-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

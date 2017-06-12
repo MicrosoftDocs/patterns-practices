@@ -8,7 +8,7 @@ ms:mtpsurl: 'singleactiveregion-methods-mspp-regions.md'
 
 # SingleActiveRegion Methods
 
-The [SingleActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion) type exposes the following members.
+The [SingleActiveRegion](/patterns-practices/reference/singleactiveregion-class-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -25,11 +25,11 @@ The [SingleActiveRegion](https://msdn.microsoft.com/library/microsoft.practices.
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Activate](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion.activate(system.object))</td>
+<td>[Activate](/patterns-practices/reference/singleactiveregion-activate-method-mspp-regions)</td>
 <td><div class="summary">
 Marks the specified view as active.
 </div>
-(Overrides [Region.Activate(Object)](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.region.activate(v=pandp.50))</td>
+(Overrides [Region.Activate(Object)](/patterns-practices/reference/region-activate-method-mspp-regions)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -37,7 +37,7 @@ Marks the specified view as active.
 <td><div class="summary">
 Adds a new view to the region.
 </div>
-(Inherited from [Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region).)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -45,7 +45,7 @@ Adds a new view to the region.
 <td><div class="summary">
 Adds a new view to the region.
 </div>
-(Inherited from [Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region).)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -53,15 +53,15 @@ Adds a new view to the region.
 <td><div class="summary">
 Adds a new view to the region.
 </div>
-(Inherited from [Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region).)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Deactivate](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.deactivate(system.object))</td>
+<td>[Deactivate](/patterns-practices/reference/region-deactivate-method-mspp-regions)</td>
 <td><div class="summary">
 Marks the specified view as inactive.
 </div>
-(Inherited from [Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region).)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -97,11 +97,11 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[GetView](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.getview(system.string))</td>
+<td>[GetView](/patterns-practices/reference/region-getview-method-mspp-regions)</td>
 <td><div class="summary">
 Returns the view instance that was added to the region using a specific name.
 </div>
-(Inherited from [Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region).)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -113,11 +113,11 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Remove](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region.remove(system.object))</td>
+<td>[Remove](/patterns-practices/reference/region-remove-method-mspp-regions)</td>
 <td><div class="summary">
 Removes the specified view from the region.
 </div>
-(Inherited from [Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region).)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -125,7 +125,7 @@ Removes the specified view from the region.
 <td><div class="summary">
 Initiates navigation to the specified target.
 </div>
-(Inherited from [Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region).)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -133,7 +133,7 @@ Initiates navigation to the specified target.
 <td><div class="summary">
 Initiates navigation to the specified target.
 </div>
-(Inherited from [Region](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region).)</td>
+(Inherited from [Region](/patterns-practices/reference/region-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -148,6 +148,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[SingleActiveRegion Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.singleactiveregion)
+[SingleActiveRegion Class](/patterns-practices/reference/singleactiveregion-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

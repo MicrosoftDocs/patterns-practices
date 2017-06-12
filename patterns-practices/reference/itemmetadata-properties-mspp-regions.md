@@ -4,10 +4,11 @@ Title: 'ItemMetadata Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.ItemMetadata'
 ms:mtpsurl: 'itemmetadata-properties-mspp-regions.md'
 ---
-
+
+
 # ItemMetadata Properties
 
-The [ItemMetadata](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata) type exposes the following members.
+The [ItemMetadata](/patterns-practices/reference/itemmetadata-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
@@ -40,7 +41,7 @@ Gets the [Dispatcher](http://msdn.microsoft.com/en-us/library/ms615907) this [Di
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[IsActive](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.isactive)</td>
+<td>[IsActive](/patterns-practices/reference/itemmetadata-isactive-property-mspp-regions)</td>
 <td><div class="summary">
 Gets or sets a value indicating whether the wrapped item is considered active.
 </div></td>
@@ -55,14 +56,14 @@ Gets a value that indicates whether this instance is currently sealed (read-only
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Item](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.item)</td>
+<td>[Item](/patterns-practices/reference/itemmetadata-item-property-mspp-regions)</td>
 <td><div class="summary">
 Gets the wrapped item.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Name](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.name)</td>
+<td>[Name](/patterns-practices/reference/itemmetadata-name-property-mspp-regions)</td>
 <td><div class="summary">
 Gets or sets a name for the wrapped item.
 </div></td>
@@ -71,6 +72,7 @@ Gets or sets a name for the wrapped item.
 </table>
 
 ## See Also
-[ItemMetadata Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[ItemMetadata Class](/patterns-practices/reference/itemmetadata-class-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

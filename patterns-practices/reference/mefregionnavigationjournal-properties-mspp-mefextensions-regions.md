@@ -28,31 +28,31 @@ The [MefRegionNavigationJournal](/patterns-practices/reference/mefregionnavigati
 <td><div class="summary">
 Gets a value that indicates whether there is at least one entry in the back navigation history.
 </div>
-(Inherited from [RegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal).)</td>
+(Inherited from [RegionNavigationJournal](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[CanGoForward](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.cangoforward)</td>
+<td>[CanGoForward](/patterns-practices/reference/regionnavigationjournal-cangoforward-property-mspp-regions)</td>
 <td><div class="summary">
 Gets a value that indicates whether there is at least one entry in the forward navigation history.
 </div>
-(Inherited from [RegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal).)</td>
+(Inherited from [RegionNavigationJournal](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[CurrentEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.currententry)</td>
+<td>[CurrentEntry](/patterns-practices/reference/regionnavigationjournal-currententry-property-mspp-regions)</td>
 <td><div class="summary">
 Gets the current navigation entry of the content that is currently displayed.
 </div>
-(Inherited from [RegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal).)</td>
+(Inherited from [RegionNavigationJournal](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[NavigationTarget](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal.navigationtarget)</td>
+<td>[NavigationTarget](/patterns-practices/reference/regionnavigationjournal-currententry-property-mspp-regions)</td>
 <td><div class="summary">
 Gets or sets the target that implements INavigate.
 </div>
-(Inherited from [RegionNavigationJournal](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournal).)</td>
+(Inherited from [RegionNavigationJournal](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions).)</td>
 </tr>
 </tbody>
 </table>
