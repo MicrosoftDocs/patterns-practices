@@ -27,8 +27,6 @@ Protected Overridable Sub ValidateDependenciesInitializationMode
 
 ## See Also
 
-[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)
-
-[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)
-
+[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)<br/>
+[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

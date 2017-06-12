@@ -35,6 +35,5 @@ Gets or sets a value indicating whether the object is active.
 
 ## See Also
 
-[IActiveAware Interface](/patterns-practices/reference/iactiveaware-interface-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/iactiveaware-properties-mspp)
+[IActiveAware Interface](/patterns-practices/reference/iactiveaware-interface-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/iactiveaware-properties-mspp)<br/>

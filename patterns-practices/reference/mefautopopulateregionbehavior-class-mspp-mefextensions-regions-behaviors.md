@@ -39,6 +39,5 @@ Public Class MefAutoPopulateRegionBehavior
 
 ## See Also
 
-[MefAutoPopulateRegionBehavior Members](/patterns-practices/reference/mefautopopulateregionbehavior-members-mspp-mefextensions-regions-behaviors)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
+[MefAutoPopulateRegionBehavior Members](/patterns-practices/reference/mefautopopulateregionbehavior-members-mspp-mefextensions-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)<br/>

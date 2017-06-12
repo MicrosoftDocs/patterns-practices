@@ -38,8 +38,6 @@ Creates a new instance of <a href="https://msdn.microsoft.com/library/microsoft.
 
 ## See Also
 
-[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)
-
-[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)
-
+[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)<br/>
+[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)<br/>
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

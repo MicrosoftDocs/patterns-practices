@@ -35,6 +35,5 @@ Public Class RegionNavigationService
 
 ## See Also
 
-[RegionNavigationService Members](/patterns-practices/reference/regionnavigationservice-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionNavigationService Members](/patterns-practices/reference/regionnavigationservice-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

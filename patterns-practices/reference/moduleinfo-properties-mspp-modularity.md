@@ -74,6 +74,5 @@ Gets or sets the state of the [ModuleInfo](/patterns-practices/reference/modulei
 
 ## See Also
 
-[ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleInfo Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

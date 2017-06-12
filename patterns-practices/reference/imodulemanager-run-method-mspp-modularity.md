@@ -38,8 +38,6 @@ Sub Run
 
 ## See Also
 
-[IModuleManager Interface](/patterns-practices/reference/imodulemanager-interface-mspp-modularity)
-
-[IModuleManager Members](/patterns-practices/reference/imodulemanager-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[IModuleManager Interface](/patterns-practices/reference/imodulemanager-interface-mspp-modularity)<br/>
+[IModuleManager Members](/patterns-practices/reference/imodulemanager-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

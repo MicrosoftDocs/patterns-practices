@@ -36,6 +36,5 @@ Public Class Confirmation
 
 ## See Also
 
-[Confirmation Members](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest)
-
+[Confirmation Members](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest)<br/>
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest)

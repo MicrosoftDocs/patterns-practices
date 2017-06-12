@@ -134,6 +134,5 @@ This method allows an IRegionManager to locate a specified region and navigate i
 
 ## See Also
 
-[RegionManagerExtensions Class](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)
-
+[RegionManagerExtensions Class](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

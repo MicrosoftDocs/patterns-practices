@@ -43,9 +43,6 @@ true if the exception type is already registered; otherwise, false.
 
 ## See Also
 
-[ExceptionExtensions Class](/patterns-practices/reference/exceptionextensions-class-mspp)
-
-[ExceptionExtensions Members](/patterns-practices/reference/exceptionextensions-members-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
-
+[ExceptionExtensions Class](/patterns-practices/reference/exceptionextensions-class-mspp)<br/>
+[ExceptionExtensions Members](/patterns-practices/reference/exceptionextensions-members-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>

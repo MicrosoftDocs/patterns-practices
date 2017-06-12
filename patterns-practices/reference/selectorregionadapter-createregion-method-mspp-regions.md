@@ -31,8 +31,6 @@ A new instance of [Region](/patterns-practices/reference/region-class-mspp-regio
 
 ## See Also
 
-[SelectorRegionAdapter Class](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)
-
-[SelectorRegionAdapter Members](/patterns-practices/reference/selectorregionadapter-members-mspp-regions)
-
+[SelectorRegionAdapter Class](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)<br/>
+[SelectorRegionAdapter Members](/patterns-practices/reference/selectorregionadapter-members-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

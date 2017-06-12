@@ -61,4 +61,4 @@ A collection of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp
 
 [IModuleCatalog Members](/patterns-practices/reference/imodulecatalog-members-mspp-modularity) 
  
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

@@ -48,6 +48,5 @@ Microsoft.Practices.Prism.Regions.RegionBehavior
 
 ## See Also
 
-[RegionBehavior Members](/patterns-practices/reference/regionbehavior-members-mspp-regions)
-
+[RegionBehavior Members](/patterns-practices/reference/regionbehavior-members-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

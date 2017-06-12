@@ -72,6 +72,5 @@ Raised repeatedly to provide progress as modules are downloaded.
 
 ## See Also
 
-[IModuleManager Interface](/patterns-practices/reference/imodulemanager-interface-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[IModuleManager Interface](/patterns-practices/reference/imodulemanager-interface-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

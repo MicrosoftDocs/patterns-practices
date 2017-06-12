@@ -44,8 +44,6 @@ Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) The valu
 
 ## See Also
 
-[NavigationParameters Class](/patterns-practices/reference/mspp-regions-namespace.navigationparameters)
-
-[NavigationParameters Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationparameters)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[NavigationParameters Class](/patterns-practices/reference/mspp-regions-namespace.navigationparameters)<br/>
+[NavigationParameters Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationparameters)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

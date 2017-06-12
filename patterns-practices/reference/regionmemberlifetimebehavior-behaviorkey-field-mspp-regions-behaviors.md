@@ -32,8 +32,6 @@ Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ## See Also
 
-[RegionMemberLifetimeBehavior Class](/patterns-practices/reference/regionmemberlifetimebehavior-class-mspp-regions-behaviors)
-
-[RegionMemberLifetimeBehavior Members](/patterns-practices/reference/regionmemberlifetimebehavior-members-mspp-regions-behaviors)
-
+[RegionMemberLifetimeBehavior Class](/patterns-practices/reference/regionmemberlifetimebehavior-class-mspp-regions-behaviors)<br/>
+[RegionMemberLifetimeBehavior Members](/patterns-practices/reference/regionmemberlifetimebehavior-members-mspp-regions-behaviors)<br/>
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

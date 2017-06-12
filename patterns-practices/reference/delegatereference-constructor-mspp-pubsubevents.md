@@ -55,10 +55,8 @@ If **falsefalse** (**False** in Visual Basic) the class will create a weak refer
 
 ## See Also
 
-[DelegateReference Class](/patterns-practices/reference/mspp-mvvm-namespace.delegatereference)
-
-[DelegateReference Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.delegatereference)
-
+[DelegateReference Class](/patterns-practices/reference/mspp-mvvm-namespace.delegatereference)<br/>
+[DelegateReference Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.delegatereference)<br/>
 DelegateReference Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

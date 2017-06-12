@@ -38,8 +38,6 @@ The module to initialize
 
 ## See Also
 
-[IModuleInitializer Interface](/patterns-practices/reference/imoduleinitializer-interface-mspp-modularity)
-
-[IModuleInitializer Members](/patterns-practices/reference/imoduleinitializer-members-mspp-modularity)
- 
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[IModuleInitializer Interface](/patterns-practices/reference/imoduleinitializer-interface-mspp-modularity)<br/>
+[IModuleInitializer Members](/patterns-practices/reference/imoduleinitializer-members-mspp-modularity)<br/> 
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

@@ -56,10 +56,8 @@ The navigation parameters.
 
 ## See Also
 
-[NavigationContext Class](/patterns-practices/reference/navigationcontext-class-mspp-regions)
-
-[NavigationContext Members](/patterns-practices/reference/navigationcontext-members-mspp-regions)
-
+[NavigationContext Class](/patterns-practices/reference/navigationcontext-class-mspp-regions)<br/>
+[NavigationContext Members](/patterns-practices/reference/navigationcontext-members-mspp-regions)<br/>
 NavigationContext Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

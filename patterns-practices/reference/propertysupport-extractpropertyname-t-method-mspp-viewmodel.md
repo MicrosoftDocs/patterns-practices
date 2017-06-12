@@ -69,12 +69,9 @@ Or, the property is static.</td>
 
 ## See Also
 
-[PropertySupport Class](/patterns-practices/reference/propertysupport-class-mspp-viewmodel)
-
-[PropertySupport Members](/patterns-practices/reference/propertysupport-members-mspp-viewmodel)
-
-[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)
-
+[PropertySupport Class](/patterns-practices/reference/propertysupport-class-mspp-viewmodel)<br/>
+[PropertySupport Members](/patterns-practices/reference/propertysupport-members-mspp-viewmodel)<br/>
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>
 
 # PropertySupport.ExtractPropertyName(Of T) Method
 
@@ -141,8 +138,6 @@ Or, the property is static.</td>
 
 ## See Also
 
-[PropertySupport Class](/patterns-practices/reference/propertysupport-class-mspp-viewmodel)
-
-[PropertySupport Members](/patterns-practices/reference/propertysupport-members-mspp-viewmodel)
-
-[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)
+[PropertySupport Class](/patterns-practices/reference/propertysupport-class-mspp-viewmodel)<br/>
+[PropertySupport Members](/patterns-practices/reference/propertysupport-members-mspp-viewmodel)<br/>
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>

@@ -124,6 +124,5 @@ Gets or sets the URI.
 
 ## See Also
 
-[MefRegionNavigationJournalEntry Class](/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regionsentry)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
+[MefRegionNavigationJournalEntry Class](/patterns-practices/reference/mefregionnavigationjournal-class-mspp-mefextensions-regionsentry)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)<br/>

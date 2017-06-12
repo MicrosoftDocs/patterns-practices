@@ -53,8 +53,6 @@ Collection of [ModuleInfo](/patterns-practices/reference/mspp-modularity-namespa
 
 ## See Also
 
-[ModuleCatalog Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
-
-[ModuleCatalog Members](/patterns-practices/reference/moduleinfo-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleCatalog Class](/patterns-practices/reference/moduleinfo-class-mspp-modularity)<br/>
+[ModuleCatalog Members](/patterns-practices/reference/moduleinfo-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

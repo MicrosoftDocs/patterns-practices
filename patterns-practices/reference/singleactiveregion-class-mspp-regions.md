@@ -37,6 +37,5 @@ Microsoft.Practices.Prism.Regions.SingleActiveRegion
 
 ## See Also
 
-[SingleActiveRegion Members](/patterns-practices/reference/singleactiveregion-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[SingleActiveRegion Members](/patterns-practices/reference/singleactiveregion-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

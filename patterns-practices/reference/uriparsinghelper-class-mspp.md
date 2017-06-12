@@ -32,6 +32,5 @@ Public NotInheritable Class UriParsingHelper
 
 ## See Also
 
-[UriParsingHelper Members](/patterns-practices/reference/uriparsinghelper-members-mspp)
-
-[mspp-Microsoft-Practices-Prism Namespace](https://msdn-microsoft-com/library/microsoft-practices-prism-namespace)
+[UriParsingHelper Members](/patterns-practices/reference/uriparsinghelper-members-mspp)<br/>
+[mspp-Microsoft-Practices-Prism Namespace](https://msdn-microsoft-com/library/microsoft-practices-prism-namespace)<br/>

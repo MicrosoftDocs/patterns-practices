@@ -28,8 +28,6 @@ Public Sub New
 
 ## See Also
 
-[ConfigurationStore Class](/patterns-practices/reference/configurationstore-class-mspp-modularity)
-
-[ConfigurationStore Members](/patterns-practices/reference/configurationstore-members-mspp-modularity)
-
+[ConfigurationStore Class](/patterns-practices/reference/configurationstore-class-mspp-modularity)<br/>
+[ConfigurationStore Members](/patterns-practices/reference/configurationstore-members-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

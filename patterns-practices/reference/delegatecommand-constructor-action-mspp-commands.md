@@ -37,10 +37,8 @@ Type: [System.Action](http://msdn.microsoft.com/en-us/library/bb534741)
 The [Action](http://msdn.microsoft.com/en-us/library/bb534741) to invoke when [Execute(Object)](http://msdn.microsoft.com/en-us/library/ms604094) is called.
 
 ## See Also
-[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)
-
-[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)
-
+[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)<br/>
+[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)<br/>
 DelegateCommand Overload
 
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

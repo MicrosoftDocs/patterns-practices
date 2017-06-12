@@ -152,6 +152,5 @@ Behavior's attached region.
 
 ## See Also
 
-[BindRegionContextToDependencyObjectBehavior Class](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-modularity)
-
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+[BindRegionContextToDependencyObjectBehavior Class](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>

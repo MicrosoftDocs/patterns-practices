@@ -40,8 +40,6 @@ Disposes the associated <a href="/patterns-practices/reference/assemblyresolver-
 
 ## See Also
 
-[AssemblyResolver Class](/patterns-practices/reference/assemblyresolver-class-mspp-modularity)
-
-[AssemblyResolver Members](/patterns-practices/reference/assemblyresolver-members-mspp-modularity)
-
+[AssemblyResolver Class](/patterns-practices/reference/assemblyresolver-class-mspp-modularity)<br/>
+[AssemblyResolver Members](/patterns-practices/reference/assemblyresolver-members-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

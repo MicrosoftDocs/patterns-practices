@@ -39,6 +39,5 @@ Public Class MefRegionManager
 
 ## See Also
 
-[MefRegionManager Members](/patterns-practices/reference/mefregionmanager-members-mspp-mefextensions-regions)
-
+[MefRegionManager Members](/patterns-practices/reference/mefregionmanager-members-mspp-mefextensions-regions)<br/>
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

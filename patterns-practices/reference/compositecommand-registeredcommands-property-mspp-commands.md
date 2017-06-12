@@ -45,8 +45,6 @@ This returns a copy of the commands subscribed to the CompositeCommand.
 
 ## See Also
 
-[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)
-
-[CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)
-
+[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)<br/>
+[CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)<br/>
 [Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

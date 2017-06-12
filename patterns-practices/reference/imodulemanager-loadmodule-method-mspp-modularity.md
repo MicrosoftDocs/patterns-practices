@@ -38,10 +38,8 @@ Name of the module requested for initialization.
 
 ## See Also
 
-[IModuleManager Interface](/patterns-practices/reference/imodulemanager-interface-mspp-modularity)
-
+[IModuleManager Interface](/patterns-practices/reference/imodulemanager-interface-mspp-modularity)<br/>
 [IModuleManager Members](/patterns-practices/reference/imodulemanager-members-mspp-modularity) 
 
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
-
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
 

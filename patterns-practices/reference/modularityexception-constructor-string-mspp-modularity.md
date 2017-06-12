@@ -39,10 +39,8 @@ The exception message.
 
 ## See Also
 
-[ModularityException Class](/patterns-practices/reference/modularityexception-class-mspp-modularity)
-
-[ModularityException Class](/patterns-practices/reference/modularityexception-members-mspp-modularity)
-
+[ModularityException Class](/patterns-practices/reference/modularityexception-class-mspp-modularity)<br/>
+[ModularityException Class](/patterns-practices/reference/modularityexception-members-mspp-modularity)<br/>
 ModularityException Overload
 
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

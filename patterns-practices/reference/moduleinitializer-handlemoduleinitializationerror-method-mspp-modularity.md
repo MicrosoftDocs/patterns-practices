@@ -57,8 +57,6 @@ The exception thrown that is the cause of the current error.
 
 ## See Also
 
-[ModuleInitializer Class](/patterns-practices/reference/moduleinitializer-class-mspp-modularity)
-
-[ModuleInitializer Members](/patterns-practices/reference/moduleinitializer-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleInitializer Class](/patterns-practices/reference/moduleinitializer-class-mspp-modularity)<br/>
+[ModuleInitializer Members](/patterns-practices/reference/moduleinitializer-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

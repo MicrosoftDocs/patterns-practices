@@ -35,6 +35,5 @@ Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectB
 
 ## See Also
 
-[BindRegionContextToDependencyObjectBehavior Members](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-members-mspp-regions-behaviors)
-
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+[BindRegionContextToDependencyObjectBehavior Members](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-members-mspp-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>

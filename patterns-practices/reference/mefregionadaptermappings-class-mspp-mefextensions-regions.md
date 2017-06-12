@@ -40,6 +40,5 @@ Public Class MefRegionAdapterMappings
 
 ## See Also
 
-[MefRegionAdapterMappings Members](/patterns-practices/reference/mefregionadaptermappings-members-mspp-mefextensions-regions)
-
+[MefRegionAdapterMappings Members](/patterns-practices/reference/mefregionadaptermappings-members-mspp-mefextensions-regions)<br/>
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

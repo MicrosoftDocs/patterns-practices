@@ -34,6 +34,5 @@ Public Class DefaultDispatcher
 
 ## See Also
 
-[DefaultDispatcher Members](/patterns-practices/reference/defaultdispatcher-members-mspp-events)
-
-[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)
+[DefaultDispatcher Members](/patterns-practices/reference/defaultdispatcher-members-mspp-events)<br/>
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)<br/>

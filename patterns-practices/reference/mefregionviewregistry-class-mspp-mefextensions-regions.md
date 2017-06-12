@@ -39,6 +39,5 @@ Public Class MefRegionViewRegistry
 
 ## See Also
 
-[MefRegionViewRegistry Members](/patterns-practices/reference/mefregionviewregistry-members-mspp-mefextensions-regions)
-
+[MefRegionViewRegistry Members](/patterns-practices/reference/mefregionviewregistry-members-mspp-mefextensions-regions)<br/>
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

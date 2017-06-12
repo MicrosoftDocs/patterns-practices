@@ -36,8 +36,6 @@ The shell user interface.
 
 ## See Also
 
-[Bootstrapper Class](/patterns-practices/reference/bootstrapper-class-mspp)
-
-[Bootstrapper Members](/patterns-practices/reference/bootstrapper-members-mspp)
-
+[Bootstrapper Class](/patterns-practices/reference/bootstrapper-class-mspp)<br/>
+[Bootstrapper Members](/patterns-practices/reference/bootstrapper-members-mspp)<br/>
 [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

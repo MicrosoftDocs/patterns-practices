@@ -18,6 +18,5 @@ Interface for RegionBehaviorFactories. This factory allows the registration of t
 public interface IRegionBehaviorFactory : IEnumerable&lt;string&gt;, IEnumerablePublic Interface IRegionBehaviorFactory Inherits IEnumerable(Of String), IEnumerable
 
 ## See Also
-[IRegionBehaviorFactory Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionbehaviorfactory)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[IRegionBehaviorFactory Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionbehaviorfactory)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>

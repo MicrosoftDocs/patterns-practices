@@ -33,6 +33,5 @@ Extracts the property name from a property expression.
 
 ## See Also
 
-[PropertySupport Class](/patterns-practices/reference/propertysupport-class-mspp-mvvm)
-
+[PropertySupport Class](/patterns-practices/reference/propertysupport-class-mspp-mvvm)<br/>
 [Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

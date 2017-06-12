@@ -39,6 +39,5 @@ Public Class MefDelayedRegionCreationBehavior
 
 ## See Also
 
-[MefDelayedRegionCreationBehavior Members](/patterns-practices/reference/mefdelayedregioncreationbehavior-members-mspp-mefextensions-regions-behaviors)
-
+[MefDelayedRegionCreationBehavior Members](/patterns-practices/reference/mefdelayedregioncreationbehavior-members-mspp-mefextensions-regions-behaviors)<br/>
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

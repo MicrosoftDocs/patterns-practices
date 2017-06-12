@@ -161,6 +161,5 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 
 ## See Also
 
-[MefSelectorRegionAdapter Class](/patterns-practices/reference/mefselectorregionadapter-class-mspp-mefextensions-regions)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
+[MefSelectorRegionAdapter Class](/patterns-practices/reference/mefselectorregionadapter-class-mspp-mefextensions-regions)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)<br/>

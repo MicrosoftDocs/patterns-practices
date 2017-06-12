@@ -36,6 +36,5 @@ Microsoft.Practices.Prism.UnityExtensions.Regions.UnityRegionNavigationContentLo
 
 ## See Also
 
-[UnityRegionNavigationContentLoader Members](/patterns-practices/reference/unityregionnavigationcontentloader-members-mspp-unityextensions-regions)
-
-[Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents)
+[UnityRegionNavigationContentLoader Members](/patterns-practices/reference/unityregionnavigationcontentloader-members-mspp-unityextensions-regions)<br/>
+[Microsoft.Practices.Prism.UnityExtensions.Regions Namespace](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents)<br/>

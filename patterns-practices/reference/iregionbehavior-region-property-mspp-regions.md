@@ -35,4 +35,4 @@ Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
 
 [IRegionBehavior Interface](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)  
 [IRegionBehavior Members](/patterns-practices/reference/iregionbehavior-members-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

@@ -34,6 +34,5 @@ Public Class DelegateCommand
 
 ## See Also
 
-[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)
-
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
+[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)<br/>
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>

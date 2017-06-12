@@ -40,8 +40,6 @@ The navigation context.
 
 ## See Also
 
-[INavigationAware Interface](/patterns-practices/reference/inavigationaware-interface-mspp-regions)
-
-[INavigationAware Members](/patterns-practices/reference/inavigationaware-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[INavigationAware Interface](/patterns-practices/reference/inavigationaware-interface-mspp-regions)<br/>
+[INavigationAware Members](/patterns-practices/reference/inavigationaware-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

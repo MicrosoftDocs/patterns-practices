@@ -35,6 +35,5 @@ Microsoft.Practices.Prism.Modularity.ModuleInfoGroupExtensions
 
 ## See Also
 
-[ModuleInfoGroupExtensions Members](/patterns-practices/reference/moduleinfogroupextensions-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleInfoGroupExtensions Members](/patterns-practices/reference/moduleinfogroupextensions-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

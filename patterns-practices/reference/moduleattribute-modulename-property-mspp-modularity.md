@@ -35,8 +35,6 @@ The name of the module.
 
 ## See Also
 
-[ModuleAttribute Class](/patterns-practices/reference/moduleattribute-class-mspp-mefextensions-modularity)
-
-[ModuleAttribute Members](/patterns-practices/reference/moduleattribute-members-mspp-mefextensions-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[ModuleAttribute Class](/patterns-practices/reference/moduleattribute-class-mspp-mefextensions-modularity)<br/>
+[ModuleAttribute Members](/patterns-practices/reference/moduleattribute-members-mspp-mefextensions-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

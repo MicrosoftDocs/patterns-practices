@@ -40,8 +40,6 @@ Initializes a new instance of the <a href="/patterns-practices/reference/modulec
 
 ## See Also
 
-[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)
-
-[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-memb-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)<br/>
+[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-memb-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

@@ -29,6 +29,5 @@ public interface IModuleInitializer
 
 ## See Also
 
-[IModuleInitializer Members](/patterns-practices/reference/imoduleinitializer-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[IModuleInitializer Members](/patterns-practices/reference/imoduleinitializer-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

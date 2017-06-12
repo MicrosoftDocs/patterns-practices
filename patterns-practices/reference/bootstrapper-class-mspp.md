@@ -38,6 +38,5 @@ Public MustInherit Class Bootstrapper
 
 ## See Also
 
-[Bootstrapper Members](/patterns-practices/reference/bootstrapper-members-mspp)
-
+[Bootstrapper Members](/patterns-practices/reference/bootstrapper-members-mspp)<br/>
 [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

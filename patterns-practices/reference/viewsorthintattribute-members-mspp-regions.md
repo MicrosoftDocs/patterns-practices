@@ -125,6 +125,5 @@ When implemented in a derived class, gets a unique identifier for this [Attribut
 </table>
 
 ## See Also
-[ViewSortHintAttribute Class](/patterns-practices/reference/viewsorthintattribute-class-mspp-regions)
-
+[ViewSortHintAttribute Class](/patterns-practices/reference/viewsorthintattribute-class-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

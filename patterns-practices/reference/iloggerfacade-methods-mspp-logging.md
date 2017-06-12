@@ -35,6 +35,5 @@ Write a new log entry with the specified category and priority.
 
 ## See Also
 
-[ILoggerFacade Interface](/patterns-practices/reference/iloggerfacade-class-mspp-logging)
-
-[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)
+[ILoggerFacade Interface](/patterns-practices/reference/iloggerfacade-class-mspp-logging)<br/>
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)<br/>

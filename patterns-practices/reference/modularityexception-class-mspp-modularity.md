@@ -42,6 +42,5 @@ Public Class ModularityException
 
 ## See Also
 
-[ModularityException Members](/patterns-practices/reference/modularityexception-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModularityException Members](/patterns-practices/reference/modularityexception-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

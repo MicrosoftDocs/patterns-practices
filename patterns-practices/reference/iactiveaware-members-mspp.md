@@ -58,6 +58,5 @@ Notifies that the value for <a href="/patterns-practices/reference/iactiveaware-
 
 ## See Also
 
-[IActiveAware Interface](/patterns-practices/reference/iactiveaware-interface-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+[IActiveAware Interface](/patterns-practices/reference/iactiveaware-interface-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>

@@ -183,6 +183,5 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 
 ## See Also
 
-[ModuleExportAttribute Class](https://review.docs.microsoft.com/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity)
-
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://review.docs.microsoft.com/patterns-practices/reference/mspp-mefextensions-modularity-namespace)
+[ModuleExportAttribute Class](https://review.docs.microsoft.com/patterns-practices/reference/moduleexportattribute-class-mspp-mefextensions-modularity)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](https://review.docs.microsoft.com/patterns-practices/reference/mspp-mefextensions-modularity-namespace)<br/>

@@ -55,6 +55,5 @@ Gets or sets the target that implements INavigate.
 
 ## See Also
 
-[RegionNavigationJournal Class](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionNavigationJournal Class](/patterns-practices/reference/regionnavigationjournal-class-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

@@ -70,8 +70,6 @@ Wrapper around the Regioncontext value.
 
 ## See Also
 
-[RegionContext Class](/patterns-practices/reference/regioncontext-class-mspp-regions)
-
-[RegionContext Members](/patterns-practices/reference/regioncontext-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionContext Class](/patterns-practices/reference/regioncontext-class-mspp-regions)<br/>
+[RegionContext Members](/patterns-practices/reference/regioncontext-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

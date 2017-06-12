@@ -39,8 +39,6 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/db0etb8x)(Of
 
 ## See Also
 
-[IRegionNavigationService Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice)
-
-[IRegionNavigationService Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice_members)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[IRegionNavigationService Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice)<br/>
+[IRegionNavigationService Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationservice_members)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>

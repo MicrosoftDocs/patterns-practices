@@ -91,6 +91,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[MefSelectorItemsSourceSyncBehavior Class](/patterns-practices/reference/mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors)
-
+[MefSelectorItemsSourceSyncBehavior Class](/patterns-practices/reference/mefselectoritemssourcesyncbehavior-class-mspp-mefextensions-regions-behaviors)<br/>
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

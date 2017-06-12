@@ -25,6 +25,5 @@ Adapter that creates a new [SingleActiveRegion](https://msdn.microsoft.com/libra
       [Microsoft.Practices.Prism.MefExtensions.Regions.MefContentControlRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefcontentcontrolregionadapter)
 
 ## See Also
-[ContentControlRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.contentcontrolregionadapter)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[ContentControlRegionAdapter Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.contentcontrolregionadapter)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>

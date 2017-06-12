@@ -34,6 +34,5 @@ Load an assembly when it's required by the application.
 
 ## See Also
 
-[IAssemblyResolver Interface](/patterns-practices/reference/iassemblyresolver-interface-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[IAssemblyResolver Interface](/patterns-practices/reference/iassemblyresolver-interface-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

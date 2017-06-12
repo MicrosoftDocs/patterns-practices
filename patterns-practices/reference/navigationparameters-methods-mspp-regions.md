@@ -88,6 +88,5 @@ Converts the list of key value pairs to a query string.
 
 ## See Also
 
-[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)
-
+[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

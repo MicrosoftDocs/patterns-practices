@@ -44,10 +44,7 @@ If **Truetrue** (**True** in Visual Basic), registers default Prism Library serv
 
 ## See Also
 
-[MefBootstrapper Class](/patterns-practices/reference/mefbootstrapper-class-mspp-mefextensions)
-
-[MefBootstrapper Members](/patterns-practices/reference/mefbootstrapper-members-mspp-mefextensions)
-
-[Run Overload](/patterns-practices/reference/mefbootstrapper-run-method-mspp-mefextensions)
-
-[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)
+[MefBootstrapper Class](/patterns-practices/reference/mefbootstrapper-class-mspp-mefextensions)<br/>
+[MefBootstrapper Members](/patterns-practices/reference/mefbootstrapper-members-mspp-mefextensions)<br/>
+[Run Overload](/patterns-practices/reference/mefbootstrapper-run-method-mspp-mefextensions)<br/>
+[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)<br/>

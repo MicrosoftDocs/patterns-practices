@@ -40,8 +40,6 @@ Attempts to resolve specified type from the underlying IServiceLocator.
 
 ## See Also
 
-[ServiceLocatorExtensions Class](/patterns-practices/reference/servicelocatorextensions-class-mspp-regions)
-
-[ServiceLocatorExtensions Members](/patterns-practices/reference/servicelocatorextensions-members-mspp-regions)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[ServiceLocatorExtensions Class](/patterns-practices/reference/servicelocatorextensions-class-mspp-regions)<br/>
+[ServiceLocatorExtensions Members](/patterns-practices/reference/servicelocatorextensions-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

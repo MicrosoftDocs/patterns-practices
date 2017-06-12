@@ -53,8 +53,6 @@ Initializes a new instance of the [UpdateRegionsException](/patterns-practices/r
 
 ## See Also
 
-[UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions)
-
-[UpdateRegionsException Members](/patterns-practices/reference/updateregionsexception-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions)<br/>
+[UpdateRegionsException Members](/patterns-practices/reference/updateregionsexception-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

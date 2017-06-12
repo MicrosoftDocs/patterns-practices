@@ -34,6 +34,5 @@ Occurs when the collection changes.
 
 ## See Also
 
-&nbsp;&nbsp;[IViewsCollection Interface](/patterns-practices/reference/iviewscollection-interface-mspp-regions)
-
+&nbsp;&nbsp;[IViewsCollection Interface](/patterns-practices/reference/iviewscollection-interface-mspp-regions)<br/>
 &nbsp;&nbsp;[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

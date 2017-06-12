@@ -29,6 +29,5 @@ public interface IModuleCatalog
 
 ## See Also
 
-[IModuleCatalog Members](/patterns-practices/reference/imodulecatalog-members-mspp-modularity)
-
+[IModuleCatalog Members](/patterns-practices/reference/imodulecatalog-members-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

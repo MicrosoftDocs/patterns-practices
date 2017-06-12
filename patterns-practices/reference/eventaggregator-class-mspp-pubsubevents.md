@@ -38,4 +38,4 @@ Microsoft.Practices.Prism.PubSubEvents.EventAggregator
 
 EventAggregator Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>

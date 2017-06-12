@@ -39,10 +39,7 @@ Calls [Dispose(Boolean)](/patterns-practices/reference/textlogger-dispose-method
 
 ## See Also
 
-[TextLogger Class](/patterns-practices/reference/textlogger-class-mspp-logging)
-
-[TextLogger Members](/patterns-practices/reference/textlogger-members-mspp-logging)
-
-[Dispose Overload](/patterns-practices/reference/textlogger-dispose-method-mspp-logging)
-
+[TextLogger Class](/patterns-practices/reference/textlogger-class-mspp-logging)<br/>
+[TextLogger Members](/patterns-practices/reference/textlogger-members-mspp-logging)<br/>
+[Dispose Overload](/patterns-practices/reference/textlogger-dispose-method-mspp-logging)<br/>
 [Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)

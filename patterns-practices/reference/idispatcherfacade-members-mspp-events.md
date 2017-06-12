@@ -35,6 +35,5 @@ Dispatches an invocation to the method received as parameter.
 
 ## See Also
 
-[IDispatcherFacade Interface](/patterns-practices/reference/idispatcherfacade-interface-mspp-events)
-
-[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)
+[IDispatcherFacade Interface](/patterns-practices/reference/idispatcherfacade-interface-mspp-events)<br/>
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)<br/>

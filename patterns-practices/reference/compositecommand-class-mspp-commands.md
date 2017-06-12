@@ -33,6 +33,5 @@ Public Class CompositeCommand
 
 ## See Also
 
-[CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)
-
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
+[CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)<br/>
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>

@@ -34,4 +34,4 @@ Type: [IRegionCollection](/patterns-practices/reference/iregioncollection-interf
 
 [IRegionManager Interface](/patterns-practices/reference/iregionmanager-interface-mspp-regions)  
 [IRegionManager Members](/patterns-practices/reference/iregionmanager-members-mspp-regions)  
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

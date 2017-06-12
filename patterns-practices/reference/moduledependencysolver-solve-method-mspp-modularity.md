@@ -60,8 +60,6 @@ The resulting ordered list of modules.
 
 ## See Also
 
-[ModuleDependencySolver Class](/patterns-practices/reference/moduledependencysolver-class-mspp-modularity)
-
-[ModuleDependencySolver Members](/patterns-practices/reference/moduledependencysolver-members-mspp-modularity)
-
+[ModuleDependencySolver Class](/patterns-practices/reference/moduledependencysolver-class-mspp-modularity)<br/>
+[ModuleDependencySolver Members](/patterns-practices/reference/moduledependencysolver-members-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

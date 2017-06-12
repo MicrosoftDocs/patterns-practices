@@ -39,6 +39,5 @@ Microsoft.Practices.Prism.Modularity.ModuleInitializeException
 
 ## See Also
 
-[ModuleInitializeException Members](/patterns-practices/reference/moduleinitializeexception-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleInitializeException Members](/patterns-practices/reference/moduleinitializeexception-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

@@ -35,6 +35,5 @@ Public Class ModuleDownloadProgressChangedEventArgs Inherits ProgressChangedEven
       Microsoft.Practices.Prism.Modularity.ModuleDownloadProgressChangedEventArgs
 
 ## See Also
-[ModuleDownloadProgressChangedEventArgs Members](/patterns-practices/reference/moduledownloadprogresschangedeventargs-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleDownloadProgressChangedEventArgs Members](/patterns-practices/reference/moduledownloadprogresschangedeventargs-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

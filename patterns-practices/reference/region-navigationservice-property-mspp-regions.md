@@ -37,8 +37,6 @@ The navigation service.
 
 ## See Also
 
-[Region Class](/patterns-practices/reference/region-class-mspp-regions)
-
-[Region Class](/patterns-practices/reference/region-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[Region Class](/patterns-practices/reference/region-class-mspp-regions)<br/>
+[Region Class](/patterns-practices/reference/region-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

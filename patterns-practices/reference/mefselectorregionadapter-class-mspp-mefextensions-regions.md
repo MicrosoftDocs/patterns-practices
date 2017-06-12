@@ -51,6 +51,5 @@ Public Class MefSelectorRegionAdapter
 
 ## See Also
 
-[MefSelectorRegionAdapter Members](/patterns-practices/reference/mefselectorregionadapter-members-mspp-mefextensions-regions)
-
+[MefSelectorRegionAdapter Members](/patterns-practices/reference/mefselectorregionadapter-members-mspp-mefextensions-regions)<br/>
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

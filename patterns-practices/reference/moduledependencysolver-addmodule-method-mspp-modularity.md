@@ -39,8 +39,6 @@ The name that uniquely identifies the module.
 
 ## See Also
 
-[ModuleDependencySolver Class](/patterns-practices/reference/moduledependencysolver-class-mspp-modularity)
-
-[ModuleDependencySolver Members](/patterns-practices/reference/moduledependencysolver-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleDependencySolver Class](/patterns-practices/reference/moduledependencysolver-class-mspp-modularity)<br/>
+[ModuleDependencySolver Members](/patterns-practices/reference/moduledependencysolver-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

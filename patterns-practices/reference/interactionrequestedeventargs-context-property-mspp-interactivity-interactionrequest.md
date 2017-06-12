@@ -33,8 +33,6 @@ Type: [INotification](/patterns-practices/reference/inotification-interface-mspp
 
 ## See Also
 
-[InteractionRequestedEventArgs Class](/patterns-practices/reference/interactionrequestedeventargs-class-mspp-interactivity-interactionrequest)
-
-[InteractionRequestedEventArgs Members](/patterns-practices/reference/interactionrequestedeventargs-members-mspp-interactivity-interactionrequest)
-
+[InteractionRequestedEventArgs Class](/patterns-practices/reference/interactionrequestedeventargs-class-mspp-interactivity-interactionrequest)<br/>
+[InteractionRequestedEventArgs Members](/patterns-practices/reference/interactionrequestedeventargs-members-mspp-interactivity-interactionrequest)<br/>
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

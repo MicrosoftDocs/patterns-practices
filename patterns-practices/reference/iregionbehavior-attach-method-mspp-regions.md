@@ -29,8 +29,6 @@ Sub Attach
 
 ## See Also
 
-[IRegionBehavior Interface](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)
-
-[IRegionBehavior Members](/patterns-practices/reference/iregionbehavior-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[IRegionBehavior Interface](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)<br/>
+[IRegionBehavior Members](/patterns-practices/reference/iregionbehavior-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

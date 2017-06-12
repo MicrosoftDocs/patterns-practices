@@ -57,6 +57,5 @@ Public Class MefContentControlRegionAdapter
 
 ## See Also
 
-[MefContentControlRegionAdapter Members](/patterns-practices/reference/mefcontentcontrolregionadapter-members-mspp-mefextensions-regions)
-
+[MefContentControlRegionAdapter Members](/patterns-practices/reference/mefcontentcontrolregionadapter-members-mspp-mefextensions-regions)<br/>
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

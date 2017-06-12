@@ -44,9 +44,7 @@ Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
 
 ## See Also
 
-[EventBase Class](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)
-
+[EventBase Class](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)<br/>
 EventBase Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
-
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>

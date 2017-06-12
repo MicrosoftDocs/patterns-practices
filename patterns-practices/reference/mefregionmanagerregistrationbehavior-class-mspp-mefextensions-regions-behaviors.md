@@ -40,6 +40,5 @@ Public Class MefRegionManagerRegistrationBehavior
 
 ## See Also
 
-[MefRegionManagerRegistrationBehavior Members](/patterns-practices/reference/mefregionmanagerregistrationbehavior-members-mspp-mefextensions-regions-behaviors)
-
+[MefRegionManagerRegistrationBehavior Members](/patterns-practices/reference/mefregionmanagerregistrationbehavior-members-mspp-mefextensions-regions-behaviors)<br/>
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

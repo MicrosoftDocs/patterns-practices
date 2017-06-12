@@ -71,6 +71,5 @@ The standard EventTrigger class can be used instead, as long as the 'Raised' eve
 
 ## See Also
 
-[InteractionRequestTrigger Members](/patterns-practices/reference/interactionrequesttrigger-members-mspp-interactivity-interactionrequest)
-
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
+[InteractionRequestTrigger Members](/patterns-practices/reference/interactionrequesttrigger-members-mspp-interactivity-interactionrequest)<br/>
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>

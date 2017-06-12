@@ -37,6 +37,5 @@ Microsoft.Practices.Prism.Regions.RegionMemberLifetimeAttribute
 
 ## See Also
 
-[RegionMemberLifetimeAttribute Members](/patterns-practices/reference/regionmemberlifetimeattribute-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionMemberLifetimeAttribute Members](/patterns-practices/reference/regionmemberlifetimeattribute-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

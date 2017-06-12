@@ -88,10 +88,7 @@ The name of the module will be the type name.
 
 ## See Also
 
-[ModuleInfoGroupExtensions Class](/patterns-practices/reference/moduleinfogroupextensions-class-mspp-modularity)
-
-[ModuleInfoGroupExtensions Members](/patterns-practices/reference/moduleinfogroupextensions-members-mspp-modularity)
-
-[AddModule Overload](/patterns-practices/reference/moduleinfogroupextensions-addmodule-method-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleInfoGroupExtensions Class](/patterns-practices/reference/moduleinfogroupextensions-class-mspp-modularity)<br/>
+[ModuleInfoGroupExtensions Members](/patterns-practices/reference/moduleinfogroupextensions-members-mspp-modularity)<br/>
+[AddModule Overload](/patterns-practices/reference/moduleinfogroupextensions-addmodule-method-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

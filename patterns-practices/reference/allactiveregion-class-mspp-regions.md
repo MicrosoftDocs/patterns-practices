@@ -36,6 +36,5 @@ Public Class AllActiveRegion
     Microsoft.Practices.Prism.Regions.AllActiveRegion
 
 ## See Also
-[AllActiveRegion Members](/patterns-practices/reference/allactiveregion-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[AllActiveRegion Members](/patterns-practices/reference/allactiveregion-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

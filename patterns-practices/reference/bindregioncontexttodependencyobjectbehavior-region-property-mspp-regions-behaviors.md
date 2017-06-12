@@ -38,4 +38,4 @@ Type: [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions)
 
 [BindRegionContextToDependencyObjectBehavior Class](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors)  
 [BindRegionContextToDependencyObjectBehavior Members](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-members-mspp-regions-behaviors)  
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>

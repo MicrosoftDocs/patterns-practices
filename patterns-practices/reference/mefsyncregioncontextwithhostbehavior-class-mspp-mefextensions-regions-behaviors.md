@@ -40,6 +40,5 @@ Public Class MefSyncRegionContextWithHostBehavior
 
 ## See Also
 
-[MefSyncRegionContextWithHostBehavior Members](/patterns-practices/reference/mefsyncregioncontextwithhostbehavior-members-mspp-mefextensions-regions-behaviors)
-
+[MefSyncRegionContextWithHostBehavior Members](/patterns-practices/reference/mefsyncregioncontextwithhostbehavior-members-mspp-mefextensions-regions-behaviors)<br/>
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

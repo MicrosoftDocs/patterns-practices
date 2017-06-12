@@ -45,9 +45,8 @@ Microsoft.Practices.Prism.ObservableObject&lt;T&gt;
 
 ## See Also
 
-[ObservableObject&lt;T&gt; Members](/patterns-practices/reference/observableobject-t-members-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+[ObservableObject&lt;T&gt; Members](/patterns-practices/reference/observableobject-t-members-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
 
 # ObservableObject(Of T) Class
 
@@ -89,6 +88,5 @@ Microsoft.Practices.Prism.ObservableObject(Of T)
 
 ## See Also
 
-[ObservableObject(Of T) Members](/patterns-practices/reference/observableobject-t-members-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+[ObservableObject(Of T) Members](/patterns-practices/reference/observableobject-t-members-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>

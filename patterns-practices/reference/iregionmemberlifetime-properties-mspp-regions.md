@@ -34,6 +34,5 @@ Gets a value indicating whether this instance should be kept-alive upon deactiva
 
 ## See Also
 
-[IRegionMemberLifetime Interface](/patterns-practices/reference/iregionmemberlifetime-interface-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[IRegionMemberLifetime Interface](/patterns-practices/reference/iregionmemberlifetime-interface-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

@@ -42,8 +42,6 @@ Name of the module requested for initialization.
 
 ## See Also
 
-[ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)
-
-[ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)<br/>
+[ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

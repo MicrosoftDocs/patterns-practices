@@ -35,6 +35,5 @@ Adapts an object and binds it to a new [IRegion](/patterns-practices/reference/i
 
 ## See Also
 
-[IRegionAdapter Interface](/patterns-practices/reference/iregionadapter-interface-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[IRegionAdapter Interface](/patterns-practices/reference/iregionadapter-interface-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

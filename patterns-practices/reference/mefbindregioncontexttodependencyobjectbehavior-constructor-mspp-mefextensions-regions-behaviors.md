@@ -28,8 +28,6 @@ Public Sub New
 
 ## See Also
 
-[MefBindRegionContextToDependencyObjectBehavior Class](/patterns-practices/reference/mefbindregioncontexttodependencyobjectbehavior-class-mspp-mefextensions-regions-behaviors)
-
-[MefBindRegionContextToDependencyObjectBehavior Members](/patterns-practices/reference/mefbindregioncontexttodependencyobjectbehavior-members-mspp-mefextensions-regions-behaviors)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
+[MefBindRegionContextToDependencyObjectBehavior Class](/patterns-practices/reference/mefbindregioncontexttodependencyobjectbehavior-class-mspp-mefextensions-regions-behaviors)<br/>
+[MefBindRegionContextToDependencyObjectBehavior Members](/patterns-practices/reference/mefbindregioncontexttodependencyobjectbehavior-members-mspp-mefextensions-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)<br/>

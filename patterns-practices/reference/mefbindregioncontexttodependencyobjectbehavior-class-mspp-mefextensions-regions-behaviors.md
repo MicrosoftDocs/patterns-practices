@@ -38,6 +38,5 @@ Public Class MefBindRegionContextToDependencyObjectBehavior
 
 ## See Also
 
-[MefBindRegionContextToDependencyObjectBehavior Members](/patterns-practices/reference/mefbindregioncontexttodependencyobjectbehavior-members-mspp-mefextensions-regions-behaviors)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
+[MefBindRegionContextToDependencyObjectBehavior Members](/patterns-practices/reference/mefbindregioncontexttodependencyobjectbehavior-members-mspp-mefextensions-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)<br/>

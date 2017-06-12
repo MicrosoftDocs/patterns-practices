@@ -47,8 +47,6 @@ Raises this object's PropertyChanged event for each of the properties.
 
 ## See Also
 
-[NotificationObject Class](/patterns-practices/reference/notificationobject-class-mspp-regions)
-
-[NotificationObject Members](/patterns-practices/reference/notificationobject-members-mspp-regions)
-
-[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)
+[NotificationObject Class](/patterns-practices/reference/notificationobject-class-mspp-regions)<br/>
+[NotificationObject Members](/patterns-practices/reference/notificationobject-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>

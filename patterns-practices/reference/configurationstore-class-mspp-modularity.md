@@ -34,6 +34,5 @@ Public Class ConfigurationStore
 
 ## See Also
 
-[ConfigurationStore Members](/patterns-practices/reference/configurationstore-members-mspp-modularity)
-
+[ConfigurationStore Members](/patterns-practices/reference/configurationstore-members-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

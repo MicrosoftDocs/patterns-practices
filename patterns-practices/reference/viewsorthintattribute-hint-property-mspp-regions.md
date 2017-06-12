@@ -32,8 +32,6 @@ The hint to use for sorting.
 
 ## See Also
 
-[ViewSortHintAttribute Class](/patterns-practices/reference/viewsorthintattribute-class-mspp-regions)
-
-[ViewSortHintAttribute Members](/patterns-practices/reference/viewsorthintattribute-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[ViewSortHintAttribute Class](/patterns-practices/reference/viewsorthintattribute-class-mspp-regions)<br/>
+[ViewSortHintAttribute Members](/patterns-practices/reference/viewsorthintattribute-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

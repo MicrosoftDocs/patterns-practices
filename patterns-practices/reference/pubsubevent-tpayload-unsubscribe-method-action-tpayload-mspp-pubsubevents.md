@@ -33,13 +33,11 @@ The [Action&lt;T&gt;](http://msdn.microsoft.com/en-us/library/018hxwa8) used whe
 
 ## See Also
 
-[PubSubEvent&lt;TPayload&gt; Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)
-
+[PubSubEvent&lt;TPayload&gt; Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)<br/>
 PubSubEvent&lt;TPayload&gt; Members
 
-[Unsubscribe Overload](/patterns-practices/reference/pubsubevent-tpayload-unsubscribe-method-mspp-pubsubevents)
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
+[Unsubscribe Overload](/patterns-practices/reference/pubsubevent-tpayload-unsubscribe-method-mspp-pubsubevents)<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
 
 # PubSubEvent(Of TPayload).Unsubscribe Method (Action(Of TPayload))
 
@@ -69,10 +67,8 @@ The [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) used when s
 
 ## See Also
 
-[PubSubEvent(Of TPayload) Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)
-
+[PubSubEvent(Of TPayload) Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)<br/>
 PubSubEvent(Of TPayload) Members
 
-[Unsubscribe Overload](/patterns-practices/reference/pubsubevent-tpayload-unsubscribe-method-mspp-pubsubevents)
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
+[Unsubscribe Overload](/patterns-practices/reference/pubsubevent-tpayload-unsubscribe-method-mspp-pubsubevents)<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>

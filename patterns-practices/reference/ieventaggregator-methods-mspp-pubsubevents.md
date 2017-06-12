@@ -38,6 +38,5 @@ Gets an instance of an event type.
 
 ## See Also
 
-[IEventAggregator Interface](/patterns-practices/reference/bindablebase-class-mspp-mvvm)
-
+[IEventAggregator Interface](/patterns-practices/reference/bindablebase-class-mspp-mvvm)<br/>
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

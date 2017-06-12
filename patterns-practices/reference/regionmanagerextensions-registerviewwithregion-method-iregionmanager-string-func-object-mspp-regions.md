@@ -57,14 +57,10 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 
 ## See Also
 
-[RegionManagerExtensions Class](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)
-
-[RegionManagerExtensions Members](/patterns-practices/reference/regionmanagerextensions-members-mspp-regions)
-
-[RegisterViewWithRegion Overload](/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
-
+[RegionManagerExtensions Class](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)<br/>
+[RegionManagerExtensions Members](/patterns-practices/reference/regionmanagerextensions-members-mspp-regions)<br/>
+[RegisterViewWithRegion Overload](/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
 
 # RegionManagerExtensions.RegisterViewWithRegion Method (IRegionManager, String, Func(Of Object))
 
@@ -120,10 +116,7 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 
 ## See Also
 
-[RegionManagerExtensions Class](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)
-
-[RegionManagerExtensions Members](/patterns-practices/reference/regionmanagerextensions-members-mspp-regions)
-
-[RegisterViewWithRegion Overload](/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionManagerExtensions Class](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)<br/>
+[RegionManagerExtensions Members](/patterns-practices/reference/regionmanagerextensions-members-mspp-regions)<br/>
+[RegisterViewWithRegion Overload](/patterns-practices/reference/regionmanagerextensions-registerviewwithregion-method-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

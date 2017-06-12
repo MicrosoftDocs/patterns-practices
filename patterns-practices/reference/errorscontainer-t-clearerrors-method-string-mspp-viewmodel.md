@@ -34,14 +34,10 @@ The name of th property for which to clear errors.
 
 ## See Also
 
-[ErrorsContainer&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))
-
-[ErrorsContainer&lt;T&gt; Members](https://msdn.microsoft.com/en-us/library/gg405531(v=pandp.50))
-
-[ClearErrors Overload](https://msdn.microsoft.com/en-us/library/gg419151(v=pandp.50))
-
-[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)
-
+[ErrorsContainer&lt;T&gt; Class](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))<br/>
+[ErrorsContainer&lt;T&gt; Members](https://msdn.microsoft.com/en-us/library/gg405531(v=pandp.50))<br/>
+[ClearErrors Overload](https://msdn.microsoft.com/en-us/library/gg419151(v=pandp.50))<br/>
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>
 -------------------------------
 
 # ErrorsContainer(Of T).ClearErrors Method (String)
@@ -75,10 +71,7 @@ The name of th property for which to clear errors.
 
 ## See Also
 
-[ErrorsContainer(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))
-
-[ErrorsContainer(Of T) Members](https://msdn.microsoft.com/en-us/library/gg405531(v=pandp.50))
-
-[ClearErrors Overload](https://msdn.microsoft.com/en-us/library/gg419151(v=pandp.50))
-
-[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)
+[ErrorsContainer(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431577(v=pandp.50))<br/>
+[ErrorsContainer(Of T) Members](https://msdn.microsoft.com/en-us/library/gg405531(v=pandp.50))<br/>
+[ClearErrors Overload](https://msdn.microsoft.com/en-us/library/gg419151(v=pandp.50))<br/>
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>

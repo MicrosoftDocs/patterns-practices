@@ -39,8 +39,6 @@ Type: [System.EventHandler](http://msdn2.microsoft.com/en-us/library/db0etb8x)(O
 
 ## See Also
 
-[IModuleManager Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager)
-
-[IModuleManager Members](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager)
-
+[IModuleManager Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager)<br/>
+[IModuleManager Members](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulemanager)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)

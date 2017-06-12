@@ -33,6 +33,5 @@ Public Class ModuleDependencySolver
 
 ## See Also
 
-[ModuleDependencySolver Members](/patterns-practices/reference/moduledependencysolver-members-mspp-modularity)
-
+[ModuleDependencySolver Members](/patterns-practices/reference/moduledependencysolver-members-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

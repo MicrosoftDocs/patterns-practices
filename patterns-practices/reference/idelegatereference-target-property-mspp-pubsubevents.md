@@ -43,8 +43,7 @@ A [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) instance if the t
 
 ## See Also
 
-[IDelegateReference Interface](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)
-
+[IDelegateReference Interface](/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents)<br/>
 IDelegateReference Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

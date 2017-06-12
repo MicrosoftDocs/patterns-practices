@@ -30,4 +30,4 @@ Public Sub New
 
 [MefEventAggregator Members](/patterns-practices/reference/mefeventaggregator-members-mspp-mefextensions-events)  
 
-[Microsoft.Practices.Prism.MefExtensions.Events Namespace](/patterns-practices/reference/mspp-mefextensions-events-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Events Namespace](/patterns-practices/reference/mspp-mefextensions-events-namespace)<br/>

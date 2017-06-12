@@ -50,6 +50,5 @@ Gets or sets a [SubscriptionToken](/patterns-practices/reference/mspp-mvvm-names
 
 ## See Also
 
-[EventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601)
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
+[EventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/mspp-mvvm-namespace.eventsubscription%601)<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)<br/>

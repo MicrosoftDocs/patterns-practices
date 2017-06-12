@@ -39,6 +39,5 @@ This allows the MefBootstrapper to provide this class as a default implementatio
 
 ## See Also
 
-[MefRegionActiveAwareBehavior Members](/patterns-practices/reference/mefregionactiveawarebehavior-members-mspp-mefextensions-regions-behaviors)
-
+[MefRegionActiveAwareBehavior Members](/patterns-practices/reference/mefregionactiveawarebehavior-members-mspp-mefextensions-regions-behaviors)<br/>
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

@@ -51,4 +51,4 @@ When **Truetrue** (**True** in Visual Basic), it is being called from the Dispos
 
 [Dispose Overload](/patterns-practices/reference/dispose-mthd)  
 
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

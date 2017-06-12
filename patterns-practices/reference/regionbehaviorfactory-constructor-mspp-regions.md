@@ -40,8 +40,6 @@ IServiceLocator used to create the instance of the behavior from its [Type](http
 
 ## See Also
 
-[RegionBehaviorFactory Class](/patterns-practices/reference/regionbehaviorfactory-class-mspp-regions)
-
-[RegionBehaviorFactory Members](/patterns-practices/reference/mspp-regions-namespace)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionBehaviorFactory Class](/patterns-practices/reference/regionbehaviorfactory-class-mspp-regions)<br/>
+[RegionBehaviorFactory Members](/patterns-practices/reference/mspp-regions-namespace)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

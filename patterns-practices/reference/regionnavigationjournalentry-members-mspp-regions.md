@@ -129,6 +129,5 @@ Gets or sets the URI.
 
 ## See Also
 
-[RegionNavigationJournalEntry Class](/patterns-practices/reference/regionnavigationjournalentry-class-mspp-regions)
-
+[RegionNavigationJournalEntry Class](/patterns-practices/reference/regionnavigationjournalentry-class-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](//patterns-practices/reference/mspp-regions-namespace)

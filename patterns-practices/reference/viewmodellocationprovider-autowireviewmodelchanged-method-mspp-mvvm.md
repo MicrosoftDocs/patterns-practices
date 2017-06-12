@@ -39,8 +39,6 @@ Public Shared Sub AutoWireViewModelChanged (
 
 ## See Also
 
-[ViewModelLocationProvider Class](/patterns-practices/reference/viewmodellocationprovider-class-mspp-mvvm)
-
-[ViewModelLocationProvider Members](/patterns-practices/reference/viewmodellocationprovider-class-mspp-mvvm_members)
-
+[ViewModelLocationProvider Class](/patterns-practices/reference/viewmodellocationprovider-class-mspp-mvvm)<br/>
+[ViewModelLocationProvider Members](/patterns-practices/reference/viewmodellocationprovider-class-mspp-mvvm_members)<br/>
 [Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

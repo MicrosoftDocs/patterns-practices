@@ -148,6 +148,5 @@ Gets the navigation URI
 
 ## See Also
 
-[RegionNavigationEventArgs Class](/patterns-practices/reference/regionnavigationeventargs-class-mspp-regions)
-
+[RegionNavigationEventArgs Class](/patterns-practices/reference/regionnavigationeventargs-class-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

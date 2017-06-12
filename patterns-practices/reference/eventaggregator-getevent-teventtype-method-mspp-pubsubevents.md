@@ -74,8 +74,7 @@ A singleton instance of an event object of type TEventType.
 
 ## See Also
 
-[EventAggregator Class](/patterns-practices/reference/eventaggregator-class-mspp-pubsubevents)
-
+[EventAggregator Class](/patterns-practices/reference/eventaggregator-class-mspp-pubsubevents)<br/>
 EventAggregator Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)

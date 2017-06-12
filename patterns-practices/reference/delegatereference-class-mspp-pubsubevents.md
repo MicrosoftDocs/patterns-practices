@@ -39,4 +39,4 @@ Microsoft.Practices.Prism.PubSubEvents.DelegateReference
 DelegateReference Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace
-)
+)<br/>

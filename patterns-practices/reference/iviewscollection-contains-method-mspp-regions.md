@@ -45,8 +45,6 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 ## See Also
 
-[IViewsCollection Interface](/patterns-practices/reference/iviewscollection-interface-mspp-regions)
-
-[IViewsCollection Members](/patterns-practices/reference/iviewscollection-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[IViewsCollection Interface](/patterns-practices/reference/iviewscollection-interface-mspp-regions)<br/>
+[IViewsCollection Members](/patterns-practices/reference/iviewscollection-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

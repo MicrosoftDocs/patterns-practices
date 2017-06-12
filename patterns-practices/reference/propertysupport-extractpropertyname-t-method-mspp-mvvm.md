@@ -70,12 +70,9 @@ Or, the property is static.</td>
 
 ## See Also
 
-[PropertySupport Class](/patterns-practices/reference/propertysupport-class-mspp-mvvm)
-
-[PropertySupport Members](/patterns-practices/reference/propertysupport-members-mspp-mvvm)
-
-[Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
-
+[PropertySupport Class](/patterns-practices/reference/propertysupport-class-mspp-mvvm)<br/>
+[PropertySupport Members](/patterns-practices/reference/propertysupport-members-mspp-mvvm)<br/>
+[Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
 
 
 
@@ -144,8 +141,6 @@ Or, the property is static.</td>
 
 ## See Also
 
-[PropertySupport Class](/patterns-practices/reference/propertysupport-class-mspp-mvvm)
-
-[PropertySupport Members](/patterns-practices/reference/propertysupport-members-mspp-mvvm)
-
-[Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
+[PropertySupport Class](/patterns-practices/reference/propertysupport-class-mspp-mvvm)<br/>
+[PropertySupport Members](/patterns-practices/reference/propertysupport-members-mspp-mvvm)<br/>
+[Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)<br/>

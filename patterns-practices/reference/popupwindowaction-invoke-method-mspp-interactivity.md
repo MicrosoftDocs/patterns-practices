@@ -41,8 +41,6 @@ The parameter to the action. If the action does not require a parameter, the par
 
 ## See Also
 
-[PopupWindowAction Class](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)
-
-[PopupWindowAction Members](/patterns-practices/reference/popupwindowaction-members-mspp-interactivity)
-
+[PopupWindowAction Class](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)<br/>
+[PopupWindowAction Members](/patterns-practices/reference/popupwindowaction-members-mspp-interactivity)<br/>
 [Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)

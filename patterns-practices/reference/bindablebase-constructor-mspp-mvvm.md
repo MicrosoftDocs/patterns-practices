@@ -24,12 +24,9 @@ Protected Sub New
 ```
 
 ## See Also
-[BindableBase Class](/patterns-practices/reference/bindablebase-class-mspp-mvvm)
-
-[BindableBase Members](/patterns-practices/reference/bindablebase-members-mspp-mvvm)
-
-[Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
-
+[BindableBase Class](/patterns-practices/reference/bindablebase-class-mspp-mvvm)<br/>
+[BindableBase Members](/patterns-practices/reference/bindablebase-members-mspp-mvvm)<br/>
+[Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
 # BindableBase Constructor
 
 Initializes a new instance of the [BindableBase](/patterns-practices/reference/bindablebase-class-mspp-mvvm) class
