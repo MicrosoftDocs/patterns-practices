@@ -21,7 +21,7 @@ ms:mtpsurl: 'mspp-interactivity-defaultpopupwindows-namespace.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public class](/images/public-class.gif)</td>
+<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
 <td><a href="/patterns-practices/reference/defaultconfirmationwindow-class-mspp-interactivity-defaultpopupwindows
 ">DefaultConfirmationWindow</a></td>
 <td><div class="summary">
@@ -29,7 +29,7 @@ Interaction logic for ConfirmationChildWindow.xaml
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public class](/images/public-class.gif)</td>
+<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
 <td><a href="/patterns-practices/reference/defaultnotificationwindow-class-mspp-interactivity-defaultpopupwindows
 ">DefaultNotificationWindow</a></td>
 <td><div class="summary">

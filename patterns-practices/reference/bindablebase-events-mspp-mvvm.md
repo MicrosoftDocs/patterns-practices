@@ -21,7 +21,7 @@ The [BindableBase](https://msdn.microsoft.com/library/microsoft.practices.prism.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/images/public-event.gif)</td>
+<td>![Public event](/patterns-practices/reference/images/public-event.gif)</td>
 <td>[PropertyChanged](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase.propertychanged)</td>
 <td><div class="summary">
 Occurs when a property value changes.
