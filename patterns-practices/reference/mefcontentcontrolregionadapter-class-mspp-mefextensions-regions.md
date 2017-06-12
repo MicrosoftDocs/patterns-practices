@@ -29,7 +29,7 @@ Public Class MefContentControlRegionAdapter
 
 ## Remarks
 
-&nbsp;&nbsp;This allows the [ConfigureContainer()](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper.configurecontainer) to provide this class as a default implementation. If another implementation is found, this export will not be used.
+&nbsp;&nbsp;This allows the [ConfigureContainer](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper.configurecontainer) to provide this class as a default implementation. If another implementation is found, this export will not be used.
 
 ## Inheritance Hierarchy
 
@@ -46,7 +46,7 @@ Public Class MefContentControlRegionAdapter
 
 ## Remarks
 
-&nbsp;&nbsp;This allows the [ConfigureContainer()](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper.configurecontainer) to provide this class as a default implementation. If another implementation is found, this export will not be used.
+&nbsp;&nbsp;This allows the [ConfigureContainer](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.mefbootstrapper.configurecontainer) to provide this class as a default implementation. If another implementation is found, this export will not be used.
 
 ## Inheritance Hierarchy
 
