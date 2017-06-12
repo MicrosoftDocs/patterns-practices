@@ -8,7 +8,7 @@ ms:mtpsurl: 'popupwindowaction-constructor-mspp-interactivity.md'
 
 # PopupWindowAction Constructor
 
-Initializes a new instance of the [PopupWindowAction](patterns-practices/reference/popupwindowaction-class-mspp-interactivity) class
+Initializes a new instance of the [PopupWindowAction](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity) class
 
 **Namespace:** [Microsoft.Practices.Prism.Interactivity](/patterns-practices/reference/mspp-interactivity-namespace)
 
@@ -29,7 +29,7 @@ Public Sub New
 
 ## See Also
 
-[PopupWindowAction Class](patterns-practices/reference/popupwindowaction-class-mspp-interactivity)
+[PopupWindowAction Class](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)
 
 [PopupWindowAction Members](/patterns-practices/reference/popupwindowaction-members-mspp-interactivity)
 
