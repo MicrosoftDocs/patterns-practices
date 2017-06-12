@@ -4,20 +4,28 @@ Title: 'IRegionManagerAccessor Interface (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.IRegionManagerAccessor'
 ms:mtpsurl: 'iregionmanageraccessor-interface-mspp-regions.md'
 ---
-
 # IRegionManagerAccessor Interface
 
 Provides an abstraction on top of the RegionManager static members.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public interface IRegionManagerAccessorPublic Interface IRegionManagerAccessor
+```C#
+public interface IRegionManagerAccessor
+```
+
+```VB
+'Declaration
+Public Interface IRegionManagerAccessor
+```
 
 ## See Also
-[IRegionManagerAccessor Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionmanageraccessor)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[IRegionManagerAccessor Members](/patterns-practices/reference/iregionmanageraccessor-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
