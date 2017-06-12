@@ -22,16 +22,16 @@ ms:mtpsurl: 'navigationcontext-constructor-iregionnavigationservice-uri-mspp-reg
 <tbody>
 <tr class="odd">
 <td>![Public method](/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.">NavigationContext(IRegionNavigationService, Uri)</a></td>
+<td><a href="/patterns-practices/reference/navigationcontext-class-mspp-regions">NavigationContext(IRegionNavigationService, Uri)</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext">NavigationContext</a> class for a region name and a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.uri">Uri</a>.
+Initializes a new instance of the <a href="/patterns-practices/reference/navigationcontext-class-mspp-regions">NavigationContext</a> class for a region name and a <a href="/patterns-practices/reference/navigationcontext-uri-property-mspp-regions">Uri</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.">NavigationContext(IRegionNavigationService, Uri, NavigationParameters)</a></td>
+<td><a href="/patterns-practices/reference/navigationcontext-class-mspp-regions">NavigationContext(IRegionNavigationService, Uri, NavigationParameters)</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext">NavigationContext</a> class for a region name and a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.uri">Uri</a>.
+Initializes a new instance of the <a href="/patterns-practices/reference/navigationcontext-class-mspp-regions">NavigationContext</a> class for a region name and a <a href="/patterns-practices/reference/navigationcontext-uri-property-mspp-regions">Uri</a>.
 </div></td>
 </tr>
 </tbody>
@@ -39,8 +39,8 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 
 ## See Also
 
-[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
+[NavigationContext Class](/patterns-practices/reference/navigationcontext-class-mspp-regions)
 
-[NavigationContext Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationcontext)
+[NavigationContext Members](/patterns-practices/reference/navigationcontext-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
