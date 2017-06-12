@@ -5,6 +5,7 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog'
 ms:mtpsurl: 'directorymodulecatalog-class-mspp-modularity.md'
 ---
 
+
 # DirectoryModuleCatalog Class
 
 Represets a catalog created from a directory on disk.
@@ -17,8 +18,11 @@ Represets a catalog created from a directory on disk.
 
 ## Syntax
 
+
+public class DirectoryModuleCatalog : ModuleCatalogPublic Class DirectoryModuleCatalog Inherits ModuleCatalog
+
 ```C#
-public class DirectoryModuleCatalog : ModuleCatalog
+    public class DirectoryModuleCatalog : ModuleCatalog
 ```
 
 ```VB
@@ -28,6 +32,14 @@ Public Class DirectoryModuleCatalog
 ```
 
 ## Remarks
+
+ The directory catalog will scan the contents of a directory, locating classes that implement [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity) and add them to the catalog based on contents in their associated [ModuleAttribute](/patterns-practices/reference/moduleattribute-class-mspp-modularity). Assemblies are loaded into a new application domain with ReflectionOnlyLoad. The application domain is destroyed once the assemblies have been discovered. The diretory catalog does not continue to monitor the directory after it has created the initialze catalog.
+
+## Inheritance Hierarchy
+
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
+&nbsp;&nbsp;[Microsoft.Practices.Prism.Modularity.ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity)<br/>
+&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.Modularity.DirectoryModuleCatalog
 
 The directory catalog will scan the contents of a directory, locating classes that implement [IModule](/patterns-practices/reference/imodule-interface-mspp-modularity) and add them to the catalog based on contents in their associated [ModuleAttribute](/patterns-practices/reference/moduleattribute-class-mspp-modularity). Assemblies are loaded into a new application domain with ReflectionOnlyLoad. The application domain is destroyed once the assemblies have been discovered. The diretory catalog does not continue to monitor the directory after it has created the initialze catalog.
 
@@ -41,4 +53,8 @@ The directory catalog will scan the contents of a directory, locating classes th
 
 [DirectoryModuleCatalog Members](/patterns-practices/reference/directorymodulecatalog-members-mspp-modularity)
 
+
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+

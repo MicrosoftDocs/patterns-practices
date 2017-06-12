@@ -18,13 +18,14 @@ This is the expected catalog definition for the ModuleManager. The ModuleCatalog
 ## Syntax
 
 ```C#
-public interface IModuleCatalog
+    public interface IModuleCatalog
 ```
 
 ```VB
-'Declaration
-Public Interface IModuleCatalog
+    'Declaration
+public interface IModuleCatalog
 ```
+
 
 ## See Also
 

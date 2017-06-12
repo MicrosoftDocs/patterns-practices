@@ -5,6 +5,7 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.IModuleCatalogItem'
 ms:mtpsurl: 'imodulecatalogitem-interface-mspp-modularity.md'
 ---
 
+
 # IModuleCatalogItem Interface
 
 Marker interface that allows both [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)s and [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s to be added to the [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity) from code and XAML.
@@ -18,13 +19,14 @@ Marker interface that allows both [ModuleInfoGroup](/patterns-practices/referenc
 ## Syntax
 
 ```C#
-public interface IModuleCatalogItem
+    public interface IModuleCatalogItem
 ```
 
 ```VB
-'Declaration
-Public Interface IModuleCatalogItem
+    'Declaration
+public interface IModuleCatalogItem
 ```
+
 
 ## See Also
 

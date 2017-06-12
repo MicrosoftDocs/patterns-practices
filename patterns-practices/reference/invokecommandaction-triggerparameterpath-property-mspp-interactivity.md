@@ -32,7 +32,7 @@ Public Property TriggerParameterPath As String
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-## See Also
+## See Also 
 
 [InvokeCommandAction Class](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity)
 
