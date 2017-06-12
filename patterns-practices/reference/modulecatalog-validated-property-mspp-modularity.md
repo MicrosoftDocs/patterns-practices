@@ -4,7 +4,7 @@ Title: 'ModuleCatalog.Validated Property (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleCatalog.Validated'
 ms:mtpsurl: 'modulecatalog-validated-property-mspp-modularity.md'
 ---
-
+
 # ModuleCatalog.Validated Property
 
 Gets or sets a value that remembers whether the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) has been validated already.
