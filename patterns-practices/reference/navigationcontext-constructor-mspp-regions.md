@@ -21,14 +21,14 @@ ms:mtpsurl: 'navigationcontext-constructor-iregionnavigationservice-uri-mspp-reg
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.">NavigationContext(IRegionNavigationService, Uri)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext">NavigationContext</a> class for a region name and a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.uri">Uri</a>.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.">NavigationContext(IRegionNavigationService, Uri, NavigationParameters)</a></td>
 <td><div class="summary">
 Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext">NavigationContext</a> class for a region name and a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.uri">Uri</a>.

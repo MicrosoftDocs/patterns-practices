@@ -13,7 +13,7 @@ The [ClearChildViewsRegionBehavior](/patterns-practices/reference/clearchildview
 
 |  | Name | Description |
 |---|---|---|
-|![Public attached property](/images/pubproperty.gif)|[ClearChildViews](/patterns-practices/reference/clearchildviewsregionbehavior-clearchildviews-attached-property-mspp-regions-behaviors)||
+|![Public attached property](/patterns-practices/reference/images/pubproperty.gif)|[ClearChildViews](/patterns-practices/reference/clearchildviewsregionbehavior-clearchildviews-attached-property-mspp-regions-behaviors)||
 
 ## See Also
 

@@ -20,7 +20,7 @@ ms:mtpsurl: 'mspp-unityextensions-regions-namespace.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public class](/images/public-class.gif)</td>
+<td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
 <td><a href="patterns-practices/reference/unityregionnavigationcontentloader-class-mspp-unityextensions-regions
 ">UnityRegionNavigationContentLoader</a></td>
 <td><div class="summary">

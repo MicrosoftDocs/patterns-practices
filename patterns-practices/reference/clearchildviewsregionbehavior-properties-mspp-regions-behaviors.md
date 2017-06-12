@@ -22,7 +22,7 @@ The [ClearChildViewsRegionBehavior](/patterns-practices/reference/clearchildview
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions)</td>
 <td><div class="summary">
 Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
@@ -30,7 +30,7 @@ Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a
 (Inherited from [RegionBehavior](/patterns-practices/reference/propertysupport-class-mspp-mvvm)</td>
 </tr>
 <tr class="even">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[Region](/patterns-practices/reference/regionbehavior-region-property-mspp-regions)</td>
 <td><div class="summary">
 Behavior's attached region.
