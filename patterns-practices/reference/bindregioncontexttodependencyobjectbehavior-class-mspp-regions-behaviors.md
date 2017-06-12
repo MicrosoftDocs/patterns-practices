@@ -4,7 +4,8 @@ Title: 'BindRegionContextToDependencyObjectBehavior Class (Microsoft.Practices.P
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior'
 ms:mtpsurl: 'bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors.md'
 ---
-
+
+
 # BindRegionContextToDependencyObjectBehavior Class
 
 Defines a behavior that forwards the [RegionContextProperty](/patterns-practices/reference/regionmanager-regioncontextproperty-field-mspp-regions) to the views in the region.
@@ -29,11 +30,8 @@ Public Class BindRegionContextToDependencyObjectBehavior
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-
-  Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior
-
-    [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefBindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/mefbindregioncontexttodependencyobjectbehavior-class-mspp-mefextensions-regions-behaviors)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+Microsoft.Practices.Prism.Regions.Behaviors.BindRegionContextToDependencyObjectBehavior  [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefBindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/mefbindregioncontexttodependencyobjectbehavior-class-mspp-mefextensions-regions-behaviors)
 
 ## See Also
 
