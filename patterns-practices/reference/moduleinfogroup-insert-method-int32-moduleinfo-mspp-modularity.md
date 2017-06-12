@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Insert(Syste
 ms:mtpsurl: 'moduleinfogroup-insert-method-int32-moduleinfo-mspp-modularity.md'
 ---
 
-
 # ModuleInfoGroup.Insert Method (Int32, ModuleInfo)
 
 Inserts an item to the [IList&lt;T&gt;](http://msdn.microsoft.com/en-us/library/5y536ey6) at the specified index.
@@ -29,7 +28,7 @@ public void Insert(
 
 *index*    
 Type: [System.Int32](http://msdn.microsoft.com/en-us/library/td2s409d)  
-The zero-based index at which item should be inserted.
+The zero-based index at which *item* should be inserted.
 
 *item*    
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
@@ -44,8 +43,10 @@ The object to insert into the [IList&lt;T&gt;](http://msdn.microsoft.com/en-us/l
 
 | Exception                                                                                   | Condition                                                                                                             |
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| [System.ArgumentOutOfRangeException](http://msdn.microsoft.com/en-us/library/8xt94y6e) | index is not a valid index in the [IList&lt;T&gt;](http://msdn.microsoft.com/en-us/library/5y536ey6). |
+| [System.ArgumentOutOfRangeException](http://msdn.microsoft.com/en-us/library/8xt94y6e) | *index* is not a valid index in the [IList&lt;T&gt;](http://msdn.microsoft.com/en-us/library/5y536ey6). |
 
+
+# ModuleInfoGroup.Insert Method (Int32, ModuleInfo)
 
 Inserts an item to the [IList(Of T)](http://msdn.microsoft.com/en-us/library/5y536ey6) at the specified index.
 
@@ -57,13 +58,19 @@ Inserts an item to the [IList(Of T)](http://msdn.microsoft.com/en-us/library/5y5
 
 ## Syntax
 
-public void Insert( int index, ModuleInfo item )Public Sub Insert ( index As Integer, item As ModuleInfo )
+```VB
+'Declaration
+Public Sub Insert ( 
+	index As Integer,
+	item As ModuleInfo
+)
+```
 
 ### Parameters
 
 *index*  
-Type: [System.Int32](http://msdn.microsoft.com/en-us/library/td2s409d)
-The zero-based index at which item should be inserted.
+Type: [System.Int32](http://msdn.microsoft.com/en-us/library/td2s409d)<br/>
+The zero-based *index* at which item should be inserted.
 
 *item*    
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
@@ -78,7 +85,7 @@ The object to insert into the [IList(Of T)](http://msdn.microsoft.com/en-us/libr
 
 | Exception                                                                                   | Condition                                                                                                             |
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| [System.ArgumentOutOfRangeException](http://msdn.microsoft.com/en-us/library/8xt94y6e) | index is not a valid index in the [IList(Of T)](http://msdn.microsoft.com/en-us/library/5y536ey6). |
+| [System.ArgumentOutOfRangeException](http://msdn.microsoft.com/en-us/library/8xt94y6e) | *index* is not a valid index in the [IList(Of T)](http://msdn.microsoft.com/en-us/library/5y536ey6). |
 
 
 

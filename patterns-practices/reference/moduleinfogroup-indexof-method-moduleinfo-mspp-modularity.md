@@ -7,7 +7,7 @@ ms:mtpsurl: 'moduleinfogroup-indexof-method-moduleinfo-mspp-modularity.md'
 
 # ModuleInfoGroup.IndexOf Method (ModuleInfo)
 
-Determines the index of a specific item in the [IList&ltT&gt;](http://msdn.microsoft.com/en-us/library/5y536ey6).
+Determines the index of a specific item in the [IList&lt;T&gt;](http://msdn.microsoft.com/en-us/library/5y536ey6).
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
@@ -37,6 +37,8 @@ The index of *item* if found in the list; otherwise, -1.
 ### Implements
 
 [IList&lt;T&gt;.IndexOf(T)](http://msdn.microsoft.com/en-us/library/3w0148af)
+
+# ModuleInfoGroup.IndexOf Method (ModuleInfo)
 
 Determines the index of a specific item in the [IList(Of T)](http://msdn.microsoft.com/en-us/library/5y536ey6).
 

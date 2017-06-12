@@ -51,7 +51,7 @@ The [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) to insert into th
 
 | Exception                                                                                   | Condition                                                                                                                               |
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------------------------|
-| [System.ArgumentOutOfRangeException](http://msdn.microsoft.com/en-us/library/8xt94y6e) | index is not a valid index in the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity). |
+| [System.ArgumentOutOfRangeException](http://msdn.microsoft.com/en-us/library/8xt94y6e) | *index* is not a valid index in the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity). |
 | [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)       | If value is null.                                                                                                                       |
 | [System.ArgumentException](http://msdn.microsoft.com/en-us/library/3w1b3114)           | If value is not of type [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)                      |
 

@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElementCo
 ms:mtpsurl: 'moduleconfigurationelementcollection-findall-method-mspp-modularity.md'
 ---
 
-
 # ModuleConfigurationElementCollection.FindAll Method
 
 Searches the collection for all the [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity) that match the specified predicate.
@@ -17,6 +16,7 @@ Searches the collection for all the [ModuleConfigurationElement](/patterns-pract
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public IList<ModuleConfigurationElement> FindAll(
 	Predicate<ModuleConfigurationElement> match
@@ -45,11 +45,11 @@ Public Function FindAll (
 
 match  
 Type: [System.Predicate](http://msdn.microsoft.com/en-us/library/bfcke1bz)(Of [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity))   
-A [Predicate (Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz) that implements the match test.
+A [Predicate(Of T)](http://msdn.microsoft.com/en-us/library/bfcke1bz) that implements the match test.
 
 ### Return Value
 
-Type: [IList](http://msdn.microsoft.com/en-us/library/5y536ey6)(Of [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity))
+Type: [IList](http://msdn.microsoft.com/en-us/library/5y536ey6)(Of [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity))<br/>
 A [List(Of T)](http://msdn.microsoft.com/en-us/library/6sh2ey19) with the successful matches.
 
 ## Exceptions
