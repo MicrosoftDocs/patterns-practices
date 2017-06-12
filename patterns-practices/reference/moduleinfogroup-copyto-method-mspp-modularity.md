@@ -28,7 +28,7 @@ public void CopyTo(
 ### Parameters
 
 *array*  
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)[]  
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)[]  
 The one-dimensional [Array](http://msdn.microsoft.com/en-us/library/czz5hkty) that is the destination of the elements copied from [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity). The [Array](http://msdn.microsoft.com/en-us/library/czz5hkty) must have zero-based indexing.
 
 *arrayIndex*  
@@ -51,7 +51,7 @@ Public Sub CopyTo (
 ### Parameters
 
 *array*  
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)()  
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)()  
 The one-dimensional [Array](http://msdn.microsoft.com/en-us/library/czz5hkty) that is the destination of the elements copied from [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity). The [Array](http://msdn.microsoft.com/en-us/library/czz5hkty) must have zero-based indexing.
 
 *arrayIndex*    

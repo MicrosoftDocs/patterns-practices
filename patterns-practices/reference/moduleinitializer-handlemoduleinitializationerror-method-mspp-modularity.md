@@ -37,7 +37,7 @@ Public Overridable Sub HandleModuleInitializationError (
 ### Parameters
 
 *moduleInfo*  
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)  
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
 The module metadata where the error happenened.
 
 *assemblyName*  

@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.GetEnumerato
 ms:mtpsurl: 'moduleinfogroup-getenumerator-method-mspp-modularity.md'
 ---
 
-
 # ModuleInfoGroup.GetEnumerator Method
 
 Returns an enumerator that iterates through the collection.
@@ -32,7 +31,6 @@ A [IEnumerator&lt;T&gt;](http://msdn.microsoft.com/en-us/library/78dfe2yb) that 
 
 [IEnumerable&lt;T&gt;.GetEnumerator()](http://msdn.microsoft.com/en-us/library/s793z9y2)
 
-## Syntax
 
 ```VB
 'Declaration
