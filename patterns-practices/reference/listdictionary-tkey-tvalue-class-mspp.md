@@ -4,7 +4,8 @@ Title: 'ListDictionary(TKey, TValue) Class (Microsoft.Practices.Prism)'
 ms:assetid: 'T:Microsoft.Practices.Prism.ListDictionary\`2'
 ms:mtpsurl: 'listdictionary-tkey-tvalue-class-mspp.md'
 ---
-
+
+
 # ListDictionary<TKey, TValue> Class
 
 A dictionary of lists.
@@ -35,11 +36,11 @@ public sealed class ListDictionary<TKey, TValue> : IDictionary<TKey, IList<TValu
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
     Microsoft.Practices.Prism.ListDictionary<TKey, TValue>
 
 ## See Also
-[ListDictionary<TKey, TValue> Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)<br/>
+[ListDictionary<TKey, TValue> Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)  
 [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
     
 
@@ -76,11 +77,11 @@ Public NotInheritable Class ListDictionary(Of TKey, TValue)
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
   Microsoft.Practices.Prism.ListDictionary(Of TKey, TValue)
   
 
 ## See Also
 
-[ListDictionary(Of TKey, TValue) Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)<br/>
+[ListDictionary(Of TKey, TValue) Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)  
  [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

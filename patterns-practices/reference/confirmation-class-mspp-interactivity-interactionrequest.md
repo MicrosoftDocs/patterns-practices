@@ -4,26 +4,38 @@ Title: 'Confirmation Class (Microsoft.Practices.Prism.Interactivity.InteractionR
 ms:assetid: 'T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confirmation'
 ms:mtpsurl: 'confirmation-class-mspp-interactivity-interactionrequest.md'
 ---
-
+
 # Confirmation Class
 
-Basic implementation of [IConfirmation](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation).
+Basic implementation of [IConfirmation](/patterns-practices/reference/iconfirmation-interface-mspp-interactivity-interactionrequest).
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public class Confirmation : Notification, IConfirmation, INotificationPublic Class Confirmation Inherits Notification Implements IConfirmation, INotification
+
+```C#
+public class Confirmation : Notification, 
+	IConfirmation, INotification
+```
+```VB
+'Declaration
+Public Class Confirmation
+	Inherits Notification
+	Implements IConfirmation, INotification
+```
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.notification)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+  [Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest)  
     Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confirmation
 
 ## See Also
-[Confirmation Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.confirmation)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+[Confirmation Members](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest)
+
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/notification-class-mspp-interactivity-interactionrequest)

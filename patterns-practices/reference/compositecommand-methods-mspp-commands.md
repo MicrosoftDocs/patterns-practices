@@ -4,7 +4,8 @@ Title: 'CompositeCommand Methods (Microsoft.Practices.Prism.Commands)'
 ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Commands.CompositeCommand'
 ms:mtpsurl: 'compositecommand-methods-mspp-commands.md'
 ---
-
+
+
 # CompositeCommand Methods
 
 The [CompositeCommand](/patterns-practices/reference/compositecommand-class-mspp-commands) type exposes the following members.
@@ -23,9 +24,9 @@ The [CompositeCommand](/patterns-practices/reference/compositecommand-class-mspp
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand.canexecute(system.object)">CanExecute</a></td>
+<td><a href="/patterns-practices/reference/compositecommand-canexecute-method-mspp-commands">CanExecute</a></td>
 <td><div class="summary">
-Forwards <a href="http://msdn.microsoft.com/en-us/library/ms604093">CanExecute(Object)</a> to the registered commands and returns trueTruetruetrue (True in Visual Basic) if all of the commands return trueTruetruetrue (True in Visual Basic).
+Forwards <a href="http://msdn.microsoft.com/en-us/library/ms604093">CanExecute(Object)</a> to the registered commands and returns <strong>truetrue</strong> (<strong>True</strong> in Visual Basic) if all of the commands return <strong>truetrue</strong> (<strong>True</strong> in Visual Basic).
 </div></td>
 </tr>
 <tr class="even">
@@ -38,7 +39,7 @@ Determines whether the specified <a href="http://msdn.microsoft.com/en-us/librar
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand.execute(system.object)">Execute</a></td>
+<td><a href="/patterns-practices/reference/compositecommand-execute-method-mspp-commands">Execute</a></td>
 <td><div class="summary">
 Forwards <a href="http://msdn.microsoft.com/en-us/library/ms604094">Execute(Object)</a> to the registered commands.
 </div></td>
@@ -77,21 +78,21 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand.oncanexecutechanged">OnCanExecuteChanged</a></td>
+<td><a href="/patterns-practices/reference/compositecommand-oncanexecutechanged-method-mspp-commands">OnCanExecuteChanged</a></td>
 <td><div class="summary">
-Raises <a href="http://msdn.microsoft.com/en-us/library/ms523106">CanExecuteChanged</a> on the UI thread so every command invoker can requery <a href="http://msdn.microsoft.com/en-us/library/ms604093">CanExecute(Object)</a> to check if the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand">CompositeCommand</a> can execute.
+Raises <a href="http://msdn.microsoft.com/en-us/library/ms523106">CanExecuteChanged</a> on the UI thread so every command invoker can requery <a href="http://msdn.microsoft.com/en-us/library/ms604093">CanExecute(Object)</a> to check if the <a href="/patterns-practices/reference/compositecommand-class-mspp-commands">CompositeCommand</a> can execute.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand.registercommand(system.windows.input.icommand)">RegisterCommand</a></td>
+<td><a href="/patterns-practices/reference/compositecommand-registercommand-method-mspp-commands">RegisterCommand</a></td>
 <td><div class="summary">
 Adds a command to the collection and signs up for the <a href="http://msdn.microsoft.com/en-us/library/ms523106">CanExecuteChanged</a> event of it.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand.shouldexecute(system.windows.input.icommand)">ShouldExecute</a></td>
+<td><a href="/patterns-practices/reference/compositecommand-shouldexecute-method-mspp-commands">ShouldExecute</a></td>
 <td><div class="summary">
 Evaluates if a command should execute.
 </div></td>
@@ -106,7 +107,7 @@ Returns a string that represents the current object.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand.unregistercommand(system.windows.input.icommand)">UnregisterCommand</a></td>
+<td><a href="/patterns-practices/reference/compositecommand-unregistercommand-method-mspp-commands">UnregisterCommand</a></td>
 <td><div class="summary">
 Removes a command from the collection and removes itself from the <a href="http://msdn.microsoft.com/en-us/library/ms523106">CanExecuteChanged</a> event of it.
 </div></td>
