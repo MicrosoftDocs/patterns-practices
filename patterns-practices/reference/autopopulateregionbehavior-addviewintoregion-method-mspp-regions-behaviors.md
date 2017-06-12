@@ -4,27 +4,41 @@ Title: 'AutoPopulateRegionBehavior.AddViewIntoRegion Method (Microsoft.Practices
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.Behaviors.AutoPopulateRegionBehavior.AddViewIntoRegion(System.Object)'
 ms:mtpsurl: 'autopopulateregionbehavior-addviewintoregion-method-mspp-regions-behaviors.md'
 ---
-
+
 # AutoPopulateRegionBehavior.AddViewIntoRegion Method
 
-Adds a view into the views collection of this region.
+Adds a view into the views collection of this region. 
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-protected virtual void AddViewIntoRegion( Object viewToAdd )Protected Overridable Sub AddViewIntoRegion ( viewToAdd As Object )
+
+```C#
+protected virtual void AddViewIntoRegion(
+	Object viewToAdd
+)
+```
+
+```VB
+'Declaration
+Protected Overridable Sub AddViewIntoRegion ( 
+	viewToAdd As Object
+)
+```
 
 ### Parameters
 
-viewToAdd  
+*viewToAdd*  
 Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
 ## See Also
-[AutoPopulateRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior)
 
-[AutoPopulateRegionBehavior Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior)
+[AutoPopulateRegionBehavior Class](/patterns-practices/reference/autopopulateregionbehavior-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+[AutoPopulateRegionBehavior Members](/patterns-practices/reference/autopopulateregionbehavior-members-mspp-regions-behaviors)
+
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

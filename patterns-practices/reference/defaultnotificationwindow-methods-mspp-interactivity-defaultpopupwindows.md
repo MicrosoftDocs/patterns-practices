@@ -187,7 +187,7 @@ Begins the sequence of actions contained in the provided storyboard, with specif
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>BringIntoView](http://msdn.microsoft.com/en-us/library/ms598110)</td>
+<td>[BringIntoView](http://msdn.microsoft.com/en-us/library/ms598110)</td>
 <td><div class="summary">
 Attempts to bring this element into view, within any scrollable regions it is contained within.
 </div>

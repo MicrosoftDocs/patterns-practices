@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.ForwardValue
 ms:mtpsurl: 'moduleinfogroup-forwardvalues-method-mspp-modularity.md'
 ---
 
-
 # ModuleInfoGroup.ForwardValues Method
 
 Forwards [InitializationMode](/patterns-practices/reference/moduleinfogroup-initializationmode-property-mspp-modularity) and [Ref](/patterns-practices/reference/moduleinfogroup-ref-property-mspp-modularity) properties from this [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity) to *moduleInfo*.
@@ -23,6 +22,32 @@ protected void ForwardValues(
 	ModuleInfo moduleInfo
 )
 ```
+
+### Parameters
+
+*moduleInfo*  
+
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
+
+The module info to forward values to.
+
+## Exceptions
+
+<table>
+<thead>
+<tr class="header">
+<th>Exception</th>
+<th>Condition</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)</td>
+<td>An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if <i>moduleInfo</i> is <strong>null</strong>a null reference (<strong>Nothing</strong> in Visual Basic).</td>
+</tr>
+</tbody>
+</table>
+
 
 ```VB
 'Declaration
@@ -51,7 +76,7 @@ The module info to forward values to.
 <tbody>
 <tr class="odd">
 <td>[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)</td>
-<td>An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if <i>moduleInfo</i> is <strong>null</strong>a null reference (<strong>Nothing</strong> in Visual Basic).</td>
+<td>An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if <i>moduleInfo</i> is <strong>Nothing</strong>a null reference (<strong>Nothing</strong> in Visual Basic).</td>
 </tr>
 </tbody>
 </table>

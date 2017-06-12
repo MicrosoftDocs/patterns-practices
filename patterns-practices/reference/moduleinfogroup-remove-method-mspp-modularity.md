@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.Remove(Micro
 ms:mtpsurl: 'moduleinfogroup-remove-method-mspp-modularity.md'
 ---
 
-
 # ModuleInfoGroup.Remove Method
 
 Removes the first occurrence of a specific object from the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity).
@@ -19,7 +18,9 @@ Removes the first occurrence of a specific object from the [ModuleInfoGroup](/pa
 ## Syntax
 
 ```C#
-public bool Remove( ModuleInfo item )
+public bool Remove(
+	ModuleInfo item
+)
 ```
 
 ### Parameters
@@ -34,17 +35,18 @@ The object to remove from the [ModuleInfoGroup](/patterns-practices/reference/mo
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
-true if *item* was successfully removed from the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity); otherwise, false. This method also returns false if item is not found in the original [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity).
+true if *item* was successfully removed from the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity); otherwise, false. This method also returns false if *item* is not found in the original [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity).
 
 ### Implements
 
 [ICollection&lt;T&gt;.Remove(T)](http://msdn.microsoft.com/en-us/library/bye7h94w)
 
-## Syntax
 
 ```VB
 'Declaration
-Public Function Remove ( item As ModuleInfo ) As Boolean
+Public Function Remove ( 
+	item As ModuleInfo
+) As Boolean
 ```
 
 ### Parameters
@@ -59,7 +61,7 @@ The object to remove from the [ModuleInfoGroup](/patterns-practices/reference/mo
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
-true if *item* was successfully removed from the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity); otherwise, false. This method also returns false if item is not found in the original [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity).
+true if *item* was successfully removed from the [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity); otherwise, false. This method also returns false if *item* is not found in the original [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity).
 
 ### Implements
 

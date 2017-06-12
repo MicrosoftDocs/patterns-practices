@@ -31,7 +31,7 @@ The zero-based index of the item to remove.
 
 ### Implements
 
-[IList&lt;T&gt;.RemoveAt(Int32)](http://msdn.microsoft.com/en-us/library/c93ab5c9)
+[IList&lt;T&gt;.RemoveAt(Int32)](http://msdn.microsoft.com/en-us/library/c93ab5c9)<br/>
 [IList.RemoveAt(Int32)](http://msdn.microsoft.com/en-us/library/x5zwtyhy)
 
 ## Exceptions
@@ -39,8 +39,11 @@ The zero-based index of the item to remove.
 
 | Exception                                                                                   | Condition                                                                                                             |
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| [System.ArgumentOutOfRangeException](http://msdn.microsoft.com/en-us/library/8xt94y6e) | index is not a valid index in the [IList&lt;T&gt;](http://msdn.microsoft.com/en-us/library/5y536ey6). |
+| [System.ArgumentOutOfRangeException](http://msdn.microsoft.com/en-us/library/8xt94y6e) | *index* is not a valid index in the [IList&lt;T&gt;](http://msdn.microsoft.com/en-us/library/5y536ey6). |
 | [System.NotSupportedException](http://msdn.microsoft.com/en-us/library/8a7a4e64)       | The [IList&lt;T&gt;](http://msdn.microsoft.com/en-us/library/5y536ey6) is read-only.                  |
+
+
+# ModuleInfoGroup.RemoveAt Method
 
 Removes the [IList(Of T)](http://msdn.microsoft.com/en-us/library/5y536ey6) item at the specified index.
 
@@ -67,7 +70,7 @@ The zero-based index of the item to remove.
 
 ### Implements
 
-[IList(Of T).RemoveAt(Int32)](http://msdn.microsoft.com/en-us/library/c93ab5c9)
+[IList(Of T).RemoveAt(Int32)](http://msdn.microsoft.com/en-us/library/c93ab5c9)<br/>
 [IList.RemoveAt(Int32)](http://msdn.microsoft.com/en-us/library/x5zwtyhy)
 
 ## Exceptions
@@ -75,7 +78,7 @@ The zero-based index of the item to remove.
 
 | Exception                                                                                   | Condition                                                                                                             |
 |---------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------------------|
-| [System.ArgumentOutOfRangeException](http://msdn.microsoft.com/en-us/library/8xt94y6e) | index is not a valid index in the [IList(Of T)](http://msdn.microsoft.com/en-us/library/5y536ey6). |
+| [System.ArgumentOutOfRangeException](http://msdn.microsoft.com/en-us/library/8xt94y6e) | *index* is not a valid index in the [IList(Of T)](http://msdn.microsoft.com/en-us/library/5y536ey6). |
 | [System.NotSupportedException](http://msdn.microsoft.com/en-us/library/8a7a4e64)       | The [IList(Of T)](http://msdn.microsoft.com/en-us/library/5y536ey6) is read-only.                  |
 
 
