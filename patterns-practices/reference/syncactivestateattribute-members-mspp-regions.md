@@ -8,7 +8,7 @@ ms:mtpsurl: 'syncactivestateattribute-members-mspp-regions.md'
 
 # SyncActiveStateAttribute Members
 
-The [SyncActiveStateAttribute](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute) type exposes the following members.
+The [SyncActiveStateAttribute](/patterns-practices/reference/syncactivestateattribute-class-mspp-regions) type exposes the following members.
 
 ## Constructors
 
@@ -25,9 +25,9 @@ The [SyncActiveStateAttribute](https://msdn.microsoft.com/library/microsoft.prac
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute">SyncActiveStateAttribute</a></td>
+<td><a href="/patterns-practices/reference/syncactivestateattribute-class-mspp-regions">SyncActiveStateAttribute</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute">SyncActiveStateAttribute</a> class
+Initializes a new instance of the <a href="/patterns-practices/reference/syncactivestateattribute-class-mspp-regions">SyncActiveStateAttribute</a> class
 </div></td>
 </tr>
 </tbody>
@@ -123,6 +123,6 @@ When implemented in a derived class, gets a unique identifier for this <a href="
 
 ## See Also
 
-[SyncActiveStateAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.syncactivestateattribute)
+[SyncActiveStateAttribute Class](/patterns-practices/reference/syncactivestateattribute-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

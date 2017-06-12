@@ -7,9 +7,9 @@ ms:mtpsurl: 'iregioncollection-remove-method-mspp-regions.md'
 
 # IRegionCollection.Remove Method
 
-Removes a [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion) from the collection.
+Removes a [IRegion](/patterns-practices/reference/iregion-interface-mspp-regions) from the collection.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,19 +32,22 @@ Function Remove (
 
 ### Parameters
 
-*regionName*<br/>
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)<br/>
+*regionName*
+
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+
 Name of the region to be removed.
 
 ### Return Value
 
-Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
+
 **Truetrue** (**True** in Visual Basic) if the region was removed from the collection, otherwise **Falsefalse** (**False** in Visual Basic).
 
 ## See Also
 
-[IRegionCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregioncollection)
+[IRegionCollection Interface](/patterns-practices/reference/iregioncollection-interface-mspp-regions)
 
-[IRegionCollection Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregioncollection_members(v=pandp.50))
+[IRegionCollection Members](/patterns-practices/reference/iregioncollection-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

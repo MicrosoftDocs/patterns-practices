@@ -8,7 +8,7 @@ ms:mtpsurl: 'iregionbehaviorcollection-members-mspp-regions.md'
 
 # IRegionBehaviorCollection Members
 
-The [IRegionBehaviorCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection) type exposes the following members.
+The [IRegionBehaviorCollection](/patterns-practices/reference/iregionbehaviorcollection-interface-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -25,16 +25,20 @@ The [IRegionBehaviorCollection](https://msdn.microsoft.com/library/microsoft.pra
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection.add">Add</a></td>
+<td><a href="/patterns-practices/reference/iregionbehaviorcollection-add-method-mspp-regions
+">Add</a></td>
 <td><div class="summary">
-Adds a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a> to the collection, using the specified key as an indexer.
+Adds a <a href="/patterns-practices/reference/iregionbehavior-interface-mspp-regions
+">IRegionBehavior</a> to the collection, using the specified key as an indexer.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection.containskey(system.string)">ContainsKey</a></td>
+<td><a href="/patterns-practices/reference/iregionbehaviorcollection-containskey-method-mspp-regions
+">ContainsKey</a></td>
 <td><div class="summary">
-Checks if a <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a> with the specified key is already present.
+Checks if a <a href="/patterns-practices/reference/iregionbehavior-interface-mspp-regions
+">IRegionBehavior</a> with the specified key is already present.
 </div></td>
 </tr>
 <tr class="odd">
@@ -43,7 +47,7 @@ Checks if a <a href="https://msdn.microsoft.com/library/microsoft.practices.pris
 <td><div class="summary">
 Returns an enumerator that iterates through the collection.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/9eekhta0">IEnumerable</a>&lt;(<a href="http://msdn.microsoft.com/en-us/library/5tbh8a42">KeyValuePair</a>&lt;(<a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a>, <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a>&gt;&gt;.)</td>
+(Inherited from <a href="http://msdn.microsoft.com/en-us/library/9eekhta0">IEnumerable</a>&lt;(<a href="http://msdn.microsoft.com/en-us/library/5tbh8a42">KeyValuePair</a>&lt;(<a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a>, <a href="/patterns-practices/reference/iregionbehavior-interface-mspp-regions">IRegionBehavior</a>&gt;&gt;.)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -71,9 +75,11 @@ Returns an enumerator that iterates through a collection.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection.item(system.string)">Item</a></td>
+<td><a href="/patterns-practices/reference/iregionbehaviorcollection-item-property-mspp-regions
+">Item</a></td>
 <td><div class="summary">
-Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior">IRegionBehavior</a> with the specified key.
+Gets the <a href="/patterns-practices/reference/iregionbehavior-interface-mspp-regions
+">IRegionBehavior</a> with the specified key.
 </div></td>
 </tr>
 </tbody>
@@ -81,6 +87,6 @@ Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.r
 
 ## See Also
 
-[IRegionBehaviorCollection Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorcollection)
+[IRegionBehaviorCollection Interface](/patterns-practices/reference/iregionbehaviorcollection-interface-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
