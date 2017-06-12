@@ -41,7 +41,7 @@ Constructed instance of [DelegateCommand](/patterns-practices/reference/delegate
 
 [DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)
 
-[DelegateCommand Members](patterns-practices/reference/delegatecommand-members-mspp-commands)
+[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)
 
 [FromAsyncHandler Overload](/patterns-practices/reference/delegatecommand-fromasynchandler-method-mspp-commands)
 
@@ -86,7 +86,7 @@ Constructed instance of [DelegateCommand](/patterns-practices/reference/delegate
 
 [DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)
 
-[DelegateCommand Members](patterns-practices/reference/delegatecommand-members-mspp-commands)
+[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)
 
 [FromAsyncHandler Overload](/patterns-practices/reference/delegatecommand-fromasynchandler-method-mspp-commands)
 
