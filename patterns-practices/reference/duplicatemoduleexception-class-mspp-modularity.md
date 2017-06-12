@@ -4,7 +4,8 @@ Title: 'DuplicateModuleException Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.DuplicateModuleException'
 ms:mtpsurl: 'duplicatemoduleexception-class-mspp-modularity.md'
 ---
-
+
+
 # DuplicateModuleException Class
 
 Exception thrown when a module is declared twice in the same catalog.
@@ -32,9 +33,9 @@ Public Class DuplicateModuleException
 ## Inheritance Hierarchy
 
 [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-  [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)<br/>
-    [Microsoft.Practices.Prism.Modularity.ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity)<br/>
-      Microsoft.Practices.Prism.Modularity.DuplicateModuleException
+&nbsp;&nbsp;[System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)<br/>
+&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Modularity.ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.Modularity.DuplicateModuleException
 
 ## See Also
 
