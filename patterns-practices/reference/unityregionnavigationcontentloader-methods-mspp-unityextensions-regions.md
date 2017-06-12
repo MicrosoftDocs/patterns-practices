@@ -34,7 +34,7 @@ Provides a new item for the region based on the supplied candidate target contra
 (Inherited from [RegionNavigationContentLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationcontentloader).)</td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/pubmethod.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[Equals](http://msdn.microsoft.com/en-us/library/bsc2ak47)</td>
 <td><div class="summary">
 Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current
@@ -66,7 +66,7 @@ Returns the candidate TargetContract based on the [NavigationContext](https://ms
 (Inherited from [RegionNavigationContentLoader](https://msdn.microsoft.com/t:microsoft.practices.prism.regions.regionnavigationcontentloader).)</td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/pubmethod.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[GetHashCode](http://msdn.microsoft.com/en-us/library/zdee4b3y)</td>
 <td><div class="summary">
 Serves as a hash function for a particular type.
@@ -74,7 +74,7 @@ Serves as a hash function for a particular type.
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/pubmethod.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)</td>
 <td><div class="summary">
 Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
@@ -82,7 +82,7 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/pubmethod.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[LoadContent](https://msdn.microsoft.com/m:microsoft.practices.prism.regions.regionnavigationcontentloader.loadcontent(microsoft.practices.prism.regions.iregion%2cmicrosoft.practices.prism.regions.navigationcontext))</td>
 <td><div class="summary">
 Gets the view to which the navigation request represented by navigationContext applies.
@@ -98,7 +98,7 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/pubmethod.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)</td>
 <td><div class="summary">
 Returns a string that represents the current object.
