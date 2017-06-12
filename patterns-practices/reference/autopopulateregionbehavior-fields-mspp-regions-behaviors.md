@@ -8,7 +8,7 @@ ms:mtpsurl: 'autopopulateregionbehavior-fields-mspp-regions-behaviors.md'
 
 # AutoPopulateRegionBehavior Fields
 
-The [AutoPopulateRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior) type exposes the following members.
+The [AutoPopulateRegionBehavior](/patterns-practices/reference/autopopulateregionbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Fields
 
@@ -25,7 +25,7 @@ The [AutoPopulateRegionBehavior](https://msdn.microsoft.com/library/microsoft.pr
 <tbody>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td>[BehaviorKey](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior.behaviorkey)</td>>
+<td>[BehaviorKey](/patterns-practices/reference/autopopulateregionbehavior-behaviorkey-field-mspp-regions-behaviors)</td>>
 
 <td><div class="summary">
 The key of this behavior.
@@ -36,6 +36,6 @@ The key of this behavior.
 
 ## See Also
 
-[AutoPopulateRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.autopopulateregionbehavior)
+[AutoPopulateRegionBehavior Class](/patterns-practices/reference/autopopulateregionbehavior-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

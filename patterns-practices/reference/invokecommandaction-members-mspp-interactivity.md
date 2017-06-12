@@ -8,7 +8,7 @@ ms:mtpsurl: 'invokecommandaction-members-mspp-interactivity.md'
 
 # InvokeCommandAction Members
 
-The [InvokeCommandAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction) type exposes the following members.
+The [InvokeCommandAction](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity) type exposes the following members.
 
 ## Constructors
 
@@ -25,9 +25,9 @@ The [InvokeCommandAction](https://msdn.microsoft.com/library/microsoft.practices
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction">InvokeCommandAction</a></td>
+<td><a href="/patterns-practices/reference/invokecommandaction-class-mspp-interactivity">InvokeCommandAction</a></td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction">InvokeCommandAction</a> class
+Initializes a new instance of the <a href="/patterns-practices/reference/invokecommandaction-class-mspp-interactivity">InvokeCommandAction</a> class
 </div></td>
 </tr>
 </tbody>
@@ -279,7 +279,8 @@ Re-evaluates the effective value for the specified dependency property
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.invoke(system.object)">Invoke</a></td>
+<td><a href="/patterns-practices/reference/invokecommandaction-invoke-method-mspp-interactivity
+">Invoke</a></td>
 <td><div class="summary">
 Executes the command
 </div>
@@ -302,11 +303,12 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.onattached">OnAttached</a></td>
+<td><a href="/patterns-practices/reference/invokecommandaction-onattached-method-mspp-interactivity
+">OnAttached</a></td>
 <td><div class="summary">
 This method is called after the behavior is attached. It updates the command behavior's Command and CommandParameter properties if necessary.
 </div>
-(Overrides TriggerActionOnAttached()()().)</td>
+(Overrides TriggerActionOnAttached().)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -318,11 +320,11 @@ Called when the current <a href="http://msdn.microsoft.com/en-us/library/ms60273
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.ondetaching">OnDetaching</a></td>
+<td><a href="/patterns-practices/reference/invokecommandaction-onattached-method-mspp-interactivity">OnDetaching</a></td>
 <td><div class="summary">
 Sets the Command and CommandParameter properties to null.
 </div>
-(Overrides TriggerActionOnDetaching()()().)</td>
+(Overrides TriggerActionOnDetaching().)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -446,21 +448,23 @@ Verifies that the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Fre
 <tbody>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.commandparameterproperty">CommandParameterProperty</a></td>
+<td><a href="/patterns-practices/reference/invokecommandaction-commandparameterproperty-field-mspp-interactivity">CommandParameterProperty</a></td>
 <td><div class="summary">
 Dependency property identifying the command parameter to supply on command execution.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.commandproperty">CommandProperty</a></td>
+<td><a href="/patterns-practices/reference/invokecommandaction-commandproperty-field-mspp-interactivity
+">CommandProperty</a></td>
 <td><div class="summary">
 Dependency property identifying the command to execute when invoked.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.triggerparameterpathproperty">TriggerParameterPathProperty</a></td>
+<td><a href="/patterns-practices/reference/invokecommandaction-triggerparameterpathproperty-field-mspp-interactivity
+">TriggerParameterPathProperty</a></td>
 <td><div class="summary">
 Dependency property identifying the TriggerParameterPath to be parsed to identify the child property of the trigger parameter to be used as the command parameter.
 </div></td>
@@ -501,14 +505,16 @@ Gets a value that indicates whether the object can be made unmodifiable.
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.command">Command</a></td>
+<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/invokecommandaction-command-property-mspp-interactivity
+">Command</a></td>
 <td><div class="summary">
 Gets or sets the command to execute when invoked.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.commandparameter">CommandParameter</a></td>
+<td><a href="/patterns-practices/reference/invokecommandaction-commandparameter-property-mspp-interactivity
+">CommandParameter</a></td>
 <td><div class="summary">
 Gets or sets the command parameter to supply on command execution.
 </div></td>
@@ -560,7 +566,8 @@ Gets a value that indicates whether this instance is currently sealed (read-only
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction.triggerparameterpath">TriggerParameterPath</a></td>
+<td><a href="/patterns-practices/reference/invokecommandaction-triggerparameterpath-property-mspp-interactivity
+">TriggerParameterPath</a></td>
 <td><div class="summary">
 Gets or sets the TriggerParameterPath value.
 </div></td>
@@ -594,6 +601,6 @@ Occurs when the <a href="http://msdn.microsoft.com/en-us/library/ms602734">Freez
 
 ## See Also
 
-[InvokeCommandAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.invokecommandaction)
+[InvokeCommandAction Class](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity)
 
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)

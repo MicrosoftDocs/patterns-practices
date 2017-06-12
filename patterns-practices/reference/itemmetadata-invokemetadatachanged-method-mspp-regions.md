@@ -4,22 +4,32 @@ Title: 'ItemMetadata.InvokeMetadataChanged Method (Microsoft.Practices.Prism.Reg
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.ItemMetadata.InvokeMetadataChanged'
 ms:mtpsurl: 'itemmetadata-invokemetadatachanged-method-mspp-regions.md'
 ---
-
+
+
 # ItemMetadata.InvokeMetadataChanged Method
 
-Explicitly invokes [MetadataChanged](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata.metadatachanged) to notify listeners.
+Explicitly invokes [MetadataChanged](/patterns-practices/reference/itemmetadata-metadatachanged-event-mspp-regions) to notify listeners.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public void InvokeMetadataChanged()Public Sub InvokeMetadataChanged
+
+```C#
+public void InvokeMetadataChanged()
+```
+```VB
+'Declaration
+Public Sub InvokeMetadataChanged
+````
 
 ## See Also
-[ItemMetadata Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.itemmetadata)
 
-[ItemMetadata Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.itemmetadata)
+[ItemMetadata Class](/patterns-practices/reference/itemmetadata-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[ItemMetadata Members](/patterns-practices/reference/itemmetadata-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

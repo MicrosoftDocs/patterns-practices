@@ -8,7 +8,7 @@ ms:mtpsurl: 'navigationparameters-members-mspp-regions.md'
 
 # NavigationParameters Members
 
-The [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters) type exposes the following members.
+The [NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions) type exposes the following members.
 
 ## Constructors
 
@@ -27,14 +27,16 @@ The [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practice
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>NavigationParameters()</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters">NavigationParameters</a> class.
+Initializes a new instance of the <a href="/patterns-practices/reference/navigationparameters-class-mspp-regions
+">NavigationParameters</a> class.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>NavigationParameters(String)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters">NavigationParameters</a> class with a query string.
+Initializes a new instance of the <a href="/patterns-practices/reference/navigationparameters-class-mspp-regions
+">NavigationParameters</a> class with a query string.
 </div></td>
 </tr>
 </tbody>
@@ -55,7 +57,8 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.add">Add</a></td>
+<td><a href="/patterns-practices/reference/navigationparameters-add-method-mspp-regions
+">Add</a></td>
 <td><div class="summary">
 Adds the specified key and value.
 </div></td>
@@ -78,7 +81,8 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.getenumerator">GetEnumerator</a></td>
+<td><a href="/patterns-practices/reference/navigationparameters-getenumerator-method-mspp-regions
+">GetEnumerator</a></td>
 <td><div class="summary">
 Gets the enumerator.
 </div></td>
@@ -109,7 +113,8 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.tostring">ToString</a></td>
+<td><a href="/patterns-practices/reference/navigationparameters-tostring-method-mspp-regions
+">ToString</a></td>
 <td><div class="summary">
 Converts the list of key value pairs to a query string.
 </div>
@@ -133,7 +138,8 @@ Converts the list of key value pairs to a query string.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.item(system.string)">Item</a></td>
+<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/navigationparameters-item-property-mspp-regions
+">Item</a></td>
 <td><div class="summary">
 Gets the <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> with the specified key.
 </div></td>
@@ -143,6 +149,6 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> w
 
 ## See Also
 
-[NavigationParameters Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
+[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

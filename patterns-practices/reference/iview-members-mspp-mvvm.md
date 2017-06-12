@@ -8,17 +8,18 @@ ms:mtpsurl: 'iview-members-mspp-mvvm.md'
 
 # IView Members
 
-The [IView](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.iview) type exposes the following members.
+The [IView](/patterns-practices/reference/iview-interface-mspp-mvvm
+) type exposes the following members.
 
 ## Properties
 
 
 |                                                                                                  | Name                                                                                         | Description |
 |--------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------|-------------|
-| ![Public property](/patterns-practices/reference/images/pubproperty.gif) | [DataContext](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.iview.datacontext) |             |
+| ![Public property](/patterns-practices/reference/images/pubproperty.gif) | [DataContext](/patterns-practices/reference/iview-datacontext-property-mspp-mvvm) |             |
 
 ## See Also
 
-[IView Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.iview)
+[IView Interface](/patterns-practices/reference/iview-interface-mspp-mvvm)
 
-[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)
+[Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

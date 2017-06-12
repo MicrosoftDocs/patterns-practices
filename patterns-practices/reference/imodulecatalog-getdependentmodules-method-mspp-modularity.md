@@ -4,16 +4,19 @@ Title: 'IModuleCatalog.GetDependentModules Method (Microsoft.Practices.Prism.Mod
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.IModuleCatalog.GetDependentModules(Microsoft.Practices.Prism.Modularity.ModuleInfo)'
 ms:mtpsurl: 'imodulecatalog-getdependentmodules-method-mspp-modularity.md'
 ---
+
 # IModuleCatalog.GetDependentModules Method
 
 Return the list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that *moduleInfo* depends on.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  3
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 IEnumerable<ModuleInfo> GetDependentModules(
 	ModuleInfo moduleInfo
@@ -51,8 +54,10 @@ An enumeration of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-ms
 
 ## See Also
 
-[IModuleCatalog Interface](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity)  
-[IModuleCatalog Members](/patterns-practices/reference/imodulecatalog-members-mspp-modularity)  
+[IModuleCatalog Interface](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity)
+
+[IModuleCatalog Members](/patterns-practices/reference/imodulecatalog-members-mspp-modularity)
+
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
 
 

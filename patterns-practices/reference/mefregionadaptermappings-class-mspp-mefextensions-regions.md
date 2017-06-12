@@ -4,30 +4,42 @@ Title: 'MefRegionAdapterMappings Class (Microsoft.Practices.Prism.MefExtensions.
 ms:assetid: 'T:Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionAdapterMappings'
 ms:mtpsurl: 'mefregionadaptermappings-class-mspp-mefextensions-regions.md'
 ---
-
+
 # MefRegionAdapterMappings Class
 
 Exports the RegionAdapterMappings using the Managed Extensibility Framework (MEF).
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public class MefRegionAdapterMappings : RegionAdapterMappingsPublic Class MefRegionAdapterMappings Inherits RegionAdapterMappings
+
+```C#
+public class MefRegionAdapterMappings : RegionAdapterMappings
+```
+
+```VB
+'Declaration
+Public Class MefRegionAdapterMappings
+	Inherits RegionAdapterMappings
+```
+
 
 ## Remarks
 
- This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used.
+&nbsp;&nbsp;This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used.
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-  [Microsoft.Practices.Prism.Regions.RegionAdapterMappings](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadaptermappings)
-    Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionAdapterMappings
+&nbsp;&nbsp;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
+&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionAdapterMappings](/patterns-practices/reference/regionadaptermappings-class-mspp-regions)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionAdapterMappings<br/>
 
 ## See Also
-[MefRegionAdapterMappings Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefregionadaptermappings)
 
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+[MefRegionAdapterMappings Members](/patterns-practices/reference/mefregionadaptermappings-members-mspp-mefextensions-regions)
+
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

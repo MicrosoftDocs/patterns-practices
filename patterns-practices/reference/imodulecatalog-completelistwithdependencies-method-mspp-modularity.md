@@ -7,7 +7,7 @@ ms:mtpsurl: 'imodulecatalog-completelistwithdependencies-method-mspp-modularity.
 
 # IModuleCatalog.CompleteListWithDependencies Method
 
-Returns the collection of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that contain both the [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s in modules, but also all the modules they depend on.
+Returns the collection of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that contain both the [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s in *modules*, but also all the modules they depend on.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
@@ -32,7 +32,8 @@ The modules to get the dependencies for.
 ### Return Value
 
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)&gt;  
-A collection of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) that contains both all [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s in modules and also all the [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) they depend on.
+A collection of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) that contains both all [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s in *modules* and also all the [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) they depend on.
+
 
 ```VB
 'Declaration
@@ -55,6 +56,8 @@ A collection of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp
 
 ## See Also
 
-[IModuleCatalog Interface](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity)  
-[IModuleCatalog Members](/patterns-practices/reference/imodulecatalog-members-mspp-modularity)  
+[IModuleCatalog Interface](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity) 
+
+[IModuleCatalog Members](/patterns-practices/reference/imodulecatalog-members-mspp-modularity) 
+ 
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

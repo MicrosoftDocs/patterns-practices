@@ -4,10 +4,11 @@ Title: 'RegionNavigationJournalEntry Members (Microsoft.Practices.Prism.Regions)
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Regions.RegionNavigationJournalEntry'
 ms:mtpsurl: 'regionnavigationjournalentry-members-mspp-regions.md'
 ---
-
+
+
 # RegionNavigationJournalEntry Members
 
-The [RegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry) type exposes the following members.
+The [RegionNavigationJournalEntry](/patterns-practices/reference/regionnavigationjournalentry-class-mspp-regions) type exposes the following members.
 
 ## Constructors
 
@@ -24,9 +25,9 @@ The [RegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.">RegionNavigationJournalEntry</a></td>
+<td>RegionNavigationJournalEntry</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry">RegionNavigationJournalEntry</a> class
+Initializes a new instance of the [RegionNavigationJournalEntry](/patterns-practices/reference/regionnavigationjournalentry-class-mspp-regions) class
 </div></td>
 </tr>
 </tbody>
@@ -87,11 +88,11 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.tostring">ToString</a></td>
+<td>[ToString](/patterns-practices/reference/regionnavigationjournalentry-tostring-method-mspp-regions)</td>
 <td><div class="summary">
-Returns a <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> that represents this instance.
+Returns a [String]("http://msdn.microsoft.com/en-us/library/s1wwdcbf) that represents this instance.
 </div>
-(Overrides <a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">Object.ToString()()()</a>.)</td>
+(Overrides [Object.ToString()](http://msdn.microsoft.com/en-us/library/7bxwbwt2).)</td>
 </tr>
 </tbody>
 </table>
@@ -111,14 +112,14 @@ Returns a <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> 
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.parameters">Parameters</a></td>
+<td>[Parameters](/patterns-practices/reference/regionnavigationjournalentry-parameters-property-mspp-regions)</td>
 <td><div class="summary">
 Gets or sets the NavigationParameters instance.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry.uri">Uri</a></td>
+<td>[Uri](/patterns-practices/reference/regionnavigationjournalentry-uri-property-mspp-regions)</td>
 <td><div class="summary">
 Gets or sets the URI.
 </div></td>
@@ -127,6 +128,7 @@ Gets or sets the URI.
 </table>
 
 ## See Also
-[RegionNavigationJournalEntry Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionnavigationjournalentry)
 
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionNavigationJournalEntry Class](/patterns-practices/reference/regionnavigationjournalentry-class-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](//patterns-practices/reference/mspp-regions-namespace)

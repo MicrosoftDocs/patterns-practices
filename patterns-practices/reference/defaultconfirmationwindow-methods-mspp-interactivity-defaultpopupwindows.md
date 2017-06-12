@@ -41,7 +41,7 @@ Adds a specified object as the child of a [ContentControl](http://msdn.microsoft
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/ms598898">AddHandler(RoutedEvent, Delegate))</td>
+<td>[AddHandler(RoutedEvent, Delegate)](http://msdn.microsoft.com/en-us/library/ms598898)</td>
 <td><div class="summary">
 Adds a routed event handler for a specified routed event, adding the handler to the handler collection on the current element.
 </div>
@@ -49,7 +49,7 @@ Adds a routed event handler for a specified routed event, adding the handler to
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/ms598899">AddHandler(RoutedEvent, Delegate, Boolean))</td>
+<td>[AddHandler(RoutedEvent, Delegate, Boolean)](http://msdn.microsoft.com/en-us/library/ms598899)</td>
 <td><div class="summary">
 Adds a routed event handler for a specified routed event, adding the handler to the handler collection on the current element. Specify handledEventsToo as true to have the provided handler be invoked for routed event that had already been marked as handled by another element along the event route.
 </div>
@@ -89,7 +89,7 @@ Defines the parent-child relationship between two visuals.
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/ms598901">ApplyAnimationClock(DependencyProperty, AnimationClock))</td>
+<td>[ApplyAnimationClock(DependencyProperty, AnimationClock)](http://msdn.microsoft.com/en-us/library/ms598901)</td>
 <td><div class="summary">
 Applies an animation to a specified dependency property on this element. Any existing animations are stopped and replaced with the new animation.
 </div>
@@ -97,7 +97,7 @@ Applies an animation to a specified dependency property on this element. Any ex
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/ms598902">ApplyAnimationClock(DependencyProperty, AnimationClock, HandoffBehavior))</td>
+<td>[ApplyAnimationClock(DependencyProperty, AnimationClock, HandoffBehavior)](http://msdn.microsoft.com/en-us/library/ms598902)</td>
 <td><div class="summary">
 Applies an animation to a specified dependency property on this element, with the ability to specify what happens if the property already has a running animation.
 </div>
@@ -115,7 +115,7 @@ Builds the current template's visual tree if necessary, and returns a value that
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[Arrange](http://msdn.microsoft.com/en-us/library/ms598904)</td>
 <td><div class="summary">
-Positions child elements and determines a size for a [UIElement](http://msdn.microsoft.com/en-us/library/ms590078). Parent elements call this method from their [](http://msdn.microsoft.com/en-us/library/ms598903">ArrangeCore(Rect)) implementation (or a WPF framework-level equivalent) to form a recursive layout update. This method constitutes the second pass of a layout update.
+Positions child elements and determines a size for a [UIElement](http://msdn.microsoft.com/en-us/library/ms590078). Parent elements call this method from their [ArrangeCore(Rect)](http://msdn.microsoft.com/en-us/library/ms598903) implementation (or a WPF framework-level equivalent) to form a recursive layout update. This method constitutes the second pass of a layout update.
 </div>
 (Inherited from [UIElement](http://msdn.microsoft.com/en-us/library/ms590078).)</td>
 </tr>
@@ -123,7 +123,7 @@ Positions child elements and determines a size for a [UIElement](http://msdn.mic
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[ArrangeCore](http://msdn.microsoft.com/en-us/library/ms598095)</td>
 <td><div class="summary">
-Implements [](http://msdn.microsoft.com/en-us/library/ms598903">ArrangeCore(Rect)) (defined as virtual in [UIElement](http://msdn.microsoft.com/en-us/library/ms590078)) and seals the implementation.
+Implements [ArrangeCore(Rect)](http://msdn.microsoft.com/en-us/library/ms598903) (defined as virtual in [UIElement](http://msdn.microsoft.com/en-us/library/ms590078)) and seals the implementation.
 </div>
 (Inherited from [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714).)</td>
 </tr>
@@ -137,7 +137,7 @@ Override this method to arrange and size a window and its child elements.
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/ms598906">BeginAnimation(DependencyProperty, AnimationTimeline))</td>
+<td>[BeginAnimation(DependencyProperty, AnimationTimeline)](http://msdn.microsoft.com/en-us/library/ms598906)</td>
 <td><div class="summary">
 Starts an animation for a specified animated property on this element.
 </div>
@@ -145,7 +145,7 @@ Starts an animation for a specified animated property on this element.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/ms598905">BeginAnimation(DependencyProperty, AnimationTimeline, HandoffBehavior))</td>
+<td>[BeginAnimation(DependencyProperty, AnimationTimeline, HandoffBehavior)](http://msdn.microsoft.com/en-us/library/ms598905)</td>
 <td><div class="summary">
 Starts a specific animation for a specified animated property on this element, with the option of specifying what happens if the property already has a running animation.
 </div>
@@ -161,7 +161,7 @@ Starts the initialization process for this element.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/ms598106">BeginStoryboard(Storyboard))</td>
+<td>[BeginStoryboard(Storyboard)](http://msdn.microsoft.com/en-us/library/ms598106)</td>
 <td><div class="summary">
 Begins the sequence of actions that are contained in the provided storyboard.
 </div>
@@ -169,7 +169,7 @@ Begins the sequence of actions that are contained in the provided storyboard.
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/ms598109">BeginStoryboard(Storyboard, HandoffBehavior))</td>
+<td>[BeginStoryboard(Storyboard, HandoffBehavior)](http://msdn.microsoft.com/en-us/library/ms598109)</td>
 <td><div class="summary">
 Begins the sequence of actions contained in the provided storyboard, with options specified for what should happen if the property is already animated.
 </div>
@@ -177,7 +177,7 @@ Begins the sequence of actions contained in the provided storyboard, with option
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/ms598103">BeginStoryboard(Storyboard, HandoffBehavior, Boolean))</td>
+<td>[BeginStoryboard(Storyboard, HandoffBehavior, Boolean)](http://msdn.microsoft.com/en-us/library/ms598103)</td>
 <td><div class="summary">
 Begins the sequence of actions contained in the provided storyboard, with specified state for control of the animation after it is started.
 </div>
@@ -185,7 +185,7 @@ Begins the sequence of actions contained in the provided storyboard, with specif
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/ms598110">BringIntoView)</td>
+<td>[BringIntoView](http://msdn.microsoft.com/en-us/library/ms598110)</td>
 <td><div class="summary">
 Attempts to bring this element into view, within any scrollable regions it is contained within.
 </div>
@@ -193,7 +193,7 @@ Attempts to bring this element into view, within any scrollable regions it is co
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/ms598115">BringIntoView(Rect))</td>
+<td>[BringIntoView(Rect)](http://msdn.microsoft.com/en-us/library/ms598115)</td>
 <td><div class="summary">
 Attempts to bring the provided region size of this element into view, within any scrollable regions it is contained within.
 </div>
@@ -233,7 +233,7 @@ Determines whether the calling thread has access to this [DispatcherObject](http
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/ms597464">ClearValue(DependencyProperty))</td>
+<td>[ClearValue(DependencyProperty)](http://msdn.microsoft.com/en-us/library/ms597464)</td>
 <td><div class="summary">
 Clears the local value of a property. The property to be cleared is specified by a [DependencyProperty](http://msdn.microsoft.com/en-us/library/ms589318) identifier.
 </div>
@@ -241,7 +241,7 @@ Clears the local value of a property. The property to be cleared is specified by
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/ms597465">ClearValue(DependencyPropertyKey))</td>
+<td>[ClearValue(DependencyPropertyKey)](http://msdn.microsoft.com/en-us/library/ms597465)</td>
 <td><div class="summary">
 Clears the local value of a read-only property. The property to be cleared is specified by a [DependencyPropertyKey](http://msdn.microsoft.com/en-us/library/ms602348).
 </div>
@@ -403,7 +403,7 @@ Returns the current effective value of a dependency property on this instance of
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[GetVisualChild](http://msdn.microsoft.com/en-us/library/ms598141)</td>
 <td><div class="summary">
-Overrides [](http://msdn.microsoft.com/en-us/library/ms608857">GetVisualChild(Int32)), and returns a child at the specified index from a collection of child elements.
+Overrides [GetVisualChild(Int32)](http://msdn.microsoft.com/en-us/library/ms608857), and returns a child at the specified index from a collection of child elements.
 </div>
 (Inherited from [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714).)</td>
 </tr>
@@ -417,17 +417,17 @@ Makes a window invisible.
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/ms598915">HitTestCore(PointHitTestParameters))</td>
+<td>[HitTestCore(PointHitTestParameters)](http://msdn.microsoft.com/en-us/library/ms598915)</td>
 <td><div class="summary">
-Implements [](http://msdn.microsoft.com/en-us/library/ms608859">HitTestCore(PointHitTestParameters)) to supply base element hit testing behavior (returning [HitTestResult](http://msdn.microsoft.com/en-us/library/ms619158)).
+Implements [HitTestCore(PointHitTestParameters)](http://msdn.microsoft.com/en-us/library/ms608859) to supply base element hit testing behavior (returning [HitTestResult](http://msdn.microsoft.com/en-us/library/ms619158)).
 </div>
 (Inherited from [UIElement](http://msdn.microsoft.com/en-us/library/ms590078).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/ms598914">HitTestCore(GeometryHitTestParameters))</td>
+<td>[HitTestCore(GeometryHitTestParameters)](http://msdn.microsoft.com/en-us/library/ms598914)</td>
 <td><div class="summary">
-Implements [](http://msdn.microsoft.com/en-us/library/ms608858">HitTestCore(GeometryHitTestParameters)) to supply base element hit testing behavior (returning [GeometryHitTestResult](http://msdn.microsoft.com/en-us/library/ms634997)).
+Implements [HitTestCore(GeometryHitTestParameters)](http://msdn.microsoft.com/en-us/library/ms608858) to supply base element hit testing behavior (returning [GeometryHitTestResult](http://msdn.microsoft.com/en-us/library/ms634997)).
 </div>
 (Inherited from [UIElement](http://msdn.microsoft.com/en-us/library/ms590078).)</td>
 </tr>
@@ -450,7 +450,7 @@ Returns the input element within the current element that is at the specified co
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[InvalidateArrange](http://msdn.microsoft.com/en-us/library/ms598917)</td>
 <td><div class="summary">
-Invalidates the arrange state (layout) for the element. After the invalidation, the element will have its layout updated, which will occur asynchronously unless subsequently forced by [](http://msdn.microsoft.com/en-us/library/ms599327">UpdateLayout).
+Invalidates the arrange state (layout) for the element. After the invalidation, the element will have its layout updated, which will occur asynchronously unless subsequently forced by [UpdateLayout](http://msdn.microsoft.com/en-us/library/ms599327).
 </div>
 (Inherited from [UIElement](http://msdn.microsoft.com/en-us/library/ms590078).)</td>
 </tr>
@@ -474,7 +474,7 @@ Re-evaluates the effective value for the specified dependency property
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[InvalidateVisual](http://msdn.microsoft.com/en-us/library/ms598919)</td>
 <td><div class="summary">
-Invalidates the rendering of the element, and forces a complete new layout pass. [](http://msdn.microsoft.com/en-us/library/ms599305">OnRender(DrawingContext)) is called after the layout cycle is completed.
+Invalidates the rendering of the element, and forces a complete new layout pass. [OnRender(DrawingContext)](http://msdn.microsoft.com/en-us/library/ms599305) is called after the layout cycle is completed.
 </div>
 (Inherited from [UIElement](http://msdn.microsoft.com/en-us/library/ms590078).)</td>
 </tr>
@@ -498,7 +498,7 @@ Determines whether the visual object is a descendant of the ancestor visual obje
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[Measure](http://msdn.microsoft.com/en-us/library/ms598921)</td>
 <td><div class="summary">
-Updates the [DesiredSize](http://msdn.microsoft.com/en-us/library/ms588686) of a [UIElement](http://msdn.microsoft.com/en-us/library/ms590078). Parent elements call this method from their own [](http://msdn.microsoft.com/en-us/library/ms598920">MeasureCore(Size)) implementations to form a recursive layout update. Calling this method constitutes the first pass (the &quot;Measure&quot; pass) of a layout update.
+Updates the [DesiredSize](http://msdn.microsoft.com/en-us/library/ms588686) of a [UIElement](http://msdn.microsoft.com/en-us/library/ms590078). Parent elements call this method from their own [MeasureCore(Size)](http://msdn.microsoft.com/en-us/library/ms598920) implementations to form a recursive layout update. Calling this method constitutes the first pass (the &quot;Measure&quot; pass) of a layout update.
 </div>
 (Inherited from [UIElement](http://msdn.microsoft.com/en-us/library/ms590078).)</td>
 </tr>
@@ -554,7 +554,7 @@ Raises the [Activated](http://msdn.microsoft.com/en-us/library/ms596796) event.
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[OnApplyTemplate](http://msdn.microsoft.com/en-us/library/ms598234)</td>
 <td><div class="summary">
-When overridden in a derived class, is invoked whenever application code or internal processes call [](http://msdn.microsoft.com/en-us/library/ms598092">ApplyTemplate).
+When overridden in a derived class, is invoked whenever application code or internal processes call [ApplyTemplate](http://msdn.microsoft.com/en-us/library/ms598092).
 </div>
 (Inherited from [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714).)</td>
 </tr>
@@ -1266,7 +1266,7 @@ Provides class handling for the [PreviewTouchUp](http://msdn.microsoft.com/en-us
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[OnPropertyChanged](http://msdn.microsoft.com/en-us/library/ms598246)</td>
 <td><div class="summary">
-Invoked whenever the effective value of any dependency property on this [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714) has been updated. The specific dependency property that changed is reported in the arguments parameter. Overrides [](http://msdn.microsoft.com/en-us/library/ms597471">OnPropertyChanged(DependencyPropertyChangedEventArgs)).
+Invoked whenever the effective value of any dependency property on this [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714) has been updated. The specific dependency property that changed is reported in the arguments parameter. Overrides [OnPropertyChanged(DependencyPropertyChangedEventArgs)](http://msdn.microsoft.com/en-us/library/ms597471).
 </div>
 (Inherited from [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714).)</td>
 </tr>
@@ -1506,7 +1506,7 @@ Called when the parent of the window is changed.
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[ParentLayoutInvalidated](http://msdn.microsoft.com/en-us/library/ms598260)</td>
 <td><div class="summary">
-Supports incremental layout implementations in specialized subclasses of [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714). [](http://msdn.microsoft.com/en-us/library/ms598260">ParentLayoutInvalidated(UIElement)) is invoked when a child element has invalidated a property that is marked in metadata as affecting the parent's measure or arrange passes during layout.
+Supports incremental layout implementations in specialized subclasses of [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714). [ParentLayoutInvalidated(UIElement)](http://msdn.microsoft.com/en-us/library/ms598260) is invoked when a child element has invalidated a property that is marked in metadata as affecting the parent's measure or arrange passes during layout.
 </div>
 (Inherited from [FrameworkElement](http://msdn.microsoft.com/en-us/library/ms602714).)</td>
 </tr>
@@ -1616,7 +1616,7 @@ Removes the parent-child relationship between two visuals.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/ms598273">SetBinding(DependencyProperty, BindingBase))</td>
+<td>[SetBinding(DependencyProperty, BindingBase)](http://msdn.microsoft.com/en-us/library/ms598273)</td>
 <td><div class="summary">
 Attaches a binding to this element, based on the provided binding object.
 </div>
@@ -1624,7 +1624,7 @@ Attaches a binding to this element, based on the provided binding object.
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/ms598270">SetBinding(DependencyProperty, String))</td>
+<td>[SetBinding(DependencyProperty, String)](http://msdn.microsoft.com/en-us/library/ms598270)</td>
 <td><div class="summary">
 Attaches a binding to this element, based on the provided source property name as a path qualification to the data source.
 </div>
@@ -1648,7 +1648,7 @@ Searches for a resource with the specified name and sets up a resource reference
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/ms597473">SetValue(DependencyProperty, Object))</td>
+<td>[SetValue(DependencyProperty, Object)](http://msdn.microsoft.com/en-us/library/ms597473)</td>
 <td><div class="summary">
 Sets the local value of a dependency property, specified by its dependency property identifier.
 </div>
@@ -1656,7 +1656,7 @@ Sets the local value of a dependency property, specified by its dependency prope
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/ms597474">SetValue(DependencyPropertyKey, Object))</td>
+<td>[SetValue(DependencyPropertyKey, Object)](http://msdn.microsoft.com/en-us/library/ms597474)</td>
 <td><div class="summary">
 Sets the local value of a read-only dependency property, specified by the [DependencyPropertyKey](http://msdn.microsoft.com/en-us/library/ms602348) identifier of the dependency property.
 </div>
@@ -1744,7 +1744,7 @@ Returns the string representation of a [Control](http://msdn.microsoft.com/en-us
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/ms608865">TransformToAncestor(Visual))</td>
+<td>[TransformToAncestor(Visual)](http://msdn.microsoft.com/en-us/library/ms608865)</td>
 <td><div class="summary">
 Returns a transform that can be used to transform coordinates from the [Visual](http://msdn.microsoft.com/en-us/library/ms635637) to the specified [Visual](http://msdn.microsoft.com/en-us/library/ms635637) ancestor of the visual object.
 </div>
@@ -1752,9 +1752,9 @@ Returns a transform that can be used to transform coordinates from the [Visual](
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[](http://msdn.microsoft.com/en-us/library/bb763975">TransformToAncestor(Visual3D))</td>
+<td>[TransformToAncestor(Visual3D)](http://msdn.microsoft.com/en-us/library/bb763975)</td>
 <td><div class="summary">
-Returns a transform that can be used to transform coordinates from the [Visual](http://msdn.microsoft.com/en-us/library/ms635637) to the specified [](http://msdn.microsoft.com/en-us/library/ms594932">Visual3D) ancestor of the visual object.
+Returns a transform that can be used to transform coordinates from the [Visual](http://msdn.microsoft.com/en-us/library/ms635637) to the specified [Visual3D](http://msdn.microsoft.com/en-us/library/ms594932) ancestor of the visual object.
 </div>
 (Inherited from [Visual](http://msdn.microsoft.com/en-us/library/ms635637).)</td>
 </tr>

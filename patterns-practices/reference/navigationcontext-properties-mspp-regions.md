@@ -4,10 +4,11 @@ Title: 'NavigationContext Properties (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'Properties.T:Microsoft.Practices.Prism.Regions.NavigationContext'
 ms:mtpsurl: 'navigationcontext-properties-mspp-regions.md'
 ---
-
+
+
 # NavigationContext Properties
 
-The [NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext) type exposes the following members.
+The [NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
@@ -24,21 +25,21 @@ The [NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.p
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[NavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.navigationservice)</td>
+<td>[NavigationService](/patterns-practices/reference/navigationcontext-navigationservice-property-mspp-regions)</td>
 <td><div class="summary">
 Gets the region navigation service.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Parameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.parameters)</td>
+<td>[Parameters](/patterns-practices/reference/navigationcontext-parameters-property-mspp-regions)</td>
 <td><div class="summary">
-Gets the [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters) extracted from the URI and the object parameters passed in navigation.
+Gets the [NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions) extracted from the URI and the object parameters passed in navigation.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Uri](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.uri)</td>
+<td>[Uri](/patterns-practices/reference/navigationcontext-uri-property-mspp-regions)</td>
 <td><div class="summary">
 Gets the navigation URI.
 </div></td>
@@ -47,6 +48,7 @@ Gets the navigation URI.
 </table>
 
 ## See Also
-[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[NavigationContext Class](/patterns-practices/reference/navigationcontext-class-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

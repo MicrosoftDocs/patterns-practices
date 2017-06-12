@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddModule(Syst
 ms:mtpsurl: 'addmodule-mthd-str-str-initializationmode-str.md'
 ---
 
-
 # ModuleCatalog.AddModule Method (String, String, String, InitializationMode, String[])
 
 Adds a groupless [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) to the catalog.
@@ -50,20 +49,6 @@ Stage on which the module to be added will be initialized.
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)[]   
 Collection of module names ([ModuleName](/patterns-practices/reference/moduleinfo-modulename-property-mspp-modularity)) of the modules on which the module to be added logically depends on.
 
-### Return Value
-
-Type: [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity)   
-The same [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) instance with the added module.
-
-## See Also
-
-[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)
-
-[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)
-
-[AddModule Overload](/patterns-practices/reference/addmodule-mthd-str-str-initializationmode-str)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
 
 # ModuleCatalog.AddModule Method (String, String, String, InitializationMode, String())
 

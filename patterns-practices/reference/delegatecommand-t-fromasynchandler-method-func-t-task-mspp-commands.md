@@ -28,13 +28,13 @@ Factory method to create a new instance of [DelegateCommand&lt;T&gt;](/patterns-
 
 *executeMethod*
 
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;[T](/patterns-practices/reference/delegatecommand-class-mspp-commands), [Task](http://msdn.microsoft.com/en-us/library/dd235678)&gt;)
+Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb549151)&lt;[T](/patterns-practices/reference/delegatecommand-class-mspp-commands), [Task](http://msdn.microsoft.com/en-us/library/dd235678)&gt;
 
 Delegate to execute when Execute is called on the command.
 
 ### Return Value
 
-Type: [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)&lt;[T](/patterns-practices/reference/delegatecommand-class-mspp-commands)&gt;)
+Type: [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)&lt;[T](/patterns-practices/reference/delegatecommand-class-mspp-commands)&gt;
 
 Constructed instance of [DelegateCommand&lt;T&gt;](/patterns-practices/reference/delegatecommand-class-mspp-commands)
 
@@ -42,7 +42,7 @@ Constructed instance of [DelegateCommand&lt;T&gt;](/patterns-practices/reference
 
 [DelegateCommand&lt;T&gt; Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)
 
-[DelegateCommand&lt;T Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)
+[DelegateCommand&lt;T&gt; Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)
 
 [FromAsyncHandler Overload](/patterns-practices/reference/delegatecommand-t-fromasynchandler-method-mspp-commands)
 
@@ -82,13 +82,13 @@ Delegate to execute when Execute is called on the command.
 
 Type: [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands)(Of [T](/patterns-practices/reference/delegatecommand-class-mspp-commands))
 
-Constructed instance of [DelegateCommand(Of [T](/patterns-practices/reference/delegatecommand-class-mspp-commands))
+Constructed instance of DelegateCommand Of [T](/patterns-practices/reference/delegatecommand-class-mspp-commands))
 
 ## See Also
 
-[DelegateCommand&lt;T&gt; Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)
+[DelegateCommand(Of T) Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)
 
-[DelegateCommand&lt;T Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)
+[DelegateCommand(Of T) Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)
 
 [FromAsyncHandler Overload](/patterns-practices/reference/delegatecommand-t-fromasynchandler-method-mspp-commands)
 

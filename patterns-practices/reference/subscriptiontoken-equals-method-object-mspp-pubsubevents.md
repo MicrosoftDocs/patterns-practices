@@ -21,10 +21,10 @@ Determines whether the specified [Object](http://msdn.microsoft.com/en-us/librar
 ```C#
    public override bool Equals(
 	Object obj
-) 
+)
 ```
 
-```C#
+```VB
    'Declaration
 Public Overrides Function Equals ( 
 	obj As Object

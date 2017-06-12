@@ -9,7 +9,7 @@ ms:mtpsurl: 'iregionbehaviorfactory-addifmissing-method-mspp-regions.md'
 
 Adds a particular type of RegionBehavior if it was not already registered. the behaviorKey string is used to check if the behavior is already present
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -36,17 +36,19 @@ Sub AddIfMissing (
 ### Parameters
 
 *behaviorKey*  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)<br/>
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+
 The behavior key that's used to find if a certain behavior is already added.
 
 *behaviorType*  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)<br/>
-Type of the behavior to add. .
+Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
+
+Type of the behavior to add.
 
 ## See Also
 
-[IRegionBehaviorFactory Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory)
+[IRegionBehaviorFactory Interface](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions)
 
-[IRegionBehaviorFactory Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehaviorfactory_members(v=pandp.50))
+[IRegionBehaviorFactory Members](/patterns-practices/reference/iregionbehaviorfactory-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

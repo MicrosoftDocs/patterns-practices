@@ -41,7 +41,7 @@ The name of the region to look for.
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
-**truetrue** (**True** in Visual Basic) if the region is contained in the collection, otherwise **falsefalse** (**False** in Visual Basic).
+**Truetrue** (**True** in Visual Basic) if the region is contained in the collection, otherwise **Falsefalse** (**False** in Visual Basic).
 
 ## See Also
 

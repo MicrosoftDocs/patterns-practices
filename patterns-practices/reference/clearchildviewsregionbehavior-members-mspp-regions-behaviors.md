@@ -72,7 +72,8 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.getclearchildviews(system.windows.dependencyobject)">GetClearChildViews</a></td>
+<td><a href="/patterns-practices/reference/clearchildviewsregionbehavior-getclearchildviews-method-mspp-regions-behaviors
+">GetClearChildViews</a></td>
 <td><div class="summary">
 Gets the ClearChildViews attached property from a DependencyObject.
 </div></td>
@@ -103,15 +104,19 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.onattach">OnAttach</a></td>
+<td><a href="/patterns-practices/reference/clearchildviewsregionbehavior-onattach-method-mspp-regions-behaviors
+">OnAttach</a></td>
 <td><div class="summary">
-Subscribes to the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.region">Region</a>'s PropertyChanged method to monitor its RegionManager property.
+Subscribes to the <a href="/patterns-practices/reference/region-class-mspp-regions
+">Region</a>'s PropertyChanged method to monitor its RegionManager property.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.onattach">RegionBehavior.OnAttach()</a>.)</td>
+(Overrides <a href="/patterns-practices/reference/regionbehavior-onattach-method-mspp-regions
+">RegionBehavior.OnAttach()</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.setclearchildviews(system.windows.dependencyobject%2csystem.boolean)">SetClearChildViews</a></td>
+<td><a href="/patterns-practices/reference/clearchildviewsregionbehavior-setclearchildviews-method-mspp-regions-behaviors
+">SetClearChildViews</a></td>
 <td><div class="summary">
 Sets the ClearChildViews attached property in a DependencyObject.
 </div></td>
@@ -142,14 +147,16 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.behaviorkey">BehaviorKey</a></td>
+<td><a href="/patterns-practices/reference/clearchildviewsregionbehavior-behaviorkey-field-mspp-regions-behaviors
+">BehaviorKey</a></td>
 <td><div class="summary">
 The behavior key.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public field](/patterns-practices/reference/images/public-field.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.clearchildviewsproperty">ClearChildViewsProperty</a></td>
+<td><a href="/patterns-practices/reference/clearchildviewsregionbehavior-clearchildviewsproperty-field-mspp-regions-behaviors
+">ClearChildViewsProperty</a></td>
 <td><div class="summary">
 This attached property can be defined on a view to indicate that regions defined in it must be removed from the region manager when the parent view gets removed from a region.
 </div></td>
@@ -172,19 +179,23 @@ This attached property can be defined on a view to indicate that regions defined
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.isattached">IsAttached</a></td>
+<td><a href="/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions
+">IsAttached</a></td>
 <td><div class="summary">
 Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions
+">RegionBehavior</a>.)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.region">Region</a></td>
+<td><a href="/patterns-practices/reference/regionbehavior-region-property-mspp-regions
+">Region</a></td>
 <td><div class="summary">
 Behavior's attached region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions
+">RegionBehavior</a>.)</td>
 </tr>
 </tbody>
 </table>
@@ -194,10 +205,10 @@ Behavior's attached region.
 
 |                                                                                                           | Name                                                                                                                                      | Description |
 |-----------------------------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------------------------------------------------------------|-------------|
-| ![Public attached property](/patterns-practices/reference/images/pubproperty.gif) | [ClearChildViews](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior.clearchildviews) |             |
+| ![Public attached property](/patterns-practices/reference/images/pubproperty.gif) | [ClearChildViews](/patterns-practices/reference/clearchildviewsregionbehavior-clearchildviews-attached-property-mspp-regions-behaviors) |             |
 
 ## See Also
 
-[ClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.clearchildviewsregionbehavior)
+[ClearChildViewsRegionBehavior Class](/patterns-practices/reference/clearchildviewsregionbehavior-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

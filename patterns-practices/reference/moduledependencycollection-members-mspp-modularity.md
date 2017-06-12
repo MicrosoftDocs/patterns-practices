@@ -8,7 +8,7 @@ ms:mtpsurl: 'moduledependencycollection-members-mspp-modularity.md'
 
 # ModuleDependencyCollection Members
 
-The [ModuleDependencyCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection) type exposes the following members.
+The [ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity) type exposes the following members.
 
 ## Constructors
 
@@ -27,14 +27,14 @@ The [ModuleDependencyCollection](https://msdn.microsoft.com/library/microsoft.pr
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>ModuleDependencyCollection</td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection">ModuleDependencyCollection</a>.
+Initializes a new instance of [ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity).
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>ModuleDependencyCollection(ModuleDependencyConfigurationElement())</td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection">ModuleDependencyCollection</a>.
+Initializes a new instance of [ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity).
 </div></td>
 </tr>
 </tbody>
@@ -55,363 +55,363 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/19tyhxbx">BaseAdd(ConfigurationElement)</a></td>
+<td>[BaseAdd(ConfigurationElement)](http://msdn.microsoft.com/en-us/library/19tyhxbx)</td>
 <td><div class="summary">
-Adds a configuration element to the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.
+Adds a configuration element to the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/94tzb2x4">BaseAdd(ConfigurationElement, Boolean)</a></td>
+<td>[BaseAdd(ConfigurationElement, Boolean)](http://msdn.microsoft.com/en-us/library/94tzb2x4)</td>
 <td><div class="summary">
 Adds a configuration element to the configuration element collection.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/09d36k3s">BaseAdd(Int32, ConfigurationElement)</a></td>
+<td>[BaseAdd(Int32, ConfigurationElement)](http://msdn.microsoft.com/en-us/library/09d36k3s)</td>
 <td><div class="summary">
 Adds a configuration element to the configuration element collection.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/b4yf3zw6">BaseClear</a></td>
+<td>[BaseClear](http://msdn.microsoft.com/en-us/library/b4yf3zw6)</td>
 <td><div class="summary">
 Removes all configuration element objects from the collection.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/e90fbaaw">BaseGet(Object)</a></td>
+<td>[BaseGet(Object)](http://msdn.microsoft.com/en-us/library/e90fbaaw)</td>
 <td><div class="summary">
 Returns the configuration element with the specified key.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/w493w5yy">BaseGet(Int32)</a></td>
+<td>[BaseGet(Int32)](http://msdn.microsoft.com/en-us/library/w493w5yy)</td>
 <td><div class="summary">
 Gets the configuration element at the specified index location.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/9ts4f970">BaseGetAllKeys</a></td>
+<td>[BaseGetAllKeys](http://msdn.microsoft.com/en-us/library/9ts4f970)</td>
 <td><div class="summary">
-Returns an array of the keys for all of the configuration elements contained in the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.
+Returns an array of the keys for all of the configuration elements contained in the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/zf0857te">BaseGetKey</a></td>
+<td>[BaseGetKey](http://msdn.microsoft.com/en-us/library/zf0857te)</td>
 <td><div class="summary">
-Gets the key for the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> at the specified index location.
+Gets the key for the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) at the specified index location.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/8byca88s">BaseIndexOf</a></td>
+<td>[BaseIndexOf](http://msdn.microsoft.com/en-us/library/8byca88s)</td>
 <td><div class="summary">
-Indicates the index of the specified <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.
+Indicates the index of the specified [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/wk5tz03f">BaseIsRemoved</a></td>
+<td>[BaseIsRemoved](http://msdn.microsoft.com/en-us/library/wk5tz03f)</td>
 <td><div class="summary">
-Indicates whether the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> with the specified key has been removed from the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.
+Indicates whether the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) with the specified key has been removed from the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/s4cs5s6w">BaseRemove</a></td>
+<td>[BaseRemove](http://msdn.microsoft.com/en-us/library/s4cs5s6w)</td>
 <td><div class="summary">
-Removes a <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> from the collection.
+Removes a [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) from the collection.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/wt92bf00">BaseRemoveAt</a></td>
+<td>[BaseRemoveAt](http://msdn.microsoft.com/en-us/library/wt92bf00)</td>
 <td><div class="summary">
-Removes the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> at the specified index location.
+Removes the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) at the specified index location.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/d22w8c80">CopyTo</a></td>
+<td>[CopyTo](http://msdn.microsoft.com/en-us/library/d22w8c80)</td>
 <td><div class="summary">
-Copies the contents of the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a> to an array.
+Copies the contents of the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et) to an array.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.createnewelement">CreateNewElement</a></td>
+<td>[CreateNewElement](/patterns-practices/reference/moduledependencycollection-createnewelement-method-mspp-modularity)</td>
 <td><div class="summary">
-Creates a new <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement">ModuleDependencyConfigurationElement</a>.
+Creates a new [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement).
 </div>
-(Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection.CreateNewElement</a>.)</td>
+(Overrides [ConfigurationElementCollection.CreateNewElement](http://msdn.microsoft.com/en-us/library/ak7z48w8).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ky49faah">CreateNewElement(String)</a></td>
+<td>[CreateNewElement(String)](http://msdn.microsoft.com/en-us/library/ky49faah)</td>
 <td><div class="summary">
-Creates a new <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> when overridden in a derived class.
+Creates a new [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) when overridden in a derived class.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134126">DeserializeElement</a></td>
+<td>[DeserializeElement](http://msdn.microsoft.com/en-us/library/ms134126)</td>
 <td><div class="summary">
 Reads XML from the configuration file.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/0eye6ky8">Equals</a></td>
+<td>[Equals](http://msdn.microsoft.com/en-us/library/0eye6ky8)</td>
 <td><div class="summary">
-Compares the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a> to the specified object.
+Compares the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et) to the specified object.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/4k87zsw7">Finalize</a></td>
+<td>[Finalize](http://msdn.microsoft.com/en-us/library/4k87zsw7)</td>
 <td><div class="summary">
 Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.getelementkey(system.configuration.configurationelement)">GetElementKey</a></td>
+<td>[GetElementKey](/patterns-practices/reference/moduledependencycollection-getelementkey-method-mspp-modularity)</td>
 <td><div class="summary">
 Gets the element key for a specified configuration element when overridden in a derived class.
 </div>
-(Overrides <a href="http://msdn.microsoft.com/en-us/library/bxcte21d">ConfigurationElementCollection.GetElementKey(ConfigurationElement)</a>.)</td>
+(Overrides [ConfigurationElementCollection.GetElementKey(ConfigurationElement)](http://msdn.microsoft.com/en-us/library/bxcte21d).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134159">GetEnumerator</a></td>
+<td>[GetEnumerator](http://msdn.microsoft.com/en-us/library/ms134159)</td>
 <td><div class="summary">
-Gets an <a href="http://msdn.microsoft.com/en-us/library/1t2267t6">IEnumerator</a> which is used to iterate through the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.
+Gets an [IEnumerator](http://msdn.microsoft.com/en-us/library/1t2267t6) which is used to iterate through the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/7w9k269c">GetHashCode</a></td>
+<td>[GetHashCode](http://msdn.microsoft.com/en-us/library/7w9k269c)</td>
 <td><div class="summary">
-Gets a unique value representing the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a> instance.
+Gets a unique value representing the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et) instance.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/dd642109">GetTransformedAssemblyString</a></td>
+<td>[GetTransformedAssemblyString](http://msdn.microsoft.com/en-us/library/dd642109)</td>
 <td><div class="summary">
 Returns the transformed version of the specified assembly name.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/dd642039">GetTransformedTypeString</a></td>
+<td>[GetTransformedTypeString](http://msdn.microsoft.com/en-us/library/dd642039)</td>
 <td><div class="summary">
 Returns the transformed version of the specified type name.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/dfwy45w9">GetType</a></td>
+<td>[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)</td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
+Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134128">Init</a></td>
+<td>[Init](http://msdn.microsoft.com/en-us/library/ms134128)</td>
 <td><div class="summary">
-Sets the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> object to its initial state.
+Sets the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) object to its initial state.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/9kaww10k">InitializeDefault</a></td>
+<td>[InitializeDefault](http://msdn.microsoft.com/en-us/library/9kaww10k)</td>
 <td><div class="summary">
-Used to initialize a default set of values for the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> object.
+Used to initialize a default set of values for the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) object.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/11833ks2">IsElementName</a></td>
+<td>[IsElementName](http://msdn.microsoft.com/en-us/library/11833ks2)</td>
 <td><div class="summary">
-Indicates whether the specified <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> exists in the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.
+Indicates whether the specified [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) exists in the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/00et13y9">IsElementRemovable</a></td>
+<td>[IsElementRemovable](http://msdn.microsoft.com/en-us/library/00et13y9)</td>
 <td><div class="summary">
-Indicates whether the specified <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> can be removed from the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.
+Indicates whether the specified [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) can be removed from the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/sdfx3fsd">IsModified</a></td>
+<td>[IsModified](http://msdn.microsoft.com/en-us/library/sdfx3fsd)</td>
 <td><div class="summary">
-Indicates whether this <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a> has been modified since it was last saved or loaded when overridden in a derived class.
+Indicates whether this [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et) has been modified since it was last saved or loaded when overridden in a derived class.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134160">IsReadOnly</a></td>
+<td>[IsReadOnly](http://msdn.microsoft.com/en-us/library/ms134160)</td>
 <td><div class="summary">
-Indicates whether the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a> object is read only.
+Indicates whether the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et) object is read only.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134130">ListErrors</a></td>
+<td>[ListErrors](http://msdn.microsoft.com/en-us/library/ms134130)</td>
 <td><div class="summary">
-Adds the invalid-property errors in this <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> object, and in all subelements, to the passed list.
+Adds the invalid-property errors in this [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) object, and in all subelements, to the passed list.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/57ctke0a">MemberwiseClone</a></td>
+<td>[MemberwiseClone](http://msdn.microsoft.com/en-us/library/57ctke0a)</td>
 <td><div class="summary">
-Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
+Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134131">OnDeserializeUnrecognizedAttribute</a></td>
+<td>[OnDeserializeUnrecognizedAttribute](http://msdn.microsoft.com/en-us/library/ms134131)</td>
 <td><div class="summary">
 Gets a value indicating whether an unknown attribute is encountered during deserialization.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134161">OnDeserializeUnrecognizedElement</a></td>
+<td>[OnDeserializeUnrecognizedElement](http://msdn.microsoft.com/en-us/library/ms134161)</td>
 <td><div class="summary">
 Causes the configuration system to throw an exception.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134133">OnRequiredPropertyNotFound</a></td>
+<td>[OnRequiredPropertyNotFound](http://msdn.microsoft.com/en-us/library/ms134133)</td>
 <td><div class="summary">
 Throws an exception when a required property is not found.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134134">PostDeserialize</a></td>
+<td>[PostDeserialize](http://msdn.microsoft.com/en-us/library/ms134134)</td>
 <td><div class="summary">
 Called after deserialization.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134135">PreSerialize</a></td>
+<td>[PreSerialize](http://msdn.microsoft.com/en-us/library/ms134135)</td>
 <td><div class="summary">
 Called before serialization.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134162">Reset</a></td>
+<td>[Reset](http://msdn.microsoft.com/en-us/library/ms134162)</td>
 <td><div class="summary">
-Resets the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a> to its unmodified state when overridden in a derived class.
+Resets the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et) to its unmodified state when overridden in a derived class.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/5t09d48z">ResetModified</a></td>
+<td>[ResetModified](http://msdn.microsoft.com/en-us/library/5t09d48z)</td>
 <td><div class="summary">
-Resets the value of the <a href="http://msdn.microsoft.com/en-us/library/sdfx3fsd">IsModified</a> property to false when overridden in a derived class.
+Resets the value of the [IsModified](http://msdn.microsoft.com/en-us/library/sdfx3fsd) property to false when overridden in a derived class.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134163">SerializeElement</a></td>
+<td>[SerializeElement](http://msdn.microsoft.com/en-us/library/ms134163)</td>
 <td><div class="summary">
 Writes the configuration data to an XML element in the configuration file when overridden in a derived class.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/yxcx3y27">SerializeToXmlElement</a></td>
+<td>[SerializeToXmlElement](http://msdn.microsoft.com/en-us/library/yxcx3y27)</td>
 <td><div class="summary">
 Writes the outer tags of this configuration element to the configuration file when implemented in a derived class.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms224426">SetPropertyValue</a></td>
+<td>[SetPropertyValue](http://msdn.microsoft.com/en-us/library/ms224426)</td>
 <td><div class="summary">
 Sets a property to the specified value.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134164">SetReadOnly</a></td>
+<td>[SetReadOnly](http://msdn.microsoft.com/en-us/library/ms134164)</td>
 <td><div class="summary">
-Sets the <a href="http://msdn.microsoft.com/en-us/library/ms134160">IsReadOnly</a> property for the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a> object and for all sub-elements.
+Sets the [IsReadOnly](http://msdn.microsoft.com/en-us/library/ms134160) property for the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et) object and for all sub-elements.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">ToString</a></td>
+<td>[ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)</td>
 <td><div class="summary">
 Returns a string that represents the current object.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms224411">Unmerge</a></td>
+<td>[Unmerge](http://msdn.microsoft.com/en-us/library/ms224411)</td>
 <td><div class="summary">
 Reverses the effect of merging configuration information from different levels of the configuration hierarchy
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 </tbody>
 </table>
@@ -431,200 +431,200 @@ Reverses the effect of merging configuration information from different levels o
 <tbody>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134167">AddElementName</a></td>
+<td>[AddElementName](http://msdn.microsoft.com/en-us/library/ms134167)</td>
 <td><div class="summary">
-Gets or sets the name of the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> to associate with the add operation in the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a> when overridden in a derived class.
+Gets or sets the name of the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) to associate with the add operation in the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et) when overridden in a derived class.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134168">ClearElementName</a></td>
+<td>[ClearElementName](http://msdn.microsoft.com/en-us/library/ms134168)</td>
 <td><div class="summary">
-Gets or sets the name for the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> to associate with the clear operation in the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a> when overridden in a derived class.
+Gets or sets the name for the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) to associate with the clear operation in the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et) when overridden in a derived class.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.collectiontype">CollectionType</a></td>
+<td>[CollectionType](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.collectiontype)</td>
 <td><div class="summary">
-Gets the type of the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.
+Gets the type of the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).
 </div>
-(Overrides <a href="http://msdn.microsoft.com/en-us/library/x4skd9kd">ConfigurationElementCollection.CollectionType</a>.)</td>
+(Overrides [ConfigurationElementCollection.CollectionType](http://msdn.microsoft.com/en-us/library/x4skd9kd).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/yf0s34t1">Count</a></td>
+<td>[Count](http://msdn.microsoft.com/en-us/library/yf0s34t1)</td>
 <td><div class="summary">
 Gets the number of elements in the collection.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/dd412601">CurrentConfiguration</a></td>
+<td>[CurrentConfiguration](http://msdn.microsoft.com/en-us/library/dd412601)</td>
 <td><div class="summary">
-Gets a reference to the top-level <a href="http://msdn.microsoft.com/en-us/library/s7kc101z">Configuration</a> instance that represents the configuration hierarchy that the current <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> instance belongs to.
+Gets a reference to the top-level [Configuration](http://msdn.microsoft.com/en-us/library/s7kc101z) instance that represents the configuration hierarchy that the current [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) instance belongs to.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134142">ElementInformation</a></td>
+<td>[ElementInformation](http://msdn.microsoft.com/en-us/library/ms134142)</td>
 <td><div class="summary">
-Gets an <a href="http://msdn.microsoft.com/en-us/library/ms134413">ElementInformation</a> object that contains the non-customizable information and functionality of the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> object.
+Gets an [ElementInformation](http://msdn.microsoft.com/en-us/library/ms134413) object that contains the non-customizable information and functionality of the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) object.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.elementname">ElementName</a></td>
+<td>[ElementName](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.elementname)</td>
 <td><div class="summary">
 Gets the name used to identify this collection of elements in the configuration file when overridden in a derived class.
 </div>
-(Overrides <a href="http://msdn.microsoft.com/en-us/library/8f06bh6s">ConfigurationElementCollection.ElementName</a>.)</td>
+(Overrides [ConfigurationElementCollection.ElementName](http://msdn.microsoft.com/en-us/library/8f06bh6s).)</td>
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134143">ElementProperty</a></td>
+<td>[ElementProperty](http://msdn.microsoft.com/en-us/library/ms134143)</td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/ms134174">ConfigurationElementProperty</a> object that represents the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> object itself.
+Gets the [ConfigurationElementProperty](http://msdn.microsoft.com/en-us/library/ms134174) object that represents the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) object itself.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/adedfexe">EmitClear</a></td>
+<td>[EmitClear](http://msdn.microsoft.com/en-us/library/adedfexe)</td>
 <td><div class="summary">
 Gets or sets a value that specifies whether the collection has been cleared.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134144">EvaluationContext</a></td>
+<td>[EvaluationContext](http://msdn.microsoft.com/en-us/library/ms134144)</td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/ms134368">ContextInformation</a> object for the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> object.
+Gets the [ContextInformation](http://msdn.microsoft.com/en-us/library/ms134368) object for the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) object.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/hh136640">HasContext</a></td>
+<td>[HasContext](http://msdn.microsoft.com/en-us/library/hh136640)</td>
 <td><div class="summary">
-Gets a value that indicates whether the <a href="http://msdn.microsoft.com/en-us/library/dd412601">CurrentConfiguration</a> property is null.
+Gets a value that indicates whether the [CurrentConfiguration](http://msdn.microsoft.com/en-us/library/dd412601) property is null.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134169">IsSynchronized</a></td>
+<td>[IsSynchronized](http://msdn.microsoft.com/en-us/library/ms134169)</td>
 <td><div class="summary">
 Gets a value indicating whether access to the collection is synchronized.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/es150ftc">Item(ConfigurationProperty)</a></td>
+<td>[Item(ConfigurationProperty)](http://msdn.microsoft.com/en-us/library/es150ftc)</td>
 <td><div class="summary">
 Gets or sets a property or attribute of this configuration element.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/c8693ks1">Item(String)</a></td>
+<td>[Item(String)](http://msdn.microsoft.com/en-us/library/c8693ks1)</td>
 <td><div class="summary">
 Gets or sets a property, attribute, or child element of this configuration element.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.item(system.int32)">Item(Int32)</a></td>
+<td>[Item(Int32)](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection.item(system.int32))</td>
 <td><div class="summary">
-Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement">ModuleDependencyConfigurationElement</a> located at the specified index in the collection.
+Gets the [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement) located at the specified index in the collection.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134146">LockAllAttributesExcept</a></td>
+<td>[LockAllAttributesExcept](http://msdn.microsoft.com/en-us/library/ms134146)</td>
 <td><div class="summary">
 Gets the collection of locked attributes.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134147">LockAllElementsExcept</a></td>
+<td>[LockAllElementsExcept](http://msdn.microsoft.com/en-us/library/ms134147)</td>
 <td><div class="summary">
 Gets the collection of locked elements.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134148">LockAttributes</a></td>
+<td>[LockAttributes](http://msdn.microsoft.com/en-us/library/ms134148)</td>
 <td><div class="summary">
 Gets the collection of locked attributes
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134149">LockElements</a></td>
+<td>[LockElements](http://msdn.microsoft.com/en-us/library/ms134149)</td>
 <td><div class="summary">
 Gets the collection of locked elements.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134150">LockItem</a></td>
+<td>[LockItem](http://msdn.microsoft.com/en-us/library/ms134150)</td>
 <td><div class="summary">
 Gets or sets a value indicating whether the element is locked.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/3kx8tt8d">Properties</a></td>
+<td>[Properties](http://msdn.microsoft.com/en-us/library/3kx8tt8d)</td>
 <td><div class="summary">
 Gets the collection of properties.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134170">RemoveElementName</a></td>
+<td>[RemoveElementName](http://msdn.microsoft.com/en-us/library/ms134170)</td>
 <td><div class="summary">
-Gets or sets the name of the <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> to associate with the remove operation in the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a> when overridden in a derived class.
+Gets or sets the name of the [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) to associate with the remove operation in the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et) when overridden in a derived class.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ms134171">SyncRoot</a></td>
+<td>[SyncRoot](http://msdn.microsoft.com/en-us/library/ms134171)</td>
 <td><div class="summary">
-Gets an object used to synchronize access to the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.
+Gets an object used to synchronize access to the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ea6s6hb8">ThrowOnDuplicate</a></td>
+<td>[ThrowOnDuplicate](http://msdn.microsoft.com/en-us/library/ea6s6hb8)</td>
 <td><div class="summary">
-Gets a value indicating whether an attempt to add a duplicate <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> to the <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a> will cause an exception to be thrown.
+Gets a value indicating whether an attempt to add a duplicate [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) to the [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et) will cause an exception to be thrown.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
+[ModuleDependencyCollection Class](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

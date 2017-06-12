@@ -33,6 +33,8 @@ public virtual void Initialize()
 |-------------------------------------------------------------------------------------------------------------------------------------------------------|----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
 | [Microsoft.Practices.Prism.Modularity.ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity) | When validation of the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) fails, because this method calls [Validate()](/patterns-practices/reference/modulecatalog-validate-method-mspp-modularity). |
 
+
+
 ```VB
 'Declaration
 Public Overridable Sub Initialize

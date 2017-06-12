@@ -4,16 +4,19 @@ Title: 'ModuleCatalog.AddGroup Method (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.AddGroup(Microsoft.Practices.Prism.Modularity.InitializationMode,System.String,Microsoft.Practices.Prism.Modularity.ModuleInfo[])'
 ms:mtpsurl: 'modulecatalog-addgroup-method-mspp-modularity.md'
 ---
+
 # ModuleCatalog.AddGroup Method
 
 Creates and adds a [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity) to the catalog.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public virtual ModuleCatalog AddGroup(
 	InitializationMode initializationMode,
@@ -36,10 +39,6 @@ Reference to the location of the module group to be added.
 Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)[]  
 Collection of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) included in the group.
 
-### Return Value
-
-Type: [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity)  
-[ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) with the added module group.
 
 ```VB
 'Declaration
@@ -71,8 +70,10 @@ Type: [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-mod
 
 ## See Also
 
-[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)  
-[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)  
+[ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)
+
+[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)
+
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
 
 

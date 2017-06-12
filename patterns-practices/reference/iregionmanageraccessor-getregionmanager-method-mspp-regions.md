@@ -9,7 +9,7 @@ ms:mtpsurl: 'iregionmanageraccessor-getregionmanager-method-mspp-regions.md'
 
 Gets the value of the RegionName attached property.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,19 +32,22 @@ Function GetRegionManager (
 
 ### Parameters
 
-*element*<br/>
-Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)<br/>
+*element*
+
+Type: [System.Windows.DependencyObject](http://msdn.microsoft.com/en-us/library/ms589309)
+
 The target element.
 
 ### Return Value
 
-Type: [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager)<br/>
-The [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager) attached to the element element.
+Type: [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)
+
+The [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions) attached to the element element.
 
 ## See Also
 
-[IRegionManagerAccessor Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanageraccessor)
+[IRegionManagerAccessor Interface](/patterns-practices/reference/iregionmanageraccessor-interface-mspp-regions)
 
-[IRegionManagerAccessor Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanageraccessor_members(v=pandp.50))
+[IRegionManagerAccessor Members](/patterns-practices/reference/iregionmanageraccessor-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

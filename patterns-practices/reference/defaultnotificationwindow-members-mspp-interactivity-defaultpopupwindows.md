@@ -8,7 +8,7 @@ ms:mtpsurl: 'defaultnotificationwindow-members-mspp-interactivity-defaultpopupwi
 
 # DefaultNotificationWindow Members
 
-The [DefaultNotificationWindow](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow) type exposes the following members.
+The [DefaultNotificationWindow](/patterns-practices/reference/defaultnotificationwindow-class-mspp-interactivity-defaultpopupwindows) type exposes the following members.
 
 ## Constructors
 
@@ -25,9 +25,11 @@ The [DefaultNotificationWindow](https://msdn.microsoft.com/library/microsoft.pra
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow">DefaultNotificationWindow</a></td>
+<td><a href="/patterns-practices/reference/defaultnotificationwindow-class-mspp-interactivity-defaultpopupwindows
+">DefaultNotificationWindow</a></td>
 <td><div class="summary">
-Creates a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow">DefaultNotificationWindow</a>
+Creates a new instance of <a href="/patterns-practices/reference/defaultnotificationwindow-class-mspp-interactivity-defaultpopupwindows
+">DefaultNotificationWindow</a>
 </div></td>
 </tr>
 </tbody>
@@ -4022,6 +4024,6 @@ Occurs when the element is removed from within an element tree of loaded element
 
 ## See Also
 
-[DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
+[DefaultNotificationWindow Class](/patterns-practices/reference/defaultnotificationwindow-class-mspp-interactivity-defaultpopupwindows)
 
-[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
+[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)
