@@ -18,39 +18,43 @@ Returns the adapter associated with the type provided.
 
 ## Syntax
 
-~~~C#
+```C#
 public IRegionAdapter GetMapping(
 	Type controlType
 )
-~~~
-~~~VB
+```
+
+```VB
 'Declaration
 Public Function GetMapping ( 
 	controlType As Type
 ) As IRegionAdapter
-~~~
+```
 
 ### Parameters
 
-_controlType_  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)  
-The type to obtain the [IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions) mapped.
+*controlType*
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The type to obtain the [IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions) mapped.
 
 ### Return Value
 
 Type: [IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions)  
-The [IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions) mapped to the _controlType_.
+
+The [IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions) mapped to the *controlType*.
 
 ## Remarks
 
-This class will look for a registered type for _controlType_ and if there is not any, it will look for a registered type for any of its ancestors in the class hierarchy. If there is no registered type for _controlType_ or any of its ancestors, an exception will be thrown.
+This class will look for a registered type for *controlType* and if there is not any, it will look for a registered type for any of its ancestors in the class hierarchy. If there is no registered type for *controlType* or any of its ancestors, an exception will be thrown.
 
 ## Exceptions
 
 
 | Exception                                                                                                | Condition                                                                 |
 |----------------------------------------------------------------------------------------------------------|---------------------------------------------------------------------------|
-| [System.Collections.Generic.KeyNotFoundException](http://msdn.microsoft.com/en-us/library/9a35cy81) | When there is no registered type for _controlType_ or any of its ancestors. |
+| [System.Collections.Generic.KeyNotFoundException](http://msdn.microsoft.com/en-us/library/9a35cy81) | When there is no registered type for *controlType* or any of its ancestors. |
 
 ## See Also
 

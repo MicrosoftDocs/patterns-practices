@@ -70,15 +70,27 @@ Notifies listeners that a property value has changed.
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
+<td><a href="/patterns-practices/reference/bindablebase-onpropertychanged-t-method-expression-func-t-mspp-mvvm
+">OnPropertyChanged(Of T)(Expression(Of Func(Of T)))</a></td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
+<td><a href="/patterns-practices/reference/bindablebase-onpropertychanged-method-mspp-mvvm">OnPropertyChanged&lt;(Of &lt;(T&gt;)&gt;)(Expression&lt;(Of &lt;(Func&lt;(Of &lt;(T&gt;)&gt;)&gt;)&gt;))</a></td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[OnPropertyChanged&lt;T&gt;(Expression&lt;Func&lt;T&gt;&gt;)](https://review.docs.microsoft.com/patterns-practices/reference/bindablebase-onpropertychanged-t-method-expression-func-t-mspp-mvvm
 )</td>
+
 <td><div class="summary">
 Raises this object's PropertyChanged event.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
+
+<td><a href="/patterns-practices/reference/bindablebase-setproperty-t-method-mspp-mvvm)">SetProperty(Of T)</a></td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
+<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase.setproperty">SetProperty&lt;(Of &lt;(T&gt;)&gt;)</a></td>
+
 <td>[SetProperty&lt;T&gt;](https://review.docs.microsoft.com/patterns-practices/reference/bindablebase-setproperty-t-method-mspp-mvvm))</td>
+
 <td><div class="summary">
 Checks if a property already matches a desired value. Sets the property and notifies listeners only when necessary.
 </div></td>

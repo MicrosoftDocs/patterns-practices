@@ -25,14 +25,16 @@ public IRegion Initialize( T regionTarget, string regionName )
 ### Parameters
 
 *regionTarget*  
-Type: [T](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)
 
-The object to adapt.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [T](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The object to adapt.
 
 *regionName*  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-The name of the region to be created.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The name of the region to be created.
 
 ### Return Value
 
@@ -70,15 +72,15 @@ Public Function Initialize ( regionTarget As T, regionName As String ) As IRegio
 
 *regionTarget*
 
-Type: [T](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [T](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)
 
-The object to adapt.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The object to adapt.
 
 *regionName*  
 
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-The name of the region to be created.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The name of the region to be created.
 
 ### Return Value
 

@@ -18,20 +18,22 @@ Creates an instance of the behavior [Type](http://msdn.microsoft.com/en-us/libra
 
 ## Syntax
 
-~~~C#
+```C#
 public IRegionBehavior CreateFromKey(
 	string key
 )
-~~~
-~~~VB
+```
+
+```VB
 'Declaration
 Public Function CreateFromKey ( 
 	key As String
 ) 
-~~~
+```
+
 ### Parameters
 
-_key_  
+*key*  
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The key that is used to register a behavior type.
 
