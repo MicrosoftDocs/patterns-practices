@@ -5,40 +5,49 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionBehaviorFactory.Contains
 ms:mtpsurl: 'iregionbehaviorfactory-containskey-method-mspp-regions.md'
 ---
 
-Prism Class Library
-
-IRegionBehaviorFactory.ContainsKey Method
-=============================================
+# IRegionBehaviorFactory.ContainsKey Method
 
 Determines whether a behavior with the specified key already exists
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
 
+```C#
+bool ContainsKey(
+	string behaviorKey
+)
+```
 
-bool ContainsKey( string behaviorKey )Function ContainsKey ( behaviorKey As String ) As Boolean
+```VB
+'Declaration
+Function ContainsKey ( 
+	behaviorKey As String
+) As Boolean
+```
 
 ### Parameters
 
 behaviorKey  
+
 Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+
 The behavior key.
 
 ### Return Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
-trueTruetruetrue (True in Visual Basic) if a behavior with the specified key is present; otherwise, falseFalsefalsefalse (False in Visual Basic).
 
-See Also
---------
+**Truetrue** (**True** in Visual Basic) if a behavior with the specified key is present; otherwise, **Falsefalse** (**False** in Visual Basic).
 
+## See Also
 
-[IRegionBehaviorFactory Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory)
+[IRegionBehaviorFactory Interface](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions)
 
-[IRegionBehaviorFactory Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionbehaviorfactory)
+[IRegionBehaviorFactory Members](/patterns-practices/reference/iregionbehaviorfactory-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

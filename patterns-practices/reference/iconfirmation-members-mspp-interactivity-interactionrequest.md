@@ -8,7 +8,7 @@ ms:mtpsurl: 'iconfirmation-members-mspp-interactivity-interactionrequest.md'
 
 # IConfirmation Members
 
-The [IConfirmation](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation) type exposes the following members.
+The [IConfirmation](/patterns-practices/reference/iconfirmation-interface-mspp-interactivity-interactionrequest) type exposes the following members.
 
 ## Properties
 
@@ -25,32 +25,37 @@ The [IConfirmation](https://msdn.microsoft.com/library/microsoft.practices.prism
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation.confirmed">Confirmed</a></td>
+<td><a href="/patterns-practices/reference/iconfirmation-confirmed-property-mspp-interactivity-interactionrequest
+">Confirmed</a></td>
 <td><div class="summary">
 Gets or sets a value indicating that the confirmation is confirmed.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification.content">Content</a></td>
+<td><a href="/patterns-practices/reference/inotification-content-property-mspp-interactivity-interactionrequest
+">Content</a></td>
 <td><div class="summary">
 Gets or sets the content of the notification.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification">INotification</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest
+">INotification</a>.)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification.title">Title</a></td>
+<td><a href="/patterns-practices/reference/inotification-title-property-mspp-interactivity-interactionrequest
+">Title</a></td>
 <td><div class="summary">
 Gets or sets the title to use for the notification.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification">INotification</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest
+">INotification</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[IConfirmation Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.iconfirmation)
+[IConfirmation Interface](/patterns-practices/reference/iconfirmation-interface-mspp-interactivity-interactionrequest)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

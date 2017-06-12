@@ -9,7 +9,7 @@ ms:mtpsurl: 'iregionnavigationjournal-recordnavigation-method-mspp-regions.md'
 
 Records the navigation to the entry..
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,14 +32,18 @@ Sub RecordNavigation (
 
 ### Parameters
 
-*entry*</br>
-Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournalentry)</br>
+*entry*
+
+Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationJournalEntry](/patterns-practices/reference/iregionnavigationjournalentry-interface-mspp-regions)
+
 The entry to record.
 
 ## See Also
 
-[IRegionNavigationJournal Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationjournal)
+[IRegionNavigationJournal Interface](/patterns-practices/reference/iregionnavigationjournal-interface-mspp-regions)
 
-[IRegionNavigationJournal Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionnavigationjournal_members(v=pandp.50))
+[IRegionNavigationJournal Members](/patterns-practices/reference/iregionnavigationjournal-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+
+

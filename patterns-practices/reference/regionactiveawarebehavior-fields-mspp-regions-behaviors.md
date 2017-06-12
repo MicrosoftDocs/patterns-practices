@@ -8,7 +8,7 @@ ms:mtpsurl: 'regionactiveawarebehavior-fields-mspp-regions-behaviors.md'
 
 # RegionActiveAwareBehavior Fields
 
-The [RegionActiveAwareBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior) type exposes the following members.
+The [RegionActiveAwareBehavior](/patterns-practices/reference/regionactiveawarebehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Fields
 
@@ -25,9 +25,9 @@ The [RegionActiveAwareBehavior](https://msdn.microsoft.com/library/microsoft.pra
 <tbody>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td>[BehaviorKey](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior.behaviorkey)</td>
+<td>[BehaviorKey](/patterns-practices/reference/regionactiveawarebehavior-behaviorkey-field-mspp-regions-behaviors)</td>
 <td><div class="summary">
-Name that identifies the [RegionActiveAwareBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior) behavior in a collection of [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior).
+Name that identifies the [RegionActiveAwareBehavior](/patterns-practices/reference/regionactiveawarebehavior-class-mspp-regions-behaviors) behavior in a collection of [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions).
 </div></td>
 </tr>
 </tbody>
@@ -35,6 +35,6 @@ Name that identifies the [RegionActiveAwareBehavior](https://msdn.microsoft.com/
 
 ## See Also
 
-[RegionActiveAwareBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior)
+[RegionActiveAwareBehavior Class](/patterns-practices/reference/regionactiveawarebehavior-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

@@ -23,7 +23,8 @@ Creates a new instance of [DefaultNotificationWindow](/patterns-practices/refere
 ```
 
 ```VB
-   public DefaultNotificationWindow()
+   'Declaration
+Public Sub New
 ```
 
 ## See Also

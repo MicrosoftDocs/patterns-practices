@@ -9,7 +9,7 @@ ms:mtpsurl: 'iregionbehaviorfactory-createfromkey-method-mspp-regions.md'
 
 Creates an instance of the Behaviortype that's registered using the specified key.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -32,19 +32,22 @@ Function CreateFromKey (
 
 ### Parameters
 
-*key*<br/>
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)<br/>
+*key*
+
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+
 The key that's used to register a behavior type.
 
 ### Return Value
 
-Type: [IRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehavior)<br/>
+Type: [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)
+
 The created behavior.
 
 ## See Also
 
-[IRegionBehaviorFactory Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory)
+[IRegionBehaviorFactory Interface](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions)
 
-[IRegionBehaviorFactory Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehaviorfactory_members(v=pandp.50))
+[IRegionBehaviorFactory Members](/patterns-practices/reference/iregionbehaviorfactory-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

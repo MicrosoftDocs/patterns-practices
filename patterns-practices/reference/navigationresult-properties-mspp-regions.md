@@ -23,21 +23,21 @@ The [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Context](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.context)</td>
+<td>[Context](/patterns-practices/reference/navigationresult-context-property-mspp-regions)</td>
 <td><div class="summary">
 Gets the navigation context.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Error](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.error)</td>
+<td>[Error](/patterns-practices/reference/navigationresult-error-property-mspp-regions)</td>
 <td><div class="summary">
 Gets an exception that occurred while navigating.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td>[Result](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationresult.result)</td>
+<td>[Result](/patterns-practices/reference/navigationresult-result-property-mspp-regions)</td>
 <td><div class="summary">
 Gets the result.
 </div></td>

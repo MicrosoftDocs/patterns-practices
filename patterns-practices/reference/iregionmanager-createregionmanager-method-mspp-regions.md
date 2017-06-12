@@ -1,4 +1,4 @@
----
+    ---
 TOCTitle: CreateRegionManager Method
 Title: 'IRegionManager.CreateRegionManager Method (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.Regions.IRegionManager.CreateRegionManager'
@@ -9,7 +9,7 @@ ms:mtpsurl: 'iregionmanager-createregionmanager-method-mspp-regions.md'
 
 Creates a new region manager.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -28,13 +28,14 @@ Function CreateRegionManager As IRegionManager
 
 ### Return Value
 
-Type: [IRegionManager](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager)<br/>
+Type: [IRegionManager](/patterns-practices/reference/iregionmanager-interface-mspp-regions)
+
 A new region manager that can be used as a different scope from the current region manager.
 
 ## See Also
 
-[IRegionManager Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionmanager)
+[IRegionManager Interface](/patterns-practices/reference/iregionmanager-interface-mspp-regions)
 
-[IRegionManager Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionmanager_members(v=pandp.50))
+[IRegionManager Members](/patterns-practices/reference/iregionmanager-members-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

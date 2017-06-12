@@ -7,9 +7,9 @@ ms:mtpsurl: 'iregionbehaviorcollection-containskey-method-mspp-regions.md'
 
 # IRegionBehaviorCollection.ContainsKey Method
 
-Checks if a [IRegionBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior(v=pandp.38)) with the specified key is already present.
+Checks if a [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions) with the specified key is already present.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.38))
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism (in Microsoft.Practices.Prism.dll)
 
@@ -30,14 +30,18 @@ Function ContainsKey ( _
 
 ### Parameters
 
-key  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)<br/>
-The key to use to find a particular [IRegionBehavior](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehavior(v=pandp.38)).
+*key* 
+
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+
+The key to use to find a particular [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions).
 
 ### Return Value
 
 ## See Also
 
-[IRegionBehaviorCollection Interface](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions.iregionbehaviorcollection(v=pandp.38))
+[IRegionBehaviorCollection Interface](/patterns-practices/reference/iregionbehaviorcollection-interface-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.regions(v=pandp.38))
+[IRegionBehaviorCollection Members](/patterns-practices/reference/iregionbehaviorcollection-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

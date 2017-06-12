@@ -4,20 +4,32 @@ Title: 'IRegionNavigationService Interface (Microsoft.Practices.Prism.Regions)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Regions.IRegionNavigationService'
 ms:mtpsurl: 'iregionnavigationservice-interface-mspp-regions.md'
 ---
-
+
 # IRegionNavigationService Interface
 
 Provides navigation for regions.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public interface IRegionNavigationService : INavigateAsyncPublic Interface IRegionNavigationService Inherits INavigateAsync
+```C#
+public interface IRegionNavigationService : INavigateAsync
+```
+
+```VB
+'Declaration
+Public Interface IRegionNavigationService
+	Inherits INavigateAsync
+```
+
+public interface IRegionNavigationService : INavigateAsyncPublic Interface IRegionNavigationService Inherits INavigateAsync
 
 ## See Also
-[IRegionNavigationService Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionnavigationservice)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[IRegionNavigationService Members](/patterns-practices/reference/iregionnavigationservice-members-mspp-regions)
+
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

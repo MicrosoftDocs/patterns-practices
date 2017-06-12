@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.Sort(System.Co
 ms:mtpsurl: 'modulecatalog-sort-method-mspp-modularity.md'
 ---
 
-
 # ModuleCatalog.Sort Method
 
 Sorts a list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s. This method is called by [CompleteListWithDependencies(IEnumerable&lt;ModuleInfo&gt;)](/patterns-practices/reference/modulecatalog-completelistwithdependencies-method-mspp-modularity) to return a sorted list.
@@ -32,8 +31,11 @@ The [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
 
 ### Return Value
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)&gt;<br/>
-Sorted list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s
+Sorted list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
 
+
+
+# ModuleCatalog.Sort Method
 
 Sorts a list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s. This method is called by [CompleteListWithDependencies(IEnumerable(of ModuleInfo))](/patterns-practices/reference/modulecatalog-completelistwithdependencies-method-mspp-modularity) to return a sorted list.
 

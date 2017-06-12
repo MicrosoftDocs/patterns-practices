@@ -4,7 +4,8 @@ Title: 'ModuleTypeLoadingException Class (Microsoft.Practices.Prism.Modularity)'
 ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException'
 ms:mtpsurl: 'moduletypeloadingexception-class-mspp-modularity.md'
 ---
-
+
+
 # ModuleTypeLoadingException Class
 
 Exception thrown by [IModuleManager](/patterns-practices/reference/imodulemanager-interface-mspp-modularity) implementations whenever a module fails to retrieve.
@@ -31,10 +32,10 @@ Public Class ModuleTypeLoadingException
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-  [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)<br/>
-    [Microsoft.Practices.Prism.Modularity.ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+[System.Exception](http://msdn2.microsoft.com/en-us/library/c18k6c59)  
+[Microsoft.Practices.Prism.Modularity.ModularityException](/patterns-practices/reference/modularityexception-class-mspp-modularity)   
+Microsoft.Practices.Prism.Modularity.ModuleTypeLoadingException
 
 ## See Also
 

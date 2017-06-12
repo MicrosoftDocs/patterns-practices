@@ -33,9 +33,9 @@ Function GetView (
 
 *viewName*
 
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-The name used when adding the view to the region.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;he name used when adding the view to the region.
 
 ### Return Value
 

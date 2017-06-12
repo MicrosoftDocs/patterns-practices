@@ -8,10 +8,9 @@ ms:mtpsurl: 'bindregioncontexttodependencyobjectbehavior-fields-mspp-regions-beh
 
 # BindRegionContextToDependencyObjectBehavior Fields
 
-The [BindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior) type exposes the following members.
+The [BindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors) type exposes the following members.
 
 ## Fields
-
 
 <table>
 
@@ -25,7 +24,7 @@ The [BindRegionContextToDependencyObjectBehavior](https://msdn.microsoft.com/lib
 <tbody>
 <tr class="odd">
 <td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td>[BehaviorKey](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior.behaviorkey)</td>
+<td>[BehaviorKey](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-behaviorkey-field-mspp-regions-behaviors)</td>
 <td><div class="summary">
 The key of this behavior.
 </div></td>
@@ -35,6 +34,6 @@ The key of this behavior.
 
 ## See Also
 
-[BindRegionContextToDependencyObjectBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.bindregioncontexttodependencyobjectbehavior)
+[BindRegionContextToDependencyObjectBehavior Class](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors)
 
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors)
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

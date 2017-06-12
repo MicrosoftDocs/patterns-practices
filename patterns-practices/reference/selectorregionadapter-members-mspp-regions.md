@@ -8,7 +8,7 @@ ms:mtpsurl: 'selectorregionadapter-members-mspp-regions.md'
 
 # SelectorRegionAdapter Members
 
-The [SelectorRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.selectorregionadapter) type exposes the following members.
+The [SelectorRegionAdapter](/patterns-practices/reference/selectorregionadapter-class-mspp-regions) type exposes the following members.
 
 ## Constructors
 
@@ -26,19 +26,16 @@ The [SelectorRegionAdapter](https://msdn.microsoft.com/library/microsoft.practic
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.selectorregionadapter">SelectorRegionAdapter</a></td>
-
-<td>[SelectorRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.selectorregionadapter.)</td>
+<td>SelectorRegionAdapter</td>
 
 <td><div class="summary">
-Initializes a new instance of [SelectorRegionAdapter](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.selectorregionadapter).
+Initializes a new instance of [SelectorRegionAdapter](/patterns-practices/reference/selectorregionadapter-class-mspp-regions).
 </div></td>
 </tr>
 </tbody>
 </table>
 
 ## Methods
-
 
 <table>
 
@@ -53,9 +50,7 @@ Initializes a new instance of [SelectorRegionAdapter](https://msdn.microsoft.com
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.selectorregionadapter.adapt">Adapt</a></td>
-
-<td>[Adapt](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.selectorregionadapter.adapt(microsoft.practices.prism.regions.iregion%2csystem.windows.controls.primitives.selector))</td>
+<td>[Adapt](/patterns-practices/reference/selectorregionadapter-adapt-method-mspp-regions)</td>
 
 <td><div class="summary">
 Adapts an [Selector](http://msdn.microsoft.com/en-us/library/ms595227) to an [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion).
@@ -138,15 +133,11 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/regionadapterbase-t-class-mspp-regions">Initialize</a></td>
-
 <td>[Initialize](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.initialize(%600%2csystem.string))</td>
-
 <td><div class="summary">
 Adapts an object and binds it to a new [IRegion](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregion).
 </div>
 (Inherited from <a href="https://review.docs.microsoft.com/patterns-practices/reference/regionadapterbase-t-class-mspp-regions">RegionAdapterBase&lt;T&gt;</a>.)</td>
-(Inherited from [RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -187,11 +178,6 @@ Returns a string that represents the current object.
 Gets or sets the factory used to create the region behaviors to attach to the created regions.
 </div>
 (Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase">RegionAdapterBase&lt;T&gt;</a>.)</td>
-<td>[RegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601.regionbehaviorfactory)</td>
-<td><div class="summary">
-Gets or sets the factory used to create the region behaviors to attach to the created regions.
-</div>
-[Inherited from [RegionAdapterBase&lt;(Of &lt;(T&gt;)&gt;)](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionadapterbase%601).)</td>
 </tr>
 </tbody>
 </table>

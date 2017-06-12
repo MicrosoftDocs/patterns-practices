@@ -8,7 +8,7 @@ ms:mtpsurl: 'iregionbehaviorfactory-members-mspp-regions.md'
 
 # IRegionBehaviorFactory Members
 
-The [IRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory) type exposes the following members.
+The [IRegionBehaviorFactory](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions) type exposes the following members.
 
 ## Methods
 
@@ -25,21 +25,24 @@ The [IRegionBehaviorFactory](https://msdn.microsoft.com/library/microsoft.practi
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory.addifmissing">AddIfMissing</a></td>
+<td><a href="/patterns-practices/reference/iregionbehaviorfactory-addifmissing-method-mspp-regions
+">AddIfMissing</a></td>
 <td><div class="summary">
 Adds a particular type of RegionBehavior if it was not already registered. the behaviorKey string is used to check if the behavior is already present
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory.containskey">ContainsKey</a></td>
+<td><a href="/patterns-practices/reference/iregionbehaviorfactory-containskey-method-mspp-regions
+">ContainsKey</a></td>
 <td><div class="summary">
 Determines whether a behavior with the specified key already exists
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory.createfromkey">CreateFromKey</a></td>
+<td><a href="/patterns-practices/reference/iregionbehaviorfactory-createfromkey-method-mspp-regions
+">CreateFromKey</a></td>
 <td><div class="summary">
 Creates an instance of the Behaviortype that's registered using the specified key.
 </div></td>
@@ -65,6 +68,6 @@ Returns an enumerator that iterates through a collection.
 
 ## See Also
 
-[IRegionBehaviorFactory Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory)
+[IRegionBehaviorFactory Interface](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions)
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
