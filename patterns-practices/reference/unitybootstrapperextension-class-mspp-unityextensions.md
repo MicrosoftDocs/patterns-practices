@@ -4,26 +4,36 @@ Title: 'UnityBootstrapperExtension Class (Microsoft.Practices.Prism.UnityExtensi
 ms:assetid: 'T:Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtension'
 ms:mtpsurl: 'unitybootstrapperextension-class-mspp-unityextensions.md'
 ---
-
+
+
 # UnityBootstrapperExtension Class
 
 Implements a UnityContainerExtension that checks if a specific type was registered with the container.
 
-**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+**Namespace:** [Microsoft.Practices.Prism.UnityExtensions](/patterns-practices/reference/mspp-unityextensions-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.UnityExtensions (in Microsoft.Practices.Prism.UnityExtensions.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public class UnityBootstrapperExtension : UnityContainerExtensionPublic Class UnityBootstrapperExtension Inherits UnityContainerExtension
+```C#
+public class UnityBootstrapperExtension : UnityContainerExtension
+```
+```VB
+'Declaration
+Public Class UnityBootstrapperExtension
+	Inherits UnityContainerExtension
+```
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-  UnityContainerExtension
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+  UnityContainerExtension  
     Microsoft.Practices.Prism.UnityExtensions.UnityBootstrapperExtension
 
 ## See Also
-[UnityBootstrapperExtension Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitybootstrapperextension)
 
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+[UnityBootstrapperExtension Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.unityextensions.unitybootstrapperextension)
+
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)

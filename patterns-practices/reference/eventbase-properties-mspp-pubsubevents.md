@@ -23,14 +23,14 @@ The [EventBase](/patterns-practices/reference/mspp-mvvm-namespace.eventbase) typ
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected property](/images/protproperty.gif)</td>
+<td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventbase.subscriptions">Subscriptions</a></td>
 <td><div class="summary">
 Gets the list of current subscriptions.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="/patterns-practices/reference/mspp-mvvm-namespace.eventbase.synchronizationcontext">SynchronizationContext</a></td>
 <td><div class="summary">
 Allows the SynchronizationContext to be set by the EventAggregator for UI Thread Dispatching

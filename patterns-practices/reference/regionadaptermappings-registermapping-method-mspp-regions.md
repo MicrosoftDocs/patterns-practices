@@ -18,37 +18,41 @@ Registers the mapping between a type and an adapter.
 
 ## Syntax
 
-~~~C#
+```C#
 public void RegisterMapping(
 	Type controlType,
 	IRegionAdapter adapter
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Public Sub RegisterMapping ( 
 	controlType As Type,
 	adapter As IRegionAdapter
 )
-~~~
+```
 
 ### Parameters
 
-_controlType_  
-Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
-The type of the control.
+*controlType*  
 
-_adapter_  
-Type: [Microsoft.Practices.Prism.Regions.IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions)  
-The adapter to use with the _controlType_ type.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Type](http://msdn.microsoft.com/en-us/library/42892f65)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The type of the control.
+
+*adapter*  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Regions.IRegionAdapter](/patterns-practices/reference/iregionadapter-interface-mspp-regions)  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The adapter to use with the *controlType* type.
 
 ## Exceptions
 
 
 | Exception                                                                                 | Condition                                                                                            |
 |-------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------|
-| [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)     | When any of _controlType_ or _adapter_ are **Nothing**a null reference (**Nothing** in Visual Basic). |
-| [System.InvalidOperationException](http://msdn.microsoft.com/en-us/library/2asft85a) | If a mapping for _controlType_ already exists.                                                         |
+| [System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)     | When any of *controlType* or *adapter* are **Nothing**a null reference (**Nothing** in Visual Basic). |
+| [System.InvalidOperationException](http://msdn.microsoft.com/en-us/library/2asft85a) | If a mapping for *controlType* already exists.                                                         |
 
 ## See Also
 

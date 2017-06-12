@@ -42,8 +42,7 @@ The payload to pass action while invoking it.
 
 ## See Also
 
-[BackgroundEventSubscription&lt;TPayload&gt; Class](https://review.docs.microsoft.com/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents
-)
+[BackgroundEventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)
 
 BackgroundEventSubscription&lt;TPayload&gt; Members
 

@@ -24,8 +24,9 @@ Marker interface that allows both [ModuleInfoGroup](/patterns-practices/referenc
 
 ```VB
     'Declaration
-Public Interface IModuleCatalogItem
+public interface IModuleCatalogItem
 ```
+
 
 ## See Also
 

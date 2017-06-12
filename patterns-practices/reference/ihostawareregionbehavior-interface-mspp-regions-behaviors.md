@@ -21,8 +21,6 @@ Defines a [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interf
 public interface IHostAwareRegionBehavior : IRegionBehavior
 ```
 
-## Syntax
-
 ```VB
 'Declaration
 Public Interface IHostAwareRegionBehavior

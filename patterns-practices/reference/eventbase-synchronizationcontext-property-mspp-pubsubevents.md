@@ -10,7 +10,7 @@ ms:mtpsurl: 'eventbase-synchronizationcontext-property-mspp-pubsubevents.md'
 
 Allows the SynchronizationContext to be set by the EventAggregator for UI Thread Dispatching
 
-**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents)
+**Namespace:** [Microsoft.Practices.Prism.PubSubEvents](/patterns-practices/reference/mspp-pubsubevents-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.PubSubEvents (in Microsoft.Practices.Prism.PubSubEvents.dll) 
 
@@ -35,8 +35,8 @@ Type: [SynchronizationContext](http://msdn.microsoft.com/en-us/library/wx31754f)
 
 ## See Also
 
-[EventBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents.eventbase)
+[EventBase Class](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)
 
 EventBase Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)

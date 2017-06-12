@@ -32,17 +32,17 @@ Function ContainsKey (
 
 ### Parameters
 
-behaviorKey  
+*behaviorKey*  
 
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-The behavior key.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The behavior key.
 
 ### Return Value
 
 Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
-**Truetrue** (**True** in Visual Basic) if a behavior with the specified key is present; otherwise, **Falsefalse** (**False** in Visual Basic).
+**truetrue** (**True** in Visual Basic) if a behavior with the specified key is present; otherwise, **falsefalse** (**False** in Visual Basic).
 
 ## See Also
 

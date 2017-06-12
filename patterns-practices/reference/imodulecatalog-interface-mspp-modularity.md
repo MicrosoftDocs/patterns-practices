@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.IModuleCatalog'
 ms:mtpsurl: 'imodulecatalog-interface-mspp-modularity.md'
 ---
 
-
 # IModuleCatalog Interface
 
 This is the expected catalog definition for the ModuleManager. The ModuleCatalog holds information about the modules that can be used by the application. Each module is described in a ModuleInfo class, that records the name, type and location of the module.
@@ -24,8 +23,9 @@ This is the expected catalog definition for the ModuleManager. The ModuleCatalog
 
 ```VB
     'Declaration
-Public Interface IModuleCatalog
+public interface IModuleCatalog
 ```
+
 
 ## See Also
 

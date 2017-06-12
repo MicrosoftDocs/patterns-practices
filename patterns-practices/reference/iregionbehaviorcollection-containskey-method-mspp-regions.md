@@ -13,6 +13,8 @@ Checks if a [IRegionBehavior](/patterns-practices/reference/iregionbehavior-inte
 
 **Assembly:** Microsoft.Practices.Prism (in Microsoft.Practices.Prism.dll)
 
+**Version:** 5.0.0.0 (5.0.0.0)
+
 ## Syntax
 
 ```C#
@@ -32,11 +34,17 @@ Function ContainsKey ( _
 
 *key* 
 
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-The key to use to find a particular [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions).
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The key to use to find a particular [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions).
 
 ### Return Value
+
+Type: [Boolean](http://msdn2.microsoft.com/en-us/library/a28wyd50)
+
+### Implements
+
+[IRegionBehaviorCollection.ContainsKey(String)](/patterns-practices/reference/iregionbehaviorcollection-containskey-method-mspp-regions)
 
 ## See Also
 

@@ -7,7 +7,7 @@ ms:mtpsurl: 'bindablebase-events-mspp-mvvm.md'
 
 # BindableBase Events
 
-The [BindableBase](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase) type exposes the following members.
+The [BindableBase](/patterns-practices/reference/bindablebase-class-mspp-mvvm) type exposes the following members.
 
 ## Events
 
@@ -21,8 +21,8 @@ The [BindableBase](https://msdn.microsoft.com/library/microsoft.practices.prism.
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/images/public-event.gif)</td>
-<td>[PropertyChanged](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase.propertychanged)</td>
+<td>![Public event](/patterns-practices/reference/images/public-event.gif)</td>
+<td>[PropertyChanged](/patterns-practices/reference/bindablebase-propertychanged-event-mspp-mvvm)</td>
 <td><div class="summary">
 Occurs when a property value changes.
 </div></td>
@@ -32,6 +32,6 @@ Occurs when a property value changes.
 
 ## See Also
 
-[BindableBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.bindablebase)
+[BindableBase Class](/patterns-practices/reference/bindablebase-class-mspp-mvvm)
 
-[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)
+[Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

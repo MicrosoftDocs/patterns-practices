@@ -27,7 +27,7 @@ The [IEventAggregator](/patterns-practices/reference/bindablebase-class-mspp-mvv
 <tbody>
 <tr class="odd">
 <td>
-![Public method](/images/public-method.gif)</td>
+![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[GetEvent(Of TEventType)](/patterns-practices/reference/ieventaggregator-getevent-teventtype-method-mspp-pubsubevents)</td>
 <td><div class="summary">
 Gets an instance of an event type.

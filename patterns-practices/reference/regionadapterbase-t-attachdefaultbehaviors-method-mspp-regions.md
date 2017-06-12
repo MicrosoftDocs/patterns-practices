@@ -18,12 +18,12 @@ This method adds the default behaviors by using the [IRegionBehaviorFactory](/pa
 
 ## Syntax
 
-~~~C#
+```C#
 protected virtual void AttachDefaultBehaviors(
 	IRegion region,
 	T regionTarget
 )
-~~~
+```
 
 ### Parameters
 
@@ -43,6 +43,8 @@ The object to adapt.
 
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
 
+
+
 # RegionAdapterBase(Of T).AttachDefaultBehaviors Method 
 
 This method adds the default behaviors by using the [IRegionBehaviorFactory](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions) object.
@@ -55,13 +57,13 @@ This method adds the default behaviors by using the [IRegionBehaviorFactory](/pa
 
 ## Syntax
 
-~~~VB
+```VB
 'Declaration
 Protected Overridable Sub AttachDefaultBehaviors ( 
 	region As IRegion,
 	regionTarget As T
 )
-~~~
+```
 
 ### Parameters
 

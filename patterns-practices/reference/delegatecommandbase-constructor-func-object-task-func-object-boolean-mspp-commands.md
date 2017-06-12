@@ -8,9 +8,9 @@ ms:mtpsurl: 'delegatecommandbase-constructor-action-object-func-object-boolean-m
 
 # DelegateCommandBase Constructor (Func&lt;Object, Task&gt;, Func&lt;Object, Boolean&gt;)
 
-Creates a new instance of a [DelegateCommandBase](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase), specifying both the Execute action as an awaitable Task and the CanExecute function.
+Creates a new instance of a [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands), specifying both the Execute action as an awaitable Task and the CanExecute function.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
 
@@ -41,21 +41,21 @@ The [Func&lt;T, TResult&gt;](http://msdn.microsoft.com/en-us/library/bb549151) t
 
 ## See Also
 
-[DelegateCommandBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)
+[DelegateCommandBase Class](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)
 
-[DelegateCommandBase Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase_members)
+[DelegateCommandBase Members](/patterns-practices/reference/delegatecommandbase-members-mspp-commands)
 
 DelegateCommandBase Overload
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
 
 
 
 # DelegateCommandBase Constructor (Func(Of Object, Task), Func(Of Object, Boolean))
 
-Creates a new instance of a [DelegateCommandBase](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase), specifying both the Execute action as an awaitable Task and the CanExecute function.
+Creates a new instance of a [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands), specifying both the Execute action as an awaitable Task and the CanExecute function.
 
-**Namespace:** [Microsoft.Practices.Prism.Commands](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+**Namespace:** [Microsoft.Practices.Prism.Commands](/patterns-practices/reference/mspp-commands-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
 
@@ -87,10 +87,10 @@ The [Func(Of T, TResult)](http://msdn.microsoft.com/en-us/library/bb549151) to i
 
 ## See Also
 
-[DelegateCommandBase Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase)
+[DelegateCommandBase Class](/patterns-practices/reference/delegatecommandbase-class-mspp-commands)
 
-[DelegateCommandBase Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.delegatecommandbase_members)
+[DelegateCommandBase Members](/patterns-practices/reference/delegatecommandbase-members-mspp-commands)
 
 DelegateCommandBase Overload
 
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)

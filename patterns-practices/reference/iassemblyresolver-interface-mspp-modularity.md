@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.IAssemblyResolver'
 ms:mtpsurl: 'iassemblyresolver-interface-mspp-modularity.md'
 ---
 
-
 # IAssemblyResolver Interface
 
 Interface for classes that are responsible for resolving and loading assembly files.
@@ -28,8 +27,20 @@ Interface for classes that are responsible for resolving and loading assembly fi
 
 public interface IAssemblyResolverPublic Interface IAssemblyResolver
 
+public interface IAssemblyResolver
+
+
+```VB
+'Declaration
+Public Interface IAssemblyResolver
+```
+
+
 ## See Also
 
 [IAssemblyResolver Members](/patterns-practices/reference/iassemblyresolver-members-mspp-modularity)
+
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
 
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

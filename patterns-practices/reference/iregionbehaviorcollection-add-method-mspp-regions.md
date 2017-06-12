@@ -34,12 +34,16 @@ Sub Add (
 ### Parameters
 
 *key*  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
-The key that specifies the type of [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions) that's added.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The key that specifies the type of [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions) that's added.
 
 *regionBehavior*  
-Type: [Microsoft.Practices.Prism.Regions.IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)  
-The [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions) to add.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [Microsoft.Practices.Prism.Regions.IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions)  
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The [IRegionBehavior](/patterns-practices/reference/iregionbehavior-interface-mspp-regions) to add.
 
 ## See Also
 

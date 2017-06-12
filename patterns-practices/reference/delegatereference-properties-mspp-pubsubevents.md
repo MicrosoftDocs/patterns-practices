@@ -21,7 +21,7 @@ The [DelegateReference](/patterns-practices/reference/delegatereference-class-ms
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[Target](/patterns-practices/reference/mspp-mvvm-namespace.delegatereference.target)</td>
 <td><div class="summary">
 Gets the [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) (the target) referenced by the current [DelegateReference](/patterns-practices/reference/mspp-mvvm-namespace.delegatereference) object.

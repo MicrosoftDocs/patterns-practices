@@ -36,8 +36,6 @@ Determines whether the specified <a href="http://msdn.microsoft.com/en-us/librar
 </tr>
 <tr class="even">
 
-<td><img src="https://msdn.microsoft.com/en-us/Dn736201.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 
 <td><a href="http://msdn.microsoft.com/en-us/library/4k87zsw7">Finalize</a></td>
@@ -48,7 +46,7 @@ Allows an object to try to free resources and perform other cleanup operations b
 </tr>
 <tr class="odd">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/eventsubscription-tpayload-getexecutionstrategy-method-mspp-pubsubevents
+<td><a href="/patterns-practices/reference/eventsubscription-tpayload-getexecutionstrategy-method-mspp-pubsubevents
 ">GetExecutionStrategy</a></td>
 
 
@@ -85,7 +83,7 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of 
 </tr>
 <tr class="even">
 <td><img src="images/public-method.gif" title="Public method" /></td>
-<td><a href="https://review.docs.microsoft.com/patterns-practices/reference/eventsubscription-tpayload-invokeaction-method-mspp-pubsubevents
+<td><a href="/patterns-practices/reference/eventsubscription-tpayload-invokeaction-method-mspp-pubsubevents
 ">InvokeAction</a></td>
 
 
@@ -98,8 +96,6 @@ Invokes the specified <a href="http://msdn.microsoft.com/en-us/library/018hxwa8"
 </tr>
 <tr class="odd">
 
-<td><img src="https://msdn.microsoft.com/en-us/Dn736201.protmethod(en-us,PandP.50).gif" title="Protected method" /></td>
-
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 
 <td><a href="http://msdn.microsoft.com/en-us/library/57ctke0a">MemberwiseClone</a></td>
@@ -109,8 +105,6 @@ Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/l
 (Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
 </tr>
 <tr class="even">
-
-<td><img src="images/public-method.gif" title="Public method" /></td>
 
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 
@@ -125,7 +119,6 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[EventSubscription&lt;TPayload&gt; Class](hhttps://review.docs.microsoft.com/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents
-)
+[EventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)

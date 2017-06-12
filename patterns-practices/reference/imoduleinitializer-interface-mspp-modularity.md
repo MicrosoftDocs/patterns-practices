@@ -5,7 +5,6 @@ ms:assetid: 'T:Microsoft.Practices.Prism.Modularity.IModuleInitializer'
 ms:mtpsurl: 'imoduleinitializer-interface-mspp-modularity.md'
 ---
 
-
 # IModuleInitializer Interface
 
 Declares a service which initializes the modules into the application.
@@ -24,8 +23,9 @@ Declares a service which initializes the modules into the application.
 
 ```VB
     'Declaration
-Public Interface IModuleInitializer
+public interface IModuleInitializer
 ```
+
 
 ## See Also
 
