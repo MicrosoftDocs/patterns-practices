@@ -5,10 +5,9 @@ ms:assetid: 'M:Microsoft.Practices.Prism.MefExtensions.Modularity.MefFileModuleT
 ms:mtpsurl: 'meffilemoduletypeloader-loadmoduletype-method-mspp-mefextensions-modularity.md'
 ---
 
-
 # MefFileModuleTypeLoader.LoadModuleType Method
 
-Retrieves the moduleInfo.
+Retrieves the *moduleInfo*.
 
 **Namespace:** [Microsoft.Practices.Prism.MefExtensions.Modularity](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)
 

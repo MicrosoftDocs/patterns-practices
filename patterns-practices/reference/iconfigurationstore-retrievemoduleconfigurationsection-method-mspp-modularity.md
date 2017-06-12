@@ -4,11 +4,13 @@ Title: 'IConfigurationStore.RetrieveModuleConfigurationSection Method (Microsoft
 ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.IConfigurationStore.RetrieveModuleConfigurationSection'
 ms:mtpsurl: 'iconfigurationstore-retrievemoduleconfigurationsection-method-mspp-modularity.md'
 ---
+
 # IConfigurationStore.RetrieveModuleConfigurationSection Method
 
 Gets the module configuration data.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace) 
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -32,7 +34,9 @@ A [ModulesConfigurationSection](/patterns-practices/reference/modulesconfigurati
 ## See Also
 
 [IConfigurationStore Interface](/patterns-practices/reference/iconfigurationstore-interface-mspp-modularity)  
+
 [IConfigurationStore Members](/patterns-practices/reference/iconfigurationstore-members-mspp-modularity)  
+
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
 
 

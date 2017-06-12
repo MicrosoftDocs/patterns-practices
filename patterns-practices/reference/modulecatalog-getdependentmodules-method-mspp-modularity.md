@@ -5,10 +5,9 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.GetDependentMo
 ms:mtpsurl: 'modulecatalog-getdependentmodules-method-mspp-modularity.md'
 ---
 
-
 # ModuleCatalog.GetDependentModules Method
 
-Return the list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that moduleInfo depends on.
+Return the list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that *moduleInfo* depends on.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
@@ -32,10 +31,17 @@ The [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
 ### Return Value
 
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;([ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)&gt;   
-An enumeration of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) that moduleInfo depends on.
+An enumeration of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) that *moduleInfo* depends on.
+
 ### Implements
 
 [IModuleCatalog.GetDependentModules(ModuleInfo)](/patterns-practices/reference/imodulecatalog-getdependentmodules-method-mspp-modularity)
+
+## Remarks
+
+ If the [ModuleCatalog](/patterns-practices/reference/imodulecatalog-getdependentmodules-method-mspp-modularity) was not yet validated, this method will call [Validate()](/patterns-practices/reference/modulecatalog-validate-method-mspp-modularity).
+
+
 ```VB
 'Declaration
 Public Overridable Function GetDependentModules ( 
@@ -52,7 +58,8 @@ The [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
 ### Return Value
 
 Type: [IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0) (Of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity))   
-An enumeration of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) that moduleInfo depends on.
+An enumeration of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity) that *moduleInfo* depends on.
+
 ### Implements
 
 [IModuleCatalog.GetDependentModules(ModuleInfo)](/patterns-practices/reference/imodulecatalog-getdependentmodules-method-mspp-modularity)

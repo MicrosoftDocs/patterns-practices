@@ -22,6 +22,17 @@ public virtual bool CanLoadModuleType(
 	ModuleInfo moduleInfo
 )
 ```
+### Parameters
+
+*moduleInfo*  
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
+Module that should have it's type loaded.
+
+### Return Value
+Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
+**truetrue** (**True** in Visual Basic) if the current typeloader is able to retrieve the module, otherwise **falsefalse** (**False** in Visual Basic).
+
+
 ```VB
 'Declaration
 Public Overridable Function CanLoadModuleType ( 

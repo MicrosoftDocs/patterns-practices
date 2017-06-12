@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.CreateFromXaml
 ms:mtpsurl: 'modulecatalog-createfromxaml-method-mspp-modularity.md'
 ---
 
-
 # ModuleCatalog.CreateFromXaml Method (Stream)
 
 Creates a [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) from XAML.
@@ -17,6 +16,7 @@ Creates a [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 public static ModuleCatalog CreateFromXaml(
 	Stream xamlStream
@@ -31,7 +31,7 @@ Public Shared Function CreateFromXaml (
 
 ### Parameters
 
-xamlStream  
+*xamlStream*  
 Type: [System.IO.Stream](http://msdn.microsoft.com/en-us/library/8f86tw9e)   
 [Stream](http://msdn.microsoft.com/en-us/library/8f86tw9e) that contains the XAML declaration of the catalog.
 
