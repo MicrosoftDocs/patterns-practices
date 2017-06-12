@@ -8,7 +8,8 @@ ms:mtpsurl: 'filemoduletypeloader-dispose-method-boolean-mspp-modularity.md'
 
 Disposes the associated [AssemblyResolver](/patterns-practices/reference/assemblyresolver-class-mspp-modularity).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
@@ -37,7 +38,8 @@ When **truetrue** (**True** in Visual Basic), it is being called from the Dispos
 
 Disposes the associated [AssemblyResolver](/patterns-practices/reference/assemblyresolver-class-mspp-modularity).
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)  
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
