@@ -4,26 +4,39 @@ Title: 'ModuleConfigurationElement.Dependencies Property (Microsoft.Practices.Pr
 ms:assetid: 'P:Microsoft.Practices.Prism.Modularity.ModuleConfigurationElement.Dependencies'
 ms:mtpsurl: 'moduleconfigurationelement-dependencies-property-mspp-modularity.md'
 ---
-
+
 # ModuleConfigurationElement.Dependencies Property
 
 Gets or sets the modules this module depends on.
 
-**Namespace:** [Microsoft.Practices.Prism.Modularity](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+**Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public ModuleDependencyCollection Dependencies { get; set; }Public Property Dependencies As ModuleDependencyCollection Get Set
+
+```C#
+public ModuleDependencyCollection Dependencies { get; set; }
+```
+
+```VB
+'Declaration
+Public Property Dependencies As ModuleDependencyCollection
+	Get
+	Set
+```
+
 ### Property Value
 
-Type: [ModuleDependencyCollection](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
+Type: [ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity)  
 The names of the modules that this depends on.
 
 ## See Also
-[ModuleConfigurationElement Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleconfigurationelement)
 
-[ModuleConfigurationElement Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleconfigurationelement)
+[ModuleConfigurationElement Class](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity)
 
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleConfigurationElement Members](/patterns-practices/reference/moduleconfigurationelement-members-mspp-modularity)
+
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
