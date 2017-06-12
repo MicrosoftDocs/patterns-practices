@@ -4,26 +4,36 @@ Title: 'Notification Class (Microsoft.Practices.Prism.Interactivity.InteractionR
 ms:assetid: 'T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification'
 ms:mtpsurl: 'notification-class-mspp-interactivity-interactionrequest.md'
 ---
-
+
 # Notification Class
 
-Basic implementation of [INotification](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.inotification).
+Basic implementation of [INotification](/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest).
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
+
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
-public class Notification : INotificationPublic Class Notification Implements INotification
+
+```C#
+public class Notification : INotification
+```
+```VB
+'Declaration
+Public Class Notification
+	Implements INotification
+```
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
-  Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification
-    [Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confirmation](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.confirmation)
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
+  Microsoft.Practices.Prism.Interactivity.InteractionRequest.Notification  
+    [Microsoft.Practices.Prism.Interactivity.InteractionRequest.Confirmation](/patterns-practices/reference/confirmation-class-mspp-interactivity-interactionrequest)
 
 ## See Also
-[Notification Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.interactionrequest.notification)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+[Notification Members](/patterns-practices/reference/notification-members-mspp-interactivity-interactionrequest)
+
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

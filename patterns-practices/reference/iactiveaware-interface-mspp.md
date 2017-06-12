@@ -4,18 +4,30 @@ Title: 'IActiveAware Interface (Microsoft.Practices.Prism)'
 ms:assetid: 'T:Microsoft.Practices.Prism.IActiveAware'
 ms:mtpsurl: 'iactiveaware-interface-mspp.md'
 ---
-
+
+
 # IActiveAware Interface
 
 Interface that defines if the object instance is active and notifies when the activity changes.
 
-**Namespace:** [Microsoft.Practices.Prism](https://msdn.microsoft.com/library/microsoft.practices.prism)
-**Assembly:** Microsoft.Practices.Prism.SharedInterfaces (in Microsoft.Practices.Prism.SharedInterfaces.dll) Version: 1.0.0.0 (1.0.0.0)
+**Namespace:** [Microsoft.Practices.Prism](/patterns-practices/reference/mspp-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.SharedInterfaces (in Microsoft.Practices.Prism.SharedInterfaces.dll)
+
+**Version:** 1.0.0.0 (1.0.0.0)
 
 ## Syntax
-public interface IActiveAwarePublic Interface IActiveAware
+
+```C#
+public interface IActiveAware
+```
+```VB
+'Declaration
+Public Interface IActiveAware
+```
 
 ## See Also
-[IActiveAware Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.iactiveaware)
 
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[IActiveAware Members](/patterns-practices/reference/iactiveaware-members-mspp)
+
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
