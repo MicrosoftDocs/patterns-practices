@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleCatalog.CompleteListWi
 ms:mtpsurl: 'modulecatalog-completelistwithdependencies-method-mspp-modularity.md'
 ---
 
-
 # ModuleCatalog.CompleteListWithDependencies Method
 
 Returns a list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s that contain both the [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s in *modules*, but also all the modules they depend on.

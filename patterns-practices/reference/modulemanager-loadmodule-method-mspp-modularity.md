@@ -7,7 +7,7 @@ ms:mtpsurl: 'modulemanager-loadmodule-method-mspp-modularity.md'
 
 # ModuleManager.LoadModule Method
 
-Loads and initializes the module on the [ModuleCatalog](/patterns-practices/reference/modulemanager-modulecatalog-property-mspp-modularity) with the name moduleName.
+Loads and initializes the module on the [ModuleCatalog](/patterns-practices/reference/modulemanager-modulecatalog-property-mspp-modularity) with the name *moduleName*.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 

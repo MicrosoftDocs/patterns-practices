@@ -24,14 +24,14 @@ ms:mtpsurl: 'bindablebase-onpropertychanged-method-mspp-mvvm.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected method](/images/protmethod.gif)</td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[OnPropertyChanged(Of T)(Expression(Of Func(Of T)))](/patterns-practices/reference/bindablebase-onpropertychanged-t-method-expression-func-t-mspp-mvvm)</td>
 <td><div class="summary">
 Raises this object's PropertyChanged event.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Protected method](/images/protmethod.gif)</td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>[OnPropertyChanged(String)](/patterns-practices/reference/bindablebase-onpropertychanged-method-string-mspp-mvvm)</td>
 <td><div class="summary">
 Notifies listeners that a property value has changed.

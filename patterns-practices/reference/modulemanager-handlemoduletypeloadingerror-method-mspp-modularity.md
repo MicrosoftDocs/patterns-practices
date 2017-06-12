@@ -39,7 +39,7 @@ Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/refe
 The module metadata where the error happenened.
 
 *exception*  
-Type: [System.Exception](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)  
+Type: [System.Exception](http://msdn.microsoft.com/en-us/library/c18k6c59)  
 The exception thrown that is the cause of the current error.
 
 ## Exceptions
