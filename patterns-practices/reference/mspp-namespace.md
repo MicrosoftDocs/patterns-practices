@@ -21,51 +21,51 @@ ms:mtpsurl: 'mspp-namespace.md'
 <tbody>
 <tr class="odd">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td><a href="/patterns-practices/reference/bootstrapper-class-mspp">Bootstrapper</a></td>
+<td>[Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp)</td>
 <td><div class="summary">
 Base class that provides a basic bootstrapping sequence and hooks that specific implementations can override
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td><a href="/patterns-practices/reference/collectionextensions-class-mspp">CollectionExtensions</a></td>
+<td>[CollectionExtensions](/patterns-practices/reference/collectionextensions-class-mspp)</td>
 <td><div class="summary">
 Class that provides extension methods to Collection
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td><a href="/patterns-practices/reference/exceptionextensions-class-mspp">ExceptionExtensions</a></td>
+<td>[ExceptionExtensions](/patterns-practices/reference/exceptionextensions-class-mspp)</td>
 <td><div class="summary">
 Class that provides extension methods for the Exception class. These extension methods provide a mechanism for developers to get more easily to the root cause of an exception, especially in combination with DI-containers such as Unity.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td><a href="/patterns-practices/reference/listdictionary-class-mspp">ListDictionary(Of TKey, TValue)</a></td>
+<td>[ListDictionary(Of TKey, TValue)](/patterns-practices/reference/listdictionary-class-mspp)</td>
 <td><div class="summary">
 A dictionary of lists.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td><a href="/patterns-practices/reference/observableobject-class-mspp">ObservableObject(Of T)</a></td>
+<td>[ObservableObject(Of T)](/patterns-practices/reference/observableobject-class-mspp)</td>
 <td><div class="summary">
 Class that wraps an object, so that other classes can notify for Change events. Typically, this class is set as a Dependency Property on DependencyObjects, and allows other classes to observe any changes in the Value.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td><a href="/patterns-practices/reference/servicelocatorextensions-class-mspp">ServiceLocatorExtensions</a></td>
+<td>[ServiceLocatorExtensions](/patterns-practices/reference/servicelocatorextensions-class-mspp)</td>
 <td><div class="summary">
 Defines extension methods for the ServiceLocator class.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public class](/patterns-practices/reference/images/public-class.gif)</td>
-<td><a href="/patterns-practices/reference/uriparsinghelper-class-mspp">UriParsingHelper</a></td>
+<td>[UriParsingHelper](/patterns-practices/reference/uriparsinghelper-class-mspp)</td>
 <td><div class="summary">
-Helper class for parsing <a href="http://msdn.microsoft.com/en-us/library/txt7706a">Uri</a> instances.
+Helper class for parsing [Uri](http://msdn.microsoft.com/en-us/library/txt7706a) instances.
 </div></td>
 </tr>
 </tbody>
@@ -86,7 +86,7 @@ Helper class for parsing <a href="http://msdn.microsoft.com/en-us/library/txt770
 <tbody>
 <tr class="odd">
 <td>![Public interface](/patterns-practices/reference/images/public-interface.gif)</td>
-<td><a href="/patterns-practices/reference/iactiveaware-class-mspp">IActiveAware</a></td>
+<td>[IActiveAware](/patterns-practices/reference/iactiveaware-class-mspp)</td>
 <td><div class="summary">
 Interface that defines if the object instance is active and notifies when the activity changes.
 </div></td>
