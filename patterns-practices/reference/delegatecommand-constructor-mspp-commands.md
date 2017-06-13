@@ -23,14 +23,14 @@ ms:mtpsurl: 'delegatecommand-constructor-action-func-boolean-mspp-commands.md'
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>DelegateCommand(Action)</td>
 <td><div class="summary">
-Creates a new instance of <a href="/patterns-practices/reference/delegatecommand-class-mspp-commands">DelegateCommand</a> with the <a href="http://msdn.microsoft.com/en-us/library/bb534741">Action</a> to invoke on execution.
+Creates a new instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) with the [Action](http://msdn.microsoft.com/en-us/library/bb534741) to invoke on execution.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>DelegateCommand(Action, Func(Of Boolean))</td>
 <td><div class="summary">
-Creates a new instance of <a href="/patterns-practices/reference/delegatecommand-class-mspp-commands">DelegateCommand</a> with the <a href="http://msdn.microsoft.com/en-us/library/bb534741">Action</a> to invoke on execution and a <strong>Func</strong> to query for determining if the command can execute.
+Creates a new instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) with the [Action](http://msdn.microsoft.com/en-us/library/bb534741) to invoke on execution and a <strong>Func</strong> to query for determining if the command can execute.
 </div></td>
 </tr>
 </tbody>
