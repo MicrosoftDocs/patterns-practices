@@ -1,10 +1,9 @@
----
+﻿---
 TOCTitle: 'SetErrors Method (String, IEnumerable(T))'
 Title: 'ErrorsContainer(T).SetErrors Method (String, IEnumerable(T)) (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.ErrorsContainer\`1.SetErrors(System.String,System.Collections.Generic.IEnumerable{\`0})'
 ms:mtpsurl: 'errorscontainer-t-seterrors-method-string-ienumerable-t-mspp-viewmodel.md'
 ---
-
 
 # ErrorsContainer&lt;T&gt;.SetErrors Method (String, IEnumerable&lt;T&gt;)
 
@@ -27,16 +26,12 @@ public void SetErrors(
 
 ### Parameters
 
-*propertyName* 
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-	
+*propertyName*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The name of the property.
 
 *newValidationResults*  
-
-Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[T](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)&gt;
-	
+Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)&lt;[T](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)&gt;  
 The new validation errors.
 
 ## Remarks
@@ -45,14 +40,10 @@ If a change is detected then the errors changed event is raised.
 
 ## See Also
 
-[ErrorsContainer&lt;T&gt; Class](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)
-
-[ErrorsContainer&lt;T&gt; Members](/patterns-practices/reference/errorscontainer-t-members-mspp-viewmodel)
-
-[SetErrors Overload](/patterns-practices/reference/errorscontainer-t-seterrors-method-mspp-viewmodel)
-
-[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)
-
+[ErrorsContainer&lt;T&gt; Class](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)<br/>
+[ErrorsContainer&lt;T&gt; Members](/patterns-practices/reference/errorscontainer-t-members-mspp-viewmodel)<br/>
+[SetErrors Overload](/patterns-practices/reference/errorscontainer-t-seterrors-method-mspp-viewmodel)<br/>
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>
 
 # ErrorsContainer(Of T).SetErrors Method (String, IEnumerable(Of T))
 
@@ -76,16 +67,12 @@ Public Sub SetErrors (
 
 ### Parameters
 
-*propertyName* 
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-	
+*propertyName*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The name of the property.
 
 *newValidationResults*  
-
-Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [T](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel))
-	
+Type: [System.Collections.Generic.IEnumerable](http://msdn.microsoft.com/en-us/library/9eekhta0)(Of [T](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel))  
 The new validation errors.
 
 ## Remarks
@@ -93,10 +80,7 @@ If a change is detected then the errors changed event is raised.
 
 ## See Also
 
-[ErrorsContainer(Of T) Class](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)
-
-[ErrorsContainer(Of T) Members](/patterns-practices/reference/errorscontainer-t-members-mspp-viewmodel)
-
-[SetErrors Overload](/patterns-practices/reference/errorscontainer-t-seterrors-method-mspp-viewmodel)
-
-[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)
+[ErrorsContainer(Of T) Class](/patterns-practices/reference/errorscontainer-t-class-mspp-viewmodel)<br/>
+[ErrorsContainer(Of T) Members](/patterns-practices/reference/errorscontainer-t-members-mspp-viewmodel)<br/>
+[SetErrors Overload](/patterns-practices/reference/errorscontainer-t-seterrors-method-mspp-viewmodel)<br/>
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>

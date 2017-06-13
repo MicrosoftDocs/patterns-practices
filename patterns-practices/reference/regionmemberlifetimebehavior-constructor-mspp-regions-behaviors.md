@@ -28,8 +28,6 @@ Public Sub New
 
 ## See Also
 
-[RegionMemberLifetimeBehavior Class](/patterns-practices/reference/regionmemberlifetimebehavior-class-mspp-regions-behaviors)
-
-[RegionMemberLifetimeBehavior Members](/patterns-practices/reference/regionmemberlifetimebehavior-members-mspp-regions-behaviors)
-
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+[RegionMemberLifetimeBehavior Class](/patterns-practices/reference/regionmemberlifetimebehavior-class-mspp-regions-behaviors)<br/>
+[RegionMemberLifetimeBehavior Members](/patterns-practices/reference/regionmemberlifetimebehavior-members-mspp-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>

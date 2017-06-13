@@ -1,10 +1,9 @@
----
+﻿---
 TOCTitle: DoGetAllInstances Method
 Title: 'UnityServiceLocatorAdapter.DoGetAllInstances Method (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityServiceLocatorAdapter.DoGetAllInstances(System.Type)'
 ms:mtpsurl: 'unityservicelocatoradapter-dogetallinstances-method-mspp-unityextensions.md'
 ---
-
 
 # UnityServiceLocatorAdapter.DoGetAllInstances Method
 
@@ -17,6 +16,7 @@ Resolves all the instances of the requested service.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 protected override IEnumerable<Object> DoGetAllInstances(
 	Type serviceType

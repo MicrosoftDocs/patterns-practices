@@ -25,8 +25,6 @@ Public Sub New
 ```
 ## See Also
 
-[MefRegionAdapterMappings Class](/patterns-practices/reference/mefregionadaptermappings-class-mspp-mefextensions-regions)
-
-[MefRegionAdapterMappings Members](/patterns-practices/reference/mefregionadaptermappings-members-mspp-mefextensions-regions)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
+[MefRegionAdapterMappings Class](/patterns-practices/reference/mefregionadaptermappings-class-mspp-mefextensions-regions)<br/>
+[MefRegionAdapterMappings Members](/patterns-practices/reference/mefregionadaptermappings-members-mspp-mefextensions-regions)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)<br/>

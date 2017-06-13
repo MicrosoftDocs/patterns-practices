@@ -40,6 +40,5 @@ Public Class MefRegionMemberLifetimeBehavior
 
 ## See Also
 
-[MefRegionMemberLifetimeBehavior Members](/patterns-practices/reference/mefregionmemberlifetimebehavior-members-mspp-mefextensions-regions-behaviors)
-
+[MefRegionMemberLifetimeBehavior Members](/patterns-practices/reference/mefregionmemberlifetimebehavior-members-mspp-mefextensions-regions-behaviors)<br/>
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

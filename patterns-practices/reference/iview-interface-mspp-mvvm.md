@@ -24,6 +24,5 @@ Public Interface IView
 
 ## See Also
 
-[IView Members](/patterns-practices/reference/iview-members-mspp-mvvm)
-
+[IView Members](/patterns-practices/reference/iview-members-mspp-mvvm)<br/>
 [Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

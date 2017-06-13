@@ -51,10 +51,7 @@ If **Truetrue** (**True** in Visual Basic), registers default Prism Library serv
 
 ## See Also
 
-[Bootstrapper Class](/patterns-practices/reference/bootstrapper-class-mspp)
-
-[Bootstrapper Members](/patterns-practices/reference/bootstrapper-members-mspp)
-
-[Run Overload](/patterns-practices/reference/bootstrapper-run-method-boolean-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+[Bootstrapper Class](/patterns-practices/reference/bootstrapper-class-mspp)<br/>
+[Bootstrapper Members](/patterns-practices/reference/bootstrapper-members-mspp)<br/>
+[Run Overload](/patterns-practices/reference/bootstrapper-run-method-boolean-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>

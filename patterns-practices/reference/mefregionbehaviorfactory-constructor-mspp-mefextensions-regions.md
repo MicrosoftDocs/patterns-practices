@@ -37,8 +37,6 @@ IServiceLocator used to create the instance of the behavior from its [Type](http
 
 ## See Also
 
-[MefRegionBehaviorFactory Class](/patterns-practices/reference/mefregionbehaviorfactory-class-mspp-mefextensions-regions)
-
-[MefRegionBehaviorFactory Members](/patterns-practices/reference/mefregionbehaviorfactory-members-mspp-mefextensions-regions)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
+[MefRegionBehaviorFactory Class](/patterns-practices/reference/mefregionbehaviorfactory-class-mspp-mefextensions-regions)<br/>
+[MefRegionBehaviorFactory Members](/patterns-practices/reference/mefregionbehaviorfactory-members-mspp-mefextensions-regions)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)<br/>

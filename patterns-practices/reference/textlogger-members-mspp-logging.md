@@ -125,6 +125,5 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[TextLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger)
-
-[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)
+[TextLogger Class](https://msdn.microsoft.com/library/microsoft.practices.prism.logging.textlogger)<br/>
+[Microsoft.Practices.Prism.Logging Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.logging)<br/>

@@ -35,6 +35,5 @@ Extracts the property name from a property expression.
 
 ## See Also
 
-[PropertySupport Class](/patterns-practices/reference/propertysupport-class-mspp-viewmodel)
-
-[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)
+[PropertySupport Class](/patterns-practices/reference/propertysupport-class-mspp-viewmodel)<br/>
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>

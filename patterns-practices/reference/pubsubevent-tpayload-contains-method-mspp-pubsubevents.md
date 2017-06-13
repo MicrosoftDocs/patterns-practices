@@ -21,7 +21,7 @@ ms:mtpsurl: 'pubsubevent-tpayload-contains-method-mspp-pubsubevents.md'
 <tbody>
 <tr class="odd">
 
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent.contains(system.action)">Contains(Action&lt;TPayload&gt;)</a></td>
 
 <td><div class="summary">
@@ -41,9 +41,7 @@ Returns trueTruetruetrue (True in Visual Basic) if there is a subscriber matchin
 
 ## See Also
 
-[PubSubEvent<TPayload> Class](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent)
-
+[PubSubEvent<TPayload> Class](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent)<br/>
 PubSubEvent<TPayload> Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
-
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)<br/>

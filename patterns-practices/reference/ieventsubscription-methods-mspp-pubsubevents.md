@@ -24,7 +24,7 @@ The [IEventSubscription](/patterns-practices/reference/mspp-mvvm-namespace.ieven
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td><a href="/patterns-practices/reference/mspp-mvvm-namespace.ieventsubscription.getexecutionstrategy">GetExecutionStrategy</a></td>
 <td><div class="summary">
 Gets the execution strategy to publish this event.
@@ -35,7 +35,5 @@ Gets the execution strategy to publish this event.
 
 ## See Also
 
-[IEventSubscription Interface](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
-
+[IEventSubscription Interface](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>

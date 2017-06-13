@@ -31,6 +31,5 @@ Defines extension methods for the ServiceLocator class.
   Microsoft.Practices.Prism.ServiceLocatorExtensions
 
 ## See Also
-[ServiceLocatorExtensions Members](/patterns-practices/reference/servicelocatorextensions-members-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+[ServiceLocatorExtensions Members](/patterns-practices/reference/servicelocatorextensions-members-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>

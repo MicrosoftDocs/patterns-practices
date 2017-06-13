@@ -34,10 +34,8 @@ where T : INotification
 
 ## See Also
 
-[InteractionRequest&lt;T&gt; Members](/patterns-practices/reference/interactionrequest-t-members-mspp-interactivity-interactionrequest)
-
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
-
+[InteractionRequest&lt;T&gt; Members](/patterns-practices/reference/interactionrequest-t-members-mspp-interactivity-interactionrequest)<br/>
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>
 
 # InteractionRequest(Of T) Class
 
@@ -68,6 +66,5 @@ Public Class InteractionRequest(Of T As INotification)
 
 ## See Also
 
-[InteractionRequest(Of T) Members](/patterns-practices/reference/interactionrequest-t-members-mspp-interactivity-interactionrequest)
-
+[InteractionRequest(Of T) Members](/patterns-practices/reference/interactionrequest-t-members-mspp-interactivity-interactionrequest)<br/>
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

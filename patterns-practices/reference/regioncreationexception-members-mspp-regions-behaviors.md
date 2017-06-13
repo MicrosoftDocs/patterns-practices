@@ -264,6 +264,5 @@ Occurs when an exception is serialized to create an exception state object that 
 
 ## See Also
 
-[RegionCreationException Class](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors)
-
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+[RegionCreationException Class](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>

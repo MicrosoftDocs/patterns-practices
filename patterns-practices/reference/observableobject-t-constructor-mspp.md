@@ -22,11 +22,9 @@ public ObservableObject()
 
 ## See Also
 
-[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)
-
-[ObservableObject&lt;T&gt; Members](/patterns-practices/reference/observableobject-t-members-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)<br/>
+[ObservableObject&lt;T&gt; Members](/patterns-practices/reference/observableobject-t-members-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
 
 # ObservableObject(Of T) Constructor
 
@@ -46,8 +44,6 @@ Public Sub New
 
 ## See Also
 
-[ObservableObject(Of T) Class](/patterns-practices/reference/observableobject-t-class-mspp)
-
-[ObservableObject(Of T) Members](/patterns-practices/reference/observableobject-t-members-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ObservableObject(Of T) Class](/patterns-practices/reference/observableobject-t-class-mspp)<br/>
+[ObservableObject(Of T) Members](/patterns-practices/reference/observableobject-t-members-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

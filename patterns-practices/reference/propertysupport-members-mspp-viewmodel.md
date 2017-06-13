@@ -32,6 +32,5 @@ Extracts the property name from a property expression.
 </table>
 
 ## See Also
-[PropertySupport Class](/patterns-practices/reference/propertysupport-class-mspp-viewmodel)
-
+[PropertySupport Class](/patterns-practices/reference/propertysupport-class-mspp-viewmodel)<br/>
 [Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)

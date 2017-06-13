@@ -31,6 +31,5 @@ Public Interface IModuleExport
 
 ## See Also
 
-[IModuleExport Members](/patterns-practices/reference/imoduleexport-members-mspp-mefextensions-modularity)
-
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)
+[IModuleExport Members](/patterns-practices/reference/imoduleexport-members-mspp-mefextensions-modularity)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)<br/>

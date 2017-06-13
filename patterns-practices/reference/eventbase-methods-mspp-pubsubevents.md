@@ -7,7 +7,7 @@ ms:mtpsurl: 'eventbase-methods-mspp-pubsubevents.md'
 
 # EventBase Methods
 
-The [EventBase](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents.eventbase) type exposes the following members.
+The [EventBase](/patterns-practices/reference/eventbase-class-mspp-pubsubevents) type exposes the following members.
 
 ## Methods
 
@@ -92,7 +92,7 @@ Returns a string that represents the current object.
 (Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/pubmethod.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>[Unsubscribe](/patterns-practices/reference/eventbase-unsubscribe-method-mspp-pubsubevents)</td>
 <td><div class="summary">
 Removes the subscriber matching the [SubscriptionToken](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents).
@@ -102,7 +102,5 @@ Removes the subscriber matching the [SubscriptionToken](/patterns-practices/refe
 
 ## See Also
 
-[EventBase Class](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
-
+[EventBase Class](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>

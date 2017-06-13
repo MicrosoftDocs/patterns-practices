@@ -148,6 +148,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[SingleActiveRegion Class](/patterns-practices/reference/singleactiveregion-class-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[SingleActiveRegion Class](/patterns-practices/reference/singleactiveregion-class-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

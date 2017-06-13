@@ -28,7 +28,7 @@ public void CopyTo(
 ### Parameters
 
 *array*  
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)[]  
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)[]  
 The one-dimensional [Array](http://msdn.microsoft.com/en-us/library/czz5hkty) that is the destination of the elements copied from [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity). The [Array](http://msdn.microsoft.com/en-us/library/czz5hkty) must have zero-based indexing.
 
 *arrayIndex*  
@@ -51,7 +51,7 @@ Public Sub CopyTo (
 ### Parameters
 
 *array*  
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)()  
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)()  
 The one-dimensional [Array](http://msdn.microsoft.com/en-us/library/czz5hkty) that is the destination of the elements copied from [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity). The [Array](http://msdn.microsoft.com/en-us/library/czz5hkty) must have zero-based indexing.
 
 *arrayIndex*    
@@ -73,8 +73,6 @@ The zero-based index in *array* at which copying begins.
 
 ## See Also
 
-[ModuleInfoGroup Class](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)
-
-[ModuleInfoGroup Members](/patterns-practices/reference/moduleinfogroup-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleInfoGroup Class](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)<br/>
+[ModuleInfoGroup Members](/patterns-practices/reference/moduleinfogroup-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

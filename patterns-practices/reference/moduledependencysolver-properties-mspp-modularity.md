@@ -36,6 +36,5 @@ Gets the number of modules added to the solver.
 
 ## See Also
 
-[ModuleDependencySolver Class](/patterns-practices/reference/moduledependencysolver-class-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleDependencySolver Class](/patterns-practices/reference/moduledependencysolver-class-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

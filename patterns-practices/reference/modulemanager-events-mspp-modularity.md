@@ -39,6 +39,5 @@ Raised repeatedly to provide progress as modules are loaded in the background.
 </table>
 
 ## See Also
-[ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

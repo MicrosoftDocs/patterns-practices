@@ -45,10 +45,8 @@ The exception that is the cause of the current exception, or a null reference (N
 
 ## See Also
 
-[UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions)
-
-[UpdateRegionsException Members](/patterns-practices/reference/updateregionsexception-members-mspp-regions)
-
+[UpdateRegionsException Class](/patterns-practices/reference/updateregionsexception-class-mspp-regions)<br/>
+[UpdateRegionsException Members](/patterns-practices/reference/updateregionsexception-members-mspp-regions)<br/>
 UpdateRegionsException Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

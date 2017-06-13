@@ -89,10 +89,7 @@ The navigation parameters specific to the navigation request.
 
 ## See Also
 
-[RegionNavigationService Class](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)
-
-[RegionNavigationService Members](/patterns-practices/reference/regionnavigationservice-members-mspp-regions)
-
-[RequestNavigate Overload](/patterns-practices/reference/regionnavigationservice-requestnavigate-method-mspp-regions)
-
+[RegionNavigationService Class](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)<br/>
+[RegionNavigationService Members](/patterns-practices/reference/regionnavigationservice-members-mspp-regions)<br/>
+[RequestNavigate Overload](/patterns-practices/reference/regionnavigationservice-requestnavigate-method-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

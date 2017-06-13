@@ -22,7 +22,7 @@ The [DuplicateModuleException](/patterns-practices/reference/duplicatemoduleexce
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected event](/images/protevent.gif)</td>
+<td>![Protected event](/patterns-practices/reference/images/protevent.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ee332915">SerializeObjectState</a></td>
 <td><div class="summary">
 Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.
@@ -34,6 +34,5 @@ Occurs when an exception is serialized to create an exception state object that 
 
 ## See Also
 
-[DuplicateModuleException Class](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity)
-
+[DuplicateModuleException Class](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

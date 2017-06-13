@@ -27,8 +27,6 @@ Protected Overrides Sub Initialize
 
 ## See Also
 
-[UnityBootstrapperExtension Class](/patterns-practices/reference/unitybootstrapperextension-class-mspp-unityextensions)
-
-[UnityBootstrapperExtension Members](/patterns-practices/reference/unitybootstrapperextension-members-mspp-unityextensions)
-
-[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)
+[UnityBootstrapperExtension Class](/patterns-practices/reference/unitybootstrapperextension-class-mspp-unityextensions)<br/>
+[UnityBootstrapperExtension Members](/patterns-practices/reference/unitybootstrapperextension-members-mspp-unityextensions)<br/>
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)<br/>

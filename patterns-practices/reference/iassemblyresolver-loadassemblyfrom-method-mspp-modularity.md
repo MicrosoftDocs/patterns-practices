@@ -41,4 +41,4 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 [IAssemblyResolver Members](/patterns-practices/reference/iassemblyresolver-members-mspp-modularity) 
  
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

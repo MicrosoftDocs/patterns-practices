@@ -40,6 +40,5 @@ The module type loaders.
 
 [ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)  
 [ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)  
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
-
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
 

@@ -1,10 +1,9 @@
----
+﻿---
 TOCTitle: DoGetInstance Method
 Title: 'UnityServiceLocatorAdapter.DoGetInstance Method (Microsoft.Practices.Prism.UnityExtensions)'
 ms:assetid: 'M:Microsoft.Practices.Prism.UnityExtensions.UnityServiceLocatorAdapter.DoGetInstance(System.Type,System.String)'
 ms:mtpsurl: 'unityservicelocatoradapter-dogetinstance-method-mspp-unityextensions.md'
 ---
-
 
 # UnityServiceLocatorAdapter.DoGetInstance Method
 
@@ -17,12 +16,14 @@ Resolves the instance of the requested service.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 protected override Object DoGetInstance(
 	Type serviceType,
 	string key
 )
 ```
+
 ```VB
 'Declaration
 Protected Overrides Function DoGetInstance ( 
@@ -43,13 +44,11 @@ Name of registered service you want. May be null.
 
 ### Return Value
 
-Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+Type: [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)  
 The requested service instance.
 
 ## See Also
 
-[UnityServiceLocatorAdapter Class](/patterns-practices/reference/unityservicelocatoradapter-class-mspp-unityextensions)
-
-[UnityServiceLocatorAdapter Members](/patterns-practices/reference/unityservicelocatoradapter-members-mspp-unityextensions)
-
-[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)
+[UnityServiceLocatorAdapter Class](/patterns-practices/reference/unityservicelocatoradapter-class-mspp-unityextensions)<br/>
+[UnityServiceLocatorAdapter Members](/patterns-practices/reference/unityservicelocatoradapter-members-mspp-unityextensions)<br/>
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)<br/>

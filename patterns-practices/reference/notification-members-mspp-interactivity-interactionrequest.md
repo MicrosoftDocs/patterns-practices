@@ -127,6 +127,5 @@ Gets or sets the title to use for the notification.
 </table>
 
 ## See Also
-[Notification Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.notification)
-
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+[Notification Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.notification)<br/>
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)<br/>

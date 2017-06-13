@@ -220,4 +220,4 @@ Gets the shell user interface
 ## See Also
 
 [Bootstrapper Class](/patterns-practices/reference/bootstrapper-class-mspp)  
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>

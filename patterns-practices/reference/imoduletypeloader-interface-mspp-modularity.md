@@ -24,6 +24,5 @@ Public Interface IModuleTypeLoader
 ```
 
 ## See Also
-[IModuleTypeLoader Members](/patterns-practices/reference/imoduletypeloader-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[IModuleTypeLoader Members](/patterns-practices/reference/imoduletypeloader-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

@@ -48,8 +48,6 @@ The new instance of [IRegion](/patterns-practices/reference/mspp-regions-namespa
 
 ## See Also
 
-[IRegionAdapter Interface](/patterns-practices/reference/iregionadapter-interface-mspp-regions)
-
-[IRegionAdapter Members](/patterns-practices/reference/iregionadapter-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[IRegionAdapter Interface](/patterns-practices/reference/iregionadapter-interface-mspp-regions)<br/>
+[IRegionAdapter Members](/patterns-practices/reference/iregionadapter-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

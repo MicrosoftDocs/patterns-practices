@@ -209,6 +209,5 @@ Behavior's attached region.
 
 ## See Also
 
-[ClearChildViewsRegionBehavior Class](/patterns-practices/reference/clearchildviewsregionbehavior-class-mspp-regions-behaviors)
-
+[ClearChildViewsRegionBehavior Class](/patterns-practices/reference/clearchildviewsregionbehavior-class-mspp-regions-behaviors)<br/>
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

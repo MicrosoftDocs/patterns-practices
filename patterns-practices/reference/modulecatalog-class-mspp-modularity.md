@@ -39,6 +39,5 @@ Public Class ModuleCatalog
 
 ## See Also
 
-[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)
-
+[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

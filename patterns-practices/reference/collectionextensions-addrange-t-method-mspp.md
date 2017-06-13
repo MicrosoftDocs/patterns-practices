@@ -132,8 +132,6 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 
 ## See Also
 
-[CollectionExtensions Class](/patterns-practices/reference/collectionextensions-class-mspp)
-
-[CollectionExtensions Members](/patterns-practices/reference/collectionextensions-members-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+[CollectionExtensions Class](/patterns-practices/reference/collectionextensions-class-mspp)<br/>
+[CollectionExtensions Members](/patterns-practices/reference/collectionextensions-members-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>

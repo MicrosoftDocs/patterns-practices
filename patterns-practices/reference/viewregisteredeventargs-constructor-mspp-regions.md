@@ -28,15 +28,15 @@ public ViewRegisteredEventArgs(
 
 *regionName* 
 
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-The region name to which the content was registered.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The region name to which the content was registered.
 
 *getViewDelegate*  
 
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;
 
-The content which was registered.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The content which was registered.
 
 ## Syntax
 
@@ -52,21 +52,19 @@ Public Sub New (
 
 *regionName* 
 
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-The region name to which the content was registered.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The region name to which the content was registered.
 
 *getViewDelegate*  
 
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))
 
-The content which was registered.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The content which was registered.
 
 
 ## See Also
 
-[ViewRegisteredEventArgs Class](/patterns-practices/reference/viewregisteredeventargs-class-mspp-regions)
-
-[ViewRegisteredEventArgs Members](/patterns-practices/reference/viewregisteredeventargs-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[ViewRegisteredEventArgs Class](/patterns-practices/reference/viewregisteredeventargs-class-mspp-regions)<br/>
+[ViewRegisteredEventArgs Members](/patterns-practices/reference/viewregisteredeventargs-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

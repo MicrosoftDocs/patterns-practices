@@ -61,8 +61,6 @@ The view to deactivate.
 
 ## See Also
 
-[AllActiveRegion Class](/patterns-practices/reference/allactiveregion-class-mspp-regions)
-
-[AllActiveRegion Members](/patterns-practices/reference/allactiveregion-members-mspp-regions)
-
+[AllActiveRegion Class](/patterns-practices/reference/allactiveregion-class-mspp-regions)<br/>
+[AllActiveRegion Members](/patterns-practices/reference/allactiveregion-members-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

@@ -10,7 +10,7 @@ ms:mtpsurl: 'defaultconfirmationwindow-initializecomponent-method-mspp-interacti
 
 InitializeComponent
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -22,6 +22,11 @@ InitializeComponent
 public void InitializeComponent()
 ```
 
+### Implements
+
+[IComponentConnector.InitializeComponent()](http://msdn.microsoft.com/en-us/library/ms603526)
+
+
 ```VB
 'Declaration
 Public Sub InitializeComponent
@@ -29,12 +34,10 @@ Public Sub InitializeComponent
 
 ### Implements
 
-[IComponentConnector.InitializeComponent()](http://msdn.microsoft.com/en-us/library/ms603526)
+[IComponentConnector.InitializeComponent](http://msdn.microsoft.com/en-us/library/ms603526)
 
 ## See Also
 
-[DefaultConfirmationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
-
-[DefaultConfirmationWindow Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.interactivity.defaultpopupwindows.defaultconfirmationwindow)
-
-[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
+[DefaultConfirmationWindow Class](/patterns-practices/reference/defaultconfirmationwindow-class-mspp-interactivity-defaultpopupwindows)<br/>
+[DefaultConfirmationWindow Members](/patterns-practices/reference/defaultconfirmationwindow-members-mspp-interactivity-defaultpopupwindows)<br/>
+[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)<br/>

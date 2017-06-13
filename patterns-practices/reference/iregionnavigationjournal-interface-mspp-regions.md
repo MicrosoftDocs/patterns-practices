@@ -29,6 +29,5 @@ public interface IRegionNavigationJournalPublic Interface IRegionNavigationJourn
 
 ## See Also
 
-[IRegionNavigationJournal Members](/patterns-practices/reference/iregionnavigationjournal-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[IRegionNavigationJournal Members](/patterns-practices/reference/iregionnavigationjournal-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

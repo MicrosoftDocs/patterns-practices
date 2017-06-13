@@ -24,41 +24,41 @@ The [MefBootstrapper](/patterns-practices/reference/mefbootstrapper-class-mspp-m
 <tbody>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="/patterns-practices/reference/mefbootstrapper-aggregatecatalog-property-mspp-mefextensions">AggregateCatalog</a></td>
+<td>[AggregateCatalog](/patterns-practices/reference/mefbootstrapper-aggregatecatalog-property-mspp-mefextensions)</td>
 <td><div class="summary">
-Gets or sets the default <a href="/patterns-practices/reference/mefbootstrapper-aggregatecatalog-property-mspp-mefextensions">AggregateCatalog</a> for the application.
+Gets or sets the default [AggregateCatalog](/patterns-practices/reference/mefbootstrapper-aggregatecatalog-property-mspp-mefextensions) for the application.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="/patterns-practices/reference/mefbootstrapper-container-property-mspp-mefextensions">Container</a></td>
+<td>[Container](/patterns-practices/reference/mefbootstrapper-container-property-mspp-mefextensions)</td>
 <td><div class="summary">
-Gets or sets the default <a href="http://msdn.microsoft.com/en-us/library/dd833553">CompositionContainer</a> for the application.
+Gets or sets the default [CompositionContainer](http://msdn.microsoft.com/en-us/library/dd833553) for the application.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="/patterns-practices/reference/bootstrapper-logger-property-mspp">Logger</a></td>
+<td>[Logger](/patterns-practices/reference/bootstrapper-logger-property-mspp)</td>
 <td><div class="summary">
-Gets the <a href="/patterns-practices/reference/iloggerfacade-interface-mspp-logging">ILoggerFacade</a> for the application.
+Gets the [ILoggerFacade](patterns-practices/reference/iloggerfacade-interface-mspp-logging) for the application.
 </div>
-(Inherited from <a href="/patterns-practices/reference/bootstrapper-class-mspp">Bootstrapper</a>.)</td>
+(Inherited from [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp).)</td>
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="/patterns-practices/reference/bootstrapper-modulecatalog-property-mspp">ModuleCatalog</a></td>
+<td>[ModuleCatalog](/patterns-practices/reference/bootstrapper-modulecatalog-property-mspp)</td>
 <td><div class="summary">
-Gets the default <a href="/patterns-practices/reference/imodulecatalog-interface-mspp-modularity">IModuleCatalog</a> for the application.
+Gets the default [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity) for the application.
 </div>
-(Inherited from <a href="/patterns-practices/reference/bootstrapper-class-mspp">Bootstrapper</a>.)</td>
+(Inherited from [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="/patterns-practices/reference/bootstrapper-shell-property-mspp">Shell</a></td>
+<td>[Shell[(/patterns-practices/reference/bootstrapper-shell-property-mspp)</td>
 <td><div class="summary">
 Gets the shell user interface
 </div>
-(Inherited from <a href="/patterns-practices/reference/bootstrapper-class-mspp">Bootstrapper</a>.)</td>
+(Inherited from [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp).)</td>
 </tr>
 </tbody>
 </table>
@@ -66,4 +66,4 @@ Gets the shell user interface
 ## See Also
 
 [MefBootstrapper Class](/patterns-practices/reference/mefbootstrapper-class-mspp-mefextensions)  
-[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)
+[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)<br/>

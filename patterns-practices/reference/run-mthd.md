@@ -28,10 +28,7 @@ Public Sub Run
 
 ## See Also
 
-[Bootstrapper Class](/patterns-practices/reference/bootstrapper-class-mspp)
-
-[Bootstrapper Members](/patterns-practices/reference/bootstrapper-members-mspp)
-
-[Run Overload](/patterns-practices/reference/bootstrapper-run-method-mspp)
-
+[Bootstrapper Class](/patterns-practices/reference/bootstrapper-class-mspp)<br/>
+[Bootstrapper Members](/patterns-practices/reference/bootstrapper-members-mspp)<br/>
+[Run Overload](/patterns-practices/reference/bootstrapper-run-method-mspp)<br/>
 [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)

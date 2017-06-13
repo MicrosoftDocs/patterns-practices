@@ -113,6 +113,5 @@ Returns a string that represents the current object.
 </table>
 
 ## See Also
-[SelectorRegionAdapter Class](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[SelectorRegionAdapter Class](/patterns-practices/reference/selectorregionadapter-class-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

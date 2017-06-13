@@ -32,10 +32,8 @@ Public Property TriggerParameterPath As String
 
 Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-## See Also
+## See Also 
 
-[InvokeCommandAction Class](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity)
-
-[InvokeCommandAction Members](/patterns-practices/reference/invokecommandaction-members-mspp-interactivity)
-
-[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)
+[InvokeCommandAction Class](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity)<br/>
+[InvokeCommandAction Members](/patterns-practices/reference/invokecommandaction-members-mspp-interactivity)<br/>
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)<br/>

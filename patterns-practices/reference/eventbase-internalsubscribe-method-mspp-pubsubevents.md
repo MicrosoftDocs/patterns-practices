@@ -50,8 +50,7 @@ Adds the subscription to the internal list and assigns it a new [SubscriptionTok
 
 ## See Also
 
-[EventBase Class](/patterns-practices/reference/mspp-mvvm-namespace.eventbase)
-
+[EventBase Class](/patterns-practices/reference/mspp-mvvm-namespace.eventbase)<br/>
 EventBase Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)<br/>

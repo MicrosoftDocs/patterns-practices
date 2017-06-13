@@ -7,7 +7,7 @@ ms:mtpsurl: 'popupwindowaction-events-mspp-interactivity.md'
 
 # PopupWindowAction Events
 
-The [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction) type exposes the following members.
+The [PopupWindowAction](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity) type exposes the following members.
 
 ## Events
 
@@ -21,7 +21,7 @@ The [PopupWindowAction](https://msdn.microsoft.com/library/microsoft.practices.p
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public event](/images/public-event.gif)</td>
+<td>![Public event](/patterns-practices/reference/images/public-event.gif)</td>
 <td>[Changed](http://msdn.microsoft.com/en-us/library/ms596566)</td>
 <td><div class="summary">
 Occurs when the [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) or an object it contains is modified.
@@ -33,6 +33,5 @@ Occurs when the [Freezable](http://msdn.microsoft.com/en-us/library/ms602734) or
 
 ## See Also
 
-[PopupWindowAction Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.popupwindowaction)
-
-[Microsoft.Practices.Prism.Interactivity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity)
+[PopupWindowAction Class](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)<br/>
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)

@@ -40,6 +40,5 @@ Public Class MefSelectorItemsSourceSyncBehavior
 
 ## See Also
 
-[MefSelectorItemsSourceSyncBehavior Members](/patterns-practices/reference/mefselectoritemssourcesyncbehavior-members-mspp-mefextensions-regions-behaviors)
-
+[MefSelectorItemsSourceSyncBehavior Members](/patterns-practices/reference/mefselectoritemssourcesyncbehavior-members-mspp-mefextensions-regions-behaviors)<br/>
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

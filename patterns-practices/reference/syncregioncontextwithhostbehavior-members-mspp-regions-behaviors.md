@@ -177,6 +177,5 @@ Behavior's attached region.
 
 ## See Also
 
-[SyncRegionContextWithHostBehavior Class](/patterns-practices/reference/syncregioncontextwithhostbehavior-class-mspp-regions-behaviors)
-
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+[SyncRegionContextWithHostBehavior Class](/patterns-practices/reference/syncregioncontextwithhostbehavior-class-mspp-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>

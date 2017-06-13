@@ -33,9 +33,6 @@ Type: [Action](http://msdn.microsoft.com/en-us/library/bb534741)
 
 ## See Also
 
-[IInteractionRequestAware Interface](/patterns-practices/reference/iinteractionrequestaware-interface-mspp-interactivity-interactionrequest)
-
-[IInteractionRequestAware Members](/patterns-practices/reference/iinteractionrequestaware-members-mspp-interactivity-interactionrequest)
-
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
-
+[IInteractionRequestAware Interface](/patterns-practices/reference/iinteractionrequestaware-interface-mspp-interactivity-interactionrequest)<br/>
+[IInteractionRequestAware Members](/patterns-practices/reference/iinteractionrequestaware-members-mspp-interactivity-interactionrequest)<br/>
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>

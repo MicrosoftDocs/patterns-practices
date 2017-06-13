@@ -40,4 +40,4 @@ The message that describes the error.
 [ModuleNotFoundException Class](/patterns-practices/reference/modulenotfoundexception-class-mspp-modularity)  
 [ModuleNotFoundException Members](/patterns-practices/reference/modulenotfoundexception-members-mspp-modularity)  
 ModuleNotFoundException Overload  
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

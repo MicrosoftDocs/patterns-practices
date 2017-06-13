@@ -40,10 +40,8 @@ The error.
 
 ## See Also
 
-[NavigationResult Class](/patterns-practices/reference/navigationresult-class-mspp-regions)
-
-[NavigationResult Members](/patterns-practices/reference/navigationresult-members-mspp-regions)
-
+[NavigationResult Class](/patterns-practices/reference/navigationresult-class-mspp-regions)<br/>
+[NavigationResult Members](/patterns-practices/reference/navigationresult-members-mspp-regions)<br/>
 NavigationResult Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

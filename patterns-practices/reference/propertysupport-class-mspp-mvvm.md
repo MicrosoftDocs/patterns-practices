@@ -37,6 +37,5 @@ Microsoft.Practices.Prism.Mvvm.PropertySupport
 
 ## See Also
 
-[PropertySupport Members](/patterns-practices/reference/propertysupport-members-mspp-mvvm)
-
-[Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
+[PropertySupport Members](/patterns-practices/reference/propertysupport-members-mspp-mvvm)<br/>
+[Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)<br/>

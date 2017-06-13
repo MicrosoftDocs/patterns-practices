@@ -18,12 +18,12 @@ This method adds the default behaviors by using the [IRegionBehaviorFactory](/pa
 
 ## Syntax
 
-~~~C#
+```C#
 protected virtual void AttachDefaultBehaviors(
 	IRegion region,
 	T regionTarget
 )
-~~~
+```
 
 ### Parameters
 
@@ -37,11 +37,10 @@ The object to adapt.
 
 ## See Also
 
-[RegionAdapterBase&lt;T&gt; Class](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)
+[RegionAdapterBase&lt;T&gt; Class](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)<br/>
+[RegionAdapterBase&lt;T&gt; Members](/patterns-practices/reference/regionadapterbase-t-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
 
-[RegionAdapterBase&lt;T&gt; Members](/patterns-practices/reference/regionadapterbase-t-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
 
 # RegionAdapterBase(Of T).AttachDefaultBehaviors Method 
 
@@ -55,13 +54,13 @@ This method adds the default behaviors by using the [IRegionBehaviorFactory](/pa
 
 ## Syntax
 
-~~~VB
+```VB
 'Declaration
 Protected Overridable Sub AttachDefaultBehaviors ( 
 	region As IRegion,
 	regionTarget As T
 )
-~~~
+```
 
 ### Parameters
 
@@ -75,8 +74,6 @@ The object to adapt.
 
 ## See Also
 
-[RegionAdapterBase(Of T) Class](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)
-
-[RegionAdapterBase(Of T) Members](/patterns-practices/reference/regionadapterbase-t-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionAdapterBase(Of T) Class](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)<br/>
+[RegionAdapterBase(Of T) Members](/patterns-practices/reference/regionadapterbase-t-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

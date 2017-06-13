@@ -36,6 +36,5 @@ Microsoft.Practices.Prism.Modularity.FileModuleTypeLoader
 
 ## See Also
 
-[FileModuleTypeLoader Members](/patterns-practices/reference/filemoduletypeloader-members-mspp-modularity)
-
+[FileModuleTypeLoader Members](/patterns-practices/reference/filemoduletypeloader-members-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

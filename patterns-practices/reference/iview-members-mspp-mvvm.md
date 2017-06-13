@@ -20,6 +20,5 @@ The [IView](/patterns-practices/reference/iview-interface-mspp-mvvm
 
 ## See Also
 
-[IView Interface](/patterns-practices/reference/iview-interface-mspp-mvvm)
-
+[IView Interface](/patterns-practices/reference/iview-interface-mspp-mvvm)<br/>
 [Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

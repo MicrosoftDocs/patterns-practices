@@ -27,8 +27,6 @@ Public Sub New
 
 ## See Also
 
-[BindRegionContextToDependencyObjectBehavior Class](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors)
-
-[BindRegionContextToDependencyObjectBehavior Members](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-members-mspp-regions-behaviors)
-
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+[BindRegionContextToDependencyObjectBehavior Class](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors)<br/>
+[BindRegionContextToDependencyObjectBehavior Members](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-members-mspp-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>

@@ -61,8 +61,6 @@ The new child domain.
 
 ## See Also
 
-[DirectoryModuleCatalog Class](/patterns-practices/reference/directorymodulecatalog-class-mspp-modularity)
-
-[DirectoryModuleCatalog Members](/patterns-practices/reference/directorymodulecatalog-members-mspp-modularity)
-
+[DirectoryModuleCatalog Class](/patterns-practices/reference/directorymodulecatalog-class-mspp-modularity)<br/>
+[DirectoryModuleCatalog Members](/patterns-practices/reference/directorymodulecatalog-members-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

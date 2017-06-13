@@ -35,6 +35,5 @@ Public Class InteractionRequestedEventArgs
 
 ## See Also
 
-[InteractionRequestedEventArgs Members](/patterns-practices/reference/interactionrequestedeventargs-members-mspp-interactivity-interactionrequest)
-
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
+[InteractionRequestedEventArgs Members](/patterns-practices/reference/interactionrequestedeventargs-members-mspp-interactivity-interactionrequest)<br/>
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>

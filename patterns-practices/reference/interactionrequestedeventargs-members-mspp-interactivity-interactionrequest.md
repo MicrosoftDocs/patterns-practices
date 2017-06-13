@@ -4,19 +4,17 @@ Title: 'InteractionRequestedEventArgs Members (Microsoft.Practices.Prism.Interac
 ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InteractionRequest.InteractionRequestedEventArgs'
 ms:mtpsurl: 'interactionrequestedeventargs-members-mspp-interactivity-interactionrequest.md'
 ---
-
+
 # InteractionRequestedEventArgs Members
 
-The [InteractionRequestedEventArgs](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs) type exposes the following members.
+The [InteractionRequestedEventArgs](/patterns-practices/reference/interactionrequestedeventargs-class-mspp-interactivity-interactionrequest) type exposes the following members.
 
 ## Constructors
 
-
 <table>
-
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -24,9 +22,9 @@ The [InteractionRequestedEventArgs](https://msdn.microsoft.com/library/microsoft
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs.">InteractionRequestedEventArgs</a></td>
+<td>InteractionRequestedEventArgs</td>
 <td><div class="summary">
-Constructs a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs">InteractionRequestedEventArgs</a>
+Constructs a new instance of [InteractionRequestedEventArgs](/patterns-practices/reference/interactionrequestedeventargs-class-mspp-interactivity-interactionrequest)
 </div></td>
 </tr>
 </tbody>
@@ -34,12 +32,10 @@ Constructs a new instance of <a href="https://msdn.microsoft.com/library/microso
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -47,63 +43,61 @@ Constructs a new instance of <a href="https://msdn.microsoft.com/library/microso
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/bsc2ak47">Equals</a></td>
+<td>[Equals](http://msdn.microsoft.com/en-us/library/bsc2ak47)</td>
 <td><div class="summary">
-Determines whether the specified <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a> is equal to the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
+Determines whether the specified [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b) is equal to the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/4k87zsw7">Finalize</a></td>
+<td>[Finalize](http://msdn.microsoft.com/en-us/library/4k87zsw7)</td>
 <td><div class="summary">
 Allows an object to try to free resources and perform other cleanup operations before it is reclaimed by garbage collection.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/zdee4b3y">GetHashCode</a></td>
+<td>[GetHashCode](http://msdn.microsoft.com/en-us/library/zdee4b3y)</td>
 <td><div class="summary">
 Serves as a hash function for a particular type.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/dfwy45w9">GetType</a></td>
+<td>[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)</td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
+Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/57ctke0a">MemberwiseClone</a></td>
+<td>[MemberwiseClone](http://msdn.microsoft.com/en-us/library/57ctke0a)</td>
 <td><div class="summary">
-Creates a shallow copy of the current <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.
+Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">ToString</a></td>
+<td>[ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)</td>
 <td><div class="summary">
 Returns a string that represents the current object.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 </tbody>
 </table>
 
 ## Properties
 
-
 <table>
-
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -111,14 +105,14 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs.callback">Callback</a></td>
+<td>[Callback](/patterns-practices/reference/interactionrequestedeventargs-callback-property-mspp-interactivity-interactionrequest)</td>
 <td><div class="summary">
 Gets the callback to execute when an interaction is completed.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs.context">Context</a></td>
+<td>[Context](/patterns-practices/reference/interactionrequestedeventargs-context-property-mspp-interactivity-interactionrequest)</td>
 <td><div class="summary">
 Gets the context for a requested interaction.
 </div></td>
@@ -127,6 +121,6 @@ Gets the context for a requested interaction.
 </table>
 
 ## See Also
-[InteractionRequestedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest.interactionrequestedeventargs)
 
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.interactionrequest)
+[InteractionRequestedEventArgs Class](/patterns-practices/reference/interactionrequestedeventargs-class-mspp-interactivity-interactionrequest)<br/>
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>

@@ -33,8 +33,6 @@ Type: [System.EventHandler](http://msdn.microsoft.com/en-us/library/xhb70ccc)
 
 ## See Also
 
-[IActiveAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware)
-
-[IActiveAware Members](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware)
-
+[IActiveAware Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware)<br/>
+[IActiveAware Members](https://msdn.microsoft.com/library/microsoft.practices.prism.iactiveaware)<br/>
 [Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)

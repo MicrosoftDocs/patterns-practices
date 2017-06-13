@@ -145,6 +145,5 @@ Occurs when the collection changes.
 
 ## See Also
 
-[IRegionCollection Interface](/patterns-practices/reference/iregioncollection-interface-mspp-regions)
-
+[IRegionCollection Interface](/patterns-practices/reference/iregioncollection-interface-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

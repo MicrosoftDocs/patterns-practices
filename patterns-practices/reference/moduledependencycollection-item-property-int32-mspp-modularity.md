@@ -29,10 +29,7 @@ Type: [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/
 A [ModuleDependencyConfigurationElement](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyconfigurationelement).
 
 ## See Also
-[ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)
-
-[ModuleDependencyCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencycollection)
-
-[Item Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.moduledependencycollection.item)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleDependencyCollection Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencycollection)<br/>
+[ModuleDependencyCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencycollection)<br/>
+[Item Overload](https://msdn.microsoft.com/overload:microsoft.practices.prism.modularity.moduledependencycollection.item)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)<br/>

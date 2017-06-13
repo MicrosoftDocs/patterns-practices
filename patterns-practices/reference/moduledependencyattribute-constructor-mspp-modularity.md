@@ -41,8 +41,6 @@ The name of the module that this module is dependant upon.
 
 ## See Also
 
-[ModuleDependencyAttribute Class](/patterns-practices/reference/moduledependencyattribute-class-mspp-modularity)
-
-[ModuleDependencyAttribute Members](/patterns-practices/reference/moduledependencyattribute-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleDependencyAttribute Class](/patterns-practices/reference/moduledependencyattribute-class-mspp-modularity)<br/>
+[ModuleDependencyAttribute Members](/patterns-practices/reference/moduledependencyattribute-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

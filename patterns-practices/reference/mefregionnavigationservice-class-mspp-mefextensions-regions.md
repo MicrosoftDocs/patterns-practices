@@ -41,6 +41,5 @@ Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationService
 
 ## See Also
 
-[MefRegionNavigationService Members](/patterns-practices/reference/mefregionnavigationservice-members-mspp-mefextensions-regions)
-
+[MefRegionNavigationService Members](/patterns-practices/reference/mefregionnavigationservice-members-mspp-mefextensions-regions)<br/>
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

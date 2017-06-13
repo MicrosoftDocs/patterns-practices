@@ -35,6 +35,5 @@ Identifies the Value property of the ObservableObject
 
 ## See Also
 
-[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)
-
-[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)
+[ObservableObject&lt;T&gt; Class](/patterns-practices/reference/observableobject-t-class-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism)<br/>

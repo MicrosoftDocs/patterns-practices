@@ -18,6 +18,5 @@ Defines the interface for a collection of [IRegionBehavior](https://msdn.microso
 public interface IRegionBehaviorCollection : IEnumerable&lt;KeyValuePair&lt;string, IRegionBehavior&gt;&gt;, IEnumerablePublic Interface IRegionBehaviorCollection Inherits IEnumerable(Of KeyValuePair(Of String, IRegionBehavior)), IEnumerable
 
 ## See Also
-[IRegionBehaviorCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionbehaviorcollection)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[IRegionBehaviorCollection Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.iregionbehaviorcollection)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>

@@ -38,7 +38,7 @@ Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscription&lt;TPayload&g
 
 DispatcherEventSubscription&lt;TPayload&gt; Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
 
 # DispatcherEventSubscription(Of TPayload) Class
 
@@ -75,4 +75,4 @@ Microsoft.Practices.Prism.PubSubEvents.DispatcherEventSubscription(Of TPayload)
 
 DispatcherEventSubscription(Of TPayload) Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>

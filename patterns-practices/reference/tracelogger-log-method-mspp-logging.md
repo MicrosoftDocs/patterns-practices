@@ -54,8 +54,6 @@ The priority of the entry.
 
 ## See Also
 
-[TraceLogger Class](/patterns-practices/reference/tracelogger-class-mspp-logging)
-
-[TraceLogger Members](/patterns-practices/reference/tracelogger-members-mspp-logging)
-
-[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)
+[TraceLogger Class](/patterns-practices/reference/tracelogger-class-mspp-logging)<br/>
+[TraceLogger Members](/patterns-practices/reference/tracelogger-members-mspp-logging)<br/>
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)<br/>

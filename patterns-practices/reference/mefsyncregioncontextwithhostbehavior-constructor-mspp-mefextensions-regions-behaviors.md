@@ -28,8 +28,6 @@ Public Sub New
 
 ## See Also
 
-[MefSyncRegionContextWithHostBehavior Class](/patterns-practices/reference/mefsyncregioncontextwithhostbehavior-class-mspp-mefextensions-regions-behaviors)
-
-[MefSyncRegionContextWithHostBehavior Members](/patterns-practices/reference/mefsyncregioncontextwithhostbehavior-members-mspp-mefextensions-regions-behaviors)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
+[MefSyncRegionContextWithHostBehavior Class](/patterns-practices/reference/mefsyncregioncontextwithhostbehavior-class-mspp-mefextensions-regions-behaviors)<br/>
+[MefSyncRegionContextWithHostBehavior Members](/patterns-practices/reference/mefsyncregioncontextwithhostbehavior-members-mspp-mefextensions-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)<br/>

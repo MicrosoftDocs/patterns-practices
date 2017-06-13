@@ -41,6 +41,5 @@ Inheritance Hierarchy
     Microsoft.Practices.Prism.MefExtensions.Modularity.MefModuleInitializer
 
 ## See Also
-[MefModuleInitializer Members](/patterns-practices/reference/mefmoduleinitializer-members-mspp-mefextensions-modularity)
-
-[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)
+[MefModuleInitializer Members](/patterns-practices/reference/mefmoduleinitializer-members-mspp-mefextensions-modularity)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Modularity Namespace](/patterns-practices/reference/mspp-mefextensions-modularity-namespace)<br/>

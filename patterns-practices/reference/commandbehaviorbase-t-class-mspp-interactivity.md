@@ -39,10 +39,8 @@ Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase&lt;T&gt;
 
 ## See Also
 
-[CommandBehaviorBase&lt;T&gt; Members](/patterns-practices/reference/commandbehaviorbase-t-members-mspp-interactivity)
-
-[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)
-
+[CommandBehaviorBase&lt;T&gt; Members](/patterns-practices/reference/commandbehaviorbase-t-members-mspp-interactivity)<br/>
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)<br/>
 
 # CommandBehaviorBase(Of T) Class
 
@@ -78,6 +76,5 @@ Microsoft.Practices.Prism.Interactivity.CommandBehaviorBase(Of T)
 
 ## See Also
 
-[CommandBehaviorBase(Of T) Members](/patterns-practices/reference/commandbehaviorbase-t-members-mspp-interactivity)
-
+[CommandBehaviorBase(Of T) Members](/patterns-practices/reference/commandbehaviorbase-t-members-mspp-interactivity)<br/>
 [Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)

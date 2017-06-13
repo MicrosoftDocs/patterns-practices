@@ -23,7 +23,7 @@ The [BackgroundEventSubscription(Of TPayload)](/patterns-practices/reference/bac
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="/patterns-practices/reference/eventsubscription-tpayload-action-property-mspp-pubsubevents">Action</a></td>
 <td><div class="summary">
 Gets the target <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action(Of T)</a> that is referenced by the <a href="/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents">IDelegateReference</a>.
@@ -31,7 +31,7 @@ Gets the target <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Actio
 (Inherited from <a href="/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents"> EventSubscription(Of TPayload)</a>.)</td>
 </tr>
 <tr class="even">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="/patterns-practices/reference/eventsubscription-tpayload-filter-property-mspp-pubsubevents">Filter</a></td>
 <td><div class="summary">
 Gets the target <a href="http://msdn2.microsoft.com/en-us/library/bfcke1bz">Predicate(Of T)</a> that is referenced by the <a href="/patterns-practices/reference/idelegatereference-interface-mspp-pubsubevents">IDelegateReference</a>.
@@ -39,7 +39,7 @@ Gets the target <a href="http://msdn2.microsoft.com/en-us/library/bfcke1bz">Pred
 (Inherited from <a href="/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents"> EventSubscription(Of TPayload)</a>.)</td>
 </tr>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="/patterns-practices/reference/eventsubscription-tpayload-subscriptiontoken-property-mspp-pubsubevents">SubscriptionToken</a></td>
 <td><div class="summary">
 Gets or sets a <a href="/patterns-practices/reference/eventsubscription-tpayload-subscriptiontoken-property-mspp-pubsubevents">SubscriptionToken</a> that identifies this <a href="https://msdn.microsoft.com/en-us/library/dn736140(v=pandp.50)">IEventSubscription</a>.
@@ -51,6 +51,5 @@ Gets or sets a <a href="/patterns-practices/reference/eventsubscription-tpayload
 
 ## See Also
 
-[BackgroundEventSubscription(Of TPayload) Class](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
+[BackgroundEventSubscription(Of TPayload) Class](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>

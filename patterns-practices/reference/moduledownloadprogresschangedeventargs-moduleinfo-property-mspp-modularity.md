@@ -22,8 +22,6 @@ Type: [ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.
 The module info.
 
 ## See Also
-[ModuleDownloadProgressChangedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
-
-[ModuleDownloadProgressChangedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleDownloadProgressChangedEventArgs Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)<br/>
+[ModuleDownloadProgressChangedEventArgs Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledownloadprogresschangedeventargs)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)<br/>

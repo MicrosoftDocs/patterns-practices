@@ -31,6 +31,5 @@ Public Interface IConfirmNavigationRequest
 
 ## See Also
 
-[IConfirmNavigationRequest Members](/patterns-practices/reference/iconfirmnavigationrequest-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[IConfirmNavigationRequest Members](/patterns-practices/reference/iconfirmnavigationrequest-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

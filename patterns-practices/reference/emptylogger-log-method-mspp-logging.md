@@ -54,8 +54,6 @@ The priority of the entry.
 
 ## See Also
 
-[EmptyLogger Class](/patterns-practices/reference/emptylogger-class-mspp-logging)
-
-[EmptyLogger Members](/patterns-practices/reference/emptylogger-members-mspp-logging)
-
-[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)
+[EmptyLogger Class](/patterns-practices/reference/emptylogger-class-mspp-logging)<br/>
+[EmptyLogger Members](/patterns-practices/reference/emptylogger-members-mspp-logging)<br/>
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)<br/>

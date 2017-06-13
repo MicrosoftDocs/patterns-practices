@@ -20,14 +20,14 @@ ms:mtpsurl: 'navigationparameters-constructor-mspp-regions.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>NavigationParameters()</td>
 <td><div class="summary">
 Initializes a new instance of the [NavigationParameters](/patterns-practices/reference/mspp-regions-namespace.navigationparameters) class.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/images/public-method.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>NavigationParameters(String)</td>
 <td><div class="summary">
 Initializes a new instance of the [NavigationParameters](/patterns-practices/reference/mspp-regions-namespace.navigationparameters) class with a query string.
@@ -38,8 +38,6 @@ Initializes a new instance of the [NavigationParameters](/patterns-practices/ref
 
 ## See Also
 
-[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)
-
-[NavigationParameters Members](/patterns-practices/reference/navigationparameters-members-mspp-regions)
-
+[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)<br/>
+[NavigationParameters Members](/patterns-practices/reference/navigationparameters-members-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

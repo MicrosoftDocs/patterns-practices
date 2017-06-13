@@ -115,6 +115,5 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 
 ## See Also
 
-[RegionCreationException Class](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors)
-
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+[RegionCreationException Class](/patterns-practices/reference/regioncreationexception-class-mspp-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>

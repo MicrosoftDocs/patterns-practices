@@ -24,14 +24,14 @@ The [IInteractionRequestAware](/patterns-practices/reference/iinteractionrequest
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="/patterns-practices/reference/iinteractionrequestaware-finishinteraction-property-mspp-interactivity-interactionrequest">FinishInteraction</a></td>
 <td><div class="summary">
 An <a href="http://msdn.microsoft.com/en-us/library/bb534741">Action</a> that can be invoked to finish the interaction.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td><a href="/patterns-practices/reference/iinteractionrequestaware-notification-property-mspp-interactivity-interactionrequest
 ">Notification</a></td>
 <td><div class="summary">
@@ -44,7 +44,5 @@ The <a href="/patterns-practices/reference/inotification-interface-mspp-interact
 
 ## See Also
 
-[IInteractionRequestAware Interface](/patterns-practices/reference/iinteractionrequestaware-interface-mspp-interactivity-interactionrequest)
-
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
-
+[IInteractionRequestAware Interface](/patterns-practices/reference/iinteractionrequestaware-interface-mspp-interactivity-interactionrequest)<br/>
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>

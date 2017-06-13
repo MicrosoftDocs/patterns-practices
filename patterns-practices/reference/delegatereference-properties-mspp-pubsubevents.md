@@ -21,7 +21,7 @@ The [DelegateReference](/patterns-practices/reference/delegatereference-class-ms
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[Target](/patterns-practices/reference/mspp-mvvm-namespace.delegatereference.target)</td>
 <td><div class="summary">
 Gets the [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) (the target) referenced by the current [DelegateReference](/patterns-practices/reference/mspp-mvvm-namespace.delegatereference) object.
@@ -31,6 +31,5 @@ Gets the [Delegate](http://msdn.microsoft.com/en-us/library/y22acf51) (the targe
 </table>
 
 ## See Also
-[DelegateReference Class](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents)
-
+[DelegateReference Class](/patterns-practices/reference/delegatereference-class-mspp-pubsubevents)<br/>
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)

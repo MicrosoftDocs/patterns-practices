@@ -28,10 +28,8 @@ Public Sub New
 
 ## See Also
 
-[TextLogger Class](/patterns-practices/reference/textlogger-class-mspp-logging)
-
-[TextLogger Members](/patterns-practices/reference/textlogger-members-mspp-logging)
-
+[TextLogger Class](/patterns-practices/reference/textlogger-class-mspp-logging)<br/>
+[TextLogger Members](/patterns-practices/reference/textlogger-members-mspp-logging)<br/>
 TextLogger Overload
 
-[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)<br/>

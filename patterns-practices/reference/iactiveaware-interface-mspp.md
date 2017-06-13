@@ -28,6 +28,5 @@ Public Interface IActiveAware
 
 ## See Also
 
-[IActiveAware Members](/patterns-practices/reference/iactiveaware-members-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+[IActiveAware Members](/patterns-practices/reference/iactiveaware-members-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>

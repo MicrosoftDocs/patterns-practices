@@ -18,22 +18,24 @@ Creates an instance of the behavior [Type](http://msdn.microsoft.com/en-us/libra
 
 ## Syntax
 
-~~~C#
+```C#
 public IRegionBehavior CreateFromKey(
 	string key
 )
-~~~
-~~~VB
+```
+
+```VB
 'Declaration
 Public Function CreateFromKey ( 
 	key As String
 ) 
-~~~
+```
+
 ### Parameters
 
-_key_  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
-The key that is used to register a behavior type.
+*key*  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The key that is used to register a behavior type.
 
 ### Return Value
 
@@ -46,8 +48,6 @@ A new instance of the behavior.
 
 ## See Also
 
-[RegionBehaviorFactory Class](/patterns-practices/reference/regionbehaviorfactory-class-mspp-regions)
-
-[RegionBehaviorFactory Members](/patterns-practices/reference/regionbehaviorfactory-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionBehaviorFactory Class](/patterns-practices/reference/regionbehaviorfactory-class-mspp-regions)<br/>
+[RegionBehaviorFactory Members](/patterns-practices/reference/regionbehaviorfactory-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

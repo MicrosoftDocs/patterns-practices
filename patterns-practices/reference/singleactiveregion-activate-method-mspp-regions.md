@@ -45,8 +45,6 @@ If there is an active view before calling this method, that view will be deactiv
 
 ## See Also
 
-[SingleActiveRegion Class](/patterns-practices/reference/singleactiveregion-class-mspp-regions)
-
-[SingleActiveRegion Members](/patterns-practices/reference/singleactiveregion-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[SingleActiveRegion Class](/patterns-practices/reference/singleactiveregion-class-mspp-regions)<br/>
+[SingleActiveRegion Members](/patterns-practices/reference/singleactiveregion-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

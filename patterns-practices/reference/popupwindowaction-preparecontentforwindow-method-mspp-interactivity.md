@@ -45,8 +45,6 @@ Type: [System.Windows.Window](http://msdn2.microsoft.com/en-us/library/ms590112)
 
 ## See Also
 
-[PopupWindowAction Class](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)
-
-[PopupWindowAction Members](/patterns-practices/reference/popupwindowaction-members-mspp-interactivity)
-
-[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)
+[PopupWindowAction Class](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity)<br/>
+[PopupWindowAction Members](/patterns-practices/reference/popupwindowaction-members-mspp-interactivity)<br/>
+[Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)<br/>

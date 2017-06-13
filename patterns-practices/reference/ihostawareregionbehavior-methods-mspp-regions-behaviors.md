@@ -36,6 +36,5 @@ Attaches the behavior to the specified region.
 
 ## See Also
 
-[IHostAwareRegionBehavior Interface](/patterns-practices/reference/ihostawareregionbehavior-interface-mspp-regions-behaviors)
-
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+[IHostAwareRegionBehavior Interface](/patterns-practices/reference/ihostawareregionbehavior-interface-mspp-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>

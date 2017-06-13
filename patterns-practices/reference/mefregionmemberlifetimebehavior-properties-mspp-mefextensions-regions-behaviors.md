@@ -24,19 +24,19 @@ The [MefRegionMemberLifetimeBehavior](/patterns-practices/reference/mefregionmem
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions">IsAttached</a></td>
+<td>[IsAttached](/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions)</td>
 <td><div class="summary">
 Returns <strong>Truetrue</strong> (<strong>True</strong> in Visual Basic) if the behavior is attached to a region, <strong>Falsefalse</strong> (<strong>False</strong> in Visual Basic) otherwise.
 </div>
-(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions">RegionBehavior</a>.)</td>
+(Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/regionbehavior-region-property-mspp-regions">Region</a></td>
+<td>[Region](/patterns-practices/reference/regionbehavior-region-property-mspp-regions)</td>
 <td><div class="summary">
 Behavior's attached region.
 </div>
-(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions">RegionBehavior</a>.)</td>
+(Inherited from [RegionBehavior](/patterns-practices/reference/regionbehavior-class-mspp-regions).)</td>
 </tr>
 </tbody>
 </table>
@@ -44,4 +44,4 @@ Behavior's attached region.
 ## See Also
 
 [MefRegionMemberLifetimeBehavior Class](/patterns-practices/reference/mefregionmemberlifetimebehavior-class-mspp-mefextensions-regions-behaviors)  
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)<br/>

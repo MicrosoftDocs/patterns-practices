@@ -26,7 +26,7 @@ The [IEventSubscription](/patterns-practices/reference/mspp-mvvm-namespace.ieven
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[SubscriptionToken](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents)</td>
 <td><div class="summary">
 Gets or sets a [SubscriptionToken](/patterns-practices/reference/ieventsubscription-subscriptiontoken-property-mspp-pubsubevents) that identifies this [IEventSubscription] (/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents).
@@ -37,6 +37,5 @@ Gets or sets a [SubscriptionToken](/patterns-practices/reference/ieventsubscript
 
 ## See Also
 
-[IEventSubscription Interface](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
-
+[IEventSubscription Interface](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)<br/>
 [Microsoft.Practices.Prism.PubSubEvents Namespace ](/patterns-practices/reference/mspp-pubsubevents-namespace)

@@ -26,7 +26,7 @@ The [DataEventArgs&lt;TData&gt;](/patterns-practices/reference/dataeventargs-tda
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public property](/images/pubproperty.gif)</td>
+<td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 <td>[Value](/patterns-practices/reference/dataeventargs-tdata-value-property-mspp-pubsubevents)</td>
 <td><div class="summary">
 Gets the information related to the event.
@@ -37,6 +37,5 @@ Gets the information related to the event.
 
 ## See Also
 
-[DataEventArgs&lt;TData&gt; Class](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents)
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
+[DataEventArgs&lt;TData&gt; Class](/patterns-practices/reference/dataeventargs-tdata-class-mspp-pubsubevents)<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>

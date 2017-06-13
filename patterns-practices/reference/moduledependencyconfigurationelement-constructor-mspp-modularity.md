@@ -5,14 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleDependencyConfi
 ms:mtpsurl: 'moduledependencyconfigurationelement-constructor-mspp-modularity.md'
 ---
 
-
 # ModuleDependencyConfigurationElement Constructor
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -23,16 +20,16 @@ ms:mtpsurl: 'moduledependencyconfigurationelement-constructor-mspp-modularity.md
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleDependencyConfigurationElement</td>
+<td>ModuleDependencyConfigurationElement()</td>
 <td><div class="summary">
-Initializes a new instance of <a href="/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity">ModuleDependencyConfigurationElement</a>.
+Initializes a new instance of [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity)</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>ModuleDependencyConfigurationElement(String)</td>
 <td><div class="summary">
-Initializes a new instance of <a href="/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity">ModuleDependencyConfigurationElement</a>.
+Initializes a new instance of [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity)</a>.
 </div></td>
 </tr>
 </tbody>
@@ -40,8 +37,6 @@ Initializes a new instance of <a href="/patterns-practices/reference/moduledepen
 
 ## See Also
 
-[ModuleDependencyConfigurationElement Class](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity)
-
-[ModuleDependencyConfigurationElement Members](/patterns-practices/reference/moduledependencyconfigurationelement-members-mspp-modularity)
-
+[ModuleDependencyConfigurationElement Class](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity)<br/>
+[ModuleDependencyConfigurationElement Members](/patterns-practices/reference/moduledependencyconfigurationelement-members-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

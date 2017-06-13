@@ -27,10 +27,8 @@ Public Sub New
 
 ## See Also
 
-[DuplicateModuleException Class](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity)
-
-[DuplicateModuleException Members](/patterns-practices/reference/duplicatemoduleexception-members-mspp-modularity)
-
+[DuplicateModuleException Class](/patterns-practices/reference/duplicatemoduleexception-class-mspp-modularity)<br/>
+[DuplicateModuleException Members](/patterns-practices/reference/duplicatemoduleexception-members-mspp-modularity)<br/>
 DuplicateModuleException Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

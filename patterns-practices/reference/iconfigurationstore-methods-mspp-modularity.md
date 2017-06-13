@@ -34,6 +34,5 @@ Gets the module configuration data.
 
 ## See Also
 
-[IConfigurationStore Interface](/patterns-practices/reference/iconfigurationstore-interface-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[IConfigurationStore Interface](/patterns-practices/reference/iconfigurationstore-interface-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

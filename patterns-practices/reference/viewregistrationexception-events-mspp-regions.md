@@ -8,7 +8,7 @@ ms:mtpsurl: 'viewregistrationexception-events-mspp-regions.md'
 
 # ViewRegistrationException Events
 
-The [ViewRegistrationException](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception) type exposes the following members.
+The [ViewRegistrationException](/patterns-practices/reference/viewregistrationexception-class-mspp-regions) type exposes the following members.
 
 ## Events
 
@@ -36,6 +36,5 @@ Occurs when an exception is serialized to create an exception state object that 
 
 ## See Also
 
-[ViewRegistrationException Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.viewregistrationexception)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[ViewRegistrationException Class](/patterns-practices/reference/viewregistrationexception-class-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

@@ -57,6 +57,5 @@ Called when the implementer has been navigated to.
 </table>
 
 ## See Also
-[IConfirmNavigationRequest Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iconfirmnavigationrequest)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[IConfirmNavigationRequest Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iconfirmnavigationrequest)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>

@@ -99,6 +99,5 @@ Gets the method that throws the current exception.
 
 ## See Also
 
-[ModuleInitializeException Class](/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleInitializeException Class](/patterns-practices/reference/moduleinitializeexception-class-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

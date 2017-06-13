@@ -33,8 +33,6 @@ Type: [IRegionBehaviorCollection](/patterns-practices/reference/iregionbehaviorc
 
 ## See Also
 
-[IRegion Interface](/patterns-practices/reference/iregion-interface-mspp-regions)
-
-[IRegion Members](/patterns-practices/reference/iregion-members-mspp-regions)
-
+[IRegion Interface](/patterns-practices/reference/iregion-interface-mspp-regions)<br/>
+[IRegion Members](/patterns-practices/reference/iregion-members-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

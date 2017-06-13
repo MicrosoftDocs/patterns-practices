@@ -283,6 +283,5 @@ Occurs when a property value changes.
 
 ## See Also
 
-[AllActiveRegion Class](/patterns-practices/reference/allactiveregion-class-mspp-modularity)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[AllActiveRegion Class](/patterns-practices/reference/allactiveregion-class-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

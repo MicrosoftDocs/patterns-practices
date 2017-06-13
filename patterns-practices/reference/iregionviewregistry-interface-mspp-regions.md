@@ -27,6 +27,5 @@ Public Interface IRegionViewRegistry
 
 ## See Also
 
-[IRegionViewRegistry Members](/patterns-practices/reference/iregionviewregistry-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[IRegionViewRegistry Members](/patterns-practices/reference/iregionviewregistry-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

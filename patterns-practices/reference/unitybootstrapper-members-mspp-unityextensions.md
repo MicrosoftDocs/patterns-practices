@@ -7,7 +7,7 @@ ms:mtpsurl: 'unitybootstrapper-members-mspp-unityextensions.md'
 
 # UnityBootstrapper Members
 
-The [UnityBootstrapper](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper) type exposes the following members.
+The [UnityBootstrapper](/patterns-practices/reference/unitybootstrapper-class-mspp-unityextensions) type exposes the following members.
 
 ## Constructors
 
@@ -23,9 +23,9 @@ The [UnityBootstrapper](https://msdn.microsoft.com/library/microsoft.practices.p
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper.">UnityBootstrapper</a></td>
+<td>UnityBootstrapper</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper">UnityBootstrapper</a> class
+Initializes a new instance of the [UnityBootstrapper](/patterns-practices/reference/unitybootstrapper-class-mspp-unityextensions) class
 </div></td>
 </tr>
 </tbody>
@@ -45,73 +45,73 @@ Initializes a new instance of the <a href="https://msdn.microsoft.com/library/mi
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper.configurecontainer">ConfigureContainer</a></td>
+<td>[ConfigureContainer](/patterns-practices/reference/unitybootstrapper-configurecontainer-method-mspp-unityextensions)</td>
 <td><div class="summary">
 Configures the IUnityContainer. May be overwritten in a derived class to add specific type mappings required by the application.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.configuredefaultregionbehaviors">ConfigureDefaultRegionBehaviors</a></td>
+<td>[ConfigureDefaultRegionBehaviors](/patterns-practices/reference/bootstrapper-configuredefaultregionbehaviors-method-mspp)</td>
 <td><div class="summary">
-Configures the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionbehaviorfactory">IRegionBehaviorFactory</a>. This will be the list of default behaviors that will be added to a region.
+Configures the [IRegionBehaviorFactory](/patterns-practices/reference/iregionbehaviorfactory-interface-mspp-regions). This will be the list of default behaviors that will be added to a region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
+(Inherited from [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.configuremodulecatalog">ConfigureModuleCatalog</a></td>
+<td>[ConfigureModuleCatalog](/patterns-practices/reference/bootstrapper-configuremodulecatalog-method-mspp)</td>
 <td><div class="summary">
-Configures the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog">IModuleCatalog</a> used by Prism.
+Configures the [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity) used by Prism.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
+(Inherited from [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.configureregionadaptermappings">ConfigureRegionAdapterMappings</a></td>
+<td>[ConfigureRegionAdapterMappings](/patterns-practices/reference/bootstrapper-configureregionadaptermappings-method-mspp)</td>
 <td><div class="summary">
 Configures the default region adapter mappings to use in the application, in order to adapt UI controls defined in XAML to use a region and register it automatically. May be overwritten in a derived class to add specific mappings required by the application.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
+(Inherited from [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper.configureservicelocator">ConfigureServiceLocator</a></td>
+<td>[ConfigureServiceLocator](/patterns-practices/reference/unitybootstrapper-configureservicelocator-method-mspp-unityextensions)</td>
 <td><div class="summary">
 Configures the LocatorProvider for the ServiceLocator.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.configureservicelocator">Bootstrapper.ConfigureServiceLocator()()()</a>.)</td>
+(Overrides [Bootstrapper.ConfigureServiceLocator()](/patterns-practices/reference/bootstrapper-configureservicelocator-method-mspp).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper.createcontainer">CreateContainer</a></td>
+<td>[CreateContainer](/patterns-practices/reference/unitybootstrapper-createcontainer-method-mspp-unityextensions)</td>
 <td><div class="summary">
 Creates the IUnityContainer that will be used as the default container.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.createlogger">CreateLogger</a></td>
+<td>[CreateLogger](/patterns-practices/reference/bootstrapper-createlogger-method-mspp)</td>
 <td><div class="summary">
-Create the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a> used by the bootstrapper.
+Create the [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging) used by the bootstrapper.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
+(Inherited from [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.createmodulecatalog">CreateModuleCatalog</a></td>
+<td>[CreateModuleCatalog](/patterns-practices/reference/bootstrapper-createmodulecatalog-method-mspp)</td>
 <td><div class="summary">
-Creates the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog">IModuleCatalog</a> used by Prism.
+Creates the [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity) used by Prism.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
+(Inherited from [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.createshell">CreateShell</a></td>
+<td>[CreateShell](/patterns-practices/reference/bootstrapper-createshell-method-mspp)</td>
 <td><div class="summary">
 Creates the shell or main window of the application.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
+(Inherited from [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -147,19 +147,19 @@ Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper.initializemodules">InitializeModules</a></td>
+<td>[InitializeModules](/patterns-practices/reference/unitybootstrapper-initializemodules-method-mspp-unityextensions)</td>
 <td><div class="summary">
 Initializes the modules. May be overwritten in a derived class to use a custom Modules Catalog
 </div>
-(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.initializemodules">Bootstrapper.InitializeModules()()()</a>.)</td>
+(Overrides [Bootstrapper.InitializeModules()](/patterns-practices/reference/bootstrapper-initializemodules-method-mspp).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.initializeshell">InitializeShell</a></td>
+<td>[InitializeShell](/patterns-practices/reference/bootstrapper-initializeshell-method-mspp)</td>
 <td><div class="summary">
 Initializes the shell.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
+(Inherited from [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
@@ -171,34 +171,34 @@ Creates a shallow copy of the current [Object](http://msdn.microsoft.com/en-us/l
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper.registerframeworkexceptiontypes">RegisterFrameworkExceptionTypes</a></td>
+<td>[RegisterFrameworkExceptionTypes](/patterns-practices/reference/unitybootstrapper-registerframeworkexceptiontypes-method-mspp-unityextensions)</td>
 <td><div class="summary">
-Registers in the IUnityContainer the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the Exceptions that are not considered root exceptions by the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.exceptionextensions">ExceptionExtensions</a>.
+Registers in the IUnityContainer the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the Exceptions that are not considered root exceptions by the [ExceptionExtensions](/patterns-practices/reference/exceptionextensions-class-mspp).
 </div>
-(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.registerframeworkexceptiontypes">Bootstrapper.RegisterFrameworkExceptionTypes()()()</a>.)</td>
+(Overrides [Bootstrapper.RegisterFrameworkExceptionTypes()](/patterns-practices/reference/bootstrapper-registerframeworkexceptiontypes-method-mspp).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper.registertypeifmissing(system.type%2csystem.type%2csystem.boolean)">RegisterTypeIfMissing</a></td>
+<td>[RegisterTypeIfMissing](/patterns-practices/reference/unitybootstrapper-registertypeifmissing-method-mspp-unityextensions)</td>
 <td><div class="summary">
 Registers a type in the container only if that type was not already registered.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.run">Run()()()</a></td>
+<td>[Run()](/patterns-practices/reference/run-mthd)</td>
 <td><div class="summary">
 Runs the bootstrapper process.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
+(Inherited from [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper.run(system.boolean)">Run(Boolean)</a></td>
+<td>[Run(Boolean)](/patterns-practices/reference/unitybootstrapper-run-method-boolean-mspp-unityextensions)</td>
 <td><div class="summary">
 Run the bootstrapper process.
 </div>
-(Overrides <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.run(system.boolean)">Bootstrapper.Run(Boolean)</a>.)</td>
+(Overrides [Bootstrapper.Run(Boolean)](/patterns-practices/reference/bootstrapper-run-method-boolean-mspp).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
@@ -225,39 +225,38 @@ Returns a string that represents the current object.
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper.container">Container</a></td>
+<td>[Container](/patterns-practices/reference/unitybootstrapper-container-property-mspp-unityextensions)</td>
 <td><div class="summary">
 Gets the default IUnityContainer for the application.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.logger">Logger</a></td>
+<td>[Logger](/patterns-practices/reference/bootstrapper-logger-property-mspp)</td>
 <td><div class="summary">
-Gets the <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.logging.iloggerfacade">ILoggerFacade</a> for the application.
+Gets the [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging) for the application.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
+(Inherited from [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp).)</td>
 </tr>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.modulecatalog">ModuleCatalog</a></td>
+<td>[ModuleCatalog](/patterns-practices/reference/bootstrapper-modulecatalog-property-mspp)</td>
 <td><div class="summary">
-Gets the default <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.imodulecatalog">IModuleCatalog</a> for the application.
+Gets the default [IModuleCatalog](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity) for the application.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
+(Inherited from [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp).)</td>
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper.shell">Shell</a></td>
+<td>[Shell](/patterns-practices/reference/bootstrapper-shell-property-mspp)</td>
 <td><div class="summary">
 Gets the shell user interface
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.bootstrapper">Bootstrapper</a>.)</td>
+(Inherited from [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp).)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
-[UnityBootstrapper Class](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions.unitybootstrapper)
-
-[Microsoft.Practices.Prism.UnityExtensions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.unityextensions)
+[UnityBootstrapper Class](/patterns-practices/reference/unitybootstrapper-class-mspp-unityextensions)<br/>
+[Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)

@@ -32,8 +32,6 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 **truetrue** (**True** in Visual Basic) if the item should be considered active; otherwise **falsefalse** (**False** in Visual Basic).
 
 ## See Also
-[ItemMetadata Class](/patterns-practices/reference/itemmetadata-class-mspp-regions)
-
-[ItemMetadata Members](/patterns-practices/reference/itemmetadata-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[ItemMetadata Class](/patterns-practices/reference/itemmetadata-class-mspp-regions)<br/>
+[ItemMetadata Members](/patterns-practices/reference/itemmetadata-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

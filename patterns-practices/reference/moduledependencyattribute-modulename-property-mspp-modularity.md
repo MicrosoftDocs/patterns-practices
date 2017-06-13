@@ -22,8 +22,6 @@ Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The name of the module that this module is dependant upon.
 
 ## See Also
-[ModuleDependencyAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute)
-
-[ModuleDependencyAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencyattribute)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleDependencyAttribute Class](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduledependencyattribute)<br/>
+[ModuleDependencyAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduledependencyattribute)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)<br/>

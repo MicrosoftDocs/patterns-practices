@@ -39,6 +39,5 @@ Public Class MefRegionNavigationJournalEntry
 
 ## See Also
 
-[MefRegionNavigationJournalEntry Members](/patterns-practices/reference/mefregionnavigationjournalentry-members-mspp-mefextensions-regions)
-
+[MefRegionNavigationJournalEntry Members](/patterns-practices/reference/mefregionnavigationjournalentry-members-mspp-mefextensions-regions)<br/>
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

@@ -37,8 +37,6 @@ A [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50) value.
 
 ## See Also
 
-[ModuleAttribute Class](/patterns-practices/reference/moduleattribute-class-mspp-modularity)
-
-[ModuleAttribute Members](/patterns-practices/reference/moduleattribute-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleAttribute Class](/patterns-practices/reference/moduleattribute-class-mspp-modularity)<br/>
+[ModuleAttribute Members](/patterns-practices/reference/moduleattribute-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

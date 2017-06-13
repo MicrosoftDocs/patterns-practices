@@ -8,7 +8,7 @@ ms:mtpsurl: 'navigationparameters-properties-mspp-regions.md'
 
 # NavigationParameters Properties
 
-The [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters) type exposes the following members.
+The [NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions) type exposes the following members.
 
 ## Properties
 
@@ -23,11 +23,10 @@ The [NavigationParameters](https://msdn.microsoft.com/library/microsoft.practice
 <tbody>
 <tr class="odd">
 
-<td><img src="https://msdn.microsoft.com/en-us/Dn736200.pubproperty(en-us,PandP.50).gif" title="Public property" /></td>
-
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters.item(system.string)">Item</a></td>
+<td><a href="/patterns-practices/reference/navigationparameters-item-property-mspp-regions
+">Item</a></td>
 <td><div class="summary">
 Gets the <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> with the specified key.
 </div></td>
@@ -37,6 +36,5 @@ Gets the <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> w
 
 ## See Also
 
-[NavigationParameters Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

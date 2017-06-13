@@ -38,8 +38,7 @@ A token that identifies this [IEventSubscription](/patterns-practices/reference/
 
 ## See Also
 
-[IEventSubscription Interface](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
-
+[IEventSubscription Interface](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)<br/>
 IEventSubscription Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/ieventsubscription-interface-mspp-pubsubevents)<br/>

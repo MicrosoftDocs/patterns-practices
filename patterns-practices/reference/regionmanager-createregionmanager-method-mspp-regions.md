@@ -50,8 +50,6 @@ A new region manager that can be used as a different scope from the current regi
 
 ## See Also
 
-[RegionManager Class](/patterns-practices/reference/regionmanager-class-mspp-regions)
-
-[RegionManager Members](/patterns-practices/reference/regionmanager-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionManager Class](/patterns-practices/reference/regionmanager-class-mspp-regions)<br/>
+[RegionManager Members](/patterns-practices/reference/regionmanager-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

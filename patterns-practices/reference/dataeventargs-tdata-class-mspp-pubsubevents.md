@@ -39,8 +39,7 @@ The type of data to pass.
 
 DataEventArgs&lt;TData&gt; Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
-
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
 
 
 # DataEventArgs(Of TData) Class
@@ -79,4 +78,4 @@ The type of data to pass.
 
 DataEventArgs(Of TData) Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.pubsubevents)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)<br/>

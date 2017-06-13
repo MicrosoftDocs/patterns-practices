@@ -56,6 +56,5 @@ Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows.DefaultConfirmationW
 
 ## See Also
 
-[DefaultConfirmationWindow Members](/patterns-practices/reference/defaultconfirmationwindow-members-mspp-interactivity-defaultpopupwindows)
-
+[DefaultConfirmationWindow Members](/patterns-practices/reference/defaultconfirmationwindow-members-mspp-interactivity-defaultpopupwindows)<br/>
 [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)

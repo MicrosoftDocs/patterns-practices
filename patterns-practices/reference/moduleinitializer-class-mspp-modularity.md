@@ -36,6 +36,5 @@ Microsoft.Practices.Prism.Modularity.ModuleInitializer
 
 ## See Also
 
-[ModuleInitializer Members](/patterns-practices/reference/moduleinitializer-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleInitializer Members](/patterns-practices/reference/moduleinitializer-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

@@ -47,6 +47,5 @@ Raised when a navigation request fails.
 </table>
 
 ## See Also
-[IRegionNavigationService Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[IRegionNavigationService Interface](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>

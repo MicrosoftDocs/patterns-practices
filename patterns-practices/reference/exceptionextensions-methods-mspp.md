@@ -48,6 +48,5 @@ Register the type of an Exception that is thrown by the framework. The [GetRootE
 
 ## See Also
 
-[ExceptionExtensions Class](/patterns-practices/reference/exceptionextensions-class-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+[ExceptionExtensions Class](/patterns-practices/reference/exceptionextensions-class-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>

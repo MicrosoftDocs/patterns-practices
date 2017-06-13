@@ -28,8 +28,6 @@ Public Sub New
 
 ## See Also
 
-[Confirmation Class](/patterns-practices/reference/confirmation-class-mspp-interactivity-interactionrequest)
-
-[Confirmation Members](/patterns-practices/reference/confirmation-members-mspp-interactivity-interactionrequest)
-
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
+[Confirmation Class](/patterns-practices/reference/confirmation-class-mspp-interactivity-interactionrequest)<br/>
+[Confirmation Members](/patterns-practices/reference/confirmation-members-mspp-interactivity-interactionrequest)<br/>
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>

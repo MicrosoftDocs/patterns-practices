@@ -55,8 +55,6 @@ This method is not 100% accurate and should only be used to point a developer in
 
 ## See Also
 
-[ExceptionExtensions Class](/patterns-practices/reference/exceptionextensions-class-mspp)
-
-[ExceptionExtensions Members](/patterns-practices/reference/exceptionextensions-members-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+[ExceptionExtensions Class](/patterns-practices/reference/exceptionextensions-class-mspp)<br/>
+[ExceptionExtensions Members](/patterns-practices/reference/exceptionextensions-members-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>

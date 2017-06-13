@@ -36,6 +36,5 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 
 ## See Also
 
-[ContentControlRegionAdapter Class](/patterns-practices/reference/contentcontrolregionadapter-class-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[ContentControlRegionAdapter Class](/patterns-practices/reference/contentcontrolregionadapter-class-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)<br/>

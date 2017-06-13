@@ -8,7 +8,7 @@ ms:mtpsurl: 'mefclearchildviewsregionbehavior-properties-mspp-mefextensions-regi
 
 # MefClearChildViewsRegionBehavior Properties
 
-The [MefClearChildViewsRegionBehavior](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior) type exposes the following members.
+The [MefClearChildViewsRegionBehavior](/patterns-practices/reference/mefclearchildviewsregionbehavior-class-mspp-mefextensions-regions-behaviors) type exposes the following members.
 
 ## Properties
 
@@ -25,27 +25,27 @@ The [MefClearChildViewsRegionBehavior](https://msdn.microsoft.com/library/micros
 
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.isattached">IsAttached</a></td>
+<td><a href="/patterns-practices/reference/regionbehavior-isattached-property-mspp-regions
+">IsAttached</a></td>
 <td><div class="summary">
 Returns trueTruetruetrue (True in Visual Basic) if the behavior is attached to a region, falseFalsefalsefalse (False in Visual Basic) otherwise.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions">RegionBehavior</a>.)</td>
 </tr>
 <tr class="even">
 
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
 
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior.region">Region</a></td>
+<td><a href="/patterns-practices/reference/regionbehavior-region-property-mspp-regions">Region</a></td>
 <td><div class="summary">
 Behavior's attached region.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.regionbehavior">RegionBehavior</a>.)</td>
+(Inherited from <a href="/patterns-practices/reference/regionbehavior-class-mspp-regions">RegionBehavior</a>.)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[MefClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)
+[MefClearChildViewsRegionBehavior Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors.mefclearchildviewsregionbehavior)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.behaviors)<br/>

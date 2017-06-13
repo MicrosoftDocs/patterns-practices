@@ -36,6 +36,5 @@ Public NotInheritable Class PropertySupport
 
 ## See Also
 
-[PropertySupport Members](/patterns-practices/reference/propertysupport-members-mspp-viewmodel)
-
-[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)
+[PropertySupport Members](/patterns-practices/reference/propertysupport-members-mspp-viewmodel)<br/>
+[Microsoft.Practices.Prism.ViewModel Namespace](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>

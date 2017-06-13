@@ -27,9 +27,6 @@ Protected Sub New
 
 ## See Also
 
-[MefBootstrapper Class](/patterns-practices/reference/mefbootstrapper-class-mspp-mefextensions)
-
-[MefBootstrapper Members](/patterns-practices/reference/mefbootstrapper-members-mspp-mefextensions)
-
-[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)
-
+[MefBootstrapper Class](/patterns-practices/reference/mefbootstrapper-class-mspp-mefextensions)<br/>
+[MefBootstrapper Members](/patterns-practices/reference/mefbootstrapper-members-mspp-mefextensions)<br/>
+[Microsoft.Practices.Prism.MefExtensions Namespace](/patterns-practices/reference/mspp-mefextensions-namespace)<br/>

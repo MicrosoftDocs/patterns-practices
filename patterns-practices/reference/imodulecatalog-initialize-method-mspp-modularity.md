@@ -28,8 +28,6 @@ Sub Initialize
 
 ## See Also
 
-[IModuleCatalog Interface](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity)
-
-[IModuleCatalog Members](/patterns-practices/reference/imodulecatalog-members-mspp-modularity)
-
+[IModuleCatalog Interface](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity)<br/>
+[IModuleCatalog Members](/patterns-practices/reference/imodulecatalog-members-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

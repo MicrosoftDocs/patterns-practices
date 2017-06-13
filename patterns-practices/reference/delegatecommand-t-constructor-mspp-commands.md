@@ -24,14 +24,14 @@ ms:mtpsurl: 'delegatecommand-t-constructor-mspp-commands.md'
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>DelegateCommand(Of T)(Action(Of T))</td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)">DelegateCommand(Of T)</a>.
+Initializes a new instance of [DelegateCommand(Of T)](/patterns-practices/reference/delegatecommand-t-class-mspp-commands).
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>DelegateCommand(Of T)(Action(Of T), Func(Of T, Boolean))</td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50)">DelegateCommand(Of T)</a>.
+Initializes a new instance of [DelegateCommand(Of T)](/patterns-practices/reference/delegatecommand-t-class-mspp-commands).
 </div></td>
 </tr>
 </tbody>
@@ -39,8 +39,6 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/en-us/library/
 
 ## See Also
 
-[DelegateCommand(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50))
-
-[DelegateCommand(Of T) Members](https://msdn.microsoft.com/en-us/library/gg430763(v=pandp.50))
-
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)
+[DelegateCommand(Of T) Class ](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)<br/>
+[DelegateCommand(Of T) Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)<br/>
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>

@@ -54,10 +54,7 @@ An enumeration of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-ms
 
 ## See Also
 
-[IModuleCatalog Interface](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity)
-
-[IModuleCatalog Members](/patterns-practices/reference/imodulecatalog-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
-
+[IModuleCatalog Interface](/patterns-practices/reference/imodulecatalog-interface-mspp-modularity)<br/>
+[IModuleCatalog Members](/patterns-practices/reference/imodulecatalog-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
 

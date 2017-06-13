@@ -24,6 +24,5 @@ Indicates that the class should be considered a named module using the provided 
     Microsoft.Practices.Prism.Modularity.ModuleAttribute
 
 ## See Also
-[ModuleAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleattribute)
-
-[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)
+[ModuleAttribute Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.modularity.moduleattribute)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity)<br/>

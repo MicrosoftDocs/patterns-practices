@@ -52,8 +52,6 @@ Initializes a new instance of the [ViewRegistrationException](/patterns-practice
 
 ## See Also
 
-[ViewRegistrationException Class](/patterns-practices/reference/viewregistrationexception-class-mspp-regions)
-
-[ViewRegistrationException Members](/patterns-practices/reference/viewregistrationexception-members-mspp-regions)
-
+[ViewRegistrationException Class](/patterns-practices/reference/viewregistrationexception-class-mspp-regions)<br/>
+[ViewRegistrationException Members](/patterns-practices/reference/viewregistrationexception-members-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

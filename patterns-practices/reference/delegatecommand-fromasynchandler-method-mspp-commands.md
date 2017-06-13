@@ -24,7 +24,7 @@ ms:mtpsurl: 'delegatecommand-fromasynchandler-method-func-task-func-boolean-mspp
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected method](/images/protmethod.gif)![Static member](/images/static.gif)</td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td>[FromAsyncHandler(Func(Of Task))](/patterns-practices/reference/delegatecommand-fromasynchandler-method-func-task-mspp-commands)</td>
 
 <td><div class="summary">
@@ -32,7 +32,7 @@ Factory method to create a new instance of [DelegateCommand](/patterns-practices
 </div></td>
 </tr>
 <tr class="even">
-<td>![Protected method](/images/protmethod.gif)![Static member](/images/static.gif)</td>
+<td>![Protected method](/patterns-practices/reference/images/protmethod.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td>[FromAsyncHandler(Func(Of Task), Func(Of Boolean))](/patterns-practices/reference/delegatecommand-fromasynchandler-method-func-task-func-boolean-mspp-commands)</td>
 <td><div class="summary">
 Factory method to create a new instance of [DelegateCommand](/patterns-practices/reference/delegatecommand-class-mspp-commands) from an awaitable handler method.
@@ -43,8 +43,6 @@ Factory method to create a new instance of [DelegateCommand](/patterns-practices
 
 ## See Also
 
-[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)
-
-[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)
-
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
+[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)<br/>
+[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)<br/>
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>

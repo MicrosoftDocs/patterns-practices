@@ -48,8 +48,6 @@ The priority of the entry
 
 ## See Also
 
-[ILoggerFacade Interface](/patterns-practices/reference/ILoggerFacade-class-mspp-logging)
-
-[ILoggerFacade Members](/patterns-practices/reference/ILoggerFacade-members-mspp-logging)
-
-[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)
+[ILoggerFacade Interface](/patterns-practices/reference/ILoggerFacade-class-mspp-logging)<br/>
+[ILoggerFacade Members](/patterns-practices/reference/ILoggerFacade-members-mspp-logging)<br/>
+[Microsoft.Practices.Prism.Logging Namespace](/patterns-practices/reference/mspp-logging-namespace)<br/>

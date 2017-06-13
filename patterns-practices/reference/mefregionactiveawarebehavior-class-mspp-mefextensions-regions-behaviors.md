@@ -33,12 +33,11 @@ This allows the MefBootstrapper to provide this class as a default implementatio
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-  [Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior](/patterns-practices/reference/regionactiveawarebehavior-class-mspp-regions-behaviors)
-    Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionActiveAwareBehavior
+&nbsp;&nbsp;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.Behaviors.RegionActiveAwareBehavior](/patterns-practices/reference/regionactiveawarebehavior-class-mspp-regions-behaviors)<br/>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors.MefRegionActiveAwareBehavior
 
 ## See Also
 
-[MefRegionActiveAwareBehavior Members](/patterns-practices/reference/mefregionactiveawarebehavior-members-mspp-mefextensions-regions-behaviors)
-
+[MefRegionActiveAwareBehavior Members](/patterns-practices/reference/mefregionactiveawarebehavior-members-mspp-mefextensions-regions-behaviors)<br/>
 [Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)

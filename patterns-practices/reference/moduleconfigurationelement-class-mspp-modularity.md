@@ -36,6 +36,5 @@ Public Class ModuleConfigurationElement
 
 ## See Also
 
-[ModuleConfigurationElement Members](/patterns-practices/reference/moduleconfigurationelement-members-mspp-modularity)
-
+[ModuleConfigurationElement Members](/patterns-practices/reference/moduleconfigurationelement-members-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

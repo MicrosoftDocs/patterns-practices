@@ -37,10 +37,7 @@ If trueTruetruetrue (True in Visual Basic), registers default Prism Library serv
 
 ## See Also
 
-[UnityBootstrapper Class](/patterns-practices/reference/unitybootstrapper-class-mspp-unityextensions)
-
-[UnityBootstrapper Members](/patterns-practices/reference/unitybootstrapper-members-mspp-unityextensions)
-
-[Run Overload](/patterns-practices/reference/unitybootstrapper-run-method-mspp-unityextensions)
-
+[UnityBootstrapper Class](/patterns-practices/reference/unitybootstrapper-class-mspp-unityextensions)<br/>
+[UnityBootstrapper Members](/patterns-practices/reference/unitybootstrapper-members-mspp-unityextensions)<br/>
+[Run Overload](/patterns-practices/reference/unitybootstrapper-run-method-mspp-unityextensions)<br/>
 [Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)

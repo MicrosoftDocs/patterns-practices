@@ -18,6 +18,5 @@ The [UnityBootstrapperExtension](/patterns-practices/reference/unitybootstrapper
 
 ## See Also
 
-[UnityBootstrapperExtension Class](/patterns-practices/reference/unitybootstrapperextension-class-mspp-unityextensions)
-
+[UnityBootstrapperExtension Class](/patterns-practices/reference/unitybootstrapperextension-class-mspp-unityextensions)<br/>
 [Microsoft.Practices.Prism.UnityExtensions Namespace](/patterns-practices/reference/mspp-unityextensions-namespace)

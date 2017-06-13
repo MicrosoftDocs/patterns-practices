@@ -37,10 +37,7 @@ Returns **Truetrue** (**True** in Visual Basic) if the command can execute, othe
 
 ## See Also
 
-[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)
-
-[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)
-
-[CanExecute Overload](/patterns-practices/reference/canexecute-mthd)
-
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
+[DelegateCommand Class](/patterns-practices/reference/delegatecommand-class-mspp-commands)<br/>
+[DelegateCommand Members](/patterns-practices/reference/delegatecommand-members-mspp-commands)<br/>
+[CanExecute Overload](/patterns-practices/reference/canexecute-mthd)<br/>
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>

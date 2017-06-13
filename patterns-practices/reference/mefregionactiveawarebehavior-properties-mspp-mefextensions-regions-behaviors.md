@@ -28,13 +28,12 @@ The [MefRegionActiveAwareBehavior](/patterns-practices/reference/mefregionactive
 
 ![Public property](/patterns-practices/reference/images/pubproperty.gif)
 </td>
-<td>
-<a href="/patterns-practices/reference/regionactiveawarebehavior-region-property-mspp-regions-behaviors">Region</a>
+<td>[Region](/patterns-practices/reference/regionactiveawarebehavior-region-property-mspp-regions-behaviors)
 </td>
 <td>
 <div>
 The region that this behavior is extending
-</div> (Inherited from <a href="/patterns-practices/reference/regionactiveawarebehavior-class-mspp-regions-behaviors">RegionActiveAwareBehavior</a>.)</td>
+</div> (Inherited from [RegionActiveAwareBehavior](/patterns-practices/reference/regionactiveawarebehavior-class-mspp-regions-behaviors).)</td>
 </tr>
 </tbody>
 </table>
@@ -42,4 +41,4 @@ The region that this behavior is extending
 ## See Also
 
 [MefRegionActiveAwareBehavior Class](/patterns-practices/reference/mefregionactiveawarebehavior-class-mspp-mefextensions-regions-behaviors)  
-[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-mefextensions-regions-behaviors-namespace)<br/>

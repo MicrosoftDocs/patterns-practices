@@ -34,10 +34,7 @@ A [ModuleConfigurationElement](/patterns-practices/reference/moduleconfiguration
 
 ## See Also
 
-[ModuleConfigurationElementCollection Class](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity)
-
-[ModuleConfigurationElementCollection Members](/patterns-practices/reference/moduleconfigurationelementcollection-members-mspp-modularity)
-
-[CreateNewElement Overload](/patterns-practices/reference/moduleconfigurationelementcollection-createnewelement-method-mspp-modularity)
-
+[ModuleConfigurationElementCollection Class](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity)<br/>
+[ModuleConfigurationElementCollection Members](/patterns-practices/reference/moduleconfigurationelementcollection-members-mspp-modularity)<br/>
+[CreateNewElement Overload](/patterns-practices/reference/moduleconfigurationelementcollection-createnewelement-method-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

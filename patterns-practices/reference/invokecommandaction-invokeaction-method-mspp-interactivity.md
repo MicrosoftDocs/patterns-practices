@@ -47,8 +47,6 @@ Public Sub InvokeAction (
 
 ## See Also
 
-[InvokeCommandAction Class](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity)
-
-[InvokeCommandAction Members](/patterns-practices/reference/invokecommandaction-members-mspp-interactivity)
-
+[InvokeCommandAction Class](/patterns-practices/reference/invokecommandaction-class-mspp-interactivity)<br/>
+[InvokeCommandAction Members](/patterns-practices/reference/invokecommandaction-members-mspp-interactivity)<br/>
 [Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)

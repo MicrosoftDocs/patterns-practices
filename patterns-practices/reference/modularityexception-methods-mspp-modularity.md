@@ -112,6 +112,5 @@ Looks at all the inner exceptions of the exception parameter to find the most li
 </table>
 
 ## See Also
-[ModularityException Class](/patterns-practices/reference/modularityexception-class-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModularityException Class](/patterns-practices/reference/modularityexception-class-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

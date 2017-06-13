@@ -31,8 +31,6 @@ Type: [Comparison](http://msdn.microsoft.com/en-us/library/tfakywbh)(Of [Object]
 The comparison to use.
 
 ## See Also
-[IRegion Interface](/patterns-practices/reference/iregion-interface-mspp-regions)
-
-[IRegion Members](/patterns-practices/reference/iregion-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[IRegion Interface](/patterns-practices/reference/iregion-interface-mspp-regions)<br/>
+[IRegion Members](/patterns-practices/reference/iregion-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

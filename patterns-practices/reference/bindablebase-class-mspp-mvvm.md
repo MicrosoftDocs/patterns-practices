@@ -36,6 +36,5 @@ Public MustInherit Class BindableBase
 
 ## See Also
 
-[BindableBase Members](/patterns-practices/reference/bindablebase-members-mspp-mvvm)
-
+[BindableBase Members](/patterns-practices/reference/bindablebase-members-mspp-mvvm)<br/>
 [Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

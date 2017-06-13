@@ -10,7 +10,7 @@ ms:mtpsurl: 'propertysupport-extractpropertyname-t-method-mspp-mvvm.md'
 
 Extracts the property name from a property expression.
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](/patterns-practices/reference/mspp-mvvm-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
 
@@ -70,12 +70,9 @@ Or, the property is static.</td>
 
 ## See Also
 
-[PropertySupport Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.propertysupport)
-
-[PropertySupport Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mvvm.propertysupport)
-
-[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)
-
+[PropertySupport Class](/patterns-practices/reference/propertysupport-class-mspp-mvvm)<br/>
+[PropertySupport Members](/patterns-practices/reference/propertysupport-members-mspp-mvvm)<br/>
+[Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
 
 
 
@@ -83,7 +80,7 @@ Or, the property is static.</td>
 
 Extracts the property name from a property expression.
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](/patterns-practices/reference/mspp-mvvm-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
 
@@ -144,8 +141,6 @@ Or, the property is static.</td>
 
 ## See Also
 
-[PropertySupport Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.propertysupport)
-
-[PropertySupport Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mvvm.propertysupport)
-
-[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)
+[PropertySupport Class](/patterns-practices/reference/propertysupport-class-mspp-mvvm)<br/>
+[PropertySupport Members](/patterns-practices/reference/propertysupport-members-mspp-mvvm)<br/>
+[Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)<br/>

@@ -34,6 +34,5 @@ Public Class Notification
 
 ## See Also
 
-[Notification Members](/patterns-practices/reference/notification-members-mspp-interactivity-interactionrequest)
-
+[Notification Members](/patterns-practices/reference/notification-members-mspp-interactivity-interactionrequest)<br/>
 [Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)

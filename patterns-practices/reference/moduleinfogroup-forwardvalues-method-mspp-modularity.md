@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleInfoGroup.ForwardValue
 ms:mtpsurl: 'moduleinfogroup-forwardvalues-method-mspp-modularity.md'
 ---
 
-
 # ModuleInfoGroup.ForwardValues Method
 
 Forwards [InitializationMode](/patterns-practices/reference/moduleinfogroup-initializationmode-property-mspp-modularity) and [Ref](/patterns-practices/reference/moduleinfogroup-ref-property-mspp-modularity) properties from this [ModuleInfoGroup](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity) to *moduleInfo*.
@@ -21,13 +20,6 @@ Forwards [InitializationMode](/patterns-practices/reference/moduleinfogroup-init
 ```C#
 protected void ForwardValues(
 	ModuleInfo moduleInfo
-)
-```
-
-```VB
-'Declaration
-Protected Sub ForwardValues ( 
-	moduleInfo As ModuleInfo
 )
 ```
 
@@ -56,10 +48,41 @@ The module info to forward values to.
 </tbody>
 </table>
 
+
+```VB
+'Declaration
+Protected Sub ForwardValues ( 
+	moduleInfo As ModuleInfo
+)
+```
+
+### Parameters
+
+*moduleInfo*  
+
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)
+
+The module info to forward values to.
+
+## Exceptions
+
+<table>
+<thead>
+<tr class="header">
+<th>Exception</th>
+<th>Condition</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td>[System.ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy)</td>
+<td>An [ArgumentNullException](http://msdn.microsoft.com/en-us/library/27426hcy) is thrown if <i>moduleInfo</i> is <strong>Nothing</strong>a null reference (<strong>Nothing</strong> in Visual Basic).</td>
+</tr>
+</tbody>
+</table>
+
 ## See Also
 
-[ModuleInfoGroup Class](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)
-
-[ModuleInfoGroup Members](/patterns-practices/reference/moduleinfogroup-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleInfoGroup Class](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)<br/>
+[ModuleInfoGroup Members](/patterns-practices/reference/moduleinfogroup-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

@@ -31,8 +31,6 @@ Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ## See Also
 
-[SyncRegionContextWithHostBehavior Class](/patterns-practices/reference/syncregioncontextwithhostbehavior-class-mspp-regions-behaviors)
-
-[SyncRegionContextWithHostBehavior Members](/patterns-practices/reference/syncregioncontextwithhostbehavior-members-mspp-regions-behaviors)
-
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+[SyncRegionContextWithHostBehavior Class](/patterns-practices/reference/syncregioncontextwithhostbehavior-class-mspp-regions-behaviors)<br/>
+[SyncRegionContextWithHostBehavior Members](/patterns-practices/reference/syncregioncontextwithhostbehavior-members-mspp-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>

@@ -41,8 +41,6 @@ The navigation context.
 
 ## See Also
 
-[RegionNavigationEventArgs Class](/patterns-practices/reference/regionnavigationeventargs-class-mspp-regions)
-
-[RegionNavigationEventArgs Members](/patterns-practices/reference/regionnavigationeventargs-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionNavigationEventArgs Class](/patterns-practices/reference/regionnavigationeventargs-class-mspp-regions)<br/>
+[RegionNavigationEventArgs Members](/patterns-practices/reference/regionnavigationeventargs-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

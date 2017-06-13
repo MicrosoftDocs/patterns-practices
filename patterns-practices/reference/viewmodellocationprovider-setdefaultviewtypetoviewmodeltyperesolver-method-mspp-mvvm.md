@@ -10,7 +10,7 @@ ms:mtpsurl: 'viewmodellocationprovider-setdefaultviewtypetoviewmodeltyperesolver
 
 Sets the default view type to view model type resolver.
 
-**Namespace:** [Microsoft.Practices.Prism.Mvvm](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)
+**Namespace:** [Microsoft.Practices.Prism.Mvvm](/patterns-practices/reference/mspp-mvvm-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Mvvm (in Microsoft.Practices.Prism.Mvvm.dll) 
 
@@ -41,8 +41,6 @@ The view type to view model type resolver.
 
 ## See Also
 
-[ViewModelLocationProvider Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm.viewmodellocationprovider)
-
-[ViewModelLocationProvider Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mvvm.viewmodellocationprovider)
-
-[Microsoft.Practices.Prism.Mvvm Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mvvm)
+[ViewModelLocationProvider Class](/patterns-practices/reference/viewmodellocationprovider-class-mspp-mvvm)<br/>
+[ViewModelLocationProvider Members](/patterns-practices/reference/viewmodellocationprovider-members-mspp-mvvm)<br/>
+[Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)<br/>

@@ -64,8 +64,6 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 ## See Also
 
-[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)
-
-[CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)
-
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
+[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)<br/>
+[CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)<br/>
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>

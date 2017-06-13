@@ -98,6 +98,5 @@ Gets the method that throws the current exception.
 
 ## See Also
 
-[ModuleTypeLoaderNotFoundException Class](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity)
-
+[ModuleTypeLoaderNotFoundException Class](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

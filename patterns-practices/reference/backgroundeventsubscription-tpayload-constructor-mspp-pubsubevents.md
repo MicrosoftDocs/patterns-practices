@@ -46,11 +46,10 @@ A reference to a delegate of type [Predicate&lt;T&gt;](http://msdn.microsoft.com
 
 ## See Also
 
-[BackgroundEventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)
-
+[BackgroundEventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)<br/>
 BackgroundEventSubscription&lt;TPayload&gt; Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
 
 # BackgroundEventSubscription(Of TPayload) Constructor
 
@@ -94,8 +93,7 @@ A reference to a delegate of type [Predicate(Of T)](http://msdn.microsoft.com/en
 
 ## See Also
 
-[BackgroundEventSubscription(Of TPayload)  Class](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)
-
+[BackgroundEventSubscription(Of TPayload)  Class](/patterns-practices/reference/backgroundeventsubscription-tpayload-class-mspp-pubsubevents)<br/>
 BackgroundEventSubscription(Of TPayload)  Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)

@@ -6,7 +6,7 @@ ms:mtpsurl: 'listdictionary-tkey-tvalue-add-method-mspp.md'
 ---
 
 
-# ListDictionary&lt;TKey, TValue&gt;.Add Method
+# ListDictionary(Of TKey, TValue).Add Method 
 
 ## Overload List
 
@@ -40,8 +40,6 @@ Adds a value to a list with the given key. If a list does not already exist, it 
 
 ## See Also
 
-[ListDictionary&lt;TKey, TValue&gt; Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)
-
-[ListDictionary&lt;TKey, TValue&gt; Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+[ListDictionary(Of TKey, TValue) Class](/patterns-practices/reference/listdictionary-tkey-tvalue-class-mspp)<br/>
+[ListDictionary(Of TKey, TValue) Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>

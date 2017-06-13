@@ -5,10 +5,9 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Modularity.ModuleManager.Dispose(System
 ms:mtpsurl: 'modulemanager-dispose-method-boolean-mspp-modularity.md'
 ---
 
-
 # ModuleManager.Dispose Method (Boolean)
 
-Disposes the associated [IModuleTypeLoader](/patterns-practices/reference/mspp-modularity-namespace)s.
+Disposes the associated [IModuleTypeLoader](/patterns-practices/reference/imoduletypeloader-interface-mspp-modularity)s.
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
@@ -24,6 +23,12 @@ protected virtual void Dispose(
 )
 ```
 
+### Parameters
+
+*disposing*    
+Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
+When **truetrue** (**True** in Visual Basic), it is being called from the Dispose method.
+
 ```VB
 'Declaration
 Protected Overridable Sub Dispose ( 
@@ -35,14 +40,11 @@ Protected Overridable Sub Dispose (
 
 *disposing*    
 Type: [System.Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)  
-When trueTruetruetrue (True in Visual Basic), it is being called from the Dispose method.
+When **Truetrue** (**True** in Visual Basic), it is being called from the Dispose method.
 
 ## See Also
 
-[ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)
-
-[ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)
-
-[Dispose Overload](/patterns-practices/reference/modulemgr-dispose-method)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)<br/>
+[ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)<br/>
+[Dispose Overload](/patterns-practices/reference/modulemgr-dispose-method)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

@@ -28,26 +28,22 @@ void RegisterViewWithRegion(
 
 *regionName*  
 
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-Region name to which the *getContentDelegate* will be registered.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Region name to which the *getContentDelegate* will be registered.
 
 *getContentDelegate*  
 
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)&lt;[Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)&gt;
 
-Delegate used to retrieve the content associated with the *regionName*.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Delegate used to retrieve the content associated with the *regionName*.
 
 ## See Also
 
-[IRegionViewRegistry Interface](/patterns-practices/reference/iregionviewregistry-interface-mspp-regions)
-
-[IRegionViewRegistry Members](/patterns-practices/reference/iregionviewregistry-members-mspp-regions)
-
-[RegisterViewWithRegion Overload](/iregionviewregistry-registerviewwithregion-method-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
-
+[IRegionViewRegistry Interface](/patterns-practices/reference/iregionviewregistry-interface-mspp-regions)<br/>
+[IRegionViewRegistry Members](/patterns-practices/reference/iregionviewregistry-members-mspp-regions)<br/>
+[RegisterViewWithRegion Overload](/patterns-practices/reference/iregionviewregistry-registerviewwithregion-method-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
 
 # IRegionViewRegistry.RegisterViewWithRegion Method (String, Func(Of Object))
 
@@ -73,23 +69,19 @@ Sub RegisterViewWithRegion (
 
 *regionName*  
 
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-Region name to which the *getContentDelegate* will be registered.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Region name to which the *getContentDelegate* will be registered.
 
 *getContentDelegate*  
 
-Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.Func](http://msdn.microsoft.com/en-us/library/bb534960)(Of [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b))
 
-Delegate used to retrieve the content associated with the *regionName*.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Delegate used to retrieve the content associated with the *regionName*.
 
 ## See Also
 
-[IRegionViewRegistry Interface](/patterns-practices/reference/iregionviewregistry-interface-mspp-regions)
-
-[IRegionViewRegistry Members](/patterns-practices/reference/iregionviewregistry-members-mspp-regions)
-
-[RegisterViewWithRegion Overload](/iregionviewregistry-registerviewwithregion-method-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
-
+[IRegionViewRegistry Interface](/patterns-practices/reference/iregionviewregistry-interface-mspp-regions)<br/>
+[IRegionViewRegistry Members](/patterns-practices/reference/iregionviewregistry-members-mspp-regions)<br/>
+[RegisterViewWithRegion Overload](/patterns-practices/reference/iregionviewregistry-registerviewwithregion-method-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

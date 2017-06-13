@@ -41,8 +41,7 @@ public sealed class ListDictionary<TKey, TValue> : IDictionary<TKey, IList<TValu
 
 ## See Also
 [ListDictionary<TKey, TValue> Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)  
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
-    
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>    
 
 # ListDictionary(Of TKey, TValue) Class
 
@@ -84,4 +83,4 @@ Public NotInheritable Class ListDictionary(Of TKey, TValue)
 ## See Also
 
 [ListDictionary(Of TKey, TValue) Members](/patterns-practices/reference/listdictionary-tkey-tvalue-members-mspp)  
- [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+ [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>

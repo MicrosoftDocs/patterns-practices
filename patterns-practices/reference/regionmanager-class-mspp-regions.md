@@ -38,6 +38,5 @@ This class supplies the attached properties that can be used for simple region c
 
 ## See Also
 
-[RegionManager Members](/patterns-practices/reference/regionmanager-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionManager Members](/patterns-practices/reference/regionmanager-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

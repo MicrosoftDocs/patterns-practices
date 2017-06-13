@@ -1628,6 +1628,5 @@ Enforces that the calling thread has access to this [DispatcherObject](http://ms
 
 ## See Also
 
-[ObservableObject(Of T) Class](/patterns-practices/reference/observableobject-t-class-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+[ObservableObject(Of T) Class](/patterns-practices/reference/observableobject-t-class-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>

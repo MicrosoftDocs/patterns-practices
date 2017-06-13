@@ -44,14 +44,10 @@ Delegate used to retrieve the content associated with the *regionName*.
 
 ## See Also
 
-[RegionViewRegistry Class](/patterns-practices/reference/regionviewregistry-class-mspp-regions)
-
-[RegionViewRegistry Members](/patterns-practices/reference/regionviewregistry-members-mspp-regions)
-
-[RegisterViewWithRegion Overload](/patterns-practices/reference/regionviewregistry-registerviewwithregion-method-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
-
+[RegionViewRegistry Class](/patterns-practices/reference/regionviewregistry-class-mspp-regions)<br/>
+[RegionViewRegistry Members](/patterns-practices/reference/regionviewregistry-members-mspp-regions)<br/>
+[RegisterViewWithRegion Overload](/patterns-practices/reference/regionviewregistry-registerviewwithregion-method-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
 
 # RegionViewRegistry.RegisterViewWithRegion Method (String, Func(Of Object))
 
@@ -93,10 +89,7 @@ Delegate used to retrieve the content associated with the *regionName*.
 
 ## See Also
 
-[RegionViewRegistry Class](/patterns-practices/reference/regionviewregistry-class-mspp-regions)
-
-[RegionViewRegistry Members](/patterns-practices/reference/regionviewregistry-members-mspp-regions)
-
-[RegisterViewWithRegion Overload](/patterns-practices/reference/regionviewregistry-registerviewwithregion-method-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionViewRegistry Class](/patterns-practices/reference/regionviewregistry-class-mspp-regions)<br/>
+[RegionViewRegistry Members](/patterns-practices/reference/regionviewregistry-members-mspp-regions)<br/>
+[RegisterViewWithRegion Overload](/patterns-practices/reference/regionviewregistry-registerviewwithregion-method-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

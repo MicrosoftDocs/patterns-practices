@@ -18,14 +18,14 @@ Adds a region to the regionmanager with the name received as argument.
 
 ## Syntax
 
-~~~C#
+```C#
 public static void Add(
 	this IRegionCollection regionCollection,
 	string regionName,
 	IRegion region
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 <ExtensionAttribute> 
 Public Shared Sub Add ( 
@@ -63,8 +63,6 @@ In Visual Basic and C\#, you can call this method as an instance method on any o
 
 ## See Also
 
-[RegionManagerExtensions Class](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)
-
-[RegionManagerExtensions Members](/patterns-practices/reference/regionmanagerextensions-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionManagerExtensions Class](/patterns-practices/reference/regionmanagerextensions-class-mspp-regions)<br/>
+[RegionManagerExtensions Members](/patterns-practices/reference/regionmanagerextensions-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

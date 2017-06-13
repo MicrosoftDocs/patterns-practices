@@ -37,6 +37,5 @@ Public Class Region
 
 ## See Also
 
-[Region Members](/patterns-practices/reference/region-members-mspp-regions)
-
+[Region Members](/patterns-practices/reference/region-members-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

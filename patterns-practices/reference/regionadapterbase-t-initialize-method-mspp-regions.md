@@ -25,14 +25,16 @@ public IRegion Initialize( T regionTarget, string regionName )
 ### Parameters
 
 *regionTarget*  
-Type: [T](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)
 
-The object to adapt.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [T](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The object to adapt.
 
 *regionName*  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-The name of the region to be created.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The name of the region to be created.
 
 ### Return Value
 
@@ -42,12 +44,9 @@ The new instance of [IRegion](/patterns-practices/reference/iregion-interface-ms
 
 ## See Also
 
-[RegionAdapterBase&lt;T&gt; Class](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)
-
-[RegionAdapterBase&lt;T&gt; Members](/patterns-practices/reference/regionadapterbase-t-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
-
+[RegionAdapterBase&lt;T&gt; Class](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)<br/>
+[RegionAdapterBase&lt;T&gt; Members](/patterns-practices/reference/regionadapterbase-t-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
 
 # RegionAdapterBase(Of T).Initialize Method
 
@@ -70,15 +69,15 @@ Public Function Initialize ( regionTarget As T, regionName As String ) As IRegio
 
 *regionTarget*
 
-Type: [T](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [T](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)
 
-The object to adapt.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The object to adapt.
 
 *regionName*  
 
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
-The name of the region to be created.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The name of the region to be created.
 
 ### Return Value
 
@@ -88,8 +87,6 @@ The new instance of [IRegion](/patterns-practices/reference/iregion-interface-ms
 
 ## See Also
 
-[RegionAdapterBase(Of T) Class](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)
-
-[RegionAdapterBase(Of T) Members](/patterns-practices/reference/regionadapterbase-t-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionAdapterBase(Of T) Class](/patterns-practices/reference/regionadapterbase-t-class-mspp-regions)<br/>
+[RegionAdapterBase(Of T) Members](/patterns-practices/reference/regionadapterbase-t-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

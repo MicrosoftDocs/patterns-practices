@@ -13,10 +13,9 @@ The [ClearChildViewsRegionBehavior](/patterns-practices/reference/clearchildview
 
 |  | Name | Description |
 |---|---|---|
-|![Public attached property](/images/pubproperty.gif)|[ClearChildViews](/patterns-practices/reference/clearchildviewsregionbehavior-clearchildviews-attached-property-mspp-regions-behaviors)||
+|![Public attached property](/patterns-practices/reference/images/pubproperty.gif)|[ClearChildViews](/patterns-practices/reference/clearchildviewsregionbehavior-clearchildviews-attached-property-mspp-regions-behaviors)||
 
 ## See Also
 
-[ClearChildViewsRegionBehavior Class](/patterns-practices/reference/clearchildviewsregionbehavior-class-mspp-regions-behaviors)
-
-[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+[ClearChildViewsRegionBehavior Class](/patterns-practices/reference/clearchildviewsregionbehavior-class-mspp-regions-behaviors)<br/>
+[Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>

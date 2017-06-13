@@ -35,7 +35,7 @@ Publishes the [PubSubEvent&lt;TPayload&gt;](/patterns-practices/reference/pubsub
 
 [PubSubEvent&lt;TPayload&gt; Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)<br/>
 PubSubEvent&lt;TPayload&gt; Members<br/>
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>
 
 # PubSubEvent(Of TPayload).Publish Method
 
@@ -63,4 +63,4 @@ Public Overridable Sub Publish (
 
 [PubSubEvent(Of TPayload) Class](/patterns-practices/reference/pubsubevent-tpayload-class-mspp-pubsubevents)<br/>
 PubSubEvent(Of TPayload) Members<br/>
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>

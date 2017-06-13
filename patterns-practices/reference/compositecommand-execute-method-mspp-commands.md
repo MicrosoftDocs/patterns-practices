@@ -52,8 +52,6 @@ Data used by the command. If the command does not require data to be passed, thi
 
 ## See Also
 
-[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)
-
-[CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)
-
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
+[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp-commands)<br/>
+[CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp-commands)<br/>
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>

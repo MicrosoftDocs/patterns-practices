@@ -30,13 +30,10 @@ The context for the interaction request.
 
 ## See Also
 
-[InteractionRequest&lt;T&gt; Class](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)
-
-[InteractionRequest&lt;T&gt; Members](/patterns-practices/reference/interactionrequest-t-members-mspp-interactivity-interactionrequest)
-
-[Raise Overload](/patterns-practices/reference/interactionrequest-t-raise-method-mspp-interactivity-interactionrequest)
-
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
+[InteractionRequest&lt;T&gt; Class](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)<br/>
+[InteractionRequest&lt;T&gt; Members](/patterns-practices/reference/interactionrequest-t-members-mspp-interactivity-interactionrequest)<br/>
+[Raise Overload](/patterns-practices/reference/interactionrequest-t-raise-method-mspp-interactivity-interactionrequest)<br/>
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>
 
 # InteractionRequest(Of T).Raise Method (T)
 
@@ -66,10 +63,7 @@ The context for the interaction request.
 
 ## See Also
 
-[InteractionRequest(Of T) Class](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)
-
-[InteractionRequest(Of T) Members](/patterns-practices/reference/interactionrequest-t-members-mspp-interactivity-interactionrequest)
-
-[Raise Overload](/patterns-practices/reference/interactionrequest-t-raise-method-mspp-interactivity-interactionrequest)
-
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
+[InteractionRequest(Of T) Class](/patterns-practices/reference/interactionrequest-t-class-mspp-interactivity-interactionrequest)<br/>
+[InteractionRequest(Of T) Members](/patterns-practices/reference/interactionrequest-t-members-mspp-interactivity-interactionrequest)<br/>
+[Raise Overload](/patterns-practices/reference/interactionrequest-t-raise-method-mspp-interactivity-interactionrequest)<br/>
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>

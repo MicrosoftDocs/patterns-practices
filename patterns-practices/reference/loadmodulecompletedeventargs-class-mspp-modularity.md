@@ -35,6 +35,5 @@ Public Class LoadModuleCompletedEventArgs
 
 ## See Also
 
-[LoadModuleCompletedEventArgs Members](/patterns-practices/reference/loadmodulecompletedeventargs-members-mspp-modularity)
-
+[LoadModuleCompletedEventArgs Members](/patterns-practices/reference/loadmodulecompletedeventargs-members-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

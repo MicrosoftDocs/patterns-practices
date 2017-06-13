@@ -10,7 +10,7 @@ ms:mtpsurl: 'defaultnotificationwindow-initializecomponent-method-mspp-interacti
 
 InitializeComponent
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
 
@@ -37,8 +37,6 @@ Public Sub InitializeComponent
 
 ## See Also
 
-[DefaultNotificationWindow Class](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow)
-
-[DefaultNotificationWindow Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.interactivity.defaultpopupwindows.defaultnotificationwindow_members)
-
-[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.interactivity.defaultpopupwindows)
+[DefaultNotificationWindow Class](/patterns-practices/reference/defaultnotificationwindow-class-mspp-interactivity-defaultpopupwindows)<br/>
+[DefaultNotificationWindow Members](/patterns-practices/reference/defaultnotificationwindow-members-mspp-interactivity-defaultpopupwindows)<br/>
+[Microsoft.Practices.Prism.Interactivity.DefaultPopupWindows Namespace](/patterns-practices/reference/mspp-interactivity-defaultpopupwindows-namespace)<br/>

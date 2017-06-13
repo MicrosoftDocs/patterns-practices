@@ -22,21 +22,21 @@ The [PopupWindowAction](/patterns-practices/reference/mspp-interactivity-namespa
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public field](/images/pubfield.gif)![Static member](/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td><a href="/patterns-practices/reference/mspp-interactivity-namespace.popupwindowaction.centeroverassociatedobjectproperty">CenterOverAssociatedObjectProperty</a></td>
 <td><div class="summary">
 Determines if the content should be initially shown centered over the view that raised the interaction request or not.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public field](/images/pubfield.gif)![Static member](/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td><a href="/patterns-practices/reference/mspp-interactivity-namespace.popupwindowaction.ismodalproperty">IsModalProperty</a></td>
 <td><div class="summary">
 Determines if the content should be shown in a modal window or not.
 </div></td>
 </tr>
 <tr class="odd">
-<td>![Public field](/images/pubfield.gif)![Static member](/images/static.gif)</td>
+<td>![Public field](/patterns-practices/reference/images/pubfield.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
 <td><a href="/patterns-practices/reference/mspp-interactivity-namespace.popupwindowaction.windowcontentproperty">WindowContentProperty</a></td>
 <td><div class="summary">
 The content of the child window to display as part of the popup.
@@ -47,6 +47,5 @@ The content of the child window to display as part of the popup.
 
 ## See Also
 
-[PopupWindowAction Class](/patterns-practices/reference/mspp-interactivity-namespace.popupwindowaction)
-
+[PopupWindowAction Class](/patterns-practices/reference/mspp-interactivity-namespace.popupwindowaction)<br/>
 [Microsoft.Practices.Prism.Interactivity Namespace](/patterns-practices/reference/mspp-interactivity-namespace)

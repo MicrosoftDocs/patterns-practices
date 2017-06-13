@@ -36,6 +36,5 @@ Public Class ModuleDependencyCollection
 
 ## See Also
 
-[ModuleDependencyCollection Members](/patterns-practices/reference/moduledependencycollection-members-mspp-modularity)
-
+[ModuleDependencyCollection Members](/patterns-practices/reference/moduledependencycollection-members-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

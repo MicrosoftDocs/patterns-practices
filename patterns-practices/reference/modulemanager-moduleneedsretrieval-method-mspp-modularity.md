@@ -16,6 +16,7 @@ Checks if the module needs to be retrieved before it's initialized.
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 protected virtual bool ModuleNeedsRetrieval(
 	ModuleInfo moduleInfo
@@ -32,7 +33,7 @@ Protected Overridable Function ModuleNeedsRetrieval (
 ### Parameters
 
 *moduleInfo*  
-Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](https://msdn.microsoft.com/library/microsoft.practices.prism.modularity.moduleinfo)  
+Type: [Microsoft.Practices.Prism.Modularity.ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)  
 Module that is being checked if needs retrieval.
 
 ### Return Value
@@ -40,8 +41,6 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 ## See Also
 
-[ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)
-
-[ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleManager Class](/patterns-practices/reference/modulemanager-class-mspp-modularity)<br/>
+[ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

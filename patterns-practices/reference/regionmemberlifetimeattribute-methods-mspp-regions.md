@@ -73,6 +73,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[RegionMemberLifetimeAttribute Class](/patterns-practices/reference/regionmemberlifetimeattribute-class-mspp-regions)
-
+[RegionMemberLifetimeAttribute Class](/patterns-practices/reference/regionmemberlifetimeattribute-class-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

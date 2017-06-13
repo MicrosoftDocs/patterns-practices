@@ -38,8 +38,6 @@ Public Sub New (
 
 ## See Also
 
-[MefSelectorRegionAdapter Class](/patterns-practices/reference/mefselectorregionadapter-class-mspp-mefextensions-regions)
-
-[MefSelectorRegionAdapter Members](/patterns-practices/reference/mefselectorregionadapter-class-mspp-mefextensions-regions)
-
+[MefSelectorRegionAdapter Class](/patterns-practices/reference/mefselectorregionadapter-class-mspp-mefextensions-regions)<br/>
+[MefSelectorRegionAdapter Members](/patterns-practices/reference/mefselectorregionadapter-class-mspp-mefextensions-regions)<br/>
 [Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)

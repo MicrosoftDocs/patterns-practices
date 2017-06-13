@@ -39,10 +39,8 @@ Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 The query string.
 
 ## See Also
-[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)
-
-[NavigationParameters Members](/patterns-practices/reference/navigationparameters-members-mspp-regions)
-
+[NavigationParameters Class](/patterns-practices/reference/navigationparameters-class-mspp-regions)<br/>
+[NavigationParameters Members](/patterns-practices/reference/navigationparameters-members-mspp-regions)<br/>
 NavigationParameters Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/eventbase-class-mspp-pubsubevents)<br/>

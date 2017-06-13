@@ -16,6 +16,7 @@ Creates a new [ModuleDependencyConfigurationElement](/patterns-practices/referen
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
+
 ```C#
 protected override ConfigurationElement CreateNewElement()
 ```
@@ -23,17 +24,16 @@ protected override ConfigurationElement CreateNewElement()
 'Declaration
 Protected Overrides Function CreateNewElement As ConfigurationElement
 ```
+
 ### Return Value
 
 Type: [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3)
+
 A [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity).
 
 ## See Also
 
-[ModuleDependencyCollection Class](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity)
-
-[ModuleDependencyCollection Members](/patterns-practices/reference/moduledependencycollection-members-mspp-modularity)
-
-[CreateNewElement Overload](/patterns-practices/reference/moduledependencycollection-createnewelement-method-mspp-modularity)
-
+[ModuleDependencyCollection Class](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity)<br/>
+[ModuleDependencyCollection Members](/patterns-practices/reference/moduledependencycollection-members-mspp-modularity)<br/>
+[CreateNewElement Overload](/patterns-practices/reference/moduledependencycollection-createnewelement-method-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)

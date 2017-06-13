@@ -7,9 +7,9 @@ ms:mtpsurl: 'navigationcontext-constructor-iregionnavigationservice-uri-mspp-reg
 
 # NavigationContext Constructor (IRegionNavigationService, Uri, NavigationParameters)
 
-Initializes a new instance of the [NavigationContext](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext) class for a region name and a [Uri](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext.uri).
+Initializes a new instance of the [NavigationContext](/patterns-practices/reference/navigationcontext-class-mspp-regions) class for a region name and a [Uri](/patterns-practices/reference/navigationcontext-uri-property-mspp-regions).
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
 
@@ -38,7 +38,7 @@ Public Sub New (
 
 *navigationService*  
 
-Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationService](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.iregionnavigationservice)
+Type: [Microsoft.Practices.Prism.Regions.IRegionNavigationService](/patterns-practices/reference/iregionnavigationservice-interface-mspp-regions)
 
 The navigation service.
 
@@ -50,16 +50,14 @@ The Uri.
 
 *navigationParameters*  
 
-Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationparameters)
+Type: [Microsoft.Practices.Prism.Regions.NavigationParameters](/patterns-practices/reference/navigationparameters-class-mspp-regions)
 
 The navigation parameters.
 
 ## See Also
 
-[NavigationContext Class](https://msdn.microsoft.com/library/microsoft.practices.prism.regions.navigationcontext)
-
-[NavigationContext Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.regions.navigationcontext)
-
+[NavigationContext Class](/patterns-practices/reference/navigationcontext-class-mspp-regions)<br/>
+[NavigationContext Members](/patterns-practices/reference/navigationcontext-members-mspp-regions)<br/>
 NavigationContext Overload
 
-[Microsoft.Practices.Prism.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.regions)
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

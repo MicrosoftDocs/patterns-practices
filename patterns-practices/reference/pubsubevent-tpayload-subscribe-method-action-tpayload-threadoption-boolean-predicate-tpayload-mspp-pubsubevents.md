@@ -69,14 +69,11 @@ A [SubscriptionToken](/patterns-practices/reference/mspp-mvvm-namespace.subscrip
 
 ## See Also
 
-[PubSubEvent&lt;TPayload&gt; Class](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent)
-
+[PubSubEvent&lt;TPayload&gt; Class](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent)<br/>
 PubSubEvent&lt;TPayload&gt; Members
 
-[Subscribe Overload](/patterns-practices/reference/pubsubevent-tpayload-subscribe-method-mspp-pubsubevents)
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
-
+[Subscribe Overload](/patterns-practices/reference/pubsubevent-tpayload-subscribe-method-mspp-pubsubevents)<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
 If *keepSubscriberReferenceAlive* is set to **Falsefalse** (**False** in Visual Basic), [PubSubEvent&lt;TPayload&gt;](https://review.docs.microsoft.com/en-us/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent) will maintain a [WeakReference](http://msdn2.microsoft.com/en-us/library/hbh8w2zd) to the Target of the supplied action delegate. If not using a WeakReference *(keepSubscriberReferenceAlive* is **Truetrue** (**True** in Visual Basic)), the user must explicitly call Unsubscribe for the event when disposing the subscriber in order to avoid memory leaks or unexpected behavior. The PubSubEvent collection is thread-safe.
 
 ## See Also
@@ -156,10 +153,8 @@ If *keepSubscriberReferenceAlive* is set to **Falsefalse** (**False** in Visual 
 
 ## See Also
 
-[PubSubEvent(Of TPayload) Class](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent)
-
+[PubSubEvent(Of TPayload) Class](/patterns-practices/reference/mspp-mvvm-namespace.pubsubevent)<br/>
 PubSubEvent(Of TPayload) Members
 
-[Subscribe Overload](/patterns-practices/reference/pubsubevent-tpayload-subscribe-method-mspp-pubsubevents)
-
+[Subscribe Overload](/patterns-practices/reference/pubsubevent-tpayload-subscribe-method-mspp-pubsubevents)<br/>
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

@@ -18,26 +18,26 @@ Attaches the behavior to the region.
 
 
 ## Syntax
-~~~C#
+
+```C#
 public void Attach()
-~~~
+```
+
 ### Implements
 
 [IRegionBehavior.Attach()](/patterns-practices/reference/iregionbehavior-attach-method-mspp-regions)
 
-## Syntax
-~~~VB
+```VB
 'Declaration
 Public Sub Attach
-~~~
+```
+
 ### Implements
 
 [IRegionBehavior.Attach](/patterns-practices/reference/iregionbehavior-attach-method-mspp-regions)
 
 ## See Also
 
-[RegionBehavior Class](/patterns-practices/reference/regionbehavior-class-mspp-regions)
-
-[RegionBehavior Members](/patterns-practices/reference/regionbehavior-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionBehavior Class](/patterns-practices/reference/regionbehavior-class-mspp-regions)<br/>
+[RegionBehavior Members](/patterns-practices/reference/regionbehavior-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

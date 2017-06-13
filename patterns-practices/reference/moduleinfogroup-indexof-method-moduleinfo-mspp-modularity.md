@@ -7,7 +7,7 @@ ms:mtpsurl: 'moduleinfogroup-indexof-method-moduleinfo-mspp-modularity.md'
 
 # ModuleInfoGroup.IndexOf Method (ModuleInfo)
 
-Determines the index of a specific item in the [IList&ltT&gt;](http://msdn.microsoft.com/en-us/library/5y536ey6).
+Determines the index of a specific item in the [IList&lt;T&gt;](http://msdn.microsoft.com/en-us/library/5y536ey6).
 
 **Namespace:** [Microsoft.Practices.Prism.Modularity](/patterns-practices/reference/mspp-modularity-namespace)
 
@@ -37,6 +37,8 @@ The index of *item* if found in the list; otherwise, -1.
 ### Implements
 
 [IList&lt;T&gt;.IndexOf(T)](http://msdn.microsoft.com/en-us/library/3w0148af)
+
+# ModuleInfoGroup.IndexOf Method (ModuleInfo)
 
 Determines the index of a specific item in the [IList(Of T)](http://msdn.microsoft.com/en-us/library/5y536ey6).
 
@@ -73,10 +75,7 @@ The index of *item* if found in the list; otherwise, -1.
 
 ## See Also
 
-[ModuleInfoGroup Class](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)
-
-[ModuleInfoGroup Members](/patterns-practices/reference/moduleinfogroup-members-mspp-modularity)
-
-[IndexOf Overload](/patterns-practices/reference/moduleinfogroup-indexof-method-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleInfoGroup Class](/patterns-practices/reference/moduleinfogroup-class-mspp-modularity)<br/>
+[ModuleInfoGroup Members](/patterns-practices/reference/moduleinfogroup-members-mspp-modularity)<br/>
+[IndexOf Overload](/patterns-practices/reference/moduleinfogroup-indexof-method-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

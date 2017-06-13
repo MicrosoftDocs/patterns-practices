@@ -56,14 +56,10 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 
 ## See Also
 
-[ServiceLocatorExtensions Class](/patterns-practices/reference/servicelocatorextensions-class-mspp)
-
-[ServiceLocatorExtensions Members](/patterns-practices/reference/servicelocatorextensions-members-mspp)
-
-[TryResolve Overload](/patterns-practices/reference/servicelocatorextensions-tryresolve-method-iservicelocator-type-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
-
+[ServiceLocatorExtensions Class](/patterns-practices/reference/servicelocatorextensions-class-mspp)<br/>
+[ServiceLocatorExtensions Members](/patterns-practices/reference/servicelocatorextensions-members-mspp)<br/>
+[TryResolve Overload](/patterns-practices/reference/servicelocatorextensions-tryresolve-method-iservicelocator-type-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>
 
 # ServiceLocatorExtensions.TryResolve(Of T) Method (IServiceLocator)
 
@@ -116,10 +112,7 @@ In Visual Basic and C#, you can call this method as an instance method on any ob
 
 ## See Also
 
-[ServiceLocatorExtensions Class](/patterns-practices/reference/servicelocatorextensions-class-mspp)
-
-[ServiceLocatorExtensions Members](/patterns-practices/reference/servicelocatorextensions-members-mspp)
-
-[TryResolve Overload](/patterns-practices/reference/servicelocatorextensions-tryresolve-method-iservicelocator-type-mspp)
-
-[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)
+[ServiceLocatorExtensions Class](/patterns-practices/reference/servicelocatorextensions-class-mspp)<br/>
+[ServiceLocatorExtensions Members](/patterns-practices/reference/servicelocatorextensions-members-mspp)<br/>
+[TryResolve Overload](/patterns-practices/reference/servicelocatorextensions-tryresolve-method-iservicelocator-type-mspp)<br/>
+[Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>

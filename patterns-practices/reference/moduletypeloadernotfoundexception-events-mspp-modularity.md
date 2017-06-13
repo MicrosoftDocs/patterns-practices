@@ -21,7 +21,7 @@ The [ModuleTypeLoaderNotFoundException](/patterns-practices/reference/moduletype
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Protected event](/images/protevent.gif)</td>
+<td>![Protected event](/patterns-practices/reference/images/protevent.gif)</td>
 <td><a href="http://msdn.microsoft.com/en-us/library/ee332915">SerializeObjectState</a></td>
 <td><div class="summary">
 Occurs when an exception is serialized to create an exception state object that contains serialized data about the exception.
@@ -33,7 +33,5 @@ Occurs when an exception is serialized to create an exception state object that 
 
 ## See Also
 
-[ModuleTypeLoaderNotFoundException Class](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
-
+[ModuleTypeLoaderNotFoundException Class](/patterns-practices/reference/moduletypeloadernotfoundexception-class-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

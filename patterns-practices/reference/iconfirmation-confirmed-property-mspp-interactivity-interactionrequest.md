@@ -34,8 +34,6 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)
 
 ## See Also
 
-[IConfirmation Interface](/patterns-practices/reference/iconfirmation-interface-mspp-interactivity-interactionrequest)
-
-[IConfirmation Members](/patterns-practices/reference/iconfirmation-members-mspp-interactivity-interactionrequest)
-
-[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
+[IConfirmation Interface](/patterns-practices/reference/iconfirmation-interface-mspp-interactivity-interactionrequest)<br/>
+[IConfirmation Members](/patterns-practices/reference/iconfirmation-members-mspp-interactivity-interactionrequest)<br/>
+[Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>

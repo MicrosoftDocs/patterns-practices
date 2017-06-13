@@ -39,6 +39,5 @@ Microsoft.Practices.Prism.Modularity.ModuleManager
 
 ## See Also
 
-[ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleManager Members](/patterns-practices/reference/modulemanager-members-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

@@ -59,10 +59,8 @@ Type: [Boolean](http://msdn.microsoft.com/en-us/library/a28wyd50)<br/>
 
 ## See Also
 
-[SubscriptionToken Class](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)
-
+[SubscriptionToken Class](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)<br/>
 SubscriptionToken Members
 
-[Equals Overload](/patterns-practices/reference/subscriptiontoken-equals-method-mspp-pubsubevents)
-
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
+[Equals Overload](/patterns-practices/reference/subscriptiontoken-equals-method-mspp-pubsubevents)<br/>
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)<br/>

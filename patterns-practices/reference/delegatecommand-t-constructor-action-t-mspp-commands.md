@@ -34,13 +34,11 @@ Delegate to execute when Execute is called on the command. This can be null to j
 [CanExecute(T)](/patterns-practices/reference/delegatecommand-t-canexecute-method-t-mspp-commands) will always return true.
 
 ## See Also
-[DelegateCommand&lt;T&gt; Class](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)
-
-[DelegateCommand&lt;T&gt; Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)
-
+[DelegateCommand&lt;T&gt; Class](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)<br/>
+[DelegateCommand&lt;T&gt; Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)<br/>
 DelegateCommand&lt;T&gt; Overload
 
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>
 
 # DelegateCommand(Of T) Constructor (Action(Of T))
 
@@ -72,11 +70,8 @@ Delegate to execute when Execute is called on the command. This can be null to j
 [CanExecute(T)](/patterns-practices/reference/delegatecommand-t-canexecute-method-t-mspp-commands) will always return true.
 
 ## See Also
-[DelegateCommand(Of T) Class](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)
-
-[DelegateCommand(Of T) Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)
-
+[DelegateCommand(Of T) Class](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)<br/>
+[DelegateCommand(Of T) Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)<br/>
 DelegateCommand(Of T) Overload
 
-[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)
-
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>

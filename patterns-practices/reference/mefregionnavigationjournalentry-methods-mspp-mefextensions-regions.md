@@ -76,6 +76,5 @@ Returns a <a href="http://msdn.microsoft.com/en-us/library/s1wwdcbf">String</a> 
 
 ## See Also
 
-[MefRegionNavigationJournalEntry Class](/patterns-practices/reference/mefregionnavigationjournalentry-class-mspp-mefextensions-regions)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
+[MefRegionNavigationJournalEntry Class](/patterns-practices/reference/mefregionnavigationjournalentry-class-mspp-mefextensions-regions)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)<br/>

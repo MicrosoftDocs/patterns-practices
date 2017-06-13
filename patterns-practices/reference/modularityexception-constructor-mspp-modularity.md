@@ -28,10 +28,8 @@ Public Sub New
 
 ## See Also
 
-[ModularityException Class](/patterns-practices/reference/modularityexception-class-mspp-modularity)
-
-[ModularityException Members](/patterns-practices/reference/modularityexception-members-mspp-modularity)
-
+[ModularityException Class](/patterns-practices/reference/modularityexception-class-mspp-modularity)<br/>
+[ModularityException Members](/patterns-practices/reference/modularityexception-members-mspp-modularity)<br/>
 ModularityException Overload
 
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

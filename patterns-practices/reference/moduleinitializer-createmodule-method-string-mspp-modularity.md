@@ -45,10 +45,7 @@ A new instance of *typeName*.
 
 ## See Also
 
-[ModuleInitializer Class](/patterns-practices/reference/moduleinitializer-class-mspp-modularity)
-
-[ModuleInitializer Members](/patterns-practices/reference/moduleinitializer-members-mspp-modularity)
-
-[CreateModule Overload](/patterns-practices/reference/moduleinitializer-createmodule-method-mspp-modularity)
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
+[ModuleInitializer Class](/patterns-practices/reference/moduleinitializer-class-mspp-modularity)<br/>
+[ModuleInitializer Members](/patterns-practices/reference/moduleinitializer-members-mspp-modularity)<br/>
+[CreateModule Overload](/patterns-practices/reference/moduleinitializer-createmodule-method-mspp-modularity)<br/>
+[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>

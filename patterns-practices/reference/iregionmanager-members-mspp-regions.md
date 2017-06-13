@@ -195,6 +195,5 @@ Gets a collection of <a href="/patterns-practices/reference/iregion-interface-ms
 
 ## See Also
 
-[IRegionManager Interface](/patterns-practices/reference/iregionmanager-interface-mspp-regions)
-
+[IRegionManager Interface](/patterns-practices/reference/iregionmanager-interface-mspp-regions)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

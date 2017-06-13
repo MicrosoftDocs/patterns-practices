@@ -70,10 +70,7 @@ The type of the property that has a new value
 
 ## See Also
 
-[BindableBase Class](/patterns-practices/reference/bindablebase-class-mspp-mvvm)
-
-[BindableBase Members](/patterns-practices/reference/bindablebase-members-mspp-mvvm)
-
-[OnPropertyChanged Overload](/patterns-practices/reference/bindablebase-onpropertychanged-method-mspp-mvvm)
-
-[Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
+[BindableBase Class](/patterns-practices/reference/bindablebase-class-mspp-mvvm)<br/>
+[BindableBase Members](/patterns-practices/reference/bindablebase-members-mspp-mvvm)<br/>
+[OnPropertyChanged Overload](/patterns-practices/reference/bindablebase-onpropertychanged-method-mspp-mvvm)<br/>
+[Microsoft.Practices.Prism.Mvvm Namespace](/patterns-practices/reference/mspp-mvvm-namespace)<br/>

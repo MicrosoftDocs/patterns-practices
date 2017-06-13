@@ -44,8 +44,6 @@ Arguments to pass to the invoked method.
 
 ## See Also
 
-[IDispatcherFacade Interface](/patterns-practices/reference/idispatcherfacade-interface-mspp-events)
-
-[IDispatcherFacade Members](/patterns-practices/reference/idispatcherfacade-members-mspp-events)
-
-[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)
+[IDispatcherFacade Interface](/patterns-practices/reference/idispatcherfacade-interface-mspp-events)<br/>
+[IDispatcherFacade Members](/patterns-practices/reference/idispatcherfacade-members-mspp-events)<br/>
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)<br/>

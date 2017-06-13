@@ -11,7 +11,7 @@ ms:mtpsurl: 'mefregionnavigationcontentloader-getcandidatesfromregion-method-msp
 
 Returns the set of candidates that may satisfiy this navigation request.
 
-**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
+**Namespace:** [Microsoft.Practices.Prism.MefExtensions.Regions](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
 
 **Assembly:** Microsoft.Practices.Prism.MefExtensions (in Microsoft.Practices.Prism.MefExtensions.dll)
 
@@ -67,9 +67,6 @@ An enumerable of candidate objects from the [IRegion](/patterns-practices/refere
 
 ## See Also
 
-[MefRegionNavigationContentLoader Class](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader)
-
-[MefRegionNavigationContentLoader Members](https://msdn.microsoft.com/allmembers.t:microsoft.practices.prism.mefextensions.regions.mefregionnavigationcontentloader)
-
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.mefextensions.regions)
-
+[MefRegionNavigationContentLoader Class](/patterns-practices/reference/mefregionnavigationcontentloader-class-mspp-mefextensions-regions)<br/>
+[MefRegionNavigationContentLoader Members](/patterns-practices/reference/mefregionnavigationcontentloader-members-mspp-mefextensions-regions)<br/>
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)<br/>

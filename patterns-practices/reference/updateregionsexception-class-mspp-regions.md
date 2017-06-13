@@ -38,6 +38,5 @@ Public Class UpdateRegionsException
 
 ## See Also
 
-[UpdateRegionsException Members](/patterns-practices/reference/updateregionsexception-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[UpdateRegionsException Members](/patterns-practices/reference/updateregionsexception-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

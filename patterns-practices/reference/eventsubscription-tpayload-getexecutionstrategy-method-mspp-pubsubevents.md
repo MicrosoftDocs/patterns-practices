@@ -37,12 +37,10 @@ An [Action&lt;T&gt;](http://msdn2.microsoft.com/en-us/library/018hxwa8) with the
 
 ## See Also
 
-[EventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)
-
+[EventSubscription&lt;TPayload&gt; Class](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)<br/>
 EventSubscription&lt;TPayload&gt; Members
 
-[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)
-
+[Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)<br/>
 
 # EventSubscription(Of TPayload).GetExecutionStrategy Method
 
@@ -75,8 +73,7 @@ If [Action](/patterns-practices/reference/eventsubscription-tpayload-action-prop
 
 ## See Also
 
-[EventSubscription(Of TPayload) Class](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)
-
+[EventSubscription(Of TPayload) Class](/patterns-practices/reference/eventsubscription-tpayload-class-mspp-pubsubevents)<br/>
 EventSubscription(Of TPayload) Members
 
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-mvvm-namespace)

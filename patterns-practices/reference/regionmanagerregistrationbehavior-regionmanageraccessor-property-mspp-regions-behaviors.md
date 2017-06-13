@@ -34,8 +34,6 @@ Type: [IRegionManagerAccessor](/patterns-practices/reference/iregionmanageracces
 
 ## See Also
 
-[RegionManagerRegistrationBehavior Class](/patterns-practices/reference/regionmanagerregistrationbehavior-class-mspp-regions-behaviors)
-
-[RegionManagerRegistrationBehavior Members](/patterns-practices/reference/regionmanagerregistrationbehavior-members-mspp-regions-behaviors)
-
+[RegionManagerRegistrationBehavior Class](/patterns-practices/reference/regionmanagerregistrationbehavior-class-mspp-regions-behaviors)<br/>
+[RegionManagerRegistrationBehavior Members](/patterns-practices/reference/regionmanagerregistrationbehavior-members-mspp-regions-behaviors)<br/>
 [Microsoft.Practices.Prism.Regions.Behaviors Namespace](/patterns-practices/reference/mspp-regions-behaviors-namespace)

@@ -106,6 +106,5 @@ Returns a string that represents the current object.
 
 ## See Also
 
-[DefaultDispatcher Class](/patterns-practices/reference/defaultdispatcher-class-mspp-events)
-
-[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)
+[DefaultDispatcher Class](/patterns-practices/reference/defaultdispatcher-class-mspp-events)<br/>
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)<br/>

@@ -33,6 +33,5 @@ Public Class RegionAdapterMappings
 
 ## See Also
 
-[RegionAdapterMappings Members](/patterns-practices/reference/regionadaptermappings-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[RegionAdapterMappings Members](/patterns-practices/reference/regionadaptermappings-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>

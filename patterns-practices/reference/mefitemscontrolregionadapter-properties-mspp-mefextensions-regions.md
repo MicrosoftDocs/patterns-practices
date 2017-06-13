@@ -36,4 +36,4 @@ Gets or sets the factory used to create the region behaviors to attach to the cr
 ## See Also
 
 [MefItemsControlRegionAdapter Class](/patterns-practices/reference/mefitemscontrolregionadapter-class-mspp-mefextensions-regions)  
-[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)
+[Microsoft.Practices.Prism.MefExtensions.Regions Namespace](/patterns-practices/reference/mspp-mefextensions-regions-namespace)<br/>

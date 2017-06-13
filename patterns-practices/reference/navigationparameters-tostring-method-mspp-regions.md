@@ -31,8 +31,6 @@ Type: [String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
 
 ## See Also
 
-[NavigationParameters Class](/patterns-practices/reference/mspp-regions-namespace.navigationparameters)
-
-[NavigationParameters Members](/patterns-practices/reference/mspp-regions-namespace.navigationparameters_members)
-
+[NavigationParameters Class](/patterns-practices/reference/mspp-regions-namespace.navigationparameters)<br/>
+[NavigationParameters Members](/patterns-practices/reference/mspp-regions-namespace.navigationparameters_members)<br/>
 [Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)

@@ -35,8 +35,6 @@ The INavigate implementation.
  This is set by the owner of this journal.
 
 ## See Also
-[IRegionNavigationJournal Interface](/patterns-practices/reference/iregionnavigationjournal-interface-mspp-regions)
-
-[IRegionNavigationJournal Members](/patterns-practices/reference/iregionnavigationjournal-members-mspp-regions)
-
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)
+[IRegionNavigationJournal Interface](/patterns-practices/reference/iregionnavigationjournal-interface-mspp-regions)<br/>
+[IRegionNavigationJournal Members](/patterns-practices/reference/iregionnavigationjournal-members-mspp-regions)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
