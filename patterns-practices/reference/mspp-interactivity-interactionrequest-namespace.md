@@ -5,9 +5,7 @@ ms:assetid: 'N:Microsoft.Practices.Prism.Interactivity.InteractionRequest'
 ms:mtpsurl: 'mspp-interactivity-interactionrequest-namespace.md'
 ---
 
-
 # Microsoft.Practices.Prism.Interactivity.InteractionRequest Namespace
-
 
 ## Classes
 
@@ -60,9 +58,7 @@ Basic implementation of [INotification](/patterns-practices/reference/inotificat
 
 ## Interfaces
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -90,7 +86,6 @@ Represents a request from user interaction.
 <td>[IInteractionRequestAware](/patterns-practices/reference/iinteractionrequestaware-interface-mspp-interactivity-interactionrequest)</td>
 <td><div class="summary">
 Interface used by the [PopupWindowAction](/patterns-practices/reference/popupwindowaction-class-mspp-interactivity). If the DataContext object of a view that is shown with this action implements this interface it will be populated with the [INotification](/patterns-practices/reference/inotification-interface-mspp-interactivity-interactionrequest) data of the interaction request as well as an [Action](http://msdn.microsoft.com/en-us/library/bb534741) to finish the request upon invocation.
-
 </div></td>
 </tr>
 <tr class="even">
