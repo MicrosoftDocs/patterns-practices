@@ -35,7 +35,7 @@ Subscribes a delegate to an event. CompositePresentationEvent will maintain a [W
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>[Subscribe(Action(Of TPayload), Boolean)](https://msdn.microsoft.com/en-us/library/gg405770(v=pandp.50))</a></td>
+<td>[Subscribe(Action(Of TPayload), Boolean)](/patterns-practices/reference/compositepresentationevent-tpayload-subscribe-method-action-tpayload-boolean-mspp-events)</a></td>
 <td><div class="summary">
 Subscribes a delegate to an event that will be published on the PublisherThread.
 </div></td>
