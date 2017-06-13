@@ -10,11 +10,7 @@ ms:mtpsurl: 'delegatecommandbase-constructor-action-object-func-object-boolean-m
 ## Overload List
 
 <table>
-<colgroup>
-<col width="33%" />
-<col width="33%" />
-<col width="33%" />
-</colgroup>
+
 <thead>
 <tr class="header">
 <th></th>
