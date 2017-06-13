@@ -23,11 +23,11 @@ The [MefBindRegionContextToDependencyObjectBehavior](/patterns-practices/referen
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-region-property-mspp-regions-behaviors">Region</a></td>
+<td>[Region](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-region-property-mspp-regions-behaviors)</td>
 <td><div class="summary">
 Behavior's attached region.
 </div>
-(Inherited from <a href="/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors">BindRegionContextToDependencyObjectBehavior</a>.)</td>
+(Inherited from [BindRegionContextToDependencyObjectBehavior](/patterns-practices/reference/bindregioncontexttodependencyobjectbehavior-class-mspp-regions-behaviors).)</td>
 </tr>
 </tbody>
 </table>
