@@ -5,7 +5,6 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Events.IDispatcherFacade'
 ms:mtpsurl: 'idispatcherfacade-members-mspp-events.md'
 ---
 
-
 # IDispatcherFacade Members
 
 The [IDispatcherFacade](/patterns-practices/reference/idispatcherfacade-interface-mspp-events) type exposes the following members.
@@ -13,10 +12,9 @@ The [IDispatcherFacade](/patterns-practices/reference/idispatcherfacade-interfac
 ## Methods
 
 <table>
-
 <thead>
 <tr class="header">
-<th> </th>
+<th> </th>
 <th>Name</th>
 <th>Description</th>
 </tr>
@@ -24,8 +22,7 @@ The [IDispatcherFacade](/patterns-practices/reference/idispatcherfacade-interfac
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/idispatcherfacade-begininvoke-method-mspp-events
-">BeginInvoke</a></td>
+<td>[BeginInvoke](/patterns-practices/reference/idispatcherfacade-begininvoke-method-mspp-events)</td>
 <td><div class="summary">
 Dispatches an invocation to the method received as parameter.
 </div></td>
