@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Commands.WeakEventHandlerManager.CallWe
 ms:mtpsurl: 'weakeventhandlermanager-callweakreferencehandlers-method-mspp-commands.md'
 ---
 
-
 # WeakEventHandlerManager.CallWeakReferenceHandlers Method
 
 Invokes the handlers
@@ -25,12 +24,10 @@ Invokes the handlers
 
 ### Parameters
 
-*sender*
-
+*sender*<br/>
 Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-*handlers*  
-
+*handlers*<br/>
 Type: [System.Collections.Generic.List](http://msdn.microsoft.com/en-us/library/6sh2ey19)&lt;[WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd)&gt;
 
 ## Syntax
@@ -45,12 +42,10 @@ Public Shared Sub CallWeakReferenceHandlers (
 
 ### Parameters
 
-*sender*
-
+*sender*<br/>
 Type: [System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
 
-*handlers*  
-
+*handlers*<br/>
 Type: [System.Collections.Generic.List](http://msdn.microsoft.com/en-us/library/6sh2ey19)(Of [WeakReference](http://msdn.microsoft.com/en-us/library/hbh8w2zd))
 
 

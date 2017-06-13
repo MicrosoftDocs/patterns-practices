@@ -5,16 +5,18 @@ ms:assetid: 'Methods.T:Microsoft.Practices.Prism.Interactivity.DefaultPopupWindo
 ms:mtpsurl: 'defaultconfirmationwindow-methods-mspp-interactivity-defaultpopupwindows.md'
 ---
 
-
 # DefaultConfirmationWindow Methods
 
 The [DefaultConfirmationWindow](/patterns-practices/reference/defaultconfirmationwindow-class-mspp-interactivity-defaultpopupwindows) type exposes the following members.
 
 ## Methods
 
-
 <table>
-
+<colgroup>
+<col width="33%" />
+<col width="33%" />
+<col width="33%" />
+</colgroup>
 <thead>
 <tr class="header">
 <th> </th>
