@@ -5,7 +5,6 @@ ms:assetid: 'M:Microsoft.Practices.Prism.Regions.INavigateAsync.RequestNavigate(
 ms:mtpsurl: 'inavigateasync-requestnavigate-method-mspp-regions.md'
 ---
 
-
 # INavigateAsync.RequestNavigate Method (Uri, Action&lt;NavigationResult&gt;)
 
 Initiates navigation to the target specified by the [Uri](http://msdn.microsoft.com/en-us/library/txt7706a).
@@ -25,17 +24,14 @@ void RequestNavigate(
 
 ### Parameters
 
-*target*
-
-Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
-
+*target*<br/>
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)<br/>
 The navigation target
 
-*navigationCallback*  
-
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions)&gt;
-
+*navigationCallback*<br/>
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)&lt;[NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions)&gt;<br/>
 The callback executed when the navigation request is completed.
+
 
 
 # INavigateAsync.RequestNavigate Method (Uri, Action(Of NavigationResult))
@@ -58,16 +54,12 @@ Sub RequestNavigate (
 
 ### Parameters
 
-*target*
-
-Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)
-
+*target*<br/>
+Type: [System.Uri](http://msdn.microsoft.com/en-us/library/txt7706a)<br/>
 The navigation target
 
-*navigationCallback*  
-
-Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions))
-
+*navigationCallback*<br/>
+Type: [System.Action](http://msdn.microsoft.com/en-us/library/018hxwa8)(Of [NavigationResult](/patterns-practices/reference/navigationresult-class-mspp-regions))<br/>
 The callback executed when the navigation request is completed.
 
 ## Remarks

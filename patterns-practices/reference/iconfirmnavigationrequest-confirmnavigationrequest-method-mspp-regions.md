@@ -9,7 +9,7 @@ ms:mtpsurl: 'iconfirmnavigationrequest-confirmnavigationrequest-method-mspp-regi
 
 Determines whether this instance accepts being navigated away from.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespaces)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions](/patterns-practices/reference/mspp-regions-namespace)<br/>
 **Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
 **Version:** 5.0.0.0 (5.0.0.0)
 
@@ -59,4 +59,4 @@ The callback to indicate when navigation can proceed.
 
 [IConfirmNavigationRequest Interface](/patterns-practices/reference/iconfirmnavigationrequest-interface-mspp-regions)<br/>
 [IConfirmNavigationRequest Members](/patterns-practices/reference/iconfirmnavigationrequest-members-mspp-regions)<br/>
-[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespaces)<br/>
+[Microsoft.Practices.Prism.Regions Namespace](/patterns-practices/reference/mspp-regions-namespace)<br/>
