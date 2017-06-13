@@ -40,7 +40,7 @@ Gets or sets the default [CompositionContainer](http://msdn.microsoft.com/en-us/
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
 <td>[Logger](/patterns-practices/reference/bootstrapper-logger-property-mspp)</td>
 <td><div class="summary">
-Gets the [ILoggerFacade](patterns-practices/reference/iloggerfacade-interface-mspp-logging) for the application.
+Gets the [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging) for the application.
 </div>
 (Inherited from [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp).)</td>
 </tr>
