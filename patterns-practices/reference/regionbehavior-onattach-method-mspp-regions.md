@@ -18,13 +18,13 @@ Override this method to perform the logic after the behavior has been attached.
 
 ## Syntax
 
-~~~C#
+```C#
 protected abstract void OnAttach()
-~~~
-~~~VB
+```
+```VB
 'Declaration
 Protected MustOverride Sub OnAttach
-~~~
+```
 
 ## See Also
 

@@ -34,8 +34,8 @@ Public Function CreateFromKey (
 ### Parameters
 
 *key*  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
-The key that is used to register a behavior type.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The key that is used to register a behavior type.
 
 ### Return Value
 

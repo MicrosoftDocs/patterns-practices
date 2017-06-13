@@ -18,18 +18,20 @@ Attaches the behavior to the region.
 
 
 ## Syntax
-~~~C#
+
+```C#
 public void Attach()
-~~~
+```
+
 ### Implements
 
 [IRegionBehavior.Attach()](/patterns-practices/reference/iregionbehavior-attach-method-mspp-regions)
 
-## Syntax
-~~~VB
+```VB
 'Declaration
 Public Sub Attach
-~~~
+```
+
 ### Implements
 
 [IRegionBehavior.Attach](/patterns-practices/reference/iregionbehavior-attach-method-mspp-regions)

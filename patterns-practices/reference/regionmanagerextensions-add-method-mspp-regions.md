@@ -18,14 +18,14 @@ Adds a region to the regionmanager with the name received as argument.
 
 ## Syntax
 
-~~~C#
+```C#
 public static void Add(
 	this IRegionCollection regionCollection,
 	string regionName,
 	IRegion region
 )
-~~~
-~~~VB
+```
+```VB
 'Declaration
 <ExtensionAttribute> 
 Public Shared Sub Add ( 
