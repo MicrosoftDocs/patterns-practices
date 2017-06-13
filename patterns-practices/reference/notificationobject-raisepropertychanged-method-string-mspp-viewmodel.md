@@ -1,10 +1,9 @@
----
+﻿---
 TOCTitle: 'RaisePropertyChanged Method (String)'
 Title: 'NotificationObject.RaisePropertyChanged Method (String) (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.NotificationObject.RaisePropertyChanged(System.String)'
 ms:mtpsurl: 'notificationobject-raisepropertychanged-method-mspp-viewmodel.md'
 ---
-
 
 # NotificationObject.RaisePropertyChanged Method (String)
 
@@ -32,10 +31,8 @@ Protected Overridable Sub RaisePropertyChanged (
 
 ### Parameters
 
-*propertyName*
-
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
-
+*propertyName*  
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
 The property that has a new value.
 
 ## See Also

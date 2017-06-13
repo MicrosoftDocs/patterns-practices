@@ -21,24 +21,24 @@ ms:mtpsurl: 'delegatecommand-t-execute-method-mspp-commands.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/en-us/library/gg405764(v=pandp.50)">Execute(T)</a></td>
+<td>[Execute(T)](/patterns-practices/reference/delegatecommand-t-execute-method-t-mspp-commands)</td>
 <td><div class="summary">
-Executes the command and invokes the <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action(Of T)</a> provided during construction.
+Executes the command and invokes the [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) provided during construction.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase.execute(system.object)">Execute(Object)</a></td>
+<td>[Execute(Object)](/patterns-practices/reference/delegatecommandbase-execute-method-mspp-commands)</td>
 <td><div class="summary">
-Executes the command with the provided parameter by invoking the <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action(Of T)</a> supplied during construction.
+Executes the command with the provided parameter by invoking the [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) supplied during construction.
 </div>
-(Inherited from <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.delegatecommandbase">DelegateCommandBase</a>.)</td>
+(Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)</td>
 </tr>
 </tbody>
 </table>
 
 ## See Also
 
-[DelegateCommand(Of T) Class](https://msdn.microsoft.com/en-us/library/gg431410(v=pandp.50))<br/>
-[DelegateCommand(Of T) Members](https://msdn.microsoft.com/en-us/library/gg430763(v=pandp.50))<br/>
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)<br/>
+[DelegateCommand(Of T) Class ](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)<br/>
+[DelegateCommand(Of T) Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)<br/>
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>

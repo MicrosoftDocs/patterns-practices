@@ -5,14 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleDependencyColle
 ms:mtpsurl: 'moduledependencycollection-item-property-int32-mspp-modularity.md'
 ---
 
-
 # ModuleDependencyCollection.Item Property
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -23,25 +20,25 @@ ms:mtpsurl: 'moduledependencycollection-item-property-int32-mspp-modularity.md'
 <tbody>
 <tr class="odd">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/es150ftc">Item(ConfigurationProperty)</a></td>
+<td>[Item[ConfigurationProperty]](http://msdn.microsoft.com/en-us/library/es150ftc)</td>
 <td><div class="summary">
 Gets or sets a property or attribute of this configuration element.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="even">
 <td>![Protected property](/patterns-practices/reference/images/protproperty.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/c8693ks1">Item(String)</a></td>
+<td>[Item[String]](http://msdn.microsoft.com/en-us/library/c8693ks1)</td>
 <td><div class="summary">
 Gets or sets a property, attribute, or child element of this configuration element.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a>.)</td>
+(Inherited from [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3).)</td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/moduledependencycollection-item-property-int32-mspp-modularity">Item(Int32)</a></td>
+<td>[Item[Int32]](/patterns-practices/reference/moduledependencycollection-item-property-int32-mspp-modularity)</td>
 <td><div class="summary">
-Gets the <a href="/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity">ModuleDependencyConfigurationElement</a> located at the specified index in the collection.
+Gets the [ModuleDependencyConfigurationElement](/patterns-practices/reference/moduledependencyconfigurationelement-class-mspp-modularity) located at the specified index in the collection.
 </div></td>
 </tr>
 </tbody>

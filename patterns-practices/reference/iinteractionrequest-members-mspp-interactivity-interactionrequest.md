@@ -5,16 +5,13 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Interactivity.InteractionReq
 ms:mtpsurl: 'iinteractionrequest-members-mspp-interactivity-interactionrequest.md'
 ---
 
-
 # IInteractionRequest Members
 
 The [IInteractionRequest](/patterns-practices/reference/iinteractionrequest-interface-mspp-interactivity-interactionrequest) type exposes the following members.
 
 ## Events
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -25,7 +22,7 @@ The [IInteractionRequest](/patterns-practices/reference/iinteractionrequest-inte
 <tbody>
 <tr class="odd">
 <td>![Public event](/patterns-practices/reference/images/pubevent.gif)</td>
-<td><a href="/patterns-practices/reference/iinteractionrequest-raised-event-mspp-interactivity-interactionrequest">Raised</a></td>
+<td>[Raised](/patterns-practices/reference/iinteractionrequest-raised-event-mspp-interactivity-interactionrequest)</td>
 <td><div class="summary">
 Fired when the interaction is needed.
 </div></td>

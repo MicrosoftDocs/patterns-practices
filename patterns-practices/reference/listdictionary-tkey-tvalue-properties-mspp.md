@@ -6,9 +6,9 @@ ms:mtpsurl: 'listdictionary-tkey-tvalue-properties-mspp.md'
 ---
 
 
-# ListDictionary&lt;TKey, TValue&gt; Properties
+# ListDictionary(Of TKey, TValue) Properties
 
-The [ListDictionary&lt;TKey, TValue&gt;](/patterns-practices/reference/notification-content-property-mspp-interactivity-interactionrequest) type exposes the following members.
+The [ListDictionary(Of TKey, TValue)](/patterns-practices/reference/notification-content-property-mspp-interactivity-interactionrequest) type exposes the following members.
 
 ## Properties
 
@@ -25,28 +25,28 @@ The [ListDictionary&lt;TKey, TValue&gt;](/patterns-practices/reference/notificat
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-count-property-mspp">Count</a></td>
+<td>[Count](/patterns-practices/reference/listdictionary-tkey-tvalue-count-property-mspp)</td>
 <td><div class="summary">
 Gets the number of lists in the dictionary.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-item-property-mspp">Item</a></td>
+<td>[Item](/patterns-practices/reference/listdictionary-tkey-tvalue-item-property-mspp)</td>
 <td><div class="summary">
 Gets or sets the list associated with the given key. The access always succeeds, eventually returning an empty list.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-keys-property-mspp">Keys</a></td>
+<td>[Keys](/patterns-practices/reference/listdictionary-tkey-tvalue-keys-property-mspp)</td>
 <td><div class="summary">
 Gets the list of keys in the dictionary.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="/patterns-practices/reference/listdictionary-tkey-tvalue-values-property-mspp">Values</a></td>
+<td>[Values](/patterns-practices/reference/listdictionary-tkey-tvalue-values-property-mspp)</td>
 <td><div class="summary">
 Gets a shallow copy of all values in all lists.
 </div></td>
@@ -56,5 +56,5 @@ Gets a shallow copy of all values in all lists.
 
 ## See Also
 
-[ListDictionary&lt;TKey, TValue&gt; Class](/patterns-practices/reference/notification-content-property-mspp-interactivity-interactionrequest)<br/>
+[ListDictionary(Of TKey, TValue) Class](/patterns-practices/reference/notification-content-property-mspp-interactivity-interactionrequest)<br/>
 [Microsoft.Practices.Prism Namespace](/patterns-practices/reference/mspp-namespace)<br/>

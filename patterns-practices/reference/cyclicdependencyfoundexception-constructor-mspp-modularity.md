@@ -25,28 +25,28 @@ ms:mtpsurl: 'cyclicdependencyfoundexception-constructor-mspp-modularity.md'
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>CyclicDependencyFoundException</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity">CyclicDependencyFoundException</a> class.
+Initializes a new instance of the [CyclicDependencyFoundException](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity) class.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>CyclicDependencyFoundException(String)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity">CyclicDependencyFoundException</a> class with the specified error message.
+Initializes a new instance of the [CyclicDependencyFoundException](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity) class with the specified error message.
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
 <td>CyclicDependencyFoundException(SerializationInfo, StreamingContext)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity">CyclicDependencyFoundException</a> class with the serialization data.
+Initializes a new instance of the [CyclicDependencyFoundException](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity) class with the serialization data.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>CyclicDependencyFoundException(String, Exception)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity">CyclicDependencyFoundException</a> class with the specified error message and inner exception.
+Initializes a new instance of the [CyclicDependencyFoundException](/patterns-practices/reference/cyclicdependencyfoundexception-class-mspp-modularity) class with the specified error message and inner exception.
 </div></td>
 </tr>
 <tr class="odd">

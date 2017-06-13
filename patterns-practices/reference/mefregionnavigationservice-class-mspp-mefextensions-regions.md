@@ -29,13 +29,15 @@ Public Class MefRegionNavigationService
 
 ## Remarks
 
-&nbsp;&nbsp;This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used.
+This allows the MefBootstrapper to provide this class as a default implementation. If another implementation is found, this export will not be used.
 
 ## Inheritance Hierarchy
 
-&nbsp;&nbsp;[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
-&nbsp;&nbsp;&nbsp;[Microsoft.Practices.Prism.Regions.RegionNavigationService](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)<br/>
-&nbsp;&nbsp;&nbsp;&nbsp;Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationService
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)
+
+[Microsoft.Practices.Prism.Regions.RegionNavigationService](/patterns-practices/reference/regionnavigationservice-class-mspp-regions)
+
+Microsoft.Practices.Prism.MefExtensions.Regions.MefRegionNavigationService
 
 ## See Also
 

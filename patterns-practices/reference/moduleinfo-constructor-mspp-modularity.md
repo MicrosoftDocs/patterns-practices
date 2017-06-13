@@ -5,14 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleInfo.\#ctor'
 ms:mtpsurl: 'moduleinfo-constructor-mspp-modularity.md'
 ---
 
-
 # ModuleInfo Constructor
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -23,23 +20,23 @@ ms:mtpsurl: 'moduleinfo-constructor-mspp-modularity.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleInfo</td>
+<td>ModuleInfo()</td>
 <td><div class="summary">
-Initializes a new empty instance of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>.
+Initializes a new empty instance of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity).
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>ModuleInfo(String, String)</td>
 <td><div class="summary">
-Initializes a new instance of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>.
+Initializes a new instance of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity).
 </div></td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleInfo(String, String, String())</td>
+<td>ModuleInfo(String, String, String[])</td>
 <td><div class="summary">
-Initializes a new instance of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>.
+Initializes a new instance of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity).
 </div></td>
 </tr>
 </tbody>

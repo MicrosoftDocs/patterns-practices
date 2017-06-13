@@ -25,14 +25,14 @@ ms:mtpsurl: 'compositecommand-constructor-boolean-mspp-commands.md'
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>CompositeCommand</td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand">CompositeCommand</a>.
+Initializes a new instance of [CompositeCommand](/patterns-practices/reference/compositecommand-class-mspp-commands).
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
 <td>CompositeCommand(Boolean)</td>
 <td><div class="summary">
-Initializes a new instance of <a href="https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand">CompositeCommand</a>.
+Initializes a new instance of [CompositeCommand](/patterns-practices/reference/compositecommand-class-mspp-commands).
 </div></td>
 </tr>
 </tbody>
@@ -40,6 +40,6 @@ Initializes a new instance of <a href="https://msdn.microsoft.com/library/micros
 
 ## See Also
 
-[CompositeCommand Class](https://msdn.microsoft.com/library/microsoft.practices.prism.commands.compositecommand)<br/>
-[CompositeCommand Members](https://msdn.microsoft.com/en-us/library/microsoft.practices.prism.commands.compositecommand_members(v=pandp.50))<br/>
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)<br/>
+[CompositeCommand Class](/patterns-practices/reference/compositecommand-class-mspp)<br/>
+[CompositeCommand Members](/patterns-practices/reference/compositecommand-members-mspp)<br/>
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-namespace)
