@@ -23,16 +23,16 @@ ms:mtpsurl: 'assemblyresolver-dispose-method-boolean-mspp-modularity.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/assemblyresolver-dispose-method-mspp-modularity">Dispose</a></td>
+<td>[Dispose](/patterns-practices/reference/assemblyresolver-dispose-method-mspp-modularity)</td>
 <td><div class="summary">
 Performs application-defined tasks associated with freeing, releasing, or resetting unmanaged resources.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="/patterns-practices/reference/assemblyresolver-dispose-method-boolean-mspp-modularity">Dispose(Boolean)</a></td>
+<td>[Dispose(Boolean)](/patterns-practices/reference/assemblyresolver-dispose-method-boolean-mspp-modularity)</td>
 <td><div class="summary">
-Disposes the associated <a href="/patterns-practices/reference/assemblyresolver-class-mspp-modularity">AssemblyResolver</a>.
+Disposes the associated [AssemblyResolver](/patterns-practices/reference/assemblyresolver-class-mspp-modularity).
 </div></td>
 </tr>
 </tbody>

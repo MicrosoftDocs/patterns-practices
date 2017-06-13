@@ -21,19 +21,19 @@ ms:mtpsurl: 'mefbootstrapper-run-method-boolean-mspp-mefextensions.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/run-mthd">Run</a></td>
+<td>[Run](/patterns-practices/reference/run-mthd)</td>
 <td><div class="summary">
 Runs the bootstrapper process.
 </div>
-(Inherited from <a href="/patterns-practices/reference/bootstrapper-class-mspp">Bootstrapper</a>.)</td>
+(Inherited from [Bootstrapper](/patterns-practices/reference/bootstrapper-class-mspp).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/mefbootstrapper-run-method-boolean-mspp-mefextensions">Run(Boolean)</a></td>
+<td>[Run(Boolean)](/patterns-practices/reference/mefbootstrapper-run-method-boolean-mspp-mefextensions)</td>
 <td><div class="summary">
 Run the bootstrapper process.
 </div>
-(Overrides <a href="/patterns-practices/reference/bootstrapper-run-method-boolean-mspp">Bootstrapper.Run(Boolean)</a>.)</td>
+(Overrides [Bootstrapper.Run(Boolean)](/patterns-practices/reference/bootstrapper-run-method-boolean-mspp).)</td>
 </tr>
 </tbody>
 </table>
