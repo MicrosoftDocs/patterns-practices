@@ -43,4 +43,4 @@ Determines if the command can execute with the provided parameter by invoking th
 
 [DelegateCommand(Of T) Class ](/patterns-practices/reference/delegatecommand-t-class-mspp-commands)<br/>
 [DelegateCommand(Of T) Members](/patterns-practices/reference/delegatecommand-t-members-mspp-commands)<br/>
-[Microsoft.Practices.Prism.Commands Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.commands)<br/>
+[Microsoft.Practices.Prism.Commands Namespace](/patterns-practices/reference/mspp-commands-namespace)<br/>
