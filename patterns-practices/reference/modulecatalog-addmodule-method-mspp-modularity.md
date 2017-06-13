@@ -10,9 +10,7 @@ ms:mtpsurl: 'addmodule-mthd-str-str-initializationmode-str.md'
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>

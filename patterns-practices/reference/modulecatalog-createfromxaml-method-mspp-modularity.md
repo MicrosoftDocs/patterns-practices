@@ -5,14 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleCatalog.CreateF
 ms:mtpsurl: 'modulecatalog-createfromxaml-method-mspp-modularity.md'
 ---
 
-
 # ModuleCatalog.CreateFromXaml Method
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -22,14 +19,14 @@ ms:mtpsurl: 'modulecatalog-createfromxaml-method-mspp-modularity.md'
 </thead>
 <tbody>
 <tr class="odd">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td><a href="/patterns-practices/reference/modulecatalog-createfromxaml-method-stream-mspp-modularity">CreateFromXaml(Stream)</a></td>
 <td><div class="summary">
 Creates a <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a> from XAML.
 </div></td>
 </tr>
 <tr class="even">
-<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
+<td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
 <td><a href="/patterns-practices/reference/modulecatalog-createfromxaml-method-uri-mspp-modularity">CreateFromXaml(Uri)</a></td>
 <td><div class="summary">
 Creates a <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a> from a XAML included as an Application Resource.
