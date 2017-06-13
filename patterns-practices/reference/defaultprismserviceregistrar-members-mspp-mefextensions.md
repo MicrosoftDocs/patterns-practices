@@ -5,16 +5,13 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.MefExtensions.DefaultPrismSe
 ms:mtpsurl: 'defaultprismserviceregistrar-members-mspp-mefextensions.md'
 ---
 
-
 # DefaultPrismServiceRegistrar Members
 
 The [DefaultPrismServiceRegistrar](/patterns-practices/reference/defaultprismserviceregistrar-class-mspp-mefextensions) type exposes the following members.
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -25,9 +22,9 @@ The [DefaultPrismServiceRegistrar](/patterns-practices/reference/defaultprismser
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static.gif)</td>
-<td><a href="/patterns-practices/reference/defaultprismserviceregistrar-registerrequiredprismservicesifmissing-method-mspp-mefextensions">RegisterRequiredPrismServicesIfMissing</a></td>
+<td>[RegisterRequiredPrismServicesIfMissing](/patterns-practices/reference/defaultprismserviceregistrar-registerrequiredprismservicesifmissing-method-mspp-mefextensions)</td>
 <td><div class="summary">
-Registers the required Prism types that are not already registered in the <a href="http://msdn.microsoft.com/en-us/library/dd833165">AggregateCatalog</a>.
+Registers the required Prism types that are not already registered in the [AggregateCatalog](http://msdn.microsoft.com/en-us/library/dd833165).
 </div></td>
 </tr>
 </tbody>
