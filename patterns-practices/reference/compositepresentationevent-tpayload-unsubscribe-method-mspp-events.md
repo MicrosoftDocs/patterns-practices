@@ -27,9 +27,9 @@ ms:mtpsurl: 'compositepresentationevent-tpayload-unsubscribe-method-mspp-events.
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="https://msdn.microsoft.com/en-us/library/gg405773(v=pandp.50)">Unsubscribe(Action(Of TPayload))</a></td>
+<td>[Unsubscribe(Action(Of TPayload))](/patterns-practices/reference/compositepresentationevent-tpayload-unsubscribe-method-action-tpayload-mspp-events)</td>
 <td><div class="summary">
-Removes the first subscriber matching <a href="http://msdn.microsoft.com/en-us/library/018hxwa8">Action(Of T)</a> from the subscribers' list.
+Removes the first subscriber matching [Action(Of T)](http://msdn.microsoft.com/en-us/library/018hxwa8) from the subscribers' list.
 </div></td>
 </tr>
 </tbody>
@@ -37,6 +37,6 @@ Removes the first subscriber matching <a href="http://msdn.microsoft.com/en-us/l
 
 ## See Also
 
-[CompositePresentationEvent(Of TPayload) Class](https://msdn.microsoft.com/en-us/library/gg431412(v=pandp.50))<br/>
-[CompositePresentationEvent(Of TPayload) Members](https://msdn.microsoft.com/en-us/library/gg430765(v=pandp.50))<br/>
-[Microsoft.Practices.Prism.Events Namespace](https://msdn.microsoft.com/library/microsoft.practices.prism.events)<br/>
+[CompositePresentationEvent(Of TPayload) Class](/patterns-practices/reference/compositepresentationevent-tpayload-class-mspp-events)<br/> 
+[CompositePresentationEvent(Of TPayload) Members](/patterns-practices/reference/compositepresentationevent-tpayload-members-mspp-events)<br/>
+[Microsoft.Practices.Prism.Events Namespace](/patterns-practices/reference/mspp-events-namespace)<br/>
