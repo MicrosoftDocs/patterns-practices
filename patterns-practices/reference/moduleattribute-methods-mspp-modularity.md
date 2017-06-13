@@ -23,51 +23,51 @@ The [ModuleAttribute](/patterns-practices/reference/moduleattribute-class-mspp-m
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/09ds241w">Equals</a></td>
+<td>[Equals](http://msdn.microsoft.com/en-us/library/09ds241w)</td>
 <td><div class="summary">
 Returns a value that indicates whether this instance is equal to a specified object.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e8kc3626">Attribute</a>.)</td>
+(Inherited from [Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/365e1bxs">GetHashCode</a></td>
+<td>[GetHashCode](http://msdn.microsoft.com/en-us/library/365e1bxs)</td>
 <td><div class="summary">
 Returns the hash code for this instance.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e8kc3626">Attribute</a>.)</td>
+(Inherited from [Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/dfwy45w9">GetType</a></td>
+<td>[GetType](http://msdn.microsoft.com/en-us/library/dfwy45w9)</td>
 <td><div class="summary">
-Gets the <a href="http://msdn.microsoft.com/en-us/library/42892f65">Type</a> of the current instance.
+Gets the [Type](http://msdn.microsoft.com/en-us/library/42892f65) of the current instance.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/tbkb5x6t">IsDefaultAttribute</a></td>
+<td>[IsDefaultAttribute](http://msdn.microsoft.com/en-us/library/tbkb5x6t)</td>
 <td><div class="summary">
 When overridden in a derived class, indicates whether the value of this instance is the default value for the derived class.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e8kc3626">Attribute</a>.)</td>
+(Inherited from [Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626).)</td>
 </tr>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/wy7chz44">Match</a></td>
+<td>[Match](http://msdn.microsoft.com/en-us/library/wy7chz44)</td>
 <td><div class="summary">
 When overridden in a derived class, returns a value that indicates whether this instance equals a specified object.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e8kc3626">Attribute</a>.)</td>
+(Inherited from [Attribute](http://msdn.microsoft.com/en-us/library/e8kc3626).)</td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/7bxwbwt2">ToString</a></td>
+<td>[ToString](http://msdn.microsoft.com/en-us/library/7bxwbwt2)</td>
 <td><div class="summary">
 Returns a string that represents the current object.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/e5kfa45b">Object</a>.)</td>
+(Inherited from [Object](http://msdn.microsoft.com/en-us/library/e5kfa45b).)</td>
 </tr>
 </tbody>
 </table>

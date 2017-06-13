@@ -9,8 +9,10 @@ ms:mtpsurl: 'regionmanagerregistrationbehavior-regionmanageraccessor-property-ms
 
 Provides an abstraction on top of the RegionManager static members.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

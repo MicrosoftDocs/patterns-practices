@@ -33,6 +33,5 @@ A hash code for the current [Object](http://msdn2.microsoft.com/en-us/library/e5
 ## See Also
 
 [SubscriptionToken Class](/patterns-practices/reference/subscriptiontoken-class-mspp-pubsubevents)<br/>
-SubscriptionToken Members
-
+SubscriptionToken Members<br/>
 [Microsoft.Practices.Prism.PubSubEvents Namespace](/patterns-practices/reference/mspp-pubsubevents-namespace)
