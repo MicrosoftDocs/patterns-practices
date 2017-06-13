@@ -1,16 +1,19 @@
-﻿---
+---
 TOCTitle: 'RaisePropertyChanged Method (String)'
 Title: 'NotificationObject.RaisePropertyChanged Method (String) (Microsoft.Practices.Prism.ViewModel)'
 ms:assetid: 'M:Microsoft.Practices.Prism.ViewModel.NotificationObject.RaisePropertyChanged(System.String)'
 ms:mtpsurl: 'notificationobject-raisepropertychanged-method-mspp-viewmodel.md'
 ---
 
+
 # NotificationObject.RaisePropertyChanged Method (String)
 
 Raises this object's PropertyChanged event.
 
-**Namespace:** [Microsoft.Practices.Prism.ViewModel](/patterns-practices/reference/mspp-viewmodel-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.ViewModel](/patterns-practices/reference/mspp-viewmodel-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
@@ -29,8 +32,10 @@ Protected Overridable Sub RaisePropertyChanged (
 
 ### Parameters
 
-*propertyName*  
-Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)  
+*propertyName*
+
+Type: [System.String](http://msdn.microsoft.com/en-us/library/s1wwdcbf)
+
 The property that has a new value.
 
 ## See Also

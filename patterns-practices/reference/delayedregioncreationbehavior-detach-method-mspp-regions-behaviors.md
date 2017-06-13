@@ -10,8 +10,10 @@ ms:mtpsurl: 'delayedregioncreationbehavior-detach-method-mspp-regions-behaviors.
 
 Stop monitoring the [RegionManager](/patterns-practices/reference/regionmanager-class-mspp-regions) and the [TargetElement](/patterns-practices/reference/delayedregioncreationbehavior-targetelement-property-mspp-regions-behaviors), so that this behavior can be garbage collected.
 
-**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Regions.Behaviors](/patterns-practices/reference/mspp-regions-behaviors-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Composition (in Microsoft.Practices.Prism.Composition.dll)
+
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax
