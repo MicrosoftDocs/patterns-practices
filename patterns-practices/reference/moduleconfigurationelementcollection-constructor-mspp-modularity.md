@@ -10,10 +10,7 @@ ms:mtpsurl: 'moduleconfigurationelementcollection-constructor-mspp-modularity.md
 
 ## Overload List
 
-
- 
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -24,14 +21,13 @@ ms:mtpsurl: 'moduleconfigurationelementcollection-constructor-mspp-modularity.md
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleConfigurationElementCollection</td>
+<td>ModuleConfigurationElementCollection()</td>
 <td><div class="summary">
-Initializes a new instance of [ModuleConfigurationElementCollection](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity).
-</div></td>
+Initializes a new instance of [ModuleConfigurationElementCollection](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity).</div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleConfigurationElementCollection(ModuleConfigurationElement())</td>
+<td>ModuleConfigurationElementCollection(ModuleConfigurationElement[])</td>
 <td><div class="summary">
 Initializes a new [ModuleConfigurationElementCollection](/patterns-practices/reference/moduleconfigurationelementcollection-class-mspp-modularity).
 </div></td>

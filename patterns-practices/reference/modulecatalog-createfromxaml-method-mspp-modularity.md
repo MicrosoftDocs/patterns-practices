@@ -20,16 +20,16 @@ ms:mtpsurl: 'modulecatalog-createfromxaml-method-mspp-modularity.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-createfromxaml-method-stream-mspp-modularity">CreateFromXaml(Stream)</a></td>
+<td>[CreateFromXaml(Stream)](/patterns-practices/reference/modulecatalog-createfromxaml-method-stream-mspp-modularity)</td>
 <td><div class="summary">
-Creates a <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a> from XAML.
+Creates a [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) from XAML.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)![Static member](/patterns-practices/reference/images/static-member.gif)</td>
-<td><a href="/patterns-practices/reference/modulecatalog-createfromxaml-method-uri-mspp-modularity">CreateFromXaml(Uri)</a></td>
+<td>[CreateFromXaml(Uri)](/patterns-practices/reference/modulecatalog-createfromxaml-method-uri-mspp-modularity)</td>
 <td><div class="summary">
-Creates a <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a> from a XAML included as an Application Resource.
+Creates a [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) from a XAML included as an Application Resource.
 </div></td>
 </tr>
 </tbody>

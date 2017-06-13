@@ -10,9 +10,7 @@ ms:mtpsurl: 'createnewelement-mthd.md'
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -23,19 +21,19 @@ ms:mtpsurl: 'createnewelement-mthd.md'
 <tbody>
 <tr class="odd">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="/patterns-practices/reference/createnewelement-mthd">CreateNewElement</a></td>
+<td>[CreateNewElement()](/patterns-practices/reference/createnewelement-mthd)</td>
 <td><div class="summary">
-Creates a new <a href="/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity">ModuleConfigurationElement</a>.
+Creates a new [ModuleConfigurationElement](/patterns-practices/reference/moduleconfigurationelement-class-mspp-modularity).
 </div>
-(Overrides <a href="http://msdn.microsoft.com/en-us/library/ak7z48w8">ConfigurationElementCollection.CreateNewElement</a>.)</td>
+(Overrides [ConfigurationElementCollection.CreateNewElement()](http://msdn.microsoft.com/en-us/library/ak7z48w8).)</td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="http://msdn.microsoft.com/en-us/library/ky49faah">CreateNewElement(String)</a></td>
+<td>[CreateNewElement(String)](http://msdn.microsoft.com/en-us/library/ky49faah)</td>
 <td><div class="summary">
-Creates a new <a href="http://msdn.microsoft.com/en-us/library/kyx77cz3">ConfigurationElement</a> when overridden in a derived class.
+Creates a new [ConfigurationElement](http://msdn.microsoft.com/en-us/library/kyx77cz3) when overridden in a derived class.
 </div>
-(Inherited from <a href="http://msdn.microsoft.com/en-us/library/a35we8et">ConfigurationElementCollection</a>.)</td>
+(Inherited from [ConfigurationElementCollection](http://msdn.microsoft.com/en-us/library/a35we8et).)</td>
 </tr>
 </tbody>
 </table>

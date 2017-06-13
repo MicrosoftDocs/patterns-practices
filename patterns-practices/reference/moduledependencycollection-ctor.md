@@ -5,14 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleDependencyColle
 ms:mtpsurl: 'moduledependencycollection-constructor-mspp-modularity.md'
 ---
 
-
 # ModuleDependencyCollection Constructor
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -23,16 +20,16 @@ ms:mtpsurl: 'moduledependencycollection-constructor-mspp-modularity.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleDependencyCollection</td>
+<td>ModuleDependencyCollection()</td>
 <td><div class="summary">
-Initializes a new instance of <a href="/patterns-practices/reference/moduledependencycollection-class-mspp-modularity">ModuleDependencyCollection</a>.
+Initializes a new instance of [ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity)</a>.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleDependencyCollection(ModuleDependencyConfigurationElement())</td>
+<td>ModuleDependencyCollection(ModuleDependencyConfigurationElement[])</td>
 <td><div class="summary">
-Initializes a new instance of <a href="/patterns-practices/reference/moduledependencycollection-class-mspp-modularity">ModuleDependencyCollection</a>.
+Initializes a new instance of [ModuleDependencyCollection](/patterns-practices/reference/moduledependencycollection-class-mspp-modularity)</a>.
 </div></td>
 </tr>
 </tbody>
