@@ -5,16 +5,13 @@ ms:assetid: 'AllMembers.T:Microsoft.Practices.Prism.Logging.ILoggerFacade'
 ms:mtpsurl: 'iloggerfacade-members-mspp-logging.md'
 ---
 
-
 # ILoggerFacade Members
 
 The [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-logging) type exposes the following members.
 
 ## Methods
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -25,7 +22,7 @@ The [ILoggerFacade](/patterns-practices/reference/iloggerfacade-interface-mspp-l
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/iloggerfacade-log-method-mspp-logging">Log</a></td>
+<td>[Log](/patterns-practices/reference/iloggerfacade-log-method-mspp-logging)</td>
 <td><div class="summary">
 Write a new log entry with the specified category and priority.
 </div></td>
