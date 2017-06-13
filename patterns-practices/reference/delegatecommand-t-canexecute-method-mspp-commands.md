@@ -23,18 +23,18 @@ ms:mtpsurl: 'delegatecommand-t-canexecute-method-mspp-commands.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/delegatecommand-t-canexecute-method-t-mspp-commands">CanExecute(T)</a></td>
+<td>[CanExecute(T)](/patterns-practices/reference/delegatecommand-t-canexecute-method-t-mspp-commands)</td>
 <td><div class="summary">
-Determines if the command can execute by invoked the <a href="http://msdn.microsoft.com/en-us/library/bb549151">Func(Of T, TResult)</a> provided during construction.
+Determines if the command can execute by invoked the [Func(Of T, TResult)](http://msdn.microsoft.com/en-us/library/bb549151) provided during construction.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="/patterns-practices/reference/delegatecommand-t-canexecute-method-t-mspp-commands">CanExecute(Object)</a></td>
+<td>[CanExecute(Object)](/patterns-practices/reference/delegatecommand-t-canexecute-method-t-mspp-commands)</td>
 <td><div class="summary">
-Determines if the command can execute with the provided parameter by invoking the <a href="http://msdn.microsoft.com/en-us/library/bb549151">Func(Of T, TResult)</a> supplied during construction.
+Determines if the command can execute with the provided parameter by invoking the [Func(Of T, TResult)](http://msdn.microsoft.com/en-us/library/bb549151) supplied during construction.
 </div>
-(Inherited from <a href="/patterns-practices/reference/delegatecommandbase-class-mspp-commands">DelegateCommandBase</a>.)</td>
+(Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)</td>
 </tr>
 </tbody>
 </table>
