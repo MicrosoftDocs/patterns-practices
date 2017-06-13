@@ -128,7 +128,7 @@ This raises the [IsActiveChanged](/patterns-practices/reference/delegatecommandb
 <td><div class="summary">
 Raises [CanExecuteChanged](/patterns-practices/reference/delegatecommandbase-class-mspp-commands.canexecutechanged) on the UI thread so every command invoker can requery to check if the command can execute.
 <div>
-<h2 id="remarks">Remarks</h2>
+<h3 id="remarks">Remarks</h3>
 Note that this will trigger the execution of [CanExecute(Object)](/patterns-practices/reference/delegatecommandbase-class-mspp-commands) once for each invoker.
 </div>
 </div>
