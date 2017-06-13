@@ -21,18 +21,18 @@ ms:mtpsurl: 'delegatecommand-execute-method-mspp-commands.md'
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td><a href="/patterns-practices/reference/delegatecommand-execute-method-mspp-commands">Execute</a></td>
+<td>[Execute](/patterns-practices/reference/delegatecommand-execute-method-mspp-commands)</td>
 <td><div class="summary">
 Executes the command.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Protected method](/patterns-practices/reference/images/protmethod.gif)</td>
-<td><a href="/patterns-practices/reference/delegatecommandbase-execute-method-mspp-commands">Execute(Object)</a></td>
+<td>[Execute(Object)](/patterns-practices/reference/delegatecommandbase-execute-method-mspp-commands)</td>
 <td><div class="summary">
-Executes the command with the provided parameter by invoking the <a href="http://msdn2.microsoft.com/en-us/library/018hxwa8">Action(Of T)</a> supplied during construction.
+Executes the command with the provided parameter by invoking the [Action(Of T)](http://msdn2.microsoft.com/en-us/library/018hxwa8) supplied during construction.
 </div>
-(Inherited from <a href="/patterns-practices/reference/delegatecommandbase-class-mspp-commands">DelegateCommandBase</a>.)</td>
+(Inherited from [DelegateCommandBase](/patterns-practices/reference/delegatecommandbase-class-mspp-commands).)</td>
 </tr>
 </tbody>
 </table>
