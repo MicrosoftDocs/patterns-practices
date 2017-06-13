@@ -27,9 +27,9 @@ Public Class MefServiceLocatorAdapter
 
 ## Inheritance Hierarchy
 
-[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)</br>
-  ServiceLocatorImplBase<br/>
-    Microsoft.Practices.Prism.MefExtensions.MefServiceLocatorAdapter
+[System.Object](http://msdn.microsoft.com/en-us/library/e5kfa45b)<br/>
+ServiceLocatorImplBase<br/>
+Microsoft.Practices.Prism.MefExtensions.MefServiceLocatorAdapter
 
 ## See Also
 
