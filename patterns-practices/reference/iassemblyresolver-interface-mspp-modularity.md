@@ -22,23 +22,11 @@ Interface for classes that are responsible for resolving and loading assembly fi
 ```
 
 ```VB
-    public interface IAssemblyResolver
-```
-
-public interface IAssemblyResolverPublic Interface IAssemblyResolver
-
-public interface IAssemblyResolver
-
-
-```VB
 'Declaration
 Public Interface IAssemblyResolver
 ```
 
-
 ## See Also
 
 [IAssemblyResolver Members](/patterns-practices/reference/iassemblyresolver-members-mspp-modularity)<br/>
-
-[Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)
