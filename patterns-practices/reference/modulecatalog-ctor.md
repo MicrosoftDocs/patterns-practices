@@ -5,14 +5,11 @@ ms:assetid: 'Overload:Microsoft.Practices.Prism.Modularity.ModuleCatalog.\#ctor'
 ms:mtpsurl: 'modulecatalog-constructor-ienumerable-moduleinfo-mspp-modularity.md'
 ---
 
-
 # ModuleCatalog Constructor
 
 ## Overload List
 
-
 <table>
-
 <thead>
 <tr class="header">
 <th> </th>
@@ -23,16 +20,16 @@ ms:mtpsurl: 'modulecatalog-constructor-ienumerable-moduleinfo-mspp-modularity.md
 <tbody>
 <tr class="odd">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleCatalog</td>
+<td>ModuleCatalog()</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a> class.
+Initializes a new instance of the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) class.
 </div></td>
 </tr>
 <tr class="even">
 <td>![Public method](/patterns-practices/reference/images/public-method.gif)</td>
-<td>ModuleCatalog(IEnumerable(Of ModuleInfo))</td>
+<td>ModuleCatalog(IEnumerable&lt;Of ModuleInfo&gt;)</td>
 <td><div class="summary">
-Initializes a new instance of the <a href="/patterns-practices/reference/modulecatalog-class-mspp-modularity">ModuleCatalog</a> class while providing an initial list of <a href="/patterns-practices/reference/moduleinfo-class-mspp-modularity">ModuleInfo</a>s.
+Initializes a new instance of the [ModuleCatalog](/patterns-practices/reference/modulecatalog-class-mspp-modularity) class while providing an initial list of [ModuleInfo](/patterns-practices/reference/moduleinfo-class-mspp-modularity)s.
 </div></td>
 </tr>
 </tbody>
@@ -41,5 +38,5 @@ Initializes a new instance of the <a href="/patterns-practices/reference/modulec
 ## See Also
 
 [ModuleCatalog Class](/patterns-practices/reference/modulecatalog-class-mspp-modularity)<br/>
-[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-memb-mspp-modularity)<br/>
+[ModuleCatalog Members](/patterns-practices/reference/modulecatalog-members-mspp-modularity)<br/>
 [Microsoft.Practices.Prism.Modularity Namespace](/patterns-practices/reference/mspp-modularity-namespace)<br/>
