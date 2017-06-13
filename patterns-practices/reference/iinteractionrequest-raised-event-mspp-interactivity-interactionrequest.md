@@ -10,8 +10,10 @@ ms:mtpsurl: 'iinteractionrequest-raised-event-mspp-interactivity-interactionrequ
 
 Fired when the interaction is needed.
 
-**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)<br/>
-**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)<br/>
+**Namespace:** [Microsoft.Practices.Prism.Interactivity.InteractionRequest](/patterns-practices/reference/mspp-interactivity-interactionrequest-namespace)
+
+**Assembly:** Microsoft.Practices.Prism.Interactivity (in Microsoft.Practices.Prism.Interactivity.dll)
+
 **Version:** 5.0.0.0 (5.0.0.0)
 
 ## Syntax

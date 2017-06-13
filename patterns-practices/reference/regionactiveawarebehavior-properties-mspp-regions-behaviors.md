@@ -23,7 +23,7 @@ The [RegionActiveAwareBehavior](/patterns-practices/reference/regionactiveawareb
 <tbody>
 <tr class="odd">
 <td>![Public property](/patterns-practices/reference/images/pubproperty.gif)</td>
-<td><a href="https://msdn.microsoft.com/library/microsoft.practices.prism.regions.behaviors.regionactiveawarebehavior.region">Region</a></td>
+<td>[Region](/patterns-practices/reference/regionactiveawarebehavior-region-property-mspp-regions-behaviors)</td>
 <td><div class="summary">
 The region that this behavior is extending
 </div></td>
